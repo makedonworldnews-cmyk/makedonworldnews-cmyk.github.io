@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="mk">
+<head>
+  <meta charset="UTF-8">
+  <title>Makedon World News</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f4f6f8;
+      margin: 0;
+      padding: 0;
+    }
+    header {
+      background: #111;
+      color: #fff;
+      padding: 20px;
+      text-align: center;
+    }
+    .news {
+      padding: 20px;
+      max-width: 900px;
+      margin: auto;
+    }
+    .news-item {
+      background: #fff;
+      padding: 15px;
+      margin-bottom: 15px;
+      border-radius: 6px;
+    }
+    .news-item h3 {
+      margin-top: 0;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Makedon World News</h1>
+  <p>Trusted Global News Engine</p>
+</header>
+
+<div class="news" id="news-container">
+  <div class="news-item">
+    <h3>Добредојде, Санде</h3>
+    <p>Ова е твојот жив сајт. Следниот чекор е да додадеме вистински RSS вести.</p>
+  </div>
+</div>
+
+<script>
+  console.log("Makedon World News is live");
+</script>
+
+</body>
+</html>
