@@ -2,97 +2,48 @@
 <html lang="mk">
 <head>
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Makedon World News</title>
-  <meta name="description" content="Trusted Global News Engine – Macedonian product, planetary reach." />
-
-  <!-- PWA -->
-  <link rel="manifest" href="manifest.json" />
-  <meta name="theme-color" content="#1E6FFF" />
-
-  <!-- Basic Styles -->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <style>
-    :root {
-      --bg-light: #f7f9fb;
-      --bg-dark: #0e1116;
-      --text-light: #1c1e21;
-      --text-dark: #e4e6eb;
-      --accent: #1e6fff;
-      --card: #ffffff;
-    }
     body {
+      font-family: Arial, sans-serif;
       margin: 0;
-      font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto;
-      background: var(--bg-light);
-      color: var(--text-light);
+      background: #f5f5f5;
+      color: #222;
     }
     header {
-      display: flex;
-      align-items: center;
-      padding: 12px 16px;
-      background: #fff;
-      border-bottom: 1px solid #ddd;
-      position: sticky;
-      top: 0;
-      z-index: 10;
-    }
-    header img {
-      height: 36px;
-      margin-right: 10px;
-    }
-    nav a {
-      margin: 0 8px;
-      text-decoration: none;
-      color: #333;
-      font-weight: 500;
-    }
-    main {
-      max-width: 1100px;
-      margin: auto;
-      padding: 16px;
-    }
-    .controls {
-      display: flex;
-      gap: 10px;
-      flex-wrap: wrap;
-      margin-bottom: 12px;
-    }
-    select, button {
-      padding: 6px 10px;
-      border-radius: 6px;
-      border: 1px solid #ccc;
-      background: #fff;
-    }
-    .feed {
-      display: grid;
-      grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-      gap: 16px;
-    }
-    .card {
-      background: var(--card);
-      border-radius: 12px;
-      padding: 14px;
-      box-shadow: 0 4px 10px rgba(0,0,0,.05);
-    }
-    .card h3 {
-      margin: 0 0 6px;
-      font-size: 1.05rem;
-    }
-    .meta {
-      font-size: .8rem;
-      color: #666;
-    }
-    .pulse {
-      margin-top: 6px;
-      font-size: .75rem;
-      color: var(--accent);
-      font-weight: 600;
-    }
-    footer {
-      margin-top: 40px;
+      background: #111;
+      color: #fff;
       padding: 20px;
       text-align: center;
-      font-size: .85rem;
+    }
+    main {
+      padding: 20px;
+      max-width: 900px;
+      margin: auto;
+    }
+    h2 {
+      border-bottom: 2px solid #ddd;
+      padding-bottom: 5px;
+    }
+    ul {
+      list-style: none;
+      padding: 0;
+    }
+    li {
+      margin: 10px 0;
+    }
+    a {
+      text-decoration: none;
+      color: #0b5ed7;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    footer {
+      text-align: center;
+      padding: 20px;
+      font-size: 14px;
       color: #666;
     }
   </style>
@@ -101,118 +52,61 @@
 <body>
 
 <header>
-  <!-- LOGO (place your image here) -->
-  <img src="logo.png" alt="Makedon World News" />
-  <strong>Makedon World News</strong>
-  <nav style="margin-left:auto">
-    <a href="#">Latest</a>
-    <a href="#">Македонија</a>
-    <a href="#">Балкан</a>
-    <a href="#">Свет</a>
-    <a href="#">Бизнис</a>
-    <a href="#">Наука</a>
-    <a href="#">Спорт</a>
-  </nav>
+  <h1>🌍 Makedon World News</h1>
+  <p>Светски агрегатор на вести – македонски производ</p>
 </header>
 
 <main>
-  <!-- FILTERS -->
-  <div class="controls">
-    <select id="region">
-      <option value="all">🌍 Сите региони</option>
-      <option>Македонија</option>
-      <option>Балкан</option>
-      <option>Европа</option>
-      <option>Азија</option>
-      <option>Индија</option>
-      <option>Америка</option>
-      <option>Австралија</option>
-      <option>Океанија</option>
-      <option>Антарктик</option>
-    </select>
 
-    <select id="language">
-      <option value="mk">MK</option>
-      <option value="en">EN</option>
-      <option value="hi">HI</option>
-      <option value="ru">RU</option>
-      <option value="ar">AR</option>
-    </select>
+  <!-- FILTERS (идни надградби) -->
 
-    <button onclick="toggleTrust()">🛡 Trust Mode</button>
-  </div>
-
-  <!-- NEWS FEED -->
-  <section class="feed" id="feed">
-    <!-- Cards inserted dynamically -->
+  <section id="rss-test">
+    <h2>📰 Последни вести – Македонија</h2>
+    <ul id="rss-list">
+      <li>Вчитување вести...</li>
+    </ul>
   </section>
+
 </main>
 
 <footer>
-  © 2026 Makedon World News · Trusted Global News Engine  
-  <br />
-  Instagram · TikTok · X · YouTube  
-  <br />
-  Contact: makedonworldnews@gmail.com
+  © 2026 Makedon World News
 </footer>
 
-<!-- CORE SCRIPT -->
 <script>
-  const feedEl = document.getElementById("feed");
-  let trustMode = true;
+async function loadRSS() {
+  const feedUrl = encodeURIComponent("https://time.mk/rss");
+  const proxy = "https://api.allorigins.win/raw?url=" + feedUrl;
 
-  function toggleTrust() {
-    trustMode = !trustMode;
-    alert("Trust Mode: " + (trustMode ? "ON" : "OFF"));
-  }
+  try {
+    const res = await fetch(proxy);
+    const text = await res.text();
 
-  // MOCK LIVE FEED (replace with RSS/API)
-  function loadNews() {
-    feedEl.innerHTML = "";
-    const demoNews = [
-      {
-        title: "Global climate talks intensify",
-        source: "Reuters",
-        region: "World",
-        pulse: 92,
-        trust: "🟢"
-      },
-      {
-        title: "Economic growth forecast for Balkans",
-        source: "MIA",
-        region: "Балкан",
-        pulse: 76,
-        trust: "🟡"
-      },
-      {
-        title: "AI breakthrough in medical diagnostics",
-        source: "BBC",
-        region: "Science",
-        pulse: 88,
-        trust: "🟢"
-      }
-    ];
+    const parser = new DOMParser();
+    const xml = parser.parseFromString(text, "text/xml");
+    const items = xml.querySelectorAll("item");
 
-    demoNews.forEach(n => {
-      const card = document.createElement("div");
-      card.className = "card";
-      card.innerHTML = `
-        <h3>${n.title}</h3>
-        <div class="meta">${n.source} · ${n.region}</div>
-        <div class="pulse">Trust Pulse: ${n.pulse}/100 ${n.trust}</div>
-      `;
-      feedEl.appendChild(card);
+    const list = document.getElementById("rss-list");
+    list.innerHTML = "";
+
+    items.forEach((item, index) => {
+      if (index >= 7) return;
+
+      const title = item.querySelector("title")?.textContent || "Без наслов";
+      const link = item.querySelector("link")?.textContent || "#";
+
+      const li = document.createElement("li");
+      li.innerHTML = `<a href="${link}" target="_blank">${title}</a>`;
+      list.appendChild(li);
     });
-  }
 
-  // Refresh every 5 seconds
-  loadNews();
-  setInterval(loadNews, 5000);
-
-  // PWA Service Worker
-  if ("serviceWorker" in navigator) {
-    navigator.serviceWorker.register("sw.js");
+  } catch (e) {
+    document.getElementById("rss-list").innerHTML =
+      "<li>⚠️ Не успеа вчитување на RSS</li>";
   }
+}
+
+loadRSS();
 </script>
 
 </body>
