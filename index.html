@@ -18,6 +18,42 @@
       text-align: center;
     }
     main {
+      <section id="rss-test" style="padding:20px; background:#fff; border-radius:8px; margin-top:20px;">
+  <h2>📰 Latest World RSS News (Test)</h2>
+  <ul id="rss-test-list" style="list-style:none; padding:0;">
+    <li>Loading news...</li>
+  </ul>
+</section>
+
+<script>
+async function fetchRSS(url, listId) {
+  try {
+    const proxy = "https://api.allorigins.win/raw?url=";
+    const res = await fetch(proxy + encodeURIComponent(url));
+    const text = await res.text();
+    const parser = new DOMParser();
+    const xml = parser.parseFromString(text, "text/xml");
+    const items = xml.querySelectorAll("item");
+
+    const list = document.getElementById(listId);
+    list.innerHTML = "";
+    items.forEach((item, i) => {
+      if (i >= 5) return; // show top 5
+      const title = item.querySelector("title")?.textContent || "No title";
+      const link = item.querySelector("link")?.textContent || "#";
+      const li = document.createElement("li");
+      li.style.marginBottom = "10px";
+      li.innerHTML = `<a href="${link}" target="_blank">${title}</a>`;
+      list.appendChild(li);
+    });
+  } catch (e) {
+    document.getElementById(listId).innerHTML = "<li>Error loading RSS</li>";
+  }
+}
+
+fetchRSS("https://feeds.bbci.co.uk/news/world/rss.xml", "rss-test-list");
+</script>
+
       <section id="rss-aggregator" style="padding:20px; background:#fff; border-radius:8px; margin:20px 0;">
   <h2>📰 Makedon World News – Live RSS</h2>
   <div id="rss-content">Loading news…</div>
@@ -425,6 +461,7 @@ loadRSS();
 
 </body>
 </html>
+
 
 
 
