@@ -26,6 +26,30 @@
 </section>
 
 <script>
+fetch("https://api.rss2json.com/v1/api.json?rss_url=https://feeds.bbci.co.uk/news/world/rss.xml")
+  .then(res => res.json())
+  .then(data => {
+    const ul = document.getElementById("test-rss");
+    ul.innerHTML = "";
+    data.items.slice(0, 5).forEach(item => {
+      const li = document.createElement("li");
+      li.innerHTML = `<a href="${item.link}" target="_blank">${item.title}</a>`;
+      ul.appendChild(li);
+    });
+  })
+  .catch(err => {
+    document.getElementById("test-rss").innerHTML = "<li>Error loading RSS</li>";
+  });
+</script>
+
+      <section style="padding:20px; background:#fff; border-radius:8px; margin-bottom:20px;">
+  <h2>📰 Latest World RSS News (Test)</h2>
+  <ul id="test-rss" style="list-style:none; padding-left:0;">
+    <li>Loading...</li>
+  </ul>
+</section>
+
+<script>
 fetch("https://api.rss2json.com/v1/api.json?rss_url=https://feeds.bbci.co.uk/news/rss.xml")
   .then(res => res.json())
   .then(data => {
@@ -222,6 +246,7 @@ loadRSS();
 
 </body>
 </html>
+
 
 
 
