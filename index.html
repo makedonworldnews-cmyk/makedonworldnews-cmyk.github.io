@@ -105,6 +105,43 @@ fetch("https://api.rss2json.com/v1/api.json?rss_url=https://feeds.bbci.co.uk/new
 </header>
 
 <main>
+<section id="news-section" style="padding: 20px; background: #fff; border-radius: 8px; margin-top: 20px;">
+  <h2>📰 Latest World News (RSS Test)</h2>
+  <ul id="news-list" style="list-style: none; padding-left: 0;">
+    <li>Loading news...</li>
+  </ul>
+</section>
+
+<script>
+async function loadWorldRSS() {
+  const rssLink = "https://api.allorigins.win/raw?url=" + encodeURIComponent("https://feeds.bbci.co.uk/news/world/rss.xml");
+  try {
+    const response = await fetch(rssLink);
+    const xmlText = await response.text();
+    const parser = new DOMParser();
+    const xmlDoc = parser.parseFromString(xmlText, "text/xml");
+    const items = xmlDoc.querySelectorAll("item");
+
+    const newsList = document.getElementById("news-list");
+    newsList.innerHTML = "";
+
+    items.forEach((item, index) => {
+      if (index >= 5) return; // show top 5
+      const title = item.querySelector("title")?.textContent || "No title";
+      const link = item.querySelector("link")?.textContent || "#";
+
+      const li = document.createElement("li");
+      li.style.marginBottom = "12px";
+      li.innerHTML = `<strong>${title}</strong><br><a href="${link}" target="_blank">Read more</a>`;
+      newsList.appendChild(li);
+    });
+  } catch (err) {
+    document.getElementById("news-list").innerHTML = "<li>Error loading RSS</li>";
+  }
+}
+
+loadWorldRSS();
+</script>
 
   <!-- FILTERS (идни надградби) --><section id="rss-news" style="padding:20px">
   <h2>Latest News (RSS)</h2>
@@ -246,6 +283,7 @@ loadRSS();
 
 </body>
 </html>
+
 
 
 
