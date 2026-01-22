@@ -1,9 +1,10 @@
 <!DOCTYPE html>
 <html lang="mk">
 <head>
-  <meta charset="UTF-8" />
+  <meta charset="UTF-8">
   <title>Makedon World News</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
   <style>
     body {
       font-family: Arial, sans-serif;
@@ -18,250 +19,23 @@
       text-align: center;
     }
     main {
-      <section id="rss-test" style="padding:20px; background:#fff; border-radius:8px; margin-top:20px;">
-  <h2>📰 Latest World RSS News (Test)</h2>
-  <ul id="rss-test-list" style="list-style:none; padding:0;">
-    <li>Loading news...</li>
-  </ul>
-</section>
-
-<script>
-async function fetchRSS(url, listId) {
-  try {
-    const proxy = "https://api.allorigins.win/raw?url=";
-    const res = await fetch(proxy + encodeURIComponent(url));
-    const text = await res.text();
-    const parser = new DOMParser();
-    const xml = parser.parseFromString(text, "text/xml");
-    const items = xml.querySelectorAll("item");
-
-    const list = document.getElementById(listId);
-    list.innerHTML = "";
-    items.forEach((item, i) => {
-      if (i >= 5) return; // show top 5
-      const title = item.querySelector("title")?.textContent || "No title";
-      const link = item.querySelector("link")?.textContent || "#";
-      const li = document.createElement("li");
-      li.style.marginBottom = "10px";
-      li.innerHTML = `<a href="${link}" target="_blank">${title}</a>`;
-      list.appendChild(li);
-    });
-  } catch (e) {
-    document.getElementById(listId).innerHTML = "<li>Error loading RSS</li>";
-  }
-}
-
-fetchRSS("https://feeds.bbci.co.uk/news/world/rss.xml", "rss-test-list");
-</script>
-
-      <section id="rss-aggregator" style="padding:20px; background:#fff; border-radius:8px; margin:20px 0;">
-  <h2>📰 Makedon World News – Live RSS</h2>
-  <div id="rss-content">Loading news…</div>
-</section>
-
-<script>
-const RSS_GROUPS = [
-  {
-    title: "🇲🇰 Македонија",
-    feeds: [
-      { name: "МИА", url: "https://mia.mk/rss" },
-      { name: "Makfax", url: "https://makfax.com.mk/feed/" },
-      { name: "NetPress", url: "https://netpress.com.mk/feed/" }
-    ]
-  },
-  {
-    title: "🌍 Балкан",
-    feeds: [
-      { name: "N1", url: "https://n1info.hr/rss" },
-      { name: "B92", url: "https://www.b92.net/rss/" }
-    ]
-  },
-  {
-    title: "🌎 Свет",
-    feeds: [
-      { name: "BBC", url: "https://feeds.bbci.co.uk/news/world/rss.xml" },
-      { name: "Al Jazeera", url: "https://www.aljazeera.com/xml/rss/all.xml" },
-      { name: "Reuters", url: "https://www.reutersagency.com/feed/?best-topics=top-news&post_type=best" }
-    ]
-  }
-];
-
-const container = document.getElementById("rss-content");
-container.innerHTML = "";
-
-async function loadFeed(feed, groupTitle) {
-  const proxy = "https://api.allorigins.win/raw?url=";
-  try {
-    const res = await fetch(proxy + encodeURIComponent(feed.url));
-    const text = await res.text();
-    const xml = new DOMParser().parseFromString(text, "text/xml");
-    const items = xml.querySelectorAll("item");
-
-    items.forEach((item, index) => {
-      if (index >= 2) return;
-      const title = item.querySelector("title")?.textContent || "";
-      const link = item.querySelector("link")?.textContent || "#";
-
-      const div = document.createElement("div");
-      div.style.margin = "8px 0";
-      div.innerHTML = `<strong>[${feed.name}]</strong> ${title}<br>
-        <a href="${link}" target="_blank">Read more</a>`;
-      container.appendChild(div);
-    });
-  } catch (e) {
-    const err = document.createElement("div");
-    err.textContent = `⚠️ Не може да се вчита ${feed.name}`;
-    container.appendChild(err);
-  }
-}
-
-RSS_GROUPS.forEach(group => {
-  const h3 = document.createElement("h3");
-  h3.textContent = group.title;
-  h3.style.marginTop = "20px";
-  container.appendChild(h3);
-
-  group.feeds.forEach(feed => loadFeed(feed, group.title));
-});
-</script>
-
-      <section id="rss-aggregator" style="padding:20px; background:#fff; border-radius:8px; margin:20px 0;">
-  <h2>📰 Makedon World News – Live RSS</h2>
-  <div id="rss-content">Loading news…</div>
-</section>
-
-<script>
-const RSS_GROUPS = [
-  {
-    title: "🇲🇰 Македонија",
-    feeds: [
-      { name: "МИА", url: "https://mia.mk/rss" },
-      { name: "Makfax", url: "https://makfax.com.mk/feed/" },
-      { name: "NetPress", url: "https://netpress.com.mk/feed/" }
-    ]
-  },
-  {
-    title: "🌍 Балкан",
-    feeds: [
-      { name: "N1", url: "https://n1info.hr/rss" },
-      { name: "B92", url: "https://www.b92.net/rss/" }
-    ]
-  },
-  {
-    title: "🌎 Свет",
-    feeds: [
-      { name: "BBC", url: "https://feeds.bbci.co.uk/news/world/rss.xml" },
-      { name: "Al Jazeera", url: "https://www.aljazeera.com/xml/rss/all.xml" },
-      { name: "Reuters", url: "https://www.reutersagency.com/feed/?best-topics=top-news&post_type=best" }
-    ]
-  }
-];
-
-const container = document.getElementById("rss-content");
-container.innerHTML = "";
-
-async function loadFeed(feed, groupTitle) {
-  const proxy = "https://api.allorigins.win/raw?url=";
-  try {
-    const res = await fetch(proxy + encodeURIComponent(feed.url));
-    const text = await res.text();
-    const xml = new DOMParser().parseFromString(text, "text/xml");
-    const items = xml.querySelectorAll("item");
-
-    items.forEach((item, index) => {
-      if (index >= 2) return;
-      const title = item.querySelector("title")?.textContent || "";
-      const link = item.querySelector("link")?.textContent || "#";
-
-      const div = document.createElement("div");
-      div.style.margin = "8px 0";
-      div.innerHTML = `<strong>[${feed.name}]</strong> ${title}<br>
-        <a href="${link}" target="_blank">Read more</a>`;
-      container.appendChild(div);
-    });
-  } catch (e) {
-    const err = document.createElement("div");
-    err.textContent = `⚠️ Не може да се вчита ${feed.name}`;
-    container.appendChild(err);
-  }
-}
-
-RSS_GROUPS.forEach(group => {
-  const h3 = document.createElement("h3");
-  h3.textContent = group.title;
-  h3.style.marginTop = "20px";
-  container.appendChild(h3);
-
-  group.feeds.forEach(feed => loadFeed(feed, group.title));
-});
-</script>
-
-      <section style="padding:20px; background:#fff; border-radius:8px; margin-bottom:20px;">
-  <h2>📰 Latest World RSS News (Test)</h2>
-  <ul id="test-rss" style="list-style:none; padding-left:0;">
-    <li>Loading...</li>
-  </ul>
-</section>
-
-<script>
-fetch("https://api.rss2json.com/v1/api.json?rss_url=https://feeds.bbci.co.uk/news/world/rss.xml")
-  .then(res => res.json())
-  .then(data => {
-    const ul = document.getElementById("test-rss");
-    ul.innerHTML = "";
-    data.items.slice(0, 5).forEach(item => {
-      const li = document.createElement("li");
-      li.innerHTML = `<a href="${item.link}" target="_blank">${item.title}</a>`;
-      ul.appendChild(li);
-    });
-  })
-  .catch(err => {
-    document.getElementById("test-rss").innerHTML = "<li>Error loading RSS</li>";
-  });
-</script>
-
-      <section style="padding:20px; background:#fff; border-radius:8px; margin-bottom:20px;">
-  <h2>📰 Latest World RSS News (Test)</h2>
-  <ul id="test-rss" style="list-style:none; padding-left:0;">
-    <li>Loading...</li>
-  </ul>
-</section>
-
-<script>
-fetch("https://api.rss2json.com/v1/api.json?rss_url=https://feeds.bbci.co.uk/news/rss.xml")
-  .then(res => res.json())
-  .then(data => {
-    const ul = document.getElementById("test-rss");
-    ul.innerHTML = "";
-    data.items.slice(0, 5).forEach(item => {
-      const li = document.createElement("li");
-      li.innerHTML = `<a href="${item.link}" target="_blank">${item.title}</a>`;
-      ul.appendChild(li);
-    });
-  })
-  .catch(err => {
-    document.getElementById("test-rss").innerHTML = "<li>Error loading RSS</li>";
-  });
-</script>
-
-      padding: 20px;
       max-width: 900px;
       margin: auto;
+      padding: 20px;
+    }
+    section {
+      background: #fff;
+      padding: 20px;
+      margin-bottom: 20px;
+      border-radius: 8px;
     }
     h2 {
       border-bottom: 2px solid #ddd;
       padding-bottom: 5px;
     }
-    ul {
-      list-style: none;
-      padding: 0;
-    }
-    li {
-      margin: 10px 0;
-    }
     a {
-      text-decoration: none;
       color: #0b5ed7;
+      text-decoration: none;
     }
     a:hover {
       text-decoration: underline;
@@ -269,7 +43,6 @@ fetch("https://api.rss2json.com/v1/api.json?rss_url=https://feeds.bbci.co.uk/new
     footer {
       text-align: center;
       padding: 20px;
-      font-size: 14px;
       color: #666;
     }
   </style>
@@ -282,72 +55,38 @@ fetch("https://api.rss2json.com/v1/api.json?rss_url=https://feeds.bbci.co.uk/new
   <p>Светски агрегатор на вести – македонски производ</p>
 </header>
 
+<main>
+
 <section>
-<section id="news-section" style="padding: 20px; background: #fff; border-radius: 8px; margin-top: 20px;">
-  <h2>📰 Latest World News (RSS Test)</h2>
-  <ul id="news-list" style="list-style: none; padding-left: 0;">
-    <li>Loading news...</li>
-  </ul>
+  <h2>📰 Вести во живо</h2>
+  <div id="news-container">Вчитување вести…</div>
 </section>
 
-<script>
-async function loadWorldRSS() {
-  const rssLink = "https://api.allorigins.win/raw?url=" + encodeURIComponent("https://feeds.bbci.co.uk/news/world/rss.xml");
-  try {
-    const response = await fetch(rssLink);
-    const xmlText = await response.text();
-    const parser = new DOMParser();
-    const xmlDoc = parser.parseFromString(xmlText, "text/xml");
-    const items = xmlDoc.querySelectorAll("item");
+</main>
 
-    const newsList = document.getElementById("news-list");
-    newsList.innerHTML = "";
-
-    items.forEach((item, index) => {
-      if (index >= 5) return; // show top 5
-      const title = item.querySelector("title")?.textContent || "No title";
-      const link = item.querySelector("link")?.textContent || "#";
-
-      const li = document.createElement("li");
-      li.style.marginBottom = "12px";
-      li.innerHTML = `<strong>${title}</strong><br><a href="${link}" target="_blank">Read more</a>`;
-      newsList.appendChild(li);
-    });
-  } catch (err) {
-    document.getElementById("news-list").innerHTML = "<li>Error loading RSS</li>";
-  }
-}
-
-loadWorldRSS();
-</script>
-
-  <!-- FILTERS (идни надградби) --><section id="rss-news" style="padding:20px">
-  <h2>Latest News (RSS)</h2>
-  <div id="news-container">Loading news...</div>
-</section>
+<footer>
+  © 2026 Makedon World News
+</footer>
 
 <script>
 const RSS_SOURCES = [
   {
-    region: "Македонија",
-    sources: [
+    title: "🇲🇰 Македонија",
+    feeds: [
       { name: "МИА", url: "https://mia.mk/rss" },
-      { name: "Makfax", url: "https://makfax.com.mk/feed/" },
-      { name: "NetPress", url: "https://netpress.com.mk/feed/" }
+      { name: "Makfax", url: "https://makfax.com.mk/feed/" }
     ]
   },
   {
-    region: "Балкан",
-    sources: [
-      { name: "N1", url: "https://n1info.hr/rss" },
-      { name: "B92", url: "https://www.b92.net/rss/" }
+    title: "🌍 Балкан",
+    feeds: [
+      { name: "N1", url: "https://n1info.hr/rss" }
     ]
   },
   {
-    region: "Свет",
-    sources: [
-      { name: "BBC", url: "https://feeds.bbci.co.uk/news/rss.xml" },
-      { name: "Al Jazeera", url: "https://www.aljazeera.com/xml/rss/all.xml" }
+    title: "🌎 Свет",
+    feeds: [
+      { name: "BBC", url: "https://feeds.bbci.co.uk/news/world/rss.xml" }
     ]
   }
 ];
@@ -355,117 +94,37 @@ const RSS_SOURCES = [
 const container = document.getElementById("news-container");
 container.innerHTML = "";
 
-RSS_SOURCES.forEach(group => {
-  const h3 = document.createElement("h3");
-  h3.textContent = "🌍 " + group.region;
-  container.appendChild(h3);
-
-  group.sources.forEach(src => {
-    const url = "https://api.rss2json.com/v1/api.json?rss_url=" + encodeURIComponent(src.url);
-
-    fetch(url)
-      .then(res => res.json())
-      .then(data => {
-        data.items.slice(0, 2).forEach(item => {
-          const div = document.createElement("div");
-          div.style.marginBottom = "10px";
-          div.innerHTML = `
-            <strong>[${src.name}]</strong> ${item.title}<br>
-            <a href="${item.link}" target="_blank">Read more</a>
-          `;
-          container.appendChild(div);
-        });
-      })
-      .catch(() => {
-        const err = document.createElement("div");
-        err.textContent = `⚠️ Не може да се вчита ${src.name}`;
-        container.appendChild(err);
-      });
-  });
-});
-</script>
-
-const rssUrl = "https://api.rss2json.com/v1/api.json?rss_url=https://feeds.bbci.co.uk/news/world/rss.xml";
-
-fetch(rssUrl)
-  .then(response => response.json())
-  .then(data => {
-    const container = document.getElementById("news-container");
-    container.innerHTML = "";
-
-    data.items.slice(0, 3).forEach(item => {
-      const article = document.createElement("div");
-      article.style.marginBottom = "15px";
-      article.innerHTML = `
-        <strong>${item.title}</strong><br>
-        <small>${item.pubDate}</small><br>
-        <a href="${item.link}" target="_blank">Read more</a>
-      `;
-      container.appendChild(article);
-    });
-  })
-  .catch(() => {
-    document.getElementById("news-container").innerText = "Failed to load RSS feed.";
-  });
-</script>
-
-
-  <section id="rss-test">
-    <h2>📰 Последни вести – Македонија</h2>
-    <ul id="rss-list">
-      <li>Вчитување вести...</li>
-    </ul>
-  </section>
-
-</section>
-
-<footer>
-  © 2026 Makedon World News
-</footer>
-
-<script>
-async function loadRSS() {
-  const feedUrl = encodeURIComponent("https://time.mk/rss");
-  const proxy = "https://api.allorigins.win/raw?url=" + feedUrl;
-
-  try {
-    const res = await fetch(proxy);
-    const text = await res.text();
-
-    const parser = new DOMParser();
-    const xml = parser.parseFromString(text, "text/xml");
-    const items = xml.querySelectorAll("item");
-
-    const list = document.getElementById("rss-list");
-    list.innerHTML = "";
-
-    items.forEach((item, index) => {
-      if (index >= 7) return;
-
-      const title = item.querySelector("title")?.textContent || "Без наслов";
-      const link = item.querySelector("link")?.textContent || "#";
-
-      const li = document.createElement("li");
-      li.innerHTML = `<a href="${link}" target="_blank">${title}</a>`;
-      list.appendChild(li);
-    });
-
-  } catch (e) {
-    document.getElementById("rss-list").innerHTML =
-      "<li>⚠️ Не успеа вчитување на RSS</li>";
-  }
+async function loadFeed(feed) {
+  const proxy = "https://api.allorigins.win/raw?url=";
+  const res = await fetch(proxy + encodeURIComponent(feed.url));
+  const text = await res.text();
+  const xml = new DOMParser().parseFromString(text, "text/xml");
+  return Array.from(xml.querySelectorAll("item")).slice(0, 3);
 }
 
-loadRSS();
+(async () => {
+  for (const group of RSS_SOURCES) {
+    const h3 = document.createElement("h3");
+    h3.textContent = group.title;
+    container.appendChild(h3);
+
+    for (const feed of group.feeds) {
+      try {
+        const items = await loadFeed(feed);
+        items.forEach(item => {
+          const div = document.createElement("div");
+          div.style.marginBottom = "10px";
+          div.innerHTML = `<strong>[${feed.name}]</strong> ${item.querySelector("title").textContent}<br>
+            <a href="${item.querySelector("link").textContent}" target="_blank">Прочитај повеќе</a>`;
+          container.appendChild(div);
+        });
+      } catch {
+        container.innerHTML += `<div>⚠️ Не може да се вчита ${feed.name}</div>`;
+      }
+    }
+  }
+})();
 </script>
 
 </body>
 </html>
-
-
-
-
-
-
-
-
