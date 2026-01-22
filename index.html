@@ -96,29 +96,68 @@ const RSS_SOURCES = [
 
 // Функција за вчитување RSS со proxy
 async function loadFeed(feed) {
-  const proxy = "https://api.allorigins.win/raw?url=";
-  try {
-    const res = await fetch(proxy + encodeURIComponent(feed.url));
-    const text = await res.text();
-    const xml = new DOMParser().parseFromString(text, "text/xml");
-    return Array.from(xml.querySelectorAll("item")).slice(0, 3);
-  } catch {
-    return [];
+<script>
+const RSS_SOURCES = [
+  {
+    title: "🇲🇰 Македонија",
+    feeds: [
+      { name: "МИА", url: "https://mia.mk/rss" },
+      { name: "Makfax", url: "https://makfax.com.mk/feed/" },
+      { name: "NetPress", url: "https://netpress.com.mk/feed/" }
+    ]
+  },
+  {
+    title: "🌍 Балкан",
+    feeds: [
+      { name: "N1", url: "https://n1info.hr/rss" },
+      { name: "B92", url: "https://www.b92.net/rss/" }
+    ]
+  },
+  {
+    title: "🌎 Свет",
+    feeds: [
+      { name: "BBC", url: "https://feeds.bbci.co.uk/news/world/rss.xml" },
+      { name: "Al Jazeera", url: "https://www.aljazeera.com/xml/rss/all.xml" }
+    ]
   }
-}
+];
 
 const container = document.getElementById("news-container");
 container.innerHTML = "";
 
-(async () => {
-  for (const group of RSS_SOURCES) {
-    const h3 = document.createElement("h3");
-    h3.textContent = group.title;
-    container.appendChild(h3);
+RSS_SOURCES.forEach(group => {
+  const h3 = document.createElement("h3");
+  h3.textContent = group.title;
+  container.appendChild(h3);
 
-    for (const feed of group.feeds) {
-      try {
-        const items = await loadFeed(feed);
+  group.feeds.forEach(feed => {
+    const api =
+      "https://api.rss2json.com/v1/api.json?rss_url=" +
+      encodeURIComponent(feed.url);
+
+    fetch(api)
+      .then(res => res.json())
+      .then(data => {
+        data.items.slice(0, 3).forEach(item => {
+          const div = document.createElement("div");
+          div.style.marginBottom = "10px";
+          div.innerHTML = `
+            <strong>[${feed.name}]</strong> ${item.title}<br>
+            <a href="${item.link}" target="_blank">Прочитај повеќе</a>
+          `;
+          container.appendChild(div);
+        });
+      })
+      .catch(() => {
+        const err = document.createElement("div");
+        err.textContent = `⚠️ Не може да се вчита ${feed.name}`;
+        container.appendChild(err);
+      });
+  });
+});
+</script>
+
+  
         if (items.length === 0) {
           const errDiv = document.createElement("div");
           errDiv.textContent = `⚠️ Не може да се вчита ${feed.name}`;
@@ -147,3 +186,4 @@ container.innerHTML = "";
 
 </body>
 </html>
+
