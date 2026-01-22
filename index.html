@@ -64,6 +64,64 @@
 </section>
 
 <script>
+const RSS_SOURCES = [
+  {
+    region: "Македонија",
+    sources: [
+      { name: "МИА", url: "https://mia.mk/rss" },
+      { name: "Makfax", url: "https://makfax.com.mk/feed/" },
+      { name: "NetPress", url: "https://netpress.com.mk/feed/" }
+    ]
+  },
+  {
+    region: "Балкан",
+    sources: [
+      { name: "N1", url: "https://n1info.hr/rss" },
+      { name: "B92", url: "https://www.b92.net/rss/" }
+    ]
+  },
+  {
+    region: "Свет",
+    sources: [
+      { name: "BBC", url: "https://feeds.bbci.co.uk/news/rss.xml" },
+      { name: "Al Jazeera", url: "https://www.aljazeera.com/xml/rss/all.xml" }
+    ]
+  }
+];
+
+const container = document.getElementById("news-container");
+container.innerHTML = "";
+
+RSS_SOURCES.forEach(group => {
+  const h3 = document.createElement("h3");
+  h3.textContent = "🌍 " + group.region;
+  container.appendChild(h3);
+
+  group.sources.forEach(src => {
+    const url = "https://api.rss2json.com/v1/api.json?rss_url=" + encodeURIComponent(src.url);
+
+    fetch(url)
+      .then(res => res.json())
+      .then(data => {
+        data.items.slice(0, 2).forEach(item => {
+          const div = document.createElement("div");
+          div.style.marginBottom = "10px";
+          div.innerHTML = `
+            <strong>[${src.name}]</strong> ${item.title}<br>
+            <a href="${item.link}" target="_blank">Read more</a>
+          `;
+          container.appendChild(div);
+        });
+      })
+      .catch(() => {
+        const err = document.createElement("div");
+        err.textContent = `⚠️ Не може да се вчита ${src.name}`;
+        container.appendChild(err);
+      });
+  });
+});
+</script>
+
 const rssUrl = "https://api.rss2json.com/v1/api.json?rss_url=https://feeds.bbci.co.uk/news/world/rss.xml";
 
 fetch(rssUrl)
@@ -140,4 +198,5 @@ loadRSS();
 
 </body>
 </html>
+
 
