@@ -97,25 +97,19 @@ const RSS_SOURCES = [
 // Функција за вчитување RSS со proxy
 async function loadFeed(feed) {
 <script>
+<script>
 const RSS_SOURCES = [
   {
-    title: "🇲🇰 Македонија",
-    feeds: [
+    region: "Македонија",
+    sources: [
       { name: "МИА", url: "https://mia.mk/rss" },
       { name: "Makfax", url: "https://makfax.com.mk/feed/" },
       { name: "NetPress", url: "https://netpress.com.mk/feed/" }
     ]
   },
   {
-    title: "🌍 Балкан",
-    feeds: [
-      { name: "N1", url: "https://n1info.hr/rss" },
-      { name: "B92", url: "https://www.b92.net/rss/" }
-    ]
-  },
-  {
-    title: "🌎 Свет",
-    feeds: [
+    region: "Свет",
+    sources: [
       { name: "BBC", url: "https://feeds.bbci.co.uk/news/world/rss.xml" },
       { name: "Al Jazeera", url: "https://www.aljazeera.com/xml/rss/all.xml" }
     ]
@@ -127,10 +121,10 @@ container.innerHTML = "";
 
 RSS_SOURCES.forEach(group => {
   const h3 = document.createElement("h3");
-  h3.textContent = group.title;
+  h3.textContent = "🌍 " + group.region;
   container.appendChild(h3);
 
-  group.feeds.forEach(feed => {
+  group.sources.forEach(feed => {
     const api =
       "https://api.rss2json.com/v1/api.json?rss_url=" +
       encodeURIComponent(feed.url);
@@ -138,6 +132,13 @@ RSS_SOURCES.forEach(group => {
     fetch(api)
       .then(res => res.json())
       .then(data => {
+        if (!data.items || data.items.length === 0) {
+          const errDiv = document.createElement("div");
+          errDiv.textContent = `⚠️ Нема вести од ${feed.name}`;
+          container.appendChild(errDiv);
+          return;
+        }
+
         data.items.slice(0, 3).forEach(item => {
           const div = document.createElement("div");
           div.style.marginBottom = "10px";
@@ -149,9 +150,9 @@ RSS_SOURCES.forEach(group => {
         });
       })
       .catch(() => {
-        const err = document.createElement("div");
-        err.textContent = `⚠️ Не може да се вчита ${feed.name}`;
-        container.appendChild(err);
+        const errDiv = document.createElement("div");
+        errDiv.textContent = `⚠️ Грешка со ${feed.name}`;
+        container.appendChild(errDiv);
       });
   });
 });
@@ -186,4 +187,5 @@ RSS_SOURCES.forEach(group => {
 
 </body>
 </html>
+
 
