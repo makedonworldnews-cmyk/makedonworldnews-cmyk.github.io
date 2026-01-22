@@ -58,7 +58,7 @@
 <main>
 
 <section>
-  <h2>📰 Вести во живо</h2>
+  <h2>📰 Вести во живо (RSS)</h2>
   <div id="news-container">Вчитување вести…</div>
 </section>
 
@@ -69,117 +69,69 @@
 </footer>
 
 <script>
-const RSS_SOURCES = [
+const RSS_FEEDS = [
   {
-    title: "🇲🇰 Македонија",
-    feeds: [
-      { name: "МИА", url: "https://mia.mk/rss" },
-      { name: "Makfax", url: "https://makfax.com.mk/feed/" },
-      { name: "NetPress", url: "https://netpress.com.mk/feed/" }
+    title: "Македонија",
+    urls: [
+      "https://mia.mk/rss",
+      "https://makfax.com.mk/feed/",
+      "https://netpress.com.mk/feed/"
     ]
   },
   {
-    title: "🌍 Балкан",
-    feeds: [
-      { name: "N1", url: "https://n1info.hr/rss" },
-      { name: "B92", url: "https://www.b92.net/rss/" }
+    title: "Балкан",
+    urls: [
+      "https://n1info.hr/rss",
+      "https://www.b92.net/rss/"
     ]
   },
   {
-    title: "🌎 Свет",
-    feeds: [
-      { name: "BBC", url: "https://feeds.bbci.co.uk/news/world/rss.xml" },
-      { name: "Al Jazeera", url: "https://www.aljazeera.com/xml/rss/all.xml" }
+    title: "Свет",
+    urls: [
+      "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "https://www.aljazeera.com/xml/rss/all.xml"
     ]
   }
 ];
 
-// Функција за вчитување RSS со proxy
-async function loadFeed(feed) {
-<script>
-<script>
-const RSS_SOURCES = [
-  {
-    region: "Македонија",
-    sources: [
-      { name: "МИА", url: "https://mia.mk/rss" },
-      { name: "Makfax", url: "https://makfax.com.mk/feed/" },
-      { name: "NetPress", url: "https://netpress.com.mk/feed/" }
-    ]
-  },
-  {
-    region: "Свет",
-    sources: [
-      { name: "BBC", url: "https://feeds.bbci.co.uk/news/world/rss.xml" },
-      { name: "Al Jazeera", url: "https://www.aljazeera.com/xml/rss/all.xml" }
-    ]
+async function fetchFeed(url) {
+  const proxy = "https://api.rss2json.com/v1/api.json?rss_url=";
+  try {
+    const res = await fetch(proxy + encodeURIComponent(url));
+    return await res.json();
+  } catch {
+    return null;
   }
-];
+}
 
 const container = document.getElementById("news-container");
 container.innerHTML = "";
 
-RSS_SOURCES.forEach(group => {
-  const h3 = document.createElement("h3");
-  h3.textContent = "🌍 " + group.region;
-  container.appendChild(h3);
+(async () => {
+  for (const group of RSS_FEEDS) {
+    const h3 = document.createElement("h3");
+    h3.textContent = group.title;
+    container.appendChild(h3);
 
-  group.sources.forEach(feed => {
-    const api =
-      "https://api.rss2json.com/v1/api.json?rss_url=" +
-      encodeURIComponent(feed.url);
+    for (const url of group.urls) {
+      const data = await fetchFeed(url);
 
-    fetch(api)
-      .then(res => res.json())
-      .then(data => {
-        if (!data.items || data.items.length === 0) {
-          const errDiv = document.createElement("div");
-          errDiv.textContent = `⚠️ Нема вести од ${feed.name}`;
-          container.appendChild(errDiv);
-          return;
-        }
-
-        data.items.slice(0, 3).forEach(item => {
-          const div = document.createElement("div");
-          div.style.marginBottom = "10px";
-          div.innerHTML = `
-            <strong>[${feed.name}]</strong> ${item.title}<br>
-            <a href="${item.link}" target="_blank">Прочитај повеќе</a>
-          `;
-          container.appendChild(div);
-        });
-      })
-      .catch(() => {
+      if (!data || !data.items) {
         const errDiv = document.createElement("div");
-        errDiv.textContent = `⚠️ Грешка со ${feed.name}`;
+        errDiv.textContent = `⚠️ Нема вести за ${url}`;
         container.appendChild(errDiv);
-      });
-  });
-});
-</script>
-
-  
-        if (items.length === 0) {
-          const errDiv = document.createElement("div");
-          errDiv.textContent = `⚠️ Не може да се вчита ${feed.name}`;
-          container.appendChild(errDiv);
-        } else {
-          items.forEach(item => {
-            const title = item.querySelector("title")?.textContent || "";
-            const link = item.querySelector("link")?.textContent || "#";
-
-            const div = document.createElement("div");
-            div.style.marginBottom = "10px";
-            div.innerHTML = `<strong>[${feed.name}]</strong> ${title}<br>
-              <a href="${link}" target="_blank">Прочитај повеќе</a>`;
-            container.appendChild(div);
-          });
-        }
-      } catch (e) {
-        const errDiv = document.createElement("div");
-        errDiv.textContent = `⚠️ Грешка со ${feed.name}`;
-        container.appendChild(errDiv);
+        continue;
       }
+
+      data.items.slice(0, 3).forEach(item => {
+        const div = document.createElement("div");
+        div.style.marginBottom = "10px";
+        div.innerHTML = `
+          <strong>${item.title}</strong><br>
+          <a href="${item.link}" target="_blank">Прочитај повеќе</a>
+        `;
+        container.appendChild(div);
+      });
     }
   }
 })();
@@ -187,5 +139,3 @@ RSS_SOURCES.forEach(group => {
 
 </body>
 </html>
-
-
