@@ -58,7 +58,36 @@
 
 <main>
 
-  <!-- FILTERS (идни надградби) -->
+  <!-- FILTERS (идни надградби) --><section id="rss-news" style="padding:20px">
+  <h2>Latest News (RSS)</h2>
+  <div id="news-container">Loading news...</div>
+</section>
+
+<script>
+const rssUrl = "https://api.rss2json.com/v1/api.json?rss_url=https://feeds.bbci.co.uk/news/world/rss.xml";
+
+fetch(rssUrl)
+  .then(response => response.json())
+  .then(data => {
+    const container = document.getElementById("news-container");
+    container.innerHTML = "";
+
+    data.items.slice(0, 3).forEach(item => {
+      const article = document.createElement("div");
+      article.style.marginBottom = "15px";
+      article.innerHTML = `
+        <strong>${item.title}</strong><br>
+        <small>${item.pubDate}</small><br>
+        <a href="${item.link}" target="_blank">Read more</a>
+      `;
+      container.appendChild(article);
+    });
+  })
+  .catch(() => {
+    document.getElementById("news-container").innerText = "Failed to load RSS feed.";
+  });
+</script>
+
 
   <section id="rss-test">
     <h2>📰 Последни вести – Македонија</h2>
@@ -111,3 +140,4 @@ loadRSS();
 
 </body>
 </html>
+
