@@ -37,9 +37,6 @@
       color: #0b5ed7;
       text-decoration: none;
     }
-    a:hover {
-      text-decoration: underline;
-    }
     footer {
       text-align: center;
       padding: 20px;
@@ -56,49 +53,15 @@
 </header>
 
 <main>
-
-<section>
-  <h2>📰 Вести во живо (RSS)</h2>
-  <div id="news-container">Вчитување вести…</div>
-</section>
-
+  <section>
+    <h2>📰 Вести во живо</h2>
+    <div id="news-container">Вчитување на вести…</div>
+  </section>
 </main>
 
 <footer>
   © 2026 Makedon World News
 </footer>
-
-<script>
-const RSS_FEEDS = [
-  {
-    title: "Македонија",
-    urls: [
-      "https://mia.mk/rss",
-      "https://makfax.com.mk/feed/",
-      "https://netpress.com.mk/feed/"
-    ]
-  },
-  {
-    title: "Балкан",
-    urls: [
-      "https://n1info.hr/rss",
-      "https://www.b92.net/rss/"
-    ]
-  },
-  {
-    title: "Свет",
-    urls: [
-      "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "https://www.aljazeera.com/xml/rss/all.xml"
-    ]
-  }
-];
-
-async function fetchFeed(url) {
-  <section id="rss-news" style="padding:20px">
-  <h2>📰 Вести во живо</h2>
-  <div id="news-container">Вчитување на вести...</div>
-</section>
 
 <script>
 const RSS_SOURCES = [
@@ -157,4 +120,3 @@ RSS_SOURCES.forEach(group => {
 
 </body>
 </html>
-
