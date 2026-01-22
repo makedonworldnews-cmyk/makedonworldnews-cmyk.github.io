@@ -95,47 +95,66 @@ const RSS_FEEDS = [
 ];
 
 async function fetchFeed(url) {
-  const proxy = "https://api.rss2json.com/v1/api.json?rss_url=";
-  try {
-    const res = await fetch(proxy + encodeURIComponent(url));
-    return await res.json();
-  } catch {
-    return null;
+  <section id="rss-news" style="padding:20px">
+  <h2>📰 Вести во живо</h2>
+  <div id="news-container">Вчитување на вести...</div>
+</section>
+
+<script>
+const RSS_SOURCES = [
+  {
+    region: "Македонија",
+    sources: [
+      { name: "МИА", url: "https://mia.mk/rss" },
+      { name: "Makfax", url: "https://makfax.com.mk/feed/" },
+      { name: "NetPress", url: "https://netpress.com.mk/feed/" }
+    ]
+  },
+  {
+    region: "Свет",
+    sources: [
+      { name: "BBC", url: "https://feeds.bbci.co.uk/news/world/rss.xml" },
+      { name: "Al Jazeera", url: "https://www.aljazeera.com/xml/rss/all.xml" }
+    ]
   }
-}
+];
 
 const container = document.getElementById("news-container");
-container.innerHTML = "";
 
-(async () => {
-  for (const group of RSS_FEEDS) {
-    const h3 = document.createElement("h3");
-    h3.textContent = group.title;
-    container.appendChild(h3);
+RSS_SOURCES.forEach(group => {
+  const h3 = document.createElement("h3");
+  h3.textContent = "🌍 " + group.region;
+  container.appendChild(h3);
 
-    for (const url of group.urls) {
-      const data = await fetchFeed(url);
+  group.sources.forEach(src => {
+    const api =
+      "https://api.rss2json.com/v1/api.json?rss_url=" +
+      encodeURIComponent(src.url);
 
-      if (!data || !data.items) {
-        const errDiv = document.createElement("div");
-        errDiv.textContent = `⚠️ Нема вести за ${url}`;
-        container.appendChild(errDiv);
-        continue;
-      }
+    fetch(api)
+      .then(res => res.json())
+      .then(data => {
+        if (!data.items) return;
 
-      data.items.slice(0, 3).forEach(item => {
-        const div = document.createElement("div");
-        div.style.marginBottom = "10px";
-        div.innerHTML = `
-          <strong>${item.title}</strong><br>
-          <a href="${item.link}" target="_blank">Прочитај повеќе</a>
-        `;
-        container.appendChild(div);
+        data.items.slice(0, 3).forEach(item => {
+          const div = document.createElement("div");
+          div.style.marginBottom = "10px";
+          div.innerHTML = `
+            <strong>[${src.name}]</strong> ${item.title}<br>
+            <a href="${item.link}" target="_blank">Прочитај повеќе</a>
+          `;
+          container.appendChild(div);
+        });
+      })
+      .catch(() => {
+        const err = document.createElement("div");
+        err.textContent = `⚠️ Не може да се вчита ${src.name}`;
+        container.appendChild(err);
       });
-    }
-  }
-})();
+  });
+});
 </script>
 
 </body>
 </html>
+
