@@ -4,77 +4,80 @@
 <meta charset="UTF-8">
 <title>Makedon World News</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Makedon World News – светски агрегатор на вести, македонски производ со глобален фокус.">
 
 <style>
-body { font-family: Arial, sans-serif; margin:0; background:#f5f5f5; }
-header { background:#111; color:#fff; padding:20px; text-align:center; }
-main { max-width:900px; margin:auto; padding:20px; }
-section { background:#fff; padding:20px; border-radius:8px; }
-h2 { border-bottom:2px solid #ddd; padding-bottom:5px; }
+body { font-family: Arial, sans-serif; margin:0; background:#f5f5f5; color:#222; }
+header { background:#111; color:#fff; padding:24px; text-align:center; }
+main { max-width:1000px; margin:auto; padding:20px; }
+section { background:#fff; padding:20px; margin-bottom:20px; border-radius:10px; }
+h2 { margin-top:0; border-bottom:2px solid #eee; padding-bottom:6px; }
+ul { list-style:none; padding:0; }
+li { margin:8px 0; }
 a { color:#0b5ed7; text-decoration:none; }
 a:hover { text-decoration:underline; }
-footer { text-align:center; padding:20px; color:#666; }
+footer { text-align:center; padding:20px; color:#777; font-size:14px; }
+.badge { font-size:12px; color:#888; margin-top:8px; }
 </style>
 </head>
 
 <body>
 
 <header>
-<h1>🌍 Makedon World News</h1>
-<p>Светски агрегатор на вести – македонски производ</p>
+  <h1>🌍 Makedon World News</h1>
+  <p>Светски агрегатор на вести – македонски производ</p>
 </header>
 
 <main>
+
 <section>
-<h2>📰 Вести во живо</h2>
-<div id="news-container">Вчитување на вести…</div>
+  <h2>🇲🇰 Македонија</h2>
+  <ul>
+    <li><a href="https://mia.mk" target="_blank">МИА</a></li>
+    <li><a href="https://makfax.com.mk" target="_blank">Makfax</a></li>
+    <li><a href="https://netpress.com.mk" target="_blank">NetPress</a></li>
+  </ul>
 </section>
+
+<section>
+  <h2>🌍 Балкан</h2>
+  <ul>
+    <li><a href="https://n1info.hr" target="_blank">N1</a></li>
+    <li><a href="https://www.b92.net" target="_blank">B92</a></li>
+  </ul>
+</section>
+
+<section>
+  <h2>🌎 Свет</h2>
+  <ul>
+    <li><a href="https://www.bbc.com/news" target="_blank">BBC News</a></li>
+    <li><a href="https://www.aljazeera.com" target="_blank">Al Jazeera</a></li>
+    <li><a href="https://www.reuters.com" target="_blank">Reuters</a></li>
+  </ul>
+</section>
+
+<section>
+  <h2>🌏 Азија</h2>
+  <ul>
+    <li><a href="https://timesofindia.indiatimes.com" target="_blank">Times of India</a></li>
+    <li><a href="https://www.scmp.com" target="_blank">South China Morning Post</a></li>
+  </ul>
+</section>
+
+<section>
+  <h2>🌊 Океанија</h2>
+  <ul>
+    <li><a href="https://www.abc.net.au/news" target="_blank">ABC Australia</a></li>
+    <li><a href="https://www.rnz.co.nz/news" target="_blank">RNZ New Zealand</a></li>
+  </ul>
+</section>
+
 </main>
 
 <footer>
-© 2026 Makedon World News
+  © 2026 Makedon World News  
+  <div class="badge">Aggregated links • Sources shown • No content altered</div>
 </footer>
-
-<script>
-const RSS_SOURCES = [
-  {
-    name: "МИА",
-    url: "https://api.rss2json.com/v1/api.json?rss_url=https://mia.mk/rss"
-  },
-  {
-    name: "Makfax",
-    url: "https://api.rss2json.com/v1/api.json?rss_url=https://makfax.com.mk/feed/"
-  },
-  {
-    name: "BBC",
-    url: "https://api.rss2json.com/v1/api.json?rss_url=https://feeds.bbci.co.uk/news/world/rss.xml"
-  }
-];
-
-const container = document.getElementById("news-container");
-container.innerHTML = "";
-
-RSS_SOURCES.forEach(src => {
-  fetch(src.url)
-    .then(res => res.json())
-    .then(data => {
-      if (!data.items) return;
-
-      data.items.slice(0,3).forEach(item => {
-        const div = document.createElement("div");
-        div.style.marginBottom = "10px";
-        div.innerHTML = `<strong>[${src.name}]</strong> ${item.title}
-        <br><a href="${item.link}" target="_blank">Прочитај повеќе</a>`;
-        container.appendChild(div);
-      });
-    })
-    .catch(() => {
-      const err = document.createElement("div");
-      err.textContent = `⚠️ Не може да се вчита ${src.name}`;
-      container.appendChild(err);
-    });
-});
-</script>
 
 </body>
 </html>
