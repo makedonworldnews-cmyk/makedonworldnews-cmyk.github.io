@@ -61,7 +61,10 @@ Aggregated news • Sources shown • No content altered
 <main>
   <section>
     <h2>📰 Вести во живо</h2>
-    <div id="news-container">Вчитување на вести…</div>
+    <div id="news-container">
+  <p style="color:#666;">Вестите се вчитуваат… ако не се појават веднаш, освежи ја страната.</p>
+</div>
+
   </section>
 </main>
 
@@ -123,8 +126,23 @@ RSS_SOURCES.forEach(group => {
   });
 });
 </script>
+setTimeout(() => {
+  if (container.children.length === 0) {
+    container.innerHTML = `
+      <p>⚠️ Вестите моментално не се достапни преку автоматскиот фид.</p>
+      <p>👉 Посети директно:</p>
+      <ul>
+        <li><a href="https://mia.mk" target="_blank">МИА</a></li>
+        <li><a href="https://makfax.com.mk" target="_blank">Makfax</a></li>
+        <li><a href="https://www.bbc.com/news" target="_blank">BBC News</a></li>
+        <li><a href="https://www.aljazeera.com" target="_blank">Al Jazeera</a></li>
+      </ul>
+    `;
+  }
+}, 4000);
 
 </body>
 </html>
+
 
 
