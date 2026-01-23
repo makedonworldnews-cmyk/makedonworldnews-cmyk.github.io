@@ -1,148 +1,80 @@
 <!DOCTYPE html>
 <html lang="mk">
 <head>
-  <meta charset="UTF-8">
-  <title>Makedon World News</title>
-  <meta name="description" content="Makedon World News е светски агрегатор на вести – македонски производ со глобален фокус. Вести од Македонија, Балканот и светот во живо.">
+<meta charset="UTF-8">
+<title>Makedon World News</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      margin: 0;
-      background: #f5f5f5;
-      color: #222;
-    }
-    header {
-      background: #111;
-      color: #fff;
-      padding: 20px;
-      text-align: center;
-    }
-    main {
-      max-width: 900px;
-      margin: auto;
-      padding: 20px;
-    }
-    section {
-      background: #fff;
-      padding: 20px;
-      margin-bottom: 20px;
-      border-radius: 8px;
-    }
-    h2 {
-      border-bottom: 2px solid #ddd;
-      padding-bottom: 5px;
-    }
-    a {
-      color: #0b5ed7;
-      text-decoration: none;
-    }
-    footer {
-      <p style="font-size:12px;color:#888;">
-Aggregated news • Sources shown • No content altered
-</p>
-
-      text-align: center;
-      padding: 20px;
-      color: #666;
-    }
-  </style>
+<style>
+body { font-family: Arial, sans-serif; margin:0; background:#f5f5f5; }
+header { background:#111; color:#fff; padding:20px; text-align:center; }
+main { max-width:900px; margin:auto; padding:20px; }
+section { background:#fff; padding:20px; border-radius:8px; }
+h2 { border-bottom:2px solid #ddd; padding-bottom:5px; }
+a { color:#0b5ed7; text-decoration:none; }
+a:hover { text-decoration:underline; }
+footer { text-align:center; padding:20px; color:#666; }
+</style>
 </head>
 
 <body>
 
 <header>
-  <h1>🌍 Makedon World News</h1>
-  <p>Светски агрегатор на вести – македонски производ</p>
+<h1>🌍 Makedon World News</h1>
+<p>Светски агрегатор на вести – македонски производ</p>
 </header>
 
 <main>
-  <section>
-    <h2>📰 Вести во живо</h2>
-    <div id="news-container">
-  <p style="color:#666;">Вестите се вчитуваат… ако не се појават веднаш, освежи ја страната.</p>
-</div>
-
-  </section>
+<section>
+<h2>📰 Вести во живо</h2>
+<div id="news-container">Вчитување на вести…</div>
+</section>
 </main>
 
 <footer>
-  © 2026 Makedon World News
+© 2026 Makedon World News
 </footer>
 
 <script>
 const RSS_SOURCES = [
   {
-    region: "Македонија",
-    sources: [
-      { name: "МИА", url: "https://mia.mk/rss" },
-      { name: "Makfax", url: "https://makfax.com.mk/feed/" },
-      { name: "NetPress", url: "https://netpress.com.mk/feed/" }
-    ]
+    name: "МИА",
+    url: "https://api.rss2json.com/v1/api.json?rss_url=https://mia.mk/rss"
   },
   {
-    region: "Свет",
-    sources: [
-      { name: "BBC", url: "https://feeds.bbci.co.uk/news/world/rss.xml" },
-      { name: "Al Jazeera", url: "https://www.aljazeera.com/xml/rss/all.xml" }
-    ]
+    name: "Makfax",
+    url: "https://api.rss2json.com/v1/api.json?rss_url=https://makfax.com.mk/feed/"
+  },
+  {
+    name: "BBC",
+    url: "https://api.rss2json.com/v1/api.json?rss_url=https://feeds.bbci.co.uk/news/world/rss.xml"
   }
 ];
 
 const container = document.getElementById("news-container");
+container.innerHTML = "";
 
-RSS_SOURCES.forEach(group => {
-  const h3 = document.createElement("h3");
-  h3.textContent = "🌍 " + group.region;
-  container.appendChild(h3);
+RSS_SOURCES.forEach(src => {
+  fetch(src.url)
+    .then(res => res.json())
+    .then(data => {
+      if (!data.items) return;
 
-  group.sources.forEach(src => {
-    const api =
-      "https://api.rss2json.com/v1/api.json?rss_url=" +
-      encodeURIComponent(src.url);
-
-    fetch(api)
-      .then(res => res.json())
-      .then(data => {
-        if (!data.items) return;
-
-        data.items.slice(0, 3).forEach(item => {
-          const div = document.createElement("div");
-          div.style.marginBottom = "10px";
-          div.innerHTML = `
-            <strong>[${src.name}]</strong> ${item.title}<br>
-            <a href="${item.link}" target="_blank">Прочитај повеќе</a>
-          `;
-          container.appendChild(div);
-        });
-      })
-      .catch(() => {
-        const err = document.createElement("div");
-        err.textContent = `⚠️ Не може да се вчита ${src.name}`;
-        container.appendChild(err);
+      data.items.slice(0,3).forEach(item => {
+        const div = document.createElement("div");
+        div.style.marginBottom = "10px";
+        div.innerHTML = `<strong>[${src.name}]</strong> ${item.title}
+        <br><a href="${item.link}" target="_blank">Прочитај повеќе</a>`;
+        container.appendChild(div);
       });
-  });
+    })
+    .catch(() => {
+      const err = document.createElement("div");
+      err.textContent = `⚠️ Не може да се вчита ${src.name}`;
+      container.appendChild(err);
+    });
 });
 </script>
-setTimeout(() => {
-  if (container.children.length === 0) {
-    container.innerHTML = `
-      <p>⚠️ Вестите моментално не се достапни преку автоматскиот фид.</p>
-      <p>👉 Посети директно:</p>
-      <ul>
-        <li><a href="https://mia.mk" target="_blank">МИА</a></li>
-        <li><a href="https://makfax.com.mk" target="_blank">Makfax</a></li>
-        <li><a href="https://www.bbc.com/news" target="_blank">BBC News</a></li>
-        <li><a href="https://www.aljazeera.com" target="_blank">Al Jazeera</a></li>
-      </ul>
-    `;
-  }
-}, 4000);
 
 </body>
 </html>
-
-
-
