@@ -1,6 +1,78 @@
 <!DOCTYPE html>
 <html lang="mk">
 <head>
+  <style>
+/* GENERAL */
+body {
+  margin: 0;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Ubuntu, sans-serif;
+  line-height: 1.6;
+}
+
+/* HEADER */
+header {
+  text-align: center;
+  padding: 20px 16px 10px;
+}
+
+header img {
+  max-width: 220px;
+  width: 100%;
+  height: auto;
+  border-radius: 12px;
+}
+
+/* SITE TITLE */
+.site-title {
+  font-size: 2.6em;
+  font-weight: 700;
+  margin: 12px 0 6px;
+}
+
+/* TAGLINE */
+.site-tagline {
+  font-size: 1.05em;
+  color: #333;
+  margin-bottom: 16px;
+}
+
+/* CONTENT */
+section {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 20px 16px;
+}
+
+/* TRUST BOX */
+.trust-box {
+  background: #fff;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  padding: 20px;
+  margin-top: 30px;
+}
+
+/* FOOTER */
+footer {
+  background: #111;
+  color: #eee;
+  text-align: center;
+  padding: 30px 16px;
+  font-size: 0.9em;
+}
+
+/* MOBILE POLISH */
+@media (max-width: 600px) {
+  .site-title {
+    font-size: 2em;
+  }
+
+  header img {
+    max-width: 180px;
+  }
+}
+</style>
+
   <meta charset="UTF-8">
   <title>Makedon World News</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -21,10 +93,11 @@
      alt="Makedon World News – независен агрегатор на вести"
      style="max-width:220px; height:auto; border-radius:12px;">
 <h1 style="font-size:2.6em; margin:10px 0;">
-  🌍 Makedon World News
-</h1>
+<h1 class="site-title">🌍 Makedon World News</h1>
+<p class="site-tagline">
+  Независен агрегатор на вести од Македонија, Балканот, Европа и светот.
+</p>
 
-  </p>
 <section id="about" style="background:#fff; color:#222; max-width:900px; margin:40px auto; padding:25px; border-radius:8px;">
 
   <h2>🛡️ About / Mission</h2>
@@ -80,11 +153,11 @@
   </p>
 
 </section>
-
-
+<section class="trust-box">
   <h2>🔐 Доверба & Транспарентност</h2>
+  <p>...</p>
+</section>
 
-  <p>
     <strong>Makedon World News</strong> е независен агрегатор на вести од Македонија,
     Балканот, Европа и светот.
   </p>
@@ -198,6 +271,7 @@
 <p style="font-size:0.8em; color:#777;">
   © 2026 Makedon World News. All rights reserved.
 </p>
+
 
 
 
