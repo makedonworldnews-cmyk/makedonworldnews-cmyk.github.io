@@ -298,10 +298,100 @@ the Republic of North Macedonia, covering the Balkans, Europe, and the world.
   <div id="rss-feed"></div>
 </section>
 
-    <h2 style>📰 Вести</h2 style>
-    <p>🚀 Платформата е LIVE.</p>
-    <p>RSS системот се активира во следната фаза.</p>
-  </section>
+<script>
+document.addEventListener("DOMContentLoaded", () => {
+  const FEEDS = [
+    {
+      region: "Македонија",
+      sources: [
+        { name: "МИА", url: "https://mia.mk/rss" },
+        { name: "Makfax", url: "https://makfax.com.mk/feed/" },
+        { name: "NetPress", url: "https://netpress.com.mk/feed/" }
+      ]
+    },
+    {
+      region: "Свет",
+      sources: [
+        { name: "BBC", url: "https://feeds.bbci.co.uk/news/world/rss.xml" },
+        { name: "Al Jazeera", url: "https://www.aljazeera.com/xml/rss/all.xml" }
+      ]
+    }
+  ];
+
+  const feedEl = document.getElementById("rss-feed");
+  const statusEl = document.getElementById("rss-status");
+
+  if (!feedEl || !statusEl) return;
+
+  // CORS proxy (works well for GH Pages)
+  const proxy = (u) => "https://api.allorigins.win/raw?url=" + encodeURIComponent(u);
+
+  function renderItem(srcName, item) {
+    const div = document.createElement("div");
+    div.style.marginBottom = "12px";
+    div.innerHTML = `
+      <strong>[${srcName}]</strong> ${item.title}<br>
+      <a href="${item.link}" target="_blank" rel="noopener">Прочитај повеќе</a>
+    `;
+    return div;
+  }
+
+  async function fetchRss(url) {
+    const res = await fetch(proxy(url), { cache: "no-store" });
+    if (!res.ok) throw new Error("HTTP " + res.status);
+
+    const xmlText = await res.text();
+    const doc = new DOMParser().parseFromString(xmlText, "text/xml");
+
+    // RSS item nodes
+    const items = Array.from(doc.querySelectorAll("item")).slice(0, 4);
+
+    return items.map((it) => ({
+      title: (it.querySelector("title")?.textContent || "").trim(),
+      link: (it.querySelector("link")?.textContent || "").trim()
+    })).filter(x => x.title && x.link);
+  }
+
+  async function loadFeeds() {
+    feedEl.innerHTML = "";
+    statusEl.textContent = "Вчитување…";
+
+    let total = 0;
+
+    for (const group of FEEDS) {
+      const h3 = document.createElement("h3");
+      h3.textContent = "🌍 " + group.region;
+      h3.style.marginTop = "18px";
+      feedEl.appendChild(h3);
+
+      for (const src of group.sources) {
+        try {
+          const items = await fetchRss(src.url);
+          if (!items.length) continue;
+
+          items.forEach(item => {
+            feedEl.appendChild(renderItem(src.name, item));
+            total++;
+          });
+        } catch (e) {
+          const err = document.createElement("div");
+          err.style.color = "#ffb3b3";
+          err.style.fontSize = "0.9em";
+          err.textContent = `⚠️ Не може да се вчита ${src.name}`;
+          feedEl.appendChild(err);
+        }
+      }
+    }
+
+    statusEl.textContent = total ? "Ажурирано." : "Нема вчитани вести (провери извори).";
+  }
+
+  loadFeeds();
+  // освежување на 10 минути (стабилно)
+  setInterval(loadFeeds, 10 * 60 * 1000);
+});
+</script>
+
 </main>
 🚀 Makedon World News е LIVE
 Независен македонски агрегатор
@@ -338,6 +428,7 @@ the Republic of North Macedonia, covering the Balkans, Europe, and the world.
 
   </div>
 </footer>
+
 
 
 
