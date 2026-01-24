@@ -94,6 +94,67 @@ footer {
     footer { text-align:center; padding:20px; color:#666; }
   </style>
 </head>
+<script>
+const FEEDS = [
+  {
+    region: "Македонија",
+    sources: [
+      { name: "МИА", url: "https://mia.mk/rss" },
+      { name: "Makfax", url: "https://makfax.com.mk/feed/" }
+    ]
+  },
+  {
+    region: "Свет",
+    sources: [
+      { name: "BBC", url: "https://feeds.bbci.co.uk/news/world/rss.xml" },
+      { name: "Al Jazeera", url: "https://www.aljazeera.com/xml/rss/all.xml" }
+    ]
+  }
+];
+
+const feedEl = document.getElementById("rss-feed");
+const statusEl = document.getElementById("rss-status");
+
+async function loadFeeds() {
+  feedEl.innerHTML = "";
+  statusEl.textContent = "Вчитување…";
+
+  for (const group of FEEDS) {
+    const h3 = document.createElement("h3");
+    h3.textContent = "🌍 " + group.region;
+    feedEl.appendChild(h3);
+
+    for (const src of group.sources) {
+      const api = "https://api.rss2json.com/v1/api.json?rss_url=" + encodeURIComponent(src.url);
+      try {
+        const res = await fetch(api);
+        const data = await res.json();
+        if (!data.items) continue;
+
+        data.items.slice(0, 4).forEach(item => {
+          const div = document.createElement("div");
+          div.style.marginBottom = "10px";
+          div.innerHTML = `
+            <strong>[${src.name}]</strong> ${item.title}<br>
+            <a href="${item.link}" target="_blank">Прочитај повеќе</a>
+          `;
+          feedEl.appendChild(div);
+        });
+      } catch (e) {
+        const err = document.createElement("div");
+        err.style.color = "#a00";
+        err.textContent = `⚠️ Не може да се вчита ${src.name}`;
+        feedEl.appendChild(err);
+      }
+    }
+  }
+  statusEl.textContent = "Ажурирано.";
+}
+
+loadFeeds();
+// освежување на 10 минути
+setInterval(loadFeeds, 10 * 60 * 1000);
+</script>
 
 <body>
 
@@ -229,6 +290,13 @@ the Republic of North Macedonia, covering the Balkans, Europe, and the world.
     but provides a structured and accessible overview for global audiences.
   </p>
 </section>
+<section id="rss" style="max-width:900px; margin:40px auto; padding:20px;">
+  <h2>📰 Вести во живо</h2>
+  <div id="rss-status" style="font-size:0.9em; color:#666; margin-bottom:10px;">
+    Се вчитуваат вести…
+  </div>
+  <div id="rss-feed"></div>
+</section>
 
     <h2 style>📰 Вести</h2 style>
     <p>🚀 Платформата е LIVE.</p>
@@ -270,6 +338,7 @@ the Republic of North Macedonia, covering the Balkans, Europe, and the world.
 
   </div>
 </footer>
+
 
 
 
