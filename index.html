@@ -1,475 +1,277 @@
 <!DOCTYPE html>
 <html lang="mk">
 <head>
-  <style>
-/* GENERAL */
-body {
-  margin: 0;
-  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Ubuntu, sans-serif;
-  line-height: 1.6;
-}
-
-/* HEADER */
-   .header-separator {
-  height: 1px;
-  background: #e0e0e0;
-  max-width: 900px;
-  margin: 20px auto 30px;
-}
- 
-
-
-header {
-  text-align: center;
-  padding: 20px 16px 10px;
-}
-
-header img {
-  max-width: 220px;
-  width: 100%;
-  height: auto;
-  border-radius: 12px;
-}
-
-/* SITE TITLE */
-.site-title {
-  font-size: 2.6em;
-  font-weight: 700;
-  margin: 12px 0 6px;
-}
-
-/* TAGLINE */
-.site-tagline {
-  font-size: 1.05em;
-  color: #333;
-  margin-bottom: 16px;
-}
-
-/* CONTENT */
-section {
-  max-width: 900px;
-  margin: 0 auto;
-  padding: 20px 16px;
-}
-
-/* TRUST BOX */
-.trust-box {
-  background: #fff;
-  border: 1px solid #ddd;
-  border-radius: 10px;
-  padding: 20px;
-  margin-top: 30px;
-}
-
-/* FOOTER */
-footer {
-  background: #111;
-  color: #eee;
-  text-align: center;
-  padding: 30px 16px;
-  font-size: 0.9em;
-}
-
-/* MOBILE POLISH */
-@media (max-width: 600px) {
-  .site-title {
-    font-size: 2em;
-  }
-
-  header img {
-    max-width: 180px;
-  }
-}
-</style>
-
-  <meta charset="UTF-8">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Makedon World News</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
   <style>
-    body { font-family: Arial, sans-serif; margin:0; background:#f5f5f5; }
-    header { background:#111; color:#fff; padding:20px; text-align:center; }
-    main { max-width:900px; margin:auto; padding:20px; }
-    section { background:#fff; padding:20px; margin-bottom:20px; border-radius:8px; }
-    footer { text-align:center; padding:20px; color:#666; }
+    body{
+      margin:0;
+      font-family:system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Ubuntu,sans-serif;
+      line-height:1.6;
+      background:#f5f5f5;
+      color:#222;
+    }
+
+    header{
+      background:#111;
+      color:#fff;
+      text-align:center;
+      padding:22px 16px 16px;
+    }
+
+    header img{
+      max-width:220px;
+      width:100%;
+      height:auto;
+      border-radius:12px;
+    }
+
+    .site-title{
+      font-size:2.6em;
+      font-weight:700;
+      margin:12px 0 6px;
+    }
+
+    .site-tagline{
+      font-size:1.05em;
+      color:#ddd;
+      margin:0;
+    }
+
+    .container{
+      max-width:900px;
+      margin:0 auto;
+      padding:0 16px;
+    }
+
+    section{
+      background:#fff;
+      border-radius:10px;
+      padding:22px;
+      margin:18px auto;
+      box-shadow:0 1px 0 rgba(0,0,0,0.04);
+    }
+
+    .trust{
+      background:#111;
+      color:#fff;
+    }
+    .trust hr{
+      opacity:0.25;
+    }
+
+    h2{ margin:0 0 12px; }
+    h3{ margin:18px 0 10px; }
+
+    a{ color:#0b5ed7; text-decoration:none; }
+    a:hover{ text-decoration:underline; }
+
+    .rss-item{ margin:10px 0 14px; }
+    .rss-item strong{ display:inline-block; margin-bottom:2px; }
+
+    footer{
+      background:#111;
+      color:#eee;
+      padding:32px 16px;
+      margin-top:40px;
+      text-align:center;
+      font-size:0.95em;
+    }
+
+    .footer-links a{
+      color:#eee;
+      text-decoration:none;
+      margin:0 10px;
+      display:inline-block;
+      padding:6px 0;
+    }
+    .footer-links a:hover{ text-decoration:underline; }
+
+    .footer-divider{
+      height:1px;
+      background:#2a2a2a;
+      margin:18px auto;
+      max-width:520px;
+    }
+
+    @media (max-width:600px){
+      .site-title{ font-size:2.1em; }
+      header img{ max-width:180px; }
+    }
   </style>
 </head>
-<script>
-const FEEDS = [
-  {
-    region: "Македонија",
-    sources: [
-      { name: "МИА", url: "https://mia.mk/rss" },
-      { name: "Makfax", url: "https://makfax.com.mk/feed/" }
-    ]
-  },
-  {
-    region: "Свет",
-    sources: [
-      { name: "BBC", url: "https://feeds.bbci.co.uk/news/world/rss.xml" },
-      { name: "Al Jazeera", url: "https://www.aljazeera.com/xml/rss/all.xml" }
-    ]
-  }
-];
-
-const feedEl = document.getElementById("rss-feed");
-const statusEl = document.getElementById("rss-status");
-
-async function loadFeeds() {
-  feedEl.innerHTML = "";
-  statusEl.textContent = "Вчитување…";
-
-  for (const group of FEEDS) {
-    const h3 = document.createElement("h3");
-    h3.textContent = "🌍 " + group.region;
-    feedEl.appendChild(h3);
-
-    for (const src of group.sources) {
-      const api = "https://api.rss2json.com/v1/api.json?rss_url=" + encodeURIComponent(src.url);
-      try {
-        const res = await fetch(api);
-        const data = await res.json();
-        if (!data.items) continue;
-
-        data.items.slice(0, 4).forEach(item => {
-          const div = document.createElement("div");
-          div.style.marginBottom = "10px";
-          div.innerHTML = `
-            <strong>[${src.name}]</strong> ${item.title}<br>
-            <a href="${item.link}" target="_blank">Прочитај повеќе</a>
-          `;
-          feedEl.appendChild(div);
-        });
-      } catch (e) {
-        const err = document.createElement("div");
-        err.style.color = "#a00";
-        err.textContent = `⚠️ Не може да се вчита ${src.name}`;
-        feedEl.appendChild(err);
-      }
-    }
-  }
-  statusEl.textContent = "Ажурирано.";
-}
-
-loadFeeds();
-// освежување на 10 минути
-setInterval(loadFeeds, 10 * 60 * 1000);
-</script>
 
 <body>
+  <header>
+    <img src="hero.jpg" alt="Makedon World News – независен агрегатор на вести" />
 
-<header>
-  <img src="hero.jpg"
-     alt="Makedon World News – независен агрегатор на вести"
-     style="max-width:220px; height:auto; border-radius:12px;">
-<h1 style="font-size:2.8em; margin:10px 0;">
-<h1 class="site-title">🌍 Makedon World News</h1>
-<hr style="border:0; height:1px; background:#ffffff; max-width:300px; margin:12px auto;">
-  
-<p class="site-tagline">
-  Независен агрегатор на вести од Македонија, Балканот, Европа и светот.
-</p>
+    <div class="site-title">🌍 Makedon World News</div>
+    <hr style="border:0;height:1px;background:rgba(255,255,255,0.35);max-width:320px;margin:12px auto 12px;">
+    <p class="site-tagline">Независен агрегатор на вести од Македонија, Балканот, Европа и светот.</p>
+  </header>
 
-<section id="about" style="background:#fff; color:#222; max-width:900px; margin:40px auto; padding:25px; border-radius:8px;">
+  <div class="container">
 
-  <h2 style>🛡️ About / Mission</h2 style>
+    <section id="about">
+      <h2>🛡️ About / Mission</h2>
 
-  <!-- MACEDONIAN -->
+      <p>
+        <strong>Makedon World News</strong> е независен агрегатор на вести од Република Северна Македонија,
+        Балканот, Европа и светот.
+      </p>
 
-  <p>
-    <p>
-<p>
-<strong>Makedon World News</strong> е независен агрегатор на вести од
-Република Северна Македонија, Балканот, Европа и светот.
-</p>
+      <p>
+        Платформата собира, систематизира и прикажува информации од доверливи медиумски извори,
+        со цел корисниците да добијат брз, јасен и структуриран преглед на актуелните настани.
+      </p>
 
-</p>
+      <p>
+        Makedon World News не создава сопствени вести и не промовира политички, национални или идеолошки агенди.
+      </p>
 
-  </p>
+      <h3>🎯 Нашата мисија</h3>
+      <ul>
+        <li>Слободен и отворен пристап до информации</li>
+        <li>Поттикнување на медиумска писменост</li>
+        <li>Подобро разбирање на настаните преку повеќе извори</li>
+        <li>Намалување на влијанието на дезинформации</li>
+      </ul>
 
-  <p>
-    Платформата собира, систематизира и прикажува информации од доверливи
-    медиумски извори, со цел корисниците да добијат брз, јасен и структуриран
-    преглед на актуелните настани.
-  </p>
+      <h3>🌍 English Version</h3>
+      <p>
+        <strong>Makedon World News</strong> is an independent news aggregator based in the Republic of North Macedonia,
+        covering the Balkans, Europe, and the world.
+      </p>
+      <p>
+        We aggregate and link to original sources so users can quickly compare coverage and form informed opinions.
+      </p>
+    </section>
 
-  <p>
-    Makedon World News не создава сопствени вести и не промовира политички,
-    национални или идеолошки агенди.
-  </p>
+    <section id="trust" class="trust">
+      <h2>🔐 Доверба &amp; Транспарентност</h2>
+      <p>
+        <strong>Makedon World News</strong> не креира оригинална новинарска содржина – платформата агрегира и упатува
+        кон оригинални извори, со јасно наведување на изворот за секоја вест.
+      </p>
+      <p>
+        Нашата цел е транспарентно и непристрасно да прикажеме повеќе релевантни извори за ист настан.
+      </p>
+    </section>
 
-  <h4>🎯 Нашата мисија</h4>
-  <ul>
-    <li>Слободен и отворен пристап до информации</li>
-    <li>Поттикнување на медиумска писменост</li>
-    <li>Подобро разбирање на настаните преку повеќе извори</li>
-    <li>Намалување на влијанието на дезинформации</li>
-  </ul>
+    <section id="rss">
+      <h2>📰 Вести во живо</h2>
+      <div id="rss-status" style="font-size:0.9em;color:#666;margin-bottom:10px;">Се вчитуваат вести…</div>
+      <div id="rss-feed"></div>
+    </section>
 
-  <h4>🛡️ Shtitnik – вграден принцип</h4>
-  <p>
-    Концептот <strong>Shtitnik</strong> е интегриран како основна вредност на
-    платформата – заштита на јавноста преку транспарентност, контекст и
-    споредување на информации од повеќе извори.
-  </p>
-
-  <h4>⚖️ Декларација за неутралност</h4>
-  <p>
-    Сите содржини припаѓаат на нивните оригинални извори и се прикажуваат
-    исклучиво со информативна цел.
-  </p>
-
-  <hr>
-
-  <!-- ENGLISH -->
-  <h3>🌍 English Version</h3>
-
-  <p>
-   <p>
-<p>
-<strong>Makedon World News</strong> is an independent news aggregator based in
-the Republic of North Macedonia, covering the Balkans, Europe, and the world.
-</p>
-
-</p>
- 
-  </p>
-
-<section id="trust" style="background:#111; color:#fff; padding:40px; border-radius:12px; max-width:900px; margin:40px auto;">
-
-  <h2 style="margin-top:0;">🔐 Доверба & Транспарентност</h2>
-
-  <p>
-    <strong>Makedon World News</strong> е независен агрегатор на вести од Македонија,
-    Балканот, Европа и светот.
-  </p>
-
-  <p>
-    Нашата мисија е јасна: транспарентно, одговорно и непристрасно
-    да ги прикажуваме информациите од различни релевантни извори.
-  </p>
-
-  <p>
-    Ние не креираме оригинална новинарска содржина, туку агрегирааме и
-    пренасочуваме кон оригиналните извори, со цел корисниците сами
-    да донесат информирана одлука.
-  </p>
-
-  <hr style="margin:30px 0; opacity:0.3;">
-
-  <h2 style="margin:0 0 12px 0;">🔐 Trust &amp; Transparency</h2>
-
-  <p>
-    <strong>Makedon World News</strong> is an independent news aggregator covering
-    Macedonia, the Balkans, Europe, and the world.
-  </p>
-
-  <p>
-    Our mission is to provide transparent, responsible, and unbiased access
-    to information from diverse and credible sources.
-  </p>
-
-  <p>
-    We do not produce original journalistic content. We aggregate and link
-    to original sources, allowing users to form their own informed opinions.
-  </p>
-
-</section>
-
-  <hr style="margin:20px 0;">
-
-  <p>
-    <strong>Makedon World News</strong> is an independent news aggregator covering
-    Macedonia, the Balkans, Europe, and the world. The platform is built to promote
-    transparency, clear source attribution, and public access to reliable information.
-  </p>
-
-  <p>
-    All published content links directly to original media sources.
-    Makedon World News does not edit, alter, or influence journalistic content,
-    but provides a structured and accessible overview for global audiences.
-  </p>
-</section>
-<section id="rss" style="max-width:900px; margin:40px auto; padding:20px;">
-  <h2>📰 Вести во живо</h2>
-  <div id="rss-status" style="font-size:0.9em; color:#666; margin-bottom:10px;">
-    Се вчитуваат вести…
   </div>
-  <div id="rss-feed"></div>
-</section>
 
-<script>
-document.addEventListener("DOMContentLoaded", () => {
-  const FEEDS = [
-    {
-      region: "Македонија",
-      sources: [
-        { name: "МИА", url: "https://mia.mk/rss" },
-        { name: "Makfax", url: "https://makfax.com.mk/feed/" },
-        { name: "NetPress", url: "https://netpress.com.mk/feed/" }
-      ]
-    },
-    {
-      region: "Свет",
-      sources: [
-        { name: "BBC", url: "https://feeds.bbci.co.uk/news/world/rss.xml" },
-        { name: "Al Jazeera", url: "https://www.aljazeera.com/xml/rss/all.xml" }
-      ]
-    }
-  ];
+  <footer>
+    <div style="margin-bottom:10px;">
+      <strong style="letter-spacing:0.3px;font-size:1.05em;">🌍 Makedon World News</strong>
+    </div>
 
-  const feedEl = document.getElementById("rss-feed");
-  const statusEl = document.getElementById("rss-status");
+    <div class="footer-links">
+      <a href="https://www.facebook.com/share/1CycSPu4qU/" target="_blank" rel="noopener">Facebook</a>
+      •
+      <a href="https://www.instagram.com/makedonworldnews" target="_blank" rel="noopener">Instagram</a>
+      •
+      <a href="https://www.tiktok.com/@makedon.worldnews" target="_blank" rel="noopener">TikTok</a>
+      •
+      <a href="https://x.com/makedonworldnew" target="_blank" rel="noopener">X</a>
+      •
+      <a href="https://youtube.com/@makedonworldnews" target="_blank" rel="noopener">YouTube</a>
+    </div>
 
-  if (!feedEl || !statusEl) return;
+    <div class="footer-divider"></div>
+    <div style="font-size:0.9em;color:#aaa;">© 2026 Makedon World News. All rights reserved.</div>
+  </footer>
 
-  // CORS proxy (works well for GH Pages)
-  const proxy = (u) => "https://api.allorigins.win/raw?url=" + encodeURIComponent(u);
-
-  function renderItem(srcName, item) {
-    const div = document.createElement("div");
-    div.style.marginBottom = "12px";
-    div.innerHTML = `
-      <strong>[${srcName}]</strong> ${item.title}<br>
-      <a href="${item.link}" target="_blank" rel="noopener">Прочитај повеќе</a>
-    `;
-    return div;
-  }
-
-  async function fetchRss(url) {
-    const res = await fetch(proxy(url), { cache: "no-store" });
-    if (!res.ok) throw new Error("HTTP " + res.status);
-
-    const xmlText = await res.text();
-    const doc = new DOMParser().parseFromString(xmlText, "text/xml");
-
-    // RSS item nodes
-    const items = Array.from(doc.querySelectorAll("item")).slice(0, 4);
-
-    return items.map((it) => ({
-      title: (it.querySelector("title")?.textContent || "").trim(),
-      link: (it.querySelector("link")?.textContent || "").trim()
-    })).filter(x => x.title && x.link);
-  }
-
-  async function loadFeeds() {
-    feedEl.innerHTML = "";
-    statusEl.textContent = "Вчитување…";
-
-    let total = 0;
-
-    for (const group of FEEDS) {
-      const h3 = document.createElement("h3");
-      h3.textContent = "🌍 " + group.region;
-      h3.style.marginTop = "18px";
-      feedEl.appendChild(h3);
-
-      for (const src of group.sources) {
-        try {
-          const items = await fetchRss(src.url);
-          if (!items.length) continue;
-
-          items.forEach(item => {
-            feedEl.appendChild(renderItem(src.name, item));
-            total++;
-          });
-        } catch (e) {
-          const err = document.createElement("div");
-          err.style.color = "#ffb3b3";
-          err.style.fontSize = "0.9em";
-          err.textContent = `⚠️ Не може да се вчита ${src.name}`;
-          feedEl.appendChild(err);
+  <script>
+    document.addEventListener("DOMContentLoaded", () => {
+      const FEEDS = [
+        {
+          region: "Македонија",
+          sources: [
+            { name: "МИА", url: "https://mia.mk/rss" },
+            { name: "Makfax", url: "https://makfax.com.mk/feed/" },
+            { name: "NetPress", url: "https://netpress.com.mk/feed/" }
+          ]
+        },
+        {
+          region: "Свет",
+          sources: [
+            { name: "BBC", url: "https://feeds.bbci.co.uk/news/world/rss.xml" },
+            { name: "Al Jazeera", url: "https://www.aljazeera.com/xml/rss/all.xml" }
+          ]
         }
+      ];
+
+      const feedEl = document.getElementById("rss-feed");
+      const statusEl = document.getElementById("rss-status");
+
+      const proxy = (u) => "https://api.allorigins.win/raw?url=" + encodeURIComponent(u);
+
+      function renderItem(srcName, title, link) {
+        const div = document.createElement("div");
+        div.className = "rss-item";
+        div.innerHTML = `
+          <strong>[${srcName}]</strong> ${title}<br>
+          <a href="${link}" target="_blank" rel="noopener">Прочитај повеќе</a>
+        `;
+        return div;
       }
-    }
 
-    statusEl.textContent = total ? "Ажурирано." : "Нема вчитани вести (провери извори).";
-  }
+      async function fetchRss(url) {
+        const res = await fetch(proxy(url), { cache: "no-store" });
+        if (!res.ok) throw new Error("HTTP " + res.status);
+        const xmlText = await res.text();
 
-  loadFeeds();
-  // освежување на 10 минути (стабилно)
-  setInterval(loadFeeds, 10 * 60 * 1000);
-});
-</script>
+        const doc = new DOMParser().parseFromString(xmlText, "text/xml");
+        const items = Array.from(doc.querySelectorAll("item")).slice(0, 4);
 
-</main>
-🚀 Makedon World News е LIVE
-Независен македонски агрегатор
-Светски вести. Македонски фокус.
-<footer>
+        return items.map((it) => ({
+          title: (it.querySelector("title")?.textContent || "").trim(),
+          link: (it.querySelector("link")?.textContent || "").trim()
+        })).filter(x => x.title && x.link);
+      }
 
-<footer style="background:#111; color:#eee; padding:32px 16px; margin-top:50px;">
-  <div style="max-width:900px; margin:0 auto; text-align:center;">
+      async function loadFeeds() {
+        feedEl.innerHTML = "";
+        statusEl.textContent = "Вчитување…";
 
-    <div style="margin-bottom:12px;">
-      <strong style="letter-spacing:0.3px; font-size:1.05em;">
-  🌍 Makedon World News
-</strong>
+        let total = 0;
 
-    </div>
+        for (const group of FEEDS) {
+          const h3 = document.createElement("h3");
+          h3.textContent = "🌍 " + group.region;
+          feedEl.appendChild(h3);
 
-    <div style="margin:14px 0;">
-      <a href="https://www.facebook.com/share/1CycSPu4qU/" target="_blank" style="color:#eee; text-decoration:none; margin:0 10px;">Facebook</a>
-      <span style="color:#666;">•</span>
-      <a href="https://www.instagram.com/makedonworldnews" target="_blank" style="color:#eee; text-decoration:none; margin:0 10px;">Instagram</a>
-      <span style="color:#666;">•</span>
-      <a href="https://www.tiktok.com/@makedon.worldnews" target="_blank" style="color:#eee; text-decoration:none; margin:0 10px;">TikTok</a>
-      <span style="color:#666;">•</span>
-      <a href="https://x.com/makedonworldnew" target="_blank" style="color:#eee; text-decoration:none; margin:0 10px;">X</a>
-      <span style="color:#666;">•</span>
-      <a href="https://youtube.com/@makedonworldnews" target="_blank" style="color:#eee; text-decoration:none; margin:0 10px;">YouTube</a>
-    </div>
+          for (const src of group.sources) {
+            try {
+              const items = await fetchRss(src.url);
+              items.forEach(item => {
+                feedEl.appendChild(renderItem(src.name, item.title, item.link));
+                total++;
+              });
+            } catch (e) {
+              const err = document.createElement("div");
+              err.style.color = "#a00";
+              err.style.fontSize = "0.9em";
+              err.textContent = `⚠️ Не може да се вчита ${src.name}`;
+              feedEl.appendChild(err);
+            }
+          }
+        }
 
-    <div style="height:1px; background:#2a2a2a; margin:18px auto; max-width:520px;"></div>
+        statusEl.textContent = total ? "Ажурирано." : "Нема вчитани вести (proxy/извори).";
+      }
 
-    <div style="font-size:0.85em; color:#888;">
-      © 2026 Makedon World News. All rights reserved.
-    </div>
-
-  </div>
-</footer>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+      loadFeeds();
+      setInterval(loadFeeds, 10 * 60 * 1000);
+    });
+  </script>
+</body>
+</html>
