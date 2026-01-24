@@ -149,6 +149,11 @@
 </div>
 
     </section>
+<script>
+  const s = document.getElementById("rss-status");
+  if (s) s.textContent = "✅ JS е вчитан (тест OK)";
+</script>
+statusEl.textContent = "✅ RSS скрипта стартува…";
 
   </div>
 
@@ -171,6 +176,8 @@
 
   <script>
     document.addEventListener("DOMContentLoaded", () => {
+  try {
+
       const FEEDS = [
         { region: "Македонија", sources: [
           { name: "МИА", url: "https://mia.mk/rss" },
@@ -241,6 +248,13 @@
               items.forEach(item => {
                 feedEl.appendChild(renderItem(src.name, item.title, item.link));
                 total++;
+                  } catch (e) {
+    const statusEl = document.getElementById("rss-status");
+    if (statusEl) statusEl.textContent = "❌ JS грешка (F12 → Console)";
+    console.error("RSS error:", e);
+  }
+});
+
               });
             } catch (e) {
               const err = document.createElement("div");
@@ -261,4 +275,5 @@
   </script>
 </body>
 </html>
+
 
