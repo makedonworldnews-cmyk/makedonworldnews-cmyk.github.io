@@ -58,9 +58,7 @@
       background:#111;
       color:#fff;
     }
-    .trust hr{
-      opacity:0.25;
-    }
+    .trust hr{ opacity:0.25; }
 
     h2{ margin:0 0 12px; }
     h3{ margin:18px 0 10px; }
@@ -106,9 +104,8 @@
 <body>
   <header>
     <img src="hero.jpg" alt="Makedon World News – независен агрегатор на вести" />
-
     <div class="site-title">🌍 Makedon World News</div>
-    <hr style="border:0;height:1px;background:rgba(255,255,255,0.35);max-width:320px;margin:12px auto 12px;">
+    <hr style="border:0;height:1px;background:rgba(255,255,255,0.35);width:100%;margin:12px 0 14px;">
     <p class="site-tagline">Независен агрегатор на вести од Македонија, Балканот, Европа и светот.</p>
   </header>
 
@@ -117,19 +114,13 @@
     <section id="about">
       <h2>🛡️ About / Mission</h2>
 
-      <p>
-        <strong>Makedon World News</strong> е независен агрегатор на вести од Република Северна Македонија,
-        Балканот, Европа и светот.
-      </p>
+      <p><strong>Makedon World News</strong> е независен агрегатор на вести од Република Северна Македонија,
+      Балканот, Европа и светот.</p>
 
-      <p>
-        Платформата собира, систематизира и прикажува информации од доверливи медиумски извори,
-        со цел корисниците да добијат брз, јасен и структуриран преглед на актуелните настани.
-      </p>
+      <p>Платформата собира, систематизира и прикажува информации од доверливи медиумски извори,
+      со цел корисниците да добијат брз, јасен и структуриран преглед на актуелните настани.</p>
 
-      <p>
-        Makedon World News не создава сопствени вести и не промовира политички, национални или идеолошки агенди.
-      </p>
+      <p>Makedon World News не создава сопствени вести и не промовира политички, национални или идеолошки агенди.</p>
 
       <h3>🎯 Нашата мисија</h3>
       <ul>
@@ -140,24 +131,16 @@
       </ul>
 
       <h3>🌍 English Version</h3>
-      <p>
-        <strong>Makedon World News</strong> is an independent news aggregator based in the Republic of North Macedonia,
-        covering the Balkans, Europe, and the world.
-      </p>
-      <p>
-        We aggregate and link to original sources so users can quickly compare coverage and form informed opinions.
-      </p>
+      <p><strong>Makedon World News</strong> is an independent news aggregator based in the Republic of North Macedonia,
+      covering the Balkans, Europe, and the world.</p>
+      <p>We aggregate and link to original sources so users can compare coverage and form informed opinions.</p>
     </section>
 
     <section id="trust" class="trust">
       <h2>🔐 Доверба &amp; Транспарентност</h2>
-      <p>
-        <strong>Makedon World News</strong> не креира оригинална новинарска содржина – платформата агрегира и упатува
-        кон оригинални извори, со јасно наведување на изворот за секоја вест.
-      </p>
-      <p>
-        Нашата цел е транспарентно и непристрасно да прикажеме повеќе релевантни извори за ист настан.
-      </p>
+      <p><strong>Makedon World News</strong> не креира оригинална новинарска содржина – агрегира и упатува кон оригинални извори,
+      со јасно наведување на изворот за секоја вест.</p>
+      <p>Целта е транспарентно и непристрасно да прикажеме повеќе релевантни извори за ист настан.</p>
     </section>
 
     <section id="rss">
@@ -174,14 +157,10 @@
     </div>
 
     <div class="footer-links">
-      <a href="https://www.facebook.com/share/1CycSPu4qU/" target="_blank" rel="noopener">Facebook</a>
-      •
-      <a href="https://www.instagram.com/makedonworldnews" target="_blank" rel="noopener">Instagram</a>
-      •
-      <a href="https://www.tiktok.com/@makedon.worldnews" target="_blank" rel="noopener">TikTok</a>
-      •
-      <a href="https://x.com/makedonworldnew" target="_blank" rel="noopener">X</a>
-      •
+      <a href="https://www.facebook.com/share/1CycSPu4qU/" target="_blank" rel="noopener">Facebook</a> •
+      <a href="https://www.instagram.com/makedonworldnews" target="_blank" rel="noopener">Instagram</a> •
+      <a href="https://www.tiktok.com/@makedon.worldnews" target="_blank" rel="noopener">TikTok</a> •
+      <a href="https://x.com/makedonworldnew" target="_blank" rel="noopener">X</a> •
       <a href="https://youtube.com/@makedonworldnews" target="_blank" rel="noopener">YouTube</a>
     </div>
 
@@ -192,47 +171,53 @@
   <script>
     document.addEventListener("DOMContentLoaded", () => {
       const FEEDS = [
-        {
-          region: "Македонија",
-          sources: [
-            { name: "МИА", url: "https://mia.mk/rss" },
-            { name: "Makfax", url: "https://makfax.com.mk/feed/" },
-            { name: "NetPress", url: "https://netpress.com.mk/feed/" }
-          ]
-        },
-        {
-          region: "Свет",
-          sources: [
-            { name: "BBC", url: "https://feeds.bbci.co.uk/news/world/rss.xml" },
-            { name: "Al Jazeera", url: "https://www.aljazeera.com/xml/rss/all.xml" }
-          ]
-        }
+        { region: "Македонија", sources: [
+          { name: "МИА", url: "https://mia.mk/rss" },
+          { name: "Makfax", url: "https://makfax.com.mk/feed/" },
+          { name: "NetPress", url: "https://netpress.com.mk/feed/" }
+        ]},
+        { region: "Свет", sources: [
+          { name: "BBC", url: "https://feeds.bbci.co.uk/news/world/rss.xml" },
+          { name: "Al Jazeera", url: "https://www.aljazeera.com/xml/rss/all.xml" }
+        ]}
       ];
 
       const feedEl = document.getElementById("rss-feed");
       const statusEl = document.getElementById("rss-status");
 
-      const proxy = (u) => "https://api.allorigins.win/raw?url=" + encodeURIComponent(u);
+      const proxies = [
+        (u) => "https://api.allorigins.win/raw?url=" + encodeURIComponent(u),
+        (u) => "https://corsproxy.io/?" + encodeURIComponent(u)
+      ];
 
       function renderItem(srcName, title, link) {
         const div = document.createElement("div");
         div.className = "rss-item";
-        div.innerHTML = `
-          <strong>[${srcName}]</strong> ${title}<br>
-          <a href="${link}" target="_blank" rel="noopener">Прочитај повеќе</a>
-        `;
+        div.innerHTML = `<strong>[${srcName}]</strong> ${title}<br>
+          <a href="${link}" target="_blank" rel="noopener">Прочитај повеќе</a>`;
         return div;
       }
 
+      async function fetchTextWithFallback(url) {
+        let lastErr = null;
+        for (const px of proxies) {
+          try {
+            const res = await fetch(px(url), { cache: "no-store" });
+            if (!res.ok) throw new Error("HTTP " + res.status);
+            return await res.text();
+          } catch (e) {
+            lastErr = e;
+          }
+        }
+        throw lastErr || new Error("Fetch failed");
+      }
+
       async function fetchRss(url) {
-        const res = await fetch(proxy(url), { cache: "no-store" });
-        if (!res.ok) throw new Error("HTTP " + res.status);
-        const xmlText = await res.text();
-
+        const xmlText = await fetchTextWithFallback(url);
         const doc = new DOMParser().parseFromString(xmlText, "text/xml");
-        const items = Array.from(doc.querySelectorAll("item")).slice(0, 4);
+        const items = Array.from(doc.querySelectorAll("item")).slice(0, 5);
 
-        return items.map((it) => ({
+        return items.map(it => ({
           title: (it.querySelector("title")?.textContent || "").trim(),
           link: (it.querySelector("link")?.textContent || "").trim()
         })).filter(x => x.title && x.link);
