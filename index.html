@@ -6,16 +6,28 @@
   <title>Makedon World News</title>
 
   <style>
+    :root{
+      --bg:#f5f5f5;
+      --card:#ffffff;
+      --text:#222;
+      --muted:#666;
+      --black:#111;
+      --line:rgba(255,255,255,0.35);
+      --shadow:0 1px 0 rgba(0,0,0,0.04);
+      --radius:12px;
+      --max:900px;
+    }
+
     body{
       margin:0;
       font-family:system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Ubuntu,sans-serif;
       line-height:1.6;
-      background:#f5f5f5;
-      color:#222;
+      background:var(--bg);
+      color:var(--text);
     }
 
     header{
-      background:#111;
+      background:var(--black);
       color:#fff;
       text-align:center;
       padding:22px 16px 16px;
@@ -26,11 +38,10 @@
       width:100%;
       height:auto;
       border-radius:12px;
-      box-shadow:0 8px 24px rgba(0,0,0,0.25);
     }
 
     .site-title{
-      font-size:2.8em;
+      font-size:2.7em;
       font-weight:800;
       margin:12px 0 6px;
       letter-spacing:0.2px;
@@ -42,25 +53,31 @@
       margin:0;
     }
 
+    .header-sep{
+      border:0;
+      height:1px;
+      background:var(--line);
+      width:100%;
+      margin:12px 0 14px;
+    }
+
     .container{
-      max-width:900px;
+      max-width:var(--max);
       margin:0 auto;
       padding:0 16px;
     }
 
     section{
-      background:#fff;
-      border-radius:12px;
+      background:var(--card);
+      border-radius:var(--radius);
       padding:22px;
       margin:18px auto;
-      box-shadow:0 1px 0 rgba(0,0,0,0.04);
-      border:1px solid rgba(0,0,0,0.06);
+      box-shadow:var(--shadow);
     }
 
     .trust{
-      background:#111;
+      background:var(--black);
       color:#fff;
-      border:1px solid rgba(255,255,255,0.08);
     }
     .trust hr{ opacity:0.25; }
 
@@ -70,54 +87,44 @@
     a{ color:#0b5ed7; text-decoration:none; }
     a:hover{ text-decoration:underline; }
 
-    .rss-item{
-      margin:10px 0 14px;
-      padding:12px 12px;
-      border-radius:10px;
-      background:#fafafa;
-      border:1px solid rgba(0,0,0,0.06);
-    }
-    .rss-item strong{ display:inline-block; margin-bottom:2px; }
-    .rss-meta{
-      font-size:0.86em;
-      color:#666;
-      margin-top:6px;
-    }
-
-    .toolbar{
+    .rss-toolbar{
       display:flex;
       gap:10px;
-      flex-wrap:wrap;
       align-items:center;
-      margin:10px 0 12px;
-    }
-    .toolbar input{
-      flex:1;
-      min-width:220px;
-      padding:10px 12px;
-      border-radius:10px;
-      border:1px solid rgba(0,0,0,0.14);
-      outline:none;
-      font-size:0.95em;
-      background:#fff;
-    }
-    .chip{
-      padding:8px 10px;
-      border-radius:999px;
-      border:1px solid rgba(0,0,0,0.12);
-      background:#fff;
-      font-size:0.9em;
-      cursor:pointer;
-      user-select:none;
-    }
-    .chip.active{
-      background:#111;
-      color:#fff;
-      border-color:#111;
+      justify-content:space-between;
+      flex-wrap:wrap;
+      margin-bottom:10px;
     }
 
+    .badge{
+      display:inline-block;
+      font-size:0.85em;
+      padding:4px 10px;
+      border-radius:999px;
+      background:#eee;
+      color:#333;
+    }
+
+    .btn{
+      cursor:pointer;
+      border:1px solid #ddd;
+      background:#fff;
+      padding:8px 12px;
+      border-radius:10px;
+      font-weight:600;
+    }
+    .btn:hover{ background:#f2f2f2; }
+
+    .rss-item{
+      margin:10px 0 14px;
+      padding-bottom:10px;
+      border-bottom:1px solid #eee;
+    }
+    .rss-item:last-child{ border-bottom:0; padding-bottom:0; }
+    .rss-item strong{ display:inline-block; margin-bottom:2px; }
+
     footer{
-      background:#111;
+      background:var(--black);
       color:#eee;
       padding:32px 16px;
       margin-top:40px;
@@ -131,7 +138,6 @@
       margin:0 10px;
       display:inline-block;
       padding:6px 0;
-      font-size:1.05em;
     }
     .footer-links a:hover{ text-decoration:underline; }
 
@@ -143,9 +149,8 @@
     }
 
     @media (max-width:600px){
-      .site-title{ font-size:2.1em; }
+      .site-title{ font-size:2.15em; }
       header img{ max-width:180px; }
-      .footer-links a{ margin:0 7px; }
     }
   </style>
 </head>
@@ -154,7 +159,7 @@
   <header>
     <img src="hero.jpg" alt="Makedon World News – независен агрегатор на вести" />
     <div class="site-title">🌍 Makedon World News</div>
-    <hr style="border:0;height:1px;background:rgba(255,255,255,0.35);width:100%;margin:12px 0 14px;">
+    <hr class="header-sep">
     <p class="site-tagline">Независен агрегатор на вести од Македонија, Балканот, Европа и светот.</p>
   </header>
 
@@ -163,19 +168,13 @@
     <section id="about">
       <h2>🛡️ About / Mission</h2>
 
-      <p>
-        <strong>Makedon World News</strong> е независен агрегатор на вести од Република Северна Македонија,
-        Балканот, Европа и светот.
-      </p>
+      <p><strong>Makedon World News</strong> е независен агрегатор на вести од Република Северна Македонија,
+      Балканот, Европа и светот.</p>
 
-      <p>
-        Платформата собира, систематизира и прикажува информации од доверливи медиумски извори,
-        со цел корисниците да добијат брз, јасен и структуриран преглед на актуелните настани.
-      </p>
+      <p>Платформата собира, систематизира и прикажува информации од доверливи медиумски извори,
+      со цел корисниците да добијат брз, јасен и структуриран преглед на актуелните настани.</p>
 
-      <p>
-        Makedon World News не создава сопствени вести и не промовира политички, национални или идеолошки агенди.
-      </p>
+      <p>Makedon World News не создава сопствени вести и не промовира политички, национални или идеолошки агенди.</p>
 
       <h3>🎯 Нашата мисија</h3>
       <ul>
@@ -186,62 +185,42 @@
       </ul>
 
       <h3>🌍 English Version</h3>
-      <p>
-        <strong>Makedon World News</strong> is an independent news aggregator based in the Republic of North Macedonia,
-        covering the Balkans, Europe, and the world.
-      </p>
-      <p>
-        We aggregate and link to original sources so users can compare coverage and form informed opinions.
-      </p>
+      <p><strong>Makedon World News</strong> is an independent news aggregator based in the Republic of North Macedonia,
+      covering the Balkans, Europe, and the world.</p>
+      <p>We aggregate and link to original sources so users can compare coverage and form informed opinions.</p>
     </section>
 
     <section id="trust" class="trust">
       <h2>🔐 Доверба &amp; Транспарентност</h2>
-      <p>
-        <strong>Makedon World News</strong> не креира оригинална новинарска содржина – агрегира и упатува кон оригинални извори,
-        со јасно наведување на изворот за секоја вест.
-      </p>
-      <p>
-        Целта е транспарентно и непристрасно да прикажеме повеќе релевантни извори за ист настан.
-      </p>
-      <hr>
-      <p style="margin:0; font-size:0.92em; color:#cfcfcf;">
-        🔎 Совет: проверувај повеќе извори, спореди наслови и контекст пред да донесеш заклучок.
-      </p>
+      <p><strong>Makedon World News</strong> не креира оригинална новинарска содржина – агрегира и упатува кон оригинални извори,
+      со јасно наведување на изворот за секоја вест.</p>
+      <p>Целта е транспарентно и непристрасно да прикажеме повеќе релевантни извори за ист настан.</p>
     </section>
 
     <section id="rss">
-      <h2>📰 Вести во живо</h2>
-
-      <div id="rss-status" style="font-size:0.92em;color:#666;margin-bottom:10px;">
-        Вчитувам вести…
+      <div class="rss-toolbar">
+        <h2 style="margin:0;">📰 Вести во живо</h2>
+        <div>
+          <span id="rss-badge" class="badge">Иницијализација…</span>
+          <button id="btn-refresh" class="btn" type="button">↻ Освежи</button>
+        </div>
       </div>
 
-      <div class="toolbar">
-        <input id="search" type="text" placeholder="Пребарај по наслов или извор (пример: BBC, МИА, избори…)" />
-        <span class="chip active" data-region="ALL">Сите</span>
-        <span class="chip" data-region="Македонија">Македонија</span>
-        <span class="chip" data-region="Свет">Свет</span>
+      <div id="rss-status" style="font-size:0.92em;color:var(--muted);margin-bottom:10px;">
+        Се вчитуваат вести…
       </div>
-
       <div id="rss-feed"></div>
 
-      <noscript>
-        <div style="color:#a00; font-size:0.95em; margin-top:10px;">
-          ⚠️ JavaScript е исклучен. Вклучи го за да се прикажат вестите.
-        </div>
-      </noscript>
+      <div style="font-size:0.86em;color:#777;margin-top:14px;">
+        Ако стои “се вчитуваат” подолго време: најсигурно решение е да користиме локален <code>data/news.json</code> (без CORS).
+      </div>
     </section>
 
   </div>
 
   <footer>
     <div style="margin-bottom:10px;">
-      <strong style="letter-spacing:0.3px;font-size:1.1em;">🌍 Makedon World News</strong>
-    </div>
-
-    <div style="margin:10px 0; font-size:1.05em;">
-      📧 <a href="mailto:makedonworldnews@gmail.com" style="color:#eee; text-decoration:none;">makedonworldnews@gmail.com</a>
+      <strong style="letter-spacing:0.3px;font-size:1.12em;">🌍 Makedon World News</strong>
     </div>
 
     <div class="footer-links">
@@ -253,122 +232,199 @@
     </div>
 
     <div class="footer-divider"></div>
-    <div style="font-size:0.9em;color:#aaa;">© 2026 Makedon World News. All rights reserved.</div>
+    <div style="font-size:0.92em;color:#aaa;">© 2026 Makedon World News. All rights reserved.</div>
   </footer>
 
   <script>
-    document.addEventListener("DOMContentLoaded", async () => {
-      const feedEl = document.getElementById("rss-feed");
-      const statusEl = document.getElementById("rss-status");
-      const searchEl = document.getElementById("search");
-      const chips = Array.from(document.querySelectorAll(".chip"));
+    // ====== 1) Извори (можеш да додаваш уште, по регион/континент) ======
+    const FEEDS = [
+      { region: "Македонија", sources: [
+        { name: "МИА", url: "https://mia.mk/rss" },
+        { name: "Makfax", url: "https://makfax.com.mk/feed/" },
+        { name: "NetPress", url: "https://netpress.com.mk/feed/" }
+      ]},
+      { region: "Балкан", sources: [
+        { name: "N1 HR", url: "https://n1info.hr/feed/" }
+      ]},
+      { region: "Европа", sources: [
+        { name: "BBC Europe", url: "https://feeds.bbci.co.uk/news/world/europe/rss.xml" }
+      ]},
+      { region: "Азија", sources: [
+        { name: "BBC Asia", url: "https://feeds.bbci.co.uk/news/world/asia/rss.xml" }
+      ]},
+      { region: "Индија", sources: [
+        { name: "BBC India", url: "https://feeds.bbci.co.uk/news/world/asia/india/rss.xml" }
+      ]},
+      { region: "Америка", sources: [
+        { name: "BBC Americas", url: "https://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml" }
+      ]},
+      { region: "Африка", sources: [
+        { name: "BBC Africa", url: "https://feeds.bbci.co.uk/news/world/africa/rss.xml" }
+      ]},
+      { region: "Океанија (Австралија + Нов Зеланд)", sources: [
+        { name: "BBC Australia", url: "https://feeds.bbci.co.uk/news/world/australia/rss.xml" }
+      ]},
+      { region: "Антарктик / Океани (општо)", sources: [
+        { name: "BBC Science & Environment", url: "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml" }
+      ]}
+    ];
 
-      let allItems = [];
-      let activeRegion = "ALL";
+    // ====== 2) DOM refs ======
+    const feedEl   = document.getElementById("rss-feed");
+    const statusEl = document.getElementById("rss-status");
+    const badgeEl  = document.getElementById("rss-badge");
+    const btnRef   = document.getElementById("btn-refresh");
 
-      function escapeHtml(s){
-        return String(s || "")
-          .replaceAll("&","&amp;")
-          .replaceAll("<","&lt;")
-          .replaceAll(">","&gt;")
-          .replaceAll('"',"&quot;")
-          .replaceAll("'","&#039;");
-      }
+    function esc(s){ return (s||"").replace(/[&<>"']/g, m => ({ "&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#039;" }[m])); }
 
-      function render(items){
-        feedEl.innerHTML = "";
-        if (!items.length){
-          feedEl.innerHTML = `<div style="color:#666; padding:10px 0;">Нема резултати.</div>`;
-          return;
-        }
+    function renderItem(srcName, title, link){
+      const div = document.createElement("div");
+      div.className = "rss-item";
+      div.innerHTML = `<strong>[${esc(srcName)}]</strong> ${esc(title)}<br>
+        <a href="${esc(link)}" target="_blank" rel="noopener">Прочитај повеќе</a>`;
+      return div;
+    }
 
-        // cap for speed
-        const view = items.slice(0, 80);
-        for (const it of view){
-          const title = escapeHtml(it.title);
-          const link = escapeHtml(it.link);
-          const source = escapeHtml(it.source || it.src || it.publisher || "");
-          const region = escapeHtml(it.region || "");
-          const published = escapeHtml(it.published || "");
+    function setBadge(text, ok=false){
+      badgeEl.textContent = text;
+      badgeEl.style.background = ok ? "#e8f6ee" : "#eee";
+      badgeEl.style.color = ok ? "#146c2e" : "#333";
+      badgeEl.style.border = ok ? "1px solid #bfe8cc" : "1px solid transparent";
+    }
 
-          const div = document.createElement("div");
-          div.className = "rss-item";
-          div.innerHTML = `
-            <strong>[${source}]</strong> ${title}<br>
-            <a href="${link}" target="_blank" rel="noopener">Прочитај повеќе</a>
-            <div class="rss-meta">${region}${published ? " • " + published : ""}</div>
-          `;
-          feedEl.appendChild(div);
-        }
-      }
+    // ====== 3) Најстабилно: локален JSON (ако постои) ======
+    async function loadFromLocalJson(){
+      // ако подоцна додадеме GitHub Action, ќе имаш data/news.json
+      const url = "data/news.json?ts=" + Date.now();
+      const res = await fetch(url, { cache:"no-store" });
+      if(!res.ok) throw new Error("No local JSON");
+      const data = await res.json(); // очекуваме { updatedAt, groups:[{region, items:[{source,title,link}]}] }
+      return data;
+    }
 
-      function applyFilters(){
-        const q = (searchEl.value || "").trim().toLowerCase();
-        let filtered = allItems;
+    // ====== 4) Фолбек: proxy читање RSS (може да биде блокирано/споро) ======
+    const proxies = [
+      (u) => "https://api.allorigins.win/raw?url=" + encodeURIComponent(u),
+      (u) => "https://corsproxy.io/?" + encodeURIComponent(u)
+    ];
 
-        if (activeRegion !== "ALL"){
-          filtered = filtered.filter(x => (x.region || "").toLowerCase() === activeRegion.toLowerCase());
-        }
+    async function fetchTextWithFallback(url){
+      let lastErr = null;
 
-        if (q){
-          filtered = filtered.filter(x =>
-            (x.title || "").toLowerCase().includes(q) ||
-            (x.source || "").toLowerCase().includes(q)
-          );
-        }
+      // timeout за да не “виси”
+      for(const px of proxies){
+        const controller = new AbortController();
+        const t = setTimeout(() => controller.abort(), 9000);
 
-        render(filtered);
-      }
-
-      chips.forEach(ch => {
-        ch.addEventListener("click", () => {
-          chips.forEach(x => x.classList.remove("active"));
-          ch.classList.add("active");
-          activeRegion = ch.getAttribute("data-region") || "ALL";
-          applyFilters();
-        });
-      });
-
-      searchEl.addEventListener("input", applyFilters);
-
-      async function loadLive(){
         try{
-          statusEl.textContent = "Вчитувам live.json…";
-          const res = await fetch("data/live.json?v=" + Date.now(), { cache: "no-store" });
-          if (!res.ok) throw new Error("HTTP " + res.status);
-
-          const data = await res.json();
-          const items = Array.isArray(data.items) ? data.items : [];
-          // normalize fields
-          allItems = items.map(it => ({
-            title: it.title,
-            link: it.link,
-            source: it.source || it.src || it.publisher,
-            region: it.region || it.category || "",
-            published: it.published || ""
-          }));
-
-          statusEl.textContent =
-            (data.generated_at ? `Ажурирано: ${data.generated_at}` : "Ажурирано.") +
-            ` • Вкупно: ${allItems.length} вести`;
-
-          applyFilters();
-        } catch(e){
-          console.error(e);
-          statusEl.textContent = "❌ Нема live.json (или Actions не е пуштен). Види GitHub → Actions → Run workflow.";
-          feedEl.innerHTML = `
-            <div style="color:#a00; font-size:0.95em;">
-              Не можам да ги прикажам вестите бидејќи недостасува <strong>data/live.json</strong>.
-              <br><br>
-              ✅ Решение: пушти GitHub Actions што го генерира live.json, па освежи ја страницата.
-            </div>
-          `;
+          const res = await fetch(px(url), { cache:"no-store", signal: controller.signal });
+          clearTimeout(t);
+          if(!res.ok) throw new Error("HTTP " + res.status);
+          return await res.text();
+        }catch(e){
+          clearTimeout(t);
+          lastErr = e;
         }
       }
+      throw lastErr || new Error("Fetch failed");
+    }
 
-      await loadLive();
-      // освежување на клиентот на 5 минути (без оптоварување)
-      setInterval(loadLive, 5 * 60 * 1000);
+    function parseRssOrAtom(xmlText){
+      const doc = new DOMParser().parseFromString(xmlText, "text/xml");
+      const rssItems = Array.from(doc.querySelectorAll("item"));
+      if(rssItems.length){
+        return rssItems.slice(0,5).map(it => ({
+          title: (it.querySelector("title")?.textContent || "").trim(),
+          link:  (it.querySelector("link")?.textContent  || "").trim()
+        })).filter(x => x.title && x.link);
+      }
+
+      // ATOM fallback
+      const entries = Array.from(doc.querySelectorAll("entry"));
+      if(entries.length){
+        return entries.slice(0,5).map(en => {
+          const title = (en.querySelector("title")?.textContent || "").trim();
+          const linkEl = en.querySelector('link[rel="alternate"]') || en.querySelector("link");
+          const link = (linkEl?.getAttribute("href") || "").trim();
+          return { title, link };
+        }).filter(x => x.title && x.link);
+      }
+
+      return [];
+    }
+
+    async function loadViaProxy(){
+      const groupsOut = [];
+
+      for(const group of FEEDS){
+        const itemsOut = [];
+        for(const src of group.sources){
+          try{
+            const xml = await fetchTextWithFallback(src.url);
+            const items = parseRssOrAtom(xml);
+            items.forEach(it => itemsOut.push({ source: src.name, title: it.title, link: it.link }));
+          }catch(e){
+            // тивко: само ќе покажеме дека некој извор не се вчитал
+            itemsOut.push({ source: src.name, title: "⚠️ Не може да се вчита (proxy/CORS)", link: src.url });
+          }
+        }
+        groupsOut.push({ region: group.region, items: itemsOut });
+      }
+
+      return { updatedAt: new Date().toISOString(), groups: groupsOut };
+    }
+
+    function renderData(data){
+      feedEl.innerHTML = "";
+
+      let total = 0;
+      for(const g of (data.groups || [])){
+        const h3 = document.createElement("h3");
+        h3.textContent = "🌍 " + g.region;
+        feedEl.appendChild(h3);
+
+        const items = (g.items || []).slice(0, 20); // по регион максимум 20, за да не биде тешко
+        items.forEach(it => {
+          feedEl.appendChild(renderItem(it.source, it.title, it.link));
+          total++;
+        });
+      }
+
+      const ts = data.updatedAt ? new Date(data.updatedAt) : new Date();
+      statusEl.textContent = total
+        ? `Ажурирано: ${ts.toLocaleString()} • Вкупно ставки: ${total}`
+        : "Нема вчитани вести.";
+      setBadge(total ? "LIVE" : "Нема вести", !!total);
+    }
+
+    async function loadFeeds(){
+      setBadge("Вчитување…");
+      statusEl.textContent = "Се вчитуваат вести…";
+      feedEl.innerHTML = "";
+
+      // 1) пробај локален JSON
+      try{
+        const local = await loadFromLocalJson();
+        renderData(local);
+        return;
+      }catch(_){ /* continue */ }
+
+      // 2) фолбек преку proxy
+      try{
+        const data = await loadViaProxy();
+        renderData(data);
+      }catch(e){
+        statusEl.textContent = "Неуспешно вчитување (локален JSON нема, proxy е блокиран).";
+        setBadge("Проблем", false);
+      }
+    }
+
+    // старт
+    document.addEventListener("DOMContentLoaded", () => {
+      btnRef.addEventListener("click", loadFeeds);
+      loadFeeds();
+      // освежување на 10 минути
+      setInterval(loadFeeds, 10 * 60 * 1000);
     });
   </script>
 </body>
