@@ -1,0 +1,12 @@
+{
+  "generated_at": "manual test",
+  "groups": [
+    {
+      "region": "Македонија",
+      "items": [
+        { "source": "Test", "title": "Тест вест 1", "link": "https://mia.mk/" },
+        { "source": "Test", "title": "Тест вест 2", "link": "https://makfax.com.mk/" }
+      ]
+    }
+  ]
+}
