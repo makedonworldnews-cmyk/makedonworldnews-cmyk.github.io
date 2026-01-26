@@ -217,6 +217,9 @@
     const statusEl = document.getElementById("rss-status");
     const feedEl = document.getElementById("rss-feed");
     const btn = document.getElementById("btn-refresh");
+if(!statusEl || !feedEl || !btn){
+  console.error("Missing elements:", { statusEl, feedEl, btn });
+}
 
     function esc(s){
       return (s ?? "").toString()
@@ -290,9 +293,10 @@
       }
     }
 
-    btn.addEventListener("click", load);
-    load();
-    setInterval(load, 10 * 60 * 1000);
+    if(btn) btn.addEventListener("click", load);
+load();
+setInterval(load, 10 * 60 * 1000);
+
   </script>
 </body>
 </html>
