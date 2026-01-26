@@ -359,7 +359,76 @@ const when = whenFmt ? ` • ${whenFmt}` : "";
   }
 }
 
+<script>
+document.addEventListener("DOMContentLoaded", () => {
+  const statusEl = document.getElementById("rss-status");
+  const feedEl = document.getElementById("rss-feed");
+  const btn = document.getElementById("btn-refresh");
 
-  </script>
+  function esc(s){
+    return (s ?? "").toString()
+      .replaceAll("&","&amp;")
+      .replaceAll("<","&lt;")
+      .replaceAll(">","&gt;")
+      .replaceAll('"',"&quot;")
+      .replaceAll("'","&#039;");
+  }
+
+  function formatMKDate(iso){
+    if(!iso) return "";
+    const d = new Date(iso);
+    if(isNaN(d)) return iso;
+    const months = ["јан.","фев.","мар.","апр.","мај","јун.","јул.","авг.","сеп.","окт.","ное.","дек."];
+    return `${String(d.getDate()).padStart(2,"0")} ${months[d.getMonth()]} ${d.getFullYear()}, ${String(d.getHours()).padStart(2,"0")}:${String(d.getMinutes()).padStart(2,"0")}`;
+  }
+
+  function render(data){
+    feedEl.innerHTML = "";
+    if(!data || !Array.isArray(data.groups)){
+      statusEl.textContent = "Нема податоци.";
+      return;
+    }
+
+    let total = 0;
+    for(const group of data.groups){
+      const h3 = document.createElement("h3");
+      h3.textContent = "🌍 " + (group.region || "Регион");
+      feedEl.appendChild(h3);
+
+      for(const it of (group.items || [])){
+        total++;
+        const div = document.createElement("div");
+        div.className = "rss-item";
+        div.innerHTML = `
+          <strong>[${esc(it.source || "Извор")}]</strong> ${esc(it.title || "")}<br>
+          <a href="${esc(it.link || "#")}" target="_blank" rel="noopener">Прочитај повеќе</a>
+        `;
+        feedEl.appendChild(div);
+      }
+    }
+
+    const when = formatMKDate(data.updatedAt || data.generated_at);
+    statusEl.textContent = `Ажурирано (${total})${when ? " • " + when : ""}`;
+  }
+
+  async function load(){
+    statusEl.textContent = "Вчитување…";
+    try{
+      const res = await fetch("data/news.json?ts=" + Date.now(), { cache: "no-store" });
+      if(!res.ok) throw new Error(res.status);
+      const data = await res.json();
+      render(data);
+    }catch(e){
+      statusEl.textContent = "Нема вести.";
+      feedEl.innerHTML = `<div style="color:#a00">⚠️ Не можам да го вчитам data/news.json</div>`;
+      console.error(e);
+    }
+  }
+
+  if(btn) btn.addEventListener("click", load);
+  load();
+});
+</script>
+
 </body>
 </html>
