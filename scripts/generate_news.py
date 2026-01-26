@@ -117,3 +117,14 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
+    # --- ATOMIC WRITE (SAFE) ---
+tmp = OUT_FILE.with_suffix(".json.tmp")
+
+tmp.write_text(
+    json.dumps(out, ensure_ascii=False, indent=2),
+    encoding="utf-8"
+)
+
+# replace is atomic on GitHub Actions runner
+tmp.replace(OUT_FILE)
+
