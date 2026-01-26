@@ -252,7 +252,7 @@
       statusEl.textContent = "Вчитување…";
       try{
         // cache-bust за да не зема стара верзија
-        const res = await fetch("news.json?ts=" + Date.now(), { cache:"no-store" });
+        const res = await fetch("data/news.json?ts=" + Date.now(), { cache:"no-store" });
         if(!res.ok) throw new Error("HTTP " + res.status);
         const data = await res.json();
         render(data);
