@@ -6,73 +6,6 @@
   <title>Makedon World News</title>
 
   <style>
-    <script>
-  const statusEl = document.getElementById("rss-status");
-  const feedEl = document.getElementById("rss-feed");
-  const btn = document.getElementById("btn-refresh");
-
-  function esc(s){
-    return (s ?? "").toString()
-      .replaceAll("&","&amp;").replaceAll("<","&lt;").replaceAll(">","&gt;")
-      .replaceAll('"',"&quot;").replaceAll("'","&#039;");
-  }
-
-  function render(data){
-    feedEl.innerHTML = "";
-
-    if(!data || !Array.isArray(data.groups)){
-      statusEl.textContent = "Нема податоци (data/news.json).";
-      return;
-    }
-
-    let total = 0;
-
-    for(const group of data.groups){
-      const h3 = document.createElement("h3");
-      h3.textContent = "🌍 " + (group.region || "Регион");
-      feedEl.appendChild(h3);
-
-      const items = Array.isArray(group.items) ? group.items : [];
-      for(const it of items){
-        total++;
-        const div = document.createElement("div");
-        div.className = "rss-item";
-        div.innerHTML = `
-          <strong>[${esc(it.source || "Извор")}]</strong> ${esc(it.title || "")}<br>
-          <a href="${esc(it.link || "#")}" target="_blank" rel="noopener">Прочитај повеќе</a>
-        `;
-        feedEl.appendChild(div);
-      }
-    }
-
-    const when = data.updatedAt ? ` • ${data.updatedAt}` : "";
-    statusEl.textContent = total ? `Ажурирано (${total})${when}` : "Нема вчитани вести.";
-  }
-
-  async function load(){
-    statusEl.textContent = "Вчитување…";
-    try{
-      const res = await fetch("data/news.json?ts=" + Date.now(), { cache:"no-store" });
-
-      if(!res.ok) throw new Error("HTTP " + res.status);
-      const data = await res.json();
-      render(data);
-    }catch(e){
-      statusEl.textContent = "Нема вести (провери data/news.json).";
-      feedEl.innerHTML = `
-        <div style="color:#a00;font-size:0.95em;">
-          ⚠️ Не можам да прочитам <code>data/news.json</code>.
-        </div>
-      `;
-      console.error(e);
-    }
-  }
-
-  btn.addEventListener("click", load);
-  load();
-  setInterval(load, 10 * 60 * 1000);
-</script>
-
     body{
       margin:0;
       font-family:system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Ubuntu,sans-serif;
@@ -93,11 +26,13 @@
       width:100%;
       height:auto;
       border-radius:12px;
+      display:block;
+      margin:0 auto;
     }
 
     .site-title{
       font-size:2.6em;
-      font-weight:700;
+      font-weight:800;
       margin:12px 0 6px;
     }
 
@@ -156,11 +91,17 @@
       padding:8px 12px;
       border-radius:10px;
       cursor:pointer;
-      font-weight:600;
+      font-weight:700;
     }
     .btn:hover{ background:#fafafa; }
 
-    .rss-item{ margin:10px 0 14px; }
+    .rss-item{
+      margin:10px 0 14px;
+      padding:12px;
+      border:1px solid #eee;
+      border-radius:12px;
+      background:#fff;
+    }
     .rss-item strong{ display:inline-block; margin-bottom:2px; }
 
     footer{
@@ -236,24 +177,22 @@
       <p>Makedon World News не креира оригинална новинарска содржина – агрегира и упатува кон оригинални извори,
       со јасно наведување на изворот за секоја вест.</p>
       <p>Целта е транспарентно и непристрасно да прикажеме повеќе релевантни извори за ист настан.</p>
-    
-<section id="rss">
-  <h2>📰 Вести во живо</h2>
+    </section>
 
-  <div class="rss-topbar">
-    <div class="badge" id="rss-status">Подготовка…</div>
-    <button class="btn" id="btn-refresh" type="button">↻ Освежи</button>
-  </div>
+    <section id="rss">
+      <h2>📰 Вести во живо</h2>
 
-  <div id="rss-feed"></div>
+      <div class="rss-topbar">
+        <div class="badge" id="rss-status">Подготовка…</div>
+        <button class="btn" id="btn-refresh" type="button">↻ Освежи</button>
+      </div>
 
-  <p style="font-size:0.9em;color:#777;margin-top:12px;">
-    Забелешка: На GitHub Pages RSS најстабилно работи преку локален <code>data/news.json</code> (генериран автоматски).
-  </p>
-</section>
+      <div id="rss-feed"></div>
 
-  
-    
+      <p style="font-size:0.9em;color:#777;margin-top:12px;">
+        Забелешка: На GitHub Pages RSS најстабилно работи преку локален <code>data/news.json</code> (генериран автоматски).
+      </p>
+    </section>
 
   </div>
 
@@ -275,10 +214,10 @@
   </footer>
 
   <script>
-    <script>
-  const statusEl = document.getElementById("rss-status");
-  const feedEl = document.getElementById("rss-feed");
-  const btn = document.getElementById("btn-refresh");
+    const statusEl = document.getElementById("rss-status");
+    const feedEl = document.getElementById("rss-feed");
+    const btn = document.getElementById("btn-refresh");
+
     function esc(s){
       return (s ?? "").toString()
         .replaceAll("&","&amp;").replaceAll("<","&lt;").replaceAll(">","&gt;")
@@ -288,14 +227,23 @@
     function render(data){
       feedEl.innerHTML = "";
 
-      if(!data || !Array.isArray(data.groups)){
-        statusEl.textContent = "Нема податоци (news.json).";
+      if(!data){
+        statusEl.textContent = "Нема податоци.";
+        return;
+      }
+
+      // поддршка за двата формата:
+      // 1) { generated_at, groups:[...] }
+      // 2) { updatedAt, groups:[...] }  (кај тебе ова се гледа во data/news.json)
+      const groups = Array.isArray(data.groups) ? data.groups : null;
+      if(!groups){
+        statusEl.textContent = "Нема податоци (data/news.json).";
         return;
       }
 
       let total = 0;
 
-      for(const group of data.groups){
+      for(const group of groups){
         const h3 = document.createElement("h3");
         h3.textContent = "🌍 " + (group.region || "Регион");
         feedEl.appendChild(h3);
@@ -303,6 +251,7 @@
         const items = Array.isArray(group.items) ? group.items : [];
         for(const it of items){
           total++;
+
           const div = document.createElement("div");
           div.className = "rss-item";
           div.innerHTML = `
@@ -313,44 +262,37 @@
         }
       }
 
-      const when = data.generated_at ? ` • ${data.generated_at}` : "";
+      const whenRaw = data.updatedAt || data.generated_at || data.generated_at_utc || "";
+      const when = whenRaw ? ` • ${esc(whenRaw)}` : "";
       statusEl.textContent = total ? `Ажурирано (${total})${when}` : "Нема вчитани вести.";
     }
 
     async function load(){
       statusEl.textContent = "Вчитување…";
       try{
-        // cache-bust за да не зема стара верзија
         const res = await fetch("data/news.json?ts=" + Date.now(), { cache:"no-store" });
         if(!res.ok) throw new Error("HTTP " + res.status);
+
         const data = await res.json();
         render(data);
       }catch(e){
         statusEl.textContent = "Нема вести (провери data/news.json).";
         feedEl.innerHTML = `
           <div style="color:#a00;font-size:0.95em;">
-            ⚠️ Не можам да прочитам <code>data/news.json</code>.
-            Следен чекор: додади <code>data/news.json</code> (или активирај GitHub Actions генератор).
+            ⚠️ Не можам да го вчитам <code>data/news.json</code>.
+            (Отвори го линкот директно за тест.)
+          </div>
+          <div style="margin-top:8px;font-size:0.9em;">
+            <a href="data/news.json" target="_blank" rel="noopener">Отвори data/news.json</a>
           </div>
         `;
+        console.error(e);
       }
     }
 
-    async function load(){
-  statusEl.textContent = "Вчитување…";
-  try{
-    const res = await fetch("data/news.json?ts=" + Date.now(), { cache:"no-store" });
-    if(!res.ok) throw new Error("HTTP " + res.status);
-    const data = await res.json();
-    render(data);
-  }catch(e){
-    statusEl.textContent = "Нема вести (провери data/news.json).";
-    feedEl.innerHTML = `
-      <div style="color:#a00;font-size:0.95em;">
-        ⚠️ Не можам да го вчитам <code>data/news.json</code>.
-      </div>
-    `;
-    console.error(e);
-  }
-}
-
+    btn.addEventListener("click", load);
+    load();
+    setInterval(load, 10 * 60 * 1000);
+  </script>
+</body>
+</html>
