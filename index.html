@@ -207,7 +207,7 @@
 
   <script>
     const statusEl = document.getElementById("rss-status");
-    const feedEl = document.getElementById("rss-feed");
+    const res = await fetch("data/news.json?ts=" + Date.now(), { cache:"no-store" });
     const btn = document.getElementById("btn-refresh");
 
     function esc(s){
