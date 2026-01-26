@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-26T16:28:24Z",
+  "generated_at": "2026-01-26T16:28:40Z",
   "items": [
     {
       "region": "Македонија",
@@ -109,6 +109,20 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "Netanyahu says next phase of ceasefire is ‘demilitarising’ Gaza",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/1/26/netanyahu-says-next-phase-of-ceasefire-is-demilitarising-gaza?traffic_source=rss",
+      "published": "Mon, 26 Jan 2026 16:22:44 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "As US ‘armada’ approaches, Iran warns of dire consequences if attacked",
+      "link": "https://www.aljazeera.com/news/2026/1/26/as-us-armada-approaches-iran-warns-of-dire-consequences-if-attacked?traffic_source=rss",
+      "published": "Mon, 26 Jan 2026 16:19:49 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "Trump’s second term: ‘Reality has overtaken satire’",
       "link": "https://www.aljazeera.com/video/upfront/2026/1/26/trumps-second-term-reality-has-overtaken?traffic_source=rss",
       "published": "Mon, 26 Jan 2026 15:59:37 +0000"
@@ -126,20 +140,6 @@
       "title": "Winter storm causes deaths, power outages and flight cancellations in US",
       "link": "https://www.aljazeera.com/news/2026/1/26/winter-storm-causes-deaths-power-outages-and-flight-cancellations-in-us?traffic_source=rss",
       "published": "Mon, 26 Jan 2026 14:58:55 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Gustavo Petro: Colombia’s former rebel fighter turned president",
-      "link": "https://www.aljazeera.com/features/2026/1/26/gustavo-petro-colombias-former-rebel-fighter-turned-president-2?traffic_source=rss",
-      "published": "Mon, 26 Jan 2026 14:41:12 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Trump says US Justice Department ‘looking at’ Ilhan Omar’s wealth",
-      "link": "https://www.aljazeera.com/news/2026/1/26/trump-says-justice-department-looking-at-ilhan-omars-wealth?traffic_source=rss",
-      "published": "Mon, 26 Jan 2026 14:30:03 +0000"
     }
   ]
 }
