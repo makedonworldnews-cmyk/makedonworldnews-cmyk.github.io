@@ -317,7 +317,16 @@ async function load(){
 
   try{
     const url = "data/news.json?ts=" + Date.now();
+    async function load(){
+  statusEl.textContent = "Вчитување…";
+
+  const controller = new AbortController();
+  const t = setTimeout(() => controller.abort(), 12000); // 12 сек.
+
+  try{
+    const url = "data/news.json?ts=" + Date.now();
     const res = await fetch(url, { cache:"no-store", signal: controller.signal });
+
     if(!res.ok) throw new Error("HTTP " + res.status);
 
     const data = await res.json();
@@ -326,7 +335,8 @@ async function load(){
     statusEl.textContent = "Нема вести (провери data/news.json).";
     feedEl.innerHTML = `
       <div style="color:#a00;font-size:0.95em;">
-        ⚠️ Вчитувањето заглави или падна. Отвори: <a href="data/news.json" target="_blank" rel="noopener">data/news.json</a>
+        ⚠️ Вчитувањето заглави или падна. Отвори: 
+        <a href="data/news.json" target="_blank" rel="noopener">data/news.json</a>
       </div>
     `;
     console.error(e);
