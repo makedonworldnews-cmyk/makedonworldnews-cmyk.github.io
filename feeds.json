@@ -1,0 +1,8 @@
+{
+  "feeds": [
+    { "region": "Македонија", "source": "MIA", "url": "https://mia.mk/feed/" },
+    { "region": "Балкан", "source": "Balkan Insight", "url": "https://balkaninsight.com/feed/" },
+    { "region": "Европа", "source": "Euronews", "url": "https://www.euronews.com/rss?level=home" },
+    { "region": "Свет", "source": "Reuters", "url": "https://feeds.reuters.com/reuters/topNews" }
+  ]
+}
