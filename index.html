@@ -206,10 +206,10 @@
   </footer>
 
   <script>
-    const statusEl = document.getElementById("rss-status");
-    const res = await fetch("data/news.json?ts=" + Date.now(), { cache:"no-store" });
-    const btn = document.getElementById("btn-refresh");
-
+    <script>
+  const statusEl = document.getElementById("rss-status");
+  const feedEl = document.getElementById("rss-feed");
+  const btn = document.getElementById("btn-refresh");
     function esc(s){
       return (s ?? "").toString()
         .replaceAll("&","&amp;").replaceAll("<","&lt;").replaceAll(">","&gt;")
@@ -267,10 +267,21 @@
       }
     }
 
-    btn.addEventListener("click", load);
-    load();
-    // стабилно освежување (10 мин)
-    setInterval(load, 10 * 60 * 1000);
-  </script>
-</body>
-</html>
+    async function load(){
+  statusEl.textContent = "Вчитување…";
+  try{
+    const res = await fetch("data/news.json?ts=" + Date.now(), { cache:"no-store" });
+    if(!res.ok) throw new Error("HTTP " + res.status);
+    const data = await res.json();
+    render(data);
+  }catch(e){
+    statusEl.textContent = "Нема вести (провери data/news.json).";
+    feedEl.innerHTML = `
+      <div style="color:#a00;font-size:0.95em;">
+        ⚠️ Не можам да го вчитам <code>data/news.json</code>.
+      </div>
+    `;
+    console.error(e);
+  }
+}
+
