@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-26T20:54:10Z",
+  "updatedAt": "2026-01-26T21:48:36Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Градоначалничката на Париз ги откри имињата на научниците кои ќе бидат врежани на Ајфеловата кула",
+          "link": "https://makfax.com.mk/svet/%d0%b3%d1%80%d0%b0%d0%b4%d0%be%d0%bd%d0%b0%d1%87%d0%b0%d0%bb%d0%bd%d0%b8%d1%87%d0%ba%d0%b0%d1%82%d0%b0-%d0%bd%d0%b0-%d0%bf%d0%b0%d1%80%d0%b8%d0%b7-%d0%b3%d0%b8-%d0%be%d1%82%d0%ba%d1%80%d0%b8-%d0%b8/",
+          "published": "Mon, 26 Jan 2026 21:02:58 +0000"
         },
         {
           "source": "Makfax",
@@ -35,40 +41,34 @@
           "published": "Mon, 26 Jan 2026 19:36:34 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Иран: Подгответе се за најлошото сценарио",
-          "link": "https://makfax.com.mk/svet/%d0%b8%d1%80%d0%b0%d0%bd-%d0%bf%d0%be%d0%b4%d0%b3%d0%be%d1%82%d0%b2%d0%b5%d1%82%d0%b5-%d1%81%d0%b5-%d0%b7%d0%b0-%d0%bd%d0%b0%d1%98%d0%bb%d0%be%d1%88%d0%be%d1%82%d0%be-%d1%81%d1%86%d0%b5%d0%bd%d0%b0/",
-          "published": "Mon, 26 Jan 2026 19:18:03 +0000"
+          "source": "NetPress",
+          "title": "Вучиќ не исклучува можност земјите од Западен Балкан да се приклучат кон ЕУ заедно со Украина",
+          "link": "https://netpress.com.mk/vuchik-ne-iskluchuva-mozhnost-zemjite-od-zapaden-balkan-da-se-prikluchat-kon-eu-zaedno-so-ukraina/",
+          "published": "Mon, 26 Jan 2026 21:45:07 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Американска флотила со носач на авиони пристигна на Блискиот исток",
-          "link": "https://netpress.com.mk/amerikanska-flotila-so-nosach-na-avioni-pristigna-na-bliskiot-istok/",
-          "published": "Mon, 26 Jan 2026 20:36:55 +0000"
+          "title": "Уште 20 земји се пријавиле да се приклучат кон Одборот за мир на Трамп",
+          "link": "https://netpress.com.mk/ushte-20-zemji-se-prijavile-da-se-prikluchat-kon-odborot-za-mir-na-tramp/",
+          "published": "Mon, 26 Jan 2026 21:37:20 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Зголемен водостој на реките и ризик од локални излевања",
-          "link": "https://netpress.com.mk/zgolemen-vodostoj-na-rekite-i-rizik-od-lokalni-izlevana/",
-          "published": "Mon, 26 Jan 2026 20:30:51 +0000"
+          "title": "ЕП ракомет: Данска обезбеди полуфинале со победата над Германија",
+          "link": "https://netpress.com.mk/ep-rakomet-danska-obezbedi-polufinale-so-pobedata-nad-germanija/",
+          "published": "Mon, 26 Jan 2026 21:28:35 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Нова иницијатива од Брисел за средба Мaкедонија-Бугарија",
-          "link": "https://netpress.com.mk/nova-iniczijativa-od-brisel-za-sredba-makedonija-bugarija/",
-          "published": "Mon, 26 Jan 2026 20:28:51 +0000"
+          "title": "Паднаа над 100 литри дожд во Грција, сателитите снимија десетици илјади молњи",
+          "link": "https://netpress.com.mk/padnaa-nad-100-litri-dozhd-vo-grczija-satelitite-snimija-deseticzi-iljadi-molni/",
+          "published": "Mon, 26 Jan 2026 21:21:13 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Трамп не се откажува од мировниот процес во Украина",
-          "link": "https://netpress.com.mk/tramp-ne-se-otkazhuva-od-mirovniot-proczes-vo-ukraina/",
-          "published": "Mon, 26 Jan 2026 20:21:20 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Индија и ЕУ ги финализираа разговорите за историскиот трговски договор",
-          "link": "https://netpress.com.mk/indija-i-eu-gi-finaliziraa-razgovorite-za-istoriskiot-trgovski-dogovor/",
-          "published": "Mon, 26 Jan 2026 20:18:14 +0000"
+          "title": "Белата куќа: Трамп не сака луѓе да бидат убивани на американските улици; Сепак е согласен со гувернерот на Минесота",
+          "link": "https://netpress.com.mk/belata-kuka-tramp-ne-saka-luge-da-bidat-ubivani-na-amerikanskite-uliczi-sepak-e-soglasen-so-guvernerot-na-minesota/",
+          "published": "Mon, 26 Jan 2026 21:11:00 +0000"
         }
       ]
     },
@@ -80,6 +80,12 @@
           "title": "Israel says it has retrieved remains of final Gaza hostage",
           "link": "https://www.bbc.com/news/articles/c5ydvz7nz4mo?at_medium=RSS&at_campaign=rss",
           "published": "Mon, 26 Jan 2026 18:37:05 GMT"
+        },
+        {
+          "source": "BBC",
+          "title": "New Iran videos show bodies piled in hospital and snipers on roofs",
+          "link": "https://www.bbc.com/news/articles/c1m7kde3y3zo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 26 Jan 2026 21:34:40 GMT"
         },
         {
           "source": "BBC",
@@ -95,15 +101,15 @@
         },
         {
           "source": "BBC",
-          "title": "France debates under-15s social media ban endorsed by Macron",
+          "title": "French MPs take first step to ban social media for under-15s",
           "link": "https://www.bbc.com/news/articles/c07x003vx0yo?at_medium=RSS&at_campaign=rss",
-          "published": "Mon, 26 Jan 2026 12:14:43 GMT"
+          "published": "Mon, 26 Jan 2026 21:46:41 GMT"
         },
         {
-          "source": "BBC",
-          "title": "Spain slashes speed limit on popular train route after fault found",
-          "link": "https://www.bbc.com/news/articles/ckgy049ypd5o?at_medium=RSS&at_campaign=rss",
-          "published": "Mon, 26 Jan 2026 15:17:32 GMT"
+          "source": "Al Jazeera",
+          "title": "Canadian PM Carney unveils multibillion-dollar push to lower food costs",
+          "link": "https://www.aljazeera.com/economy/2026/1/26/canadian-pm-carney-unveils-multibillion-dollar-push-to-lower-food-costs?traffic_source=rss",
+          "published": "Mon, 26 Jan 2026 21:14:44 +0000"
         },
         {
           "source": "Al Jazeera",
@@ -128,12 +134,6 @@
           "title": "Much of US digging out from snow, sleet, ice from massive winter storm",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/1/26/much-of-us-digging-out-from-snow-sleet-ice-from-massive-winter-storm?traffic_source=rss",
           "published": "Mon, 26 Jan 2026 19:35:57 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Lula, Trump discuss ‘Board of Peace’, agree to meet in Washington: Brazil",
-          "link": "https://www.aljazeera.com/news/2026/1/26/lula-trump-discuss-board-of-peace-agree-to-meet-in-washington-brazil?traffic_source=rss",
-          "published": "Mon, 26 Jan 2026 19:11:57 +0000"
         }
       ]
     }
