@@ -183,7 +183,8 @@
       <h2>📰 Вести во живо</h2>
 
       <div class="rss-topbar">
-        <div class="badge" id="rss-status">ТЕСТ 123</div>
+        <div class="badge" id="rss-status">Подготовка…</div>
+
         <button class="btn" id="btn-refresh" type="button">↻ Освежи</button>
       </div>
 
@@ -287,27 +288,32 @@ const when = whenFmt ? ` • ${whenFmt}` : "";
     }
 
     async function load(){
-      statusEl.textContent = "Вчитување…";
-      try{
-        const res = await fetch("data/news.json?ts=" + Date.now(), { cache:"no-store" });
-        if(!res.ok) throw new Error("HTTP " + res.status);
+  statusEl.textContent = "Вчитување…";
 
-        const data = await res.json();
-        render(data);
-      }catch(e){
-        statusEl.textContent = "Нема вести (провери data/news.json).";
-        feedEl.innerHTML = `
-          <div style="color:#a00;font-size:0.95em;">
-            ⚠️ Не можам да го вчитам <code>data/news.json</code>.
-            (Отвори го линкот директно за тест.)
-          </div>
-          <div style="margin-top:8px;font-size:0.9em;">
-            <a href="data/news.json" target="_blank" rel="noopener">Отвори data/news.json</a>
-          </div>
-        `;
-        console.error(e);
-      }
-    }
+  const controller = new AbortController();
+  const t = setTimeout(() => controller.abort(), 12000); // 12 сек.
+
+  try{
+    const url = "data/news.json?ts=" + Date.now();
+    const res = await fetch(url, { cache:"no-store", signal: controller.signal });
+    if(!res.ok) throw new Error("HTTP " + res.status);
+
+    const data = await res.json();
+    render(data);
+  }catch(e){
+    statusEl.textContent = "Нема вести (провери data/news.json).";
+    feedEl.innerHTML = `
+      <div style="color:#a00;font-size:0.95em;">
+        ⚠️ Вчитувањето заглави или падна. Отвори:
+        <a href="data/news.json" target="_blank" rel="noopener">data/news.json</a>
+      </div>
+    `;
+    console.error(e);
+  }finally{
+    clearTimeout(t);
+  }
+}
+
 
     if(btn) btn.addEventListener("click", load);
 async function load(){
