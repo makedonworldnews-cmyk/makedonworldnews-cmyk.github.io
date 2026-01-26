@@ -225,7 +225,22 @@ if(!statusEl || !feedEl || !btn){
       return (s ?? "").toString()
         .replaceAll("&","&amp;").replaceAll("<","&lt;").replaceAll(">","&gt;")
         .replaceAll('"',"&quot;").replaceAll("'","&#039;");
-    }
+    }function formatMKDate(iso){
+  if(!iso) return "";
+  const d = new Date(iso);
+  if(isNaN(d)) return iso;
+
+  const months = ["јан.","фев.","мар.","апр.","мај","јун.","јул.","авг.","сеп.","окт.","ное.","дек."];
+
+  const dd = String(d.getDate()).padStart(2, "0");
+  const mm = months[d.getMonth()];
+  const yyyy = d.getFullYear();
+  const hh = String(d.getHours()).padStart(2, "0");
+  const min = String(d.getMinutes()).padStart(2, "0");
+
+  return `${dd} ${mm} ${yyyy}, ${hh}:${min}`;
+}
+
 
     function render(data){
       feedEl.innerHTML = "";
@@ -266,8 +281,9 @@ if(!statusEl || !feedEl || !btn){
       }
 
       const whenRaw = data.updatedAt || data.generated_at || data.generated_at_utc || "";
-      const when = whenRaw ? ` • ${esc(whenRaw)}` : "";
-      statusEl.textContent = total ? `Ажурирано (${total})${when}` : "Нема вчитани вести.";
+const whenFmt = formatMKDate(whenRaw);
+const when = whenFmt ? ` • ${whenFmt}` : "";
+
     }
 
     async function load(){
