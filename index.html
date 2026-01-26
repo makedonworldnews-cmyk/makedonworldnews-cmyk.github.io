@@ -360,6 +360,7 @@ const when = whenFmt ? ` • ${whenFmt}` : "";
 }
 
 <script>
+<script>
 document.addEventListener("DOMContentLoaded", () => {
   const statusEl = document.getElementById("rss-status");
   const feedEl = document.getElementById("rss-feed");
@@ -379,23 +380,29 @@ document.addEventListener("DOMContentLoaded", () => {
     const d = new Date(iso);
     if(isNaN(d)) return iso;
     const months = ["јан.","фев.","мар.","апр.","мај","јун.","јул.","авг.","сеп.","окт.","ное.","дек."];
-    return `${String(d.getDate()).padStart(2,"0")} ${months[d.getMonth()]} ${d.getFullYear()}, ${String(d.getHours()).padStart(2,"0")}:${String(d.getMinutes()).padStart(2,"0")}`;
+    const dd = String(d.getDate()).padStart(2,"0");
+    const hh = String(d.getHours()).padStart(2,"0");
+    const min = String(d.getMinutes()).padStart(2,"0");
+    return `${dd} ${months[d.getMonth()]} ${d.getFullYear()}, ${hh}:${min}`;
   }
 
   function render(data){
     feedEl.innerHTML = "";
+
     if(!data || !Array.isArray(data.groups)){
       statusEl.textContent = "Нема податоци.";
       return;
     }
 
     let total = 0;
+
     for(const group of data.groups){
       const h3 = document.createElement("h3");
       h3.textContent = "🌍 " + (group.region || "Регион");
       feedEl.appendChild(h3);
 
-      for(const it of (group.items || [])){
+      const items = Array.isArray(group.items) ? group.items : [];
+      for(const it of items){
         total++;
         const div = document.createElement("div");
         div.className = "rss-item";
@@ -407,27 +414,45 @@ document.addEventListener("DOMContentLoaded", () => {
       }
     }
 
-    const when = formatMKDate(data.updatedAt || data.generated_at);
-    statusEl.textContent = `Ажурирано (${total})${when ? " • " + when : ""}`;
+    const whenRaw = data.updatedAt || data.generated_at || data.generated_at_utc || "";
+    const whenFmt = formatMKDate(whenRaw);
+    statusEl.textContent = total
+      ? `Ажурирано (${total})${whenFmt ? " • " + whenFmt : ""}`
+      : "Нема вчитани вести.";
   }
 
   async function load(){
     statusEl.textContent = "Вчитување…";
+
+    const controller = new AbortController();
+    const t = setTimeout(() => controller.abort(), 12000);
+
     try{
-      const res = await fetch("data/news.json?ts=" + Date.now(), { cache: "no-store" });
-      if(!res.ok) throw new Error(res.status);
+      const res = await fetch("data/news.json?ts=" + Date.now(), { cache:"no-store", signal: controller.signal });
+      if(!res.ok) throw new Error("HTTP " + res.status);
+
       const data = await res.json();
       render(data);
     }catch(e){
-      statusEl.textContent = "Нема вести.";
-      feedEl.innerHTML = `<div style="color:#a00">⚠️ Не можам да го вчитам data/news.json</div>`;
+      statusEl.textContent = "Нема вести (провери data/news.json).";
+      feedEl.innerHTML = `
+        <div style="color:#a00;font-size:0.95em;">
+          ⚠️ Не можам да го вчитам <code>data/news.json</code>.
+          <a href="data/news.json" target="_blank" rel="noopener">Отвори</a>
+        </div>
+      `;
       console.error(e);
+    }finally{
+      clearTimeout(t);
     }
   }
 
   if(btn) btn.addEventListener("click", load);
   load();
+  setInterval(load, 10 * 60 * 1000);
 });
+</script>
+
 </script>
 
 </body>
