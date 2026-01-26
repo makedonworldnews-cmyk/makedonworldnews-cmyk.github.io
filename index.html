@@ -316,8 +316,16 @@ const when = whenFmt ? ` • ${whenFmt}` : "";
 }
 
 
-    if(btn) btn.addEventListener("click", load);
-async function load(){
+    document.addEventListener("DOMContentLoaded", () => {
+  const statusEl = document.getElementById("rss-status");
+  const feedEl = document.getElementById("rss-feed");
+  const btn = document.getElementById("btn-refresh");
+
+  if(btn) btn.addEventListener("click", load);
+  load();
+  setInterval(load, 10 * 60 * 1000);
+});
+
   statusEl.textContent = "Вчитување…";
   const controller = new AbortController();
   const t = setTimeout(() => controller.abort(), 12000); // 12 сек.
