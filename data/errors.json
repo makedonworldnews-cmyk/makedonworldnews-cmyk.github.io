@@ -1,0 +1,10 @@
+{
+  "updatedAt": "2026-01-26T08:34:24Z",
+  "errors": [
+    {
+      "source": "МИА",
+      "url": "https://mia.mk/rss",
+      "error": "404 Client Error: Not Found for url: https://mia.mk/rss"
+    }
+  ]
+}
