@@ -3,122 +3,126 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Makedon World News | Живи Вести</title>
+    <title>Makedon World News | Global Aggregator</title>
     <style>
-        :root { --primary: #d32f2f; --dark: #1a1a1a; --light: #f4f4f4; }
-        body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; margin: 0; background: var(--light); color: #333; }
-        header { background: var(--dark); color: white; text-align: center; padding: 2rem 1rem; box-shadow: 0 4px 10px rgba(0,0,0,0.3); }
-        .container { max-width: 1000px; margin: 20px auto; padding: 0 15px; }
-        .controls { display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px; background: white; padding: 15px; border-radius: 8px; }
-        #news-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 20px; }
-        .news-card { background: white; border-radius: 10px; overflow: hidden; box-shadow: 0 4px 6px rgba(0,0,0,0.1); transition: 0.3s; display: flex; flex-direction: column; }
-        .news-card:hover { transform: translateY(-5px); box-shadow: 0 8px 15px rgba(0,0,0,0.2); }
-        .news-card img { width: 100%; height: 180px; object-fit: cover; background: #eee; }
-        .news-content { padding: 15px; flex-grow: 1; }
-        .news-source { font-size: 0.75rem; text-transform: uppercase; color: var(--primary); font-weight: bold; }
-        .news-title { font-size: 1.1rem; margin: 10px 0; font-weight: bold; line-height: 1.4; color: var(--dark); }
-        .news-desc { font-size: 0.9rem; color: #666; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
-        .btn-read { display: inline-block; margin-top: 15px; padding: 8px 15px; background: var(--primary); color: white; text-decoration: none; border-radius: 5px; font-size: 0.85rem; }
-        footer { background: var(--dark); color: white; text-align: center; padding: 30px; margin-top: 50px; }
-        .loading { text-align: center; grid-column: 1/-1; padding: 50px; font-weight: bold; }
+        :root { --red: #d32f2f; --black: #121212; --gray: #f8f9fa; }
+        body { font-family: 'Segoe UI', system-ui, sans-serif; margin: 0; background: var(--gray); }
+        header { background: var(--black); color: white; text-align: center; padding: 40px 20px; border-bottom: 4px solid var(--red); }
+        .container { max-width: 1100px; margin: auto; padding: 20px; }
+        
+        /* Категории */
+        .nav-tabs { display: flex; gap: 10px; margin-bottom: 20px; flex-wrap: wrap; justify-content: center; }
+        .tab-btn { padding: 10px 20px; border: none; background: white; border-radius: 5px; cursor: pointer; font-weight: bold; box-shadow: 0 2px 4px rgba(0,0,0,0.1); }
+        .tab-btn.active { background: var(--red); color: white; }
+
+        #news-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: 25px; }
+        .card { background: white; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 15px rgba(0,0,0,0.08); display: flex; flex-direction: column; transition: 0.3s; border: 1px solid #eee; }
+        .card:hover { transform: translateY(-5px); box-shadow: 0 8px 25px rgba(0,0,0,0.15); }
+        .card-body { padding: 18px; flex-grow: 1; }
+        .source-tag { font-size: 0.7rem; color: var(--red); font-weight: 800; text-transform: uppercase; letter-spacing: 1px; }
+        .title { font-size: 1.15rem; font-weight: 700; margin: 10px 0; line-height: 1.3; color: #1a1a1a; }
+        .desc { font-size: 0.9rem; color: #555; line-height: 1.5; margin-bottom: 15px; }
+        .link-btn { text-decoration: none; color: white; background: var(--black); padding: 8px 15px; border-radius: 6px; font-size: 0.85rem; display: inline-block; transition: 0.2s; }
+        .link-btn:hover { background: var(--red); }
+        
+        .loader { text-align: center; padding: 50px; font-size: 1.2rem; grid-column: 1/-1; }
+        footer { background: var(--black); color: #888; text-align: center; padding: 30px; margin-top: 50px; }
     </style>
 </head>
 <body>
 
 <header>
-    <h1>🌍 Makedon World News</h1>
-    <p>Најновите вести од Македонија и светот, во реално време.</p>
+    <h1 style="margin:0; font-size: 2.5rem;">🌍 Makedon World News</h1>
+    <p style="opacity: 0.8;">Вашиот прозорец кон светот – Информации во реално време</p>
 </header>
 
 <div class="container">
-    <div class="controls">
-        <div id="status">📡 Се вчитуваат извори...</div>
-        <button onclick="fetchDirectNews()" style="cursor:pointer; padding: 8px 15px; border: none; background: #333; color: white; border-radius: 5px;">↻ Освежи</button>
+    <div class="nav-tabs">
+        <button class="tab-btn active" onclick="loadCategory('MK')">🇲🇰 Македонија</button>
+        <button class="tab-btn" onclick="loadCategory('AI')">🤖 AI Технологија</button>
+        <button class="tab-btn" onclick="loadCategory('WORLD')">🌐 Светот</button>
     </div>
 
     <div id="news-grid">
-        <div class="loading">Ве молиме почекајте, ги собираме најновите вести...</div>
+        <div class="loader">Подготовка на вестите...</div>
     </div>
 </div>
 
 <footer>
-    <p>© 2026 Makedon World News | Сите права се задржани</p>
+    <p>© 2026 Makedon World News | Независен Агрегатор</p>
 </footer>
 
 <script>
-// ТВОЈОТ СПИСОК НА RSS ИЗВОРИ
-const RSS_SOURCES = [
-    { name: "Sitel", url: "https://sitel.com.mk/rss.xml" },
-    { name: "Kanal 5", url: "https://kanal5.com.mk/rss" },
-    { name: "A1On", url: "https://a1on.mk/feed/" },
-    { name: "Telma", url: "https://telma.com.mk/feed/" }
-];
+// ИЗВОРИ ОД ТВОЈОТ CSV ФАЈЛ
+const SOURCES = {
+    MK: [
+        { name: "Sitel", url: "https://sitel.com.mk/rss.xml" },
+        { name: "Kanal 5", url: "https://kanal5.com.mk/rss" },
+        { name: "A1On", url: "https://a1on.mk/feed/" },
+        { name: "Telma", url: "https://telma.com.mk/feed/" }
+    ],
+    AI: [
+        { name: "AI21 Labs", url: "https://www.ai21.com/rss" },
+        { name: "Anthropic", url: "https://www.anthropic.com/rss" },
+        { name: "OpenAI", url: "https://openai.com/news/rss.xml" }
+    ],
+    WORLD: [
+        { name: "BBC World", url: "https://feeds.bbci.co.uk/news/world/rss.xml" },
+        { name: "Reuters", url: "https://www.reutersagency.com/feed/" }
+    ]
+};
 
-// Proxy сервер за да не нè блокираат
 const PROXY = "https://api.allorigins.win/raw?url=";
 
-async function fetchDirectNews() {
-    const grid = document.getElementById('news-grid');
-    const status = document.getElementById('status');
-    grid.innerHTML = '<div class="loading">Проверуваме за нови вести...</div>';
-    
-    let allPosts = [];
+async function loadCategory(cat) {
+    // Промена на активен копче
+    document.querySelectorAll('.tab-btn').forEach(btn => btn.classList.remove('active'));
+    event?.target.classList.add('active');
 
-    for (let src of RSS_SOURCES) {
+    const grid = document.getElementById('news-grid');
+    grid.innerHTML = '<div class="loader">Ги влечеме најновите информации...</div>';
+    
+    let allNews = [];
+    const selectedSources = SOURCES[cat];
+
+    for (let src of selectedSources) {
         try {
-            const response = await fetch(PROXY + encodeURIComponent(src.url));
-            const text = await response.text();
+            const res = await fetch(PROXY + encodeURIComponent(src.url));
+            const text = await res.text();
             const xml = new DOMParser().parseFromString(text, "text/xml");
             const items = xml.querySelectorAll("item");
 
             items.forEach(el => {
-                let img = "https://via.placeholder.com/400x250?text=MWN+News";
-                
-                // Наоѓање на слика (RSS знае да биде комплициран)
-                const enclosure = el.querySelector("enclosure");
-                const mediaContent = el.getElementsByTagName("media:content")[0];
-                if (enclosure) img = enclosure.getAttribute("url");
-                else if (mediaContent) img = mediaContent.getAttribute("url");
-                else {
-                    const descText = el.querySelector("description")?.textContent || "";
-                    const match = descText.match(/<img[^>]+src="([^">]+)"/);
-                    if (match) img = match[1];
-                }
-
-                allPosts.push({
+                allNews.push({
                     source: src.name,
                     title: el.querySelector("title")?.textContent || "",
                     link: el.querySelector("link")?.textContent || "#",
-                    desc: el.querySelector("description")?.textContent.replace(/<\/?[^>]+(>|$)/g, "").substring(0, 120) + "...",
+                    desc: el.querySelector("description")?.textContent.replace(/<\/?[^>]+(>|$)/g, "").substring(0, 110) + "...",
                     date: new Date(el.querySelector("pubDate")?.textContent || Date.now())
                 });
             });
-        } catch (err) {
-            console.error("Грешка со " + src.name);
-        }
+        } catch (e) { console.log("Грешка со:", src.name); }
     }
 
-    // Сортирај по датум (најнови први)
-    allPosts.sort((a, b) => b.date - a.date);
+    allNews.sort((a, b) => b.date - a.date);
 
     grid.innerHTML = "";
-    allPosts.forEach(post => {
+    allNews.slice(0, 40).forEach(news => {
         grid.innerHTML += `
-            <div class="news-card">
-                <div class="news-content">
-                    <span class="news-source">${post.source} • ${post.date.toLocaleTimeString('mk-MK')}</span>
-                    <div class="news-title">${post.title}</div>
-                    <p class="news-desc">${post.desc}</p>
-                    <a href="${post.link}" target="_blank" class="btn-read">Прочитај повеќе</a>
+            <div class="card">
+                <div class="card-body">
+                    <span class="source-tag">${news.source} • ${news.date.toLocaleDateString('mk-MK')}</span>
+                    <div class="title">${news.title}</div>
+                    <p class="desc">${news.desc}</p>
+                    <a href="${news.link}" target="_blank" class="link-btn">Прочитај повеќе →</a>
                 </div>
             </div>
         `;
     });
-    status.textContent = `✅ Вчитани ${allPosts.length} вести`;
 }
 
-// Стартувај веднаш
-fetchDirectNews();
+// Стартувај со Македонија
+loadCategory('MK');
 </script>
 
 </body>
