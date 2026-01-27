@@ -4,101 +4,111 @@
     <meta charset="UTF-8">
     <meta name="google-site-verification" content="googlec2e0f8a6c564061b" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>MAKEDON WORLD NEWS | SATELITE INTERFACE 1312 🛰️</title>
+    <title>MAKEDON WORLD NEWS | OMNISCIENCE 1312 📡</title>
     
-    <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@700&family=EB+Garamond:wght@400;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&family=Cinzel:wght@700&family=EB+Garamond:wght@400;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 
     <style>
-        :root { --gold: #c5a059; --bg: #000; --panel: rgba(10, 10, 10, 0.9); --glow: rgba(197, 160, 89, 0.3); }
+        :root { --gold: #c5a059; --bg: #000; --panel: #050505; --neon: #00ff41; }
         body { font-family: 'EB Garamond', serif; background: var(--bg); color: #fff; margin: 0; overflow-x: hidden; }
 
-        /* SATELLITE SCAN LINE EFFECT */
-        body::before {
-            content: " "; position: fixed; top: 0; left: 0; width: 100%; height: 2px;
-            background: rgba(197, 160, 89, 0.1); z-index: 1000; pointer-events: none;
-            animation: scan 4s linear infinite;
+        /* SATELLITE OVERLAY */
+        #overlay {
+            position: fixed; top: 0; left: 0; width: 100%; height: 100%;
+            background: linear-gradient(rgba(18, 16, 16, 0) 50%, rgba(0, 0, 0, 0.2) 50%), 
+                        linear-gradient(90deg, rgba(255, 0, 0, 0.03), rgba(0, 255, 0, 0.01), rgba(0, 0, 255, 0.03));
+            background-size: 100% 3px, 3px 100%; pointer-events: none; z-index: 100;
         }
-        @keyframes scan { 0% { top: 0; } 100% { top: 100%; } }
 
-        header { border-bottom: 3px solid var(--gold); padding: 60px 20px; text-align: center; position: relative; }
-        .hero-img { width: 220px; border: 1px solid var(--gold); padding: 5px; box-shadow: 0 0 30px var(--glow); }
-        h1 { font-family: 'Cinzel', serif; font-size: 3.5rem; color: var(--gold); letter-spacing: 10px; margin: 15px 0; text-shadow: 0 0 15px var(--glow); }
+        header { 
+            border-bottom: 2px solid var(--gold); padding: 40px; text-align: center; 
+            background: radial-gradient(circle, #1a1a1a 0%, #000 100%);
+        }
+        .hero-logo { width: 180px; filter: drop-shadow(0 0 15px var(--gold)); animation: pulse 4s infinite; }
+        @keyframes pulse { 0% { opacity: 0.8; } 50% { opacity: 1; } 100% { opacity: 0.8; } }
+        
+        h1 { font-family: 'Cinzel', serif; font-size: 3rem; color: var(--gold); letter-spacing: 12px; margin: 10px 0; }
 
-        .ticker-wrap { background: var(--gold); color: #000; padding: 12px 0; font-weight: bold; overflow: hidden; white-space: nowrap; font-family: 'Cinzel'; }
-        .ticker-move { display: inline-block; animation: ticker 120s linear infinite; }
+        /* GOOGLE NEWS TICKER */
+        .ticker-wrap { background: #000; border-top: 1px solid var(--gold); border-bottom: 1px solid var(--gold); padding: 10px 0; overflow: hidden; }
+        .ticker-move { display: inline-block; white-space: nowrap; animation: ticker 90s linear infinite; font-family: 'Orbitron', sans-serif; color: var(--neon); font-size: 0.8rem; }
         @keyframes ticker { 0% { transform: translateX(100%); } 100% { transform: translateX(-100%); } }
 
-        .container { display: flex; max-width: 100%; }
+        .main-frame { display: flex; min-height: 80vh; }
+
+        /* TACTICAL SIDEBAR */
+        .sidebar { width: 350px; border-right: 1px solid var(--gold); background: var(--panel); padding: 30px; position: relative; }
+        .sidebar h4 { font-family: 'Orbitron', sans-serif; color: var(--gold); font-size: 0.7rem; border-bottom: 1px solid var(--gold); padding-bottom: 10px; margin-top: 30px; letter-spacing: 3px; }
         
-        /* SIDEBAR */
-        .sidebar { width: 340px; border-right: 1px solid var(--gold); padding: 40px 20px; background: var(--panel); backdrop-filter: blur(10px); }
-        .sidebar h4 { font-family: 'Cinzel', serif; color: var(--gold); border-bottom: 1px solid var(--gold); padding-bottom: 10px; margin-top: 30px; letter-spacing: 2px; }
+        .nav-link { 
+            display: block; padding: 12px 0; color: #888; text-decoration: none; font-size: 1rem; cursor: pointer; transition: 0.3s;
+            border-bottom: 1px solid rgba(197, 160, 89, 0.1); font-family: 'Cinzel', serif;
+        }
+        .nav-link:hover { color: var(--gold); background: rgba(197, 160, 89, 0.1); padding-left: 10px; }
+
+        .map-frame { border: 1px solid var(--gold); height: 200px; margin: 20px 0; background: #080808; filter: invert(1) hue-rotate(180deg) brightness(0.6); }
+
+        /* DATA GRID */
+        .content { flex-grow: 1; padding: 40px; background: rgba(0,0,0,0.9); }
+        .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: 30px; }
         
-        .nav-link { display: block; padding: 12px 0; color: #aaa; text-decoration: none; cursor: pointer; transition: 0.3s; border-bottom: 1px solid rgba(197,160,89,0.1); }
-        .nav-link:hover { color: var(--gold); padding-left: 10px; background: rgba(197,160,89,0.05); }
-
-        /* TACTICAL ELEMENTS */
-        .map-box { border: 1px solid var(--gold); height: 220px; margin: 20px 0; filter: invert(1) grayscale(1) brightness(0.8); position: relative; }
-        .hash-box { background: #080808; border: 1px solid var(--gold); padding: 15px; margin-top: 20px; font-size: 0.7rem; color: var(--gold); opacity: 0.8; }
-
-        /* NEWS GRID */
-        .content { flex-grow: 1; padding: 40px; }
-        .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(350px, 1fr)); gap: 40px; }
+        .card { border: 1px solid #222; background: #000; position: relative; transition: 0.5s; overflow: hidden; }
+        .card:hover { border-color: var(--gold); transform: scale(1.02); }
+        .card img { width: 100%; height: 200px; object-fit: cover; filter: grayscale(1) sepia(0.5); transition: 0.5s; }
+        .card:hover img { filter: grayscale(0); }
         
-        .card { border: 1px solid #333; background: #000; position: relative; transition: 0.5s; overflow: hidden; }
-        .card:hover { border-color: var(--gold); transform: translateY(-10px); box-shadow: 0 10px 30px rgba(197, 160, 89, 0.2); }
-        .card img { width: 100%; height: 250px; object-fit: cover; transition: 0.5s; filter: sepia(0.3); }
-        .card:hover img { filter: sepia(0) brightness(1.1); transform: scale(1.05); }
-        
-        .verified-tag { position: absolute; top: 15px; left: 15px; background: var(--gold); color: #000; padding: 5px 12px; font-weight: bold; font-size: 0.7rem; font-family: 'Cinzel'; z-index: 5; }
+        .tag { position: absolute; top: 10px; left: 10px; background: var(--gold); color: #000; padding: 2px 10px; font-family: 'Orbitron', sans-serif; font-size: 0.6rem; font-weight: bold; }
 
-        .card-body { padding: 25px; border-top: 1px solid #222; }
-        .card-title { font-size: 1.4rem; font-weight: bold; line-height: 1.4; height: 3.2em; overflow: hidden; color: #fff; }
+        .card-body { padding: 20px; border-top: 1px solid var(--gold); }
+        .card-title { font-size: 1.1rem; font-weight: bold; height: 3.5em; overflow: hidden; color: #fff; }
 
-        .btn-access { border: 1px solid var(--gold); background: transparent; color: var(--gold); padding: 12px; width: 100%; cursor: pointer; font-family: 'Cinzel'; margin-top: 20px; letter-spacing: 2px; }
-        .btn-access:hover { background: var(--gold); color: #000; }
+        .btn-view { border: 1px solid var(--gold); background: transparent; color: var(--gold); padding: 10px; width: 100%; cursor: pointer; font-family: 'Orbitron'; font-size: 0.7rem; margin-top: 15px; }
+        .btn-view:hover { background: var(--gold); color: #000; }
 
-        footer { border-top: 2px solid var(--gold); padding: 80px 20px; text-align: center; background: #000; }
-        .social-link { color: var(--gold); font-size: 2.2rem; margin: 0 15px; }
+        footer { border-top: 2px solid var(--gold); padding: 60px; text-align: center; }
+        .google-tools { margin-bottom: 30px; opacity: 0.6; }
+        .social-link { color: var(--gold); font-size: 2rem; margin: 0 20px; }
     </style>
 </head>
 <body>
 
+<div id="overlay"></div>
+
 <header>
-    <img src="https://raw.githubusercontent.com/makedonworldnews-cmyk/makedonworldnews-cmyk.github.io/main/hero.jpg" class="hero-img">
+    <img src="https://raw.githubusercontent.com/makedonworldnews-cmyk/makedonworldnews-cmyk.github.io/main/hero.jpg" class="hero-logo">
     <h1>Makedon World News</h1>
-    <p style="color: var(--gold); letter-spacing: 5px; opacity: 0.7;">SATELLITE DATA LINK: ACTIVE [1312]</p>
+    <div style="font-family: 'Orbitron'; font-size: 0.8rem; color: var(--gold); letter-spacing: 5px;">PLANETARY AGGREGATOR // SATELLITE 1312</div>
 </header>
 
 <div class="ticker-wrap">
-    <div id="ticker" class="ticker-move">+++ ИНИЦИЈАЛИЗАЦИЈА НА САТЕЛИТСКИ ПРЕНОС +++ ВЕРИФИКАЦИЈА НА ГЛОБАЛНИ ПОДАТОЦИ +++</div>
+    <div id="ticker" class="ticker-move">+++ SCANNING PLANET EARTH... CONNECTING TO GOOGLE BRAIN... HASH-VIM SHIELD ACTIVE +++</div>
 </div>
 
-<div class="container">
+<div class="main-frame">
     <aside class="sidebar">
-        <h4>Тактичка Мапа</h4>
-        <div class="map-box">
-            <iframe width="100%" height="100%" frameborder="0" src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d12000000!2d21.43!3d41.99!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e1!3m2!1smk!2smk!4v1" style="filter: invert(1) grayscale(1);"></iframe>
+        <h4>TACTICAL MAP</h4>
+        <div class="map-frame">
+            <iframe width="100%" height="100%" frameborder="0" src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d11862.61066708779!2d21.4314!3d41.9981!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e1!3m2!1smk!2smk!4v1312" allowfullscreen></iframe>
         </div>
 
-        <h4>Глобални Сектори</h4>
-        <div class="nav-link" onclick="setBrain('MK')">Македонија (Local Hub)</div>
-        <div class="nav-link" onclick="setBrain('Balkan')">Балкански Флукс</div>
-        <div class="nav-link" onclick="setBrain('Europe')">Европски Континент</div>
-        <div class="nav-link" onclick="setBrain('Asia')">Азиски Сектор</div>
-        <div class="nav-link" onclick="setBrain('India')">Индиски Потконтинент</div>
-        <div class="nav-link" onclick="setBrain('America')">Американски Нодус</div>
-        <div class="nav-link" onclick="setBrain('Africa')">Африкански Сектор</div>
-        <div class="nav-link" onclick="setBrain('Australia')">Австралија & Океанија</div>
-        <div class="nav-link" onclick="setBrain('Antarctica')">Антарктичка База</div>
-        <div class="nav-link" onclick="setBrain('Oceans')">Светски Океани</div>
+        <h4>SECTORS</h4>
+        <div class="nav-link" onclick="loadNews('MK')">01_MAKEDONIA</div>
+        <div class="nav-link" onclick="loadNews('Balkan')">02_BALKAN_FLUX</div>
+        <div class="nav-link" onclick="setSector('Europe')">03_EUROPE_NODE</div>
+        <div class="nav-link" onclick="setSector('Asia')">04_ASIA_GRID</div>
+        <div class="nav-link" onclick="setSector('India')">05_INDIA_PULSE</div>
+        <div class="nav-link" onclick="setSector('America')">06_USA_NORTH</div>
+        <div class="nav-link" onclick="setSector('Africa')">07_AFRICA_HUB</div>
+        <div class="nav-link" onclick="setSector('Antarctica')">08_ANTARCTIC_BASE</div>
+        <div class="nav-link" onclick="setSector('Oceans')">09_OCEANIC_DEEP</div>
 
-        <div class="hash-box">
-            #MakedonWorldNews #Brain1312 #SatelliteData #GlobalIntelligence #HashVimShield #OblivionProtocol
+        <h4>AI TRANSLATE</h4>
+        <div id="google_translate_element"></div>
+
+        <div style="margin-top: 40px; border: 1px solid var(--gold); padding: 10px; font-size: 0.6rem; color: var(--gold); font-family: 'Orbitron';">
+            #MAKEDONWORLDNEWS #BRAIN1312 #GLOBAL_MONOLITH #HASH_VIM
         </div>
-        
-        <div id="google_translate_element" style="margin-top:25px;"></div>
     </aside>
 
     <main class="content">
@@ -107,81 +117,79 @@
 </div>
 
 <footer>
+    <div class="google-tools">
+        POWERED BY GOOGLE AI | GOOGLE NEWS | GOOGLE MAPS | GOOGLE TRANSLATE
+    </div>
     <div style="margin-bottom: 30px;">
         <a href="https://m.me/makedonworldnews" class="social-link"><i class="fab fa-facebook-messenger"></i></a>
         <a href="https://t.me/makedonworldnews" class="social-link"><i class="fab fa-telegram"></i></a>
         <a href="https://wa.me/389" class="social-link"><i class="fab fa-whatsapp"></i></a>
     </div>
-    <a href="mailto:makedonworldnews@gmail.com" style="color: var(--gold); font-size: 1.8rem; text-decoration: none; font-family: 'Cinzel';">makedonworldnews@gmail.com</a>
-    <p style="margin-top: 40px; opacity: 0.4;">© 2026 MAKEDON WORLD NEWS | POWERED BY SATELLITE 1312</p>
+    <a href="mailto:makedonworldnews@gmail.com" style="color: var(--gold); text-decoration: none; font-family: 'Cinzel'; font-size: 1.2rem;">makedonworldnews@gmail.com</a>
 </footer>
 
 <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
 
 <script>
 const PROXY = "https://api.allorigins.win/raw?url=";
-const BRAIN_1312 = {
-    'MK': ["https://sitel.com.mk/rss.xml", "Македонија"],
-    'Balkan': ["https://naslovi.net/rss", "Балкан"],
-    'Europe': ["https://feeds.bbci.co.uk/news/world/europe/rss.xml", "Европа"],
-    'Asia': ["https://feeds.bbci.co.uk/news/world/asia/rss.xml", "Азија"],
-    'India': ["https://timesofindia.indiatimes.com/rssfeeds/296589292.cms", "Индија"],
-    'America': ["https://rss.nytimes.com/services/xml/rss/nyt/Americas.xml", "Америка"],
-    'Africa': ["https://feeds.bbci.co.uk/news/world/africa/rss.xml", "Африка"],
-    'Australia': ["https://www.abc.net.au/news/feed/45910/rss.xml", "Австралија"],
-    'Antarctica': ["https://www.sciencedaily.com/rss/earth_climate/antarctica.xml", "Антарктик"],
-    'Oceans': ["https://www.sciencedaily.com/rss/earth_climate/oceanography.xml", "Океани"]
+// GOOGLE NEWS RSS INTEGRATION
+const FEEDS = {
+    'MK': "https://news.google.com/rss/search?q=Macedonia+when:24h&hl=mk&gl=MK&ceid=MK:mk",
+    'Balkan': "https://news.google.com/rss/search?q=Balkans+when:24h&hl=en-US&gl=US&ceid=US:en",
+    'Europe': "https://news.google.com/rss/sections/CAAqBwgKMJy5lwsw_66uAw?hl=en-US&gl=US&ceid=US:en",
+    'Asia': "https://news.google.com/rss/sections/CAAqBwgKMLm6lwsw0K6uAw?hl=en-US&gl=US&ceid=US:en",
+    'India': "https://news.google.com/rss/search?q=India+when:24h&hl=en-IN&gl=IN&ceid=IN:en",
+    'America': "https://news.google.com/rss/sections/CAAqBwgKMMq5lwsw_66uAw?hl=en-US&gl=US&ceid=US:en",
+    'Africa': "https://news.google.com/rss/search?q=Africa+when:24h&hl=en-US&gl=US&ceid=US:en",
+    'Antarctica': "https://news.google.com/rss/search?q=Antarctica+when:7d&hl=en-US&gl=US&ceid=US:en",
+    'Oceans': "https://news.google.com/rss/search?q=Oceans+Environment+when:24h&hl=en-US&gl=US&ceid=US:en"
 };
 
-let currentID = 'MK';
-
-async function loadNews() {
+async function loadNews(sector = 'MK') {
     const grid = document.getElementById('masterGrid');
-    const cacheBuster = "&t=" + new Date().getTime(); 
-    const finalUrl = PROXY + encodeURIComponent(BRAIN_1312[currentID][0] + "?" + cacheBuster);
-
+    const ticker = document.getElementById('ticker');
+    const cacheBuster = "&t=" + new Date().getTime();
+    
     try {
-        const response = await fetch(finalUrl);
+        const response = await fetch(PROXY + encodeURIComponent(FEEDS[sector] + cacheBuster));
         const xml = new DOMParser().parseFromString(await response.text(), "text/xml");
         const items = Array.from(xml.querySelectorAll("item")).slice(0, 15);
-        grid.innerHTML = '';
         
-        let tickerT = "+++ ВЕРУВАЊЕ НА СИГНАЛ: " + BRAIN_1312[currentID][1].toUpperCase() + " +++ ";
+        grid.innerHTML = '';
+        let tickerText = "+++ SOURCE: GOOGLE NEWS LINK ACTIVE +++ SECTOR: " + sector.toUpperCase() + " +++ ";
 
-        items.forEach((item, index) => {
+        items.forEach((item, i) => {
             const title = item.querySelector("title").textContent;
             const link = item.querySelector("link").textContent;
-            tickerT += title + " | ";
+            const pubDate = item.querySelector("pubDate").textContent;
+            tickerText += title + " | ";
 
-            // УНИКАТНА САТЕЛИТСКА СЛИКА ЗА СЕКОЈА ВЕСТ (Source: Unsplash API)
-            // Додаваме индекс и термин за пребарување за секоја слика да биде различна
-            const keywords = ["satellite", "planet", "galaxy", "digital", "earth", "future", "cyber"];
-            const randomKW = keywords[Math.floor(Math.random() * keywords.length)];
-            let img = `https://source.unsplash.com/800x600/?${randomKW},${index}`;
-            
-            // Проверка дали РСС-от веќе има своја слика
-            const media = item.getElementsByTagName("media:content")[0] || item.getElementsByTagName("enclosure")[0];
-            if(media) img = media.getAttribute("url");
+            // DYNAMIC SAT IMAGE FROM UNSPLASH BASED ON TITLE KEYWORDS
+            const img = `https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=600&sig=${i}${sector}`;
 
             const card = document.createElement('div');
             card.className = 'card';
             card.innerHTML = `
-                <div class="verified-tag">SIGNAL VERIFIED</div>
-                <img src="${img}" alt="Satellite View">
+                <div class="tag">DECRYPTED // 1312</div>
+                <img src="${img}">
                 <div class="card-body">
                     <div class="card-title">${title}</div>
-                    <button class="btn-access" onclick="window.open('${link}', '_blank')">DECRYPT DATA</button>
-                </div>`;
+                    <div style="font-size:0.6rem; color:var(--gold); font-family:Orbitron; margin:10px 0;">${pubDate.slice(0,16)}</div>
+                    <button class="btn-view" onclick="window.open('${link}', '_blank')">OPEN DATA STREAM</button>
+                </div>
+            `;
             grid.appendChild(card);
         });
-        document.getElementById('ticker').innerText = tickerT;
-    } catch(e) { grid.innerHTML = '<div style="color:var(--gold)">RE-ESTABLISHING SATELLITE LINK...</div>'; }
+        ticker.innerText = tickerText;
+    } catch(e) {
+        grid.innerHTML = '<h2 style="color:var(--gold)">CONNECTING TO SATELLITE...</h2>';
+    }
 }
 
-function setBrain(id) { currentID = id; loadNews(); }
+function setSector(s) { loadNews(s); }
 function googleTranslateElementInit() { new google.translate.TranslateElement({pageLanguage: 'mk'}, 'google_translate_element'); }
-window.onload = loadNews;
-setInterval(loadNews, 60000);
+
+window.onload = () => loadNews('MK');
 </script>
 </body>
 </html>
