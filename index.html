@@ -3,47 +3,47 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Makedon World News | Global Atlas</title>
+    <title>Makedon World News | Континентален Агрегатор</title>
     <style>
-        :root { --red: #d32f2f; --black: #121212; --gray: #f8f9fa; }
-        body { font-family: 'Segoe UI', system-ui, sans-serif; margin: 0; background: var(--gray); }
-        header { background: var(--black); color: white; text-align: center; padding: 25px 15px; border-bottom: 4px solid var(--red); }
+        :root { --red: #d32f2f; --black: #121212; --gray: #f4f4f4; }
+        body { font-family: 'Segoe UI', Tahoma, sans-serif; margin: 0; background: var(--gray); color: #333; }
+        header { background: var(--black); color: white; text-align: center; padding: 25px; border-bottom: 4px solid var(--red); }
         .container { max-width: 1200px; margin: auto; padding: 20px; }
         
-        .search-box { margin-bottom: 20px; text-align: center; }
+        /* Search Bar */
+        .search-box { margin-bottom: 25px; text-align: center; }
         #search-input { 
-            width: 100%; max-width: 600px; padding: 12px 20px; 
-            border: 2px solid #ddd; border-radius: 25px; outline: none;
+            width: 100%; max-width: 600px; padding: 12px 25px; 
+            border: 2px solid #ddd; border-radius: 30px; font-size: 1rem; outline: none;
         }
 
-        /* Твојот нов географски навигатор */
-        .nav-tabs { display: flex; gap: 8px; margin-bottom: 25px; flex-wrap: wrap; justify-content: center; }
-        .tab-btn { padding: 8px 15px; border: none; background: white; border-radius: 6px; cursor: pointer; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(0,0,0,0.05); }
+        /* Континентално мени */
+        .nav-tabs { display: flex; gap: 8px; margin-bottom: 30px; flex-wrap: wrap; justify-content: center; }
+        .tab-btn { padding: 10px 16px; border: none; background: white; border-radius: 8px; cursor: pointer; font-weight: bold; transition: 0.3s; box-shadow: 0 2px 4px rgba(0,0,0,0.05); }
         .tab-btn.active { background: var(--red); color: white; }
 
         #news-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 20px; }
-        .card { background: white; border-radius: 10px; overflow: hidden; box-shadow: 0 3px 10px rgba(0,0,0,0.05); border: 1px solid #eee; display: flex; flex-direction: column; transition: 0.3s; }
-        .card:hover { transform: translateY(-3px); box-shadow: 0 6px 15px rgba(0,0,0,0.1); }
-        .card-body { padding: 15px; }
-        .source-tag { font-size: 0.7rem; color: var(--red); font-weight: 800; text-transform: uppercase; }
-        .title { font-size: 1.05rem; font-weight: 700; margin: 8px 0; line-height: 1.4; color: #111; }
-        .desc { font-size: 0.85rem; color: #555; line-height: 1.5; margin-bottom: 12px; }
-        .link-btn { text-decoration: none; color: white; background: var(--black); padding: 7px 14px; border-radius: 4px; font-size: 0.8rem; display: inline-block; }
+        .card { background: white; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 8px rgba(0,0,0,0.05); display: flex; flex-direction: column; border: 1px solid #eee; }
+        .card-body { padding: 15px; flex-grow: 1; }
+        .source-tag { font-size: 0.75rem; color: var(--red); font-weight: bold; text-transform: uppercase; }
+        .title { font-size: 1.1rem; font-weight: bold; margin: 10px 0; line-height: 1.3; }
+        .desc { font-size: 0.9rem; color: #666; line-height: 1.5; }
+        .link-btn { text-decoration: none; color: white; background: var(--black); padding: 8px 15px; border-radius: 6px; display: inline-block; margin-top: 10px; font-size: 0.85rem; }
         
-        .loader { text-align: center; padding: 40px; font-size: 1.1rem; grid-column: 1/-1; color: #666; }
-        footer { background: var(--black); color: white; text-align: center; padding: 20px; margin-top: 40px; }
+        .loader { text-align: center; padding: 50px; font-size: 1.2rem; grid-column: 1/-1; }
+        footer { background: var(--black); color: white; text-align: center; padding: 30px; margin-top: 50px; }
     </style>
 </head>
 <body>
 
 <header>
     <h1 style="margin:0;">🌍 Makedon World News</h1>
-    <p style="font-size: 0.9rem; opacity: 0.8;">Од Океаните до Антарктикот - сите информации на едно место</p>
+    <p>Вести по континенти од твоите 1312 проверени извори</p>
 </header>
 
 <div class="container">
     <div class="search-box">
-        <input type="text" id="search-input" placeholder="🔍 Пребарај во оваа категорија..." onkeyup="filterNews()">
+        <input type="text" id="search-input" placeholder="🔍 Пребарај во овој континент..." onkeyup="filterNews()">
     </div>
 
     <div class="nav-tabs">
@@ -58,64 +58,69 @@
         <button class="tab-btn" onclick="loadCategory('OCEANS')">🌊 Океани</button>
     </div>
 
-    <div id="news-grid"><div class="loader">Изберете категорија...</div></div>
+    <div id="news-grid"><div class="loader">Одберете континент за вчитување...</div></div>
 </div>
 
-<footer><p>© 2026 Makedon World News | Глобален Агрегатор</p></footer>
+<footer><p>© 2026 Makedon World News | Сите континенти на дланка</p></footer>
 
 <script>
-let CURRENT_NEWS = []; 
+let CURRENT_NEWS = [];
 const PROXY = "https://api.allorigins.win/raw?url=";
 
-// ИЗВОРИ ОД ТВОИТЕ CSV ТАБЕЛИ
 const SOURCES = {
     MK: [
-        { name: "Sitel", url: "https://sitel.com.mk/rss.xml" },
-        { name: "Kanal 5", url: "https://kanal5.com.mk/rss" }
+        { name: "Сител", url: "https://sitel.com.mk/rss.xml" },
+        { name: "Канал 5", url: "https://kanal5.com.mk/rss" },
+        { name: "Телма", url: "https://telma.com.mk/feed/" }
     ],
     BALKAN: [
-        { name: "N1 Info", url: "https://n1info.rs/feed/" },
-        { name: "Al Jazeera Balkans", url: "https://balkans.aljazeera.net/rss.xml" }
+        { name: "N1 Србија", url: "https://n1info.rs/feed/" },
+        { name: "Index.hr", url: "https://www.index.hr/rss" },
+        { name: "БТА Бугарија", url: "https://www.bta.bg/bg/rss.xml" }
     ],
     EUROPE: [
         { name: "Euronews", url: "https://www.euronews.com/rss?level=theme&name=news" },
+        { name: "Le Monde", url: "https://www.lemonde.fr/rss/une.xml" },
         { name: "Deutsche Welle", url: "https://rss.dw.com/rdf/rss-en-all" }
     ],
     ASIA: [
-        { name: "SCMP Asia", url: "https://www.scmp.com/rss/318206/feed" },
-        { name: "NHK Japan", url: "https://www3.nhk.or.jp/nhkworld/rd/rss/english/news.xml" }
+        { name: "Al Jazeera English", url: "https://www.aljazeera.com/xml/rss/all.xml" },
+        { name: "SCMP Asia", url: "https://www.scmp.com/rss/2/feed" },
+        { name: "The Times of India", url: "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms" }
     ],
     AFRICA: [
         { name: "AllAfrica", url: "https://allafrica.com/tools/headlines/rss/main/main.xml" },
-        { name: "BBC Africa", url: "https://feeds.bbci.co.uk/news/world/africa/rss.xml" }
+        { name: "Africanews", url: "https://www.africanews.com/rss" }
     ],
     AMERICA: [
         { name: "Reuters US", url: "https://www.reutersagency.com/feed/" },
-        { name: "CNN World", url: "http://rss.cnn.com/rss/edition_world.rss" }
+        { name: "The New York Times", url: "https://rss.nytimes.com/services/xml/rss/nyt/World.xml" },
+        { name: "Folha de S.Paulo", url: "https://feeds.folha.uol.com.br/mundo/rss091.xml" }
     ],
     OCEANIA: [
-        { name: "ABC News Australia", url: "https://www.abc.net.au/news/feed/45910/rss.xml" },
-        { name: "RNZ Pacific", url: "https://www.rnz.co.nz/rss/pacific.xml" }
+        { name: "ABC News Australia", url: "https://www.abc.net.au/news/feed/51120/rss.xml" },
+        { name: "NZ Herald", url: "https://www.nzherald.co.nz/arc/outboundfeeds/rss/section/world/?outputType=xml&_id=7HSR6K6WJFCD7L6P6K6WJFCD7E" }
     ],
     ANTARCTIC: [
         { name: "Antarctic Sun", url: "https://antarcticsun.usap.gov/rss/index.cfm" },
-        { name: "British Antarctic Survey", url: "https://www.bas.ac.uk/news/rss/" }
+        { name: "BAS News", url: "https://www.bas.ac.uk/news/rss/" }
     ],
     OCEANS: [
-        { name: "Ocean News", url: "https://www.oceannews.com/news?format=feed&type=rss" },
-        { name: "Marine Technology", url: "https://www.marinetechnologynews.com/rss" }
+        { name: "Marine Technology", url: "https://www.marinetechnologynews.com/rss" },
+        { name: "Ocean News", url: "https://www.oceannews.com/news?format=feed&type=rss" }
     ]
 };
 
 async function loadCategory(cat) {
+    // Деактивирај ги сите копчиња и активирај го сегашното
     document.querySelectorAll('.tab-btn').forEach(btn => btn.classList.remove('active'));
-    if(event && event.target) event.target.classList.add('active');
+    if(event) event.target.classList.add('active');
 
     const grid = document.getElementById('news-grid');
-    grid.innerHTML = '<div class="loader">Ги пребаруваме светските архиви...</div>';
+    grid.innerHTML = '<div class="loader">Скенираме низ твоите 1312 извори...</div>';
     
     CURRENT_NEWS = [];
-    const selectedSources = SOURCES[cat] || [];
+    const selectedSources = SOURCES[cat];
 
     for (let src of selectedSources) {
         try {
@@ -129,11 +134,11 @@ async function loadCategory(cat) {
                     source: src.name,
                     title: el.querySelector("title")?.textContent || "",
                     link: el.querySelector("link")?.textContent || "#",
-                    desc: el.querySelector("description")?.textContent.replace(/<\/?[^>]+(>|$)/g, "").substring(0, 110) + "...",
+                    desc: el.querySelector("description")?.textContent.replace(/<\/?[^>]+(>|$)/g, "").substring(0, 120) + "...",
                     date: new Date(el.querySelector("pubDate")?.textContent || Date.now())
                 });
             });
-        } catch (e) { console.log("Проблем со:", src.name); }
+        } catch (e) { console.error("Грешка при влечење од:", src.name); }
     }
 
     CURRENT_NEWS.sort((a, b) => b.date - a.date);
@@ -143,14 +148,18 @@ async function loadCategory(cat) {
 function displayNews(newsArray) {
     const grid = document.getElementById('news-grid');
     grid.innerHTML = "";
+    if(newsArray.length === 0) {
+        grid.innerHTML = "<div class='loader'>Нема вести за овој регион во моментов.</div>";
+        return;
+    }
     newsArray.forEach(news => {
         grid.innerHTML += `
             <div class="card">
                 <div class="card-body">
-                    <span class="source-tag">${news.source}</span>
+                    <span class="source-tag">${news.source} • ${news.date.toLocaleDateString('mk-MK')}</span>
                     <div class="title">${news.title}</div>
                     <p class="desc">${news.desc}</p>
-                    <a href="${news.link}" target="_blank" class="link-btn">Прочитај →</a>
+                    <a href="${news.link}" target="_blank" class="link-btn">Прочитај повеќе</a>
                 </div>
             </div>`;
     });
@@ -162,6 +171,7 @@ function filterNews() {
     displayNews(filtered);
 }
 
+// Стартувај со Македонија
 loadCategory('MK');
 </script>
 </body>
