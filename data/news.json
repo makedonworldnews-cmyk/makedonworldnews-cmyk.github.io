@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-27T15:45:36Z",
+  "updatedAt": "2026-01-27T17:01:39Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,24 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Значајни одлуки за напредокот на граѓаните, демократијата и европската иднина на државата на денешната владина седница, соопшти Митева",
+          "link": "https://makfax.com.mk/makedonija/%d0%b7%d0%bd%d0%b0%d1%87%d0%b0%d1%98%d0%bd%d0%b8-%d0%be%d0%b4%d0%bb%d1%83%d0%ba%d0%b8-%d0%b7%d0%b0-%d0%bd%d0%b0%d0%bf%d1%80%d0%b5%d0%b4%d0%be%d0%ba%d0%be%d1%82-%d0%bd%d0%b0-%d0%b3%d1%80%d0%b0%d1%93/",
+          "published": "Tue, 27 Jan 2026 16:41:20 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) Огромно свлечиште во Сицилија: најмалку 1.500 жители се евакуирани",
+          "link": "https://makfax.com.mk/svet/%d0%b2%d0%b8%d0%b4%d0%b5%d0%be-%d0%be%d0%b3%d1%80%d0%be%d0%bc%d0%bd%d0%be-%d1%81%d0%b2%d0%bb%d0%b5%d1%87%d0%b8%d1%88%d1%82%d0%b5-%d0%b2%d0%be-%d1%81%d0%b8%d1%86%d0%b8%d0%bb%d0%b8%d1%98%d0%b0-%d0%bd/",
+          "published": "Tue, 27 Jan 2026 16:31:31 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Kинескиот претседател: Кина и Европа се партнери, а не соперници",
+          "link": "https://makfax.com.mk/svet/k%d0%b8%d0%bd%d0%b5%d1%81%d0%ba%d0%b8%d0%be%d1%82-%d0%bf%d1%80%d0%b5%d1%82%d1%81%d0%b5%d0%b4%d0%b0%d1%82%d0%b5%d0%bb-%d0%ba%d0%b8%d0%bd%d0%b0-%d0%b8-%d0%b5%d0%b2%d1%80%d0%be%d0%bf%d0%b0-%d1%81%d0%b5/",
+          "published": "Tue, 27 Jan 2026 16:05:13 +0000"
         },
         {
           "source": "Makfax",
@@ -23,22 +41,22 @@
           "published": "Tue, 27 Jan 2026 15:03:05 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Сопствениците на барот во Швајцарија ја префрлаат вината кон келнерката која ги носела прскалките",
-          "link": "https://makfax.com.mk/svet/%d1%81%d0%be%d0%bf%d1%81%d1%82%d0%b2%d0%b5%d0%bd%d0%b8%d1%86%d0%b8%d1%82%d0%b5-%d0%bd%d0%b0-%d0%b1%d0%b0%d1%80%d0%be%d1%82-%d0%b2%d0%be-%d1%88%d0%b2%d0%b0%d1%98%d1%86%d0%b0%d1%80%d0%b8%d1%98%d0%b0/",
-          "published": "Tue, 27 Jan 2026 14:33:52 +0000"
+          "source": "NetPress",
+          "title": "Германскиот министер за одбрана: Нема веќе системи „Патриот“ за Украина",
+          "link": "https://netpress.com.mk/germanskiot-minister-za-odbrana-nema-veke-sistemi-patriot-za-ukraina/",
+          "published": "Tue, 27 Jan 2026 16:34:58 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Најмалку седум навивачи на ПАОК загинаа во сообраќајна несреќа",
-          "link": "https://makfax.com.mk/sport/najmalku-sedum-navivachi-na-paok-zaginaa-vo-soobrakajna-nesreka/",
-          "published": "Tue, 27 Jan 2026 14:17:02 +0000"
+          "source": "NetPress",
+          "title": "Норвешка набавува артилериско оружје со долг дострел за две милијарди евра",
+          "link": "https://netpress.com.mk/norveshka-nabavuva-artilerisko-oruzhje-so-dolg-dostrel-za-dve-milijardi-evra/",
+          "published": "Tue, 27 Jan 2026 16:17:59 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Баерн го губи трпението со Упамекано",
-          "link": "https://makfax.com.mk/sport/baern-go-gubi-trpenieto-so-upamekano/",
-          "published": "Tue, 27 Jan 2026 14:02:51 +0000"
+          "source": "NetPress",
+          "title": "Здружението на матични гинеколози со поддршка на законот за заштита од пушење: Не постои безбедно ниво на изложеност на тутунски чад",
+          "link": "https://netpress.com.mk/zdruzhenieto-na-matichni-ginekolozi-so-poddrshka-na-zakonot-za-zashtita-od-pushene-ne-postoi-bezbedno-nivo-na-izlozhenost-na-tutunski-chad/",
+          "published": "Tue, 27 Jan 2026 15:53:04 +0000"
         },
         {
           "source": "NetPress",
@@ -51,24 +69,6 @@
           "title": "„Кавалерија Рустикана“ утревечер на сцената на Националната опера и балет",
           "link": "https://netpress.com.mk/kavalerija-rustikana-utrevecher-na-sczenata-na-naczionalnata-opera-i-balet/",
           "published": "Tue, 27 Jan 2026 14:50:47 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Путин: Русија никогаш нема да ги заборави ужасните злосторства извршени во Аушвиц",
-          "link": "https://netpress.com.mk/putin-rusija-nikogash-nema-da-gi-zaboravi-uzhasnite-zlostorstva-izvrsheni-vo-aushvicz/",
-          "published": "Tue, 27 Jan 2026 14:45:51 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Видеолотарија Касинос Австрија едуцира за одговорно играње: Играта е забава, не ризик!",
-          "link": "https://netpress.com.mk/videolotarija-kasinos-avstrija-educzira-za-odgovorno-igrane-igrata-e-zabava-ne-rizik/",
-          "published": "Tue, 27 Jan 2026 14:38:00 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Албанија втора на Балканот по високото ниво на јавниот долг",
-          "link": "https://netpress.com.mk/albanija-vtora-na-balkanot-po-visokoto-nivo-na-javniot-dolg/",
-          "published": "Tue, 27 Jan 2026 14:09:42 +0000"
         }
       ]
     },
@@ -95,15 +95,33 @@
         },
         {
           "source": "BBC",
-          "title": "Deadly US winter storm leaves flights delayed and thousands without power",
-          "link": "https://www.bbc.com/news/articles/cp3z8ek7eqyo?at_medium=RSS&at_campaign=rss",
-          "published": "Tue, 27 Jan 2026 10:20:58 GMT"
-        },
-        {
-          "source": "BBC",
           "title": "Firefighters battle 'emergency level' blazes in Australia heatwave",
           "link": "https://www.bbc.com/news/articles/cpqyp9w84eeo?at_medium=RSS&at_campaign=rss",
           "published": "Tue, 27 Jan 2026 14:49:44 GMT"
+        },
+        {
+          "source": "BBC",
+          "title": "'Crying horse' toys go viral in China ahead of Lunar New Year",
+          "link": "https://www.bbc.com/news/articles/c70l7zndy3jo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 27 Jan 2026 14:05:17 GMT"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Real Madrid visit Benfica: UEFA Champions League – all to know",
+          "link": "https://www.aljazeera.com/sports/2026/1/27/benfica-vs-real-madrid-uefa-champions-league-teams-start-lineups?traffic_source=rss",
+          "published": "Tue, 27 Jan 2026 16:15:02 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Gauff blasts broadcasters over privacy after Australian Open racket smash",
+          "link": "https://www.aljazeera.com/sports/2026/1/27/gauff-blasts-broadcasters-over-privacy-after-australian-open-racket-smash?traffic_source=rss",
+          "published": "Tue, 27 Jan 2026 15:52:18 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Meet Hamza Al-Rubaie, one of Gaza’s 17,000 orphaned children",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/1/27/meet-hamza-al-rubaie-one-of-gazas-17000-orphaned-children?traffic_source=rss",
+          "published": "Tue, 27 Jan 2026 15:37:09 +0000"
         },
         {
           "source": "Al Jazeera",
@@ -116,24 +134,6 @@
           "title": "Iran’s currency drops to record low against dollar as tensions soar",
           "link": "https://www.aljazeera.com/news/2026/1/27/irans-currency-drops-to-record-low-against-dollar-as-tensions?traffic_source=rss",
           "published": "Tue, 27 Jan 2026 15:18:45 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Iraq presidential vote delayed as Kurdish blocs struggle to pick candidate",
-          "link": "https://www.aljazeera.com/news/2026/1/27/iraq-presidential-vote-delayed-as-kurdish-blocs-struggle-to-pick-candidate?traffic_source=rss",
-          "published": "Tue, 27 Jan 2026 14:54:02 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Trump’s ‘Board of Peace’ puts rights abusers in charge of global order",
-          "link": "https://www.aljazeera.com/opinions/2026/1/27/trumps-board-of-peace-puts-rights-abusers-in-charge-of-global-order?traffic_source=rss",
-          "published": "Tue, 27 Jan 2026 14:45:56 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "LIVE: Trump to pitch affordability amid outrage over protest killings",
-          "link": "https://www.aljazeera.com/news/liveblog/2026/1/27/live-trump-to-pitch-affordability-amid-outrage-over-protest-killings?traffic_source=rss",
-          "published": "Tue, 27 Jan 2026 14:30:33 +0000"
         }
       ]
     }
