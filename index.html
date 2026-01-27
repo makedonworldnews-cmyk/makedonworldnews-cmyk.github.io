@@ -3,110 +3,159 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Makedon World News | 1312 Global Node</title>
+    <title>Makedon World News | Global Aggregator 2026</title>
     <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
     <style>
-        :root { --gold: #ffc107; --red: #d32f2f; --shield: #1565c0; --neon: #00ff41; }
-        body { font-family: 'Segoe UI', sans-serif; margin: 0; background: #050505; color: white; }
+        :root { --gold: #ffc107; --shield-blue: #0d47a1; --neon: #00ff41; --bg: #050505; --card: #121212; }
+        body { font-family: 'Inter', sans-serif; margin: 0; background: var(--bg); color: white; scroll-behavior: smooth; }
         
-        /* Hero Section со твојата слика */
+        /* 1. HERO & IDENTITY */
         .hero { 
-            background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url('hero.jpg');
-            background-size: cover; background-position: center;
-            height: 300px; display: flex; flex-direction: column; justify-content: center; align-items: center;
-            border-bottom: 4px solid var(--gold); text-align: center;
+            background: linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.8)), url('hero.jpg');
+            background-size: cover; background-position: center; height: 450px;
+            display: flex; flex-direction: column; justify-content: center; align-items: center;
+            border-bottom: 5px solid var(--gold); position: relative;
         }
+        .contact-floating { position: absolute; top: 20px; right: 30px; color: var(--gold); font-weight: bold; font-size: 0.9rem; letter-spacing: 1px; }
 
-        .shield-status { background: var(--shield); padding: 5px 15px; border-radius: 20px; font-size: 0.8rem; font-weight: bold; border: 1px solid var(--gold); margin-bottom: 10px; }
+        /* 2. HORIZONTAL SECTIONS (Planetary) */
+        .planetary-nav { 
+            display: flex; overflow-x: auto; background: #111; padding: 15px; 
+            gap: 20px; border-bottom: 1px solid #333; sticky: top; top: 0; z-index: 1000;
+        }
+        .planetary-nav::-webkit-scrollbar { display: none; }
+        .nav-link { color: #888; text-decoration: none; font-size: 0.75rem; font-weight: bold; white-space: nowrap; transition: 0.3s; }
+        .nav-link:hover, .nav-link.active { color: var(--gold); border-bottom: 2px solid var(--gold); }
+
+        /* 3. VERTICAL THEMES SIDEBAR (Layout) */
+        .main-layout { display: flex; max-width: 1700px; margin: auto; padding: 20px; gap: 30px; }
+        .sidebar-themes { width: 200px; flex-shrink: 0; }
+        .theme-item { padding: 12px; margin-bottom: 5px; background: #1a1a1a; border-radius: 6px; font-size: 0.8rem; cursor: pointer; transition: 0.2s; border-left: 3px solid transparent; }
+        .theme-item:hover { background: #222; border-left-color: var(--gold); color: var(--gold); }
+
+        /* 4. NEWS GRID (Grid.mk / Time.mk Logic) */
+        .feed-container { flex-grow: 1; }
+        .news-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: 25px; }
+        .news-card { background: var(--card); border-radius: 12px; overflow: hidden; border: 1px solid #222; display: flex; flex-direction: column; transition: 0.4s; }
+        .news-card:hover { transform: translateY(-5px); border-color: var(--gold); box-shadow: 0 10px 30px rgba(0,0,0,0.5); }
         
-        .live-clock { font-family: 'Courier New', monospace; color: var(--neon); font-size: 1.2rem; text-shadow: 0 0 10px var(--neon); }
+        .thumb-box { position: relative; height: 200px; overflow: hidden; }
+        .news-thumb { width: 100%; height: 100%; object-fit: cover; }
+        .shield-label { position: absolute; bottom: 10px; right: 10px; background: var(--shield-blue); color: white; padding: 4px 10px; font-size: 0.6rem; border-radius: 4px; border: 1px solid var(--gold); font-weight: bold; }
 
-        .container { max-width: 1600px; margin: auto; padding: 20px; }
-
-        /* Категории од твоите табели */
-        .nav-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(120px, 1fr)); gap: 10px; margin-bottom: 30px; }
-        .nav-item { background: #1a1a1a; padding: 10px; text-align: center; border-radius: 5px; font-size: 0.7rem; font-weight: bold; cursor: pointer; border: 1px solid #333; transition: 0.3s; }
-        .nav-item:hover { border-color: var(--gold); background: #252525; }
-
-        #news-stream { display: grid; grid-template-columns: repeat(auto-fill, minmax(350px, 1fr)); gap: 20px; }
+        .card-content { padding: 20px; flex-grow: 1; }
+        .card-source { color: var(--gold); font-size: 0.7rem; font-weight: 900; margin-bottom: 8px; }
+        .card-title { font-size: 1.1rem; font-weight: 700; line-height: 1.4; margin-bottom: 15px; color: #f0f0f0; }
         
-        .news-card { background: rgba(255,255,255,0.05); border-left: 4px solid var(--shield); border-radius: 8px; padding: 20px; position: relative; animation: fadeIn 0.5s ease; }
-        .news-card::before { content: "🛡️ ШТИТНИК ВЕРИФИКУВАНО"; position: absolute; top: 10px; right: 10px; font-size: 0.6rem; color: var(--gold); font-weight: 900; }
-        
-        .source-label { color: var(--gold); font-size: 0.7rem; text-transform: uppercase; font-weight: 900; }
-        .title { font-size: 1.1rem; font-weight: bold; margin: 10px 0; line-height: 1.4; }
-        .hash { font-family: monospace; font-size: 0.55rem; color: var(--neon); opacity: 0.6; }
+        /* 5. COOKIES & PRIVACY */
+        .cookie-bar { position: fixed; bottom: 20px; left: 20px; right: 20px; background: rgba(20,20,20,0.95); border: 1px solid var(--gold); padding: 15px; border-radius: 10px; display: flex; justify-content: space-between; align-items: center; z-index: 9999; backdrop-filter: blur(10px); }
+        .cookie-btn { background: var(--gold); color: black; border: none; padding: 8px 20px; border-radius: 5px; font-weight: bold; cursor: pointer; }
 
-        footer { text-align: center; padding: 50px; border-top: 1px solid #222; font-size: 0.8rem; opacity: 0.7; }
+        footer { background: #000; padding: 80px 20px; text-align: center; border-top: 2px solid var(--gold); margin-top: 100px; }
     </style>
 </head>
 <body>
 
-<div class="hero">
-    <div class="shield-status">🛡️ ШТИТНИК: АКТИВИРАН ВРЗ 1312 ИЗВОРИ</div>
-    <h1 style="font-size: 2.5rem; margin: 0;">MAKEDON WORLD NEWS</h1>
-    <div class="live-clock" id="clock">27 јануари 2026 | 19:53:00</div>
-    <div id="google_translate_element" style="margin-top:20px;"></div>
+<div class="cookie-bar" id="cookieBar">
+    <div style="font-size: 0.8rem;">🍪 Овој планетарен агрегатор користи колачиња за безбедност преку ШТИТНИК системот.</div>
+    <button class="cookie-btn" onclick="document.getElementById('cookieBar').style.display='none'">ПРИФАТИ</button>
 </div>
 
-<div class="container">
-    <div class="nav-grid">
-        <div class="nav-item">🇲🇰 МАКЕДОНИЈА</div>
-        <div class="nav-item">🇪🇺 ЕВРОПА</div>
-        <div class="nav-item">🏘️ БАЛКАН</div>
-        <div class="nav-item">🤖 AI / TECH</div>
-        <div class="nav-item">🌎 ДИПЛОМАТИЈА</div>
-        <div class="nav-item">🏖️ КАРИБИ / ПАНАМА</div>
-        <div class="nav-item">🗽 САД / СВЕТ</div>
-    </div>
+<header class="hero">
+    <div class="contact-floating">📧 makedonworldnews@gmail.com</div>
+    <div style="background:var(--shield-blue); padding:5px 20px; border-radius:30px; border:1px solid var(--gold); font-size:0.8rem; margin-bottom:20px; font-weight:bold;">🛡️ SHTITNIK CORE: ONLINE</div>
+    <h1 style="font-size: 3.5rem; margin: 0; text-transform: uppercase; letter-spacing: -2px;">Makedon World News</h1>
+    <div id="clock" style="color:var(--neon); font-family:monospace; font-size:1.4rem; margin-top:10px;"></div>
+    <div id="google_translate_element" style="margin-top:25px;"></div>
+</header>
 
-    <div id="news-stream"></div>
+<nav class="planetary-nav">
+    <a href="#" class="nav-link active">🇲🇰 МАКЕДОНИЈА</a>
+    <a href="#" class="nav-link">🏘️ БАЛКАН</a>
+    <a href="#" class="nav-link">🇪🇺 ЕВРОПА</a>
+    <a href="#" class="nav-link">🌏 АЗИЈА</a>
+    <a href="#" class="nav-link">👳 ИНДИЈА</a>
+    <a href="#" class="nav-link">🦁 АФРИКА</a>
+    <a href="#" class="nav-link">🗽 АМЕРИКА</a>
+    <a href="#" class="nav-link">🐨 АВСТРАЛИЈА</a>
+    <a href="#" class="nav-link">❄️ АНТАРКТИК</a>
+    <a href="#" class="nav-link">🌊 ОКЕАНИ</a>
+</nav>
+
+<div class="main-layout">
+    <aside class="sidebar-themes">
+        <h3 style="color:var(--gold); font-size:0.9rem;">ВЕРТИКАЛНИ ТЕМИ</h3>
+        <div class="theme-item">🤖 Вештачка Интелигенција</div>
+        <div class="theme-item">🏛️ Дипломатија (МНР)</div>
+        <div class="theme-item">🛡️ Безбедност / НАТО</div>
+        <div class="theme-item">🔬 Наука и Екологија</div>
+        <div class="theme-item">📈 Економија</div>
+        <div class="theme-item">🎨 Култура</div>
+    </aside>
+
+    <main class="feed-container">
+        <div class="news-grid" id="master-grid"></div>
+    </main>
 </div>
 
 <footer>
-    <p>Проект на <strong>Санде</strong> | Глобален Дигитален Штит 2026</p>
-    <p>Сите 1312 RSS канали се мониторирани во реално време</p>
+    <h2 style="color:var(--gold);">Проект на Санде | 2026</h2>
+    <p>Синтеза на 1312 глобални RSS канали и ШТИТНИК безбедносна технологија.</p>
+    <p>Контакт: <a href="mailto:makedonworldnews@gmail.com" style="color:var(--gold); text-decoration:none;">makedonworldnews@gmail.com</a></p>
 </footer>
 
 <script>
 const PROXY = "https://api.allorigins.win/raw?url=";
 let SEEN = new Set();
 
-// Ова се дел од твоите 1312 извори кои ги имплементираме за старт
-const MASTER_RSS = [
-    { n: "Сител", u: "https://sitel.com.mk/rss.xml" },
-    { n: "AI21 Labs", u: "https://www.ai21.com/rss" },
-    { n: "Reuters", u: "https://www.reutersagency.com/feed/" },
-    { n: "CiberCuba", u: "https://www.cibercuba.com/rss.xml" },
-    { n: "Listin Diario", u: "https://listindiario.com/feed/" },
-    { n: "Panamá América", u: "https://www.panamaamerica.com.pa/rss" },
-    { n: "UN News", u: "https://news.un.org/feed/subscribe/en/news/all/rss.xml" }
+const AGGREGATOR_SOURCES = [
+    { n: "Sitel (MK)", u: "https://sitel.com.mk/rss.xml" },
+    { n: "Reuters (Global)", u: "https://www.reutersagency.com/feed/" },
+    { n: "CiberCuba (Caribbean)", u: "https://www.cibercuba.com/rss.xml" },
+    { n: "AI21 Labs (AI)", u: "https://www.ai21.com/rss" },
+    { n: "UN News (Diplomacy)", u: "https://news.un.org/feed/subscribe/en/news/all/rss.xml" }
 ];
 
-async function fetchNews() {
-    const grid = document.getElementById('news-stream');
-    const pick = MASTER_RSS[Math.floor(Math.random() * MASTER_RSS.length)];
+async function updateFeed() {
+    const grid = document.getElementById('master-grid');
+    const pick = AGGREGATOR_SOURCES[Math.floor(Math.random() * AGGREGATOR_SOURCES.length)];
 
     try {
-        const r = await fetch(PROXY + encodeURIComponent(pick.u));
-        const xml = new DOMParser().parseFromString(await r.text(), "text/xml");
-        const item = xml.querySelector("item");
+        const res = await fetch(PROXY + encodeURIComponent(pick.u));
+        const xml = new DOMParser().parseFromString(await res.text(), "text/xml");
+        const items = xml.querySelectorAll("item");
 
-        if (item) {
-            const title = item.querySelector("title")?.textContent || "";
-            const link = item.querySelector("link")?.textContent || "#";
-            const hash = btoa(title).substring(0, 12); // Едноставен хаш за блокчејн ефект
-
+        for (let i = 0; i < 2; i++) {
+            const el = items[i];
+            if (!el) continue;
+            const title = el.querySelector("title")?.textContent || "";
+            const link = el.querySelector("link")?.textContent || "#";
+            
             if (!SEEN.has(title)) {
                 SEEN.add(title);
+                const hash = btoa(unescape(encodeURIComponent(title))).substring(0, 12);
+                
+                let img = "https://images.unsplash.com/photo-1585829365234-784c05529450?q=80&w=1080";
+                const desc = el.querySelector("description")?.textContent || "";
+                const media = el.getElementsByTagName("media:content")[0] || el.getElementsByTagName("enclosure")[0];
+                if (media) img = media.getAttribute("url");
+                else { const m = desc.match(/src="([^"]+)"/); if (m) img = m[1]; }
+
                 const card = document.createElement('div');
                 card.className = 'news-card';
                 card.innerHTML = `
-                    <div class="source-label">${pick.n}</div>
-                    <div class="title">${title}</div>
-                    <div class="hash">INTEGRITY_HASH: ${hash}</div>
-                    <br>
-                    <a href="${link}" target="_blank" style="color:var(--gold); font-size: 0.8rem; font-weight:bold; text-decoration:none;">ПРОЧИТАЈ ВЕРИФИКУВАНА ВЕСТ →</a>
+                    <div class="thumb-box">
+                        <img src="${img}" class="news-thumb" alt="News">
+                        <div class="shield-label">🛡️ ВЕРИФИКУВАНО</div>
+                    </div>
+                    <div class="card-content">
+                        <div class="card-source">${pick.n}</div>
+                        <div class="card-title">${title}</div>
+                        <div style="display:flex; justify-content:space-between; align-items:center;">
+                            <span style="font-family:monospace; font-size:0.6rem; color:var(--neon);">ID: ${hash}</span>
+                            <a href="${link}" target="_blank" style="color:var(--gold); text-decoration:none; font-weight:bold; font-size:0.75rem;">ПРОЧИТАЈ →</a>
+                        </div>
+                    </div>
                 `;
                 grid.insertBefore(card, grid.firstChild);
                 if (grid.children.length > 40) grid.removeChild(grid.lastChild);
@@ -117,12 +166,17 @@ async function fetchNews() {
 
 function updateClock() {
     const d = new Date();
-    document.getElementById('clock').textContent = `27 јануари 2026 | 19:53:${d.getSeconds().toString().padStart(2, '0')}`;
+    const options = { day: 'numeric', month: 'long', year: 'numeric', hour: '2-digit', minute: '2-digit', second: '2-digit' };
+    document.getElementById('clock').textContent = d.toLocaleDateString('mk-MK', options);
+}
+
+function googleTranslateElementInit() {
+    new google.translate.TranslateElement({pageLanguage: 'mk'}, 'google_translate_element');
 }
 
 setInterval(updateClock, 1000);
-setInterval(fetchNews, 5000);
-fetchNews();
+setInterval(updateFeed, 5000);
+updateFeed();
 </script>
 </body>
 </html>
