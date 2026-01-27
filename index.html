@@ -3,99 +3,117 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Makedon World News 🛡️</title>
+    <title>MAKEDON WORLD NEWS | EXTRA-PLANETARY AGGREGATOR 🛡️🛰️</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <style>
-        :root { --bg: #000; --line: #ffffff; --text: #ffffff; }
-        body { font-family: 'Inter', sans-serif; margin: 0; background: var(--bg); color: var(--text); }
+        :root { --bg: #000; --line: #ffffff; --text: #ffffff; --warn: #ff0000; }
+        body { font-family: 'Courier New', monospace; margin: 0; background: var(--bg); color: var(--text); overflow-x: hidden; }
 
-        /* HEADER */
-        header { border-bottom: 1px solid var(--line); padding: 20px; text-align: center; }
-        .hero-img { width: 150px; height: auto; border: 1px solid var(--line); margin-bottom: 10px; }
-        h1 { font-size: 1.8rem; letter-spacing: 4px; text-transform: uppercase; margin: 5px 0; }
-        .mail-top { font-size: 0.8rem; opacity: 0.7; letter-spacing: 1px; }
+        /* HEADER - PLANETARY HUB */
+        header { border-bottom: 1px solid var(--line); padding: 40px 20px; text-align: center; position: relative; }
+        .hero-img { width: 160px; border: 1px solid var(--line); filter: grayscale(100%); transition: 0.5s; }
+        .hero-img:hover { filter: none; border-color: var(--warn); }
+        h1 { font-size: 2.5rem; letter-spacing: 8px; text-transform: uppercase; margin: 15px 0; font-weight: 900; }
+        .sub-header { font-size: 0.7rem; letter-spacing: 4px; opacity: 0.6; text-transform: uppercase; }
 
-        /* TICKER */
-        .ticker-wrap { border-bottom: 1px solid var(--line); padding: 8px 0; overflow: hidden; white-space: nowrap; background: #080808; }
-        .ticker-move { display: inline-block; animation: ticker 45s linear infinite; font-size: 0.75rem; text-transform: uppercase; }
+        /* EXTRA-PLANETARY TICKER */
+        .ticker-wrap { border-bottom: 1px solid var(--line); padding: 12px 0; background: #050505; overflow: hidden; white-space: nowrap; }
+        .ticker-move { display: inline-block; animation: ticker 30s linear infinite; font-size: 0.9rem; font-weight: bold; color: var(--line); }
         @keyframes ticker { 0% { transform: translateX(100%); } 100% { transform: translateX(-100%); } }
 
-        /* LAYOUT */
-        .container { display: flex; max-width: 1700px; margin: 0 auto; }
+        /* SYSTEM LAYOUT */
+        .container { display: flex; max-width: 1900px; margin: 0 auto; border-left: 1px solid var(--line); border-right: 1px solid var(--line); }
         
-        /* SIDEBAR - РУБРИКИ */
-        .sidebar { width: 260px; border-right: 1px solid var(--line); padding: 20px; flex-shrink: 0; }
-        .sidebar h4 { font-size: 0.8rem; border-bottom: 1px solid var(--line); padding-bottom: 5px; margin-top: 25px; letter-spacing: 2px; }
-        .nav-link { display: block; padding: 8px 0; color: #aaa; text-decoration: none; font-size: 0.75rem; cursor: pointer; transition: 0.3s; }
-        .nav-link:hover { color: var(--line); padding-left: 10px; }
+        /* SIDEBAR - COMMAND CENTER */
+        .sidebar { width: 300px; border-right: 1px solid var(--line); padding: 30px; flex-shrink: 0; }
+        .sidebar h4 { font-size: 0.85rem; border-bottom: 1px solid var(--line); padding-bottom: 10px; margin-top: 40px; letter-spacing: 3px; }
+        .nav-link { display: block; padding: 12px 0; color: #666; text-decoration: none; font-size: 0.8rem; cursor: pointer; transition: 0.2s; border-bottom: 1px solid #111; }
+        .nav-link:hover { color: var(--line); padding-left: 15px; background: #0a0a0a; }
 
-        /* GRID */
-        .content { flex-grow: 1; padding: 20px; }
-        .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 20px; }
-        .card { border: 1px solid var(--line); padding: 12px; background: #050505; transition: 0.3s; }
-        .card:hover { background: #111; }
+        /* GRID CONTENT */
+        .content { flex-grow: 1; padding: 30px; background: radial-gradient(circle at top right, #050505, #000); }
+        .system-status { font-size: 0.7rem; margin-bottom: 20px; display: flex; justify-content: space-between; border: 1px solid #222; padding: 10px; }
+        .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: 35px; }
         
-        /* СЛИКИ ОД ВЕСТИ */
-        .card-img { width: 100%; height: 160px; object-fit: cover; border: 1px solid #333; margin-bottom: 12px; display: block; }
-        .card-title { font-weight: bold; font-size: 0.85rem; line-height: 1.4; height: 3.8em; overflow: hidden; margin-bottom: 10px; }
+        .card { border: 1px solid var(--line); padding: 0; background: #000; position: relative; transition: 0.3s; overflow: hidden; }
+        .card:hover { transform: scale(1.02); box-shadow: 0 0 20px rgba(255,255,255,0.1); }
+        .card img { width: 100%; height: 200px; object-fit: cover; border-bottom: 1px solid var(--line); filter: sepia(50%) brightness(80%); transition: 0.5s; }
+        .card:hover img { filter: none; brightness(100%); }
+        .card-info { padding: 20px; }
+        .card-title { font-weight: bold; font-size: 1rem; line-height: 1.3; margin-bottom: 15px; }
+        
+        /* SECURITY HASH */
+        .hash-vim { font-size: 0.6rem; color: #444; text-transform: uppercase; border-top: 1px solid #111; padding-top: 10px; display: block; }
 
-        /* BUTTONS */
-        .btn { border: 1px solid var(--line); background: transparent; color: white; padding: 8px; width: 100%; cursor: pointer; font-size: 0.7rem; text-transform: uppercase; margin-top: 5px; }
-        .btn:hover { background: white; color: black; }
+        /* INTERFACE BUTTONS */
+        .btn { border: 1px solid var(--line); background: transparent; color: white; padding: 12px; width: 100%; cursor: pointer; font-size: 0.75rem; text-transform: uppercase; font-family: inherit; }
+        .btn:hover { background: var(--line); color: var(--bg); }
 
-        /* FOOTER */
-        footer { border-top: 1px solid var(--line); padding: 40px 20px; text-align: center; margin-top: 40px; }
-        .soc-icons { margin-bottom: 30px; }
-        .soc-icons a { color: white; font-size: 1.5rem; margin: 0 15px; }
+        /* FOOTER - FINAL TERMINAL */
+        footer { border-top: 1px solid var(--line); padding: 80px 20px; text-align: center; }
+        .payment-hub { font-size: 3rem; margin-bottom: 40px; opacity: 0.8; letter-spacing: 20px; }
+        .contact-mail { font-size: 1.5rem; font-weight: bold; margin: 20px 0; border: 1px solid var(--line); display: inline-block; padding: 10px 30px; }
     </style>
 </head>
 <body>
 
 <header>
-    <img src="https://raw.githubusercontent.com/makedonworldnews-cmyk/makedonworldnews-cmyk.github.io/main/hero.jpg" class="hero-img">
-    <h1>Makedon World News</h1>
-    <div class="mail-top">makedonworldnews@gmail.com</div>
+    <img src="https://raw.githubusercontent.com/makedonworldnews-cmyk/makedonworldnews-cmyk.github.io/main/hero.jpg" class="hero-img" alt="MAKEDON">
+    <h1>MAKEDON WORLD NEWS</h1>
+    <div class="sub-header">Extra-Planetary News Aggregator // Verified by Sande AI</div>
 </header>
 
 <div class="ticker-wrap">
-    <div id="ticker" class="ticker-move">SHTITNIK AI SYSTEM АКТИВЕН... СИНХРОНИЗАЦИЈА НА ГЛОБАЛНИ КАНАЛИ... ВЕРИФИКУВАНИ ВЕСТИ 24/7...</div>
+    <div id="ticker" class="ticker-move">+++ INITIALIZING HASH-VIM PROTECTION +++ SCANNING 1312 SATELLITE CHANNELS +++ GLOBAL UPDATE ACTIVE +++</div>
 </div>
 
 <div class="container">
     <aside class="sidebar">
-        <h4>КОНТИНЕНТИ</h4>
-        <div class="nav-link" onclick="load('MK')">МАКЕДОНИЈА</div>
-        <div class="nav-link" onclick="load('Balkan')">БАЛКАН</div>
-        <div class="nav-link" onclick="load('Europe')">ЕВРОПА</div>
-        <div class="nav-link" onclick="load('America')">АМЕРИКА</div>
-        <div class="nav-link" onclick="load('Asia')">АЗИЈА</div>
-        <div class="nav-link" onclick="load('Africa')">АФРИКА</div>
-        <div class="nav-link" onclick="load('India')">ИНДИЈА</div>
-        <div class="nav-link" onclick="load('Australia')">АВСТРАЛИЈА-ОКЕАНИЈА</div>
-        <div class="nav-link" onclick="load('Antarctica')">АНТАРКТИК</div>
-        <div class="nav-link" onclick="load('Oceans')">ОКЕАНИТЕ</div>
+        <h4>GEOGRAPHIC BLOCKS</h4>
+        <div class="nav-link" onclick="setCat('MK')">01_MACEDONIA</div>
+        <div class="nav-link" onclick="setCat('Balkan')">02_BALKAN_REGION</div>
+        <div class="nav-link" onclick="setCat('Europe')">03_EUROPE_UNION</div>
+        <div class="nav-link" onclick="setCat('America')">04_AMERICAS</div>
+        <div class="nav-link" onclick="setCat('Asia')">05_ASIA_PACIFIC</div>
+        <div class="nav-link" onclick="setCat('Africa')">06_AFRICA_CONTINENT</div>
+        <div class="nav-link" onclick="setCat('India')">07_INDIA_SUBCONTINENT</div>
+        <div class="nav-link" onclick="setCat('Australia')">08_AUSTRALIA_OCEANIA</div>
+        <div class="nav-link" onclick="setCat('Antarctica')">09_ANTARCTIC_ZONE</div>
+        <div class="nav-link" onclick="setCat('Oceans')">10_OCEANIC_DEPTHS</div>
 
-        <h4>МЕЗИНЏЕРИ</h4>
-        <div style="display: flex; justify-content: space-between; padding: 10px 0;">
+        <h4>PRIME SECTORS</h4>
+        <div class="nav-link" onclick="setCat('Vedar')" style="color:var(--warn)">[!] VEDAR_CAST_PRIME</div>
+        <div class="nav-link" onclick="setCat('Blockchain')">₿ BLOCKCHAIN_LEDGER</div>
+        <div class="nav-link" onclick="setCat('Sport')">🏆 WORLD_SPORTS</div>
+        <div class="nav-link" onclick="setCat('HashVim')">🛡️ HASH_VIM_SECURITY</div>
+
+        <h4 style="margin-top:50px;">COMMS HUB</h4>
+        <div style="display: flex; justify-content: space-between; font-size: 1.2rem;">
             <i class="fab fa-facebook-messenger"></i> <i class="fab fa-whatsapp"></i> <i class="fab fa-telegram"></i> <i class="fab fa-viber"></i>
         </div>
     </aside>
 
     <main class="content">
+        <div class="system-status">
+            <div>STATUS: <span style="color:#0f0">SYNC_OK</span></div>
+            <div>AI_UPDATE: <span id="timer" style="color:var(--warn)">4S</span></div>
+            <div>DATA_STREAM: 500_KM/H</div>
+        </div>
         <div id="masterGrid" class="grid"></div>
     </main>
 </div>
 
 <footer>
-    <div style="font-size: 2rem; margin-bottom: 20px;">
-        <i class="fab fa-cc-paypal"></i> <i class="fab fa-cc-visa"></i> <i class="fab fa-cc-mastercard"></i>
+    <div class="payment-hub">
+        <i class="fab fa-cc-paypal"></i> <i class="fab fa-cc-visa"></i> <i class="fab fa-cc-mastercard"></i> <i class="fab fa-bitcoin"></i>
     </div>
-    <div class="soc-icons">
-        <a href="https://facebook.com/share/17iEhWcYLD/"><i class="fab fa-facebook"></i></a>
-        <a href="https://x.com/makedonworldnew"><i class="fab fa-x-twitter"></i></a>
-        <a href="https://youtube.com/@makedonworldnews"><i class="fab fa-youtube"></i></a>
+    <div class="contact-mail">makedonworldnews@gmail.com</div>
+    <div style="margin-top: 40px;">
+        <a href="https://facebook.com/share/17iEhWcYLD/" style="color:white; margin:0 20px;"><i class="fab fa-facebook fa-2x"></i></a>
+        <a href="https://x.com/makedonworldnew" style="color:white; margin:0 20px;"><i class="fab fa-x-twitter fa-2x"></i></a>
+        <a href="https://youtube.com/@makedonworldnews" style="color:white; margin:0 20px;"><i class="fab fa-youtube fa-2x"></i></a>
     </div>
-    <p style="opacity: 0.4; font-size: 0.6rem;">© 2026 MAKEDON WORLD NEWS | AI REVISION 1312</p>
+    <p style="margin-top: 60px; opacity: 0.2; font-size: 0.7rem; letter-spacing: 5px;">PLANETARY REVISION // OPERATOR SANDE // AI-1312</p>
 </footer>
 
 <script>
@@ -110,58 +128,64 @@ const FEEDS = {
     'India': "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
     'Australia': "https://www.abc.net.au/news/feed/45910/rss.xml",
     'Antarctica': "https://www.sciencedaily.com/rss/earth_climate/antarctica.xml",
-    'Oceans': "https://www.sciencedaily.com/rss/earth_climate/oceanography.xml"
+    'Oceans': "https://www.sciencedaily.com/rss/earth_climate/oceanography.xml",
+    'Vedar': "https://www.wired.com/feed/rss",
+    'Blockchain': "https://cointelegraph.com/rss",
+    'Sport': "https://www.espn.com/espn/rss/news",
+    'HashVim': "https://thehackernews.com/feeds/posts/default"
 };
 
-async function load(cat) {
+let currentCat = 'MK';
+let timeToUpdate = 4;
+
+function setCat(cat) { currentCat = cat; load(); }
+
+async function load() {
     const grid = document.getElementById('masterGrid');
-    grid.innerHTML = '<p>AI SYNCING...</p>';
-    
     try {
-        const res = await fetch(PROXY + encodeURIComponent(FEEDS[cat]));
+        const res = await fetch(PROXY + encodeURIComponent(FEEDS[currentCat]));
         const xml = new DOMParser().parseFromString(await res.text(), "text/xml");
-        const items = xml.querySelectorAll("item");
+        const items = Array.from(xml.querySelectorAll("item")).slice(0, 12);
         
         grid.innerHTML = '';
-        let tickerText = "";
+        let tickerStr = "+++ LATEST: ";
 
-        items.forEach((item, idx) => {
-            if(idx > 11) return;
+        items.forEach(item => {
             const title = item.querySelector("title").textContent;
             const link = item.querySelector("link").textContent;
-            tickerText += title + " • ";
+            tickerStr += title + " +++ ";
 
-            // AI IMAGE FETCH LOGIC
-            let img = "https://images.unsplash.com/photo-1504711434969-e33886168f5c?q=80&w=800";
-            
-            // Проверка за разни типови на слика во RSS
-            const media = item.getElementsByTagName("media:content")[0] || 
-                          item.getElementsByTagName("enclosure")[0] ||
-                          item.getElementsByTagName("media:thumbnail")[0];
-            
+            let img = "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800";
+            const media = item.getElementsByTagName("media:content")[0] || item.getElementsByTagName("enclosure")[0];
             if(media) img = media.getAttribute("url");
 
             const card = document.createElement('div');
             card.className = 'card';
             card.innerHTML = `
-                <img src="${img}" class="card-img" onerror="this.src='https://images.unsplash.com/photo-1585829365234-784c05529450?q=80&w=400'">
-                <div class="card-title">${title}</div>
-                <button class="btn" onclick="speak('${title.replace(/'/g, "\\'")}')">AI ГЛАС</button>
-                <button class="btn" onclick="window.open('${link}', '_blank')">ОТВОРИ</button>
+                <img src="${img}" onerror="this.src='https://images.unsplash.com/photo-1504711434969-e33886168f5c?q=80&w=400'">
+                <div class="card-info">
+                    <div class="card-title">${title}</div>
+                    <button class="btn" onclick="window.open('${link}', '_blank')">ACCESS_DATA</button>
+                    <span class="hash-vim">HASH_VIM_ENCRYPTED_${Math.random().toString(36).toUpperCase().substr(2, 10)}</span>
+                </div>
             `;
             grid.appendChild(card);
         });
-        document.getElementById('ticker').innerText = tickerText;
-    } catch(e) { grid.innerHTML = 'OFFLINE'; }
+        document.getElementById('ticker').innerText = tickerStr;
+    } catch(e) { console.log("TERMINAL_ERROR: SYNC_FAILED"); }
 }
 
-function speak(t) {
-    const s = new SpeechSynthesisUtterance(t);
-    s.lang = 'mk-MK';
-    window.speechSynthesis.speak(s);
-}
+// 500 KM/H UPDATE ENGINE
+setInterval(() => {
+    timeToUpdate--;
+    if(timeToUpdate <= 0) {
+        load();
+        timeToUpdate = 4;
+    }
+    document.getElementById('timer').innerText = timeToUpdate + 'S';
+}, 1000);
 
-window.onload = () => load('MK');
+window.onload = () => load();
 </script>
 
 </body>
