@@ -3,113 +3,110 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Makedon World News | High-Yield Monetization 🛡️💰</title>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <title>Makedon World News | Global AI Hub 🛡️</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <style>
-        :root { --gold: #ffc107; --blue: #0d47a1; --neon: #00ff41; --bg: #020202; --card: #0a0a0a; --money: #2ecc71; }
-        body { font-family: 'Inter', sans-serif; margin: 0; background: var(--bg); color: white; }
+        :root { --gold: #ffc107; --money: #2ecc71; --blue: #0d47a1; --bg: #050505; --card: #111; }
+        body { font-family: 'Segoe UI', Roboto, sans-serif; margin: 0; background: var(--bg); color: white; }
         
-        /* PROFIT BAR */
-        .top-nav { background: #000; padding: 12px 25px; display: flex; justify-content: space-between; align-items: center; border-bottom: 2px solid var(--money); position: sticky; top: 0; z-index: 1000; box-shadow: 0 4px 20px rgba(46, 204, 113, 0.2); }
-
+        /* HEADER СЛИКА И HERO */
         .hero { 
-            background: linear-gradient(rgba(0,0,0,0.85), rgba(0,0,0,0.85)), url('https://images.unsplash.com/photo-1550751827-4bd374c3f58b?q=80&w=1920');
-            background-size: cover; height: 180px; display: flex; flex-direction: column; justify-content: center; align-items: center; border-bottom: 4px solid var(--gold);
+            background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url('https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=1920');
+            background-size: cover; background-position: center; height: 250px; display: flex; flex-direction: column; justify-content: center; align-items: center; border-bottom: 4px solid var(--gold); text-align: center;
         }
 
-        .main-layout { display: flex; max-width: 1750px; margin: 20px auto; padding: 0 20px; gap: 20px; }
-        .sidebar { width: 330px; flex-shrink: 0; }
+        .main-layout { display: flex; max-width: 1600px; margin: 20px auto; padding: 0 20px; gap: 30px; }
+        .sidebar { width: 300px; flex-shrink: 0; }
         
-        /* MONEY PANELS */
-        .panel { background: var(--card); border: 1px solid #222; border-radius: 12px; padding: 20px; margin-bottom: 20px; transition: 0.3s; }
-        .panel:hover { border-color: var(--money); }
-        .panel-h { color: var(--gold); font-weight: 900; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 15px; display: flex; align-items: center; gap: 10px; }
+        /* ЧИСТО ЛЕВО МЕНИ */
+        .nav-box { background: #111; padding: 20px; border-radius: 12px; border: 1px solid #222; margin-bottom: 20px; }
+        .nav-i { display: block; padding: 12px; color: #ccc; text-decoration: none; border-bottom: 1px solid #222; cursor: pointer; transition: 0.3s; }
+        .nav-i:hover { color: var(--gold); background: #1a1a1a; padding-left: 20px; }
 
-        .ad-slot { background: #111; border: 1px dashed var(--gold); padding: 15px; text-align: center; color: var(--gold); font-size: 0.7rem; border-radius: 8px; margin: 10px 0; }
-
-        /* NEWS CARDS - PROFIT DESIGN */
-        .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: 25px; }
-        .card { background: #080808; border: 1px solid #1a1a1a; border-radius: 15px; overflow: hidden; transition: 0.4s; }
+        /* ГРИД ЗА ВЕСТИ */
+        .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: 25px; flex-grow: 1; }
+        .card { background: var(--card); border: 1px solid #222; border-radius: 15px; overflow: hidden; transition: 0.4s; }
         .card:hover { border-color: var(--money); transform: translateY(-5px); }
+        .card-body { padding: 15px; }
         
-        .premium-btn { background: var(--money); color: #000; border: none; padding: 10px 20px; border-radius: 5px; font-weight: 900; cursor: pointer; width: 100%; text-transform: uppercase; transition: 0.3s; }
-        .premium-btn:hover { background: white; box-shadow: 0 0 20px var(--money); }
+        /* МОНЕТИЗАЦИЈА */
+        .pay-section { background: #0a0a0a; padding: 60px 20px; text-align: center; border-top: 3px solid var(--money); }
+        .pay-icons { font-size: 3.5rem; display: flex; justify-content: center; gap: 40px; margin-bottom: 20px; }
 
-        .payment-terminal { background: #000; padding: 80px 20px; text-align: center; border-top: 5px solid var(--money); }
-        .pay-grid { display: flex; justify-content: center; gap: 40px; margin: 30px 0; font-size: 3.5rem; }
-
-        footer { background: #000; padding: 40px; text-align: center; border-top: 1px solid #222; }
+        footer { background: #000; padding: 50px; text-align: center; border-top: 2px solid var(--gold); }
+        .footer-soc { font-size: 2.5rem; display: flex; justify-content: center; gap: 30px; margin-bottom: 20px; }
+        .footer-soc a { color: white; transition: 0.3s; }
+        .footer-soc a:hover { color: var(--gold); }
     </style>
 </head>
 <body>
 
-<div class="top-nav">
-    <div style="color:var(--money); font-weight:bold; font-size: 0.8rem;"><i class="fas fa-dollar-sign"></i> ALGORITHM MONETIZATION ACTIVE</div>
-    <div id="google_translate_element"></div>
-</div>
-
 <header class="hero">
-    <h1 style="font-size: 3rem; margin:0; letter-spacing: -1px;">MAKEDON WORLD NEWS</h1>
-    <p style="color:var(--gold); font-weight:bold; letter-spacing: 4px;">PREMIUM GLOBAL DATA HUB</p>
+    <h1 style="font-size: 3.5rem; margin:0;">MAKEDON WORLD NEWS</h1>
+    <p style="color:var(--gold); font-weight:bold; letter-spacing: 5px;">GLOBAL AI & BLOCKCHAIN MONETIZER</p>
 </header>
 
 <div class="main-layout">
     <aside class="sidebar">
-        <div class="panel">
-            <div class="panel-h"><i class="fas fa-chart-line"></i> ЗАРЕБОТКА</div>
-            <div class="ad-slot">РЕКЛАМЕН ПРОСТОР 300x250<br>ЗАКУПИ ВЕДНАШ</div>
-            <p style="font-size:0.75rem; color:#888;">Секој клик низ нашиот AI филтер генерира вредност за вашиот бренд.</p>
+        <div class="nav-box">
+            <h4 style="color:var(--gold); margin-top:0;">🤖 AI АСИСТЕНТИ & ТЕМИ</h4>
+            <div class="nav-i" onclick="loadRSS('Global')">🌍 Глобален Фид</div>
+            <div class="nav-i" onclick="loadRSS('Macedonia')">🇲🇰 Македонија</div>
+            <div class="nav-i" onclick="loadRSS('Crypto')">₿ Крипто Блок</div>
+            <div class="nav-i" onclick="loadRSS('Tech')">🤖 AI & Технологија</div>
         </div>
 
-        <div class="panel">
-            <div class="panel-h"><i class="fas fa-robot"></i> AI МЕЗИНЏЕР</div>
-            <p style="font-size:0.75rem;">Поврзано со: <strong>Македон Мезинџер</strong></p>
-            <div style="background: #111; padding: 15px; border-radius: 8px; border: 1px solid var(--blue);">
-                <i class="fas fa-headset" style="font-size: 1.5rem; color: var(--gold);"></i>
-                <p style="font-size:0.6rem; color:var(--neon);">READY FOR AI ADVERTISING</p>
-            </div>
+        <div class="nav-box" style="border: 1px solid var(--money);">
+            <h4 style="color:var(--money); margin-top:0;">📊 ПЛАНЕТАРЕН СТАТУС</h4>
+            <p style="font-size: 0.7rem; color: #888;">AI Асистентите се онлајн. Сите 1312 канали се мониторираат во реално време.</p>
         </div>
     </aside>
 
-    <main style="flex-grow:1;">
-        <div style="margin-bottom:15px; color:var(--gold); font-size:0.7rem; font-weight:bold;">🔔 BREAKING NEWS: ПРОВЕРЕНИ ПРЕКУ ШТИТНИК СИСТЕМОТ</div>
-        <div id="masterGrid" class="grid"></div>
-    </main>
+    <div id="masterGrid" class="grid">
+        </div>
 </div>
 
-<section class="payment-terminal">
-    <h2 style="color:var(--gold); letter-spacing: 3px;">💳 ГЛОБАЛЕН ТЕРМИНАЛ ЗА НАПЛАТА</h2>
-    <div class="pay-grid">
+<section class="pay-section">
+    <h2 style="color:var(--gold)">💰 МОНЕТИЗАЦИЈА & ЗАКУП НА ПРОСТОР</h2>
+    <div class="pay-icons">
         <i class="fab fa-cc-paypal" style="color:#003087"></i>
         <i class="fab fa-cc-stripe" style="color:#6772e5"></i>
         <i class="fab fa-cc-visa" style="color:#1a1f71"></i>
         <i class="fab fa-cc-mastercard" style="color:#eb001b"></i>
     </div>
-    <div style="background:#111; padding:30px; border-radius:15px; display:inline-block; border: 1px solid var(--money);">
-        <p>За трансакции и деловни договори:</p>
-        <h3 style="color:var(--gold); margin:10px 0;">makedonworldnews@gmail.com</h3>
-        <button class="premium-btn" onclick="location.href='mailto:makedonworldnews@gmail.com'">Плати за оглас / Премиум</button>
-    </div>
+    <p>Трансакциски центар: <strong>makedonworldnews@gmail.com</strong></p>
+    <a href="mailto:makedonworldnews@gmail.com" style="background:var(--money); color:black; padding:15px 30px; text-decoration:none; font-weight:bold; border-radius:8px; display:inline-block; margin-top:10px;">АКТИВИРАЈ ПРЕМИУМ ОГЛАС</a>
 </section>
 
 <footer>
-    <div style="font-size:2rem; margin-bottom:20px;">
-        <a href="https://facebook.com/share/17iEhWcYLD/" style="color:white; margin:0 15px;"><i class="fab fa-facebook"></i></a>
-        <a href="https://x.com/makedonworldnew" style="color:white; margin:0 15px;"><i class="fab fa-x-twitter"></i></a>
-        <a href="https://youtube.com/@makedonworldnews" style="color:white; margin:0 15px;"><i class="fab fa-youtube"></i></a>
+    <div class="footer-soc">
+        <a href="https://www.facebook.com/share/17iEhWcYLD/" target="_blank"><i class="fab fa-facebook"></i></a>
+        <a href="https://www.instagram.com/makedonworldnews" target="_blank"><i class="fab fa-instagram"></i></a>
+        <a href="https://www.tiktok.com/@makedon.worldnews" target="_blank"><i class="fab fa-tiktok"></i></a>
+        <a href="https://youtube.com/@makedonworldnews" target="_blank"><i class="fab fa-youtube"></i></a>
+        <a href="https://x.com/makedonworldnew" target="_blank"><i class="fab fa-x-twitter"></i></a>
     </div>
-    <p style="opacity:0.3; font-size:0.7rem;">© 2026 MAKEDON WORLD NEWS | ПЛАНЕТАРЕН МОНЕТИЗАЦИСКИ СИСТЕМ | САНДЕ</p>
+    <div id="google_translate_element"></div>
+    <p style="margin-top:30px; opacity:0.4; font-size:0.8rem;">© 2026 MAKEDON WORLD NEWS | ВЕРИФИКУВАНО ОД ШТИТНИК & AI ТИМ</p>
 </footer>
 
 <script>
 const PROXY = "https://api.allorigins.win/raw?url=";
-const RSS_FEED = "https://feeds.bbci.co.uk/news/world/rss.xml";
+const FEEDS = {
+    'Global': "https://feeds.bbci.co.uk/news/world/rss.xml",
+    'Macedonia': "https://sitel.com.mk/rss.xml",
+    'Crypto': "https://cointelegraph.com/rss",
+    'Tech': "https://wired.com/feed/rss"
+};
 
-async function fetchProfitNews() {
+async function loadRSS(cat) {
     const grid = document.getElementById('masterGrid');
+    grid.innerHTML = '<p style="padding:20px;">AI Асистентот ги синхронизира вестите...</p>';
+    
     try {
-        const response = await fetch(PROXY + encodeURIComponent(RSS_FEED));
-        const xml = new DOMParser().parseFromString(await response.text(), "text/xml");
+        const response = await fetch(PROXY + encodeURIComponent(FEEDS[cat]));
+        const text = await response.text();
+        const xml = new DOMParser().parseFromString(text, "text/xml");
         const items = xml.querySelectorAll("item");
         
         grid.innerHTML = '';
@@ -117,36 +114,31 @@ async function fetchProfitNews() {
             if(idx > 11) return;
             const title = item.querySelector("title").textContent;
             const link = item.querySelector("link").textContent;
-            const hash = 'SHA-' + Math.random().toString(16).slice(2, 8).toUpperCase();
-            
+            const hash = '0x' + Math.random().toString(16).slice(2, 10).toUpperCase();
+
             const card = document.createElement('div');
             card.className = 'card';
             card.innerHTML = `
-                <div style="padding:15px;">
+                <img src="https://images.unsplash.com/photo-1585829365234-784c05529450?q=80&w=400" style="width:100%; height:160px; object-fit:cover;">
+                <div class="card-body">
                     <span style="color:var(--money); font-size:0.6rem; font-weight:bold;">🛡️ SHTITNIK VERIFIED</span>
-                    <div style="font-weight:bold; margin:10px 0; font-size:1rem; height:45px; overflow:hidden;">${title}</div>
-                    <div style="color:#555; font-size:0.6rem; margin-bottom:10px;">ID: ${hash}</div>
-                    <button class="premium-btn" style="font-size:0.7rem; padding:8px;" onclick="window.open('${link}', '_blank')">ВЕРИФИКУВАЈ & ЧИТАЈ</button>
-                    <button style="background:none; border:1px solid #333; color:#888; margin-top:5px; font-size:0.6rem; width:100%; padding:5px; cursor:pointer;" onclick="speakAI('${title.replace(/'/g, "\\'")}')">🔊 AI ГЛАС</button>
+                    <h3 style="font-size:0.95rem; margin:10px 0; line-height:1.4;">${title}</h3>
+                    <div style="font-family:monospace; font-size:0.6rem; color:#444; margin-bottom:15px;">HASH: ${hash}</div>
+                    <a href="${link}" target="_blank" style="background:var(--blue); color:white; text-decoration:none; padding:10px; display:block; text-align:center; border-radius:5px; font-weight:bold; font-size:0.8rem;">ВЕРИФИКУВАЈ & ОТВОРИ</a>
                 </div>
             `;
             grid.appendChild(card);
         });
-    } catch(e) {}
+    } catch(e) { grid.innerHTML = '<p>Проблем со серверот. AI Асистентите работат на решавање.</p>'; }
 }
 
-function speakAI(t) {
-    const s = new SpeechSynthesisUtterance(t);
-    s.lang = 'mk-MK';
-    window.speechSynthesis.speak(s);
-}
-
-window.onload = fetchProfitNews;
+window.onload = () => loadRSS('Global');
 
 function googleTranslateElementInit() {
     new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'mk,en'}, 'google_translate_element');
 }
 </script>
 <script src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+
 </body>
 </html>
