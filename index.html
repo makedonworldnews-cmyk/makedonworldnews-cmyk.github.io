@@ -3,117 +3,128 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>MAKEDON WORLD NEWS | EXTRA-PLANETARY AGGREGATOR 🛡️🛰️</title>
+    <title>Makedon World News | Global Elite Hub</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
     <style>
-        :root { --bg: #000; --line: #ffffff; --text: #ffffff; --warn: #ff0000; }
-        body { font-family: 'Courier New', monospace; margin: 0; background: var(--bg); color: var(--text); overflow-x: hidden; }
+        :root { --bg: #000000; --line: #ffffff; --text: #ffffff; }
+        body { font-family: 'EB Garamond', serif; margin: 0; background: var(--bg); color: var(--text); overflow-x: hidden; }
 
-        /* HEADER - PLANETARY HUB */
-        header { border-bottom: 1px solid var(--line); padding: 40px 20px; text-align: center; position: relative; }
-        .hero-img { width: 160px; border: 1px solid var(--line); filter: grayscale(100%); transition: 0.5s; }
-        .hero-img:hover { filter: none; border-color: var(--warn); }
-        h1 { font-size: 2.5rem; letter-spacing: 8px; text-transform: uppercase; margin: 15px 0; font-weight: 900; }
-        .sub-header { font-size: 0.7rem; letter-spacing: 4px; opacity: 0.6; text-transform: uppercase; }
+        /* HEADER */
+        header { border-bottom: 1px solid var(--line); padding: 35px 20px; text-align: center; }
+        .hero-img { width: 140px; border: 1px solid var(--line); margin-bottom: 15px; }
+        h1 { font-size: 2.8rem; letter-spacing: 2px; margin: 5px 0; text-transform: uppercase; font-weight: 700; }
+        .sub-header { font-size: 0.9rem; letter-spacing: 3px; opacity: 0.7; font-style: italic; }
 
-        /* EXTRA-PLANETARY TICKER */
-        .ticker-wrap { border-bottom: 1px solid var(--line); padding: 12px 0; background: #050505; overflow: hidden; white-space: nowrap; }
-        .ticker-move { display: inline-block; animation: ticker 30s linear infinite; font-size: 0.9rem; font-weight: bold; color: var(--line); }
+        /* TICKER - Смирен и Елегантен */
+        .ticker-wrap { border-bottom: 1px solid var(--line); padding: 12px 0; background: #000; overflow: hidden; white-space: nowrap; }
+        .ticker-move { 
+            display: inline-block; 
+            animation: ticker 80s linear infinite; /* Зголемено време за побавно движење */
+            font-size: 1.1rem; 
+        }
         @keyframes ticker { 0% { transform: translateX(100%); } 100% { transform: translateX(-100%); } }
 
-        /* SYSTEM LAYOUT */
-        .container { display: flex; max-width: 1900px; margin: 0 auto; border-left: 1px solid var(--line); border-right: 1px solid var(--line); }
+        /* LAYOUT */
+        .container { display: flex; max-width: 1800px; margin: 0 auto; border-left: 1px solid var(--line); border-right: 1px solid var(--line); }
         
-        /* SIDEBAR - COMMAND CENTER */
-        .sidebar { width: 300px; border-right: 1px solid var(--line); padding: 30px; flex-shrink: 0; }
-        .sidebar h4 { font-size: 0.85rem; border-bottom: 1px solid var(--line); padding-bottom: 10px; margin-top: 40px; letter-spacing: 3px; }
-        .nav-link { display: block; padding: 12px 0; color: #666; text-decoration: none; font-size: 0.8rem; cursor: pointer; transition: 0.2s; border-bottom: 1px solid #111; }
-        .nav-link:hover { color: var(--line); padding-left: 15px; background: #0a0a0a; }
+        /* SIDEBAR */
+        .sidebar { width: 280px; border-right: 1px solid var(--line); padding: 30px; flex-shrink: 0; }
+        .sidebar h4 { font-size: 1rem; border-bottom: 1px solid var(--line); padding-bottom: 8px; margin-top: 35px; letter-spacing: 1px; text-transform: uppercase; }
+        .nav-link { display: block; padding: 10px 0; color: #999; text-decoration: none; font-size: 1.05rem; cursor: pointer; transition: 0.3s; }
+        .nav-link:hover { color: var(--line); padding-left: 10px; font-style: italic; }
 
-        /* GRID CONTENT */
-        .content { flex-grow: 1; padding: 30px; background: radial-gradient(circle at top right, #050505, #000); }
-        .system-status { font-size: 0.7rem; margin-bottom: 20px; display: flex; justify-content: space-between; border: 1px solid #222; padding: 10px; }
-        .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: 35px; }
+        /* МЕСИНЏЕРИ - Сите на број */
+        .messenger-hub { display: grid; grid-template-columns: repeat(3, 1fr); gap: 15px; margin-top: 20px; }
+        .messenger-hub a { color: white; font-size: 1.4rem; text-align: center; transition: 0.3s; }
+        .messenger-hub a:hover { opacity: 0.5; }
+
+        /* ГЛАВНА СОДРЖИНА */
+        .content { flex-grow: 1; padding: 35px; }
+        .status-line { font-size: 0.85rem; margin-bottom: 25px; border-bottom: 1px solid #222; padding-bottom: 10px; display: flex; justify-content: space-between; }
         
-        .card { border: 1px solid var(--line); padding: 0; background: #000; position: relative; transition: 0.3s; overflow: hidden; }
-        .card:hover { transform: scale(1.02); box-shadow: 0 0 20px rgba(255,255,255,0.1); }
-        .card img { width: 100%; height: 200px; object-fit: cover; border-bottom: 1px solid var(--line); filter: sepia(50%) brightness(80%); transition: 0.5s; }
-        .card:hover img { filter: none; brightness(100%); }
-        .card-info { padding: 20px; }
-        .card-title { font-weight: bold; font-size: 1rem; line-height: 1.3; margin-bottom: 15px; }
-        
-        /* SECURITY HASH */
-        .hash-vim { font-size: 0.6rem; color: #444; text-transform: uppercase; border-top: 1px solid #111; padding-top: 10px; display: block; }
+        .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: 40px; }
+        .card { border: 1px solid var(--line); padding: 15px; background: #000; transition: 0.4s; }
+        .card:hover { transform: translateY(-5px); }
+        .card img { width: 100%; height: 190px; object-fit: cover; border: 1px solid #222; margin-bottom: 15px; }
+        .card-title { font-weight: 700; font-size: 1.2rem; line-height: 1.2; margin-bottom: 15px; height: 3em; overflow: hidden; }
 
-        /* INTERFACE BUTTONS */
-        .btn { border: 1px solid var(--line); background: transparent; color: white; padding: 12px; width: 100%; cursor: pointer; font-size: 0.75rem; text-transform: uppercase; font-family: inherit; }
-        .btn:hover { background: var(--line); color: var(--bg); }
+        /* КОПЧИЊА */
+        .btn { border: 1px solid var(--line); background: transparent; color: white; padding: 12px; width: 100%; cursor: pointer; font-family: 'EB Garamond', serif; font-size: 1rem; text-transform: uppercase; }
+        .btn:hover { background: white; color: black; }
 
-        /* FOOTER - FINAL TERMINAL */
-        footer { border-top: 1px solid var(--line); padding: 80px 20px; text-align: center; }
-        .payment-hub { font-size: 3rem; margin-bottom: 40px; opacity: 0.8; letter-spacing: 20px; }
-        .contact-mail { font-size: 1.5rem; font-weight: bold; margin: 20px 0; border: 1px solid var(--line); display: inline-block; padding: 10px 30px; }
+        /* FOOTER */
+        footer { border-top: 1px solid var(--line); padding: 60px 20px; text-align: center; }
+        .contact-mail { font-size: 1.4rem; margin: 25px 0; text-decoration: underline; }
     </style>
 </head>
 <body>
 
 <header>
-    <img src="https://raw.githubusercontent.com/makedonworldnews-cmyk/makedonworldnews-cmyk.github.io/main/hero.jpg" class="hero-img" alt="MAKEDON">
-    <h1>MAKEDON WORLD NEWS</h1>
-    <div class="sub-header">Extra-Planetary News Aggregator // Verified by Sande AI</div>
+    <img src="https://raw.githubusercontent.com/makedonworldnews-cmyk/makedonworldnews-cmyk.github.io/main/hero.jpg" class="hero-img">
+    <h1>Makedon World News</h1>
+    <div class="sub-header">Global Intelligence & Data Aggregate</div>
 </header>
 
 <div class="ticker-wrap">
-    <div id="ticker" class="ticker-move">+++ INITIALIZING HASH-VIM PROTECTION +++ SCANNING 1312 SATELLITE CHANNELS +++ GLOBAL UPDATE ACTIVE +++</div>
+    <div id="ticker" class="ticker-move">+++ ВЕРИФИКУВАНО ОД ШТИТНИК +++ СИНХРОНИЗАЦИЈА НА СИТЕ КОНТИНЕНТИ +++ ВЕДАР КАСТ: ЕКСКЛУЗИВНИ ИНФОРМАЦИИ +++</div>
 </div>
 
 <div class="container">
     <aside class="sidebar">
-        <h4>GEOGRAPHIC BLOCKS</h4>
-        <div class="nav-link" onclick="setCat('MK')">01_MACEDONIA</div>
-        <div class="nav-link" onclick="setCat('Balkan')">02_BALKAN_REGION</div>
-        <div class="nav-link" onclick="setCat('Europe')">03_EUROPE_UNION</div>
-        <div class="nav-link" onclick="setCat('America')">04_AMERICAS</div>
-        <div class="nav-link" onclick="setCat('Asia')">05_ASIA_PACIFIC</div>
-        <div class="nav-link" onclick="setCat('Africa')">06_AFRICA_CONTINENT</div>
-        <div class="nav-link" onclick="setCat('India')">07_INDIA_SUBCONTINENT</div>
-        <div class="nav-link" onclick="setCat('Australia')">08_AUSTRALIA_OCEANIA</div>
-        <div class="nav-link" onclick="setCat('Antarctica')">09_ANTARCTIC_ZONE</div>
-        <div class="nav-link" onclick="setCat('Oceans')">10_OCEANIC_DEPTHS</div>
+        <h4>Континенти</h4>
+        <div class="nav-link" onclick="setCat('MK')">Македонија</div>
+        <div class="nav-link" onclick="setCat('Balkan')">Балкан</div>
+        <div class="nav-link" onclick="setCat('Europe')">Европа</div>
+        <div class="nav-link" onclick="setCat('America')">Америка</div>
+        <div class="nav-link" onclick="setCat('Asia')">Азија</div>
+        <div class="nav-link" onclick="setCat('Africa')">Африка</div>
+        <div class="nav-link" onclick="setCat('Antarctica')">Антарктик</div>
 
-        <h4>PRIME SECTORS</h4>
-        <div class="nav-link" onclick="setCat('Vedar')" style="color:var(--warn)">[!] VEDAR_CAST_PRIME</div>
-        <div class="nav-link" onclick="setCat('Blockchain')">₿ BLOCKCHAIN_LEDGER</div>
-        <div class="nav-link" onclick="setCat('Sport')">🏆 WORLD_SPORTS</div>
-        <div class="nav-link" onclick="setCat('HashVim')">🛡️ HASH_VIM_SECURITY</div>
+        <h4>Ексклузивно</h4>
+        <div class="nav-link" onclick="setCat('Vedar')">🌟 Ведар Каст</div>
+        <div class="nav-link" onclick="setCat('Blockchain')">₿ Блокчејн</div>
+        <div class="nav-link" onclick="setCat('Sport')">🏆 Спорт</div>
+        <div class="nav-link" onclick="setCat('HashVim')">🛡️ Хаш-Вим Заштита</div>
 
-        <h4 style="margin-top:50px;">COMMS HUB</h4>
-        <div style="display: flex; justify-content: space-between; font-size: 1.2rem;">
-            <i class="fab fa-facebook-messenger"></i> <i class="fab fa-whatsapp"></i> <i class="fab fa-telegram"></i> <i class="fab fa-viber"></i>
+        <h4>Месинџери</h4>
+        <div class="messenger-hub">
+            <a href="#"><i class="fab fa-facebook-messenger"></i></a>
+            <a href="#"><i class="fab fa-whatsapp"></i></a>
+            <a href="#"><i class="fab fa-telegram"></i></a>
+            <a href="#"><i class="fab fa-viber"></i></a>
+            <a href="#"><i class="fab fa-discord"></i></a>
+            <a href="#"><i class="fab fa-signal"></i></a>
+        </div>
+
+        <h4 style="margin-top:40px;">AI Оператори</h4>
+        <div style="font-size: 0.85rem; opacity: 0.6; line-height: 1.6;">
+            ● Gemini-3 Flash (Online)<br>
+            ● Hash-Vim Shield (Active)<br>
+            ● Global Node 1312 (Synced)
         </div>
     </aside>
 
     <main class="content">
-        <div class="system-status">
-            <div>STATUS: <span style="color:#0f0">SYNC_OK</span></div>
-            <div>AI_UPDATE: <span id="timer" style="color:var(--warn)">4S</span></div>
-            <div>DATA_STREAM: 500_KM/H</div>
+        <div class="status-line">
+            <div>Освежување: <span id="timer">4s</span></div>
+            <div>Статус: Премиум Агрегатор</div>
         </div>
         <div id="masterGrid" class="grid"></div>
     </main>
 </div>
 
 <footer>
-    <div class="payment-hub">
-        <i class="fab fa-cc-paypal"></i> <i class="fab fa-cc-visa"></i> <i class="fab fa-cc-mastercard"></i> <i class="fab fa-bitcoin"></i>
-    </div>
     <div class="contact-mail">makedonworldnews@gmail.com</div>
-    <div style="margin-top: 40px;">
-        <a href="https://facebook.com/share/17iEhWcYLD/" style="color:white; margin:0 20px;"><i class="fab fa-facebook fa-2x"></i></a>
-        <a href="https://x.com/makedonworldnew" style="color:white; margin:0 20px;"><i class="fab fa-x-twitter fa-2x"></i></a>
-        <a href="https://youtube.com/@makedonworldnews" style="color:white; margin:0 20px;"><i class="fab fa-youtube fa-2x"></i></a>
+    <div style="font-size: 2rem; margin-bottom: 30px;">
+        <i class="fab fa-cc-paypal"></i> <i class="fab fa-cc-visa"></i> <i class="fab fa-cc-mastercard"></i>
     </div>
-    <p style="margin-top: 60px; opacity: 0.2; font-size: 0.7rem; letter-spacing: 5px;">PLANETARY REVISION // OPERATOR SANDE // AI-1312</p>
+    <div style="margin-top: 30px;">
+        <a href="https://facebook.com/share/17iEhWcYLD/" style="color:white; margin:0 20px;"><i class="fab fa-facebook fa-xl"></i></a>
+        <a href="https://x.com/makedonworldnew" style="color:white; margin:0 20px;"><i class="fab fa-x-twitter fa-xl"></i></a>
+        <a href="https://youtube.com/@makedonworldnews" style="color:white; margin:0 20px;"><i class="fab fa-youtube fa-xl"></i></a>
+    </div>
+    <p style="margin-top: 50px; opacity: 0.3; font-size: 0.8rem;">© 2026 MAKEDON WORLD NEWS | SANDE & AI ORBITAL TEAM</p>
 </footer>
 
 <script>
@@ -125,10 +136,7 @@ const FEEDS = {
     'America': "https://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml",
     'Asia': "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
     'Africa': "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
-    'India': "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
-    'Australia': "https://www.abc.net.au/news/feed/45910/rss.xml",
     'Antarctica': "https://www.sciencedaily.com/rss/earth_climate/antarctica.xml",
-    'Oceans': "https://www.sciencedaily.com/rss/earth_climate/oceanography.xml",
     'Vedar': "https://www.wired.com/feed/rss",
     'Blockchain': "https://cointelegraph.com/rss",
     'Sport': "https://www.espn.com/espn/rss/news",
@@ -148,7 +156,7 @@ async function load() {
         const items = Array.from(xml.querySelectorAll("item")).slice(0, 12);
         
         grid.innerHTML = '';
-        let tickerStr = "+++ LATEST: ";
+        let tickerStr = "+++ ВЕСТИ: ";
 
         items.forEach(item => {
             const title = item.querySelector("title").textContent;
@@ -163,26 +171,22 @@ async function load() {
             card.className = 'card';
             card.innerHTML = `
                 <img src="${img}" onerror="this.src='https://images.unsplash.com/photo-1504711434969-e33886168f5c?q=80&w=400'">
-                <div class="card-info">
-                    <div class="card-title">${title}</div>
-                    <button class="btn" onclick="window.open('${link}', '_blank')">ACCESS_DATA</button>
-                    <span class="hash-vim">HASH_VIM_ENCRYPTED_${Math.random().toString(36).toUpperCase().substr(2, 10)}</span>
-                </div>
+                <div class="card-title">${title}</div>
+                <button class="btn" onclick="window.open('${link}', '_blank')">Прочитај Вест</button>
             `;
             grid.appendChild(card);
         });
         document.getElementById('ticker').innerText = tickerStr;
-    } catch(e) { console.log("TERMINAL_ERROR: SYNC_FAILED"); }
+    } catch(e) { console.log("SYNC_ERR"); }
 }
 
-// 500 KM/H UPDATE ENGINE
 setInterval(() => {
     timeToUpdate--;
     if(timeToUpdate <= 0) {
         load();
         timeToUpdate = 4;
     }
-    document.getElementById('timer').innerText = timeToUpdate + 'S';
+    document.getElementById('timer').innerText = timeToUpdate + 's';
 }, 1000);
 
 window.onload = () => load();
