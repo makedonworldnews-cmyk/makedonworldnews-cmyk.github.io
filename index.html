@@ -3,83 +3,81 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Makedon World News | Golden Era AI 🛡️</title>
+    <title>Makedon World News | Golden AI Terminal 🛡️</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
     <style>
         :root { 
             --bg: #000000; 
             --gold: #c5a059; /* Старо злато */
-            --gold-dim: #5e4d2d; 
+            --gold-dim: #4a3c22; 
             --text: #ffffff; 
         }
         body { font-family: 'EB Garamond', serif; margin: 0; background: var(--bg); color: var(--text); overflow-x: hidden; }
 
-        /* HEADER - КРАЛСКИ ТЕРМИНАЛ */
-        header { border-bottom: 2px solid var(--gold); padding: 40px 20px; text-align: center; background: linear-gradient(to bottom, #0a0a0a, #000); }
+        /* HEADER */
+        header { border-bottom: 2px solid var(--gold); padding: 50px 20px; text-align: center; background: #000; }
         .hero-img { 
-            width: 250px; /* Зголемено логото */
+            width: 280px; /* Доминантно логото */
             height: auto; 
             border: 1px solid var(--gold); 
-            padding: 5px;
-            margin-bottom: 20px;
-            box-shadow: 0 0 20px rgba(197, 160, 89, 0.2);
+            padding: 10px;
+            margin-bottom: 25px;
         }
-        h1 { font-size: 3.5rem; letter-spacing: 5px; margin: 10px 0; text-transform: uppercase; color: var(--gold); font-weight: 700; }
-        .tagline { font-size: 1rem; letter-spacing: 4px; opacity: 0.8; font-style: italic; color: var(--gold); }
+        h1 { font-size: 3.2rem; letter-spacing: 4px; margin: 10px 0; text-transform: uppercase; color: var(--gold); font-weight: 700; }
+        .tagline { font-size: 1rem; letter-spacing: 5px; opacity: 0.8; color: var(--gold); text-transform: uppercase; }
 
         /* TICKER - СТАРО ЗЛАТО */
         .ticker-wrap { border-bottom: 1px solid var(--gold-dim); padding: 15px 0; background: #050505; overflow: hidden; white-space: nowrap; }
-        .ticker-move { display: inline-block; animation: ticker 90s linear infinite; font-size: 1.2rem; color: var(--gold); font-style: italic; }
+        .ticker-move { display: inline-block; animation: ticker 85s linear infinite; font-size: 1.1rem; color: var(--gold); }
         @keyframes ticker { 0% { transform: translateX(100%); } 100% { transform: translateX(-100%); } }
 
         /* LAYOUT */
-        .container { display: flex; max-width: 1900px; margin: 0 auto; }
+        .container { display: flex; max-width: 1900px; margin: 0 auto; min-height: 80vh; }
         
-        /* SIDEBAR - МОНОЛИТ */
+        /* SIDEBAR */
         .sidebar { width: 320px; border-right: 1px solid var(--gold-dim); padding: 40px 30px; flex-shrink: 0; background: #020202; }
-        .sidebar h4 { font-size: 1.2rem; border-bottom: 1px solid var(--gold); padding-bottom: 10px; margin-top: 40px; color: var(--gold); text-transform: uppercase; letter-spacing: 2px; }
-        .nav-link { display: block; padding: 12px 0; color: #ccc; text-decoration: none; font-size: 1.1rem; cursor: pointer; transition: 0.3s; border-bottom: 1px solid #111; }
+        .sidebar h4 { font-size: 1.1rem; border-bottom: 1px solid var(--gold); padding-bottom: 10px; margin-top: 40px; color: var(--gold); text-transform: uppercase; letter-spacing: 2px; }
+        .nav-link { display: block; padding: 12px 0; color: #999; text-decoration: none; font-size: 1.1rem; cursor: pointer; transition: 0.3s; border-bottom: 1px solid #111; }
         .nav-link:hover { color: var(--gold); padding-left: 15px; background: rgba(197, 160, 89, 0.05); }
 
-        /* МЕСИНЏЕРИ - ЗЛАТНИ */
+        /* МЕСИНЏЕРИ */
         .messenger-hub { display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; margin-top: 25px; }
-        .messenger-hub a { color: var(--gold); font-size: 1.6rem; text-align: center; transition: 0.3s; }
+        .messenger-hub a { color: var(--gold); font-size: 1.5rem; text-align: center; transition: 0.3s; text-decoration: none; }
         .messenger-hub a:hover { transform: scale(1.2); color: white; }
 
         /* CONTENT */
         .content { flex-grow: 1; padding: 40px; }
         .status-header { display: flex; justify-content: space-between; font-size: 0.9rem; color: var(--gold); margin-bottom: 30px; border-bottom: 1px solid var(--gold-dim); padding-bottom: 10px; }
         
-        .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(350px, 1fr)); gap: 40px; }
-        .card { border: 1px solid var(--gold-dim); padding: 0; background: #000; transition: 0.5s; position: relative; overflow: hidden; }
-        .card:hover { border-color: var(--gold); box-shadow: 0 0 15px rgba(197, 160, 89, 0.1); }
-        .card img { width: 100%; height: 220px; object-fit: cover; border-bottom: 1px solid var(--gold-dim); filter: brightness(0.8); }
-        .card:hover img { filter: brightness(1.1); }
+        .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(340px, 1fr)); gap: 40px; }
+        .card { border: 1px solid var(--gold-dim); padding: 0; background: #000; transition: 0.5s; overflow: hidden; }
+        .card:hover { border-color: var(--gold); transform: translateY(-5px); }
+        .card img { width: 100%; height: 210px; object-fit: cover; border-bottom: 1px solid var(--gold-dim); }
         .card-body { padding: 20px; }
-        .card-title { font-weight: 700; font-size: 1.3rem; line-height: 1.2; margin-bottom: 15px; color: #fff; height: 3.6em; overflow: hidden; }
+        .card-title { font-weight: 700; font-size: 1.2rem; line-height: 1.3; margin-bottom: 15px; color: #fff; height: 3.8em; overflow: hidden; }
 
-        /* BUTTONS - GOLDEN CLASS */
-        .btn { border: 1px solid var(--gold); background: transparent; color: var(--gold); padding: 12px; width: 100%; cursor: pointer; font-family: 'EB Garamond', serif; font-size: 1.1rem; text-transform: uppercase; transition: 0.3s; }
+        /* BUTTONS */
+        .btn { border: 1px solid var(--gold); background: transparent; color: var(--gold); padding: 12px; width: 100%; cursor: pointer; font-family: 'EB Garamond', serif; font-size: 1rem; text-transform: uppercase; transition: 0.3s; }
         .btn:hover { background: var(--gold); color: black; font-weight: bold; }
 
         /* FOOTER */
         footer { border-top: 2px solid var(--gold); padding: 80px 20px; text-align: center; background: #050505; }
-        .contact-mail { font-size: 1.8rem; color: var(--gold); font-weight: 700; margin-bottom: 40px; }
-        .soc-links a { color: var(--gold); font-size: 2.2rem; margin: 0 25px; transition: 0.3s; }
+        .contact-mail { font-size: 1.8rem; color: var(--gold); font-weight: 700; margin-bottom: 30px; display: block; text-decoration: none; }
+        .soc-links a { color: var(--gold); font-size: 2rem; margin: 0 20px; transition: 0.3s; }
         .soc-links a:hover { color: white; }
     </style>
 </head>
 <body>
 
 <header>
-    <img src="https://raw.githubusercontent.com/makedonworldnews-cmyk/makedonworldnews-cmyk.github.io/main/hero.jpg" class="hero-img" alt="Makedon World News">
+    <img src="https://raw.githubusercontent.com/makedonworldnews-cmyk/makedonworldnews-cmyk.github.io/main/hero.jpg" class="hero-img" alt="MAKEDON LOGO">
     <h1>Makedon World News</h1>
     <div class="tagline">Вонпланетарен AI Агрегатор // Хаш-Вим Систем</div>
 </header>
 
 <div class="ticker-wrap">
-    <div id="ticker" class="ticker-move">+++ ВЕРИФИКУВАНИ ВЕСТИ ОД СИТЕ КОНТИНЕНТИ +++ АКТИВЕН ПРЕНОС ОД ОКЕАНИТЕ +++ ВЕДАР КАСТ ПРЕМИУМ +++</div>
+    <div id="ticker" class="ticker-move">+++ СИСТЕМАТИЗИРАНИ ВЕСТИ ОД ГЛОБАЛНИТЕ ЦЕНТРИ +++ АКТИВЕН МОНИТОРИНГ НА ОКЕАНИТЕ +++ ВЕДАР КАСТ ЕКСКЛУЗИВНО +++</div>
 </div>
 
 <div class="container">
@@ -97,9 +95,9 @@
         <h4>Теми & Океани</h4>
         <div class="nav-link" onclick="setCat('Vedar')">🌟 Ведар Каст</div>
         <div class="nav-link" onclick="setCat('Blockchain')">₿ Блокчејн</div>
-        <div class="nav-link" onclick="setCat('Sport')">🏆 Светски Спорт</div>
-        <div class="nav-link" onclick="setCat('Oceans')">🌊 Длабоки Океани</div>
-        <div class="nav-link" onclick="setCat('Military')">⚔️ Хаш-Вим Заштита</div>
+        <div class="nav-link" onclick="setCat('Sport')">🏆 Спорт</div>
+        <div class="nav-link" onclick="setCat('Oceans')">🌊 Океани</div>
+        <div class="nav-link" onclick="setCat('Military')">🛡️ Хаш-Вим Заштита</div>
 
         <h4>Месинџери</h4>
         <div class="messenger-hub">
@@ -122,15 +120,15 @@
 </div>
 
 <footer>
-    <div class="contact-mail">makedonworldnews@gmail.com</div>
+    <a href="mailto:makedonworldnews@gmail.com" class="contact-mail">makedonworldnews@gmail.com</a>
     <div class="soc-links">
         <a href="https://facebook.com/share/17iEhWcYLD/"><i class="fab fa-facebook"></i></a>
         <a href="https://x.com/makedonworldnew"><i class="fab fa-x-twitter"></i></a>
         <a href="https://youtube.com/@makedonworldnews"><i class="fab fa-youtube"></i></a>
     </div>
-    <div style="margin-top: 50px; opacity: 0.5; color: var(--gold); font-size: 0.9rem; letter-spacing: 3px;">
-        © 2026 MAKEDON WORLD NEWS | ВЕРЗИЈА: GOLDEN AI MONOLITH
-    </div>
+    <p style="margin-top: 50px; opacity: 0.4; color: var(--gold); font-size: 0.8rem; letter-spacing: 2px;">
+        © 2026 MAKEDON WORLD NEWS | POWERED BY SANDE AI 1312
+    </p>
 </footer>
 
 <script>
@@ -176,10 +174,20 @@ async function load() {
             const link = item.querySelector("link").textContent;
             tickerText += title + " +++ ";
 
-            // Реално извлекување слика
-            let img = "https://images.unsplash.com/photo-1504711434969-e33886168f5c?q=80&w=600";
-            const media = item.getElementsByTagName("media:content")[0] || item.getElementsByTagName("enclosure")[0];
+            let img = "https://images.unsplash.com/photo-1585829365234-784c05529450?q=80&w=600";
+            
+            // Напредно извлекување слики од различни RSS формати
+            const media = item.getElementsByTagName("media:content")[0] || 
+                          item.getElementsByTagName("enclosure")[0] ||
+                          item.getElementsByTagName("media:thumbnail")[0];
+            
             if(media) img = media.getAttribute("url");
+            else {
+                // Обид да се најде слика во description ако RSS е стар формат
+                const desc = item.querySelector("description") ? item.querySelector("description").textContent : "";
+                const imgMatch = desc.match(/<img[^>]+src="([^">]+)"/);
+                if(imgMatch) img = imgMatch[1];
+            }
 
             const card = document.createElement('div');
             card.className = 'card';
@@ -187,13 +195,13 @@ async function load() {
                 <img src="${img}" onerror="this.src='https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=600'">
                 <div class="card-body">
                     <div class="card-title">${title}</div>
-                    <button class="btn" onclick="window.open('${link}', '_blank')">Детали</button>
+                    <button class="btn" onclick="window.open('${link}', '_blank')">Прочитај повеќе</button>
                 </div>
             `;
             grid.appendChild(card);
         });
         document.getElementById('ticker').innerText = tickerText;
-    } catch(e) { console.log("AI Sync Error"); }
+    } catch(e) { console.log("AI Sync Offline"); }
 }
 
 setInterval(() => {
