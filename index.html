@@ -3,69 +3,72 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Makedon World News | Global Intelligence</title>
+    <title>Makedon World News | Global Social Hub</title>
     <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
     <style>
-        :root { --red: #d32f2f; --black: #121212; --gray: #f4f4f4; --blue: #0088cc; --green: #25d366; }
+        :root { --red: #d32f2f; --black: #121212; --gray: #f4f4f4; --blue: #0088cc; --green: #25d366; --tiktok: #ee1d52; }
         body { font-family: 'Segoe UI', sans-serif; margin: 0; background: var(--gray); color: #333; }
         
         header { background: var(--black); color: white; text-align: center; padding: 30px 15px; border-bottom: 5px solid var(--red); }
         .container { max-width: 1300px; margin: auto; padding: 20px; }
 
-        /* AI & Social Hub */
+        /* Magic Hub Bar with Your Real Links */
         .hub-bar { 
-            display: flex; flex-wrap: wrap; justify-content: center; gap: 12px; 
-            background: white; padding: 15px; border-radius: 15px; margin: -30px auto 30px;
-            box-shadow: 0 10px 20px rgba(0,0,0,0.1); position: relative; z-index: 10; border: 1px solid #ddd;
+            display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; 
+            background: white; padding: 15px; border-radius: 15px; margin: -40px auto 30px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.15); border: 1px solid #ddd; position: relative; z-index: 100;
         }
-        .hub-link { text-decoration: none; color: #444; font-weight: bold; font-size: 0.8rem; display: flex; align-items: center; gap: 4px; padding: 5px 10px; border-radius: 5px; transition: 0.2s; }
-        .hub-link:hover { background: #f0f0f0; color: var(--red); }
+        .hub-link { text-decoration: none; color: #444; font-weight: bold; font-size: 0.75rem; display: flex; align-items: center; gap: 5px; padding: 8px 10px; border-radius: 8px; transition: 0.3s; background: #f9f9f9; border: 1px solid #eee; }
+        .hub-link:hover { background: var(--black); color: white; transform: scale(1.05); }
+        .ai-label { color: var(--red); font-weight: 800; font-size: 0.8rem; margin-right: 5px; }
 
         /* News Cards */
         #news-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: 25px; }
-        .card { background: white; border-radius: 15px; overflow: hidden; box-shadow: 0 5px 15px rgba(0,0,0,0.05); border: 1px solid #eee; display: flex; flex-direction: column; transition: 0.3s; }
-        .card:hover { transform: translateY(-8px); box-shadow: 0 12px 25px rgba(0,0,0,0.1); }
-        .card img { width: 100%; height: 190px; object-fit: cover; background: #eee; }
-        .card-body { padding: 18px; flex-grow: 1; }
-        .source-tag { font-size: 0.7rem; color: var(--red); font-weight: 900; text-transform: uppercase; letter-spacing: 1px; }
-        .title { font-size: 1.15rem; font-weight: bold; margin: 10px 0; line-height: 1.3; }
+        .card { background: white; border-radius: 15px; overflow: hidden; box-shadow: 0 5px 15px rgba(0,0,0,0.05); display: flex; flex-direction: column; transition: 0.3s; }
+        .card:hover { transform: translateY(-10px); }
+        .card img { width: 100%; height: 200px; object-fit: cover; }
+        .card-body { padding: 20px; flex-grow: 1; }
+        .title { font-size: 1.15rem; font-weight: bold; margin: 10px 0; line-height: 1.4; color: #111; }
         
-        /* Magic Share Buttons */
-        .share-bar { display: flex; gap: 10px; margin-top: 15px; padding-top: 15px; border-top: 1px solid #eee; }
-        .share-btn { padding: 6px 10px; border-radius: 5px; color: white; text-decoration: none; font-size: 0.75rem; font-weight: bold; flex: 1; text-align: center; }
+        /* Share Buttons */
+        .share-bar { display: flex; gap: 5px; margin-top: 15px; padding-top: 10px; border-top: 1px solid #eee; }
+        .share-btn { padding: 8px; border-radius: 6px; color: white; text-decoration: none; font-size: 0.65rem; font-weight: bold; flex: 1; text-align: center; }
         .wa { background: var(--green); } .tg { background: var(--blue); } .ms { background: #0078ff; }
 
+        /* Navigation */
         .nav-tabs { display: flex; gap: 8px; margin-bottom: 30px; flex-wrap: wrap; justify-content: center; }
-        .tab-btn { padding: 12px 20px; border: none; background: white; border-radius: 10px; cursor: pointer; font-weight: bold; box-shadow: 0 4px 6px rgba(0,0,0,0.05); }
+        .tab-btn { padding: 12px 18px; border: none; background: white; border-radius: 10px; cursor: pointer; font-weight: bold; box-shadow: 0 4px 6px rgba(0,0,0,0.05); }
         .tab-btn.active { background: var(--red); color: white; }
 
-        footer { background: var(--black); color: #888; text-align: center; padding: 40px; margin-top: 60px; }
-        .contact-mail { color: var(--red); text-decoration: none; font-weight: bold; }
+        footer { background: var(--black); color: white; text-align: center; padding: 50px; margin-top: 60px; }
+        .footer-mail { color: #ffd700; text-decoration: none; font-weight: bold; }
     </style>
 </head>
 <body>
 
 <header>
-    <h1 style="margin:0; font-size: 2.5rem;">🌍 Makedon World News</h1>
-    <p style="opacity: 0.7;">Паметен планетарен агрегатор</p>
-    <div id="google_translate_element" style="margin-top:15px;"></div>
+    <h1 style="margin:0;">🌍 Makedon World News</h1>
+    <p>Глобална интелигенција под контрола на Санде</p>
+    <div id="google_translate_element"></div>
 </header>
 
 <div class="container">
     <div class="hub-bar">
-        <span style="color:var(--red); font-weight:bold;">🤖 AI:</span>
+        <span class="ai-label">🤖 AI:</span>
         <a href="https://gemini.google.com" target="_blank" class="hub-link">♊ Gemini</a>
         <a href="https://chatgpt.com" target="_blank" class="hub-link">🤖 GPT</a>
         <a href="https://chat.deepseek.com" target="_blank" class="hub-link">🧠 DeepSeek</a>
         <a href="https://claude.ai" target="_blank" class="hub-link">🎭 Claude</a>
-        <a href="https://www.perplexity.ai" target="_blank" class="hub-link">🔍 Perplex</a>
         
-        <span style="border-left: 1px solid #ddd; margin: 0 10px;"></span>
+        <span style="border-left: 1px solid #eee; margin: 0 5px;"></span>
         
-        <span style="color:var(--red); font-weight:bold;">📲 МРЕЖИ:</span>
-        <a href="https://facebook.com" target="_blank" class="hub-link">FB</a>
-        <a href="https://x.com" target="_blank" class="hub-link">X</a>
-        <a href="mailto:makedonworldnews@gmail.com" class="hub-link">📧 Контакт</a>
+        <span class="ai-label">📱 СЛЕДИ НЕ:</span>
+        <a href="https://www.tiktok.com/@makedon.worldnews" target="_blank" class="hub-link">🎵 TikTok</a>
+        <a href="https://www.instagram.com/makedonworldnews" target="_blank" class="hub-link">📸 IG</a>
+        <a href="https://x.com/makedonworldnew" target="_blank" class="hub-link">🐦 X</a>
+        <a href="https://youtube.com/@makedonworldnews" target="_blank" class="hub-link">📺 YT</a>
+        <a href="https://www.facebook.com/share/17iEhWcYLD/" target="_blank" class="hub-link">🔵 FB</a>
+        <a href="mailto:makedonworldnews@gmail.com" class="hub-link">📧 Email</a>
     </div>
 
     <div class="nav-tabs">
@@ -84,8 +87,8 @@
 </div>
 
 <footer>
-    <p>Проект на <strong>Санде</strong> | 1312 Глобални Извори</p>
-    <p>Контакт: <a href="mailto:makedonworldnews@gmail.com" class="contact-mail">makedonworldnews@gmail.com</a></p>
+    <p>Изградено од <strong>Санде</strong> | 1312 Глобални Извори</p>
+    <a href="mailto:makedonworldnews@gmail.com" class="footer-mail">makedonworldnews@gmail.com</a>
 </footer>
 
 <script>
@@ -96,13 +99,14 @@ function googleTranslateElementInit() {
     new google.translate.TranslateElement({pageLanguage: 'mk'}, 'google_translate_element');
 }
 
+// Извори кои ги влечеме динамично
 const SOURCES = {
     MK: [{ name: "Sitel", url: "https://sitel.com.mk/rss.xml" }, { name: "Kanal 5", url: "https://kanal5.com.mk/rss" }],
     BALKAN: [{ name: "N1 Info", url: "https://n1info.rs/feed/" }],
     EUROPE: [{ name: "Euronews", url: "https://www.euronews.com/rss?level=theme&name=news" }],
     ASIA: [{ name: "Al Jazeera", url: "https://www.aljazeera.com/xml/rss/all.xml" }],
     AFRICA: [{ name: "AllAfrica", url: "https://allafrica.com/tools/headlines/rss/main/main.xml" }],
-    AMERICA: [{ name: "Reuters US", url: "https://www.reutersagency.com/feed/" }],
+    AMERICA: [{ name: "Reuters", url: "https://www.reutersagency.com/feed/" }],
     OCEANIA: [{ name: "ABC Australia", url: "https://www.abc.net.au/news/feed/51120/rss.xml" }],
     ANTARCTIC: [{ name: "Antarctic Sun", url: "https://antarcticsun.usap.gov/rss/index.cfm" }],
     OCEANS: [{ name: "Ocean News", url: "https://www.oceannews.com/news?format=feed&type=rss" }]
@@ -112,7 +116,7 @@ async function loadCategory(cat) {
     document.querySelectorAll('.tab-btn').forEach(btn => btn.classList.remove('active'));
     if(event) event.target.classList.add('active');
     const grid = document.getElementById('news-grid');
-    grid.innerHTML = '<div style="grid-column:1/-1; text-align:center; padding:50px;">📡 Скенирање на планетарните мрежи...</div>';
+    grid.innerHTML = '<div style="grid-column:1/-1; text-align:center; padding:50px;">📡 ПОВРЗУВАЊЕ СО ПЛАНЕТАРНИТЕ ИЗВОРИ...</div>';
     
     CURRENT_NEWS = [];
     for (let src of SOURCES[cat] || []) {
@@ -121,17 +125,16 @@ async function loadCategory(cat) {
             const text = await res.text();
             const xml = new DOMParser().parseFromString(text, "text/xml");
             xml.querySelectorAll("item").forEach(el => {
-                let img = "https://via.placeholder.com/400x200?text=Makedon+World+News";
-                const desc = el.querySelector("description")?.textContent || "";
-                const m = desc.match(/<img[^>]+src="([^">]+)"/);
+                let img = "https://images.unsplash.com/photo-1585829365234-781fcd04c838?q=80&w=1000";
+                const content = el.querySelector("description")?.textContent || "";
+                const m = content.match(/<img[^>]+src="([^">]+)"/);
                 if(m) img = m[1];
 
                 CURRENT_NEWS.push({
                     source: src.name,
                     title: el.querySelector("title")?.textContent || "",
                     link: el.querySelector("link")?.textContent || "#",
-                    image: img,
-                    date: el.querySelector("pubDate")?.textContent || ""
+                    image: img
                 });
             });
         } catch (e) {}
@@ -143,24 +146,23 @@ function displayNews(news) {
     const grid = document.getElementById('news-grid');
     grid.innerHTML = "";
     news.slice(0, 30).forEach(n => {
-        const shareTitle = encodeURIComponent(n.title);
-        const shareUrl = encodeURIComponent(n.link);
+        const sT = encodeURIComponent(n.title);
+        const sU = encodeURIComponent(n.link);
         grid.innerHTML += `
             <div class="card">
-                <img src="${n.image}" alt="img">
+                <img src="${n.image}" alt="news">
                 <div class="card-body">
                     <span class="source-tag">${n.source}</span>
                     <div class="title">${n.title}</div>
                     <div class="share-bar">
-                        <a href="https://wa.me/?text=${shareTitle}%20${shareUrl}" target="_blank" class="share-btn wa">WhatsApp</a>
-                        <a href="https://t.me/share/url?url=${shareUrl}&text=${shareTitle}" target="_blank" class="share-btn tg">Telegram</a>
-                        <a href="fb-messenger://share/?link=${shareUrl}" target="_blank" class="share-btn ms">Messeng</a>
+                        <a href="https://wa.me/?text=${sT}%20${sU}" target="_blank" class="share-btn wa">WhatsApp</a>
+                        <a href="https://t.me/share/url?url=${sU}&text=${sT}" target="_blank" class="share-btn tg">Telegram</a>
+                        <a href="https://www.facebook.com/sharer/sharer.php?u=${sU}" target="_blank" class="share-btn ms">Share</a>
                     </div>
                 </div>
             </div>`;
     });
 }
-
 loadCategory('MK');
 </script>
 </body>
