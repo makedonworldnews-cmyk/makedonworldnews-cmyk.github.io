@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Makedon World News | Мисија ШТИТНИК 2026</title>
+    <title>Makedon World News | Global 7-Continent Monitor</title>
     <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
     <style>
         :root { --gold: #ffc107; --blue: #0d47a1; --neon: #00ff41; --bg: #050505; --card: #121212; }
@@ -12,146 +12,159 @@
         /* HERO */
         .hero { 
             background: linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.8)), url('hero.jpg');
-            background-size: cover; background-position: center; height: 450px;
+            background-size: cover; background-position: center; height: 350px;
             display: flex; flex-direction: column; justify-content: center; align-items: center;
-            border-bottom: 5px solid var(--gold); text-align: center;
+            border-bottom: 5px solid var(--gold); text-align: center; position: relative;
         }
+        .mail-top { position: absolute; top: 15px; right: 25px; color: var(--gold); font-weight: bold; font-size: 0.8rem; }
 
-        /* MISSION SECTION */
-        .mission-strip { background: var(--blue); padding: 40px 20px; border-bottom: 2px solid var(--gold); text-align: center; }
-        .mission-content { max-width: 900px; margin: auto; }
-        .mission-title { color: var(--gold); font-size: 1.5rem; text-transform: uppercase; margin-bottom: 15px; letter-spacing: 2px; }
-        .mission-text { font-size: 1.1rem; line-height: 1.6; opacity: 0.9; font-style: italic; }
-
-        /* GRID LAYOUT */
-        .main-layout { display: flex; max-width: 1700px; margin: 40px auto; padding: 0 20px; gap: 30px; }
-        .sidebar { width: 250px; flex-shrink: 0; }
-        .feed { flex-grow: 1; }
+        /* LAYOUT */
+        .main-layout { display: flex; max-width: 1700px; margin: 20px auto; padding: 0 20px; gap: 25px; }
         
-        .nav-group { margin-bottom: 30px; border-left: 2px solid #333; padding-left: 15px; }
-        .group-title { color: var(--gold); font-size: 0.75rem; font-weight: 900; margin-bottom: 10px; }
-        .nav-item { display: block; padding: 8px 0; color: #aaa; text-decoration: none; font-size: 0.85rem; transition: 0.3s; }
-        .nav-item:hover { color: var(--neon); padding-left: 5px; }
+        /* SIDEBAR */
+        .sidebar { width: 240px; flex-shrink: 0; position: sticky; top: 20px; height: fit-content; }
+        .nav-box { background: #111; padding: 15px; border-radius: 8px; border: 1px solid #222; margin-bottom: 20px; }
+        .group-h { color: var(--gold); font-size: 0.7rem; font-weight: 900; text-transform: uppercase; margin-bottom: 12px; display: block; }
+        .nav-i { display: block; padding: 7px 0; color: #ccc; text-decoration: none; font-size: 0.8rem; transition: 0.2s; border-bottom: 1px solid #1a1a1a; }
+        .nav-i:hover { color: var(--neon); padding-left: 5px; }
 
-        .news-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: 25px; }
+        /* FEED */
+        .feed { flex-grow: 1; }
+        .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: 20px; }
         .card { background: var(--card); border: 1px solid #222; border-radius: 12px; overflow: hidden; position: relative; transition: 0.4s; }
         .card:hover { border-color: var(--gold); transform: translateY(-5px); }
-        .card-img { width: 100%; height: 190px; object-fit: cover; }
-        .card-body { padding: 20px; }
-        .source-tag { color: var(--gold); font-size: 0.7rem; font-weight: bold; }
-        .title { font-size: 1.1rem; font-weight: bold; margin: 10px 0; color: #fff; line-height: 1.3; }
+        .thumb { width: 100%; height: 180px; object-fit: cover; }
+        .card-body { padding: 18px; }
+        .continent-tag { background: var(--blue); color: white; font-size: 0.6rem; padding: 2px 8px; border-radius: 4px; position: absolute; top: 10px; left: 10px; border: 1px solid var(--gold); }
 
-        footer { background: #000; text-align: center; padding: 60px; border-top: 3px solid var(--gold); }
+        /* MISSION (MOVED DOWN) */
+        .mission-footer { background: #0a0a0a; padding: 60px 20px; border-top: 2px solid var(--blue); margin-top: 60px; text-align: center; }
+        .m-box { max-width: 800px; margin: auto; }
+        .m-title { color: var(--gold); font-size: 1.4rem; margin-bottom: 20px; letter-spacing: 2px; }
+        .m-text { font-style: italic; line-height: 1.7; opacity: 0.8; }
+
+        footer { background: #000; padding: 40px; text-align: center; border-top: 3px solid var(--gold); }
     </style>
 </head>
 <body>
 
 <header class="hero">
-    <div style="background:var(--blue); padding:5px 20px; border-radius:30px; border:1px solid var(--gold); font-size:0.8rem; margin-bottom:20px; font-weight:bold;">🛡️ SHTITNIK MISSION CONTROL</div>
-    <h1 style="font-size: 3.5rem; margin:0;">MAKEDON WORLD NEWS</h1>
-    <p id="clock" style="color:var(--neon); font-family:monospace; font-size:1.3rem; margin-top:10px;"></p>
+    <div class="mail-top">📧 makedonworldnews@gmail.com</div>
+    <div style="background:var(--blue); padding:4px 15px; border-radius:20px; border:1px solid var(--gold); font-size:0.75rem; margin-bottom:15px; font-weight:bold;">🛡️ ШТИТНИК ПЛАНЕТАРЕН МОНИТОР</div>
+    <h1 style="font-size: 3rem; margin:0;">MAKEDON WORLD NEWS</h1>
+    <p id="clock" style="color:var(--neon); font-family:monospace; font-size:1.2rem; margin-top:10px;"></p>
 </header>
-
-<section class="mission-strip">
-    <div class="mission-content">
-        <div class="mission-title">Нашата Мисија</div>
-        <p class="mission-text">
-            "Да обезбедиме непоколеблив интегритет во глобалното информирање. Преку системот **ШТИТНИК**, ние мониторираме 1.312 извори на 7 континенти за да го заштитиме правото на верификувана вистина. Од Океаните до Антарктикот, од AI до Дипломатија – ние сме Вашиот дигитален штит."
-        </p>
-    </div>
-</section>
 
 <div class="main-layout">
     <aside class="sidebar">
-        <div class="nav-group">
-            <div class="group-title">ГЛОБАЛЕН РАДАР</div>
-            <a href="#" class="nav-item">🇲🇰 Македонија</a>
-            <a href="#" class="nav-item">🇪🇺 Европа & ЕУ</a>
-            <a href="#" class="nav-item">🗽 Америка (US/CA)</a>
-            <a href="#" class="nav-item">🌏 Азија & Кина</a>
+        <div class="nav-box">
+            <span class="group-h">7 Континенти</span>
+            <a href="#" class="nav-i">🇲🇰 Македонија / Балкан</a>
+            <a href="#" class="nav-i">🇪🇺 Европа</a>
+            <a href="#" class="nav-i">🗽 Америка</a>
+            <a href="#" class="nav-i">🌏 Азија</a>
+            <a href="#" class="nav-i">🦁 Африка</a>
+            <a href="#" class="nav-i">🐨 Океанија</a>
+            <a href="#" class="nav-i">❄️ Антарктик</a>
         </div>
-        <div class="nav-group">
-            <div class="group-title">СПЕЦИЈАЛНИ МИСИИ</div>
-            <a href="#" class="nav-item">⚽ Sport Arena</a>
-            <a href="#" class="nav-item">🌈 Ведар Каст</a>
-            <a href="#" class="nav-item">₿ US Crypto Elite</a>
-            <a href="#" class="nav-item">🤖 AI / Иднина</a>
-        </div>
-        <div class="nav-group">
-            <div class="group-title">ИНСТИТУЦИОНАЛНИ</div>
-            <a href="#" class="nav-item">🏛️ МНР / Дипломатија</a>
-            <a href="#" class="nav-item">🛡️ НАТО / Безбедност</a>
+        <div class="nav-box">
+            <span class="group-h">Елитни Секции</span>
+            <a href="#" class="nav-i" style="color:var(--gold)">₿ US Crypto Elite</a>
+            <a href="#" class="nav-i">⚽ Sport Arena</a>
+            <a href="#" class="nav-i">🌈 Ведар Каст</a>
+            <a href="#" class="nav-i">🤖 AI / Иднина</a>
         </div>
     </aside>
 
     <main class="feed">
-        <div class="news-grid" id="newsGrid"></div>
+        <div id="status" style="color:var(--gold); font-size:0.8rem; margin-bottom:15px; font-weight:bold;">СИНХРОНИЗАЦИЈА СО ГЛОБАЛНИТЕ ИЗВОРИ...</div>
+        <div class="grid" id="newsGrid"></div>
     </main>
 </div>
 
+<section class="mission-footer">
+    <div class="m-box">
+        <div class="m-title">🛡️ МИСИЈА: ШТИТНИК</div>
+        <p class="m-text">
+            "Нашиот потфат е да создадеме единствен дигитален прозорец кој ги обединува сите 7 континенти. Со анализа на 1.312 извори, ние го филтрираме глобалниот шум за да Ви ја донесеме само верификуваната вистина. Македон World News е мостот помеѓу локалната мудрост и глобалната информација."
+        </p>
+    </div>
+</section>
+
 <footer>
-    <h2 style="color:var(--gold);">Проект на Санде | Глобален Агрегатор</h2>
-    <p>📧 Контакт: <a href="mailto:makedonworldnews@gmail.com" style="color:var(--gold); text-decoration:none;">makedonworldnews@gmail.com</a></p>
-    <div id="google_translate_element" style="margin-top:20px;"></div>
+    <p>📧 <a href="mailto:makedonworldnews@gmail.com" style="color:var(--gold); text-decoration:none;">makedonworldnews@gmail.com</a></p>
+    <div id="google_translate_element" style="margin-top:15px;"></div>
+    <p style="opacity:0.4; font-size:0.7rem; margin-top:20px;">© 2026 Проект на Санде - ШТИТНИК Технологија</p>
 </footer>
 
 <script>
 const PROXY = "https://api.allorigins.win/raw?url=";
 let SEEN = new Set();
-const SOURCES = [
-    { n: "Sitel (MK)", u: "https://sitel.com.mk/rss.xml" },
-    { n: "Reuters (World)", u: "https://www.reutersagency.com/feed/" },
-    { n: "CoinDesk", u: "https://www.coindesk.com/arc/outboundfeeds/rss/" },
-    { n: "NASA", u: "https://www.nasa.gov/rss/dyn/breaking_news.rss" }
+
+// Балансирани извори од сите 7 континенти
+const GLOBAL_SOURCES = [
+    { c: "Европа", n: "DW", u: "https://rss.dw.com/rdf/rss-en-all" },
+    { c: "Македонија", n: "Sitel", u: "https://sitel.com.mk/rss.xml" },
+    { c: "Америка", n: "Reuters", u: "https://www.reutersagency.com/feed/" },
+    { c: "Азија", n: "Al Jazeera", u: "https://www.aljazeera.com/xml/rss/all.xml" },
+    { c: "Африка", n: "AllAfrica", u: "https://allafrica.com/tools/headlines/rss/main/main.xml" },
+    { c: "Океанија", n: "ABC News AU", u: "https://www.abc.net.au/news/feed/45910/rss.xml" },
+    { c: "Антарктик", n: "Antarctic Sun", u: "https://antarcticsun.usap.gov/rss/index.cfm" },
+    { c: "Крипто", n: "CoinDesk", u: "https://www.coindesk.com/arc/outboundfeeds/rss/" }
 ];
 
-async function fetchNews() {
+async function updateWorld() {
     const grid = document.getElementById('newsGrid');
-    const pick = SOURCES[Math.floor(Math.random() * SOURCES.length)];
+    const pick = GLOBAL_SOURCES[Math.floor(Math.random() * GLOBAL_SOURCES.length)];
+
     try {
         const res = await fetch(PROXY + encodeURIComponent(pick.u));
         const xml = new DOMParser().parseFromString(await res.text(), "text/xml");
-        const item = xml.querySelector("item");
-        if (item) {
-            const title = item.querySelector("title")?.textContent || "";
-            const link = item.querySelector("link")?.textContent || "#";
+        const items = xml.querySelectorAll("item");
+
+        if (items.length > 0) {
+            const el = items[0];
+            const title = el.querySelector("title")?.textContent || "";
+            const link = el.querySelector("link")?.textContent || "#";
+
             if (!SEEN.has(title)) {
                 SEEN.add(title);
+                
                 let img = "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=1000";
-                const desc = item.querySelector("description")?.textContent || "";
-                const media = item.getElementsByTagName("media:content")[0] || item.getElementsByTagName("enclosure")[0];
+                const desc = el.querySelector("description")?.textContent || "";
+                const media = el.getElementsByTagName("media:content")[0] || el.getElementsByTagName("enclosure")[0];
                 if (media) img = media.getAttribute("url");
                 else { const m = desc.match(/src="([^"]+)"/); if (m) img = m[1]; }
 
                 const card = document.createElement('div');
                 card.className = 'card';
                 card.innerHTML = `
-                    <img src="${img}" class="card-img" onerror="this.src='https://images.unsplash.com/photo-1585829365234-784c05529450?q=80&w=1000'">
+                    <div class="continent-tag">${pick.c}</div>
+                    <img src="${img}" class="thumb" onerror="this.src='https://images.unsplash.com/photo-1585829365234-784c05529450?q=80&w=1000'">
                     <div class="card-body">
-                        <span class="source-tag">${pick.n}</span>
+                        <span style="color:var(--gold); font-size:0.6rem; font-weight:bold;">${pick.n}</span>
                         <div class="title">${title}</div>
-                        <a href="${link}" target="_blank" style="color:var(--gold); font-weight:bold; text-decoration:none; font-size:0.8rem;">ВЕРИФИКУВАНО ОД ШТИТНИК →</a>
+                        <a href="${link}" target="_blank" style="color:var(--gold); font-size:0.75rem; text-decoration:none; font-weight:bold;">ПРОЧИТАЈ ЦЕЛОСНО →</a>
                     </div>
                 `;
                 grid.insertBefore(card, grid.firstChild);
-                if (grid.children.length > 30) grid.removeChild(grid.lastChild);
+                if (grid.children.length > 35) grid.removeChild(grid.lastChild);
             }
         }
     } catch(e) {}
 }
 
-function updateClock() {
-    const d = new Date();
-    document.getElementById('clock').textContent = d.toLocaleString('mk-MK');
+function tick() {
+    document.getElementById('clock').textContent = new Date().toLocaleString('mk-MK');
 }
 
 function googleTranslateElementInit() {
     new google.translate.TranslateElement({pageLanguage: 'mk'}, 'google_translate_element');
 }
 
-setInterval(updateClock, 1000);
-setInterval(fetchNews, 4500);
-fetchNews();
+setInterval(tick, 1000);
+setInterval(updateWorld, 4000);
+updateWorld();
 </script>
 </body>
 </html>
