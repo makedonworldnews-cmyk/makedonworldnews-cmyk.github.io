@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-27T22:59:01Z",
+  "updatedAt": "2026-01-27T23:45:00Z",
   "groups": [
     {
       "region": "Македонија",
@@ -107,6 +107,12 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Trump says US will end support for Iraq if al-Maliki reinstated as PM",
+          "link": "https://www.aljazeera.com/news/2026/1/27/trump-says-us-will-end-support-for-iraq-if-al-maliki-reinstated-as-pm?traffic_source=rss",
+          "published": "Tue, 27 Jan 2026 22:50:00 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Mexico vows ‘solidarity’ with Cuba after oil shipment cancellation reports",
           "link": "https://www.aljazeera.com/news/2026/1/27/mexico-vows-solidarity-with-cuba-after-oil-shipment-cancellation-report?traffic_source=rss",
           "published": "Tue, 27 Jan 2026 22:38:30 +0000"
@@ -128,12 +134,6 @@
           "title": "Will Palestinians ever find their loved ones in Gaza’s rubble?",
           "link": "https://www.aljazeera.com/video/inside-story/2026/1/27/will-palestinians-ever-find-their-loved-ones-in-gazas?traffic_source=rss",
           "published": "Tue, 27 Jan 2026 20:26:37 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Iran president tells Saudi crown prince that US threats cause instability",
-          "link": "https://www.aljazeera.com/news/2026/1/27/iran-president-tells-saudi-crown-prince-that-us-threats-cause-instability?traffic_source=rss",
-          "published": "Tue, 27 Jan 2026 20:23:01 +0000"
         }
       ]
     }
