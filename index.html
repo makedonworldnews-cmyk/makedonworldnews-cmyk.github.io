@@ -1,458 +1,124 @@
 <!DOCTYPE html>
 <html lang="mk">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Makedon World News</title>
-
-  <style>
-    body{
-      margin:0;
-      font-family:system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Ubuntu,sans-serif;
-      line-height:1.6;
-      background:#f5f5f5;
-      color:#222;
-    }
-
-    header{
-      background:#111;
-      color:#fff;
-      text-align:center;
-      padding:22px 16px 16px;
-    }
-
-    header img{
-      max-width:220px;
-      width:100%;
-      height:auto;
-      border-radius:12px;
-      display:block;
-      margin:0 auto;
-    }
-
-    .site-title{
-      font-size:2.6em;
-      font-weight:800;
-      margin:12px 0 6px;
-    }
-
-    .site-tagline{
-      font-size:1.05em;
-      color:#ddd;
-      margin:0;
-    }
-
-    .container{
-      max-width:900px;
-      margin:0 auto;
-      padding:0 16px;
-    }
-
-    section{
-      background:#fff;
-      border-radius:10px;
-      padding:22px;
-      margin:18px auto;
-      box-shadow:0 1px 0 rgba(0,0,0,0.04);
-    }
-
-    .trust{
-      background:#111;
-      color:#fff;
-    }
-    .trust hr{ opacity:0.25; }
-
-    h2{ margin:0 0 12px; }
-    h3{ margin:18px 0 10px; }
-
-    a{ color:#0b5ed7; text-decoration:none; }
-    a:hover{ text-decoration:underline; }
-
-    /* RSS */
-    .rss-topbar{
-      display:flex;
-      gap:12px;
-      align-items:center;
-      justify-content:space-between;
-      flex-wrap:wrap;
-      margin-bottom:10px;
-    }
-    .badge{
-      display:inline-block;
-      font-size:0.85em;
-      padding:6px 10px;
-      border-radius:999px;
-      background:#f0f0f0;
-      color:#333;
-    }
-    .btn{
-      border:1px solid #ddd;
-      background:#fff;
-      padding:8px 12px;
-      border-radius:10px;
-      cursor:pointer;
-      font-weight:700;
-    }
-    .btn:hover{ background:#fafafa; }
-
-    .rss-item{
-      margin:10px 0 14px;
-      padding:12px;
-      border:1px solid #eee;
-      border-radius:12px;
-      background:#fff;
-    }
-    .rss-item strong{ display:inline-block; margin-bottom:2px; }
-
-    footer{
-      background:#111;
-      color:#eee;
-      padding:32px 16px;
-      margin-top:40px;
-      text-align:center;
-      font-size:0.95em;
-    }
-
-    .footer-links a{
-      color:#eee;
-      text-decoration:none;
-      margin:0 10px;
-      display:inline-block;
-      padding:6px 0;
-    }
-    .footer-links a:hover{ text-decoration:underline; }
-
-    .footer-divider{
-      height:1px;
-      background:#2a2a2a;
-      margin:18px auto;
-      max-width:520px;
-    }
-
-    @media (max-width:600px){
-      .site-title{ font-size:2.1em; }
-      header img{ max-width:180px; }
-      .rss-topbar{ justify-content:flex-start; }
-    }
-  </style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Makedon World News | Живи Вести</title>
+    <style>
+        :root { --primary: #d32f2f; --dark: #1a1a1a; --light: #f4f4f4; }
+        body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; margin: 0; background: var(--light); color: #333; }
+        header { background: var(--dark); color: white; text-align: center; padding: 2rem 1rem; box-shadow: 0 4px 10px rgba(0,0,0,0.3); }
+        .container { max-width: 1000px; margin: 20px auto; padding: 0 15px; }
+        .controls { display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px; background: white; padding: 15px; border-radius: 8px; }
+        #news-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 20px; }
+        .news-card { background: white; border-radius: 10px; overflow: hidden; box-shadow: 0 4px 6px rgba(0,0,0,0.1); transition: 0.3s; display: flex; flex-direction: column; }
+        .news-card:hover { transform: translateY(-5px); box-shadow: 0 8px 15px rgba(0,0,0,0.2); }
+        .news-card img { width: 100%; height: 180px; object-fit: cover; background: #eee; }
+        .news-content { padding: 15px; flex-grow: 1; }
+        .news-source { font-size: 0.75rem; text-transform: uppercase; color: var(--primary); font-weight: bold; }
+        .news-title { font-size: 1.1rem; margin: 10px 0; font-weight: bold; line-height: 1.4; color: var(--dark); }
+        .news-desc { font-size: 0.9rem; color: #666; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
+        .btn-read { display: inline-block; margin-top: 15px; padding: 8px 15px; background: var(--primary); color: white; text-decoration: none; border-radius: 5px; font-size: 0.85rem; }
+        footer { background: var(--dark); color: white; text-align: center; padding: 30px; margin-top: 50px; }
+        .loading { text-align: center; grid-column: 1/-1; padding: 50px; font-weight: bold; }
+    </style>
 </head>
-
 <body>
-  <header>
-    <img src="hero.jpg" alt="Makedon World News – независен агрегатор на вести" />
-    <div class="site-title">🌍 Makedon World News</div>
-    <hr style="border:0;height:1px;background:rgba(255,255,255,0.35);width:100%;margin:12px 0 14px;">
-    <p class="site-tagline">Независен агрегатор на вести од Македонија, Балканот, Европа и светот.</p>
-  </header>
 
-  <div class="container">
+<header>
+    <h1>🌍 Makedon World News</h1>
+    <p>Најновите вести од Македонија и светот, во реално време.</p>
+</header>
 
-    <section id="about">
-      <h2>🛡️ About / Mission</h2>
-
-      <p><strong>Makedon World News</strong> е независен агрегатор на вести од Република Северна Македонија,
-      Балканот, Европа и светот.</p>
-
-      <p>Платформата собира, систематизира и прикажува информации од доверливи медиумски извори,
-      со цел корисниците да добијат брз, јасен и структуриран преглед на актуелните настани.</p>
-
-      <p>Makedon World News не создава сопствени вести и не промовира политички, национални или идеолошки агенди.</p>
-
-      <h3>🎯 Нашата мисија</h3>
-      <ul>
-        <li>Слободен и отворен пристап до информации</li>
-        <li>Поттикнување на медиумска писменост</li>
-        <li>Подобро разбирање на настаните преку повеќе извори</li>
-        <li>Намалување на влијанието на дезинформации</li>
-      </ul>
-
-      <h3>🌍 English Version</h3>
-      <p><strong>Makedon World News</strong> is an independent news aggregator based in the Republic of North Macedonia,
-      covering the Balkans, Europe, and the world.</p>
-      <p>We aggregate and link to original sources so users can compare coverage and form informed opinions.</p>
-    </section>
-
-    <section id="trust" class="trust">
-      <h2>🔐 Доверба &amp; Транспарентност</h2>
-      <p>Makedon World News не креира оригинална новинарска содржина – агрегира и упатува кон оригинални извори,
-      со јасно наведување на изворот за секоја вест.</p>
-      <p>Целта е транспарентно и непристрасно да прикажеме повеќе релевантни извори за ист настан.</p>
-    </section>
-
-    <section id="rss">
-      <h2>📰 Вести во живо</h2>
-
-      <div class="rss-topbar">
-        <div class="badge" id="rss-status">Подготовка…</div>
-
-        <button class="btn" id="btn-refresh" type="button">↻ Освежи</button>
-      </div>
-
-      <div id="rss-feed"></div>
-
-      <p style="font-size:0.9em;color:#777;margin-top:12px;">
-        Забелешка: На GitHub Pages RSS најстабилно работи преку локален <code>data/news.json</code> (генериран автоматски).
-      </p>
-    </section>
-
-  </div>
-
-  <footer>
-    <div style="margin-bottom:10px;">
-      <strong style="letter-spacing:0.3px;font-size:1.15em;">🌍 Makedon World News</strong>
+<div class="container">
+    <div class="controls">
+        <div id="status">📡 Се вчитуваат извори...</div>
+        <button onclick="fetchDirectNews()" style="cursor:pointer; padding: 8px 15px; border: none; background: #333; color: white; border-radius: 5px;">↻ Освежи</button>
     </div>
 
-    <div class="footer-links">
-      <a href="https://www.facebook.com/share/1CycSPu4qU/" target="_blank" rel="noopener">Facebook</a> •
-      <a href="https://www.instagram.com/makedonworldnews" target="_blank" rel="noopener">Instagram</a> •
-      <a href="https://www.tiktok.com/@makedon.worldnews" target="_blank" rel="noopener">TikTok</a> •
-      <a href="https://x.com/makedonworldnew" target="_blank" rel="noopener">X</a> •
-      <a href="https://youtube.com/@makedonworldnews" target="_blank" rel="noopener">YouTube</a>
+    <div id="news-grid">
+        <div class="loading">Ве молиме почекајте, ги собираме најновите вести...</div>
     </div>
+</div>
 
-    <div class="footer-divider"></div>
-    <div style="font-size:0.95em;color:#aaa;">© 2026 Makedon World News. All rights reserved.</div>
-  </footer>
+<footer>
+    <p>© 2026 Makedon World News | Сите права се задржани</p>
+</footer>
 
-  <script>
-    const statusEl = document.getElementById("rss-status");
-    const feedEl = document.getElementById("rss-feed");
-    const btn = document.getElementById("btn-refresh");
-if(!statusEl || !feedEl || !btn){
-  console.error("Missing elements:", { statusEl, feedEl, btn });
-}
+<script>
+// ТВОЈОТ СПИСОК НА RSS ИЗВОРИ
+const RSS_SOURCES = [
+    { name: "Sitel", url: "https://sitel.com.mk/rss.xml" },
+    { name: "Kanal 5", url: "https://kanal5.com.mk/rss" },
+    { name: "A1On", url: "https://a1on.mk/feed/" },
+    { name: "Telma", url: "https://telma.com.mk/feed/" }
+];
 
-    function esc(s){
-      return (s ?? "").toString()
-        .replaceAll("&","&amp;").replaceAll("<","&lt;").replaceAll(">","&gt;")
-        .replaceAll('"',"&quot;").replaceAll("'","&#039;");
-    }function formatMKDate(iso){
-  if(!iso) return "";
-  const d = new Date(iso);
-  if(isNaN(d)) return iso;
+// Proxy сервер за да не нè блокираат
+const PROXY = "https://api.allorigins.win/raw?url=";
 
-  const months = ["јан.","фев.","мар.","апр.","мај","јун.","јул.","авг.","сеп.","окт.","ное.","дек."];
+async function fetchDirectNews() {
+    const grid = document.getElementById('news-grid');
+    const status = document.getElementById('status');
+    grid.innerHTML = '<div class="loading">Проверуваме за нови вести...</div>';
+    
+    let allPosts = [];
 
-  const dd = String(d.getDate()).padStart(2, "0");
-  const mm = months[d.getMonth()];
-  const yyyy = d.getFullYear();
-  const hh = String(d.getHours()).padStart(2, "0");
-  const min = String(d.getMinutes()).padStart(2, "0");
+    for (let src of RSS_SOURCES) {
+        try {
+            const response = await fetch(PROXY + encodeURIComponent(src.url));
+            const text = await response.text();
+            const xml = new DOMParser().parseFromString(text, "text/xml");
+            const items = xml.querySelectorAll("item");
 
-  return `${dd} ${mm} ${yyyy}, ${hh}:${min}`;
-}
+            items.forEach(el => {
+                let img = "https://via.placeholder.com/400x250?text=MWN+News";
+                
+                // Наоѓање на слика (RSS знае да биде комплициран)
+                const enclosure = el.querySelector("enclosure");
+                const mediaContent = el.getElementsByTagName("media:content")[0];
+                if (enclosure) img = enclosure.getAttribute("url");
+                else if (mediaContent) img = mediaContent.getAttribute("url");
+                else {
+                    const descText = el.querySelector("description")?.textContent || "";
+                    const match = descText.match(/<img[^>]+src="([^">]+)"/);
+                    if (match) img = match[1];
+                }
 
-
-    function render(data){
-      feedEl.innerHTML = "";
-
-      if(!data){
-        statusEl.textContent = "Нема податоци.";
-        return;
-      }
-
-      // поддршка за двата формата:
-      // 1) { generated_at, groups:[...] }
-      // 2) { updatedAt, groups:[...] }  (кај тебе ова се гледа во data/news.json)
-      const groups = Array.isArray(data.groups) ? data.groups : null;
-      if(!groups){
-        statusEl.textContent = "Нема податоци (data/news.json).";
-        return;
-      }
-
-      let total = 0;
-
-      for(const group of groups){
-        const h3 = document.createElement("h3");
-        h3.textContent = "🌍 " + (group.region || "Регион");
-        feedEl.appendChild(h3);
-
-        const items = Array.isArray(group.items) ? group.items : [];
-        for(const it of items){
-          total++;
-
-          const div = document.createElement("div");
-          div.className = "rss-item";
-          div.innerHTML = `
-            <strong>[${esc(it.source || "Извор")}]</strong> ${esc(it.title || "")}<br>
-            <a href="${esc(it.link || "#")}" target="_blank" rel="noopener">Прочитај повеќе</a>
-          `;
-          feedEl.appendChild(div);
+                allPosts.push({
+                    source: src.name,
+                    title: el.querySelector("title")?.textContent || "",
+                    link: el.querySelector("link")?.textContent || "#",
+                    desc: el.querySelector("description")?.textContent.replace(/<\/?[^>]+(>|$)/g, "").substring(0, 120) + "...",
+                    date: new Date(el.querySelector("pubDate")?.textContent || Date.now())
+                });
+            });
+        } catch (err) {
+            console.error("Грешка со " + src.name);
         }
-      }
-
-      const whenRaw = data.updatedAt || data.generated_at || data.generated_at_utc || "";
-const whenFmt = formatMKDate(whenRaw);
-const when = whenFmt ? ` • ${whenFmt}` : "";
-
     }
 
-    async function load(){
-  statusEl.textContent = "Вчитување…";
+    // Сортирај по датум (најнови први)
+    allPosts.sort((a, b) => b.date - a.date);
 
-  const controller = new AbortController();
-  const t = setTimeout(() => controller.abort(), 12000); // 12 сек.
-
-  try{
-    const url = "data/news.json?ts=" + Date.now();
-    const res = await fetch(url, { cache:"no-store", signal: controller.signal });
-    if(!res.ok) throw new Error("HTTP " + res.status);
-
-    const data = await res.json();
-    render(data);
-  }catch(e){
-    statusEl.textContent = "Нема вести (провери data/news.json).";
-    feedEl.innerHTML = `
-      <div style="color:#a00;font-size:0.95em;">
-        ⚠️ Вчитувањето заглави или падна. Отвори:
-        <a href="data/news.json" target="_blank" rel="noopener">data/news.json</a>
-      </div>
-    `;
-    console.error(e);
-  }finally{
-    clearTimeout(t);
-  }
-}
-
-
-    document.addEventListener("DOMContentLoaded", () => {
-  const statusEl = document.getElementById("rss-status");
-  const feedEl = document.getElementById("rss-feed");
-  const btn = document.getElementById("btn-refresh");
-
-  if(btn) btn.addEventListener("click", load);
-  load();
-  setInterval(load, 10 * 60 * 1000);
-});
-
-  statusEl.textContent = "Вчитување…";
-  const controller = new AbortController();
-  const t = setTimeout(() => controller.abort(), 12000); // 12 сек.
-
-  try{
-    const url = "data/news.json?ts=" + Date.now();
-    async function load(){
-  statusEl.textContent = "Вчитување…";
-
-  const controller = new AbortController();
-  const t = setTimeout(() => controller.abort(), 12000); // 12 сек.
-
-  try{
-    const url = "data/news.json?ts=" + Date.now();
-    const res = await fetch(url, { cache:"no-store", signal: controller.signal });
-
-    if(!res.ok) throw new Error("HTTP " + res.status);
-
-    const data = await res.json();
-    render(data);
-  }catch(e){
-    statusEl.textContent = "Нема вести (провери data/news.json).";
-    feedEl.innerHTML = `
-      <div style="color:#a00;font-size:0.95em;">
-        ⚠️ Вчитувањето заглави или падна. Отвори: 
-        <a href="data/news.json" target="_blank" rel="noopener">data/news.json</a>
-      </div>
-    `;
-    console.error(e);
-  }finally{
-    clearTimeout(t);
-  }
-}
-
-<script>
-<script>
-document.addEventListener("DOMContentLoaded", () => {
-  const statusEl = document.getElementById("rss-status");
-  const feedEl = document.getElementById("rss-feed");
-  const btn = document.getElementById("btn-refresh");
-
-  function esc(s){
-    return (s ?? "").toString()
-      .replaceAll("&","&amp;")
-      .replaceAll("<","&lt;")
-      .replaceAll(">","&gt;")
-      .replaceAll('"',"&quot;")
-      .replaceAll("'","&#039;");
-  }
-
-  function formatMKDate(iso){
-    if(!iso) return "";
-    const d = new Date(iso);
-    if(isNaN(d)) return iso;
-    const months = ["јан.","фев.","мар.","апр.","мај","јун.","јул.","авг.","сеп.","окт.","ное.","дек."];
-    const dd = String(d.getDate()).padStart(2,"0");
-    const hh = String(d.getHours()).padStart(2,"0");
-    const min = String(d.getMinutes()).padStart(2,"0");
-    return `${dd} ${months[d.getMonth()]} ${d.getFullYear()}, ${hh}:${min}`;
-  }
-
-  function render(data){
-    feedEl.innerHTML = "";
-
-    if(!data || !Array.isArray(data.groups)){
-      statusEl.textContent = "Нема податоци.";
-      return;
-    }
-
-    let total = 0;
-
-    for(const group of data.groups){
-      const h3 = document.createElement("h3");
-      h3.textContent = "🌍 " + (group.region || "Регион");
-      feedEl.appendChild(h3);
-
-      const items = Array.isArray(group.items) ? group.items : [];
-      for(const it of items){
-        total++;
-        const div = document.createElement("div");
-        div.className = "rss-item";
-        div.innerHTML = `
-          <strong>[${esc(it.source || "Извор")}]</strong> ${esc(it.title || "")}<br>
-          <a href="${esc(it.link || "#")}" target="_blank" rel="noopener">Прочитај повеќе</a>
+    grid.innerHTML = "";
+    allPosts.forEach(post => {
+        grid.innerHTML += `
+            <div class="news-card">
+                <div class="news-content">
+                    <span class="news-source">${post.source} • ${post.date.toLocaleTimeString('mk-MK')}</span>
+                    <div class="news-title">${post.title}</div>
+                    <p class="news-desc">${post.desc}</p>
+                    <a href="${post.link}" target="_blank" class="btn-read">Прочитај повеќе</a>
+                </div>
+            </div>
         `;
-        feedEl.appendChild(div);
-      }
-    }
+    });
+    status.textContent = `✅ Вчитани ${allPosts.length} вести`;
+}
 
-    const whenRaw = data.updatedAt || data.generated_at || data.generated_at_utc || "";
-    const whenFmt = formatMKDate(whenRaw);
-    statusEl.textContent = total
-      ? `Ажурирано (${total})${whenFmt ? " • " + whenFmt : ""}`
-      : "Нема вчитани вести.";
-  }
-
-  async function load(){
-    statusEl.textContent = "Вчитување…";
-
-    const controller = new AbortController();
-    const t = setTimeout(() => controller.abort(), 12000);
-
-    try{
-      const res = await fetch("data/news.json?ts=" + Date.now(), { cache:"no-store", signal: controller.signal });
-      if(!res.ok) throw new Error("HTTP " + res.status);
-
-      const data = await res.json();
-      render(data);
-    }catch(e){
-      statusEl.textContent = "Нема вести (провери data/news.json).";
-      feedEl.innerHTML = `
-        <div style="color:#a00;font-size:0.95em;">
-          ⚠️ Не можам да го вчитам <code>data/news.json</code>.
-          <a href="data/news.json" target="_blank" rel="noopener">Отвори</a>
-        </div>
-      `;
-      console.error(e);
-    }finally{
-      clearTimeout(t);
-    }
-  }
-
-  if(btn) btn.addEventListener("click", load);
-  load();
-  setInterval(load, 10 * 60 * 1000);
-});
-</script>
-
+// Стартувај веднаш
+fetchDirectNews();
 </script>
 
 </body>
