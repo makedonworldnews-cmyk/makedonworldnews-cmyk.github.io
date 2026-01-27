@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-26T23:58:20Z",
+  "updatedAt": "2026-01-27T04:14:06Z",
   "groups": [
     {
       "region": "Македонија",
@@ -77,9 +77,27 @@
       "items": [
         {
           "source": "BBC",
+          "title": "Immigration chief departing Minneapolis as Trump sends border tsar Tom Homan to scene",
+          "link": "https://www.bbc.com/news/articles/cgrdlr70qg4o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 27 Jan 2026 04:04:03 GMT"
+        },
+        {
+          "source": "BBC",
+          "title": "'We're all terrified', Minnesotan tells the BBC in tears",
+          "link": "https://www.bbc.com/news/videos/crkr1g5vnveo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 26 Jan 2026 22:22:51 GMT"
+        },
+        {
+          "source": "BBC",
           "title": "Israel says it has retrieved remains of final Gaza hostage",
           "link": "https://www.bbc.com/news/articles/c5ydvz7nz4mo?at_medium=RSS&at_campaign=rss",
           "published": "Mon, 26 Jan 2026 18:37:05 GMT"
+        },
+        {
+          "source": "BBC",
+          "title": "Deadly US winter storm leaves flights delayed and thousands without power",
+          "link": "https://www.bbc.com/news/articles/cp3z8ek7eqyo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 26 Jan 2026 22:49:39 GMT"
         },
         {
           "source": "BBC",
@@ -88,52 +106,34 @@
           "published": "Mon, 26 Jan 2026 21:34:40 GMT"
         },
         {
-          "source": "BBC",
-          "title": "'This is horrifying' - Minneapolis residents reel from second deadly shooting",
-          "link": "https://www.bbc.com/news/articles/cvg50vv1ezko?at_medium=RSS&at_campaign=rss",
-          "published": "Mon, 26 Jan 2026 03:50:14 GMT"
+          "source": "Al Jazeera",
+          "title": "TV presenter killed in Israeli strike in southern Lebanon: Hezbollah",
+          "link": "https://www.aljazeera.com/news/2026/1/27/tv-presenter-killed-in-israeli-strike-in-southern-lebanon-hezbollah?traffic_source=rss",
+          "published": "Tue, 27 Jan 2026 03:12:36 +0000"
         },
         {
-          "source": "BBC",
-          "title": "Nigerian officers to face trial over coup-plot allegations",
-          "link": "https://www.bbc.com/news/articles/c9dv4wlw3yzo?at_medium=RSS&at_campaign=rss",
-          "published": "Mon, 26 Jan 2026 19:07:08 GMT"
+          "source": "Al Jazeera",
+          "title": "Russia-Ukraine war: List of key events, day 1,433",
+          "link": "https://www.aljazeera.com/news/2026/1/27/russia-ukraine-war-list-of-key-events-day-1433?traffic_source=rss",
+          "published": "Tue, 27 Jan 2026 02:02:03 +0000"
         },
         {
-          "source": "BBC",
-          "title": "French MPs take first step to ban social media for under-15s",
-          "link": "https://www.bbc.com/news/articles/c07x003vx0yo?at_medium=RSS&at_campaign=rss",
-          "published": "Mon, 26 Jan 2026 21:46:41 GMT"
+          "source": "Al Jazeera",
+          "title": "Hamas disarmament in Gaza comes with ‘some sort of amnesty’: US official",
+          "link": "https://www.aljazeera.com/news/2026/1/27/hamas-disarmament-in-gaza-comes-with-some-sort-of-amnesty-us-official?traffic_source=rss",
+          "published": "Tue, 27 Jan 2026 01:25:25 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Trump says he’s raising tariffs on South Korea to 25%",
+          "link": "https://www.aljazeera.com/news/2026/1/27/trump-says-he-is-raising-tariffs-on-south-korea-to-25?traffic_source=rss",
+          "published": "Tue, 27 Jan 2026 01:18:05 +0000"
         },
         {
           "source": "Al Jazeera",
           "title": "Canadian PM Carney unveils multibillion-dollar push to lower food costs",
           "link": "https://www.aljazeera.com/economy/2026/1/26/canadian-pm-carney-unveils-multibillion-dollar-push-to-lower-food-costs?traffic_source=rss",
           "published": "Mon, 26 Jan 2026 21:14:44 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Minnesota, ICE and the makings of a US civil war",
-          "link": "https://www.aljazeera.com/video/the-take-2/2026/1/26/aje-onl-usa_civilwarmn_av_v2-260126?traffic_source=rss",
-          "published": "Mon, 26 Jan 2026 20:34:05 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "White House attacks ‘sensationalist’ media over Alex Pretti coverage",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/1/26/white-house-attacks-sensationalist-media-over-alex-pretti-coverage?traffic_source=rss",
-          "published": "Mon, 26 Jan 2026 20:27:08 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Israeli and Palestinian captives and prisoners: A timeline of key events",
-          "link": "https://www.aljazeera.com/news/2026/1/26/israeli-and-palestinian-captives-and-prisoners-a-timeline-of-key-events?traffic_source=rss",
-          "published": "Mon, 26 Jan 2026 19:40:06 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Much of US digging out from snow, sleet, ice from massive winter storm",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/1/26/much-of-us-digging-out-from-snow-sleet-ice-from-massive-winter-storm?traffic_source=rss",
-          "published": "Mon, 26 Jan 2026 19:35:57 +0000"
         }
       ]
     }
