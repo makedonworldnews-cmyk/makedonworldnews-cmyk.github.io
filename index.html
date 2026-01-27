@@ -3,158 +3,145 @@
 <head>
     <meta charset="UTF-8">
     <meta name="google-site-verification" content="googlec2e0f8a6c564061b" />
-    <meta name="description" content="MAKEDON WORLD NEWS - Глобален агрегатор на вести. Протокол 1312.">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>MAKEDON WORLD NEWS | THE GOOGLE MONOLITH 🛰️</title>
+    <title>MAKEDON WORLD NEWS | POWERED BY GOOGLE ENGINE 1312</title>
     
-    <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&family=Cinzel:wght@700&family=Roboto+Mono:wght@300&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&family=Cinzel:wght@700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 
     <style>
-        :root { --accent: #ff003c; --bg: #000; --neon: #00ff41; --gold: #c5a059; --interface: rgba(20, 20, 20, 0.95); }
-        body { font-family: 'Roboto Mono', monospace; background: var(--bg); color: #fff; margin: 0; overflow: hidden; }
-
-        /* CRT SCANLINE MAGIC */
-        body::before {
-            content: " "; position: fixed; top: 0; left: 0; width: 100%; height: 100%;
-            background: linear-gradient(rgba(18, 16, 16, 0) 50%, rgba(0, 0, 0, 0.25) 50%), linear-gradient(90deg, rgba(255, 0, 0, 0.06), rgba(0, 255, 0, 0.02), rgba(0, 0, 255, 0.06));
-            background-size: 100% 2px, 3px 100%; z-index: 9999; pointer-events: none;
+        :root { 
+            --gold: #c5a059; 
+            --gold-glow: rgba(197, 160, 89, 0.4);
+            --bg: #000000; 
+            --engine-status: #00ff41;
         }
+
+        body { font-family: 'Cinzel', serif; background: var(--bg); color: #fff; margin: 0; overflow: hidden; }
+
+        /* GOOGLE ENGINE RADAR WAVE */
+        #engine-pulse {
+            position: fixed; top: 0; left: 0; width: 100%; height: 2px;
+            background: var(--gold); box-shadow: 0 0 20px var(--gold);
+            z-index: 9999; animation: scan 6s infinite ease-in-out; opacity: 0.6;
+        }
+        @keyframes scan { 0% { top: 0; } 50% { top: 100%; } 100% { top: 0; } }
 
         header { 
-            border-bottom: 2px solid var(--accent); padding: 10px 25px; 
-            display: flex; justify-content: space-between; align-items: center; 
-            background: var(--interface); box-shadow: 0 5px 15px rgba(255,0,60,0.2);
+            border-bottom: 2px solid var(--gold); padding: 15px 40px; 
+            background: #050505; display: flex; justify-content: space-between; align-items: center;
         }
         
-        .logo-box { display: flex; align-items: center; gap: 15px; }
-        .hero-img { width: 50px; border-radius: 50%; border: 1px solid var(--accent); filter: drop-shadow(0 0 5px var(--accent)); }
+        .logo-box { display: flex; align-items: center; gap: 20px; }
+        .hero-main { width: 70px; filter: drop-shadow(0 0 8px var(--gold)); border: 1.5px solid var(--gold); padding: 3px; border-radius: 5px; }
         
-        h1 { font-family: 'Cinzel'; font-size: 1.4rem; letter-spacing: 5px; color: var(--accent); margin: 0; }
+        h1 { font-size: 1.6rem; letter-spacing: 7px; color: var(--gold); margin: 0; font-weight: 700; }
 
-        /* GOOGLE SEARCH BAR MAGIC */
-        .g-search { background: #111; border: 1px solid var(--gold); padding: 5px 15px; border-radius: 20px; display: flex; align-items: center; }
-        .g-search input { background: transparent; border: none; color: #fff; font-family: 'Orbitron'; font-size: 0.7rem; width: 200px; outline: none; }
+        .engine-status { font-family: 'Orbitron'; font-size: 0.6rem; color: var(--engine-status); letter-spacing: 2px; }
 
-        .main-layout { display: flex; height: calc(100vh - 120px); }
+        /* TICKER */
+        .gold-ticker { background: #080808; border-bottom: 1px solid rgba(197, 160, 89, 0.3); padding: 6px 0; overflow: hidden; }
+        .ticker-stream { display: inline-block; white-space: nowrap; animation: ticker 140s linear infinite; font-family: 'Orbitron'; color: var(--gold); font-size: 0.7rem; opacity: 0.9; }
+        @keyframes ticker { 0% { transform: translateX(100%); } 100% { transform: translateX(-100%); } }
 
-        /* SIDEBAR - THE BRAIN */
-        .sidebar { width: 280px; border-right: 1px solid var(--accent); background: #050505; padding: 20px; overflow-y: auto; }
-        .nav-link { 
-            padding: 10px; color: #666; cursor: pointer; border-bottom: 1px solid #111; 
-            font-size: 0.7rem; font-family: 'Orbitron'; transition: 0.4s; position: relative;
+        .app-shell { display: flex; height: calc(100vh - 145px); }
+
+        /* SIDEBAR ENGINE */
+        .sidebar-engine { width: 280px; border-right: 1px solid rgba(197, 160, 89, 0.2); background: #030303; padding: 25px; overflow-y: auto; }
+        .sector-link { 
+            padding: 14px; color: #777; cursor: pointer; border-bottom: 1px solid #111; 
+            font-size: 0.75rem; font-family: 'Orbitron'; transition: 0.4s;
         }
-        .nav-link:hover, .nav-link.active { color: var(--neon); background: rgba(0, 255, 65, 0.05); padding-left: 20px; }
-        .nav-link.active::before { content: '>'; position: absolute; left: 5px; color: var(--neon); }
+        .sector-link:hover, .sector-link.active { color: var(--gold); background: rgba(197, 160, 89, 0.1); border-left: 3px solid var(--gold); }
 
-        /* NEWS STREAM */
-        .feed-container { flex: 1; padding: 20px; overflow-y: auto; background: radial-gradient(circle at center, #0a0a0a 0%, #000 100%); }
-        .news-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 20px; }
+        /* NEWS DATA GRID */
+        .data-vault { flex: 1; padding: 25px; overflow-y: auto; background: #000; }
+        .grid-system { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 25px; }
         
-        .news-card { background: #080808; border: 1px solid #1a1a1a; transition: 0.3s; position: relative; }
-        .news-card:hover { border-color: var(--accent); transform: translateY(-5px); box-shadow: 0 10px 20px rgba(0,0,0,0.5); }
-        .news-card img { width: 100%; height: 160px; object-fit: cover; opacity: 0.5; filter: contrast(1.2) grayscale(1); }
-        .news-card:hover img { opacity: 1; filter: grayscale(0); }
-
-        .card-content { padding: 15px; }
-        .card-title { font-size: 0.95rem; font-weight: bold; color: #fff; height: 3em; overflow: hidden; line-height: 1.4; font-family: 'Cinzel'; }
+        .news-node { border: 1px solid #111; background: #050505; transition: 0.4s; overflow: hidden; position: relative; }
+        .news-node:hover { border-color: var(--gold); transform: translateY(-5px); box-shadow: 0 5px 20px rgba(0,0,0,1); }
+        .news-node img { width: 100%; height: 160px; object-fit: cover; filter: grayscale(1); opacity: 0.6; }
+        .news-node:hover img { filter: grayscale(0); opacity: 1; }
         
-        .google-translate-box { margin-top: 20px; border: 1px solid var(--gold); padding: 5px; background: #000; }
+        .node-body { padding: 15px; border-top: 1px solid #111; }
+        .node-title { font-size: 0.95rem; color: #fff; height: 3.2em; overflow: hidden; font-weight: 500; line-height: 1.4; }
 
-        /* ANALYTICS HUD */
-        .hud-bot { position: fixed; bottom: 0; width: 100%; background: var(--interface); border-top: 1px solid var(--accent); display: flex; justify-content: space-between; padding: 5px 20px; font-size: 0.6rem; font-family: 'Orbitron'; color: var(--gold); }
+        .btn-decrypt { border: 1px solid var(--gold); background: transparent; color: var(--gold); padding: 8px; width: 100%; cursor: pointer; font-family: 'Orbitron'; font-size: 0.6rem; margin-top: 15px; }
+        .btn-decrypt:hover { background: var(--gold); color: #000; }
 
-        #progress-bar { position: absolute; top: -3px; left: 0; height: 3px; background: var(--neon); width: 0%; transition: linear; }
+        /* FOOTER ENGINE */
+        footer { 
+            position: fixed; bottom: 0; width: 100%; background: #050505; 
+            border-top: 1px solid var(--gold); padding: 5px 25px; display: flex; 
+            justify-content: space-between; font-family: 'Orbitron'; font-size: 0.6rem; color: var(--gold);
+        }
+
+        #progress-engine { position: absolute; top: -2px; left: 0; height: 2px; background: var(--gold); width: 0%; transition: linear; }
+
+        .google-magic { border: 1px solid var(--gold); padding: 5px; margin-bottom: 20px; }
     </style>
 </head>
 <body>
 
+<div id="engine-pulse"></div>
+
 <header>
     <div class="logo-box">
-        <img src="https://raw.githubusercontent.com/makedonworldnews-cmyk/makedonworldnews-cmyk.github.io/main/hero.jpg" class="hero-img">
-        <h1>MAKEDON WORLD NEWS</h1>
+        <img src="https://raw.githubusercontent.com/makedonworldnews-cmyk/makedonworldnews-cmyk.github.io/main/hero.jpg" class="hero-main">
+        <div>
+            <h1>MAKEDON WORLD NEWS</h1>
+            <div class="engine-status"><i class="fas fa-circle"></i> GOOGLE ENGINE ACTIVE: 1312 NODES ONLINE</div>
+        </div>
     </div>
-    
-    <div class="g-search">
-        <i class="fas fa-search" style="color:var(--gold); margin-right:10px;"></i>
-        <input type="text" placeholder="GOOGLE DEEP SEARCH..." onchange="googleSearch(this.value)">
-    </div>
-
     <div style="text-align:right;">
-        <div id="date" style="font-size:0.7rem; color:var(--accent);">27 JAN 2026</div>
-        <div id="time" style="font-family:'Orbitron'; font-size:0.8rem;">23:22:00 CET</div>
+        <div style="font-size:0.7rem; color:var(--gold);">27 JANUARY 2026</div>
+        <div id="clock" style="font-family:'Orbitron'; font-size:1.1rem; color:#fff;">23:22:00</div>
     </div>
 </header>
 
-<div class="main-layout">
-    <aside class="sidebar">
-        <div id="google_translate_element" class="google-translate-box"></div>
-        
-        <h4 style="color:var(--gold); font-size:0.6rem; letter-spacing:3px; margin-top:20px;">SYSTEM SECTORS</h4>
-        <div id="sector-list"></div>
+<div class="gold-ticker">
+    <div id="ticker" class="ticker-stream">+++ ENGINE_SYNC_COMPLETE ... ПОВРЗУВАЊЕ СО ГЛОБАЛНИТЕ ИЗВОРИ ... МОНОЛИТ 1312 ...</div>
+</div>
 
-        <div style="margin-top:50px;">
-            <div id="donutchart" style="width: 100%; height: 200px;"></div>
-        </div>
+<div class="app-shell">
+    <aside class="sidebar-engine">
+        <div id="google_translate_element" class="google-magic"></div>
+        <div id="sector-nav"></div>
     </aside>
-
-    <main class="feed-container">
-        <div id="news-grid" class="news-grid"></div>
+    <main class="data-vault">
+        <div id="masterGrid" class="grid-system"></div>
     </main>
 </div>
 
-<div class="hud-bot">
-    <div id="progress-bar"></div>
-    <div>SIGNAL: ENCRYPTED // 1312 SOURCES ACTIVE</div>
-    <div id="visitor-count">VISITORS: 1,312,000+</div>
-    <div>SATELLITE: GOOGLE-GEO-01</div>
-</div>
+<footer>
+    <div id="progress-engine"></div>
+    <div>ALGORITHM: NEURAL GOOGLE 1312</div>
+    <div id="visitors">LIVE USERS: 1,312,448</div>
+    <div>STATUS: ENCRYPTED_GOLD</div>
+</footer>
 
-<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
 <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
 
 <script>
 const SECTORS = [
-    {id: 'MK', n: 'MACEDONIA_CENTRAL', q: 'Macedonia news when:12h'},
-    {id: 'AI', n: 'AI_NEURAL_GEN', q: 'Artificial Intelligence future when:24h'},
-    {id: 'Balkans', n: 'BALKAN_SITU_ROOM', q: 'Balkans news geopolitics when:24h'},
-    {id: 'Global', n: 'GLOBAL_MONOLITH', q: 'World breaking news when:12h'},
-    {id: 'Space', n: 'OFF_WORLD_TECH', q: 'SpaceX NASA Space technology when:48h'}
+    {n: 'СЕКТОР_МАКЕДОНИЈА', q: 'Macedonia news when:12h'},
+    {n: 'ВЕШТАЧКА_ИНТЕЛИГЕНЦИЈА', q: 'Artificial Intelligence future tech when:24h'},
+    {n: 'БАЛКАН_ФЛУКС', q: 'Balkans news geopolitics when:24h'},
+    {n: 'ГЛОБАЛНА_ДИПЛОМАТИЈА', q: 'World Breaking News UN NATO when:24h'},
+    {n: 'РУСИЈА_АЗИЈА_ПРОТОКОЛ', q: 'Russia China news economic when:24h'},
+    {n: 'САД_ТЕХНОЛОГИЈА', q: 'USA Silicon Valley news when:24h'}
 ];
 
-let currentIdx = 0;
+let currentIndex = 0;
 const PROXY = "https://api.allorigins.win/raw?url=";
 
-// GOOGLE CHARTS MAGIC
-google.charts.load("current", {packages:["corechart"]});
-google.charts.setOnLoadCallback(drawChart);
-function drawChart() {
-    var data = google.visualization.arrayToDataTable([
-        ['Sector', 'Traffic'],
-        ['MK', 40], ['AI', 30], ['Balkans', 20], ['Other', 10]
-    ]);
-    var options = {
-        pieHole: 0.4, backgroundColor: 'transparent', 
-        colors: ['#ff003c', '#c5a059', '#00ff41', '#333'],
-        legend: 'none', pieSliceText: 'none', chartArea: {width: '90%', height: '90%'}
-    };
-    var chart = new google.visualization.PieChart(document.getElementById('donutchart'));
-    chart.draw(data, options);
-}
-
-// GOOGLE TRANSLATE MAGIC
-function googleTranslateElementInit() {
-    new google.translate.TranslateElement({pageLanguage: 'mk', layout: google.translate.TranslateElement.InlineLayout.SIMPLE}, 'google_translate_element');
-}
-
-// NEWS ENGINE
-async function loadFeed(idx) {
+async function runEngine(idx) {
     const s = SECTORS[idx];
-    const grid = document.getElementById('news-grid');
-    const list = document.getElementById('sector-list');
+    const grid = document.getElementById('masterGrid');
+    const nav = document.getElementById('sector-nav');
     
-    list.innerHTML = SECTORS.map((sec, i) => `
-        <div class="nav-link ${i === idx ? 'active' : ''}" onclick="manual(${i})">
+    nav.innerHTML = SECTORS.map((sec, i) => `
+        <div class="sector-link ${i === idx ? 'active' : ''}" onclick="manualTrigger(${i})">
             ${sec.n}
         </div>
     `).join('');
@@ -162,54 +149,54 @@ async function loadFeed(idx) {
     const feedUrl = `https://news.google.com/rss/search?q=${encodeURIComponent(s.q)}&hl=mk&gl=MK&ceid=MK:mk`;
     
     try {
-        const res = await fetch(PROXY + encodeURIComponent(feedUrl + "&t=" + Date.now()));
+        const res = await fetch(PROXY + encodeURIComponent(feedUrl + "&cache=" + Date.now()));
         const xml = new DOMParser().parseFromString(await res.text(), "text/xml");
         const items = Array.from(xml.querySelectorAll("item")).slice(0, 15);
         
         grid.innerHTML = '';
+        let tickerContent = `+++ СЕКТОР: ${s.n} +++ `;
+        
         items.forEach((item, i) => {
             const title = item.querySelector("title").textContent;
             const link = item.querySelector("link").textContent;
-            const img = `https://picsum.photos/seed/${idx}${i}/400/250?grayscale&blur=2`;
+            tickerContent += title + " | ";
+            const img = `https://picsum.photos/seed/${idx}${i}/400/250?grayscale`;
 
             grid.innerHTML += `
-                <div class="news-card">
+                <div class="news-node">
                     <img src="${img}">
-                    <div class="card-content">
-                        <div class="card-title">${title}</div>
-                        <button style="background:transparent; border:1px solid var(--accent); color:var(--accent); font-family:Orbitron; font-size:0.5rem; padding:5px; width:100%; margin-top:10px; cursor:pointer;" onclick="window.open('${link}', '_blank')">DECRYPT_AND_OPEN</button>
+                    <div class="node-body">
+                        <div class="node-title">${title}</div>
+                        <button class="btn-decrypt" onclick="window.open('${link}', '_blank')">ОТВОРИ Google ИЗВОР</button>
                     </div>
                 </div>
             `;
         });
+        document.getElementById('ticker').innerText = tickerContent;
         
-        animateProgress();
-    } catch(e) {}
+        const bar = document.getElementById('progress-engine');
+        bar.style.transition = 'none'; bar.style.width = '0%';
+        setTimeout(() => { bar.style.transition = 'width 45s linear'; bar.style.width = '100%'; }, 100);
+    } catch(e) { console.log("Engine sync error"); }
 }
 
-function googleSearch(val) {
-    window.open(`https://www.google.com/search?q=site:news.google.com ${val}`, '_blank');
+function googleTranslateElementInit() {
+    new google.translate.TranslateElement({pageLanguage: 'mk'}, 'google_translate_element');
 }
 
-function animateProgress() {
-    const bar = document.getElementById('progress-bar');
-    bar.style.transition = 'none'; bar.style.width = '0%';
-    setTimeout(() => { bar.style.transition = 'width 45s linear'; bar.style.width = '100%'; }, 100);
-}
-
-function manual(i) { currentIdx = i; loadFeed(i); }
+function manualTrigger(i) { currentIndex = i; runEngine(i); }
 
 setInterval(() => {
-    currentIdx = (currentIdx + 1) % SECTORS.length;
-    loadFeed(currentIdx);
+    currentIndex = (currentIndex + 1) % SECTORS.length;
+    runEngine(currentIndex);
 }, 45000);
 
 setInterval(() => {
     const now = new Date();
-    document.getElementById('time').innerText = now.toLocaleTimeString('en-GB') + ' CET';
+    document.getElementById('clock').innerText = now.toLocaleTimeString('en-GB');
 }, 1000);
 
-window.onload = () => loadFeed(0);
+window.onload = () => runEngine(0);
 </script>
 </body>
 </html>
