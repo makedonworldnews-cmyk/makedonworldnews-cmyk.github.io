@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-27T19:17:38Z",
+  "updatedAt": "2026-01-27T19:54:46Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Ново пукање во Америка: едно лице во критична состојба",
+          "link": "https://makfax.com.mk/svet/%d0%bd%d0%be%d0%b2%d0%be-%d0%bf%d1%83%d0%ba%d0%b0%d1%9a%d0%b5-%d0%b2%d0%be-%d0%b0%d0%bc%d0%b5%d1%80%d0%b8%d0%ba%d0%b0-%d0%b5%d0%b4%d0%bd%d0%be-%d0%bb%d0%b8%d1%86%d0%b5-%d0%b2%d0%be-%d0%ba%d1%80%d0%b8/",
+          "published": "Tue, 27 Jan 2026 19:34:14 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Сјарто: Украина се вклучи во отворена, бесрамна и агресивна кампања на мешање",
+          "link": "https://makfax.com.mk/svet/%d1%81%d1%98%d0%b0%d1%80%d1%82%d0%be-%d1%83%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d0%b0-%d1%81%d0%b5-%d0%b2%d0%ba%d0%bb%d1%83%d1%87%d0%b8-%d0%b2%d0%be-%d0%be%d1%82%d0%b2%d0%be%d1%80%d0%b5%d0%bd%d0%b0-%d0%b1/",
+          "published": "Tue, 27 Jan 2026 19:28:52 +0000"
         },
         {
           "source": "Makfax",
@@ -27,18 +39,6 @@
           "title": "МНР со реакција до Бугарија:  Македонија останува подготвена за дијалог што ќе се води во духот на европските вредности, Европа се гради со доверба и резултати, не со етикетирања и политички квалификации",
           "link": "https://makfax.com.mk/makedonija/%d0%bc%d0%bd%d1%80-%d1%81%d0%be-%d1%80%d0%b5%d0%b0%d0%ba%d1%86%d0%b8%d1%98%d0%b0-%d0%b4%d0%be-%d0%b1%d1%83%d0%b3%d0%b0%d1%80%d0%b8%d1%98%d0%b0-%d0%bc%d0%b0%d0%ba%d0%b5%d0%b4%d0%be%d0%bd%d0%b8%d1%98/",
           "published": "Tue, 27 Jan 2026 18:22:44 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Германија со предупредување  за „црн мраз“ на патиштата",
-          "link": "https://makfax.com.mk/svet/%d0%b3%d0%b5%d1%80%d0%bc%d0%b0%d0%bd%d0%b8%d1%98%d0%b0-%d1%81%d0%be-%d0%bf%d1%80%d0%b5%d0%b4%d1%83%d0%bf%d1%80%d0%b5%d0%b4%d1%83%d0%b2%d0%b0%d1%9a%d0%b5-%d0%b7%d0%b0-%d1%86%d1%80%d0%bd/",
-          "published": "Tue, 27 Jan 2026 18:06:50 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Поради протест блокирани повеќе гранични премини за влез и излез од државата",
-          "link": "https://makfax.com.mk/makedonija/%d0%bf%d0%be%d1%80%d0%b0%d0%b4%d0%b8-%d0%bf%d1%80%d0%be%d1%82%d0%b5%d1%81%d1%82-%d0%b1%d0%bb%d0%be%d0%ba%d0%b8%d1%80%d0%b0%d0%bd%d0%b8-%d0%bf%d0%be%d0%b2%d0%b5%d1%9c%d0%b5-%d0%b3%d1%80%d0%b0%d0%bd/",
-          "published": "Tue, 27 Jan 2026 17:37:42 +0000"
         },
         {
           "source": "NetPress",
@@ -107,33 +107,33 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "CBS News’ Bari Weiss unveils new strategy amid backlash, viewership lags",
+          "link": "https://www.aljazeera.com/economy/2026/1/27/cbs-news-bari-weiss-unveils-new-strategy-amid-backlash-viewership-lags?traffic_source=rss",
+          "published": "Tue, 27 Jan 2026 19:36:34 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Indonesia’s Flood Catastrophe | The Full Report",
+          "link": "https://www.aljazeera.com/video/featured-documentaries/2026/1/27/indonesias-flood-catastrophe-the-full-report?traffic_source=rss",
+          "published": "Tue, 27 Jan 2026 19:30:00 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Why is ‘Cloud Dancer’ the colour of the year?",
+          "link": "https://www.aljazeera.com/video/the-stream/2026/1/27/why-is-cloud-dancer-the-colour-of-the-year?traffic_source=rss",
+          "published": "Tue, 27 Jan 2026 19:30:00 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "What ICE is doing to America is familiar to me as a Palestinian",
+          "link": "https://www.aljazeera.com/opinions/2026/1/27/what-ice-is-doing-to-america-is-familiar-to-me-as-a-palestinian?traffic_source=rss",
+          "published": "Tue, 27 Jan 2026 19:24:22 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Why is Pakistan backing Bangladesh in its T20 World Cup row with India?",
           "link": "https://www.aljazeera.com/sports/2026/1/27/why-is-pakistan-backing-bangladesh-in-its-t20-world-cup-row-with-india?traffic_source=rss",
           "published": "Tue, 27 Jan 2026 18:44:59 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Minnesota judge orders ICE chief to appear in court",
-          "link": "https://www.aljazeera.com/news/2026/1/27/minnesota-judge-orders-ice-chief-to-appear-in-court?traffic_source=rss",
-          "published": "Tue, 27 Jan 2026 18:14:12 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Trump’s JPMorgan Chase lawsuit revives debanking concerns in US",
-          "link": "https://www.aljazeera.com/economy/2026/1/27/trumps-jpmorgan-chase-lawsuit-revives-debanking-concerns-in-us?traffic_source=rss",
-          "published": "Tue, 27 Jan 2026 17:27:21 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Japan says goodbye to last pandas amid strained ties with China",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/1/27/japan-says-goodbye-to-last-pandas-amid-strained-ties-with-china?traffic_source=rss",
-          "published": "Tue, 27 Jan 2026 16:58:24 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Real Madrid visit Benfica: UEFA Champions League – all to know",
-          "link": "https://www.aljazeera.com/sports/2026/1/27/benfica-vs-real-madrid-uefa-champions-league-teams-start-lineups?traffic_source=rss",
-          "published": "Tue, 27 Jan 2026 16:15:02 +0000"
         }
       ]
     }
