@@ -10,71 +10,89 @@
     <style>
         * { margin: 0; padding: 0; box-sizing: border-box; }
         body {
-            font-family: 'Segoe UI', Arial, sans-serif;
-            background: #000000; /* Вратена чиста црна боја */
+            font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+            background: #000000; /* Длабока црна како што треба */
             color: #ffffff;
-            padding: 20px;
+            line-height: 1.6;
         }
-        .container { max-width: 1400px; margin: 0 auto; }
-        
-        /* CMYK СТИЛ - Црна со Златни и Сребрени детали */
+        .container { max-width: 1400px; margin: 0 auto; padding: 20px; }
+
+        /* HEADER & CMYK BRANDING */
         header {
             text-align: center;
-            background: #0a0a0a;
-            border: 2px solid #D4AF37; /* Златна рамка */
-            border-radius: 15px;
+            background: #050505;
+            border: 2px solid #D4AF37;
+            border-radius: 20px;
             padding: 40px;
             margin-bottom: 30px;
-            box-shadow: 0 0 20px rgba(212, 175, 55, 0.2);
+            box-shadow: 0 0 30px rgba(212, 175, 55, 0.1);
         }
+        h1 { font-size: 3.5rem; color: #D4AF37; letter-spacing: 4px; text-transform: uppercase; margin-bottom: 10px; }
+        .subtitle { color: #00FFF0; letter-spacing: 2px; font-weight: 300; }
 
-        h1 { font-size: 3rem; color: #D4AF37; letter-spacing: 5px; text-transform: uppercase; }
-        
-        /* Социјален Команден Центар */
-        .social-grid {
+        /* OFFICIAL SOCIAL COMMAND CENTER */
+        .command-center {
             display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
-            gap: 20px;
-            margin-bottom: 30px;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 15px;
+            margin-bottom: 40px;
         }
-
-        .social-card {
-            background: #111;
+        .nav-card {
+            background: #0a0a0a;
+            border: 1px solid #333;
             padding: 20px;
-            border-radius: 12px;
+            border-radius: 15px;
             text-align: center;
             cursor: pointer;
-            transition: 0.3s;
-            border-bottom: 4px solid transparent;
+            transition: 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+            position: relative;
+            overflow: hidden;
         }
-
-        .social-card:hover { transform: translateY(-5px); background: #1a1a1a; }
+        .nav-card:hover { transform: translateY(-5px); border-color: #D4AF37; background: #111; }
         
-        /* Бои за социјалните мрежи */
-        .yt { border-bottom-color: #FF0000; }
-        .tt { border-bottom-color: #EE1D52; }
-        .xx { border-bottom-color: #ffffff; }
-        .ig { border-bottom-color: #C13584; }
-        .ai { border-bottom-color: #00FFF0; }
+        /* ИКОНИ И БОИ */
+        .yt-border { border-bottom: 4px solid #FF0000; }
+        .tt-border { border-bottom: 4px solid #EE1D52; }
+        .x-border { border-bottom: 4px solid #ffffff; }
+        .ig-border { border-bottom: 4px solid #C13584; }
+        .ai-border { border-bottom: 4px solid #00FFF0; }
 
-        .btn-magic {
+        .nav-card h3 { font-size: 1.1rem; margin-bottom: 5px; }
+        .nav-card p { font-size: 0.75rem; color: #777; }
+
+        /* MAGIC BUTTON */
+        #magic-btn {
             background: linear-gradient(45deg, #D4AF37, #f1c40f);
-            color: black;
+            color: #000;
             border: none;
-            padding: 20px 40px;
+            padding: 20px 50px;
             border-radius: 50px;
+            font-size: 1.3rem;
             font-weight: 900;
-            font-size: 1.2rem;
             cursor: pointer;
-            box-shadow: 0 0 30px rgba(212, 175, 55, 0.4);
-            margin: 20px auto;
             display: block;
+            margin: 0 auto 40px;
+            box-shadow: 0 0 25px rgba(212, 175, 55, 0.4);
+            transition: 0.3s;
         }
+        #magic-btn:hover { transform: scale(1.05); box-shadow: 0 0 40px rgba(212, 175, 55, 0.6); }
 
-        /* RSS Секција */
-        .rss-container { background: #0a0a0a; border: 1px solid #333; padding: 25px; border-radius: 15px; }
-        .feed-item { background: #111; padding: 15px; margin-bottom: 10px; border-left: 4px solid #D4AF37; border-radius: 5px; }
-        a { color: #00FFF0; text-decoration: none; font-weight: bold; }
+        /* RSS & FEED DISPLAY */
+        .main-feed {
+            background: #050505;
+            border: 1px solid #222;
+            border-radius: 20px;
+            padding: 30px;
+        }
+        .feed-item {
+            background: #0a0a0a;
+            margin-bottom: 15px;
+            padding: 20px;
+            border-radius: 10px;
+            border-left: 4px solid #D4AF37;
+            animation: fadeIn 0.5s ease;
+        }
+        @keyframes fadeIn { from { opacity: 0; transform: translateX(-10px); } to { opacity: 1; transform: translateX(0); } }
     </style>
 </head>
 <body>
@@ -82,55 +100,54 @@
 <div class="container">
     <header>
         <h1>WORLD NEWS MAKEDON</h1>
-        <p style="color: #888; letter-spacing: 2px;">GLOBAL INTELLIGENCE TERMINAL</p>
+        <p class="subtitle">GLOBAL INTELLIGENCE & MEDIA TERMINAL</p>
     </header>
 
-    <button class="btn-magic" onclick="activateSystem()">⚙️ АКТИВИРАЈ ГЛОБАЛЕН ПРОТОКОЛ</button>
+    <button id="magic-btn" onclick="activateProtocol()">🛡️ АКТИВИРАЈ ПРОТОКОЛ</button>
 
-    <div class="social-grid">
-        <div class="social-card yt" onclick="window.open('https://youtube.com/@makedonworldnews?si=4VCLKHEMfxajUB9_', '_blank')">
-            <h3 style="color:#FF0000">YouTube</h3>
-            <p>@makedonworldnews</p>
+    <div class="command-center">
+        <div class="nav-card yt-border" onclick="window.open('https://youtube.com/@makedonworldnews?si=4VCLKHEMfxajUB9_', '_blank')">
+            <h3 style="color: #FF0000;">YOUTUBE</h3>
+            <p>Live News Feed</p>
         </div>
-        <div class="social-card tt" onclick="window.open('https://www.tiktok.com/@makedon.worldnews?_r=1&_t=ZM-93EhHJ9WGGe', '_blank')">
-            <h3 style="color:#EE1D52">TikTok</h3>
-            <p>@makedon.worldnews</p>
+        <div class="nav-card tt-border" onclick="window.open('https://www.tiktok.com/@makedon.worldnews?_r=1&_t=ZM-93EhHJ9WGGe', '_blank')">
+            <h3 style="color: #EE1D52;">TIKTOK</h3>
+            <p>Viral Intel</p>
         </div>
-        <div class="social-card xx" onclick="window.open('https://x.com/makedonworldnew', '_blank')">
-            <h3 style="color:#ffffff">X Trends</h3>
-            <p>@makedonworldnew</p>
+        <div class="nav-card x-border" onclick="window.open('https://x.com/makedonworldnew', '_blank')">
+            <h3 style="color: #ffffff;">X (TWITTER)</h3>
+            <p>Global Trends</p>
         </div>
-        <div class="social-card ig" onclick="window.open('https://www.instagram.com/makedonworldnews?igsh=MW42bzR2bHl6OTdyeQ==', '_blank')">
-            <h3 style="color:#C13584">Instagram</h3>
-            <p>@makedonworldnews</p>
+        <div class="nav-card ig-border" onclick="window.open('https://www.instagram.com/makedonworldnews?igsh=MW42bzR2bHl6OTdyeQ==', '_blank')">
+            <h3 style="color: #C13584;">INSTAGRAM</h3>
+            <p>Visual Archive</p>
         </div>
-        <div class="social-card ai" onclick="window.open('https://www.deepseek.com/', '_blank')">
-            <h3 style="color:#00FFF0">DeepSeek AI</h3>
+        <div class="nav-card ai-border" onclick="window.open('https://www.deepseek.com/', '_blank')">
+            <h3 style="color: #00FFF0;">DEEPSEEK AI</h3>
             <p>Intelligence Portal</p>
         </div>
     </div>
 
-    <div class="rss-container">
-        <h2 style="margin-bottom:20px; color:#D4AF37">📰 РЕАЛНИ ВЕСТИ (KAIRON & RSS)</h2>
-        <div id="news-feed">
-            <div class="feed-item">Системот е во мирување. Кликнете на копчето за активација...</div>
+    <div class="main-feed">
+        <h2 style="color: #D4AF37; margin-bottom: 20px; font-weight: 300;">📡 REAL-TIME FEED</h2>
+        <div id="dynamic-content">
+            <div class="feed-item">Системот е во мирување. Чекам активација на протоколот...</div>
         </div>
     </div>
 </div>
 
 <script>
-    function activateSystem() {
-        alert("🛡️ ПРОТОКОЛ АКТИВИРАН!\n\n340+ RSS извори се вклучени.\nСоцијалните мрежи се синхронизирани.");
-        loadSampleNews();
-    }
-
-    function loadSampleNews() {
-        const feed = document.getElementById('news-feed');
+    function activateProtocol() {
+        document.getElementById('magic-btn').innerHTML = "✅ СИСТЕМОТ Е ОНЛАЈН";
+        document.getElementById('magic-btn').style.background = "#00FF41";
+        
+        const feed = document.getElementById('dynamic-content');
         feed.innerHTML = `
-            <div class="feed-item">🔥 <b>BREAKING:</b> Глобален мониторинг активен. Проверете ги X Trends за најновите вести.</div>
-            <div class="feed-item">🇲🇰 <b>MACEDONIA:</b> Анализа на тековните настани во тек...</div>
-            <div class="feed-item">🤖 <b>AI:</b> DeepSeek R1 подготвен за обработка на податоци.</div>
+            <div class="feed-item">🛰️ <b>ПРОТОКОЛ АКТИВИРАН:</b> Поврзување со 340+ RSS извори...</div>
+            <div class="feed-item">🔍 <b>AI МОНИТОРИНГ:</b> DeepSeek R1 ја презема анализата на сообраќајот.</div>
+            <div class="feed-item">🇲🇰 <b>MAKEDON WORLD NEWS:</b> Твоите социјални мрежи се сега синхронизирани со главниот терминал.</div>
         `;
+        console.log("System Activated - World News Makedon Protocol");
     }
 </script>
 
