@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-28T17:51:33Z",
+  "updatedAt": "2026-01-28T19:04:59Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Ако Зеленски е навистина подготвен за средба, го каниме во Москва, ќе ја гарантираме неговата безбедност, рече помошникот на Кремљ",
+          "link": "https://makfax.com.mk/svet/%d0%b0%d0%ba%d0%be-%d0%b7%d0%b5%d0%bb%d0%b5%d0%bd%d1%81%d0%ba%d0%b8-%d0%b5-%d0%bd%d0%b0%d0%b2%d0%b8%d1%81%d1%82%d0%b8%d0%bd%d0%b0-%d0%bf%d0%be%d0%b4%d0%b3%d0%be%d1%82%d0%b2%d0%b5%d0%bd-%d0%b7%d0%b0/",
+          "published": "Wed, 28 Jan 2026 18:18:24 +0000"
         },
         {
           "source": "Makfax",
@@ -35,40 +41,34 @@
           "published": "Wed, 28 Jan 2026 16:48:21 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "ДОМ: Поддршка за повисоки плати, но со одговорен и одржлив економски пристап",
-          "link": "https://makfax.com.mk/makedonija/%d0%b4%d0%be%d0%bc-%d0%bf%d0%be%d0%b4%d0%b4%d1%80%d1%88%d0%ba%d0%b0-%d0%b7%d0%b0-%d0%bf%d0%be%d0%b2%d0%b8%d1%81%d0%be%d0%ba%d0%b8-%d0%bf%d0%bb%d0%b0%d1%82%d0%b8-%d0%bd%d0%be-%d1%81%d0%be-%d0%be/",
-          "published": "Wed, 28 Jan 2026 16:43:23 +0000"
+          "source": "NetPress",
+          "title": "Неоправдано се одложувало праќањето в затвор на Мифтари за автобуската несреќа кај Ласкарци",
+          "link": "https://netpress.com.mk/neopravdano-se-odlozhuvalo-prakaneto-v-zatvor-na-miftari-za-avtobuskata-nesreka-kaj-laskarczi/",
+          "published": "Wed, 28 Jan 2026 18:41:24 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "ОЈО Скопје ги испитува наводите на Жан Митрев за притисоци за сопственичките удели во неговата клиника",
+          "link": "https://netpress.com.mk/ojo-skopje-gi-ispituva-navodite-na-zhan-mitrev-za-pritisoczi-za-sopstvenichkite-udeli-vo-negovata-klinika/",
+          "published": "Wed, 28 Jan 2026 18:34:19 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Беровската полиција си имала проблеми со жители на пехчевско Црник",
+          "link": "https://netpress.com.mk/berovskata-policzija-si-imala-problemi-so-zhiteli-na-pehchevsko-czrnik/",
+          "published": "Wed, 28 Jan 2026 18:05:25 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Црна Гора ја укинува неработната недела по одлуката на Уставниот суд?",
+          "link": "https://netpress.com.mk/czrna-gora-ja-ukinuva-nerabotnata-nedela-po-odlukata-na-ustavniot-sud/",
+          "published": "Wed, 28 Jan 2026 18:00:34 +0000"
         },
         {
           "source": "NetPress",
           "title": "Николоски во Загреб: Проблемот на камионџиите е всушност закана за економската стабилност",
           "link": "https://netpress.com.mk/nikoloski-vo-zagreb-problemot-na-kamiondhiite-e-vsushnost-zakana-za-ekonomskata-stabilnost/",
           "published": "Wed, 28 Jan 2026 17:38:45 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Цените на нафтата се искачија на 68 долари, фокусот на Блискиот исток",
-          "link": "https://netpress.com.mk/czenite-na-naftata-se-iskachija-na-68-dolari-fokusot-na-bliskiot-istok/",
-          "published": "Wed, 28 Jan 2026 17:37:18 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "ВИДЕО| Ѓорѓиевски: Скопското Кале е чисто и уредено",
-          "link": "https://netpress.com.mk/video-gorgievski-skopskoto-kale-e-chisto-i-uredeno/",
-          "published": "Wed, 28 Jan 2026 17:19:45 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Русија, Украина и САД ќе ги продолжат мировните преговори в недела",
-          "link": "https://netpress.com.mk/rusija-ukraina-i-sad-ke-gi-prodolzhat-mirovnite-pregovori-v-nedela/",
-          "published": "Wed, 28 Jan 2026 17:13:26 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Општина Гостивар започна со реконструкција на улицата „Борче Јовановски”",
-          "link": "https://netpress.com.mk/opshtina-gostivar-zapochna-so-rekonstrukczija-na-uliczata-borche-jovanovski/",
-          "published": "Wed, 28 Jan 2026 17:08:21 +0000"
         }
       ]
     },
@@ -79,7 +79,7 @@
           "source": "BBC",
           "title": "Trump warns Iran 'time is running out' for nuclear deal as US military builds up in Gulf",
           "link": "https://www.bbc.com/news/articles/cly5pd459gko?at_medium=RSS&at_campaign=rss",
-          "published": "Wed, 28 Jan 2026 16:34:43 GMT"
+          "published": "Wed, 28 Jan 2026 18:58:42 GMT"
         },
         {
           "source": "BBC",
@@ -107,33 +107,33 @@
         },
         {
           "source": "Al Jazeera",
-          "title": "Trump says US ready to attack Iran with ‘speed and violence’",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/1/28/trump-says-us-ready-to-attack-iran-with-speed-and?traffic_source=rss",
-          "published": "Wed, 28 Jan 2026 16:29:37 +0000"
+          "title": "Looking for My Mum",
+          "link": "https://www.aljazeera.com/video/al-jazeera-world/2026/1/28/looking-for-my-mum?traffic_source=rss",
+          "published": "Wed, 28 Jan 2026 18:30:00 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Rubio testifies before US Senate on abduction of Venezuela’s Maduro",
-          "link": "https://www.aljazeera.com/news/2026/1/28/rubio-testifies-before-us-senate-on-abduction-of-venezuelas-maduro?traffic_source=rss",
-          "published": "Wed, 28 Jan 2026 16:20:34 +0000"
+          "title": "Even in death, Palestinians are still denied dignity",
+          "link": "https://www.aljazeera.com/opinions/2026/1/28/even-in-death-palestinians-are-still-denied-dignity?traffic_source=rss",
+          "published": "Wed, 28 Jan 2026 18:26:58 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "LIVE: Benfica vs Real Madrid – UEFA Champions League",
-          "link": "https://www.aljazeera.com/sports/liveblog/2026/1/28/live-benfica-vs-real-madrid-uefa-champions-league-coverage-commentary-stream?traffic_source=rss",
-          "published": "Wed, 28 Jan 2026 16:15:51 +0000"
+          "title": "Iran delegates import powers as US war threats keep economy unstable",
+          "link": "https://www.aljazeera.com/news/2026/1/28/iran-delegates-import-powers-as-us-war-threats-keep-economy-unstable?traffic_source=rss",
+          "published": "Wed, 28 Jan 2026 18:17:14 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "UK police to use AI facial recognition tech linked to Israel’s war on Gaza",
-          "link": "https://www.aljazeera.com/news/2026/1/28/uk-police-to-use-ai-facial-recognition-tech-linked-to-israels-war-on-gaza?traffic_source=rss",
-          "published": "Wed, 28 Jan 2026 16:10:25 +0000"
+          "title": "Amazon cuts thousands of jobs amid AI push",
+          "link": "https://www.aljazeera.com/economy/2026/1/28/amazon-cuts-thousands-of-jobs-amid-ai-push?traffic_source=rss",
+          "published": "Wed, 28 Jan 2026 17:47:06 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "LIVE: Iran says it will ‘respond like never before’ after Trump’s threats",
-          "link": "https://www.aljazeera.com/news/liveblog/2026/1/28/live-iran-says-it-will-respond-like-never-before-after-trumps-threats?traffic_source=rss",
-          "published": "Wed, 28 Jan 2026 15:56:52 +0000"
+          "title": "UK, France, Canada among 11 countries condemning Israel’s UNRWA demolitions",
+          "link": "https://www.aljazeera.com/news/2026/1/28/uk-france-canada-among-11-countries-condemning-israels-unrwa-demolitions?traffic_source=rss",
+          "published": "Wed, 28 Jan 2026 17:37:39 +0000"
         }
       ]
     }
