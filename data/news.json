@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-28T19:54:50Z",
+  "updatedAt": "2026-01-28T21:02:36Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Венецуела прифати месечен надзор: буџетот ќе оди на одобрување во Вашингтон",
+          "link": "https://makfax.com.mk/svet/%d0%b2%d0%b5%d0%bd%d0%b5%d1%86%d1%83%d0%b5%d0%bb%d0%b0-%d0%bf%d1%80%d0%b8%d1%84%d0%b0%d1%82%d0%b8-%d0%bc%d0%b5%d1%81%d0%b5%d1%87%d0%b5%d0%bd-%d0%bd%d0%b0%d0%b4%d0%b7%d0%be%d1%80-%d0%b1%d1%83%d1%9f/",
+          "published": "Wed, 28 Jan 2026 20:44:56 +0000"
         },
         {
           "source": "Makfax",
@@ -35,40 +41,34 @@
           "published": "Wed, 28 Jan 2026 18:18:24 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Напнатост меѓу Киев и Будимпешта по изјавите за мешање во изборите",
-          "link": "https://makfax.com.mk/svet/%d0%bd%d0%b0%d0%bf%d0%bd%d0%b0%d1%82%d0%be%d1%81%d1%82-%d0%bc%d0%b5%d1%93%d1%83-%d0%ba%d0%b8%d0%b5%d0%b2-%d0%b8-%d0%b1%d1%83%d0%b4%d0%b8%d0%bc%d0%bf%d0%b5%d1%88%d1%82%d0%b0-%d0%bf%d0%be-%d0%b8%d0%b7/",
-          "published": "Wed, 28 Jan 2026 17:44:09 +0000"
+          "source": "NetPress",
+          "title": "Кобна Малта – девојче од Полска однесена од брановите",
+          "link": "https://netpress.com.mk/kobna-malta-devojche-od-polska-odnesena-od-branovite/",
+          "published": "Wed, 28 Jan 2026 20:56:46 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "ССМ со протест побара минимална плата од 600 евра и зголемување на сите плати за 6.000 денари",
+          "link": "https://netpress.com.mk/ssm-so-protest-pobara-minimalna-plata-od-600-evra-i-zgolemuvane-na-site-plati-za-6-000-denari/",
+          "published": "Wed, 28 Jan 2026 20:32:41 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Шерон Стоун ќе го придружува австрискиот „крал на шауролот“ на виенскиот Оперски бал",
+          "link": "https://netpress.com.mk/sheron-stoun-ke-go-pridruzhuva-avstriskiot-kral-na-shaurolot-na-vienskiot-operski-bal/",
+          "published": "Wed, 28 Jan 2026 20:29:42 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Рубио: САД го одобруваат буџетот на владата на Венецуела на месечна основа",
+          "link": "https://netpress.com.mk/rubio-sad-go-odobruvaat-budhetot-na-vladata-na-veneczuela-na-mesechna-osnova/",
+          "published": "Wed, 28 Jan 2026 20:15:23 +0000"
         },
         {
           "source": "NetPress",
           "title": "Не дошле за славење, туку за тепање –  нападнати маж и две деца на дочекот на Нова година",
           "link": "https://netpress.com.mk/ne-doshle-za-slavene-tuku-za-tepane-napadnati-mazh-i-dve-decza-na-dochekot-na-nova-godina/",
           "published": "Wed, 28 Jan 2026 19:51:27 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Трамп го предупреди градоначалникот на Минеаполис за несоработка со ICE",
-          "link": "https://netpress.com.mk/tramp-go-predupredi-gradonachalnikot-na-mineapolis-za-nesorabotka-so-ice/",
-          "published": "Wed, 28 Jan 2026 19:38:56 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Непознат маж се качил во авионот на данската премиерка",
-          "link": "https://netpress.com.mk/nepoznat-mazh-se-kachil-vo-voeniot-avion-na-danskata-premierka/",
-          "published": "Wed, 28 Jan 2026 19:35:06 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Германската влада ги намали прогнозите за економски раст",
-          "link": "https://netpress.com.mk/germanskata-vlada-gi-namali-prognozite-za-ekonomski-rast/",
-          "published": "Wed, 28 Jan 2026 19:17:28 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Неоправдано се одложувало праќањето в затвор на Мифтари за автобуската несреќа кај Ласкарци",
-          "link": "https://netpress.com.mk/neopravdano-se-odlozhuvalo-prakaneto-v-zatvor-na-miftari-za-avtobuskata-nesreka-kaj-laskarczi/",
-          "published": "Wed, 28 Jan 2026 18:41:24 +0000"
         }
       ]
     },
@@ -107,6 +107,24 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Trump yanks permitting process from Democrats after California fires",
+          "link": "https://www.aljazeera.com/news/2026/1/28/trump-yanks-permitting-process-from-democrats-after-california-fires?traffic_source=rss",
+          "published": "Wed, 28 Jan 2026 20:22:29 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Iraqi protesters burn photos of Trump amid his threats over al-Maliki",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/1/28/iraqi-protesters-burn-photos-of-trump-amid-his-threats-over-al-maliki?traffic_source=rss",
+          "published": "Wed, 28 Jan 2026 20:12:31 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "How drone warfare has changed in Ukraine",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/1/28/how-drone-warfare-has-changed-in-ukraine?traffic_source=rss",
+          "published": "Wed, 28 Jan 2026 20:04:10 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "US Federal Reserve holds interest rates steady despite political pressure",
           "link": "https://www.aljazeera.com/economy/2026/1/28/us-federal-reserve-holds-interest-rates-steady-despite-political-pressure?traffic_source=rss",
           "published": "Wed, 28 Jan 2026 19:23:14 +0000"
@@ -116,24 +134,6 @@
           "title": "FBI executes search warrant at Georgia election office over 2020 US vote",
           "link": "https://www.aljazeera.com/news/2026/1/28/fbi-executes-search-warrant-at-georgia-election-office-over-2020-us-vote?traffic_source=rss",
           "published": "Wed, 28 Jan 2026 19:19:43 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Putin congratulates al-Sharaa on his efforts to unify Syrian territory",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/1/28/putin-congratulates-al-sharaa-on-his-efforts-to-unify-syrian-territory?traffic_source=rss",
-          "published": "Wed, 28 Jan 2026 19:19:18 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Rubio rules out military action in Venezuela, with an exception",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/1/28/rubio-rules-out-military-action-in-venezuela-with-an-exception?traffic_source=rss",
-          "published": "Wed, 28 Jan 2026 19:00:05 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Looking for My Mum",
-          "link": "https://www.aljazeera.com/video/al-jazeera-world/2026/1/28/looking-for-my-mum?traffic_source=rss",
-          "published": "Wed, 28 Jan 2026 18:30:00 +0000"
         }
       ]
     }
