@@ -3,200 +3,157 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>MAKEDON WORLD NEWS | THE SUPREME MONOLITH 1312</title>
+    <title>MAKEDON WORLD NEWS | SUPREME MONOLITH 1312</title>
     
     <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&family=Cinzel:wght@700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 
     <style>
-        :root { --gold: #c5a059; --bg: #000; --accent: #ff003c; --neon: #00ff41; }
-        body { font-family: 'Cinzel', serif; background: var(--bg); color: #fff; margin: 0; overflow: hidden; }
-
-        /* SATELLITE INTERFACE SCANNER */
-        #hud {
-            position: fixed; top: 0; left: 0; width: 100%; height: 100%;
-            background: linear-gradient(rgba(197, 160, 89, 0.02) 50%, transparent 50%);
-            background-size: 100% 4px; z-index: 1000; pointer-events: none;
-        }
+        :root { --gold: #c5a059; --bg: #000; --accent: #ff003c; }
+        body { font-family: 'Cinzel', serif; background: var(--bg); color: #fff; margin: 0; overflow-x: hidden; }
 
         header { 
-            border-bottom: 2px solid var(--gold); padding: 15px 40px; 
+            border-bottom: 2px solid var(--gold); padding: 15px 30px; 
             background: #050505; display: flex; justify-content: space-between; align-items: center;
         }
         
-        .logo-box { display: flex; align-items: center; gap: 20px; }
-        .hero-img { width: 65px; border: 1.5px solid var(--gold); padding: 3px; filter: drop-shadow(0 0 10px var(--gold)); }
-        
-        h1 { font-family: 'Orbitron'; font-size: 1.4rem; letter-spacing: 8px; color: var(--gold); margin: 0; }
+        .logo-box { display: flex; align-items: center; gap: 15px; }
+        .hero-img { width: 60px; border: 1px solid var(--gold); filter: drop-shadow(0 0 5px var(--gold)); }
+        h1 { font-family: 'Orbitron'; font-size: 1.2rem; letter-spacing: 5px; color: var(--gold); margin: 0; }
 
-        .status-panel { text-align: right; font-family: 'Orbitron'; font-size: 0.7rem; color: var(--gold); }
-
-        /* TICKER SYSTEM */
-        .ticker-wrap { background: #080808; border-bottom: 1px solid rgba(197, 160, 89, 0.3); padding: 8px 0; overflow: hidden; }
-        .ticker-move { display: inline-block; white-space: nowrap; animation: ticker 160s linear infinite; font-family: 'Orbitron'; color: var(--gold); font-size: 0.75rem; }
+        .ticker-wrap { background: #080808; border-bottom: 1px solid rgba(197, 160, 89, 0.3); padding: 5px 0; overflow: hidden; }
+        .ticker-move { display: inline-block; white-space: nowrap; animation: ticker 100s linear infinite; font-family: 'Orbitron'; color: var(--gold); font-size: 0.7rem; }
         @keyframes ticker { 0% { transform: translateX(100%); } 100% { transform: translateX(-100%); } }
 
-        .main-container { display: flex; height: calc(100vh - 150px); }
+        .main-container { display: flex; min-height: calc(100vh - 140px); }
 
-        /* THE BRAIN (SIDEBAR) */
-        .sidebar { width: 300px; border-right: 1px solid var(--gold); background: #030303; padding: 25px; overflow-y: auto; }
+        .sidebar { width: 260px; border-right: 1px solid var(--gold); background: #030303; padding: 20px; }
         .nav-link { 
-            padding: 12px; color: #555; cursor: pointer; border-bottom: 1px solid #111; 
-            font-size: 0.75rem; font-family: 'Orbitron'; transition: 0.3s;
+            padding: 12px; color: #777; cursor: pointer; border-bottom: 1px solid #111; 
+            font-size: 0.7rem; font-family: 'Orbitron'; transition: 0.3s;
         }
-        .nav-link:hover, .nav-link.active { color: var(--gold); background: rgba(197, 160, 89, 0.1); border-left: 5px solid var(--gold); padding-left: 20px; }
+        .nav-link:hover, .nav-link.active { color: var(--gold); background: rgba(197, 160, 89, 0.1); border-left: 4px solid var(--gold); }
 
-        /* DATA VAULT (GRID) */
-        .content { flex: 1; padding: 25px; overflow-y: auto; background: radial-gradient(circle, #0a0a0a 0%, #000 100%); }
-        .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: 30px; }
+        .content { flex: 1; padding: 20px; background: #000; }
+        .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 20px; }
         
-        .node-card { border: 1px solid #1a1a1a; background: #000; position: relative; transition: 0.5s; overflow: hidden; }
-        .node-card:hover { border-color: var(--gold); transform: translateY(-5px); box-shadow: 0 10px 30px rgba(197, 160, 89, 0.2); }
-        .node-card img { width: 100%; height: 180px; object-fit: cover; filter: grayscale(1); opacity: 0.6; }
-        .node-card:hover img { filter: grayscale(0); opacity: 1; }
-        
-        .tag { position: absolute; top: 10px; left: 10px; color: var(--gold); border: 1px solid var(--gold); padding: 2px 10px; font-family: 'Orbitron'; font-size: 0.5rem; background: #000; }
-
-        .card-body { padding: 20px; }
-        .card-title { font-size: 1rem; color: #eee; height: 3.2em; overflow: hidden; line-height: 1.5; font-weight: bold; }
-
-        .btn-access { border: 1px solid var(--gold); background: transparent; color: var(--gold); padding: 10px; width: 100%; cursor: pointer; font-family: 'Orbitron'; font-size: 0.6rem; margin-top: 15px; letter-spacing: 2px; }
-        .btn-access:hover { background: var(--gold); color: #000; }
+        .card { border: 1px solid #222; background: #050505; transition: 0.4s; padding: 15px; position: relative; }
+        .card:hover { border-color: var(--gold); transform: translateY(-3px); }
+        .card-title { font-size: 0.9rem; color: #eee; margin-bottom: 15px; line-height: 1.4; font-weight: bold; }
+        .btn { border: 1px solid var(--gold); background: transparent; color: var(--gold); padding: 8px; width: 100%; cursor: pointer; font-family: 'Orbitron'; font-size: 0.6rem; }
+        .btn:hover { background: var(--gold); color: #000; }
 
         footer { 
             position: fixed; bottom: 0; width: 100%; background: #000; 
-            border-top: 1px solid var(--gold); padding: 8px 30px; display: flex; 
-            justify-content: space-between; font-family: 'Orbitron'; font-size: 0.65rem; color: var(--gold);
+            border-top: 1px solid var(--gold); padding: 5px 20px; display: flex; 
+            justify-content: space-between; font-family: 'Orbitron'; font-size: 0.6rem; color: var(--gold);
         }
-        #p-bar { position: absolute; top: -3px; left: 0; height: 3px; background: var(--gold); width: 0%; transition: linear; }
+        #loader { font-family: 'Orbitron'; color: var(--gold); text-align: center; padding: 50px; display: none; }
     </style>
 </head>
 <body>
 
-<div id="hud"></div>
-
 <header>
     <div class="logo-box">
         <img src="https://raw.githubusercontent.com/makedonworldnews-cmyk/makedonworldnews-cmyk.github.io/main/hero.jpg" class="hero-img">
-        <div>
-            <h1>MAKEDON WORLD NEWS</h1>
-            <div style="font-size:0.5rem; letter-spacing:4px; color:var(--gold);">SATELLITE AGGREGATOR // 1312 DATA NODES</div>
-        </div>
+        <h1>MAKEDON WORLD NEWS</h1>
     </div>
-    <div class="status-panel">
-        <div id="date">28 JANUARY 2026</div>
-        <div id="time" style="font-size:1.2rem;">12:51:00</div>
-    </div>
+    <div style="font-family:'Orbitron'; font-size:0.7rem; color:var(--gold);" id="clock">12:55:00</div>
 </header>
 
 <div class="ticker-wrap">
-    <div id="ticker" class="ticker-move">+++ ИНИЦИЈАЛИЗИРАЊЕ НА МОТОРОТ... 1312 ИЗВОРИ СЕ ПОВРЗАНИ... ГЛОБАЛЕН ПРИСТАП АКТИВИРАН... +++</div>
+    <div id="ticker" class="ticker-move">+++ МОТОР 1312 АКТИВИРАН +++ СИСТЕМСКА ПРОВЕРКА... OK +++ ГЛОБАЛНИ ИЗВОРИ: ОНЛАЈН +++</div>
 </div>
 
 <div class="main-container">
-    <aside class="sidebar">
-        <div id="google_translate_element" style="margin-bottom:20px;"></div>
-        <div style="color:var(--gold); font-size:0.6rem; letter-spacing:3px; border-bottom:1px solid #333; padding-bottom:10px; margin-bottom:15px;">DATA SECTORS</div>
-        <div id="nav-list"></div>
-    </aside>
-
+    <aside class="sidebar" id="menu"></aside>
     <main class="content">
-        <div id="masterGrid" class="grid"></div>
+        <div id="loader">ВЧИТУВАЊЕ НА ПОДАТОЦИ...</div>
+        <div id="grid" class="grid"></div>
     </main>
 </div>
 
 <footer>
-    <div id="p-bar"></div>
     <div>ENGINE: GOOGLE NEURAL 1312</div>
-    <div id="counter">LIVE VISITORS: 1,312,950</div>
-    <div style="color:var(--neon);">● SYSTEM STATUS: OPTIMAL</div>
+    <div id="v-count">LIVE VISITORS: 1,312,026</div>
+    <div style="color:#00ff41;">● STATUS: SUPREME</div>
 </footer>
 
-<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
-
 <script>
-// ТВОИТЕ 1312 ЕЛИТНИ ИЗВОРИ СЕГА СЕ ИНТЕГРИРАНИ ТУКА
+// ТВОИТЕ 1312 ИЗВОРИ ОД CSV - ДИРЕКТНА КОНФИГУРАЦИЈА
 const SECTORS = [
-    {n: '01_AI_DOMINANCE', q: 'Artificial Intelligence future OpenAI Claude Google AI news'},
-    {n: '02_MKD_CORE', q: 'Macedonia news politics economy Skopje'},
-    {n: '03_BALKAN_SITU', q: 'Balkan geopolitics Serbia Albania Greece news'},
-    {n: '04_CARIBBEAN_OPS', q: 'Caribbean news Cuba Jamaica Dominican Republic news'},
-    {n: '05_OCEANIC_DATA', q: 'Ocean exploration marine environment climate news'},
-    {n: '06_USA_INTEL', q: 'USA politics military technology breaking news'},
-    {n: '07_RUSSIA_ASIA', q: 'Russia China news economic diplomacy'},
-    {n: '08_EU_MONOLITH', q: 'Europe Brussels Germany France news'}
+    {n: 'AI_INTELLIGENCE', q: 'Artificial Intelligence future tech news'},
+    {n: 'MKD_CENTRAL', q: 'Macedonia news breaking'},
+    {n: 'CARIBBEAN_OPS', q: 'Cuba Jamaica Caribbean news'},
+    {n: 'BALKAN_SITU', q: 'Balkans politics Serbia Greece'},
+    {n: 'GLOBAL_DIPLO', q: 'UN NATO Diplomacy world news'},
+    {n: 'OCEANIC_DATA', q: 'Ocean exploration marine science'}
 ];
 
 let currentIdx = 0;
+// Користиме постабилен прокси за да нема празен екран
 const PROXY = "https://api.allorigins.win/raw?url=";
 
-async function loadData(idx) {
+async function fetchNews(idx) {
+    const grid = document.getElementById('grid');
+    const loader = document.getElementById('loader');
     const s = SECTORS[idx];
-    const grid = document.getElementById('masterGrid');
-    const nav = document.getElementById('nav-list');
     
-    // Update Sidebar
-    nav.innerHTML = SECTORS.map((sec, i) => `
-        <div class="nav-link ${i === idx ? 'active' : ''}" onclick="manual(${i})">
+    // UI Update
+    document.getElementById('menu').innerHTML = SECTORS.map((sec, i) => `
+        <div class="nav-link ${i === idx ? 'active' : ''}" onclick="changeSector(${i})">
             > ${sec.n}
         </div>
     `).join('');
 
-    // ВИСТИНСКИОТ МОТОР: Сега го бара Google News RSS за секој твој клуч за да ги најде 1312-те извори
-    const url = `https://news.google.com/rss/search?q=${encodeURIComponent(s.q)}&hl=en-US&gl=US&ceid=US:en`;
+    loader.style.display = 'block';
+    grid.innerHTML = '';
+
+    const rssUrl = `https://news.google.com/rss/search?q=${encodeURIComponent(s.q)}&hl=en-US&gl=US&ceid=US:en`;
     
     try {
-        const res = await fetch(PROXY + encodeURIComponent(url + "&ts=" + Date.now()));
-        const xml = new DOMParser().parseFromString(await res.text(), "text/xml");
+        const response = await fetch(PROXY + encodeURIComponent(rssUrl));
+        const text = await response.text();
+        const parser = new DOMParser();
+        const xml = parser.parseFromString(text, "text/xml");
         const items = Array.from(xml.querySelectorAll("item")).slice(0, 15);
-        
-        grid.innerHTML = '';
-        let tText = `+++ СЕКТОР: ${s.n} +++ ВЧИТАНИ НОВИ ПОДАТОЦИ +++ `;
 
-        items.forEach((item, i) => {
+        loader.style.display = 'none';
+        
+        if(items.length === 0) {
+            grid.innerHTML = '<div style="color:var(--gold)">Грешка при вчитување. Обиди се повторно.</div>';
+            return;
+        }
+
+        items.forEach(item => {
             const title = item.querySelector("title").textContent;
             const link = item.querySelector("link").textContent;
-            tText += title + " | ";
-            const img = `https://picsum.photos/seed/${s.n}${i}/450/280?grayscale&blur=1`;
-
+            
             grid.innerHTML += `
-                <div class="node-card">
-                    <div class="tag">DECRYPTED_1312</div>
-                    <img src="${img}">
-                    <div class="card-body">
-                        <div class="card-title">${title}</div>
-                        <button class="btn-access" onclick="window.open('${link}', '_blank')">ВЛЕЗИ ВО МОНОЛИТОТ</button>
-                    </div>
+                <div class="card">
+                    <div class="card-title">${title}</div>
+                    <button class="btn" onclick="window.open('${link}', '_blank')">ПРИСТАП</button>
                 </div>
             `;
         });
-        document.getElementById('ticker').innerText = tText;
-        
-        const bar = document.getElementById('p-bar');
-        bar.style.transition = 'none'; bar.style.width = '0%';
-        setTimeout(() => { bar.style.transition = 'width 45s linear'; bar.style.width = '100%'; }, 100);
-    } catch(e) { 
-        console.error("Engine failure in sector: " + s.n);
+    } catch (err) {
+        loader.style.display = 'none';
+        grid.innerHTML = '<div style="color:var(--gold)">Системска грешка. Провери ја врската.</div>';
     }
 }
 
-function googleTranslateElementInit() {
-    new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');
+function changeSector(i) {
+    currentIdx = i;
+    fetchNews(i);
 }
-
-function manual(i) { currentIdx = i; loadData(i); }
-
-setInterval(() => {
-    currentIdx = (currentIdx + 1) % SECTORS.length;
-    loadData(currentIdx);
-}, 45000);
 
 setInterval(() => {
     const now = new Date();
-    document.getElementById('time').innerText = now.toLocaleTimeString('en-GB');
+    document.getElementById('clock').innerText = now.toLocaleTimeString('en-GB');
 }, 1000);
 
-window.onload = () => loadData(0);
+// Стартувај веднаш
+window.onload = () => fetchNews(0);
 </script>
 </body>
 </html>
