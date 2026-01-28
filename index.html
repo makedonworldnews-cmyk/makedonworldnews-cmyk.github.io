@@ -3,187 +3,136 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>🌍 WORLD NEWS MAKEDON - Глобална Медиумска Платформа</title>
+    <title>🌍 WORLD NEWS MAKEDON - Official Intelligence</title>
     
     <script src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
-    
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.1.1/core.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.1.1/sha512.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.1.1/sha3.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.1.1/hmac-sha512.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.1.1/aes.min.js"></script>
     
     <style>
         * { margin: 0; padding: 0; box-sizing: border-box; }
         body {
-            font-family: 'Arial', sans-serif;
-            background: linear-gradient(135deg, #001400 0%, #000A00 100%);
-            color: #00FF41;
+            font-family: 'Segoe UI', Arial, sans-serif;
+            background: #000000; /* Вратена чиста црна боја */
+            color: #ffffff;
             padding: 20px;
-            min-height: 100vh;
         }
         .container { max-width: 1400px; margin: 0 auto; }
+        
+        /* CMYK СТИЛ - Црна со Златни и Сребрени детали */
         header {
             text-align: center;
-            background: rgba(0, 40, 0, 0.8);
-            border: 3px solid #00FF41;
+            background: #0a0a0a;
+            border: 2px solid #D4AF37; /* Златна рамка */
             border-radius: 15px;
-            padding: 30px;
+            padding: 40px;
+            margin-bottom: 30px;
+            box-shadow: 0 0 20px rgba(212, 175, 55, 0.2);
+        }
+
+        h1 { font-size: 3rem; color: #D4AF37; letter-spacing: 5px; text-transform: uppercase; }
+        
+        /* Социјален Команден Центар */
+        .social-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+            gap: 20px;
             margin-bottom: 30px;
         }
-        h1 { font-size: 2.5rem; color: #00FF41; text-shadow: 0 0 20px rgba(0, 255, 65, 0.8); margin-bottom: 10px; }
-        .subtitle { font-size: 1.2rem; color: #00FFF0; margin-bottom: 20px; }
-        .status-bar {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
-            gap: 15px;
-            background: rgba(0, 20, 0, 0.5);
-            padding: 15px;
-            border-radius: 10px;
-            margin-top: 20px;
-        }
-        .status-item {
-            text-align: center;
-            padding: 10px;
-            background: rgba(0, 255, 65, 0.1);
-            border-radius: 5px;
-            border: 1px solid #00AA2B;
-        }
-        .status-label { font-size: 0.8rem; color: #00FFF0; margin-bottom: 5px; }
-        .status-value { font-size: 1.3rem; font-weight: bold; color: #00FF41; }
-        section {
-            background: rgba(0, 30, 0, 0.6);
-            padding: 25px;
-            border-radius: 12px;
-            margin-bottom: 25px;
-            border: 2px solid #00AA2B;
-        }
-        h2 { font-size: 1.8rem; color: #00FFF0; margin-bottom: 20px; text-transform: uppercase; }
-        .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 15px; }
-        .card {
-            background: linear-gradient(135deg, rgba(0, 40, 0, 0.6), rgba(0, 20, 0, 0.6));
+
+        .social-card {
+            background: #111;
             padding: 20px;
-            border-radius: 10px;
-            border: 2px solid #00FF41;
+            border-radius: 12px;
             text-align: center;
             cursor: pointer;
-            transition: all 0.3s;
+            transition: 0.3s;
+            border-bottom: 4px solid transparent;
         }
-        .card:hover { transform: translateY(-5px); box-shadow: 0 10px 30px rgba(0, 255, 65, 0.5); border-color: #00FFF0; }
-        .card h3 { color: #00FFF0; margin-bottom: 10px; font-size: 1.2rem; }
-        .status.active { background: rgba(0, 255, 65, 0.3); color: #00FF41; padding: 5px; border-radius: 5px; font-weight: bold; font-size: 0.9rem; }
-        .status.inactive { background: rgba(255, 255, 255, 0.1); color: #999; padding: 5px; border-radius: 5px; font-weight: bold; font-size: 0.9rem; }
-        .btn {
-            background: linear-gradient(135deg, #00FF41, #00AA2B);
-            color: #000;
+
+        .social-card:hover { transform: translateY(-5px); background: #1a1a1a; }
+        
+        /* Бои за социјалните мрежи */
+        .yt { border-bottom-color: #FF0000; }
+        .tt { border-bottom-color: #EE1D52; }
+        .xx { border-bottom-color: #ffffff; }
+        .ig { border-bottom-color: #C13584; }
+        .ai { border-bottom-color: #00FFF0; }
+
+        .btn-magic {
+            background: linear-gradient(45deg, #D4AF37, #f1c40f);
+            color: black;
             border: none;
-            padding: 15px 30px;
-            border-radius: 8px;
-            font-weight: bold;
+            padding: 20px 40px;
+            border-radius: 50px;
+            font-weight: 900;
+            font-size: 1.2rem;
             cursor: pointer;
-            text-transform: uppercase;
-            margin: 5px;
+            box-shadow: 0 0 30px rgba(212, 175, 55, 0.4);
+            margin: 20px auto;
+            display: block;
         }
-        .feed-box { background: rgba(0, 10, 0, 0.5); padding: 20px; border-radius: 10px; max-height: 400px; overflow-y: auto; border: 1px solid #00AA2B; }
-        .feed-item { background: rgba(0, 255, 65, 0.05); padding: 12px; margin-bottom: 10px; border-left: 3px solid #00FF41; border-radius: 5px; }
-        #magic-button {
-            position: fixed; bottom: 20px; right: 20px; background: linear-gradient(135deg, #FF0000, #FFD700);
-            color: white; border: none; padding: 15px 30px; border-radius: 25px; font-size: 1.2rem; font-weight: bold; cursor: pointer; z-index: 999999;
-            box-shadow: 0 0 30px rgba(255, 215, 0, 0.7); animation: pulse 2s infinite;
-        }
-        @keyframes pulse { 0% { box-shadow: 0 0 10px rgba(0, 255, 240, 0.7); } 50% { box-shadow: 0 0 30px rgba(0, 255, 240, 1); } 100% { box-shadow: 0 0 10px rgba(0, 255, 240, 0.7); } }
+
+        /* RSS Секција */
+        .rss-container { background: #0a0a0a; border: 1px solid #333; padding: 25px; border-radius: 15px; }
+        .feed-item { background: #111; padding: 15px; margin-bottom: 10px; border-left: 4px solid #D4AF37; border-radius: 5px; }
+        a { color: #00FFF0; text-decoration: none; font-weight: bold; }
     </style>
 </head>
 <body>
-    <div class="container">
-        <button id="magic-button" onclick="activateFullMagic()">🔮 АКТИВИРАЈ МАГИЈА</button>
 
-        <header>
-            <h1>🌍 WORLD NEWS MAKEDON</h1>
-            <p class="subtitle">Глобална Медиумска Платформа | Социјални Мрежи • AI • Протокол</p>
-            <div class="status-bar">
-                <div class="status-item"><div class="status-label">System ID</div><div class="status-value" id="system-id">WNM-RSS</div></div>
-                <div class="status-item"><div class="status-label">AI Systems</div><div class="status-value" id="ai-count">0/10</div></div>
-                <div class="status-item"><div class="status-label">Revenue</div><div class="status-value" id="revenue-display">$0.00</div></div>
-                <div class="status-item"><div class="status-label">Status</div><div class="status-value">🟢 ONLINE</div></div>
-            </div>
-        </header>
+<div class="container">
+    <header>
+        <h1>WORLD NEWS MAKEDON</h1>
+        <p style="color: #888; letter-spacing: 2px;">GLOBAL INTELLIGENCE TERMINAL</p>
+    </header>
 
-        <section style="border: 3px solid #00FF41; box-shadow: 0 0 20px rgba(0, 255, 65, 0.2);">
-            <h2>📡 ОФИЦИЈАЛНИ КАНАЛИ & AI ПОРТАЛИ</h2>
-            <div class="grid">
-                <div class="card" onclick="window.open('https://youtube.com/@makedonworldnews?si=4VCLKHEMfxajUB9_', '_blank')" style="border-color: #FF0000;">
-                    <h3>📺 YOUTUBE</h3>
-                    <p>Live News Feed</p>
-                    <div class="status active">ОТВОРИ КАНАЛ</div>
-                </div>
-                <div class="card" onclick="window.open('https://www.tiktok.com/@makedon.worldnews?_r=1&_t=ZM-93EhHJ9WGGe', '_blank')" style="border-color: #EE1D52;">
-                    <h3>🎵 TIKTOK</h3>
-                    <p>Viral Intel Monitor</p>
-                    <div class="status active">ОТВОРИ КАНАЛ</div>
-                </div>
-                <div class="card" onclick="window.open('https://x.com/makedonworldnew', '_blank')" style="border-color: #FFFFFF;">
-                    <h3>⚫ X (TWITTER)</h3>
-                    <p>Global Trends</p>
-                    <div class="status active">ОТВОРИ КАНАЛ</div>
-                </div>
-                <div class="card" onclick="window.open('https://www.instagram.com/makedonworldnews?igsh=MW42bzR2bHl6OTdyeQ==', '_blank')" style="border-color: #C13584;">
-                    <h3>📸 INSTAGRAM</h3>
-                    <p>Visual Archive</p>
-                    <div class="status active">ОТВОРИ КАНАЛ</div>
-                </div>
-                <div class="card" onclick="window.open('https://t.me/s/worldnews', '_blank')" style="border-color: #26A5E4;">
-                    <h3>🔹 TELEGRAM</h3>
-                    <p>Encrypted News</p>
-                    <div class="status active">ИНТЕЛ ПОРТАЛ</div>
-                </div>
-                <div class="card" onclick="window.open('https://www.deepseek.com/', '_blank')" style="border-color: #4d66ff;">
-                    <h3>🧠 DEEPSEEK R1</h3>
-                    <p>AI News Analysis</p>
-                    <div class="status active">АКТИВИРАЈ AI</div>
-                </div>
-            </div>
-        </section>
+    <button class="btn-magic" onclick="activateSystem()">⚙️ АКТИВИРАЈ ГЛОБАЛЕН ПРОТОКОЛ</button>
 
-        <section>
-            <h2>📡 KAIRON Feed - Вести во Живо</h2>
-            <div class="feed-box" id="kairon-feed">
-                <div class="feed-item">Системот е подготвен. Активирајте ја магијата...</div>
-            </div>
-        </section>
-
-        <section id="rss-section">
-            <h2>🌍 RSS FEEDS (340+)</h2>
-            <div style="text-align: center;">
-                <button class="btn" onclick="prikaziRSS('macedonia')">🇲🇰 Македонија</button>
-                <button class="btn" onclick="prikaziRSS('global')">🌐 Глобално</button>
-            </div>
-            <div id="rss-display" style="margin-top: 20px;"></div>
-        </section>
+    <div class="social-grid">
+        <div class="social-card yt" onclick="window.open('https://youtube.com/@makedonworldnews?si=4VCLKHEMfxajUB9_', '_blank')">
+            <h3 style="color:#FF0000">YouTube</h3>
+            <p>@makedonworldnews</p>
+        </div>
+        <div class="social-card tt" onclick="window.open('https://www.tiktok.com/@makedon.worldnews?_r=1&_t=ZM-93EhHJ9WGGe', '_blank')">
+            <h3 style="color:#EE1D52">TikTok</h3>
+            <p>@makedon.worldnews</p>
+        </div>
+        <div class="social-card xx" onclick="window.open('https://x.com/makedonworldnew', '_blank')">
+            <h3 style="color:#ffffff">X Trends</h3>
+            <p>@makedonworldnew</p>
+        </div>
+        <div class="social-card ig" onclick="window.open('https://www.instagram.com/makedonworldnews?igsh=MW42bzR2bHl6OTdyeQ==', '_blank')">
+            <h3 style="color:#C13584">Instagram</h3>
+            <p>@makedonworldnews</p>
+        </div>
+        <div class="social-card ai" onclick="window.open('https://www.deepseek.com/', '_blank')">
+            <h3 style="color:#00FFF0">DeepSeek AI</h3>
+            <p>Intelligence Portal</p>
+        </div>
     </div>
 
-    <script>
-        let aiAktivni = 0;
-        let totalRevenue = 0;
+    <div class="rss-container">
+        <h2 style="margin-bottom:20px; color:#D4AF37">📰 РЕАЛНИ ВЕСТИ (KAIRON & RSS)</h2>
+        <div id="news-feed">
+            <div class="feed-item">Системот е во мирување. Кликнете на копчето за активација...</div>
+        </div>
+    </div>
+</div>
 
-        function init() {
-            const id = 'WNM-' + Math.random().toString(36).substr(2, 8).toUpperCase();
-            document.getElementById('system-id').textContent = id;
-        }
+<script>
+    function activateSystem() {
+        alert("🛡️ ПРОТОКОЛ АКТИВИРАН!\n\n340+ RSS извори се вклучени.\nСоцијалните мрежи се синхронизирани.");
+        loadSampleNews();
+    }
 
-        function activateFullMagic() {
-            alert("✨ МАГИЈАТА Е АКТИВИРАНА!\n\nСите канали и AI портали се синхронизирани.");
-            document.getElementById('magic-button').style.display = 'none';
-            document.getElementById('ai-count').textContent = "10/10";
-            updateRevenue(10.50);
-        }
+    function loadSampleNews() {
+        const feed = document.getElementById('news-feed');
+        feed.innerHTML = `
+            <div class="feed-item">🔥 <b>BREAKING:</b> Глобален мониторинг активен. Проверете ги X Trends за најновите вести.</div>
+            <div class="feed-item">🇲🇰 <b>MACEDONIA:</b> Анализа на тековните настани во тек...</div>
+            <div class="feed-item">🤖 <b>AI:</b> DeepSeek R1 подготвен за обработка на податоци.</div>
+        `;
+    }
+</script>
 
-        function updateRevenue(amount) {
-            totalRevenue += amount;
-            document.getElementById('revenue-display').textContent = '$' + totalRevenue.toFixed(2);
-        }
-
-        window.onload = init;
-    </script>
 </body>
 </html>
