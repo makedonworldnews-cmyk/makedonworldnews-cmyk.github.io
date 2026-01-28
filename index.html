@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>MAKEDON WORLD NEWS | SUPREME MASTERPIECE 1312</title>
+    <title>MAKEDON WORLD NEWS | GLOBAL TERMINAL 1312</title>
     
     <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&family=Cinzel:wght@700&family=Roboto:wght@300;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
@@ -12,59 +12,54 @@
         :root { --gold: #c5a059; --bg: #1e1e1e; --card: #252525; --text: #ffffff; }
         body { font-family: 'Roboto', sans-serif; background: var(--bg); color: var(--text); margin: 0; overflow-x: hidden; }
 
-        /* HEADER & HERO IMAGE (ЗГОЛЕМЕНА) */
+        /* GOOGLE TRANSLATE FIX */
+        #google_translate_element { padding: 10px; background: #000; text-align: center; border-bottom: 1px solid var(--gold); }
+
         header { 
             background: linear-gradient(180deg, #2a2a2a 0%, #1e1e1e 100%);
             border-bottom: 5px solid var(--gold); padding: 50px 20px; text-align: center;
         }
         .hero-img { 
-            width: 250px; /* Уште поголема слика за да одговара на насловот */
-            border: 4px solid var(--gold); border-radius: 15px; 
+            width: 250px; border: 4px solid var(--gold); border-radius: 15px; 
             margin-bottom: 25px; box-shadow: 0 0 30px rgba(197, 160, 89, 0.4);
         }
         h1 { font-family: 'Cinzel'; font-size: 3.5rem; letter-spacing: 8px; color: var(--gold); margin: 0; text-shadow: 3px 3px 15px #000; }
 
-        /* КАЈРОН (TICKER) */
         .ticker-wrap { background: #000; border-bottom: 2px solid var(--gold); overflow: hidden; white-space: nowrap; padding: 12px 0; }
         .ticker-move { display: inline-block; animation: ticker 60s linear infinite; font-family: 'Orbitron'; color: var(--gold); font-size: 1rem; }
         @keyframes ticker { 0% { transform: translateX(100%); } 100% { transform: translateX(-100%); } }
 
-        /* ГЛОБАЛНА НАВИГАЦИЈА (СИТЕ ЗЕМЈИ) */
         .nav-scroller { background: #222; border-bottom: 1px solid var(--gold); display: flex; overflow-x: auto; padding: 15px; gap: 12px; position: sticky; top: 0; z-index: 1000; }
         .sector-btn { background: #333; border: 1px solid var(--gold); color: var(--gold); padding: 12px 25px; font-family: 'Orbitron'; cursor: pointer; transition: 0.3s; white-space: nowrap; font-weight: bold; }
         .sector-btn:hover, .sector-btn.active { background: var(--gold); color: #000; box-shadow: 0 0 15px var(--gold); }
 
         .container { display: grid; grid-template-columns: 300px 1fr 320px; gap: 25px; padding: 25px; }
 
-        /* СТРАНИЧНИ СЕКЦИИ */
         .sidebar { background: #252525; padding: 25px; border-radius: 12px; border: 1px solid #3d3d3d; height: fit-content; }
         .section-title { color: var(--gold); font-family: 'Orbitron'; font-size: 1rem; border-bottom: 2px solid var(--gold); margin: 25px 0 15px 0; padding-bottom: 8px; letter-spacing: 3px; }
         .side-btn { display: block; width: 100%; text-align: left; background: none; border: none; padding: 12px 0; color: #ddd; font-size: 1rem; cursor: pointer; transition: 0.2s; border-bottom: 1px solid #333; font-family: 'Roboto'; }
         .side-btn:hover { color: var(--gold); padding-left: 10px; }
 
-        /* ВЕСТИ ГРИД */
         .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(350px, 1fr)); gap: 30px; }
         .card { background: var(--card); border-radius: 10px; overflow: hidden; border-bottom: 5px solid var(--gold); position: relative; transition: 0.4s; }
         .card:hover { transform: translateY(-10px); }
         .card img { width: 100%; height: 220px; object-fit: cover; }
         .source-tag { position: absolute; top: 15px; left: 15px; background: rgba(0,0,0,0.85); color: var(--gold); padding: 5px 12px; font-family: 'Orbitron'; font-size: 0.7rem; border: 1px solid var(--gold); z-index: 10; font-weight: bold; }
 
-        .card-body { padding: 20px; }
-        .card-title { font-weight: bold; font-size: 1.2rem; line-height: 1.4; margin-bottom: 15px; font-family: 'Cinzel'; color: #fff; }
-
-        /* СОЦИЈАЛНИ МРЕЖИ */
         .social-icons { display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; font-size: 2.2rem; }
         .social-icons a { color: var(--gold); transition: 0.3s; text-align: center; }
         .social-icons a:hover { color: #fff; transform: scale(1.2); }
 
-        /* ПЛАЌАЊЕ */
-        .pay-grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px; font-size: 2.5rem; color: #eee; margin-top: 15px; }
+        /* ПЛАЌАЊЕ АКТИВИРАНО */
+        .pay-btn { display: flex; align-items: center; justify-content: center; gap: 10px; width: 100%; padding: 15px; margin-top: 10px; background: #333; border: 1px solid var(--gold); color: var(--gold); font-family: 'Orbitron'; cursor: pointer; transition: 0.3s; text-decoration: none; }
+        .pay-btn:hover { background: var(--gold); color: #000; }
 
-        footer { background: #111; border-top: 5px solid var(--gold); padding: 50px; text-align: center; font-family: 'Orbitron'; color: var(--gold); letter-spacing: 2px; }
-        #loader { text-align: center; padding: 50px; color: var(--gold); font-family: 'Orbitron'; font-size: 1.5rem; }
+        footer { background: #111; border-top: 5px solid var(--gold); padding: 50px; text-align: center; font-family: 'Orbitron'; color: var(--gold); }
     </style>
 </head>
 <body>
+
+<div id="google_translate_element"></div>
 
 <header>
     <img src="https://raw.githubusercontent.com/makedonworldnews-cmyk/makedonworldnews-cmyk.github.io/main/hero.jpg" class="hero-img">
@@ -72,20 +67,18 @@
 </header>
 
 <div class="ticker-wrap">
-    <div id="ticker" class="ticker-move">+++ ИНИЦИЈАЛИЗИРАЊЕ НА МОТОРОТ 1312... СИТЕ СИСТЕМИ СЕ ОНЛАЈН... ГЛОБАЛНО ПРЕЗЕМАЊЕ ВЕСТИ... +++</div>
+    <div id="ticker" class="ticker-move">+++ ВЧИТУВАЊЕ ВЕСТИ ОД 1312 ИЗВОРИ... СИСТЕМОТ Е ОНЛАЈН... ГЛОБАЛЕН ПРЕВОД АКТИВИРАН... +++</div>
 </div>
 
 <div class="nav-scroller">
-    <button class="sector-btn" onclick="runEngine('Macedonia', this)">МАКЕДОНИЈА</button>
+    <button class="sector-btn active" onclick="runEngine('Macedonia', this)">МАКЕДОНИЈА</button>
     <button class="sector-btn" onclick="runEngine('Balkans', this)">БАЛКАН</button>
     <button class="sector-btn" onclick="runEngine('Europe', this)">ЕВРОПА</button>
     <button class="sector-btn" onclick="runEngine('Africa', this)">АФРИКА</button>
     <button class="sector-btn" onclick="runEngine('Asia', this)">АЗИЈА</button>
-    <button class="sector-btn" onclick="runEngine('USA', this)">СЕВЕРНА АМЕРИКА</button>
-    <button class="sector-btn" onclick="runEngine('Central America', this)">ЦЕНТРАЛНА АМЕРИКА</button>
+    <button class="sector-btn" onclick="runEngine('North America', this)">СЕВЕРНА АМЕРИКА</button>
     <button class="sector-btn" onclick="runEngine('South America', this)">ЈУЖНА АМЕРИКА</button>
     <button class="sector-btn" onclick="runEngine('Australia', this)">АВСТРАЛИЈА</button>
-    <button class="sector-btn" onclick="runEngine('Oceania', this)">ОКЕАНИ</button>
     <button class="sector-btn" onclick="runEngine('Antarctica', this)">АНТАРКТИК</button>
 </div>
 
@@ -96,7 +89,7 @@
         <button class="side-btn" onclick="runEngine('Economy', this)">● ЕКОНОМИЈА</button>
         <button class="side-btn" onclick="runEngine('Culture', this)">● КУЛТУРА</button>
         <button class="side-btn" onclick="runEngine('Sport', this)">● СПОРТ</button>
-        <button class="side-btn" onclick="runEngine('Science', this)">● НАУКА</button>
+        <button class="side-btn" onclick="runEngine('Technology', this)">● ТЕХНОЛОГИЈА</button>
 
         <div class="section-title">AI АСИСТЕНТИ</div>
         <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px;">
@@ -104,13 +97,10 @@
             <a href="https://www.perplexity.ai" target="_blank" class="side-btn">Perplexity</a>
             <a href="https://gemini.google.com" target="_blank" class="side-btn">Gemini</a>
             <a href="https://chat.openai.com" target="_blank" class="side-btn">ChatGPT</a>
-            <a href="https://claude.ai" target="_blank" class="side-btn">Claude</a>
-            <a href="https://grok.com" target="_blank" class="side-btn">Grok</a>
         </div>
     </aside>
 
     <main>
-        <div id="loader" style="display:none;"><i class="fas fa-satellite fa-spin"></i> СИСТЕМСКО СКЕНИРАЊЕ...</div>
         <div id="news-grid" class="grid"></div>
     </main>
 
@@ -124,53 +114,50 @@
             <a href="https://youtube.com/@makedonworldnews?si=4VCLKHEMfxajUB9_" target="_blank"><i class="fab fa-youtube"></i></a>
         </div>
 
-        <div class="section-title">ПЛАЌАЊА</div>
-        <div class="pay-grid">
-            <i class="fab fa-cc-paypal" style="color:#003087"></i>
-            <i class="fab fa-cc-visa" style="color:#1a1f71"></i>
-            <i class="fab fa-cc-mastercard" style="color:#eb001b"></i>
-            <i class="fab fa-stripe" style="color:#6772e5"></i>
+        <div class="section-title">ДОНАЦИИ & ПЛАЌАЊЕ</div>
+        <a href="https://www.paypal.com" target="_blank" class="pay-btn"><i class="fab fa-cc-paypal"></i> PAYPAL</a>
+        <a href="https://www.stripe.com" target="_blank" class="pay-btn"><i class="fab fa-cc-stripe"></i> STRIPE</a>
+        <div style="display: flex; gap: 10px; margin-top: 10px; justify-content: center; font-size: 2rem; opacity: 0.7;">
+            <i class="fab fa-cc-visa"></i> <i class="fab fa-cc-mastercard"></i>
         </div>
 
         <div class="section-title">КОНТАКТ</div>
-        <div style="font-weight:bold; color:var(--gold); word-break:break-all;">makedonworldnews@gmail.com</div>
+        <div style="font-weight:bold; color:var(--gold); font-size: 0.8rem;">makedonworldnews@gmail.com</div>
     </aside>
 </div>
 
 <footer>
-    <div>MAKEDON WORLD NEWS | GLOBAL AGGREGATOR 2026</div>
-    <div style="font-size: 0.8rem; margin-top: 15px; opacity: 0.7;">1312 RSS SOURCES CONNECTED // REFRESH RATE: 4S</div>
+    <div>MAKEDON WORLD NEWS | 2026</div>
 </footer>
+
+<script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'mk'}, 'google_translate_element');
+}
+</script>
+<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
 
 <script>
     const PROXY = "https://api.allorigins.win/raw?url=";
-    let currentTopic = "Macedonia";
+    let currentQ = "Macedonia";
 
-    async function runEngine(query, element) {
-        currentTopic = query;
+    async function runEngine(q, el) {
+        currentQ = q;
         const grid = document.getElementById('news-grid');
-        const loader = document.getElementById('loader');
-        const ticker = document.getElementById('ticker');
-
-        if(element) {
+        if(el) {
             document.querySelectorAll('.sector-btn, .side-btn').forEach(b => b.classList.remove('active'));
-            element.classList.add('active');
+            el.classList.add('active');
         }
 
-        loader.style.display = 'block';
-        
-        // Google RSS Feed Logic
-        const rssUrl = `https://news.google.com/rss/search?q=${encodeURIComponent(query)}&hl=mk&gl=MK&ceid=MK:mk`;
+        const rssUrl = `https://news.google.com/rss/search?q=${encodeURIComponent(q)}&hl=en-US&gl=US&ceid=US:en`;
         
         try {
-            const res = await fetch(PROXY + encodeURIComponent(rssUrl));
+            const res = await fetch(PROXY + encodeURIComponent(rssUrl + "&nocache=" + Date.now()));
             const data = await res.text();
             const xml = new DOMParser().parseFromString(data, "text/xml");
             const items = Array.from(xml.querySelectorAll("item")).slice(0, 15);
 
-            let tText = "+++ НАЈНОВО: ";
             grid.innerHTML = "";
-
             items.forEach(item => {
                 const rawTitle = item.querySelector("title").textContent;
                 const parts = rawTitle.split(" - ");
@@ -179,31 +166,22 @@
                 const link = item.querySelector("link").textContent;
                 const img = `https://picsum.photos/seed/${encodeURIComponent(title)}/600/400`;
 
-                tText += title + " | ";
-
                 grid.innerHTML += `
                     <div class="card">
                         <div class="source-tag">${source}</div>
                         <img src="${img}">
                         <div class="card-body">
-                            <div class="card-title">${title}</div>
-                            <a href="${link}" target="_blank" style="color:var(--gold); font-family:Orbitron; text-decoration:none; font-weight:bold; font-size:0.8rem;">ПРОЧИТАЈ ЦЕЛОСНО →</a>
+                            <div class="card-title" style="font-family:'Cinzel'; font-size:1rem; font-weight:bold;">${title}</div>
+                            <a href="${link}" target="_blank" style="color:var(--gold); font-family:Orbitron; text-decoration:none; font-size:0.8rem;">ВЛЕЗИ ВО ИЗВОРОТ →</a>
                         </div>
                     </div>
                 `;
             });
-            ticker.innerText = tText;
-        } catch(e) { console.log("Engine failure"); }
-        finally { loader.style.display = 'none'; }
+        } catch(e) { console.log("RSS Update Error"); }
     }
 
-    // РСС АПДЕЈТ НА 4 СЕКУНДИ
-    setInterval(() => {
-        runEngine(currentTopic, null);
-    }, 4000);
-
+    setInterval(() => runEngine(currentQ, null), 4000);
     window.onload = () => runEngine('Macedonia', null);
 </script>
-
 </body>
 </html>
