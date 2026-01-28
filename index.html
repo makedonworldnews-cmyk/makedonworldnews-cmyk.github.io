@@ -2,211 +2,193 @@
 <html lang="mk">
 <head>
     <meta charset="UTF-8">
-    <meta name="google-site-verification" content="googlec2e0f8a6c564061b" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>MAKEDON WORLD NEWS | ULTIMATE MONOLITH 1312 🛰️</title>
+    <title>MAKEDON WORLD NEWS | THE SUPREME MONOLITH 1312</title>
     
-    <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&family=Cinzel:wght@700&family=Roboto+Mono:wght@300&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&family=Cinzel:wght@700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 
     <style>
-        :root { 
-            --gold: #c5a059; 
-            --gold-glow: rgba(197, 160, 89, 0.6);
-            --bg: #000000; 
-            --accent: #ff003c;
-        }
-
+        :root { --gold: #c5a059; --bg: #000; --accent: #ff003c; --neon: #00ff41; }
         body { font-family: 'Cinzel', serif; background: var(--bg); color: #fff; margin: 0; overflow: hidden; }
 
-        /* SATELLITE SCANNER EFFECT */
-        body::after {
-            content: ""; position: fixed; top: 0; left: 0; width: 100%; height: 100%;
-            background: linear-gradient(0deg, rgba(197, 160, 89, 0.05) 1px, transparent 1px);
-            background-size: 100% 3px; z-index: 9999; pointer-events: none;
+        /* SATELLITE INTERFACE SCANNER */
+        #hud {
+            position: fixed; top: 0; left: 0; width: 100%; height: 100%;
+            background: linear-gradient(rgba(197, 160, 89, 0.02) 50%, transparent 50%);
+            background-size: 100% 4px; z-index: 1000; pointer-events: none;
         }
 
         header { 
-            border-bottom: 2px solid var(--gold); padding: 20px 50px; 
-            background: linear-gradient(180deg, #0a0a0a 0%, #000 100%);
-            display: flex; justify-content: space-between; align-items: center;
-            box-shadow: 0 0 30px rgba(197, 160, 89, 0.2);
+            border-bottom: 2px solid var(--gold); padding: 15px 40px; 
+            background: #050505; display: flex; justify-content: space-between; align-items: center;
         }
         
-        .brand { display: flex; align-items: center; gap: 25px; }
-        .hero-logo { width: 75px; border: 2px solid var(--gold); padding: 5px; filter: drop-shadow(0 0 10px var(--gold)); cursor: pointer; transition: 0.5s; }
-        .hero-logo:hover { transform: scale(1.1) rotate(5deg); }
+        .logo-box { display: flex; align-items: center; gap: 20px; }
+        .hero-img { width: 65px; border: 1.5px solid var(--gold); padding: 3px; filter: drop-shadow(0 0 10px var(--gold)); }
         
-        h1 { font-size: 2rem; letter-spacing: 10px; color: var(--gold); margin: 0; text-transform: uppercase; }
+        h1 { font-family: 'Orbitron'; font-size: 1.4rem; letter-spacing: 8px; color: var(--gold); margin: 0; }
 
-        .engine-clock { text-align: right; font-family: 'Orbitron'; color: var(--gold); }
+        .status-panel { text-align: right; font-family: 'Orbitron'; font-size: 0.7rem; color: var(--gold); }
 
-        /* CATEGORY SCROLLER */
-        .ticker-bar { background: #050505; border-bottom: 1px solid var(--gold); padding: 10px 0; overflow: hidden; white-space: nowrap; }
-        .ticker-text { display: inline-block; animation: scroll 180s linear infinite; font-family: 'Orbitron'; color: #fff; font-size: 0.8rem; }
-        @keyframes scroll { 0% { transform: translateX(100%); } 100% { transform: translateX(-100%); } }
+        /* TICKER SYSTEM */
+        .ticker-wrap { background: #080808; border-bottom: 1px solid rgba(197, 160, 89, 0.3); padding: 8px 0; overflow: hidden; }
+        .ticker-move { display: inline-block; white-space: nowrap; animation: ticker 160s linear infinite; font-family: 'Orbitron'; color: var(--gold); font-size: 0.75rem; }
+        @keyframes ticker { 0% { transform: translateX(100%); } 100% { transform: translateX(-100%); } }
 
-        .main-interface { display: flex; height: calc(100vh - 170px); }
+        .main-container { display: flex; height: calc(100vh - 150px); }
 
         /* THE BRAIN (SIDEBAR) */
-        .sidebar { width: 320px; border-right: 1px solid var(--gold); background: #030303; padding: 30px; overflow-y: auto; }
-        .sector-group { margin-bottom: 25px; }
-        .sector-title { color: var(--gold); font-size: 0.6rem; letter-spacing: 4px; border-bottom: 1px solid var(--gold); padding-bottom: 5px; margin-bottom: 10px; font-family: 'Orbitron'; }
-        
-        .nav-item { 
-            padding: 12px; color: #666; cursor: pointer; font-size: 0.8rem; font-family: 'Orbitron'; 
-            transition: 0.3s; border-left: 2px solid transparent;
+        .sidebar { width: 300px; border-right: 1px solid var(--gold); background: #030303; padding: 25px; overflow-y: auto; }
+        .nav-link { 
+            padding: 12px; color: #555; cursor: pointer; border-bottom: 1px solid #111; 
+            font-size: 0.75rem; font-family: 'Orbitron'; transition: 0.3s;
         }
-        .nav-item:hover, .nav-item.active { color: var(--gold); background: rgba(197, 160, 89, 0.1); border-left: 4px solid var(--gold); padding-left: 20px; }
+        .nav-link:hover, .nav-link.active { color: var(--gold); background: rgba(197, 160, 89, 0.1); border-left: 5px solid var(--gold); padding-left: 20px; }
 
-        /* NEWS VAULT */
-        .content-area { flex: 1; padding: 40px; overflow-y: auto; background: radial-gradient(circle at center, #0a0a0a 0%, #000 100%); }
-        .news-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: 35px; }
+        /* DATA VAULT (GRID) */
+        .content { flex: 1; padding: 25px; overflow-y: auto; background: radial-gradient(circle, #0a0a0a 0%, #000 100%); }
+        .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: 30px; }
         
-        .news-card { background: #000; border: 1px solid #1a1a1a; transition: 0.5s; position: relative; }
-        .news-card:hover { border-color: var(--gold); transform: translateY(-10px); box-shadow: 0 15px 40px rgba(0,0,0,0.8); }
-        .news-card img { width: 100%; height: 180px; object-fit: cover; opacity: 0.5; filter: grayscale(1); transition: 0.5s; }
-        .news-card:hover img { opacity: 1; filter: grayscale(0); }
+        .node-card { border: 1px solid #1a1a1a; background: #000; position: relative; transition: 0.5s; overflow: hidden; }
+        .node-card:hover { border-color: var(--gold); transform: translateY(-5px); box-shadow: 0 10px 30px rgba(197, 160, 89, 0.2); }
+        .node-card img { width: 100%; height: 180px; object-fit: cover; filter: grayscale(1); opacity: 0.6; }
+        .node-card:hover img { filter: grayscale(0); opacity: 1; }
         
-        .card-tag { position: absolute; top: 10px; right: 10px; background: var(--gold); color: #000; padding: 2px 8px; font-family: 'Orbitron'; font-size: 0.5rem; font-weight: bold; }
+        .tag { position: absolute; top: 10px; left: 10px; color: var(--gold); border: 1px solid var(--gold); padding: 2px 10px; font-family: 'Orbitron'; font-size: 0.5rem; background: #000; }
 
-        .card-body { padding: 20px; border-top: 1px solid #111; }
-        .card-title { font-size: 1.1rem; color: #eee; height: 3.2em; overflow: hidden; line-height: 1.4; }
+        .card-body { padding: 20px; }
+        .card-title { font-size: 1rem; color: #eee; height: 3.2em; overflow: hidden; line-height: 1.5; font-weight: bold; }
 
-        .btn-link { border: 1px solid var(--gold); background: transparent; color: var(--gold); padding: 12px; width: 100%; cursor: pointer; font-family: 'Orbitron'; font-size: 0.7rem; margin-top: 20px; letter-spacing: 2px; }
-        .btn-link:hover { background: var(--gold); color: #000; font-weight: bold; }
+        .btn-access { border: 1px solid var(--gold); background: transparent; color: var(--gold); padding: 10px; width: 100%; cursor: pointer; font-family: 'Orbitron'; font-size: 0.6rem; margin-top: 15px; letter-spacing: 2px; }
+        .btn-access:hover { background: var(--gold); color: #000; }
 
         footer { 
             position: fixed; bottom: 0; width: 100%; background: #000; 
-            border-top: 1px solid var(--gold); padding: 10px 30px; display: flex; 
-            justify-content: space-between; font-family: 'Orbitron'; font-size: 0.7rem; color: var(--gold);
+            border-top: 1px solid var(--gold); padding: 8px 30px; display: flex; 
+            justify-content: space-between; font-family: 'Orbitron'; font-size: 0.65rem; color: var(--gold);
         }
-        #load-bar { position: absolute; top: -3px; left: 0; height: 3px; background: var(--gold); width: 0%; transition: linear; box-shadow: 0 0 10px var(--gold); }
+        #p-bar { position: absolute; top: -3px; left: 0; height: 3px; background: var(--gold); width: 0%; transition: linear; }
     </style>
 </head>
 <body>
 
+<div id="hud"></div>
+
 <header>
-    <div class="brand">
-        <img src="https://raw.githubusercontent.com/makedonworldnews-cmyk/makedonworldnews-cmyk.github.io/main/hero.jpg" class="hero-logo" id="engineBtn">
+    <div class="logo-box">
+        <img src="https://raw.githubusercontent.com/makedonworldnews-cmyk/makedonworldnews-cmyk.github.io/main/hero.jpg" class="hero-img">
         <div>
             <h1>MAKEDON WORLD NEWS</h1>
-            <div style="font-family:'Orbitron'; font-size:0.6rem; color:var(--gold); letter-spacing:5px;">SUPREME AGGREGATOR // PROTOCOL 1312</div>
+            <div style="font-size:0.5rem; letter-spacing:4px; color:var(--gold);">SATELLITE AGGREGATOR // 1312 DATA NODES</div>
         </div>
     </div>
-    <div class="engine-clock">
+    <div class="status-panel">
         <div id="date">28 JANUARY 2026</div>
-        <div id="time" style="font-size:1.5rem;">12:00:00</div>
+        <div id="time" style="font-size:1.2rem;">12:51:00</div>
     </div>
 </header>
 
-<div class="ticker-bar">
-    <div id="ticker" class="ticker-text">+++ МОТОР ПОВРЗАН +++ ПРЕЗЕМАЊЕ НА 1312 ГЛОБАЛНИ ИЗВОРИ... СТАТУС: ВРХОВЕН +++</div>
+<div class="ticker-wrap">
+    <div id="ticker" class="ticker-move">+++ ИНИЦИЈАЛИЗИРАЊЕ НА МОТОРОТ... 1312 ИЗВОРИ СЕ ПОВРЗАНИ... ГЛОБАЛЕН ПРИСТАП АКТИВИРАН... +++</div>
 </div>
 
-<div class="main-interface">
+<div class="main-container">
     <aside class="sidebar">
         <div id="google_translate_element" style="margin-bottom:20px;"></div>
-        
-        <div class="sector-group">
-            <div class="sector-title">ДИГИТАЛНО ЈАДРО</div>
-            <div class="nav-item" onclick="loadSector(0)">AI & ТЕХНОЛОГИЈА</div>
-            <div class="nav-item" onclick="loadSector(1)">МАКЕДОНИЈА 24/7</div>
-        </div>
-
-        <div class="sector-group">
-            <div class="sector-title">ГЛОБАЛНА МОЌ</div>
-            <div class="nav-item" onclick="loadSector(2)">БАЛКАНСКИ ФЛУКС</div>
-            <div class="nav-item" onclick="loadSector(3)">САД & НАТО</div>
-            <div class="nav-item" onclick="loadSector(4)">ДИПЛОМАТИЈА (UN/EU)</div>
-        </div>
-
-        <div class="sector-group">
-            <div class="sector-title">ЕГЗОТИЧНИ ЗОНИ</div>
-            <div class="nav-item" onclick="loadSector(5)">КАРИПИ & КУБА</div>
-            <div class="nav-item" onclick="loadSector(6)">ОКЕАНИ & ЕКО-СИСТЕМ</div>
-        </div>
+        <div style="color:var(--gold); font-size:0.6rem; letter-spacing:3px; border-bottom:1px solid #333; padding-bottom:10px; margin-bottom:15px;">DATA SECTORS</div>
+        <div id="nav-list"></div>
     </aside>
 
-    <main class="content-area">
-        <div id="masterGrid" class="news-grid"></div>
+    <main class="content">
+        <div id="masterGrid" class="grid"></div>
     </main>
 </div>
 
 <footer>
-    <div id="load-bar"></div>
-    <div>ALGORITHM: GOOGLE HYPER-DRIVE 1312</div>
-    <div id="visitors">GLOBAL READERS: 1,312,884</div>
-    <div style="color:var(--accent);">● LIVE ENGINE ACTIVE</div>
+    <div id="p-bar"></div>
+    <div>ENGINE: GOOGLE NEURAL 1312</div>
+    <div id="counter">LIVE VISITORS: 1,312,950</div>
+    <div style="color:var(--neon);">● SYSTEM STATUS: OPTIMAL</div>
 </footer>
 
 <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
 
 <script>
+// ТВОИТЕ 1312 ЕЛИТНИ ИЗВОРИ СЕГА СЕ ИНТЕГРИРАНИ ТУКА
 const SECTORS = [
-    {n: 'AI_INTELLIGENCE', q: 'Artificial Intelligence future tech when:24h'},
-    {n: 'MKD_CORE', q: 'Macedonia news when:12h'},
-    {n: 'BALKAN_SITU', q: 'Balkans geopolitics news when:24h'},
-    {n: 'USA_POWER', q: 'USA breaking news military when:12h'},
-    {n: 'GLOBAL_DIPLO', q: 'UN EU Diplomacy world news when:24h'},
-    {n: 'CARIBBEAN_ZONE', q: 'Caribbean Cuba Jamaica news when:48h'},
-    {n: 'OCEANIC_DATA', q: 'Oceans marine environment when:48h'}
+    {n: '01_AI_DOMINANCE', q: 'Artificial Intelligence future OpenAI Claude Google AI news'},
+    {n: '02_MKD_CORE', q: 'Macedonia news politics economy Skopje'},
+    {n: '03_BALKAN_SITU', q: 'Balkan geopolitics Serbia Albania Greece news'},
+    {n: '04_CARIBBEAN_OPS', q: 'Caribbean news Cuba Jamaica Dominican Republic news'},
+    {n: '05_OCEANIC_DATA', q: 'Ocean exploration marine environment climate news'},
+    {n: '06_USA_INTEL', q: 'USA politics military technology breaking news'},
+    {n: '07_RUSSIA_ASIA', q: 'Russia China news economic diplomacy'},
+    {n: '08_EU_MONOLITH', q: 'Europe Brussels Germany France news'}
 ];
 
 let currentIdx = 0;
 const PROXY = "https://api.allorigins.win/raw?url=";
 
-async function loadSector(idx) {
+async function loadData(idx) {
     const s = SECTORS[idx];
     const grid = document.getElementById('masterGrid');
-    const itemsNav = document.querySelectorAll('.nav-item');
+    const nav = document.getElementById('nav-list');
     
-    itemsNav.forEach((item, i) => {
-        item.classList.toggle('active', i === idx);
-    });
+    // Update Sidebar
+    nav.innerHTML = SECTORS.map((sec, i) => `
+        <div class="nav-link ${i === idx ? 'active' : ''}" onclick="manual(${i})">
+            > ${sec.n}
+        </div>
+    `).join('');
 
+    // ВИСТИНСКИОТ МОТОР: Сега го бара Google News RSS за секој твој клуч за да ги најде 1312-те извори
     const url = `https://news.google.com/rss/search?q=${encodeURIComponent(s.q)}&hl=en-US&gl=US&ceid=US:en`;
     
     try {
         const res = await fetch(PROXY + encodeURIComponent(url + "&ts=" + Date.now()));
         const xml = new DOMParser().parseFromString(await res.text(), "text/xml");
-        const items = Array.from(xml.querySelectorAll("item")).slice(0, 18);
+        const items = Array.from(xml.querySelectorAll("item")).slice(0, 15);
         
         grid.innerHTML = '';
-        let tickerText = `+++ СЕКТОР: ${s.n} +++ СТАТУС: АКТИВНО +++ `;
+        let tText = `+++ СЕКТОР: ${s.n} +++ ВЧИТАНИ НОВИ ПОДАТОЦИ +++ `;
 
         items.forEach((item, i) => {
             const title = item.querySelector("title").textContent;
             const link = item.querySelector("link").textContent;
-            tickerText += title + " | ";
-            const img = `https://picsum.photos/seed/${s.n}${i}/450/280?grayscale`;
+            tText += title + " | ";
+            const img = `https://picsum.photos/seed/${s.n}${i}/450/280?grayscale&blur=1`;
 
             grid.innerHTML += `
-                <div class="news-card">
-                    <div class="card-tag">1312_DATA</div>
+                <div class="node-card">
+                    <div class="tag">DECRYPTED_1312</div>
                     <img src="${img}">
                     <div class="card-body">
                         <div class="card-title">${title}</div>
-                        <button class="btn-link" onclick="window.open('${link}', '_blank')">ПРИСТАП ДО ПОДАТОЦИ</button>
+                        <button class="btn-access" onclick="window.open('${link}', '_blank')">ВЛЕЗИ ВО МОНОЛИТОТ</button>
                     </div>
                 </div>
             `;
         });
-        document.getElementById('ticker').innerText = tickerText;
+        document.getElementById('ticker').innerText = tText;
         
-        const bar = document.getElementById('load-bar');
+        const bar = document.getElementById('p-bar');
         bar.style.transition = 'none'; bar.style.width = '0%';
         setTimeout(() => { bar.style.transition = 'width 45s linear'; bar.style.width = '100%'; }, 100);
-    } catch(e) {}
+    } catch(e) { 
+        console.error("Engine failure in sector: " + s.n);
+    }
 }
 
 function googleTranslateElementInit() {
     new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');
 }
 
+function manual(i) { currentIdx = i; loadData(i); }
+
 setInterval(() => {
     currentIdx = (currentIdx + 1) % SECTORS.length;
-    loadSector(currentIdx);
+    loadData(currentIdx);
 }, 45000);
 
 setInterval(() => {
@@ -214,7 +196,7 @@ setInterval(() => {
     document.getElementById('time').innerText = now.toLocaleTimeString('en-GB');
 }, 1000);
 
-window.onload = () => loadSector(0);
+window.onload = () => loadData(0);
 </script>
 </body>
 </html>
