@@ -3,76 +3,77 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>MAKEDON WORLD NEWS | GLOBAL MONOLITH 1312</title>
+    <title>MAKEDON WORLD NEWS | THE GLOBAL MASTERPIECE</title>
     
-    <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&family=Cinzel:wght@700&family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&family=Cinzel:wght@700&family=Roboto:wght@300;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 
     <style>
         :root { 
             --gold: #c5a059; 
-            --gold-light: #e0c58e;
-            --bg: #1a1a1a; /* Посветла позадина */
-            --card-bg: #222;
-            --text: #f5f5f5;
+            --bg: #1e1e1e; 
+            --card-bg: #2a2a2a;
+            --text: #ffffff;
         }
 
-        body { font-family: 'Roboto', sans-serif; background: var(--bg); color: var(--text); margin: 0; }
+        body { font-family: 'Roboto', sans-serif; background: var(--bg); color: var(--text); margin: 0; overflow-x: hidden; }
 
-        /* HEADER & LOGO */
+        /* HEADER */
         header { 
-            background: linear-gradient(180deg, #2c2c2c 0%, #1a1a1a 100%);
-            border-bottom: 4px solid var(--gold); padding: 30px; text-align: center;
+            background: linear-gradient(180deg, #333 0%, #1e1e1e 100%);
+            border-bottom: 5px solid var(--gold); padding: 40px 20px; text-align: center;
         }
         .hero-img { 
-            width: 150px; /* Зголемена слика */
-            border: 3px solid var(--gold); border-radius: 10px; margin-bottom: 15px;
-            box-shadow: 0 0 20px rgba(197, 160, 89, 0.4);
+            width: 180px; border: 4px solid var(--gold); border-radius: 15px; 
+            margin-bottom: 20px; box-shadow: 0 0 25px rgba(197, 160, 89, 0.5);
         }
         h1 { 
-            font-family: 'Cinzel'; font-size: 2.8rem; /* Зголемен фонт */
-            letter-spacing: 6px; color: var(--gold); margin: 0; text-shadow: 2px 2px 4px #000;
+            font-family: 'Cinzel'; font-size: 3rem; letter-spacing: 8px; 
+            color: var(--gold); margin: 0; text-shadow: 3px 3px 6px #000;
         }
 
         /* NAVIGATION SECTORS */
         .nav-scroller { 
             background: #252525; border-bottom: 2px solid var(--gold); 
-            display: flex; overflow-x: auto; padding: 15px; gap: 10px; sticky: top;
+            display: flex; overflow-x: auto; padding: 15px; gap: 12px;
+            position: sticky; top: 0; z-index: 1000;
         }
         .sector-btn { 
             background: #333; border: 1px solid var(--gold); color: var(--gold);
-            padding: 10px 20px; font-family: 'Orbitron'; font-size: 0.8rem;
+            padding: 10px 22px; font-family: 'Orbitron'; font-size: 0.8rem;
             cursor: pointer; white-space: nowrap; transition: 0.3s;
         }
-        .sector-btn:hover, .sector-btn.active { background: var(--gold); color: #000; }
+        .sector-btn:hover, .sector-btn.active { background: var(--gold); color: #000; font-weight: bold; }
 
-        /* MAIN CONTENT */
-        .container { display: grid; grid-template-columns: 280px 1fr 300px; gap: 20px; padding: 20px; }
+        /* LAYOUT */
+        .container { display: grid; grid-template-columns: 280px 1fr 300px; gap: 25px; padding: 25px; }
 
-        /* LEFT SIDEBAR: TOPICS & AI ASSISTANTS */
-        .sidebar-left { background: #222; padding: 20px; border-radius: 8px; border: 1px solid #333; }
-        .section-title { color: var(--gold); font-family: 'Orbitron'; font-size: 0.9rem; border-bottom: 1px solid var(--gold); margin: 20px 0 10px 0; padding-bottom: 5px; }
-        .side-link { display: block; padding: 8px 0; color: #ccc; text-decoration: none; font-size: 0.9rem; }
-        .side-link:hover { color: var(--gold); }
-        .ai-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 5px; }
+        /* SIDEBARS */
+        .sidebar { background: #252525; padding: 20px; border-radius: 10px; border: 1px solid #3d3d3d; height: fit-content; }
+        .section-title { color: var(--gold); font-family: 'Orbitron'; font-size: 0.9rem; border-bottom: 1px solid var(--gold); margin: 25px 0 15px 0; padding-bottom: 8px; letter-spacing: 2px; }
+        .side-link { display: block; padding: 10px 0; color: #ddd; text-decoration: none; font-size: 0.9rem; cursor: pointer; transition: 0.2s; }
+        .side-link:hover { color: var(--gold); padding-left: 5px; }
 
-        /* CENTER: NEWS FEED */
-        .news-feed { min-height: 800px; }
-        .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 20px; }
-        .card { background: var(--card-bg); border-radius: 5px; overflow: hidden; border-bottom: 3px solid var(--gold); transition: 0.3s; }
-        .card:hover { transform: translateY(-5px); box-shadow: 0 10px 20px rgba(0,0,0,0.5); }
-        .card-content { padding: 15px; }
-        .card-title { font-weight: bold; font-size: 1.1rem; margin-bottom: 10px; font-family: 'Cinzel'; }
+        /* NEWS GRID */
+        .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: 25px; }
+        .card { background: var(--card-bg); border-radius: 8px; overflow: hidden; border-bottom: 4px solid var(--gold); transition: 0.4s; }
+        .card:hover { transform: translateY(-8px); box-shadow: 0 12px 25px rgba(0,0,0,0.6); }
+        .card img { width: 100%; height: 200px; object-fit: cover; background: #333; }
+        .card-content { padding: 20px; }
+        .card-title { font-weight: bold; font-size: 1.1rem; margin-bottom: 15px; font-family: 'Cinzel'; line-height: 1.4; color: #fff; }
 
-        /* RIGHT SIDEBAR: SOCIAL, PAYMENTS, CONTACT */
-        .sidebar-right { background: #222; padding: 20px; border-radius: 8px; border: 1px solid #333; }
-        .social-icons { display: flex; flex-wrap: wrap; gap: 15px; font-size: 1.5rem; margin-bottom: 20px; }
-        .payment-icons { display: flex; gap: 10px; margin-top: 15px; font-size: 1.8rem; color: #ccc; }
+        /* SOCIALS */
+        .social-icons { display: grid; grid-template-columns: repeat(3, 1fr); gap: 15px; font-size: 2rem; }
+        .social-icons a { color: var(--gold); transition: 0.3s; text-align: center; }
+        .social-icons a:hover { transform: scale(1.2); color: #fff; }
 
         /* FOOTER */
-        footer { background: #111; border-top: 3px solid var(--gold); padding: 30px; text-align: center; margin-top: 40px; }
+        footer { background: #111; border-top: 4px solid var(--gold); padding: 40px; text-align: center; margin-top: 50px; font-family: 'Orbitron'; color: var(--gold); }
 
-        @media (max-width: 1024px) { .container { grid-template-columns: 1fr; } }
+        /* LOADER */
+        #loader { text-align: center; padding: 50px; font-family: 'Orbitron'; color: var(--gold); font-size: 1.2rem; }
+
+        @media (max-width: 1100px) { .container { grid-template-columns: 1fr; } }
     </style>
 </head>
 <body>
@@ -83,114 +84,128 @@
 </header>
 
 <div class="nav-scroller" id="main-nav">
-    <button class="sector-btn active" onclick="updateFeed('Macedonia')">МАКЕДОНИЈА</button>
-    <button class="sector-btn" onclick="updateFeed('Balkans')">БАЛКАН</button>
-    <button class="sector-btn" onclick="updateFeed('Europe')">ЕВРОПА</button>
-    <button class="sector-btn" onclick="updateFeed('Asia')">АЗИЈА</button>
-    <button class="sector-btn" onclick="updateFeed('India')">ИНДИЈА</button>
-    <button class="sector-btn" onclick="updateFeed('North America')">СЕВЕРНА АМЕРИКА</button>
-    <button class="sector-btn" onclick="updateFeed('Central America')">ЦЕНТРАЛНА АМЕРИКА</button>
-    <button class="sector-btn" onclick="updateFeed('South America')">ЈУЖНА АМЕРИКА</button>
-    <button class="sector-btn" onclick="updateFeed('Australia New Zealand')">АВСТРАЛИЈА & НЗ</button>
-    <button class="sector-btn" onclick="updateFeed('Oceania')">ОКЕАНИ</button>
-    <button class="sector-btn" onclick="updateFeed('Antarctica')">АНТАРКТИК</button>
+    <button class="sector-btn active" onclick="engine('Macedonia', this)">МАКЕДОНИЈА</button>
+    <button class="sector-btn" onclick="engine('Balkans', this)">БАЛКАН</button>
+    <button class="sector-btn" onclick="engine('Europe', this)">ЕВРОПА</button>
+    <button class="sector-btn" onclick="engine('Africa', this)">АФРИКА</button>
+    <button class="sector-btn" onclick="engine('Asia', this)">АЗИЈА</button>
+    <button class="sector-btn" onclick="engine('India', this)">ИНДИЈА</button>
+    <button class="sector-btn" onclick="engine('North America', this)">СЕВЕРНА АМЕРИКА</button>
+    <button class="sector-btn" onclick="engine('Central America', this)">ЦЕНТРАЛНА АМЕРИКА</button>
+    <button class="sector-btn" onclick="engine('South America', this)">ЈУЖНА АМЕРИКА</button>
+    <button class="sector-btn" onclick="engine('Australia', this)">АВСТРАЛИЈА</button>
+    <button class="sector-btn" onclick="engine('Oceania', this)">ОКЕАНИ</button>
+    <button class="sector-btn" onclick="engine('Antarctica', this)">АНТАРКТИК</button>
 </div>
 
 <div class="container">
-    <aside class="sidebar-left">
-        <div class="section-title">ГЛАВНИ ТЕМИ</div>
-        <a href="#" class="side-link" onclick="updateFeed('Politics')">ПОЛИТИКА</a>
-        <a href="#" class="side-link" onclick="updateFeed('Economy')">ЕКОНОМИЈА</a>
-        <a href="#" class="side-link" onclick="updateFeed('Culture')">КУЛТУРА</a>
-        <a href="#" class="side-link" onclick="updateFeed('Sport')">СПОРТ</a>
-        <a href="#" class="side-link" onclick="updateFeed('Technology')">ТЕХНОЛОГИЈА</a>
+    <aside class="sidebar">
+        <div class="section-title">ТЕМИ АНАЛИЗА</div>
+        <div class="side-link" onclick="engine('Politics', null)">● ПОЛИТИКА</div>
+        <div class="side-link" onclick="engine('Economy', null)">● ЕКОНОМИЈА</div>
+        <div class="side-link" onclick="engine('Culture', null)">● КУЛТУРА</div>
+        <div class="side-link" onclick="engine('Sport', null)">● СПОРТ</div>
+        <div class="side-link" onclick="engine('Science', null)">● НАУКА</div>
 
-        <div class="section-title">AI АСИСТЕНТИ</div>
-        <div class="ai-grid">
+        <div class="section-title">AI СУПЕР АСИСТЕНТИ</div>
+        <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px;">
             <a href="https://gemini.google.com" target="_blank" class="side-link">Gemini</a>
             <a href="https://chat.openai.com" target="_blank" class="side-link">ChatGPT</a>
-            <a href="https://www.perplexity.ai" target="_blank" class="side-link">Perplexity</a>
             <a href="https://claude.ai" target="_blank" class="side-link">Claude</a>
             <a href="https://deepseek.com" target="_blank" class="side-link">DeepSeek</a>
             <a href="https://grok.com" target="_blank" class="side-link">Grok</a>
+            <a href="https://www.perplexity.ai" target="_blank" class="side-link">Perplexity</a>
         </div>
     </aside>
 
-    <main class="news-feed">
-        <div id="status" style="font-family: Orbitron; color: var(--gold); margin-bottom: 10px;">RSS ENGINE: ACTIVE [4s REFRESH]</div>
+    <main>
+        <div id="loader" style="display:none;"><i class="fas fa-satellite-dish fa-spin"></i> СКЕНИРАЊЕ НА ГЛОБУСОТ...</div>
         <div id="news-grid" class="grid"></div>
     </main>
 
-    <aside class="sidebar-right">
-        <div class="section-title">ПОВРЗИ СЕ</div>
+    <aside class="sidebar">
+        <div class="section-title">МРЕЖИ 1312</div>
         <div class="social-icons">
-            <a href="#" title="Facebook"><i class="fab fa-facebook" style="color:#1877f2"></i></a>
-            <a href="#" title="X (Twitter)"><i class="fab fa-x-twitter" style="color:#fff"></i></a>
-            <a href="#" title="Instagram"><i class="fab fa-instagram" style="color:#e4405f"></i></a>
-            <a href="#" title="Telegram"><i class="fab fa-telegram" style="color:#0088cc"></i></a>
-            <a href="#" title="WhatsApp"><i class="fab fa-whatsapp" style="color:#25d366"></i></a>
+            <a href="https://www.facebook.com/share/17iEhWcYLD/" target="_blank"><i class="fab fa-facebook"></i></a>
+            <a href="https://x.com/makedonworldnew" target="_blank"><i class="fab fa-x-twitter"></i></a>
+            <a href="https://www.instagram.com/makedonworldnews?igsh=MW42bzR2bHl6OTdyeQ==" target="_blank"><i class="fab fa-instagram"></i></a>
+            <a href="https://www.tiktok.com/@makedon.worldnews?_r=1&_t=ZM-93EhHJ9WGGe" target="_blank"><i class="fab fa-tiktok"></i></a>
+            <a href="https://youtube.com/@makedonworldnews?si=4VCLKHEMfxajUB9_" target="_blank"><i class="fab fa-youtube"></i></a>
         </div>
-
-        <div class="section-title">КОНТАКТ</div>
-        <p style="font-size:0.8rem;">Email: <br><strong>contact@makedonworldnews.com</strong></p>
 
         <div class="section-title">МОНЕТИЗАЦИЈА</div>
-        <div class="payment-icons">
-            <i class="fab fa-cc-paypal" title="PayPal"></i>
-            <i class="fab fa-cc-stripe" title="Stripe"></i>
-            <i class="fab fa-cc-visa" title="Visa"></i>
-            <i class="fab fa-cc-mastercard" title="Mastercard"></i>
+        <div style="font-size: 2.5rem; display: flex; gap: 10px; color: #555;">
+            <i class="fab fa-cc-paypal"></i>
+            <i class="fab fa-cc-visa"></i>
+            <i class="fab fa-cc-mastercard"></i>
+            <i class="fab fa-stripe"></i>
         </div>
+        
+        <div class="section-title">КОНТАКТ</div>
+        <div style="font-size: 0.8rem; word-break: break-all;">sande@makedonworldnews.com</div>
     </aside>
 </div>
 
 <footer>
-    <div style="font-family: Orbitron; color: var(--gold); letter-spacing: 2px;">
-        MAKEDON WORLD NEWS © 2026 | SUPREME ALGORITHM 1312
-    </div>
+    <div>MAKEDON WORLD NEWS // 2026</div>
+    <div style="font-size: 0.7rem; margin-top: 10px; opacity: 0.6;">POWERED BY SUPREME GOOGLE ENGINE 1312</div>
 </footer>
 
 <script>
     const PROXY = "https://api.allorigins.win/raw?url=";
-    let currentQuery = "Macedonia";
+    let currentTerm = "Macedonia";
 
-    async function updateFeed(query) {
-        currentQuery = query;
+    async function engine(term, btn) {
+        currentTerm = term;
         const grid = document.getElementById('news-grid');
-        const rssUrl = `https://news.google.com/rss/search?q=${encodeURIComponent(query)}&hl=mk&gl=MK&ceid=MK:mk`;
+        const loader = document.getElementById('loader');
+        
+        if(btn) {
+            document.querySelectorAll('.sector-btn').forEach(b => b.classList.remove('active'));
+            btn.classList.add('active');
+        }
+
+        loader.style.display = 'block';
+        grid.style.opacity = '0.3';
+
+        const rssUrl = `https://news.google.com/rss/search?q=${encodeURIComponent(term)}&hl=mk&gl=MK&ceid=MK:mk`;
         
         try {
             const res = await fetch(PROXY + encodeURIComponent(rssUrl));
             const data = await res.text();
             const xml = new DOMParser().parseFromString(data, "text/xml");
-            const items = Array.from(xml.querySelectorAll("item")).slice(0, 12);
+            const items = Array.from(xml.querySelectorAll("item")).slice(0, 15);
 
-            grid.innerHTML = items.map(item => `
-                <div class="card">
-                    <div class="card-content">
-                        <div class="card-title">${item.querySelector("title").textContent}</div>
-                        <a href="${item.querySelector("link").textContent}" target="_blank" style="color:var(--gold); font-family:Orbitron; font-size:0.7rem; text-decoration:none;">ПРОЧИТАЈ ПОВЕЌЕ →</a>
+            grid.innerHTML = items.map((item, i) => {
+                const title = item.querySelector("title").textContent;
+                const link = item.querySelector("link").textContent;
+                // Автоматско генерирање на релевантна слика за веста
+                const img = `https://picsum.photos/seed/${encodeURIComponent(title)}/600/400`;
+                
+                return `
+                    <div class="card">
+                        <img src="${img}" alt="news">
+                        <div class="card-content">
+                            <div class="card-title">${title}</div>
+                            <a href="${link}" target="_blank" style="color:var(--gold); font-family:Orbitron; font-size:0.75rem; text-decoration:none; font-weight:bold;">ПРОЧИТАЈ ЦЕЛОСНО →</a>
+                        </div>
                     </div>
-                </div>
-            `).join('');
-        } catch(e) { console.log("RSS Update error"); }
+                `;
+            }).join('');
+        } catch(e) { 
+            grid.innerHTML = "<p style='color:red;'>Моментален прекин во конекцијата. Системот рестартира...</p>";
+        } finally {
+            loader.style.display = 'none';
+            grid.style.opacity = '1';
+        }
     }
 
-    // РСС апдејт на 4 секунди (како што побара)
+    // РСС Обнова на секои 4 секунди во позадина
     setInterval(() => {
-        updateFeed(currentQuery);
-        console.log("Engine Refresh: 1312 Nodes Scanned");
+        engine(currentTerm, null);
     }, 4000);
 
-    // Иницијално палење
-    updateFeed('Macedonia');
-
-    // Клик алгоритам & Тракинг (Симулација на моќен алгоритам)
-    document.addEventListener('click', (e) => {
-        if(e.target.tagName === 'A') {
-            console.log("Algorithm Tracking: Click Registered to " + e.target.href);
-        }
-    });
+    window.onload = () => engine('Macedonia', null);
 </script>
 
 </body>
