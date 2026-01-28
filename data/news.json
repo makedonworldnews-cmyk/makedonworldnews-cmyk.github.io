@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-28T21:58:01Z",
+  "updatedAt": "2026-01-28T22:58:48Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) Голманот Трубин со гол во 98-та минута ја однесе Бенфика во плеј-офот, а Реал го исфрли од Топ 8",
+          "link": "https://makfax.com.mk/sport/video-golmanot-trubin-so-gol-vo-98-ta-minuta-ja-odnese-benfika-vo-plej-ofot-a-real-go-isfrli-od-top-8/",
+          "published": "Wed, 28 Jan 2026 22:36:12 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) Спектакуларно последно коло во ЛШ",
+          "link": "https://makfax.com.mk/sport/video-spektakularno-posledno-kolo-vo-lsh/",
+          "published": "Wed, 28 Jan 2026 22:17:26 +0000"
         },
         {
           "source": "Makfax",
@@ -29,16 +41,16 @@
           "published": "Wed, 28 Jan 2026 19:09:00 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "СДСМ ќе предложи зголемување на платите на работниците и замрзнување на платите на функционерите",
-          "link": "https://makfax.com.mk/makedonija/%d1%81%d0%b4%d1%81%d0%bc-%d1%9c%d0%b5-%d0%bf%d1%80%d0%b5%d0%b4%d0%bb%d0%be%d0%b6%d0%b8-%d0%b7%d0%b3%d0%be%d0%bb%d0%b5%d0%bc%d1%83%d0%b2%d0%b0%d1%9a%d0%b5-%d0%bd%d0%b0-%d0%bf%d0%bb%d0%b0%d1%82%d0%b8/",
-          "published": "Wed, 28 Jan 2026 19:07:24 +0000"
+          "source": "NetPress",
+          "title": "ЕП ракомет: Хрватска-Германија и Данска-Исланд се полуфиналните двојки",
+          "link": "https://netpress.com.mk/ep-rakomet-hrvatska-germanija-i-danska-island-se-polufinalnite-dvojki/",
+          "published": "Wed, 28 Jan 2026 22:26:37 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Ако Зеленски е навистина подготвен за средба, го каниме во Москва, ќе ја гарантираме неговата безбедност, рече помошникот на Кремљ",
-          "link": "https://makfax.com.mk/svet/%d0%b0%d0%ba%d0%be-%d0%b7%d0%b5%d0%bb%d0%b5%d0%bd%d1%81%d0%ba%d0%b8-%d0%b5-%d0%bd%d0%b0%d0%b2%d0%b8%d1%81%d1%82%d0%b8%d0%bd%d0%b0-%d0%bf%d0%be%d0%b4%d0%b3%d0%be%d1%82%d0%b2%d0%b5%d0%bd-%d0%b7%d0%b0/",
-          "published": "Wed, 28 Jan 2026 18:18:24 +0000"
+          "source": "NetPress",
+          "title": "Членството на Украина во ЕУ е невозможно во блиска иднина, порача Мерц",
+          "link": "https://netpress.com.mk/chlenstvoto-na-ukraina-vo-eu-e-nevozmozhno-vo-bliska-idnina-poracha-mercz/",
+          "published": "Wed, 28 Jan 2026 22:08:17 +0000"
         },
         {
           "source": "NetPress",
@@ -57,18 +69,6 @@
           "title": "ВИДЕО| Италијанската премиерка од хеликоптер го гледаше свлечиштето на Сицилија",
           "link": "https://netpress.com.mk/foto-italijanskata-premierka-od-helikopter-go-gledashe-svlechishteto-na-siczilija/",
           "published": "Wed, 28 Jan 2026 21:12:01 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Кобна Малта – девојче од Полска однесена од брановите",
-          "link": "https://netpress.com.mk/kobna-malta-devojche-od-polska-odnesena-od-branovite/",
-          "published": "Wed, 28 Jan 2026 20:56:46 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "ССМ со протест побара минимална плата од 600 евра и зголемување на сите плати за 6.000 денари",
-          "link": "https://netpress.com.mk/ssm-so-protest-pobara-minimalna-plata-od-600-evra-i-zgolemuvane-na-site-plati-za-6-000-denari/",
-          "published": "Wed, 28 Jan 2026 20:32:41 +0000"
         }
       ]
     },
@@ -101,9 +101,27 @@
         },
         {
           "source": "BBC",
-          "title": "'I don't let bullies win,' says US congresswoman Omar after substance thrown at her",
-          "link": "https://www.bbc.com/news/articles/cn9zpee3llxo?at_medium=RSS&at_campaign=rss",
-          "published": "Wed, 28 Jan 2026 13:01:10 GMT"
+          "title": "Plane crashes in Colombia, killing all 15 on board",
+          "link": "https://www.bbc.com/news/articles/cvgnq54v79xo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 28 Jan 2026 22:48:52 GMT"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Quebec mosque attack anniversary renews call to end anti-Muslim hate",
+          "link": "https://www.aljazeera.com/news/2026/1/28/quebec-mosque-attack-anniversary-renews-call-to-end-anti-muslim-hate?traffic_source=rss",
+          "published": "Wed, 28 Jan 2026 22:35:59 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "What will be the impact of the EU-India trade pact?",
+          "link": "https://www.aljazeera.com/video/inside-story/2026/1/28/what-will-be-the-impact-of-the-eu-india-trade-pact?traffic_source=rss",
+          "published": "Wed, 28 Jan 2026 22:23:41 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Israel’s top court delays Gaza press access ruling amid years-long ban",
+          "link": "https://www.aljazeera.com/news/2026/1/28/israels-top-court-delays-gaza-press-access-ruling-amid-years-long-ban?traffic_source=rss",
+          "published": "Wed, 28 Jan 2026 21:29:40 +0000"
         },
         {
           "source": "Al Jazeera",
@@ -116,24 +134,6 @@
           "title": "Colombian lawmaker among 15 missing in plane disappearance",
           "link": "https://www.aljazeera.com/news/2026/1/28/colombian-lawmaker-among-15-missing-in-plane-disappearance?traffic_source=rss",
           "published": "Wed, 28 Jan 2026 20:51:50 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Trump yanks permitting process from Democrats after California fires",
-          "link": "https://www.aljazeera.com/news/2026/1/28/trump-yanks-permitting-process-from-democrats-after-california-fires?traffic_source=rss",
-          "published": "Wed, 28 Jan 2026 20:22:29 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Iraqi protesters burn photos of Trump amid his threats over al-Maliki",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/1/28/iraqi-protesters-burn-photos-of-trump-amid-his-threats-over-al-maliki?traffic_source=rss",
-          "published": "Wed, 28 Jan 2026 20:12:31 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "How drone warfare has changed in Ukraine",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/1/28/how-drone-warfare-has-changed-in-ukraine?traffic_source=rss",
-          "published": "Wed, 28 Jan 2026 20:04:10 +0000"
         }
       ]
     }
