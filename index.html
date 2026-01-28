@@ -55,7 +55,6 @@
         .social-icons a { color: var(--gold); transition: 0.3s; }
         .social-icons a:hover { transform: translateY(-5px); color: #fff; }
         
-        /* VISA & MASTER ACTIVE */
         .pay-icons { font-size: 3.5rem; display: flex; justify-content: center; gap: 25px; color: #fff; margin: 15px 0; filter: drop-shadow(0 0 5px #fff); }
 
         /* GOLD EMAIL - LINKED */
@@ -95,15 +94,15 @@
     <button class="sector-btn" onclick="fetchNews('Asia')">АЗИЈА</button>
     <button class="sector-btn" onclick="fetchNews('USA')">АМЕРИКА</button>
     <button class="sector-btn" onclick="fetchNews('Australia')">АВСТРАЛИЈА</button>
-    <button class="sector-btn" onclick="fetchNews('Oceania')">ОКЕАНИ</button>
+    <button class="sector-btn" onclick="fetchNews('World')">СИТЕ ЗЕМЈИ</button>
 </div>
 
 <div class="container">
     <aside class="sidebar">
         <div class="section-title">AI АСИСТЕНТИ</div>
         <a href="https://gemini.google.com" target="_blank" class="side-btn" style="color:var(--gold); font-weight:bold;"><i class="fas fa-robot"></i> GEMINI (Твој Асистент)</a>
-        <a href="https://claude.ai" target="_blank" class="side-btn"><i class="fas fa-brain"></i> CLAUDE</a>
         <a href="https://grok.com" target="_blank" class="side-btn"><i class="fas fa-bolt"></i> GROK</a>
+        <a href="https://claude.ai" target="_blank" class="side-btn"><i class="fas fa-brain"></i> CLAUDE</a>
         <a href="https://deepseek.com" target="_blank" class="side-btn">● DEEPSEEK</a>
         <a href="https://www.perplexity.ai" target="_blank" class="side-btn">● PERPLEXITY</a>
 
@@ -120,7 +119,7 @@
         <div class="section-title">МРЕЖИ 1312</div>
         <div class="social-icons">
             <a href="https://x.com/makedonworldnew" target="_blank"><i class="fab fa-x-twitter"></i></a>
-            <a href="https://www.tiktok.com/@makedon.worldnews" target="_blank"><i class="fab fa-tiktok"></i></a>
+            <a href="https://www.tiktok.com/@makedon.worldnews?_t=ZM-93EhHJ9WGGe&_r=1" target="_blank"><i class="fab fa-tiktok"></i></a>
             <a href="https://www.facebook.com/share/17iEhWcYLD/" target="_blank"><i class="fab fa-facebook"></i></a>
             <a href="https://www.instagram.com/makedonworldnews" target="_blank"><i class="fab fa-instagram"></i></a>
             <a href="https://youtube.com/@makedonworldnews" target="_blank"><i class="fab fa-youtube"></i></a>
@@ -128,8 +127,8 @@
 
         <div class="section-title">АКТИВНИ ПЛАЌАЊА</div>
         <div class="pay-icons">
-            <i class="fab fa-cc-visa" title="Visa Active"></i>
-            <i class="fab fa-cc-mastercard" title="Mastercard Active"></i>
+            <a href="https://www.visa.com" target="_blank" style="color:inherit;"><i class="fab fa-cc-visa"></i></a>
+            <a href="https://www.mastercard.com" target="_blank" style="color:inherit;"><i class="fab fa-cc-mastercard"></i></a>
         </div>
         <div style="display: flex; flex-direction: column; gap: 10px;">
             <a href="https://paypal.com" target="_blank" class="side-btn" style="text-align:center; background:#003087; color:#fff;">PAYPAL</a>
@@ -162,13 +161,14 @@ function googleTranslateElementInit() {
         const rssUrl = `https://news.google.com/rss/search?q=${encodeURIComponent(q)}&hl=mk&gl=MK&ceid=MK:mk`;
         
         try {
+            // ФОРСИРАНО ВЛЕЧЕЊЕ СО NOCACHE
             const res = await fetch(PROXY + encodeURIComponent(rssUrl + "&nocache=" + Date.now()));
             const data = await res.text();
             const xml = new DOMParser().parseFromString(data, "text/xml");
             const items = Array.from(xml.querySelectorAll("item")).slice(0, 15);
 
             if(items.length === 0) {
-                grid.innerHTML = "<div style='color:var(--gold); text-align:center; width:100%;'>Скенирање на изворите... Ве молиме почекајте.</div>";
+                grid.innerHTML = "<div style='color:var(--gold); text-align:center; width:100%; font-family:Orbitron;'>СКЕНИРАЊЕ НА ГЛОБАЛНИТЕ ИЗВОРИ...</div>";
                 return;
             }
 
@@ -192,15 +192,14 @@ function googleTranslateElementInit() {
                 `;
             }).join('');
         } catch(e) { 
-            console.log("Fetch Error");
-            grid.innerHTML = "<div style='color:red; text-align:center; width:100%;'>Проблем со конекцијата. Рестартирање на РСС моторот...</div>";
+            grid.innerHTML = "<div style='color:red; text-align:center; width:100%;'>ГРЕШКА ВО МОТОРОТ 1312. ПОВТОРНО ПОВРЗУВАЊЕ...</div>";
         }
     }
 
-    // Рефреш на секои 4 секунди
+    // РЕФРЕШ НА 4 СЕКУНДИ
     setInterval(() => fetchNews(currentTopic), 4000);
-    // Првично вчитување
-    fetchNews('Macedonia');
+    // СТАРТ
+    window.onload = () => fetchNews('Macedonia');
 </script>
 </body>
 </html>
