@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-28T19:04:59Z",
+  "updatedAt": "2026-01-28T19:54:50Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,24 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) Симнете ги розовите очила и погледнете ги работниците – порачаа синдикатите до функционерите на протестот за повисоки плати, се бара 600 евра минималец",
+          "link": "https://makfax.com.mk/makedonija/%d0%b2%d0%b8%d0%b4%d0%b5%d0%be-%d1%81%d0%b8%d0%bc%d0%bd%d0%b5%d1%82%d0%b5-%d0%b3%d0%b8-%d1%80%d0%be%d0%b7%d0%be%d0%b2%d0%b8%d1%82%d0%b5-%d0%be%d1%87%d0%b8%d0%bb%d0%b0-%d0%b8-%d0%bf%d0%be%d0%b3%d0%bb/",
+          "published": "Wed, 28 Jan 2026 19:45:03 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Германија ја детронизира Франција, Хрвастка на „мускули“ ја победи Унгарија",
+          "link": "https://makfax.com.mk/sport/germanija-ja-detronizira-frantsija-hrvastka-na-muskuli-ja-pobedi-ungarija/",
+          "published": "Wed, 28 Jan 2026 19:09:00 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "СДСМ ќе предложи зголемување на платите на работниците и замрзнување на платите на функционерите",
+          "link": "https://makfax.com.mk/makedonija/%d1%81%d0%b4%d1%81%d0%bc-%d1%9c%d0%b5-%d0%bf%d1%80%d0%b5%d0%b4%d0%bb%d0%be%d0%b6%d0%b8-%d0%b7%d0%b3%d0%be%d0%bb%d0%b5%d0%bc%d1%83%d0%b2%d0%b0%d1%9a%d0%b5-%d0%bd%d0%b0-%d0%bf%d0%bb%d0%b0%d1%82%d0%b8/",
+          "published": "Wed, 28 Jan 2026 19:07:24 +0000"
         },
         {
           "source": "Makfax",
@@ -23,52 +41,34 @@
           "published": "Wed, 28 Jan 2026 17:44:09 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "(Видео) Мелони од хеликоптер го обиколи Нишеми, градот на Сицилија што го голта свлечиште",
-          "link": "https://makfax.com.mk/svet/%d0%b2%d0%b8%d0%b4%d0%b5%d0%be-%d0%bc%d0%b5%d0%bb%d0%be%d0%bd%d0%b8-%d0%be%d0%b4-%d1%85%d0%b5%d0%bb%d0%b8%d0%ba%d0%be%d0%bf%d1%82%d0%b5%d1%80-%d0%b3%d0%be-%d0%be%d0%b1%d0%b8%d0%ba%d0%be%d0%bb%d0%b8/",
-          "published": "Wed, 28 Jan 2026 17:32:12 +0000"
+          "source": "NetPress",
+          "title": "Не дошле за славење, туку за тепање –  нападнати маж и две деца на дочекот на Нова година",
+          "link": "https://netpress.com.mk/ne-doshle-za-slavene-tuku-za-tepane-napadnati-mazh-i-dve-decza-na-dochekot-na-nova-godina/",
+          "published": "Wed, 28 Jan 2026 19:51:27 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Италија ги истражува „викенд-снајперистите“, Сараево се приклучува на постапката",
-          "link": "https://makfax.com.mk/svet/region/%d0%b8%d1%82%d0%b0%d0%bb%d0%b8%d1%98%d0%b0-%d0%b3%d0%b8-%d0%b8%d1%81%d1%82%d1%80%d0%b0%d0%b6%d1%83%d0%b2%d0%b0-%d0%b2%d0%b8%d0%ba%d0%b5%d0%bd%d0%b4-%d1%81%d0%bd%d0%b0%d1%98%d0%bf%d0%b5%d1%80/",
-          "published": "Wed, 28 Jan 2026 17:24:18 +0000"
+          "source": "NetPress",
+          "title": "Трамп го предупреди градоначалникот на Минеаполис за несоработка со ICE",
+          "link": "https://netpress.com.mk/tramp-go-predupredi-gradonachalnikot-na-mineapolis-za-nesorabotka-so-ice/",
+          "published": "Wed, 28 Jan 2026 19:38:56 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Пакета си ја исполни желбата, се враќа во Фламенго",
-          "link": "https://makfax.com.mk/sport/paketa-si-ja-ispolni-zhelbata-se-vraka-vo-flamengo/",
-          "published": "Wed, 28 Jan 2026 16:48:21 +0000"
+          "source": "NetPress",
+          "title": "Непознат маж се качил во авионот на данската премиерка",
+          "link": "https://netpress.com.mk/nepoznat-mazh-se-kachil-vo-voeniot-avion-na-danskata-premierka/",
+          "published": "Wed, 28 Jan 2026 19:35:06 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Германската влада ги намали прогнозите за економски раст",
+          "link": "https://netpress.com.mk/germanskata-vlada-gi-namali-prognozite-za-ekonomski-rast/",
+          "published": "Wed, 28 Jan 2026 19:17:28 +0000"
         },
         {
           "source": "NetPress",
           "title": "Неоправдано се одложувало праќањето в затвор на Мифтари за автобуската несреќа кај Ласкарци",
           "link": "https://netpress.com.mk/neopravdano-se-odlozhuvalo-prakaneto-v-zatvor-na-miftari-za-avtobuskata-nesreka-kaj-laskarczi/",
           "published": "Wed, 28 Jan 2026 18:41:24 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "ОЈО Скопје ги испитува наводите на Жан Митрев за притисоци за сопственичките удели во неговата клиника",
-          "link": "https://netpress.com.mk/ojo-skopje-gi-ispituva-navodite-na-zhan-mitrev-za-pritisoczi-za-sopstvenichkite-udeli-vo-negovata-klinika/",
-          "published": "Wed, 28 Jan 2026 18:34:19 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Беровската полиција си имала проблеми со жители на пехчевско Црник",
-          "link": "https://netpress.com.mk/berovskata-policzija-si-imala-problemi-so-zhiteli-na-pehchevsko-czrnik/",
-          "published": "Wed, 28 Jan 2026 18:05:25 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Црна Гора ја укинува неработната недела по одлуката на Уставниот суд?",
-          "link": "https://netpress.com.mk/czrna-gora-ja-ukinuva-nerabotnata-nedela-po-odlukata-na-ustavniot-sud/",
-          "published": "Wed, 28 Jan 2026 18:00:34 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Николоски во Загреб: Проблемот на камионџиите е всушност закана за економската стабилност",
-          "link": "https://netpress.com.mk/nikoloski-vo-zagreb-problemot-na-kamiondhiite-e-vsushnost-zakana-za-ekonomskata-stabilnost/",
-          "published": "Wed, 28 Jan 2026 17:38:45 +0000"
         }
       ]
     },
@@ -95,7 +95,7 @@
         },
         {
           "source": "BBC",
-          "title": "Panic on crowded train - passenger tells BBC of moment of Russian drone strike",
+          "title": "Panic on crowded Ukraine train - passenger describes moment of Russian drone strike",
           "link": "https://www.bbc.com/news/articles/cgjwpq4pggjo?at_medium=RSS&at_campaign=rss",
           "published": "Wed, 28 Jan 2026 16:59:02 GMT"
         },
@@ -107,33 +107,33 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "US Federal Reserve holds interest rates steady despite political pressure",
+          "link": "https://www.aljazeera.com/economy/2026/1/28/us-federal-reserve-holds-interest-rates-steady-despite-political-pressure?traffic_source=rss",
+          "published": "Wed, 28 Jan 2026 19:23:14 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "FBI executes search warrant at Georgia election office over 2020 US vote",
+          "link": "https://www.aljazeera.com/news/2026/1/28/fbi-executes-search-warrant-at-georgia-election-office-over-2020-us-vote?traffic_source=rss",
+          "published": "Wed, 28 Jan 2026 19:19:43 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Putin congratulates al-Sharaa on his efforts to unify Syrian territory",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/1/28/putin-congratulates-al-sharaa-on-his-efforts-to-unify-syrian-territory?traffic_source=rss",
+          "published": "Wed, 28 Jan 2026 19:19:18 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Rubio rules out military action in Venezuela, with an exception",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/1/28/rubio-rules-out-military-action-in-venezuela-with-an-exception?traffic_source=rss",
+          "published": "Wed, 28 Jan 2026 19:00:05 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Looking for My Mum",
           "link": "https://www.aljazeera.com/video/al-jazeera-world/2026/1/28/looking-for-my-mum?traffic_source=rss",
           "published": "Wed, 28 Jan 2026 18:30:00 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Even in death, Palestinians are still denied dignity",
-          "link": "https://www.aljazeera.com/opinions/2026/1/28/even-in-death-palestinians-are-still-denied-dignity?traffic_source=rss",
-          "published": "Wed, 28 Jan 2026 18:26:58 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Iran delegates import powers as US war threats keep economy unstable",
-          "link": "https://www.aljazeera.com/news/2026/1/28/iran-delegates-import-powers-as-us-war-threats-keep-economy-unstable?traffic_source=rss",
-          "published": "Wed, 28 Jan 2026 18:17:14 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Amazon cuts thousands of jobs amid AI push",
-          "link": "https://www.aljazeera.com/economy/2026/1/28/amazon-cuts-thousands-of-jobs-amid-ai-push?traffic_source=rss",
-          "published": "Wed, 28 Jan 2026 17:47:06 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "UK, France, Canada among 11 countries condemning Israel’s UNRWA demolitions",
-          "link": "https://www.aljazeera.com/news/2026/1/28/uk-france-canada-among-11-countries-condemning-israels-unrwa-demolitions?traffic_source=rss",
-          "published": "Wed, 28 Jan 2026 17:37:39 +0000"
         }
       ]
     }
