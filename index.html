@@ -3,68 +3,77 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>MAKEDON WORLD NEWS | BLOCKCHAIN SECURED 1312</title>
+    <title>MAKEDON WORLD NEWS | NEURAL SHIELD 1312</title>
     
     <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&family=Cinzel:wght@700&family=Roboto:wght@400;900&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 
     <style>
-        :root { --gold: #c5a059; --bg: #1a1a1a; --card: #252525; --text: #ffffff; }
+        :root { --gold: #c5a059; --bg: #0d0d0d; --card: #1a1a1a; --text: #ffffff; --neon-green: #00ff41; }
         body { font-family: 'Roboto', sans-serif; background: var(--bg); color: var(--text); margin: 0; overflow-x: hidden; }
+
+        /* NEURAL SHIELD PROTECTION BAR */
+        .shield-bar { 
+            background: #000; color: var(--neon-green); font-family: 'Orbitron'; 
+            font-size: 0.7rem; padding: 10px; text-align: center; border-bottom: 2px solid var(--neon-green);
+            box-shadow: 0 0 15px var(--neon-green);
+        }
 
         #google_translate_element { background: #000; padding: 5px; border-bottom: 2px solid var(--gold); text-align: center; }
 
         header { 
-            background: linear-gradient(180deg, #2a2a2a 0%, #1a1a1a 100%);
+            background: linear-gradient(180deg, #1a1a1a 0%, #0d0d0d 100%);
             border-bottom: 5px solid var(--gold); padding: 50px 20px; text-align: center;
         }
         .hero-img { width: 250px; border: 4px solid var(--gold); border-radius: 15px; margin-bottom: 25px; box-shadow: 0 0 30px var(--gold); }
         h1 { font-family: 'Cinzel'; font-size: 3.5rem; letter-spacing: 8px; color: var(--gold); margin: 0; text-shadow: 3px 3px 15px #000; }
 
-        /* SECURITY HASH DISPLAY */
-        .security-bar { background: #000; color: #00ff41; font-family: 'Orbitron'; font-size: 0.6rem; padding: 5px; text-align: center; border-bottom: 1px solid #333; }
-
         .ticker-wrap { background: #000; border-bottom: 2px solid var(--gold); overflow: hidden; padding: 12px 0; }
         .ticker-move { display: inline-block; white-space: nowrap; animation: ticker 60s linear infinite; font-family: 'Orbitron'; color: var(--gold); font-size: 1rem; }
         @keyframes ticker { 0% { transform: translateX(100%); } 100% { transform: translateX(-100%); } }
 
-        /* NAVIGATION - FIXED ACTION */
-        .nav-scroller { background: #222; border-bottom: 2px solid var(--gold); display: flex; overflow-x: auto; padding: 15px; gap: 12px; position: sticky; top: 0; z-index: 1000; }
-        .sector-btn { background: #333; border: 1px solid var(--gold); color: var(--gold); padding: 12px 25px; font-family: 'Orbitron'; cursor: pointer; white-space: nowrap; font-weight: bold; }
+        .nav-scroller { background: #111; border-bottom: 2px solid var(--gold); display: flex; overflow-x: auto; padding: 15px; gap: 12px; position: sticky; top: 0; z-index: 1000; }
+        .sector-btn { background: #222; border: 1px solid var(--gold); color: var(--gold); padding: 12px 25px; font-family: 'Orbitron'; cursor: pointer; white-space: nowrap; font-weight: bold; }
         .sector-btn:hover { background: var(--gold); color: #000; }
 
-        .container { display: grid; grid-template-columns: 300px 1fr 320px; gap: 25px; padding: 25px; }
+        .container { display: grid; grid-template-columns: 320px 1fr 320px; gap: 25px; padding: 25px; }
 
-        .sidebar { background: #222; padding: 25px; border-radius: 12px; border: 1px solid #444; }
+        .sidebar { background: #151515; padding: 25px; border-radius: 12px; border: 1px solid #333; }
         .section-title { color: var(--gold); font-family: 'Orbitron'; font-size: 1rem; border-bottom: 2px solid var(--gold); margin-bottom: 15px; padding-bottom: 8px; }
         
-        .side-btn { display: block; width: 100%; text-align: left; background: none; border: none; padding: 12px; color: #ddd; font-size: 1.1rem; cursor: pointer; border-bottom: 1px solid #333; }
-        .side-btn:hover { color: var(--gold); background: #333; }
+        .side-btn { display: block; width: 100%; text-align: left; background: none; border: none; padding: 12px; color: #ddd; font-size: 1.1rem; cursor: pointer; border-bottom: 1px solid #333; text-decoration: none; }
+        .side-btn:hover { color: var(--gold); background: #222; }
 
         .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(350px, 1fr)); gap: 30px; }
         .card { background: var(--card); border-radius: 10px; overflow: hidden; border-bottom: 5px solid var(--gold); position: relative; cursor: pointer; transition: 0.3s; }
-        .card:hover { transform: scale(1.02); }
+        .card:hover { transform: scale(1.02); box-shadow: 0 0 20px var(--gold); }
         .card img { width: 100%; height: 220px; object-fit: cover; }
         
-        .source-tag { position: absolute; top: 10px; left: 10px; background: rgba(0,0,0,0.8); color: var(--gold); padding: 5px 10px; font-size: 0.7rem; border: 1px solid var(--gold); }
+        .source-tag { position: absolute; top: 10px; left: 10px; background: rgba(0,0,0,0.85); color: var(--gold); padding: 5px 10px; font-size: 0.7rem; border: 1px solid var(--gold); font-family: 'Orbitron'; }
 
-        /* SOCIAL & PAYMENTS */
         .social-icons { display: flex; justify-content: space-around; font-size: 2.5rem; margin-bottom: 20px; }
-        .social-icons a { color: var(--gold); }
+        .social-icons a { color: var(--gold); transition: 0.3s; }
+        .social-icons a:hover { transform: translateY(-5px); color: #fff; }
         
-        .pay-box { text-align: center; background: #111; padding: 15px; border: 1px solid var(--gold); }
-        .pay-icons { font-size: 3rem; display: flex; justify-content: center; gap: 15px; color: #fff; margin: 10px 0; }
+        /* VISA & MASTER ACTIVE */
+        .pay-icons { font-size: 3.5rem; display: flex; justify-content: center; gap: 25px; color: #fff; margin: 15px 0; filter: drop-shadow(0 0 5px #fff); }
 
-        /* BIG EMAIL */
-        .big-email { font-family: 'Orbitron'; font-weight: 900; color: #fff; font-size: 1.2rem; word-break: break-all; text-align: center; padding: 10px; border: 2px solid var(--gold); background: #000; }
+        /* GOLD EMAIL - LINKED */
+        .gold-email { 
+            font-family: 'Orbitron'; font-weight: 900; color: #000; font-size: 1.1rem; 
+            word-break: break-all; text-align: center; padding: 15px; 
+            border: 3px solid var(--gold); background: var(--gold); 
+            text-decoration: none; display: block; transition: 0.3s;
+        }
+        .gold-email:hover { background: #000; color: var(--gold); }
 
         footer { background: #000; border-top: 5px solid var(--gold); padding: 40px; text-align: center; color: var(--gold); font-family: 'Orbitron'; }
     </style>
 </head>
 <body>
 
-<div class="security-bar">
-    SHA-256: 1312-X-99-B1 | HASH-1: 8f92... | HASH-2: a31b... | SECURE BLOCKCHAIN ACTIVE
+<div class="shield-bar">
+    <i class="fas fa-shield-alt"></i> NEURAL SHIELD 1312 ACTIVE: СКЕНИРАЊЕ ЗА ЛАЖНИ ВЕСТИ... СТАТУС: ЗАШТИТЕНО ●
 </div>
 
 <div id="google_translate_element"></div>
@@ -75,63 +84,65 @@
 </header>
 
 <div class="ticker-wrap">
-    <div id="ticker" class="ticker-move">+++ ENGINE 1312: ПОДГОТОВЕН +++ РЕФРЕШ НА 4 СЕКУНДИ +++ БЕЗБЕДНОСНИ ХАШОВИ АКТИВИРАНИ +++</div>
+    <div id="ticker" class="ticker-move">+++ ВЕСТИ ОД СВЕТОТ ВО ЖИВО +++ РЕФРЕШ НА 4 СЕКУНДИ +++ ГЛОБАЛЕН АГРЕГАТОР 1312 +++</div>
 </div>
 
 <div class="nav-scroller">
-    <button class="sector-btn" onclick="fetchRSS('Macedonia')">МАКЕДОНИЈА</button>
-    <button class="sector-btn" onclick="fetchRSS('Balkans')">БАЛКАН</button>
-    <button class="sector-btn" onclick="fetchRSS('Europe')">ЕВРОПА</button>
-    <button class="sector-btn" onclick="fetchRSS('Africa')">АФРИКА</button>
-    <button class="sector-btn" onclick="fetchRSS('Asia')">АЗИЈА</button>
-    <button class="sector-btn" onclick="fetchRSS('USA')">АМЕРИКА</button>
-    <button class="sector-btn" onclick="fetchRSS('Australia')">АВСТРАЛИЈА</button>
-    <button class="sector-btn" onclick="fetchRSS('Antarctica')">АНТАРКТИК</button>
+    <button class="sector-btn" onclick="fetchNews('Macedonia')">МАКЕДОНИЈА</button>
+    <button class="sector-btn" onclick="fetchNews('Balkans')">БАЛКАН</button>
+    <button class="sector-btn" onclick="fetchNews('Europe')">ЕВРОПА</button>
+    <button class="sector-btn" onclick="fetchNews('Africa')">АФРИКА</button>
+    <button class="sector-btn" onclick="fetchNews('Asia')">АЗИЈА</button>
+    <button class="sector-btn" onclick="fetchNews('USA')">АМЕРИКА</button>
+    <button class="sector-btn" onclick="fetchNews('Australia')">АВСТРАЛИЈА</button>
+    <button class="sector-btn" onclick="fetchNews('Oceania')">ОКЕАНИ</button>
 </div>
 
 <div class="container">
     <aside class="sidebar">
-        <div class="section-title">AI СУПЕР МОЗОК</div>
-        <a href="https://claude.ai" target="_blank" class="side-btn" style="color:var(--gold); font-weight:bold;">● CLAUDE (Асистент)</a>
+        <div class="section-title">AI АСИСТЕНТИ</div>
+        <a href="https://gemini.google.com" target="_blank" class="side-btn" style="color:var(--gold); font-weight:bold;"><i class="fas fa-robot"></i> GEMINI (Твој Асистент)</a>
+        <a href="https://claude.ai" target="_blank" class="side-btn"><i class="fas fa-brain"></i> CLAUDE</a>
+        <a href="https://grok.com" target="_blank" class="side-btn"><i class="fas fa-bolt"></i> GROK</a>
         <a href="https://deepseek.com" target="_blank" class="side-btn">● DEEPSEEK</a>
         <a href="https://www.perplexity.ai" target="_blank" class="side-btn">● PERPLEXITY</a>
-        <a href="https://chat.openai.com" target="_blank" class="side-btn">● CHAT GPT</a>
 
         <div class="section-title" style="margin-top:30px;">АНАЛИЗА ТЕМИ</div>
-        <button class="side-btn" onclick="fetchRSS('Politics')">● ПОЛИТИКА</button>
-        <button class="side-btn" onclick="fetchRSS('Economy')">● ЕКОНОМИЈА</button>
-        <button class="side-btn" onclick="fetchRSS('Culture')">● КУЛТУРА</button>
-        <button class="side-btn" onclick="fetchRSS('Sport')">● СПОРТ</button>
+        <button class="side-btn" onclick="fetchNews('Politics')">● ПОЛИТИКА</button>
+        <button class="side-btn" onclick="fetchNews('Economy')">● ЕКОНОМИЈА</button>
+        <button class="side-btn" onclick="fetchNews('Culture')">● КУЛТУРА</button>
+        <button class="side-btn" onclick="fetchNews('Sport')">● СПОРТ</button>
     </aside>
 
     <main id="news-grid" class="grid"></main>
 
     <aside class="sidebar">
-        <div class="section-title">СОЦИЈАЛНИ МРЕЖИ</div>
+        <div class="section-title">МРЕЖИ 1312</div>
         <div class="social-icons">
+            <a href="https://x.com/makedonworldnew" target="_blank"><i class="fab fa-x-twitter"></i></a>
+            <a href="https://www.tiktok.com/@makedon.worldnews" target="_blank"><i class="fab fa-tiktok"></i></a>
             <a href="https://www.facebook.com/share/17iEhWcYLD/" target="_blank"><i class="fab fa-facebook"></i></a>
-            <a href="https://x.com/makedonworldnew" target="_blank" style="color:#fff;"><i class="fab fa-x-twitter"></i></a>
-            <a href="https://www.instagram.com/makedonworldnews?igsh=MW42bzR2bHl6OTdyeQ==" target="_blank"><i class="fab fa-instagram"></i></a>
+            <a href="https://www.instagram.com/makedonworldnews" target="_blank"><i class="fab fa-instagram"></i></a>
             <a href="https://youtube.com/@makedonworldnews" target="_blank"><i class="fab fa-youtube"></i></a>
         </div>
 
-        <div class="section-title">MONEY & PAYMENTS</div>
-        <div class="pay-box">
-            <div class="pay-icons">
-                <i class="fab fa-cc-visa" style="color:#1a1f71"></i>
-                <i class="fab fa-cc-mastercard" style="color:#eb001b"></i>
-            </div>
-            <a href="https://paypal.com" target="_blank" class="side-btn" style="text-align:center;">PAYPAL</a>
-            <a href="https://stripe.com" target="_blank" class="side-btn" style="text-align:center;">STRIPE</a>
+        <div class="section-title">АКТИВНИ ПЛАЌАЊА</div>
+        <div class="pay-icons">
+            <i class="fab fa-cc-visa" title="Visa Active"></i>
+            <i class="fab fa-cc-mastercard" title="Mastercard Active"></i>
+        </div>
+        <div style="display: flex; flex-direction: column; gap: 10px;">
+            <a href="https://paypal.com" target="_blank" class="side-btn" style="text-align:center; background:#003087; color:#fff;">PAYPAL</a>
+            <a href="https://stripe.com" target="_blank" class="side-btn" style="text-align:center; background:#6772e5; color:#fff;">STRIPE</a>
         </div>
 
         <div class="section-title" style="margin-top:30px;">КОНТАКТ</div>
-        <div class="big-email">makedonworldnews@gmail.com</div>
+        <a href="mailto:makedonworldnews@gmail.com" class="gold-email">makedonworldnews@gmail.com</a>
     </aside>
 </div>
 
 <footer>
-    <div>MAKEDON WORLD NEWS // SUPREME BLOCKCHAIN 2026</div>
+    <div>MAKEDON WORLD NEWS // 2026 // NEURAL SHIELD PROTECTED</div>
 </footer>
 
 <script type="text/javascript">
@@ -143,18 +154,23 @@ function googleTranslateElementInit() {
 
 <script>
     const PROXY = "https://api.allorigins.win/raw?url=";
-    let lastQ = "Macedonia";
+    let currentTopic = "Macedonia";
 
-    async function fetchRSS(q) {
-        lastQ = q;
+    async function fetchNews(q) {
+        currentTopic = q;
         const grid = document.getElementById('news-grid');
-        const rssUrl = `https://news.google.com/rss/search?q=${encodeURIComponent(q)}&hl=en-US&gl=US&ceid=US:en`;
+        const rssUrl = `https://news.google.com/rss/search?q=${encodeURIComponent(q)}&hl=mk&gl=MK&ceid=MK:mk`;
         
         try {
-            const res = await fetch(PROXY + encodeURIComponent(rssUrl + "&v=" + Date.now()));
+            const res = await fetch(PROXY + encodeURIComponent(rssUrl + "&nocache=" + Date.now()));
             const data = await res.text();
             const xml = new DOMParser().parseFromString(data, "text/xml");
             const items = Array.from(xml.querySelectorAll("item")).slice(0, 15);
+
+            if(items.length === 0) {
+                grid.innerHTML = "<div style='color:var(--gold); text-align:center; width:100%;'>Скенирање на изворите... Ве молиме почекајте.</div>";
+                return;
+            }
 
             grid.innerHTML = items.map(item => {
                 const fullTitle = item.querySelector("title").textContent;
@@ -169,19 +185,22 @@ function googleTranslateElementInit() {
                         <div class="source-tag">${source}</div>
                         <img src="${img}">
                         <div style="padding:15px;">
-                            <div style="font-weight:bold; font-family:'Cinzel';">${title}</div>
-                            <div style="color:var(--gold); font-size:0.7rem; margin-top:10px;">КЛИКНИ ЗА ЦЕЛА ВЕСТ</div>
+                            <div style="font-weight:bold; font-family:'Cinzel'; line-height:1.2; height:2.4em; overflow:hidden;">${title}</div>
+                            <div style="color:var(--gold); font-size:0.75rem; margin-top:10px; font-family:'Orbitron';">ПРОЧИТАЈ ЦЕЛОСНО →</div>
                         </div>
                     </div>
                 `;
             }).join('');
-        } catch(e) { console.log("RSS Error"); }
+        } catch(e) { 
+            console.log("Fetch Error");
+            grid.innerHTML = "<div style='color:red; text-align:center; width:100%;'>Проблем со конекцијата. Рестартирање на РСС моторот...</div>";
+        }
     }
 
-    // Рефреш на 4 секунди
-    setInterval(() => fetchRSS(lastQ), 4000);
-    // Прво вчитување
-    fetchRSS('Macedonia');
+    // Рефреш на секои 4 секунди
+    setInterval(() => fetchNews(currentTopic), 4000);
+    // Првично вчитување
+    fetchNews('Macedonia');
 </script>
 </body>
 </html>
