@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-28T22:58:48Z",
+  "updatedAt": "2026-01-28T23:52:02Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Позната е шемата за плеј-офот, можна е уште една пресметка меѓу Реал и Бенфика",
+          "link": "https://makfax.com.mk/sport/poznata-e-shemata-za-plej-ofot-mozhna-e-ushte-edna-presmetka-megu-real-i-benfika/",
+          "published": "Wed, 28 Jan 2026 22:54:04 +0000"
         },
         {
           "source": "Makfax",
@@ -35,10 +41,10 @@
           "published": "Wed, 28 Jan 2026 19:45:03 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Германија ја детронизира Франција, Хрвастка на „мускули“ ја победи Унгарија",
-          "link": "https://makfax.com.mk/sport/germanija-ja-detronizira-frantsija-hrvastka-na-muskuli-ja-pobedi-ungarija/",
-          "published": "Wed, 28 Jan 2026 19:09:00 +0000"
+          "source": "NetPress",
+          "title": "ЛШ резултати и табела: Арсенал ја забележа осмата победа, Бенфика се пласираше со погодок на голманот",
+          "link": "https://netpress.com.mk/lsh-rezultati-i-tabela-arsenal-ja-zabelezha-osmata-pobeda-benfika-se-plasirashe-so-pogodok-na-golmanot/",
+          "published": "Wed, 28 Jan 2026 23:46:05 +0000"
         },
         {
           "source": "NetPress",
@@ -63,12 +69,6 @@
           "title": "Рубио: Започна процесот за решавање на спорот за Гренланд",
           "link": "https://netpress.com.mk/rubio-zapochna-proczesot-za-reshavane-na-sporot-za-grenland/",
           "published": "Wed, 28 Jan 2026 21:41:40 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "ВИДЕО| Италијанската премиерка од хеликоптер го гледаше свлечиштето на Сицилија",
-          "link": "https://netpress.com.mk/foto-italijanskata-premierka-od-helikopter-go-gledashe-svlechishteto-na-siczilija/",
-          "published": "Wed, 28 Jan 2026 21:12:01 +0000"
         }
       ]
     },
@@ -107,6 +107,18 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Mourinho’s Benfica drag Real Madrid with them to Champions League playoffs",
+          "link": "https://www.aljazeera.com/sports/2026/1/28/mourinhos-benfica-drag-real-madrid-with-them-to-champions-league-playoffs?traffic_source=rss",
+          "published": "Wed, 28 Jan 2026 23:16:28 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Barcelona claim Champions League last-16 spot, but its the playoffs for PSG",
+          "link": "https://www.aljazeera.com/sports/2026/1/28/barcelona-claim-champions-league-last-16-spot-but-its-the-playoffs-for-psg?traffic_source=rss",
+          "published": "Wed, 28 Jan 2026 23:08:35 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Quebec mosque attack anniversary renews call to end anti-Muslim hate",
           "link": "https://www.aljazeera.com/news/2026/1/28/quebec-mosque-attack-anniversary-renews-call-to-end-anti-muslim-hate?traffic_source=rss",
           "published": "Wed, 28 Jan 2026 22:35:59 +0000"
@@ -122,18 +134,6 @@
           "title": "Israel’s top court delays Gaza press access ruling amid years-long ban",
           "link": "https://www.aljazeera.com/news/2026/1/28/israels-top-court-delays-gaza-press-access-ruling-amid-years-long-ban?traffic_source=rss",
           "published": "Wed, 28 Jan 2026 21:29:40 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "France says will support EU designation of Iran’s IRGC as ‘terrorist’ group",
-          "link": "https://www.aljazeera.com/news/2026/1/28/france-says-will-support-eu-designation-of-irans-irgc-as-terrorist-group?traffic_source=rss",
-          "published": "Wed, 28 Jan 2026 21:16:38 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Colombian lawmaker among 15 missing in plane disappearance",
-          "link": "https://www.aljazeera.com/news/2026/1/28/colombian-lawmaker-among-15-missing-in-plane-disappearance?traffic_source=rss",
-          "published": "Wed, 28 Jan 2026 20:51:50 +0000"
         }
       ]
     }
