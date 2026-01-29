@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-29T19:44:20Z",
+  "updatedAt": "2026-01-29T20:55:56Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Трамп тврди дека Путин се согласил на прекин на огнот, пристигна првата реакција на Зеленски",
+          "link": "https://makfax.com.mk/svet/%d1%82%d1%80%d0%b0%d0%bc%d0%bf-%d1%82%d0%b2%d1%80%d0%b4%d0%b8-%d0%b4%d0%b5%d0%ba%d0%b0-%d0%bf%d1%83%d1%82%d0%b8%d0%bd-%d1%81%d0%b5-%d1%81%d0%be%d0%b3%d0%bb%d0%b0%d1%81%d0%b8%d0%bb-%d0%bd%d0%b0-%d0%bf/",
+          "published": "Thu, 29 Jan 2026 20:15:07 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Парламентарното собрание на Советот на Европа донесе одлука за затворање на пост-мониторинг дијалогот со Македонија: „Значаен успех“",
+          "link": "https://makfax.com.mk/makedonija/%d0%bf%d0%b0%d1%80%d0%bb%d0%b0%d0%bc%d0%b5%d0%bd%d1%82%d0%b0%d1%80%d0%bd%d0%be%d1%82%d0%be-%d1%81%d0%be%d0%b1%d1%80%d0%b0%d0%bd%d0%b8%d0%b5-%d0%bd%d0%b0-%d1%81%d0%be%d0%b2%d0%b5%d1%82%d0%be%d1%82/",
+          "published": "Thu, 29 Jan 2026 20:07:08 +0000"
         },
         {
           "source": "Makfax",
@@ -29,46 +41,34 @@
           "published": "Thu, 29 Jan 2026 18:58:33 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Христова: Со регионалните центри за услуги граѓаните ќе добијат брзи и ефикасни административни услуги",
-          "link": "https://makfax.com.mk/makedonija/%d1%85%d1%80%d0%b8%d1%81%d1%82%d0%be%d0%b2%d0%b0-%d1%81%d0%be-%d1%80%d0%b5%d0%b3%d0%b8%d0%be%d0%bd%d0%b0%d0%bb%d0%bd%d0%b8%d1%82%d0%b5-%d1%86%d0%b5%d0%bd%d1%82%d1%80%d0%b8-%d0%b7%d0%b0-%d1%83%d1%81/",
-          "published": "Thu, 29 Jan 2026 18:52:52 +0000"
+          "source": "NetPress",
+          "title": "Србија: Рекордна заплена на дрога, пет тони марихуана вредна до 10 милиони евра",
+          "link": "https://netpress.com.mk/srbija-rekordna-zaplena-na-droga-pet-toni-marihuana-vredna-do-10-milioni-evra/",
+          "published": "Thu, 29 Jan 2026 20:44:52 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Јаневска: Ред во образованието ќе ставиме со едносменска настава и продолжен престој во училиште",
-          "link": "https://makfax.com.mk/makedonija/%d1%98%d0%b0%d0%bd%d0%b5%d0%b2%d1%81%d0%ba%d0%b0-%d1%80%d0%b5%d0%b4-%d0%b2%d0%be-%d0%be%d0%b1%d1%80%d0%b0%d0%b7%d0%be%d0%b2%d0%b0%d0%bd%d0%b8%d0%b5%d1%82%d0%be-%d1%9c%d0%b5-%d1%81%d1%82%d0%b0%d0%b2/",
-          "published": "Thu, 29 Jan 2026 18:24:21 +0000"
+          "source": "NetPress",
+          "title": "Хегсет го информирал Трамп дека Пентагон е подготвен за Иран",
+          "link": "https://netpress.com.mk/hegset-go-informiral-tramp-deka-pentagon-e-podgotven-za-iran/",
+          "published": "Thu, 29 Jan 2026 20:24:35 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Тимо Вернер од Лајпциг се сели во Сан Хозе",
+          "link": "https://netpress.com.mk/timo-verner-od-lajpczig-se-seli-vo-san-hoze/",
+          "published": "Thu, 29 Jan 2026 20:09:40 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Министерството за спорт додели 500 стипендии „Спортска надеж“",
+          "link": "https://netpress.com.mk/ministerstvoto-za-sport-dodeli-500-stipendii-sportska-nadezh/",
+          "published": "Thu, 29 Jan 2026 19:56:35 +0000"
         },
         {
           "source": "NetPress",
           "title": "ПССЕ го затвори пост-мониторинг дијалогот со Македонија отворен 2000-та, важно институционално признание за напредокот на државата",
           "link": "https://netpress.com.mk/psse-go-zatvori-post-monitoring-dijalogot-so-makedonija-otvoren-2000-ta-vazhno-instituczionalno-priznanie-za-napredokot-na-drzhavata/",
           "published": "Thu, 29 Jan 2026 19:34:21 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Израел предаде тела на 15 Палестинци",
-          "link": "https://netpress.com.mk/izrael-predade-tela-na-15-palestinczi/",
-          "published": "Thu, 29 Jan 2026 19:23:05 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Каракамишева советник на Мицкоски за човекови права и владеење на правото",
-          "link": "https://netpress.com.mk/karakamisheva-sovetnik-za-chovekovi-prava-i-vladene-na-pravoto-na-miczkoski/",
-          "published": "Thu, 29 Jan 2026 19:00:51 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Томовски: Во план е заедно со Град Скопје да ја модернизараме жичницата до Водно",
-          "link": "https://netpress.com.mk/tomovski-vo-plan-e-zaedno-so-grad-skopje-da-ja-modernizarame-zhichniczata-do-vodno/",
-          "published": "Thu, 29 Jan 2026 18:55:32 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Кинески дисидент вели дека Западот нема морален авторитет да го критикува Пекинг",
-          "link": "https://netpress.com.mk/kineski-disident-veli-deka-zapadot-nema-moralen-avtoritet-da-go-kritikuva-peking/",
-          "published": "Thu, 29 Jan 2026 18:46:32 +0000"
         }
       ]
     },
@@ -107,33 +107,33 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "‘Melania’: What to know about the US first lady’s new documentary",
+          "link": "https://www.aljazeera.com/news/2026/1/29/melania-what-to-know-about-the-us-first-ladys-new-documentary?traffic_source=rss",
+          "published": "Thu, 29 Jan 2026 20:15:48 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "France moves to ban social media for users under 15",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/1/29/france-moves-to-ban-social-media-for-users-under-15?traffic_source=rss",
+          "published": "Thu, 29 Jan 2026 20:04:58 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "TotalEnergies restarts $20bn LNG project in Mozambique after 5-year freeze",
+          "link": "https://www.aljazeera.com/news/2026/1/29/total-restarts-20bn-lng-project-in-mozambique-after-five-year-freeze?traffic_source=rss",
+          "published": "Thu, 29 Jan 2026 20:03:31 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Iran slams EU’s ‘terrorist’ designation for IRGC as hypocritical",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/1/29/iran-slams-eus-terrorist-designation-for-irgc-as-hypocritical?traffic_source=rss",
+          "published": "Thu, 29 Jan 2026 19:45:28 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Former Illinois deputy sentenced to 20 years for US killing of Sonya Massey",
           "link": "https://www.aljazeera.com/news/2026/1/29/former-illinois-deputy-sentenced-to-20-years-for-killing-of-sonya-massey?traffic_source=rss",
           "published": "Thu, 29 Jan 2026 19:28:40 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Who controls Yemen now and why it matters",
-          "link": "https://www.aljazeera.com/video/the-take-2/2026/1/29/aje-onl-yem_2026pulsecheck_av_v2-290126?traffic_source=rss",
-          "published": "Thu, 29 Jan 2026 19:17:05 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "‘They picked the wrong state’: how Minneapolis is fighting back",
-          "link": "https://www.aljazeera.com/video/the-take-2/2026/1/29/aje-onl-usa_mnmutualaid_av_v2-290126?traffic_source=rss",
-          "published": "Thu, 29 Jan 2026 19:10:29 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Why is the Doomsday Clock nearer to midnight than ever before?",
-          "link": "https://www.aljazeera.com/video/inside-story/2026/1/29/why-is-the-doomsday-clock-nearer-to-midnight-than-ever-before?traffic_source=rss",
-          "published": "Thu, 29 Jan 2026 19:07:13 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Iran slams ‘selective outrage’ after EU labels IRGC a ‘terrorist’ group",
-          "link": "https://www.aljazeera.com/news/2026/1/29/iran-slams-selective-outrage-after-eu-labels-irgc-a-terrorist-group?traffic_source=rss",
-          "published": "Thu, 29 Jan 2026 18:58:01 +0000"
         }
       ]
     }
