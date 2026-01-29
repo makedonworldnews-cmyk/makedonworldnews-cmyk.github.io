@@ -2,34 +2,41 @@
 <html lang="mk">
 <head>
     <meta charset="UTF-8">
-    <title>MAKEDON WORLD NEWS | 1312 FORTRESS</title>
-    <link href="https://fonts.googleapis.com/css2?family=Orbitron&display=swap" rel="stylesheet">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MAKEDON WORLD NEWS | 1312 COMMAND</title>
+    <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&family=Cinzel:wght@700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
     <style>
-        :root { --gold: #c5a059; --bg: #050505; --sg: #00ff41; }
-        body { background: var(--bg); color: #e0e0e0; font-family: sans-serif; margin: 0; }
-        .s-bar { background: #000; color: var(--sg); font-family: 'Orbitron'; padding: 8px; text-align: center; border-bottom: 2px solid var(--sg); font-size: 11px; }
-        header { border-bottom: 3px solid var(--gold); padding: 20px; text-align: center; background: #000; }
-        h1 { font-family: 'Orbitron'; color: var(--gold); letter-spacing: 3px; }
-        .nav { display: flex; overflow-x: auto; background: #111; padding: 10px; gap: 10px; border-bottom: 1px solid var(--gold); }
-        .btn { background: #000; border: 1px solid var(--gold); color: var(--gold); padding: 7px 15px; cursor: pointer; font-size: 11px; font-family: 'Orbitron'; }
+        :root { --gold: #c5a059; --bg: #050505; --sg: #00ff41; --danger: #ff4b2b; }
+        body { background: var(--bg); color: #e0e0e0; font-family: 'Roboto', sans-serif; margin: 0; overflow-x: hidden; }
+        .s-bar { background: #000; color: var(--sg); font-family: 'Orbitron'; padding: 10px; text-align: center; border-bottom: 2px solid var(--sg); font-size: 11px; letter-spacing: 1px; }
+        header { border-bottom: 3px solid var(--gold); padding: 25px; text-align: center; background: radial-gradient(circle, #111 0%, #000 100%); }
+        h1 { font-family: 'Cinzel'; color: var(--gold); letter-spacing: 4px; margin: 10px 0; font-size: 2rem; }
+        .nav { display: flex; overflow-x: auto; background: #000; padding: 12px; gap: 10px; border-bottom: 1px solid var(--gold); position: sticky; top: 0; z-index: 1000; }
+        .btn { background: #111; border: 1px solid var(--gold); color: var(--gold); padding: 8px 18px; cursor: pointer; font-family: 'Orbitron'; font-size: 10px; transition: 0.3s; white-space: nowrap; }
+        .btn:hover { background: var(--gold); color: #000; box-shadow: 0 0 10px var(--gold); }
         .lay { display: grid; grid-template-columns: 260px 1fr 280px; gap: 15px; padding: 15px; }
-        @media (max-width: 1000px) { .lay { grid-template-columns: 1fr; } .side { display: none; } }
-        .side { background: #0a0a0a; border: 1px solid #222; padding: 15px; border-top: 2px solid var(--gold); }
+        @media (max-width: 1100px) { .lay { grid-template-columns: 1fr; } .side { display: none; } }
+        .side { background: #0a0a0a; border: 1px solid #222; padding: 18px; border-radius: 5px; border-top: 3px solid var(--gold); height: fit-content; }
+        .p-h { font-family: 'Orbitron'; color: var(--gold); font-size: 12px; margin-bottom: 12px; border-bottom: 1px solid #333; padding-bottom: 5px; text-align: center; }
         .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 15px; }
-        .card { background: #111; border-bottom: 3px solid var(--gold); padding: 10px; cursor: pointer; transition: 0.3s; }
-        .card:hover { transform: scale(1.02); }
-        .in { width: 100%; background: #000; color: var(--sg); border: 1px solid #444; padding: 8px; margin-bottom: 10px; box-sizing: border-box; }
-        .act { width: 100%; background: var(--gold); border: none; padding: 10px; font-weight: bold; cursor: pointer; font-family: 'Orbitron'; }
-        .pay { display: flex; justify-content: space-around; font-size: 24px; color: var(--gold); margin: 15px 0; }
+        .card { background: #111; border: 1px solid #222; border-bottom: 3px solid var(--gold); padding: 12px; cursor: pointer; transition: 0.3s; position: relative; }
+        .card:hover { transform: translateY(-5px); border-color: var(--gold); }
+        .h-tag { position: absolute; top: 0; left: 0; background: rgba(0,255,65,0.1); color: var(--sg); padding: 4px 8px; font-size: 9px; font-family: 'Orbitron'; }
+        .in { width: 100%; background: #000; color: var(--sg); border: 1px solid #444; padding: 10px; margin-bottom: 10px; box-sizing: border-box; font-family: 'Courier New'; }
+        .act { width: 100%; background: var(--gold); color: #000; border: none; padding: 12px; font-weight: bold; cursor: pointer; font-family: 'Orbitron'; transition: 0.3s; }
+        .act:hover { background: #fff; }
+        #ch { height: 160px; overflow-y: auto; background: #000; padding: 8px; font-size: 12px; margin-bottom: 10px; border: 1px solid #222; color: #aaa; }
+        .pay { display: flex; justify-content: space-around; font-size: 26px; color: var(--gold); margin: 15px 0; }
+        footer { text-align: center; padding: 30px; font-family: 'Orbitron'; font-size: 10px; color: #555; border-top: 1px solid #222; margin-top: 20px; }
     </style>
 </head>
 <body>
 
-<div class="s-bar">🛡️ SECURITY: NATO ALIGNED | FIREWALL: ACTIVE | 1312 PROTOCOL</div>
+<div class="s-bar">🛡️ SECURITY STATUS: ARMED | FIREWALL: ACTIVE | ENCRYPTION: 1312-SHA256</div>
 
 <header>
-    <img src="https://raw.githubusercontent.com/makedonworldnews-cmyk/makedonworldnews-cmyk.github.io/main/hero.jpg" style="width:110px; border-radius:50%; border:2px solid var(--gold)" onclick="v('Macedonia News')">
+    <img src="https://raw.githubusercontent.com/makedonworldnews-cmyk/makedonworldnews-cmyk.github.io/main/hero.jpg" style="width:120px; border-radius:50%; border:2px solid var(--gold); cursor:pointer;" onclick="v('Macedonia News')">
     <h1>MAKEDON WORLD NEWS</h1>
 </header>
 
@@ -39,27 +46,32 @@
     <button class="btn" onclick="v('Europe')">ЕВРОПА</button>
     <button class="btn" onclick="v('USA')">САД</button>
     <button class="btn" onclick="v('Russia')">РУСИЈА</button>
+    <button class="btn" onclick="v('China')">КИНА</button>
 </nav>
 
 <div class="lay">
     <aside class="side">
-        <div style="color:var(--gold); font-family:Orbitron; margin-bottom:10px; text-align:center;">МАКЕДОН МЕСИНЏЕР</div>
-        <div id="ch" style="height:150px; overflow-y:auto; background:#000; padding:5px; font-size:12px; margin-bottom:10px; border:1px solid #222;"></div>
-        <input id="ci" class="in" placeholder="Порака...">
-        <button class="act" onclick="sm()">ПРАТИ</button>
+        <div class="p-h">МАКЕДОН МЕСИНЏЕР</div>
+        <div id="ch">СИСТЕМ: Безбеден канал е воспоставен...</div>
+        <input id="ci" class="in" placeholder="Напиши порака...">
+        <button class="act" onclick="sm()">ПРАТИ ДО ЦЕНТРАЛА</button>
+        <p style="font-size:9px; color:#555; text-align:center; margin-top:8px;">Пораките се испраќаат преку Gmail протокол.</p>
     </aside>
 
     <main class="grid" id="mg">
-        <div style="grid-column:1/-1; text-align:center; padding:50px; color:var(--gold);">САТЕЛИТСКО СКЕНИРАЊЕ...</div>
+        <div style="grid-column:1/-1; text-align:center; padding:50px; color:var(--gold); font-family:Orbitron;">
+            <i class="fas fa-satellite-dish fa-spin fa-2x"></i><br><br>СКЕНИРАЊЕ НА ГЛОБАЛЕН ЕТЕР...
+        </div>
     </main>
 
     <aside class="side">
-        <div style="color:var(--gold); font-family:Orbitron; margin-bottom:10px; text-align:center;">МАКЕДОН Е-МАИЛ</div>
-        <input id="es" class="in" placeholder="Наслов">
-        <textarea id="eb" class="in" rows="4" placeholder="Текст..."></textarea>
-        <button class="act" onclick="se()">ВЕРИФИКУВАЈ</button>
+        <div class="p-h">МАКЕДОН Е-МАИЛ</div>
+        <div id="wall" style="font-size:9px; color:var(--sg); text-align:center; margin-bottom:5px;">FIREWALL: SECURE</div>
+        <input id="es" class="in" placeholder="Предмет / Наслов">
+        <textarea id="eb" class="in" rows="5" placeholder="Вашата порака..."></textarea>
+        <button class="act" onclick="se()">ВЕРИФИКУВАЈ И ПРАТИ</button>
         
-        <div style="color:var(--gold); font-family:Orbitron; margin:20px 0 10px; text-align:center; font-size:10px;">ПЛАЌАЊА</div>
+        <div class="p-h" style="margin-top:20px;">ПЛАЌАЊА</div>
         <div class="pay">
             <i class="fab fa-cc-visa" title="Visa"></i>
             <i class="fab fa-cc-paypal" title="PayPal"></i>
@@ -69,27 +81,70 @@
     </aside>
 </div>
 
+<footer>MAKEDON WORLD NEWS &copy; 2026 | MILITARY-GRADE DATA 1312</footer>
+
 <script>
+    // ФУНКЦИЈА ЗА ВЕСТИ (САТЕЛИТ)
     async function v(q) {
         const g = document.getElementById('mg');
-        g.innerHTML = `<div style="grid-column:1/-1; text-align:center; padding:50px; color:var(--gold);">СКЕНИРАЊЕ: ${q.toUpperCase()}...</div>`;
+        g.innerHTML = `<div style="grid-column:1/-1; text-align:center; padding:50px; color:var(--gold); font-family:Orbitron;">СКЕНИРАЊЕ: ${q.toUpperCase()}...</div>`;
         const u = `https://api.rss2json.com/v1/api.json?rss_url=${encodeURIComponent(`https://news.google.com/rss/search?q=${q}&hl=mk&gl=MK&ceid=MK:mk`)}&api_key=oyzofskn0f0q0g0w0e0r0t0y0u0i0o0p0a0s0d0f`;
         try {
             const r = await fetch(u);
             const d = await r.json();
             if(d.status==='ok') {
-                g.innerHTML = d.items.map(i => `<div class="card" onclick="window.open('${i.link}')"><b>${i.title.split(' - ')[0]}</b><br><small style="color:var(--gold)">${i.pubDate}</small></div>`).join('');
+                g.innerHTML = d.items.map(i => {
+                    const h = btoa(i.title).substring(0,8).toUpperCase();
+                    return `<div class="card" onclick="window.open('${i.link}')">
+                        <div class="h-tag">🛡️ SHA: ${h}</div>
+                        <div style="padding-top:10px;">
+                            <small style="color:var(--gold); font-size:10px;">${i.pubDate}</small><br>
+                            <b style="font-size:13px; display:block; margin-top:5px;">${i.title.split(' - ')[0]}</b>
+                        </div>
+                    </div>`;
+                }).join('');
             }
-        } catch(e) { g.innerHTML = "SECURITY ERROR."; }
+        } catch(e) { g.innerHTML = "SYSTEM ERROR 1312: BREACH."; }
     }
+
+    // МАКЕДОН МЕСИНЏЕР -> GMAIL
     function sm() {
         const i = document.getElementById('ci'), l = document.getElementById('ch');
-        if(i.value) { l.innerHTML += `<div><b>ВИЕ:</b> ${i.value}</div>`; i.value = ''; l.scrollTop = l.scrollHeight; }
+        if(!i.value) return;
+        
+        const m = i.value;
+        const mailUrl = `mailto:makedonworldnews@gmail.com?subject=MESSENGER_ALERT&body=${encodeURIComponent(m)}`;
+        
+        l.innerHTML += `<div style="color:var(--sg); margin-bottom:5px;"><b>ВИЕ:</b> ${m}</div>`;
+        window.location.href = mailUrl;
+        i.value = '';
     }
+
+    // МАКЕДОН Е-МАИЛ -> GMAIL
     function se() {
-        alert("МАКЕДОН Е-МАИЛ: Енкриптирано и пратено со 1312 сертификат!");
-        document.getElementById('es').value = ''; document.getElementById('eb').value = '';
+        const s = document.getElementById('es').value;
+        const b = document.getElementById('eb').value;
+        const w = document.getElementById('wall');
+        
+        if(!b) { alert("Не можете да пратите празна порака!"); return; }
+
+        // Заштита од лажни содржини (Basic Shield)
+        if(b.toLowerCase().includes("win free") || b.length > 3000) {
+            w.innerHTML = "🚨 ALERT: СОМНИТЕЛНА СОДРЖИНА";
+            w.style.color = "red";
+            alert("СИСТЕМОТ БЛОКИРАШЕ ПОТЕНЦИЈАЛЕН СПАМ!");
+            return;
+        }
+
+        const mailUrl = `mailto:makedonworldnews@gmail.com?subject=${encodeURIComponent("МАКЕДОН Е-МАИЛ: " + s)}&body=${encodeURIComponent(b)}`;
+        
+        alert("ВЕРИФИКАЦИЈА УСПЕШНА. Пораката е спремна за испраќање.");
+        window.location.href = mailUrl;
+        
+        document.getElementById('es').value = '';
+        document.getElementById('eb').value = '';
     }
+
     window.onload = () => v('Macedonia News');
 </script>
 
