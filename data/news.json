@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-29T20:55:56Z",
+  "updatedAt": "2026-01-29T21:55:05Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Со донаторска вечер, почна со работа Фондацијата „Фросина Кулакова“",
+          "link": "https://makfax.com.mk/makedonija/%d1%81%d0%be-%d0%b4%d0%be%d0%bd%d0%b0%d1%82%d0%be%d1%80%d1%81%d0%ba%d0%b0-%d0%b2%d0%b5%d1%87%d0%b5%d1%80-%d0%bf%d0%be%d1%87%d0%bd%d0%b0-%d1%81%d0%be-%d1%80%d0%b0%d0%b1%d0%be%d1%82%d0%b0-%d1%84%d0%be/",
+          "published": "Thu, 29 Jan 2026 21:02:08 +0000"
         },
         {
           "source": "Makfax",
@@ -35,10 +41,22 @@
           "published": "Thu, 29 Jan 2026 19:02:08 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Роберто Де Зерби ќе добие отказ поради чудо во Лисабон?",
-          "link": "https://makfax.com.mk/sport/roberto-de-zerbi-ke-dobie-otkaz-poradi-chudo-vo-lisabon/",
-          "published": "Thu, 29 Jan 2026 18:58:33 +0000"
+          "source": "NetPress",
+          "title": "ВИДЕО| Спрингстин објави песна во која ги критикува операциите на ICE во Минеаполис",
+          "link": "https://netpress.com.mk/video-springstin-objavi-pesna-vo-koja-gi-kritikuva-operacziite-na-ice-vo-mineapolis/",
+          "published": "Thu, 29 Jan 2026 21:53:04 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "ВИДЕО| Ники Минаж се нарече себеси најголема обожавателка на Трамп и се пофали со златна виза",
+          "link": "https://netpress.com.mk/video-niki-minazh-se-nareche-sebesi-najgolema-obozhavatelka-na-tramp-i-se-pofali-so-zlatna-viza/",
+          "published": "Thu, 29 Jan 2026 21:32:01 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Зеленски очекува спроведување на договорот да не се напаѓа Киев",
+          "link": "https://netpress.com.mk/zelenski-ochekuva-sproveduvane-na-dogovorot-da-ne-se-napaga-kiev/",
+          "published": "Thu, 29 Jan 2026 20:59:52 +0000"
         },
         {
           "source": "NetPress",
@@ -51,24 +69,6 @@
           "title": "Хегсет го информирал Трамп дека Пентагон е подготвен за Иран",
           "link": "https://netpress.com.mk/hegset-go-informiral-tramp-deka-pentagon-e-podgotven-za-iran/",
           "published": "Thu, 29 Jan 2026 20:24:35 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Тимо Вернер од Лајпциг се сели во Сан Хозе",
-          "link": "https://netpress.com.mk/timo-verner-od-lajpczig-se-seli-vo-san-hoze/",
-          "published": "Thu, 29 Jan 2026 20:09:40 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Министерството за спорт додели 500 стипендии „Спортска надеж“",
-          "link": "https://netpress.com.mk/ministerstvoto-za-sport-dodeli-500-stipendii-sportska-nadezh/",
-          "published": "Thu, 29 Jan 2026 19:56:35 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "ПССЕ го затвори пост-мониторинг дијалогот со Македонија отворен 2000-та, важно институционално признание за напредокот на државата",
-          "link": "https://netpress.com.mk/psse-go-zatvori-post-monitoring-dijalogot-so-makedonija-otvoren-2000-ta-vazhno-instituczionalno-priznanie-za-napredokot-na-drzhavata/",
-          "published": "Thu, 29 Jan 2026 19:34:21 +0000"
         }
       ]
     },
@@ -77,15 +77,15 @@
       "items": [
         {
           "source": "BBC",
-          "title": "EU adds Iran's Revolutionary Guards to terrorist list",
-          "link": "https://www.bbc.com/news/articles/c20gypw8enjo?at_medium=RSS&at_campaign=rss",
-          "published": "Thu, 29 Jan 2026 16:49:20 GMT"
+          "title": "Trump says Putin will not attack Ukraine cities during cold week",
+          "link": "https://www.bbc.com/news/articles/c4g4yj92kwro?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 29 Jan 2026 21:21:35 GMT"
         },
         {
           "source": "BBC",
-          "title": "'I can breathe again' says Israeli hostage held for nearly 500 days in Gaza",
-          "link": "https://www.bbc.com/news/articles/c8rm20gm364o?at_medium=RSS&at_campaign=rss",
-          "published": "Thu, 29 Jan 2026 16:25:40 GMT"
+          "title": "EU adds Iran's Revolutionary Guards to terrorist list",
+          "link": "https://www.bbc.com/news/articles/c20gypw8enjo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 29 Jan 2026 16:49:20 GMT"
         },
         {
           "source": "BBC",
@@ -107,6 +107,18 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Microsoft stock plunges as Wall Street questions AI investments",
+          "link": "https://www.aljazeera.com/economy/2026/1/29/microsoft-stock-plunges-as-wall-street-questions-ai-investments?traffic_source=rss",
+          "published": "Thu, 29 Jan 2026 21:37:25 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Palestinian journalist Bisan Owda regains TikTok account after outcry",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/1/29/palestinian-journalist-bisan-owda-regains-tiktok-account-after-outcry?traffic_source=rss",
+          "published": "Thu, 29 Jan 2026 21:20:28 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "‘Melania’: What to know about the US first lady’s new documentary",
           "link": "https://www.aljazeera.com/news/2026/1/29/melania-what-to-know-about-the-us-first-ladys-new-documentary?traffic_source=rss",
           "published": "Thu, 29 Jan 2026 20:15:48 +0000"
@@ -122,18 +134,6 @@
           "title": "TotalEnergies restarts $20bn LNG project in Mozambique after 5-year freeze",
           "link": "https://www.aljazeera.com/news/2026/1/29/total-restarts-20bn-lng-project-in-mozambique-after-five-year-freeze?traffic_source=rss",
           "published": "Thu, 29 Jan 2026 20:03:31 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Iran slams EU’s ‘terrorist’ designation for IRGC as hypocritical",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/1/29/iran-slams-eus-terrorist-designation-for-irgc-as-hypocritical?traffic_source=rss",
-          "published": "Thu, 29 Jan 2026 19:45:28 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Former Illinois deputy sentenced to 20 years for US killing of Sonya Massey",
-          "link": "https://www.aljazeera.com/news/2026/1/29/former-illinois-deputy-sentenced-to-20-years-for-killing-of-sonya-massey?traffic_source=rss",
-          "published": "Thu, 29 Jan 2026 19:28:40 +0000"
         }
       ]
     }
