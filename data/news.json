@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-29T21:55:05Z",
+  "updatedAt": "2026-01-29T22:58:45Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Црвена звезда и Динамо Загреб изборија место во нокаут фазата во Лига Европа",
+          "link": "https://makfax.com.mk/sport/tsrvena-zvezda-i-dinamo-zagreb-izborija-mesto-vo-nokaut-fazata-vo-liga-evropa/",
+          "published": "Thu, 29 Jan 2026 22:36:52 +0000"
         },
         {
           "source": "Makfax",
@@ -35,10 +41,22 @@
           "published": "Thu, 29 Jan 2026 19:19:04 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Загреб доделува по 800 евра за новороденче",
-          "link": "https://makfax.com.mk/svet/region/%d0%b7%d0%b0%d0%b3%d1%80%d0%b5%d0%b1-%d0%b4%d0%be%d0%b4%d0%b5%d0%bb%d1%83%d0%b2%d0%b0-%d0%bf%d0%be-800-%d0%b5%d0%b2%d1%80%d0%b0-%d0%b7%d0%b0-%d0%bd%d0%be%d0%b2%d0%be%d1%80%d0%be%d0%b4%d0%b5%d0%bd/",
-          "published": "Thu, 29 Jan 2026 19:02:08 +0000"
+          "source": "NetPress",
+          "title": "Евролига: Олимпијакос ја победи Барса, Баерн го симна Хапоел од врвот",
+          "link": "https://netpress.com.mk/evroliga-olimpijakos-ja-pobedi-barsa-baern-go-simna-hapoel-od-vrvot/",
+          "published": "Thu, 29 Jan 2026 22:53:40 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Лига Европа: Резултати и конечен пласман",
+          "link": "https://netpress.com.mk/liga-evropa-rezultati-i-konechen-plasman/",
+          "published": "Thu, 29 Jan 2026 22:17:27 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Ален Рустемовски и Катерина Попева избрани за спортисти на годината",
+          "link": "https://netpress.com.mk/alen-rustemovski-i-katerina-popeva-izbrani-za-sportisti-na-godinata/",
+          "published": "Thu, 29 Jan 2026 21:57:01 +0000"
         },
         {
           "source": "NetPress",
@@ -51,24 +69,6 @@
           "title": "ВИДЕО| Ники Минаж се нарече себеси најголема обожавателка на Трамп и се пофали со златна виза",
           "link": "https://netpress.com.mk/video-niki-minazh-se-nareche-sebesi-najgolema-obozhavatelka-na-tramp-i-se-pofali-so-zlatna-viza/",
           "published": "Thu, 29 Jan 2026 21:32:01 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Зеленски очекува спроведување на договорот да не се напаѓа Киев",
-          "link": "https://netpress.com.mk/zelenski-ochekuva-sproveduvane-na-dogovorot-da-ne-se-napaga-kiev/",
-          "published": "Thu, 29 Jan 2026 20:59:52 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Србија: Рекордна заплена на дрога, пет тони марихуана вредна до 10 милиони евра",
-          "link": "https://netpress.com.mk/srbija-rekordna-zaplena-na-droga-pet-toni-marihuana-vredna-do-10-milioni-evra/",
-          "published": "Thu, 29 Jan 2026 20:44:52 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Хегсет го информирал Трамп дека Пентагон е подготвен за Иран",
-          "link": "https://netpress.com.mk/hegset-go-informiral-tramp-deka-pentagon-e-podgotven-za-iran/",
-          "published": "Thu, 29 Jan 2026 20:24:35 +0000"
         }
       ]
     },
@@ -80,6 +80,12 @@
           "title": "Trump says Putin will not attack Ukraine cities during cold week",
           "link": "https://www.bbc.com/news/articles/c4g4yj92kwro?at_medium=RSS&at_campaign=rss",
           "published": "Thu, 29 Jan 2026 21:21:35 GMT"
+        },
+        {
+          "source": "BBC",
+          "title": "Agents in Minneapolis could be pulled back if local officials cooperate, border tsar says",
+          "link": "https://www.bbc.com/news/articles/cvg1l8zgglpo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 29 Jan 2026 21:06:54 GMT"
         },
         {
           "source": "BBC",
@@ -100,10 +106,10 @@
           "published": "Thu, 29 Jan 2026 17:48:24 GMT"
         },
         {
-          "source": "BBC",
-          "title": "Israeli media cite official accepting Hamas figure of 70,000 war dead",
-          "link": "https://www.bbc.com/news/articles/cvgpd1x00exo?at_medium=RSS&at_campaign=rss",
-          "published": "Thu, 29 Jan 2026 19:10:20 GMT"
+          "source": "Al Jazeera",
+          "title": "Burkina Faso’s military government dissolves political parties",
+          "link": "https://www.aljazeera.com/news/2026/1/29/burkina-faso-military-government-dissolves-political-parties?traffic_source=rss",
+          "published": "Thu, 29 Jan 2026 21:53:10 +0000"
         },
         {
           "source": "Al Jazeera",
@@ -128,12 +134,6 @@
           "title": "France moves to ban social media for users under 15",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/1/29/france-moves-to-ban-social-media-for-users-under-15?traffic_source=rss",
           "published": "Thu, 29 Jan 2026 20:04:58 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "TotalEnergies restarts $20bn LNG project in Mozambique after 5-year freeze",
-          "link": "https://www.aljazeera.com/news/2026/1/29/total-restarts-20bn-lng-project-in-mozambique-after-five-year-freeze?traffic_source=rss",
-          "published": "Thu, 29 Jan 2026 20:03:31 +0000"
         }
       ]
     }
