@@ -11,91 +11,89 @@
     <style>
         :root { 
             --gold: #c5a059; 
-            --bg: #121212; /* Осветлена црна (Obsidian) */
+            --bg: #121212; 
             --card: #1e1e1e; 
             --text: #e0e0e0; 
-            --neon-blue: #00d4ff; 
-            --x-yellow: #ffff00;
             --shield-green: #00ff41;
+            --x-yellow: #ffff00;
         }
 
         body { font-family: 'Roboto', sans-serif; background: var(--bg); color: var(--text); margin: 0; overflow-x: hidden; }
 
-        /* ШТИТНИК АЛАТКА */
+        /* ШТИТНИК АЛАТКА - КЛИКНИ ЗА "ЗА НАС" */
         .shield-header { 
             background: linear-gradient(90deg, #000, #1a1a1a); color: var(--shield-green); 
             font-family: 'Orbitron'; font-size: 0.8rem; padding: 12px; text-align: center;
             border-bottom: 2px solid var(--shield-green); box-shadow: 0 0 15px var(--shield-green);
+            cursor: pointer; position: sticky; top: 0; z-index: 2000;
         }
 
         #google_translate_element { background: #000; padding: 10px; border-bottom: 1px solid var(--gold); text-align: center; }
 
         header { background: #000; border-bottom: 4px solid var(--gold); padding: 30px; text-align: center; }
-        .hero-img { width: 180px; border: 2px solid var(--gold); border-radius: 50%; box-shadow: 0 0 25px var(--gold); transition: 0.5s; }
-        .hero-img:hover { transform: rotate(360deg); }
-        h1 { font-family: 'Cinzel'; font-size: 2.5rem; color: var(--gold); margin: 15px 0; letter-spacing: 5px; }
+        .hero-img { width: 160px; border: 2px solid var(--gold); border-radius: 50%; box-shadow: 0 0 25px var(--gold); }
+        h1 { font-family: 'Cinzel'; font-size: clamp(1.5rem, 5vw, 2.5rem); color: var(--gold); margin: 15px 0; letter-spacing: 5px; }
 
-        /* НАВИГАЦИЈА - 1312 РАСПРЕДЕЛБА */
-        .nav-scroller { background: #0a0a0a; border-bottom: 2px solid var(--gold); display: flex; overflow-x: auto; padding: 15px; gap: 8px; position: sticky; top: 0; z-index: 1000; }
+        /* NAV SCROLLER */
+        .nav-scroller { background: #0a0a0a; border-bottom: 2px solid var(--gold); display: flex; overflow-x: auto; padding: 15px; gap: 8px; }
         .sector-btn { 
-            background: #1a1a1a; border: 1px solid var(--gold); color: var(--gold); padding: 12px 25px; 
-            font-family: 'Orbitron'; cursor: pointer; white-space: nowrap; font-size: 0.8rem; font-weight: bold; 
-            transition: 0.3s; text-transform: uppercase;
+            background: #1a1a1a; border: 1px solid var(--gold); color: var(--gold); padding: 10px 20px; 
+            font-family: 'Orbitron'; cursor: pointer; white-space: nowrap; font-size: 0.75rem; font-weight: bold; 
+            text-transform: uppercase;
         }
-        .sector-btn:hover { background: var(--gold); color: #000; box-shadow: 0 0 15px var(--gold); }
+        .sector-btn:hover { background: var(--gold); color: #000; }
 
         .container { display: grid; grid-template-columns: 280px 1fr 280px; gap: 20px; padding: 20px; }
-        @media (max-width: 1024px) { .container { grid-template-columns: 1fr; } .sidebar { display: none; } }
+        @media (max-width: 1100px) { .container { grid-template-columns: 1fr; } .sidebar { display: none; } }
 
         .sidebar { background: #181818; padding: 20px; border-radius: 10px; border: 1px solid #333; height: fit-content; }
-        .section-title { color: var(--gold); font-family: 'Orbitron'; font-size: 0.8rem; border-bottom: 2px solid var(--gold); margin-bottom: 15px; padding-bottom: 8px; text-align: center; }
+        .section-title { color: var(--gold); font-family: 'Orbitron'; font-size: 0.8rem; border-bottom: 2px solid var(--gold); margin: 20px 0 10px; padding-bottom: 5px; text-align: center; }
         
         .side-btn { 
             display: block; width: 100%; text-align: left; background: none; border: none; padding: 10px; 
             color: #bbb; cursor: pointer; border-bottom: 1px solid #2a2a2a; text-decoration: none; font-size: 0.9rem;
         }
-        .side-btn:hover { color: var(--gold); background: #222; padding-left: 15px; }
+        .side-btn:hover { color: var(--gold); background: #222; }
 
-        /* ВЕСТИ - КАРТИЧКИ */
-        .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: 20px; }
-        .card { background: var(--card); border-radius: 12px; overflow: hidden; border: 1px solid #333; border-bottom: 4px solid var(--gold); cursor: pointer; position: relative; transition: 0.4s; }
-        .card:hover { transform: translateY(-10px); box-shadow: 0 10px 20px rgba(0,0,0,0.5); }
-        .card img { width: 100%; height: 200px; object-fit: cover; }
-        
-        /* ИНФО ГОРЕ ЛЕВО (ТОЧКА 10) */
+        /* ВЕСТИ ГРИД */
+        .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 20px; }
+        .card { background: var(--card); border-radius: 12px; overflow: hidden; border: 1px solid #333; border-bottom: 5px solid var(--gold); cursor: pointer; position: relative; }
         .card-meta { 
-            position: absolute; top: 0; left: 0; background: rgba(0,0,0,0.8); color: var(--gold); 
+            position: absolute; top: 0; left: 0; background: rgba(0,0,0,0.85); color: var(--gold); 
             padding: 5px 10px; font-size: 0.65rem; font-family: 'Orbitron'; border-bottom-right-radius: 10px; z-index: 10;
         }
+        .card img { width: 100%; height: 180px; object-fit: cover; }
 
         /* СОЦИЈАЛНИ МРЕЖИ - ЖОЛТО X */
-        .social-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; text-align: center; }
-        .social-grid a { color: var(--gold); font-size: 1.8rem; text-decoration: none; transition: 0.3s; }
-        .x-yellow { color: var(--x-yellow) !important; filter: drop-shadow(0 0 5px var(--x-yellow)); }
+        .social-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 15px; text-align: center; }
+        .social-grid a { color: var(--gold); font-size: 2rem; text-decoration: none; }
+        .x-brand { color: var(--x-yellow) !important; filter: drop-shadow(0 0 5px var(--x-yellow)); }
 
-        /* ПЛАЌАЊЕ */
-        .pay-icons { display: flex; justify-content: space-around; font-size: 3rem; color: #fff; margin: 15px 0; }
-        
-        /* МАКЕДОН МЕСИНЏЕР БАНЕР */
-        .messenger-banner { 
-            margin-top: 50px; padding: 20px; background: linear-gradient(45deg, #003366, #00d4ff); 
+        /* ПЛАЌАЊА */
+        .pay-icons { display: flex; justify-content: space-around; font-size: 3.5rem; color: #fff; margin: 20px 0; }
+
+        /* МАКЕДОН МЕСИНЏЕР */
+        .messenger-box { 
+            margin-top: 40px; padding: 15px; background: linear-gradient(45deg, #003366, #00d4ff); 
             color: #fff; border-radius: 8px; text-align: center; font-family: 'Orbitron'; font-size: 0.8rem;
             cursor: pointer; border: 1px solid #fff;
         }
 
-        .mini-map { width: 100%; height: 180px; border: 1px solid var(--gold); filter: invert(0.9); border-radius: 5px; }
         .email-footer { 
-            display: block; text-align: center; color: var(--gold); font-size: 1.4rem; 
-            font-weight: 900; margin-top: 20px; text-decoration: none; padding: 15px; border: 2px solid var(--gold);
+            display: block; text-align: center; color: var(--gold); font-size: 1.3rem; 
+            font-weight: 900; margin-top: 20px; text-decoration: none; padding: 10px; border: 2px solid var(--gold);
         }
 
-        footer { background: #000; padding: 40px; text-align: center; color: var(--gold); font-family: 'Orbitron'; font-size: 0.7rem; }
+        /* ABOUT MODAL */
+        #about-modal { display: none; position: fixed; z-index: 3000; left: 0; top: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.9); overflow-y: auto; }
+        .modal-content { background: #1a1a1a; margin: 5% auto; padding: 30px; width: 80%; max-width: 800px; border: 2px solid var(--gold); border-radius: 15px; line-height: 1.6; }
+        .close-modal { color: var(--gold); float: right; font-size: 2rem; cursor: pointer; }
     </style>
 </head>
 <body>
 
-<div class="shield-header">
-    <i class="fas fa-user-shield"></i> ШТИТНИК: СИСТЕМ ЗА ВЕРИФИКАЦИЈА НА ВЕСТИ АКТИВИРАН | МАКЕДОНИЈА 1312
+<div class="shield-header" onclick="document.getElementById('about-modal').style.display='block'">
+    <i class="fas fa-user-shield"></i> ШТИТНИК: ВЕРИФИКУВАНИ ИНФОРМАЦИИ | КЛИКНИ ЗА МИСИЈА
 </div>
 
 <div id="google_translate_element"></div>
@@ -110,83 +108,88 @@
     <button class="sector-btn" onclick="vacuum('Balkans')">БАЛКАН</button>
     <button class="sector-btn" onclick="vacuum('Europe')">ЕВРОПА</button>
     <button class="sector-btn" onclick="vacuum('Asia')">АЗИЈА</button>
-    <button class="sector-btn" onclick="vacuum('India')">ИНДИЈА</button>
-    <button class="sector-btn" onclick="vacuum('Africa')">АФРИКА</button>
+    <button class="sector-btn" onclick="vacuum('India News')">ИНДИЈА</button>
+    <button class="sector-btn" onclick="vacuum('Africa News')">АФРИКА</button>
     <button class="sector-btn" onclick="vacuum('USA News')">АМЕРИКА</button>
     <button class="sector-btn" onclick="vacuum('Australia')">АВСТРАЛИЈА</button>
     <button class="sector-btn" onclick="vacuum('Antarctica')">АНТАРКТИК</button>
-    <button class="sector-btn" onclick="vacuum('Oceans Atlantic Pacific Indian')">ОКЕАНИ</button>
+    <button class="sector-btn" onclick="vacuum('Oceans')">ОКЕАНИ</button>
 </div>
 
 <div class="container">
     <aside class="sidebar">
-        <div class="section-title">РУБРИКИ 1312</div>
-        <button class="side-btn" onclick="vacuum('Protocol Diplomacy')">● ПРОТОКОЛ & ДИПЛОМАТИЈА</button>
-        <button class="side-btn" onclick="vacuum('Public Relations')">● ОДНОСИ СО ЈАВНОСТ</button>
+        <div class="section-title">РУБРИКИ</div>
+        <button class="side-btn" onclick="vacuum('Diplomacy Protocol')">● ПРОТОКОЛ & ДИПЛОМАТИЈА</button>
         <button class="side-btn" onclick="vacuum('Security News')">● БЕЗБЕДНОСТ</button>
         <button class="side-btn" onclick="vacuum('Politics')">● ПОЛИТИКА</button>
-        <button class="side-btn" onclick="vacuum('Business Economy')">● БИЗНИС & ЕКОНОМИЈА</button>
+        <button class="side-btn" onclick="vacuum('Economy Business')">● ЕКОНОМИЈА & БИЗНИС</button>
         <button class="side-btn" onclick="vacuum('Health')">● ЗДРАВЈЕ</button>
         <button class="side-btn" onclick="vacuum('Entertainment')">● ЗАБАВА</button>
         <button class="side-btn" onclick="vacuum('Culture Art')">● КУЛТУРА & УМЕТНОСТ</button>
-        <button class="side-btn" onclick="vacuum('Travel')">● ПАТУВАЊЕ</button>
         <button class="side-btn" onclick="vacuum('Science')">● НАУКА</button>
-        <button class="side-btn" onclick="vacuum('Weather Macedonia')">● ВРЕМЕ</button>
         <button class="side-btn" onclick="vacuum('Sports')">● СПОРТ</button>
-        <button class="side-btn" onclick="vacuum('Latest Live')">● ВО ЖИВО</button>
+        <button class="side-btn" onclick="vacuum('Live News')">● ВО ЖИВО</button>
 
-        <div class="section-title" style="margin-top:20px;">AI МОЗОК</div>
+        <div class="section-title">AI СТРАТЕЗИ</div>
         <a href="https://gemini.google.com" target="_blank" class="side-btn" style="color:var(--shield-green)">● GEMINI АСИСТЕНТ</a>
-        <a href="https://chatgpt.com" target="_blank" class="side-btn">● CHAT GPT</a>
-        <a href="https://claude.ai" target="_blank" class="side-btn">● CLAUDE</a>
+        <a href="https://chatgpt.com" target="_blank" class="side-btn">● CHAT GPT-4</a>
+        <a href="https://claude.ai" target="_blank" class="side-btn">● CLAUDE AI</a>
         <a href="https://deepseek.com" target="_blank" class="side-btn">● DEEPSEEK</a>
-        <a href="https://x.com/i/grok" target="_blank" class="side-btn">● GROK</a>
+        <a href="https://x.com/i/grok" target="_blank" class="side-btn">● GROK (X)</a>
         <a href="https://perplexity.ai" target="_blank" class="side-btn">● PERPLEXITY</a>
 
-        <div class="messenger-banner" onclick="window.open('https://t.me/yourlink','_blank')">
-            <i class="fab fa-telegram"></i> МАКЕДОН МЕСИНЏЕР <br> <small>КЛИКНИ ЗА ПОВРЗУВАЊЕ</small>
-        </div>
+        <div class="messenger-box" onclick="window.open('https://messenger.com','_blank')">МАКЕДОН МЕСИНЏЕР</div>
     </aside>
 
     <main id="news-grid" class="grid"></main>
 
     <aside class="sidebar">
-        <div class="section-title">МРЕЖИ & МЕСИНЏЕРИ</div>
+        <div class="section-title">МРЕЖИ 1312</div>
         <div class="social-grid">
             <a href="https://facebook.com" target="_blank"><i class="fab fa-facebook"></i></a>
             <a href="https://instagram.com" target="_blank"><i class="fab fa-instagram"></i></a>
             <a href="https://tiktok.com" target="_blank"><i class="fab fa-tiktok"></i></a>
-            <a href="https://x.com/makedonworldnew" target="_blank" class="x-yellow"><i class="fab fa-x-twitter"></i></a>
+            <a href="https://x.com/makedonworldnew" target="_blank" class="x-brand"><i class="fab fa-x-twitter"></i></a>
             <a href="https://youtube.com" target="_blank"><i class="fab fa-youtube"></i></a>
             <a href="https://rumble.com" target="_blank"><i class="fas fa-play"></i></a>
-            <a href="https://truthsocial.com" target="_blank"><i class="fas fa-t"></i></a>
+            <a href="https://truthsocial.com" target="_blank"><i class="fas fa-flag-usa"></i></a>
             <a href="https://linkedin.com" target="_blank"><i class="fab fa-linkedin"></i></a>
             <a href="https://academia.edu" target="_blank"><i class="fas fa-graduation-cap"></i></a>
         </div>
 
-        <div class="section-title">МОНЕТИЗАЦИЈА</div>
+        <div class="section-title">ПЛАЌАЊА</div>
         <div class="pay-icons">
-            <i class="fab fa-cc-paypal" title="PayPal"></i>
-            <i class="fab fa-cc-stripe" title="Stripe"></i>
-            <i class="fab fa-cc-visa" title="Visa"></i>
-            <i class="fab fa-cc-mastercard" title="Mastercard"></i>
+            <i class="fab fa-cc-paypal" style="color:#003087"></i>
+            <i class="fab fa-cc-stripe" style="color:#6772e5"></i>
+            <i class="fab fa-cc-visa"></i>
+            <i class="fab fa-cc-mastercard"></i>
         </div>
 
-        <div class="section-title">ЛОКАЦИЈА</div>
-        <iframe class="mini-map" src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d3000000!2d21.7!3d41.6!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1smk!2smk!4v123456789"></iframe>
+        <div class="section-title">САТЕЛИТ</div>
+        <iframe style="width:100%; height:180px; filter:invert(0.8);" src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d10000000!2d21.7453!3d41.6086!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e1!3m2!1smk!2s!4v1234567892"></iframe>
         <a href="mailto:makedonworldnews@gmail.com" class="email-footer">makedonworldnews@gmail.com</a>
     </aside>
 </div>
 
-<footer>MAKEDON WORLD NEWS // 2026 // СТРАТЕШКИ ХАБ</footer>
+<div id="about-modal">
+    <div class="modal-content">
+        <span class="close-modal" onclick="document.getElementById('about-modal').style.display='none'">&times;</span>
+        <h2 style="color:var(--gold); font-family:Orbitron;">🛡️ ЗА НАС / ABOUT</h2>
+        <p><b>Makedon World News</b> е независен агрегатор на вести од Република Северна Македонија, Балканот, Европа и светот. Со цел корисниците да добијат брз и структуриран преглед, собираме информации од доверливи медиумски извори.</p>
+        <h3 style="color:var(--gold);">🎯 НАШАТА МИСИЈА</h3>
+        <ul>
+            <li>Слободен пристап до информации</li>
+            <li>Поттикнување медиумска писменост</li>
+            <li>Намалување на влијанието на дезинформации</li>
+        </ul>
+        <h3 style="color:var(--gold);">🔐 ДОВЕРБА & ТРАНСПАРЕНТНОСТ</h3>
+        <p>Ние не креираме оригинална новинарска содржина – само агрегираме и упатуваме кон оригинални извори со јасно наведување на изворот за секоја вест.</p>
+    </div>
+</div>
 
 <script type="text/javascript">
 function googleTranslateElementInit() {
-  new google.translate.TranslateElement({
-      pageLanguage: 'mk',
-      includedLanguages: '', // Празно за сите 150+ јазици
-      layout: google.translate.TranslateElement.InlineLayout.SIMPLE
-  }, 'google_translate_element');
+  new google.translate.TranslateElement({pageLanguage: 'mk', layout: google.translate.TranslateElement.InlineLayout.SIMPLE}, 'google_translate_element');
 }
 </script>
 <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
@@ -194,8 +197,7 @@ function googleTranslateElementInit() {
 <script>
     async function vacuum(q) {
         const grid = document.getElementById('news-grid');
-        grid.innerHTML = "<div style='grid-column:1/-1; text-align:center; padding:50px; color:var(--gold); font-family:Orbitron;'>ВШМУКУВАЊЕ НА ВЕСТИ ЗА " + q.toUpperCase() + "...</div>";
-        
+        grid.innerHTML = "<div style='grid-column:1/-1; text-align:center; padding:50px; color:var(--gold);'>ВШМУКУВАЊЕ " + q.toUpperCase() + "...</div>";
         const rssUrl = `https://news.google.com/rss/search?q=${encodeURIComponent(q)}&hl=mk&gl=MK&ceid=MK:mk`;
         const api = `https://api.rss2json.com/v1/api.json?rss_url=${encodeURIComponent(rssUrl)}`;
 
@@ -204,30 +206,17 @@ function googleTranslateElementInit() {
             const data = await res.json();
             if (data.status === 'ok') {
                 grid.innerHTML = data.items.map(item => {
-                    const date = new Date(item.pubDate);
-                    const dateStr = date.toLocaleDateString('mk-MK') + " | " + date.getHours() + ":" + (date.getMinutes()<10?'0':'') + date.getMinutes();
-                    // Извлекување извор од насловот
                     const source = item.title.split('-').pop().trim();
-                    const cleanTitle = item.title.replace(source, '').replace(' - ', '');
-
+                    const date = new Date(item.pubDate).toLocaleString('mk-MK');
                     return `
                         <div class="card" onclick="window.open('${item.link}', '_blank')">
-                            <div class="card-meta">
-                                <i class="fas fa-newspaper"></i> ${source} <br>
-                                <i class="far fa-clock"></i> ${dateStr}
-                            </div>
-                            <img src="https://picsum.photos/seed/${Math.random()}/500/300" alt="News">
-                            <div style="padding:15px;">
-                                <div style="color:var(--gold); font-size:0.7rem; text-transform:uppercase; margin-bottom:5px;">ТЕМА: ${q}</div>
-                                <div style="font-weight:bold; font-size:1rem; line-height:1.3;">${cleanTitle}</div>
-                            </div>
-                        </div>
-                    `;
+                            <div class="card-meta"><b>${source}</b><br>${date}</div>
+                            <img src="https://picsum.photos/seed/${Math.random()}/400/250">
+                            <div style="padding:15px; font-weight:bold; font-size:1rem;">${item.title.split('-')[0]}</div>
+                        </div>`;
                 }).join('');
             }
-        } catch (e) {
-            grid.innerHTML = "<div style='grid-column:1/-1; text-align:center; color:red;'>ГРЕШКА ПРИ ПОВРЗУВАЊЕ СО 1312 МРЕЖАТА.</div>";
-        }
+        } catch (e) { grid.innerHTML = "ГРЕШКА ПРИ ПОВРЗУВАЊЕ."; }
     }
     window.onload = () => vacuum('Macedonia News');
 </script>
