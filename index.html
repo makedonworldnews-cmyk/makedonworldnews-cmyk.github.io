@@ -3,90 +3,81 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>MAKEDON WORLD NEWS | COMMAND CENTER 1312</title>
+    <title>MAKEDON WORLD NEWS | GLOBAL COMMAND 1312</title>
     <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700;900&family=Cinzel:wght@700&family=Exo+2:wght@300;600;800&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
     <style>
         :root { --gold: #D4AF37; --bg: #0a0a0c; --card: #15151a; --sg: #00ff88; --text: #f0f0f5; --red: #c8102e; }
-        body { background: var(--bg); color: var(--text); font-family: 'Exo 2', sans-serif; margin: 0; padding-bottom: 100px; }
+        body { background: var(--bg); color: var(--text); font-family: 'Exo 2', sans-serif; margin: 0; padding-bottom: 120px; overflow-x: hidden; }
         
-        #google_translate_element { background: #000; padding: 10px; text-align: center; border-bottom: 2px solid var(--gold); }
-        .top-status { background: #000; color: var(--sg); font-family: 'Orbitron'; padding: 12px; text-align: center; border-bottom: 3px solid var(--gold); font-size: 11px; letter-spacing: 2px; }
+        #google_translate_element { background: #000; padding: 5px; text-align: center; border-bottom: 2px solid var(--gold); }
+        .top-status { background: #000; color: var(--sg); font-family: 'Orbitron'; padding: 10px; text-align: center; border-bottom: 3px solid var(--gold); font-size: 11px; letter-spacing: 2px; }
 
-        header { background: radial-gradient(circle, #1a1a24 0%, #000 100%); padding: 30px; text-align: center; border-bottom: 5px solid var(--gold); }
-        h1 { font-family: 'Cinzel'; color: var(--gold); font-size: clamp(1.5rem, 5vw, 3rem); margin: 15px 0; text-shadow: 0 0 20px rgba(212,175,55,0.4); }
-        .hero-main { width: 110px; border: 3px solid var(--gold); border-radius: 50%; box-shadow: 0 0 25px var(--gold); cursor: pointer; transition: 0.5s; }
+        header { background: radial-gradient(circle, #1a1a24 0%, #000 100%); padding: 25px; text-align: center; border-bottom: 5px solid var(--gold); }
+        h1 { font-family: 'Cinzel'; color: var(--gold); font-size: clamp(1.5rem, 5vw, 2.8rem); margin: 10px 0; text-shadow: 0 0 20px rgba(212,175,55,0.4); }
+        .hero-main { width: 100px; border: 3px solid var(--gold); border-radius: 50%; cursor: pointer; transition: 0.5s; box-shadow: 0 0 20px var(--gold); }
 
-        /* NAVIGATION SYSTEMS */
-        .nav-panel { background: #000; border-bottom: 2px solid var(--gold); padding: 12px; position: sticky; top: 0; z-index: 1000; }
-        .nav-row { display: flex; justify-content: center; gap: 8px; flex-wrap: wrap; margin-bottom: 8px; }
-        .n-btn { background: #111; border: 1px solid var(--gold); color: var(--gold); padding: 7px 14px; font-family: 'Orbitron'; font-size: 10px; cursor: pointer; border-radius: 4px; font-weight: bold; transition: 0.2s; }
-        .n-btn:hover { background: var(--gold); color: #000; box-shadow: 0 0 12px var(--gold); }
+        /* NAVIGATION */
+        .nav-panel { background: #000; border-bottom: 2px solid var(--gold); padding: 10px; position: sticky; top: 0; z-index: 1000; }
+        .nav-row { display: flex; justify-content: center; gap: 6px; flex-wrap: wrap; margin-bottom: 6px; }
+        .n-btn { background: #111; border: 1px solid var(--gold); color: var(--gold); padding: 6px 12px; font-family: 'Orbitron'; font-size: 9px; cursor: pointer; border-radius: 3px; font-weight: bold; transition: 0.2s; }
+        .n-btn:hover { background: var(--gold); color: #000; box-shadow: 0 0 10px var(--gold); }
 
         .layout { display: grid; grid-template-columns: 310px 1fr 350px; gap: 20px; padding: 20px; max-width: 1900px; margin: auto; }
-        @media (max-width: 1300px) { .layout { grid-template-columns: 1fr; } .side { order: 2; } }
+        @media (max-width: 1300px) { .layout { grid-template-columns: 1fr; } }
 
-        .side { background: var(--card); border: 1px solid #2d2d35; padding: 25px; border-radius: 15px; border-top: 6px solid var(--gold); height: fit-content; box-shadow: 0 10px 30px rgba(0,0,0,0.5); }
+        .side { background: var(--card); border: 1px solid #2d2d35; padding: 20px; border-radius: 12px; border-top: 5px solid var(--gold); height: fit-content; }
         
-        /* HERO HEADERS FOR SIDEBARS */
-        .side-hero-box { text-align: center; margin-bottom: 20px; border-bottom: 1px solid #333; padding-bottom: 15px; }
-        .side-hero-img { width: 80px; border: 2px solid var(--gold); border-radius: 50%; margin-bottom: 10px; box-shadow: 0 0 15px var(--gold); }
-        .side-title { font-family: 'Orbitron'; color: var(--gold); font-size: 16px; font-weight: 900; letter-spacing: 1px; }
+        .side-hero-box { text-align: center; margin-bottom: 15px; border-bottom: 1px solid #333; padding-bottom: 10px; }
+        .side-hero-img { width: 70px; border: 2px solid var(--gold); border-radius: 50%; margin-bottom: 8px; }
+        .side-title { font-family: 'Orbitron'; color: var(--gold); font-size: 14px; font-weight: 900; }
 
-        /* SOCIALS (SMALLER & CLEAN) */
-        .social-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 12px; margin-bottom: 25px; }
-        .s-item { text-align: center; font-size: 26px; color: var(--gold); transition: 0.3s; text-decoration: none; }
-        .s-item:hover { color: #fff; transform: translateY(-3px); }
-        .s-item span { display: block; font-size: 8px; margin-top: 5px; color: #888; font-family: 'Orbitron'; }
-        
-        .pay-row { display: flex; justify-content: space-around; font-size: 30px; color: rgba(255,255,255,0.1); border-top: 1px solid #333; padding-top: 20px; }
-
-        /* NEWS GRID */
-        .feed-container { display: grid; grid-template-columns: repeat(auto-fill, minmax(310px, 1fr)); gap: 20px; }
-        .news-card { background: #1c1c24; border-radius: 10px; border: 1px solid #2d2d35; overflow: hidden; transition: 0.4s; cursor: pointer; position: relative; }
-        .news-card:hover { border-color: var(--gold); transform: translateY(-5px); }
-        .shield-tag { position: absolute; top: 10px; left: 10px; background: rgba(0,0,0,0.85); color: var(--sg); padding: 4px 10px; font-size: 9px; font-family: 'Orbitron'; border: 1px solid var(--sg); z-index: 5; }
-        .news-img { width: 100%; height: 180px; object-fit: cover; }
-        .news-info { padding: 15px; }
-        .news-info b { font-size: 16px; color: #fff; line-height: 1.4; display: block; margin-bottom: 8px; }
-
-        /* INPUTS */
-        .in-1312 { width: 100%; background: #000; border: 1px solid #444; color: var(--sg); padding: 12px; margin-bottom: 10px; box-sizing: border-box; font-size: 14px; font-family: 'Exo 2'; border-radius: 4px; outline: none; }
-        .btn-1312 { width: 100%; background: var(--gold); border: none; padding: 15px; color: #000; font-family: 'Orbitron'; font-weight: 900; cursor: pointer; font-size: 13px; text-transform: uppercase; border-radius: 4px; transition: 0.3s; }
-        .btn-1312:hover { background: #fff; box-shadow: 0 0 15px #fff; }
-
-        /* KAJRON - NEWS TICKER */
-        .ticker-wrap { position: fixed; bottom: 0; left: 0; width: 100%; background: var(--red); color: white; padding: 10px 0; z-index: 2000; font-family: 'Orbitron'; font-weight: bold; border-top: 3px solid var(--gold); overflow: hidden; }
-        .ticker { display: inline-block; white-space: nowrap; animation: ticker 60s linear infinite; }
-        .ticker-item { display: inline-block; padding: 0 30px; border-right: 2px solid rgba(255,255,255,0.3); }
+        /* NEWS TICKER (KAJRON) */
+        .ticker-wrap { position: fixed; bottom: 0; left: 0; width: 100%; background: var(--red); color: #fff; padding: 12px 0; z-index: 9999; border-top: 2px solid var(--gold); font-family: 'Orbitron'; overflow: hidden; }
+        .ticker-move { display: inline-block; white-space: nowrap; animation: ticker 50s linear infinite; }
+        .ticker-item { display: inline-block; padding: 0 40px; font-size: 14px; text-transform: uppercase; }
         @keyframes ticker { 0% { transform: translateX(100%); } 100% { transform: translateX(-100%); } }
 
-        footer { background: #000; padding: 60px; text-align: center; border-top: 4px solid var(--gold); font-family: 'Orbitron'; font-size: 11px; color: #555; }
+        /* NEWS GRID */
+        .feed-container { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 20px; }
+        .news-card { background: #1c1c24; border-radius: 8px; border: 1px solid #2d2d35; overflow: hidden; transition: 0.3s; cursor: pointer; position: relative; }
+        .news-card:hover { border-color: var(--gold); transform: translateY(-5px); }
+        .shield-tag { position: absolute; top: 8px; left: 8px; background: rgba(0,0,0,0.8); color: var(--sg); padding: 3px 8px; font-size: 8px; font-family: 'Orbitron'; border: 1px solid var(--sg); z-index: 5; }
+        .news-img { width: 100%; height: 170px; object-fit: cover; }
+        .news-info { padding: 15px; }
+        .news-info b { font-size: 15px; color: #fff; line-height: 1.4; display: block; margin-bottom: 8px; }
+
+        .in-1312 { width: 100%; background: #000; border: 1px solid #444; color: var(--sg); padding: 10px; margin-bottom: 8px; font-size: 13px; font-family: 'Exo 2'; border-radius: 3px; }
+        .btn-1312 { width: 100%; background: var(--gold); border: none; padding: 12px; color: #000; font-family: 'Orbitron'; font-weight: 900; cursor: pointer; font-size: 12px; border-radius: 3px; }
+
+        .social-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; margin-bottom: 20px; text-align: center; }
+        .s-item { font-size: 24px; color: var(--gold); text-decoration: none; }
+        .s-item span { display: block; font-size: 7px; color: #777; font-family: 'Orbitron'; }
     </style>
 </head>
 <body>
 
 <div id="google_translate_element"></div>
-<div class="top-status">🛡️ MAKEDON WORLD NEWS: СИСТЕМ 1312 АКТИВИРАН | ВЕРИФИКАЦИЈА ОД ХЕРО: ОНЛАЈН</div>
+<div class="top-status">🛡️ STATUS: IGNITION ACTIVE | SHIELD 1312 | ВЕРИФИКАЦИЈА НА СИСТЕМОТ...</div>
 
 <header>
-    <img src="https://raw.githubusercontent.com/makedonworldnews-cmyk/makedonworldnews-cmyk.github.io/main/hero.jpg" class="hero-main" onclick="ignite('Macedonia News')">
+    <img src="https://raw.githubusercontent.com/makedonworldnews-cmyk/makedonworldnews-cmyk.github.io/main/hero.jpg" class="hero-main" onclick="ignite('Macedonia')">
     <h1>MAKEDON WORLD NEWS</h1>
 </header>
 
-<div class="nav-panel">
+<nav class="nav-panel">
     <div class="nav-row">
-        <button class="n-btn" onclick="ignite('Macedonia News')">🇲🇰 МАКЕДОНИЈА</button>
-        <button class="n-btn" onclick="ignite('Balkan News')">🌍 БАЛКАН</button>
-        <button class="n-btn" onclick="ignite('Europe News')">🇪🇺 ЕВРОПА</button>
-        <button class="n-btn" onclick="ignite('Asia News')">🌏 АЗИЈА</button>
-        <button class="n-btn" onclick="ignite('India News')">🇮🇳 ИНДИЈА</button>
-        <button class="n-btn" onclick="ignite('Africa News')">🌍 АФРИКА</button>
-        <button class="n-btn" onclick="ignite('USA News')">🇺🇸 АМЕРИКА</button>
-        <button class="n-btn" onclick="ignite('Australia News')">🇦🇺 АВСТРАЛИЈА</button>
+        <button class="n-btn" onclick="ignite('Macedonia')">🇲🇰 МАКЕДОНИЈА</button>
+        <button class="n-btn" onclick="ignite('Balkan')">🌍 БАЛКАН</button>
+        <button class="n-btn" onclick="ignite('Europe')">🇪🇺 ЕВРОПА</button>
+        <button class="n-btn" onclick="ignite('Asia')">🌏 АЗИЈА</button>
+        <button class="n-btn" onclick="ignite('India')">🇮🇳 ИНДИЈА</button>
+        <button class="n-btn" onclick="ignite('Africa')">🌍 АФРИКА</button>
+        <button class="n-btn" onclick="ignite('USA')">🇺🇸 АМЕРИКА</button>
+        <button class="n-btn" onclick="ignite('Australia')">🇦🇺 АВСТРАЛИЈА</button>
         <button class="n-btn" onclick="ignite('Antarctica')">❄️ АНТАРКТИК</button>
-        <button class="n-btn" onclick="ignite('Oceans News')">🌊 ОКЕАНИ</button>
-        <button class="n-btn" onclick="ignite('World News')">🌐 СВЕТ</button>
+        <button class="n-btn" onclick="ignite('Oceans')">🌊 ОКЕАНИ</button>
+        <button class="n-btn" onclick="ignite('World')">🌐 СВЕТ</button>
     </div>
     <div class="nav-row">
         <button class="n-btn" onclick="ignite('Diplomatic Protocol')">ПРОТОКОЛ</button>
@@ -96,7 +87,7 @@
         <button class="n-btn" onclick="ignite('Politics')">ПОЛИТИКА</button>
         <button class="n-btn" onclick="ignite('Business')">БИЗНИС</button>
         <button class="n-btn" onclick="ignite('Economy')">ЕКОНОМИЈА</button>
-        <button class="n-btn" onclick="ignite('Health News')">ЗДРАВЈЕ</button>
+        <button class="n-btn" onclick="ignite('Health')">ЗДРАВЈЕ</button>
         <button class="n-btn" onclick="ignite('Entertainment')">ЗАБАВА</button>
         <button class="n-btn" onclick="ignite('Culture Art')">КУЛТУРА-УМЕТНОСТ</button>
         <button class="n-btn" onclick="ignite('Travel')">ПАТУВАЊЕ</button>
@@ -106,7 +97,7 @@
         <button class="n-btn" onclick="ignite('Latest News')">НАЈНОВИ</button>
         <button class="n-btn" onclick="ignite('Live News')">🔴 ВО ЖИВО</button>
     </div>
-</div>
+</nav>
 
 <div class="layout">
     <aside class="side">
@@ -114,20 +105,21 @@
             <img src="https://raw.githubusercontent.com/makedonworldnews-cmyk/makedonworldnews-cmyk.github.io/main/hero.jpg" class="side-hero-img">
             <div class="side-title">Makedon Messenger</div>
         </div>
-        <div id="term" style="height:180px; background:#000; padding:15px; color:var(--sg); font-family:monospace; font-size:12px; overflow-y:auto; border:1px solid #333; margin-bottom:15px;">
-            [1312] СИСТЕМОТ Е ПОДГОТВЕН...<br>
-            [STATUS] ПРЕНОСОТ Е ВКЛУЧЕН.
-        </div>
-        <input id="msgName" class="in-1312" placeholder="ИМЕ">
-        <input id="msgTel" class="in-1312" placeholder="ТЕЛЕФОН">
-        <textarea id="msgText" class="in-1312" rows="4" placeholder="ВАШАТА ПОРАКА..."></textarea>
-        <button class="btn-1312" onclick="sendM()">ИСПРАТИ</button>
+        <input id="mName" class="in-1312" placeholder="Име">
+        <input id="mTel" class="in-1312" placeholder="Тел">
+        <textarea id="mMsg" class="in-1312" rows="4" placeholder="Порака..."></textarea>
+        <button class="btn-1312" onclick="send('Msg')">ПРАТИ</button>
     </aside>
 
-    <main class="feed-container" id="newsGrid"></main>
+    <main class="feed-container" id="newsGrid">
+        <div style="grid-column:1/-1; text-align:center; padding:100px;">
+            <i class="fas fa-satellite-dish fa-spin fa-3x" style="color:var(--gold)"></i>
+            <p style="font-family:Orbitron; margin-top:20px;">ПОВРЗУВАЊЕ СО САТЕЛИТ...</p>
+        </div>
+    </main>
 
     <aside class="side">
-        <div class="h-sec">СОЦИЈАЛНИ МРЕЖИ</div>
+        <div class="h-sec" style="text-align:center; font-family:Orbitron; color:var(--gold); margin-bottom:15px; font-size:12px;">СОЦИЈАЛНИ МРЕЖИ</div>
         <div class="social-grid">
             <a href="#" class="s-item"><i class="fab fa-facebook"></i><span>FB</span></a>
             <a href="#" class="s-item"><i class="fab fa-instagram"></i><span>INSTA</span></a>
@@ -136,38 +128,22 @@
             <a href="#" class="s-item"><i class="fab fa-youtube"></i><span>YT</span></a>
             <a href="#" class="s-item"><i class="fab fa-linkedin"></i><span>IN</span></a>
         </div>
-
-        <div class="pay-row">
-            <i class="fab fa-cc-paypal"></i>
-            <i class="fab fa-cc-stripe"></i>
-            <i class="fab fa-cc-visa"></i>
-            <i class="fab fa-cc-mastercard"></i>
-        </div>
-
-        <div class="side-hero-box" style="margin-top:40px;">
+        <div class="side-hero-box" style="margin-top:20px;">
             <img src="https://raw.githubusercontent.com/makedonworldnews-cmyk/makedonworldnews-cmyk.github.io/main/hero.jpg" class="side-hero-img">
             <div class="side-title">Makedon Mail</div>
         </div>
-        <input id="mailName" class="in-1312" placeholder="ОД ПРЕЗИМЕ">
-        <input id="mailSub" class="in-1312" placeholder="ПРЕДМЕТ">
-        <textarea id="mailBody" class="in-1312" rows="6" placeholder="Внесете го вашиот извештај..."></textarea>
-        <button class="btn-1312" onclick="sendE()">ВЕРИФИКУВАЈ И ПРАТИ</button>
+        <input id="eName" class="in-1312" placeholder="Име">
+        <input id="eSub" class="in-1312" placeholder="Предмет">
+        <textarea id="eBody" class="in-1312" rows="5" placeholder="Извештај..."></textarea>
+        <button class="btn-1312" onclick="send('Mail')">ВЕРИФИКУВАЈ И ПРАТИ</button>
     </aside>
 </div>
 
-<div class="ticker-wrap">
-    <div class="ticker" id="tickerContent">
-        <span class="ticker-item">MAKEDON WORLD NEWS: СИСТЕМ ЗА ВЕРИФИКАЦИЈА 1312 Е ВКЛУЧЕН</span>
-        <span class="ticker-item">УЛТРА-БРЗО ОСВЕЖУВАЊЕ НА 4 СЕКУНДИ</span>
-        <span class="ticker-item">ГЛОБАЛНА МРЕЖА НА ВЕСТИ ПРЕКУ GOOGLE RSS</span>
-    </div>
-</div>
-
-<footer>MAKEDON WORLD NEWS &copy; 2026 | ПОД ЗАШТИТА НА ШТИТНИК 1312</footer>
+<div class="ticker-wrap"><div class="ticker-move" id="tickerBox">ВЧИТУВАЊЕ НА НАЈНОВИТЕ ВЕСТИ...</div></div>
 
 <script type="text/javascript">
 function googleTranslateElementInit() {
-  new google.translate.TranslateElement({pageLanguage: 'mk', layout: google.translate.TranslateElement.InlineLayout.SIMPLE}, 'google_translate_element');
+  new google.translate.TranslateElement({pageLanguage: 'mk'}, 'google_translate_element');
 }
 </script>
 <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
@@ -175,7 +151,7 @@ function googleTranslateElementInit() {
 <script>
     async function ignite(q) {
         const grid = document.getElementById('newsGrid');
-        grid.innerHTML = `<div style="grid-column:1/-1; text-align:center; padding:100px; color:var(--gold); font-family:Orbitron;"><i class="fas fa-sync fa-spin"></i> ОСВЕЖУВАЊЕ: ${q.toUpperCase()}...</div>`;
+        const ticker = document.getElementById('tickerBox');
         
         const rss = `https://news.google.com/rss/search?q=${encodeURIComponent(q)}&hl=mk&gl=MK&ceid=MK:mk`;
         const api = `https://api.rss2json.com/v1/api.json?rss_url=${encodeURIComponent(rss)}&api_key=oyzofskn0f0q0g0w0e0r0t0y0u0i0o0p0a0s0d0f`;
@@ -183,43 +159,32 @@ function googleTranslateElementInit() {
         try {
             const res = await fetch(api);
             const data = await res.json();
-            if(data.status === 'ok') {
-                grid.innerHTML = data.items.map(item => {
-                    const img = btoa(item.title).substring(0,8);
-                    return `
-                        <div class="news-card" onclick="window.open('${item.link}')">
-                            <div class="shield-tag"><i class="fas fa-shield-alt"></i> 1312 VERIFIED</div>
-                            <img src="https://picsum.photos/seed/${img}/500/300" class="news-img">
-                            <div class="news-info">
-                                <b>${item.title.split(' - ')[0]}</b>
-                                <div style="font-size:10px; color:var(--gold); font-family:Orbitron;">
-                                    ${new Date(item.pubDate).toLocaleDateString('mk-MK')}
-                                </div>
-                            </div>
-                        </div>`;
+            if(data.status === 'ok' && data.items.length > 0) {
+                grid.innerHTML = data.items.map(i => {
+                    const img = btoa(i.title).substring(0,8);
+                    return `<div class="news-card" onclick="window.open('${i.link}')">
+                        <div class="shield-tag">1312 VERIFIED</div>
+                        <img src="https://picsum.photos/seed/${img}/500/300" class="news-img">
+                        <div class="news-info"><b>${i.title.split(' - ')[0]}</b>
+                        <small style="color:var(--gold)">${new Date(i.pubDate).toLocaleDateString('mk-MK')}</small></div>
+                    </div>`;
                 }).join('');
-                
-                // Update Ticker
-                const ticker = document.getElementById('tickerContent');
-                ticker.innerHTML = data.items.slice(0, 10).map(i => `<span class="ticker-item">${i.title}</span>`).join('');
+                ticker.innerHTML = data.items.map(i => `<span class="ticker-item">${i.title}</span>`).join('');
+            } else {
+                grid.innerHTML = "<div style='grid-column:1/-1; text-align:center; padding:50px;'>СИСТЕМОТ ПРЕМИНУВА НА РЕЗЕРВЕН КАНАЛ...</div>";
+                setTimeout(() => ignite(q), 3000);
             }
-        } catch(e) { console.log("RSS Error"); }
+        } catch(e) { grid.innerHTML = "ГРЕШКА ПРИ ПОВРЗУВАЊЕ."; }
     }
 
-    function sendM() {
-        const n = document.getElementById('msgName').value, txt = document.getElementById('msgText').value;
-        if(!txt) return;
-        window.location.href = `mailto:makedonworldnews@gmail.com?subject=1312_MSG_FROM_${n}&body=${txt}`;
-    }
-
-    function sendE() {
-        const s = document.getElementById('mailSub').value, b = document.getElementById('mailBody').value;
+    function send(type) {
+        let n = document.getElementById(type === 'Msg' ? 'mName' : 'eName').value;
+        let b = document.getElementById(type === 'Msg' ? 'mMsg' : 'eBody').value;
         if(!b) return;
-        window.location.href = `mailto:makedonworldnews@gmail.com?subject=1312_MAIL_${s}&body=${b}`;
+        window.location.href = `mailto:makedonworldnews@gmail.com?subject=1312_${type}_${n}&body=${b}`;
     }
 
     window.onload = () => ignite('Macedonia News');
-    setInterval(() => { ignite('Macedonia News'); }, 240000); // Рефреш на 4 минути за стабилност
 </script>
 </body>
 </html>
