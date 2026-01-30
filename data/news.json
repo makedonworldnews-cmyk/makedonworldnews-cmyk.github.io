@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-30T22:00:29Z",
+  "updatedAt": "2026-01-30T22:59:29Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Ѓоковиќ: Разни „стручњаци“ ме испратија во пензија, им благодарам на тоа",
+          "link": "https://makfax.com.mk/sport/gokovik-razni-struchnatsi-me-ispratija-vo-penzija-im-blagodaram-na-toa/",
+          "published": "Fri, 30 Jan 2026 22:13:14 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Заврши сезоната за Џек Грилиш",
+          "link": "https://makfax.com.mk/sport/zavrshi-sezonata-za-dhek-grilish/",
+          "published": "Fri, 30 Jan 2026 22:04:31 +0000"
         },
         {
           "source": "Makfax",
@@ -29,16 +41,10 @@
           "published": "Fri, 30 Jan 2026 19:30:05 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Почина Кетрин О’Хара",
-          "link": "https://makfax.com.mk/kultura/%d0%bf%d0%be%d1%87%d0%b8%d0%bd%d0%b0-%d0%ba%d0%b5%d1%82%d1%80%d0%b8%d0%bd-%d0%be%d1%85%d0%b0%d1%80%d0%b0/",
-          "published": "Fri, 30 Jan 2026 19:02:09 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Германија ја победи Хрватска, ќе се бори за златото на ЕП",
-          "link": "https://makfax.com.mk/sport/germanija-ja-pobedi-hrvatska-ke-se-bori-za-zlatoto-na-ep/",
-          "published": "Fri, 30 Jan 2026 18:43:08 +0000"
+          "source": "NetPress",
+          "title": "ЕП ракомет: Хрватска – Исланд за бронза, Данска – Германија за злато",
+          "link": "https://netpress.com.mk/ep-rakomet-hrvatska-island-za-bronza-danska-germanija-za-zlato/",
+          "published": "Fri, 30 Jan 2026 22:48:12 +0000"
         },
         {
           "source": "NetPress",
@@ -63,18 +69,18 @@
           "title": "Данска против Германија во финалето на ЕП во ракомет",
           "link": "https://netpress.com.mk/danska-protiv-germanija-vo-finaleto-na-ep-vo-rakomet/",
           "published": "Fri, 30 Jan 2026 21:35:26 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Над 50 000 војници очекуваат знак од Трамп",
-          "link": "https://netpress.com.mk/nad-50-000-vojniczi-ochekuvaat-znak-od-tramp/",
-          "published": "Fri, 30 Jan 2026 21:25:19 +0000"
         }
       ]
     },
     {
       "region": "Свет",
       "items": [
+        {
+          "source": "BBC",
+          "title": "Schitt's Creek and Home Alone star Catherine O'Hara dies aged 71",
+          "link": "https://www.bbc.com/news/articles/czr4jn4621lo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 30 Jan 2026 22:47:05 GMT"
+        },
         {
           "source": "BBC",
           "title": "UN risks 'imminent financial collapse', secretary general warns",
@@ -100,10 +106,16 @@
           "published": "Fri, 30 Jan 2026 21:41:48 GMT"
         },
         {
-          "source": "BBC",
-          "title": "Civil rights investigation opened into Alex Pretti shooting",
-          "link": "https://www.bbc.com/news/articles/c5yvw89p3p1o?at_medium=RSS&at_campaign=rss",
-          "published": "Fri, 30 Jan 2026 19:23:45 GMT"
+          "source": "Al Jazeera",
+          "title": "What do China and the UK want from each other?",
+          "link": "https://www.aljazeera.com/video/inside-story/2026/1/30/what-do-china-and-the-uk-want-from-each-other?traffic_source=rss",
+          "published": "Fri, 30 Jan 2026 22:06:20 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Iran says ready for ‘fair’ talks with US but not ‘under shadow of threats’",
+          "link": "https://www.aljazeera.com/news/2026/1/30/iran-says-ready-for-fair-talks-with-us-but-not-under-shadow-of-threats?traffic_source=rss",
+          "published": "Fri, 30 Jan 2026 21:45:05 +0000"
         },
         {
           "source": "Al Jazeera",
@@ -122,18 +134,6 @@
           "title": "What’s next for Venezuela?",
           "link": "https://www.aljazeera.com/video/the-stream/2026/1/30/whats-next-for-venezuela-2?traffic_source=rss",
           "published": "Fri, 30 Jan 2026 19:30:00 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Rafah reopening set for Sunday as Israel continues to block aid",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/1/30/rafah-reopening-set-for-sunday-as-israel-continues-to-block-aid?traffic_source=rss",
-          "published": "Fri, 30 Jan 2026 19:28:26 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "ISIL claims responsibility for Niger airport attack",
-          "link": "https://www.aljazeera.com/news/2026/1/30/isil-claims-deadly-attack-on-air-base-near-niger?traffic_source=rss",
-          "published": "Fri, 30 Jan 2026 19:24:05 +0000"
         }
       ]
     }
