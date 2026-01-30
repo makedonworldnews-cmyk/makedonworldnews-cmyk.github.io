@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-30T19:47:13Z",
+  "updatedAt": "2026-01-30T20:59:08Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Нови откритија за Епстин и елитата: објавени документи за контакти со Бил Гејтс, политичари, принц – тврдел и дека цимерот во затворот сакал да го убие",
+          "link": "https://makfax.com.mk/svet/%d0%bd%d0%be%d0%b2%d0%b8-%d0%be%d1%82%d0%ba%d1%80%d0%b8%d1%82%d0%b8%d1%98%d0%b0-%d0%b7%d0%b0-%d0%b5%d0%bf%d1%81%d1%82%d0%b8%d0%bd-%d0%b8-%d0%b5%d0%bb%d0%b8%d1%82%d0%b0%d1%82%d0%b0-%d0%be%d0%b1%d1%98/",
+          "published": "Fri, 30 Jan 2026 20:15:18 +0000"
         },
         {
           "source": "Makfax",
@@ -35,40 +41,34 @@
           "published": "Fri, 30 Jan 2026 18:02:54 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Почина поетот и преведувач Тихомир Јанчовски",
-          "link": "https://makfax.com.mk/kultura/%d0%bf%d0%be%d1%87%d0%b8%d0%bd%d0%b0-%d0%bf%d0%be%d0%b5%d1%82%d0%be%d1%82-%d0%b8-%d0%bf%d1%80%d0%b5%d0%b2%d0%b5%d0%b4%d1%83%d0%b2%d0%b0%d1%87-%d1%82%d0%b8%d1%85%d0%be%d0%bc%d0%b8%d1%80-%d1%98%d0%b0/",
-          "published": "Fri, 30 Jan 2026 17:38:51 +0000"
+          "source": "NetPress",
+          "title": "ФБИ ја презеде истрагата за убиството на Алекс Прети",
+          "link": "https://netpress.com.mk/fbi-ja-prezede-istragata-za-ubistvoto-na-aleks-preti/",
+          "published": "Fri, 30 Jan 2026 20:54:02 +0000"
         },
         {
           "source": "NetPress",
-          "title": "САД ги тргнаа сомнежите од трговските партнери за манипулации со валутните курсови",
-          "link": "https://netpress.com.mk/sad-gi-trgnaa-somnezhite-od-trgovskite-partneri-za-manipulaczii-so-valutnite-kursovi/",
-          "published": "Fri, 30 Jan 2026 19:41:07 +0000"
+          "title": "Русија и Украина запреа со нападите врз енергетските објекти по договорот со САД",
+          "link": "https://netpress.com.mk/rusija-i-ukraina-zaprea-so-napadite-vrz-energetskite-objekti-po-dogovorot-so-sad/",
+          "published": "Fri, 30 Jan 2026 20:25:10 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Се урна стара куќа во Битола, уништени неколку автомобили",
-          "link": "https://netpress.com.mk/se-urna-stara-kuka-vo-bitola-unishteni-nekolku-avtomobili/",
-          "published": "Fri, 30 Jan 2026 19:40:10 +0000"
+          "title": "САД објавија уште три милиони страници од досието за Џефри Епштајн",
+          "link": "https://netpress.com.mk/sad-objavija-ushte-tri-milioni-straniczi-od-dosieto-za-dhefri-epshtajn/",
+          "published": "Fri, 30 Jan 2026 20:22:28 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Стармер: Со сојузниците работиме Иран да не развие нуклеарно оружје",
-          "link": "https://netpress.com.mk/starmer-so-sojuzniczite-rabotime-iran-da-ne-razvie-nuklearno-oruzhje/",
-          "published": "Fri, 30 Jan 2026 19:30:35 +0000"
+          "title": "Трамп: Се приближуваме до договор за Русија и Украина",
+          "link": "https://netpress.com.mk/tramp-se-priblizhuvame-do-dogovor-za-rusija-i-ukraina/",
+          "published": "Fri, 30 Jan 2026 20:18:05 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Жозеп Мариа Берокал е нов селектор на македонската кошаркарска репрезентација",
-          "link": "https://netpress.com.mk/zhozep-maria-berokal-e-nov-selektor-na-makedonskata-kosharkarska-reprezentaczija/",
-          "published": "Fri, 30 Jan 2026 19:27:32 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Зеленски тешко ја обвини Европа",
-          "link": "https://netpress.com.mk/zelenski-teshko-ja-obvini-evropa/",
-          "published": "Fri, 30 Jan 2026 19:00:51 +0000"
+          "title": "Комплетно сме спремни за патот Романовце – Страцин, се чекаат средства од ЕУ",
+          "link": "https://netpress.com.mk/kompletno-sme-spremni-za-patot-romanovcze-straczin-se-chekaat-sredstva-od-eu/",
+          "published": "Fri, 30 Jan 2026 20:15:43 +0000"
         }
       ]
     },
@@ -107,33 +107,33 @@
         },
         {
           "source": "Al Jazeera",
-          "title": "Confusion grows over state of US-Iran negotiations",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/1/30/confusion-grows-over-state-of-us-iran-negotiations?traffic_source=rss",
-          "published": "Fri, 30 Jan 2026 18:36:34 +0000"
+          "title": "After Trump call, Russia agrees to pause attacks on Kyiv amid cold spell",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/1/30/after-trump-call-russia-agrees-to-pause-attacks-on-kyiv-amid-cold-spell?traffic_source=rss",
+          "published": "Fri, 30 Jan 2026 20:22:27 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Guterres warns UN faces ‘imminent financial collapse’",
-          "link": "https://www.aljazeera.com/news/2026/1/30/guterres-warns-un-faces-imminent-financial-collapse?traffic_source=rss",
-          "published": "Fri, 30 Jan 2026 18:00:51 +0000"
+          "title": "US protesters begin nationwide strike as DOJ launches Pretti killing probe",
+          "link": "https://www.aljazeera.com/news/2026/1/30/us-protesters-begin-nationwide-strike-as-doj-launches-pretti-killing-probe?traffic_source=rss",
+          "published": "Fri, 30 Jan 2026 19:56:27 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "US Department of Justice releases 3 million new Epstein documents",
-          "link": "https://www.aljazeera.com/news/2026/1/30/us-department-of-justice-releases-three-million-new-epstein-documents?traffic_source=rss",
-          "published": "Fri, 30 Jan 2026 17:49:56 +0000"
+          "title": "What’s next for Venezuela?",
+          "link": "https://www.aljazeera.com/video/the-stream/2026/1/30/whats-next-for-venezuela-2?traffic_source=rss",
+          "published": "Fri, 30 Jan 2026 19:30:00 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Bombardier stock dives on Trump threats of 50% tariff on Canadian planes",
-          "link": "https://www.aljazeera.com/economy/2026/1/30/bombardier-stock-dives-on-trump-threats-of-50-tariff-on-canadian-planes?traffic_source=rss",
-          "published": "Fri, 30 Jan 2026 17:29:59 +0000"
+          "title": "Rafah reopening set for Sunday as Israel continues to block aid",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/1/30/rafah-reopening-set-for-sunday-as-israel-continues-to-block-aid?traffic_source=rss",
+          "published": "Fri, 30 Jan 2026 19:28:26 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "US judge rules Luigi Mangione won’t face death penalty in CEO killing case",
-          "link": "https://www.aljazeera.com/news/2026/1/30/us-judge-rules-mangione-will-not-face-death-penalty-for-ceo-murder?traffic_source=rss",
-          "published": "Fri, 30 Jan 2026 17:23:53 +0000"
+          "title": "ISIL claims responsibility for Niger airport attack",
+          "link": "https://www.aljazeera.com/news/2026/1/30/isil-claims-deadly-attack-on-air-base-near-niger?traffic_source=rss",
+          "published": "Fri, 30 Jan 2026 19:24:05 +0000"
         }
       ]
     }
