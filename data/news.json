@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-30T22:59:29Z",
+  "updatedAt": "2026-01-30T23:53:18Z",
   "groups": [
     {
       "region": "Македонија",
@@ -42,6 +42,12 @@
         },
         {
           "source": "NetPress",
+          "title": "Евролига: Тројката на Вилдоза му донесе победа на Виртус во Монако",
+          "link": "https://netpress.com.mk/evroliga-trojkata-na-vildoza-mu-donese-pobeda-na-virtus-vo-monako/",
+          "published": "Fri, 30 Jan 2026 23:01:34 +0000"
+        },
+        {
+          "source": "NetPress",
           "title": "ЕП ракомет: Хрватска – Исланд за бронза, Данска – Германија за злато",
           "link": "https://netpress.com.mk/ep-rakomet-hrvatska-island-za-bronza-danska-germanija-za-zlato/",
           "published": "Fri, 30 Jan 2026 22:48:12 +0000"
@@ -63,12 +69,6 @@
           "title": "Во вторник со ЕУ ќе понудам најдобри можни решенија договорени со транспортерите",
           "link": "https://netpress.com.mk/vo-vtornik-so-eu-ke-ponudam-najdobri-mozhni-reshenija-dogovoreni-so-transporterite/",
           "published": "Fri, 30 Jan 2026 21:38:49 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Данска против Германија во финалето на ЕП во ракомет",
-          "link": "https://netpress.com.mk/danska-protiv-germanija-vo-finaleto-na-ep-vo-rakomet/",
-          "published": "Fri, 30 Jan 2026 21:35:26 +0000"
         }
       ]
     },
@@ -97,13 +97,19 @@
           "source": "BBC",
           "title": "Luigi Mangione will not face death penalty if convicted, judge rules",
           "link": "https://www.bbc.com/news/articles/c78egdg3r0po?at_medium=RSS&at_campaign=rss",
-          "published": "Fri, 30 Jan 2026 17:02:16 GMT"
+          "published": "Fri, 30 Jan 2026 23:30:03 GMT"
         },
         {
           "source": "BBC",
           "title": "Former CNN host Don Lemon faces charges after anti-ICE protest at Minnesota church",
           "link": "https://www.bbc.com/news/articles/c24gm3dz36po?at_medium=RSS&at_campaign=rss",
           "published": "Fri, 30 Jan 2026 21:41:48 GMT"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "UN nuclear watchdog discusses Ukraine nuclear safety risks",
+          "link": "https://www.aljazeera.com/news/2026/1/30/un-nuclear-watchdog-discusses-ukraine-nuclear-safety-risks?traffic_source=rss",
+          "published": "Fri, 30 Jan 2026 23:02:22 +0000"
         },
         {
           "source": "Al Jazeera",
@@ -128,12 +134,6 @@
           "title": "US protesters begin nationwide strike as DOJ launches Pretti killing probe",
           "link": "https://www.aljazeera.com/news/2026/1/30/us-protesters-begin-nationwide-strike-as-doj-launches-pretti-killing-probe?traffic_source=rss",
           "published": "Fri, 30 Jan 2026 19:56:27 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "What’s next for Venezuela?",
-          "link": "https://www.aljazeera.com/video/the-stream/2026/1/30/whats-next-for-venezuela-2?traffic_source=rss",
-          "published": "Fri, 30 Jan 2026 19:30:00 +0000"
         }
       ]
     }
