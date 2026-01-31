@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-31T21:57:25Z",
+  "updatedAt": "2026-01-31T22:52:33Z",
   "groups": [
     {
       "region": "Македонија",
@@ -42,6 +42,24 @@
         },
         {
           "source": "NetPress",
+          "title": "Премиер лига: Високи победи на Ливерпул и Арсенал",
+          "link": "https://netpress.com.mk/premier-liga-visoki-pobedi-na-liverpul-i-arsenal/",
+          "published": "Sat, 31 Jan 2026 22:38:52 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Германија: По убиството во Хамбург, повторно се разгорува дебатата за мигрантите",
+          "link": "https://netpress.com.mk/germanija-po-ubistvoto-vo-hamburg-povtorno-se-razgoruva-debatata-za-migrantite/",
+          "published": "Sat, 31 Jan 2026 22:23:23 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Стармер: Ендру треба да биде подготвен да сведочи пред Конгресот за врските со Епштајн",
+          "link": "https://netpress.com.mk/starmer-endru-treba-da-bide-podgotven-da-svedochi-pred-kongresot-za-vrskite-so-epshtajn/",
+          "published": "Sat, 31 Jan 2026 22:04:26 +0000"
+        },
+        {
+          "source": "NetPress",
           "title": "Почнува изградбата на импозантната сообраќајница во Скопје",
           "link": "https://netpress.com.mk/pochnuva-izgradbata-na-impozantnata-soobrakajnicza/",
           "published": "Sat, 31 Jan 2026 21:37:04 +0000"
@@ -51,24 +69,6 @@
           "title": "Зеленски порача дека Украина е подготвена за нови мировни преговори следната седмица",
           "link": "https://netpress.com.mk/zelenski-poracha-deka-ukraina-e-podgotvena-za-novi-mirovni-pregovori-slednata-sedmicza/",
           "published": "Sat, 31 Jan 2026 21:35:40 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Битолчанец се шетал со „црн“ пиштол по Чаршија",
-          "link": "https://netpress.com.mk/bitolchanecz-se-shetal-so-czrn-pishtol-po-charshija/",
-          "published": "Sat, 31 Jan 2026 21:16:59 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Мило Ѓукановиќ негира дека се познавал со Епштајн",
-          "link": "https://netpress.com.mk/milo-gukanovik-negira-deka-se-poznaval-so-epshtajn/",
-          "published": "Sat, 31 Jan 2026 21:10:23 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Скопјанец удрен од комби што возело наназад",
-          "link": "https://netpress.com.mk/skopjanecz-udren-od-kombi-shto-vozelo-nanazad/",
-          "published": "Sat, 31 Jan 2026 21:05:09 +0000"
         }
       ]
     },
@@ -91,7 +91,7 @@
           "source": "BBC",
           "title": "Five killed in gas explosions in Iran, officials say",
           "link": "https://www.bbc.com/news/articles/cd9ew5p3zvko?at_medium=RSS&at_campaign=rss",
-          "published": "Sat, 31 Jan 2026 21:34:56 GMT"
+          "published": "Sat, 31 Jan 2026 22:03:12 GMT"
         },
         {
           "source": "BBC",
@@ -104,6 +104,12 @@
           "title": "Pedro Pascal and Meryl Streep lead tributes to Catherine O'Hara",
           "link": "https://www.bbc.com/news/articles/czejk8pnk82o?at_medium=RSS&at_campaign=rss",
           "published": "Sat, 31 Jan 2026 17:41:48 GMT"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Iranian official says progress made on talks as US-Iran tensions persist",
+          "link": "https://www.aljazeera.com/news/2026/1/31/iranian-official-says-progress-made-on-talks-as-us-iran-tensions-persist?traffic_source=rss",
+          "published": "Sat, 31 Jan 2026 22:13:03 +0000"
         },
         {
           "source": "Al Jazeera",
@@ -128,12 +134,6 @@
           "title": "Tributes pour in for beloved actress Catherine O’Hara",
           "link": "https://www.aljazeera.com/news/2026/1/31/tributes-pour-in-for-beloved-actress-catherine-ohara?traffic_source=rss",
           "published": "Sat, 31 Jan 2026 18:50:21 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "US envoy Witkoff says Ukraine talks with Russia ‘productive’",
-          "link": "https://www.aljazeera.com/news/2026/1/31/us-envoy-witkoff-says-ukraine-talks-with-russia-productive?traffic_source=rss",
-          "published": "Sat, 31 Jan 2026 18:25:14 +0000"
         }
       ]
     }
