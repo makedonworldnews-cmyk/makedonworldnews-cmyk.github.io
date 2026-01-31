@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-31T11:39:20Z",
+  "updatedAt": "2026-01-31T11:54:52Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Нека е со среќа, нека е аирлија, порача Мицкоски на пуштањето во употреба на реконструираната гимназија „Кирил Пејчиновиќ“",
+          "link": "https://makfax.com.mk/makedonija/%d0%bd%d0%b5%d0%ba%d0%b0-%d0%b5-%d1%81%d0%be-%d1%81%d1%80%d0%b5%d1%9c%d0%b0-%d0%bd%d0%b5%d0%ba%d0%b0-%d0%b5-%d0%b0%d0%b8%d1%80%d0%bb%d0%b8%d1%98%d0%b0-%d0%bf%d0%be%d1%80%d0%b0%d1%87%d0%b0-%d0%bc/",
+          "published": "Sat, 31 Jan 2026 11:46:41 +0000"
         },
         {
           "source": "Makfax",
@@ -33,12 +39,6 @@
           "title": "Турски државјани уапсени поради шверц на мигранти",
           "link": "https://makfax.com.mk/crna-hronika/%d1%82%d1%83%d1%80%d1%81%d0%ba%d0%b8-%d0%b4%d1%80%d0%b6%d0%b0%d0%b2%d1%98%d0%b0%d0%bd%d0%b8-%d1%83%d0%b0%d0%bf%d1%81%d0%b5%d0%bd%d0%b8-%d0%bf%d0%be%d1%80%d0%b0%d0%b4%d0%b8-%d1%88%d0%b2%d0%b5%d1%80/",
           "published": "Sat, 31 Jan 2026 09:46:48 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "АВМУ реагира по пресудата за новинарката Лиридона Вејсели, загрозена е слободата на изразување",
-          "link": "https://makfax.com.mk/makedonija/%d0%b0%d0%b2%d0%bc%d1%83-%d1%80%d0%b5%d0%b0%d0%b3%d0%b8%d1%80%d0%b0-%d0%bf%d0%be-%d0%bf%d1%80%d0%b5%d1%81%d1%83%d0%b4%d0%b0%d1%82%d0%b0-%d0%b7%d0%b0-%d0%bd%d0%be%d0%b2%d0%b8%d0%bd%d0%b0%d1%80%d0%ba/",
-          "published": "Sat, 31 Jan 2026 09:35:17 +0000"
         },
         {
           "source": "NetPress",
