@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-31T17:52:14Z",
+  "updatedAt": "2026-01-31T19:00:53Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Македонија против Украина или Словачка во баражот за СП",
+          "link": "https://makfax.com.mk/sport/makedonija-protiv-ukraina-ili-slovachka-vo-barazhot-za-sp/",
+          "published": "Sat, 31 Jan 2026 18:39:18 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Пол Џорџ падна на допинг тест",
+          "link": "https://makfax.com.mk/sport/pol-dhordh-padna-na-doping-test/",
+          "published": "Sat, 31 Jan 2026 18:31:20 +0000"
         },
         {
           "source": "Makfax",
@@ -29,46 +41,34 @@
           "published": "Sat, 31 Jan 2026 17:07:26 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "При контрола на СВР Тетово, одземени ножеви и боксирач од деца",
-          "link": "https://makfax.com.mk/crna-hronika/%d0%bf%d1%80%d0%b8-%d0%ba%d0%be%d0%bd%d1%82%d1%80%d0%be%d0%bb%d0%b0-%d0%bd%d0%b0-%d1%81%d0%b2%d1%80-%d1%82%d0%b5%d1%82%d0%be%d0%b2%d0%be-%d0%be%d0%b4%d0%b7%d0%b5%d0%bc%d0%b5%d0%bd%d0%b8-%d0%bd%d0%be/",
-          "published": "Sat, 31 Jan 2026 17:03:10 +0000"
+          "source": "NetPress",
+          "title": "НБА: Пол Џорџ суспендиран на 25 натпревари",
+          "link": "https://netpress.com.mk/nba-pol-dhordh-suspendiran-na-25-natprevari/",
+          "published": "Sat, 31 Jan 2026 18:58:42 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Прекинот на струја во Киев го запре железничкиот сообраќај",
-          "link": "https://makfax.com.mk/svet/%d0%bf%d1%80%d0%b5%d0%ba%d0%b8%d0%bd%d0%be%d1%82-%d0%bd%d0%b0-%d1%81%d1%82%d1%80%d1%83%d1%98%d0%b0-%d0%b2%d0%be-%d0%ba%d0%b8%d0%b5%d0%b2-%d0%b3%d0%be-%d0%b7%d0%b0%d0%bf%d1%80%d0%b5-%d0%b6%d0%b5%d0%bb/",
-          "published": "Sat, 31 Jan 2026 15:29:54 +0000"
+          "source": "NetPress",
+          "title": "Девојче нападнато од соученичка",
+          "link": "https://netpress.com.mk/devojche-napadnato-od-souchenichka/",
+          "published": "Sat, 31 Jan 2026 18:56:07 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Преговарачот на Кремљ се врати во САД пред мировните разговори во Абу Даби",
+          "link": "https://netpress.com.mk/pregovarachot-na-kreml-se-vrati-vo-sad-pred-mirovnite-razgovori-vo-abu-dabi/",
+          "published": "Sat, 31 Jan 2026 18:49:53 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Фрлени Молотови коктели на куќа во Ѓорче Петров",
+          "link": "https://netpress.com.mk/frleni-molotovi-kokteli-na-kuka-vo-gorche-petrov/",
+          "published": "Sat, 31 Jan 2026 18:43:27 +0000"
         },
         {
           "source": "NetPress",
           "title": "Разбојници крадат од мали деца",
           "link": "https://netpress.com.mk/razbojniczi-kradat-od-mali-decza/",
           "published": "Sat, 31 Jan 2026 17:30:21 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Почина Божидар Симоновски, штипската музичка сцена загуби вреден човек",
-          "link": "https://netpress.com.mk/pochina-bozhidar-simonovski-shtipskata-muzichka-sczena-zagubi-vreden-chovek/",
-          "published": "Sat, 31 Jan 2026 17:07:27 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "„Штипскиот лекар пак оперира“ – измамите не престануваат",
-          "link": "https://netpress.com.mk/shtipskiot-lekar-pak-operira-izmamite-ne-prestanuvaat/",
-          "published": "Sat, 31 Jan 2026 16:51:50 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Скопјанец удрил со автомобилот пешак и избегал",
-          "link": "https://netpress.com.mk/skopjanecz-udril-so-avtomobilot-peshak-i-izbegal/",
-          "published": "Sat, 31 Jan 2026 16:31:44 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "По 120 години реновирана првата Тетовска гимназија",
-          "link": "https://netpress.com.mk/po-120-godini-renovirana-prvata-tetovska-gimnazija/",
-          "published": "Sat, 31 Jan 2026 15:39:33 +0000"
         }
       ]
     },
@@ -83,9 +83,9 @@
         },
         {
           "source": "BBC",
-          "title": "Israeli air strikes kill at least 28 Palestinians in Gaza, rescue officials say",
+          "title": "Israeli air strikes kill at least 32 Palestinians in Gaza, rescue officials say",
           "link": "https://www.bbc.com/news/articles/c701g1g00gdo?at_medium=RSS&at_campaign=rss",
-          "published": "Sat, 31 Jan 2026 16:03:24 GMT"
+          "published": "Sat, 31 Jan 2026 18:06:01 GMT"
         },
         {
           "source": "BBC",
@@ -107,6 +107,18 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "US envoy Witkoff says Ukraine talks with Russia ‘productive’",
+          "link": "https://www.aljazeera.com/news/2026/1/31/us-envoy-witkoff-says-ukraine-talks-with-russia-productive?traffic_source=rss",
+          "published": "Sat, 31 Jan 2026 18:25:14 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Appropriating the death count: Manufacturing consent for an attack on Iran",
+          "link": "https://www.aljazeera.com/opinions/2026/1/31/appropriating-the-death-count-manufacturing-consent-for-an-attack-on-iran?traffic_source=rss",
+          "published": "Sat, 31 Jan 2026 18:01:03 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Explosion in Iran’s Bandar Abbas caused by gas leak, official says",
           "link": "https://www.aljazeera.com/news/2026/1/31/explosion-in-irans-bandar-abbas-caused-by-gas-leak-official-says?traffic_source=rss",
           "published": "Sat, 31 Jan 2026 17:26:52 +0000"
@@ -122,18 +134,6 @@
           "title": "Milan protests decry ‘creeping fascism’ of ICE role at Winter Olympics",
           "link": "https://www.aljazeera.com/sports/2026/1/31/milan-demonstrators-decry-creeping-fascism-of-ice-role-at-winter-olympics?traffic_source=rss",
           "published": "Sat, 31 Jan 2026 17:15:44 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Real Madrid vs Rayo Vallecano: La Liga – teams, start, lineups",
-          "link": "https://www.aljazeera.com/sports/2026/1/31/real-madrid-vs-rayo-vallecano-la-liga-teams-start-lineups?traffic_source=rss",
-          "published": "Sat, 31 Jan 2026 16:30:33 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Bill Gates, Elon Musk, Howard Lutnick face new scrutiny over Epstein ties",
-          "link": "https://www.aljazeera.com/news/2026/1/31/bill-gates-elon-musk-howard-lutnick-face-new-scrutiny-over-epstein-ties?traffic_source=rss",
-          "published": "Sat, 31 Jan 2026 16:23:45 +0000"
         }
       ]
     }
