@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-31T11:54:52Z",
+  "updatedAt": "2026-01-31T13:53:21Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,24 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Досега подигнати се над 45 илјади ваучери за електронски уреди за студенти",
+          "link": "https://makfax.com.mk/makedonija/%d0%b4%d0%be%d1%81%d0%b5%d0%b3%d0%b0-%d0%bf%d0%be%d0%b4%d0%b8%d0%b3%d0%bd%d0%b0%d1%82%d0%b8-%d1%81%d0%b5-%d0%bd%d0%b0%d0%b4-45-%d0%b8%d0%bb%d1%98%d0%b0%d0%b4%d0%b8-%d0%b2%d0%b0%d1%83%d1%87%d0%b5%d1%80/",
+          "published": "Sat, 31 Jan 2026 12:44:07 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Во текот на ноќта и утре повремени врнежи од дожд",
+          "link": "https://makfax.com.mk/makedonija/%d0%b2%d0%be-%d1%82%d0%b5%d0%ba%d0%be%d1%82-%d0%bd%d0%b0-%d0%bd%d0%be%d1%9c%d1%82%d0%b0-%d0%b8-%d1%83%d1%82%d1%80%d0%b5-%d0%bf%d0%be%d0%b2%d1%80%d0%b5%d0%bc%d0%b5%d0%bd%d0%b8-%d0%b2%d1%80%d0%bd%d0%b5/",
+          "published": "Sat, 31 Jan 2026 12:16:44 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "По 8.000 денари за секое бебе во општина Аеродром",
+          "link": "https://makfax.com.mk/makedonija/%d0%bf%d0%be-8-000-%d0%b4%d0%b5%d0%bd%d0%b0%d1%80%d0%b8-%d0%b7%d0%b0-%d1%81%d0%b5%d0%ba%d0%be%d0%b5-%d0%b1%d0%b5%d0%b1%d0%b5-%d0%b2%d0%be-%d0%be%d0%bf%d1%88%d1%82%d0%b8%d0%bd%d0%b0-%d0%b0%d0%b5%d1%80/",
+          "published": "Sat, 31 Jan 2026 11:55:07 +0000"
         },
         {
           "source": "Makfax",
@@ -23,52 +41,34 @@
           "published": "Sat, 31 Jan 2026 10:44:27 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Момче во Германија повлекло девојка под воз што доаѓал од спротивен правец, двајцата се мртви",
-          "link": "https://makfax.com.mk/svet/%d0%bc%d0%be%d0%bc%d1%87%d0%b5-%d0%b2%d0%be-%d0%b3%d0%b5%d1%80%d0%bc%d0%b0%d0%bd%d0%b8%d1%98%d0%b0-%d0%bf%d0%be%d0%b2%d0%bb%d0%b5%d0%ba%d0%bb%d0%be-%d0%b4%d0%b5%d0%b2%d0%be%d1%98%d0%ba%d0%b0-%d0%bf/",
-          "published": "Sat, 31 Jan 2026 10:22:49 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "46 жртви во железничката несреќа во Шпанија",
-          "link": "https://makfax.com.mk/svet/46-%d0%b6%d1%80%d1%82%d0%b2%d0%b8-%d0%b2%d0%be-%d0%b6%d0%b5%d0%bb%d0%b5%d0%b7%d0%bd%d0%b8%d1%87%d0%ba%d0%b0%d1%82%d0%b0-%d0%bd%d0%b5%d1%81%d1%80%d0%b5%d1%9c%d0%b0-%d0%b2%d0%be-%d1%88%d0%bf%d0%b0%d0%bd/",
-          "published": "Sat, 31 Jan 2026 10:12:54 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Турски државјани уапсени поради шверц на мигранти",
-          "link": "https://makfax.com.mk/crna-hronika/%d1%82%d1%83%d1%80%d1%81%d0%ba%d0%b8-%d0%b4%d1%80%d0%b6%d0%b0%d0%b2%d1%98%d0%b0%d0%bd%d0%b8-%d1%83%d0%b0%d0%bf%d1%81%d0%b5%d0%bd%d0%b8-%d0%bf%d0%be%d1%80%d0%b0%d0%b4%d0%b8-%d1%88%d0%b2%d0%b5%d1%80/",
-          "published": "Sat, 31 Jan 2026 09:46:48 +0000"
+          "source": "NetPress",
+          "title": "Група малолетници натепале врсник",
+          "link": "https://netpress.com.mk/grupa-maloletniczi-natepale-vrsnik/",
+          "published": "Sat, 31 Jan 2026 13:40:32 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Старец пронајден мртов во шахта",
-          "link": "https://netpress.com.mk/starecz-pronajden-mrtov-vo-shahta/",
-          "published": "Sat, 31 Jan 2026 11:26:53 +0000"
+          "title": "Пред нас период со дожд и снег",
+          "link": "https://netpress.com.mk/pred-nas-period-so-dozhd-i-sneg/",
+          "published": "Sat, 31 Jan 2026 13:12:32 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Од полноќ повеќе нема плаќање автобуски билет со СМС",
-          "link": "https://netpress.com.mk/od-polnok-poveke-nema-plakane-avtobuski-bilet-so-sms/",
-          "published": "Sat, 31 Jan 2026 10:58:24 +0000"
+          "title": "ФОТО| Езерото „Младост“ се ревитализира првпат по шеесетина години",
+          "link": "https://netpress.com.mk/foto-ezeroto-mladost-se-revitalizira-prvpat-po-sheesetina-godina/",
+          "published": "Sat, 31 Jan 2026 12:59:52 +0000"
         },
         {
           "source": "NetPress",
-          "title": "„Blue Origin“ го запира вселенскиот туризам, се врти кон програмата за враќање на Месечината",
-          "link": "https://netpress.com.mk/blue-origin-go-zapira-vselenskiot-turizam-se-vrti-kon-programata-za-vrakane-na-mesechinata/",
-          "published": "Sat, 31 Jan 2026 10:34:38 +0000"
+          "title": "Времето утре со повремен дожд и снег",
+          "link": "https://netpress.com.mk/vremeto-utre-so-povremen-dozhd-i-sneg/",
+          "published": "Sat, 31 Jan 2026 12:40:01 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Најдобар мотоциклистички успех лани постигнал Петар Мијалков",
-          "link": "https://netpress.com.mk/najdobar-motocziklistichki-uspeh-lani-postignal-petar-mijalkov/",
-          "published": "Sat, 31 Jan 2026 10:30:58 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "АВМУ реагира на пресудата против новинарката Вејсели",
-          "link": "https://netpress.com.mk/avmu-reagira-na-presudata-protiv-novinarkata-vejseli/",
-          "published": "Sat, 31 Jan 2026 09:52:39 +0000"
+          "title": "Пијан охриѓанец направил судар кај кејот – добил „лисици“",
+          "link": "https://netpress.com.mk/pijan-ohriganecz-napravil-sudar-kajkejot-dobil-lisiczi/",
+          "published": "Sat, 31 Jan 2026 12:21:55 +0000"
         }
       ]
     },
@@ -89,21 +89,33 @@
         },
         {
           "source": "BBC",
+          "title": "Israeli air strikes kill at least 27 Palestinians in Gaza, rescue officials say",
+          "link": "https://www.bbc.com/news/articles/c701g1g00gdo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 31 Jan 2026 13:29:56 GMT"
+        },
+        {
+          "source": "BBC",
           "title": "What we learned - and didn't - from the Melania documentary",
           "link": "https://www.bbc.com/news/articles/cwy1ed1vgxro?at_medium=RSS&at_campaign=rss",
           "published": "Sat, 31 Jan 2026 03:03:31 GMT"
         },
         {
           "source": "BBC",
-          "title": "UN risks 'imminent financial collapse', secretary general warns",
-          "link": "https://www.bbc.com/news/articles/cr579mdv4m7o?at_medium=RSS&at_campaign=rss",
-          "published": "Fri, 30 Jan 2026 16:24:18 GMT"
-        },
-        {
-          "source": "BBC",
           "title": "US government partially shuts down despite last minute funding deal",
           "link": "https://www.bbc.com/news/articles/ce8rk33dpvmo?at_medium=RSS&at_campaign=rss",
           "published": "Sat, 31 Jan 2026 05:10:27 GMT"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Sabalenka ‘really upset’ at blowing Australian Open final chances",
+          "link": "https://www.aljazeera.com/sports/2026/1/31/sabalenka-really-upset-at-blowing-australian-open-final-chances?traffic_source=rss",
+          "published": "Sat, 31 Jan 2026 13:27:29 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Madison Square Garden warns brawlers of life bans before Lopez vs Stevenson",
+          "link": "https://www.aljazeera.com/sports/2026/1/31/madison-square-garden-to-life-ban-brawlers-ahead-of-lopez-vs-stevenson?traffic_source=rss",
+          "published": "Sat, 31 Jan 2026 13:01:07 +0000"
         },
         {
           "source": "Al Jazeera",
@@ -122,18 +134,6 @@
           "title": "Djokovic vs Alcaraz – Australian Open final: Start time, head-to-head",
           "link": "https://www.aljazeera.com/sports/2026/1/31/djokovic-vs-alcaraz-australian-open-final-start-time-head-to-head?traffic_source=rss",
           "published": "Sat, 31 Jan 2026 10:47:53 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Why have rapper Ghali’s Israel comments led to Winter Olympics criticism?",
-          "link": "https://www.aljazeera.com/sports/2026/1/31/why-has-rapper-ghalis-israel-comments-led-to-winter-olympics-criticism?traffic_source=rss",
-          "published": "Sat, 31 Jan 2026 10:39:24 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Judge blocks US gov’t move to end deportation protections for Ethiopians",
-          "link": "https://www.aljazeera.com/news/2026/1/31/judge-blocks-us-govt-move-to-end-deportation-protections-for-ethiopians?traffic_source=rss",
-          "published": "Sat, 31 Jan 2026 10:32:59 +0000"
         }
       ]
     }
