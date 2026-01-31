@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-31T19:56:32Z",
+  "updatedAt": "2026-01-31T20:52:14Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Орбан: Европејците избраа војна, Унгарија мора да каже „не“",
+          "link": "https://makfax.com.mk/svet/%d0%be%d1%80%d0%b1%d0%b0%d0%bd-%d0%b5%d0%b2%d1%80%d0%be%d0%bf%d0%b5%d1%98%d1%86%d0%b8%d1%82%d0%b5-%d0%b8%d0%b7%d0%b1%d1%80%d0%b0%d0%b0-%d0%b2%d0%be%d1%98%d0%bd%d0%b0-%d1%83%d0%bd%d0%b3%d0%b0%d1%80/",
+          "published": "Sat, 31 Jan 2026 20:26:21 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) Голем пресврт на „Стенфорд Бриџ“ – Челзи го победи Вест Хем",
+          "link": "https://makfax.com.mk/sport/video-golem-presvrt-na-stenford-bridh-chelzi-go-pobedi-vest-hem/",
+          "published": "Sat, 31 Jan 2026 20:01:22 +0000"
         },
         {
           "source": "Makfax",
@@ -29,46 +41,34 @@
           "published": "Sat, 31 Jan 2026 18:31:20 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Седумдесет и петгодишен маж е најден починат во шахта",
-          "link": "https://makfax.com.mk/crna-hronika/%d1%81%d0%b5%d0%b4%d1%83%d0%bc%d0%b4%d0%b5%d1%81%d0%b5%d1%82-%d0%b8-%d0%bf%d0%b5%d1%82%d0%b3%d0%be%d0%b4%d0%b8%d1%88%d0%b5%d0%bd-%d0%bc%d0%b0%d0%b6-%d0%b5-%d0%bd%d0%b0%d1%98%d0%b4%d0%b5%d0%bd-%d0%bf/",
-          "published": "Sat, 31 Jan 2026 17:19:41 +0000"
+          "source": "NetPress",
+          "title": "Фицо ја прифати оставката на Лајчак, кој се повлече поради комуникација со Епштајн",
+          "link": "https://netpress.com.mk/ficzo-ja-prifati-ostavkata-na-lajchak-koj-se-povleche-poradi-komunikaczija-so-epshtajn/",
+          "published": "Sat, 31 Jan 2026 20:33:26 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Во Белград се урна напуштен двокатен објект",
-          "link": "https://makfax.com.mk/svet/%d0%b2%d0%be-%d0%b1%d0%b5%d0%bb%d0%b3%d1%80%d0%b0%d0%b4-%d1%81%d0%b5-%d1%83%d1%80%d0%bd%d0%b0-%d0%bd%d0%b0%d0%bf%d1%83%d1%88%d1%82%d0%b5%d0%bd-%d0%b4%d0%b2%d0%be%d0%ba%d0%b0%d1%82%d0%b5%d0%bd-%d0%be/",
-          "published": "Sat, 31 Jan 2026 17:11:38 +0000"
+          "source": "NetPress",
+          "title": "Граѓани од Владата и институциите побараа чист воздух",
+          "link": "https://netpress.com.mk/gragani-od-vladata-i-institucziite-pobaraa-chist-vozduh/",
+          "published": "Sat, 31 Jan 2026 20:12:58 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Италија истражува слика на ангел реставрирана да личи на Мелони",
+          "link": "https://netpress.com.mk/italija-istrazhuva-slika-na-angel-restavrirana-da-lichi-na-meloni/",
+          "published": "Sat, 31 Jan 2026 20:01:07 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "„Безбеден град“ е „поместен“ за шест километри на час",
+          "link": "https://netpress.com.mk/bezbeden-grad-e-pomesten-za-shest-kilometri-na-chas/",
+          "published": "Sat, 31 Jan 2026 19:57:06 +0000"
         },
         {
           "source": "NetPress",
           "title": "Претставниците на САД и Русија како „конструктивен“ го оценија состанокот во Мајами",
           "link": "https://netpress.com.mk/pretstavniczite-na-sad-i-rusija-kako-konstruktiven-go-oczenija-sostanokot-vo-majami/",
           "published": "Sat, 31 Jan 2026 19:25:55 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "За „Безбеден град“ грешките ќе се коригираат во рок од 24 часа",
-          "link": "https://netpress.com.mk/za-bezbeden-grad-greshkite-ke-se-korigiraat-vo-rok-od-24-chasa/",
-          "published": "Sat, 31 Jan 2026 19:14:57 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "НБА: Пол Џорџ суспендиран на 25 натпревари",
-          "link": "https://netpress.com.mk/nba-pol-dhordh-suspendiran-na-25-natprevari/",
-          "published": "Sat, 31 Jan 2026 18:58:42 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Девојче нападнато од соученичка",
-          "link": "https://netpress.com.mk/devojche-napadnato-od-souchenichka/",
-          "published": "Sat, 31 Jan 2026 18:56:07 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Преговарачот на Кремљ се врати во САД пред мировните разговори во Абу Даби",
-          "link": "https://netpress.com.mk/pregovarachot-na-kreml-se-vrati-vo-sad-pred-mirovnite-razgovori-vo-abu-dabi/",
-          "published": "Sat, 31 Jan 2026 18:49:53 +0000"
         }
       ]
     },
@@ -107,6 +107,18 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "US judge declines to halt immigration surge in Minnesota amid protests",
+          "link": "https://www.aljazeera.com/news/2026/1/31/us-judge-declines-to-halt-immigration-surge-in-minnesota-amid-protests?traffic_source=rss",
+          "published": "Sat, 31 Jan 2026 20:18:12 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Peter Kornbluh: Is Trump pushing a new imperialism in Latin America?",
+          "link": "https://www.aljazeera.com/video/upfront/2026/1/31/peter-kornbluh-is-trump-pushing-a-new-imperialism-in-latin-america?traffic_source=rss",
+          "published": "Sat, 31 Jan 2026 19:30:00 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Tributes pour in for beloved actress Catherine O’Hara",
           "link": "https://www.aljazeera.com/news/2026/1/31/tributes-pour-in-for-beloved-actress-catherine-ohara?traffic_source=rss",
           "published": "Sat, 31 Jan 2026 18:50:21 +0000"
@@ -122,18 +134,6 @@
           "title": "Appropriating the death count: Manufacturing consent for an attack on Iran",
           "link": "https://www.aljazeera.com/opinions/2026/1/31/appropriating-the-death-count-manufacturing-consent-for-an-attack-on-iran?traffic_source=rss",
           "published": "Sat, 31 Jan 2026 18:01:03 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Explosion in Iran’s Bandar Abbas caused by gas leak, official says",
-          "link": "https://www.aljazeera.com/news/2026/1/31/explosion-in-irans-bandar-abbas-caused-by-gas-leak-official-says?traffic_source=rss",
-          "published": "Sat, 31 Jan 2026 17:26:52 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "NBA issues 76ers’ Paul George with 25-game ban for drug violation",
-          "link": "https://www.aljazeera.com/sports/2026/1/31/nba-issues-76ers-paul-george-with-25-game-ban-for-drug-violation?traffic_source=rss",
-          "published": "Sat, 31 Jan 2026 17:22:38 +0000"
         }
       ]
     }
