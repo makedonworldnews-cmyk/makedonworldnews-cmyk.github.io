@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-31T06:04:23Z",
+  "updatedAt": "2026-01-31T07:42:19Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Решена мистерија стара 50 години: Откриен е нов систем за одредување на крвните групи",
+          "link": "https://makfax.com.mk/svet/%d1%80%d0%b5%d1%88%d0%b5%d0%bd%d0%b0-%d0%bc%d0%b8%d1%81%d1%82%d0%b5%d1%80%d0%b8%d1%98%d0%b0-%d1%81%d1%82%d0%b0%d1%80%d0%b0-50-%d0%b3%d0%be%d0%b4%d0%b8%d0%bd%d0%b8-%d0%be%d1%82%d0%ba%d1%80%d0%b8%d0%b5/",
+          "published": "Sat, 31 Jan 2026 07:19:37 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Прoменливо облачно со слаб повремен локален дожд",
+          "link": "https://makfax.com.mk/makedonija/%d0%bf%d1%80o%d0%bc%d0%b5%d0%bd%d0%bb%d0%b8%d0%b2%d0%be-%d0%be%d0%b1%d0%bb%d0%b0%d1%87%d0%bd%d0%be-%d1%81%d0%be-%d1%81%d0%bb%d0%b0%d0%b1-%d0%bf%d0%be%d0%b2%d1%80%d0%b5%d0%bc%d0%b5%d0%bd-%d0%bb%d0%be/",
+          "published": "Sat, 31 Jan 2026 06:59:56 +0000"
         },
         {
           "source": "Makfax",
@@ -29,16 +41,16 @@
           "published": "Fri, 30 Jan 2026 21:48:10 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Нови откритија за Епстин и елитата: објавени документи за контакти со Бил Гејтс, политичари, принц – тврдел и дека цимерот во затворот сакал да го убие",
-          "link": "https://makfax.com.mk/svet/%d0%bd%d0%be%d0%b2%d0%b8-%d0%be%d1%82%d0%ba%d1%80%d0%b8%d1%82%d0%b8%d1%98%d0%b0-%d0%b7%d0%b0-%d0%b5%d0%bf%d1%81%d1%82%d0%b8%d0%bd-%d0%b8-%d0%b5%d0%bb%d0%b8%d1%82%d0%b0%d1%82%d0%b0-%d0%be%d0%b1%d1%98/",
-          "published": "Fri, 30 Jan 2026 20:15:18 +0000"
+          "source": "NetPress",
+          "title": "Дневен хороскоп за сабота, 31-ви јануари 2026-та",
+          "link": "https://netpress.com.mk/dneven-horoskop-za-sabota-31-vi-januari-2026-ta/",
+          "published": "Sat, 31 Jan 2026 07:27:13 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Снуп Дог застана во одбрана на Дејвид Бекам по обвинувањата од синот Бруклин",
-          "link": "https://makfax.com.mk/zanimlivosti/%d1%81%d0%bd%d1%83%d0%bf-%d0%b4%d0%be%d0%b3-%d0%b7%d0%b0%d1%81%d1%82%d0%b0%d0%bd%d0%b0-%d0%b2%d0%be-%d0%be%d0%b4%d0%b1%d1%80%d0%b0%d0%bd%d0%b0-%d0%bd%d0%b0-%d0%b4%d0%b5%d1%98%d0%b2%d0%b8%d0%b4-%d0%b1/",
-          "published": "Fri, 30 Jan 2026 19:30:05 +0000"
+          "source": "NetPress",
+          "title": "Повремени врнежи од дожд, на планините од снег",
+          "link": "https://netpress.com.mk/povremeni-vrnezhi-od-dozhd-na-planinite-od-sneg/",
+          "published": "Sat, 31 Jan 2026 07:07:25 +0000"
         },
         {
           "source": "NetPress",
@@ -57,18 +69,6 @@
           "title": "Имаше понуда за покачување на платите, процесот беше опструиран од УПОЗ и ССМ",
           "link": "https://netpress.com.mk/imashe-ponuda-za-pokachuvane-na-platite-proczesot-beshe-opstruiran-od-upoz-i-ssm/",
           "published": "Fri, 30 Jan 2026 21:47:38 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "За Ралповски, не секој протест е вистински синдикален крик",
-          "link": "https://netpress.com.mk/za-ralpovski-ne-sekoj-protest-e-vistinski-sindikalen-krik/",
-          "published": "Fri, 30 Jan 2026 21:42:18 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Во вторник со ЕУ ќе понудам најдобри можни решенија договорени со транспортерите",
-          "link": "https://netpress.com.mk/vo-vtornik-so-eu-ke-ponudam-najdobri-mozhni-reshenija-dogovoreni-so-transporterite/",
-          "published": "Fri, 30 Jan 2026 21:38:49 +0000"
         }
       ]
     },
@@ -89,51 +89,51 @@
         },
         {
           "source": "BBC",
+          "title": "What we learned - and didn't - from the Melania documentary",
+          "link": "https://www.bbc.com/news/articles/cwy1ed1vgxro?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 31 Jan 2026 03:03:31 GMT"
+        },
+        {
+          "source": "BBC",
           "title": "UN risks 'imminent financial collapse', secretary general warns",
           "link": "https://www.bbc.com/news/articles/cr579mdv4m7o?at_medium=RSS&at_campaign=rss",
           "published": "Fri, 30 Jan 2026 16:24:18 GMT"
         },
         {
           "source": "BBC",
-          "title": "One wrong move and it could all go wrong - the men clearing deadly undersea Russian mines",
-          "link": "https://www.bbc.com/news/articles/c70lgwprw7ko?at_medium=RSS&at_campaign=rss",
-          "published": "Sat, 31 Jan 2026 00:19:00 GMT"
+          "title": "US government partially shuts down despite last minute funding deal",
+          "link": "https://www.bbc.com/news/articles/ce8rk33dpvmo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 31 Jan 2026 05:10:27 GMT"
         },
         {
-          "source": "BBC",
-          "title": "Trump picks Kevin Warsh to lead the US Federal Reserve",
-          "link": "https://www.bbc.com/news/articles/c2d7yddrl2xo?at_medium=RSS&at_campaign=rss",
-          "published": "Fri, 30 Jan 2026 16:22:59 GMT"
+          "source": "Al Jazeera",
+          "title": "Shipping giant Maersk to take over Panama Canal ports after court ruling",
+          "link": "https://www.aljazeera.com/news/2026/1/31/shipping-giant-maersk-to-take-over-panama-canal-ports-after-court-ruling?traffic_source=rss",
+          "published": "Sat, 31 Jan 2026 06:44:11 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Wave of Israeli air strikes hit southern Lebanon despite ceasefire",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/1/31/wave-of-israeli-air-strikes-hit-southern-lebanon-despite-ceasefire?traffic_source=rss",
+          "published": "Sat, 31 Jan 2026 06:42:47 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Venezuela’s acting President Delcy Rodriguez announces prisoner amnesty",
+          "link": "https://www.aljazeera.com/news/2026/1/31/venezuelas-acting-president-delcy-rodriguez-announces-prisoner-amnesty?traffic_source=rss",
+          "published": "Sat, 31 Jan 2026 06:17:12 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "LIVE: Iran announces live-fire naval drills near US warships amid tensions",
+          "link": "https://www.aljazeera.com/news/liveblog/2026/1/31/live-iran-announces-live-fire-naval-drills-near-us-warships-amid-tensions?traffic_source=rss",
+          "published": "Sat, 31 Jan 2026 06:07:41 +0000"
         },
         {
           "source": "Al Jazeera",
           "title": "How does ICE spend its budget? And who profits?",
           "link": "https://www.aljazeera.com/video/by-the-numbers-3/2026/1/31/how-does-ice-spend-its-budget-and-who-profits?traffic_source=rss",
           "published": "Sat, 31 Jan 2026 05:49:41 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Myanmar election delivers walkover win for military-backed political party",
-          "link": "https://www.aljazeera.com/news/2026/1/31/myanmar-election-delivers-walkover-win-for-military-backed-political-party?traffic_source=rss",
-          "published": "Sat, 31 Jan 2026 04:31:26 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "US approves $6.6bn sale of attack helicopters, assault vehicles to Israel",
-          "link": "https://www.aljazeera.com/news/2026/1/31/us-approves-6-6bn-sale-of-attack-helicopters-assault-vehicles-to-israel?traffic_source=rss",
-          "published": "Sat, 31 Jan 2026 03:36:41 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "US Senate approves spending package, but short government shutdown likely",
-          "link": "https://www.aljazeera.com/news/2026/1/31/us-senate-approves-spending-package-but-short-government-shutdown-likely?traffic_source=rss",
-          "published": "Sat, 31 Jan 2026 03:09:28 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "T20 World Cup 2026 stadiums: Where’s India vs Pakistan and the final?",
-          "link": "https://www.aljazeera.com/sports/2026/1/31/icc-t20-world-cup-2026-cricket-stadiums-india-vs-pakistan-final-venue?traffic_source=rss",
-          "published": "Sat, 31 Jan 2026 02:35:55 +0000"
         }
       ]
     }
