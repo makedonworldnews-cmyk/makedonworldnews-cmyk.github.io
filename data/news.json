@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-31T07:42:19Z",
+  "updatedAt": "2026-01-31T07:59:18Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Денес во 12 затворени улици во Скопје, ќе се протестира против Усје",
+          "link": "https://makfax.com.mk/makedonija/%d0%b4%d0%b5%d0%bd%d0%b5%d1%81-%d0%b2%d0%be-12-%d0%b7%d0%b0%d1%82%d0%b2%d0%be%d1%80%d0%b5%d0%bd%d0%b8-%d1%83%d0%bb%d0%b8%d1%86%d0%b8-%d0%b2%d0%be-%d1%81%d0%ba%d0%be%d0%bf%d1%98%d0%b5-%d1%9c%d0%b5/",
+          "published": "Sat, 31 Jan 2026 07:48:28 +0000"
         },
         {
           "source": "Makfax",
@@ -35,10 +41,10 @@
           "published": "Fri, 30 Jan 2026 22:04:31 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Данска ќе се бори за европската титула",
-          "link": "https://makfax.com.mk/sport/danska-ke-se-bori-za-evropskata-titula/",
-          "published": "Fri, 30 Jan 2026 21:48:10 +0000"
+          "source": "NetPress",
+          "title": "Над 200 загинати во уривање на рудник за колтан во ДР Конго",
+          "link": "https://netpress.com.mk/nad-200-zaginati-vo-urivane-na-rudnik-za-koltan-vo-kongo/",
+          "published": "Sat, 31 Jan 2026 07:47:34 +0000"
         },
         {
           "source": "NetPress",
@@ -63,12 +69,6 @@
           "title": "ЕП ракомет: Хрватска – Исланд за бронза, Данска – Германија за злато",
           "link": "https://netpress.com.mk/ep-rakomet-hrvatska-island-za-bronza-danska-germanija-za-zlato/",
           "published": "Fri, 30 Jan 2026 22:48:12 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Имаше понуда за покачување на платите, процесот беше опструиран од УПОЗ и ССМ",
-          "link": "https://netpress.com.mk/imashe-ponuda-za-pokachuvane-na-platite-proczesot-beshe-opstruiran-od-upoz-i-ssm/",
-          "published": "Fri, 30 Jan 2026 21:47:38 +0000"
         }
       ]
     },
