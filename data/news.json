@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-31T04:49:32Z",
+  "updatedAt": "2026-01-31T06:04:23Z",
   "groups": [
     {
       "region": "Македонија",
@@ -107,6 +107,12 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "How does ICE spend its budget? And who profits?",
+          "link": "https://www.aljazeera.com/video/by-the-numbers-3/2026/1/31/how-does-ice-spend-its-budget-and-who-profits?traffic_source=rss",
+          "published": "Sat, 31 Jan 2026 05:49:41 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Myanmar election delivers walkover win for military-backed political party",
           "link": "https://www.aljazeera.com/news/2026/1/31/myanmar-election-delivers-walkover-win-for-military-backed-political-party?traffic_source=rss",
           "published": "Sat, 31 Jan 2026 04:31:26 +0000"
@@ -128,12 +134,6 @@
           "title": "T20 World Cup 2026 stadiums: Where’s India vs Pakistan and the final?",
           "link": "https://www.aljazeera.com/sports/2026/1/31/icc-t20-world-cup-2026-cricket-stadiums-india-vs-pakistan-final-venue?traffic_source=rss",
           "published": "Sat, 31 Jan 2026 02:35:55 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "More than 200 killed in mine collapse in eastern DR Congo: Report",
-          "link": "https://www.aljazeera.com/news/2026/1/31/more-than-200-killed-in-mine-collapse-in-eastern-dr-congo-report?traffic_source=rss",
-          "published": "Sat, 31 Jan 2026 01:24:58 +0000"
         }
       ]
     }
