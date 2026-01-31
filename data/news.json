@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-31T07:59:18Z",
+  "updatedAt": "2026-01-31T09:00:08Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Најстудено утрово било на Попова Шапка каде се измерени -5 целзиусови степени",
+          "link": "https://makfax.com.mk/makedonija/%d0%bd%d0%b0%d1%98%d1%81%d1%82%d1%83%d0%b4%d0%b5%d0%bd%d0%be-%d1%83%d1%82%d1%80%d0%be%d0%b2%d0%be-%d0%b1%d0%b8%d0%bb%d0%be-%d0%bd%d0%b0-%d0%bf%d0%be%d0%bf%d0%be%d0%b2%d0%b0-%d1%88%d0%b0%d0%bf%d0%ba/",
+          "published": "Sat, 31 Jan 2026 08:56:50 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Државна секретарка од Црна Гора сакала да се самоубие поради секс скандал",
+          "link": "https://makfax.com.mk/svet/%d0%b4%d1%80%d0%b6%d0%b0%d0%b2%d0%bd%d0%b0-%d1%81%d0%b5%d0%ba%d1%80%d0%b5%d1%82%d0%b0%d1%80%d0%ba%d0%b0-%d0%be%d0%b4-%d1%86%d1%80%d0%bd%d0%b0-%d0%b3%d0%be%d1%80%d0%b0-%d1%81%d0%b0%d0%ba%d0%b0%d0%bb/",
+          "published": "Sat, 31 Jan 2026 08:29:02 +0000"
         },
         {
           "source": "Makfax",
@@ -29,18 +41,6 @@
           "published": "Sat, 31 Jan 2026 06:59:56 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Ѓоковиќ: Разни „стручњаци“ ме испратија во пензија, им благодарам на тоа",
-          "link": "https://makfax.com.mk/sport/gokovik-razni-struchnatsi-me-ispratija-vo-penzija-im-blagodaram-na-toa/",
-          "published": "Fri, 30 Jan 2026 22:13:14 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Заврши сезоната за Џек Грилиш",
-          "link": "https://makfax.com.mk/sport/zavrshi-sezonata-za-dhek-grilish/",
-          "published": "Fri, 30 Jan 2026 22:04:31 +0000"
-        },
-        {
           "source": "NetPress",
           "title": "Над 200 загинати во уривање на рудник за колтан во ДР Конго",
           "link": "https://netpress.com.mk/nad-200-zaginati-vo-urivane-na-rudnik-za-koltan-vo-kongo/",
@@ -48,7 +48,7 @@
         },
         {
           "source": "NetPress",
-          "title": "Дневен хороскоп за сабота, 31-ви јануари 2026-та",
+          "title": "Дневен хороскоп за сабота, 31 јануари 2026",
           "link": "https://netpress.com.mk/dneven-horoskop-za-sabota-31-vi-januari-2026-ta/",
           "published": "Sat, 31 Jan 2026 07:27:13 +0000"
         },
@@ -79,7 +79,7 @@
           "source": "BBC",
           "title": "Takeaways from the millions of newly released Epstein files",
           "link": "https://www.bbc.com/news/articles/cevnmxyy4wjo?at_medium=RSS&at_campaign=rss",
-          "published": "Sat, 31 Jan 2026 03:26:28 GMT"
+          "published": "Sat, 31 Jan 2026 08:42:28 GMT"
         },
         {
           "source": "BBC",
@@ -107,33 +107,33 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Injured Pat Cummins out of Australia’s T20 World Cup squad",
+          "link": "https://www.aljazeera.com/sports/2026/1/31/injured-pat-cummins-out-of-australias-t20-world-cup-squad?traffic_source=rss",
+          "published": "Sat, 31 Jan 2026 08:13:56 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Luka Doncic posts 37-point triple-double as Lakers crush Wizards",
+          "link": "https://www.aljazeera.com/sports/2026/1/31/luka-doncic-posts-37-point-triple-double-as-lakers-crush-wizards?traffic_source=rss",
+          "published": "Sat, 31 Jan 2026 08:00:24 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Gaza’s collapsing economy drives youth to create unconventional solutions",
+          "link": "https://www.aljazeera.com/features/2026/1/31/gazas-collapsing-economy-drives-youth-to-create-unconventional-solutions?traffic_source=rss",
+          "published": "Sat, 31 Jan 2026 07:38:21 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Israeli forces kill 12 Palestinians across Gaza, attacks reported in Rafah",
+          "link": "https://www.aljazeera.com/news/2026/1/31/israeli-forces-kill-12-palestinians-across-gaza-attacks-reported-in-rafah?traffic_source=rss",
+          "published": "Sat, 31 Jan 2026 07:35:25 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Shipping giant Maersk to take over Panama Canal ports after court ruling",
           "link": "https://www.aljazeera.com/news/2026/1/31/shipping-giant-maersk-to-take-over-panama-canal-ports-after-court-ruling?traffic_source=rss",
           "published": "Sat, 31 Jan 2026 06:44:11 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Wave of Israeli air strikes hit southern Lebanon despite ceasefire",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/1/31/wave-of-israeli-air-strikes-hit-southern-lebanon-despite-ceasefire?traffic_source=rss",
-          "published": "Sat, 31 Jan 2026 06:42:47 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Venezuela’s acting President Delcy Rodriguez announces prisoner amnesty",
-          "link": "https://www.aljazeera.com/news/2026/1/31/venezuelas-acting-president-delcy-rodriguez-announces-prisoner-amnesty?traffic_source=rss",
-          "published": "Sat, 31 Jan 2026 06:17:12 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "LIVE: Iran announces live-fire naval drills near US warships amid tensions",
-          "link": "https://www.aljazeera.com/news/liveblog/2026/1/31/live-iran-announces-live-fire-naval-drills-near-us-warships-amid-tensions?traffic_source=rss",
-          "published": "Sat, 31 Jan 2026 06:07:41 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "How does ICE spend its budget? And who profits?",
-          "link": "https://www.aljazeera.com/video/by-the-numbers-3/2026/1/31/how-does-ice-spend-its-budget-and-who-profits?traffic_source=rss",
-          "published": "Sat, 31 Jan 2026 05:49:41 +0000"
         }
       ]
     }
