@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-31T19:41:14Z",
+  "updatedAt": "2026-01-31T19:56:32Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Експлозии пријавени низ Иран",
+          "link": "https://makfax.com.mk/svet/%d0%b5%d0%ba%d1%81%d0%bf%d0%bb%d0%be%d0%b7%d0%b8%d0%b8-%d0%bf%d1%80%d0%b8%d1%98%d0%b0%d0%b2%d0%b5%d0%bd%d0%b8-%d0%bd%d0%b8%d0%b7-%d0%b8%d1%80%d0%b0%d0%bd/",
+          "published": "Sat, 31 Jan 2026 19:49:54 +0000"
         },
         {
           "source": "Makfax",
@@ -33,12 +39,6 @@
           "title": "Во Белград се урна напуштен двокатен објект",
           "link": "https://makfax.com.mk/svet/%d0%b2%d0%be-%d0%b1%d0%b5%d0%bb%d0%b3%d1%80%d0%b0%d0%b4-%d1%81%d0%b5-%d1%83%d1%80%d0%bd%d0%b0-%d0%bd%d0%b0%d0%bf%d1%83%d1%88%d1%82%d0%b5%d0%bd-%d0%b4%d0%b2%d0%be%d0%ba%d0%b0%d1%82%d0%b5%d0%bd-%d0%be/",
           "published": "Sat, 31 Jan 2026 17:11:38 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "ДОМ: Дислокација на цементарницата Усје преку јавно-приватно партнерство",
-          "link": "https://makfax.com.mk/makedonija/%d0%b4%d0%be%d0%bc-%d0%b4%d0%b8%d1%81%d0%bb%d0%be%d0%ba%d0%b0%d1%86%d0%b8%d1%98%d0%b0-%d0%bd%d0%b0-%d1%86%d0%b5%d0%bc%d0%b5%d0%bd%d1%82%d0%b0%d1%80%d0%bd%d0%b8%d1%86%d0%b0%d1%82%d0%b0-%d1%83%d1%81/",
-          "published": "Sat, 31 Jan 2026 17:07:26 +0000"
         },
         {
           "source": "NetPress",
