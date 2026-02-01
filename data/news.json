@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-01T19:58:45Z",
+  "updatedAt": "2026-02-01T20:54:23Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Сообраќајниот хаос во центарот ќе се намали за најмалку 30 отсто",
+          "link": "https://makfax.com.mk/makedonija/%d1%81%d0%be%d0%be%d0%b1%d1%80%d0%b0%d1%9c%d0%b0%d1%98%d0%bd%d0%b8%d0%be%d1%82-%d1%85%d0%b0%d0%be%d1%81-%d0%b2%d0%be-%d1%86%d0%b5%d0%bd%d1%82%d0%b0%d1%80%d0%be%d1%82-%d1%9c%d0%b5-%d1%81%d0%b5-%d0%bd/",
+          "published": "Sun, 01 Feb 2026 20:12:15 +0000"
         },
         {
           "source": "Makfax",
@@ -35,40 +41,34 @@
           "published": "Sun, 01 Feb 2026 18:45:37 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Гидсел МВП на Европското првенство",
-          "link": "https://makfax.com.mk/sport/gidsel-mvp-na-evropskoto-prvenstvo/",
-          "published": "Sun, 01 Feb 2026 18:17:25 +0000"
+          "source": "NetPress",
+          "title": "Фатени дрога и оружје, уапсени четири лица – меѓу нив и малолетничка",
+          "link": "https://netpress.com.mk/fateni-droga-i-oruzhje-uapseni-chetiri-licza-megu-niv-i-maloletnichka/",
+          "published": "Sun, 01 Feb 2026 20:53:28 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Премиер лига: Сити испушти два гола предност кај Тотенхем, трета победа во низа за Јунајтед",
-          "link": "https://netpress.com.mk/premier-liga-siti-ispushti-dva-gola-prednost-kaj-totenhem-treta-pobeda-vo-niza-za-junajted/",
-          "published": "Sun, 01 Feb 2026 19:34:16 +0000"
+          "title": "Трамп се надева на договор со Иран",
+          "link": "https://netpress.com.mk/tramp-se-nadeva-na-dogovor-so-iran/",
+          "published": "Sun, 01 Feb 2026 20:48:20 +0000"
         },
         {
           "source": "NetPress",
-          "title": "ЕП ракомет: Данска ги комплетираше олимписките, светските и европските титули",
-          "link": "https://netpress.com.mk/ep-rakomet-danska-gi-kompletirashe-olimpiskite-svetskite-i-evropskite-tituli/",
-          "published": "Sun, 01 Feb 2026 19:19:55 +0000"
+          "title": "Уапсени пијани возачи во Битола, Прилеп и Крушево",
+          "link": "https://netpress.com.mk/uapseni-pijani-vozachi-vo-bitola-prilep-i-krushevo/",
+          "published": "Sun, 01 Feb 2026 20:37:19 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Трамп сака „најголемата“ триумфална порта да се изгради во Вашингтон",
-          "link": "https://netpress.com.mk/tramp-saka-najgolemata-triumfalna-porta-da-se-izgradi-vo-vashington/",
-          "published": "Sun, 01 Feb 2026 18:59:51 +0000"
+          "title": "Бундеслига: Пресврт и победа на Борусија (Д) против Хајденхајм",
+          "link": "https://netpress.com.mk/bundesliga-presvrt-i-pobeda-na-borusija-d-protiv-hajdenhajm/",
+          "published": "Sun, 01 Feb 2026 20:10:11 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Охриѓанец фатен зад волан иако имал забрана за возење",
-          "link": "https://netpress.com.mk/ohriganecz-faten-zad-volan-iako-imal-zabrana-za-vozene/",
-          "published": "Sun, 01 Feb 2026 18:44:37 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "На повидок и доизградбата на булеварот во Керамидница",
-          "link": "https://netpress.com.mk/na-povidok-i-doizgradbata-na-bulevarot-vo-keramidnicza/",
-          "published": "Sun, 01 Feb 2026 18:26:38 +0000"
+          "title": "Кумановец пред Нова година фатен со пиротехника",
+          "link": "https://netpress.com.mk/kumanovecz-pred-nova-godina-faten-so-pirotehnika/",
+          "published": "Sun, 01 Feb 2026 20:04:42 +0000"
         }
       ]
     },
@@ -79,7 +79,7 @@
           "source": "BBC",
           "title": "Twelve miners killed by Russian strike in Ukraine, energy company says",
           "link": "https://www.bbc.com/news/articles/cdre7g2je63o?at_medium=RSS&at_campaign=rss",
-          "published": "Sun, 01 Feb 2026 19:58:03 GMT"
+          "published": "Sun, 01 Feb 2026 20:37:58 GMT"
         },
         {
           "source": "BBC",
@@ -107,6 +107,12 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Gaza patients in limbo amid Israel’s ‘pilot reopening’ of Rafah crossing",
+          "link": "https://www.aljazeera.com/features/2026/2/1/gaza-patients-in-limbo-amid-israels-pilot-reopening-of-rafah-crossing?traffic_source=rss",
+          "published": "Sun, 01 Feb 2026 20:35:37 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Gaza’s daily nightmare vs US talk of AI-driven smart cities",
           "link": "https://www.aljazeera.com/video/the-bottom-line/2026/2/1/gazas-daily-nightmare-vs-us-talk-of-ai-driven-smart-cities?traffic_source=rss",
           "published": "Sun, 01 Feb 2026 19:33:01 +0000"
@@ -128,12 +134,6 @@
           "title": "Israel orders eviction of Bedouins as settlers target West Bank schools",
           "link": "https://www.aljazeera.com/news/2026/2/1/israel-orders-eviction-of-bedouins-as-settlers-target-west-bank-schools?traffic_source=rss",
           "published": "Sun, 01 Feb 2026 17:52:49 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Israel says it will ban MSF from operating in Gaza",
-          "link": "https://www.aljazeera.com/news/2026/2/1/israel-says-it-will-ban-msf-from-operating-in-gaza?traffic_source=rss",
-          "published": "Sun, 01 Feb 2026 17:00:58 +0000"
         }
       ]
     }
