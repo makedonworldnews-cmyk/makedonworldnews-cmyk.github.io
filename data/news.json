@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-01T19:46:43Z",
+  "updatedAt": "2026-02-01T19:58:45Z",
   "groups": [
     {
       "region": "Македонија",
@@ -79,7 +79,7 @@
           "source": "BBC",
           "title": "Twelve miners killed by Russian strike in Ukraine, energy company says",
           "link": "https://www.bbc.com/news/articles/cdre7g2je63o?at_medium=RSS&at_campaign=rss",
-          "published": "Sun, 01 Feb 2026 18:01:53 GMT"
+          "published": "Sun, 01 Feb 2026 19:58:03 GMT"
         },
         {
           "source": "BBC",
@@ -107,6 +107,12 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Gaza’s daily nightmare vs US talk of AI-driven smart cities",
+          "link": "https://www.aljazeera.com/video/the-bottom-line/2026/2/1/gazas-daily-nightmare-vs-us-talk-of-ai-driven-smart-cities?traffic_source=rss",
+          "published": "Sun, 01 Feb 2026 19:33:01 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Death toll from Swiss New Year Alpine bar fire increases to 41",
           "link": "https://www.aljazeera.com/news/2026/2/1/death-toll-from-swiss-new-year-alpine-bar-fire-increases-to-41?traffic_source=rss",
           "published": "Sun, 01 Feb 2026 18:58:35 +0000"
@@ -128,12 +134,6 @@
           "title": "Israel says it will ban MSF from operating in Gaza",
           "link": "https://www.aljazeera.com/news/2026/2/1/israel-says-it-will-ban-msf-from-operating-in-gaza?traffic_source=rss",
           "published": "Sun, 01 Feb 2026 17:00:58 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Man Utd strike late as Carrick extends perfect start in Fulham thriller",
-          "link": "https://www.aljazeera.com/sports/2026/2/1/man-utd-strike-late-as-carrick-extends-perfect-start-in-fulham-thriller?traffic_source=rss",
-          "published": "Sun, 01 Feb 2026 16:55:47 +0000"
         }
       ]
     }
