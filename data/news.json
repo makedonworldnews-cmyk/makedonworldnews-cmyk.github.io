@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-01T19:05:08Z",
+  "updatedAt": "2026-02-01T19:46:43Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "СДСМ и ВМРО-ДПМНЕ се скараа за дрогата која била набавена во Македонија",
+          "link": "https://makfax.com.mk/makedonija/%d1%81%d0%b4%d1%81%d0%bc-%d0%b8-%d0%b2%d0%bc%d1%80%d0%be-%d0%b4%d0%bf%d0%bc%d0%bd%d0%b5-%d1%81%d0%b5-%d1%81%d0%ba%d0%b0%d1%80%d0%b0%d0%b0-%d0%b7%d0%b0-%d0%b4%d1%80%d0%be%d0%b3%d0%b0%d1%82%d0%b0-%d0%ba/",
+          "published": "Sun, 01 Feb 2026 19:06:49 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Јанакопулос побара играчите и тренерот Атаман да поднесат оставки",
+          "link": "https://makfax.com.mk/sport/janakopulos-pobara-igrachite-i-trenerot-ataman-da-podnesat-ostavki/",
+          "published": "Sun, 01 Feb 2026 19:04:38 +0000"
         },
         {
           "source": "Makfax",
@@ -29,16 +41,16 @@
           "published": "Sun, 01 Feb 2026 18:17:25 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Сообраќајот во зимски услови по влажни коловози",
-          "link": "https://makfax.com.mk/makedonija/%d1%81%d0%be%d0%be%d0%b1%d1%80%d0%b0%d1%9c%d0%b0%d1%98%d0%be%d1%82-%d0%b2%d0%be-%d0%b7%d0%b8%d0%bc%d1%81%d0%ba%d0%b8-%d1%83%d1%81%d0%bb%d0%be%d0%b2%d0%b8-%d0%bf%d0%be-%d0%b2%d0%bb%d0%b0%d0%b6%d0%bd-2/",
-          "published": "Sun, 01 Feb 2026 17:59:21 +0000"
+          "source": "NetPress",
+          "title": "Премиер лига: Сити испушти два гола предност кај Тотенхем, трета победа во низа за Јунајтед",
+          "link": "https://netpress.com.mk/premier-liga-siti-ispushti-dva-gola-prednost-kaj-totenhem-treta-pobeda-vo-niza-za-junajted/",
+          "published": "Sun, 01 Feb 2026 19:34:16 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "(Видео) Драматична победа на Манчестер Јунајтед",
-          "link": "https://makfax.com.mk/sport/video-dramatichna-pobeda-na-manchester-junajted/",
-          "published": "Sun, 01 Feb 2026 17:57:02 +0000"
+          "source": "NetPress",
+          "title": "ЕП ракомет: Данска ги комплетираше олимписките, светските и европските титули",
+          "link": "https://netpress.com.mk/ep-rakomet-danska-gi-kompletirashe-olimpiskite-svetskite-i-evropskite-tituli/",
+          "published": "Sun, 01 Feb 2026 19:19:55 +0000"
         },
         {
           "source": "NetPress",
@@ -57,18 +69,6 @@
           "title": "На повидок и доизградбата на булеварот во Керамидница",
           "link": "https://netpress.com.mk/na-povidok-i-doizgradbata-na-bulevarot-vo-keramidnicza/",
           "published": "Sun, 01 Feb 2026 18:26:38 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Сè е подготвено за Греми пресметката меѓу Кендрик Ламар, Бед Бани и Лејди Гага",
-          "link": "https://netpress.com.mk/se-e-podgotveno-za-gremi-presmetkata-megu-kendrik-lamar-bed-bani-i-lejdi-gaga/",
-          "published": "Sun, 01 Feb 2026 18:07:11 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Љутков: За Охридскиот Регион чекаме препораки од УНЕСКО",
-          "link": "https://netpress.com.mk/lutkov-za-ohridskiot-region-chekame-preporaki-od-unesko/",
-          "published": "Sun, 01 Feb 2026 18:05:19 +0000"
         }
       ]
     },
@@ -89,6 +89,12 @@
         },
         {
           "source": "BBC",
+          "title": "Iranian protester Erfan Soltani released on bail, reports say",
+          "link": "https://www.bbc.com/news/articles/ceqz8r2j24do?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 01 Feb 2026 19:00:01 GMT"
+        },
+        {
+          "source": "BBC",
           "title": "Boy, 5, and father detained by ICE return to Minnesota after release",
           "link": "https://www.bbc.com/news/articles/cwynzw7jd4go?at_medium=RSS&at_campaign=rss",
           "published": "Sun, 01 Feb 2026 18:13:49 GMT"
@@ -100,10 +106,10 @@
           "published": "Sun, 01 Feb 2026 17:40:37 GMT"
         },
         {
-          "source": "BBC",
-          "title": "Israel to ban MSF from working in Gaza over refusal to provide staff list",
-          "link": "https://www.bbc.com/news/articles/cvg1ymmkpkro?at_medium=RSS&at_campaign=rss",
-          "published": "Sun, 01 Feb 2026 13:20:38 GMT"
+          "source": "Al Jazeera",
+          "title": "Death toll from Swiss New Year Alpine bar fire increases to 41",
+          "link": "https://www.aljazeera.com/news/2026/2/1/death-toll-from-swiss-new-year-alpine-bar-fire-increases-to-41?traffic_source=rss",
+          "published": "Sun, 01 Feb 2026 18:58:35 +0000"
         },
         {
           "source": "Al Jazeera",
@@ -128,12 +134,6 @@
           "title": "Man Utd strike late as Carrick extends perfect start in Fulham thriller",
           "link": "https://www.aljazeera.com/sports/2026/2/1/man-utd-strike-late-as-carrick-extends-perfect-start-in-fulham-thriller?traffic_source=rss",
           "published": "Sun, 01 Feb 2026 16:55:47 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Venezuela rights activist Javier Tarazona freed amid prisoner release",
-          "link": "https://www.aljazeera.com/news/2026/2/1/venezuela-rights-activist-freed-from-jail-amid-prisoner-release?traffic_source=rss",
-          "published": "Sun, 01 Feb 2026 16:43:00 +0000"
         }
       ]
     }
