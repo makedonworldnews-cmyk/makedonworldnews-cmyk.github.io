@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-01T09:57:11Z",
+  "updatedAt": "2026-02-01T10:57:03Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) Сведоштво на мајката и сопруга на уапсените за марихуаната поврзана со Македонија",
+          "link": "https://makfax.com.mk/svet/%d0%b2%d0%b8%d0%b4%d0%b5%d0%be-%d1%81%d0%b2%d0%b5%d0%b4%d0%be%d1%88%d1%82%d0%b2%d0%be-%d0%bd%d0%b0-%d0%bc%d0%b0%d1%98%d0%ba%d0%b0%d1%82%d0%b0-%d0%b8-%d1%81%d0%be%d0%bf%d1%80%d1%83%d0%b3%d0%b0-%d0%bd/",
+          "published": "Sun, 01 Feb 2026 10:56:25 +0000"
         },
         {
           "source": "Makfax",
@@ -35,10 +41,22 @@
           "published": "Sun, 01 Feb 2026 08:32:51 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Украина речиси четири години се брани од руската инвазија, денес нови преговори во Абу Даби",
-          "link": "https://makfax.com.mk/svet/%d1%83%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d0%b0-%d1%80%d0%b5%d1%87%d0%b8%d1%81%d0%b8-%d1%87%d0%b5%d1%82%d0%b8%d1%80%d0%b8-%d0%b3%d0%be%d0%b4%d0%b8%d0%bd%d0%b8-%d1%81%d0%b5-%d0%b1%d1%80%d0%b0%d0%bd%d0%b8/",
-          "published": "Sun, 01 Feb 2026 08:14:43 +0000"
+          "source": "NetPress",
+          "title": "Охриѓанец напаѓал првин со дрво, потоа со нож",
+          "link": "https://netpress.com.mk/ohriganecz-napagal-prvin-so-drvo-potoa-so-nozh/",
+          "published": "Sun, 01 Feb 2026 10:46:39 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Ако прифатите одговорност, забраната за возење може да се намали",
+          "link": "https://netpress.com.mk/ako-prifatite-odgovornost-zabranata-za-vozene-mozhe-da-se-namali/",
+          "published": "Sun, 01 Feb 2026 10:25:06 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Новата рунда мировни преговори меѓу Украина и Русија во Абу Даби, без претставници на САД",
+          "link": "https://netpress.com.mk/novata-runda-mirovni-pregovori-megu-ukraina-i-rusija-vo-abu-dabi-bez-pretstavniczi-na-sad/",
+          "published": "Sun, 01 Feb 2026 10:12:56 +0000"
         },
         {
           "source": "NetPress",
@@ -51,24 +69,6 @@
           "title": "Вежбањето има сличен ефект врз депресијата како и терапијата",
           "link": "https://netpress.com.mk/vezhbaneto-ima-slichen-efekt-vrz-depresijata-kako-i-terapijata/",
           "published": "Sun, 01 Feb 2026 09:27:21 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Трамп: Индија ќе купува нафта од Венецуела наместо од Иран",
-          "link": "https://netpress.com.mk/tramp-indija-ke-kupuva-nafta-od-veneczuela-namesto-od-iran/",
-          "published": "Sun, 01 Feb 2026 09:23:54 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Преглед НБА: Шеста победа во низа на Шарлот",
-          "link": "https://netpress.com.mk/pregled-nba-shesta-pobeda-vo-niza-na-sharlot/",
-          "published": "Sun, 01 Feb 2026 09:08:04 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Најмалку 18 жртви во рекордните снежни врнежи во Јапонија",
-          "link": "https://netpress.com.mk/najmalku-18-zhrtvi-vo-rekordnite-snezhni-vrnezhi-vo-japonija/",
-          "published": "Sun, 01 Feb 2026 08:47:07 +0000"
         }
       ]
     },
@@ -91,7 +91,7 @@
           "source": "BBC",
           "title": "Deadly gun and bomb attacks hit Pakistan's Balochistan province",
           "link": "https://www.bbc.com/news/articles/cn42nedxqyqo?at_medium=RSS&at_campaign=rss",
-          "published": "Sun, 01 Feb 2026 00:57:25 GMT"
+          "published": "Sun, 01 Feb 2026 10:08:55 GMT"
         },
         {
           "source": "BBC",
@@ -107,33 +107,33 @@
         },
         {
           "source": "Al Jazeera",
-          "title": "‘No ICE in Italy’: Hundreds protest Winter Olympic deployment",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/2/1/no-ice-in-italy-hundreds-protest-winter-olympic-deployment?traffic_source=rss",
-          "published": "Sun, 01 Feb 2026 09:18:55 +0000"
+          "title": "Iran designates European armies ‘terrorist groups’ in retaliatory move",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/2/1/iran-designates-european-armies-terrorist-groups-in-retaliatory-move?traffic_source=rss",
+          "published": "Sun, 01 Feb 2026 10:29:49 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Yamal scores as Barcelona win at Elche to extend La Liga lead",
-          "link": "https://www.aljazeera.com/sports/2026/2/1/yamal-scores-as-barcelona-win-at-elche-to-extend-la-liga-lead?traffic_source=rss",
-          "published": "Sun, 01 Feb 2026 08:49:59 +0000"
+          "title": "Week in pictures: From Israel’s Gaza killings to Russian strikes in Ukraine",
+          "link": "https://www.aljazeera.com/gallery/2026/2/1/week-in-pictures-from-israels-gaza-killings-to-russian-strikes-in-ukraine?traffic_source=rss",
+          "published": "Sun, 01 Feb 2026 10:23:16 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Iran designates EU armies ‘terrorist groups’ in retaliatory move",
-          "link": "https://www.aljazeera.com/news/2026/2/1/iran-designates-eu-armies-terrorist-groups-in-retaliatory-move?traffic_source=rss",
-          "published": "Sun, 01 Feb 2026 08:47:38 +0000"
+          "title": "UK PM Starmer urges ex-Prince Andrew to cooperate in Epstein files probe",
+          "link": "https://www.aljazeera.com/news/2026/2/1/uk-pm-starmer-urges-ex-prince-andrew-to-cooperate-in-epstein-files-probe?traffic_source=rss",
+          "published": "Sun, 01 Feb 2026 10:09:40 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Campaign to boycott Israel looks to future after Gaza ‘ceasefire’",
-          "link": "https://www.aljazeera.com/news/2026/2/1/campaign-to-boycott-israel-looks-to-future-after-gaza-ceasefire?traffic_source=rss",
-          "published": "Sun, 01 Feb 2026 08:24:58 +0000"
+          "title": "Hope flickers as lights return to war-scarred Aden",
+          "link": "https://www.aljazeera.com/features/2026/2/1/hope-flickers-as-lights-return-to-war-scarred-aden?traffic_source=rss",
+          "published": "Sun, 01 Feb 2026 10:03:51 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Volkanovski wins featherweight title defence against Lopes at UFC 325",
-          "link": "https://www.aljazeera.com/sports/2026/2/1/volkanovski-wins-featherweight-title-defence-against-lopes-at-ufc-325?traffic_source=rss",
-          "published": "Sun, 01 Feb 2026 08:05:13 +0000"
+          "title": "‘Everyone here is corrupt’: What fuels the Balochistan separatist violence",
+          "link": "https://www.aljazeera.com/features/2026/2/1/everyone-here-is-corrupt-what-fuels-the-balochistan-separatist-violence?traffic_source=rss",
+          "published": "Sun, 01 Feb 2026 10:02:13 +0000"
         }
       ]
     }
