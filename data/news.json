@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-03T21:51:43Z",
+  "updatedAt": "2026-02-03T23:01:34Z",
   "groups": [
     {
       "region": "Македонија",
@@ -42,6 +42,24 @@
         },
         {
           "source": "NetPress",
+          "title": "Лига куп: Арсенал во финалето",
+          "link": "https://netpress.com.mk/liga-kup-arsenal-vo-finaleto/",
+          "published": "Tue, 03 Feb 2026 22:14:06 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Франција сигнализира можна дискусија за валутните курсеви во Г7",
+          "link": "https://netpress.com.mk/franczija-signalizira-mozhna-diskusija-za-valutnite-kursevi-vo-g7/",
+          "published": "Tue, 03 Feb 2026 22:08:53 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Трамп најавува воспоставување стратешки резерви на минерали",
+          "link": "https://netpress.com.mk/tramp-najavuva-vospostavuvane-strateshki-rezervi-na-minerali/",
+          "published": "Tue, 03 Feb 2026 21:52:43 +0000"
+        },
+        {
+          "source": "NetPress",
           "title": "Иран бара промени во локацијата и обемот на преговорите со САД",
           "link": "https://netpress.com.mk/iran-bara-promeni-vo-lokaczijata-i-obemot-na-pregovorite-so-sad/",
           "published": "Tue, 03 Feb 2026 21:15:21 +0000"
@@ -51,24 +69,6 @@
           "title": "Промена во работењето на ЕЕС системот на границите на ЕУ",
           "link": "https://netpress.com.mk/promena-vo-raboteneto-na-ees-sistemot-na-graniczite-na-eu/",
           "published": "Tue, 03 Feb 2026 21:11:16 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "САД: Претставничкиот дом со тесно мнозинство одобри крај на делумното затворање на владата",
-          "link": "https://netpress.com.mk/sad-pretstavnichkiot-dom-so-tesno-mnozinstvo-odobri-kraj-na-delumnoto-zatvorane-na-vladata/",
-          "published": "Tue, 03 Feb 2026 20:57:59 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Македонија и ОАЕ потпишаа договор за модернизација на Владата",
-          "link": "https://netpress.com.mk/makedonija-i-oae-potpishaa-dogovor-za-modernizaczija-na-vladata/",
-          "published": "Tue, 03 Feb 2026 20:35:27 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Најпознатиот син на Гадафи убиен во Либија",
-          "link": "https://netpress.com.mk/najpoznatiot-sin-na-gadafi-ubien-vo-libija/",
-          "published": "Tue, 03 Feb 2026 20:32:24 +0000"
         }
       ]
     },
@@ -89,21 +89,27 @@
         },
         {
           "source": "BBC",
-          "title": "Watch: BBC joins Colombian commandos fighting 'never-ending battle' against drug gangs",
-          "link": "https://www.bbc.com/news/articles/c04105ywkkqo?at_medium=RSS&at_campaign=rss",
-          "published": "Tue, 03 Feb 2026 17:12:42 GMT"
-        },
-        {
-          "source": "BBC",
           "title": "Spain announces plans to ban social media for under-16s",
           "link": "https://www.bbc.com/news/articles/c5y2nddvmryo?at_medium=RSS&at_campaign=rss",
           "published": "Tue, 03 Feb 2026 20:32:33 GMT"
         },
         {
           "source": "BBC",
-          "title": "'I was thinking about mum': Boy, 13, swims for hours to save family swept out to sea",
-          "link": "https://www.bbc.com/news/articles/cly3ezj3rg3o?at_medium=RSS&at_campaign=rss",
-          "published": "Tue, 03 Feb 2026 13:19:08 GMT"
+          "title": "Saif al-Islam Gaddafi, son of ex-Libyan leader, reportedly shot dead",
+          "link": "https://www.bbc.com/news/articles/cp37g4xgkxdo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 03 Feb 2026 21:57:16 GMT"
+        },
+        {
+          "source": "BBC",
+          "title": "Trial of Norway crown princess' son hears tearful account in rape trial",
+          "link": "https://www.bbc.com/news/articles/cdx43rxgyk1o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 03 Feb 2026 22:27:32 GMT"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Who was Libya’s Saif al-Islam Gaddafi?",
+          "link": "https://www.aljazeera.com/news/2026/2/3/who-was-libyas-saif-al-islam-gaddafi?traffic_source=rss",
+          "published": "Tue, 03 Feb 2026 22:23:27 +0000"
         },
         {
           "source": "Al Jazeera",
@@ -128,12 +134,6 @@
           "title": "Son of Norway’s crown princess pleads not guilty in rape case",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/2/3/son-of-norways-crown-princess-pleads-not-guilty-in-rape-case?traffic_source=rss",
           "published": "Tue, 03 Feb 2026 19:57:59 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "UN chief urges Gaza aid as Israel blocks most medical evacuees at Rafah",
-          "link": "https://www.aljazeera.com/news/2026/2/3/un-chief-urges-gaza-aid-as-israel-blocks-most-medical-evacuees-at-rafah?traffic_source=rss",
-          "published": "Tue, 03 Feb 2026 19:52:53 +0000"
         }
       ]
     }
