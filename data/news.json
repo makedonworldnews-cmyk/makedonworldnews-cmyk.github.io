@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-03T23:01:34Z",
+  "updatedAt": "2026-02-03T23:56:40Z",
   "groups": [
     {
       "region": "Македонија",
@@ -42,6 +42,12 @@
         },
         {
           "source": "NetPress",
+          "title": "Барселона преку Албасете до полуфиналето на Кралскиот куп",
+          "link": "https://netpress.com.mk/barselona-preku-albasete-do-polufinaleto-na-kralskiot-kup/",
+          "published": "Tue, 03 Feb 2026 23:01:36 +0000"
+        },
+        {
+          "source": "NetPress",
           "title": "Лига куп: Арсенал во финалето",
           "link": "https://netpress.com.mk/liga-kup-arsenal-vo-finaleto/",
           "published": "Tue, 03 Feb 2026 22:14:06 +0000"
@@ -63,12 +69,6 @@
           "title": "Иран бара промени во локацијата и обемот на преговорите со САД",
           "link": "https://netpress.com.mk/iran-bara-promeni-vo-lokaczijata-i-obemot-na-pregovorite-so-sad/",
           "published": "Tue, 03 Feb 2026 21:15:21 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Промена во работењето на ЕЕС системот на границите на ЕУ",
-          "link": "https://netpress.com.mk/promena-vo-raboteneto-na-ees-sistemot-na-graniczite-na-eu/",
-          "published": "Tue, 03 Feb 2026 21:11:16 +0000"
         }
       ]
     },
@@ -101,13 +101,25 @@
         },
         {
           "source": "BBC",
-          "title": "Trial of Norway crown princess' son hears tearful account in rape trial",
+          "title": "Trial of Norway crown princess's son hears tearful account in rape trial",
           "link": "https://www.bbc.com/news/articles/cdx43rxgyk1o?at_medium=RSS&at_campaign=rss",
           "published": "Tue, 03 Feb 2026 22:27:32 GMT"
         },
         {
           "source": "Al Jazeera",
-          "title": "Who was Libya’s Saif al-Islam Gaddafi?",
+          "title": "Collision between Greek coastguard vessel, migrant boat kills at least 14",
+          "link": "https://www.aljazeera.com/news/2026/2/3/collision-between-greek-coast-guard-vessel-migrant-boat-kills-at-least-14?traffic_source=rss",
+          "published": "Tue, 03 Feb 2026 22:40:41 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "US House passes $1.2 trillion spending package to end government shutdown",
+          "link": "https://www.aljazeera.com/economy/2026/2/3/us-house-passes-1-2-trillion-spending-package-to-end-government-shutdown?traffic_source=rss",
+          "published": "Tue, 03 Feb 2026 22:38:35 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Who was Saif al-Islam Gaddafi, the man once seen as Libya’s next leader?",
           "link": "https://www.aljazeera.com/news/2026/2/3/who-was-libyas-saif-al-islam-gaddafi?traffic_source=rss",
           "published": "Tue, 03 Feb 2026 22:23:27 +0000"
         },
@@ -122,18 +134,6 @@
           "title": "Saif al-Islam Gaddafi, son of Libyan former leader, killed",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/2/3/saif-al-islam-gaddafi-son-of-libyan-former-leader-killed?traffic_source=rss",
           "published": "Tue, 03 Feb 2026 20:51:48 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "‘Game is over’: Iran’s ex-leaders, hardliners clash after protest killings",
-          "link": "https://www.aljazeera.com/news/2026/2/3/game-is-over-irans-ex-leaders-hardliners-clash-after-protest-killings?traffic_source=rss",
-          "published": "Tue, 03 Feb 2026 20:24:26 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Son of Norway’s crown princess pleads not guilty in rape case",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/2/3/son-of-norways-crown-princess-pleads-not-guilty-in-rape-case?traffic_source=rss",
-          "published": "Tue, 03 Feb 2026 19:57:59 +0000"
         }
       ]
     }
