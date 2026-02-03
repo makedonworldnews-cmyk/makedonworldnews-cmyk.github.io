@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-02T23:56:38Z",
+  "updatedAt": "2026-02-03T05:07:45Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Променливо облачно со сончеви периоди, максималната температура до 11 степени",
+          "link": "https://makfax.com.mk/makedonija/%d0%bf%d1%80%d0%be%d0%bc%d0%b5%d0%bd%d0%bb%d0%b8%d0%b2%d0%be-%d0%be%d0%b1%d0%bb%d0%b0%d1%87%d0%bd%d0%be-%d1%81%d0%be-%d1%81%d0%be%d0%bd%d1%87%d0%b5%d0%b2%d0%b8-%d0%bf%d0%b5%d1%80%d0%b8%d0%be%d0%b4-64/",
+          "published": "Tue, 03 Feb 2026 05:00:18 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Нормализиран сообраќајот на експресниот пат Кочани-Штип",
+          "link": "https://makfax.com.mk/makedonija/%d0%bd%d0%be%d1%80%d0%bc%d0%b0%d0%bb%d0%b8%d0%b7%d0%b8%d1%80%d0%b0%d0%bd-%d1%81%d0%be%d0%be%d0%b1%d1%80%d0%b0%d1%9c%d0%b0%d1%98%d0%be%d1%82-%d0%bd%d0%b0-%d0%b5%d0%ba%d1%81%d0%bf%d1%80%d0%b5%d1%81-2/",
+          "published": "Tue, 03 Feb 2026 04:28:58 +0000"
         },
         {
           "source": "Makfax",
@@ -27,18 +39,6 @@
           "title": "Епстин со години се обидувал да дојде до Путин, покажуваат новите документи",
           "link": "https://makfax.com.mk/svet/%d0%b5%d0%bf%d1%81%d1%82%d0%b8%d0%bd-%d1%81%d0%be-%d0%b3%d0%be%d0%b4%d0%b8%d0%bd%d0%b8-%d1%81%d0%b5-%d0%be%d0%b1%d0%b8%d0%b4%d1%83%d0%b2%d0%b0%d0%bb-%d0%b4%d0%b0-%d0%b4%d0%be%d1%98%d0%b4%d0%b5-%d0%b4/",
           "published": "Mon, 02 Feb 2026 20:11:51 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Министерот на Трамп: Повеќе од подготвени сме да дејствуваме против Иран",
-          "link": "https://makfax.com.mk/svet/%d0%bc%d0%b8%d0%bd%d0%b8%d1%81%d1%82%d0%b5%d1%80%d0%be%d1%82-%d0%bd%d0%b0-%d1%82%d1%80%d0%b0%d0%bc%d0%bf-%d0%bf%d0%be%d0%b2%d0%b5%d1%9c%d0%b5-%d0%be%d0%b4-%d0%bf%d0%be%d0%b4%d0%b3%d0%be%d1%82%d0%b2/",
-          "published": "Mon, 02 Feb 2026 20:05:53 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Унгарија ја тужи ЕУ поради забраната за увоз на руски гас",
-          "link": "https://makfax.com.mk/svet/%d1%83%d0%bd%d0%b3%d0%b0%d1%80%d0%b8%d1%98%d0%b0-%d1%98%d0%b0-%d1%82%d1%83%d0%b6%d0%b8-%d0%b5%d1%83-%d0%bf%d0%be%d1%80%d0%b0%d0%b4%d0%b8-%d0%b7%d0%b0%d0%b1%d1%80%d0%b0%d0%bd%d0%b0%d1%82%d0%b0-%d0%b7/",
-          "published": "Mon, 02 Feb 2026 19:17:21 +0000"
         },
         {
           "source": "NetPress",
@@ -83,12 +83,6 @@
         },
         {
           "source": "BBC",
-          "title": "'Enemy' insults and questioning Putin: Steve Rosenberg on tightrope of reporting from Russia",
-          "link": "https://www.bbc.com/news/articles/c20g25w8j0xo?at_medium=RSS&at_campaign=rss",
-          "published": "Mon, 02 Feb 2026 06:00:30 GMT"
-        },
-        {
-          "source": "BBC",
           "title": "Israel reopens Gaza's key Rafah border crossing with Egypt",
           "link": "https://www.bbc.com/news/articles/c99kdjdj9l8o?at_medium=RSS&at_campaign=rss",
           "published": "Mon, 02 Feb 2026 17:27:06 GMT"
@@ -101,39 +95,45 @@
         },
         {
           "source": "BBC",
+          "title": "China bans hidden car door handles over safety concerns",
+          "link": "https://www.bbc.com/news/articles/cp37g5nxe3lo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 03 Feb 2026 02:06:29 GMT"
+        },
+        {
+          "source": "BBC",
           "title": "Eighty kidnapped Nigerians return home after escape",
           "link": "https://www.bbc.com/news/articles/c4g3v4pjwgjo?at_medium=RSS&at_campaign=rss",
           "published": "Mon, 02 Feb 2026 11:15:35 GMT"
         },
         {
           "source": "Al Jazeera",
-          "title": "Relief for patients leaving Gaza as Rafah opens, but thousands still wait",
-          "link": "https://www.aljazeera.com/news/2026/2/2/relief-for-patients-leaving-gaza-as-rafah-opens-but-thousands-still-wait?traffic_source=rss",
-          "published": "Mon, 02 Feb 2026 22:43:16 +0000"
+          "title": "Moscow confirms Russian forces helped repel ISIL attack on Niger airport",
+          "link": "https://www.aljazeera.com/news/2026/2/3/moscow-confirms-russian-forces-helped-repel-isil-attack-on-niger-airport?traffic_source=rss",
+          "published": "Tue, 03 Feb 2026 04:18:53 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "France adopts 2026 budget after two no-confidence votes fail",
-          "link": "https://www.aljazeera.com/news/2026/2/2/france-adopts-2026-budget-after-two-no-confidence-votes-fail?traffic_source=rss",
-          "published": "Mon, 02 Feb 2026 21:08:19 +0000"
+          "title": "UK police to review misconduct claims after Mandelson’s leaks to Epstein",
+          "link": "https://www.aljazeera.com/news/2026/2/3/uk-police-to-review-misconduct-claims-after-mandelsons-leaks-to-epstein?traffic_source=rss",
+          "published": "Tue, 03 Feb 2026 03:17:46 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "‘False narrative’: Families challenge Trump’s 75-country US visa suspension",
-          "link": "https://www.aljazeera.com/news/2026/2/2/false-narrative-families-challenge-trumps-75-country-us-visa-suspension?traffic_source=rss",
-          "published": "Mon, 02 Feb 2026 20:39:01 +0000"
+          "title": "Cuba in contact with US, diplomat says, as Trump issues threat to block oil",
+          "link": "https://www.aljazeera.com/news/2026/2/3/cuba-in-contact-with-us-diplomat-says-as-trump-issues-threat-to-block?traffic_source=rss",
+          "published": "Tue, 03 Feb 2026 03:12:06 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "UN welcomes reopening of Gaza’s Rafah border with Egypt",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/2/2/un-welcomes-reopening-of-gazas-rafah-border-with-egypt?traffic_source=rss",
-          "published": "Mon, 02 Feb 2026 20:30:12 +0000"
+          "title": "Ex-US President Bill Clinton, Hillary Clinton to testify in Epstein probe",
+          "link": "https://www.aljazeera.com/news/2026/2/3/ex-us-president-bill-clinton-hillary-clinton-to-testify-in-epstein-probe?traffic_source=rss",
+          "published": "Tue, 03 Feb 2026 02:20:02 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Pakistan fans endorse boycott of T20 World Cup match against India",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/2/2/pakistan-fans-endorse-boycott-of-t20-world-cup-match-against-india?traffic_source=rss",
-          "published": "Mon, 02 Feb 2026 20:10:19 +0000"
+          "title": "Russia-Ukraine war: List of key events, day 1,440",
+          "link": "https://www.aljazeera.com/news/2026/2/3/russia-ukraine-war-list-of-key-events-day-1440?traffic_source=rss",
+          "published": "Tue, 03 Feb 2026 01:14:02 +0000"
         }
       ]
     }
