@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-04T22:56:21Z",
+  "updatedAt": "2026-02-04T23:54:58Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Почувствуван земјотрес во Битола, Охрид и околината: епицентарот во Албанија",
+          "link": "https://makfax.com.mk/makedonija/%d0%bf%d0%be%d1%87%d1%83%d0%b2%d1%81%d1%82%d0%b2%d1%83%d0%b2%d0%b0%d0%bd-%d0%b7%d0%b5%d0%bc%d1%98%d0%be%d1%82%d1%80%d0%b5%d1%81-%d0%b2%d0%be-%d0%b1%d0%b8%d1%82%d0%be%d0%bb%d0%b0-%d0%be%d1%85%d1%80/",
+          "published": "Wed, 04 Feb 2026 23:01:52 +0000"
         },
         {
           "source": "Makfax",
@@ -35,10 +41,22 @@
           "published": "Wed, 04 Feb 2026 19:45:42 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Стотици жени снимени голи во бугарски салони за убавина, снимките завршиле на порно страници",
-          "link": "https://makfax.com.mk/svet/region/%d1%81%d1%82%d0%be%d1%82%d0%b8%d1%86%d0%b8-%d0%b6%d0%b5%d0%bd%d0%b8-%d1%81%d0%bd%d0%b8%d0%bc%d0%b5%d0%bd%d0%b8-%d0%b3%d0%be%d0%bb%d0%b8-%d0%b2%d0%be-%d0%b1%d1%83%d0%b3%d0%b0%d1%80%d1%81%d0%ba%d0%b8/",
-          "published": "Wed, 04 Feb 2026 19:20:31 +0000"
+          "source": "NetPress",
+          "title": "Баскиските клубови Атлетик и Сосиедад во полуфиналето на Кралскиот куп",
+          "link": "https://netpress.com.mk/baskiskite-klubovi-atletik-i-sosiedad-vo-polufinaleto-na-kralskiot-kup/",
+          "published": "Wed, 04 Feb 2026 23:38:54 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Штутгарт во полуфиналето на Купот на Германија",
+          "link": "https://netpress.com.mk/shtutgart-vo-polufinaleto-na-kupot-na-germanija/",
+          "published": "Wed, 04 Feb 2026 23:18:10 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Стармер жали за изборот на поранешниот британски амбасадор поврзан со Епштајн",
+          "link": "https://netpress.com.mk/starmer-zhali-za-izborot-na-poraneshniot-britanski-ambasador-povrzan-so-epshtajn/",
+          "published": "Wed, 04 Feb 2026 23:01:55 +0000"
         },
         {
           "source": "NetPress",
@@ -51,24 +69,6 @@
           "title": "Освојувањето на Украина би ја чинело Русија уште 800.000 животи, тврди Зеленски",
           "link": "https://netpress.com.mk/osvojuvaneto-na-ukraina-bi-ja-chinelo-rusija-ushte-800-000-zhivoti-tvrdi-zelenski/",
           "published": "Wed, 04 Feb 2026 22:30:58 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Интер во полуфиналето на Купот",
-          "link": "https://netpress.com.mk/inter-vo-polufinaleto-na-kupot/",
-          "published": "Wed, 04 Feb 2026 22:19:27 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "САД нема да се согласат да ја променат локацијата на преговорите со Иран",
-          "link": "https://netpress.com.mk/sad-nema-da-se-soglasat-da-ja-promenat-lokaczijata-na-pregovorite-so-iran/",
-          "published": "Wed, 04 Feb 2026 22:07:34 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Француски дипломат во Москва разговарал за Украина",
-          "link": "https://netpress.com.mk/franczuski-diplomat-vo-moskva-razgovaral-za-ukraina/",
-          "published": "Wed, 04 Feb 2026 21:04:15 +0000"
         }
       ]
     },
@@ -85,7 +85,7 @@
           "source": "BBC",
           "title": "Melinda French Gates says ex-husband Bill has questions to answer over Epstein",
           "link": "https://www.bbc.com/news/articles/cr4kyk9nv5lo?at_medium=RSS&at_campaign=rss",
-          "published": "Wed, 04 Feb 2026 12:20:19 GMT"
+          "published": "Wed, 04 Feb 2026 23:42:41 GMT"
         },
         {
           "source": "BBC",
@@ -107,6 +107,18 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Ukraine says first day of peace talks with Russia ‘productive’",
+          "link": "https://www.aljazeera.com/news/2026/2/4/ukraine-says-first-day-of-peace-talks-with-russia?traffic_source=rss",
+          "published": "Wed, 04 Feb 2026 22:52:13 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "US Supreme Court rejects challenge to California redistricting effort",
+          "link": "https://www.aljazeera.com/news/2026/2/4/us-supreme-court-rejects-challenge-to-california-redistricting-bid?traffic_source=rss",
+          "published": "Wed, 04 Feb 2026 22:26:32 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "US-Iran nuclear talks set for Oman on Friday, Tehran confirms",
           "link": "https://www.aljazeera.com/news/2026/2/4/us-iran-nuclear-talks-set-for-oman-on-friday-tehran-confirms?traffic_source=rss",
           "published": "Wed, 04 Feb 2026 22:13:40 +0000"
@@ -122,18 +134,6 @@
           "title": "AIPAC-linked PAC ups pressure on ‘moderate’ US Democrat in new strategy",
           "link": "https://www.aljazeera.com/news/2026/2/4/aipac-linked-pac-ups-pressure-on-moderate-us-democrat-in-new-strategy?traffic_source=rss",
           "published": "Wed, 04 Feb 2026 22:04:21 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Why is there a mixed reaction in India to the US trade deal?",
-          "link": "https://www.aljazeera.com/video/inside-story/2026/2/4/why-is-there-a-mixed-reaction-in-india-to-the-us-trade-deal?traffic_source=rss",
-          "published": "Wed, 04 Feb 2026 22:01:31 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Return through Rafah: Palestinian women recount Israeli interrogation",
-          "link": "https://www.aljazeera.com/features/2026/2/4/return-through-rafah-palestinian-women-describe-israeli-interrogation?traffic_source=rss",
-          "published": "Wed, 04 Feb 2026 21:51:26 +0000"
         }
       ]
     }
