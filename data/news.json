@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-04T21:03:03Z",
+  "updatedAt": "2026-02-04T21:56:19Z",
   "groups": [
     {
       "region": "Македонија",
@@ -42,6 +42,12 @@
         },
         {
           "source": "NetPress",
+          "title": "Француски дипломат во Москва разговарал за Украина",
+          "link": "https://netpress.com.mk/franczuski-diplomat-vo-moskva-razgovaral-za-ukraina/",
+          "published": "Wed, 04 Feb 2026 21:04:15 +0000"
+        },
+        {
+          "source": "NetPress",
           "title": "Акција на полицијата во Струмица и Струмичко, опсада за 5-те тони марихуана",
           "link": "https://netpress.com.mk/akczija-na-policzijata-vo-strumicza-i-strumichko-opsada-za-5te-toni-marihuana/",
           "published": "Wed, 04 Feb 2026 20:54:01 +0000"
@@ -63,12 +69,6 @@
           "title": "Тер Штеген ќе биде опериран",
           "link": "https://netpress.com.mk/ter-shtegen-ke-bide-operiran/",
           "published": "Wed, 04 Feb 2026 19:57:54 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Крај на нуклеарниот договор „Нов СТАРТ“ помеѓу Русија и САД",
-          "link": "https://netpress.com.mk/kraj-na-nuklearniot-dogovor-nov-start-pomegu-rusija-i-sad/",
-          "published": "Wed, 04 Feb 2026 19:14:17 +0000"
         }
       ]
     },
@@ -107,33 +107,33 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Russia criticises US as final nuclear warhead treaty set to expire",
+          "link": "https://www.aljazeera.com/news/2026/2/4/russia-criticises-us-as-final-nuclear-warhead-treaty-set-to-expire?traffic_source=rss",
+          "published": "Wed, 04 Feb 2026 21:07:34 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "What is Tarique Rahman’s vision for Bangladesh?",
+          "link": "https://www.aljazeera.com/video/the-india-report/2026/2/4/what-is-tarique-rahmans-vision-for-bangladesh?traffic_source=rss",
+          "published": "Wed, 04 Feb 2026 20:59:58 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "‘Treacherous assassination’: Who was Saif al-Islam Gaddafi?",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/2/4/treacherous-assassination-who-was-saif-al-islam-gaddafi?traffic_source=rss",
+          "published": "Wed, 04 Feb 2026 20:58:19 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Six British activists acquitted over raid on Israeli defence firm’s factory",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/2/4/six-british-activists-acquitted-over-raid-on-israeli-defence-firms-factory?traffic_source=rss",
+          "published": "Wed, 04 Feb 2026 20:48:45 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Some in Israel question its influence over US as Iran war decision nears",
           "link": "https://www.aljazeera.com/news/2026/2/4/some-israel-question-influence-over-us-iran-war-decision-nears?traffic_source=rss",
           "published": "Wed, 04 Feb 2026 20:05:05 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Rubio: US ready to talk with Iran, ‘not sure’ a deal can be reached",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/2/4/rubio-us-ready-to-talk-with-iran-not-sure-a-deal-can-be-reached?traffic_source=rss",
-          "published": "Wed, 04 Feb 2026 19:49:30 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Washington Post announces massive layoffs in blow to storied paper",
-          "link": "https://www.aljazeera.com/news/2026/2/4/washington-post-announces-massive-layoffs-in-blow-to-storied-paper?traffic_source=rss",
-          "published": "Wed, 04 Feb 2026 19:47:18 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Hungary jails German activist for eight years over far-right rally attacks",
-          "link": "https://www.aljazeera.com/news/2026/2/4/hungary-jails-german-activist-for-eight-years-over-far-right-rally-attacks?traffic_source=rss",
-          "published": "Wed, 04 Feb 2026 19:29:47 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Russia jails stand-up comic Artemy Ostani over war joke",
-          "link": "https://www.aljazeera.com/news/2026/2/4/russia-jails-stand-up-comic-artemy-ostani-over-war-joke?traffic_source=rss",
-          "published": "Wed, 04 Feb 2026 19:03:20 +0000"
         }
       ]
     }
