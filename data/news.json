@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-06T21:05:02Z",
+  "updatedAt": "2026-02-06T21:55:42Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Нов инцидент во Полска: дрон падна во близина на воена база",
+          "link": "https://makfax.com.mk/svet/%d0%bd%d0%be%d0%b2-%d0%b8%d0%bd%d1%86%d0%b8%d0%b4%d0%b5%d0%bd%d1%82-%d0%b2%d0%be-%d0%bf%d0%be%d0%bb%d1%81%d0%ba%d0%b0-%d0%b4%d1%80%d0%be%d0%bd-%d0%bf%d0%b0%d0%b4%d0%bd%d0%b0-%d0%b2%d0%be-%d0%b1%d0%bb/",
+          "published": "Fri, 06 Feb 2026 21:06:24 +0000"
         },
         {
           "source": "Makfax",
@@ -35,10 +41,22 @@
           "published": "Fri, 06 Feb 2026 20:37:31 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Фицо: Немам телефон и не знам ништо за Банон и Епстин",
-          "link": "https://makfax.com.mk/svet/%d1%84%d0%b8%d1%86%d0%be-%d0%bd%d0%b5%d0%bc%d0%b0%d0%bc-%d1%82%d0%b5%d0%bb%d0%b5%d1%84%d0%be%d0%bd-%d0%b8-%d0%bd%d0%b5-%d0%b7%d0%bd%d0%b0%d0%bc-%d0%bd%d0%b8%d1%88%d1%82%d0%be-%d0%b7%d0%b0-%d0%b1/",
-          "published": "Fri, 06 Feb 2026 20:21:45 +0000"
+          "source": "NetPress",
+          "title": "ФОТО| Обука на командири – почетници на АРМ водена од британски инструктори",
+          "link": "https://netpress.com.mk/foto-obuka-na-komandiri-pochetniczi-na-arm-vodena-od-britanski-instruktori/",
+          "published": "Fri, 06 Feb 2026 21:52:38 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Откриена преписката меѓу Аријана де Ротшилд и Епштајн: Би било приватно и никој не би знаел",
+          "link": "https://netpress.com.mk/otkriena-prepiskata-megu-arijana-de-rotshild-i-epshtajn-bi-bilo-privatno-i-nikoj-ne-bi-znael/",
+          "published": "Fri, 06 Feb 2026 21:47:36 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "ФОТО| Центарот на Скопје повторно затрупан со ѓубре",
+          "link": "https://netpress.com.mk/foto-czentarot-na-skopje-povtorno-zatrupan-so-gubre/",
+          "published": "Fri, 06 Feb 2026 21:36:03 +0000"
         },
         {
           "source": "NetPress",
@@ -51,24 +69,6 @@
           "title": "Елтон Џон огорчен по сознанието дека бил хакиран од Daily Mail",
           "link": "https://netpress.com.mk/elton-dhon-ogorchen-po-soznanieto-deka-bil-hakiran-od-daily-mail/",
           "published": "Fri, 06 Feb 2026 20:47:34 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Млад маж тешко повреден од двајца малолетници во Пакошево",
-          "link": "https://netpress.com.mk/mlad-mazh-teshko-povreden-od-dvajcza-maloletniczi-vo-pakoshevo/",
-          "published": "Fri, 06 Feb 2026 20:34:23 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Агроном во плантажа за марихуана украл од реколтата",
-          "link": "https://netpress.com.mk/agronom-vo-plantazha-so-marihuana-ukral-od-rekoltata/",
-          "published": "Fri, 06 Feb 2026 20:25:48 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Жена во Кисела Вода нападнала малолетник",
-          "link": "https://netpress.com.mk/zhena-vo-kisela-voda-napadnala-maloletnik/",
-          "published": "Fri, 06 Feb 2026 20:18:48 +0000"
         }
       ]
     },
@@ -83,6 +83,18 @@
         },
         {
           "source": "BBC",
+          "title": "Trump removes video with racist clip depicting Obamas as apes",
+          "link": "https://www.bbc.com/news/articles/ce8r8y78g10o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 06 Feb 2026 21:14:18 GMT"
+        },
+        {
+          "source": "BBC",
+          "title": "Gazans returning through Rafah crossing describe checks by Palestinian militia",
+          "link": "https://www.bbc.com/news/articles/cy4g3rne4n7o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 06 Feb 2026 20:27:57 GMT"
+        },
+        {
+          "source": "BBC",
           "title": "Talks with US set to continue after 'good beginning', Iran's foreign minister says",
           "link": "https://www.bbc.com/news/articles/cr57g1y8286o?at_medium=RSS&at_campaign=rss",
           "published": "Fri, 06 Feb 2026 17:59:08 GMT"
@@ -94,16 +106,16 @@
           "published": "Fri, 06 Feb 2026 19:52:23 GMT"
         },
         {
-          "source": "BBC",
-          "title": "Trump removes video with racist clip depicting Obamas as apes",
-          "link": "https://www.bbc.com/news/articles/ce8r8y78g10o?at_medium=RSS&at_campaign=rss",
-          "published": "Fri, 06 Feb 2026 19:37:05 GMT"
+          "source": "Al Jazeera",
+          "title": "Gas, power and AI’s role in the new age of energy addition",
+          "link": "https://www.aljazeera.com/economy/2026/2/6/gas-power-and-ais-role-in-the-new-age-of-energy-addition?traffic_source=rss",
+          "published": "Fri, 06 Feb 2026 21:33:32 +0000"
         },
         {
-          "source": "BBC",
-          "title": "Savannah Guthrie's brother renews plea for proof mother is alive",
-          "link": "https://www.bbc.com/news/articles/c2e1e7nlegko?at_medium=RSS&at_campaign=rss",
-          "published": "Fri, 06 Feb 2026 13:31:43 GMT"
+          "source": "Al Jazeera",
+          "title": "US FCC notice to broadcasters prompts concerns on curtailing free speech",
+          "link": "https://www.aljazeera.com/economy/2026/2/6/us-fcc-notice-to-broadcasters-prompts-concerns-on-curtailing-free-speech?traffic_source=rss",
+          "published": "Fri, 06 Feb 2026 21:02:57 +0000"
         },
         {
           "source": "Al Jazeera",
@@ -122,18 +134,6 @@
           "title": "New Yemen government formed with Shaya Mohsin al-Zindani as prime minister",
           "link": "https://www.aljazeera.com/news/2026/2/6/new-yemen-government-formed-with-shaya-mohsin-al-zindani-as-prime-minister?traffic_source=rss",
           "published": "Fri, 06 Feb 2026 19:58:39 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Mexico promises food support for Cuba as US stifles the island’s fuel supply",
-          "link": "https://www.aljazeera.com/news/2026/2/6/mexico-promises-food-support-for-cuba-as-us-stifles-the-islands-fuel-supply?traffic_source=rss",
-          "published": "Fri, 06 Feb 2026 19:57:34 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Anti-ICE protesters rally in Milan before Winter Olympics",
-          "link": "https://www.aljazeera.com/news/2026/2/6/anti-ice-protesters-rally-in-milan-ahead-of-olympics-opening?traffic_source=rss",
-          "published": "Fri, 06 Feb 2026 19:39:41 +0000"
         }
       ]
     }
