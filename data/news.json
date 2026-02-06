@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-05T23:53:47Z",
+  "updatedAt": "2026-02-06T05:07:27Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Дел од Центар денеска без вода",
+          "link": "https://makfax.com.mk/makedonija/%d0%b4%d0%b5%d0%bb-%d0%be%d0%b4-%d1%86%d0%b5%d0%bd%d1%82%d0%b0%d1%80-%d0%b4%d0%b5%d0%bd%d0%b5%d1%81%d0%ba%d0%b0-%d0%b1%d0%b5%d0%b7-%d0%b2%d0%be%d0%b4%d0%b0-20/",
+          "published": "Fri, 06 Feb 2026 05:03:59 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Променливо облачно со услови за повремени врнежи од дожд",
+          "link": "https://makfax.com.mk/makedonija/%d0%bf%d1%80%d0%be%d0%bc%d0%b5%d0%bd%d0%bb%d0%b8%d0%b2%d0%be-%d0%be%d0%b1%d0%bb%d0%b0%d1%87%d0%bd%d0%be-%d1%81%d0%be-%d1%83%d1%81%d0%bb%d0%be%d0%b2%d0%b8-%d0%b7%d0%b0-%d0%bf%d0%be%d0%b2%d1%80%d0%b5/",
+          "published": "Fri, 06 Feb 2026 04:58:21 +0000"
         },
         {
           "source": "Makfax",
@@ -27,18 +39,6 @@
           "title": "Трамп му даде целосна поддршка на Орбан пред изборите во Унгарија: „Тој е силен и моќен лидер“",
           "link": "https://makfax.com.mk/svet/%d1%82%d1%80%d0%b0%d0%bc%d0%bf-%d0%bc%d1%83-%d0%b4%d0%b0%d0%b4%d0%b5-%d1%86%d0%b5%d0%bb%d0%be%d1%81%d0%bd%d0%b0-%d0%bf%d0%be%d0%b4%d0%b4%d1%80%d1%88%d0%ba%d0%b0-%d0%bd%d0%b0-%d0%be%d1%80%d0%b1%d0%b0/",
           "published": "Thu, 05 Feb 2026 19:08:52 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Четиричлено семејство од Албанија почина во Тоскана од труење со јаглероден моноксид",
-          "link": "https://makfax.com.mk/svet/region/%d1%87%d0%b5%d1%82%d0%b8%d1%80%d0%b8%d1%87%d0%bb%d0%b5%d0%bd%d0%be-%d1%81%d0%b5%d0%bc%d0%b5%d1%98%d1%81%d1%82%d0%b2%d0%be-%d0%bf%d0%be%d1%87%d0%b8%d0%bd%d0%b0-%d0%b2%d0%be-%d0%b8%d1%82%d0%b0%d0%bb/",
-          "published": "Thu, 05 Feb 2026 19:04:35 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "МВП на Евролигата во Милвоки, Јанис нема да ги напушти Бакс",
-          "link": "https://makfax.com.mk/sport/mvp-na-evroligata-vo-milvoki-janis-nema-da-gi-napushti-baks/",
-          "published": "Thu, 05 Feb 2026 18:50:27 +0000"
         },
         {
           "source": "NetPress",
@@ -77,63 +77,63 @@
       "items": [
         {
           "source": "BBC",
-          "title": "Russia and Ukraine exchange prisoners as peace talks end without breakthrough",
-          "link": "https://www.bbc.com/news/articles/c62np09q7l1o?at_medium=RSS&at_campaign=rss",
-          "published": "Thu, 05 Feb 2026 17:21:57 GMT"
+          "title": "US and Iran talks to begin as fears of direct conflict continue",
+          "link": "https://www.bbc.com/news/articles/cr57g1y8286o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 06 Feb 2026 00:15:38 GMT"
         },
         {
           "source": "BBC",
-          "title": "Starmer apologises to Epstein victims for believing Mandelson's 'lies'",
-          "link": "https://www.bbc.com/news/articles/cp37v4kyv3eo?at_medium=RSS&at_campaign=rss",
-          "published": "Thu, 05 Feb 2026 22:24:27 GMT"
+          "title": "We had sex in a Chinese hotel, then found we had been broadcast to thousands",
+          "link": "https://www.bbc.com/news/articles/c62rexy9y3no?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 06 Feb 2026 00:15:23 GMT"
         },
         {
           "source": "BBC",
-          "title": "Suspect identified in disappearance of four-year-old in Australian outback",
-          "link": "https://www.bbc.com/news/articles/c368g5l33xzo?at_medium=RSS&at_campaign=rss",
-          "published": "Thu, 05 Feb 2026 06:42:41 GMT"
+          "title": "US police believe Savannah Guthrie's missing mother is 'still out there'",
+          "link": "https://www.bbc.com/news/articles/c2e18wvrx9xo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 06 Feb 2026 00:44:49 GMT"
         },
         {
           "source": "BBC",
-          "title": "Lebanon says Israel sprayed southern villages with concentrated herbicide",
-          "link": "https://www.bbc.com/news/articles/cgez359nd72o?at_medium=RSS&at_campaign=rss",
-          "published": "Thu, 05 Feb 2026 16:42:12 GMT"
+          "title": "US healthcare needs fixing, but there's no agreement on how to do it",
+          "link": "https://www.bbc.com/news/articles/cn0k6d6z7j3o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 06 Feb 2026 02:01:12 GMT"
         },
         {
           "source": "BBC",
-          "title": "Japanese city cancels cherry blossom festival over badly behaved tourists",
-          "link": "https://www.bbc.com/news/articles/c1wzrlndzjro?at_medium=RSS&at_campaign=rss",
-          "published": "Thu, 05 Feb 2026 13:07:45 GMT"
+          "title": "Louvre Museum crown left crushed but 'intact' after raid",
+          "link": "https://www.bbc.com/news/articles/cn40ev200yjo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 05 Feb 2026 18:19:53 GMT"
         },
         {
           "source": "Al Jazeera",
-          "title": "Venezuela’s National Assembly approves amnesty bill in first of two votes",
-          "link": "https://www.aljazeera.com/news/2026/2/5/venezuelas-national-assembly-approves-amnesty-bill-in-first-of-two-votes?traffic_source=rss",
-          "published": "Thu, 05 Feb 2026 23:15:02 +0000"
+          "title": "US-Iran talks live: Critical talks to begin in Oman in push to prevent war",
+          "link": "https://www.aljazeera.com/news/liveblog/2026/2/6/us-iran-talks-live-critical-negotiations-set-to-begin-in-oman?traffic_source=rss",
+          "published": "Fri, 06 Feb 2026 04:00:00 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Trump tempers criticism of UK’s Chagos Islands deal after talk with Starmer",
-          "link": "https://www.aljazeera.com/news/2026/2/5/trump-tempers-criticism-of-uks-chagos-islands-deal-after-talk-with-starmer?traffic_source=rss",
-          "published": "Thu, 05 Feb 2026 21:40:54 +0000"
+          "title": "Russia-Ukraine war: List of key events, day 1,443",
+          "link": "https://www.aljazeera.com/news/2026/2/6/russia-ukraine-war-list-of-key-events-day-1443?traffic_source=rss",
+          "published": "Fri, 06 Feb 2026 03:46:52 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "India coal mine blast leaves 18 dead, others feared trapped",
-          "link": "https://www.aljazeera.com/news/2026/2/5/india-coal-mine-blast-leaves-18-dead-others-feared-trapped?traffic_source=rss",
-          "published": "Thu, 05 Feb 2026 21:22:36 +0000"
+          "title": "US military kills two people in latest attack on vessel in the Pacific",
+          "link": "https://www.aljazeera.com/news/2026/2/6/us-military-kills-two-people-in-latest-attack-on-vessel-in-the-pacific?traffic_source=rss",
+          "published": "Fri, 06 Feb 2026 03:30:23 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "T20 World Cup: Sri Lanka urge Pakistan to reconsider India boycott",
-          "link": "https://www.aljazeera.com/sports/2026/2/5/t20-world-cup-sri-lanka-urge-pakistan-to-reconsider-india-boycott?traffic_source=rss",
-          "published": "Thu, 05 Feb 2026 20:59:34 +0000"
+          "title": "Bitcoin plummets in value again after week of heavy losses",
+          "link": "https://www.aljazeera.com/economy/2026/2/6/bitcoin-plummets-in-value-again-after-week-of-heavy-losses?traffic_source=rss",
+          "published": "Fri, 06 Feb 2026 02:45:29 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Cuba to introduce plan to address fuel shortage amid US blockade",
-          "link": "https://www.aljazeera.com/economy/2026/2/5/cuba-to-introduce-plan-to-address-fuel-shortage-amid-us-blockade?traffic_source=rss",
-          "published": "Thu, 05 Feb 2026 20:56:56 +0000"
+          "title": "‘TrumpRx’ website launches in US with promise to lower price of medicine",
+          "link": "https://www.aljazeera.com/news/2026/2/6/trumprx-website-launches-in-us-with-promise-to-lower-price-of-medicine?traffic_source=rss",
+          "published": "Fri, 06 Feb 2026 02:15:29 +0000"
         }
       ]
     }
