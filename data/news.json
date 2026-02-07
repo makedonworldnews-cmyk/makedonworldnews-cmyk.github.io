@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-07T19:59:13Z",
+  "updatedAt": "2026-02-07T20:57:36Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) Протести против Зимските олимписки игри во Милано: демонстрантите фрлаа димни бомби и шишиња кон полицијата",
+          "link": "https://makfax.com.mk/svet/%d0%b2%d0%b8%d0%b4%d0%b5%d0%be-%d0%bf%d1%80%d0%be%d1%82%d0%b5%d1%81%d1%82%d0%b8-%d0%bf%d1%80%d0%be%d1%82%d0%b8%d0%b2-%d0%b7%d0%b8%d0%bc%d1%81%d0%ba%d0%b8%d1%82%d0%b5-%d0%be%d0%bb%d0%b8%d0%bc%d0%bf/",
+          "published": "Sat, 07 Feb 2026 20:15:45 +0000"
         },
         {
           "source": "Makfax",
@@ -35,40 +41,34 @@
           "published": "Sat, 07 Feb 2026 16:36:25 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Франција ги истражува поранешниот министер за култура и неговата ќерка за измама поврзана со Епштајн",
-          "link": "https://makfax.com.mk/svet/%d1%84%d1%80%d0%b0%d0%bd%d1%86%d0%b8%d1%98%d0%b0-%d0%b3%d0%b8-%d0%b8%d1%81%d1%82%d1%80%d0%b0%d0%b6%d1%83%d0%b2%d0%b0-%d0%bf%d0%be%d1%80%d0%b0%d0%bd%d0%b5%d1%88%d0%bd%d0%b8%d0%be%d1%82-%d0%bc%d0%b8/",
-          "published": "Sat, 07 Feb 2026 16:17:40 +0000"
+          "source": "NetPress",
+          "title": "Додека го плаќаа од СЈО, Апасиев ги величеше, а кога „секна чешмата“ почна да ги плука",
+          "link": "https://netpress.com.mk/dodeka-go-plakaa-od-sjo-apasiev-gi-velicheshe-a-koga-sekna-cheshmata-pochna-da-gi-pluka/",
+          "published": "Sat, 07 Feb 2026 20:47:41 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "ВИДЕО| Ми изгледаше дека е повеќе штаб на СДСМ, отколку Специјално јавно обвинителство, вели Кадриу",
+          "link": "https://netpress.com.mk/video-mi-izgledashe-deka-e-poveke-shtab-na-sdsm-otkolku-speczijalno-javno-obvinitelstvo-veli-kadriu/",
+          "published": "Sat, 07 Feb 2026 20:42:06 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Премиер лига: Арсенал и Челзи победија, Јунајтед го доби Тотенхем си играч повеќе",
+          "link": "https://netpress.com.mk/premier-liga-arsenal-i-chelzi-pobedija-junajted-go-dobi-totenhem-si-igrach-poveke/",
+          "published": "Sat, 07 Feb 2026 20:24:08 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Го поседувам највисокиот национален безбедносен сертификат државна тајна, како и највисокиот НАТО сертификат",
+          "link": "https://netpress.com.mk/go-poseduvam-najvisokiot-naczionalen-bezbednosen-sertifikat-drzhavna-tajna-kako-i-najvisokiot-nato-sertifikat/",
+          "published": "Sat, 07 Feb 2026 20:02:00 +0000"
         },
         {
           "source": "NetPress",
           "title": "Орбан: Украина стана непријател на Унгарија, сака да нѐ лиши од евтините руски енергенси",
           "link": "https://netpress.com.mk/orban-ukraina-stana-neprijatel-na-ungarija-saka-da-n%d1%90-lishi-od-evtinite-ruski-energensi/",
           "published": "Sat, 07 Feb 2026 19:53:02 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "ВИДЕО| „Ослободете ги планините!“: Судири на протестот против Зимските олимписки игри во Милано",
-          "link": "https://netpress.com.mk/video-oslobodete-gi-planinite-sudiri-na-protestot-protiv-zimskite-olimpiski-igri-vo-milano/",
-          "published": "Sat, 07 Feb 2026 19:33:27 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Француски авантуристи стигнаа до Шангај по година ипол пешачење",
-          "link": "https://netpress.com.mk/franczuski-avanturisti-stignaa-do-shangaj-po-godina-ipol-peshachene/",
-          "published": "Sat, 07 Feb 2026 19:08:41 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Ковачки: ИК на ВМРО-ДПМНЕ е спој на различни искуства",
-          "link": "https://netpress.com.mk/kovachki-ik-na-vmro-dpmne-e-spoj-na-razlichni-iskustva/",
-          "published": "Sat, 07 Feb 2026 19:02:52 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Намалена видливост поради магла на патот Попова Шапка – Лисец",
-          "link": "https://netpress.com.mk/namalena-vidlivost-poradi-magla-na-patot-popova-shapka-lisecz/",
-          "published": "Sat, 07 Feb 2026 18:33:32 +0000"
         }
       ]
     },
@@ -107,6 +107,12 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Syria and Saudi Arabia sign multibillion-dollar investment deals",
+          "link": "https://www.aljazeera.com/news/2026/2/7/syria-and-saudi-arabia-ink-multi-billion-dollar-investment-deals?traffic_source=rss",
+          "published": "Sat, 07 Feb 2026 20:03:59 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Chris Hedges on decline of the American empire",
           "link": "https://www.aljazeera.com/video/upfront/2026/2/7/chris-hedges-on-decline-of-the-american-empire?traffic_source=rss",
           "published": "Sat, 07 Feb 2026 19:30:00 +0000"
@@ -128,12 +134,6 @@
           "title": "Super Bowl drives economic boon in the US ahead of game",
           "link": "https://www.aljazeera.com/economy/2026/2/7/super-bowl-drives-economic-boon-ahead-of-game?traffic_source=rss",
           "published": "Sat, 07 Feb 2026 16:37:49 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Olympic committee: New transgender policy consensus reached across sports",
-          "link": "https://www.aljazeera.com/sports/2026/2/7/olympic-committee-sports-leaders-reach-consensus-on-new-gender-policy?traffic_source=rss",
-          "published": "Sat, 07 Feb 2026 16:35:44 +0000"
         }
       ]
     }
