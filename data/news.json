@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-07T07:09:59Z",
+  "updatedAt": "2026-02-07T07:56:50Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Магла ја намали видливоста до 60 метри на патниот правец Гевгелија – граничен премин Богородица",
+          "link": "https://makfax.com.mk/makedonija/%d0%bc%d0%b0%d0%b3%d0%bb%d0%b0-%d1%98%d0%b0-%d0%bd%d0%b0%d0%bc%d0%b0%d0%bb%d0%b8-%d0%b2%d0%b8%d0%b4%d0%bb%d0%b8%d0%b2%d0%be%d1%81%d1%82%d0%b0-%d0%b4%d0%be-60-%d0%bc%d0%b5%d1%82%d1%80%d0%b8-%d0%bd/",
+          "published": "Sat, 07 Feb 2026 07:16:09 +0000"
         },
         {
           "source": "Makfax",
@@ -35,10 +41,16 @@
           "published": "Fri, 06 Feb 2026 20:48:27 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Уапсен е и третиот осомничен за нападот врз куќата на Здравко Чолиќ: побегнале со скутер",
-          "link": "https://makfax.com.mk/svet/region/%d1%83%d0%b0%d0%bf%d1%81%d0%b5%d0%bd-%d0%b5-%d0%b8-%d1%82%d1%80%d0%b5%d1%82%d0%b8%d0%be%d1%82-%d0%be%d1%81%d0%be%d0%bc%d0%bd%d0%b8%d1%87%d0%b5%d0%bd-%d0%b7%d0%b0-%d0%bd%d0%b0%d0%bf%d0%b0%d0%b4%d0%be/",
-          "published": "Fri, 06 Feb 2026 20:37:31 +0000"
+          "source": "NetPress",
+          "title": "Трамп даде приоритет за купување оружје на оние со повисоки трошоци за одбраната",
+          "link": "https://netpress.com.mk/tramp-dade-prioritet-za-kupuvane-oruzhje-na-onie-so-povisoki-troshoczi-za-odbranata/",
+          "published": "Sat, 07 Feb 2026 07:47:42 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Дневен хороскоп за сабота, 7-ми февруари 2026-та",
+          "link": "https://netpress.com.mk/dneven-horoskop-za-sabota-7-mi-fevruari-2026-ta/",
+          "published": "Sat, 07 Feb 2026 07:27:12 +0000"
         },
         {
           "source": "NetPress",
@@ -57,18 +69,6 @@
           "title": "Откриена преписката меѓу Аријана де Ротшилд и Епштајн: Би било приватно и никој не би знаел",
           "link": "https://netpress.com.mk/otkriena-prepiskata-megu-arijana-de-rotshild-i-epshtajn-bi-bilo-privatno-i-nikoj-ne-bi-znael/",
           "published": "Fri, 06 Feb 2026 21:47:36 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "ФОТО| Центарот на Скопје повторно затрупан со ѓубре",
-          "link": "https://netpress.com.mk/foto-czentarot-na-skopje-povtorno-zatrupan-so-gubre/",
-          "published": "Fri, 06 Feb 2026 21:36:03 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Предизвикува и поттикнува зависност – EУ почнува постапка против ТикТок",
-          "link": "https://netpress.com.mk/predizvikuva-i-pottiknuva-zavisnost-eu-pochnuva-postapka-protiv-tiktok/",
-          "published": "Fri, 06 Feb 2026 20:58:42 +0000"
         }
       ]
     },
@@ -77,7 +77,7 @@
       "items": [
         {
           "source": "BBC",
-          "title": "Trump removes video with racist clip depicting Obamas as apes",
+          "title": "Trump says he 'didn't see' part of video with racist clip depicting Obamas as apes",
           "link": "https://www.bbc.com/news/articles/ce8r8y78g10o?at_medium=RSS&at_campaign=rss",
           "published": "Sat, 07 Feb 2026 01:36:32 GMT"
         },
@@ -101,9 +101,21 @@
         },
         {
           "source": "BBC",
-          "title": "He has the world's biggest stage. What will Bad Bunny do with it?",
-          "link": "https://www.bbc.com/news/articles/cd0y18g8g7ro?at_medium=RSS&at_campaign=rss",
-          "published": "Sat, 07 Feb 2026 00:00:14 GMT"
+          "title": "Colorado funeral home director sentenced to 40 years for corpse abuse",
+          "link": "https://www.bbc.com/news/articles/c0q4q7w237yo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 07 Feb 2026 02:48:39 GMT"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "UN, US condemn RSF drone strikes on aid deliveries in famine-hit Sudan",
+          "link": "https://www.aljazeera.com/news/2026/2/7/un-us-condemn-rsf-drone-strikes-on-aid-deliveries-in-famine-hit-sudan?traffic_source=rss",
+          "published": "Sat, 07 Feb 2026 07:14:24 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Trump hails ‘very good’ Iran talks but maintains threat of military action",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/2/7/trump-hails-very-good-iran-talks-but-maintains-threat-of-military-action?traffic_source=rss",
+          "published": "Sat, 07 Feb 2026 06:58:16 +0000"
         },
         {
           "source": "Al Jazeera",
@@ -119,21 +131,9 @@
         },
         {
           "source": "Al Jazeera",
-          "title": "LIVE: Iran’s top diplomat set to address Al Jazeera Forum in Doha",
+          "title": "LIVE: Iran’s top diplomat addresses Al Jazeera Forum in Doha",
           "link": "https://www.aljazeera.com/news/liveblog/2026/2/7/live-irans-top-diplomat-set-to-address-al-jazeera-forum-in-doha?traffic_source=rss",
           "published": "Sat, 07 Feb 2026 06:36:52 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Trump’s ‘Board of Peace’ to convene in Washington, discuss Gaza: Report",
-          "link": "https://www.aljazeera.com/news/2026/2/7/trumps-board-of-peace-to-convene-in-washington-discuss-gaza-report?traffic_source=rss",
-          "published": "Sat, 07 Feb 2026 06:22:21 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Why US-funded vaccine trial plan for babies in Guinea-Bissau caused outrage",
-          "link": "https://www.aljazeera.com/news/2026/2/7/why-us-funded-vaccine-trial-plan-for-babies-in-guinea-bissau-caused-outrage?traffic_source=rss",
-          "published": "Sat, 07 Feb 2026 06:01:13 +0000"
         }
       ]
     }
