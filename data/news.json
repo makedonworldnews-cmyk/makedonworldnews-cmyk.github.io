@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-07T14:56:23Z",
+  "updatedAt": "2026-02-07T15:51:53Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Американска блогерка и авторка издвои десет особини на жените со кои e невозможен брак",
+          "link": "https://makfax.com.mk/zanimlivosti/%d0%b0%d0%bc%d0%b5%d1%80%d0%b8%d0%ba%d0%b0%d0%bd%d1%81%d0%ba%d0%b0-%d0%b1%d0%bb%d0%be%d0%b3%d0%b5%d1%80%d0%ba%d0%b0-%d0%b8-%d0%b0%d0%b2%d1%82%d0%be%d1%80%d0%ba%d0%b0-%d0%b8%d0%b7%d0%b4%d0%b2%d0%be/",
+          "published": "Sat, 07 Feb 2026 15:26:59 +0000"
         },
         {
           "source": "Makfax",
@@ -35,10 +41,22 @@
           "published": "Sat, 07 Feb 2026 13:50:00 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Панична пропаганда се за Петрушевски обвинувањата од СДСМ за реформите во ВМРО-ДПМНЕ",
-          "link": "https://makfax.com.mk/makedonija/%d0%bf%d0%b0%d0%bd%d0%b8%d1%87%d0%bd%d0%b0-%d0%bf%d1%80%d0%be%d0%bf%d0%b0%d0%b3%d0%b0%d0%bd%d0%b4%d0%b0-%d1%81%d0%b5-%d0%b7%d0%b0-%d0%bf%d0%b5%d1%82%d1%80%d1%83%d1%88%d0%b5%d0%b2%d1%81%d0%ba%d0%b8/",
-          "published": "Sat, 07 Feb 2026 13:03:06 +0000"
+          "source": "NetPress",
+          "title": "ФОТО| Снимки од компанијата во струмичко од која беа изнесени 21 тон марихуана",
+          "link": "https://netpress.com.mk/foto-snimki-od-kompanijata-vo-strumichko-od-koja-bea-izneseni-21-ton-marihuana/",
+          "published": "Sat, 07 Feb 2026 15:39:10 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Полицијата се сомнева во подметнат пожар на железничката мрежа близу Болоња",
+          "link": "https://netpress.com.mk/policzijata-se-somneva-vo-podmetnat-pozhar-na-zheleznichkata-mrezha-blizu-bolona/",
+          "published": "Sat, 07 Feb 2026 15:33:44 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Додик се врати од Вашингтон и тврди дека добил поддршка за своите политики",
+          "link": "https://netpress.com.mk/dodik-se-vrati-od-vashington-i-tvrdi-deka-dobil-poddrshka-za-svoite-politiki/",
+          "published": "Sat, 07 Feb 2026 15:15:19 +0000"
         },
         {
           "source": "NetPress",
@@ -51,24 +69,6 @@
           "title": "Запленети над 40 тони дрога, опсежната акција продолжува – се истражува дали петте тони запленети во Србија потекнуваат од Македонија",
           "link": "https://netpress.com.mk/zapleneti-nad-40-toni-droga-opsezhnata-akczija-prodolzhuva-se-istrazhuva-dali-drogata-zapleneta-vo-srbija-poteknuva-od-makedonija/",
           "published": "Sat, 07 Feb 2026 14:18:28 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Барселона официјално се откажа од Суперлигата",
-          "link": "https://netpress.com.mk/barselona-oficzijalno-se-otkazha-od-superligata/",
-          "published": "Sat, 07 Feb 2026 14:00:36 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Двегодишник тешко повреден по напад на кучиња во Битола",
-          "link": "https://netpress.com.mk/dvegodishnik-teshko-povreden-po-napad-na-kuchina-vo-bitola/",
-          "published": "Sat, 07 Feb 2026 13:48:00 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Tон текстилен отпад собран во Кисела Вода за само еден месец",
-          "link": "https://netpress.com.mk/ton-tekstilen-otpad-sobran-vo-kisela-voda-za-samo-eden-mesecz/",
-          "published": "Sat, 07 Feb 2026 13:30:05 +0000"
         }
       ]
     },
@@ -107,6 +107,24 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "ICC in Pakistan talks to revive India T20 World Cup clash",
+          "link": "https://www.aljazeera.com/sports/2026/2/7/icc-in-pakistan-talks-to-revive-india-t20-world-cup-clash?traffic_source=rss",
+          "published": "Sat, 07 Feb 2026 15:32:52 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Will pro-military message bring Thailand’s ‘most hawkish’ party to power?",
+          "link": "https://www.aljazeera.com/news/2026/2/7/will-pro-military-message-bring-thailands-most-hawkish-party-to-power?traffic_source=rss",
+          "published": "Sat, 07 Feb 2026 15:24:03 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Carrick extends winning run as Man United beat 10-man Tottenham 2-0",
+          "link": "https://www.aljazeera.com/sports/2026/2/7/carrick-extends-winning-run-as-man-united-beat-10-man-tottenham-2-0?traffic_source=rss",
+          "published": "Sat, 07 Feb 2026 14:54:58 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Spain, Portugal brace for new storm after floods kill 2, displace 11,000",
           "link": "https://www.aljazeera.com/news/2026/2/7/spain-portugal-brace-for-new-storm-after-floods-kill-2-displace-11000?traffic_source=rss",
           "published": "Sat, 07 Feb 2026 13:30:33 +0000"
@@ -116,24 +134,6 @@
           "title": "‘Israel killed international law in Gaza’, official tells Al Jazeera",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/2/7/israel-killed-international-law-in-gaza-official-tells-al-jazeera?traffic_source=rss",
           "published": "Sat, 07 Feb 2026 13:20:13 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Iranians react to ‘positive’ US-Iran talks in Oman",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/2/7/iranians-react-to-positive-us-iran-talks-in-oman?traffic_source=rss",
-          "published": "Sat, 07 Feb 2026 13:04:19 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "US transfers ISIL detainees to Iraq as northeast Syria base draws down",
-          "link": "https://www.aljazeera.com/news/2026/2/7/us-transfers-isil-detainees-to-iraq-as-northeast-syria-base-draws-down?traffic_source=rss",
-          "published": "Sat, 07 Feb 2026 12:29:47 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Liverpool vs Manchester City: Premier League – team news, start, lineups",
-          "link": "https://www.aljazeera.com/sports/2026/2/7/liverpool-vs-manchester-city-premier-league-team-news-start?traffic_source=rss",
-          "published": "Sat, 07 Feb 2026 11:56:51 +0000"
         }
       ]
     }
