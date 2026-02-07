@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-07T11:44:04Z",
+  "updatedAt": "2026-02-07T11:58:42Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Костадиновски во Египет: потпишан протокол за соработка меѓу судовите",
+          "link": "https://makfax.com.mk/makedonija/%d0%ba%d0%be%d1%81%d1%82%d0%b0%d0%b4%d0%b8%d0%bd%d0%be%d0%b2%d1%81%d0%ba%d0%b8-%d0%b2%d0%be-%d0%b5%d0%b3%d0%b8%d0%bf%d0%b5%d1%82-%d0%bf%d0%be%d1%82%d0%bf%d0%b8%d1%88%d0%b0%d0%bd-%d0%bf%d1%80%d0%be/",
+          "published": "Sat, 07 Feb 2026 11:52:26 +0000"
         },
         {
           "source": "Makfax",
@@ -35,10 +41,16 @@
           "published": "Sat, 07 Feb 2026 10:47:25 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Наместо нови лица- стара банда, велат од СДСМ за реформите во ВМРО-ДПМНЕ",
-          "link": "https://makfax.com.mk/soopstenija/%d0%bd%d0%b0%d0%bc%d0%b5%d1%81%d1%82%d0%be-%d0%bd%d0%be%d0%b2%d0%b8-%d0%bb%d0%b8%d1%86%d0%b0-%d1%81%d1%82%d0%b0%d1%80%d0%b0-%d0%b1%d0%b0%d0%bd%d0%b4%d0%b0-%d0%b2%d0%b5%d0%bb%d0%b0%d1%82-%d0%be%d0%b4/",
-          "published": "Sat, 07 Feb 2026 09:55:44 +0000"
+          "source": "NetPress",
+          "title": "Поради силен дожд одложен дуелот Рајо Ваљекано – Реал Овиедо",
+          "link": "https://netpress.com.mk/poradi-silen-dozhd-odlozhen-duelot-rajo-valekano-real-oviedo/",
+          "published": "Sat, 07 Feb 2026 11:57:39 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Кина четврти пат од 2020-та лансира повеќекратно вселенски летало",
+          "link": "https://netpress.com.mk/kina-chetvrti-pat-od-2020-ta-lansira-povekekratno-vselenski-letalo/",
+          "published": "Sat, 07 Feb 2026 11:51:39 +0000"
         },
         {
           "source": "NetPress",
@@ -57,18 +69,6 @@
           "title": "Костадиновски потпиша Протокол за соработка со Врховниот уставен суд на Египет",
           "link": "https://netpress.com.mk/kostadinovski-potpisha-protokol-za-sorabotka-so-vrhovniot-ustaven-sud-na-egipet/",
           "published": "Sat, 07 Feb 2026 11:07:24 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Новата организациска поставеност ќе донесе дополнителна енергија и кохезија",
-          "link": "https://netpress.com.mk/novata-organizacziska-postavenost-ke-donese-dopolnitelna-energija-i-kohezija/",
-          "published": "Sat, 07 Feb 2026 11:01:11 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Актер од серијата „Западното крило“ обвинет за сексуални престапи против деца",
-          "link": "https://netpress.com.mk/akter-od-serijata-zapadnoto-krilo-obvinet-za-seksualni-prestapi-protiv-decza/",
-          "published": "Sat, 07 Feb 2026 10:56:21 +0000"
         }
       ]
     },
@@ -107,6 +107,12 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Dinosaurs for sale: Is the global fossil market harming science?",
+          "link": "https://www.aljazeera.com/video/101-east/2026/2/7/dinosaurs-for-sale-is-the-global-fossil-market-harming-science?traffic_source=rss",
+          "published": "Sat, 07 Feb 2026 11:30:00 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Deadly Islamabad bombing sharpens focus on cross-border attacks in Pakistan",
           "link": "https://www.aljazeera.com/news/2026/2/7/deadly-islamabad-bombing-sharpens-focus-on-cross-border-attacks-in-pakistan?traffic_source=rss",
           "published": "Sat, 07 Feb 2026 10:42:30 +0000"
@@ -128,12 +134,6 @@
           "title": "Faheem leads Pakistan to nervy win over Netherlands in T20 World Cup opener",
           "link": "https://www.aljazeera.com/sports/2026/2/7/ashraf-leads-pakistan-to-nervy-win-over-netherlands-as-t20-world-cup-begins?traffic_source=rss",
           "published": "Sat, 07 Feb 2026 09:52:19 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "LIVE: India vs United States – T20 World Cup",
-          "link": "https://www.aljazeera.com/sports/liveblog/2026/2/7/live-india-vs-united-states-t20-world-cup?traffic_source=rss",
-          "published": "Sat, 07 Feb 2026 09:31:50 +0000"
         }
       ]
     }
