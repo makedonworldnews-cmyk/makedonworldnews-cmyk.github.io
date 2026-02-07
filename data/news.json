@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-07T15:51:53Z",
+  "updatedAt": "2026-02-07T17:01:14Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Ноќеска повремени врнежи дожд насекаде",
+          "link": "https://makfax.com.mk/makedonija/%d0%bd%d0%be%d1%9c%d0%b5%d1%81%d0%ba%d0%b0-%d0%bf%d0%be%d0%b2%d1%80%d0%b5%d0%bc%d0%b5%d0%bd%d0%b8-%d0%b2%d1%80%d0%bd%d0%b5%d0%b6%d0%b8-%d0%b4%d0%be%d0%b6%d0%b4-%d0%bd%d0%b0%d1%81%d0%b5%d0%ba%d0%b0/",
+          "published": "Sat, 07 Feb 2026 16:36:25 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Франција ги истражува поранешниот министер за култура и неговата ќерка за измама поврзана со Епштајн",
+          "link": "https://makfax.com.mk/svet/%d1%84%d1%80%d0%b0%d0%bd%d1%86%d0%b8%d1%98%d0%b0-%d0%b3%d0%b8-%d0%b8%d1%81%d1%82%d1%80%d0%b0%d0%b6%d1%83%d0%b2%d0%b0-%d0%bf%d0%be%d1%80%d0%b0%d0%bd%d0%b5%d1%88%d0%bd%d0%b8%d0%be%d1%82-%d0%bc%d0%b8/",
+          "published": "Sat, 07 Feb 2026 16:17:40 +0000"
         },
         {
           "source": "Makfax",
@@ -29,16 +41,16 @@
           "published": "Sat, 07 Feb 2026 14:14:18 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Двегодишно дете со тешки телесни повреди од Битола пренесено во Скопје, го нападнале кучиња скитници додека си играло",
-          "link": "https://makfax.com.mk/makedonija/%d0%b4%d0%b2%d0%b5%d0%b3%d0%be%d0%b4%d0%b8%d1%88%d0%bd%d0%be-%d0%b4%d0%b5%d1%82%d0%b5-%d1%81%d0%be-%d1%82%d0%b5%d1%88%d0%ba%d0%b8-%d1%82%d0%b5%d0%bb%d0%b5%d1%81%d0%bd%d0%b8-%d0%bf%d0%be%d0%b2%d1%80/",
-          "published": "Sat, 07 Feb 2026 14:03:47 +0000"
+          "source": "NetPress",
+          "title": "Ла Лига: Поради дожд одложен и натпреварот меѓу Севиља и Жирона",
+          "link": "https://netpress.com.mk/la-liga-poradi-dozhd-odlozhen-i-natprevarot-megu-sevila-i-zhirona/",
+          "published": "Sat, 07 Feb 2026 16:36:42 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Измамена 76-годишна битолчанка: се претставил како лекар и ѝ зел 7.000 евра за да ја спаси внуката повредена во сообраќајка",
-          "link": "https://makfax.com.mk/makedonija/%d0%b8%d0%b7%d0%bc%d0%b0%d0%bc%d0%b5%d0%bd%d0%b0-76-%d0%b3%d0%be%d0%b4%d0%b8%d1%88%d0%bd%d0%b0-%d0%b1%d0%b8%d1%82%d0%be%d0%bb%d1%87%d0%b0%d0%bd%d0%ba%d0%b0-%d1%81%d0%b5-%d0%bf%d1%80%d0%b5%d1%82%d1%81/",
-          "published": "Sat, 07 Feb 2026 13:50:00 +0000"
+          "source": "NetPress",
+          "title": "Во Франција истрага поврзана со Епштајн против поранешниот министер за култура",
+          "link": "https://netpress.com.mk/vo-franczija-istraga-povrzana-so-epshtajn-protiv-poraneshniot-minister-za-kultura/",
+          "published": "Sat, 07 Feb 2026 16:23:24 +0000"
         },
         {
           "source": "NetPress",
@@ -57,18 +69,6 @@
           "title": "Додик се врати од Вашингтон и тврди дека добил поддршка за своите политики",
           "link": "https://netpress.com.mk/dodik-se-vrati-od-vashington-i-tvrdi-deka-dobil-poddrshka-za-svoite-politiki/",
           "published": "Sat, 07 Feb 2026 15:15:19 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "И битолчанка измамена за 7.000 евра од лажен лекар",
-          "link": "https://netpress.com.mk/i-bitolchanka-izmamena-za-7-000-evra-od-lazhen-lekar/",
-          "published": "Sat, 07 Feb 2026 14:39:16 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Запленети над 40 тони дрога, опсежната акција продолжува – се истражува дали петте тони запленети во Србија потекнуваат од Македонија",
-          "link": "https://netpress.com.mk/zapleneti-nad-40-toni-droga-opsezhnata-akczija-prodolzhuva-se-istrazhuva-dali-drogata-zapleneta-vo-srbija-poteknuva-od-makedonija/",
-          "published": "Sat, 07 Feb 2026 14:18:28 +0000"
         }
       ]
     },
@@ -83,15 +83,21 @@
         },
         {
           "source": "BBC",
+          "title": "General shot in Moscow conscious after surgery, Russian media say",
+          "link": "https://www.bbc.com/news/articles/cpwnweypgvyo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 07 Feb 2026 16:10:31 GMT"
+        },
+        {
+          "source": "BBC",
           "title": "Trump says he 'didn't see' part of video with racist clip depicting Obamas as apes",
           "link": "https://www.bbc.com/news/articles/ce8r8y78g10o?at_medium=RSS&at_campaign=rss",
           "published": "Sat, 07 Feb 2026 01:36:32 GMT"
         },
         {
           "source": "BBC",
-          "title": "Milan-Cortina Games begin with vibrant opening ceremony",
-          "link": "https://www.bbc.com/sport/articles/czejep5z51wo?at_medium=RSS&at_campaign=rss",
-          "published": "Fri, 06 Feb 2026 22:37:34 GMT"
+          "title": "Italy says railways hit by 'serious sabotage' as Winter Olympics begin",
+          "link": "https://www.bbc.com/news/articles/czr4rx04xjpo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 07 Feb 2026 16:53:45 GMT"
         },
         {
           "source": "BBC",
@@ -100,10 +106,10 @@
           "published": "Fri, 06 Feb 2026 23:05:00 GMT"
         },
         {
-          "source": "BBC",
-          "title": "Colorado funeral home director sentenced to 40 years for corpse abuse",
-          "link": "https://www.bbc.com/news/articles/c0q4q7w237yo?at_medium=RSS&at_campaign=rss",
-          "published": "Sat, 07 Feb 2026 02:48:39 GMT"
+          "source": "Al Jazeera",
+          "title": "England vs Nepal: T20 World Cup – teams, start time, lineups",
+          "link": "https://www.aljazeera.com/sports/2026/2/7/england-vs-nepal-t20-world-cup-teams-start-time-lineups?traffic_source=rss",
+          "published": "Sat, 07 Feb 2026 16:02:29 +0000"
         },
         {
           "source": "Al Jazeera",
@@ -128,12 +134,6 @@
           "title": "Spain, Portugal brace for new storm after floods kill 2, displace 11,000",
           "link": "https://www.aljazeera.com/news/2026/2/7/spain-portugal-brace-for-new-storm-after-floods-kill-2-displace-11000?traffic_source=rss",
           "published": "Sat, 07 Feb 2026 13:30:33 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "‘Israel killed international law in Gaza’, official tells Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/2/7/israel-killed-international-law-in-gaza-official-tells-al-jazeera?traffic_source=rss",
-          "published": "Sat, 07 Feb 2026 13:20:13 +0000"
         }
       ]
     }
