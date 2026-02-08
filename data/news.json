@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-08T17:01:30Z",
+  "updatedAt": "2026-02-08T17:56:56Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Земјотрес со јачина од 5,5 степени ја погоди Куба",
+          "link": "https://makfax.com.mk/svet/%d0%b7%d0%b5%d0%bc%d1%98%d0%be%d1%82%d1%80%d0%b5%d1%81-%d1%81%d0%be-%d1%98%d0%b0%d1%87%d0%b8%d0%bd%d0%b0-%d0%be%d0%b4-55-%d1%81%d1%82%d0%b5%d0%bf%d0%b5%d0%bd%d0%b8-%d1%98%d0%b0-%d0%bf%d0%be%d0%b3-5/",
+          "published": "Sun, 08 Feb 2026 17:30:03 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Канцеларијата на Далај Лама: Никогаш не сe сретнале со Џефри Епстин",
+          "link": "https://makfax.com.mk/svet/%d0%ba%d0%b0%d0%bd%d1%86%d0%b5%d0%bb%d0%b0%d1%80%d0%b8%d1%98%d0%b0%d1%82%d0%b0-%d0%bd%d0%b0-%d0%b4%d0%b0%d0%bb%d0%b0%d1%98-%d0%bb%d0%b0%d0%bc%d0%b0-%d0%bd%d0%b8%d0%ba%d0%be%d0%b3%d0%b0%d1%88-%d0%bd/",
+          "published": "Sun, 08 Feb 2026 17:00:27 +0000"
         },
         {
           "source": "Makfax",
@@ -29,16 +41,10 @@
           "published": "Sun, 08 Feb 2026 16:43:05 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Захарова: Неуспесите на бојното поле Киев ги заменува со терористички напади врз Русите",
-          "link": "https://makfax.com.mk/svet/%d0%b7%d0%b0%d1%85%d0%b0%d1%80%d0%be%d0%b2%d0%b0-%d0%bd%d0%b5%d1%83%d1%81%d0%bf%d0%b5%d1%81%d0%b8%d1%82%d0%b5-%d0%bd%d0%b0-%d0%b1%d0%be%d1%98%d0%bd%d0%be%d1%82%d0%be-%d0%bf%d0%be%d0%bb%d0%b5-%d0%ba/",
-          "published": "Sun, 08 Feb 2026 16:30:48 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Војници во влага, на перници стари со децении, со прибор стар 20 години и руинирани тоалети – синдикатот алармира по појавата на шуга во велешката касарна",
-          "link": "https://makfax.com.mk/makedonija/%d0%b2%d0%be%d1%98%d0%bd%d0%b8%d1%86%d0%b8-%d0%b2%d0%be-%d0%b2%d0%bb%d0%b0%d0%b3%d0%b0-%d0%bd%d0%b0-%d0%bf%d0%b5%d1%80%d0%bd%d0%b8%d1%86%d0%b8-%d1%81%d1%82%d0%b0%d1%80%d0%b8-%d1%81%d0%be-%d0%b4%d0%b5/",
-          "published": "Sun, 08 Feb 2026 16:13:10 +0000"
+          "source": "NetPress",
+          "title": "ВИДЕО| Се огласи мајката на Кајмакоски по киднапирањето на пејачот во Белград – голем стрес за семејството",
+          "link": "https://netpress.com.mk/video-se-oglasi-majkata-na-kajmakoski-po-kidnapiraneto-na-pejachot-vo-belgrad-golem-stres-za-semejstvoto/",
+          "published": "Sun, 08 Feb 2026 17:09:02 +0000"
         },
         {
           "source": "NetPress",
@@ -63,12 +69,6 @@
           "title": "Србија сака со удел до 10 отсто да учествува во изградбата на унгарската нуклеарна централа",
           "link": "https://netpress.com.mk/srbija-saka-so-udel-do-10-otsto-da-uchestvuva-vo-izgradbata-na-ungarskata-nuklearna-czentrala/",
           "published": "Sun, 08 Feb 2026 16:01:21 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Велешанец со над 3 промили алкохол бил агресивен кон полицајци",
-          "link": "https://netpress.com.mk/veleshanecz-so-nad-3-promili-alkohol-bil-agresiven-kon-policzajczi/",
-          "published": "Sun, 08 Feb 2026 15:51:02 +0000"
         }
       ]
     },
@@ -85,25 +85,31 @@
           "source": "BBC",
           "title": "Thai PM claims election victory as early results show conservatives ahead",
           "link": "https://www.bbc.com/news/articles/cx2jn4z4eq0o?at_medium=RSS&at_campaign=rss",
-          "published": "Sun, 08 Feb 2026 16:31:48 GMT"
+          "published": "Sun, 08 Feb 2026 17:52:31 GMT"
         },
         {
           "source": "BBC",
           "title": "Russia names three suspects in shooting of general",
           "link": "https://www.bbc.com/news/articles/cy7j6xe8862o?at_medium=RSS&at_campaign=rss",
-          "published": "Sun, 08 Feb 2026 12:28:02 GMT"
+          "published": "Sun, 08 Feb 2026 17:21:19 GMT"
         },
         {
           "source": "BBC",
           "title": "US news anchor Savannah Guthrie says 'we will pay' in plea for mother's return",
           "link": "https://www.bbc.com/news/articles/ce9y99eg0nno?at_medium=RSS&at_campaign=rss",
-          "published": "Sun, 08 Feb 2026 01:58:07 GMT"
+          "published": "Sun, 08 Feb 2026 17:41:56 GMT"
         },
         {
           "source": "BBC",
           "title": "Man named in South Africa's police corruption probe found dead",
           "link": "https://www.bbc.com/news/articles/c0j5pg0597po?at_medium=RSS&at_campaign=rss",
           "published": "Sun, 08 Feb 2026 11:31:24 GMT"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "UK PM’s top aide quits over Mandelson’s links to Epstein",
+          "link": "https://www.aljazeera.com/news/2026/2/8/uk-pms-top-aide-quits-over-mandelsons-links-to-epstein?traffic_source=rss",
+          "published": "Sun, 08 Feb 2026 17:11:13 +0000"
         },
         {
           "source": "Al Jazeera",
@@ -128,12 +134,6 @@
           "title": "Iran ready for nuclear-focused talks, rejects US military build-up",
           "link": "https://www.aljazeera.com/news/2026/2/8/iran-ready-for-nuclear-focused-talks-rejects-us-military-build-up?traffic_source=rss",
           "published": "Sun, 08 Feb 2026 16:03:39 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "PM Sanae Takaichi’s party set for majority in Japan parliamentary elections",
-          "link": "https://www.aljazeera.com/news/2026/2/8/pm-sanae-takaichis-party-set-for-majority-in-japan-parliamentary-elections?traffic_source=rss",
-          "published": "Sun, 08 Feb 2026 15:10:36 +0000"
         }
       ]
     }
