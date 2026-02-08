@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-08T11:47:07Z",
+  "updatedAt": "2026-02-08T11:59:41Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Кајмакоски по киднапирањето е дома; Рашиќ: „Смирено и храбро се соочил со напаѓачите“",
+          "link": "https://makfax.com.mk/makedonija/%d0%ba%d0%b0%d1%98%d0%bc%d0%b0%d0%ba%d0%be%d1%81%d0%ba%d0%b8-%d0%bf%d0%be-%d0%ba%d0%b8%d0%b4%d0%bd%d0%b0%d0%bf%d0%b8%d1%80%d0%b0%d1%9a%d0%b5%d1%82%d0%be-%d0%b5-%d0%b4%d0%be%d0%bc%d0%b0-%d1%80%d0%b0/",
+          "published": "Sun, 08 Feb 2026 11:55:07 +0000"
         },
         {
           "source": "Makfax",
@@ -35,10 +41,10 @@
           "published": "Sun, 08 Feb 2026 10:17:53 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "(Видео) Српски „Телеграф“ објави снимка од возилото со кое бил киднапиран Кајмакоски: „Напаѓачите се во бегство, пејачот пронајден“",
-          "link": "https://makfax.com.mk/makedonija/%d0%b2%d0%b8%d0%b4%d0%b5%d0%be-%d1%81%d1%80%d0%bf%d1%81%d0%ba%d0%b8-%d1%82%d0%b5%d0%bb%d0%b5%d0%b3%d1%80%d0%b0%d1%84-%d0%be%d0%b1%d1%98%d0%b0%d0%b2%d0%b8-%d1%81%d0%bd%d0%b8%d0%bc/",
-          "published": "Sun, 08 Feb 2026 09:42:56 +0000"
+          "source": "NetPress",
+          "title": "Заев и Филипче вмешани и во последниот случај со заплена на марихуана, дали Заев се интересирал во државни институции и за запленетата марихуана во Србија?",
+          "link": "https://netpress.com.mk/zaev-i-filipche-vmeshani-i-vo-posledniot-sluchaj-so-zaplena-na-marihuana-dali-zaev-se-interesiral-vo-drzhavni-instituczii-i-za-zaplenetata-marihuana-vo-srbija/",
+          "published": "Sun, 08 Feb 2026 11:57:45 +0000"
         },
         {
           "source": "NetPress",
@@ -63,12 +69,6 @@
           "title": "ВИДЕО| Во Дубаи уапсен атентарот врз рускиот генерал во Москва",
           "link": "https://netpress.com.mk/video-vo-dubai-uapsen-atentarot-vrz-ruskiot-general-vo-moskva/",
           "published": "Sun, 08 Feb 2026 11:13:23 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Суштинската дебата за платите не треба да се води околу номинални бројки и споредби без контекст, туку како да се зголеми продуктивноста од домашната економија",
-          "link": "https://netpress.com.mk/sushtinskata-debata-za-platite-ne-treba-da-se-vodi-okolu-nominalni-brojki-i-sporedbi-bez-kontekst-tuku-kako-da-se-zgolemi-produktivnosta-od-domashnata-ekonomija/",
-          "published": "Sun, 08 Feb 2026 10:49:25 +0000"
         }
       ]
     },
@@ -107,33 +107,33 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Video: Israel returns unidentified Palestinian bodies to Gaza",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/2/8/video-israel-returns-unidentified-palestinian-bodies-to-gaza?traffic_source=rss",
+          "published": "Sun, 08 Feb 2026 11:47:51 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Protests against ICE and Israel at Winter Olympics in Milan",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/2/8/protests-against-ice-and-israel-at-winter-olympics-in-milan?traffic_source=rss",
+          "published": "Sun, 08 Feb 2026 11:28:35 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Russia says second suspect in general’s shooting arrested in Dubai",
+          "link": "https://www.aljazeera.com/news/2026/2/8/russia-says-second-suspect-in-generals-shooting-arrested-in-dubai?traffic_source=rss",
+          "published": "Sun, 08 Feb 2026 11:24:13 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Afghanistan lose to New Zealand in T20 World Cup opener",
+          "link": "https://www.aljazeera.com/sports/2026/2/8/afghanistan-lose-to-new-zealand-in-t20-world-cup-opener?traffic_source=rss",
+          "published": "Sun, 08 Feb 2026 11:08:49 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Hamas leader rejects disarmament while Israeli occupation of Gaza continues",
           "link": "https://www.aljazeera.com/news/2026/2/8/hamas-leader-rejects-disarmament-while-israeli-occupation-of-gaza-continues?traffic_source=rss",
           "published": "Sun, 08 Feb 2026 10:51:16 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Hope and scepticism as Yemen’s Saudi-backed gov’t announces a new cabinet",
-          "link": "https://www.aljazeera.com/news/2026/2/8/hope-and-scepticism-as-yemens-saudi-backed-govt-announces-a-new-cabinet?traffic_source=rss",
-          "published": "Sun, 08 Feb 2026 10:43:12 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Head of Hamas abroad says ‘resistance is a right’ for occupied people",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/2/8/head-of-hamas-abroad-says-resistance-is-a-right-for-occupied-people?traffic_source=rss",
-          "published": "Sun, 08 Feb 2026 10:26:19 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Week in Pictures: From Israeli air raids on Lebanon to bombing in Pakistan",
-          "link": "https://www.aljazeera.com/gallery/2026/2/8/week-in-pictures-from-israeli-air-strikes-on-lebanon-to-pakistan-bombing?traffic_source=rss",
-          "published": "Sun, 08 Feb 2026 10:08:10 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Pro-Palestine groups to protest Israeli president’s visit to Australia",
-          "link": "https://www.aljazeera.com/news/2026/2/8/pro-palestine-groups-to-protest-israeli-presidents-visit-to-australia?traffic_source=rss",
-          "published": "Sun, 08 Feb 2026 10:04:53 +0000"
         }
       ]
     }
