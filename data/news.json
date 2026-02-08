@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-08T21:54:42Z",
+  "updatedAt": "2026-02-08T23:00:42Z",
   "groups": [
     {
       "region": "Македонија",
@@ -42,6 +42,24 @@
         },
         {
           "source": "NetPress",
+          "title": "Серија А: Јуве спаси бод, Интер супериорен",
+          "link": "https://netpress.com.mk/serija-a-juve-spasi-bod-inter-superioren/",
+          "published": "Sun, 08 Feb 2026 22:49:36 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Ла Лига: Реал Мадрид повторно бод зад Барса, Бетис изненади на „Метрополитано“",
+          "link": "https://netpress.com.mk/la-liga-real-madrid-povtorno-bod-zad-barsa-betis-iznenadi-na-metropolitano/",
+          "published": "Sun, 08 Feb 2026 22:29:38 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Норвешка дипломатка поднесе оставка поради врски со Епштајн",
+          "link": "https://netpress.com.mk/norveshka-diplomatka-podnese-ostavka-poradi-vrski-so-epshtajn/",
+          "published": "Sun, 08 Feb 2026 22:03:28 +0000"
+        },
+        {
+          "source": "NetPress",
           "title": "Португалија: Социјалистот Сегуро го победи крајниот десничар Вентура",
           "link": "https://netpress.com.mk/portugalija-soczijalistot-seguro-go-pobedi-krajniot-desnichar-ventura/",
           "published": "Sun, 08 Feb 2026 21:39:38 +0000"
@@ -51,24 +69,6 @@
           "title": "Крај на партизацијата, законот за висока раководна служба воведува мерит-систем",
           "link": "https://netpress.com.mk/kraj-na-partizaczijata-zakonot-za-visoka-rakovodna-sluzhba-voveduva-merit-sistem/",
           "published": "Sun, 08 Feb 2026 21:25:55 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Премиер лига: Драма во завршницата и победа на Сити на „Енфилд“",
-          "link": "https://netpress.com.mk/premier-liga-drama-vo-zavrshniczata-i-pobeda-na-siti-na-enfild/",
-          "published": "Sun, 08 Feb 2026 21:03:34 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Линзи Вон скрши нога, Томба: Не требаше да се натпреварува во Кран-Монтана",
-          "link": "https://netpress.com.mk/linzi-von-skrshi-noga-tomba-ne-trebashe-da-se-natprevaruva-vo-kran-montana/",
-          "published": "Sun, 08 Feb 2026 20:44:33 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "САД пред воведување построги услови за влез на туристи",
-          "link": "https://netpress.com.mk/sad-pred-voveduvane-postrogi-uslovi-za-vlez-na-turisti/",
-          "published": "Sun, 08 Feb 2026 20:26:18 +0000"
         }
       ]
     },
@@ -77,9 +77,9 @@
       "items": [
         {
           "source": "BBC",
-          "title": "Japan's PM Takaichi on course for landslide victory in snap election",
+          "title": "Japan's PM Takaichi on course to win snap election by landslide",
           "link": "https://www.bbc.com/news/articles/cx2y7d2z29xo?at_medium=RSS&at_campaign=rss",
-          "published": "Sun, 08 Feb 2026 20:43:12 GMT"
+          "published": "Sun, 08 Feb 2026 21:59:59 GMT"
         },
         {
           "source": "BBC",
@@ -101,9 +101,27 @@
         },
         {
           "source": "BBC",
-          "title": "Iranian Nobel laureate handed further prison sentence, lawyer says",
-          "link": "https://www.bbc.com/news/articles/clygw161wzvo?at_medium=RSS&at_campaign=rss",
-          "published": "Sun, 08 Feb 2026 19:58:36 GMT"
+          "title": "US skier Vonn has leg fracture after crash while competing with torn ACL",
+          "link": "https://www.bbc.com/sport/articles/c98q5g51z4no?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 08 Feb 2026 16:55:41 GMT"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Israel security cabinet approves rules to increase control over West Bank",
+          "link": "https://www.aljazeera.com/news/2026/2/8/israel-security-cabinet-approves-rules-to-increase-control-over-west-bank?traffic_source=rss",
+          "published": "Sun, 08 Feb 2026 22:36:41 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Portugal elects Socialist Party’s Seguro as president in landslide",
+          "link": "https://www.aljazeera.com/news/2026/2/8/portugal-elects-socialists-antonio-jose-seguro-as-president-in-landslide?traffic_source=rss",
+          "published": "Sun, 08 Feb 2026 22:02:56 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "T20 World Cup: Nepal fans light up Wankhede despite painful England loss",
+          "link": "https://www.aljazeera.com/sports/2026/2/8/icc-t20-cricket-world-cup-2026-nepal-england-wankhede-mumbai?traffic_source=rss",
+          "published": "Sun, 08 Feb 2026 21:47:55 +0000"
         },
         {
           "source": "Al Jazeera",
@@ -116,24 +134,6 @@
           "title": "Iran sentences Nobel laureate Mohammadi to seven more years in prison",
           "link": "https://www.aljazeera.com/news/2026/2/8/iran-sentences-nobel-laureate-mohammadi-to-seven-more-years-in-prison?traffic_source=rss",
           "published": "Sun, 08 Feb 2026 21:11:31 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Venezuela opposition politician Juan Pablo Guanipa released",
-          "link": "https://www.aljazeera.com/news/2026/2/8/venezuela-opposition-politician-juan-pablo-guanipa-released?traffic_source=rss",
-          "published": "Sun, 08 Feb 2026 20:50:00 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Building collapse in northern Lebanon kills at least six people",
-          "link": "https://www.aljazeera.com/news/2026/2/8/building-collapse-in-northern-lebanon-kills-at-least-six?traffic_source=rss",
-          "published": "Sun, 08 Feb 2026 19:47:28 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Man City fight back to win 2-1 at Liverpool and keep title hopes alive",
-          "link": "https://www.aljazeera.com/sports/2026/2/8/man-city-come-back-to-win-2-1-at-liverpool-and-keep-title-hopes-alive?traffic_source=rss",
-          "published": "Sun, 08 Feb 2026 19:12:52 +0000"
         }
       ]
     }
