@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-08T00:01:07Z",
+  "updatedAt": "2026-02-08T05:24:42Z",
   "groups": [
     {
       "region": "Македонија",
@@ -77,33 +77,51 @@
       "items": [
         {
           "source": "BBC",
+          "title": "Japanese people brave snow to vote in snap election",
+          "link": "https://www.bbc.com/news/articles/cx2y7d2z29xo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 08 Feb 2026 04:24:37 GMT"
+        },
+        {
+          "source": "BBC",
+          "title": "Savannah Guthrie tells mother's possible kidnappers 'we will pay' in plea for her return",
+          "link": "https://www.bbc.com/news/articles/ce9y99eg0nno?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 08 Feb 2026 01:58:07 GMT"
+        },
+        {
+          "source": "BBC",
           "title": "France investigates ex-minister Jack Lang over Epstein links",
           "link": "https://www.bbc.com/news/articles/crkrk567d7zo?at_medium=RSS&at_campaign=rss",
           "published": "Sat, 07 Feb 2026 18:10:55 GMT"
         },
         {
           "source": "BBC",
-          "title": "Japan votes in snap election as PM Takaichi takes a gamble",
-          "link": "https://www.bbc.com/news/articles/cx2y7d2z29xo?at_medium=RSS&at_campaign=rss",
-          "published": "Sat, 07 Feb 2026 23:00:43 GMT"
+          "title": "ICE protester speaks out after White House shared fake arrest image",
+          "link": "https://www.bbc.com/news/videos/c86v6p1djvqo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 07 Feb 2026 23:59:43 GMT"
         },
         {
           "source": "BBC",
-          "title": "US wants Russia and Ukraine to end war by June, says Zelensky",
-          "link": "https://www.bbc.com/news/articles/cd0y0y9z231o?at_medium=RSS&at_campaign=rss",
-          "published": "Sat, 07 Feb 2026 14:05:01 GMT"
+          "title": "Washington Post chief executive steps down after mass lay-offs",
+          "link": "https://www.bbc.com/news/articles/c8e5ee39j47o?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 08 Feb 2026 00:51:45 GMT"
         },
         {
-          "source": "BBC",
-          "title": "General shot in Moscow conscious after surgery, Russian media say",
-          "link": "https://www.bbc.com/news/articles/cpwnweypgvyo?at_medium=RSS&at_campaign=rss",
-          "published": "Sat, 07 Feb 2026 16:10:31 GMT"
+          "source": "Al Jazeera",
+          "title": "Russia-Ukraine war: List of key events, day 1,445",
+          "link": "https://www.aljazeera.com/news/2026/2/8/russia-ukraine-war-list-of-key-events-day-1445?traffic_source=rss",
+          "published": "Sun, 08 Feb 2026 04:12:23 +0000"
         },
         {
-          "source": "BBC",
-          "title": "Trump says he 'didn't see' part of video with racist clip depicting Obamas as apes",
-          "link": "https://www.bbc.com/news/articles/ce8r8y78g10o?at_medium=RSS&at_campaign=rss",
-          "published": "Sat, 07 Feb 2026 01:36:32 GMT"
+          "source": "Al Jazeera",
+          "title": "Polls open in Thailand with three main parties vying for power",
+          "link": "https://www.aljazeera.com/news/2026/2/8/polls-open-in-thailand-with-three-main-parties-vying-for-power?traffic_source=rss",
+          "published": "Sun, 08 Feb 2026 01:55:41 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Japan heads to polls as Takaichi seeks mandate for conservative agenda",
+          "link": "https://www.aljazeera.com/news/2026/2/8/japans-sanae-takaichi-tipped-for-big-win-as-polls-open-in-snap-elections?traffic_source=rss",
+          "published": "Sun, 08 Feb 2026 01:06:11 +0000"
         },
         {
           "source": "Al Jazeera",
@@ -116,24 +134,6 @@
           "title": "Is Nigeria’s security situation worsening, or is there progress?",
           "link": "https://www.aljazeera.com/video/inside-story/2026/2/7/is-nigerias-security-situation-worsening-or-is-there-progress?traffic_source=rss",
           "published": "Sat, 07 Feb 2026 21:26:39 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "‘Non-negotiable’: Iran says missiles off the table in talks with the US",
-          "link": "https://www.aljazeera.com/news/2026/2/7/iran-says-oman-mediated-talks-with-us-a-good-start?traffic_source=rss",
-          "published": "Sat, 07 Feb 2026 21:07:17 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Syria and Saudi Arabia sign multibillion-dollar investment deals",
-          "link": "https://www.aljazeera.com/news/2026/2/7/syria-and-saudi-arabia-ink-multi-billion-dollar-investment-deals?traffic_source=rss",
-          "published": "Sat, 07 Feb 2026 20:03:59 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Chris Hedges on decline of the American empire",
-          "link": "https://www.aljazeera.com/video/upfront/2026/2/7/chris-hedges-on-decline-of-the-american-empire?traffic_source=rss",
-          "published": "Sat, 07 Feb 2026 19:30:00 +0000"
         }
       ]
     }
