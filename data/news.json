@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-08T09:57:13Z",
+  "updatedAt": "2026-02-08T10:59:09Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Руски напади во Украина",
+          "link": "https://makfax.com.mk/svet/%d1%80%d1%83%d1%81%d0%ba%d0%b8-%d0%bd%d0%b0%d0%bf%d0%b0%d0%b4%d0%b8-%d0%b2%d0%be-%d1%83%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d0%b0/",
+          "published": "Sun, 08 Feb 2026 10:24:13 +0000"
         },
         {
           "source": "Makfax",
@@ -35,40 +41,34 @@
           "published": "Sun, 08 Feb 2026 09:05:18 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Вирално видео: Џејсон Момоа ѝ зеде од тестенините на гостинка во ресторан и си замина насмеан",
-          "link": "https://makfax.com.mk/zanimlivosti/%d0%b2%d0%b8%d1%80%d0%b0%d0%bb%d0%bd%d0%be-%d0%b2%d0%b8%d0%b4%d0%b5%d0%be-%d1%9f%d0%b5%d1%98%d1%81%d0%be%d0%bd-%d0%bc%d0%be%d0%bc%d0%be%d0%b0-%d1%9d-%d0%b7%d0%b5%d0%b4%d0%b5-%d0%be%d0%b4-%d1%82%d0%b5/",
-          "published": "Sun, 08 Feb 2026 08:38:34 +0000"
+          "source": "NetPress",
+          "title": "Суштинската дебата за платите не треба да се води околу номинални бројки и споредби без контекст, туку како да се зголеми продуктивноста од домашната економија",
+          "link": "https://netpress.com.mk/sushtinskata-debata-za-platite-ne-treba-da-se-vodi-okolu-nominalni-brojki-i-sporedbi-bez-kontekst-tuku-kako-da-se-zgolemi-produktivnosta-od-domashnata-ekonomija/",
+          "published": "Sun, 08 Feb 2026 10:49:25 +0000"
         },
         {
           "source": "NetPress",
-          "title": "По бројните отпуштања заминува и извршен директор Washington Post",
-          "link": "https://netpress.com.mk/po-brojnite-otpushtana-zaminuva-i-izvrshen-direktor-washington-post/",
-          "published": "Sun, 08 Feb 2026 09:44:58 +0000"
+          "title": "Светските берзи нестабилни, фокусот на деловните резултати на компаниите",
+          "link": "https://netpress.com.mk/svetskite-berzi-nestabilni-fokusot-na-delovnite-rezultati-na-kompaniite/",
+          "published": "Sun, 08 Feb 2026 10:37:27 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Заев се закани со тужби за ВМРО-ДПМНЕ – негира поврзаност со запленетиот канабис",
-          "link": "https://netpress.com.mk/zaev-se-zakani-so-tuzhbi-za-vmro-dpmne-negira-povrzanost-so-zaplenetiot-kanabis/",
-          "published": "Sun, 08 Feb 2026 09:25:21 +0000"
+          "title": "Избори во Арагон кои би можеле да најават промени во Шпанија",
+          "link": "https://netpress.com.mk/izbori-vo-aragon-koi-bi-mozhele-da-najavat-promeni-vo-shpanija/",
+          "published": "Sun, 08 Feb 2026 10:25:30 +0000"
         },
         {
           "source": "NetPress",
-          "title": "НБА: Победничко деби на Харден за Кливленд, Јокиќ се враќа во серија „трипл-дабл“ учинок",
-          "link": "https://netpress.com.mk/nba-pobednichko-debi-na-harden-za-klivlend-jokik-se-vraka-vo-serija-tripl-dabl-uchinok/",
-          "published": "Sun, 08 Feb 2026 09:17:55 +0000"
+          "title": "Кадриу: Половина влада на Заев треба да лежи в затвор за Модуларната болница, главната одговорност е кај Филипче",
+          "link": "https://netpress.com.mk/kadriu-polovina-vlada-na-zaev-treba-da-lezhi-v-zatvor-za-modularnata-bolnicza-glavnata-odgovornost-e-kaj-filipche/",
+          "published": "Sun, 08 Feb 2026 10:14:37 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Струмица како Колумбија, повеќето под 27-те тони запленета дрога е од фирма блиска на СДС и Зоран Заев",
-          "link": "https://netpress.com.mk/strumicza-kako-kolumbija-poveketo-pod-27-te-toni-zapleneta-droga-e-od-firma-bliska-na-sds-i-zoran-zaev/",
-          "published": "Sun, 08 Feb 2026 08:59:07 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Сообраќајот се одвива по влажни коловози, без задржувања на границите",
-          "link": "https://netpress.com.mk/soobrakajot-se-odviva-po-vlazhni-kolovozi-bez-zadrzhuvana-na-graniczite/",
-          "published": "Sun, 08 Feb 2026 08:43:19 +0000"
+          "title": "Најмногу дожд во Маврови Анови, најстудено на Попова Шапка и Берово",
+          "link": "https://netpress.com.mk/najmnogu-dozhd-vo-mavrovi-anovi-najstudeno-na-popova-shapka-i-berovo/",
+          "published": "Sun, 08 Feb 2026 10:05:27 +0000"
         }
       ]
     },
@@ -89,13 +89,13 @@
         },
         {
           "source": "BBC",
-          "title": "Savannah Guthrie pleas for mother's return and tells possible kidnappers 'we will pay'",
+          "title": "US news anchor Savannah Guthrie says 'we will pay' in plea for mother's return",
           "link": "https://www.bbc.com/news/articles/ce9y99eg0nno?at_medium=RSS&at_campaign=rss",
           "published": "Sun, 08 Feb 2026 01:58:07 GMT"
         },
         {
           "source": "BBC",
-          "title": "ICE protester speaks out after White House shared fake arrest image",
+          "title": "ICE protester says she was 'disgusted' after fake arrest image shared by White House",
           "link": "https://www.bbc.com/news/videos/c86v6p1djvqo?at_medium=RSS&at_campaign=rss",
           "published": "Sat, 07 Feb 2026 23:59:43 GMT"
         },
@@ -107,7 +107,25 @@
         },
         {
           "source": "Al Jazeera",
-          "title": "Polls open in second round of Portugal presidential election",
+          "title": "Head of Hamas abroad says ‘resistance is a right’ for occupied people",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/2/8/head-of-hamas-abroad-says-resistance-is-a-right-for-occupied-people?traffic_source=rss",
+          "published": "Sun, 08 Feb 2026 10:26:19 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Week in Pictures: From Israeli air raids on Lebanon to bombing in Pakistan",
+          "link": "https://www.aljazeera.com/gallery/2026/2/8/week-in-pictures-from-israeli-air-strikes-on-lebanon-to-pakistan-bombing?traffic_source=rss",
+          "published": "Sun, 08 Feb 2026 10:08:10 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Pro-Palestine groups to protest Israeli president’s visit to Australia",
+          "link": "https://www.aljazeera.com/news/2026/2/8/pro-palestine-groups-to-protest-israeli-presidents-visit-to-australia?traffic_source=rss",
+          "published": "Sun, 08 Feb 2026 10:04:53 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Polls open in Portugal for first presidential run-off in 40 years",
           "link": "https://www.aljazeera.com/news/2026/2/8/polls-open-in-second-round-of-portugal-presidential-election?traffic_source=rss",
           "published": "Sun, 08 Feb 2026 09:10:40 +0000"
         },
@@ -116,24 +134,6 @@
           "title": "Japan elections live: PM Takaichi’s LDP hopes to secure big win",
           "link": "https://www.aljazeera.com/news/liveblog/2026/2/8/japan-elections-live?traffic_source=rss",
           "published": "Sun, 08 Feb 2026 09:05:15 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Families ‘inconsolable’ in Gaza as Israel returns more unidentified bodies",
-          "link": "https://www.aljazeera.com/news/2026/2/8/families-inconsolable-in-gaza-as-israel-returns-more-unidentified-bodies?traffic_source=rss",
-          "published": "Sun, 08 Feb 2026 08:15:06 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Somalia is the missing pillar of Red Sea and Gulf of Aden stability",
-          "link": "https://www.aljazeera.com/opinions/2026/2/8/somalia-is-the-missing-pillar-of-red-sea-and-gulf-of-aden-stability?traffic_source=rss",
-          "published": "Sun, 08 Feb 2026 08:00:07 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Washington Post CEO resigns after sweeping layoffs",
-          "link": "https://www.aljazeera.com/news/2026/2/8/washington-post-ceo-resigns-after-sweeping-layoffs?traffic_source=rss",
-          "published": "Sun, 08 Feb 2026 07:54:59 +0000"
         }
       ]
     }
