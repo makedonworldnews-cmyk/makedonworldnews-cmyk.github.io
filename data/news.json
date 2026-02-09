@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-09T22:04:55Z",
+  "updatedAt": "2026-02-09T23:57:34Z",
   "groups": [
     {
       "region": "Македонија",
@@ -42,6 +42,12 @@
         },
         {
           "source": "NetPress",
+          "title": "Шпанските железничари го прекинаа штрајкот откако владата ги исполни барањата",
+          "link": "https://netpress.com.mk/shpanskite-zheleznichari-go-prekinaa-shtrajkot-otkako-vladata-gi-ispolni-baranata/",
+          "published": "Mon, 09 Feb 2026 22:15:27 +0000"
+        },
+        {
+          "source": "NetPress",
           "title": "Одобрен простор за меморијалниот проект „Патека на бесконечноста“ во Кочани",
           "link": "https://netpress.com.mk/odobren-prostor-za-memorijalniot-proekt-pateka-na-beskonechnosta-vo-kochani/",
           "published": "Mon, 09 Feb 2026 22:03:16 +0000"
@@ -63,12 +69,6 @@
           "title": "Вистинскиот избор за заедничка иднина, избрани претседатели на партиски комисии во ВМРО-ДПМНЕ",
           "link": "https://netpress.com.mk/vistinskiot-izbor-za-zaednichka-idnina-izbrani-pretsedateli-na-partiski-komisii/",
           "published": "Mon, 09 Feb 2026 20:38:24 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Маск планира „Старлинк-телефон“",
-          "link": "https://netpress.com.mk/mask-planira-starlink-telefon/",
-          "published": "Mon, 09 Feb 2026 20:35:37 +0000"
         }
       ]
     },
@@ -95,15 +95,27 @@
         },
         {
           "source": "BBC",
-          "title": "Savannah Guthrie pleads for help as missing mother's ransom deadline looms",
-          "link": "https://www.bbc.com/news/articles/c4geqzqd8qeo?at_medium=RSS&at_campaign=rss",
-          "published": "Mon, 09 Feb 2026 21:48:49 GMT"
+          "title": "Extreme cold in New York City leaves 18 dead",
+          "link": "https://www.bbc.com/news/articles/cd9g8nxdexko?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 09 Feb 2026 22:45:11 GMT"
         },
         {
           "source": "BBC",
-          "title": "Norway police investigate diplomat over Epstein links",
-          "link": "https://www.bbc.com/news/articles/c5yg8yrypejo?at_medium=RSS&at_campaign=rss",
-          "published": "Mon, 09 Feb 2026 21:12:09 GMT"
+          "title": "Savannah Guthrie pleads for help as missing mother's ransom deadline looms",
+          "link": "https://www.bbc.com/news/articles/c4geqzqd8qeo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 09 Feb 2026 22:24:21 GMT"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Landmark cases on social media’s impact on children begin this week in US",
+          "link": "https://www.aljazeera.com/economy/2026/2/9/landmark-cases-on-social-medias-impact-on-children-begin-this-week-in-us?traffic_source=rss",
+          "published": "Mon, 09 Feb 2026 22:43:50 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "United Nations presses for answers on US funding commitments",
+          "link": "https://www.aljazeera.com/news/2026/2/9/united-nations-presses-for-answers-on-us-funding-commitments?traffic_source=rss",
+          "published": "Mon, 09 Feb 2026 21:53:52 +0000"
         },
         {
           "source": "Al Jazeera",
@@ -122,18 +134,6 @@
           "title": "Is Portugal shifting to the right?",
           "link": "https://www.aljazeera.com/video/inside-story/2026/2/9/is-portugal-shifting-to-the-right?traffic_source=rss",
           "published": "Mon, 09 Feb 2026 21:02:33 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Deadly drone attacks on civilians continue in Sudan’s Kordofan, UN says",
-          "link": "https://www.aljazeera.com/news/2026/2/9/deadly-drone-attacks-on-civilians-continue-in-sudans-kordofan-un-says?traffic_source=rss",
-          "published": "Mon, 09 Feb 2026 20:48:43 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "UN installs relief housing units for displaced families in Gaza",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/2/9/un-installs-relief-housing-units-for-displaced-families-in-gaza?traffic_source=rss",
-          "published": "Mon, 09 Feb 2026 20:47:46 +0000"
         }
       ]
     }
