@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-11T23:04:03Z",
+  "updatedAt": "2026-02-11T23:57:18Z",
   "groups": [
     {
       "region": "Македонија",
@@ -42,14 +42,26 @@
         },
         {
           "source": "NetPress",
+          "title": "Куп на Италија: Бранителот на титулата Болоња елиминирана",
+          "link": "https://netpress.com.mk/kup-na-italija-branitelot-na-titulata-bolona-eliminirana/",
+          "published": "Wed, 11 Feb 2026 23:20:20 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Косово доби нова влада, Курти повторно премиер",
+          "link": "https://netpress.com.mk/kosovo-dobi-nova-vlada-kurti-povtorno-premier/",
+          "published": "Wed, 11 Feb 2026 23:10:20 +0000"
+        },
+        {
+          "source": "NetPress",
           "title": "Вработувањето во САД забрза на почетокот од годината",
           "link": "https://netpress.com.mk/vrabotuvaneto-vo-sad-zabrza-na-pochetokot-od-godinata/",
           "published": "Wed, 11 Feb 2026 22:55:45 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Премиер лига: Манчестер Сити убедлив, големиот пресврт на Барнли",
-          "link": "https://netpress.com.mk/premier-liga-manchester-siti-ubedliv-golemiot-presvrt-na-barnli/",
+          "title": "Премиер лига: Манчестер Сити убедлив, голем пресврт на Барнли",
+          "link": "https://netpress.com.mk/premier-liga-manchester-siti-ubedliv-golem-presvrt-na-barnli/",
           "published": "Wed, 11 Feb 2026 22:26:28 +0000"
         },
         {
@@ -57,24 +69,18 @@
           "title": "Масакрот во Канада го извршила 18-годишна девојка со ментални проблеми",
           "link": "https://netpress.com.mk/masakrot-vo-kanada-go-izvrshila-18-godishna-devojka-so-mentalni-problemi/",
           "published": "Wed, 11 Feb 2026 21:57:35 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "ВИДЕО I Тепачка кај мостот Гоце Делчев среде бел ден",
-          "link": "https://netpress.com.mk/video-i-tepachka-kaj-mostot-gocze-delchev-srede-bel-den/",
-          "published": "Wed, 11 Feb 2026 21:37:42 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Русија првпат во Северна Кореја извезе и пиво",
-          "link": "https://netpress.com.mk/rusija-prvpat-vo-severna-koreja-izveze-i-pivo/",
-          "published": "Wed, 11 Feb 2026 21:32:13 +0000"
         }
       ]
     },
     {
       "region": "Свет",
       "items": [
+        {
+          "source": "BBC",
+          "title": "Police identify 18-year-old as suspect in Tumbler Ridge shooting",
+          "link": "https://www.bbc.com/news/articles/ce8w95knp55o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 11 Feb 2026 23:04:50 GMT"
+        },
         {
           "source": "BBC",
           "title": "'It was terrifying': Tumbler Ridge's tight-knit community in shock after shooting",
@@ -100,40 +106,34 @@
           "published": "Wed, 11 Feb 2026 22:25:07 GMT"
         },
         {
-          "source": "BBC",
-          "title": "Russian strike kills 3 Ukrainian toddlers and father, with pregnant mother injured",
-          "link": "https://www.bbc.com/news/articles/crm820dp0yro?at_medium=RSS&at_campaign=rss",
-          "published": "Wed, 11 Feb 2026 16:08:10 GMT"
+          "source": "Al Jazeera",
+          "title": "Bangladesh election 2026 live news: Polls to open amid heavy security",
+          "link": "https://www.aljazeera.com/news/liveblog/2026/2/11/bbangladesh-election-2026-live-news-polls-open-shortly-amid-heavy-security?traffic_source=rss",
+          "published": "Wed, 11 Feb 2026 23:30:00 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Italy advances migration bill, including naval blockades",
+          "link": "https://www.aljazeera.com/news/2026/2/11/italy-advances-migration-bill-including-naval-blockades?traffic_source=rss",
+          "published": "Wed, 11 Feb 2026 23:12:46 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "US FDA declines Moderna flu vaccine review amid vaccine guidance rollback",
+          "link": "https://www.aljazeera.com/economy/2026/2/11/us-fda-declines-moderna-flu-vaccine-review-amid-vaccine-guidance-rollback?traffic_source=rss",
+          "published": "Wed, 11 Feb 2026 22:52:42 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Will Thursday’s elections be a watershed moment for Bangladesh?",
+          "link": "https://www.aljazeera.com/video/inside-story/2026/2/11/will-thursdays-elections-be-a-watershed-moment-for-bangladesh?traffic_source=rss",
+          "published": "Wed, 11 Feb 2026 22:47:13 +0000"
         },
         {
           "source": "Al Jazeera",
           "title": "Struggling to get by: Behind the US underemployment crisis",
           "link": "https://www.aljazeera.com/economy/2026/2/11/struggling-to-get-by-behind-the-us-underemployment-crisis?traffic_source=rss",
           "published": "Wed, 11 Feb 2026 21:31:11 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Beyond pressure: What is the Trump administration’s endgame in Cuba?",
-          "link": "https://www.aljazeera.com/news/2026/2/11/beyond-pressure-what-is-the-trump-administrations-endgame-in-cuba?traffic_source=rss",
-          "published": "Wed, 11 Feb 2026 21:13:36 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "CBO: US Federal deficits and debt to worsen over next decade",
-          "link": "https://www.aljazeera.com/economy/2026/2/11/cbo-us-federal-deficits-and-debt-to-worsen-over-next-decade?traffic_source=rss",
-          "published": "Wed, 11 Feb 2026 20:42:11 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "9 killed in one of Canada’s worst mass shootings",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/2/11/9-killed-in-one-of-canadas-worst-mass-shootings?traffic_source=rss",
-          "published": "Wed, 11 Feb 2026 20:28:15 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "US lawmakers slam Pam Bondi over administration’s handling of Epstein files",
-          "link": "https://www.aljazeera.com/news/2026/2/11/us-lawmakers-slam-pam-bondi-over-administrations-handling-of-epstein-files?traffic_source=rss",
-          "published": "Wed, 11 Feb 2026 20:26:54 +0000"
         }
       ]
     }
