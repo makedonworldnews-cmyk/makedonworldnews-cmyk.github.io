@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-13T19:32:35Z",
+  "updatedAt": "2026-02-13T21:22:31Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,24 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Маж нападна полицаец со нож во Париз",
+          "link": "https://makfax.com.mk/svet/%d0%bc%d0%b0%d0%b6-%d0%bd%d0%b0%d0%bf%d0%b0%d0%b4%d0%bd%d0%b0-%d0%bf%d0%be%d0%bb%d0%b8%d1%86%d0%b0%d0%b5%d1%86-%d1%81%d0%be-%d0%bd%d0%be%d0%b6-%d0%b2%d0%be-%d0%bf%d0%b0%d1%80%d0%b8%d0%b7/",
+          "published": "Fri, 13 Feb 2026 20:45:06 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Зеленски: Путин не е млад човек, нема многу време",
+          "link": "https://makfax.com.mk/svet/%d0%b7%d0%b5%d0%bb%d0%b5%d0%bd%d1%81%d0%ba%d0%b8-%d0%bf%d1%83%d1%82%d0%b8%d0%bd-%d0%bd%d0%b5-%d0%b5-%d0%bc%d0%bb%d0%b0%d0%b4-%d1%87%d0%be%d0%b2%d0%b5%d0%ba-%d0%bd%d0%b5%d0%bc%d0%b0-%d0%bc%d0%bd/",
+          "published": "Fri, 13 Feb 2026 20:05:52 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Украински министер: Не е реално војната да се заврши без Трамп",
+          "link": "https://makfax.com.mk/svet/%d1%83%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d1%81%d0%ba%d0%b8-%d0%bc%d0%b8%d0%bd%d0%b8%d1%81%d1%82%d0%b5%d1%80-%d0%bd%d0%b5-%d0%b5-%d1%80%d0%b5%d0%b0%d0%bb%d0%bd%d0%be-%d0%b2%d0%be%d1%98%d0%bd%d0%b0%d1%82/",
+          "published": "Fri, 13 Feb 2026 20:00:18 +0000"
         },
         {
           "source": "Makfax",
@@ -23,52 +41,34 @@
           "published": "Fri, 13 Feb 2026 19:00:55 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Мицкоски на средби со сопственици на компании и со претседателот на Европскиот совет во Минхен",
-          "link": "https://makfax.com.mk/makedonija/%d0%bc%d0%b8%d1%86%d0%ba%d0%be%d1%81%d0%ba%d0%b8-%d0%bd%d0%b0-%d1%81%d1%80%d0%b5%d0%b4%d0%b1%d0%b8-%d1%81%d0%be-%d1%81%d0%be%d0%bf%d1%81%d1%82%d0%b2%d0%b5%d0%bd%d0%b8%d1%86%d0%b8-%d0%bd%d0%b0-%d0%ba/",
-          "published": "Fri, 13 Feb 2026 18:39:02 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Тројца скијачи загинаа во лавина на француските Алпи",
-          "link": "https://makfax.com.mk/svet/%d1%82%d1%80%d0%be%d1%98%d1%86%d0%b0-%d1%81%d0%ba%d0%b8%d1%98%d0%b0%d1%87%d0%b8-%d0%b7%d0%b0%d0%b3%d0%b8%d0%bd%d0%b0%d0%b0-%d0%b2%d0%be-%d0%bb%d0%b0%d0%b2%d0%b8%d0%bd%d0%b0-%d0%b2%d0%be-%d1%84%d1%80/",
-          "published": "Fri, 13 Feb 2026 17:58:02 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Чешка го слави 19-годишниот Методеј Јилек",
-          "link": "https://makfax.com.mk/sport/cheshka-go-slavi-19-godishniot-metodej-jilek/",
-          "published": "Fri, 13 Feb 2026 17:46:26 +0000"
+          "source": "NetPress",
+          "title": "ВИДЕО| Четири лица загинаа во пожар во работничкo сместување крај Будимпешта",
+          "link": "https://netpress.com.mk/video-chetiri-licza-zaginaa-vo-pozhar-vo-rabotnichko-smestuvane-kraj-budimpeshta/",
+          "published": "Fri, 13 Feb 2026 21:09:58 +0000"
         },
         {
           "source": "NetPress",
-          "title": "ВИДЕО| Шерон Стоун трогната „до солзи“ на Оперскиот бал во Виена",
-          "link": "https://netpress.com.mk/video-sheron-stoun-trognata-do-solzi-na-operskiot-bal-vo-viena/",
-          "published": "Fri, 13 Feb 2026 19:31:19 +0000"
+          "title": "Доколку сака почитување од другите, Европа мора да стане геополитичка сила, вели Макрон",
+          "link": "https://netpress.com.mk/dokolku-saka-pochituvane-od-drugite-evropa-mora-da-stane-geopolitichka-sila-veli-makron/",
+          "published": "Fri, 13 Feb 2026 20:52:46 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Дмитриев нема да биде дел од руската делегација во Женева на состанокот за Украина",
-          "link": "https://netpress.com.mk/dmitriev-nema-da-bide-del-od-ruskata-delegaczija-vo-zheneva-na-sostanokot-za-ukraina/",
-          "published": "Fri, 13 Feb 2026 18:53:28 +0000"
+          "title": "Трамп го предупреди Зеленски да се придвижи кон мирот оти ќе „испушти голема шанса“",
+          "link": "https://netpress.com.mk/tramp-go-predupredi-zelenski-da-se-pridvizhi-kon-mirot-oti-ke-ispushti-golema-shansa/",
+          "published": "Fri, 13 Feb 2026 20:32:24 +0000"
         },
         {
           "source": "NetPress",
-          "title": "ВИДЕО| Мицкоски на значајни средби на првиот ден од Минхенската безбедносна конференција",
-          "link": "https://netpress.com.mk/video-miczkoski-na-znachajni-sredbi-na-prviot-den-od-minhenskata-bezbednosna-konferenczija/",
-          "published": "Fri, 13 Feb 2026 18:25:20 +0000"
+          "title": "Демократот Њусом во Минхен ги „храбри“ Европејците со „привремениот“ Трамп",
+          "link": "https://netpress.com.mk/demokratot-nusom-vo-minhen-gi-hrabri-evropejczite-so-privremeniot-tramp/",
+          "published": "Fri, 13 Feb 2026 20:06:00 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Централната банка на Русија повторно ја намали клучната каматна стапка",
-          "link": "https://netpress.com.mk/czentralnata-banka-na-rusija-povtorno-ja-namali-kluchnata-kamatna-stapka/",
-          "published": "Fri, 13 Feb 2026 18:05:33 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Тројца скијачи загинаа во лавина во францускиот скијачки центар Вал д’Изер",
-          "link": "https://netpress.com.mk/trojcza-skijachi-zaginaa-vo-lavina-vo-franczuskiot-skijachki-czentar-val-dizer/",
-          "published": "Fri, 13 Feb 2026 17:49:16 +0000"
+          "title": "Рубио во Минхен на петнаесет минути се сретна со премиерите на Данска и Гренланд",
+          "link": "https://netpress.com.mk/rubio-vo-minhen-na-petnaeset-minuti-se-sretna-so-premierite-na-danska-i-grenland/",
+          "published": "Fri, 13 Feb 2026 19:46:05 +0000"
         }
       ]
     },
@@ -80,12 +80,6 @@
           "title": "World's rules-based order 'no longer exists', Germany's Merz warns",
           "link": "https://www.bbc.com/news/articles/cy4wpv0wx43o?at_medium=RSS&at_campaign=rss",
           "published": "Fri, 13 Feb 2026 18:52:25 GMT"
-        },
-        {
-          "source": "BBC",
-          "title": "Bangladesh Nationalist Party sweeps to victory in first election since Gen Z uprising",
-          "link": "https://www.bbc.com/news/articles/cgrzwn4yg7jo?at_medium=RSS&at_campaign=rss",
-          "published": "Fri, 13 Feb 2026 16:33:02 GMT"
         },
         {
           "source": "BBC",
@@ -101,39 +95,45 @@
         },
         {
           "source": "BBC",
-          "title": "Who is on helmet that led to Ukrainian athlete's Winter Olympics ban?",
+          "title": "The war dead pictured on banned Ukrainian athlete's helmet",
           "link": "https://www.bbc.com/news/articles/cnv63q1vpv1o?at_medium=RSS&at_campaign=rss",
           "published": "Fri, 13 Feb 2026 18:14:06 GMT"
         },
         {
-          "source": "Al Jazeera",
-          "title": "Russia and Ukraine to hold new talks in Geneva next week",
-          "link": "https://www.aljazeera.com/news/2026/2/13/russia-and-ukraine-to-hold-next-round-of-talks-in-geneva-next-week?traffic_source=rss",
-          "published": "Fri, 13 Feb 2026 18:55:08 +0000"
+          "source": "BBC",
+          "title": "Head of Dubai-based ports giant quits after Epstein links revealed",
+          "link": "https://www.bbc.com/news/articles/ce82xgd2g3yo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 13 Feb 2026 18:18:19 GMT"
         },
         {
           "source": "Al Jazeera",
-          "title": "AU summit tackles climate change and Somaliland tensions",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/2/13/au-summit-tackles-climate-change-and-somaliland-tensions?traffic_source=rss",
-          "published": "Fri, 13 Feb 2026 18:43:53 +0000"
+          "title": "Trump orders second aircraft carrier to Middle East",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/2/13/trump-orders-second-aircraft-carrier-to-middle-east?traffic_source=rss",
+          "published": "Fri, 13 Feb 2026 20:36:15 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Palestine Action cofounder Ammori after High Court win: UK ban ‘backfired’",
-          "link": "https://www.aljazeera.com/news/2026/2/13/palestine-action-cofounder-ammori-after-high-court-win-uk-ban-backfired?traffic_source=rss",
-          "published": "Fri, 13 Feb 2026 18:34:26 +0000"
+          "title": "Trump says planning to ‘make visit’ to Venezuela following Maduro abduction",
+          "link": "https://www.aljazeera.com/news/2026/2/13/trump-says-planning-to-make-visit-to-venezuela-following-maduro-abduction?traffic_source=rss",
+          "published": "Fri, 13 Feb 2026 20:30:26 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Cuban official decries ‘massive punishment’ by US oil blockade",
-          "link": "https://www.aljazeera.com/news/2026/2/13/cuban-official-decries-massive-punishment-by-us-oil-blockade?traffic_source=rss",
-          "published": "Fri, 13 Feb 2026 18:30:20 +0000"
+          "title": "Co-founder of Palestine Action: government’s ban on group ‘backfired’",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/2/13/co-founder-of-palestine-action-governments-ban-on-group?traffic_source=rss",
+          "published": "Fri, 13 Feb 2026 20:25:01 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Trump pardons 5 former NFL players ranging from perjury to drug trafficking",
-          "link": "https://www.aljazeera.com/sports/2026/2/13/trump-pardons-5-former-nfl-players-for-perjury-to-drug-trafficking-crimes?traffic_source=rss",
-          "published": "Fri, 13 Feb 2026 18:29:53 +0000"
+          "title": "German leader Merz calls on US and Europe to ‘repair trust’",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/2/13/german-leader-merz-calls-on-us-and-europe-to-repair?traffic_source=rss",
+          "published": "Fri, 13 Feb 2026 20:08:09 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "How deep do Epstein’s ties to Britain’s elite go?",
+          "link": "https://www.aljazeera.com/video/the-take-2/2026/2/13/aje-onl-gbr_labourstarmer_av_v2-120226?traffic_source=rss",
+          "published": "Fri, 13 Feb 2026 20:07:50 +0000"
         }
       ]
     }
