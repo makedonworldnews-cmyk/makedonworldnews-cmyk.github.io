@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-13T23:58:45Z",
+  "updatedAt": "2026-02-14T05:01:26Z",
   "groups": [
     {
       "region": "Македонија",
@@ -83,6 +83,12 @@
         },
         {
           "source": "BBC",
+          "title": "Can Bangladesh's new leader bring change after election landslide?",
+          "link": "https://www.bbc.com/news/articles/cn0ex5d4g6xo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 14 Feb 2026 00:03:33 GMT"
+        },
+        {
+          "source": "BBC",
           "title": "Six possible effects of Trump's climate policy change",
           "link": "https://www.bbc.com/news/articles/cd03ee39945o?at_medium=RSS&at_campaign=rss",
           "published": "Fri, 13 Feb 2026 19:08:07 GMT"
@@ -100,40 +106,34 @@
           "published": "Fri, 13 Feb 2026 18:14:06 GMT"
         },
         {
-          "source": "BBC",
-          "title": "Head of Dubai-based ports giant quits after Epstein links revealed",
-          "link": "https://www.bbc.com/news/articles/ce82xgd2g3yo?at_medium=RSS&at_campaign=rss",
-          "published": "Fri, 13 Feb 2026 18:18:19 GMT"
+          "source": "Al Jazeera",
+          "title": "Danish PM says more Greenland talks due after meeting US’s Marco Rubio",
+          "link": "https://www.aljazeera.com/news/2026/2/14/danish-pm-says-more-greenland-talks-due-after-meeting-uss-marco-rubio?traffic_source=rss",
+          "published": "Sat, 14 Feb 2026 04:18:40 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Trump says US will send second aircraft carrier to Middle East ‘very soon’",
-          "link": "https://www.aljazeera.com/news/2026/2/13/trump-confirms-second-aircraft-carrier-headed-to-middle-east-very?traffic_source=rss",
-          "published": "Fri, 13 Feb 2026 22:40:31 +0000"
+          "title": "Trauma and defiance: Life and death of 17-year-old killed fighting Israel",
+          "link": "https://www.aljazeera.com/features/2026/2/14/trauma-and-defiance-life-and-death-of-17-year-old-killed-fighting-israel?traffic_source=rss",
+          "published": "Sat, 14 Feb 2026 04:09:06 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "US Department of Homeland Security to go into shutdown due to funding lapse",
-          "link": "https://www.aljazeera.com/news/2026/2/13/us-department-of-homeland-security-to-go-into-shutdown-due-to-funding-lapse?traffic_source=rss",
-          "published": "Fri, 13 Feb 2026 22:21:07 +0000"
+          "title": "Arundhati Roy ‘shocked’ by jury’s Gaza remarks, quits Berlin film festival",
+          "link": "https://www.aljazeera.com/news/2026/2/14/arundhati-roy-shocked-by-jurys-gaza-remarks-quits-berlin-film-festival?traffic_source=rss",
+          "published": "Sat, 14 Feb 2026 03:16:06 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Court orders Trump administration to facilitate deported student’s return",
-          "link": "https://www.aljazeera.com/news/2026/2/13/court-orders-trump-administration-to-facilitate-deported-students-return?traffic_source=rss",
-          "published": "Fri, 13 Feb 2026 22:06:34 +0000"
+          "title": "Fire at Havana oil refinery as Cuba’s fuel crisis deepens",
+          "link": "https://www.aljazeera.com/news/2026/2/14/fire-at-havana-oil-refinery-as-cubas-fuel-crisis-deepens?traffic_source=rss",
+          "published": "Sat, 14 Feb 2026 02:14:34 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Trump orders second aircraft carrier to Middle East",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/2/13/trump-orders-second-aircraft-carrier-to-middle-east?traffic_source=rss",
-          "published": "Fri, 13 Feb 2026 20:36:15 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Trump says planning to ‘make visit’ to Venezuela following Maduro abduction",
-          "link": "https://www.aljazeera.com/news/2026/2/13/trump-says-planning-to-make-visit-to-venezuela-following-maduro-abduction?traffic_source=rss",
-          "published": "Fri, 13 Feb 2026 20:30:26 +0000"
+          "title": "Peru to debate removal of President Jose Jeri four months into his term",
+          "link": "https://www.aljazeera.com/news/2026/2/14/peru-to-debate-removal-of-president-jose-jeri-four-months-into-his-term?traffic_source=rss",
+          "published": "Sat, 14 Feb 2026 01:55:30 +0000"
         }
       ]
     }
