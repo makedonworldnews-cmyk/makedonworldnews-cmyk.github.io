@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-14T15:51:59Z",
+  "updatedAt": "2026-02-14T17:00:46Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Ѓорѓиевски ќе урива дивоградби низ Скопје, се чисти депонијата кај гробиштата во Бутел",
+          "link": "https://makfax.com.mk/makedonija/%d1%93%d0%be%d1%80%d1%93%d0%b8%d0%b5%d0%b2%d1%81%d0%ba%d0%b8-%d1%9c%d0%b5-%d1%83%d1%80%d0%b8%d0%b2%d0%b0-%d0%b4%d0%b8%d0%b2%d0%be%d0%b3%d1%80%d0%b0%d0%b4%d0%b1%d0%b8-%d0%bd%d0%b8%d0%b7-%d1%81%d0%ba/",
+          "published": "Sat, 14 Feb 2026 15:55:48 +0000"
         },
         {
           "source": "Makfax",
@@ -35,10 +41,10 @@
           "published": "Sat, 14 Feb 2026 14:38:22 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Градоначалникот Ќура ангажирал фирма што ќе утврди зошто е загадена водата во Струга",
-          "link": "https://makfax.com.mk/makedonija/%d0%b3%d1%80%d0%b0%d0%b4%d0%be%d0%bd%d0%b0%d1%87%d0%b0%d0%bb%d0%bd%d0%b8%d0%ba%d0%be%d1%82-%d1%9c%d1%83%d1%80%d0%b0-%d0%b0%d0%bd%d0%b3%d0%b0%d0%b6%d0%b8%d1%80%d0%b0%d0%bb-%d1%84%d0%b8%d1%80%d0%bc/",
-          "published": "Sat, 14 Feb 2026 13:35:32 +0000"
+          "source": "NetPress",
+          "title": "Данската премиерка: Трамп не се откажал од Гренланд",
+          "link": "https://netpress.com.mk/danskata-premierka-tramp-ne-se-otkazhal-od-grenland/",
+          "published": "Sat, 14 Feb 2026 16:08:03 +0000"
         },
         {
           "source": "NetPress",
@@ -63,18 +69,18 @@
           "title": "Зеленски се жали дека САД пречесто бараат отстапки од Украина а не од Русија",
           "link": "https://netpress.com.mk/zelenski-se-zhali-deka-sad-prechesto-baraat-otstapki-od-ukraina-a-ne-od-rusija/",
           "published": "Sat, 14 Feb 2026 15:09:39 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Тудор го презема Тотенхем до крајот на сезоната",
-          "link": "https://netpress.com.mk/tudor-go-prezema-totenhem-do-krajot-na-sezonata/",
-          "published": "Sat, 14 Feb 2026 14:55:36 +0000"
         }
       ]
     },
     {
       "region": "Свет",
       "items": [
+        {
+          "source": "BBC",
+          "title": "Rubio says US and Europe 'belong together' despite tensions",
+          "link": "https://www.bbc.com/news/articles/c2lrdq47149o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 14 Feb 2026 15:28:12 GMT"
+        },
         {
           "source": "BBC",
           "title": "Gisèle Pelicot tells BBC: I felt crushed by horror - but I don't feel anger",
@@ -89,21 +95,21 @@
         },
         {
           "source": "BBC",
-          "title": "Can Bangladesh's new leader bring change after election landslide?",
-          "link": "https://www.bbc.com/news/articles/cn0ex5d4g6xo?at_medium=RSS&at_campaign=rss",
-          "published": "Sat, 14 Feb 2026 00:03:33 GMT"
-        },
-        {
-          "source": "BBC",
           "title": "'Canadians are with you,' says PM at Tumbler Ridge vigil",
           "link": "https://www.bbc.com/news/articles/cde4kdr2z6do?at_medium=RSS&at_campaign=rss",
           "published": "Sat, 14 Feb 2026 05:17:27 GMT"
         },
         {
           "source": "BBC",
-          "title": "'We are not protected' says Hebron mayor as Israel expands West Bank control",
-          "link": "https://www.bbc.com/news/articles/crl4ne5er5zo?at_medium=RSS&at_campaign=rss",
-          "published": "Fri, 13 Feb 2026 22:12:03 GMT"
+          "title": "Planned US-funded baby vaccine trial in Guinea-Bissau blasted by WHO",
+          "link": "https://www.bbc.com/news/articles/c78j5k2gk02o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 14 Feb 2026 16:20:33 GMT"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Rubio at Munich Security Conference: US wants Europe to be ‘strong’",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/2/14/rubio-at-munich-security-conference-us-wants-europe-to-be-strong?traffic_source=rss",
+          "published": "Sat, 14 Feb 2026 15:53:06 +0000"
         },
         {
           "source": "Al Jazeera",
@@ -128,12 +134,6 @@
           "title": "Swear words fly as cheating allegations made in curling at Winter Olympics",
           "link": "https://www.aljazeera.com/sports/2026/2/14/curse-words-fly-as-cheating-allegations-made-in-curling-at-winter-olympics?traffic_source=rss",
           "published": "Sat, 14 Feb 2026 12:40:59 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "ICU patients’ lives at risk in Gaza’s Al-Aqsa Hospital amid Israel’s war",
-          "link": "https://www.aljazeera.com/news/2026/2/14/icu-patients-lives-at-risk-in-gazas-al-aqsa-hospital-amid-israels-war?traffic_source=rss",
-          "published": "Sat, 14 Feb 2026 12:23:53 +0000"
         }
       ]
     }
