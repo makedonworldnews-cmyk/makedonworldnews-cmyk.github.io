@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-14T14:57:00Z",
+  "updatedAt": "2026-02-14T15:51:59Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Зеленски очекува корисна следна рунда мировни преговори",
+          "link": "https://makfax.com.mk/svet/%d0%b7%d0%b5%d0%bb%d0%b5%d0%bd%d1%81%d0%ba%d0%b8-%d0%be%d1%87%d0%b5%d0%ba%d1%83%d0%b2%d0%b0-%d0%ba%d0%be%d1%80%d0%b8%d1%81%d0%bd%d0%b0-%d1%81%d0%bb%d0%b5%d0%b4%d0%bd%d0%b0-%d1%80%d1%83%d0%bd%d0%b4/",
+          "published": "Sat, 14 Feb 2026 15:46:56 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Апасиев: Левица ќе и поднесе кривична пријава на Цвета Ристовска",
+          "link": "https://makfax.com.mk/makedonija/%d0%b0%d0%bf%d0%b0%d1%81%d0%b8%d0%b5%d0%b2-%d0%bb%d0%b5%d0%b2%d0%b8%d1%86%d0%b0-%d1%9c%d0%b5-%d0%b8-%d0%bf%d0%be%d0%b4%d0%bd%d0%b5%d1%81%d0%b5-%d0%ba%d1%80%d0%b8%d0%b2%d0%b8%d1%87%d0%bd%d0%b0-%d0%bf/",
+          "published": "Sat, 14 Feb 2026 15:25:07 +0000"
         },
         {
           "source": "Makfax",
@@ -29,46 +41,34 @@
           "published": "Sat, 14 Feb 2026 13:35:32 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Грчките земјоделците го завршија протестот во Атина",
-          "link": "https://makfax.com.mk/svet/%d0%b3%d1%80%d1%87%d0%ba%d0%b8%d1%82%d0%b5-%d0%b7%d0%b5%d0%bc%d1%98%d0%be%d0%b4%d0%b5%d0%bb%d1%86%d0%b8%d1%82%d0%b5-%d0%b3%d0%be-%d0%b7%d0%b0%d0%b2%d1%80%d1%88%d0%b8%d1%98%d0%b0-%d0%bf%d1%80%d0%be/",
-          "published": "Sat, 14 Feb 2026 13:26:27 +0000"
+          "source": "NetPress",
+          "title": "Протест во Минхен против Безбедносната конференција: Стоп на испораките оружје за Украина",
+          "link": "https://netpress.com.mk/protest-vo-minhen-protiv-bezbednosnata-konferenczija-stop-na-isporakite-oruzhje-za-ukraina/",
+          "published": "Sat, 14 Feb 2026 15:46:21 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Јаневска: Јавната дебата за Законот за високо образование не е завршена",
-          "link": "https://makfax.com.mk/makedonija/%d1%98%d0%b0%d0%bd%d0%b5%d0%b2%d1%81%d0%ba%d0%b0-%d1%98%d0%b0%d0%b2%d0%bd%d0%b0%d1%82%d0%b0-%d0%b4%d0%b5%d0%b1%d0%b0%d1%82%d0%b0-%d0%b7%d0%b0-%d0%b7%d0%b0%d0%ba%d0%be%d0%bd%d0%be%d1%82-%d0%b7%d0%b0/",
-          "published": "Sat, 14 Feb 2026 13:22:26 +0000"
+          "source": "NetPress",
+          "title": "Мицкоски ќе се сретне со Зеленски",
+          "link": "https://netpress.com.mk/miczkoski-ke-se-sretne-so-zelenski/",
+          "published": "Sat, 14 Feb 2026 15:36:29 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Airbnb со двоцифрен раст на приходите на крајот од 2025-та",
+          "link": "https://netpress.com.mk/airbnb-so-dvoczifren-rast-na-prihodite-na-krajot-od-2025-ta/",
+          "published": "Sat, 14 Feb 2026 15:35:48 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Зеленски се жали дека САД пречесто бараат отстапки од Украина а не од Русија",
+          "link": "https://netpress.com.mk/zelenski-se-zhali-deka-sad-prechesto-baraat-otstapki-od-ukraina-a-ne-od-rusija/",
+          "published": "Sat, 14 Feb 2026 15:09:39 +0000"
         },
         {
           "source": "NetPress",
           "title": "Тудор го презема Тотенхем до крајот на сезоната",
           "link": "https://netpress.com.mk/tudor-go-prezema-totenhem-do-krajot-na-sezonata/",
           "published": "Sat, 14 Feb 2026 14:55:36 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Македонија нема време за просечни и потпросечни резултати во образованието",
-          "link": "https://netpress.com.mk/makedonija-nema-vreme-za-prosechni-i-potprosechni-rezultati-vo-obrazovanieto/",
-          "published": "Sat, 14 Feb 2026 14:46:48 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Европски влади: Навални е убиен со отров од еквадорски жаби",
-          "link": "https://netpress.com.mk/evropski-vladi-navalni-e-ubien-so-otrov-od-ekvadorski-zhabi/",
-          "published": "Sat, 14 Feb 2026 14:42:40 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Нема кратење на субвенциите, приоритет ќе имаат вистинските земјоделци",
-          "link": "https://netpress.com.mk/nema-kratene-na-subvencziite-prioritet-ke-imaat-vistinskite-zemjodelczi/",
-          "published": "Sat, 14 Feb 2026 14:35:59 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Бангладеш: Исламистичкиот лидер го призна поразот на парламентарните избори",
-          "link": "https://netpress.com.mk/bangladesh-islamistichkiot-lider-go-prizna-porazot-na-parlamentarnite-izbori/",
-          "published": "Sat, 14 Feb 2026 14:27:54 +0000"
         }
       ]
     },
@@ -95,15 +95,15 @@
         },
         {
           "source": "BBC",
-          "title": "US homeland security shutdown could mean airport delays, travel groups say",
-          "link": "https://www.bbc.com/news/articles/cwy8dw5zk7yo?at_medium=RSS&at_campaign=rss",
-          "published": "Sat, 14 Feb 2026 05:04:15 GMT"
-        },
-        {
-          "source": "BBC",
           "title": "'Canadians are with you,' says PM at Tumbler Ridge vigil",
           "link": "https://www.bbc.com/news/articles/cde4kdr2z6do?at_medium=RSS&at_campaign=rss",
           "published": "Sat, 14 Feb 2026 05:17:27 GMT"
+        },
+        {
+          "source": "BBC",
+          "title": "'We are not protected' says Hebron mayor as Israel expands West Bank control",
+          "link": "https://www.bbc.com/news/articles/crl4ne5er5zo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 13 Feb 2026 22:12:03 GMT"
         },
         {
           "source": "Al Jazeera",
