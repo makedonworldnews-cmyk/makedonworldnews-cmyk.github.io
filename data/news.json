@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-14T19:47:44Z",
+  "updatedAt": "2026-02-14T19:58:41Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Средба Мицкоски-Зеленски: Само праведен мир носи стабилност",
+          "link": "https://makfax.com.mk/makedonija/%d1%81%d1%80%d0%b5%d0%b4%d0%b1%d0%b0-%d0%bc%d0%b8%d1%86%d0%ba%d0%be%d1%81%d0%ba%d0%b8-%d0%b7%d0%b5%d0%bb%d0%b5%d0%bd%d1%81%d0%ba%d0%b8-%d1%81%d0%b0%d0%bc%d0%be-%d0%bf%d1%80%d0%b0%d0%b2%d0%b5%d0%b4/",
+          "published": "Sat, 14 Feb 2026 19:53:45 +0000"
         },
         {
           "source": "Makfax",
@@ -35,10 +41,10 @@
           "published": "Sat, 14 Feb 2026 17:04:04 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "(ВИДЕО) Баерн ја продолжува агонијата на Вердер, Хофенхајм им се врати на победите",
-          "link": "https://makfax.com.mk/sport/video-baern-ja-prodolzhuva-agonijata-na-verder-hofenhajm-im-se-vrati-na-pobedite/",
-          "published": "Sat, 14 Feb 2026 16:59:23 +0000"
+          "source": "NetPress",
+          "title": "Бундеслига: Баерн без проблеми до нова победа, Хофенхајм го следи водечкиот тандем",
+          "link": "https://netpress.com.mk/bundesliga-baern-bez-problemi-do-nova-pobeda-hofenhajm-go-sledi-vodechkiot-tandem/",
+          "published": "Sat, 14 Feb 2026 19:55:14 +0000"
         },
         {
           "source": "NetPress",
@@ -63,12 +69,6 @@
           "title": "Данската премиерка: Трамп не се откажал од Гренланд",
           "link": "https://netpress.com.mk/danskata-premierka-tramp-ne-se-otkazhal-od-grenland/",
           "published": "Sat, 14 Feb 2026 16:08:03 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Протест во Минхен против Безбедносната конференција: Стоп на испораките оружје за Украина",
-          "link": "https://netpress.com.mk/protest-vo-minhen-protiv-bezbednosnata-konferenczija-stop-na-isporakite-oruzhje-za-ukraina/",
-          "published": "Sat, 14 Feb 2026 15:46:21 +0000"
         }
       ]
     },
@@ -107,6 +107,12 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Helicopter triggers avalanche amid maximum alert across French Alps",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/2/14/helicopter-triggers-avalanche-amid-maximum-alert-across-french-alps?traffic_source=rss",
+          "published": "Sat, 14 Feb 2026 19:15:21 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Palestinian protester Leqaa Kordia calls ICE custody ‘dehumanising’",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/2/14/palestinian-protester-leqaa-kordia-calls-ice-custody?traffic_source=rss",
           "published": "Sat, 14 Feb 2026 18:45:40 +0000"
@@ -128,12 +134,6 @@
           "title": "Russia’s Alexey Navalny killed by dart frog poison, European nations allege",
           "link": "https://www.aljazeera.com/news/2026/2/14/russias-alexey-navalny-killed-by-dart-frog-poison-european-nations-allege?traffic_source=rss",
           "published": "Sat, 14 Feb 2026 18:13:32 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Iran, US spar as diaspora organises rallies abroad calling for action",
-          "link": "https://www.aljazeera.com/news/2026/2/14/iran-us-spar-as-diaspora-organises-rallies-abroad-calling-for-action?traffic_source=rss",
-          "published": "Sat, 14 Feb 2026 17:32:59 +0000"
         }
       ]
     }
