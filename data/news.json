@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-14T10:57:28Z",
+  "updatedAt": "2026-02-14T11:46:03Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Ден на жалост во Сараево по трагичната трамвајска несреќа",
+          "link": "https://makfax.com.mk/svet/%d0%b4%d0%b5%d0%bd-%d0%bd%d0%b0-%d0%b6%d0%b0%d0%bb%d0%be%d1%81%d1%82-%d0%b2%d0%be-%d1%81%d0%b0%d1%80%d0%b0%d0%b5%d0%b2%d0%be-%d0%bf%d0%be-%d1%82%d1%80%d0%b0%d0%b3%d0%b8%d1%87%d0%bd%d0%b0%d1%82%d0%b0/",
+          "published": "Sat, 14 Feb 2026 11:39:00 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Поранешна тенисерка загина во тешка сообаќајка",
+          "link": "https://makfax.com.mk/svet/%d0%bf%d0%be%d1%80%d0%b0%d0%bd%d0%b5%d1%88%d0%bd%d0%b0-%d1%82%d0%b5%d0%bd%d0%b8%d1%81%d0%b5%d1%80%d0%ba%d0%b0-%d0%b7%d0%b0%d0%b3%d0%b8%d0%bd%d0%b0-%d0%b2%d0%be-%d1%82%d0%b5%d1%88%d0%ba%d0%b0-%d1%81/",
+          "published": "Sat, 14 Feb 2026 11:35:53 +0000"
         },
         {
           "source": "Makfax",
@@ -29,21 +41,27 @@
           "published": "Sat, 14 Feb 2026 10:22:15 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "СДСМ: Две недели без одговор како 5 тони дрога поминале преку граница, бараме одговорност од Мицкоски",
-          "link": "https://makfax.com.mk/makedonija/%d1%81%d0%b4%d1%81%d0%bc-%d0%b4%d0%b2%d0%b5-%d0%bd%d0%b5%d0%b4%d0%b5%d0%bb%d0%b8-%d0%b1%d0%b5%d0%b7-%d0%be%d0%b4%d0%b3%d0%be%d0%b2%d0%be%d1%80-%d0%ba%d0%b0%d0%ba%d0%be-5-%d1%82%d0%be%d0%bd%d0%b8/",
-          "published": "Sat, 14 Feb 2026 09:36:35 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "ВМРО-ДПМНЕ: Нема скандал, ниту криминал, а во тоа да не се вмешани Заев и Филипче",
-          "link": "https://makfax.com.mk/makedonija/%d0%b2%d0%bc%d1%80%d0%be-%d0%b4%d0%bf%d0%bc%d0%bd%d0%b5-%d0%bd%d0%b5%d0%bc%d0%b0-%d1%81%d0%ba%d0%b0%d0%bd%d0%b4%d0%b0%d0%bb-%d0%bd%d0%b8%d1%82%d1%83-%d0%ba%d1%80%d0%b8%d0%bc%d0%b8%d0%bd%d0%b0%d0%bb/",
-          "published": "Sat, 14 Feb 2026 09:30:49 +0000"
+          "source": "NetPress",
+          "title": "Треба да се реформираат глобалните институции на стариот поредок, порача Рубио",
+          "link": "https://netpress.com.mk/treba-da-se-reformiraat-globalnite-instituczii-na-stariot-poredok-poracha-rubio/",
+          "published": "Sat, 14 Feb 2026 11:41:59 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Мицкоски на средба со директор на Американскиот еврејски комитет",
-          "link": "https://netpress.com.mk/miczkoski-na-sredba-so-direktor-na-amerikanskiot-evrejski-komitet/",
+          "title": "Ги запознаваме ретките болести: Апертов синдром",
+          "link": "https://netpress.com.mk/gi-zapoznavame-retkite-bolesti-apertov-sindrom/",
+          "published": "Sat, 14 Feb 2026 11:20:11 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Светот веќе не функционира по старите правила",
+          "link": "https://netpress.com.mk/svetot-veke-ne-funkczionira-po-starite-pravila/",
+          "published": "Sat, 14 Feb 2026 11:13:50 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Мицкоски на средба со директорот на Американскиот еврејски комитет",
+          "link": "https://netpress.com.mk/miczkoski-na-sredba-so-direktorot-na-amerikanskiot-evrejski-komitet/",
           "published": "Sat, 14 Feb 2026 10:55:05 +0000"
         },
         {
@@ -51,24 +69,6 @@
           "title": "Ужас во Старо Нагоричане: Mомче задушило со перница 78-годишна жена",
           "link": "https://netpress.com.mk/uzhas-vo-staro-nagorichane-momche-zadushilo-so-pernicza-78-godishna-zhena/",
           "published": "Sat, 14 Feb 2026 10:26:08 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Денеска се слави Свети Трифун – заштитник на лозарите",
-          "link": "https://netpress.com.mk/deneska-se-slavi-sveti-trifun-zashtitnik-na-lozarite/",
-          "published": "Sat, 14 Feb 2026 09:39:44 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Ковачки со повик: Во тек е генерален реизбор на претседатели, вратите се отворени за секој кој има визија",
-          "link": "https://netpress.com.mk/kovachki-so-povik-vo-tek-e-generalen-reizbor-na-pretsedateli-vratite-se-otvoreni-za-sekoj-koj-ima-vizija/",
-          "published": "Sat, 14 Feb 2026 09:19:45 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Нова поплава во Лувр оштети слика на таванот",
-          "link": "https://netpress.com.mk/nova-poplava-vo-luvr-oshteti-slika-na-tavanot/",
-          "published": "Sat, 14 Feb 2026 08:27:38 +0000"
         }
       ]
     },
@@ -107,33 +107,33 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Two hurt after high-speed New Zealand-France crash at Auckland SailGP race",
+          "link": "https://www.aljazeera.com/sports/2026/2/14/two-hurt-as-auckland-sailing-abandoned-with-major-black-foils-france-crash?traffic_source=rss",
+          "published": "Sat, 14 Feb 2026 10:59:34 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Are lasers the future of anti-drone warfare?",
+          "link": "https://www.aljazeera.com/economy/2026/2/14/are-lasers-the-future-of-anti-drone-warfare?traffic_source=rss",
+          "published": "Sat, 14 Feb 2026 10:55:39 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "AU calls for end to ‘extermination’ of Palestinians, decries African wars",
+          "link": "https://www.aljazeera.com/news/2026/2/14/au-calls-for-end-to-extermination-of-palestinians-decries-african-wars?traffic_source=rss",
+          "published": "Sat, 14 Feb 2026 10:51:00 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Tarique Rahman: From 17-year exile to landslide win in Bangladesh election",
+          "link": "https://www.aljazeera.com/news/2026/2/14/tarique-rahman-from-17-year-exile-to-landslide-win-in-bangladesh-election?traffic_source=rss",
+          "published": "Sat, 14 Feb 2026 10:49:16 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "In Munich, Rubio urges transatlantic unity but lashes Europe on migration",
           "link": "https://www.aljazeera.com/news/2026/2/14/in-munich-rubio-urges-transatlantic-unity-but-lashes-europe-on-migration?traffic_source=rss",
           "published": "Sat, 14 Feb 2026 09:56:15 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "‘Bangladesh will be better’: BNP victory puts nation at crossroads",
-          "link": "https://www.aljazeera.com/features/2026/2/14/bangladesh-will-be-better-bnp-victory-puts-nation-at-crossroads?traffic_source=rss",
-          "published": "Sat, 14 Feb 2026 09:29:59 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Two Philippine senators named ‘co-perpetrators’ in Duterte ICC case",
-          "link": "https://www.aljazeera.com/news/2026/2/14/two-philippine-senators-named-co-perpetrators-in-duterte-icc-case?traffic_source=rss",
-          "published": "Sat, 14 Feb 2026 08:19:11 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Indian national admits role in plot to assassinate US Sikh leader",
-          "link": "https://www.aljazeera.com/news/2026/2/14/indian-national-admits-role-in-us-sikh-leaders-assassination-plot?traffic_source=rss",
-          "published": "Sat, 14 Feb 2026 07:24:57 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "LIVE: World leaders gather in Munich for 2nd day of security conference",
-          "link": "https://www.aljazeera.com/news/liveblog/2026/2/14/live-world-leaders-gather-in-munich-for-2nd-day-of-security-conference?traffic_source=rss",
-          "published": "Sat, 14 Feb 2026 07:06:36 +0000"
         }
       ]
     }
