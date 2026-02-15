@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-15T05:12:13Z",
+  "updatedAt": "2026-02-15T07:28:57Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,24 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "УЈП потсетува за пресметка до 31 март 2026",
+          "link": "https://makfax.com.mk/makedonija/%d1%83%d1%98%d0%bf-%d0%bf%d0%be%d1%82%d1%81%d0%b5%d1%82%d1%83%d0%b2%d0%b0-%d0%b7%d0%b0-%d0%bf%d1%80%d0%b5%d1%81%d0%bc%d0%b5%d1%82%d0%ba%d0%b0-%d0%b4%d0%be-31-%d0%bc%d0%b0%d1%80%d1%82-2026/",
+          "published": "Sun, 15 Feb 2026 07:15:33 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Одрон на патот Кичево-Гостивар кај Колари",
+          "link": "https://makfax.com.mk/makedonija/%d0%be%d0%b4%d1%80%d0%be%d0%bd-%d0%bd%d0%b0-%d0%bf%d0%b0%d1%82%d0%be%d1%82-%d0%ba%d0%b8%d1%87%d0%b5%d0%b2%d0%be-%d0%b3%d0%be%d1%81%d1%82%d0%b8%d0%b2%d0%b0%d1%80-%d0%ba%d0%b0%d1%98-%d0%ba%d0%be%d0%bb/",
+          "published": "Sun, 15 Feb 2026 06:58:17 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Променливо облачно време со повремени врнежи од дожд",
+          "link": "https://makfax.com.mk/makedonija/%d0%bf%d1%80%d0%be%d0%bc%d0%b5%d0%bd%d0%bb%d0%b8%d0%b2%d0%be-%d0%be%d0%b1%d0%bb%d0%b0%d1%87%d0%bd%d0%be-%d0%b2%d1%80%d0%b5%d0%bc%d0%b5-%d1%81%d0%be-%d0%bf%d0%be%d0%b2%d1%80%d0%b5%d0%bc%d0%b5%d0%bd-22/",
+          "published": "Sun, 15 Feb 2026 06:52:28 +0000"
         },
         {
           "source": "Makfax",
@@ -23,22 +41,16 @@
           "published": "Sat, 14 Feb 2026 22:01:21 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "МЗТ против Куманово ќе го брани трофејот во Купот",
-          "link": "https://makfax.com.mk/sport/mzt-protiv-kumanov-ke-go-brani-trofejot-vo-kupot/",
-          "published": "Sat, 14 Feb 2026 20:59:16 +0000"
+          "source": "NetPress",
+          "title": "Дневен хороскоп за недела, 15-ти февруари 2026-та",
+          "link": "https://netpress.com.mk/dneven-horoskop-za-nedela-15-ti-fevruari-2026-ta/",
+          "published": "Sun, 15 Feb 2026 07:27:41 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Охрид зачекори во четвртфиналето на Европскиот куп",
-          "link": "https://makfax.com.mk/sport/ohrid-zachekori-vo-chetvrtfinaleto-na-evropskiot-kup/",
-          "published": "Sat, 14 Feb 2026 20:28:07 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "(Видео) Домен Превц доминантно до златото на големата скокалница",
-          "link": "https://makfax.com.mk/sport/domen-prevts-dominantno-do-zlatoto-na-golemata-skokalnitsa/",
-          "published": "Sat, 14 Feb 2026 20:10:20 +0000"
+          "source": "NetPress",
+          "title": "Денеска променливо облачно со повремени врнежи, наместа пообилни",
+          "link": "https://netpress.com.mk/deneska-promenlivo-oblachno-so-povremeni-vrnezhi-namesta-poobilni/",
+          "published": "Sun, 15 Feb 2026 07:07:49 +0000"
         },
         {
           "source": "NetPress",
@@ -57,24 +69,18 @@
           "title": "ФА куп: Ливерпул и Манчестер Сити рутински во осминафиналето",
           "link": "https://netpress.com.mk/fa-kup-liverpul-i-manchester-siti-rutinski-vo-osminafinaleto/",
           "published": "Sat, 14 Feb 2026 22:32:57 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Серија А: Нова драма во завршицата на дербито Интер – Јувентус, овојпат ја добија „Нераѕурите“",
-          "link": "https://netpress.com.mk/serija-a-nova-drama-vo-zavrshiczata-na-derbito-inter-juventus-ovojpat-ja-dobija-nerazurite/",
-          "published": "Sat, 14 Feb 2026 22:09:10 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Снема бесплатни кондоми во олимпиското село во Кортина",
-          "link": "https://netpress.com.mk/snema-besplatni-kondomi-vo-olimpiskoto-selo-vo-kortina/",
-          "published": "Sat, 14 Feb 2026 21:43:45 +0000"
         }
       ]
     },
     {
       "region": "Свет",
       "items": [
+        {
+          "source": "BBC",
+          "title": "Iran ready to discuss compromises to reach nuclear deal, minister tells BBC in Tehran",
+          "link": "https://www.bbc.com/news/articles/clyz4y3zwz5o?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 15 Feb 2026 06:00:36 GMT"
+        },
         {
           "source": "BBC",
           "title": "Russia killed opposition leader Alexei Navalny using dart frog toxin, UK says",
@@ -100,10 +106,16 @@
           "published": "Sat, 14 Feb 2026 06:00:11 GMT"
         },
         {
-          "source": "BBC",
-          "title": "Obama addresses racist video shared by Trump depicting him as an ape",
-          "link": "https://www.bbc.com/news/articles/c74754j7qwgo?at_medium=RSS&at_campaign=rss",
-          "published": "Sat, 14 Feb 2026 22:24:14 GMT"
+          "source": "Al Jazeera",
+          "title": "Zelenskyy says US ‘too often’ pushes Ukraine, not Russia, for concessions",
+          "link": "https://www.aljazeera.com/news/2026/2/15/zelenskyy-says-us-too-often-pushes-ukraine-not-russia-for-concessions?traffic_source=rss",
+          "published": "Sun, 15 Feb 2026 07:08:00 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "LIVE: Israel kills at least nine Palestinians in Gaza since dawn",
+          "link": "https://www.aljazeera.com/news/liveblog/2026/2/15/live-israel-kills-at-least-nine-palestinians-in-gaza-since-dawn?traffic_source=rss",
+          "published": "Sun, 15 Feb 2026 06:06:59 +0000"
         },
         {
           "source": "Al Jazeera",
@@ -113,7 +125,7 @@
         },
         {
           "source": "Al Jazeera",
-          "title": "Israeli forces kill eight Palestinians in Gaza, attack southern Lebanon",
+          "title": "Israeli forces kill nine Palestinians in Gaza, attack southern Lebanon",
           "link": "https://www.aljazeera.com/news/2026/2/15/israeli-forces-kill-eight-palestinians-in-attacks-across-gaza?traffic_source=rss",
           "published": "Sun, 15 Feb 2026 04:08:40 +0000"
         },
@@ -122,18 +134,6 @@
           "title": "Gunmen kill at least 32 people in northern Nigeria, residents say",
           "link": "https://www.aljazeera.com/news/2026/2/15/gunmen-kill-at-least-32-people-in-northern-nigeria-residents-say?traffic_source=rss",
           "published": "Sun, 15 Feb 2026 03:27:28 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Russia-Ukraine war: List of key events, day 1,452",
-          "link": "https://www.aljazeera.com/news/2026/2/15/russia-ukraine-war-list-of-key-events-day-1452?traffic_source=rss",
-          "published": "Sun, 15 Feb 2026 03:03:39 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "US army launches retaliatory strikes on dozens of ISIL targets in Syria",
-          "link": "https://www.aljazeera.com/news/2026/2/14/us-army-launches-retaliatory-strikes-on-dozens-of-isil-targets-in-syria?traffic_source=rss",
-          "published": "Sat, 14 Feb 2026 23:05:31 +0000"
         }
       ]
     }
