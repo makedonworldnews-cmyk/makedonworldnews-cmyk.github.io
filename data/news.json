@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-14T23:50:47Z",
+  "updatedAt": "2026-02-15T05:12:13Z",
   "groups": [
     {
       "region": "Македонија",
@@ -77,9 +77,21 @@
       "items": [
         {
           "source": "BBC",
+          "title": "Russia killed opposition leader Alexei Navalny using dart frog toxin, UK says",
+          "link": "https://www.bbc.com/news/articles/cwyk4lz4e3eo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 15 Feb 2026 02:04:02 GMT"
+        },
+        {
+          "source": "BBC",
           "title": "Rubio says US and Europe 'belong together' despite tensions",
           "link": "https://www.bbc.com/news/articles/c2lrdq47149o?at_medium=RSS&at_campaign=rss",
           "published": "Sat, 14 Feb 2026 21:45:46 GMT"
+        },
+        {
+          "source": "BBC",
+          "title": "Motorbike raids on villages kill at least 30 in Nigeria",
+          "link": "https://www.bbc.com/news/articles/ckg1y0nk641o?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 15 Feb 2026 01:23:13 GMT"
         },
         {
           "source": "BBC",
@@ -94,46 +106,34 @@
           "published": "Sat, 14 Feb 2026 22:24:14 GMT"
         },
         {
-          "source": "BBC",
-          "title": "Planned US-funded baby vaccine trial in Guinea-Bissau blasted by WHO",
-          "link": "https://www.bbc.com/news/articles/c78j5k2gk02o?at_medium=RSS&at_campaign=rss",
-          "published": "Sat, 14 Feb 2026 16:20:33 GMT"
+          "source": "Al Jazeera",
+          "title": "Cyclone Gezani kills four in Mozambique as Madagascar assesses damage",
+          "link": "https://www.aljazeera.com/news/2026/2/15/cyclone-gezani-kills-four-in-mozambique-as-madagascar-assesses-damage?traffic_source=rss",
+          "published": "Sun, 15 Feb 2026 04:10:08 +0000"
         },
         {
-          "source": "BBC",
-          "title": "Russia killed opposition leader Alexei Navalny using dart frog toxin, UK says",
-          "link": "https://www.bbc.com/news/articles/cwyk4lz4e3eo?at_medium=RSS&at_campaign=rss",
-          "published": "Sat, 14 Feb 2026 17:00:14 GMT"
+          "source": "Al Jazeera",
+          "title": "Israeli forces kill eight Palestinians in Gaza, attack southern Lebanon",
+          "link": "https://www.aljazeera.com/news/2026/2/15/israeli-forces-kill-eight-palestinians-in-attacks-across-gaza?traffic_source=rss",
+          "published": "Sun, 15 Feb 2026 04:08:40 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Gunmen kill at least 32 people in northern Nigeria, residents say",
+          "link": "https://www.aljazeera.com/news/2026/2/15/gunmen-kill-at-least-32-people-in-northern-nigeria-residents-say?traffic_source=rss",
+          "published": "Sun, 15 Feb 2026 03:27:28 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Russia-Ukraine war: List of key events, day 1,452",
+          "link": "https://www.aljazeera.com/news/2026/2/15/russia-ukraine-war-list-of-key-events-day-1452?traffic_source=rss",
+          "published": "Sun, 15 Feb 2026 03:03:39 +0000"
         },
         {
           "source": "Al Jazeera",
           "title": "US army launches retaliatory strikes on dozens of ISIL targets in Syria",
           "link": "https://www.aljazeera.com/news/2026/2/14/us-army-launches-retaliatory-strikes-on-dozens-of-isil-targets-in-syria?traffic_source=rss",
           "published": "Sat, 14 Feb 2026 23:05:31 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Real Madrid thrash Real Sociedad 4-1 to move top of La Liga",
-          "link": "https://www.aljazeera.com/sports/2026/2/14/real-madrid-thrash-real-sociedad-4-1-to-move-top-of-la-liga?traffic_source=rss",
-          "published": "Sat, 14 Feb 2026 22:33:30 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Onsite gunmen force MSF to stop work at Gaza’s Nasser Hospital",
-          "link": "https://www.aljazeera.com/news/2026/2/14/gunmen-onsite-force-msf-to-stop-work-at-gazas-nasser-hospital?traffic_source=rss",
-          "published": "Sat, 14 Feb 2026 22:08:32 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Over 100 artists for Palestine back UN’s Albanese after resignation calls",
-          "link": "https://www.aljazeera.com/news/2026/2/14/over-100-artists-for-palestine-back-uns-albanese-after-resignation-calls?traffic_source=rss",
-          "published": "Sat, 14 Feb 2026 20:36:35 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Hungary’s Orban says EU bigger threat than Russia before April elections",
-          "link": "https://www.aljazeera.com/news/2026/2/14/hungarys-orban-says-eu-bigger-threat-than-russia-ahead-of-april-election?traffic_source=rss",
-          "published": "Sat, 14 Feb 2026 20:02:28 +0000"
         }
       ]
     }
