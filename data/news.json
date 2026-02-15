@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-15T19:14:35Z",
+  "updatedAt": "2026-02-15T19:52:14Z",
   "groups": [
     {
       "region": "Македонија",
@@ -42,6 +42,24 @@
         },
         {
           "source": "NetPress",
+          "title": "Бундеслига: Реми во Лајпциг, победа на Аугсбург",
+          "link": "https://netpress.com.mk/bundesliga-remi-vo-lajpczig-pobeda-na-augsburg/",
+          "published": "Sun, 15 Feb 2026 19:46:21 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Арсенал лесно се пласираше во осминафиналето на ФА купот",
+          "link": "https://netpress.com.mk/arsenal-lesno-se-plasirashe-vo-osminafinaleto-na-fa-kupot/",
+          "published": "Sun, 15 Feb 2026 19:33:51 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Србија и Азербејџан заеднички ќе градат гасна електрана со капацитет од 500 мегавати",
+          "link": "https://netpress.com.mk/srbija-i-azerbejdhan-zaednichki-ke-gradat-gasna-elektrana-so-kapaczitet-od-500-megavati/",
+          "published": "Sun, 15 Feb 2026 19:23:21 +0000"
+        },
+        {
+          "source": "NetPress",
           "title": "Астронаути пристигнаа на ISS откако претходниот екипаж беше евакуиран порано",
           "link": "https://netpress.com.mk/astronauti-pristignaa-na-iss-otkako-prethodniot-ekipazh-beshe-evakuiran-porano/",
           "published": "Sun, 15 Feb 2026 19:13:46 +0000"
@@ -51,24 +69,6 @@
           "title": "Трамп: Членките на Одбор за мир ќе дадат над пет милијарди долари за Газа,",
           "link": "https://netpress.com.mk/tramp-chlenkite-na-odbor-za-mir-ke-dadat-nad-pet-milijardi-dolari-za-gaza/",
           "published": "Sun, 15 Feb 2026 18:08:51 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Најмногу дожд во Гевгелија, Штип и Попова Шапка, висок водостој на Вардар, Црна и на Треска",
-          "link": "https://netpress.com.mk/najmnogu-dozhd-vo-gevgelija-shtip-i-popova-shapka-visok-vodostoj-na-vardar-czrna-i-na-treska/",
-          "published": "Sun, 15 Feb 2026 18:02:28 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Најмалку двајца загинати во лавина во италијанските Алпи",
-          "link": "https://netpress.com.mk/najmalku-dvajcza-zaginati-vo-lavina-vo-italijanski-alpi/",
-          "published": "Sun, 15 Feb 2026 17:46:49 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Де Минор го освои Ротердам",
-          "link": "https://netpress.com.mk/de-minor-go-osvoi-roterdam/",
-          "published": "Sun, 15 Feb 2026 17:24:20 +0000"
         }
       ]
     },
