@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-17T21:49:31Z",
+  "updatedAt": "2026-02-17T23:00:48Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Забранет сообраќајот на регионалниот пат Гостивар – село Чегране поради излевање на реката Вардар и обилниот дожд",
+          "link": "https://makfax.com.mk/makedonija/%d0%b7%d0%b0%d0%b1%d1%80%d0%b0%d0%bd%d0%b5%d1%82-%d1%81%d0%be%d0%be%d0%b1%d1%80%d0%b0%d1%9c%d0%b0%d1%98%d0%be%d1%82-%d0%bd%d0%b0-%d1%80%d0%b5%d0%b3%d0%b8%d0%be%d0%bd%d0%b0%d0%bb%d0%bd%d0%b8%d0%be/",
+          "published": "Tue, 17 Feb 2026 22:48:50 +0000"
         },
         {
           "source": "Makfax",
@@ -35,10 +41,16 @@
           "published": "Tue, 17 Feb 2026 20:18:40 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Советник во францускиот Сенат тајно фотографирал жени под здолништата",
-          "link": "https://makfax.com.mk/svet/%d1%81%d0%be%d0%b2%d0%b5%d1%82%d0%bd%d0%b8%d0%ba-%d0%b2%d0%be-%d1%84%d1%80%d0%b0%d0%bd%d1%86%d1%83%d1%81%d0%ba%d0%b8%d0%be%d1%82-%d1%81%d0%b5%d0%bd%d0%b0%d1%82-%d1%82%d0%b0%d1%98%d0%bd%d0%be-%d1%84/",
-          "published": "Tue, 17 Feb 2026 20:10:27 +0000"
+          "source": "NetPress",
+          "title": "Лига на шампиони: Пресврт на ПСЖ, по беди на Борусија (Д) и Реал Мадрид",
+          "link": "https://netpress.com.mk/liga-na-shampioni-presvrt-na-pszh-po-bedi-na-borusija-d-i-real-madrid/",
+          "published": "Tue, 17 Feb 2026 22:54:10 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "ВИДЕО| Култните Лајбах објавија нов сингл",
+          "link": "https://netpress.com.mk/video-kultnite-lajbah-objavija-nov-singl/",
+          "published": "Tue, 17 Feb 2026 21:58:27 +0000"
         },
         {
           "source": "NetPress",
@@ -57,18 +69,6 @@
           "title": "Вардар поразен кај Бенфика на стартот од ракометната Лига Европа",
           "link": "https://netpress.com.mk/vardar-porazen-kaj-benfika-na-startot-od-rakometnata-liga-evropa/",
           "published": "Tue, 17 Feb 2026 20:47:57 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "ВИДЕО| Француски левичари уапсени за убиство на десничарски активист",
-          "link": "https://netpress.com.mk/video-franczuski-levichari-uapseni-za-ubistvo-na-desnicharski-aktivist/",
-          "published": "Tue, 17 Feb 2026 20:33:18 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Заврши првиот ден од „тензичните“ преговори Украина-Русија-САД во Женева",
-          "link": "https://netpress.com.mk/zavrshi-prviot-den-od-tenzichnite-pregovori-ukraina-rusija-sad-vo-zheneva/",
-          "published": "Tue, 17 Feb 2026 20:21:23 +0000"
         }
       ]
     },
@@ -107,6 +107,24 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Tributes pour in after US civil rights icon Jesse Jackson dies at 84",
+          "link": "https://www.aljazeera.com/news/2026/2/17/tributes-pour-in-after-us-civil-rights-icon-jesse-jackson-dies-at-84?traffic_source=rss",
+          "published": "Tue, 17 Feb 2026 22:20:29 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Colombia to resume peace talks with ECG after temporary suspension",
+          "link": "https://www.aljazeera.com/news/2026/2/17/colombia-to-resume-peace-talks-with-ecg-after-temporary-suspension?traffic_source=rss",
+          "published": "Tue, 17 Feb 2026 21:58:32 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Warner Bros rejects latest Paramount bid but open to ‘best and final’ offer",
+          "link": "https://www.aljazeera.com/economy/2026/2/17/warner-bros-rejects-latest-paramount-bid-but-open-to-best-and-final-offer?traffic_source=rss",
+          "published": "Tue, 17 Feb 2026 21:35:03 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "US and Iran reach ‘guiding principles’ in Geneva nuclear talks",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/2/17/us-and-iran-reach-guiding-principles-in-geneva-nuclear-talks?traffic_source=rss",
           "published": "Tue, 17 Feb 2026 20:55:57 +0000"
@@ -116,24 +134,6 @@
           "title": "Yemeni Americans feel ‘betrayed’ as Trump revokes immigration protections",
           "link": "https://www.aljazeera.com/news/2026/2/17/yemeni-americans-feel-betrayed-as-trump-revokes-immigration-protections?traffic_source=rss",
           "published": "Tue, 17 Feb 2026 20:44:52 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "‘Journey of hell’: Migrants in Libya endure torture, rape, forced labour",
-          "link": "https://www.aljazeera.com/news/2026/2/17/journey-of-hell-migrants-in-libya-endure-torture-rape-forced-labour?traffic_source=rss",
-          "published": "Tue, 17 Feb 2026 20:36:43 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Thousands in Kosovo rally against war crimes trial of ex-KLA commanders",
-          "link": "https://www.aljazeera.com/news/2026/2/17/thousands-in-kosovo-rally-against-war-crimes-trial-of-ex-kla-commanders?traffic_source=rss",
-          "published": "Tue, 17 Feb 2026 20:33:03 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "US president’s son Eric Trump invests in drone maker with gov’t contracts",
-          "link": "https://www.aljazeera.com/economy/2026/2/17/us-presidents-son-eric-trump-invests-in-drone-maker-with-govt-contracts?traffic_source=rss",
-          "published": "Tue, 17 Feb 2026 20:21:10 +0000"
         }
       ]
     }
