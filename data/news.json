@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-18T23:03:51Z",
+  "updatedAt": "2026-02-18T23:59:23Z",
   "groups": [
     {
       "region": "Македонија",
@@ -12,6 +12,24 @@
         },
         {
           "source": "Makfax",
+          "title": "(Видео) Арсенал остави два бода кај последно пласираниот Вулверхемптон",
+          "link": "https://makfax.com.mk/sport/video-arsenal-ostavi-dva-boda-kaj-posledno-plasiraniot-vulverhempton/",
+          "published": "Wed, 18 Feb 2026 22:35:58 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) Без победник во дуелот Милан-Комо",
+          "link": "https://makfax.com.mk/sport/video-bez-pobednik-vo-duelot-milan-komo/",
+          "published": "Wed, 18 Feb 2026 22:20:34 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) Интер замрзна во Норвешка, Атлетико испушти 0:2 во Бриж, Баер победи кај Олимпијакос",
+          "link": "https://makfax.com.mk/sport/video-inter-zamrzma-vo-norveshka-atletiko-ispushti-0-2-vo-brizh-baer-pobedi-kaj-olimpijakos/",
+          "published": "Wed, 18 Feb 2026 22:11:46 +0000"
+        },
+        {
+          "source": "Makfax",
           "title": "Одрон во должина од 80 метри на патот Скопје-Велес: сообраќајот кај Сопот се одвива по една лента",
           "link": "https://makfax.com.mk/makedonija/%d0%be%d0%b4%d1%80%d0%be%d0%bd-%d0%b2%d0%be-%d0%b4%d0%be%d0%bb%d0%b6%d0%b8%d0%bd%d0%b0-%d0%be%d0%b4-80-%d0%bc%d0%b5%d1%82%d1%80%d0%b8-%d0%bd%d0%b0-%d0%bf%d0%b0%d1%82%d0%be%d1%82-%d1%81%d0%ba%d0%be/",
           "published": "Wed, 18 Feb 2026 20:50:34 +0000"
@@ -21,24 +39,6 @@
           "title": "Парите ќе им се множат до Велигден: четири хороскопски знаци ги очекува финансиски пресврт",
           "link": "https://makfax.com.mk/zanimlivosti/%d0%bf%d0%b0%d1%80%d0%b8%d1%82%d0%b5-%d1%9c%d0%b5-%d0%b8%d0%bc-%d1%81%d0%b5-%d0%bc%d0%bd%d0%be%d0%b6%d0%b0%d1%82-%d0%b4%d0%be-%d0%b2%d0%b5%d0%bb%d0%b8%d0%b3%d0%b4%d0%b5%d0%bd-%d1%87%d0%b5%d1%82%d0%b8/",
           "published": "Wed, 18 Feb 2026 20:27:33 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Десетина демократи ќе го бојкотираат говорот на Трамп за состојбата на нацијата",
-          "link": "https://makfax.com.mk/svet/%d0%b4%d0%b5%d1%81%d0%b5%d1%82%d0%b8%d0%bd%d0%b0-%d0%b4%d0%b5%d0%bc%d0%be%d0%ba%d1%80%d0%b0%d1%82%d0%b8-%d1%9c%d0%b5-%d0%b3%d0%be-%d0%b1%d0%be%d1%98%d0%ba%d0%be%d1%82%d0%b8%d1%80%d0%b0%d0%b0%d1%82/",
-          "published": "Wed, 18 Feb 2026 20:17:43 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "(Видео) Вештачки генерирана снимка со Бред Пит и Том Круз предизвика паника и бес во Холивуд",
-          "link": "https://makfax.com.mk/zanimlivosti/%d0%b2%d0%b8%d0%b4%d0%b5%d0%be-%d0%b2%d0%b5%d1%88%d1%82%d0%b0%d1%87%d0%ba%d0%b8-%d0%b3%d0%b5%d0%bd%d0%b5%d1%80%d0%b8%d1%80%d0%b0%d0%bd%d0%b0-%d1%81%d0%bd%d0%b8%d0%bc%d0%ba%d0%b0-%d1%81%d0%be-%d0%b1/",
-          "published": "Wed, 18 Feb 2026 19:40:43 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "СДСМ-Кисела Вода бара итна исплата на надоместоците за избирачките одбори",
-          "link": "https://makfax.com.mk/makedonija/%d1%81%d0%b4%d1%81%d0%bc-%d0%ba%d0%b8%d1%81%d0%b5%d0%bb%d0%b0-%d0%b2%d0%be%d0%b4%d0%b0-%d0%b1%d0%b0%d1%80%d0%b0-%d0%b8%d1%82%d0%bd%d0%b0-%d0%b8%d1%81%d0%bf%d0%bb%d0%b0%d1%82%d0%b0-%d0%bd%d0%b0-%d0%bd/",
-          "published": "Wed, 18 Feb 2026 19:24:11 +0000"
         },
         {
           "source": "NetPress",
@@ -79,13 +79,19 @@
           "source": "BBC",
           "title": "Eight skiers found dead after California avalanche",
           "link": "https://www.bbc.com/news/articles/cvg19dp4vxgo?at_medium=RSS&at_campaign=rss",
-          "published": "Wed, 18 Feb 2026 21:54:30 GMT"
+          "published": "Wed, 18 Feb 2026 23:06:14 GMT"
         },
         {
           "source": "BBC",
           "title": "Do not give away Diego Garcia, Trump tells UK in fresh attack on Chagos deal",
           "link": "https://www.bbc.com/news/articles/c309qqyer8yo?at_medium=RSS&at_campaign=rss",
           "published": "Wed, 18 Feb 2026 22:08:13 GMT"
+        },
+        {
+          "source": "BBC",
+          "title": "Martial law, protests and a president tried for insurrection: How did South Korea get here?",
+          "link": "https://www.bbc.com/news/videos/c70kw0nrxreo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 18 Feb 2026 23:05:46 GMT"
         },
         {
           "source": "BBC",
@@ -100,40 +106,34 @@
           "published": "Wed, 18 Feb 2026 18:14:39 GMT"
         },
         {
-          "source": "BBC",
-          "title": "Suspected carbon-monoxide leak kills at least 30 miners in Nigeria, witnesses say",
-          "link": "https://www.bbc.com/news/articles/cwyk6nr80kxo?at_medium=RSS&at_campaign=rss",
-          "published": "Wed, 18 Feb 2026 17:29:23 GMT"
+          "source": "Al Jazeera",
+          "title": "White House says Iran would be ‘wise’ to take deal amid military buildup",
+          "link": "https://www.aljazeera.com/news/2026/2/18/white-house-says-iran-would-be-wise-to-take-deal-amid-military-buildup?traffic_source=rss",
+          "published": "Wed, 18 Feb 2026 23:44:52 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "FCC reject claims of censorship, announces probe into US show The View",
-          "link": "https://www.aljazeera.com/news/2026/2/18/fcc-reject-claims-of-censorship-announces-probe-into-us-show-the-view?traffic_source=rss",
-          "published": "Wed, 18 Feb 2026 22:27:56 +0000"
+          "title": "US is withdrawing all 1,000 troops from Syria: WSJ report",
+          "link": "https://www.aljazeera.com/news/2026/2/18/us-is-withdrawing-all-1000-troops-from-syria-wsj-report?traffic_source=rss",
+          "published": "Wed, 18 Feb 2026 23:41:18 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Bodo/Glimt stun Inter Milan 3-1 in Champions League playoff first-leg",
-          "link": "https://www.aljazeera.com/sports/2026/2/18/bodo-glimt-stun-inter-milan-3-1-in-champions-league-playoff-first?traffic_source=rss",
-          "published": "Wed, 18 Feb 2026 22:19:43 +0000"
+          "title": "Gaza death toll exceeds 75,000 as independent data verify loss",
+          "link": "https://www.aljazeera.com/features/2026/2/18/gaza-death-toll-exceeds-75000-as-independent-data-verify-loss?traffic_source=rss",
+          "published": "Wed, 18 Feb 2026 23:30:48 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Russia’s Putin meets Cuban FM, says US restrictions ‘unacceptable’",
-          "link": "https://www.aljazeera.com/news/2026/2/18/russias-putin-meets-cuban-fm-says-us-restrictions-unacceptable?traffic_source=rss",
-          "published": "Wed, 18 Feb 2026 22:04:08 +0000"
+          "title": "Which teams are in the T20 World Cup Super Eight, and what’s the schedule?",
+          "link": "https://www.aljazeera.com/sports/2026/2/18/which-teams-are-in-the-t20-world-cup-super-eight-and-whats-the-schedule?traffic_source=rss",
+          "published": "Wed, 18 Feb 2026 23:06:41 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Israeli army says Ramadan Kareem while oppressing Palestinians",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/2/18/israeli-army-says-ramadan-kareem-while-oppressing-palestinians?traffic_source=rss",
-          "published": "Wed, 18 Feb 2026 21:48:52 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Trump says UK’s Starmer making ‘a big mistake’ with Chagos Islands deal",
-          "link": "https://www.aljazeera.com/news/2026/2/18/trump-says-uks-starmer-big-mistake-diego-garcia-lease?traffic_source=rss",
-          "published": "Wed, 18 Feb 2026 21:40:53 +0000"
+          "title": "Meta’s Zuckerberg pushes back on social media youth addiction claims",
+          "link": "https://www.aljazeera.com/economy/2026/2/18/metas-zuckerberg-pushes-back-on-social-media-youth-addiction-claims?traffic_source=rss",
+          "published": "Wed, 18 Feb 2026 22:59:47 +0000"
         }
       ]
     }
