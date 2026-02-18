@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-18T20:00:08Z",
+  "updatedAt": "2026-02-18T21:51:59Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,24 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Одрон во должина од 80 метри на патот Скопје-Велес: сообраќајот кај Сопот се одвива по една лента",
+          "link": "https://makfax.com.mk/makedonija/%d0%be%d0%b4%d1%80%d0%be%d0%bd-%d0%b2%d0%be-%d0%b4%d0%be%d0%bb%d0%b6%d0%b8%d0%bd%d0%b0-%d0%be%d0%b4-80-%d0%bc%d0%b5%d1%82%d1%80%d0%b8-%d0%bd%d0%b0-%d0%bf%d0%b0%d1%82%d0%be%d1%82-%d1%81%d0%ba%d0%be/",
+          "published": "Wed, 18 Feb 2026 20:50:34 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Парите ќе им се множат до Велигден: четири хороскопски знаци ги очекува финансиски пресврт",
+          "link": "https://makfax.com.mk/zanimlivosti/%d0%bf%d0%b0%d1%80%d0%b8%d1%82%d0%b5-%d1%9c%d0%b5-%d0%b8%d0%bc-%d1%81%d0%b5-%d0%bc%d0%bd%d0%be%d0%b6%d0%b0%d1%82-%d0%b4%d0%be-%d0%b2%d0%b5%d0%bb%d0%b8%d0%b3%d0%b4%d0%b5%d0%bd-%d1%87%d0%b5%d1%82%d0%b8/",
+          "published": "Wed, 18 Feb 2026 20:27:33 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Десетина демократи ќе го бојкотираат говорот на Трамп за состојбата на нацијата",
+          "link": "https://makfax.com.mk/svet/%d0%b4%d0%b5%d1%81%d0%b5%d1%82%d0%b8%d0%bd%d0%b0-%d0%b4%d0%b5%d0%bc%d0%be%d0%ba%d1%80%d0%b0%d1%82%d0%b8-%d1%9c%d0%b5-%d0%b3%d0%be-%d0%b1%d0%be%d1%98%d0%ba%d0%be%d1%82%d0%b8%d1%80%d0%b0%d0%b0%d1%82/",
+          "published": "Wed, 18 Feb 2026 20:17:43 +0000"
         },
         {
           "source": "Makfax",
@@ -23,52 +41,34 @@
           "published": "Wed, 18 Feb 2026 19:24:11 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Николоски: Филипче се однесува како бомбаш самоубиец во обид да го заштити столчето во СДСМ",
-          "link": "https://makfax.com.mk/makedonija/%d0%bd%d0%b8%d0%ba%d0%be%d0%bb%d0%be%d1%81%d0%ba%d0%b8-%d1%84%d0%b8%d0%bb%d0%b8%d0%bf%d1%87%d0%b5-%d1%81%d0%b5-%d0%be%d0%b4%d0%bd%d0%b5%d1%81%d1%83%d0%b2%d0%b0-%d0%ba%d0%b0%d0%ba%d0%be-%d0%b1%d0%be/",
-          "published": "Wed, 18 Feb 2026 19:15:14 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Делегацијата на ЕУ во БиХ ги осуди инцидентите на концертот на Томпсон: „Покажете почит кон жртвите“",
-          "link": "https://makfax.com.mk/svet/region/%d0%b4%d0%b5%d0%bb%d0%b5%d0%b3%d0%b0%d1%86%d0%b8%d1%98%d0%b0%d1%82%d0%b0-%d0%bd%d0%b0-%d0%b5%d1%83-%d0%b2%d0%be-%d0%b1%d0%b8%d1%85-%d0%b3%d0%b8-%d0%be%d1%81%d1%83%d0%b4%d0%b8-%d0%b8%d0%bd%d1%86%d0%b8/",
-          "published": "Wed, 18 Feb 2026 19:08:39 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Белгискиот министер ги предупреди европските лидери поради изјавите за нуклеарното оружје: „Држете го јазикот за заби“",
-          "link": "https://makfax.com.mk/svet/%d0%b1%d0%b5%d0%bb%d0%b3%d0%b8%d1%81%d0%ba%d0%b8%d0%be%d1%82-%d0%bc%d0%b8%d0%bd%d0%b8%d1%81%d1%82%d0%b5%d1%80-%d0%b3%d0%b8-%d0%bf%d1%80%d0%b5%d0%b4%d1%83%d0%bf%d1%80%d0%b5%d0%b4%d0%b8-%d0%b5%d0%b2/",
-          "published": "Wed, 18 Feb 2026 18:55:05 +0000"
+          "source": "NetPress",
+          "title": "АТП Доха: Рутински победи на Алкараз и Синер",
+          "link": "https://netpress.com.mk/atp-doha-rutinski-pobedi-na-alkaraz-i-siner/",
+          "published": "Wed, 18 Feb 2026 21:41:21 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Уапсени шест возачи поради возење без возачка дозвола, со активна забрана и под дејство на алкохол",
-          "link": "https://netpress.com.mk/uapseni-shest-vozachi-poradi-vozene-bez-vozachka-dozvola-so-aktivna-zabrana-i-pod-dejstvo-na-alkohol/",
-          "published": "Wed, 18 Feb 2026 19:58:47 +0000"
+          "title": "Со измама фотографирал лична карта, па подигнал брз кредит од 3.500 евра",
+          "link": "https://netpress.com.mk/so-izmama-fotografiral-lichna-karta-pa-podignal-brz-kredit-od-3-500-evra/",
+          "published": "Wed, 18 Feb 2026 21:40:20 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Гоф спаси три меч-топки за победа над Мертенс",
-          "link": "https://netpress.com.mk/gof-spasi-tri-mech-topki-za-pobeda-nad-mertens/",
-          "published": "Wed, 18 Feb 2026 19:12:44 +0000"
+          "title": "САД под закана со напад му „препорачуваат“ на Иран да постигне нуклеарен договор",
+          "link": "https://netpress.com.mk/sad-pod-zakana-so-napad-mu-preporachuvaat-na-iran-da-postigne-nuklearen-dogovor/",
+          "published": "Wed, 18 Feb 2026 21:21:42 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Николоски најави автопат и од Фариш до Прилеп и нова обиколница",
-          "link": "https://netpress.com.mk/nikoloski-najavi-avtopat-i-od-farish-do-prilep-i-nova-obikolnicza/",
-          "published": "Wed, 18 Feb 2026 18:47:59 +0000"
+          "title": "Тројца мртви во лавини во западна Австрија",
+          "link": "https://netpress.com.mk/trojcza-mrtvi-vo-lavini-vo-zapadna-avstrija/",
+          "published": "Wed, 18 Feb 2026 21:13:44 +0000"
         },
         {
           "source": "NetPress",
-          "title": "ФОТО| Одлета лимениот покрив на средното училиште во Гевгелија",
-          "link": "https://netpress.com.mk/foto-odleta-limeniot-pokriv-na-srednoto-uchilishte-vo-gevgelija/",
-          "published": "Wed, 18 Feb 2026 18:31:14 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Кајри Ирвинг ќе го пропушти остатокот од сезоната",
-          "link": "https://netpress.com.mk/kajri-irving-ke-go-propushti-ostatokot-od-sezonata/",
-          "published": "Wed, 18 Feb 2026 18:28:58 +0000"
+          "title": "Крива Паланка ја слави Прочка со автентичниот обичај „Сусурига 2026“",
+          "link": "https://netpress.com.mk/kriva-palanka-ja-slavi-prochka-so-avtentichniot-obichaj-susuriga-2026/",
+          "published": "Wed, 18 Feb 2026 20:54:51 +0000"
         }
       ]
     },
@@ -77,9 +77,15 @@
       "items": [
         {
           "source": "BBC",
-          "title": "Do not give away Diego Garcia, Trump tells UK",
+          "title": "Eight skiers found dead after California avalanche",
+          "link": "https://www.bbc.com/news/articles/cvg19dp4vxgo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 18 Feb 2026 21:25:12 GMT"
+        },
+        {
+          "source": "BBC",
+          "title": "Do not give away Diego Garcia, Trump tells UK in fresh attack on Chagos deal",
           "link": "https://www.bbc.com/news/articles/c309qqyer8yo?at_medium=RSS&at_campaign=rss",
-          "published": "Wed, 18 Feb 2026 19:46:48 GMT"
+          "published": "Wed, 18 Feb 2026 20:57:22 GMT"
         },
         {
           "source": "BBC",
@@ -100,40 +106,34 @@
           "published": "Wed, 18 Feb 2026 17:29:23 GMT"
         },
         {
-          "source": "BBC",
-          "title": "Zuckerberg defends Meta in landmark social media addiction trial",
-          "link": "https://www.bbc.com/news/articles/c5y42znjnjvo?at_medium=RSS&at_campaign=rss",
-          "published": "Wed, 18 Feb 2026 19:27:53 GMT"
+          "source": "Al Jazeera",
+          "title": "How a robodog triggered an Indian academic scandal",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/2/18/how-a-robodog-triggered-an-indian-academic-scandal?traffic_source=rss",
+          "published": "Wed, 18 Feb 2026 21:00:41 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Is ISIL on the verge of becoming a regional threat once again?",
+          "link": "https://www.aljazeera.com/video/inside-story/2026/2/18/is-isil-on-the-verge-of-becoming-a-regional-threat-once-again?traffic_source=rss",
+          "published": "Wed, 18 Feb 2026 20:58:17 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "UNSC moves Gaza meeting to avoid clash with Trump’s Board of Peace",
+          "link": "https://www.aljazeera.com/news/2026/2/18/unsc-moves-gaza-meeting-to-avoid-clash-with-trumps-board-of-peace?traffic_source=rss",
+          "published": "Wed, 18 Feb 2026 20:49:49 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Law enforcement says eight killed by avalanche in California mountains",
+          "link": "https://www.aljazeera.com/news/2026/2/18/law-enforcement-says-eight-killed-by-avalanche-in-california-mountains?traffic_source=rss",
+          "published": "Wed, 18 Feb 2026 20:27:04 +0000"
         },
         {
           "source": "Al Jazeera",
           "title": "‘Board of Peace’: Reality vs Rhetoric",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/2/18/board-of-peace-reality-vs-rhetoric?traffic_source=rss",
           "published": "Wed, 18 Feb 2026 19:12:18 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "After health rumours, UAE President MBZ seen meeting with US lawmaker",
-          "link": "https://www.aljazeera.com/news/2026/2/18/after-health-rumours-uae-president-mbz-seen-meeting-with-us-lawmaker?traffic_source=rss",
-          "published": "Wed, 18 Feb 2026 18:55:57 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Mark Zuckerberg appears to be ‘served’ new lawsuit upon arrival at court",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/2/18/mark-zuckerberg-appears-to-be-served-new-lawsuit-upon-arrival-at-court?traffic_source=rss",
-          "published": "Wed, 18 Feb 2026 18:44:04 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Leila Shahid, Palestinian diplomat, dies in France aged 76",
-          "link": "https://www.aljazeera.com/news/2026/2/18/leila-shahid-palestinian-diplomat-dies-in-france-aged-76?traffic_source=rss",
-          "published": "Wed, 18 Feb 2026 18:33:57 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "US says that it will review Moderna flu vaccine it previously declined",
-          "link": "https://www.aljazeera.com/news/2026/2/18/us-says-that-it-will-review-moderna-flu-vaccine-it-previously-declined?traffic_source=rss",
-          "published": "Wed, 18 Feb 2026 18:04:04 +0000"
         }
       ]
     }
