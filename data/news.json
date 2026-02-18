@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-17T23:59:52Z",
+  "updatedAt": "2026-02-18T05:16:51Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Делови од Центар, Бутел и Карпош денеска без струја",
+          "link": "https://makfax.com.mk/makedonija/%d0%b4%d0%b5%d0%bb%d0%be%d0%b2%d0%b8-%d0%be%d0%b4-%d1%86%d0%b5%d0%bd%d1%82%d0%b0%d1%80-%d0%b1%d1%83%d1%82%d0%b5%d0%bb-%d0%b8-%d0%ba%d0%b0%d1%80%d0%bf%d0%be%d1%88-%d0%b4%d0%b5%d0%bd%d0%b5%d1%81%d0%ba-2/",
+          "published": "Wed, 18 Feb 2026 05:15:30 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Променливо облачно со сончеви периоди, ќе дува засилен ветер од северен правец",
+          "link": "https://makfax.com.mk/makedonija/%d0%bf%d1%80%d0%be%d0%bc%d0%b5%d0%bd%d0%bb%d0%b8%d0%b2%d0%be-%d0%be%d0%b1%d0%bb%d0%b0%d1%87%d0%bd%d0%be-%d1%81%d0%be-%d1%81%d0%be%d0%bd%d1%87%d0%b5%d0%b2%d0%b8-%d0%bf%d0%b5%d1%80%d0%b8%d0%be%d0%b4-66/",
+          "published": "Wed, 18 Feb 2026 05:12:37 +0000"
         },
         {
           "source": "Makfax",
@@ -27,18 +39,6 @@
           "title": "Германците ги освоија медалите во боб двосед",
           "link": "https://makfax.com.mk/sport/germantsite-gi-osvoija-medalite-vo-bob-dvosed/",
           "published": "Tue, 17 Feb 2026 22:15:14 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "(Видео) Винисиус постигна спектакуларен гол, па направи хаос, Мурињо исклучен",
-          "link": "https://makfax.com.mk/sport/video-vinisius-postigna-spektakularen-gol-pa-napravi-haos-murino-iskluchen/",
-          "published": "Tue, 17 Feb 2026 22:07:13 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "(Видео) Девојка постави билборди дека бара сопруг – 4.000 мажи ѝ се јавиле",
-          "link": "https://makfax.com.mk/zanimlivosti/%d0%b2%d0%b8%d0%b4%d0%b5%d0%be-%d0%b4%d0%b5%d0%b2%d0%be%d1%98%d0%ba%d0%b0-%d0%bf%d0%be%d1%81%d1%82%d0%b0%d0%b2%d0%b8-%d0%b1%d0%b8%d0%bb%d0%b1%d0%be%d1%80%d0%b4%d0%b8-%d0%b4%d0%b5%d0%ba%d0%b0-%d0%b1/",
-          "published": "Tue, 17 Feb 2026 21:06:09 +0000"
         },
         {
           "source": "NetPress",
@@ -77,63 +77,63 @@
       "items": [
         {
           "source": "BBC",
-          "title": "US civil rights leader Jesse Jackson dies aged 84",
-          "link": "https://www.bbc.com/news/articles/cp81l0e1eg5o?at_medium=RSS&at_campaign=rss",
-          "published": "Tue, 17 Feb 2026 18:55:33 GMT"
+          "title": "I would scream in my sleep: Women from Syria's Alawite minority tell of kidnap and rape",
+          "link": "https://www.bbc.com/news/articles/cn5g751pl7lo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 18 Feb 2026 00:20:03 GMT"
         },
         {
           "source": "BBC",
-          "title": "Nine arrested in France over death of far-right student",
-          "link": "https://www.bbc.com/news/articles/cvgj1qrqd47o?at_medium=RSS&at_campaign=rss",
-          "published": "Tue, 17 Feb 2026 21:08:32 GMT"
+          "title": "Rescuers search for 10 missing skiers after California avalanche",
+          "link": "https://www.bbc.com/news/articles/c62dke15357o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 18 Feb 2026 01:37:35 GMT"
         },
         {
           "source": "BBC",
-          "title": "First day of Russia-Ukraine peace talks ends in Geneva",
-          "link": "https://www.bbc.com/news/articles/cge812y2549o?at_medium=RSS&at_campaign=rss",
-          "published": "Tue, 17 Feb 2026 20:05:13 GMT"
+          "title": "'We're going to always be grateful' - Chicagoans mourn loss of Jesse Jackson",
+          "link": "https://www.bbc.com/news/articles/cn8z9qq25jno?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 17 Feb 2026 23:35:13 GMT"
         },
         {
           "source": "BBC",
-          "title": "No DNA matches on glove found in Nancy Guthrie case, police say",
-          "link": "https://www.bbc.com/news/articles/cj0dqp9pleeo?at_medium=RSS&at_campaign=rss",
-          "published": "Tue, 17 Feb 2026 19:42:15 GMT"
+          "title": "Climber on trial for leaving girlfriend to die on Austria's highest mountain",
+          "link": "https://www.bbc.com/news/articles/c5yv9plyjgpo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 18 Feb 2026 00:41:52 GMT"
         },
         {
           "source": "BBC",
-          "title": "UK police force assessing Stansted Airport private flights over Epstein ties",
-          "link": "https://www.bbc.com/news/articles/c98q4mz831mo?at_medium=RSS&at_campaign=rss",
-          "published": "Tue, 17 Feb 2026 20:52:07 GMT"
+          "title": "Under pressure from Trump, Venezuela's new president has aces up her sleeve",
+          "link": "https://www.bbc.com/news/articles/cn87rv0jdy1o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 18 Feb 2026 00:48:22 GMT"
         },
         {
           "source": "Al Jazeera",
-          "title": "US immigration judge rejects Trump bid to deport Columbia student Mahdawi",
-          "link": "https://www.aljazeera.com/news/2026/2/17/us-immigration-judge-rejects-trump-bid-to-deport-columbia-student-mahdawi?traffic_source=rss",
-          "published": "Tue, 17 Feb 2026 23:34:29 +0000"
+          "title": "Over 80 UN member states condemn Israel’s de-facto annexation of West Bank",
+          "link": "https://www.aljazeera.com/news/2026/2/18/over-80-un-member-states-condemn-israels-de-facto-annexation-of-west-bank?traffic_source=rss",
+          "published": "Wed, 18 Feb 2026 04:35:04 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Hamas: Trump’s ‘Board of Peace’ must stop Israel’s killing in Gaza",
-          "link": "https://www.aljazeera.com/news/2026/2/17/hamas-trumps-board-of-peace-must-stop-israels-killing-in-gaza?traffic_source=rss",
-          "published": "Tue, 17 Feb 2026 23:26:07 +0000"
+          "title": "‘Good progress’: Iran, US move closer to a nuclear deal after Geneva talks",
+          "link": "https://www.aljazeera.com/news/2026/2/18/irans-araghchi-hails-good-progress-in-nuclear-talks-with-us?traffic_source=rss",
+          "published": "Wed, 18 Feb 2026 04:26:15 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Vinicius earns Real Madrid 1-0 win at Benfica in match marred by racism row",
-          "link": "https://www.aljazeera.com/sports/2026/2/17/vinicius-earns-real-madrid-1-0-win-at-benfica-in-match-marred-by-racism-row?traffic_source=rss",
-          "published": "Tue, 17 Feb 2026 23:01:48 +0000"
+          "title": "Over 80 film workers slam Berlin festival’s silence on Israel’s Gaza war",
+          "link": "https://www.aljazeera.com/news/2026/2/18/over-80-film-workers-slam-berlin-festivals-silence-on-israels-gaza-war?traffic_source=rss",
+          "published": "Wed, 18 Feb 2026 03:38:35 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Humanoid robots perform advanced martial arts at Chinese New Year gala",
-          "link": "https://www.aljazeera.com/news/2026/2/17/humanoid-robots-perform-advanced-martial-arts-at-chinese-new-year-gala?traffic_source=rss",
-          "published": "Tue, 17 Feb 2026 22:50:09 +0000"
+          "title": "Kremlin official says Russian navy to stop West’s seizure of merchant ships",
+          "link": "https://www.aljazeera.com/news/2026/2/18/kremlin-official-says-russian-navy-to-stop-wests-seizure-of-merchant-ships?traffic_source=rss",
+          "published": "Wed, 18 Feb 2026 03:24:36 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Tributes pour in after US civil rights icon Jesse Jackson dies at 84",
-          "link": "https://www.aljazeera.com/news/2026/2/17/tributes-pour-in-after-us-civil-rights-icon-jesse-jackson-dies-at-84?traffic_source=rss",
-          "published": "Tue, 17 Feb 2026 22:20:29 +0000"
+          "title": "‘Tug of war’: Democrats push Trump to release New York City tunnel funds",
+          "link": "https://www.aljazeera.com/news/2026/2/18/tug-of-war-democrats-push-trump-to-release-new-york-city-tunnel-funds?traffic_source=rss",
+          "published": "Wed, 18 Feb 2026 02:48:05 +0000"
         }
       ]
     }
