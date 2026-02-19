@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-18T23:59:23Z",
+  "updatedAt": "2026-02-19T05:15:18Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) Лавина во Калифорнија: Осум скијачи загинаа, еден е исчезнат",
+          "link": "https://makfax.com.mk/svet/%d0%b2%d0%b8%d0%b4%d0%b5%d0%be-%d0%bb%d0%b0%d0%b2%d0%b8%d0%bd%d0%b0-%d0%b2%d0%be-%d0%ba%d0%b0%d0%bb%d0%b8%d1%84%d0%be%d1%80%d0%bd%d0%b8%d1%98%d0%b0-%d0%be%d1%81%d1%83%d0%bc-%d1%81%d0%ba%d0%b8%d1%98/",
+          "published": "Thu, 19 Feb 2026 05:11:57 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Дел од Чаир денеска без вода",
+          "link": "https://makfax.com.mk/makedonija/%d0%b4%d0%b5%d0%bb-%d0%be%d0%b4-%d1%87%d0%b0%d0%b8%d1%80-%d0%b4%d0%b5%d0%bd%d0%b5%d1%81%d0%ba%d0%b0-%d0%b1%d0%b5%d0%b7-%d0%b2%d0%be%d0%b4%d0%b0/",
+          "published": "Thu, 19 Feb 2026 05:03:26 +0000"
         },
         {
           "source": "Makfax",
@@ -27,18 +39,6 @@
           "title": "(Видео) Интер замрзна во Норвешка, Атлетико испушти 0:2 во Бриж, Баер победи кај Олимпијакос",
           "link": "https://makfax.com.mk/sport/video-inter-zamrzma-vo-norveshka-atletiko-ispushti-0-2-vo-brizh-baer-pobedi-kaj-olimpijakos/",
           "published": "Wed, 18 Feb 2026 22:11:46 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Одрон во должина од 80 метри на патот Скопје-Велес: сообраќајот кај Сопот се одвива по една лента",
-          "link": "https://makfax.com.mk/makedonija/%d0%be%d0%b4%d1%80%d0%be%d0%bd-%d0%b2%d0%be-%d0%b4%d0%be%d0%bb%d0%b6%d0%b8%d0%bd%d0%b0-%d0%be%d0%b4-80-%d0%bc%d0%b5%d1%82%d1%80%d0%b8-%d0%bd%d0%b0-%d0%bf%d0%b0%d1%82%d0%be%d1%82-%d1%81%d0%ba%d0%be/",
-          "published": "Wed, 18 Feb 2026 20:50:34 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Парите ќе им се множат до Велигден: четири хороскопски знаци ги очекува финансиски пресврт",
-          "link": "https://makfax.com.mk/zanimlivosti/%d0%bf%d0%b0%d1%80%d0%b8%d1%82%d0%b5-%d1%9c%d0%b5-%d0%b8%d0%bc-%d1%81%d0%b5-%d0%bc%d0%bd%d0%be%d0%b6%d0%b0%d1%82-%d0%b4%d0%be-%d0%b2%d0%b5%d0%bb%d0%b8%d0%b3%d0%b4%d0%b5%d0%bd-%d1%87%d0%b5%d1%82%d0%b8/",
-          "published": "Wed, 18 Feb 2026 20:27:33 +0000"
         },
         {
           "source": "NetPress",
@@ -89,51 +89,51 @@
         },
         {
           "source": "BBC",
+          "title": "Hamas is reasserting control in Gaza despite its heavy losses fighting Israel",
+          "link": "https://www.bbc.com/news/articles/c98g1klxnpxo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 19 Feb 2026 00:04:44 GMT"
+        },
+        {
+          "source": "BBC",
           "title": "Martial law, protests and a president tried for insurrection: How did South Korea get here?",
           "link": "https://www.bbc.com/news/videos/c70kw0nrxreo?at_medium=RSS&at_campaign=rss",
           "published": "Wed, 18 Feb 2026 23:05:46 GMT"
         },
         {
           "source": "BBC",
-          "title": "'Difficult' Russia-Ukraine peace talks end without breakthrough",
-          "link": "https://www.bbc.com/news/articles/c0k1xj0d708o?at_medium=RSS&at_campaign=rss",
-          "published": "Wed, 18 Feb 2026 22:33:48 GMT"
-        },
-        {
-          "source": "BBC",
-          "title": "Iran security official appears to fire on crowd at cemetery",
-          "link": "https://www.bbc.com/news/articles/cly8q62qe71o?at_medium=RSS&at_campaign=rss",
-          "published": "Wed, 18 Feb 2026 18:14:39 GMT"
+          "title": "Desperate hunt for breakthrough in Nancy Guthrie case turns to Mexico",
+          "link": "https://www.bbc.com/news/articles/c4gq2k8220go?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 19 Feb 2026 01:15:49 GMT"
         },
         {
           "source": "Al Jazeera",
-          "title": "White House says Iran would be ‘wise’ to take deal amid military buildup",
-          "link": "https://www.aljazeera.com/news/2026/2/18/white-house-says-iran-would-be-wise-to-take-deal-amid-military-buildup?traffic_source=rss",
-          "published": "Wed, 18 Feb 2026 23:44:52 +0000"
+          "title": "At least 37 killed in Nigeria mine carbon monoxide poisoning: Reports",
+          "link": "https://www.aljazeera.com/news/2026/2/19/at-least-37-killed-in-nigeria-mine-carbon-monoxide-poisoning-reports?traffic_source=rss",
+          "published": "Thu, 19 Feb 2026 04:57:39 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "US is withdrawing all 1,000 troops from Syria: WSJ report",
-          "link": "https://www.aljazeera.com/news/2026/2/18/us-is-withdrawing-all-1000-troops-from-syria-wsj-report?traffic_source=rss",
-          "published": "Wed, 18 Feb 2026 23:41:18 +0000"
+          "title": "N Korea’s Kim unveils 50 rocket launchers ahead of key congress",
+          "link": "https://www.aljazeera.com/news/2026/2/19/n-koreas-kim-unveils-50-rocket-launchers-ahead-of-key-congress?traffic_source=rss",
+          "published": "Thu, 19 Feb 2026 04:56:27 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Gaza death toll exceeds 75,000 as independent data verify loss",
-          "link": "https://www.aljazeera.com/features/2026/2/18/gaza-death-toll-exceeds-75000-as-independent-data-verify-loss?traffic_source=rss",
-          "published": "Wed, 18 Feb 2026 23:30:48 +0000"
+          "title": "Activist group Extinction Rebellion says it is under FBI investigation",
+          "link": "https://www.aljazeera.com/news/2026/2/19/activist-group-extinction-rebellion-says-it-is-under-fbi-investigation?traffic_source=rss",
+          "published": "Thu, 19 Feb 2026 04:04:45 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Which teams are in the T20 World Cup Super Eight, and what’s the schedule?",
-          "link": "https://www.aljazeera.com/sports/2026/2/18/which-teams-are-in-the-t20-world-cup-super-eight-and-whats-the-schedule?traffic_source=rss",
-          "published": "Wed, 18 Feb 2026 23:06:41 +0000"
+          "title": "Young Palestinian shot, killed by Israeli settlers northeast of Jerusalem",
+          "link": "https://www.aljazeera.com/news/2026/2/19/young-palestinian-shot-killed-by-israeli-settlers-northeast-of-jerusalem?traffic_source=rss",
+          "published": "Thu, 19 Feb 2026 03:24:33 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Meta’s Zuckerberg pushes back on social media youth addiction claims",
-          "link": "https://www.aljazeera.com/economy/2026/2/18/metas-zuckerberg-pushes-back-on-social-media-youth-addiction-claims?traffic_source=rss",
-          "published": "Wed, 18 Feb 2026 22:59:47 +0000"
+          "title": "Peru appoints Jose Maria Balcazar as president after Jose Jeri’s removal",
+          "link": "https://www.aljazeera.com/news/2026/2/19/peru-appoints-new-president-after-jose-jeris-removal?traffic_source=rss",
+          "published": "Thu, 19 Feb 2026 03:09:46 +0000"
         }
       ]
     }
