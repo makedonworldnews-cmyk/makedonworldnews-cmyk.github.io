@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-20T20:47:05Z",
+  "updatedAt": "2026-02-20T21:10:41Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) Насилни протести во Албанија: Фрлени молотови коктели врз зградата на владата",
+          "link": "https://makfax.com.mk/svet/region/%d0%b2%d0%b8%d0%b4%d0%b5%d0%be-%d0%bd%d0%b0%d1%81%d0%b8%d0%bb%d0%bd%d0%b8-%d0%bf%d1%80%d0%be%d1%82%d0%b5%d1%81%d1%82%d0%b8-%d0%b2%d0%be-%d0%b0%d0%bb%d0%b1%d0%b0%d0%bd%d0%b8%d1%98%d0%b0-%d1%84%d1%80/",
+          "published": "Fri, 20 Feb 2026 21:05:49 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "(Фото) Најбараниот модел во светот е во врска",
+          "link": "https://makfax.com.mk/zanimlivosti/%d1%84%d0%be%d1%82%d0%be-%d0%bd%d0%b0%d1%98%d0%b1%d0%b0%d1%80%d0%b0%d0%bd%d0%b8%d0%be%d1%82-%d0%bc%d0%be%d0%b4%d0%b5%d0%bb-%d0%b2%d0%be-%d1%81%d0%b2%d0%b5%d1%82%d0%be%d1%82-%d0%b5-%d0%b2%d0%be/",
+          "published": "Fri, 20 Feb 2026 20:58:03 +0000"
         },
         {
           "source": "Makfax",
@@ -27,18 +39,6 @@
           "title": "Британска влада: Ендру би можел да го изгуби своето место во редот за наследување на тронот",
           "link": "https://makfax.com.mk/svet/%d0%b1%d1%80%d0%b8%d1%82%d0%b0%d0%bd%d1%81%d0%ba%d0%b0-%d0%b2%d0%bb%d0%b0%d0%b4%d0%b0-%d0%b5%d0%bd%d0%b4%d1%80%d1%83-%d0%b1%d0%b8-%d0%bc%d0%be%d0%b6%d0%b5%d0%bb-%d0%b4%d0%b0-%d0%b3%d0%be-%d0%b8%d0%b7/",
           "published": "Fri, 20 Feb 2026 20:39:29 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Нова студија: Вистинскиот број на жртви во Газа е потценет",
-          "link": "https://makfax.com.mk/svet/%d0%bd%d0%be%d0%b2%d0%b0-%d1%81%d1%82%d1%83%d0%b4%d0%b8%d1%98%d0%b0-%d0%b2%d0%b8%d1%81%d1%82%d0%b8%d0%bd%d1%81%d0%ba%d0%b8%d0%be%d1%82-%d0%b1%d1%80%d0%be%d1%98-%d0%bd%d0%b0-%d0%b6%d1%80%d1%82%d0%b2/",
-          "published": "Fri, 20 Feb 2026 20:36:08 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Родени да водат: 10 женски имиња што значат сила",
-          "link": "https://makfax.com.mk/zanimlivosti/%d1%80%d0%be%d0%b4%d0%b5%d0%bd%d0%b8-%d0%b4%d0%b0-%d0%b2%d0%be%d0%b4%d0%b0%d1%82-10-%d0%b6%d0%b5%d0%bd%d1%81%d0%ba%d0%b8-%d0%b8%d0%bc%d0%b8%d1%9a%d0%b0-%d1%88%d1%82%d0%be-%d0%b7%d0%bd%d0%b0%d1%87/",
-          "published": "Fri, 20 Feb 2026 20:24:50 +0000"
         },
         {
           "source": "NetPress",
@@ -125,7 +125,7 @@
         },
         {
           "source": "Al Jazeera",
-          "title": "At least two killed in Israeli attack on Palestinian camp in Lebanon",
+          "title": "Israeli attacks across Lebanon kill at least eight people",
           "link": "https://www.aljazeera.com/news/2026/2/20/one-killed-in-israeli-strike-on-largest-palestinian-refugee-camp-in-lebanon?traffic_source=rss",
           "published": "Fri, 20 Feb 2026 19:37:47 +0000"
         },
