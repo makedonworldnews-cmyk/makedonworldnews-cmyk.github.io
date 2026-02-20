@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-20T21:10:41Z",
+  "updatedAt": "2026-02-20T21:44:48Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,24 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Овие хороскопски знаци работат повеќе отколку што се платени",
+          "link": "https://makfax.com.mk/zanimlivosti/%d0%be%d0%b2%d0%b8%d0%b5-%d1%85%d0%be%d1%80%d0%be%d1%81%d0%ba%d0%be%d0%bf%d1%81%d0%ba%d0%b8-%d0%b7%d0%bd%d0%b0%d1%86%d0%b8-%d1%80%d0%b0%d0%b1%d0%be%d1%82%d0%b0%d1%82-%d0%bf%d0%be%d0%b2%d0%b5%d1%9c/",
+          "published": "Fri, 20 Feb 2026 21:28:46 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "(Фото) Како Синди Крафорд изгледа толку добро на 60 години: што прави секој ден",
+          "link": "https://makfax.com.mk/zanimlivosti/%d1%84%d0%be%d1%82%d0%be-%d0%ba%d0%b0%d0%ba%d0%be-%d1%81%d0%b8%d0%bd%d0%b4%d0%b8-%d0%ba%d1%80%d0%b0%d1%84%d0%be%d1%80%d0%b4-%d0%b8%d0%b7%d0%b3%d0%bb%d0%b5%d0%b4%d0%b0-%d1%82%d0%be%d0%bb%d0%ba%d1%83/",
+          "published": "Fri, 20 Feb 2026 21:21:06 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Уапсени двајца тинејџери во Франција: планирале терористички напад",
+          "link": "https://makfax.com.mk/svet/%d1%83%d0%b0%d0%bf%d1%81%d0%b5%d0%bd%d0%b8-%d0%b4%d0%b2%d0%b0%d1%98%d1%86%d0%b0-%d1%82%d0%b8%d0%bd%d0%b5%d1%98%d1%9f%d0%b5%d1%80%d0%b8-%d0%b2%d0%be-%d1%84%d1%80%d0%b0%d0%bd%d1%86%d0%b8%d1%98%d0%b0/",
+          "published": "Fri, 20 Feb 2026 21:13:04 +0000"
         },
         {
           "source": "Makfax",
@@ -23,52 +41,34 @@
           "published": "Fri, 20 Feb 2026 20:58:03 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Мерц реизбран за лидер на ЦДУ",
-          "link": "https://makfax.com.mk/svet/evropa/%d0%bc%d0%b5%d1%80%d1%86-%d1%80%d0%b5%d0%b8%d0%b7%d0%b1%d1%80%d0%b0%d0%bd-%d0%b7%d0%b0-%d0%bb%d0%b8%d0%b4%d0%b5%d1%80-%d0%bd%d0%b0-%d1%86%d0%b4%d1%83/",
-          "published": "Fri, 20 Feb 2026 20:46:21 +0000"
+          "source": "NetPress",
+          "title": "Владата размислува за отстранување на Маунтбатен-Виндзор од кралската линија на наследување",
+          "link": "https://netpress.com.mk/vladata-razmisluva-za-otstranuvane-na-mauntbaten-vindzor-od-kralskata-linija-na-nasleduvane/",
+          "published": "Fri, 20 Feb 2026 21:39:39 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Уште тројца скијачи загинаа во лавини во Австрија",
-          "link": "https://makfax.com.mk/svet/%d1%83%d1%88%d1%82%d0%b5-%d1%82%d1%80%d0%be%d1%98%d1%86%d0%b0-%d1%81%d0%ba%d0%b8%d1%98%d0%b0%d1%87%d0%b8-%d0%b7%d0%b0%d0%b3%d0%b8%d0%bd%d0%b0%d0%b0-%d0%b2%d0%be-%d0%bb%d0%b0%d0%b2%d0%b8%d0%bd%d0%b8/",
-          "published": "Fri, 20 Feb 2026 20:43:56 +0000"
+          "source": "NetPress",
+          "title": "Полска планира да ја минира границата со Русија",
+          "link": "https://netpress.com.mk/polska-planira-da-ja-minira-graniczata-so-rusija/",
+          "published": "Fri, 20 Feb 2026 21:36:00 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Британска влада: Ендру би можел да го изгуби своето место во редот за наследување на тронот",
-          "link": "https://makfax.com.mk/svet/%d0%b1%d1%80%d0%b8%d1%82%d0%b0%d0%bd%d1%81%d0%ba%d0%b0-%d0%b2%d0%bb%d0%b0%d0%b4%d0%b0-%d0%b5%d0%bd%d0%b4%d1%80%d1%83-%d0%b1%d0%b8-%d0%bc%d0%be%d0%b6%d0%b5%d0%bb-%d0%b4%d0%b0-%d0%b3%d0%be-%d0%b8%d0%b7/",
-          "published": "Fri, 20 Feb 2026 20:39:29 +0000"
+          "source": "NetPress",
+          "title": "АТП Доха: Алкараз против Фис во финалето",
+          "link": "https://netpress.com.mk/atp-doha-alkaraz-protiv-fis-vo-finaleto/",
+          "published": "Fri, 20 Feb 2026 21:21:39 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Унгарија ќе го блокира заемот од ЕУ за Украина сè додека не ги обнови испораките на нафта",
+          "link": "https://netpress.com.mk/ungarija-ke-go-blokira-zaemot-od-eu-za-ukraina-se-dodeka-ne-gi-obnovi-isporakite-na-nafta/",
+          "published": "Fri, 20 Feb 2026 21:12:39 +0000"
         },
         {
           "source": "NetPress",
           "title": "ВИДЕО| Стејт департмент: Убиството на француски десничар може да се смета за тероризам",
           "link": "https://netpress.com.mk/video-stejt-department-ubistvoto-na-franczuski-desnichar-mozhe-da-se-smeta-za-terorizam/",
           "published": "Fri, 20 Feb 2026 20:35:11 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Лавини убија уште тројца скијачи во Австрија",
-          "link": "https://netpress.com.mk/lavini-ubija-ushte-trojcza-skijachi-vo-avstrija/",
-          "published": "Fri, 20 Feb 2026 19:20:25 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Момче од Мала Речица планирало масовни убиства со Калашников",
-          "link": "https://netpress.com.mk/momche-od-mala-rechicza-planiralo-masovni-ubistva-so-kalashnikov/",
-          "published": "Fri, 20 Feb 2026 19:00:45 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Американските напади врз Иран би можеле да бидат насочени кон поединечни челници",
-          "link": "https://netpress.com.mk/amerikanskite-napadi-vrz-iran-bi-mozhele-da-bidat-nasocheni-kon-poedinechni-chelniczi/",
-          "published": "Fri, 20 Feb 2026 18:59:45 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Игор Ѓорѓиев го продолжи договорот со РК Алкалоид",
-          "link": "https://netpress.com.mk/igor-gorgiev-go-prodolzhi-dogovorot-so-rk-alkaloid/",
-          "published": "Fri, 20 Feb 2026 18:42:41 +0000"
         }
       ]
     },
@@ -107,6 +107,24 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "What’s next for Gaza after Trump’s Board of Peace meets in Washington?",
+          "link": "https://www.aljazeera.com/video/inside-story/2026/2/20/whats-next-for-gaza-after-trumps-board-of-peace-meets-in-washington?traffic_source=rss",
+          "published": "Fri, 20 Feb 2026 21:14:56 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "How are killer drones reshaping the conflict in Sudan",
+          "link": "https://www.aljazeera.com/video/the-take-2/2026/2/20/aje-onl-aj_tt_sdn_alfashir_av_v1-200226?traffic_source=rss",
+          "published": "Fri, 20 Feb 2026 20:48:39 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Hungary to block 90 billion euro EU loan to Ukraine in Russian oil dispute",
+          "link": "https://www.aljazeera.com/news/2026/2/20/hungary-to-block-90-billion-euro-eu-loan-to-ukraine-in-russian-oil-dispute?traffic_source=rss",
+          "published": "Fri, 20 Feb 2026 20:44:04 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Tariff refunds could take years amid US Supreme Court ruling, experts warn",
           "link": "https://www.aljazeera.com/economy/2026/2/20/tariff-refunds-could-take-years-amid-us-supreme-court-ruling-experts-warn?traffic_source=rss",
           "published": "Fri, 20 Feb 2026 20:19:48 +0000"
@@ -116,24 +134,6 @@
           "title": "US President Trump promises new tariffs, slams Supreme Court decision",
           "link": "https://www.aljazeera.com/news/2026/2/20/us-president-trump-promises-new-tariffs-slams-supreme-court-decision?traffic_source=rss",
           "published": "Fri, 20 Feb 2026 20:14:54 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "More than 37 days of heavy rain brings disastrous flooding to France",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/2/20/more-than-37-days-of-heavy-rain-brings-disastrous-flooding-to-france?traffic_source=rss",
-          "published": "Fri, 20 Feb 2026 19:55:20 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Israeli attacks across Lebanon kill at least eight people",
-          "link": "https://www.aljazeera.com/news/2026/2/20/one-killed-in-israeli-strike-on-largest-palestinian-refugee-camp-in-lebanon?traffic_source=rss",
-          "published": "Fri, 20 Feb 2026 19:37:47 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "The truth behind wildlife tourism",
-          "link": "https://www.aljazeera.com/video/the-stream/2026/2/20/the-truth-behind-wildlife-tourism?traffic_source=rss",
-          "published": "Fri, 20 Feb 2026 19:30:00 +0000"
         }
       ]
     }
