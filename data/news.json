@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-20T21:44:48Z",
+  "updatedAt": "2026-02-20T21:59:23Z",
   "groups": [
     {
       "region": "Македонија",
@@ -107,6 +107,12 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Can Trump still impose tariffs after the Supreme Court ruling?",
+          "link": "https://www.aljazeera.com/economy/2026/2/20/can-trump-still-impose-tariffs-after-the-supreme-court-ruling?traffic_source=rss",
+          "published": "Fri, 20 Feb 2026 21:32:23 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "What’s next for Gaza after Trump’s Board of Peace meets in Washington?",
           "link": "https://www.aljazeera.com/video/inside-story/2026/2/20/whats-next-for-gaza-after-trumps-board-of-peace-meets-in-washington?traffic_source=rss",
           "published": "Fri, 20 Feb 2026 21:14:56 +0000"
@@ -128,12 +134,6 @@
           "title": "Tariff refunds could take years amid US Supreme Court ruling, experts warn",
           "link": "https://www.aljazeera.com/economy/2026/2/20/tariff-refunds-could-take-years-amid-us-supreme-court-ruling-experts-warn?traffic_source=rss",
           "published": "Fri, 20 Feb 2026 20:19:48 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "US President Trump promises new tariffs, slams Supreme Court decision",
-          "link": "https://www.aljazeera.com/news/2026/2/20/us-president-trump-promises-new-tariffs-slams-supreme-court-decision?traffic_source=rss",
-          "published": "Fri, 20 Feb 2026 20:14:54 +0000"
         }
       ]
     }
