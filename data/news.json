@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-20T19:03:47Z",
+  "updatedAt": "2026-02-20T19:45:40Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Советниците на Епстин постигнаа спогодба од 35 милиони долари",
+          "link": "https://makfax.com.mk/svet/%d1%81%d0%be%d0%b2%d0%b5%d1%82%d0%bd%d0%b8%d1%86%d0%b8%d1%82%d0%b5-%d0%bd%d0%b0-%d0%b5%d0%bf%d1%81%d1%82%d0%b8%d0%bd-%d0%bf%d0%be%d1%81%d1%82%d0%b8%d0%b3%d0%bd%d0%b0%d0%b0-%d1%81%d0%bf%d0%be%d0%b3/",
+          "published": "Fri, 20 Feb 2026 19:42:15 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) Последните денови на Ерик Дејн поминаа во болка: „Ја изгуби способноста да зборува…“",
+          "link": "https://makfax.com.mk/zanimlivosti/%d0%b2%d0%b8%d0%b4%d0%b5%d0%be-%d0%bf%d0%be%d1%81%d0%bb%d0%b5%d0%b4%d0%bd%d0%b8%d1%82%d0%b5-%d0%b4%d0%b5%d0%bd%d0%be%d0%b2%d0%b8-%d0%bd%d0%b0-%d0%b5%d1%80%d0%b8%d0%ba-%d0%b4%d0%b5%d1%98%d0%bd-%d0%bf/",
+          "published": "Fri, 20 Feb 2026 19:08:03 +0000"
         },
         {
           "source": "Makfax",
@@ -29,16 +41,16 @@
           "published": "Fri, 20 Feb 2026 18:07:23 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "(Фото/Видео) Наполни 60 години, а сè уште го има целиот свет под своите нозе",
-          "link": "https://makfax.com.mk/zanimlivosti/%d1%84%d0%be%d1%82%d0%be%d0%b2%d0%b8%d0%b4%d0%b5%d0%be-%d0%bd%d0%b0%d0%bf%d0%be%d0%bb%d0%bd%d0%b8-60-%d0%b3%d0%be%d0%b4%d0%b8%d0%bd%d0%b8-%d0%b0-%d1%81e-%d1%83%d1%88%d1%82%d0%b5-%d0%b3%d0%be/",
-          "published": "Fri, 20 Feb 2026 17:59:12 +0000"
+          "source": "NetPress",
+          "title": "Лавини убија уште тројца скијачи во Австрија",
+          "link": "https://netpress.com.mk/lavini-ubija-ushte-trojcza-skijachi-vo-avstrija/",
+          "published": "Fri, 20 Feb 2026 19:20:25 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Шведска воведува мобилен систем за предупредување од воздушен напад",
-          "link": "https://makfax.com.mk/svet/evropa/%d1%88%d0%b2%d0%b5%d0%b4%d1%81%d0%ba%d0%b0-%d0%b2%d0%be%d0%b2%d0%b5%d0%b4%d1%83%d0%b2%d0%b0-%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b5%d0%bd-%d1%81%d0%b8%d1%81%d1%82%d0%b5%d0%bc-%d0%b7%d0%b0-%d0%bf%d1%80/",
-          "published": "Fri, 20 Feb 2026 17:34:37 +0000"
+          "source": "NetPress",
+          "title": "Момче од Мала Речица планирало масовни убиства со Калашников",
+          "link": "https://netpress.com.mk/momche-od-mala-rechicza-planiralo-masovni-ubistva-so-kalashnikov/",
+          "published": "Fri, 20 Feb 2026 19:00:45 +0000"
         },
         {
           "source": "NetPress",
@@ -57,18 +69,6 @@
           "title": "Македонија и Унгарија ги зајакнуваат врските во делот на регионалниот развој и ЕУ политиките",
           "link": "https://netpress.com.mk/makedonija-i-ungarija-gi-zajaknuvaat-vrskite-vo-delot-na-regionalniot-razvoj-i-eu-politikite/",
           "published": "Fri, 20 Feb 2026 18:37:16 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Џиновски крст од 17 метри поставен на „Саграда Фамилија“ во Барселона",
-          "link": "https://netpress.com.mk/dhinovski-krst-od-17-metri-postaven-na-sagrada-familija-vo-barselona/",
-          "published": "Fri, 20 Feb 2026 18:17:42 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Повторно „падна“ обвинението за трагедијата во Нови Сад – Судењето никако да почне",
-          "link": "https://netpress.com.mk/povtorno-padna-obvinenieto-za-tragedijata-vo-novi-sad-sudeneto-nikako-da-pochne/",
-          "published": "Fri, 20 Feb 2026 17:22:28 +0000"
         }
       ]
     },
@@ -107,33 +107,33 @@
         },
         {
           "source": "Al Jazeera",
-          "title": "Why did the US Supreme Court strike down Trump’s global tariff policy?",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/2/20/why-did-the-us-supreme-court-strike-down-trumps-global-tariff-policy?traffic_source=rss",
-          "published": "Fri, 20 Feb 2026 18:36:39 +0000"
+          "title": "At least two killed in Israeli attack on Palestinian camp in Lebanon",
+          "link": "https://www.aljazeera.com/news/2026/2/20/one-killed-in-israeli-strike-on-largest-palestinian-refugee-camp-in-lebanon?traffic_source=rss",
+          "published": "Fri, 20 Feb 2026 19:37:47 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Inside Israel’s plan to turn West Bank land into ‘state property’",
-          "link": "https://www.aljazeera.com/video/the-take-2/2026/2/20/aje-onl-pal_wblandregistration_av_v3-1-180226?traffic_source=rss",
-          "published": "Fri, 20 Feb 2026 18:14:26 +0000"
+          "title": "The truth behind wildlife tourism",
+          "link": "https://www.aljazeera.com/video/the-stream/2026/2/20/the-truth-behind-wildlife-tourism?traffic_source=rss",
+          "published": "Fri, 20 Feb 2026 19:30:00 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Who made the cut on Trump’s ‘Board of Peace’ and what they want",
-          "link": "https://www.aljazeera.com/video/the-take-2/2026/2/20/aje-onl-glb_boardofpeacemeeting_av_v1-190226?traffic_source=rss",
-          "published": "Fri, 20 Feb 2026 18:08:19 +0000"
+          "title": "Trump suggests he won’t refund tariffs after Supreme Court ruling",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/2/20/trump-suggests-he-wont-refund-tariffs-after-supreme-court-ruling?traffic_source=rss",
+          "published": "Fri, 20 Feb 2026 19:27:25 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Man Utd owner Ratcliffe avoids charge by FA for ‘colonised’ comment",
-          "link": "https://www.aljazeera.com/sports/2026/2/20/man-utd-owner-ratcliffe-avoids-charge-by-fa-for-colonized-comment?traffic_source=rss",
-          "published": "Fri, 20 Feb 2026 17:54:14 +0000"
+          "title": "Trump ‘considering’ limited strikes on Iran",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/2/20/trump-considering-limited-strikes-on-iran?traffic_source=rss",
+          "published": "Fri, 20 Feb 2026 19:13:58 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Police search ex-Prince Andrew’s former home a day after his arrest",
-          "link": "https://www.aljazeera.com/news/2026/2/20/police-search-ex-prince-andrews-home-a-day-after-his-arrest?traffic_source=rss",
-          "published": "Fri, 20 Feb 2026 17:43:52 +0000"
+          "title": "Trump: Supreme Court’s rejection of tariffs ‘deeply disappointing’",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/2/20/trump-supreme-courts-rejection-of-tariffs-deeply?traffic_source=rss",
+          "published": "Fri, 20 Feb 2026 19:10:20 +0000"
         }
       ]
     }
