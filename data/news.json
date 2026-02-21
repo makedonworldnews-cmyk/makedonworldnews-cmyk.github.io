@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-21T09:02:50Z",
+  "updatedAt": "2026-02-21T09:42:41Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "(Фото+видео) Украински напад врз руска фабрика за ракети – 11 лица повредени",
+          "link": "https://makfax.com.mk/svet/%d1%84%d0%be%d1%82%d0%be%d0%b2%d0%b8%d0%b4%d0%b5%d0%be-%d1%83%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d1%81%d0%ba%d0%b8-%d0%bd%d0%b0%d0%bf%d0%b0%d0%b4-%d0%b2%d1%80%d0%b7-%d1%80%d1%83%d1%81%d0%ba%d0%b0-%d1%84/",
+          "published": "Sat, 21 Feb 2026 09:31:16 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Макрон ја поздрави пресудата на Врховниот суд против царините на Трамп",
+          "link": "https://makfax.com.mk/svet/%d0%bc%d0%b0%d0%ba%d1%80%d0%be%d0%bd-%d1%98%d0%b0-%d0%bf%d0%be%d0%b7%d0%b4%d1%80%d0%b0%d0%b2%d0%b8-%d0%bf%d1%80%d0%b5%d1%81%d1%83%d0%b4%d0%b0%d1%82%d0%b0-%d0%bd%d0%b0-%d0%b2%d1%80%d1%85%d0%be%d0%b2/",
+          "published": "Sat, 21 Feb 2026 09:17:21 +0000"
         },
         {
           "source": "Makfax",
@@ -29,46 +41,34 @@
           "published": "Sat, 21 Feb 2026 08:25:53 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Обвинителство: Забрана за две правни лица од Велешта да вршат ископ во близина на изворите за вода за пиење во Шум",
-          "link": "https://makfax.com.mk/makedonija/%d0%be%d0%b1%d0%b2%d0%b8%d0%bd%d0%b8%d1%82%d0%b5%d0%bb%d1%81%d1%82%d0%b2%d0%be-%d0%b7%d0%b0%d0%b1%d1%80%d0%b0%d0%bd%d0%b0-%d0%b7%d0%b0-%d0%b4%d0%b2%d0%b5-%d0%bf%d1%80%d0%b0%d0%b2%d0%bd%d0%b8-%d0%bb/",
-          "published": "Sat, 21 Feb 2026 08:12:10 +0000"
+          "source": "NetPress",
+          "title": "Иран подготвува противпредлог додека Трамп размислува за воени удари",
+          "link": "https://netpress.com.mk/iran-podgotvuva-protivpredlog-dodeka-tramp-razmisluva-za-voeni-udari/",
+          "published": "Sat, 21 Feb 2026 09:39:42 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Трамп потпиша указ за нови царини од 10 проценти на глобално ниво",
-          "link": "https://makfax.com.mk/svet/%d1%82%d1%80%d0%b0%d0%bc%d0%bf-%d0%bf%d0%be%d1%82%d0%bf%d0%b8%d1%88%d0%b0-%d1%83%d0%ba%d0%b0%d0%b7-%d0%b7%d0%b0-%d0%bd%d0%be%d0%b2%d0%b8-%d1%86%d0%b0%d1%80%d0%b8%d0%bd%d0%b8-%d0%be%d0%b4-10-%d0%bf/",
-          "published": "Sat, 21 Feb 2026 07:11:00 +0000"
+          "source": "NetPress",
+          "title": "Трамп потпиша извршна наредба – се воведуваат глобални царини од 10 проценти",
+          "link": "https://netpress.com.mk/tramp-potpisha-izvrshna-naredba-so-koja-se-voveduvaat-globalni-czarini-od-10-proczenti/",
+          "published": "Sat, 21 Feb 2026 09:31:59 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Судијата Катевеновски бил разрешен затоа што не ги исполнил нарачките на Заев, СДС и ДУИ за политички прогон",
+          "link": "https://netpress.com.mk/sudijata-katevenovski-bil-razreshen-zatoa-shto-ne-gi-ispolnil-narachkite-na-zaev-sds-i-dui-za-politichki-progon/",
+          "published": "Sat, 21 Feb 2026 09:28:50 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Уништена над еден тон небезбедна храна од продавниците за здрава храна",
+          "link": "https://netpress.com.mk/unishtena-nad-eden-ton-nebezbedna-hrana-od-prodavniczite-za-zdrava-hrana/",
+          "published": "Sat, 21 Feb 2026 09:26:17 +0000"
         },
         {
           "source": "NetPress",
           "title": "Забрани за правните лица што вршат ископ кај изворот Шум, осомничени се загадување на водата во струшкиот водовод",
           "link": "https://netpress.com.mk/zabrani-za-pravnite-licza-shto-vrshat-iskop-kaj-izvorot-shum-osomnicheni-se-zagaduvane-vodata-voi-strushkiot-vodovod/",
           "published": "Sat, 21 Feb 2026 08:51:02 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "ВИДЕО I Учесник на „Идол“ уапсен за убиство на сопругата, ја мамел полицијата",
-          "link": "https://netpress.com.mk/video-i-uchesnik-na-idol-uapsen-za-ubistvo-na-soprugata-ja-mamel-policzijata/",
-          "published": "Sat, 21 Feb 2026 08:42:32 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Непречено се одвива сообраќајот на патиштата",
-          "link": "https://netpress.com.mk/neprecheno-se-odviva-soobrakajot-na-patishtata/",
-          "published": "Sat, 21 Feb 2026 08:38:19 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Клинтонови ќе сведочат во истрагата за Епштајн следната седмица",
-          "link": "https://netpress.com.mk/klintonovi-ke-svedochat-vo-istragata-za-epshtajn-slednata-sedmicza/",
-          "published": "Sat, 21 Feb 2026 07:47:07 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Дневен хороскоп за сабота, 21-ви февруари 2026-та",
-          "link": "https://netpress.com.mk/dneven-horoskop-za-sabota-21-vi-fevruari-2026-ta/",
-          "published": "Sat, 21 Feb 2026 07:27:07 +0000"
         }
       ]
     },
@@ -107,6 +107,12 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Farmers in Gaza risk Israeli bullets to bring their fields back to life",
+          "link": "https://www.aljazeera.com/features/2026/2/21/farmers-in-gaza-risk-israeli-bullets-to-bring-their-fields-back-to-life?traffic_source=rss",
+          "published": "Sat, 21 Feb 2026 09:02:27 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Videos show aftermath of deadly Israeli attacks in Lebanon",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/2/21/videos-show-aftermath-of-deadly-israeli-attacks-in-lebanon?traffic_source=rss",
           "published": "Sat, 21 Feb 2026 08:25:34 +0000"
@@ -128,12 +134,6 @@
           "title": "Clashes in Albania as protesters demand PM Rama resign",
           "link": "https://www.aljazeera.com/news/2026/2/21/clashes-in-albania-as-protesters-demand-pm-rama-resign?traffic_source=rss",
           "published": "Sat, 21 Feb 2026 06:42:45 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "UK weighs removing ex-Prince Andrew from succession line amid Epstein probe",
-          "link": "https://www.aljazeera.com/news/2026/2/21/uk-weighs-removing-ex-prince-andrew-from-succession-line-amid-epstein-probe?traffic_source=rss",
-          "published": "Sat, 21 Feb 2026 06:20:37 +0000"
         }
       ]
     }
