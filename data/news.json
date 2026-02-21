@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-21T16:31:52Z",
+  "updatedAt": "2026-02-21T16:59:15Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Трамп ги зголемува новите царини од 10 на 15%",
+          "link": "https://makfax.com.mk/svet/%d1%82%d1%80%d0%b0%d0%bc%d0%bf-%d0%b3%d0%b8-%d0%b7%d0%b3%d0%be%d0%bb%d0%b5%d0%bc%d1%83%d0%b2%d0%b0-%d0%bd%d0%be%d0%b2%d0%b8%d1%82%d0%b5-%d1%86%d0%b0%d1%80%d0%b8%d0%bd%d0%b8-%d0%be%d0%b4-10-%d0%bd/",
+          "published": "Sat, 21 Feb 2026 16:36:03 +0000"
         },
         {
           "source": "Makfax",
@@ -35,10 +41,10 @@
           "published": "Sat, 21 Feb 2026 13:33:33 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Фицо ѝ се закани на Украина: Ако не добиеме нафта до понеделник, ќе ви ја исклучиме струјата",
-          "link": "https://makfax.com.mk/svet/%d1%84%d0%b8%d1%86%d0%be-%d1%9d-%d1%81%d0%b5-%d0%b7%d0%b0%d0%ba%d0%b0%d0%bd%d0%b8-%d0%bd%d0%b0-%d1%83%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d0%b0-%d0%b0%d0%ba%d0%be-%d0%bd%d0%b5-%d0%b4%d0%be%d0%b1%d0%b8/",
-          "published": "Sat, 21 Feb 2026 13:17:49 +0000"
+          "source": "NetPress",
+          "title": "ВИДЕО I Експлодира цистерна со течен гас на автопат во Чиле, четири лица загинаа",
+          "link": "https://netpress.com.mk/eksplodira-czisterna-so-techen-gas-na-avtopat-vo-chile-chetiri-licza-zaginaa/",
+          "published": "Sat, 21 Feb 2026 16:51:22 +0000"
         },
         {
           "source": "NetPress",
@@ -48,7 +54,7 @@
         },
         {
           "source": "NetPress",
-          "title": "Претседателот на Европската народна партија го повика Мерц цврсто да се заложи за заеднички европски одбранбени",
+          "title": "Претседателот на Европската народна партија го повика Мерц цврсто да се заложи за заеднички европски одбранбени напори",
           "link": "https://netpress.com.mk/pretsedatelot-na-evropskata-narodna-partija-go-povika-mercz-czvrsto-da-se-zalozhi-za-zaednichki-evropski-odbranbeni/",
           "published": "Sat, 21 Feb 2026 16:27:44 +0000"
         },
@@ -63,24 +69,12 @@
           "title": "Лицата кои работеле во странство треба да докажат дека комопанијата платила данок",
           "link": "https://netpress.com.mk/liczata-koi-rabotele-vo-stranstvo-treba-da-dokazhat-deka-komopanijata-platila-danok/",
           "published": "Sat, 21 Feb 2026 16:05:57 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Родителите на починатите во „Пулс“ реагираат на динамиката на судење",
-          "link": "https://netpress.com.mk/roditelite-na-pochinatite-vo-puls-reagiraat-na-dinamikata-na-sudene/",
-          "published": "Sat, 21 Feb 2026 16:01:21 +0000"
         }
       ]
     },
     {
       "region": "Свет",
       "items": [
-        {
-          "source": "BBC",
-          "title": "Trump ups tariffs day after Supreme Court ruling against him",
-          "link": "https://www.bbc.com/news/articles/cn8z48xwqn3o?at_medium=RSS&at_campaign=rss",
-          "published": "Sat, 21 Feb 2026 16:13:35 GMT"
-        },
         {
           "source": "BBC",
           "title": "Trump lashes out at Supreme Court justices over tariffs ruling",
@@ -92,6 +86,12 @@
           "title": "Killing of nationalist student leaves French far left in deep trouble as elections loom",
           "link": "https://www.bbc.com/news/articles/cnv61zv534eo?at_medium=RSS&at_campaign=rss",
           "published": "Sat, 21 Feb 2026 00:32:16 GMT"
+        },
+        {
+          "source": "BBC",
+          "title": "Divers recover bodies of seven Chinese tourists from bottom of Lake Baikal",
+          "link": "https://www.bbc.com/news/articles/czd8y96mldyo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 21 Feb 2026 16:43:36 GMT"
         },
         {
           "source": "BBC",
