@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-21T15:02:15Z",
+  "updatedAt": "2026-02-21T15:37:33Z",
   "groups": [
     {
       "region": "Македонија",
@@ -42,6 +42,12 @@
         },
         {
           "source": "NetPress",
+          "title": "Либанскиот претседател Аун го обвини Израел за поткопување на дипломатските напори за мир по нападите врз цели на Хезболах",
+          "link": "https://netpress.com.mk/libanskiot-pretsedatel-aun-go-obvini-izrael-za-potkopuvane-na-diplomatskite-napori-za-mir-po-napadite-vrz-czeli-na-hezbolah/",
+          "published": "Sat, 21 Feb 2026 15:15:32 +0000"
+        },
+        {
+          "source": "NetPress",
           "title": "Украина ја нападна руската република Удмуртија, а Русија ја ракетрираше Одеса",
           "link": "https://netpress.com.mk/ukraina-ja-napadna-ruskata-republika-udmurtija-a-rusija-ja-raketrirashe-odesa/",
           "published": "Sat, 21 Feb 2026 14:40:25 +0000"
@@ -63,12 +69,6 @@
           "title": "Киднапирале жител на село Гајре-го внеле во куќа, го тепале и му се заканувале со оружје",
           "link": "https://netpress.com.mk/kidnapirale-zhitel-na-selo-gajre-go-vnele-vo-kuka-go-tepale-i-mu-se-zakanuvale-so-oruzhje/",
           "published": "Sat, 21 Feb 2026 14:06:33 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Загина млад маж кај Виница, излетал од патот",
-          "link": "https://netpress.com.mk/zagina-mlad-mazh-kaj-vinicza-izletal-od-patot/",
-          "published": "Sat, 21 Feb 2026 13:51:07 +0000"
         }
       ]
     },
@@ -103,7 +103,7 @@
           "source": "BBC",
           "title": "Israeli strikes kill at least 10 in Lebanon, officials say",
           "link": "https://www.bbc.com/news/articles/cvg8914dkl0o?at_medium=RSS&at_campaign=rss",
-          "published": "Sat, 21 Feb 2026 09:56:05 GMT"
+          "published": "Sat, 21 Feb 2026 15:28:18 GMT"
         },
         {
           "source": "Al Jazeera",
