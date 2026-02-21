@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-21T10:43:50Z",
+  "updatedAt": "2026-02-21T11:01:39Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) Мицкоски: Македонија е жртва на класичен булинг на земји членки кои од внатре го уценуваат интегрирањето во ЕУ",
+          "link": "https://makfax.com.mk/makedonija/%d0%b2%d0%b8%d0%b4%d0%b5%d0%be-%d0%bc%d0%b8%d1%86%d0%ba%d0%be%d1%81%d0%ba%d0%b8-%d0%bc%d0%b0%d0%ba%d0%b5%d0%b4%d0%be%d0%bd%d0%b8%d1%98%d0%b0-%d0%b5-%d0%b6%d1%80%d1%82%d0%b2%d0%b0-%d0%bd%d0%b0/",
+          "published": "Sat, 21 Feb 2026 10:52:19 +0000"
         },
         {
           "source": "Makfax",
@@ -35,10 +41,10 @@
           "published": "Sat, 21 Feb 2026 08:31:52 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Трамп не планира да им враќа пари на компаниите поради укинувањето на царините",
-          "link": "https://makfax.com.mk/svet/%d1%82%d1%80%d0%b0%d0%bc%d0%bf-%d0%bd%d0%b5-%d0%bf%d0%bb%d0%b0%d0%bd%d0%b8%d1%80%d0%b0-%d0%b4%d0%b0-%d0%b8%d0%bc-%d0%b2%d1%80%d0%b0%d1%9c%d0%b0-%d0%bf%d0%b0%d1%80%d0%b8-%d0%bd%d0%b0-%d0%ba%d0%be%d0%bc/",
-          "published": "Sat, 21 Feb 2026 08:25:53 +0000"
+          "source": "NetPress",
+          "title": "Трамп за филмот на Меланија: Кината се полни, но не може дома да имаме две ѕвезди",
+          "link": "https://netpress.com.mk/tramp-za-filmot-na-melanija-kinata-se-polni-no-ne-mozhe-doma-da-imame-dve-zvezdi/",
+          "published": "Sat, 21 Feb 2026 10:52:04 +0000"
         },
         {
           "source": "NetPress",
@@ -63,12 +69,6 @@
           "title": "Нови лавини во Австрија усмртија пет скијачи",
           "link": "https://netpress.com.mk/novi-lavini-vo-avstrija-usmrtija-pet-skijachi/",
           "published": "Sat, 21 Feb 2026 10:21:07 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "НБА: Лејкерс го добија градското дерби, рекордна победа на Денвер",
-          "link": "https://netpress.com.mk/nba-lejkers-go-dobija-gradskoto-derbi-rekordna-pobeda-na-denver/",
-          "published": "Sat, 21 Feb 2026 10:07:40 +0000"
         }
       ]
     },
