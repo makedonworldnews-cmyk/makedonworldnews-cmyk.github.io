@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-21T06:02:52Z",
+  "updatedAt": "2026-02-21T06:58:59Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Времето денеска променливо облачно со сончеви периоди, од утре затоплување",
+          "link": "https://makfax.com.mk/makedonija/%d0%b2%d1%80%d0%b5%d0%bc%d0%b5%d1%82%d0%be-%d0%b4%d0%b5%d0%bd%d0%b5%d1%81%d0%ba%d0%b0-%d0%bf%d1%80%d0%be%d0%bc%d0%b5%d0%bd%d0%bb%d0%b8%d0%b2%d0%be-%d0%be%d0%b1%d0%bb%d0%b0%d1%87%d0%bd%d0%be-%d1%81-15/",
+          "published": "Sat, 21 Feb 2026 06:58:23 +0000"
         },
         {
           "source": "Makfax",
@@ -33,12 +39,6 @@
           "title": "(Видео) Насилни протести во Албанија: Фрлени молотови коктели врз зградата на владата",
           "link": "https://makfax.com.mk/svet/region/%d0%b2%d0%b8%d0%b4%d0%b5%d0%be-%d0%bd%d0%b0%d1%81%d0%b8%d0%bb%d0%bd%d0%b8-%d0%bf%d1%80%d0%be%d1%82%d0%b5%d1%81%d1%82%d0%b8-%d0%b2%d0%be-%d0%b0%d0%bb%d0%b1%d0%b0%d0%bd%d0%b8%d1%98%d0%b0-%d1%84%d1%80/",
           "published": "Fri, 20 Feb 2026 21:05:49 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "(Фото) Најбараниот модел во светот е во врска",
-          "link": "https://makfax.com.mk/zanimlivosti/%d1%84%d0%be%d1%82%d0%be-%d0%bd%d0%b0%d1%98%d0%b1%d0%b0%d1%80%d0%b0%d0%bd%d0%b8%d0%be%d1%82-%d0%bc%d0%be%d0%b4%d0%b5%d0%bb-%d0%b2%d0%be-%d1%81%d0%b2%d0%b5%d1%82%d0%be%d1%82-%d0%b5-%d0%b2%d0%be/",
-          "published": "Fri, 20 Feb 2026 20:58:03 +0000"
         },
         {
           "source": "NetPress",
@@ -95,15 +95,27 @@
         },
         {
           "source": "BBC",
+          "title": "Family of Palestinian-American man killed in West Bank demand accountability",
+          "link": "https://www.bbc.com/news/articles/cvgk7z15gnpo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 21 Feb 2026 05:56:27 GMT"
+        },
+        {
+          "source": "BBC",
           "title": "Killing of nationalist student leaves French far left in deep trouble as elections loom",
           "link": "https://www.bbc.com/news/articles/cnv61zv534eo?at_medium=RSS&at_campaign=rss",
           "published": "Sat, 21 Feb 2026 00:32:16 GMT"
         },
         {
-          "source": "BBC",
-          "title": "Nasa targets early March to send humans back around the Moon",
-          "link": "https://www.bbc.com/news/articles/c86y1g6wde3o?at_medium=RSS&at_campaign=rss",
-          "published": "Fri, 20 Feb 2026 17:00:26 GMT"
+          "source": "Al Jazeera",
+          "title": "Clashes in Albania as protesters demand PM Rama resign",
+          "link": "https://www.aljazeera.com/news/2026/2/21/clashes-in-albania-as-protesters-demand-pm-rama-resign?traffic_source=rss",
+          "published": "Sat, 21 Feb 2026 06:42:45 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "UK weighs removing ex-Prince Andrew from succession line amid Epstein probe",
+          "link": "https://www.aljazeera.com/news/2026/2/21/uk-weighs-removing-ex-prince-andrew-from-succession-line-amid-epstein-probe?traffic_source=rss",
+          "published": "Sat, 21 Feb 2026 06:20:37 +0000"
         },
         {
           "source": "Al Jazeera",
@@ -122,18 +134,6 @@
           "title": "Gunmen on motorcycles kill at least 50 in northwest Nigeria: Report",
           "link": "https://www.aljazeera.com/news/2026/2/21/gunmen-on-motorcycles-kill-at-least-50-in-northwest-nigeria-report?traffic_source=rss",
           "published": "Sat, 21 Feb 2026 03:38:23 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Trump, JD Vance vilify ‘lawless’ Supreme Court justices over tariff ruling",
-          "link": "https://www.aljazeera.com/news/2026/2/21/trump-jd-vance-vilify-lawless-supreme-court-justices-over-tariff-ruling?traffic_source=rss",
-          "published": "Sat, 21 Feb 2026 02:46:25 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Russia-Ukraine war: List of key events, day 1,458",
-          "link": "https://www.aljazeera.com/news/2026/2/21/russia-ukraine-war-list-of-key-events-day-1458?traffic_source=rss",
-          "published": "Sat, 21 Feb 2026 01:25:18 +0000"
         }
       ]
     }
