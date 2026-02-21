@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-21T13:42:20Z",
+  "updatedAt": "2026-02-21T14:11:44Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "По протестот на опозицијата во Тирана, 17 лица се уапсени, а 35 под истрага",
+          "link": "https://makfax.com.mk/svet/region/%d0%bf%d0%be-%d0%bf%d1%80%d0%be%d1%82%d0%b5%d1%81%d1%82%d0%be%d1%82-%d0%bd%d0%b0-%d0%be%d0%bf%d0%be%d0%b7%d0%b8%d1%86%d0%b8%d1%98%d0%b0%d1%82%d0%b0-%d0%b2%d0%be-%d1%82%d0%b8%d1%80%d0%b0%d0%bd%d0%b0-1/",
+          "published": "Sat, 21 Feb 2026 13:42:40 +0000"
         },
         {
           "source": "Makfax",
@@ -35,10 +41,22 @@
           "published": "Sat, 21 Feb 2026 12:37:14 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Филипче: Единствениот булинг на македонскиот народ му го прават ВМРО-ОКГ и Мицкоски",
-          "link": "https://makfax.com.mk/makedonija/%d1%84%d0%b8%d0%bb%d0%b8%d0%bf%d1%87%d0%b5-%d0%b5%d0%b4%d0%b8%d0%bd%d1%81%d1%82%d0%b2%d0%b5%d0%bd%d0%b8%d0%be%d1%82-%d0%b1%d1%83%d0%bb%d0%b8%d0%bd%d0%b3-%d0%bd%d0%b0-%d0%bc%d0%b0%d0%ba%d0%b5%d0%b4/",
-          "published": "Sat, 21 Feb 2026 12:23:39 +0000"
+          "source": "NetPress",
+          "title": "Киднапирале жител на село Гајре-го внеле во куќа, го тепале и му се заканувале со оружје",
+          "link": "https://netpress.com.mk/kidnapirale-zhitel-na-selo-gajre-go-vnele-vo-kuka-go-tepale-i-mu-se-zakanuvale-so-oruzhje/",
+          "published": "Sat, 21 Feb 2026 14:06:33 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Загина млад маж кај Виница, излетал од патот",
+          "link": "https://netpress.com.mk/zagina-mlad-mazh-kaj-vinicza-izletal-od-patot/",
+          "published": "Sat, 21 Feb 2026 13:51:07 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Фирма на син на поранешен претседател на СДСМ во Ново Село вмешана во случајот со марихуаната фатена во Србија",
+          "link": "https://netpress.com.mk/firma-na-sin-na-poraneshen-pretsedatel-na-sdsm-vo-novo-selo-vmeshana-vo-sluchajot-so-marihuanata-fatena-vo-srbija/",
+          "published": "Sat, 21 Feb 2026 13:46:52 +0000"
         },
         {
           "source": "NetPress",
@@ -51,24 +69,6 @@
           "title": "Мицкоски очекува делницата Гостивар-Букојчани да биде завршена во предвидениот рок",
           "link": "https://netpress.com.mk/miczkoski-ochekuva-delniczata-gostivar-bukojchani-da-bide-zavrshena-vo-predvideniot-rok/",
           "published": "Sat, 21 Feb 2026 13:34:32 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Со одлична динамика се гради автопатот Гостивар – Букојчани",
-          "link": "https://netpress.com.mk/so-odlichna-dinamika-se-gradi-avtopatot-gostivar-bukojchani/",
-          "published": "Sat, 21 Feb 2026 13:27:15 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Пожар во угостителски објект во трговскиот центар во Кочани",
-          "link": "https://netpress.com.mk/pozhar-vo-ugostitelski-objekt-vo-trgovskiot-czentar-vo-kochani/",
-          "published": "Sat, 21 Feb 2026 12:40:38 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "ВИДЕО I Потресно сведоштво на 85-годишна жена од кумановско, ѝ завиткал ќебе на глава и ја давел!",
-          "link": "https://netpress.com.mk/video-i-potresno-svedoshtvo-na-85-godishna-zhena-od-kumanovsko-%d1%9d-zavitkal-kebe-na-glava-i-ja-davel/",
-          "published": "Sat, 21 Feb 2026 12:12:05 +0000"
         }
       ]
     },
