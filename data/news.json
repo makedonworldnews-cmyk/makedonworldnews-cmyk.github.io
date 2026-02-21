@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-21T06:58:59Z",
+  "updatedAt": "2026-02-21T07:39:10Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Трамп потпиша указ за нови царини од 10 проценти на глобално ниво",
+          "link": "https://makfax.com.mk/svet/%d1%82%d1%80%d0%b0%d0%bc%d0%bf-%d0%bf%d0%be%d1%82%d0%bf%d0%b8%d1%88%d0%b0-%d1%83%d0%ba%d0%b0%d0%b7-%d0%b7%d0%b0-%d0%bd%d0%be%d0%b2%d0%b8-%d1%86%d0%b0%d1%80%d0%b8%d0%bd%d0%b8-%d0%be%d0%b4-10-%d0%bf/",
+          "published": "Sat, 21 Feb 2026 07:11:00 +0000"
         },
         {
           "source": "Makfax",
@@ -35,10 +41,16 @@
           "published": "Fri, 20 Feb 2026 21:13:04 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "(Видео) Насилни протести во Албанија: Фрлени молотови коктели врз зградата на владата",
-          "link": "https://makfax.com.mk/svet/region/%d0%b2%d0%b8%d0%b4%d0%b5%d0%be-%d0%bd%d0%b0%d1%81%d0%b8%d0%bb%d0%bd%d0%b8-%d0%bf%d1%80%d0%be%d1%82%d0%b5%d1%81%d1%82%d0%b8-%d0%b2%d0%be-%d0%b0%d0%bb%d0%b1%d0%b0%d0%bd%d0%b8%d1%98%d0%b0-%d1%84%d1%80/",
-          "published": "Fri, 20 Feb 2026 21:05:49 +0000"
+          "source": "NetPress",
+          "title": "Дневен хороскоп за сабота, 21-ви февруари 2026-та",
+          "link": "https://netpress.com.mk/dneven-horoskop-za-sabota-21-vi-fevruari-2026-ta/",
+          "published": "Sat, 21 Feb 2026 07:27:07 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Променливо облачно, наместа ќе провејува снег",
+          "link": "https://netpress.com.mk/promenlivo-oblachno-namesta-ke-provejuva-sneg/",
+          "published": "Sat, 21 Feb 2026 07:07:48 +0000"
         },
         {
           "source": "NetPress",
@@ -57,18 +69,6 @@
           "title": "Полска планира да ја минира границата со Русија",
           "link": "https://netpress.com.mk/polska-planira-da-ja-minira-graniczata-so-rusija/",
           "published": "Fri, 20 Feb 2026 21:36:00 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "АТП Доха: Алкараз против Фис во финалето",
-          "link": "https://netpress.com.mk/atp-doha-alkaraz-protiv-fis-vo-finaleto/",
-          "published": "Fri, 20 Feb 2026 21:21:39 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Унгарија ќе го блокира заемот од ЕУ за Украина сè додека не ги обнови испораките на нафта",
-          "link": "https://netpress.com.mk/ungarija-ke-go-blokira-zaemot-od-eu-za-ukraina-se-dodeka-ne-gi-obnovi-isporakite-na-nafta/",
-          "published": "Fri, 20 Feb 2026 21:12:39 +0000"
         }
       ]
     },
@@ -107,6 +107,12 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Trump to make three-day visit to China next month, White House says",
+          "link": "https://www.aljazeera.com/news/2026/2/21/trump-to-make-three-day-visit-to-china-next-month-white-house-says?traffic_source=rss",
+          "published": "Sat, 21 Feb 2026 07:18:23 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Clashes in Albania as protesters demand PM Rama resign",
           "link": "https://www.aljazeera.com/news/2026/2/21/clashes-in-albania-as-protesters-demand-pm-rama-resign?traffic_source=rss",
           "published": "Sat, 21 Feb 2026 06:42:45 +0000"
@@ -128,12 +134,6 @@
           "title": "Brazil’s Lula says Maduro should face trial in Venezuela, not US",
           "link": "https://www.aljazeera.com/news/2026/2/21/brazils-lula-says-maduro-should-face-trial-in-venezuela-not-us?traffic_source=rss",
           "published": "Sat, 21 Feb 2026 04:22:42 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Gunmen on motorcycles kill at least 50 in northwest Nigeria: Report",
-          "link": "https://www.aljazeera.com/news/2026/2/21/gunmen-on-motorcycles-kill-at-least-50-in-northwest-nigeria-report?traffic_source=rss",
-          "published": "Sat, 21 Feb 2026 03:38:23 +0000"
         }
       ]
     }
