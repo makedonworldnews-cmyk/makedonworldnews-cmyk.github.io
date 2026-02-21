@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-21T09:42:41Z",
+  "updatedAt": "2026-02-21T10:00:20Z",
   "groups": [
     {
       "region": "Македонија",
@@ -42,7 +42,19 @@
         },
         {
           "source": "NetPress",
-          "title": "Иран подготвува противпредлог додека Трамп размислува за воени удари",
+          "title": "ВИДЕО I Американската војска уништи брод на нарко-флота во Пацификот",
+          "link": "https://netpress.com.mk/video-i-amerikanskata-vojska-unishti-brod-na-narko-flota-vo-paczifikot/",
+          "published": "Sat, 21 Feb 2026 09:53:56 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "ВИДЕО I 11-годишник го застрелал очувот зашто не му го давал Нинтендото!?",
+          "link": "https://netpress.com.mk/video-i-11-godishnik-go-zastrelal-ochuvot-zashto-ne-mu-go-daval-nintendoto-mu-se-sudi-kako-na-vozrasen/",
+          "published": "Sat, 21 Feb 2026 09:44:59 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Иран подготвува противпредлог, додека Трамп размислува за воени удари",
           "link": "https://netpress.com.mk/iran-podgotvuva-protivpredlog-dodeka-tramp-razmisluva-za-voeni-udari/",
           "published": "Sat, 21 Feb 2026 09:39:42 +0000"
         },
@@ -57,18 +69,6 @@
           "title": "Судијата Катевеновски бил разрешен затоа што не ги исполнил нарачките на Заев, СДС и ДУИ за политички прогон",
           "link": "https://netpress.com.mk/sudijata-katevenovski-bil-razreshen-zatoa-shto-ne-gi-ispolnil-narachkite-na-zaev-sds-i-dui-za-politichki-progon/",
           "published": "Sat, 21 Feb 2026 09:28:50 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Уништена над еден тон небезбедна храна од продавниците за здрава храна",
-          "link": "https://netpress.com.mk/unishtena-nad-eden-ton-nebezbedna-hrana-od-prodavniczite-za-zdrava-hrana/",
-          "published": "Sat, 21 Feb 2026 09:26:17 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Забрани за правните лица што вршат ископ кај изворот Шум, осомничени се загадување на водата во струшкиот водовод",
-          "link": "https://netpress.com.mk/zabrani-za-pravnite-licza-shto-vrshat-iskop-kaj-izvorot-shum-osomnicheni-se-zagaduvane-vodata-voi-strushkiot-vodovod/",
-          "published": "Sat, 21 Feb 2026 08:51:02 +0000"
         }
       ]
     },
@@ -89,21 +89,27 @@
         },
         {
           "source": "BBC",
-          "title": "Trump says he is considering limited military strike on Iran",
-          "link": "https://www.bbc.com/news/articles/cdxzk4gvzp0o?at_medium=RSS&at_campaign=rss",
-          "published": "Fri, 20 Feb 2026 22:38:45 GMT"
-        },
-        {
-          "source": "BBC",
-          "title": "Family of Palestinian-American man killed in West Bank demand accountability",
-          "link": "https://www.bbc.com/news/articles/cvgk7z15gnpo?at_medium=RSS&at_campaign=rss",
-          "published": "Sat, 21 Feb 2026 05:56:27 GMT"
-        },
-        {
-          "source": "BBC",
           "title": "Killing of nationalist student leaves French far left in deep trouble as elections loom",
           "link": "https://www.bbc.com/news/articles/cnv61zv534eo?at_medium=RSS&at_campaign=rss",
           "published": "Sat, 21 Feb 2026 00:32:16 GMT"
+        },
+        {
+          "source": "BBC",
+          "title": "Palestinian Authority in dire straits as Israel's hold on West Bank deepens",
+          "link": "https://www.bbc.com/news/articles/c9wn8lw0kgjo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 21 Feb 2026 06:33:52 GMT"
+        },
+        {
+          "source": "BBC",
+          "title": "Israeli strikes kill at least 10 in Lebanon, officials say",
+          "link": "https://www.bbc.com/news/articles/cvg8914dkl0o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 21 Feb 2026 09:56:05 GMT"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "World reacts as US top court limits Trump’s tariff powers",
+          "link": "https://www.aljazeera.com/news/2026/2/21/trump-tariff-reactions?traffic_source=rss",
+          "published": "Sat, 21 Feb 2026 09:40:50 +0000"
         },
         {
           "source": "Al Jazeera",
@@ -128,12 +134,6 @@
           "title": "Trump to make three-day visit to China next month, White House says",
           "link": "https://www.aljazeera.com/news/2026/2/21/trump-to-make-three-day-visit-to-china-next-month-white-house-says?traffic_source=rss",
           "published": "Sat, 21 Feb 2026 07:18:23 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Clashes in Albania as protesters demand PM Rama resign",
-          "link": "https://www.aljazeera.com/news/2026/2/21/clashes-in-albania-as-protesters-demand-pm-rama-resign?traffic_source=rss",
-          "published": "Sat, 21 Feb 2026 06:42:45 +0000"
         }
       ]
     }
