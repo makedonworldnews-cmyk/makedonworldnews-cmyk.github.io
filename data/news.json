@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-21T21:40:49Z",
+  "updatedAt": "2026-02-21T21:58:40Z",
   "groups": [
     {
       "region": "Македонија",
@@ -42,6 +42,18 @@
         },
         {
           "source": "NetPress",
+          "title": "Пезешкијан: Иран нема да попушти под притисокот за време на преговорите со САД",
+          "link": "https://netpress.com.mk/pezeshkijan-iran-nema-da-popushti-pod-pritisokot-za-vreme-na-pregovorite-so-sad/",
+          "published": "Sat, 21 Feb 2026 21:58:22 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Украинското МНР го осуди притисокот од Унгарија и Словачка",
+          "link": "https://netpress.com.mk/ukrainskoto-mnr-go-osudi-pritisokot-od-ungarija-i-slovachka/",
+          "published": "Sat, 21 Feb 2026 21:46:30 +0000"
+        },
+        {
+          "source": "NetPress",
           "title": "Германско-турскиот филм „Жолти писма“ победник на годинешното Берлинале",
           "link": "https://netpress.com.mk/germansko-turskiot-film-zholti-pisma-pobednik-na-godineshnoto-berlinale/",
           "published": "Sat, 21 Feb 2026 21:34:33 +0000"
@@ -57,18 +69,6 @@
           "title": "Ла Лига: Осасуна го победи Реал Мадрид",
           "link": "https://netpress.com.mk/la-liga-osasuna-go-pobedi-real-madrid/",
           "published": "Sat, 21 Feb 2026 20:07:48 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Новите царини носат неизвесност за сојузниците на САД, анализира Би Би Си",
-          "link": "https://netpress.com.mk/novite-czarini-nosat-neizvesnost-za-sojuzniczite-na-sad-analizira-bi-bi-si/",
-          "published": "Sat, 21 Feb 2026 19:57:34 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Лагард: На Европската Унија не и се потребни сите земји-членки за да напредува",
-          "link": "https://netpress.com.mk/lagard-na-evropskata-unija-ne-i-se-potrebni-site-zemji-chlenki-za-da-napreduva/",
-          "published": "Sat, 21 Feb 2026 19:54:33 +0000"
         }
       ]
     },
@@ -107,12 +107,6 @@
         },
         {
           "source": "Al Jazeera",
-          "title": "‘Absurd and provocative’: Huckabee faces firestorm for Israel border stance",
-          "link": "https://www.aljazeera.com/news/2026/2/21/absurd-and-provocative-huckabee-faces-firestorm-for-israel-border-stance?traffic_source=rss",
-          "published": "Sat, 21 Feb 2026 21:31:19 +0000"
-        },
-        {
-          "source": "Al Jazeera",
           "title": "Slovakia threatens to cut electricity to Ukraine over Russian oil spat",
           "link": "https://www.aljazeera.com/news/2026/2/21/slovakia-threatens-to-cut-electricity-to-ukraine-over-russian-oil-spat?traffic_source=rss",
           "published": "Sat, 21 Feb 2026 20:12:45 +0000"
@@ -134,6 +128,12 @@
           "title": "Israeli army kills 2 Palestinians in strikes on Gaza during Ramadan",
           "link": "https://www.aljazeera.com/news/2026/2/21/israeli-military-kills-two-in-early-ramadan-strikes-in-gaza?traffic_source=rss",
           "published": "Sat, 21 Feb 2026 17:27:11 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Pakistan-New Zealand Super Eights opener abandoned at T20 World Cup",
+          "link": "https://www.aljazeera.com/sports/2026/2/21/pakistan-new-zealand-super-eights-opener-abandoned-at-t20-world-cup?traffic_source=rss",
+          "published": "Sat, 21 Feb 2026 17:01:02 +0000"
         }
       ]
     }
