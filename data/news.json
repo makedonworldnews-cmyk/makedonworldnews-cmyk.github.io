@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-22T19:25:51Z",
+  "updatedAt": "2026-02-22T19:46:34Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Околу 500 патници заглавени во авиони поради снег во Минхен",
+          "link": "https://makfax.com.mk/svet/evropa/%d0%be%d0%ba%d0%be%d0%bb%d1%83-500-%d0%bf%d0%b0%d1%82%d0%bd%d0%b8%d1%86%d0%b8-%d0%b7%d0%b0%d0%b3%d0%bb%d0%b0%d0%b2%d0%b5%d0%bd%d0%b8-%d0%b2%d0%be-%d0%b0%d0%b2%d0%b8%d0%be%d0%bd%d0%b8-%d0%bf%d0%be/",
+          "published": "Sun, 22 Feb 2026 19:40:54 +0000"
         },
         {
           "source": "Makfax",
@@ -35,15 +41,15 @@
           "published": "Sun, 22 Feb 2026 16:26:34 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Мажот кој се обиде да влезе во имотот на Трамп дигнал пушка во позиција за пукање пред агентите да го убијат",
-          "link": "https://makfax.com.mk/svet/%d0%bc%d0%b0%d0%b6%d0%be%d1%82-%d0%ba%d0%be%d1%98-%d1%81%d0%b5-%d0%be%d0%b1%d0%b8%d0%b4%d0%b5-%d0%b4%d0%b0-%d0%b2%d0%bb%d0%b5%d0%b7%d0%b5-%d0%b2%d0%be-%d0%b8%d0%bc%d0%be%d1%82%d0%be%d1%82-%d0%bd%d0%b0/",
-          "published": "Sun, 22 Feb 2026 16:19:13 +0000"
+          "source": "NetPress",
+          "title": "ВИДЕО I Хаос во Мексико!Насилства по убиството на нарко-босот „Ел Менчо“",
+          "link": "https://netpress.com.mk/video-i-haos-vo-meksikonasilstva-po-ubistvoto-na-narko-bosot-el-mencho/",
+          "published": "Sun, 22 Feb 2026 19:43:05 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Алиу ги соопшти – 6 од 10 производители на канабис ќе ги изгубат лиценците",
-          "link": "https://netpress.com.mk/aliu-gi-soopshti-6-od-10-proizvoditeli-na-kanabis-ke-gi-izgubat-liczenczite/",
+          "title": "Алиу ги објави – 6 од 10 производители на канабис ќе ги изгубат лиценците",
+          "link": "https://netpress.com.mk/aliu-gi-objavi-6-od-10-proizvoditeli-na-kanabis-ke-gi-izgubat-liczenczite/",
           "published": "Sun, 22 Feb 2026 19:09:15 +0000"
         },
         {
@@ -63,12 +69,6 @@
           "title": "Британскиот министер Хили смета дека распоредувањето на нивни војници во Украина би значело крај на војната",
           "link": "https://netpress.com.mk/britanskiot-minister-hili-smeta-deka-rasporeduvaneto-na-nivni-vojniczi-vo-ukraina-bi-znachelo-kraj-na-vojnata/",
           "published": "Sun, 22 Feb 2026 18:16:00 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Кривични за четворица измамници, со лажни сообрќајки собрале 3,7 милиони денари, „мозокот“ бил во Софија",
-          "link": "https://netpress.com.mk/krivichni-za-chetvoricza-izmamniczi-so-lazhni-soobrkajki-sobrale-37-milioni-denari-mozokot-bil-vo-sofija/",
-          "published": "Sun, 22 Feb 2026 17:23:56 +0000"
         }
       ]
     },
@@ -79,7 +79,7 @@
           "source": "BBC",
           "title": "Armed man killed after entering secure perimeter of Trump's residence, Secret Service says",
           "link": "https://www.bbc.com/news/articles/cp32l9w9pgyo?at_medium=RSS&at_campaign=rss",
-          "published": "Sun, 22 Feb 2026 17:32:34 GMT"
+          "published": "Sun, 22 Feb 2026 19:30:35 GMT"
         },
         {
           "source": "BBC",
