@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-22T22:25:50Z",
+  "updatedAt": "2026-02-22T22:52:24Z",
   "groups": [
     {
       "region": "Македонија",
@@ -42,6 +42,18 @@
         },
         {
           "source": "NetPress",
+          "title": "Серија А:  Рома ги искористи поразите на Милан и Наполи",
+          "link": "https://netpress.com.mk/serija-a-roma-gi-iskoristi-porazite-na-milan-i-napoli/",
+          "published": "Sun, 22 Feb 2026 22:39:45 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Ла Лига: Барселона повторно на врвот на табелата",
+          "link": "https://netpress.com.mk/la-liga-barselona-povtorno-na-vrvot-na-tabelata/",
+          "published": "Sun, 22 Feb 2026 22:26:54 +0000"
+        },
+        {
+          "source": "NetPress",
           "title": "„Битка по битка“ голем победник на британските филмски награди",
           "link": "https://netpress.com.mk/bitka-po-bitka-golem-pobednik-na-britanskite-filmski-nagradi/",
           "published": "Sun, 22 Feb 2026 22:12:33 +0000"
@@ -57,18 +69,6 @@
           "title": "АТП Доха: Алкараз го прегази Фис за титулата",
           "link": "https://netpress.com.mk/atp-doha-alkaraz-go-pregazi-fis-za-titulata/",
           "published": "Sun, 22 Feb 2026 20:44:05 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "ЕУ не ги прифаќа новите царини на Трамп, бара Вашингтон да го почитува трговскиот договор",
-          "link": "https://netpress.com.mk/eu-ne-gi-prifaka-novite-czarini-na-tramp-bara-vashington-da-go-pochituva-trgovskiot-dogovor/",
-          "published": "Sun, 22 Feb 2026 20:36:25 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Премиер лига: Арсенал убедлив против Тотенхем",
-          "link": "https://netpress.com.mk/premier-liga-arsenal-ubedliv-protiv-totenhem/",
-          "published": "Sun, 22 Feb 2026 20:02:52 +0000"
         }
       ]
     },
@@ -107,6 +107,12 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Mexico announces killing of drug cartel kingpin ‘El Mencho’",
+          "link": "https://www.aljazeera.com/news/2026/2/22/mexico-announces-killing-of-drug-cartel-kingpin-el-mencho?traffic_source=rss",
+          "published": "Sun, 22 Feb 2026 22:38:23 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "What will Trump’s latest sweeping tariffs mean for the world?",
           "link": "https://www.aljazeera.com/video/inside-story/2026/2/22/what-will-trumps-latest-sweeping-tariffs-mean-for-the-world?traffic_source=rss",
           "published": "Sun, 22 Feb 2026 21:45:56 +0000"
@@ -128,12 +134,6 @@
           "title": "The AI alarm cycle: Lots of talk, little action",
           "link": "https://www.aljazeera.com/video/the-listening-post/2026/2/22/the-ai-alarm-cycle-lots-of-talk-little-action?traffic_source=rss",
           "published": "Sun, 22 Feb 2026 20:08:45 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Eze hurts Tottenham again to reignite Arsenal’s title hopes with 4-1 win",
-          "link": "https://www.aljazeera.com/sports/2026/2/22/eze-hurts-tottenham-again-to-reignite-arsenals-title-hopes-with-4-1-win?traffic_source=rss",
-          "published": "Sun, 22 Feb 2026 19:06:04 +0000"
         }
       ]
     }
