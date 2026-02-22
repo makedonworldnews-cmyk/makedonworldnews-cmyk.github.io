@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-22T19:58:26Z",
+  "updatedAt": "2026-02-22T20:37:14Z",
   "groups": [
     {
       "region": "Македонија",
@@ -42,6 +42,24 @@
         },
         {
           "source": "NetPress",
+          "title": "ЕУ не ги прифаќа новите царини на Трамп, бара Вашингтон да го почитува трговскиот договор",
+          "link": "https://netpress.com.mk/eu-ne-gi-prifaka-novite-czarini-na-tramp-bara-vashington-da-go-pochituva-trgovskiot-dogovor/",
+          "published": "Sun, 22 Feb 2026 20:36:25 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Премиер лига: Арсенал убедлив против Тотенхем",
+          "link": "https://netpress.com.mk/premier-liga-arsenal-ubedliv-protiv-totenhem/",
+          "published": "Sun, 22 Feb 2026 20:02:52 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Пазешкијан: Има охрабрувачки сигнали во преговорите со САД",
+          "link": "https://netpress.com.mk/pazeshkijan-ima-ohrabruvachki-signali-vo-pregovorite-so-sad/",
+          "published": "Sun, 22 Feb 2026 20:00:16 +0000"
+        },
+        {
+          "source": "NetPress",
           "title": "Софистициран  шверц на марихуаната – пакувана како „квалитетни лесни перници“",
           "link": "https://netpress.com.mk/sofisticziran-shvercz-na-marihuanata-pakuvana-vo-pratki-kako-kvalitetni-lesni-perniczi/",
           "published": "Sun, 22 Feb 2026 19:54:13 +0000"
@@ -51,30 +69,18 @@
           "title": "ВИДЕО I Хаос во Мексико!Насилства по убиството на нарко-босот „Ел Менчо“",
           "link": "https://netpress.com.mk/video-i-haos-vo-meksikonasilstva-po-ubistvoto-na-narko-bosot-el-mencho/",
           "published": "Sun, 22 Feb 2026 19:43:05 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Алиу ги објави – 6 од 10 производители на канабис ќе ги изгубат лиценците",
-          "link": "https://netpress.com.mk/aliu-gi-objavi-6-od-10-proizvoditeli-na-kanabis-ke-gi-izgubat-liczenczite/",
-          "published": "Sun, 22 Feb 2026 19:09:15 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Снегот принуди 500 патници да преноќат во авиони на минхенскиот аеродромот",
-          "link": "https://netpress.com.mk/snegot-prinudi-500-patniczi-da-prenokat-vo-avioni-na-minhenskiot-aerodromot/",
-          "published": "Sun, 22 Feb 2026 19:01:16 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "ВИДЕО| Белата куќа: Застреланиот на имотот  на Трамп бил „луда личност“",
-          "link": "https://netpress.com.mk/video-belata-kuka-zastrelaniot-na-imotot-na-tramp-bil-luda-lichnost/",
-          "published": "Sun, 22 Feb 2026 18:56:43 +0000"
         }
       ]
     },
     {
       "region": "Свет",
       "items": [
+        {
+          "source": "BBC",
+          "title": "Mexico's most wanted drug lord 'El Mencho' killed in military operation",
+          "link": "https://www.bbc.com/news/articles/cy4wywnrdd8o?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 22 Feb 2026 20:16:00 GMT"
+        },
         {
           "source": "BBC",
           "title": "Armed man killed after entering secure perimeter of Trump's residence, Secret Service says",
@@ -100,10 +106,16 @@
           "published": "Sun, 22 Feb 2026 18:18:41 GMT"
         },
         {
-          "source": "BBC",
-          "title": "Greenland says 'no thanks' to Trump US hospital boat",
-          "link": "https://www.bbc.com/news/articles/cy7jnvdzpr7o?at_medium=RSS&at_campaign=rss",
-          "published": "Sun, 22 Feb 2026 17:27:16 GMT"
+          "source": "Al Jazeera",
+          "title": "The Carlson-Huckabee interview may be the wake-up call Americans needed",
+          "link": "https://www.aljazeera.com/opinions/2026/2/22/the-carlson-huckabee-interview-may-be-the-wake-up-call-americans-needed?traffic_source=rss",
+          "published": "Sun, 22 Feb 2026 20:09:34 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "The AI alarm cycle: Lots of talk, little action",
+          "link": "https://www.aljazeera.com/video/the-listening-post/2026/2/22/the-ai-alarm-cycle-lots-of-talk-little-action?traffic_source=rss",
+          "published": "Sun, 22 Feb 2026 20:08:45 +0000"
         },
         {
           "source": "Al Jazeera",
@@ -122,18 +134,6 @@
           "title": "Netanyahu says Israel will forge regional alliance to rival ‘radical axes’",
           "link": "https://www.aljazeera.com/news/2026/2/22/netanyahu-says-israel-will-forge-regional-alliance-to-rival-radical-axis?traffic_source=rss",
           "published": "Sun, 22 Feb 2026 18:20:41 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Greenland rejects Trump’s offer to send US hospital ship to Arctic island",
-          "link": "https://www.aljazeera.com/news/2026/2/22/greenland-reiterates-its-public-healthcare-amid-us-hospital-ship-proposal?traffic_source=rss",
-          "published": "Sun, 22 Feb 2026 18:06:59 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Oman confirms US-Iran talks will take place in Geneva on Thursday",
-          "link": "https://www.aljazeera.com/news/2026/2/22/oman-confirms-us-iran-talks-will-take-place-in-geneva-on-thursday?traffic_source=rss",
-          "published": "Sun, 22 Feb 2026 18:01:54 +0000"
         }
       ]
     }
