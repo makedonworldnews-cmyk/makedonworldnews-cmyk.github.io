@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-22T04:51:33Z",
+  "updatedAt": "2026-02-22T05:52:11Z",
   "groups": [
     {
       "region": "Македонија",
@@ -12,6 +12,24 @@
         },
         {
           "source": "Makfax",
+          "title": "(Видео) Атлетико против Еспањол ја прекина лошата низа во првенството",
+          "link": "https://makfax.com.mk/sport/video-atletiko-protiv-espanol-ja-prekina-loshata-niza-vo-prvenstvoto/",
+          "published": "Sat, 21 Feb 2026 22:20:04 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) О’Рајли го врати Манчестер Сити во шампионската трка",
+          "link": "https://makfax.com.mk/sport/video-o-rajli-go-vrati-manchester-siti-vo-shampionskata-trka/",
+          "published": "Sat, 21 Feb 2026 22:08:21 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "ПАО во „вечното дерби“ го освои Купот на Грција",
+          "link": "https://makfax.com.mk/sport/pao-vo-vechnoto-derbi-go-osvoi-kupot-na-grtsija/",
+          "published": "Sat, 21 Feb 2026 21:06:42 +0000"
+        },
+        {
+          "source": "Makfax",
           "title": "Украина го осуди притисокот од Унгарија и Словачка",
           "link": "https://makfax.com.mk/svet/%d1%83%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d0%b0-%d0%b3%d0%be-%d0%be%d1%81%d1%83%d0%b4%d0%b8-%d0%bf%d1%80%d0%b8%d1%82%d0%b8%d1%81%d0%be%d0%ba%d0%be%d1%82-%d0%be%d0%b4-%d1%83%d0%bd%d0%b3%d0%b0%d1%80%d0%b8/",
           "published": "Sat, 21 Feb 2026 20:18:41 +0000"
@@ -21,24 +39,6 @@
           "title": "Американски професор по право: Трамп ризикува нови тужби за најновите царини",
           "link": "https://makfax.com.mk/svet/%d0%b0%d0%bc%d0%b5%d1%80%d0%b8%d0%ba%d0%b0%d0%bd%d1%81%d0%ba%d0%b8-%d0%bf%d1%80%d0%be%d1%84%d0%b5%d1%81%d0%be%d1%80-%d0%bf%d0%be-%d0%bf%d1%80%d0%b0%d0%b2%d0%be-%d1%82%d1%80%d0%b0%d0%bc%d0%bf-%d1%80/",
           "published": "Sat, 21 Feb 2026 20:07:14 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Трамп ги зголемува новите царини од 10 на 15%",
-          "link": "https://makfax.com.mk/svet/%d1%82%d1%80%d0%b0%d0%bc%d0%bf-%d0%b3%d0%b8-%d0%b7%d0%b3%d0%be%d0%bb%d0%b5%d0%bc%d1%83%d0%b2%d0%b0-%d0%bd%d0%be%d0%b2%d0%b8%d1%82%d0%b5-%d1%86%d0%b0%d1%80%d0%b8%d0%bd%d0%b8-%d0%be%d0%b4-10-%d0%bd/",
-          "published": "Sat, 21 Feb 2026 16:36:03 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "(Видео) Комо среде Торино го нокаутира Јувентус",
-          "link": "https://makfax.com.mk/sport/video-komo-srede-torino-go-nokautira-juventus/",
-          "published": "Sat, 21 Feb 2026 16:12:56 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "(Видео) Иран се подготвува за војна",
-          "link": "https://makfax.com.mk/svet/%d0%b2%d0%b8%d0%b4%d0%b5%d0%be-%d0%b8%d1%80%d0%b0%d0%bd-%d1%81%d0%b5-%d0%bf%d0%be%d0%b4%d0%b3%d0%be%d1%82%d0%b2%d1%83%d0%b2%d0%b0-%d0%b7%d0%b0-%d0%b2%d0%be%d1%98%d0%bd%d0%b0/",
-          "published": "Sat, 21 Feb 2026 15:55:10 +0000"
         },
         {
           "source": "NetPress",
@@ -83,6 +83,12 @@
         },
         {
           "source": "BBC",
+          "title": "More than 1,500 Venezuelan political prisoners apply for amnesty",
+          "link": "https://www.bbc.com/news/articles/c93w9g2dvn5o?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 22 Feb 2026 05:04:57 GMT"
+        },
+        {
+          "source": "BBC",
           "title": "Killing of nationalist student leaves French far left in deep trouble as elections loom",
           "link": "https://www.bbc.com/news/articles/cnv61zv534eo?at_medium=RSS&at_campaign=rss",
           "published": "Sat, 21 Feb 2026 18:11:22 GMT"
@@ -100,10 +106,10 @@
           "published": "Sat, 21 Feb 2026 16:43:36 GMT"
         },
         {
-          "source": "BBC",
-          "title": "Willie Colón, trombonist who pioneered salsa music, dies aged 75",
-          "link": "https://www.bbc.com/news/articles/c98qjed249do?at_medium=RSS&at_campaign=rss",
-          "published": "Sun, 22 Feb 2026 01:49:42 GMT"
+          "source": "Al Jazeera",
+          "title": "Eight bodies found in Libya, Greece as the toll in the Mediterranean rises",
+          "link": "https://www.aljazeera.com/news/2026/2/22/eight-bodies-found-in-libya-and-greece-as-mediterranean-crossings-continue?traffic_source=rss",
+          "published": "Sun, 22 Feb 2026 05:00:52 +0000"
         },
         {
           "source": "Al Jazeera",
@@ -128,12 +134,6 @@
           "title": "Nico O’Reilly double seals key 2-1 win for Man City over Newcastle United",
           "link": "https://www.aljazeera.com/sports/2026/2/21/nico-oreilly-double-seals-key-2-1-win-for-man-city-over-newcastle-united?traffic_source=rss",
           "published": "Sat, 21 Feb 2026 22:36:04 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Trump’s tariff regime has been ruled unlawful. What are the implications?",
-          "link": "https://www.aljazeera.com/video/inside-story/2026/2/21/trumps-tariff-regime-ruled-unlawful-what-are-the-implications?traffic_source=rss",
-          "published": "Sat, 21 Feb 2026 22:31:17 +0000"
         }
       ]
     }
