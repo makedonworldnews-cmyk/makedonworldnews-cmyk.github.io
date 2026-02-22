@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-22T10:11:56Z",
+  "updatedAt": "2026-02-22T10:47:08Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,24 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Трамп најави одлука за напад врз Иран, но сè уште се соочува со три клучни пречки",
+          "link": "https://makfax.com.mk/svet/%d1%82%d1%80%d0%b0%d0%bc%d0%bf-%d0%bd%d0%b0%d1%98%d0%b0%d0%b2%d0%b8-%d0%be%d0%b4%d0%bb%d1%83%d0%ba%d0%b0-%d0%b7%d0%b0-%d0%bd%d0%b0%d0%bf%d0%b0%d0%b4-%d0%b2%d1%80%d0%b7-%d0%b8%d1%80%d0%b0%d0%bd-%d0%bd/",
+          "published": "Sun, 22 Feb 2026 10:45:38 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Путин потпиша закон кој им дозволува на ФСБ да го исклучат интернетот во Русија",
+          "link": "https://makfax.com.mk/svet/%d0%bf%d1%83%d1%82%d0%b8%d0%bd-%d0%bf%d0%be%d1%82%d0%bf%d0%b8%d1%88%d0%b0-%d0%b7%d0%b0%d0%ba%d0%be%d0%bd-%d0%ba%d0%be%d1%98-%d0%b8%d0%bc-%d0%b4%d0%be%d0%b7%d0%b2%d0%be%d0%bb%d1%83%d0%b2%d0%b0-%d0%bd/",
+          "published": "Sun, 22 Feb 2026 10:33:36 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Индија го одложи патувањето на трговска делегација во Вашингтон поради нејасности околу царините на САД",
+          "link": "https://makfax.com.mk/svet/%d0%b8%d0%bd%d0%b4%d0%b8%d1%98%d0%b0-%d0%b3%d0%be-%d0%be%d0%b4%d0%bb%d0%be%d0%b6%d0%b8-%d0%bf%d0%b0%d1%82%d1%83%d0%b2%d0%b0%d1%9a%d0%b5%d1%82%d0%be-%d0%bd%d0%b0-%d1%82%d1%80%d0%b3%d0%be%d0%b2%d1%81/",
+          "published": "Sun, 22 Feb 2026 10:25:20 +0000"
         },
         {
           "source": "Makfax",
@@ -23,52 +41,34 @@
           "published": "Sun, 22 Feb 2026 08:52:45 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "ВМРО-ДПМНЕ: СДС и ДУИ наложувале, а Судски совет експресно, за само еден ден, разрешувале судии неподобни за тогашната власт, како Катевеновски од Врховен",
-          "link": "https://makfax.com.mk/makedonija/%d0%b2%d0%bc%d1%80%d0%be-%d0%b4%d0%bf%d0%bc%d0%bd%d0%b5-%d1%81%d0%b4%d1%81-%d0%b8-%d0%b4%d1%83%d0%b8-%d0%bd%d0%b0%d0%bb%d0%be%d0%b6%d1%83%d0%b2%d0%b0%d0%bb%d0%b5-%d0%b0-%d1%81%d1%83%d0%b4%d1%81/",
-          "published": "Sun, 22 Feb 2026 08:24:08 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "(Фото+видео) Терористички напад во Лвов: загина полицајка, десетици ранети",
-          "link": "https://makfax.com.mk/svet/%d1%84%d0%be%d1%82%d0%be-%d1%82%d0%b5%d1%80%d0%be%d1%80%d0%b8%d1%81%d1%82%d0%b8%d1%87%d0%ba%d0%b8-%d0%bd%d0%b0%d0%bf%d0%b0%d0%b4-%d0%b2%d0%be-%d0%bb%d0%b2%d0%be%d0%b2-%d0%b7%d0%b0%d0%b3%d0%b8%d0%bd/",
-          "published": "Sun, 22 Feb 2026 08:14:30 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "СДСМ: Власта да покаже конструктивност заради работниците, да го поддржи Законот за 600 евра плата",
-          "link": "https://makfax.com.mk/makedonija/%d1%81%d0%b4%d1%81%d0%bc-%d0%b2%d0%bb%d0%b0%d1%81%d1%82%d0%b0-%d0%b4%d0%b0-%d0%bf%d0%be%d0%ba%d0%b0%d0%b6%d0%b5-%d0%ba%d0%be%d0%bd%d1%81%d1%82%d1%80%d1%83%d0%ba%d1%82%d0%b8%d0%b2%d0%bd%d0%be%d1%81/",
-          "published": "Sun, 22 Feb 2026 07:56:21 +0000"
+          "source": "NetPress",
+          "title": "Никси надополнија 18 негатива за победа, Вембањама со нов дабл-дабл учинок",
+          "link": "https://netpress.com.mk/niksi-nadopolnija-18-negativa-za-pobeda-vembanama-so-nov-dabl-dabl-uchinok/",
+          "published": "Sun, 22 Feb 2026 10:42:23 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Светските берзи пораснаа минатата седмица, тргувањето неизвесно",
-          "link": "https://netpress.com.mk/svetskite-berzi-porasnaa-minatata-sedmicza-trguvaneto-neizvesno/",
-          "published": "Sun, 22 Feb 2026 10:09:52 +0000"
+          "title": "ФОТО I Со засилено темпо се работи на булеварот „Македонија“, констатираа Мицкоски и Ѓоргиевски во синоќешниот увид",
+          "link": "https://netpress.com.mk/foto-i-so-zasileno-tempo-se-raboti-na-bulevarot-makedonija-konstatiraa-miczkoski-i-gorgievski-vo-sinokeshniot-uvid/",
+          "published": "Sun, 22 Feb 2026 10:39:42 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Обичаи за Прочка: Се повикува ветерот, а еве кое е значењето на амкањето",
-          "link": "https://netpress.com.mk/obichai-za-prochka-se-povikuva-veterot-a-eve-koe-e-znacheneto-na-amkaneto/",
-          "published": "Sun, 22 Feb 2026 09:48:36 +0000"
+          "title": "Доларот зајакна во однос на кошничка валути минатата седмица",
+          "link": "https://netpress.com.mk/dolarot-zajakna-vo-odnos-na-koshnichka-valuti-minatata-sedmicza-2/",
+          "published": "Sun, 22 Feb 2026 10:33:16 +0000"
         },
         {
           "source": "NetPress",
-          "title": "ФОТО: Mајмунче отфрлено од мајката во ЗОО Скопје доби играчка орангутан",
-          "link": "https://netpress.com.mk/foto-majmunche-otfrleno-od-majkata-vo-zoo-skopje-dobi-igrachka-orangutan/",
-          "published": "Sun, 22 Feb 2026 09:44:05 +0000"
+          "title": "ФФМ најостро ги демантира објавените лаги и манипулации на новинарот Фуркан Салиу",
+          "link": "https://netpress.com.mk/ffm-najostro-gi-demantira-objavenite-lagi-i-manipulaczii-na-novinarot-furkan-saliu/",
+          "published": "Sun, 22 Feb 2026 10:31:39 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Трамп ќе испрати болнички брод во Гренланд",
-          "link": "https://netpress.com.mk/tramp-ke-isprati-bolnichki-brod-vo-grenland/",
-          "published": "Sun, 22 Feb 2026 09:38:46 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Снег на патниот правец Тетово-Гостивар-Маврово и на Попова Шапка",
-          "link": "https://netpress.com.mk/sneg-na-patniot-pravecz-tetovo-gostivar-mavrovo-i-na-popova-shapka/",
-          "published": "Sun, 22 Feb 2026 09:33:45 +0000"
+          "title": "Пронајдени пет тела на мигранти на брегот источно од Триполи",
+          "link": "https://netpress.com.mk/pronajdeni-pet-tela-na-migranti-na-bregot-istochno-od-tripoli/",
+          "published": "Sun, 22 Feb 2026 10:29:26 +0000"
         }
       ]
     },
@@ -107,6 +107,18 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Elderly men beaten up ‘for being Muslim’ in India",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/2/22/elderly-men-beaten-up-for-being-muslim-in-india?traffic_source=rss",
+          "published": "Sun, 22 Feb 2026 10:22:16 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "The aftermath of Pakistan’s air strikes in Afghanistan",
+          "link": "https://www.aljazeera.com/gallery/2026/2/22/the-aftermath-of-pakistan-air-strikes-in-in-afghanistan?traffic_source=rss",
+          "published": "Sun, 22 Feb 2026 10:09:10 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Ryan Garcia defeats Mario Barrios to win WBC welterweight title",
           "link": "https://www.aljazeera.com/sports/2026/2/22/ryan-garcia-defeats-mario-barrios-to-win-wbc-welterweight-title?traffic_source=rss",
           "published": "Sun, 22 Feb 2026 09:43:19 +0000"
@@ -122,18 +134,6 @@
           "title": "Sean Strickland ends Anthony Hernandez’s win streak with TKO victory",
           "link": "https://www.aljazeera.com/sports/2026/2/22/sean-strickland-ends-anthony-hernandezs-win-streak-with-tko-victory?traffic_source=rss",
           "published": "Sun, 22 Feb 2026 09:26:31 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Video: Deadly ‘terrorist attack’ in Ukraine’s Lviv",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/2/22/video-deadly-terrorist-attack-in-ukraines-lviv?traffic_source=rss",
-          "published": "Sun, 22 Feb 2026 08:53:09 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "DHS agent killed US citizen in March last year, records reveal",
-          "link": "https://www.aljazeera.com/news/2026/2/22/dhs-agent-killed-us-citizen-in-march-last-year-records-reveal?traffic_source=rss",
-          "published": "Sun, 22 Feb 2026 08:38:02 +0000"
         }
       ]
     }
