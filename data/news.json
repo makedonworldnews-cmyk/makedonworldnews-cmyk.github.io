@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-22T14:13:32Z",
+  "updatedAt": "2026-02-22T14:47:10Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Маж е застрелан откако се обидел нелегално да влезе во имотот на Трамп во Флорида",
+          "link": "https://makfax.com.mk/svet/%d0%bc%d0%b0%d0%b6-%d0%b5-%d0%b7%d0%b0%d1%81%d1%82%d1%80%d0%b5%d0%bb%d0%b0%d0%bd-%d0%be%d1%82%d0%ba%d0%b0%d0%ba%d0%be-%d1%81%d0%b5-%d0%be%d0%b1%d0%b8%d0%b4%d0%b5%d0%bb-%d0%bd%d0%b5%d0%bb%d0%b5%d0%b3/",
+          "published": "Sun, 22 Feb 2026 14:30:27 +0000"
         },
         {
           "source": "Makfax",
@@ -35,10 +41,10 @@
           "published": "Sun, 22 Feb 2026 13:09:05 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Унгарија: ЕУ сака утре да го усвои 20-тиот пакет санкции кон Русија, ние ќе го блокираме",
-          "link": "https://makfax.com.mk/svet/%d1%83%d0%bd%d0%b3%d0%b0%d1%80%d0%b8%d1%98%d0%b0-%d0%b5%d1%83-%d1%81%d0%b0%d0%ba%d0%b0-%d1%83%d1%82%d1%80%d0%b5-%d0%b4%d0%b0-%d0%b3%d0%be-%d1%83%d1%81%d0%b2%d0%be%d0%b8-20-%d1%82%d0%b8%d0%be%d1%82/",
-          "published": "Sun, 22 Feb 2026 11:52:57 +0000"
+          "source": "NetPress",
+          "title": "Аеродромите во Москва затворени за сообраќај поради напад со дронови",
+          "link": "https://netpress.com.mk/aerodromite-vo-moskva-zatvoreni-za-soobrakaj-poradi-napad-so-dronovi/",
+          "published": "Sun, 22 Feb 2026 14:28:13 +0000"
         },
         {
           "source": "NetPress",
@@ -63,12 +69,6 @@
           "title": "РФМ аплицираше за СП до 21 година во машка конкуренција",
           "link": "https://netpress.com.mk/rfm-apliczirashe-za-sp-do-21-godina-vo-mashka-konkurenczija/",
           "published": "Sun, 22 Feb 2026 13:43:41 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Трамп ги разгледува плановите за атентат врз синот на ајатолахот Али Хамнеи",
-          "link": "https://netpress.com.mk/tramp-gi-razgleduva-planovite-za-atentat-vrz-sinot-na-ajatolahot-ali-hamnei/",
-          "published": "Sun, 22 Feb 2026 13:20:40 +0000"
         }
       ]
     },
@@ -97,13 +97,19 @@
           "source": "BBC",
           "title": "Explosions kill police officer and injure 25 in western Ukraine",
           "link": "https://www.bbc.com/news/articles/clyz8d79djeo?at_medium=RSS&at_campaign=rss",
-          "published": "Sun, 22 Feb 2026 12:15:21 GMT"
+          "published": "Sun, 22 Feb 2026 14:19:02 GMT"
         },
         {
           "source": "BBC",
-          "title": "More than 1,500 Venezuelan political prisoners apply for amnesty",
-          "link": "https://www.bbc.com/news/articles/c93w9g2dvn5o?at_medium=RSS&at_campaign=rss",
-          "published": "Sun, 22 Feb 2026 05:04:57 GMT"
+          "title": "'Affront to humanity': Sudan slams Uganda for hosting RSF paramilitary boss",
+          "link": "https://www.bbc.com/news/articles/c20lwznegk4o?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 22 Feb 2026 13:52:09 GMT"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Man killed after entering perimeter of Trump’s Mar-a-Lago resort",
+          "link": "https://www.aljazeera.com/news/2026/2/22/man-killed-after-entering-perimeter-of-trumps-mar-a-lago-resort?traffic_source=rss",
+          "published": "Sun, 22 Feb 2026 14:13:54 +0000"
         },
         {
           "source": "Al Jazeera",
@@ -128,12 +134,6 @@
           "title": "LIVE: Tottenham Hotspur vs Arsenal – Premier League",
           "link": "https://www.aljazeera.com/sports/liveblog/2026/2/22/live-tottenham-hotspur-vs-arsenal-premier-league?traffic_source=rss",
           "published": "Sun, 22 Feb 2026 13:30:00 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Trump tariff chaos: What does 15% levy mean for trade deals the US signed?",
-          "link": "https://www.aljazeera.com/news/2026/2/22/trump-tariff-chaos-what-does-15-levy-mean-for-trade-deals-the-us-signed?traffic_source=rss",
-          "published": "Sun, 22 Feb 2026 13:28:15 +0000"
         }
       ]
     }
