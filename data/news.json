@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-22T21:53:56Z",
+  "updatedAt": "2026-02-22T22:25:50Z",
   "groups": [
     {
       "region": "Македонија",
@@ -42,6 +42,12 @@
         },
         {
           "source": "NetPress",
+          "title": "„Битка по битка“ голем победник на британските филмски награди",
+          "link": "https://netpress.com.mk/bitka-po-bitka-golem-pobednik-na-britanskite-filmski-nagradi/",
+          "published": "Sun, 22 Feb 2026 22:12:33 +0000"
+        },
+        {
+          "source": "NetPress",
           "title": "Од утре започнува Велигденскиот пост – време на покајание, молитва и духовно обновување",
           "link": "https://netpress.com.mk/od-utre-zapochnuva-veligdenskiot-post-vreme-na-pokajanie-molitva-i-duhovno-obnovuvane/",
           "published": "Sun, 22 Feb 2026 21:11:44 +0000"
@@ -63,12 +69,6 @@
           "title": "Премиер лига: Арсенал убедлив против Тотенхем",
           "link": "https://netpress.com.mk/premier-liga-arsenal-ubedliv-protiv-totenhem/",
           "published": "Sun, 22 Feb 2026 20:02:52 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Пазешкијан: Има охрабрувачки сигнали во преговорите со САД",
-          "link": "https://netpress.com.mk/pazeshkijan-ima-ohrabruvachki-signali-vo-pregovorite-so-sad/",
-          "published": "Sun, 22 Feb 2026 20:00:16 +0000"
         }
       ]
     },
@@ -77,15 +77,21 @@
       "items": [
         {
           "source": "BBC",
+          "title": "Zelensky tells BBC Putin has started WW3 and must be stopped",
+          "link": "https://www.bbc.com/news/articles/cvgj9p15y87o?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 22 Feb 2026 22:00:47 GMT"
+        },
+        {
+          "source": "BBC",
           "title": "Mexico's most wanted drug lord 'El Mencho' killed in military operation",
           "link": "https://www.bbc.com/news/articles/cy4wywnrdd8o?at_medium=RSS&at_campaign=rss",
-          "published": "Sun, 22 Feb 2026 21:30:15 GMT"
+          "published": "Sun, 22 Feb 2026 22:07:54 GMT"
         },
         {
           "source": "BBC",
           "title": "Armed man killed after entering secure perimeter of Trump's residence, Secret Service says",
           "link": "https://www.bbc.com/news/articles/cp32l9w9pgyo?at_medium=RSS&at_campaign=rss",
-          "published": "Sun, 22 Feb 2026 21:44:24 GMT"
+          "published": "Sun, 22 Feb 2026 22:08:03 GMT"
         },
         {
           "source": "BBC",
@@ -100,10 +106,10 @@
           "published": "Sun, 22 Feb 2026 17:49:01 GMT"
         },
         {
-          "source": "BBC",
-          "title": "Trump curious why Iran has not 'capitulated', US envoy Witkoff says",
-          "link": "https://www.bbc.com/news/articles/cn5gk15rr70o?at_medium=RSS&at_campaign=rss",
-          "published": "Sun, 22 Feb 2026 18:18:41 GMT"
+          "source": "Al Jazeera",
+          "title": "What will Trump’s latest sweeping tariffs mean for the world?",
+          "link": "https://www.aljazeera.com/video/inside-story/2026/2/22/what-will-trumps-latest-sweeping-tariffs-mean-for-the-world?traffic_source=rss",
+          "published": "Sun, 22 Feb 2026 21:45:56 +0000"
         },
         {
           "source": "Al Jazeera",
@@ -128,12 +134,6 @@
           "title": "Eze hurts Tottenham again to reignite Arsenal’s title hopes with 4-1 win",
           "link": "https://www.aljazeera.com/sports/2026/2/22/eze-hurts-tottenham-again-to-reignite-arsenals-title-hopes-with-4-1-win?traffic_source=rss",
           "published": "Sun, 22 Feb 2026 19:06:04 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Burnt vehicles line highway near Mexican World Cup stadium",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/2/22/burnt-vehicles-line-highway-near-mexican-world-cup-stadium?traffic_source=rss",
-          "published": "Sun, 22 Feb 2026 18:50:11 +0000"
         }
       ]
     }
