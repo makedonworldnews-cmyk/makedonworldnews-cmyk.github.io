@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-22T09:15:18Z",
+  "updatedAt": "2026-02-22T09:48:48Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "(Фото) Трамп објави дека испратил болнички брод на Гренланд, Данска вели дека нема сознанија",
+          "link": "https://makfax.com.mk/svet/%d1%84%d0%be%d1%82%d0%be-%d1%82%d1%80%d0%b0%d0%bc%d0%bf-%d0%be%d0%b1%d1%98%d0%b0%d0%b2%d0%b8-%d0%b4%d0%b5%d0%ba%d0%b0-%d0%b8%d1%81%d0%bf%d1%80%d0%b0%d1%82%d0%b8%d0%bb-%d0%b1%d0%be%d0%bb%d0%bd%d0%b8/",
+          "published": "Sun, 22 Feb 2026 09:39:22 +0000"
         },
         {
           "source": "Makfax",
@@ -35,40 +41,34 @@
           "published": "Sun, 22 Feb 2026 07:56:21 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "(Видео) Експлозии во Киев: Русија нападна со балистички ракети, повредени жена и дете",
-          "link": "https://makfax.com.mk/svet/%d0%b2%d0%b8%d0%b4%d0%b5%d0%be-%d0%b5%d0%ba%d1%81%d0%bf%d0%bb%d0%be%d0%b7%d0%b8%d0%b8-%d0%b2%d0%be-%d0%ba%d0%b8%d0%b5%d0%b2-%d1%80%d1%83%d1%81%d0%b8%d1%98%d0%b0-%d0%bd%d0%b0%d0%bf%d0%b0%d0%b4%d0%bd/",
-          "published": "Sun, 22 Feb 2026 07:40:20 +0000"
+          "source": "NetPress",
+          "title": "Обичаи за Прочка: Се повикува ветерот, а еве кое е значењето на амкањето",
+          "link": "https://netpress.com.mk/obichai-za-prochka-se-povikuva-veterot-a-eve-koe-e-znacheneto-na-amkaneto/",
+          "published": "Sun, 22 Feb 2026 09:48:36 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Исламска држава ја презеде одговорноста за две убиства во Сирија",
-          "link": "https://netpress.com.mk/islamska-drzhava-ja-prezede-odgovornosta-za-dve-ubistva-vo-sirija/",
-          "published": "Sun, 22 Feb 2026 07:47:50 +0000"
+          "title": "ФОТО: Mајмунче отфрлено од мајката во ЗОО Скопје доби играчка орангутан",
+          "link": "https://netpress.com.mk/foto-majmunche-otfrleno-od-majkata-vo-zoo-skopje-dobi-igrachka-orangutan/",
+          "published": "Sun, 22 Feb 2026 09:44:05 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Денес е Прочка",
-          "link": "https://netpress.com.mk/denes-e-prochka/",
-          "published": "Sun, 22 Feb 2026 07:46:29 +0000"
+          "title": "Трамп ќе испрати болнички брод во Гренланд",
+          "link": "https://netpress.com.mk/tramp-ke-isprati-bolnichki-brod-vo-grenland/",
+          "published": "Sun, 22 Feb 2026 09:38:46 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Матераци ќе го носи дресот на Србија!",
-          "link": "https://netpress.com.mk/materaczi-ke-go-nosi-dresot-na-srbija/",
-          "published": "Sun, 22 Feb 2026 07:43:11 +0000"
+          "title": "Снег на патниот правец Тетово-Гостивар-Маврово и на Попова Шапка",
+          "link": "https://netpress.com.mk/sneg-na-patniot-pravecz-tetovo-gostivar-mavrovo-i-na-popova-shapka/",
+          "published": "Sun, 22 Feb 2026 09:33:45 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Дневен хороскоп за недела, 22-ри февруари 2026-та",
-          "link": "https://netpress.com.mk/dneven-horoskop-za-nedela-22-ri-fevruari-2026-ta/",
-          "published": "Sun, 22 Feb 2026 07:27:54 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Променливо облачно со северен ветер",
-          "link": "https://netpress.com.mk/promenlivo-oblachno-so-severen-veter/",
-          "published": "Sun, 22 Feb 2026 07:07:53 +0000"
+          "title": "ВИДЕО I Запалено возило на поранешен инспектор за наркотици?!",
+          "link": "https://netpress.com.mk/video-i-zapaleno-vozilo-na-poraneshen-inspektor-za-narkoticzi/",
+          "published": "Sun, 22 Feb 2026 09:30:37 +0000"
         }
       ]
     },
