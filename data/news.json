@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-22T15:44:06Z",
+  "updatedAt": "2026-02-22T16:00:45Z",
   "groups": [
     {
       "region": "Македонија",
@@ -42,33 +42,9 @@
         },
         {
           "source": "NetPress",
-          "title": "Убиен маж кој вооружен се обидел да влезе во имотот на Трамп",
-          "link": "https://netpress.com.mk/ubien-mazh-koj-vooruzhen-se-obidel-da-vleze-vo-imotot-na-tramp/",
-          "published": "Sun, 22 Feb 2026 15:02:32 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Аеродромите во Москва затворени за сообраќај поради напад со дронови, украински дрон уби цивил во Белгород",
-          "link": "https://netpress.com.mk/aerodromite-vo-moskva-zatvoreni-za-soobrakaj-poradi-napad-so-dronovi/",
-          "published": "Sun, 22 Feb 2026 14:28:13 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Хари Кејн не заминува во Барселона",
-          "link": "https://netpress.com.mk/hari-kejn-ne-zaminuva-vo-barselona/",
-          "published": "Sun, 22 Feb 2026 13:59:32 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Детали за изгорените возила во Струмица, неофицијално едно е на поранешен полициски инспектор",
-          "link": "https://netpress.com.mk/detali-za-izgorenite-vozila-vo-strumicza-neoficzijalno-edno-e-na-poraneshen-policziski-inspektor/",
-          "published": "Sun, 22 Feb 2026 13:54:19 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Руското ФСБ открило „британски траги“ во атентатот врз генералот Алексеев",
-          "link": "https://netpress.com.mk/ruskoto-fsb-otkrilo-britanski-tragi-vo-atentatot-vrz-generalot-alekseev/",
-          "published": "Sun, 22 Feb 2026 13:48:57 +0000"
+          "title": "⚠️ Не може да се вчита (извор/timeout)",
+          "link": "https://netpress.com.mk/feed/",
+          "published": ""
         }
       ]
     },
@@ -77,15 +53,15 @@
       "items": [
         {
           "source": "BBC",
-          "title": "Iran students stage first large anti-government protests since deadly crackdown",
-          "link": "https://www.bbc.com/news/articles/c5yj2kzkrj0o?at_medium=RSS&at_campaign=rss",
-          "published": "Sun, 22 Feb 2026 14:00:40 GMT"
-        },
-        {
-          "source": "BBC",
           "title": "Pakistan launches deadly strikes on Afghanistan",
           "link": "https://www.bbc.com/news/articles/cdxgln3gnd6o?at_medium=RSS&at_campaign=rss",
           "published": "Sun, 22 Feb 2026 11:33:11 GMT"
+        },
+        {
+          "source": "BBC",
+          "title": "Trump curious why Iran has not 'capitulated', US envoy Witkoff says",
+          "link": "https://www.bbc.com/news/articles/cn5gk15rr70o?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 22 Feb 2026 15:43:00 GMT"
         },
         {
           "source": "BBC",
