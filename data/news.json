@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-21T23:59:50Z",
+  "updatedAt": "2026-02-22T02:56:06Z",
   "groups": [
     {
       "region": "Македонија",
@@ -101,9 +101,15 @@
         },
         {
           "source": "BBC",
-          "title": "Palestinian Authority in dire straits as Israel's hold on West Bank deepens",
-          "link": "https://www.bbc.com/news/articles/c9wn8lw0kgjo?at_medium=RSS&at_campaign=rss",
-          "published": "Sat, 21 Feb 2026 06:33:52 GMT"
+          "title": "Willie Colón, trombonist who pioneered salsa music, dies aged 75",
+          "link": "https://www.bbc.com/news/articles/c98qjed249do?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 22 Feb 2026 01:49:42 GMT"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Pakistan carries out strikes in Afghanistan after spate of suicide attacks",
+          "link": "https://www.aljazeera.com/news/2026/2/22/pakistan-carries-out-strikes-in-afghanistan-after-islamabad-suicide-attack?traffic_source=rss",
+          "published": "Sun, 22 Feb 2026 01:04:28 +0000"
         },
         {
           "source": "Al Jazeera",
@@ -128,12 +134,6 @@
           "title": "‘Absurd and provocative’: Huckabee faces firestorm for Israel border stance",
           "link": "https://www.aljazeera.com/news/2026/2/21/absurd-and-provocative-huckabee-faces-firestorm-for-israel-border-stance?traffic_source=rss",
           "published": "Sat, 21 Feb 2026 21:31:19 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Slovakia threatens to cut electricity to Ukraine over Russian oil spat",
-          "link": "https://www.aljazeera.com/news/2026/2/21/slovakia-threatens-to-cut-electricity-to-ukraine-over-russian-oil-spat?traffic_source=rss",
-          "published": "Sat, 21 Feb 2026 20:12:45 +0000"
         }
       ]
     }
