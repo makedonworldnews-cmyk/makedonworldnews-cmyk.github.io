@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-22T09:48:48Z",
+  "updatedAt": "2026-02-22T10:11:56Z",
   "groups": [
     {
       "region": "Македонија",
@@ -42,6 +42,12 @@
         },
         {
           "source": "NetPress",
+          "title": "Светските берзи пораснаа минатата седмица, тргувањето неизвесно",
+          "link": "https://netpress.com.mk/svetskite-berzi-porasnaa-minatata-sedmicza-trguvaneto-neizvesno/",
+          "published": "Sun, 22 Feb 2026 10:09:52 +0000"
+        },
+        {
+          "source": "NetPress",
           "title": "Обичаи за Прочка: Се повикува ветерот, а еве кое е значењето на амкањето",
           "link": "https://netpress.com.mk/obichai-za-prochka-se-povikuva-veterot-a-eve-koe-e-znacheneto-na-amkaneto/",
           "published": "Sun, 22 Feb 2026 09:48:36 +0000"
@@ -63,12 +69,6 @@
           "title": "Снег на патниот правец Тетово-Гостивар-Маврово и на Попова Шапка",
           "link": "https://netpress.com.mk/sneg-na-patniot-pravecz-tetovo-gostivar-mavrovo-i-na-popova-shapka/",
           "published": "Sun, 22 Feb 2026 09:33:45 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "ВИДЕО I Запалено возило на поранешен инспектор за наркотици?!",
-          "link": "https://netpress.com.mk/video-i-zapaleno-vozilo-na-poraneshen-inspektor-za-narkoticzi/",
-          "published": "Sun, 22 Feb 2026 09:30:37 +0000"
         }
       ]
     },
@@ -107,6 +107,24 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Ryan Garcia defeats Mario Barrios to win WBC welterweight title",
+          "link": "https://www.aljazeera.com/sports/2026/2/22/ryan-garcia-defeats-mario-barrios-to-win-wbc-welterweight-title?traffic_source=rss",
+          "published": "Sun, 22 Feb 2026 09:43:19 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Pakistan ‘kills dozens’ in air strikes on Afghanistan",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/2/22/pakistan-kills-dozens-in-air-strikes-on-afghanistan?traffic_source=rss",
+          "published": "Sun, 22 Feb 2026 09:32:24 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Sean Strickland ends Anthony Hernandez’s win streak with TKO victory",
+          "link": "https://www.aljazeera.com/sports/2026/2/22/sean-strickland-ends-anthony-hernandezs-win-streak-with-tko-victory?traffic_source=rss",
+          "published": "Sun, 22 Feb 2026 09:26:31 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Video: Deadly ‘terrorist attack’ in Ukraine’s Lviv",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/2/22/video-deadly-terrorist-attack-in-ukraines-lviv?traffic_source=rss",
           "published": "Sun, 22 Feb 2026 08:53:09 +0000"
@@ -116,24 +134,6 @@
           "title": "DHS agent killed US citizen in March last year, records reveal",
           "link": "https://www.aljazeera.com/news/2026/2/22/dhs-agent-killed-us-citizen-in-march-last-year-records-reveal?traffic_source=rss",
           "published": "Sun, 22 Feb 2026 08:38:02 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Lionel Messi, Inter Miami routed by LAFC in MLS season opener",
-          "link": "https://www.aljazeera.com/sports/2026/2/22/lionel-messi-inter-miami-routed-by-lafc-in-mls-season-opener?traffic_source=rss",
-          "published": "Sun, 22 Feb 2026 08:28:41 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Modi’s Israel visit: Timeline of India’s relations with Israel, Palestine",
-          "link": "https://www.aljazeera.com/news/2026/2/22/modis-israel-visit-timeline-of-indias-relations-with-israel-palestine?traffic_source=rss",
-          "published": "Sun, 22 Feb 2026 08:25:52 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Rondale Moore, Vikings NFL receiver, dies aged 25",
-          "link": "https://www.aljazeera.com/sports/2026/2/22/rondale-moore-vikings-nfl-receiver-dies-at-25?traffic_source=rss",
-          "published": "Sun, 22 Feb 2026 07:56:00 +0000"
         }
       ]
     }
