@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-22T07:58:31Z",
+  "updatedAt": "2026-02-22T08:43:47Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "ВМРО-ДПМНЕ: СДС и ДУИ наложувале, а Судски совет експресно, за само еден ден, разрешувале судии неподобни за тогашната власт, како Катевеновски од Врховен",
+          "link": "https://makfax.com.mk/makedonija/%d0%b2%d0%bc%d1%80%d0%be-%d0%b4%d0%bf%d0%bc%d0%bd%d0%b5-%d1%81%d0%b4%d1%81-%d0%b8-%d0%b4%d1%83%d0%b8-%d0%bd%d0%b0%d0%bb%d0%be%d0%b6%d1%83%d0%b2%d0%b0%d0%bb%d0%b5-%d0%b0-%d1%81%d1%83%d0%b4%d1%81/",
+          "published": "Sun, 22 Feb 2026 08:24:08 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "(Фото+видео) Терористички напад во Лвов: загина полицајка, десетици ранети",
+          "link": "https://makfax.com.mk/svet/%d1%84%d0%be%d1%82%d0%be-%d1%82%d0%b5%d1%80%d0%be%d1%80%d0%b8%d1%81%d1%82%d0%b8%d1%87%d0%ba%d0%b8-%d0%bd%d0%b0%d0%bf%d0%b0%d0%b4-%d0%b2%d0%be-%d0%bb%d0%b2%d0%be%d0%b2-%d0%b7%d0%b0%d0%b3%d0%b8%d0%bd/",
+          "published": "Sun, 22 Feb 2026 08:14:30 +0000"
         },
         {
           "source": "Makfax",
@@ -27,18 +39,6 @@
           "title": "„Ова е целосна збрка за целиот свет“, велат експерти за новите царини на Трамп",
           "link": "https://makfax.com.mk/svet/%d0%be%d0%b2%d0%b0-%d0%b5-%d1%86%d0%b5%d0%bb%d0%be%d1%81%d0%bd%d0%b0-%d0%b7%d0%b1%d1%80%d0%ba%d0%b0-%d0%b7%d0%b0-%d1%86%d0%b5%d0%bb%d0%b8%d0%be%d1%82-%d1%81%d0%b2%d0%b5%d1%82-%d0%b2/",
           "published": "Sun, 22 Feb 2026 07:30:20 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "(Фото) Ѓорѓиевски и Мицкоски на увид во градежните активности на булеварот „Македонија“",
-          "link": "https://makfax.com.mk/makedonija/%d1%84%d0%be%d1%82%d0%be-%d1%93%d0%be%d1%80%d1%93%d0%b8%d0%b5%d0%b2%d1%81%d0%ba%d0%b8-%d0%b8-%d0%bc%d0%b8%d1%86%d0%ba%d0%be%d1%81%d0%ba%d0%b8-%d0%bd%d0%b0-%d1%83%d0%b2%d0%b8%d0%b4-%d0%b2%d0%be/",
-          "published": "Sun, 22 Feb 2026 07:19:17 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Прочка – празник на искреното меѓусебно простување кај православните верници",
-          "link": "https://makfax.com.mk/makedonija/%d0%bf%d1%80%d0%be%d1%87%d0%ba%d0%b0-%d0%bf%d1%80%d0%b0%d0%b7%d0%bd%d0%b8%d0%ba-%d0%bd%d0%b0-%d0%b8%d1%81%d0%ba%d1%80%d0%b5%d0%bd%d0%be%d1%82%d0%be-%d0%bc%d0%b5%d1%93%d1%83%d1%81%d0%b5%d0%b1%d0%bd/",
-          "published": "Sun, 22 Feb 2026 07:03:33 +0000"
         },
         {
           "source": "NetPress",
@@ -83,9 +83,21 @@
         },
         {
           "source": "BBC",
+          "title": "Pakistan launches strikes on Afghanistan, with Taliban saying dozens killed",
+          "link": "https://www.bbc.com/news/articles/cdxgln3gnd6o?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 22 Feb 2026 08:07:46 GMT"
+        },
+        {
+          "source": "BBC",
           "title": "More than 1,500 Venezuelan political prisoners apply for amnesty",
           "link": "https://www.bbc.com/news/articles/c93w9g2dvn5o?at_medium=RSS&at_campaign=rss",
           "published": "Sun, 22 Feb 2026 05:04:57 GMT"
+        },
+        {
+          "source": "BBC",
+          "title": "Divers recover bodies of seven Chinese tourists from bottom of Lake Baikal",
+          "link": "https://www.bbc.com/news/articles/czd8y96mldyo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 21 Feb 2026 16:43:36 GMT"
         },
         {
           "source": "BBC",
@@ -94,16 +106,10 @@
           "published": "Sun, 22 Feb 2026 02:06:23 GMT"
         },
         {
-          "source": "BBC",
-          "title": "Nasa astronauts' moon mission delayed due to rocket issue",
-          "link": "https://www.bbc.com/news/articles/c626v265zqlo?at_medium=RSS&at_campaign=rss",
-          "published": "Sat, 21 Feb 2026 21:05:18 GMT"
-        },
-        {
-          "source": "BBC",
-          "title": "Divers recover bodies of seven Chinese tourists from bottom of Lake Baikal",
-          "link": "https://www.bbc.com/news/articles/czd8y96mldyo?at_medium=RSS&at_campaign=rss",
-          "published": "Sat, 21 Feb 2026 16:43:36 GMT"
+          "source": "Al Jazeera",
+          "title": "Rondale Moore, Vikings NFL receiver, dies at 25",
+          "link": "https://www.aljazeera.com/sports/2026/2/22/rondale-moore-vikings-nfl-receiver-dies-at-25?traffic_source=rss",
+          "published": "Sun, 22 Feb 2026 07:56:00 +0000"
         },
         {
           "source": "Al Jazeera",
@@ -114,7 +120,7 @@
         {
           "source": "Al Jazeera",
           "title": "Attacked in India, Kashmiri shawl sellers choose between safety, livelihood",
-          "link": "https://www.aljazeera.com/features/2026/2/22/attacked-in-india-kashmiri-shawl-sellers-choose-between-safety-livelihood?traffic_source=rss",
+          "link": "https://www.aljazeera.com/news/2026/2/22/attacked-in-india-kashmiri-shawl-sellers-choose-between-safety-livelihood?traffic_source=rss",
           "published": "Sun, 22 Feb 2026 07:07:55 +0000"
         },
         {
@@ -128,12 +134,6 @@
           "title": "Iran will not bow down to US pressure in nuclear talks, Pezeshkian says",
           "link": "https://www.aljazeera.com/news/2026/2/22/iran-will-not-bow-down-to-us-pressure-in-nuclear-talks-pezeshkian-says?traffic_source=rss",
           "published": "Sun, 22 Feb 2026 06:48:00 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Eight bodies recovered in Libya, Greece as Mediterranean death toll rises",
-          "link": "https://www.aljazeera.com/news/2026/2/22/eight-bodies-found-in-libya-and-greece-as-mediterranean-crossings-continue?traffic_source=rss",
-          "published": "Sun, 22 Feb 2026 05:00:52 +0000"
         }
       ]
     }
