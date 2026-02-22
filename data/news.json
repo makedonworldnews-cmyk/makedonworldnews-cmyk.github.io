@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-22T18:00:10Z",
+  "updatedAt": "2026-02-22T18:52:44Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) Студентски протести и немири на повеќе универзитети во Иран",
+          "link": "https://makfax.com.mk/svet/%d0%b2%d0%b8%d0%b4%d0%b5%d0%be-%d1%81%d1%82%d1%83%d0%b4%d0%b5%d0%bd%d1%82%d1%81%d0%ba%d0%b8-%d0%bf%d1%80%d0%be%d1%82%d0%b5%d1%81%d1%82%d0%b8-%d0%b8-%d0%bd%d0%b5%d0%bc%d0%b8%d1%80%d0%b8-%d0%bd%d0%b0/",
+          "published": "Sun, 22 Feb 2026 18:48:17 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Иран e подготвен на компромис со САД за да избегне американски напад, објави Ројтерс",
+          "link": "https://makfax.com.mk/svet/%d0%b8%d1%80%d0%b0%d0%bd-e-%d0%bf%d0%be%d0%b4%d0%b3%d0%be%d1%82%d0%b2%d0%b5%d0%bd-%d0%bd%d0%b0-%d0%ba%d0%be%d0%bc%d0%bf%d1%80%d0%be%d0%bc%d0%b8%d1%81-%d1%81%d0%be-%d1%81%d0%b0%d0%b4-%d0%b7%d0%b0/",
+          "published": "Sun, 22 Feb 2026 18:40:57 +0000"
         },
         {
           "source": "Makfax",
@@ -29,16 +41,10 @@
           "published": "Sun, 22 Feb 2026 16:19:13 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "(Видео) Аталанта го победи Наполи",
-          "link": "https://makfax.com.mk/sport/video-atalanta-go-pobedi-napoli/",
-          "published": "Sun, 22 Feb 2026 16:13:59 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Маж е застрелан откако се обидел нелегално да влезе во имотот на Трамп во Флорида",
-          "link": "https://makfax.com.mk/svet/%d0%bc%d0%b0%d0%b6-%d0%b5-%d0%b7%d0%b0%d1%81%d1%82%d1%80%d0%b5%d0%bb%d0%b0%d0%bd-%d0%be%d1%82%d0%ba%d0%b0%d0%ba%d0%be-%d1%81%d0%b5-%d0%be%d0%b1%d0%b8%d0%b4%d0%b5%d0%bb-%d0%bd%d0%b5%d0%bb%d0%b5%d0%b3/",
-          "published": "Sun, 22 Feb 2026 14:30:27 +0000"
+          "source": "NetPress",
+          "title": "Британскиот министер Хили смета дека распоредувањето на нивни војници во Украина би значело крај на војната",
+          "link": "https://netpress.com.mk/britanskiot-minister-hili-smeta-deka-rasporeduvaneto-na-nivni-vojniczi-vo-ukraina-bi-znachelo-kraj-na-vojnata/",
+          "published": "Sun, 22 Feb 2026 18:16:00 +0000"
         },
         {
           "source": "NetPress",
@@ -63,18 +69,18 @@
           "title": "САД го освои златото на ОИ во хокеј на мраз против Канада",
           "link": "https://netpress.com.mk/sad-go-osvoi-zlatoto-na-oi-vo-hokej-na-mraz-protiv-kanada/",
           "published": "Sun, 22 Feb 2026 17:10:31 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Победа на Шкендија, нов пораз на Шкупи",
-          "link": "https://netpress.com.mk/pobeda-na-shkendija-nov-poraz-na-shkupi/",
-          "published": "Sun, 22 Feb 2026 16:16:37 +0000"
         }
       ]
     },
     {
       "region": "Свет",
       "items": [
+        {
+          "source": "BBC",
+          "title": "Armed man killed after entering secure perimeter of Trump's residence, Secret Service says",
+          "link": "https://www.bbc.com/news/articles/cp32l9w9pgyo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 22 Feb 2026 17:32:34 GMT"
+        },
         {
           "source": "BBC",
           "title": "Pakistan launches deadly strikes on Afghanistan",
@@ -91,7 +97,7 @@
           "source": "BBC",
           "title": "Trump curious why Iran has not 'capitulated', US envoy Witkoff says",
           "link": "https://www.bbc.com/news/articles/cn5gk15rr70o?at_medium=RSS&at_campaign=rss",
-          "published": "Sun, 22 Feb 2026 16:35:17 GMT"
+          "published": "Sun, 22 Feb 2026 18:18:41 GMT"
         },
         {
           "source": "BBC",
@@ -100,40 +106,34 @@
           "published": "Sun, 22 Feb 2026 17:27:16 GMT"
         },
         {
-          "source": "BBC",
-          "title": "'Affront to humanity': Sudan slams Uganda for hosting RSF paramilitary boss",
-          "link": "https://www.bbc.com/news/articles/c20lwznegk4o?at_medium=RSS&at_campaign=rss",
-          "published": "Sun, 22 Feb 2026 13:52:09 GMT"
+          "source": "Al Jazeera",
+          "title": "Netanyahu says Israel will forge regional alliance to rival ‘radical axes’",
+          "link": "https://www.aljazeera.com/news/2026/2/22/netanyahu-says-israel-will-forge-regional-alliance-to-rival-radical-axis?traffic_source=rss",
+          "published": "Sun, 22 Feb 2026 18:20:41 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Trump’s Push for Greenland",
-          "link": "https://www.aljazeera.com/video/featured-documentaries/2026/2/22/trumps-push-for-greenland?traffic_source=rss",
-          "published": "Sun, 22 Feb 2026 17:00:00 +0000"
+          "title": "Greenland rejects Trump’s offer to send US hospital ship to Arctic island",
+          "link": "https://www.aljazeera.com/news/2026/2/22/greenland-reiterates-its-public-healthcare-amid-us-hospital-ship-proposal?traffic_source=rss",
+          "published": "Sun, 22 Feb 2026 18:06:59 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "US envoy Huckabee tries to deny saying he would support Israel expansionism",
-          "link": "https://www.aljazeera.com/news/2026/2/22/us-envoy-huckabee-tries-to-deny-saying-he-would-support-israel-expansionism?traffic_source=rss",
-          "published": "Sun, 22 Feb 2026 16:23:37 +0000"
+          "title": "Oman confirms US-Iran talks will take place in Geneva on Thursday",
+          "link": "https://www.aljazeera.com/news/2026/2/22/oman-confirms-us-iran-talks-will-take-place-in-geneva-on-thursday?traffic_source=rss",
+          "published": "Sun, 22 Feb 2026 18:01:54 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Has BRICS given up on challenging Western economic dominance?",
-          "link": "https://www.aljazeera.com/video/the-bottom-line/2026/2/22/has-brics-given-up-on-challenging-western-economic-dominance?traffic_source=rss",
-          "published": "Sun, 22 Feb 2026 16:02:13 +0000"
+          "title": "T20 World Cup: South Africa beat India by 76 runs in Super Eight",
+          "link": "https://www.aljazeera.com/sports/2026/2/22/t20-world-cup-south-africa-beat-india-by-76-runs-in-super-eight?traffic_source=rss",
+          "published": "Sun, 22 Feb 2026 17:52:23 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Sudan condemns RSF chief’s visit to Uganda as minimising ‘human values’",
-          "link": "https://www.aljazeera.com/news/2026/2/22/sudan-condemns-rsf-chiefs-visit-to-uganda-as-minimising-human-values?traffic_source=rss",
-          "published": "Sun, 22 Feb 2026 15:28:30 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Man killed after entering perimeter of Trump’s Mar-a-Lago resort",
-          "link": "https://www.aljazeera.com/news/2026/2/22/man-killed-after-entering-perimeter-of-trumps-mar-a-lago-resort?traffic_source=rss",
-          "published": "Sun, 22 Feb 2026 14:13:54 +0000"
+          "title": "Yoga classes aim to bring moments of peace to Gaza’s traumatised children",
+          "link": "https://www.aljazeera.com/news/2026/2/22/yoga-school-aims-to-bring-moments-of-peace-to-gazas-traumatised-children?traffic_source=rss",
+          "published": "Sun, 22 Feb 2026 17:38:59 +0000"
         }
       ]
     }
