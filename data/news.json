@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-23T21:10:08Z",
+  "updatedAt": "2026-02-23T22:02:38Z",
   "groups": [
     {
       "region": "Македонија",
@@ -42,39 +42,51 @@
         },
         {
           "source": "NetPress",
+          "title": "Канада го повика безбедносниот тим на „OpenAI“ во Отава по пукањето во училиште",
+          "link": "https://netpress.com.mk/kanada-go-povika-bezbednosniot-tim-na-openai-vo-otava-po-pukaneto-vo-uchilishte/",
+          "published": "Mon, 23 Feb 2026 22:02:29 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "ФОТО: Нормализиран сообраќајот на патот Скопје-Велес, исчистен одронот во тунелот Бадар",
+          "link": "https://netpress.com.mk/foto-normaliziran-soobrakajot-na-patot-skopje-veles-ischisten-odronot-vo-tunelot-badar/",
+          "published": "Mon, 23 Feb 2026 21:55:19 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "САД разговараат со делегациите на Русија и Кина за контрола на нуклеарното оружје",
+          "link": "https://netpress.com.mk/sad-razgovaraat-so-delegacziite-na-rusija-i-kina-za-kontrola-na-nuklearnoto-oruzhje/",
+          "published": "Mon, 23 Feb 2026 21:51:55 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Зошто врхушката на СДСМ се распрашуваше за исказот на Артан Груби?",
+          "link": "https://netpress.com.mk/zoshto-vrhushkata-na-sdsm-se-rasprashuvashe-za-iskazot-na-artan-grubi/",
+          "published": "Mon, 23 Feb 2026 21:21:08 +0000"
+        },
+        {
+          "source": "NetPress",
           "title": "Американската морнарица погоди брод во Карипско Море, загинаа три лица",
           "link": "https://netpress.com.mk/amerikanskata-mornaricza-pogodi-brod-vo-karipsko-more-zaginaa-tri-licza/",
           "published": "Mon, 23 Feb 2026 21:06:11 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Следуваат крупните капитални проекти",
-          "link": "https://netpress.com.mk/sleduvaat-krupnite-kapitalni-proekti/",
-          "published": "Mon, 23 Feb 2026 21:02:34 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "САД повлекуваат дел од персоналот од амбасадата во Бејрут поради тензиите со Иран",
-          "link": "https://netpress.com.mk/sad-povlekuvaat-del-od-personalot-od-ambasadata-vo-bejrut-poradi-tenziite-so-iran/",
-          "published": "Mon, 23 Feb 2026 20:58:50 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Судот му определи куќен притвор на Артан Груби, по барање на Обвинителството",
-          "link": "https://netpress.com.mk/sudot-mu-opredeli-kuken-pritvor-na-artan-grubi-po-barane-na-obvinitelstvoto/",
-          "published": "Mon, 23 Feb 2026 20:37:34 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "ФОТО| Откриени досега непознати белешки од Бенито Мусолини",
-          "link": "https://netpress.com.mk/foto-otkrieni-dosega-nepoznati-beleshki-od-benito-musolini/",
-          "published": "Mon, 23 Feb 2026 20:31:05 +0000"
         }
       ]
     },
     {
       "region": "Свет",
       "items": [
+        {
+          "source": "BBC",
+          "title": "Mexico sends thousands of soldiers to stop violence after death of drug lord",
+          "link": "https://www.bbc.com/news/articles/cx2lp7xwql4o?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 23 Feb 2026 21:12:47 GMT"
+        },
+        {
+          "source": "BBC",
+          "title": "US partially evacuates Beirut embassy amid rising Iran tensions",
+          "link": "https://www.bbc.com/news/articles/cj32l00k47lo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 23 Feb 2026 19:08:55 GMT"
+        },
         {
           "source": "BBC",
           "title": "Four years into its full-scale war in Ukraine, Russia is feeling the effects",
@@ -89,21 +101,9 @@
         },
         {
           "source": "BBC",
-          "title": "Cartel henchmen unleash violence after top drug lord killed in Mexico",
-          "link": "https://www.bbc.com/news/articles/c795qgejzpxo?at_medium=RSS&at_campaign=rss",
-          "published": "Mon, 23 Feb 2026 11:27:45 GMT"
-        },
-        {
-          "source": "BBC",
-          "title": "Armed man killed after entering secure perimeter of Trump's residence, Secret Service says",
-          "link": "https://www.bbc.com/news/articles/cp32l9w9pgyo?at_medium=RSS&at_campaign=rss",
-          "published": "Mon, 23 Feb 2026 19:26:32 GMT"
-        },
-        {
-          "source": "BBC",
-          "title": "Briton among 19 killed in Nepal bus crash",
-          "link": "https://www.bbc.com/news/articles/c39wz97y90no?at_medium=RSS&at_campaign=rss",
-          "published": "Mon, 23 Feb 2026 14:14:48 GMT"
+          "title": "Trump threatens countries that 'play games' with existing trade deals",
+          "link": "https://www.bbc.com/news/articles/c5yvky5ldk1o?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 23 Feb 2026 21:12:43 GMT"
         },
         {
           "source": "Al Jazeera",
