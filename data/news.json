@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-23T19:33:59Z",
+  "updatedAt": "2026-02-23T20:22:40Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Куќниот притвор за Груби е потврда дека сè е договорено, велат од СДСМ",
+          "link": "https://makfax.com.mk/makedonija/%d0%ba%d1%83%d1%9c%d0%bd%d0%b8%d0%be%d1%82-%d0%bf%d1%80%d0%b8%d1%82%d0%b2%d0%be%d1%80-%d0%b7%d0%b0-%d0%b3%d1%80%d1%83%d0%b1%d0%b8-%d0%b5-%d0%bf%d0%be%d1%82%d0%b2%d1%80%d0%b4%d0%b0-%d0%b4%d0%b5%d0%ba/",
+          "published": "Mon, 23 Feb 2026 20:13:37 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Поради одрон во тунелот, сообраќајот на автопатот Скопје – Велес се одвива по една лента",
+          "link": "https://makfax.com.mk/makedonija/%d0%bf%d0%be%d1%80%d0%b0%d0%b4%d0%b8-%d0%be%d0%b4%d1%80%d0%be%d0%bd-%d0%b2%d0%be-%d1%82%d1%83%d0%bd%d0%b5%d0%bb%d0%be%d1%82-%d1%81%d0%be%d0%be%d0%b1%d1%80%d0%b0%d1%9c%d0%b0%d1%98%d0%be%d1%82-%d0%bd/",
+          "published": "Mon, 23 Feb 2026 20:09:59 +0000"
         },
         {
           "source": "Makfax",
@@ -29,46 +41,34 @@
           "published": "Mon, 23 Feb 2026 18:38:00 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Повеќе од илјада луѓе заробени во зоолошка градина во Мексико, меѓу нив има и деца",
-          "link": "https://makfax.com.mk/svet/%d0%bf%d0%be%d0%b2%d0%b5%d1%9c%d0%b5-%d0%be%d0%b4-%d0%b8%d0%bb%d1%98%d0%b0%d0%b4%d0%b0-%d0%bb%d1%83%d1%93%d0%b5-%d0%b7%d0%b0%d1%80%d0%be%d0%b1%d0%b5%d0%bd%d0%b8-%d0%b2%d0%be-%d0%b7%d0%be%d0%be%d0%bb/",
-          "published": "Mon, 23 Feb 2026 18:10:59 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Словачка го прекина снабдувањето со електрична енергија за Украина",
-          "link": "https://makfax.com.mk/svet/%d1%81%d0%bb%d0%be%d0%b2%d0%b0%d1%87%d0%ba%d0%b0-%d0%b3%d0%be-%d0%bf%d1%80%d0%b5%d0%ba%d0%b8%d0%bd%d0%b0-%d1%81%d0%bd%d0%b0%d0%b1%d0%b4%d1%83%d0%b2%d0%b0%d1%9a%d0%b5%d1%82%d0%be-%d1%81%d0%be-%d0%b5/",
-          "published": "Mon, 23 Feb 2026 17:41:41 +0000"
+          "source": "NetPress",
+          "title": "Нелегалното оружје и понатаму е најсериозна закана за безбедноста во Албанија",
+          "link": "https://netpress.com.mk/nelegalnoto-oruzhje-i-ponatamu-e-najseriozna-zakana-za-bezbednosta-vo-albanija/",
+          "published": "Mon, 23 Feb 2026 20:21:30 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Груби е сместен со уште еден притвореник во затворот во Шуто Оризари",
-          "link": "https://netpress.com.mk/grubi-e-smesten-so-ushte-eden-pritvorenik-vo-zatvorot-vo-shuto-orizari/",
-          "published": "Mon, 23 Feb 2026 19:24:08 +0000"
+          "title": "СДСМ се нервозни затоа што Артан Груби може да сведочи против нив",
+          "link": "https://netpress.com.mk/sdsm-se-nervozni-zatoa-shto-artan-grubi-mozhe-da-svedochi-protiv-niv/",
+          "published": "Mon, 23 Feb 2026 20:17:52 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Германската армија мора да го забрза купувањето оружје и опрема",
-          "link": "https://netpress.com.mk/germanskata-armija-mora-da-go-zabrza-kupuvaneto-oruzhje-i-oprema/",
-          "published": "Mon, 23 Feb 2026 19:10:54 +0000"
+          "title": "Поради одрон во тунелот на автопатот Скопје-Велес сообраќајот се одвива по една коловозна лента",
+          "link": "https://netpress.com.mk/poradi-odron-vo-tunelot-na-avtopatot-skopje-veles-soobrakajot-se-odviva-po-edna-kolovozna-lenta/",
+          "published": "Mon, 23 Feb 2026 20:12:41 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Нова рунда мировни преговори би можела да се одржи до крајот на седмицата, според Буданов",
-          "link": "https://netpress.com.mk/nova-runda-mirovni-pregovori-bi-mozhela-da-se-odrzhi-do-krajot-na-sedmiczata-spored-budanov/",
-          "published": "Mon, 23 Feb 2026 19:07:51 +0000"
+          "title": "Калас: Со блокирање на 20-от пакет антируски санкции, испраќаме порака што не сакавме да ја испратиме",
+          "link": "https://netpress.com.mk/kalas-so-blokirane-na-20-ot-paket-antiruski-sankczii-isprakame-poraka-shto-ne-sakavme-da-ja-ispratime/",
+          "published": "Mon, 23 Feb 2026 20:10:27 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Унгарија стави вето на одлуките на ЕУ за 20-тиот пакет санкции против Русија",
-          "link": "https://netpress.com.mk/ungarija-stavi-veto-na-odlukite-na-eu-za-20-tiot-paket-sankczii-protiv-rusija/",
-          "published": "Mon, 23 Feb 2026 18:59:39 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Надополни картичка онлајн – нова услуга на ЈСП",
-          "link": "https://netpress.com.mk/nadopolni-kartichka-onlajn-nova-usluga-na-jsp/",
-          "published": "Mon, 23 Feb 2026 18:48:38 +0000"
+          "title": "Ниту една земја не би го примила Груби, тој е на црната листа на САД",
+          "link": "https://netpress.com.mk/nitu-edna-zemja-ne-bi-go-primila-grubi-toj-e-na-czrnata-lista-na-sad/",
+          "published": "Mon, 23 Feb 2026 20:06:11 +0000"
         }
       ]
     },
@@ -83,9 +83,9 @@
         },
         {
           "source": "BBC",
-          "title": "Zelensky tells BBC Putin has started WW3 and must be stopped",
-          "link": "https://www.bbc.com/news/articles/cvgj9p15y87o?at_medium=RSS&at_campaign=rss",
-          "published": "Sun, 22 Feb 2026 22:00:47 GMT"
+          "title": "Ukraine negotiator tells BBC how it feels to sit across table from Russia",
+          "link": "https://www.bbc.com/news/articles/c89k0lxlpnpo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 23 Feb 2026 19:17:11 GMT"
         },
         {
           "source": "BBC",
@@ -107,33 +107,33 @@
         },
         {
           "source": "Al Jazeera",
-          "title": "Israeli settlers deface, set fire to West Bank mosque during Ramadan",
-          "link": "https://www.aljazeera.com/news/2026/2/23/israeli-settlers-deface-set-fire-to-west-bank-mosque-during-ramadan?traffic_source=rss",
-          "published": "Mon, 23 Feb 2026 18:53:54 +0000"
+          "title": "Mexican officials say 25 soldiers killed in clashes following cartel raid",
+          "link": "https://www.aljazeera.com/news/2026/2/23/mexican-officials-say-25-soldiers-killed-in-clashes-following-cartel-raid?traffic_source=rss",
+          "published": "Mon, 23 Feb 2026 20:07:12 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Turkish ‘threat’ talked up in Israel as Netanyahu focuses on new alliances",
-          "link": "https://www.aljazeera.com/news/2026/2/23/turkish-threat-talked-up-israel-netanyahu-focuses-new-alliances?traffic_source=rss",
-          "published": "Mon, 23 Feb 2026 18:35:33 +0000"
+          "title": "Another US boat strike in Caribbean Sea kills three, Pentagon says",
+          "link": "https://www.aljazeera.com/news/2026/2/23/another-us-boat-strike-in-caribbean-sea-kills-three-pentagon-says?traffic_source=rss",
+          "published": "Mon, 23 Feb 2026 20:06:24 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Peter Mandelson arrested amid Epstein files fallout",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/2/23/peter-mandelson-arrested-amid-epstein-files-fallout?traffic_source=rss",
-          "published": "Mon, 23 Feb 2026 18:33:42 +0000"
+          "title": "BBC criticised for nixing ‘Free Palestine’ tribute from BAFTA coverage",
+          "link": "https://www.aljazeera.com/news/2026/2/23/bbc-criticised-for-nixing-free-palestine-tribute-from-bafta-coverage?traffic_source=rss",
+          "published": "Mon, 23 Feb 2026 19:59:58 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Iran banks big on murky oil ‘trustees’ as war with US on the horizon",
-          "link": "https://www.aljazeera.com/news/2026/2/23/iran-banks-big-on-murky-oil-trustees-as-war-with-us-on-the-horizon?traffic_source=rss",
-          "published": "Mon, 23 Feb 2026 18:02:34 +0000"
+          "title": "EU sanctions Russian officials as Hungary blocks funds to Ukraine",
+          "link": "https://www.aljazeera.com/news/2026/2/23/eu-sanctions-russian-officials-as-hungary-blocks-funds-to-ukraine?traffic_source=rss",
+          "published": "Mon, 23 Feb 2026 19:48:32 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "What we know about Mexican drug cartel leaders still at large",
-          "link": "https://www.aljazeera.com/news/2026/2/23/who-are-the-mexican-drug-cartel-leaders-still-at-large?traffic_source=rss",
-          "published": "Mon, 23 Feb 2026 18:00:44 +0000"
+          "title": "Lebanon’s tax hikes draw anger from economically frustrated public",
+          "link": "https://www.aljazeera.com/features/2026/2/23/lebanons-tax-hikes-draw-anger-from-economically-frustrated-public?traffic_source=rss",
+          "published": "Mon, 23 Feb 2026 19:47:40 +0000"
         }
       ]
     }
