@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-23T20:22:40Z",
+  "updatedAt": "2026-02-23T21:10:08Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Одронот е исчистен, сообраќајот на автопатот Скопје – Велес се одвива нормално",
+          "link": "https://makfax.com.mk/makedonija/%d0%be%d0%b4%d1%80%d0%be%d0%bd%d0%be%d1%82-%d0%b5-%d0%b8%d1%81%d1%87%d0%b8%d1%81%d1%82%d0%b5%d0%bd-%d1%81%d0%be%d0%be%d0%b1%d1%80%d0%b0%d1%9c%d0%b0%d1%98%d0%be%d1%82-%d0%bd%d0%b0-%d0%b0%d0%b2%d1%82/",
+          "published": "Mon, 23 Feb 2026 20:27:02 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "ВМРО-ДПМНЕ: Одлуката за домашен притвор на Груби е на обвинителството со 2 отсто доверба",
+          "link": "https://makfax.com.mk/makedonija/%d0%b2%d0%bc%d1%80%d0%be-%d0%b4%d0%bf%d0%bc%d0%bd%d0%b5-%d0%be%d0%b4%d0%bb%d1%83%d0%ba%d0%b0%d1%82%d0%b0-%d0%b7%d0%b0-%d0%b4%d0%be%d0%bc%d0%b0%d1%88%d0%b5%d0%bd-%d0%bf%d1%80%d0%b8%d1%82%d0%b2%d0%be/",
+          "published": "Mon, 23 Feb 2026 20:24:21 +0000"
         },
         {
           "source": "Makfax",
@@ -29,46 +41,34 @@
           "published": "Mon, 23 Feb 2026 19:33:54 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Рејтингот на Трамп достигна ново најниско ниво",
-          "link": "https://makfax.com.mk/svet/%d1%80%d0%b5%d1%98%d1%82%d0%b8%d0%bd%d0%b3%d0%be%d1%82-%d0%bd%d0%b0-%d1%82%d1%80%d0%b0%d0%bc%d0%bf-%d0%b4%d0%be%d1%81%d1%82%d0%b8%d0%b3%d0%bd%d0%b0-%d0%bd%d0%be%d0%b2%d0%be-%d0%bd%d0%b0%d1%98%d0%bd/",
-          "published": "Mon, 23 Feb 2026 19:02:01 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Поранешен шеф на ДЕА: За фаќањето на Ел Менчо заслужно е Мексико, а не Трамп и Америка",
-          "link": "https://makfax.com.mk/svet/%d0%bf%d0%be%d1%80%d0%b0%d0%bd%d0%b5%d1%88%d0%b5%d0%bd-%d1%88%d0%b5%d1%84-%d0%bd%d0%b0-%d0%b4%d0%b5%d0%b0-%d0%b7%d0%b0-%d1%84%d0%b0%d1%9c%d0%b0%d1%9a%d0%b5%d1%82%d0%be-%d0%bd%d0%b0-%d0%b5%d0%bb/",
-          "published": "Mon, 23 Feb 2026 18:38:00 +0000"
+          "source": "NetPress",
+          "title": "Американската морнарица погоди брод во Карипско Море, загинаа три лица",
+          "link": "https://netpress.com.mk/amerikanskata-mornaricza-pogodi-brod-vo-karipsko-more-zaginaa-tri-licza/",
+          "published": "Mon, 23 Feb 2026 21:06:11 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Нелегалното оружје и понатаму е најсериозна закана за безбедноста во Албанија",
-          "link": "https://netpress.com.mk/nelegalnoto-oruzhje-i-ponatamu-e-najseriozna-zakana-za-bezbednosta-vo-albanija/",
-          "published": "Mon, 23 Feb 2026 20:21:30 +0000"
+          "title": "Следуваат крупните капитални проекти",
+          "link": "https://netpress.com.mk/sleduvaat-krupnite-kapitalni-proekti/",
+          "published": "Mon, 23 Feb 2026 21:02:34 +0000"
         },
         {
           "source": "NetPress",
-          "title": "СДСМ се нервозни затоа што Артан Груби може да сведочи против нив",
-          "link": "https://netpress.com.mk/sdsm-se-nervozni-zatoa-shto-artan-grubi-mozhe-da-svedochi-protiv-niv/",
-          "published": "Mon, 23 Feb 2026 20:17:52 +0000"
+          "title": "САД повлекуваат дел од персоналот од амбасадата во Бејрут поради тензиите со Иран",
+          "link": "https://netpress.com.mk/sad-povlekuvaat-del-od-personalot-od-ambasadata-vo-bejrut-poradi-tenziite-so-iran/",
+          "published": "Mon, 23 Feb 2026 20:58:50 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Поради одрон во тунелот на автопатот Скопје-Велес сообраќајот се одвива по една коловозна лента",
-          "link": "https://netpress.com.mk/poradi-odron-vo-tunelot-na-avtopatot-skopje-veles-soobrakajot-se-odviva-po-edna-kolovozna-lenta/",
-          "published": "Mon, 23 Feb 2026 20:12:41 +0000"
+          "title": "Судот му определи куќен притвор на Артан Груби, по барање на Обвинителството",
+          "link": "https://netpress.com.mk/sudot-mu-opredeli-kuken-pritvor-na-artan-grubi-po-barane-na-obvinitelstvoto/",
+          "published": "Mon, 23 Feb 2026 20:37:34 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Калас: Со блокирање на 20-от пакет антируски санкции, испраќаме порака што не сакавме да ја испратиме",
-          "link": "https://netpress.com.mk/kalas-so-blokirane-na-20-ot-paket-antiruski-sankczii-isprakame-poraka-shto-ne-sakavme-da-ja-ispratime/",
-          "published": "Mon, 23 Feb 2026 20:10:27 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Ниту една земја не би го примила Груби, тој е на црната листа на САД",
-          "link": "https://netpress.com.mk/nitu-edna-zemja-ne-bi-go-primila-grubi-toj-e-na-czrnata-lista-na-sad/",
-          "published": "Mon, 23 Feb 2026 20:06:11 +0000"
+          "title": "ФОТО| Откриени досега непознати белешки од Бенито Мусолини",
+          "link": "https://netpress.com.mk/foto-otkrieni-dosega-nepoznati-beleshki-od-benito-musolini/",
+          "published": "Mon, 23 Feb 2026 20:31:05 +0000"
         }
       ]
     },
@@ -107,33 +107,33 @@
         },
         {
           "source": "Al Jazeera",
-          "title": "Mexican officials say 25 soldiers killed in clashes following cartel raid",
+          "title": "Are the US and Iran moving closer to war?",
+          "link": "https://www.aljazeera.com/video/inside-story/2026/2/23/are-the-us-and-iran-moving-closer-to-war?traffic_source=rss",
+          "published": "Mon, 23 Feb 2026 20:58:54 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Slovakia halts emergency power supplies to Ukraine over Russian oil dispute",
+          "link": "https://www.aljazeera.com/news/2026/2/23/slovakia-halts-emergency-power-supplies-to-ukraine-over-russian-oil-dispute?traffic_source=rss",
+          "published": "Mon, 23 Feb 2026 20:54:04 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Trump’s new tariff threats trigger economic uncertainty; trade deals stall",
+          "link": "https://www.aljazeera.com/economy/2026/2/23/trumps-new-tariff-threats-trigger-economic-uncertainty-trade-deals-stall?traffic_source=rss",
+          "published": "Mon, 23 Feb 2026 20:38:53 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Tourette syndrome campaigner shouts slur at BAFTA ceremony",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/2/23/tourette-syndrome-campaigner-shouts-slur-at-bafta-ceremony?traffic_source=rss",
+          "published": "Mon, 23 Feb 2026 20:29:26 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "El Mencho: Mexico officials says 25 soldiers killed after cartel raid",
           "link": "https://www.aljazeera.com/news/2026/2/23/mexican-officials-say-25-soldiers-killed-in-clashes-following-cartel-raid?traffic_source=rss",
           "published": "Mon, 23 Feb 2026 20:07:12 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Another US boat strike in Caribbean Sea kills three, Pentagon says",
-          "link": "https://www.aljazeera.com/news/2026/2/23/another-us-boat-strike-in-caribbean-sea-kills-three-pentagon-says?traffic_source=rss",
-          "published": "Mon, 23 Feb 2026 20:06:24 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "BBC criticised for nixing ‘Free Palestine’ tribute from BAFTA coverage",
-          "link": "https://www.aljazeera.com/news/2026/2/23/bbc-criticised-for-nixing-free-palestine-tribute-from-bafta-coverage?traffic_source=rss",
-          "published": "Mon, 23 Feb 2026 19:59:58 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "EU sanctions Russian officials as Hungary blocks funds to Ukraine",
-          "link": "https://www.aljazeera.com/news/2026/2/23/eu-sanctions-russian-officials-as-hungary-blocks-funds-to-ukraine?traffic_source=rss",
-          "published": "Mon, 23 Feb 2026 19:48:32 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Lebanon’s tax hikes draw anger from economically frustrated public",
-          "link": "https://www.aljazeera.com/features/2026/2/23/lebanons-tax-hikes-draw-anger-from-economically-frustrated-public?traffic_source=rss",
-          "published": "Mon, 23 Feb 2026 19:47:40 +0000"
         }
       ]
     }
