@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-23T22:02:38Z",
+  "updatedAt": "2026-02-23T22:58:15Z",
   "groups": [
     {
       "region": "Македонија",
@@ -42,6 +42,18 @@
         },
         {
           "source": "NetPress",
+          "title": "Премиер лига: Манчестер Јунајтед славеше кај Евертон",
+          "link": "https://netpress.com.mk/premier-liga-manchester-junajted-slaveshe-kaj-everton/",
+          "published": "Mon, 23 Feb 2026 22:56:14 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Серија А: Болоња подобра од Удинезе, бегство на Фиорентина од дното",
+          "link": "https://netpress.com.mk/serija-a-bolona-podobra-od-udineze-begstvo-na-fiorentina-od-dnoto/",
+          "published": "Mon, 23 Feb 2026 22:32:55 +0000"
+        },
+        {
+          "source": "NetPress",
           "title": "Канада го повика безбедносниот тим на „OpenAI“ во Отава по пукањето во училиште",
           "link": "https://netpress.com.mk/kanada-go-povika-bezbednosniot-tim-na-openai-vo-otava-po-pukaneto-vo-uchilishte/",
           "published": "Mon, 23 Feb 2026 22:02:29 +0000"
@@ -57,18 +69,6 @@
           "title": "САД разговараат со делегациите на Русија и Кина за контрола на нуклеарното оружје",
           "link": "https://netpress.com.mk/sad-razgovaraat-so-delegacziite-na-rusija-i-kina-za-kontrola-na-nuklearnoto-oruzhje/",
           "published": "Mon, 23 Feb 2026 21:51:55 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Зошто врхушката на СДСМ се распрашуваше за исказот на Артан Груби?",
-          "link": "https://netpress.com.mk/zoshto-vrhushkata-na-sdsm-se-rasprashuvashe-za-iskazot-na-artan-grubi/",
-          "published": "Mon, 23 Feb 2026 21:21:08 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Американската морнарица погоди брод во Карипско Море, загинаа три лица",
-          "link": "https://netpress.com.mk/amerikanskata-mornaricza-pogodi-brod-vo-karipsko-more-zaginaa-tri-licza/",
-          "published": "Mon, 23 Feb 2026 21:06:11 +0000"
         }
       ]
     },
@@ -80,6 +80,12 @@
           "title": "Mexico sends thousands of soldiers to stop violence after death of drug lord",
           "link": "https://www.bbc.com/news/articles/cx2lp7xwql4o?at_medium=RSS&at_campaign=rss",
           "published": "Mon, 23 Feb 2026 21:12:47 GMT"
+        },
+        {
+          "source": "BBC",
+          "title": "More than 5,000 flights cancelled as US east coast digs out of record snow",
+          "link": "https://www.bbc.com/news/articles/cx289g1yw97o?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 23 Feb 2026 22:15:51 GMT"
         },
         {
           "source": "BBC",
@@ -98,12 +104,6 @@
           "title": "Ukraine negotiator tells BBC how it feels to sit across table from Russia",
           "link": "https://www.bbc.com/news/articles/c89k0lxlpnpo?at_medium=RSS&at_campaign=rss",
           "published": "Mon, 23 Feb 2026 19:17:11 GMT"
-        },
-        {
-          "source": "BBC",
-          "title": "Trump threatens countries that 'play games' with existing trade deals",
-          "link": "https://www.bbc.com/news/articles/c5yvky5ldk1o?at_medium=RSS&at_campaign=rss",
-          "published": "Mon, 23 Feb 2026 21:12:43 GMT"
         },
         {
           "source": "Al Jazeera",
@@ -131,7 +131,7 @@
         },
         {
           "source": "Al Jazeera",
-          "title": "El Mencho: Mexico officials says 25 soldiers killed after cartel raid",
+          "title": "El Mencho: Mexico officials say 25 soldiers killed after cartel raid",
           "link": "https://www.aljazeera.com/news/2026/2/23/mexican-officials-say-25-soldiers-killed-in-clashes-following-cartel-raid?traffic_source=rss",
           "published": "Mon, 23 Feb 2026 20:07:12 +0000"
         }
