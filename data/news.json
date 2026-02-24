@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-24T22:50:45Z",
+  "updatedAt": "2026-02-24T23:32:50Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) Бајката продолжува, Боде/Глимт втор пат го победи Интер",
+          "link": "https://makfax.com.mk/sport/video-bajkata-prodolzhuva-bode-glimt-vtor-pat-go-pobedi-inter/",
+          "published": "Tue, 24 Feb 2026 22:00:21 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Вардар 1961 го победи Мелсунген",
+          "link": "https://makfax.com.mk/sport/vardar-1961-go-pobedi-melsungen/",
+          "published": "Tue, 24 Feb 2026 21:47:37 +0000"
         },
         {
           "source": "Makfax",
@@ -24,21 +36,9 @@
         },
         {
           "source": "Makfax",
-          "title": "Роберт Де Ниро ги повика Американците да му се спротивстават на Трамп: „Тој е непријател на нашата земја“",
-          "link": "https://makfax.com.mk/svet/%d1%80%d0%be%d0%b1%d0%b5%d1%80%d1%82-%d0%b4%d0%b5-%d0%bd%d0%b8%d1%80%d0%be-%d0%b3%d0%b8-%d0%bf%d0%be%d0%b2%d0%b8%d0%ba%d0%b0-%d0%b0%d0%bc%d0%b5%d1%80%d0%b8%d0%ba%d0%b0%d0%bd%d1%86%d0%b8%d1%82%d0%b5/",
-          "published": "Tue, 24 Feb 2026 20:05:17 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Братот на Џефри Епстин: Нов извештај ќе докаже дека тој бил убиен",
-          "link": "https://makfax.com.mk/svet/%d0%b1%d1%80%d0%b0%d1%82%d0%be%d1%82-%d0%bd%d0%b0-%d1%9f%d0%b5%d1%84%d1%80%d0%b8-%d0%b5%d0%bf%d1%81%d1%82%d0%b8%d0%bd-%d0%bd%d0%be%d0%b2-%d0%b8%d0%b7%d0%b2%d0%b5%d1%88%d1%82%d0%b0%d1%98-%d1%9c%d0%b5/",
-          "published": "Tue, 24 Feb 2026 19:11:09 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Угинат балкански рис најден на патот Ресен – Охрид, постојат само 50-тина единки од овој вид",
-          "link": "https://makfax.com.mk/makedonija/%d1%83%d0%b3%d0%b8%d0%bd%d0%b0%d1%82-%d0%b1%d0%b0%d0%bb%d0%ba%d0%b0%d0%bd%d1%81%d0%ba%d0%b8-%d1%80%d0%b8%d1%81-%d0%bd%d0%b0%d1%98%d0%b4%d0%b5%d0%bd-%d0%bd%d0%b0-%d0%bf%d0%b0%d1%82%d0%be%d1%82-%d1%80/",
-          "published": "Tue, 24 Feb 2026 18:41:29 +0000"
+          "title": "Мбапе не игра против Бенфика",
+          "link": "https://makfax.com.mk/sport/mbape-ne-igra-protiv-benfika/",
+          "published": "Tue, 24 Feb 2026 20:23:23 +0000"
         },
         {
           "source": "NetPress",
@@ -48,8 +48,8 @@
         },
         {
           "source": "NetPress",
-          "title": "Лига на шампионите: Бодо ги исфрли Интер, натаму одат и Баер, Њукасл и Атлетико",
-          "link": "https://netpress.com.mk/liga-na-shampionite-bodo-gi-isfrli-inter-natamu-odat-i-baer-nukasl-i-atletiko/",
+          "title": "Лига на шампионите: Бодо гo исфрли Интер, натаму одат и Баер, Њукасл и Атлетико",
+          "link": "https://netpress.com.mk/liga-na-shampionite-bodo-go-isfrli-inter-natamu-odat-i-baer-nukasl-i-atletiko/",
           "published": "Tue, 24 Feb 2026 22:41:36 +0000"
         },
         {
@@ -107,6 +107,24 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "State of the Union live: Trump to address nation amid tariff, Iran tensions",
+          "link": "https://www.aljazeera.com/news/liveblog/2026/2/24/state-of-the-union-live-trump-to-address-nation-amid-tariff-iran-tensions?traffic_source=rss",
+          "published": "Tue, 24 Feb 2026 23:00:25 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "How much power do drug cartels have in Mexico?",
+          "link": "https://www.aljazeera.com/video/inside-story/2026/2/24/how-much-power-do-drug-cartels-have-in-mexico?traffic_source=rss",
+          "published": "Tue, 24 Feb 2026 22:47:13 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Mexico’s Claudia Sheinbaum considers legal action after Elon Musk criticism",
+          "link": "https://www.aljazeera.com/news/2026/2/24/mexicos-claudia-sheinbaum-considers-legal-action-after-elon-musk-criticism?traffic_source=rss",
+          "published": "Tue, 24 Feb 2026 22:37:43 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Russia ‘has not won’ as Ukraine war enters fifth year, Zelenskyy says",
           "link": "https://www.aljazeera.com/news/2026/2/24/russia-has-not-won-as-ukraine-war-enters-fifth-year-zelenskyy-says?traffic_source=rss",
           "published": "Tue, 24 Feb 2026 22:24:13 +0000"
@@ -116,24 +134,6 @@
           "title": "US to provide consular services in illegal Israeli settlement",
           "link": "https://www.aljazeera.com/news/2026/2/24/us-to-provide-consular-services-in-illegal-israeli-settlement?traffic_source=rss",
           "published": "Tue, 24 Feb 2026 22:01:50 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "At least 23 dead as heavy rains unleash floods in southeastern Brazil",
-          "link": "https://www.aljazeera.com/news/2026/2/24/at-least-23-dead-as-heavy-rains-unleash-floods-in-southeastern-brazil?traffic_source=rss",
-          "published": "Tue, 24 Feb 2026 21:25:38 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "At least 28 people killed as Sudan paramilitary force tears through Darfur",
-          "link": "https://www.aljazeera.com/news/2026/2/24/rsf-tears-through-darfur-town-killing-28-doctors?traffic_source=rss",
-          "published": "Tue, 24 Feb 2026 21:02:17 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "What to expect from Trump’s State of the Union address",
-          "link": "https://www.aljazeera.com/video/the-take-2/2026/2/24/what-to-expect-from-trumps-state-of-the-union-address-2?traffic_source=rss",
-          "published": "Tue, 24 Feb 2026 20:47:13 +0000"
         }
       ]
     }
