@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-24T17:31:27Z",
+  "updatedAt": "2026-02-24T18:35:29Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,24 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Ѓорѓиевски на ифтарска вечера: Ваквите моменти нè потсетуваат дека различностите се наше богатство",
+          "link": "https://makfax.com.mk/makedonija/%d1%93%d0%be%d1%80%d1%93%d0%b8%d0%b5%d0%b2%d1%81%d0%ba%d0%b8-%d0%bd%d0%b0-%d0%b8%d1%84%d1%82%d0%b0%d1%80%d1%81%d0%ba%d0%b0-%d0%b2%d0%b5%d1%87%d0%b5%d1%80%d0%b0-%d0%b2%d0%b0%d0%ba%d0%b2%d0%b8%d1%82/",
+          "published": "Tue, 24 Feb 2026 18:11:47 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Додик повторно ја поддржа руската агресија врз Украина: „Праведна борба“",
+          "link": "https://makfax.com.mk/svet/region/%d0%b4%d0%be%d0%b4%d0%b8%d0%ba-%d0%bf%d0%be%d0%b2%d1%82%d0%be%d1%80%d0%bd%d0%be-%d1%98%d0%b0-%d0%bf%d0%be%d0%b4%d0%b4%d1%80%d0%b6%d0%b0-%d1%80%d1%83%d1%81%d0%ba%d0%b0%d1%82%d0%b0-%d0%b0%d0%b3%d1%80/",
+          "published": "Tue, 24 Feb 2026 18:06:04 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Макрон ја прифати оставката на директорката на Лувр по кражбата на накит",
+          "link": "https://makfax.com.mk/svet/%d0%bc%d0%b0%d0%ba%d1%80%d0%be%d0%bd-%d1%98%d0%b0-%d0%bf%d1%80%d0%b8%d1%84%d0%b0%d1%82%d0%b8-%d0%be%d1%81%d1%82%d0%b0%d0%b2%d0%ba%d0%b0%d1%82%d0%b0-%d0%bd%d0%b0-%d0%b4%d0%b8%d1%80%d0%b5%d0%ba%d1%82/",
+          "published": "Tue, 24 Feb 2026 18:02:32 +0000"
         },
         {
           "source": "Makfax",
@@ -23,52 +41,34 @@
           "published": "Tue, 24 Feb 2026 17:17:07 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Предлогот за минимална плата од 600 евра не помина во Собрание",
-          "link": "https://makfax.com.mk/makedonija/%d0%bf%d1%80%d0%b5%d0%b4%d0%bb%d0%be%d0%b3%d0%be%d1%82-%d0%b7%d0%b0-%d0%bc%d0%b8%d0%bd%d0%b8%d0%bc%d0%b0%d0%bb%d0%bd%d0%b0-%d0%bf%d0%bb%d0%b0%d1%82%d0%b0-%d0%be%d0%b4-600-%d0%b5%d0%b2%d1%80%d0%b0/",
-          "published": "Tue, 24 Feb 2026 16:47:34 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Поранешниот норвешки премиер хоспитализиран, наводно се обидел да се самоубие поради Епстин, адвокатот негира",
-          "link": "https://makfax.com.mk/svet/%d0%bf%d0%be%d1%80%d0%b0%d0%bd%d0%b5%d1%88%d0%bd%d0%b8%d0%be%d1%82-%d0%bd%d0%be%d1%80%d0%b2%d0%b5%d1%88%d0%ba%d0%b8-%d0%bf%d1%80%d0%b5%d0%bc%d0%b8%d0%b5%d1%80-%d1%85%d0%be%d1%81%d0%bf%d0%b8%d1%82/",
-          "published": "Tue, 24 Feb 2026 16:36:26 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "ДУИ обвинува за притисок врз судството: Изјавите на Филков за куќниот притвор се директно мешање во постапката",
-          "link": "https://makfax.com.mk/makedonija/%d0%b4%d1%83%d0%b8-%d0%be%d0%b1%d0%b2%d0%b8%d0%bd%d1%83%d0%b2%d0%b0-%d0%b7%d0%b0-%d0%bf%d1%80%d0%b8%d1%82%d0%b8%d1%81%d0%be%d0%ba-%d0%b2%d1%80%d0%b7-%d1%81%d1%83%d0%b4%d1%81%d1%82%d0%b2%d0%be%d1%82/",
-          "published": "Tue, 24 Feb 2026 15:56:18 +0000"
+          "source": "NetPress",
+          "title": "Расел Бренд се изјасни за невин по две нови обвиненија за сексуални напади",
+          "link": "https://netpress.com.mk/rasel-brend-se-izjasni-za-nevin-po-dve-novi-obvinenija-za-seksualni-napadi/",
+          "published": "Tue, 24 Feb 2026 18:32:18 +0000"
         },
         {
           "source": "NetPress",
-          "title": "На Хакими ќе му се суди за силување",
-          "link": "https://netpress.com.mk/na-hakimi-ke-mu-se-sudi-za-siluvane/",
-          "published": "Tue, 24 Feb 2026 17:16:17 +0000"
+          "title": "Путин смета дека непријателите знаат како би можел да заврши нуклеарен напад врз Русија, предупреди на нови саботажи во Црното Море",
+          "link": "https://netpress.com.mk/putin-smeta-deka-neprijatelite-znaat-kako-bi-mozhel-da-zavrshi-nuklearen-napad-vrz-rusija-predupredi-na-novi-sabotazhi-vo-czrnoto-more/",
+          "published": "Tue, 24 Feb 2026 18:24:10 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Стабилизирана состојбата со приватните превозници во Скопје",
-          "link": "https://netpress.com.mk/stabilizirana-sostojbata-so-privatnite-prevozniczi-vo-skopje/",
-          "published": "Tue, 24 Feb 2026 16:46:34 +0000"
+          "title": "Жителите на Старо Нагоричане вознемирени по убиството и сомнежот за сериски убиец",
+          "link": "https://netpress.com.mk/zhitelite-na-staro-nagorichane-voznemireni-po-ubistvoto-i-somnezhot-za-seriski-ubiecz/",
+          "published": "Tue, 24 Feb 2026 17:56:54 +0000"
         },
         {
           "source": "NetPress",
-          "title": "ФОТО| Тон марихуана одземени од фирма во валандовско",
-          "link": "https://netpress.com.mk/foto-ton-marihuana-odzemeni-od-firma-vo-valandovsko/",
-          "published": "Tue, 24 Feb 2026 16:24:35 +0000"
+          "title": "Цените на нафтата паднаа на 71 долар во очекување на американско-иранските разговори",
+          "link": "https://netpress.com.mk/czenite-na-naftata-padnaa-na-71-dolar-vo-ochekuvane-na-amerikansko-iranskite-razgovori/",
+          "published": "Tue, 24 Feb 2026 17:42:00 +0000"
         },
         {
           "source": "NetPress",
-          "title": "САД сепак воведоа нови царини од 10 наместо најавените 15 отсто",
-          "link": "https://netpress.com.mk/sad-sepak-vovedoa-novi-czarini-od-10-namesto-najavenite-15-otsto/",
-          "published": "Tue, 24 Feb 2026 16:19:42 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Мексико уверува дека нема ризик за одржување на Светското првенство во фудбал",
-          "link": "https://netpress.com.mk/meksiko-uveruva-deka-nema-rizik-za-odrzhuvane-na-svetskoto-prvenstvo-vo-fudbal/",
-          "published": "Tue, 24 Feb 2026 16:12:54 +0000"
+          "title": "Иран подготвен на сите потребни чекори за договор со САД, за Трамп првата опција е дипломатијата",
+          "link": "https://netpress.com.mk/iran-podgotven-na-site-potrebni-chekori-za-dogovor-so-sad-za-tramp-prvata-opczija-e-diplomatijata/",
+          "published": "Tue, 24 Feb 2026 17:32:12 +0000"
         }
       ]
     },
@@ -107,33 +107,33 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Familiar moments mark four years of Russia’s war on Ukraine",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/2/24/familiar-moments-mark-four-years-of-russias-war-on-ukraine?traffic_source=rss",
+          "published": "Tue, 24 Feb 2026 18:23:38 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Indonesia mosque gives out 3,800 free meals every night of Ramadan",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/2/24/indonesia-mosque-gives-out-3800-free-meals-every-night-of-ramadan?traffic_source=rss",
+          "published": "Tue, 24 Feb 2026 18:21:28 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Israel’s opposition leader voices support for ‘broad’ Middle East expansion",
+          "link": "https://www.aljazeera.com/news/2026/2/24/israels-opposition-leader-voices-support-for-broad-middle-east-expansion?traffic_source=rss",
+          "published": "Tue, 24 Feb 2026 17:54:20 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "England beat Pakistan by two wickets to enter T20 World Cup semifinals",
+          "link": "https://www.aljazeera.com/sports/2026/2/24/england-beat-pakistan-by-two-wickets-to-enter-t20-world-cup-semifinals?traffic_source=rss",
+          "published": "Tue, 24 Feb 2026 17:28:52 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "US re-asserts 2025 strikes ‘obliterated’ Iran’s nuclear programme",
           "link": "https://www.aljazeera.com/news/2026/2/24/us-re-asserts-2025-strikes-obliterated-irans-nuclear-programme?traffic_source=rss",
           "published": "Tue, 24 Feb 2026 16:32:37 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "How Epstein tried to buy a Moroccan palace months before his death",
-          "link": "https://www.aljazeera.com/news/2026/2/24/how-epstein-tried-to-buy-a-moroccan-palace-months-before-his-death?traffic_source=rss",
-          "published": "Tue, 24 Feb 2026 16:26:20 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Iran’s government stresses ‘red lines’ as students protest in universities",
-          "link": "https://www.aljazeera.com/news/2026/2/24/irans-government-stresses-red-lines-as-students-protest-in-universities?traffic_source=rss",
-          "published": "Tue, 24 Feb 2026 16:13:51 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Real Madrid vs Benfica: Champions League – team news, start, lineups",
-          "link": "https://www.aljazeera.com/sports/2026/2/24/real-madrid-vs-benfica-champions-league-team-news-start-lineups?traffic_source=rss",
-          "published": "Tue, 24 Feb 2026 15:40:45 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Lebanon’s army tells soldiers to act after post comes under Israeli fire",
-          "link": "https://www.aljazeera.com/news/2026/2/24/lebanons-army-tells-soldiers-to-act-after-post-comes-under-israeli-fire?traffic_source=rss",
-          "published": "Tue, 24 Feb 2026 15:38:47 +0000"
         }
       ]
     }
