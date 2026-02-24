@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-24T20:02:53Z",
+  "updatedAt": "2026-02-24T20:53:24Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,24 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Сијарто: Ќе се спротивставиме на украинската уцена до крај",
+          "link": "https://makfax.com.mk/svet/%d1%81%d0%b8%d1%98%d0%b0%d1%80%d1%82%d0%be-%d1%9c%d0%b5-%d1%81%d0%b5-%d1%81%d0%bf%d1%80%d0%be%d1%82%d0%b8%d0%b2%d1%81%d1%82%d0%b0%d0%b2%d0%b8%d0%bc%d0%b5-%d0%bd%d0%b0-%d1%83%d0%ba%d1%80%d0%b0%d0%b8/",
+          "published": "Tue, 24 Feb 2026 20:49:39 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Борбата на Кристина Аплгејт со мултиплекс склероза: „Често сум прикована за кревет“",
+          "link": "https://makfax.com.mk/zanimlivosti/%d0%b1%d0%be%d1%80%d0%b1%d0%b0%d1%82%d0%b0-%d0%bd%d0%b0-%d0%ba%d1%80%d0%b8%d1%81%d1%82%d0%b8%d0%bd-%d0%b0%d0%bf%d0%bb%d0%b3%d0%b5%d1%98%d1%82-%d1%81%d0%be-%d0%bc%d1%83%d0%bb%d1%82%d0%b8%d0%bf%d0%bb/",
+          "published": "Tue, 24 Feb 2026 20:30:57 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Роберт Де Ниро ги повика Американците да му се спротивстават на Трамп: „Тој е непријател на нашата земја“",
+          "link": "https://makfax.com.mk/svet/%d1%80%d0%be%d0%b1%d0%b5%d1%80%d1%82-%d0%b4%d0%b5-%d0%bd%d0%b8%d1%80%d0%be-%d0%b3%d0%b8-%d0%bf%d0%be%d0%b2%d0%b8%d0%ba%d0%b0-%d0%b0%d0%bc%d0%b5%d1%80%d0%b8%d0%ba%d0%b0%d0%bd%d1%86%d0%b8%d1%82%d0%b5/",
+          "published": "Tue, 24 Feb 2026 20:05:17 +0000"
         },
         {
           "source": "Makfax",
@@ -23,52 +41,34 @@
           "published": "Tue, 24 Feb 2026 18:41:29 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Ѓорѓиевски на ифтарска вечера: Ваквите моменти нè потсетуваат дека различностите се наше богатство",
-          "link": "https://makfax.com.mk/makedonija/%d1%93%d0%be%d1%80%d1%93%d0%b8%d0%b5%d0%b2%d1%81%d0%ba%d0%b8-%d0%bd%d0%b0-%d0%b8%d1%84%d1%82%d0%b0%d1%80%d1%81%d0%ba%d0%b0-%d0%b2%d0%b5%d1%87%d0%b5%d1%80%d0%b0-%d0%b2%d0%b0%d0%ba%d0%b2%d0%b8%d1%82/",
-          "published": "Tue, 24 Feb 2026 18:11:47 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Додик повторно ја поддржа руската агресија врз Украина: „Праведна борба“",
-          "link": "https://makfax.com.mk/svet/region/%d0%b4%d0%be%d0%b4%d0%b8%d0%ba-%d0%bf%d0%be%d0%b2%d1%82%d0%be%d1%80%d0%bd%d0%be-%d1%98%d0%b0-%d0%bf%d0%be%d0%b4%d0%b4%d1%80%d0%b6%d0%b0-%d1%80%d1%83%d1%81%d0%ba%d0%b0%d1%82%d0%b0-%d0%b0%d0%b3%d1%80/",
-          "published": "Tue, 24 Feb 2026 18:06:04 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Макрон ја прифати оставката на директорката на Лувр по кражбата на накит",
-          "link": "https://makfax.com.mk/svet/%d0%bc%d0%b0%d0%ba%d1%80%d0%be%d0%bd-%d1%98%d0%b0-%d0%bf%d1%80%d0%b8%d1%84%d0%b0%d1%82%d0%b8-%d0%be%d1%81%d1%82%d0%b0%d0%b2%d0%ba%d0%b0%d1%82%d0%b0-%d0%bd%d0%b0-%d0%b4%d0%b8%d1%80%d0%b5%d0%ba%d1%82/",
-          "published": "Tue, 24 Feb 2026 18:02:32 +0000"
+          "source": "NetPress",
+          "title": "Концесионерите на плажите во Струга ќе добијат фактури ако не ги исчистат плажите",
+          "link": "https://netpress.com.mk/konczesionerite-na-plazhite-vo-struga-ke-dobijat-fakturi-ako-ne-gi-ischistat-plazhite/",
+          "published": "Tue, 24 Feb 2026 20:51:28 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Мејведер и Пакјао ќе се борат во Лас Вегас во ноември",
-          "link": "https://netpress.com.mk/mejveder-i-pakjao-ke-se-borat-vo-las-vegas-vo-noemvri/",
-          "published": "Tue, 24 Feb 2026 19:55:20 +0000"
+          "title": "Црните дупки можат да се формираат без експлозија на супернова",
+          "link": "https://netpress.com.mk/czrnite-dupki-mozhat-da-se-formiraat-bez-eksplozija-na-supernova/",
+          "published": "Tue, 24 Feb 2026 20:45:56 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Одредената мерка куќен притвор за Артан Груби е одлука на Обвинителството",
-          "link": "https://netpress.com.mk/odredenata-merka-kuken-pritvor-za-artan-grubi-e-odluka-na-obvinitelstvoto/",
-          "published": "Tue, 24 Feb 2026 19:47:26 +0000"
+          "title": "Блокада во Албанија ја парализираше границата со Македонија",
+          "link": "https://netpress.com.mk/1054273-2/",
+          "published": "Tue, 24 Feb 2026 20:40:34 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Европските лидери ветија дека ќе продолжат со помошта за Украина додека војната влегува во петтата година",
-          "link": "https://netpress.com.mk/evropskite-lideri-vetija-deka-ke-prodolzhat-so-pomoshta-za-ukraina-dodeka-vojnata-vleguva-vo-pettata-godina/",
-          "published": "Tue, 24 Feb 2026 19:33:30 +0000"
+          "title": "Земјотрес почувствуван во Македонија, епицентарот во Албанија",
+          "link": "https://netpress.com.mk/zemjotres-pochuvstvuvan-vo-makedonija-epiczentarot-vo-albanija/",
+          "published": "Tue, 24 Feb 2026 20:32:06 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Директорката на Лувр поднесе оставка по грабежот на векот",
-          "link": "https://netpress.com.mk/direktorkata-na-luvr-podnese-ostavka-po-grabezhot-na-vekot/",
-          "published": "Tue, 24 Feb 2026 19:06:19 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Несигурен настапот на Мбапе за реваншот против Бенфика",
-          "link": "https://netpress.com.mk/nesiguren-nastapot-na-mbape-za-revanshot-protiv-benfika/",
-          "published": "Tue, 24 Feb 2026 18:58:53 +0000"
+          "title": "Слаб почеток на годината за продажбата на автомобили во ЕУ",
+          "link": "https://netpress.com.mk/slab-pochetok-na-godinata-za-prodazhbata-na-avtomobili-vo-eu/",
+          "published": "Tue, 24 Feb 2026 20:18:08 +0000"
         }
       ]
     },
