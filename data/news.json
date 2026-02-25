@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-25T20:21:24Z",
+  "updatedAt": "2026-02-25T21:02:14Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Зеленски и Трамп разговараа пред новата рунда преговори со Русија",
+          "link": "https://makfax.com.mk/svet/%d0%b7%d0%b5%d0%bb%d0%b5%d0%bd%d1%81%d0%ba%d0%b8-%d0%b8-%d1%82%d1%80%d0%b0%d0%bc%d0%bf-%d1%80%d0%b0%d0%b7%d0%b3%d0%be%d0%b2%d0%b0%d1%80%d0%b0%d0%b0-%d0%bf%d1%80%d0%b5%d0%b4-%d0%bd%d0%be%d0%b2%d0%b0/",
+          "published": "Wed, 25 Feb 2026 20:48:09 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Мексико ја скратува работната недела од 48 на 40 часа",
+          "link": "https://makfax.com.mk/svet/%d0%bc%d0%b5%d0%ba%d1%81%d0%b8%d0%ba%d0%be-%d1%98%d0%b0-%d1%81%d0%ba%d1%80%d0%b0%d1%82%d1%83%d0%b2%d0%b0-%d1%80%d0%b0%d0%b1%d0%be%d1%82%d0%bd%d0%b0%d1%82%d0%b0-%d0%bd%d0%b5%d0%b4%d0%b5%d0%bb%d0%b0/",
+          "published": "Wed, 25 Feb 2026 20:22:33 +0000"
         },
         {
           "source": "Makfax",
@@ -29,46 +41,10 @@
           "published": "Wed, 25 Feb 2026 19:34:27 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Европската комисија предлага укинување на роамингот со земјите од Западен Балкан",
-          "link": "https://makfax.com.mk/svet/region/%d0%b5%d0%b2%d1%80%d0%be%d0%bf%d1%81%d0%ba%d0%b0%d1%82%d0%b0-%d0%ba%d0%be%d0%bc%d0%b8%d1%81%d0%b8%d1%98%d0%b0-%d0%bf%d1%80%d0%b5%d0%b4%d0%bb%d0%b0%d0%b3%d0%b0-%d1%83%d0%ba%d0%b8%d0%bd%d1%83%d0%b2/",
-          "published": "Wed, 25 Feb 2026 18:56:24 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "(Фото) Во документите на Епстин, објавена фотографија од Хокинг додека позира со две девојки, семејството тврди: Тоа се негователки",
-          "link": "https://makfax.com.mk/svet/%d1%84%d0%be%d1%82%d0%be-%d0%b2%d0%be-%d0%b4%d0%be%d0%ba%d1%83%d0%bc%d0%b5%d0%bd%d1%82%d0%b8%d1%82%d0%b5-%d0%bd%d0%b0-%d0%b5%d0%bf%d1%81%d1%82%d0%b8%d0%bd-%d0%be%d0%b1%d1%98%d0%b0%d0%b2%d0%b5%d0%bd/",
-          "published": "Wed, 25 Feb 2026 18:42:22 +0000"
-        },
-        {
           "source": "NetPress",
-          "title": "Шест од 10 жени би можеле да имаат срцеви заболувања до 2050 година",
-          "link": "https://netpress.com.mk/shest-od-10-zheni-bi-mozhele-da-imaat-srczevi-zaboluvana-do-2050-godina/",
-          "published": "Wed, 25 Feb 2026 20:14:34 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Кубанските граничари разменија оган со брод под американско знаме, има жртви",
-          "link": "https://netpress.com.mk/kubanskite-granichari-razmenija-ogan-so-brod-pod-amerikansko-zname-ima-zhrtvi/",
-          "published": "Wed, 25 Feb 2026 20:06:40 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Се плаши ли Филипче од исказот на Груби и дали со него ќе ги повлече и неговите ортаци по криминал Заев и Спасовски?",
-          "link": "https://netpress.com.mk/se-plashi-li-filipche-od-iskazot-na-grubi-i-dali-so-nego-ke-gi-povleche-i-negovite-ortaczi-po-kriminal-zaev-i-spasovski/",
-          "published": "Wed, 25 Feb 2026 19:53:27 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "САД одобрија препродажба на венецуелска нафта на Куба",
-          "link": "https://netpress.com.mk/sad-odobrija-preprodazhba-na-veneczuelska-nafta-na-kuba/",
-          "published": "Wed, 25 Feb 2026 19:45:33 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Исланд наскоро ќе одржи референдум за пристапување во ЕУ",
-          "link": "https://netpress.com.mk/island-naskoro-ke-odrzhi-referendum-za-pristapuvane-vo-eu/",
-          "published": "Wed, 25 Feb 2026 19:25:55 +0000"
+          "title": "⚠️ Не може да се вчита (извор/timeout)",
+          "link": "https://netpress.com.mk/feed/",
+          "published": ""
         }
       ]
     },
@@ -95,15 +71,33 @@
         },
         {
           "source": "BBC",
+          "title": "Four shot dead on US-registered speedboat by border guard, Cuba says",
+          "link": "https://www.bbc.com/news/articles/c24drvj8yl2o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 25 Feb 2026 20:53:23 GMT"
+        },
+        {
+          "source": "BBC",
           "title": "Two charged with murder of Australian grandfather after 'mistaken identity' kidnapping",
           "link": "https://www.bbc.com/news/articles/cm21zdxzr0ko?at_medium=RSS&at_campaign=rss",
           "published": "Wed, 25 Feb 2026 14:12:13 GMT"
         },
         {
-          "source": "BBC",
-          "title": "Spain declassifies files on 1981 attempted coup in effort to dispel conspiracy theories",
-          "link": "https://www.bbc.com/news/articles/ce8w42e152xo?at_medium=RSS&at_campaign=rss",
-          "published": "Wed, 25 Feb 2026 19:30:25 GMT"
+          "source": "Al Jazeera",
+          "title": "India’s Modi tells Israel’s Knesset: ‘No cause justifies killing civilians’",
+          "link": "https://www.aljazeera.com/news/2026/2/25/indias-modi-addresses-israeli-parliament-on-first-day-of-visit?traffic_source=rss",
+          "published": "Wed, 25 Feb 2026 20:39:55 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Modi, Netanyahu praise each other in address to Israeli Knesset",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/2/25/modi-netanyahu-praise-each-other-in-address-to-israeli-knesset?traffic_source=rss",
+          "published": "Wed, 25 Feb 2026 20:38:16 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Influential economist Larry Summers to depart Harvard over Epstein ties",
+          "link": "https://www.aljazeera.com/news/2026/2/25/influential-economist-larry-summers-to-depart-harvard-over-epstein-ties?traffic_source=rss",
+          "published": "Wed, 25 Feb 2026 20:18:41 +0000"
         },
         {
           "source": "Al Jazeera",
@@ -116,24 +110,6 @@
           "title": "Cuban border agents fire upon Florida-tagged speedboat, killing four",
           "link": "https://www.aljazeera.com/news/2026/2/25/cuban-border-agents-fire-upon-florida-tagged-speedboat-killing-four?traffic_source=rss",
           "published": "Wed, 25 Feb 2026 19:37:04 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Why do we miss 2016?",
-          "link": "https://www.aljazeera.com/video/the-stream/2026/2/25/why-do-we-miss-2016?traffic_source=rss",
-          "published": "Wed, 25 Feb 2026 19:30:00 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Russia considers fuel support for Cuba as Canada pledges food aid",
-          "link": "https://www.aljazeera.com/news/2026/2/25/russia-considers-fuel-support-for-cuba-as-canada-pledges-food-aid?traffic_source=rss",
-          "published": "Wed, 25 Feb 2026 19:10:01 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "What El Mencho’s death means for Mexico’s cartels",
-          "link": "https://www.aljazeera.com/video/the-take-2/2026/2/25/aje-onl-tt_mex_elchengokilling_av_v2-250226?traffic_source=rss",
-          "published": "Wed, 25 Feb 2026 19:05:59 +0000"
         }
       ]
     }
