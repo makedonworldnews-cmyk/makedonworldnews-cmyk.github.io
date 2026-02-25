@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-25T23:03:56Z",
+  "updatedAt": "2026-02-25T23:41:42Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,24 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Атлетико ќе гостува во Англија, ПСЖ оди на Челзи или Барса, можен дуел Реал-Сити",
+          "link": "https://makfax.com.mk/sport/atletiko-ke-gostuva-vo-anglija-pszh-odi-na-chelzi-ili-barsa-mozhen-duel-real-siti/",
+          "published": "Wed, 25 Feb 2026 23:04:32 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) Јуве сo играч помалку избори продолженија, но не успеа да го елиминира Галатасарај",
+          "link": "https://makfax.com.mk/sport/video-juve-si-igrach-pomalku-izbori-prodolzhenija-no-ne-uspea-da-go-eliminira-galatasaraj/",
+          "published": "Wed, 25 Feb 2026 22:51:56 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) Реал по пресврт ја победи Бенфика, ПСЖ на „мускули“ го елиминира Монако",
+          "link": "https://makfax.com.mk/sport/video-real-po-presvrt-ja-pobedi-benfika-pszh-na-muskuli-go-eliminira-monako/",
+          "published": "Wed, 25 Feb 2026 22:12:24 +0000"
         },
         {
           "source": "Makfax",
@@ -23,22 +41,10 @@
           "published": "Wed, 25 Feb 2026 20:22:33 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Зеленски: „Дружба“ нема наскоро да биде поправена, Унгарија да се обрати до Русија",
-          "link": "https://makfax.com.mk/svet/%d0%b7%d0%b5%d0%bb%d0%b5%d0%bd%d1%81%d0%ba%d0%b8-%d0%b4%d1%80%d1%83%d0%b6%d0%b1%d0%b0-%d0%bd%d0%b5%d0%bc%d0%b0-%d0%bd%d0%b0%d1%81%d0%ba%d0%be%d1%80%d0%be-%d0%b4%d0%b0-%d0%b1%d0%b8/",
-          "published": "Wed, 25 Feb 2026 20:19:03 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "(Видео) За „Југославија“ пишуваат и германските медиуми – песната за која деновиве се зборува",
-          "link": "https://makfax.com.mk/zanimlivosti/%d0%b2%d0%b8%d0%b4%d0%b5%d0%be-%d0%b7%d0%b0-%d1%98%d1%83%d0%b3%d0%be%d1%81%d0%bb%d0%b0%d0%b2%d0%b8%d1%98%d0%b0-%d0%bf%d0%b8%d1%88%d1%83%d0%b2%d0%b0%d0%b0%d1%82-%d0%b8-%d0%b3%d0%b5/",
-          "published": "Wed, 25 Feb 2026 19:53:35 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Европска порака до Орбан: „Она што ѝ го правите на Украина е црвена линија, нашето трпение се троши!“",
-          "link": "https://makfax.com.mk/svet/%d0%b5%d0%b2%d1%80%d0%be%d0%bf%d1%81%d0%ba%d0%b0-%d0%bf%d0%be%d1%80%d0%b0%d0%ba%d0%b0-%d0%b4%d0%be-%d0%be%d1%80%d0%b1%d0%b0%d0%bd-%d0%be%d0%bd%d0%b0-%d1%88%d1%82%d0%be-%d1%9d-%d0%b3%d0%be/",
-          "published": "Wed, 25 Feb 2026 19:34:27 +0000"
+          "source": "NetPress",
+          "title": "Преглед ЛШ: Галатасарај го елиминира Јувентус по продолженијата",
+          "link": "https://netpress.com.mk/pregled-lsh-galatasaraj-go-eliminira-juventus-po-prodolzhenijata/",
+          "published": "Wed, 25 Feb 2026 23:13:26 +0000"
         },
         {
           "source": "NetPress",
@@ -63,12 +69,6 @@
           "title": "Германија го менува контроверзниот закон за греење",
           "link": "https://netpress.com.mk/germanija-go-menuva-kontroverzniot-zakon-za-greene/",
           "published": "Wed, 25 Feb 2026 21:40:28 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Платите на функционерите ќе се намалат до 13.000 денари",
-          "link": "https://netpress.com.mk/platite-na-funkczionerite-ke-se-namalat-do-13-000-denari/",
-          "published": "Wed, 25 Feb 2026 21:29:24 +0000"
         }
       ]
     },
@@ -103,7 +103,19 @@
           "source": "BBC",
           "title": "Four shot dead on US-registered speedboat by border guards, Cuba says",
           "link": "https://www.bbc.com/news/articles/c24drvj8yl2o?at_medium=RSS&at_campaign=rss",
-          "published": "Wed, 25 Feb 2026 22:48:01 GMT"
+          "published": "Wed, 25 Feb 2026 23:23:13 GMT"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Will Mexico’s Jalisco cartel’s violent biz model survive El Mencho’s death?",
+          "link": "https://www.aljazeera.com/economy/2026/2/25/will-mexicos-jalisco-cartels-violent-biz-model-survive-el-menchos-death?traffic_source=rss",
+          "published": "Wed, 25 Feb 2026 22:57:27 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Zelenskyy speaks with Trump about peace efforts, eyes leaders-level talks",
+          "link": "https://www.aljazeera.com/news/2026/2/25/zelenskyy-speaks-with-trump-about-peace-efforts-eyes-leaders-level-talks?traffic_source=rss",
+          "published": "Wed, 25 Feb 2026 22:47:39 +0000"
         },
         {
           "source": "Al Jazeera",
@@ -122,18 +134,6 @@
           "title": "Poland charges ex-intel chiefs for using Israel’s Pegasus spyware",
           "link": "https://www.aljazeera.com/news/2026/2/25/poland-charges-ex-intel-chiefs-for-using-israels-pegasus-spyware?traffic_source=rss",
           "published": "Wed, 25 Feb 2026 22:12:17 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Ukraine alleges Russia enlists more than 1,700 Africans to fight",
-          "link": "https://www.aljazeera.com/news/2026/2/25/ukraine-claims-russia-enlisting-over-1700-african-mercenaries?traffic_source=rss",
-          "published": "Wed, 25 Feb 2026 22:11:17 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "India’s Modi tells Israel’s Knesset: ‘No cause justifies killing civilians’",
-          "link": "https://www.aljazeera.com/news/2026/2/25/indias-modi-addresses-israeli-parliament-on-first-day-of-visit?traffic_source=rss",
-          "published": "Wed, 25 Feb 2026 20:39:55 +0000"
         }
       ]
     }
