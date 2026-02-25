@@ -1,15 +1,10 @@
 {
-  "updatedAt": "2026-02-25T21:02:14Z",
+  "updatedAt": "2026-02-25T21:50:52Z",
   "errors": [
     {
       "source": "МИА",
       "url": "https://mia.mk/rss",
       "error": "404 Client Error: Not Found for url: https://mia.mk/rss"
-    },
-    {
-      "source": "NetPress",
-      "url": "https://netpress.com.mk/feed/",
-      "error": "HTTPSConnectionPool(host='netpress.com.mk', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='netpress.com.mk', port=443): Failed to resolve 'netpress.com.mk' ([Errno -3] Temporary failure in name resolution)\"))"
     }
   ]
 }
