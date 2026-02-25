@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-25T17:41:09Z",
+  "updatedAt": "2026-02-25T18:43:17Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "(Фото) Во документите на Епстин, објавена фотографија од Хокинг додека позира со две девојки, семејството тврди: Тоа се негователки",
+          "link": "https://makfax.com.mk/svet/%d1%84%d0%be%d1%82%d0%be-%d0%b2%d0%be-%d0%b4%d0%be%d0%ba%d1%83%d0%bc%d0%b5%d0%bd%d1%82%d0%b8%d1%82%d0%b5-%d0%bd%d0%b0-%d0%b5%d0%bf%d1%81%d1%82%d0%b8%d0%bd-%d0%be%d0%b1%d1%98%d0%b0%d0%b2%d0%b5%d0%bd/",
+          "published": "Wed, 25 Feb 2026 18:42:22 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Стотици илјади тони какао непродадени во Африка поради високите откупни цени",
+          "link": "https://makfax.com.mk/svet/%d1%81%d1%82%d0%be%d1%82%d0%b8%d1%86%d0%b8-%d0%b8%d0%bb%d1%98%d0%b0%d0%b4%d0%b8-%d1%82%d0%be%d0%bd%d0%b8-%d0%ba%d0%b0%d0%ba%d0%b0%d0%be-%d0%bd%d0%b5%d0%bf%d1%80%d0%be%d0%b4%d0%b0%d0%b4%d0%b5%d0%bd/",
+          "published": "Wed, 25 Feb 2026 17:58:51 +0000"
         },
         {
           "source": "Makfax",
@@ -29,46 +41,34 @@
           "published": "Wed, 25 Feb 2026 17:16:54 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "СДСМ некогаш беше државтворна партија, а сега се занимава со трач муабети, реагира движењето ЗНАМ",
-          "link": "https://makfax.com.mk/makedonija/%d1%81%d0%b4%d1%81%d0%bc-%d0%bd%d0%b5%d0%ba%d0%be%d0%b3%d0%b0%d1%88-%d0%b1%d0%b5%d1%88%d0%b5-%d0%b4%d1%80%d0%b6%d0%b0%d0%b2%d1%82%d0%b2%d0%be%d1%80%d0%bd%d0%b0-%d0%bf%d0%b0%d1%80%d1%82%d0%b8%d1%98/",
-          "published": "Wed, 25 Feb 2026 16:48:56 +0000"
+          "source": "NetPress",
+          "title": "САД распоредуваат борбени авиони во Израел",
+          "link": "https://netpress.com.mk/sad-rasporeduvaat-borbeni-avioni-vo-izrael/",
+          "published": "Wed, 25 Feb 2026 18:20:48 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Нова опрема за анализа на тешки метали во почвата во Државната лабораторија за животна средина",
-          "link": "https://makfax.com.mk/makedonija/%d0%bd%d0%be%d0%b2%d0%b0-%d0%be%d0%bf%d1%80%d0%b5%d0%bc%d0%b0-%d0%b7%d0%b0-%d0%b0%d0%bd%d0%b0%d0%bb%d0%b8%d0%b7%d0%b0-%d0%bd%d0%b0-%d1%82%d0%b5%d1%88%d0%ba%d0%b8-%d0%bc%d0%b5%d1%82%d0%b0%d0%bb%d0%b8/",
-          "published": "Wed, 25 Feb 2026 16:42:44 +0000"
+          "source": "NetPress",
+          "title": "УЕФА ја отфрли жалбата на Бенфика",
+          "link": "https://netpress.com.mk/uefa-ja-otfrli-zhalbata-na-benfika/",
+          "published": "Wed, 25 Feb 2026 18:09:57 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Блискоисточната дилема ги задржа цените на нафтата близу 71 долар",
+          "link": "https://netpress.com.mk/bliskoistochnata-dilema-gi-zadrzha-czenite-na-naftata-blizu-71-dolar/",
+          "published": "Wed, 25 Feb 2026 17:49:27 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Бил Гејтс свика состанок и се извини: Призна што правел со Епштајн",
+          "link": "https://netpress.com.mk/bil-gejts-svika-sostanok-i-se-izvini-prizna-shto-pravel-so-epshtajn/",
+          "published": "Wed, 25 Feb 2026 17:42:11 +0000"
         },
         {
           "source": "NetPress",
           "title": "Ворнер Брос Дискавери навести дека Парамаунт би можел да го победи Нетфликс",
           "link": "https://netpress.com.mk/vorner-bros-diskaveri-navesti-deka-paramaunt-bi-mozhel-da-go-pobedi-netfliks/",
           "published": "Wed, 25 Feb 2026 17:39:58 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Радио Слободна Европа се затворa во Бугарија и Романија",
-          "link": "https://netpress.com.mk/radio-slobodna-evropa-se-zatvora-vo-bugarija-i-romanija/",
-          "published": "Wed, 25 Feb 2026 17:32:10 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Нерезидентните пензионери останаа без линеарното покакачување",
-          "link": "https://netpress.com.mk/nerezidentnite-penzioneri-ostanaa-bez-linearnoto-pokakachuvane/",
-          "published": "Wed, 25 Feb 2026 17:07:42 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "АД ЕСМ и ЕБОР ги зајакнуваат вештините на работната сила за праведна енергетска транзиција",
-          "link": "https://netpress.com.mk/ad-esm-i-ebor-gi-zajaknuvaat-veshtinite-na-rabotnata-sila-za-pravedna-energetska-tranziczija/",
-          "published": "Wed, 25 Feb 2026 16:32:12 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Убаво време до почетокот на следната седмица",
-          "link": "https://netpress.com.mk/ubavo-vreme-do-pochetokot-na-slednata-sedmicza/",
-          "published": "Wed, 25 Feb 2026 16:07:55 +0000"
         }
       ]
     },
@@ -107,6 +107,18 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "US consular services in illegal Israeli settlement in West Bank condemned",
+          "link": "https://www.aljazeera.com/news/2026/2/25/pa-and-hamas-condemn-us-consular-settlement-announcment?traffic_source=rss",
+          "published": "Wed, 25 Feb 2026 18:16:37 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Iran rejects ‘fictional narratives’ of power grab after protest killings",
+          "link": "https://www.aljazeera.com/news/2026/2/25/iran-rejects-fictional-narratives-power-grab-after-protest-killings?traffic_source=rss",
+          "published": "Wed, 25 Feb 2026 17:56:52 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "LIVE: Real Madrid vs Benfica – Champions League playoff, second leg",
           "link": "https://www.aljazeera.com/sports/liveblog/2026/2/25/live-real-madrid-vs-benfica-champions-league-playoff-second-leg?traffic_source=rss",
           "published": "Wed, 25 Feb 2026 17:00:00 +0000"
@@ -122,18 +134,6 @@
           "title": "US issues new sanctions as it dials up pressure on Iran",
           "link": "https://www.aljazeera.com/news/2026/2/25/us-issues-new-sanctions-as-it-dials-up-pressure-on-iran?traffic_source=rss",
           "published": "Wed, 25 Feb 2026 16:54:09 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Demonstrators in frog costumes protest Trump’s State of the Union",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/2/25/demonstrators-in-frog-costumes-protest-trumps-state-of-the-union?traffic_source=rss",
-          "published": "Wed, 25 Feb 2026 16:48:33 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Israel kills more journalists than any nation on record: Media watchdog",
-          "link": "https://www.aljazeera.com/news/2026/2/25/israel-has-killed-more-journalists-than-any-government-on-record-cpj?traffic_source=rss",
-          "published": "Wed, 25 Feb 2026 16:47:39 +0000"
         }
       ]
     }
