@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-26T22:19:20Z",
+  "updatedAt": "2026-02-26T22:57:07Z",
   "groups": [
     {
       "region": "Македонија",
@@ -42,6 +42,12 @@
         },
         {
           "source": "NetPress",
+          "title": "Селта, Болоња, Нотингем Форест… во осминафиналето на Лига Европа",
+          "link": "https://netpress.com.mk/selta-bolona-notingem-forest-vo-osminafinaleto-na-liga-evropa/",
+          "published": "Thu, 26 Feb 2026 22:28:51 +0000"
+        },
+        {
+          "source": "NetPress",
           "title": "Евролига: Убедливи победи на Басконија и Реал",
           "link": "https://netpress.com.mk/evroliga-ubedlivi-pobedi-na-baskonija-i-real/",
           "published": "Thu, 26 Feb 2026 22:09:41 +0000"
@@ -63,18 +69,18 @@
           "title": "ЛЕ: МекКован стрелец по 28 секунди, Сикора сè уште го држи рекордот а Елмас е втор",
           "link": "https://netpress.com.mk/le-mekkovan-strelecz-po-28-sekundi-sikora-se-ushte-go-drzhi-rekordot-a-elmas-e-vtor/",
           "published": "Thu, 26 Feb 2026 21:06:05 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Се користеле млади луѓе за да го изиграат системот!",
-          "link": "https://netpress.com.mk/se-koristele-mladi-luge-za-da-go-izigraat-sistemot/",
-          "published": "Thu, 26 Feb 2026 21:00:27 +0000"
         }
       ]
     },
     {
       "region": "Свет",
       "items": [
+        {
+          "source": "BBC",
+          "title": "American citizen among those killed in Cuba boat shooting, US official says",
+          "link": "https://www.bbc.com/news/articles/c80j3rlp904o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 26 Feb 2026 22:50:24 GMT"
+        },
         {
           "source": "BBC",
           "title": "US-Iran talks end after 'significant progress', mediator says",
@@ -100,10 +106,16 @@
           "published": "Thu, 26 Feb 2026 06:01:11 GMT"
         },
         {
-          "source": "BBC",
-          "title": "Cuba says group shot on US-registered speedboat planned 'armed infiltration'",
-          "link": "https://www.bbc.com/news/articles/c24drvj8yl2o?at_medium=RSS&at_campaign=rss",
-          "published": "Thu, 26 Feb 2026 22:00:13 GMT"
+          "source": "Al Jazeera",
+          "title": "Why are many Western leaders visiting China?",
+          "link": "https://www.aljazeera.com/video/inside-story/2026/2/26/why-are-many-western-leaders-visiting-china?traffic_source=rss",
+          "published": "Thu, 26 Feb 2026 22:35:08 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Ecuador hikes tariffs on Colombian imports to 50 percent starting March 1",
+          "link": "https://www.aljazeera.com/news/2026/2/26/ecuador-hikes-tariffs-on-colombian-imports-to-50-percent-starting-march-1?traffic_source=rss",
+          "published": "Thu, 26 Feb 2026 22:26:29 +0000"
         },
         {
           "source": "Al Jazeera",
@@ -122,18 +134,6 @@
           "title": "Columbia University says US immigration agents lied to detain student",
           "link": "https://www.aljazeera.com/news/2026/2/26/columbia-university-says-us-immigration-agents-lied-to-detain-student?traffic_source=rss",
           "published": "Thu, 26 Feb 2026 21:02:06 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Iranian foreign minister says US, Iran moving closer to deal",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/2/26/iranian-foreign-minister-says-us-iran-moving-closer-to-deal?traffic_source=rss",
-          "published": "Thu, 26 Feb 2026 20:57:13 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Columbia University students protest ICE arrest at university housing",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/2/26/columbia-university-students-protest-ice-arrest-at-university?traffic_source=rss",
-          "published": "Thu, 26 Feb 2026 20:54:03 +0000"
         }
       ]
     }
