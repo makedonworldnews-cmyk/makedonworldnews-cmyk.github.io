@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-26T21:49:06Z",
+  "updatedAt": "2026-02-26T22:19:20Z",
   "groups": [
     {
       "region": "Македонија",
@@ -42,6 +42,18 @@
         },
         {
           "source": "NetPress",
+          "title": "Евролига: Убедливи победи на Басконија и Реал",
+          "link": "https://netpress.com.mk/evroliga-ubedlivi-pobedi-na-baskonija-i-real/",
+          "published": "Thu, 26 Feb 2026 22:09:41 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Јужнокорејскиот режисер Парк Чан-вук ќе го предводи жирито во Кан",
+          "link": "https://netpress.com.mk/juzhnokorejskiot-rezhiser-park-chan-vuk-ke-go-predvodi-zhirito-vo-kan/",
+          "published": "Thu, 26 Feb 2026 21:59:23 +0000"
+        },
+        {
+          "source": "NetPress",
           "title": "Доброволци-пожарникари спречија да се рашири пожар",
           "link": "https://netpress.com.mk/dobrovolczi-pozharnkari-sprechija-da-se-rashiri-pozhar/",
           "published": "Thu, 26 Feb 2026 21:37:23 +0000"
@@ -57,18 +69,6 @@
           "title": "Се користеле млади луѓе за да го изиграат системот!",
           "link": "https://netpress.com.mk/se-koristele-mladi-luge-za-da-go-izigraat-sistemot/",
           "published": "Thu, 26 Feb 2026 21:00:27 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Ајнтрахт казнет со дури 440.250 евра",
-          "link": "https://netpress.com.mk/ajntraht-kaznet-so-duri-440-250-evra/",
-          "published": "Thu, 26 Feb 2026 20:55:38 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Ќе ја исчистиме државата од политичките криминалци",
-          "link": "https://netpress.com.mk/ke-ja-ischistime-drzhavata-od-politichkite-kriminalczi/",
-          "published": "Thu, 26 Feb 2026 20:40:12 +0000"
         }
       ]
     },
@@ -83,9 +83,9 @@
         },
         {
           "source": "BBC",
-          "title": "Afghanistan launches 'retaliatory' attack on Pakistan, Taliban says",
+          "title": "Pakistan says two soldiers killed after attacks by Afghan Taliban",
           "link": "https://www.bbc.com/news/articles/c0j5qx9n887o?at_medium=RSS&at_campaign=rss",
-          "published": "Thu, 26 Feb 2026 20:25:19 GMT"
+          "published": "Thu, 26 Feb 2026 21:56:49 GMT"
         },
         {
           "source": "BBC",
@@ -103,7 +103,13 @@
           "source": "BBC",
           "title": "Cuba says group shot on US-registered speedboat planned 'armed infiltration'",
           "link": "https://www.bbc.com/news/articles/c24drvj8yl2o?at_medium=RSS&at_campaign=rss",
-          "published": "Thu, 26 Feb 2026 15:18:11 GMT"
+          "published": "Thu, 26 Feb 2026 22:00:13 GMT"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Israeli attacks on Lebanon’s Bekaa Valley kill Syrian teenager",
+          "link": "https://www.aljazeera.com/news/2026/2/26/israeli-attacks-on-lebanons-bekaa-valley-kill-syrian-teenager?traffic_source=rss",
+          "published": "Thu, 26 Feb 2026 21:44:04 +0000"
         },
         {
           "source": "Al Jazeera",
@@ -128,12 +134,6 @@
           "title": "Columbia University students protest ICE arrest at university housing",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/2/26/columbia-university-students-protest-ice-arrest-at-university?traffic_source=rss",
           "published": "Thu, 26 Feb 2026 20:54:03 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "US-Iran talks conclude with claims of progress but few details",
-          "link": "https://www.aljazeera.com/news/2026/2/26/us-iran-talks-conclude-claims-progress-few-details?traffic_source=rss",
-          "published": "Thu, 26 Feb 2026 20:22:55 +0000"
         }
       ]
     }
