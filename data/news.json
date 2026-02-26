@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-26T22:57:07Z",
+  "updatedAt": "2026-02-26T23:36:19Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) Лил ја згасна Звезда",
+          "link": "https://makfax.com.mk/sport/video-lil-ja-zgasna-zvezda/",
+          "published": "Thu, 26 Feb 2026 21:15:24 +0000"
         },
         {
           "source": "Makfax",
@@ -33,12 +39,6 @@
           "title": "Деветгодишно девојче скокнало од балкон во Германија: мајката и се заканувала со нож",
           "link": "https://makfax.com.mk/svet/%d0%b4%d0%b5%d0%b2%d0%b5%d1%82%d0%b3%d0%be%d0%b4%d0%b8%d1%88%d0%bd%d0%be-%d0%b4%d0%b5%d0%b2%d0%be%d1%98%d1%87%d0%b5-%d1%81%d0%ba%d0%be%d0%ba%d0%bd%d0%b0%d0%bb%d0%be-%d0%be%d0%b4-%d0%b1%d0%b0%d0%bb/",
           "published": "Thu, 26 Feb 2026 19:56:43 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Потпишан Меморандум со највисоко рангираните универзитети во Македонија  за соработка во рамки на проектот „Европска престолнина на културата – Скопје 2028“, објави Ѓорѓиевски",
-          "link": "https://makfax.com.mk/makedonija/%d0%bf%d0%be%d1%82%d0%bf%d0%b8%d1%88%d0%b0%d0%bd-%d0%bc%d0%b5%d0%bc%d0%be%d1%80%d0%b0%d0%bd%d0%b4%d1%83%d0%bc-%d1%81%d0%be-%d0%bd%d0%b0%d1%98%d0%b2%d0%b8%d1%81%d0%be%d0%ba%d0%be-%d1%80%d0%b0%d0%bd/",
-          "published": "Thu, 26 Feb 2026 19:33:27 +0000"
         },
         {
           "source": "NetPress",
@@ -79,7 +79,7 @@
           "source": "BBC",
           "title": "American citizen among those killed in Cuba boat shooting, US official says",
           "link": "https://www.bbc.com/news/articles/c80j3rlp904o?at_medium=RSS&at_campaign=rss",
-          "published": "Thu, 26 Feb 2026 22:50:24 GMT"
+          "published": "Thu, 26 Feb 2026 22:58:53 GMT"
         },
         {
           "source": "BBC",
@@ -107,6 +107,12 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Cuba says speedboat attackers from Florida planned to destabilise country",
+          "link": "https://www.aljazeera.com/news/2026/2/26/cuba-says-speedboat-attackers-from-florida-planned-to-destabilise-country?traffic_source=rss",
+          "published": "Thu, 26 Feb 2026 22:58:32 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Why are many Western leaders visiting China?",
           "link": "https://www.aljazeera.com/video/inside-story/2026/2/26/why-are-many-western-leaders-visiting-china?traffic_source=rss",
           "published": "Thu, 26 Feb 2026 22:35:08 +0000"
@@ -128,12 +134,6 @@
           "title": "Family of UN rapporteur Albanese sues Trump administration over sanctions",
           "link": "https://www.aljazeera.com/news/2026/2/26/family-of-un-rapporteur-albanese-sues-trump-administration-over-sanctions?traffic_source=rss",
           "published": "Thu, 26 Feb 2026 21:25:46 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Columbia University says US immigration agents lied to detain student",
-          "link": "https://www.aljazeera.com/news/2026/2/26/columbia-university-says-us-immigration-agents-lied-to-detain-student?traffic_source=rss",
-          "published": "Thu, 26 Feb 2026 21:02:06 +0000"
         }
       ]
     }
