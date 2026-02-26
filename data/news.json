@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-26T21:18:27Z",
+  "updatedAt": "2026-02-26T21:49:06Z",
   "groups": [
     {
       "region": "Македонија",
@@ -42,6 +42,12 @@
         },
         {
           "source": "NetPress",
+          "title": "Доброволци-пожарникари спречија да се рашири пожар",
+          "link": "https://netpress.com.mk/dobrovolczi-pozharnkari-sprechija-da-se-rashiri-pozhar/",
+          "published": "Thu, 26 Feb 2026 21:37:23 +0000"
+        },
+        {
+          "source": "NetPress",
           "title": "ЛЕ: МекКован стрелец по 28 секунди, Сикора сè уште го држи рекордот а Елмас е втор",
           "link": "https://netpress.com.mk/le-mekkovan-strelecz-po-28-sekundi-sikora-se-ushte-go-drzhi-rekordot-a-elmas-e-vtor/",
           "published": "Thu, 26 Feb 2026 21:06:05 +0000"
@@ -63,12 +69,6 @@
           "title": "Ќе ја исчистиме државата од политичките криминалци",
           "link": "https://netpress.com.mk/ke-ja-ischistime-drzhavata-od-politichkite-kriminalczi/",
           "published": "Thu, 26 Feb 2026 20:40:12 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Иран и САД постигнаа „значаен напредок“ во разговорите, Техеран предложил замрзнување на збогатувањето ураниум",
-          "link": "https://netpress.com.mk/iran-i-sad-postignaa-znachaen-napredok-vo-razgovorite-teheran-predlozhil-zamrznuvane-na-zbogatuvaneto-uranium/",
-          "published": "Thu, 26 Feb 2026 20:23:02 +0000"
         }
       ]
     },
@@ -79,7 +79,7 @@
           "source": "BBC",
           "title": "US-Iran talks end after 'significant progress', mediator says",
           "link": "https://www.bbc.com/news/articles/cvg1vd95nl9o?at_medium=RSS&at_campaign=rss",
-          "published": "Thu, 26 Feb 2026 19:50:47 GMT"
+          "published": "Thu, 26 Feb 2026 21:43:44 GMT"
         },
         {
           "source": "BBC",
@@ -107,33 +107,33 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Family of UN rapporteur Albanese sues Trump administration over sanctions",
+          "link": "https://www.aljazeera.com/news/2026/2/26/family-of-un-rapporteur-albanese-sues-trump-administration-over-sanctions?traffic_source=rss",
+          "published": "Thu, 26 Feb 2026 21:25:46 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Columbia University says US immigration agents lied to detain student",
+          "link": "https://www.aljazeera.com/news/2026/2/26/columbia-university-says-us-immigration-agents-lied-to-detain-student?traffic_source=rss",
+          "published": "Thu, 26 Feb 2026 21:02:06 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Iranian foreign minister says US, Iran moving closer to deal",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/2/26/iranian-foreign-minister-says-us-iran-moving-closer-to-deal?traffic_source=rss",
+          "published": "Thu, 26 Feb 2026 20:57:13 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Columbia University students protest ICE arrest at university housing",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/2/26/columbia-university-students-protest-ice-arrest-at-university?traffic_source=rss",
+          "published": "Thu, 26 Feb 2026 20:54:03 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "US-Iran talks conclude with claims of progress but few details",
           "link": "https://www.aljazeera.com/news/2026/2/26/us-iran-talks-conclude-claims-progress-few-details?traffic_source=rss",
           "published": "Thu, 26 Feb 2026 20:22:55 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "US government asks Supreme Court to allow deportation of Syrian migrants",
-          "link": "https://www.aljazeera.com/news/2026/2/26/us-government-asks-supreme-court-to-allow-deportation-of-syrian-migrants?traffic_source=rss",
-          "published": "Thu, 26 Feb 2026 20:22:04 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Kenyan man charged with duping people to fight for Russia in Ukraine war",
-          "link": "https://www.aljazeera.com/news/2026/2/26/kenyan-man-charged-with-duping-people-to-fight-for-russia-in-ukraine-war?traffic_source=rss",
-          "published": "Thu, 26 Feb 2026 20:14:52 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "After State of the Union, Trump’s agenda faces new political reality",
-          "link": "https://www.aljazeera.com/news/2026/2/26/after-state-of-the-union-trumps-agenda-faces-new-political-reality?traffic_source=rss",
-          "published": "Thu, 26 Feb 2026 20:08:18 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Journalists demand Israel end Gaza entry ban",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/2/26/journalists-demand-israel-end-gaza-entry-ban?traffic_source=rss",
-          "published": "Thu, 26 Feb 2026 20:00:52 +0000"
         }
       ]
     }
