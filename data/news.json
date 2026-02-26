@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-26T10:04:13Z",
+  "updatedAt": "2026-02-26T11:03:35Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,24 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Рубио: Трамп не разбира зошто Украина и Русија не можат да ја завршат војната",
+          "link": "https://makfax.com.mk/svet/%d1%80%d1%83%d0%b1%d0%b8%d0%be-%d1%82%d1%80%d0%b0%d0%bc%d0%bf-%d0%bd%d0%b5-%d1%80%d0%b0%d0%b7%d0%b1%d0%b8%d1%80%d0%b0-%d0%b7%d0%be%d1%88%d1%82%d0%be-%d1%83%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d0%b0-%d0%b8/",
+          "published": "Thu, 26 Feb 2026 10:25:30 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Хрватскиот министер за надворешни и европски работи во посета на Македонија",
+          "link": "https://makfax.com.mk/makedonija/%d1%85%d1%80%d0%b2%d0%b0%d1%82%d1%81%d0%ba%d0%b8%d0%be%d1%82-%d0%bc%d0%b8%d0%bd%d0%b8%d1%81%d1%82%d0%b5%d1%80-%d0%b7%d0%b0-%d0%bd%d0%b0%d0%b4%d0%b2%d0%be%d1%80%d0%b5%d1%88%d0%bd%d0%b8-%d0%b8-%d0%b5/",
+          "published": "Thu, 26 Feb 2026 10:17:37 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "„Блокадафест“ пред влезот на Усје, целодневен протест со музичка програма",
+          "link": "https://makfax.com.mk/makedonija/%d0%b1%d0%bb%d0%be%d0%ba%d0%b0%d0%b4%d0%b0%d1%84%d0%b5%d1%81%d1%82-%d0%bf%d1%80%d0%b5%d0%b4-%d0%b2%d0%bb%d0%b5%d0%b7%d0%be%d1%82-%d0%bd%d0%b0-%d1%83%d1%81%d1%98%d0%b5-%d1%86%d0%b5/",
+          "published": "Thu, 26 Feb 2026 10:10:14 +0000"
         },
         {
           "source": "Makfax",
@@ -23,52 +41,34 @@
           "published": "Thu, 26 Feb 2026 09:29:41 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Епстин шверцувал жени преку британските аеродроми до 2019 година",
-          "link": "https://makfax.com.mk/svet/%d0%b5%d0%bf%d1%81%d1%82%d0%b8%d0%bd-%d1%88%d0%b2%d0%b5%d1%80%d1%86%d1%83%d0%b2%d0%b0%d0%bb-%d0%b6%d0%b5%d0%bd%d0%b8-%d0%bf%d1%80%d0%b5%d0%ba%d1%83-%d0%b1%d1%80%d0%b8%d1%82%d0%b0%d0%bd%d1%81%d0%ba/",
-          "published": "Thu, 26 Feb 2026 09:28:33 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Сакам војната да се заврши за еден месец, му рекол Трамп на Зеленски",
-          "link": "https://makfax.com.mk/svet/%d1%81%d0%b0%d0%ba%d0%b0%d0%bc-%d0%b2%d0%be%d1%98%d0%bd%d0%b0%d1%82%d0%b0-%d0%b4%d0%b0-%d1%81%d0%b5-%d0%b7%d0%b0%d0%b2%d1%80%d1%88%d0%b8-%d0%b7%d0%b0-%d0%b5%d0%b4%d0%b5%d0%bd-%d0%bc%d0%b5%d1%81%d0%b5/",
-          "published": "Thu, 26 Feb 2026 09:19:57 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "ВЛЕН: Кој од ДУИ му се заканува на Артан Груби?",
-          "link": "https://makfax.com.mk/makedonija/%d0%b2%d0%bb%d0%b5%d0%bd-%d0%ba%d0%be%d1%98-%d0%be%d0%b4-%d0%b4%d1%83%d0%b8-%d0%bc%d1%83-%d1%81%d0%b5-%d0%b7%d0%b0%d0%ba%d0%b0%d0%bd%d1%83%d0%b2%d0%b0-%d0%bd%d0%b0-%d0%b0%d1%80%d1%82%d0%b0%d0%bd/",
-          "published": "Thu, 26 Feb 2026 09:10:19 +0000"
+          "source": "NetPress",
+          "title": "Советот на јавни обвинители за случајот со Груби ја префрли топката на Повисокото обвинителство",
+          "link": "https://netpress.com.mk/sovetot-na-javni-obviniteli-za-sluchajot-so-grubi-ja-prefrli-topkata-na-povisokoto-obvinitelstvo/",
+          "published": "Thu, 26 Feb 2026 10:49:30 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Русија и Украина разменија тела на загинати војници",
-          "link": "https://netpress.com.mk/rusija-i-ukraina-razmenija-tela-na-zaginati-vojniczi-2/",
-          "published": "Thu, 26 Feb 2026 09:52:20 +0000"
+          "title": "Медиумскиот тајкун Џими Лаи ја доби жалбата за пресудата за измама во Хонг Конг",
+          "link": "https://netpress.com.mk/mediumskiot-tajkun-dhimi-lai-ja-dobi-zhalbata-za-presudata-za-izmama-vo-hong-kong/",
+          "published": "Thu, 26 Feb 2026 10:45:45 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Русија го осуди инцидентот кај Куба како „агресивна провокација“ од страна на САД",
-          "link": "https://netpress.com.mk/rusija-go-osudi-inczidentot-kaj-kuba-kako-agresivna-provokaczija-od-strana-na-sad/",
-          "published": "Thu, 26 Feb 2026 09:39:57 +0000"
+          "title": "Трамп вели дека Де Ниро е „пореметен и со ниска интелигенција“",
+          "link": "https://netpress.com.mk/tramp-veli-deka-de-niro-e-poremeten-i-so-niska-inteligenczija/",
+          "published": "Thu, 26 Feb 2026 10:45:45 +0000"
         },
         {
           "source": "NetPress",
-          "title": "ВЛЕН: Кој од ДУИ му се заканува на Артан Груби?",
-          "link": "https://netpress.com.mk/vlen-koj-od-dui-mu-se-zakanuva-na-artan-grubi/",
-          "published": "Thu, 26 Feb 2026 09:35:07 +0000"
+          "title": "НБА: Детроит подобар од Оклахома, Денвер лесно го доби Бостон",
+          "link": "https://netpress.com.mk/nba-detroit-podobar-od-oklahoma-denver-lesno-go-dobi-boston/",
+          "published": "Thu, 26 Feb 2026 10:27:30 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Дали е безбедно да се зема магнезиум секој ден?",
-          "link": "https://netpress.com.mk/dali-e-bezbedno-da-se-zema-magnezium-sekoj-den/",
-          "published": "Thu, 26 Feb 2026 09:24:34 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Свечен час по повод 80 години од излегувањето на Македонската граматика од Круме Кепески",
-          "link": "https://netpress.com.mk/svechen-chas-po-povod-80-godini-od-izleguvaneto-na-makedonskata-gramatika-od-krume-kepeski/",
-          "published": "Thu, 26 Feb 2026 09:02:56 +0000"
+          "title": "Романија подигна ловци поради навлезен дрон во воздушниот простор на земјата",
+          "link": "https://netpress.com.mk/romanija-podigna-lovczi-poradi-navlezen-dron-vo-vozdushniot-prostor-na-zemjata/",
+          "published": "Thu, 26 Feb 2026 10:19:54 +0000"
         }
       ]
     },
@@ -77,9 +77,9 @@
       "items": [
         {
           "source": "BBC",
-          "title": "Shot in school uniform: BBC reveals police order led to Gen Z protest killings in Nepal",
-          "link": "https://www.bbc.com/news/articles/c4g5qx357dzo?at_medium=RSS&at_campaign=rss",
-          "published": "Thu, 26 Feb 2026 00:02:48 GMT"
+          "title": "US and Iran begin talks seen as crucial to prevent conflict",
+          "link": "https://www.bbc.com/news/articles/cvg1vd95nl9o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 26 Feb 2026 10:39:58 GMT"
         },
         {
           "source": "BBC",
@@ -101,39 +101,39 @@
         },
         {
           "source": "BBC",
-          "title": "US and Iran begin talks seen as crucial to prevent conflict",
-          "link": "https://www.bbc.com/news/articles/cvg1vd95nl9o?at_medium=RSS&at_campaign=rss",
-          "published": "Thu, 26 Feb 2026 09:53:45 GMT"
+          "title": "Shot in school uniform: BBC reveals police order led to Gen Z protest killings in Nepal",
+          "link": "https://www.bbc.com/news/articles/c4g5qx357dzo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 26 Feb 2026 00:02:48 GMT"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Mosques attacked, children racially abused as hard right rises in UK",
+          "link": "https://www.aljazeera.com/news/2026/2/26/mosques-attacked-children-racially-abused-as-hard-right-rises-in-uk?traffic_source=rss",
+          "published": "Thu, 26 Feb 2026 10:32:17 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "LIVE: India vs Zimbabwe – T20 World Cup",
+          "link": "https://www.aljazeera.com/sports/liveblog/2026/2/26/live-india-vs-zimbabwe-t20-world-cup-commentary-stream-playing-11-score?traffic_source=rss",
+          "published": "Thu, 26 Feb 2026 10:31:25 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Cuba, US react to deadly shootout between agents and Florida-tagged boat",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/2/26/cuba-us-react-to-deadly-shootout-between-agents-and-florida-tagged-boat?traffic_source=rss",
+          "published": "Thu, 26 Feb 2026 10:23:58 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "When is the Champions League last 16 draw? Date, format, seeding explained",
+          "link": "https://www.aljazeera.com/sports/2026/2/26/when-is-the-champions-league-last-16-draw-date-format-seeding-explained?traffic_source=rss",
+          "published": "Thu, 26 Feb 2026 09:51:35 +0000"
         },
         {
           "source": "Al Jazeera",
           "title": "UN approves first carbon credits under Paris Agreement market mechanism",
           "link": "https://www.aljazeera.com/news/2026/2/26/un-approves-first-carbon-credits-under-paris-agreement-market-mechanism?traffic_source=rss",
           "published": "Thu, 26 Feb 2026 09:21:12 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Rubio warns of Iran’s missile threat ahead of US-Iran talks",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/2/26/rubio-warns-of-irans-missile-threat-ahead-of-us-iran-talks?traffic_source=rss",
-          "published": "Thu, 26 Feb 2026 09:09:40 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Near-blind Rohingya refugee dies after US agents left him far from home",
-          "link": "https://www.aljazeera.com/news/2026/2/26/near-blind-rohingya-refugee-dies-after-us-agents-left-him-far-from-home?traffic_source=rss",
-          "published": "Thu, 26 Feb 2026 08:39:46 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Germany’s Merz eyes business opportunities at Chinese tech hub in Hangzhou",
-          "link": "https://www.aljazeera.com/news/2026/2/26/germanys-merz-eyes-business-opportunities-at-chinese-tech-hub-in-hangzhou?traffic_source=rss",
-          "published": "Thu, 26 Feb 2026 08:39:30 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Israel carries out military incursion into Syria’s Quneitra in the Golan",
-          "link": "https://www.aljazeera.com/news/2026/2/26/israel-carries-out-military-incursion-into-syrias-quneitra-in-the-golan?traffic_source=rss",
-          "published": "Thu, 26 Feb 2026 08:02:20 +0000"
         }
       ]
     }
