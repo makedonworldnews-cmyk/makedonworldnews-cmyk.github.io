@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-26T20:38:53Z",
+  "updatedAt": "2026-02-26T21:18:27Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Нуклеарните преговори на САД со Иран без голем напредок",
+          "link": "https://makfax.com.mk/svet/%d0%bd%d1%83%d0%ba%d0%bb%d0%b5%d0%b0%d1%80%d0%bd%d0%b8%d1%82%d0%b5-%d0%bf%d1%80%d0%b5%d0%b3%d0%be%d0%b2%d0%be%d1%80%d0%b8-%d0%bd%d0%b0-%d1%81%d0%b0%d0%b4-%d1%81%d0%be-%d0%b8%d1%80%d0%b0%d0%bd-%d0%b1/",
+          "published": "Thu, 26 Feb 2026 21:01:25 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Фајненшл тајмс: Менталната состојба на Трамп е ризик за целиот свет",
+          "link": "https://makfax.com.mk/svet/%d1%84%d0%b0%d1%98%d0%bd%d0%b5%d0%bd%d1%88%d0%bb-%d1%82%d0%b0%d1%98%d0%bc%d1%81-%d0%bc%d0%b5%d0%bd%d1%82%d0%b0%d0%bb%d0%bd%d0%b0%d1%82%d0%b0-%d1%81%d0%be%d1%81%d1%82%d0%be%d1%98%d0%b1%d0%b0-%d0%bd/",
+          "published": "Thu, 26 Feb 2026 20:52:04 +0000"
         },
         {
           "source": "Makfax",
@@ -29,46 +41,34 @@
           "published": "Thu, 26 Feb 2026 19:33:27 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Сиљановска-Давкова: „Извозот на мозоци“ остава длабоки лузни, најдобрите си заминуваат поради недостиг на правдата при вработувањето и напредувањето",
-          "link": "https://makfax.com.mk/makedonija/%d1%81%d0%b8%d1%99%d0%b0%d0%bd%d0%be%d0%b2%d1%81%d0%ba%d0%b0-%d0%b4%d0%b0%d0%b2%d0%ba%d0%be%d0%b2%d0%b0-%d0%b8%d0%b7%d0%b2%d0%be%d0%b7%d0%be%d1%82-%d0%bd%d0%b0-%d0%bc%d0%be%d0%b7%d0%be%d1%86/",
-          "published": "Thu, 26 Feb 2026 19:12:07 +0000"
+          "source": "NetPress",
+          "title": "ЛЕ: МекКован стрелец по 28 секунди, Сикора сè уште го држи рекордот а Елмас е втор",
+          "link": "https://netpress.com.mk/le-mekkovan-strelecz-po-28-sekundi-sikora-se-ushte-go-drzhi-rekordot-a-elmas-e-vtor/",
+          "published": "Thu, 26 Feb 2026 21:06:05 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Силен земјотрес регистриран во Романија",
-          "link": "https://makfax.com.mk/svet/%d1%81%d0%b8%d0%bb%d0%b5%d0%bd-%d0%b7%d0%b5%d0%bc%d1%98%d0%be%d1%82%d1%80%d0%b5%d1%81-%d1%80%d0%b5%d0%b3%d0%b8%d1%81%d1%82%d1%80%d0%b8%d1%80%d0%b0%d0%bd-%d0%b2%d0%be-%d1%80%d0%be%d0%bc%d0%b0%d0%bd/",
-          "published": "Thu, 26 Feb 2026 18:51:32 +0000"
+          "source": "NetPress",
+          "title": "Се користеле млади луѓе за да го изиграат системот!",
+          "link": "https://netpress.com.mk/se-koristele-mladi-luge-za-da-go-izigraat-sistemot/",
+          "published": "Thu, 26 Feb 2026 21:00:27 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Ајнтрахт казнет со дури 440.250 евра",
+          "link": "https://netpress.com.mk/ajntraht-kaznet-so-duri-440-250-evra/",
+          "published": "Thu, 26 Feb 2026 20:55:38 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Ќе ја исчистиме државата од политичките криминалци",
+          "link": "https://netpress.com.mk/ke-ja-ischistime-drzhavata-od-politichkite-kriminalczi/",
+          "published": "Thu, 26 Feb 2026 20:40:12 +0000"
         },
         {
           "source": "NetPress",
           "title": "Иран и САД постигнаа „значаен напредок“ во разговорите, Техеран предложил замрзнување на збогатувањето ураниум",
           "link": "https://netpress.com.mk/iran-i-sad-postignaa-znachaen-napredok-vo-razgovorite-teheran-predlozhil-zamrznuvane-na-zbogatuvaneto-uranium/",
           "published": "Thu, 26 Feb 2026 20:23:02 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Филипче е исплашен од тоа што следи по исказите на Артан",
-          "link": "https://netpress.com.mk/filipche-e-isplashen-od-toa-shto-sledi-po-iskazite-na-artan/",
-          "published": "Thu, 26 Feb 2026 20:07:01 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Утре прекин на водоснабдувањето на северот на Скопје",
-          "link": "https://netpress.com.mk/utre-prekin-na-vodosnabduvaneto-na-severot-na-skopje/",
-          "published": "Thu, 26 Feb 2026 20:00:21 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Времето утре сончево со мала облачност",
-          "link": "https://netpress.com.mk/vremeto-utre-sonchevo-so-mala-oblachnost/",
-          "published": "Thu, 26 Feb 2026 19:54:29 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Зошто би се договорил со него кога тој жестоко ме напаѓал?",
-          "link": "https://netpress.com.mk/zoshto-bi-se-dogovoril-so-nego-koga-toj-zhestoko-me-napagal/",
-          "published": "Thu, 26 Feb 2026 19:44:20 +0000"
         }
       ]
     },
@@ -77,21 +77,21 @@
       "items": [
         {
           "source": "BBC",
-          "title": "Danish PM calls snap election with Greenland issue centre-stage",
-          "link": "https://www.bbc.com/news/articles/ckg3e63jwj8o?at_medium=RSS&at_campaign=rss",
-          "published": "Thu, 26 Feb 2026 13:56:39 GMT"
-        },
-        {
-          "source": "BBC",
           "title": "US-Iran talks end after 'significant progress', mediator says",
           "link": "https://www.bbc.com/news/articles/cvg1vd95nl9o?at_medium=RSS&at_campaign=rss",
           "published": "Thu, 26 Feb 2026 19:50:47 GMT"
         },
         {
           "source": "BBC",
-          "title": "Four convicted over spyware scandal that shook Greece",
-          "link": "https://www.bbc.com/news/articles/cj6dx4886rpo?at_medium=RSS&at_campaign=rss",
-          "published": "Thu, 26 Feb 2026 15:05:53 GMT"
+          "title": "Afghanistan launches 'retaliatory' attack on Pakistan, Taliban says",
+          "link": "https://www.bbc.com/news/articles/c0j5qx9n887o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 26 Feb 2026 20:25:19 GMT"
+        },
+        {
+          "source": "BBC",
+          "title": "Danish PM calls snap election with Greenland issue centre-stage",
+          "link": "https://www.bbc.com/news/articles/ckg3e63jwj8o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 26 Feb 2026 13:56:39 GMT"
         },
         {
           "source": "BBC",
@@ -104,6 +104,18 @@
           "title": "Cuba says group shot on US-registered speedboat planned 'armed infiltration'",
           "link": "https://www.bbc.com/news/articles/c24drvj8yl2o?at_medium=RSS&at_campaign=rss",
           "published": "Thu, 26 Feb 2026 15:18:11 GMT"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "US-Iran talks conclude with claims of progress but few details",
+          "link": "https://www.aljazeera.com/news/2026/2/26/us-iran-talks-conclude-claims-progress-few-details?traffic_source=rss",
+          "published": "Thu, 26 Feb 2026 20:22:55 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "US government asks Supreme Court to allow deportation of Syrian migrants",
+          "link": "https://www.aljazeera.com/news/2026/2/26/us-government-asks-supreme-court-to-allow-deportation-of-syrian-migrants?traffic_source=rss",
+          "published": "Thu, 26 Feb 2026 20:22:04 +0000"
         },
         {
           "source": "Al Jazeera",
@@ -122,18 +134,6 @@
           "title": "Journalists demand Israel end Gaza entry ban",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/2/26/journalists-demand-israel-end-gaza-entry-ban?traffic_source=rss",
           "published": "Thu, 26 Feb 2026 20:00:52 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "How US economic warfare pushed Cuba to humanitarian collapse",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/2/26/how-us-economic-warfare-pushed-cuba-to-humanitarian-collapse?traffic_source=rss",
-          "published": "Thu, 26 Feb 2026 19:52:34 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "International doctors forced to leave Gaza over Israeli demands",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/2/26/international-doctors-forced-to-leave-gaza-over-israeli-demands?traffic_source=rss",
-          "published": "Thu, 26 Feb 2026 19:19:02 +0000"
         }
       ]
     }
