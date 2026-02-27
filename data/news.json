@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-27T21:14:17Z",
+  "updatedAt": "2026-02-27T21:46:26Z",
   "groups": [
     {
       "region": "Македонија",
@@ -42,6 +42,24 @@
         },
         {
           "source": "NetPress",
+          "title": "Порталот за услуги е најкористената дигитална алатка во државата",
+          "link": "https://netpress.com.mk/portalot-za-uslugi-e-najkoristenata-digitalna-alatka-vo-drzhavata/",
+          "published": "Fri, 27 Feb 2026 21:34:29 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Андоновски: Првпат ќе донесеме стратегија за развој на медиумите",
+          "link": "https://netpress.com.mk/andonovski-prvpat-ke-doneseme-strategija-za-razvoj-na-mediumite/",
+          "published": "Fri, 27 Feb 2026 21:31:33 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Усик ќе ја брани титулата на WBC против Верховен под пирамидите",
+          "link": "https://netpress.com.mk/usik-ke-ja-brani-titulata-na-wbc-protiv-verhoven-pod-piramidite/",
+          "published": "Fri, 27 Feb 2026 21:19:25 +0000"
+        },
+        {
+          "source": "NetPress",
           "title": "„Селари капот“ во НФЛ ја проби границата од 300 милиони долари",
           "link": "https://netpress.com.mk/selari-kapot-vo-nfl-ja-probi-graniczata-od-300-milioni-dolari/",
           "published": "Fri, 27 Feb 2026 21:01:32 +0000"
@@ -51,24 +69,6 @@
           "title": "Бил Клинтон не знаел за злостроствата на Епштајн",
           "link": "https://netpress.com.mk/bil-klinton-ne-znael-za-zlostrostvata-na-epshtajn/",
           "published": "Fri, 27 Feb 2026 20:56:32 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Трамп размислува за „пријателско преземање“ на Куба",
-          "link": "https://netpress.com.mk/tramp-razmisluva-za-prijatelsko-prezemane-na-kuba/",
-          "published": "Fri, 27 Feb 2026 20:53:48 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Претрес на имотот на бизнисменот Ацо Ѓукановиќ, брат на поранешниот претседател Мило Ѓукановиќ",
-          "link": "https://netpress.com.mk/pretres-na-imotot-na-biznismenot-aczo-gukanovik-brat-na-poraneshniot-pretsedatel-milo-gukanovik/",
-          "published": "Fri, 27 Feb 2026 20:47:19 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Албанскиот претседател Бегај се заложи за поголема економска собаботка",
-          "link": "https://netpress.com.mk/albanskiot-pretsedatel-begaj-se-zalozhi-za-pogolema-ekonomska-sobabotka/",
-          "published": "Fri, 27 Feb 2026 20:28:06 +0000"
         }
       ]
     },
@@ -107,6 +107,18 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Trump suggests a ‘friendly takeover’ of Cuba amid US fuel blockade",
+          "link": "https://www.aljazeera.com/news/2026/2/27/trump-suggests-a-friendly-takeover-of-cuba-amid-us-fuel-blockade?traffic_source=rss",
+          "published": "Fri, 27 Feb 2026 21:24:01 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Ukraine claws back southern territory as Russia’s war enters fifth year",
+          "link": "https://www.aljazeera.com/news/2026/2/27/ukraine-claws-back-southern-territory-as-russias-war-enters-fifth-year?traffic_source=rss",
+          "published": "Fri, 27 Feb 2026 21:00:11 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "IAEA urges Iran to allow inspections, points at Isfahan",
           "link": "https://www.aljazeera.com/news/2026/2/27/iaea-eyes-isfahan-nuclear-complex-as-it-urges-iran-to-allow?traffic_source=rss",
           "published": "Fri, 27 Feb 2026 20:46:34 +0000"
@@ -119,21 +131,9 @@
         },
         {
           "source": "Al Jazeera",
-          "title": "Oman’s foreign minister meets with US’s Vance as Middle East tensions rise",
+          "title": "Oman’s foreign minister meets with US’s Vance as Iran tensions rise",
           "link": "https://www.aljazeera.com/news/2026/2/27/omans-foreign-minister-meets-with-uss-vance-as-middle-east-tensions-rise?traffic_source=rss",
           "published": "Fri, 27 Feb 2026 20:19:36 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Trump says ‘friendly takeover of Cuba’ possible",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/2/27/trump-says-friendly-takeover-of-cuba-possible?traffic_source=rss",
-          "published": "Fri, 27 Feb 2026 19:56:02 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Rubio plans Israel trip as Trump says he’s ‘not happy’ with US-Iran talks",
-          "link": "https://www.aljazeera.com/news/2026/2/27/marco-rubio-plans-israel-trip-as-trump-says-hes-not-happy-with-iran-talk?traffic_source=rss",
-          "published": "Fri, 27 Feb 2026 19:30:38 +0000"
         }
       ]
     }
