@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-27T17:36:53Z",
+  "updatedAt": "2026-02-27T18:05:24Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) Трамвај излета од шините во Милано: загина пешак, речиси 40 повредени",
+          "link": "https://makfax.com.mk/svet/%d0%b2%d0%b8%d0%b4%d0%b5%d0%be-%d1%82%d1%80%d0%b0%d0%bc%d0%b2%d0%b0%d1%98-%d0%b8%d0%b7%d0%bb%d0%b5%d1%82%d0%b0-%d0%be%d0%b4-%d1%88%d0%b8%d0%bd%d0%b8%d1%82%d0%b5-%d0%b2%d0%be-%d0%bc%d0%b8%d0%bb%d0%b0/",
+          "published": "Fri, 27 Feb 2026 18:03:23 +0000"
         },
         {
           "source": "Makfax",
@@ -35,10 +41,22 @@
           "published": "Fri, 27 Feb 2026 16:44:00 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "ТИТАН Усје: Работиме согласно сите закони, емисиите се мерат 24 часа со независен мониторинг – нема надминувања на лимитите",
-          "link": "https://makfax.com.mk/ekonomija/%d1%82%d0%b8%d1%82%d0%b0%d0%bd-%d1%83%d1%81%d1%98%d0%b5-%d1%80%d0%b0%d0%b1%d0%be%d1%82%d0%b8%d0%bc%d0%b5-%d1%81%d0%be%d0%b3%d0%bb%d0%b0%d1%81%d0%bd%d0%be-%d1%81%d0%b8%d1%82%d0%b5-%d0%b7%d0%b0%d0%ba/",
-          "published": "Fri, 27 Feb 2026 16:35:34 +0000"
+          "source": "NetPress",
+          "title": "ЗНАМ е за една изборна единица со изборен праг до 3 отсто, и Собрание со 90 пратеници",
+          "link": "https://netpress.com.mk/znam-e-za-edna-izborna-edinicza-so-izboren-prag-do-3-otsto-i-sobranie-so-90-prateniczi/",
+          "published": "Fri, 27 Feb 2026 17:55:42 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Усје порачува дека се грижат за околината и работат според правилата",
+          "link": "https://netpress.com.mk/usje-porachuva-deka-se-grizhat-za-okolinata-i-rabotat-spored-pravilata/",
+          "published": "Fri, 27 Feb 2026 17:45:05 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Албанската театарска и филмска актерка, Анила Биша, ја тужи владата на Рама",
+          "link": "https://netpress.com.mk/albanskata-teatarska-i-filmska-akterka-anila-bisha-ja-tuzhi-vladata-na-rama/",
+          "published": "Fri, 27 Feb 2026 17:41:01 +0000"
         },
         {
           "source": "NetPress",
@@ -51,24 +69,6 @@
           "title": "Мицкоски – Бегај: Зајакнување на билатералните односи, унапредување на регионалната соработка",
           "link": "https://netpress.com.mk/miczkoski-begaj-zajaknuvane-na-bilateralnite-odnosi-unapreduvane-na-regionalnata-sorabotka/",
           "published": "Fri, 27 Feb 2026 17:12:47 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "„Нетфликс“ се повлече од трката за „Ворнер Брос Дискавери“",
-          "link": "https://netpress.com.mk/netfliks-se-povleche-od-trkata-za-vorner-bros-diskaveri/",
-          "published": "Fri, 27 Feb 2026 17:11:21 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Следната недела ќе се одржи продолжението на конститутивната седница на работната група за реформи во изборното законодавство",
-          "link": "https://netpress.com.mk/slednata-nedela-ke-se-odrzhi-prodolzhenieto-na-konstitutivnata-sednicza-na-rabotnata-grupa-za-reformi-vo-izbornoto-zakonodavstvo/",
-          "published": "Fri, 27 Feb 2026 16:21:04 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Маж од Скопско пријавил физички напад од поранешната сопруга",
-          "link": "https://netpress.com.mk/mazh-od-skopsko-prijavil-fizichki-napad-od-poraneshnata-sopruga/",
-          "published": "Fri, 27 Feb 2026 16:20:19 +0000"
         }
       ]
     },
@@ -107,6 +107,12 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Canada’s PM Carney in India to reset ties and bolster trade",
+          "link": "https://www.aljazeera.com/news/2026/2/27/canadas-pm-carney-in-india-to-bolster-trade-and-mend-ties?traffic_source=rss",
+          "published": "Fri, 27 Feb 2026 17:41:39 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "England keep Pakistan T20 World Cup hopes alive by beating New Zealand",
           "link": "https://www.aljazeera.com/sports/2026/2/27/england-keep-pakistan-t20-world-cup-hopes-will-by-beating-new-zealand?traffic_source=rss",
           "published": "Fri, 27 Feb 2026 16:55:52 +0000"
@@ -128,12 +134,6 @@
           "title": "Is the US negotiating with Iran or preparing to strike?",
           "link": "https://www.aljazeera.com/video/the-take-2/2026/2/27/aje-onl-irn_genevatalks2026_av_v2-260226?traffic_source=rss",
           "published": "Fri, 27 Feb 2026 15:48:00 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Smear Campaigns Against Gaza’s Doctors",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/2/27/smear-campaigns-against-gazas-doctors?traffic_source=rss",
-          "published": "Fri, 27 Feb 2026 14:52:08 +0000"
         }
       ]
     }
