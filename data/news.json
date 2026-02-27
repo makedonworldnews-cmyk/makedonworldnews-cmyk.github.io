@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-27T20:02:29Z",
+  "updatedAt": "2026-02-27T20:43:44Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "„Нетфликс“ се повлече од купувањето на „Варнер брос Дискавери“",
+          "link": "https://makfax.com.mk/zanimlivosti/hitech/%d0%bd%d0%b5%d1%82%d1%84%d0%bb%d0%b8%d0%ba%d1%81-%d1%81%d0%b5-%d0%bf%d0%be%d0%b2%d0%bb%d0%b5%d1%87%d0%b5-%d0%be%d0%b4-%d0%ba%d1%83%d0%bf%d1%83%d0%b2%d0%b0%d1%9a%d0%b5%d1%82%d0%be/",
+          "published": "Fri, 27 Feb 2026 20:12:46 +0000"
         },
         {
           "source": "Makfax",
@@ -35,40 +41,34 @@
           "published": "Fri, 27 Feb 2026 18:32:25 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "(Видео) Трамвај излета од шините во Милано: загина пешак, речиси 40 повредени",
-          "link": "https://makfax.com.mk/svet/%d0%b2%d0%b8%d0%b4%d0%b5%d0%be-%d1%82%d1%80%d0%b0%d0%bc%d0%b2%d0%b0%d1%98-%d0%b8%d0%b7%d0%bb%d0%b5%d1%82%d0%b0-%d0%be%d0%b4-%d1%88%d0%b8%d0%bd%d0%b8%d1%82%d0%b5-%d0%b2%d0%be-%d0%bc%d0%b8%d0%bb%d0%b0/",
-          "published": "Fri, 27 Feb 2026 18:03:23 +0000"
+          "source": "NetPress",
+          "title": "Албанскиот претседател Бегај се заложи за поголема економска собаботка",
+          "link": "https://netpress.com.mk/albanskiot-pretsedatel-begaj-se-zalozhi-za-pogolema-ekonomska-sobabotka/",
+          "published": "Fri, 27 Feb 2026 20:28:06 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Трамп за Иран: Понекогаш мора да употребите сила",
+          "link": "https://netpress.com.mk/tramp-za-iran-ponekogash-mora-da-upotrebite-sila/",
+          "published": "Fri, 27 Feb 2026 20:24:26 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Скопје мора да се развива – посветено и со визија",
+          "link": "https://netpress.com.mk/skopje-mora-da-se-razviva-posveteno-i-so-vizija/",
+          "published": "Fri, 27 Feb 2026 20:16:54 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Москва се подготвува за нова трилатерална средба за Украина",
+          "link": "https://netpress.com.mk/moskva-se-podgotvuva-nova-trilateralna-sredba-za-ukraina/",
+          "published": "Fri, 27 Feb 2026 20:12:16 +0000"
         },
         {
           "source": "NetPress",
           "title": "Над 95% од автопатот Кичево–Охрид реализиран, велат од Синохидро",
           "link": "https://netpress.com.mk/nad-95-od-avtopatot-kichevo-ohrid-realiziran-velat-od-sinohidro/",
           "published": "Fri, 27 Feb 2026 19:48:34 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Македонските кошаркари го совладаа Луксембург во европските претквалификации",
-          "link": "https://netpress.com.mk/makedonskite-kosharkari-go-sovladaa-luksemburg-vo-evropskite-pretkvalifikaczii/",
-          "published": "Fri, 27 Feb 2026 19:39:35 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "МААЕ бара од Иран пристап до постројките во Исфахан, извештајот може да оди во прилог на воена акција на САД",
-          "link": "https://netpress.com.mk/maae-bara-od-iran-pristap-do-postrojkite-vo-isfahan-izveshtajot-mozhe-da-odi-vo-prilog-na-voena-akczija-na-sad/",
-          "published": "Fri, 27 Feb 2026 19:34:45 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Дел од бранителите бараат да запре судењето на обвинетите за пожарот во Кочани кои не биле на функција",
-          "link": "https://netpress.com.mk/del-od-branitelite-baraat-da-zapre-sudeneto-na-obvinetite-za-pozharot-vo-kochani-koi-ne-bile-na-funkczija/",
-          "published": "Fri, 27 Feb 2026 19:11:23 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Низа земји ги повикаа своите граѓани да не патуваат во Израел поради ситуацијата со Иран",
-          "link": "https://netpress.com.mk/niza-zemji-gi-povikaa-svoite-gragani-da-ne-patuvaat-vo-izrael-poradi-situaczijata-so-iran/",
-          "published": "Fri, 27 Feb 2026 19:09:10 +0000"
         }
       ]
     },
@@ -103,7 +103,25 @@
           "source": "BBC",
           "title": "Trump 'not thrilled' with Iran after latest talks on nuclear programme",
           "link": "https://www.bbc.com/news/articles/c309vz0z893o?at_medium=RSS&at_campaign=rss",
-          "published": "Fri, 27 Feb 2026 18:45:41 GMT"
+          "published": "Fri, 27 Feb 2026 20:05:04 GMT"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Trump says ‘friendly takeover of Cuba’ possible",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/2/27/trump-says-friendly-takeover-of-cuba-possible?traffic_source=rss",
+          "published": "Fri, 27 Feb 2026 19:56:02 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Rubio plans Israel trip as Trump says he’s ‘not happy’ with US-Iran talks",
+          "link": "https://www.aljazeera.com/news/2026/2/27/marco-rubio-plans-israel-trip-as-trump-says-hes-not-happy-with-iran-talk?traffic_source=rss",
+          "published": "Fri, 27 Feb 2026 19:30:38 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Why did Bad Bunny’s Super Bowl show hit a nerve?",
+          "link": "https://www.aljazeera.com/video/the-stream/2026/2/27/why-did-bad-bunnys-super-bowl-show-hit-a-nerve?traffic_source=rss",
+          "published": "Fri, 27 Feb 2026 19:30:00 +0000"
         },
         {
           "source": "Al Jazeera",
@@ -116,24 +134,6 @@
           "title": "Pakistan, Afghanistan release conflicting death tolls amid ‘open war’",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/2/27/pakistan-afghanistan-release-conflicting-death-tolls-amid-open?traffic_source=rss",
           "published": "Fri, 27 Feb 2026 19:20:43 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Israel’s top court allows aid groups facing Gaza ban to continue working",
-          "link": "https://www.aljazeera.com/news/2026/2/27/israels-top-court-allows-aid-groups-facing-gaza-ban-to-continue-working?traffic_source=rss",
-          "published": "Fri, 27 Feb 2026 18:49:49 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Netflix stock surges as it walks away from Warner Bros deal",
-          "link": "https://www.aljazeera.com/economy/2026/2/27/netflix-stock-surges-as-it-walks-away-from-warner-bros-deal?traffic_source=rss",
-          "published": "Fri, 27 Feb 2026 18:35:53 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Nomadic art haven opens in Qatar’s desert",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/2/27/nomadic-art-haven-opens-in-qatars-desert?traffic_source=rss",
-          "published": "Fri, 27 Feb 2026 18:35:15 +0000"
         }
       ]
     }
