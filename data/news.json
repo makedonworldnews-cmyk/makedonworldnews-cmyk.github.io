@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-27T21:46:26Z",
+  "updatedAt": "2026-02-27T22:00:42Z",
   "groups": [
     {
       "region": "Македонија",
@@ -42,6 +42,12 @@
         },
         {
           "source": "NetPress",
+          "title": "Фицо: Мислам дека Украина нема намера да го обнови транзитот на нафта преку нафтоводот „Дружба“",
+          "link": "https://netpress.com.mk/ficzo-mislam-deka-ukraina-nema-namera-da-go-obnovi-tranzitot-na-nafta-preku-naftovodot-druzhba/",
+          "published": "Fri, 27 Feb 2026 21:50:37 +0000"
+        },
+        {
+          "source": "NetPress",
           "title": "Порталот за услуги е најкористената дигитална алатка во државата",
           "link": "https://netpress.com.mk/portalot-za-uslugi-e-najkoristenata-digitalna-alatka-vo-drzhavata/",
           "published": "Fri, 27 Feb 2026 21:34:29 +0000"
@@ -63,12 +69,6 @@
           "title": "„Селари капот“ во НФЛ ја проби границата од 300 милиони долари",
           "link": "https://netpress.com.mk/selari-kapot-vo-nfl-ja-probi-graniczata-od-300-milioni-dolari/",
           "published": "Fri, 27 Feb 2026 21:01:32 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Бил Клинтон не знаел за злостроствата на Епштајн",
-          "link": "https://netpress.com.mk/bil-klinton-ne-znael-za-zlostrostvata-na-epshtajn/",
-          "published": "Fri, 27 Feb 2026 20:56:32 +0000"
         }
       ]
     },
