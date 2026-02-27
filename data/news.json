@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-27T23:33:21Z",
+  "updatedAt": "2026-02-27T23:54:10Z",
   "groups": [
     {
       "region": "Македонија",
@@ -107,6 +107,12 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Brazil flooding death toll rises to 64 as search efforts continue",
+          "link": "https://www.aljazeera.com/news/2026/2/27/brazil-flooding-death-toll-rises-to-64-as-search-efforts-continue?traffic_source=rss",
+          "published": "Fri, 27 Feb 2026 23:28:02 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Afghanistan’s Taliban says open to talks after Pakistan bombs major cities",
           "link": "https://www.aljazeera.com/news/2026/2/27/afghanistans-taliban-says-open-to-talks-after-pakistan-bombs-major-cities?traffic_source=rss",
           "published": "Fri, 27 Feb 2026 23:05:15 +0000"
@@ -128,12 +134,6 @@
           "title": "Why is Trump objecting to al-Maliki’s comeback?",
           "link": "https://www.aljazeera.com/video/inside-story/2026/2/27/why-is-trump-objecting-to-al-malikis-comeback?traffic_source=rss",
           "published": "Fri, 27 Feb 2026 22:35:45 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Trump suggests a ‘friendly takeover’ of Cuba amid US fuel blockade",
-          "link": "https://www.aljazeera.com/news/2026/2/27/trump-suggests-a-friendly-takeover-of-cuba-amid-us-fuel-blockade?traffic_source=rss",
-          "published": "Fri, 27 Feb 2026 21:24:01 +0000"
         }
       ]
     }
