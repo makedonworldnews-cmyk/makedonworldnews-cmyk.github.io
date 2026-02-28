@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-28T13:36:50Z",
+  "updatedAt": "2026-02-28T13:57:17Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Ирански вооружени сили порачаа дека  САД и Израел ќе добијат невидена лекција",
+          "link": "https://makfax.com.mk/svet/%d0%b8%d1%80%d0%b0%d0%bd%d1%81%d0%ba%d0%b8-%d0%b2%d0%be%d0%be%d1%80%d1%83%d0%b6%d0%b5%d0%bd%d0%b8-%d1%81%d0%b8%d0%bb%d0%b8-%d0%bf%d0%be%d1%80%d0%b0%d1%87%d0%b0%d0%b0-%d0%b4%d0%b5%d0%ba%d0%b0-%d1%81/",
+          "published": "Sat, 28 Feb 2026 13:57:04 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Приведен 33-годишник во Центар, бил во возило со две малолетнички",
+          "link": "https://makfax.com.mk/crna-hronika/%d0%bf%d1%80%d0%b8%d0%b2%d0%b5%d0%b4%d0%b5%d0%bd-33-%d0%b3%d0%be%d0%b4%d0%b8%d1%88%d0%bd%d0%b8%d0%ba-%d0%b2%d0%be-%d1%86%d0%b5%d0%bd%d1%82%d0%b0%d1%80-%d0%b1%d0%b8%d0%bb-%d0%b2%d0%be-%d0%b2%d0%be/",
+          "published": "Sat, 28 Feb 2026 13:50:14 +0000"
         },
         {
           "source": "Makfax",
@@ -29,16 +41,22 @@
           "published": "Sat, 28 Feb 2026 12:26:15 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Најмалку 40 лица се убиени во напад врз женско училиште во јужниот ирански округ Минаб",
-          "link": "https://makfax.com.mk/svet/%d0%bd%d0%b0%d1%98%d0%bc%d0%b0%d0%bb%d0%ba%d1%83-40-%d0%bb%d0%b8%d1%86%d0%b0-%d1%81%d0%b5-%d1%83%d0%b1%d0%b8%d0%b5%d0%bd%d0%b8-%d0%b2%d0%be-%d0%bd%d0%b0%d0%bf%d0%b0%d0%b4-%d0%b2%d1%80%d0%b7-%d0%b6/",
-          "published": "Sat, 28 Feb 2026 12:12:06 +0000"
+          "source": "NetPress",
+          "title": "Уставниот суд отсега во живо",
+          "link": "https://netpress.com.mk/ustavniot-sud-otsega-vo-zhivo/",
+          "published": "Sat, 28 Feb 2026 13:53:45 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Четири американски воени бази на Блискиот Исток нападнати од Иран",
-          "link": "https://makfax.com.mk/svet/%d1%87%d0%b5%d1%82%d0%b8%d1%80%d0%b8-%d0%b0%d0%bc%d0%b5%d1%80%d0%b8%d0%ba%d0%b0%d0%bd%d1%81%d0%ba%d0%b8-%d0%b2%d0%be%d0%b5%d0%bd%d0%b8-%d0%b1%d0%b0%d0%b7%d0%b8-%d0%bd%d0%b0-%d0%b1%d0%bb%d0%b8%d1%81/",
-          "published": "Sat, 28 Feb 2026 10:50:10 +0000"
+          "source": "NetPress",
+          "title": "Реакции во светот по нападот на САД и Израел врз Иран",
+          "link": "https://netpress.com.mk/reakczii-vo-svetot-po-napadot-na-sad-i-izrael-vrz-iran/",
+          "published": "Sat, 28 Feb 2026 13:50:11 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Насилство на детски фудбалски натпревар во Тетово",
+          "link": "https://netpress.com.mk/nasilstvo-na-detski-fudbalski-natprevar-vo-tetovo/",
+          "published": "Sat, 28 Feb 2026 13:39:12 +0000"
         },
         {
           "source": "NetPress",
@@ -51,24 +69,6 @@
           "title": "Уапсен скопјанец затекнат во автомобил со две малолетнички",
           "link": "https://netpress.com.mk/uapsen-skopjanecz-zateknat-vo-avtomobil-so-dve-maloletnichki/",
           "published": "Sat, 28 Feb 2026 13:29:23 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Малолетничка пронајдена во безсознание, со неа имало прашкаста материја",
-          "link": "https://netpress.com.mk/maloletnichka-pronajdena-vo-bezsoznanie-so-nea-imalo-prashkasta-materija/",
-          "published": "Sat, 28 Feb 2026 13:18:54 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Тешко повреден 17-годишен сопатник во судир на „ауди“ и „бмв“",
-          "link": "https://netpress.com.mk/teshko-povreden-17-godishen-sopatnik-vo-sudir-na-audi-i-bmv/",
-          "published": "Sat, 28 Feb 2026 13:07:41 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Тешко повредена жена по излетување на автомобил кај село Обедник",
-          "link": "https://netpress.com.mk/teshko-povredena-zhena-po-izletuvane-na-avtomobil-kaj-selo-obednik/",
-          "published": "Sat, 28 Feb 2026 12:58:58 +0000"
         }
       ]
     },
@@ -107,6 +107,24 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Arsenal vs Chelsea: Premier League – preview, team news, start, lineups",
+          "link": "https://www.aljazeera.com/sports/2026/2/28/arsenal-vs-chelsea-premier-league-preview-team-news-start-lineups?traffic_source=rss",
+          "published": "Sat, 28 Feb 2026 13:44:53 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Iranian deputy minister of foreign Affairs condemns US-Israeli attacks",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/2/28/iranian-deputy-minister-of-foreign-affairs-condemns-us-israeli-attacks?traffic_source=rss",
+          "published": "Sat, 28 Feb 2026 13:35:03 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Debris from intercepted Iranian missile lands in Hebron",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/2/28/debris-from-intercepted-iranian-missile-lands-in-hebron?traffic_source=rss",
+          "published": "Sat, 28 Feb 2026 13:30:29 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Israel strikes two schools in Iran, killing more than 50 people",
           "link": "https://www.aljazeera.com/news/2026/2/28/israel-strikes-two-schools-in-iran-killing-more-than-50-people?traffic_source=rss",
           "published": "Sat, 28 Feb 2026 13:06:29 +0000"
@@ -116,24 +134,6 @@
           "title": "India vs West Indies: T20 World Cup Super Eights – teams, start, lineups",
           "link": "https://www.aljazeera.com/sports/2026/2/28/india-vs-west-indies-t20-world-cup-super-eights-teams-start-lineups?traffic_source=rss",
           "published": "Sat, 28 Feb 2026 12:53:52 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "LIVE: Barcelona vs Villarreal – La Liga",
-          "link": "https://www.aljazeera.com/sports/liveblog/2026/2/28/live-barcelona-vs-villarreal-la-liga?traffic_source=rss",
-          "published": "Sat, 28 Feb 2026 12:40:00 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Israeli defence system intercepts Iranian missiles over Haifa",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/2/28/israeli-defence-system-intercepts-iranian-missiles-over-haifa?traffic_source=rss",
-          "published": "Sat, 28 Feb 2026 12:34:25 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Al Jazeera reporter on the streets of Tehran as missiles hit the city",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/2/28/al-jazeera-reporter-on-the-streets-of-tehran-as-missiles-hit-the-city?traffic_source=rss",
-          "published": "Sat, 28 Feb 2026 12:07:38 +0000"
         }
       ]
     }
