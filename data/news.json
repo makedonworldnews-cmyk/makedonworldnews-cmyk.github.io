@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-28T18:42:15Z",
+  "updatedAt": "2026-02-28T19:02:30Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Агресивен карцином кај 10 годишната Ева, се бараат донации",
+          "link": "https://makfax.com.mk/makedonija/%d0%b0%d0%b3%d1%80%d0%b5%d1%81%d0%b8%d0%b2%d0%b5%d0%bd-%d0%ba%d0%b0%d1%80%d1%86%d0%b8%d0%bd%d0%be%d0%bc-%d0%ba%d0%b0%d1%98-10-%d0%b3%d0%be%d0%b4%d0%b8%d1%88%d0%bd%d0%b0%d1%82%d0%b0-%d0%b5%d0%b2%d0%b0/",
+          "published": "Sat, 28 Feb 2026 19:01:08 +0000"
         },
         {
           "source": "Makfax",
@@ -35,10 +41,16 @@
           "published": "Sat, 28 Feb 2026 16:16:14 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Пријавени тепачки во Шуто Оризари",
-          "link": "https://makfax.com.mk/crna-hronika/%d0%bf%d1%80%d0%b8%d1%98%d0%b0%d0%b2%d0%b5%d0%bd%d0%b8-%d1%82%d0%b5%d0%bf%d0%b0%d1%87%d0%ba%d0%b8-%d0%b2%d0%be-%d1%88%d1%83%d1%82%d0%be-%d0%be%d1%80%d0%b8%d0%b7%d0%b0%d1%80%d0%b8/",
-          "published": "Sat, 28 Feb 2026 16:01:17 +0000"
+          "source": "NetPress",
+          "title": "ВИДЕО| Над 150 деца убиени во изралеско-американскиот напад врз училиште во јужен Иран",
+          "link": "https://netpress.com.mk/video-nad-150-decza-ubieni-vo-izralesko-amerikanskiot-napad-vrz-uchilishte-vo-juzhen-iran/",
+          "published": "Sat, 28 Feb 2026 18:47:08 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Кумановец фатен зад волан со 3,08 промили алкохол",
+          "link": "https://netpress.com.mk/kumanovecz-faten-zad-volan-so-308-promili-alkohol/",
+          "published": "Sat, 28 Feb 2026 18:42:52 +0000"
         },
         {
           "source": "NetPress",
@@ -57,18 +69,6 @@
           "title": "Муцунски телефонски разговарал со израелскиот колега Гидеон Саʼар",
           "link": "https://netpress.com.mk/muczunski-telefonski-razgovaral-so-izraelskiot-kolega-gideon-sa%ca%bcar/",
           "published": "Sat, 28 Feb 2026 17:54:28 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Донирајте за да помогнете малата Ева да го победи остеосаркомот",
-          "link": "https://netpress.com.mk/donirajte-za-da-pomognete-malata-eva-da-go-pobedi-osteosarkomot/",
-          "published": "Sat, 28 Feb 2026 17:43:45 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "ВИДЕО| Дубаи погоден во иранските одмазднички удари",
-          "link": "https://netpress.com.mk/video-dubai-pogoden-vo-iranskite-odmazdnichki-udari/",
-          "published": "Sat, 28 Feb 2026 17:27:45 +0000"
         }
       ]
     },
