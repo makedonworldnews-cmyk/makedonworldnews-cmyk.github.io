@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-28T21:56:36Z",
+  "updatedAt": "2026-02-28T22:27:30Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) Ирански дрон го погоди и хотелот Бурџ ал Араб во Дубаи",
+          "link": "https://makfax.com.mk/svet/%d0%b2%d0%b8%d0%b4%d0%b5%d0%be-%d0%b8%d1%80%d0%b0%d0%bd%d1%81%d0%ba%d0%b8-%d0%b4%d1%80%d0%be%d0%bd-%d0%b3%d0%be-%d0%bf%d0%be%d0%b3%d0%be%d0%b4%d0%b8-%d0%b8-%d1%85%d0%be%d1%82%d0%b5%d0%bb%d0%be%d1%82/",
+          "published": "Sat, 28 Feb 2026 22:24:28 +0000"
         },
         {
           "source": "Makfax",
@@ -35,10 +41,10 @@
           "published": "Sat, 28 Feb 2026 21:09:38 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "(Видео) Експлозии и тревога за воздушен напад во Доха, Дубаи и Тел Авив",
-          "link": "https://makfax.com.mk/svet/%d0%b2%d0%b8%d0%b4%d0%b5%d0%be-%d0%b5%d0%ba%d1%81%d0%bf%d0%bb%d0%be%d0%b7%d0%b8%d0%b8-%d0%b8-%d1%81%d0%b8%d1%80%d0%b5%d0%bd%d0%b8-%d0%b7%d0%b0-%d0%b2%d0%be%d0%b7%d0%b4%d1%83%d1%88%d0%b5%d0%bd-%d0%bd/",
-          "published": "Sat, 28 Feb 2026 21:03:12 +0000"
+          "source": "NetPress",
+          "title": "Серија А: Интер ја зголемува предноста, Наполи со гостинска победа",
+          "link": "https://netpress.com.mk/serija-a-inter-ja-zgolemuva-prednosta-napoli-so-gostinska-pobeda/",
+          "published": "Sat, 28 Feb 2026 22:15:45 +0000"
         },
         {
           "source": "NetPress",
@@ -63,12 +69,6 @@
           "title": "Бундеслига: Баерн со победа во Дортмунд на плус 11",
           "link": "https://netpress.com.mk/bundesliga-baern-so-pobeda-vo-dortmund-na-plus-11/",
           "published": "Sat, 28 Feb 2026 20:07:30 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Премиер лига: Манчестер Сити два бода зад Арсенал",
-          "link": "https://netpress.com.mk/premier-liga-manchester-siti-dva-boda-zad-arsenal/",
-          "published": "Sat, 28 Feb 2026 19:54:40 +0000"
         }
       ]
     },
@@ -107,33 +107,33 @@
         },
         {
           "source": "Al Jazeera",
-          "title": "Iran’s Supreme Leader Ali Khamenei killed in US-Israeli attacks: Reports",
+          "title": "What countries has Trump attacked since returning to office?",
+          "link": "https://www.aljazeera.com/news/2026/2/28/what-countries-has-trump-attacked-since-returning-to-office?traffic_source=rss",
+          "published": "Sat, 28 Feb 2026 22:20:01 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Ayatollah Ali Khamenei: The leader who shaped Iran’s defiance",
+          "link": "https://www.aljazeera.com/news/2026/2/28/ayatollah-ali-khamenei-the-leader-who-shaped-irans-defiance?traffic_source=rss",
+          "published": "Sat, 28 Feb 2026 22:15:00 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "UN’s Guterres condemns US-Israeli strikes, retaliatory attacks by Iran",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/2/28/uns-guterres-condemns-us-israeli-strikes-retaliatory-attacks-by-iran?traffic_source=rss",
+          "published": "Sat, 28 Feb 2026 21:52:44 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Iran’s Foreign Ministry defends retaliatory strikes, slams US betrayal",
+          "link": "https://www.aljazeera.com/news/2026/2/28/irans-foreign-ministry-defends-retaliatory-strikes-slams-us-betrayal?traffic_source=rss",
+          "published": "Sat, 28 Feb 2026 21:49:24 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Trump says Iran’s Supreme Leader Ali Khamenei dead after US-Israeli attacks",
           "link": "https://www.aljazeera.com/news/2026/2/28/irans-supreme-leader-ali-khamenei-killed-in-us-israeli-attacks-reports?traffic_source=rss",
           "published": "Sat, 28 Feb 2026 20:29:04 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Netanyahu claims ‘many signs’ Iran’s Khamenei ‘no longer alive’",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/2/28/netanyahu-claims-many-signs-irans-khamenei-no-longer?traffic_source=rss",
-          "published": "Sat, 28 Feb 2026 19:48:51 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Iran, US, Israel officials give civilians clashing directives as bombs drop",
-          "link": "https://www.aljazeera.com/news/2026/2/28/iran-us-israel-officials-give-civilians-clashing-directives-as-bombs-drop?traffic_source=rss",
-          "published": "Sat, 28 Feb 2026 19:30:52 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "‘Diplomacy was betrayed by the Americans’: Iranian FM spokesman",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/2/28/diplomacy-was-betrayed-by-the-americans-iranian-fm-spokesman?traffic_source=rss",
-          "published": "Sat, 28 Feb 2026 19:13:34 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "US and Israel strike Iran: what happened?",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/2/28/us-and-israel-strike-iran-what-happened?traffic_source=rss",
-          "published": "Sat, 28 Feb 2026 18:50:35 +0000"
         }
       ]
     }
