@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-28T19:02:30Z",
+  "updatedAt": "2026-02-28T19:29:42Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Русија и Катар повикуваат на прекин на војната",
+          "link": "https://makfax.com.mk/svet/%d1%80%d1%83%d1%81%d0%b8%d1%98%d0%b0-%d0%b8-%d0%ba%d0%b0%d1%82%d0%b0%d1%80-%d0%bf%d0%be%d0%b2%d0%b8%d0%ba%d1%83%d0%b2%d0%b0%d0%b0%d1%82-%d0%bd%d0%b0-%d0%bf%d1%80%d0%b5%d0%ba%d0%b8%d0%bd-%d0%bd%d0%b0/",
+          "published": "Sat, 28 Feb 2026 19:14:52 +0000"
         },
         {
           "source": "Makfax",
@@ -35,14 +41,20 @@
           "published": "Sat, 28 Feb 2026 16:34:25 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Малолетник тешко повреден во сообраќајка на патот Прилеп–Македонски Брод",
-          "link": "https://makfax.com.mk/crna-hronika/%d0%bc%d0%b0%d0%bb%d0%be%d0%bb%d0%b5%d1%82%d0%bd%d0%b8%d0%ba-%d1%82%d0%b5%d1%88%d0%ba%d0%be-%d0%bf%d0%be%d0%b2%d1%80%d0%b5%d0%b4%d0%b5%d0%bd-%d0%b2%d0%be-%d1%81%d0%be%d0%be%d0%b1%d1%80%d0%b0%d1%9c-6/",
-          "published": "Sat, 28 Feb 2026 16:16:14 +0000"
+          "source": "NetPress",
+          "title": "Ердоган: Нападите на САД и Израел го нарушуваат суверенитетот на Иран",
+          "link": "https://netpress.com.mk/erdogan-napadite-na-sad-i-izrael-go-narushuvaat-suverenitetot-na-iran/",
+          "published": "Sat, 28 Feb 2026 19:18:56 +0000"
         },
         {
           "source": "NetPress",
-          "title": "ВИДЕО| Над 150 деца убиени во изралеско-американскиот напад врз училиште во јужен Иран",
+          "title": "Уште еден уапсен за измамите со лажни лекари и сообраќајки",
+          "link": "https://netpress.com.mk/ushte-eden-uapsen-za-izmamite-so-lazhni-lekari-i-soobrakajki/",
+          "published": "Sat, 28 Feb 2026 19:03:24 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "ВИДЕО| Над 150 деца убиени во израелско-американскиот напад врз училиште во јужен Иран",
           "link": "https://netpress.com.mk/video-nad-150-decza-ubieni-vo-izralesko-amerikanskiot-napad-vrz-uchilishte-vo-juzhen-iran/",
           "published": "Sat, 28 Feb 2026 18:47:08 +0000"
         },
@@ -57,18 +69,6 @@
           "title": "Почина професор д-р Владо Јаневски",
           "link": "https://netpress.com.mk/pochina-profesor-d-r-vlado-janevski/",
           "published": "Sat, 28 Feb 2026 18:37:18 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Возел во спротивен правец на автопат, па добил лисици и останал без автомобилот",
-          "link": "https://netpress.com.mk/vozel-vo-sprotiven-pravecz-na-avtopat-pa-dobil-lisiczi-i-ostanal-bez-avtomobilot/",
-          "published": "Sat, 28 Feb 2026 18:33:31 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Муцунски телефонски разговарал со израелскиот колега Гидеон Саʼар",
-          "link": "https://netpress.com.mk/muczunski-telefonski-razgovaral-so-izraelskiot-kolega-gideon-sa%ca%bcar/",
-          "published": "Sat, 28 Feb 2026 17:54:28 +0000"
         }
       ]
     },
@@ -107,6 +107,18 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "‘Diplomacy was betrayed by the Americans’: Iranian FM spokesman",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/2/28/diplomacy-was-betrayed-by-the-americans-iranian-fm-spokesman?traffic_source=rss",
+          "published": "Sat, 28 Feb 2026 19:13:34 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "US and Israel strike Iran: what happened?",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/2/28/us-and-israel-strike-iran-what-happened?traffic_source=rss",
+          "published": "Sat, 28 Feb 2026 18:50:35 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Suspected Iranian drone hits Bahrain high-rise building",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/2/28/suspected-iranian-drone-hits-bahrain-high-rise-building?traffic_source=rss",
           "published": "Sat, 28 Feb 2026 18:10:28 +0000"
@@ -122,18 +134,6 @@
           "title": "Pakistan edge last-ball thriller against Sri Lanka but exit T20 World Cup",
           "link": "https://www.aljazeera.com/sports/2026/2/28/pakistan-edge-last-ball-thriller-against-sri-lanka-but-exit-t20-world-cup?traffic_source=rss",
           "published": "Sat, 28 Feb 2026 17:42:29 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Lamine Yamal hits hat-trick as Barcelona beat Villarreal 4-1 in La Liga",
-          "link": "https://www.aljazeera.com/sports/2026/2/28/lamine-yamal-hits-hat-trick-as-barcelona-beat-villarreal-4-1-in-la-liga?traffic_source=rss",
-          "published": "Sat, 28 Feb 2026 17:31:32 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Scattered fires, damage seen across Israel as Iran retaliates",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/2/28/scattered-fires-damage-seen-across-israel-as-iran-retaliates?traffic_source=rss",
-          "published": "Sat, 28 Feb 2026 17:16:15 +0000"
         }
       ]
     }
