@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-28T10:47:41Z",
+  "updatedAt": "2026-02-28T10:58:56Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Четири американски воени бази на Блискиот Исток нападнати од Иран",
+          "link": "https://makfax.com.mk/svet/%d1%87%d0%b5%d1%82%d0%b8%d1%80%d0%b8-%d0%b0%d0%bc%d0%b5%d1%80%d0%b8%d0%ba%d0%b0%d0%bd%d1%81%d0%ba%d0%b8-%d0%b2%d0%be%d0%b5%d0%bd%d0%b8-%d0%b1%d0%b0%d0%b7%d0%b8-%d0%bd%d0%b0-%d0%b1%d0%bb%d0%b8%d1%81/",
+          "published": "Sat, 28 Feb 2026 10:50:10 +0000"
         },
         {
           "source": "Makfax",
@@ -35,10 +41,10 @@
           "published": "Sat, 28 Feb 2026 09:27:19 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Живот со CTLA-4: ретка генетска состојба што го нарушува имунитетот",
-          "link": "https://makfax.com.mk/makedonija/%d0%b6%d0%b8%d0%b2%d0%be%d1%82-%d1%81%d0%be-ctla-4-%d1%80%d0%b5%d1%82%d0%ba%d0%b0-%d0%b3%d0%b5%d0%bd%d0%b5%d1%82%d1%81%d0%ba%d0%b0-%d1%81%d0%be%d1%81%d1%82%d0%be%d1%98%d0%b1%d0%b0-%d1%88%d1%82%d0%be/",
-          "published": "Sat, 28 Feb 2026 09:01:15 +0000"
+          "source": "NetPress",
+          "title": "МНР апелира македонските државјани во Израел да ги следат насоките од тамошните институции",
+          "link": "https://netpress.com.mk/mnr-apelira-makedonskite-drzhavjani-vo-izrael-da-gi-sledat-nasokite-od-tamoshnite-instituczii/",
+          "published": "Sat, 28 Feb 2026 10:49:41 +0000"
         },
         {
           "source": "NetPress",
@@ -63,12 +69,6 @@
           "title": "Уапсен кичевчанец – фатен како вози со 2,19 промили алкохол во крвта",
           "link": "https://netpress.com.mk/uapsen-kichevchanecz-faten-kako-vozi-so-219-promili-alkohol-vo-krvta/",
           "published": "Sat, 28 Feb 2026 10:17:43 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "„Епски гнев“ – официјалното име на американската операција во Иран",
-          "link": "https://netpress.com.mk/epski-gnev-oficzijalnoto-ime-na-amerikanskata-operaczija-vo-iran/",
-          "published": "Sat, 28 Feb 2026 10:15:11 +0000"
         }
       ]
     },
@@ -107,6 +107,12 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Emergency alert interrupts Al Jazeera broadcast before attack in Qatar",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/2/28/emergency-alert-interrupts-al-jazeera-broadcast-before-attack-in-qatar?traffic_source=rss",
+          "published": "Sat, 28 Feb 2026 10:41:09 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Iran strikes US military base in Bahrain as explosions heard across Gulf",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/2/28/iran-strikes-us-military-base-in-bahrain-as-explosions-heard-across-gulf?traffic_source=rss",
           "published": "Sat, 28 Feb 2026 10:03:29 +0000"
@@ -128,12 +134,6 @@
           "title": "US and Israel attack Iran: What we know so far",
           "link": "https://www.aljazeera.com/news/2026/2/28/us-and-israel-attack-iran-what-we-know-so-far?traffic_source=rss",
           "published": "Sat, 28 Feb 2026 09:24:42 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "OpenAI strikes deal with Pentagon to use tech in ‘classified network’",
-          "link": "https://www.aljazeera.com/news/2026/2/28/openai-strikes-deal-with-pentagon-to-use-tech-in-classified-network?traffic_source=rss",
-          "published": "Sat, 28 Feb 2026 09:12:15 +0000"
         }
       ]
     }
