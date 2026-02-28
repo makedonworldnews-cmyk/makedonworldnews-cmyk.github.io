@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-28T22:49:08Z",
+  "updatedAt": "2026-02-28T23:00:07Z",
   "groups": [
     {
       "region": "Македонија",
@@ -107,6 +107,12 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "What dangers do the US and Israeli attacks on Iran pose?",
+          "link": "https://www.aljazeera.com/video/inside-story/2026/2/28/what-dangers-do-the-us-and-israeli-attacks-on-iran-pose?traffic_source=rss",
+          "published": "Sat, 28 Feb 2026 22:37:16 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "What countries has Trump attacked since returning to office?",
           "link": "https://www.aljazeera.com/news/2026/2/28/what-countries-has-trump-attacked-since-returning-to-office?traffic_source=rss",
           "published": "Sat, 28 Feb 2026 22:20:01 +0000"
@@ -128,12 +134,6 @@
           "title": "Iran’s Foreign Ministry defends retaliatory strikes, slams US betrayal",
           "link": "https://www.aljazeera.com/news/2026/2/28/irans-foreign-ministry-defends-retaliatory-strikes-slams-us-betrayal?traffic_source=rss",
           "published": "Sat, 28 Feb 2026 21:49:24 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Trump says Iran’s Supreme Leader Ali Khamenei dead after US-Israeli attacks",
-          "link": "https://www.aljazeera.com/news/2026/2/28/irans-supreme-leader-ali-khamenei-killed-in-us-israeli-attacks-reports?traffic_source=rss",
-          "published": "Sat, 28 Feb 2026 20:29:04 +0000"
         }
       ]
     }
