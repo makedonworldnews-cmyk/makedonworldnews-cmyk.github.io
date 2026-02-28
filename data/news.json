@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-28T15:33:34Z",
+  "updatedAt": "2026-02-28T15:51:06Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Евакуација од Израел побарале 11 македонски државјани",
+          "link": "https://makfax.com.mk/makedonija/%d0%b5%d0%b2%d0%b0%d0%ba%d1%83%d0%b0%d1%86%d0%b8%d1%98%d0%b0-%d0%be%d0%b4-%d0%b8%d0%b7%d1%80%d0%b0%d0%b5%d0%bb-%d0%bf%d0%be%d0%b1%d0%b0%d1%80%d0%b0%d0%bb%d0%b5-11-%d0%bc%d0%b0%d0%ba%d0%b5%d0%b4%d0%be/",
+          "published": "Sat, 28 Feb 2026 15:37:17 +0000"
         },
         {
           "source": "Makfax",
@@ -35,10 +41,16 @@
           "published": "Sat, 28 Feb 2026 15:25:13 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "ВМРО-ДПМНЕ: СДС нема кредибилитет да зборува за партизација",
-          "link": "https://makfax.com.mk/makedonija/%d0%b2%d0%bc%d1%80%d0%be-%d0%b4%d0%bf%d0%bc%d0%bd%d0%b5-%d1%81%d0%b4%d1%81-%d0%bd%d0%b5%d0%bc%d0%b0-%d0%ba%d1%80%d0%b5%d0%b4%d0%b8%d0%b1%d0%b8%d0%bb%d0%b8%d1%82%d0%b5%d1%82-%d0%b4%d0%b0-%d0%b7%d0%b1/",
-          "published": "Sat, 28 Feb 2026 14:40:16 +0000"
+          "source": "NetPress",
+          "title": "Медведев го освои Дубаи без борба",
+          "link": "https://netpress.com.mk/medvedev-go-osvoi-dubai-bez-borba/",
+          "published": "Sat, 28 Feb 2026 15:50:56 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "МНР формираше Кризен штаб достапен 24 часа",
+          "link": "https://netpress.com.mk/mnr-formirashe-krizen-shtab-dostapen-24-chasa/",
+          "published": "Sat, 28 Feb 2026 15:34:24 +0000"
         },
         {
           "source": "NetPress",
@@ -57,18 +69,6 @@
           "title": "Единаесет македонски државјани побарале евакуација од Израел",
           "link": "https://netpress.com.mk/edinaeset-makedonski-drzhavjani-pobarale-evakuaczija-od-izrael/",
           "published": "Sat, 28 Feb 2026 14:19:43 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Mлада жена во Драчево нападната од вонбрачниот партнер",
-          "link": "https://netpress.com.mk/mlada-zhena-vo-drachevo-napadnata-od-vonbrachniot-partner/",
-          "published": "Sat, 28 Feb 2026 14:14:19 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Kаj битолчанец пронајдени хероин и марихуана",
-          "link": "https://netpress.com.mk/kaj-bitolchanecz-pronajdeni-heroin-i-marihuana/",
-          "published": "Sat, 28 Feb 2026 14:11:11 +0000"
         }
       ]
     },
@@ -79,7 +79,7 @@
           "source": "BBC",
           "title": "Panic in the streets, but relief for some: The mood in Iran",
           "link": "https://www.bbc.com/news/articles/c05v8jzjn40o?at_medium=RSS&at_campaign=rss",
-          "published": "Sat, 28 Feb 2026 15:32:07 GMT"
+          "published": "Sat, 28 Feb 2026 15:36:27 GMT"
         },
         {
           "source": "BBC",
