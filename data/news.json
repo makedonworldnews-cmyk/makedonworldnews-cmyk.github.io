@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-28T22:27:30Z",
+  "updatedAt": "2026-02-28T22:49:08Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) На улиците на Техеран, Иран, се слави убиството на Али Хамнеи",
+          "link": "https://makfax.com.mk/makedonija/%d0%b2%d0%b8%d0%b4%d0%b5%d0%be-%d0%bd%d0%b0-%d1%83%d0%bb%d0%b8%d1%86%d0%b8%d1%82%d0%b5-%d0%bd%d0%b0-%d1%82%d0%b5%d1%85%d0%b5%d1%80%d0%b0%d0%bd-%d0%b8%d1%80%d0%b0%d0%bd-%d1%81%d0%b5-%d1%81%d0%bb/",
+          "published": "Sat, 28 Feb 2026 22:44:04 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) Хрват од Дубаи: Во засолниште сме, не знам што ќе биде понатаму",
+          "link": "https://makfax.com.mk/svet/%d0%b2%d0%b8%d0%b4%d0%b5%d0%be-%d1%85%d1%80%d0%b2%d0%b0%d1%82-%d0%be%d0%b4-%d0%b4%d1%83%d0%b1%d0%b0%d0%b8-%d0%b2%d0%be-%d0%b7%d0%b0%d1%81%d0%be%d0%bb%d0%bd%d0%b8%d1%88%d1%82%d0%b5-%d1%81%d0%bc/",
+          "published": "Sat, 28 Feb 2026 22:43:48 +0000"
         },
         {
           "source": "Makfax",
@@ -29,16 +41,10 @@
           "published": "Sat, 28 Feb 2026 21:29:29 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Родителите на децата загинати во Пулс порачаа дека правда мора да има",
-          "link": "https://makfax.com.mk/makedonija/%d1%80%d0%be%d0%b4%d0%b8%d1%82%d0%b5%d0%bb%d0%b8%d1%82%d0%b5-%d0%bd%d0%b0-%d0%b4%d0%b5%d1%86%d0%b0%d1%82%d0%b0-%d0%b7%d0%b0%d0%b3%d0%b8%d0%bd%d0%b0%d1%82%d0%b8-%d0%b2%d0%be-%d0%bf%d1%83%d0%bb%d1%81/",
-          "published": "Sat, 28 Feb 2026 21:10:15 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Трамп: Веруваме дека извештаите за смртта на Хамнеи се точни",
-          "link": "https://makfax.com.mk/svet/%d1%82%d1%80%d0%b0%d0%bc%d0%bf-%d0%b2%d0%b5%d1%80%d1%83%d0%b2%d0%b0%d0%bc%d0%b5-%d0%b4%d0%b5%d0%ba%d0%b0-%d0%b8%d0%b7%d0%b2%d0%b5%d1%88%d1%82%d0%b0%d0%b8%d1%82%d0%b5-%d0%b7%d0%b0-%d1%81%d0%bc%d1%80/",
-          "published": "Sat, 28 Feb 2026 21:09:38 +0000"
+          "source": "NetPress",
+          "title": "Ла Лига: Атлетико до победата во 94., хет-трик на Јамал",
+          "link": "https://netpress.com.mk/la-liga-atletiko-do-pobedata-vo-94-het-trik-na-jamal/",
+          "published": "Sat, 28 Feb 2026 22:41:42 +0000"
         },
         {
           "source": "NetPress",
@@ -63,12 +69,6 @@
           "title": "Кавадарчанец фатен со дрога",
           "link": "https://netpress.com.mk/kavadarchanecz-faten-so-droga/",
           "published": "Sat, 28 Feb 2026 20:32:50 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Бундеслига: Баерн со победа во Дортмунд на плус 11",
-          "link": "https://netpress.com.mk/bundesliga-baern-so-pobeda-vo-dortmund-na-plus-11/",
-          "published": "Sat, 28 Feb 2026 20:07:30 +0000"
         }
       ]
     },
