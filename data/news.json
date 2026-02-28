@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-28T07:48:28Z",
+  "updatedAt": "2026-02-28T07:59:32Z",
   "groups": [
     {
       "region": "Македонија",
@@ -83,12 +83,6 @@
         },
         {
           "source": "BBC",
-          "title": "Trump 'not thrilled' with Iran after latest talks on nuclear programme",
-          "link": "https://www.bbc.com/news/articles/c309vz0z893o?at_medium=RSS&at_campaign=rss",
-          "published": "Fri, 27 Feb 2026 22:21:35 GMT"
-        },
-        {
-          "source": "BBC",
           "title": "At least 15 killed after military plane carrying banknotes crashes in Bolivia",
           "link": "https://www.bbc.com/news/articles/c0rjpxxpp49o?at_medium=RSS&at_campaign=rss",
           "published": "Sat, 28 Feb 2026 06:01:03 GMT"
@@ -106,10 +100,10 @@
           "published": "Sat, 28 Feb 2026 00:03:55 GMT"
         },
         {
-          "source": "Al Jazeera",
-          "title": "Explosions heard in Tehran as Israeli launches attacks",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/2/28/explosions-heard-in-tehran-as-israeli-launches-attacks?traffic_source=rss",
-          "published": "Sat, 28 Feb 2026 07:38:43 +0000"
+          "source": "BBC",
+          "title": "Aid groups in Gaza and West Bank thrown lifeline as Israel court pauses ban threat",
+          "link": "https://www.bbc.com/news/articles/cd6z382de8yo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 27 Feb 2026 20:31:27 GMT"
         },
         {
           "source": "Al Jazeera",
@@ -134,6 +128,12 @@
           "title": "Pakistan says ‘no dialogue’ with Afghanistan as attacks persist",
           "link": "https://www.aljazeera.com/news/2026/2/28/pakistan-says-no-dialogue-with-afghanistan-as-attacks-persist?traffic_source=rss",
           "published": "Sat, 28 Feb 2026 06:48:10 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "LIVE: Israel attacks Iran, US official says US took part in strikes",
+          "link": "https://www.aljazeera.com/news/liveblog/2026/2/28/live-israel-launches-attacks-on-iran-multiple-explosions-heard-in-tehran?traffic_source=rss",
+          "published": "Sat, 28 Feb 2026 06:33:34 +0000"
         }
       ]
     }
