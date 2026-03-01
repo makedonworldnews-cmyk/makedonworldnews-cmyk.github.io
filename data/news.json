@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-01T10:36:04Z",
+  "updatedAt": "2026-03-01T10:55:19Z",
   "groups": [
     {
       "region": "Македонија",
@@ -12,33 +12,45 @@
         },
         {
           "source": "Makfax",
+          "title": "(Видео) СДСМ бега од темата Груби и од борбата против корупцијата, рече Петрушевски",
+          "link": "https://makfax.com.mk/makedonija/%d0%b2%d0%b8%d0%b4%d0%b5%d0%be-%d1%81%d0%b4%d1%81%d0%bc-%d0%b1%d0%b5%d0%b3%d0%b0-%d0%be%d0%b4-%d1%82%d0%b5%d0%bc%d0%b0%d1%82%d0%b0-%d0%b3%d1%80%d1%83%d0%b1%d0%b8-%d0%b8-%d0%be%d0%b4-%d0%b1%d0%be/",
+          "published": "Sun, 01 Mar 2026 10:55:03 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Иран се закани со напади врз САД и Израел: „Ќе удриме со сила каква што не доживеале“, Трамп одговори",
+          "link": "https://makfax.com.mk/svet/%d0%b8%d1%80%d0%b0%d0%bd-%d1%81%d0%b5-%d0%b7%d0%b0%d0%ba%d0%b0%d0%bd%d0%b8-%d1%81%d0%be-%d0%bd%d0%b0%d0%bf%d0%b0%d0%b4%d0%b8-%d0%b2%d1%80%d0%b7-%d1%81%d0%b0%d0%b4-%d0%b8-%d0%b8%d0%b7%d1%80%d0%b0%d0%b5/",
+          "published": "Sun, 01 Mar 2026 10:49:44 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Оштетена амбасадата на Србија во Техеран во утринските напади",
+          "link": "https://makfax.com.mk/svet/region/%d0%be%d1%88%d1%82%d0%b5%d1%82%d0%b5%d0%bd%d0%b0-%d0%b0%d0%bc%d0%b1%d0%b0%d1%81%d0%b0%d0%b4%d0%b0%d1%82%d0%b0-%d0%bd%d0%b0-%d1%81%d1%80%d0%b1%d0%b8%d1%98%d0%b0-%d0%b2%d0%be-%d1%82%d0%b5%d1%85%d0%b5/",
+          "published": "Sun, 01 Mar 2026 10:41:43 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "„Секој пилот имал име на човек што треба да го убие“ – како се одвивдала ликвидацијата на ајатолахот Хамнеи",
+          "link": "https://makfax.com.mk/svet/%d1%81%d0%b5%d0%ba%d0%be%d1%98-%d0%bf%d0%b8%d0%bb%d0%be%d1%82-%d0%b8%d0%bc%d0%b0%d0%bb-%d0%b8%d0%bc%d0%b5-%d0%bd%d0%b0-%d1%87%d0%be%d0%b2%d0%b5%d0%ba-%d1%88%d1%82%d0%be-%d1%82%d1%80%d0%b5/",
+          "published": "Sun, 01 Mar 2026 10:38:15 +0000"
+        },
+        {
+          "source": "Makfax",
           "title": "Илјадници летови откажани поради ескалацијата на Блискиот Исток",
           "link": "https://makfax.com.mk/svet/%d0%b8%d0%bb%d1%98%d0%b0%d0%b4%d0%bd%d0%b8%d1%86%d0%b8-%d0%bb%d0%b5%d1%82%d0%be%d0%b2%d0%b8-%d0%be%d1%82%d0%ba%d0%b0%d0%b6%d0%b0%d0%bd%d0%b8-%d0%bf%d0%be%d1%80%d0%b0%d0%b4%d0%b8-%d0%b5%d1%81%d0%ba/",
           "published": "Sun, 01 Mar 2026 10:32:16 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Велика Британија тврди дека Иран истрелал две ракети кон Кипар, прв ракетен напад врз Европа",
-          "link": "https://makfax.com.mk/svet/%d0%b2%d0%b5%d0%bb%d0%b8%d0%ba%d0%b0-%d0%b1%d1%80%d0%b8%d1%82%d0%b0%d0%bd%d0%b8%d1%98%d0%b0-%d1%82%d0%b2%d1%80%d0%b4%d0%b8-%d0%b4%d0%b5%d0%ba%d0%b0-%d0%b8%d1%80%d0%b0%d0%bd-%d0%b8%d1%81%d1%82%d1%80/",
-          "published": "Sun, 01 Mar 2026 10:28:58 +0000"
+          "source": "NetPress",
+          "title": "ВИДЕО| Иран ги погоди канцелариите на CIA во Дубаи",
+          "link": "https://netpress.com.mk/video-iran-gi-pogodi-kanczelariite-na-cia-vo-dubai/",
+          "published": "Sun, 01 Mar 2026 10:54:20 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Кардиологија и Кардиохирургија стануваат еден центар: заштедите од спојувањето ќе одат во опрема и едукација, најави Алиу",
-          "link": "https://makfax.com.mk/makedonija/%d0%ba%d0%b0%d1%80%d0%b4%d0%b8%d0%be%d0%bb%d0%be%d0%b3%d0%b8%d1%98%d0%b0-%d0%b8-%d0%ba%d0%b0%d1%80%d0%b4%d0%b8%d0%be%d1%85%d0%b8%d1%80%d1%83%d1%80%d0%b3%d0%b8%d1%98%d0%b0-%d1%81%d1%82%d0%b0%d0%bd/",
-          "published": "Sun, 01 Mar 2026 10:27:30 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Исчистен просторот кај СЦ „Борис Трајковски“, подигнати 3.500 м³ отпад за 100 дена",
-          "link": "https://makfax.com.mk/makedonija/%d0%b8%d1%81%d1%87%d0%b8%d1%81%d1%82%d0%b5%d0%bd-%d0%bf%d1%80%d0%be%d1%81%d1%82%d0%be%d1%80%d0%be%d1%82-%d0%ba%d0%b0%d1%98-%d1%81%d1%86-%d0%b1%d0%be%d1%80%d0%b8%d1%81-%d1%82%d1%80%d0%b0%d1%98/",
-          "published": "Sun, 01 Mar 2026 10:24:49 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Нафтен танкер нападнат во близина на брегот на Оман",
-          "link": "https://makfax.com.mk/svet/%d0%bd%d0%b0%d1%84%d1%82%d0%b5%d0%bd-%d1%82%d0%b0%d0%bd%d0%ba%d0%b5%d1%80-%d0%bd%d0%b0%d0%bf%d0%b0%d0%b4%d0%bd%d0%b0%d1%82-%d0%b2%d0%be-%d0%b1%d0%bb%d0%b8%d0%b7%d0%b8%d0%bd%d0%b0-%d0%bd%d0%b0-%d0%b1/",
-          "published": "Sun, 01 Mar 2026 10:22:14 +0000"
+          "source": "NetPress",
+          "title": "Од денеска до 5 март пријавување за субвенциониран студентски оброк",
+          "link": "https://netpress.com.mk/od-deneska-do-5-mart-prijavuvane-za-subvenczioniran-studentski-obrok/",
+          "published": "Sun, 01 Mar 2026 10:45:07 +0000"
         },
         {
           "source": "NetPress",
@@ -57,18 +69,6 @@
           "title": "Жестоки протести поради смртта на Хамнеи во Пакистан, Ирак и Индија",
           "link": "https://netpress.com.mk/zhestoki-protesti-poradi-smrtta-na-hamnei-vo-pakistan-irak-i-indija/",
           "published": "Sun, 01 Mar 2026 10:07:59 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Расте бројот македонски државјани на Блискиот Исток што се пријавуваат во МНР",
-          "link": "https://netpress.com.mk/raste-brojot-makedonski-drzhavjani-na-bliskiot-istok-shto-se-prijavuvaat-vo-mnr/",
-          "published": "Sun, 01 Mar 2026 10:06:35 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Онлајн-плаќањето со платежни картички од денеска со нов безбедносен режим",
-          "link": "https://netpress.com.mk/onlajn-plakaneto-so-platezhni-kartichki-od-deneska-so-nov-bezbednosen-rezhim/",
-          "published": "Sun, 01 Mar 2026 09:59:01 +0000"
         }
       ]
     },
@@ -83,9 +83,9 @@
         },
         {
           "source": "BBC",
-          "title": "What we know so far: Supreme Leader Khamenei killed, as Iran launches retaliatory strikes",
+          "title": "What we know so far about the US-Israel attacks and Iran's retaliation",
           "link": "https://www.bbc.com/news/articles/cx2dyz6p3weo?at_medium=RSS&at_campaign=rss",
-          "published": "Sun, 01 Mar 2026 09:35:50 GMT"
+          "published": "Sun, 01 Mar 2026 10:44:33 GMT"
         },
         {
           "source": "BBC",
@@ -107,13 +107,19 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "LIVE: India vs West Indies – T20 World Cup Super Eights",
+          "link": "https://www.aljazeera.com/sports/liveblog/2026/3/1/live-india-vs-west-india-t20-world-cup-super-eights?traffic_source=rss",
+          "published": "Sun, 01 Mar 2026 10:28:54 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Israel closes Gaza’s Rafah crossing amid attacks on Iran",
           "link": "https://www.aljazeera.com/news/2026/3/1/israel-closes-gazas-rafah-crossing-amid-attacks-on-iran?traffic_source=rss",
           "published": "Sun, 01 Mar 2026 09:59:03 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Iran to form interim council to oversee transition after Khamenei’s killing",
+          "title": "Iran forms interim council to oversee transition after Khamenei’s killing",
           "link": "https://www.aljazeera.com/news/2026/3/1/iran-to-form-interim-council-to-oversee-transition-after-khameneis-killing?traffic_source=rss",
           "published": "Sun, 01 Mar 2026 09:48:23 +0000"
         },
@@ -128,12 +134,6 @@
           "title": "US-Israel attacks on Iran, day 2: Khamenei is killed, Iran retaliates",
           "link": "https://www.aljazeera.com/news/2026/3/1/us-israel-attacks-on-iran-day-2-khamenei-is-killed-iran-retaliates?traffic_source=rss",
           "published": "Sun, 01 Mar 2026 09:10:06 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "More blasts rock Dubai, Doha and Manama as Iran targets US assets in Gulf",
-          "link": "https://www.aljazeera.com/news/2026/3/1/more-blasts-rock-dubai-doha-and-manama-as-iran-targets-us-assets-in-gulf?traffic_source=rss",
-          "published": "Sun, 01 Mar 2026 08:44:52 +0000"
         }
       ]
     }
