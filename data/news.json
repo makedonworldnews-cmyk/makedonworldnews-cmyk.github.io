@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-01T16:42:52Z",
+  "updatedAt": "2026-03-01T17:02:01Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Муцунски разговарал со шеикот Бин Зајед и дал целосната поддршка кон Обединетите Арапски Емирати",
+          "link": "https://makfax.com.mk/makedonija/%d0%bc%d1%83%d1%86%d1%83%d0%bd%d1%81%d0%ba%d0%b8-%d1%80%d0%b0%d0%b7%d0%b3%d0%be%d0%b2%d0%b0%d1%80%d0%b0%d0%bb-%d1%81%d0%be-%d1%88%d0%b5%d0%b8%d0%ba%d0%be%d1%82-%d0%b1%d0%b8%d0%bd-%d0%b7%d0%b0%d1%98/",
+          "published": "Sun, 01 Mar 2026 16:50:21 +0000"
         },
         {
           "source": "Makfax",
@@ -35,10 +41,16 @@
           "published": "Sun, 01 Mar 2026 15:46:26 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Папата го предупредува Трамп додека тој го крши молчењето за „спиралата на насилство“",
-          "link": "https://makfax.com.mk/svet/%d0%bf%d0%b0%d0%bf%d0%b0%d1%82%d0%b0-%d0%b3%d0%be-%d0%bf%d1%80%d0%b5%d0%b4%d1%83%d0%bf%d1%80%d0%b5%d0%b4%d1%83%d0%b2%d0%b0-%d1%82%d1%80%d0%b0%d0%bc%d0%bf-%d0%b4%d0%be%d0%b4%d0%b5%d0%ba%d0%b0-%d1%82/",
-          "published": "Sun, 01 Mar 2026 14:32:41 +0000"
+          "source": "NetPress",
+          "title": "Тројца американски војници загинаа, први жртви во операција против Иран",
+          "link": "https://netpress.com.mk/trojcza-amerikanski-vojniczi-zaginaa-prvi-zhrtvi-vo-operaczija-protiv-iran/",
+          "published": "Sun, 01 Mar 2026 16:52:27 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "ФОТО| Кај Велушина голема пожарникарска вежба",
+          "link": "https://netpress.com.mk/foto-kaj-velushina-golema-pozharnikarska-vezhba/",
+          "published": "Sun, 01 Mar 2026 16:50:37 +0000"
         },
         {
           "source": "NetPress",
@@ -57,18 +69,6 @@
           "title": "ФОТО| Пуштена во употреба реконструираната обиколница во Крива Паланка",
           "link": "https://netpress.com.mk/foto-pushtena-vo-upotreba-rekonstruiranata-obikolnicza-vo-kriva-palanka/",
           "published": "Sun, 01 Mar 2026 15:28:13 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Павел Трајковски: Тинејџер од Ѓорче Петров на голот на белградски Партизан – со посветеност до меѓународна кариера",
-          "link": "https://netpress.com.mk/d-gorche-petrov-na-golot-na-belgradski-partizan-so-posvetenost-do-megunarodna-kariera/",
-          "published": "Sun, 01 Mar 2026 15:19:28 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Во иранските одмазднички удари – загинати во Израел, Емиратите и Кувајт",
-          "link": "https://netpress.com.mk/vo-iranskite-odmazdnichki-udari-zaginati-vo-izrael-emiratite-i-kuvajt/",
-          "published": "Sun, 01 Mar 2026 15:00:37 +0000"
         }
       ]
     },
@@ -85,7 +85,7 @@
           "source": "BBC",
           "title": "Nine dead in missile attack on Israel as Iran strikes region",
           "link": "https://www.bbc.com/news/articles/c363zkp1pgxo?at_medium=RSS&at_campaign=rss",
-          "published": "Sun, 01 Mar 2026 14:56:21 GMT"
+          "published": "Sun, 01 Mar 2026 16:55:57 GMT"
         },
         {
           "source": "BBC",
@@ -104,6 +104,12 @@
           "title": "Wellness peptide craze: Why people are injecting drugs 'not for human consumption'",
           "link": "https://www.bbc.com/news/articles/cdr268m5pxro?at_medium=RSS&at_campaign=rss",
           "published": "Sun, 01 Mar 2026 00:51:29 GMT"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "“Trump chose an avoidable war over a good deal.”",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/1/trump-chose-an-avoidable-war-over-a-good-deal?traffic_source=rss",
+          "published": "Sun, 01 Mar 2026 16:45:52 +0000"
         },
         {
           "source": "Al Jazeera",
@@ -128,12 +134,6 @@
           "title": "Iranian missile strike on Israel’s Beit Shemesh kills nine people",
           "link": "https://www.aljazeera.com/gallery/2026/3/1/iranian-missile-strike-on-israels-beit-shemesh-kills-nine-people?traffic_source=rss",
           "published": "Sun, 01 Mar 2026 15:36:55 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Who are Iran’s senior figures killed in US-Israeli attacks?",
-          "link": "https://www.aljazeera.com/news/2026/3/1/who-are-irans-senior-figures-killed-in-us-israeli-attacks?traffic_source=rss",
-          "published": "Sun, 01 Mar 2026 15:20:30 +0000"
         }
       ]
     }
