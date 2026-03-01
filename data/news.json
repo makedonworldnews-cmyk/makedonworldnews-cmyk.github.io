@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-01T20:38:53Z",
+  "updatedAt": "2026-03-01T20:57:30Z",
   "groups": [
     {
       "region": "Македонија",
@@ -42,6 +42,12 @@
         },
         {
           "source": "NetPress",
+          "title": "Бундеслига: РБ Лајпциг со пресврт до победа во Хамбург, Ајнтрахт подобар од Фрајбург",
+          "link": "https://netpress.com.mk/bundesliga-rb-lajpczig-so-presvrt-do-pobeda-vo-hamburg-ajntraht-podobar-od-frajburg/",
+          "published": "Sun, 01 Mar 2026 20:51:36 +0000"
+        },
+        {
+          "source": "NetPress",
           "title": "Иран започна нов напад врз Израел",
           "link": "https://netpress.com.mk/iran-zapochna-nov-napad-vrz-izrael/",
           "published": "Sun, 01 Mar 2026 20:38:47 +0000"
@@ -63,12 +69,6 @@
           "title": "Премиер лига: Арсенал го доби дербито со Челзи, нов пораз на Тотенхем",
           "link": "https://netpress.com.mk/premier-liga-arsenal-go-dobi-derbito-so-chelzi-nov-poraz-na-totenhem/",
           "published": "Sun, 01 Mar 2026 20:16:20 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Возеле пијани, без возачка дозвола, со забрана за возење",
-          "link": "https://netpress.com.mk/vozele-pijani-bez-vozachka-dozvola-so-zabrana-za-vozene/",
-          "published": "Sun, 01 Mar 2026 20:06:05 +0000"
         }
       ]
     },
@@ -91,7 +91,7 @@
           "source": "BBC",
           "title": "Nine dead in missile attack on Israel as Iran strikes region",
           "link": "https://www.bbc.com/news/articles/c363zkp1pgxo?at_medium=RSS&at_campaign=rss",
-          "published": "Sun, 01 Mar 2026 16:55:57 GMT"
+          "published": "Sun, 01 Mar 2026 20:45:57 GMT"
         },
         {
           "source": "BBC",
@@ -101,9 +101,9 @@
         },
         {
           "source": "BBC",
-          "title": "How responsible are climbers for each other's safety? Mountaineers react to manslaughter",
-          "link": "https://www.bbc.com/news/articles/cwy8ppn4142o?at_medium=RSS&at_campaign=rss",
-          "published": "Sun, 01 Mar 2026 00:57:16 GMT"
+          "title": "War photographer Paul Conroy dies as tributes paid",
+          "link": "https://www.bbc.com/news/articles/c5y6jvlv83ro?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 01 Mar 2026 19:47:03 GMT"
         },
         {
           "source": "Al Jazeera",
