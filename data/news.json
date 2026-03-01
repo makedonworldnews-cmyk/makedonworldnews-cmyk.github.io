@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-01T23:24:53Z",
+  "updatedAt": "2026-03-01T23:47:02Z",
   "groups": [
     {
       "region": "Македонија",
@@ -107,6 +107,12 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "How robust is the Iranian state system?",
+          "link": "https://www.aljazeera.com/video/inside-story/2026/3/1/how-robust-is-the-iranian-state-system?traffic_source=rss",
+          "published": "Sun, 01 Mar 2026 23:10:40 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Blasts heard in Kabul as Pakistan-Afghanistan conflict continues",
           "link": "https://www.aljazeera.com/news/2026/3/1/blasts-heard-in-kabul-as-pakistan-afghanistan-conflict-continues?traffic_source=rss",
           "published": "Sun, 01 Mar 2026 23:09:38 +0000"
@@ -128,12 +134,6 @@
           "title": "Huge fire at Bahrain port home to US Navy’s Fifth Fleet",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/3/1/huge-fire-at-bahrain-port-home-to-us-navys-fifth-fleet?traffic_source=rss",
           "published": "Sun, 01 Mar 2026 21:40:19 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Iranian drone strikes US military facility in Kuwait",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/1/iranian-drone-strikes-us-military-facility-in-kuwait?traffic_source=rss",
-          "published": "Sun, 01 Mar 2026 19:59:38 +0000"
         }
       ]
     }
