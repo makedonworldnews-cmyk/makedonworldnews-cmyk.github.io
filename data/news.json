@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-01T21:59:01Z",
+  "updatedAt": "2026-03-01T22:34:21Z",
   "groups": [
     {
       "region": "Македонија",
@@ -42,6 +42,18 @@
         },
         {
           "source": "NetPress",
+          "title": "Ла Лига: Селта победи во Жирона, без победник во градското дерби во Севиља",
+          "link": "https://netpress.com.mk/la-liga-selta-pobedi-vo-zhirona-bez-pobednik-vo-gradskoto-derbi-vo-sevila/",
+          "published": "Sun, 01 Mar 2026 22:33:05 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Трамп вети дека ќе ја „одмазди“ смртта на американските војници",
+          "link": "https://netpress.com.mk/tramp-veti-deka-ke-ja-odmazdi-smrtta-na-amerikanskite-vojniczi/",
+          "published": "Sun, 01 Mar 2026 22:12:57 +0000"
+        },
+        {
+          "source": "NetPress",
           "title": "Берлин, Париз и Лондон подготвени да ги бранат „своите интереси“ против Иран",
           "link": "https://netpress.com.mk/berlin-pariz-i-london-podgotveni-da-gi-branat-svoite-interesi-protiv-iran/",
           "published": "Sun, 01 Mar 2026 21:47:26 +0000"
@@ -57,18 +69,6 @@
           "title": "Бундеслига: РБ Лајпциг со пресврт до победа во Хамбург, Ајнтрахт подобар од Фрајбург",
           "link": "https://netpress.com.mk/bundesliga-rb-lajpczig-so-presvrt-do-pobeda-vo-hamburg-ajntraht-podobar-od-frajburg/",
           "published": "Sun, 01 Mar 2026 20:51:36 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Иран започна нов напад врз Израел",
-          "link": "https://netpress.com.mk/iran-zapochna-nov-napad-vrz-izrael/",
-          "published": "Sun, 01 Mar 2026 20:38:47 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Мерц: Нападот врз Иран носи ризици",
-          "link": "https://netpress.com.mk/mercz-napadot-vrz-iran-nosi-riziczi/",
-          "published": "Sun, 01 Mar 2026 20:25:55 +0000"
         }
       ]
     },
@@ -77,9 +77,9 @@
       "items": [
         {
           "source": "BBC",
-          "title": "Iran's regime is still intact - the coming days will show if it can hold out",
-          "link": "https://www.bbc.com/news/articles/cx2lgvg5rl1o?at_medium=RSS&at_campaign=rss",
-          "published": "Sun, 01 Mar 2026 18:05:06 GMT"
+          "title": "Allies of US in the Gulf bear brunt of Iran attacks",
+          "link": "https://www.bbc.com/news/articles/c1jk922dgjgo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 01 Mar 2026 22:19:03 GMT"
         },
         {
           "source": "BBC",
@@ -89,21 +89,27 @@
         },
         {
           "source": "BBC",
-          "title": "Nine dead in missile attack on Israel as Iran strikes region",
-          "link": "https://www.bbc.com/news/articles/c363zkp1pgxo?at_medium=RSS&at_campaign=rss",
-          "published": "Sun, 01 Mar 2026 20:45:57 GMT"
-        },
-        {
-          "source": "BBC",
           "title": "Deadly Texas bar shooting is 'potentially an act of terrorism', FBI says",
           "link": "https://www.bbc.com/news/articles/cgjznzgly0po?at_medium=RSS&at_campaign=rss",
           "published": "Sun, 01 Mar 2026 20:21:28 GMT"
         },
         {
           "source": "BBC",
+          "title": "Nine dead in missile attack on Israel as Iran strikes region",
+          "link": "https://www.bbc.com/news/articles/c363zkp1pgxo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 01 Mar 2026 22:24:27 GMT"
+        },
+        {
+          "source": "BBC",
           "title": "War photographer Paul Conroy dies as tributes paid",
           "link": "https://www.bbc.com/news/articles/c5y6jvlv83ro?at_medium=RSS&at_campaign=rss",
           "published": "Sun, 01 Mar 2026 19:47:03 GMT"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Huge fire at Bahrain port home to US Navy’s Fifth Fleet",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/1/huge-fire-at-bahrain-port-home-to-us-navys-fifth-fleet?traffic_source=rss",
+          "published": "Sun, 01 Mar 2026 21:40:19 +0000"
         },
         {
           "source": "Al Jazeera",
@@ -128,12 +134,6 @@
           "title": "Iran after Ayatollah Ali Khamenei",
           "link": "https://www.aljazeera.com/opinions/2026/3/1/iran-after-ayatollah-ali-khamenei?traffic_source=rss",
           "published": "Sun, 01 Mar 2026 19:04:03 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Arsenal restore five-point lead at top of table with 2-1 win over Chelsea",
-          "link": "https://www.aljazeera.com/sports/2026/3/1/arsenal-restore-five-point-lead-at-top-of-table-with-2-1-win-over-chelsea?traffic_source=rss",
-          "published": "Sun, 01 Mar 2026 18:57:21 +0000"
         }
       ]
     }
