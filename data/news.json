@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-28T23:52:16Z",
+  "updatedAt": "2026-03-01T02:26:59Z",
   "groups": [
     {
       "region": "Македонија",
@@ -12,8 +12,14 @@
         },
         {
           "source": "Makfax",
+          "title": "Убиени и ќерката, зетот и внукот на ајатолахот Али Хамнеи, јавуваат иранските медиуми",
+          "link": "https://makfax.com.mk/svet/%d1%83%d0%b1%d0%b8%d0%b5%d0%bd%d0%b8-%d0%b8-%d1%9c%d0%b5%d1%80%d0%ba%d0%b0%d1%82%d0%b0-%d0%b7%d0%b5%d1%82%d0%be%d1%82-%d0%b8-%d0%b2%d0%bd%d1%83%d0%ba%d0%be%d1%82-%d0%b0%d1%98%d0%b0%d1%82%d0%be%d0%bb/",
+          "published": "Sun, 01 Mar 2026 01:35:24 +0000"
+        },
+        {
+          "source": "Makfax",
           "title": "(Видео) На улиците на Техеран, Иран, се слави убиството на Али Хамнеи",
-          "link": "https://makfax.com.mk/makedonija/%d0%b2%d0%b8%d0%b4%d0%b5%d0%be-%d0%bd%d0%b0-%d1%83%d0%bb%d0%b8%d1%86%d0%b8%d1%82%d0%b5-%d0%bd%d0%b0-%d1%82%d0%b5%d1%85%d0%b5%d1%80%d0%b0%d0%bd-%d0%b8%d1%80%d0%b0%d0%bd-%d1%81%d0%b5-%d1%81%d0%bb/",
+          "link": "https://makfax.com.mk/top/%d0%b2%d0%b8%d0%b4%d0%b5%d0%be-%d0%bd%d0%b0-%d1%83%d0%bb%d0%b8%d1%86%d0%b8%d1%82%d0%b5-%d0%bd%d0%b0-%d1%82%d0%b5%d1%85%d0%b5%d1%80%d0%b0%d0%bd-%d0%b8%d1%80%d0%b0%d0%bd-%d1%81%d0%b5-%d1%81%d0%bb/",
           "published": "Sat, 28 Feb 2026 22:44:04 +0000"
         },
         {
@@ -33,12 +39,6 @@
           "title": "Трамп: Ајатолахот е мртов",
           "link": "https://makfax.com.mk/svet/%d1%82%d1%80%d0%b0%d0%bc%d0%bf-%d0%b0%d1%98%d0%b0%d1%82%d0%be%d0%bb%d0%b0%d1%85%d0%be%d1%82-%d0%b5-%d0%bc%d1%80%d1%82%d0%be%d0%b2/",
           "published": "Sat, 28 Feb 2026 21:52:17 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "(Видео) Погоден аеродромот во Дубаи, евакуацијата е во тек",
-          "link": "https://makfax.com.mk/svet/%d0%b2%d0%b8%d0%b4%d0%b5%d0%be-%d0%bd%d0%b0%d0%bf%d0%b0%d0%b4-%d1%81%d0%be-%d0%b4%d1%80%d0%be%d0%bd-%d0%bd%d0%b0-%d0%b0%d0%b5%d1%80%d0%be%d0%b4%d1%80%d0%be%d0%bc%d0%be%d1%82-%d0%b2%d0%be-%d0%b4/",
-          "published": "Sat, 28 Feb 2026 21:29:29 +0000"
         },
         {
           "source": "NetPress",
@@ -77,9 +77,9 @@
       "items": [
         {
           "source": "BBC",
-          "title": "Ayatollah Khamenei's iron grip on power in Iran",
+          "title": "Ayatollah Khamenei's iron grip on power in Iran comes to an end",
           "link": "https://www.bbc.com/news/articles/c3gdnpjvj4ko?at_medium=RSS&at_campaign=rss",
-          "published": "Sat, 28 Feb 2026 23:07:05 GMT"
+          "published": "Sun, 01 Mar 2026 01:47:42 GMT"
         },
         {
           "source": "BBC",
@@ -107,33 +107,33 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "US strikes on Iran lead to renewed demands for war powers legislation",
+          "link": "https://www.aljazeera.com/news/2026/3/1/us-strikes-on-iran-lead-to-renewed-demands-for-war-powers-legislation?traffic_source=rss",
+          "published": "Sun, 01 Mar 2026 01:48:20 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "New Yorkers protest US strikes on Iran",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/1/new-yorkers-protest-us-strikes-on-iran?traffic_source=rss",
+          "published": "Sun, 01 Mar 2026 00:33:46 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Iranian Ambassador to UN calls US-Israeli attacks a ‘war crime’",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/1/iranian-ambassador-to-un-calls-us-israeli-attacks-a-war?traffic_source=rss",
+          "published": "Sun, 01 Mar 2026 00:05:38 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "How have US politicians reacted to the attack on Iran?",
+          "link": "https://www.aljazeera.com/news/2026/2/28/how-have-us-politicians-reacted-to-the-attack-on-iran?traffic_source=rss",
+          "published": "Sat, 28 Feb 2026 23:56:51 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Missile debris injures eight in Qatar after Iran launches barrage",
           "link": "https://www.aljazeera.com/news/2026/2/28/missile-debris-injures-eight-in-qatar-after-iran-launches-barrage?traffic_source=rss",
           "published": "Sat, 28 Feb 2026 23:20:30 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Who is Ali Shamkhani, Iran official reportedly killed in US-Israel attacks?",
-          "link": "https://www.aljazeera.com/news/2026/2/28/who-is-ali-shamkhani-iran-official-reportedly-killed-in-us-israel-attacks?traffic_source=rss",
-          "published": "Sat, 28 Feb 2026 23:07:08 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "US Ambassador to UN: Trump has ‘met the moment’ by striking Iran",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/2/28/us-ambassador-to-un-trump-has-met-the-moment-by-striking-iran?traffic_source=rss",
-          "published": "Sat, 28 Feb 2026 23:03:08 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Trump: Khamenei dead after US strikes Iran",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/2/28/trump-khamenei-dead-after-us-strikes-iran?traffic_source=rss",
-          "published": "Sat, 28 Feb 2026 22:56:24 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "What dangers do the US and Israeli attacks on Iran pose?",
-          "link": "https://www.aljazeera.com/video/inside-story/2026/2/28/what-dangers-do-the-us-and-israeli-attacks-on-iran-pose?traffic_source=rss",
-          "published": "Sat, 28 Feb 2026 22:37:16 +0000"
         }
       ]
     }
