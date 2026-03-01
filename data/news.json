@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-01T07:48:31Z",
+  "updatedAt": "2026-03-01T08:00:46Z",
   "groups": [
     {
       "region": "Македонија",
@@ -42,6 +42,12 @@
         },
         {
           "source": "NetPress",
+          "title": "Иран потврди утрово: Ајатолахот Хамнеи загинал во нападите",
+          "link": "https://netpress.com.mk/iran-potvrdi-utrovo-ajatolahot-hamnei-zaginal-vo-napadite/",
+          "published": "Sun, 01 Mar 2026 07:45:24 +0000"
+        },
+        {
+          "source": "NetPress",
           "title": "Шампионот во УФЦ, неочекувано, се откажа од титулата",
           "link": "https://netpress.com.mk/shampionot-vo-ufcz-neochekuvano-se-otkazha-od-titulata/",
           "published": "Sun, 01 Mar 2026 07:45:02 +0000"
@@ -63,12 +69,6 @@
           "title": "Доналд Трамп ја објави смртта на Хамнеи",
           "link": "https://netpress.com.mk/donald-tramp-ja-objavi-smrtta-na-hamnei/",
           "published": "Sat, 28 Feb 2026 23:12:20 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Ла Лига: Атлетико до победата во 94., хет-трик на Јамал",
-          "link": "https://netpress.com.mk/la-liga-atletiko-do-pobedata-vo-94-het-trik-na-jamal/",
-          "published": "Sat, 28 Feb 2026 22:41:42 +0000"
         }
       ]
     },
