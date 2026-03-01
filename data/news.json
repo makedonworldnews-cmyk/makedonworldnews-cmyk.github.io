@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-01T22:55:05Z",
+  "updatedAt": "2026-03-01T23:24:53Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,24 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) Ново обраќање на Трамп: Веројатно ќе умрат повеќе наши војници, тоа е така",
+          "link": "https://makfax.com.mk/svet/%d0%b2%d0%b8%d0%b4%d0%b5%d0%be-%d0%bd%d0%be%d0%b2%d0%be-%d0%be%d0%b1%d1%80%d0%b0%d1%9c%d0%b0%d1%9a%d0%b5-%d0%bd%d0%b0-%d1%82%d1%80%d0%b0%d0%bc%d0%bf-%d0%b2%d0%b5%d1%80%d0%be%d1%98%d0%b0%d1%82%d0%bd/",
+          "published": "Sun, 01 Mar 2026 23:24:46 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) Британскиот премиер: Ги ставаме нашите бази на располагање на Американците",
+          "link": "https://makfax.com.mk/svet/%d0%b2%d0%b8%d0%b4%d0%b5%d0%be-%d0%b1%d1%80%d0%b8%d1%82%d0%b0%d0%bd%d1%81%d0%ba%d0%b8%d0%be%d1%82-%d0%bf%d1%80%d0%b5%d0%bc%d0%b8%d0%b5%d1%80-%d0%b3%d0%b8-%d1%81%d1%82%d0%b0%d0%b2%d0%b0%d0%bc%d0%b5/",
+          "published": "Sun, 01 Mar 2026 23:16:59 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) Без победник во дербито – Гати во 93-та го спаси Јувентус од пораз",
+          "link": "https://makfax.com.mk/sport/video-bez-pobednik-vo-derbito-gati-vo-93-ta-go-spasi-juventus-od-poraz/",
+          "published": "Sun, 01 Mar 2026 22:11:08 +0000"
         },
         {
           "source": "Makfax",
@@ -23,22 +41,10 @@
           "published": "Sun, 01 Mar 2026 20:35:25 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Сиљановска-Давкова: Состојбата е стабилна и нема опасност по безбедноста",
-          "link": "https://makfax.com.mk/makedonija/%d1%81%d0%b8%d1%99%d0%b0%d0%bd%d0%be%d0%b2%d1%81%d0%ba%d0%b0-%d0%b4%d0%b0%d0%b2%d0%ba%d0%be%d0%b2%d0%b0-%d1%81%d0%be%d1%81%d1%82%d0%be%d1%98%d0%b1%d0%b0%d1%82%d0%b0-%d0%b5-%d1%81%d1%82%d0%b0%d0%b1/",
-          "published": "Sun, 01 Mar 2026 20:27:45 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Повеќе од 150 македонски државјани побарале помош од амбасадите во Тел Авив, Доха и Абу Даби за евакуација",
-          "link": "https://makfax.com.mk/makedonija/%d0%bf%d0%be%d0%b2%d0%b5%d1%9c%d0%b5-%d0%be%d0%b4-150-%d0%bc%d0%b0%d0%ba%d0%b5%d0%b4%d0%be%d0%bd%d1%81%d0%ba%d0%b8-%d0%b4%d1%80%d0%b6%d0%b0%d0%b2%d1%98%d0%b0%d0%bd%d0%b8-%d0%bf%d0%be%d0%b1%d0%b0%d1%80/",
-          "published": "Sun, 01 Mar 2026 19:34:17 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Малолетник сакал да се самоубие, МВР го спречи постапувајќи по објава оставена на социјалните мрежи",
-          "link": "https://makfax.com.mk/makedonija/%d0%bc%d0%b0%d0%bb%d0%be%d0%bb%d0%b5%d1%82%d0%bd%d0%b8%d0%ba-%d1%81%d0%b0%d0%ba%d0%b0%d0%bb-%d0%b4%d0%b0-%d1%81%d0%b5-%d1%81%d0%b0%d0%bc%d0%be%d1%83%d0%b1%d0%b8%d0%b5-%d0%bc%d0%b2%d1%80-%d0%b3%d0%be/",
-          "published": "Sun, 01 Mar 2026 18:31:26 +0000"
+          "source": "NetPress",
+          "title": "Серија А: Јувентус во одличното дерби против Рома до реми во судиското продолжение",
+          "link": "https://netpress.com.mk/serija-a-juventus-vo-odlichnoto-derbi-protiv-roma-do-remi-vo-sudiskoto-prodolzhenie/",
+          "published": "Sun, 01 Mar 2026 23:02:20 +0000"
         },
         {
           "source": "NetPress",
@@ -63,12 +69,6 @@
           "title": "Трамп објави дека 48 ирански челници се убиени, САД гаѓале над илјада цели меѓу нив и училиште и болница",
           "link": "https://netpress.com.mk/tramp-objavi-deka-48-iranski-chelniczi-se-ubieni-sad-gagale-nad-iljada-czeli-megu-niv-i-uchilishte-i-bolnicza/",
           "published": "Sun, 01 Mar 2026 21:22:07 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Бундеслига: РБ Лајпциг со пресврт до победа во Хамбург, Ајнтрахт подобар од Фрајбург",
-          "link": "https://netpress.com.mk/bundesliga-rb-lajpczig-so-presvrt-do-pobeda-vo-hamburg-ajntraht-podobar-od-frajburg/",
-          "published": "Sun, 01 Mar 2026 20:51:36 +0000"
         }
       ]
     },
@@ -89,9 +89,9 @@
         },
         {
           "source": "BBC",
-          "title": "Deadly Texas bar shooting is 'potentially an act of terrorism', FBI says",
+          "title": "Deadly Texas bar shooting 'potentially act of terrorism', FBI says",
           "link": "https://www.bbc.com/news/articles/cgjznzgly0po?at_medium=RSS&at_campaign=rss",
-          "published": "Sun, 01 Mar 2026 20:21:28 GMT"
+          "published": "Sun, 01 Mar 2026 23:17:32 GMT"
         },
         {
           "source": "BBC",
@@ -107,6 +107,24 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Blasts heard in Kabul as Pakistan-Afghanistan conflict continues",
+          "link": "https://www.aljazeera.com/news/2026/3/1/blasts-heard-in-kabul-as-pakistan-afghanistan-conflict-continues?traffic_source=rss",
+          "published": "Sun, 01 Mar 2026 23:09:38 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Iranian missiles light up skies over Israel, occupied West Bank",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/1/iranian-missiles-light-up-skies-over-israel-occupied-west-bank?traffic_source=rss",
+          "published": "Sun, 01 Mar 2026 23:06:10 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Trump vows to continue attacks on Iran, says more US troops ‘likely’ to die",
+          "link": "https://www.aljazeera.com/news/2026/3/1/trump-vows-to-continue-attacks-on-iran-says-more-us-troops-likely-to-die?traffic_source=rss",
+          "published": "Sun, 01 Mar 2026 22:51:32 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Huge fire at Bahrain port home to US Navy’s Fifth Fleet",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/3/1/huge-fire-at-bahrain-port-home-to-us-navys-fifth-fleet?traffic_source=rss",
           "published": "Sun, 01 Mar 2026 21:40:19 +0000"
@@ -116,24 +134,6 @@
           "title": "Iranian drone strikes US military facility in Kuwait",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/3/1/iranian-drone-strikes-us-military-facility-in-kuwait?traffic_source=rss",
           "published": "Sun, 01 Mar 2026 19:59:38 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "US confirms three soldiers killed in Iran attacks",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/1/us-confirms-three-soldiers-killed-in-iran-attacks?traffic_source=rss",
-          "published": "Sun, 01 Mar 2026 19:30:38 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Missile strikes continue as Iranian leaders project defiance after Khamenei",
-          "link": "https://www.aljazeera.com/news/2026/3/1/missile-strikes-continue-as-iranian-leaders-project-defiance-after-khamenei?traffic_source=rss",
-          "published": "Sun, 01 Mar 2026 19:19:22 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Iran after Ayatollah Ali Khamenei",
-          "link": "https://www.aljazeera.com/opinions/2026/3/1/iran-after-ayatollah-ali-khamenei?traffic_source=rss",
-          "published": "Sun, 01 Mar 2026 19:04:03 +0000"
         }
       ]
     }
