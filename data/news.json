@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-01T19:00:21Z",
+  "updatedAt": "2026-03-01T19:31:46Z",
   "groups": [
     {
       "region": "Македонија",
@@ -42,6 +42,18 @@
         },
         {
           "source": "NetPress",
+          "title": "Повеќе од 150 македонски државјани во Блискиот Исток контактирале со амбасадите",
+          "link": "https://netpress.com.mk/poveke-od-150-makedonski-drzhavjani-vo-bliskiot-istok-kontaktirale-so-ambasadite/",
+          "published": "Sun, 01 Mar 2026 19:27:28 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Само еден од четворица Американци ги поддржуваат нападите на САД врз Иран",
+          "link": "https://netpress.com.mk/samo-eden-od-chetvoricza-amerikanczi-gi-poddrzhuvaat-napadite-na-sad-vrz-iran/",
+          "published": "Sun, 01 Mar 2026 19:10:04 +0000"
+        },
+        {
+          "source": "NetPress",
           "title": "Нападната 25-годишна жена од поранешниот сопруг",
           "link": "https://netpress.com.mk/napadnata-25-godishna-zhena-od-poraneshniot-soprug/",
           "published": "Sun, 01 Mar 2026 18:59:15 +0000"
@@ -57,24 +69,18 @@
           "title": "Кумановци со тврди предмети нападнале скопјанец во сообраќајна препирка",
           "link": "https://netpress.com.mk/kumanovczi-so-tvrdi-predmeti-napadnale-skopjanecz-vo-soobrakajna-prepirka/",
           "published": "Sun, 01 Mar 2026 18:49:43 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Пронајдена минофрлачка граната од Првата светска војна во Битолско",
-          "link": "https://netpress.com.mk/pronajdena-minofrlachka-granata-od-prvata-svetska-vojna-vo-bitolsko/",
-          "published": "Sun, 01 Mar 2026 18:47:02 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Дилер на кокаин и екстази фатен во СЦ „Јане Сандански“",
-          "link": "https://netpress.com.mk/diler-na-kokain-i-ekstazi-faten-vo-scz-jane-sandanski/",
-          "published": "Sun, 01 Mar 2026 18:38:41 +0000"
         }
       ]
     },
     {
       "region": "Свет",
       "items": [
+        {
+          "source": "BBC",
+          "title": "Iran's regime is still intact - the coming days will show if it can hold out",
+          "link": "https://www.bbc.com/news/articles/cx2lgvg5rl1o?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 01 Mar 2026 18:05:06 GMT"
+        },
         {
           "source": "BBC",
           "title": "At least 153 dead after reported strike on school, Iran says",
@@ -100,10 +106,16 @@
           "published": "Sun, 01 Mar 2026 00:57:16 GMT"
         },
         {
-          "source": "BBC",
-          "title": "Why is WhatsApp's privacy policy facing a legal challenge in India?",
-          "link": "https://www.bbc.com/news/articles/cp81wegj123o?at_medium=RSS&at_campaign=rss",
-          "published": "Sun, 01 Mar 2026 00:21:43 GMT"
+          "source": "Al Jazeera",
+          "title": "Arsenal restore five point lead at top of table with 2-1 win over Chelsea",
+          "link": "https://www.aljazeera.com/sports/2026/3/1/arsenal-restore-five-point-lead-at-top-of-table-with-2-1-win-over-chelsea?traffic_source=rss",
+          "published": "Sun, 01 Mar 2026 18:57:21 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Iran foreign minister suggests new supreme leader may be chosen within days",
+          "link": "https://www.aljazeera.com/news/2026/3/1/iran-foreign-minister-suggests-new-supreme-leader-may-be-chosen-within-days?traffic_source=rss",
+          "published": "Sun, 01 Mar 2026 18:51:08 +0000"
         },
         {
           "source": "Al Jazeera",
@@ -122,18 +134,6 @@
           "title": "“Trump chose an avoidable war over a good deal.”",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/3/1/trump-chose-an-avoidable-war-over-a-good-deal?traffic_source=rss",
           "published": "Sun, 01 Mar 2026 16:45:52 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Moment Iranian drone hits UAE naval base",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/1/moment-iranian-drone-hits-uae-naval-base?traffic_source=rss",
-          "published": "Sun, 01 Mar 2026 16:13:24 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Who are the council members temporarily in charge of Iran?",
-          "link": "https://www.aljazeera.com/news/2026/3/1/who-are-the-council-members-temporarily-in-charge-of-iran?traffic_source=rss",
-          "published": "Sun, 01 Mar 2026 15:47:10 +0000"
         }
       ]
     }
