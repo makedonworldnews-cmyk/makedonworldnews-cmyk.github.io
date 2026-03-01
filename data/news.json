@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-01T14:38:09Z",
+  "updatedAt": "2026-03-01T14:56:27Z",
   "groups": [
     {
       "region": "Македонија",
@@ -42,6 +42,18 @@
         },
         {
           "source": "NetPress",
+          "title": "Работник од Струшко повреден при изведување градежни работи во Битола",
+          "link": "https://netpress.com.mk/rabotnik-od-strushko-povreden-pri-izveduvane-gradezhni-raboti-vo-bitola/",
+          "published": "Sun, 01 Mar 2026 14:48:45 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "ФОТО| Најголема реставрација на фреската на Микеланџело во Систинската капела во последните три децении",
+          "link": "https://netpress.com.mk/foto-najgolema-restavraczija-na-freskata-na-mikelandhelo-vo-sistinskata-kapela-vo-poslednite-tri-deczenii/",
+          "published": "Sun, 01 Mar 2026 14:45:10 +0000"
+        },
+        {
+          "source": "NetPress",
           "title": "Малолетен мотоциклист тешко повреден во судир со камион во Битола",
           "link": "https://netpress.com.mk/maloleten-motocziklist-teshko-povreden-vo-sudir-so-kamion-vo-bitola/",
           "published": "Sun, 01 Mar 2026 14:31:19 +0000"
@@ -57,18 +69,6 @@
           "title": "Израел продолжува со воздушни удари во Техеран и по атентатот врз Хамнеи",
           "link": "https://netpress.com.mk/izrael-prodolzhuva-so-vozdushni-udari-vo-teheran-i-po-atentatot-vrz-hamnei/",
           "published": "Sun, 01 Mar 2026 13:52:31 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Стабилно и суво време во следниве денови",
-          "link": "https://netpress.com.mk/stabilno-i-suvo-vreme-vo-slednive-denovi/",
-          "published": "Sun, 01 Mar 2026 13:48:48 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Велешката полиција фатила крадец",
-          "link": "https://netpress.com.mk/veleshkata-policzija-fatila-kradecz/",
-          "published": "Sun, 01 Mar 2026 13:40:07 +0000"
         }
       ]
     },
@@ -79,7 +79,7 @@
           "source": "BBC",
           "title": "At least 148 dead after reported strike on school, Iran says",
           "link": "https://www.bbc.com/news/articles/c1l7rvqq51eo?at_medium=RSS&at_campaign=rss",
-          "published": "Sun, 01 Mar 2026 11:40:44 GMT"
+          "published": "Sun, 01 Mar 2026 14:40:36 GMT"
         },
         {
           "source": "BBC",
@@ -107,6 +107,24 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "US-Israel attacks on Iran: Death toll and injuries live tracker",
+          "link": "https://www.aljazeera.com/news/2026/3/1/us-israel-attacks-on-iran-death-toll-and-injuries-live-tracker?traffic_source=rss",
+          "published": "Sun, 01 Mar 2026 14:32:24 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Iranian attack on Beit Shemesh kills several in Israel",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/1/iranian-attack-on-beit-shemesh-kills-several-in-israel?traffic_source=rss",
+          "published": "Sun, 01 Mar 2026 14:29:45 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "How did air traffic change in the last 48 hours?",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/1/how-did-air-traffic-change-in-the-last-48-hours?traffic_source=rss",
+          "published": "Sun, 01 Mar 2026 14:25:18 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Who was Iran’s supreme leader, Ayatollah Ali Khamenei?",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/3/1/who-was-irans-supreme-leader-ayatollah-ali-khamenei?traffic_source=rss",
           "published": "Sun, 01 Mar 2026 13:50:15 +0000"
@@ -116,24 +134,6 @@
           "title": "At least nine killed after Iranian strike on Israel’s Beit Shemesh",
           "link": "https://www.aljazeera.com/news/2026/3/1/at-least-nine-killed-after-iranian-strike-on-israels-beit-shemesh?traffic_source=rss",
           "published": "Sun, 01 Mar 2026 13:45:48 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Has Trump misunderstood Iran’s IRGC and the Basij forces?",
-          "link": "https://www.aljazeera.com/features/2026/3/1/has-trump-misunderstood-irans-irgc-and-the-basij-forces?traffic_source=rss",
-          "published": "Sun, 01 Mar 2026 13:43:44 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "LIVE: Arsenal vs Chelsea – Premier League",
-          "link": "https://www.aljazeera.com/sports/liveblog/2026/3/1/live-arsenal-vs-chelsea-premier-league?traffic_source=rss",
-          "published": "Sun, 01 Mar 2026 13:40:49 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "T20 World Cup: South Africa beat Zimbabwe, set up New Zealand semifinal",
-          "link": "https://www.aljazeera.com/sports/2026/3/1/t20-world-cup-south-africa-beat-zimbabwe-set-up-new-zealand-semifinal?traffic_source=rss",
-          "published": "Sun, 01 Mar 2026 13:34:28 +0000"
         }
       ]
     }
