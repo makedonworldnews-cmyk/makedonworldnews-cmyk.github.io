@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-01T21:30:05Z",
+  "updatedAt": "2026-03-01T21:48:10Z",
   "groups": [
     {
       "region": "Македонија",
@@ -42,6 +42,12 @@
         },
         {
           "source": "NetPress",
+          "title": "Берлин, Париз и Лондон подготвени да ги бранат „своите интереси“ против Иран",
+          "link": "https://netpress.com.mk/berlin-pariz-i-london-podgotveni-da-gi-branat-svoite-interesi-protiv-iran/",
+          "published": "Sun, 01 Mar 2026 21:47:26 +0000"
+        },
+        {
+          "source": "NetPress",
           "title": "Трамп објави дека 48 ирански челници се убиени, САД гаѓале над илјада цели меѓу нив и училиште и болница",
           "link": "https://netpress.com.mk/tramp-objavi-deka-48-iranski-chelniczi-se-ubieni-sad-gagale-nad-iljada-czeli-megu-niv-i-uchilishte-i-bolnicza/",
           "published": "Sun, 01 Mar 2026 21:22:07 +0000"
@@ -63,12 +69,6 @@
           "title": "Мерц: Нападот врз Иран носи ризици",
           "link": "https://netpress.com.mk/mercz-napadot-vrz-iran-nosi-riziczi/",
           "published": "Sun, 01 Mar 2026 20:25:55 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Сиљановска-Давкова: Нема опасност по безбедноста внатре и во регионот",
-          "link": "https://netpress.com.mk/silanovska-davkova-nema-opasnost-po-bezbednosta-vnatre-i-vo-regionot/",
-          "published": "Sun, 01 Mar 2026 20:24:53 +0000"
         }
       ]
     },
@@ -107,6 +107,12 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Huge fire at Bahrain port home to US Navy’s Fifth Fleet",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/1/huge-fire-at-bahrain-port-home-to-us-navys-fifth-fleet?traffic_source=rss",
+          "published": "Sun, 01 Mar 2026 21:40:19 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Iranian drone strikes US military facility in Kuwait",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/3/1/iranian-drone-strikes-us-military-facility-in-kuwait?traffic_source=rss",
           "published": "Sun, 01 Mar 2026 19:59:38 +0000"
@@ -128,12 +134,6 @@
           "title": "Iran after Ayatollah Ali Khamenei",
           "link": "https://www.aljazeera.com/opinions/2026/3/1/iran-after-ayatollah-ali-khamenei?traffic_source=rss",
           "published": "Sun, 01 Mar 2026 19:04:03 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Arsenal restore five-point lead at top of table with 2-1 win over Chelsea",
-          "link": "https://www.aljazeera.com/sports/2026/3/1/arsenal-restore-five-point-lead-at-top-of-table-with-2-1-win-over-chelsea?traffic_source=rss",
-          "published": "Sun, 01 Mar 2026 18:57:21 +0000"
         }
       ]
     }
