@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-01T06:27:44Z",
+  "updatedAt": "2026-03-01T07:10:21Z",
   "groups": [
     {
       "region": "Македонија",
@@ -12,6 +12,24 @@
         },
         {
           "source": "Makfax",
+          "title": "Трамп го предупреди Иран да не возвраќа на нападите извршени од САД и Израел",
+          "link": "https://makfax.com.mk/svet/%d1%82%d1%80%d0%b0%d0%bc%d0%bf-%d0%b3%d0%be-%d0%bf%d1%80%d0%b5%d0%b4%d1%83%d0%bf%d1%80%d0%b5%d0%b4%d0%b8-%d0%b8%d1%80%d0%b0%d0%bd-%d0%b4%d0%b0-%d0%bd%d0%b5-%d0%b2%d0%be%d0%b7%d0%b2%d1%80%d0%b0%d1%9c/",
+          "published": "Sun, 01 Mar 2026 07:07:44 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Гори Блискиот Исток, експлозии и денеска се слушаат во арапските држави во Заливот",
+          "link": "https://makfax.com.mk/svet/%d0%b3%d0%be%d1%80%d0%b8-%d0%b1%d0%bb%d0%b8%d1%81%d0%ba%d0%b8%d0%be%d1%82-%d0%b8%d1%81%d1%82%d0%be%d0%ba-%d0%b5%d0%ba%d1%81%d0%bf%d0%bb%d0%be%d0%b7%d0%b8%d0%b8-%d0%b8-%d0%b4%d0%b5%d0%bd%d0%b5%d1%81/",
+          "published": "Sun, 01 Mar 2026 07:03:52 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Пролетен неделен ден во зима со температури до 16 степени",
+          "link": "https://makfax.com.mk/makedonija/%d0%bf%d1%80%d0%be%d0%bb%d0%b5%d1%82%d0%b5%d0%bd-%d0%bd%d0%b5%d0%b4%d0%b5%d0%bb%d0%b5%d0%bd-%d0%b4%d0%b5%d0%bd-%d0%b2%d0%be-%d0%b7%d0%b8%d0%bc%d0%b0-%d1%81%d0%be-%d1%82%d0%b5%d0%bc%d0%bf%d0%b5%d1%80/",
+          "published": "Sun, 01 Mar 2026 06:52:09 +0000"
+        },
+        {
+          "source": "Makfax",
           "title": "Техеран ја потврди смртта на врховниот лидер Али Хамнеи и објави 40 дена жалост",
           "link": "https://makfax.com.mk/top/%d1%82%d0%b5%d1%85%d0%b5%d1%80%d0%b0%d0%bd-%d1%98%d0%b0-%d0%bf%d0%be%d1%82%d0%b2%d1%80%d0%b4%d0%b8-%d1%81%d0%bc%d1%80%d1%82%d1%82%d0%b0-%d0%bd%d0%b0-%d0%b2%d1%80%d1%85%d0%be%d0%b2%d0%bd%d0%b8%d0%be/",
           "published": "Sun, 01 Mar 2026 02:27:37 +0000"
@@ -21,24 +39,6 @@
           "title": "Убиени и ќерката, зетот и внукот на ајатолахот Али Хамнеи, јавуваат иранските медиуми",
           "link": "https://makfax.com.mk/svet/%d1%83%d0%b1%d0%b8%d0%b5%d0%bd%d0%b8-%d0%b8-%d1%9c%d0%b5%d1%80%d0%ba%d0%b0%d1%82%d0%b0-%d0%b7%d0%b5%d1%82%d0%be%d1%82-%d0%b8-%d0%b2%d0%bd%d1%83%d0%ba%d0%be%d1%82-%d0%b0%d1%98%d0%b0%d1%82%d0%be%d0%bb/",
           "published": "Sun, 01 Mar 2026 01:35:24 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "(Видео) На улиците на Техеран, Иран, се слави убиството на Али Хамнеи",
-          "link": "https://makfax.com.mk/top/%d0%b2%d0%b8%d0%b4%d0%b5%d0%be-%d0%bd%d0%b0-%d1%83%d0%bb%d0%b8%d1%86%d0%b8%d1%82%d0%b5-%d0%bd%d0%b0-%d1%82%d0%b5%d1%85%d0%b5%d1%80%d0%b0%d0%bd-%d0%b8%d1%80%d0%b0%d0%bd-%d1%81%d0%b5-%d1%81%d0%bb/",
-          "published": "Sat, 28 Feb 2026 22:44:04 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "(Видео) Хрват од Дубаи: Во засолниште сме, не знам што ќе биде понатаму",
-          "link": "https://makfax.com.mk/svet/%d0%b2%d0%b8%d0%b4%d0%b5%d0%be-%d1%85%d1%80%d0%b2%d0%b0%d1%82-%d0%be%d0%b4-%d0%b4%d1%83%d0%b1%d0%b0%d0%b8-%d0%b2%d0%be-%d0%b7%d0%b0%d1%81%d0%be%d0%bb%d0%bd%d0%b8%d1%88%d1%82%d0%b5-%d1%81%d0%bc/",
-          "published": "Sat, 28 Feb 2026 22:43:48 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "(Видео) Ирански дрон го погоди и хотелот Бурџ ал Араб во Дубаи",
-          "link": "https://makfax.com.mk/svet/%d0%b2%d0%b8%d0%b4%d0%b5%d0%be-%d0%b8%d1%80%d0%b0%d0%bd%d1%81%d0%ba%d0%b8-%d0%b4%d1%80%d0%be%d0%bd-%d0%b3%d0%be-%d0%bf%d0%be%d0%b3%d0%be%d0%b4%d0%b8-%d0%b8-%d1%85%d0%be%d1%82%d0%b5%d0%bb%d0%be%d1%82/",
-          "published": "Sat, 28 Feb 2026 22:24:28 +0000"
         },
         {
           "source": "NetPress",
@@ -107,6 +107,12 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Despite antiwar MAGA wing, Trump gets Republican support for Iran strikes",
+          "link": "https://www.aljazeera.com/news/2026/3/1/despite-antiwar-maga-wing-trump-gets-republican-support-for-iran-strikes?traffic_source=rss",
+          "published": "Sun, 01 Mar 2026 06:24:43 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Netanyahu’s war? Analysts say Trump’s Iran strikes benefit Israel, not US",
           "link": "https://www.aljazeera.com/news/2026/3/1/netanyahus-war-analysts-say-trumps-iran-strikes-benefit-israel-not-us?traffic_source=rss",
           "published": "Sun, 01 Mar 2026 02:14:32 +0000"
@@ -128,12 +134,6 @@
           "title": "Iranian Ambassador to UN calls US-Israeli attacks a ‘war crime’",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/3/1/iranian-ambassador-to-un-calls-us-israeli-attacks-a-war?traffic_source=rss",
           "published": "Sun, 01 Mar 2026 00:05:38 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "How have US politicians reacted to the attack on Iran?",
-          "link": "https://www.aljazeera.com/news/2026/2/28/how-have-us-politicians-reacted-to-the-attack-on-iran?traffic_source=rss",
-          "published": "Sat, 28 Feb 2026 23:56:51 +0000"
         }
       ]
     }
