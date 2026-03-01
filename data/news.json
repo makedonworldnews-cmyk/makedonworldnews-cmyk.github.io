@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-01T17:02:01Z",
+  "updatedAt": "2026-03-01T17:35:21Z",
   "groups": [
     {
       "region": "Македонија",
@@ -12,33 +12,39 @@
         },
         {
           "source": "Makfax",
+          "title": "Трамп се согласил да разговара со новите ирански лидери",
+          "link": "https://makfax.com.mk/svet/%d1%82%d1%80%d0%b0%d0%bc%d0%bf-%d1%81%d0%b5-%d1%81%d0%be%d0%b3%d0%bb%d0%b0%d1%81%d0%b8%d0%bb-%d0%b4%d0%b0-%d1%80%d0%b0%d0%b7%d0%b3%d0%be%d0%b2%d0%b0%d1%80%d0%b0-%d1%81%d0%be-%d0%bd%d0%be%d0%b2%d0%b8/",
+          "published": "Sun, 01 Mar 2026 17:23:52 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Почна седницата на Советот за безбедност во Вила Водно",
+          "link": "https://makfax.com.mk/makedonija/%d0%bf%d0%be%d1%87%d0%bd%d0%b0-%d1%81%d0%b5%d0%b4%d0%bd%d0%b8%d1%86%d0%b0%d1%82%d0%b0-%d0%bd%d0%b0-%d1%81%d0%be%d0%b2%d0%b5%d1%82%d0%be%d1%82-%d0%b7%d0%b0-%d0%b1%d0%b5%d0%b7%d0%b1%d0%b5%d0%b4%d0%bd-2/",
+          "published": "Sun, 01 Mar 2026 17:19:09 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Поранешниот ирански претседател Махмуд Ахмадинеџад убиен во напади откако ракета погодила дом",
+          "link": "https://makfax.com.mk/svet/%d0%bf%d0%be%d1%80%d0%b0%d0%bd%d0%b5%d1%88%d0%bd%d0%b8%d0%be%d1%82-%d0%b8%d1%80%d0%b0%d0%bd%d1%81%d0%ba%d0%b8-%d0%bf%d1%80%d0%b5%d1%82%d1%81%d0%b5%d0%b4%d0%b0%d1%82%d0%b5%d0%bb-%d0%bc%d0%b0%d1%85/",
+          "published": "Sun, 01 Mar 2026 17:15:52 +0000"
+        },
+        {
+          "source": "Makfax",
           "title": "Муцунски разговарал со шеикот Бин Зајед и дал целосната поддршка кон Обединетите Арапски Емирати",
           "link": "https://makfax.com.mk/makedonija/%d0%bc%d1%83%d1%86%d1%83%d0%bd%d1%81%d0%ba%d0%b8-%d1%80%d0%b0%d0%b7%d0%b3%d0%be%d0%b2%d0%b0%d1%80%d0%b0%d0%bb-%d1%81%d0%be-%d1%88%d0%b5%d0%b8%d0%ba%d0%be%d1%82-%d0%b1%d0%b8%d0%bd-%d0%b7%d0%b0%d1%98/",
           "published": "Sun, 01 Mar 2026 16:50:21 +0000"
         },
         {
           "source": "Makfax",
-          "title": "Нетанјаху најави дека израелските напади врз Иран ќе се интензивираат",
-          "link": "https://makfax.com.mk/svet/%d0%bd%d0%b5%d1%82%d0%b0%d0%bd%d1%98%d0%b0%d1%85%d1%83-%d0%bd%d0%b0%d1%98%d0%b0%d0%b2%d0%b8-%d0%b4%d0%b5%d0%ba%d0%b0-%d0%b8%d0%b7%d1%80%d0%b0%d0%b5%d0%bb%d1%81%d0%ba%d0%b8%d1%82%d0%b5-%d0%bd%d0%b0/",
-          "published": "Sun, 01 Mar 2026 16:28:05 +0000"
+          "title": "(Видео) Јунајтед по пресврт до победа, Тотенхем и Нотингем Форест тонат во бездната",
+          "link": "https://makfax.com.mk/sport/video-junajted-po-presvrt-do-pobeda-totenhem-i-notingem-forest-tonat-vo-bezdnata/",
+          "published": "Sun, 01 Mar 2026 16:41:25 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Трамп изјави дека 48 ирански лидери се убиени во тековните американско-израелски напади",
-          "link": "https://makfax.com.mk/svet/%d1%82%d1%80%d0%b0%d0%bc%d0%bf-%d0%b8%d0%b7%d1%98%d0%b0%d0%b2%d0%b8-%d0%b4%d0%b5%d0%ba%d0%b0-48-%d0%b8%d1%80%d0%b0%d0%bd%d1%81%d0%ba%d0%b8-%d0%bb%d0%b8%d0%b4%d0%b5%d1%80%d0%b8-%d1%81%d0%b5-%d1%83/",
-          "published": "Sun, 01 Mar 2026 16:15:14 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "ВМРО-ДПМНЕ до Филипче: Ако Македонија е како Иран, дали Заев е ајатолахот?",
-          "link": "https://makfax.com.mk/makedonija/%d0%b2%d0%bc%d1%80%d0%be-%d0%b4%d0%bf%d0%bc%d0%bd%d0%b5-%d0%b4%d0%be-%d1%84%d0%b8%d0%bb%d0%b8%d0%bf%d1%87%d0%b5-%d0%b0%d0%ba%d0%be-%d0%bc%d0%b0%d0%ba%d0%b5%d0%b4%d0%be%d0%bd%d0%b8%d1%98%d0%b0-%d0%b5/",
-          "published": "Sun, 01 Mar 2026 15:50:26 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Израелската војска пак го нападна Иран",
-          "link": "https://makfax.com.mk/svet/%d0%b8%d0%b7%d1%80%d0%b0%d0%b5%d0%bb%d1%81%d0%ba%d0%b0%d1%82%d0%b0-%d0%b2%d0%be%d1%98%d1%81%d0%ba%d0%b0-%d0%bf%d0%b0%d0%ba-%d0%b3%d0%be-%d0%bd%d0%b0%d0%bf%d0%b0%d0%b4%d0%bd%d0%b0-%d0%b8%d1%80%d0%b0/",
-          "published": "Sun, 01 Mar 2026 15:46:26 +0000"
+          "source": "NetPress",
+          "title": "Трамп вели дека иранските власти сакаат да разговараат, а тој прифатил",
+          "link": "https://netpress.com.mk/tramp-veli-deka-iranskite-vlasti-sakaat-da-razgovaraat-a-toj-prifatil/",
+          "published": "Sun, 01 Mar 2026 17:24:01 +0000"
         },
         {
           "source": "NetPress",
@@ -63,12 +69,6 @@
           "title": "Филипче заборавил на времето кога со Заев ги чекаа Гугл и Фејсбук како инвестиции и не ги дочекаа",
           "link": "https://netpress.com.mk/filipche-zaboravil-na-vremeto-koga-so-zaev-gi-chekaa-gugl-i-fejsbuk-kako-investiczii-i-ne-gi-dochekaa/",
           "published": "Sun, 01 Mar 2026 16:07:05 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "ФОТО| Пуштена во употреба реконструираната обиколница во Крива Паланка",
-          "link": "https://netpress.com.mk/foto-pushtena-vo-upotreba-rekonstruiranata-obikolnicza-vo-kriva-palanka/",
-          "published": "Sun, 01 Mar 2026 15:28:13 +0000"
         }
       ]
     },
@@ -89,21 +89,21 @@
         },
         {
           "source": "BBC",
-          "title": "What we know so far about the US-Israel attacks and Iran's retaliation",
-          "link": "https://www.bbc.com/news/articles/cx2dyz6p3weo?at_medium=RSS&at_campaign=rss",
-          "published": "Sun, 01 Mar 2026 10:58:33 GMT"
+          "title": "Deadly Texas bar shooting is 'potentially an act of terrorism', FBI says",
+          "link": "https://www.bbc.com/news/articles/cgjznzgly0po?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 01 Mar 2026 17:11:18 GMT"
         },
         {
           "source": "BBC",
-          "title": "Where have Nepal's 'nepo kids' gone as corruption takes centre stage in election?",
-          "link": "https://www.bbc.com/news/articles/cgqgl3j5nj4o?at_medium=RSS&at_campaign=rss",
-          "published": "Sat, 28 Feb 2026 23:03:48 GMT"
+          "title": "How responsible are climbers for each other's safety? Mountaineers react to manslaughter",
+          "link": "https://www.bbc.com/news/articles/cwy8ppn4142o?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 01 Mar 2026 00:57:16 GMT"
         },
         {
           "source": "BBC",
-          "title": "Wellness peptide craze: Why people are injecting drugs 'not for human consumption'",
-          "link": "https://www.bbc.com/news/articles/cdr268m5pxro?at_medium=RSS&at_campaign=rss",
-          "published": "Sun, 01 Mar 2026 00:51:29 GMT"
+          "title": "Why is WhatsApp's privacy policy facing a legal challenge in India?",
+          "link": "https://www.bbc.com/news/articles/cp81wegj123o?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 01 Mar 2026 00:21:43 GMT"
         },
         {
           "source": "Al Jazeera",
