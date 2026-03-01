@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-01T14:01:22Z",
+  "updatedAt": "2026-03-01T14:38:09Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,24 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Папата го предупредува Трамп додека тој го крши молчењето за „спиралата на насилство“",
+          "link": "https://makfax.com.mk/svet/%d0%bf%d0%b0%d0%bf%d0%b0%d1%82%d0%b0-%d0%b3%d0%be-%d0%bf%d1%80%d0%b5%d0%b4%d1%83%d0%bf%d1%80%d0%b5%d0%b4%d1%83%d0%b2%d0%b0-%d1%82%d1%80%d0%b0%d0%bc%d0%bf-%d0%b4%d0%be%d0%b4%d0%b5%d0%ba%d0%b0-%d1%82/",
+          "published": "Sun, 01 Mar 2026 14:32:41 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Едно лице загина, а 32 се повредени во Кувајт",
+          "link": "https://makfax.com.mk/svet/%d0%b5%d0%b4%d0%bd%d0%be-%d0%bb%d0%b8%d1%86%d0%b5-%d0%b7%d0%b0%d0%b3%d0%b8%d0%bd%d0%b0-%d0%b0-32-%d1%81%d0%b5-%d0%bf%d0%be%d0%b2%d1%80%d0%b5%d0%b4%d0%b5%d0%bd%d0%b8-%d0%b2%d0%be-%d0%ba%d1%83%d0%b2/",
+          "published": "Sun, 01 Mar 2026 14:08:19 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Масовно пукање во Америка, најмалку тројца мртви",
+          "link": "https://makfax.com.mk/svet/%d0%bc%d0%b0%d1%81%d0%be%d0%b2%d0%bd%d0%be-%d0%bf%d1%83%d0%ba%d0%b0%d1%9a%d0%b5-%d0%b2%d0%be-%d0%b0%d0%bc%d0%b5%d1%80%d0%b8%d0%ba%d0%b0-%d0%bd%d0%b0%d1%98%d0%bc%d0%b0%d0%bb%d0%ba%d1%83-%d1%82%d1%80/",
+          "published": "Sun, 01 Mar 2026 14:01:31 +0000"
         },
         {
           "source": "Makfax",
@@ -23,22 +41,16 @@
           "published": "Sun, 01 Mar 2026 13:33:10 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Пуштена во употреба реконструираната обиколница во Крива Паланка",
-          "link": "https://makfax.com.mk/makedonija/%d0%bf%d1%83%d1%88%d1%82%d0%b5%d0%bd%d0%b0-%d0%b2%d0%be-%d1%83%d0%bf%d0%be%d1%82%d1%80%d0%b5%d0%b1%d0%b0-%d1%80%d0%b5%d0%ba%d0%be%d0%bd%d1%81%d1%82%d1%80%d1%83%d0%b8%d1%80%d0%b0%d0%bd%d0%b0%d1%82-3/",
-          "published": "Sun, 01 Mar 2026 13:20:56 +0000"
+          "source": "NetPress",
+          "title": "Малолетен мотоциклист тешко повреден во судир со камион во Битола",
+          "link": "https://netpress.com.mk/maloleten-motocziklist-teshko-povreden-vo-sudir-so-kamion-vo-bitola/",
+          "published": "Sun, 01 Mar 2026 14:31:19 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "(Видео) Напад врз израелски град близу Ерусалим, има повредени",
-          "link": "https://makfax.com.mk/svet/%d0%b2%d0%b8%d0%b4%d0%b5%d0%be-%d0%bd%d0%b0%d0%bf%d0%b0%d0%b4-%d0%b2%d1%80%d0%b7-%d0%b8%d0%b7%d1%80%d0%b0%d0%b5%d0%bb%d1%81%d0%ba%d0%b8-%d0%b3%d1%80%d0%b0%d0%b4-%d0%b1%d0%bb%d0%b8%d0%b7%d1%83-%d0%b5/",
-          "published": "Sun, 01 Mar 2026 13:12:52 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "(Видео) Израел погодил два ирански борбени авиони",
-          "link": "https://makfax.com.mk/svet/%d0%b2%d0%b8%d0%b4%d0%b5%d0%be-%d0%b8%d0%b7%d1%80%d0%b0%d0%b5%d0%bb-%d0%bf%d0%be%d0%b3%d0%be%d0%b4%d0%b8%d0%bb-%d0%b4%d0%b2%d0%b0-%d0%b8%d1%80%d0%b0%d0%bd%d1%81%d0%ba%d0%b8-%d0%b1%d0%be%d1%80%d0%b1/",
-          "published": "Sun, 01 Mar 2026 13:04:16 +0000"
+          "source": "NetPress",
+          "title": "Сообраќајка на автопатот Скопје – Штип со една тешко повредена",
+          "link": "https://netpress.com.mk/soobrakajka-na-avtopatot-skopje-shtip-so-edna-teshko-povredena/",
+          "published": "Sun, 01 Mar 2026 14:27:16 +0000"
         },
         {
           "source": "NetPress",
@@ -57,18 +69,6 @@
           "title": "Велешката полиција фатила крадец",
           "link": "https://netpress.com.mk/veleshkata-policzija-fatila-kradecz/",
           "published": "Sun, 01 Mar 2026 13:40:07 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Мотоциклист тешко повреден откако удрил во куче-скитник",
-          "link": "https://netpress.com.mk/motocziklist-teshko-povreden-otkako-udril-vo-kuche-skitnik/",
-          "published": "Sun, 01 Mar 2026 13:30:37 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Франција задоволна од смртта на Хамнеи, но резервирана во врска со легалноста на нападот",
-          "link": "https://netpress.com.mk/franczija-zadovolna-od-smrtta-na-hamnei-no-rezervirana-vo-vrska-so-legalnosta-na-napadot/",
-          "published": "Sun, 01 Mar 2026 13:17:11 +0000"
         }
       ]
     },
@@ -107,33 +107,33 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Who was Iran’s supreme leader, Ayatollah Ali Khamenei?",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/1/who-was-irans-supreme-leader-ayatollah-ali-khamenei?traffic_source=rss",
+          "published": "Sun, 01 Mar 2026 13:50:15 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "At least nine killed after Iranian strike on Israel’s Beit Shemesh",
+          "link": "https://www.aljazeera.com/news/2026/3/1/at-least-nine-killed-after-iranian-strike-on-israels-beit-shemesh?traffic_source=rss",
+          "published": "Sun, 01 Mar 2026 13:45:48 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Has Trump misunderstood Iran’s IRGC and the Basij forces?",
+          "link": "https://www.aljazeera.com/features/2026/3/1/has-trump-misunderstood-irans-irgc-and-the-basij-forces?traffic_source=rss",
+          "published": "Sun, 01 Mar 2026 13:43:44 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "LIVE: Arsenal vs Chelsea – Premier League",
           "link": "https://www.aljazeera.com/sports/liveblog/2026/3/1/live-arsenal-vs-chelsea-premier-league?traffic_source=rss",
           "published": "Sun, 01 Mar 2026 13:40:49 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "T20 World Cup: South Africa beat Zimbabwe; set up New Zealand semifinal",
+          "title": "T20 World Cup: South Africa beat Zimbabwe, set up New Zealand semifinal",
           "link": "https://www.aljazeera.com/sports/2026/3/1/t20-world-cup-south-africa-beat-zimbabwe-set-up-new-zealand-semifinal?traffic_source=rss",
           "published": "Sun, 01 Mar 2026 13:34:28 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Smoke rises above Qatar capital Doha after Iranian missiles shot down",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/1/smoke-rises-above-qatar-capital-doha-after-iranian-missiles-shot-down?traffic_source=rss",
-          "published": "Sun, 01 Mar 2026 13:03:36 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "World reacts to killing of Iran’s Khamenei by US, Israel forces",
-          "link": "https://www.aljazeera.com/news/2026/3/1/world-reacts-to-killing-of-irans-khamenei-by-us-israel-forces?traffic_source=rss",
-          "published": "Sun, 01 Mar 2026 13:01:13 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Who could succeed Ayatollah Ali Khamenei to lead Iran?",
-          "link": "https://www.aljazeera.com/news/2026/3/1/who-could-succeed-ayatollah-ali-khamenei-to-lead-iran?traffic_source=rss",
-          "published": "Sun, 01 Mar 2026 12:11:24 +0000"
         }
       ]
     }
