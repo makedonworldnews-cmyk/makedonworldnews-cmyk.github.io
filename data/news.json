@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-01T15:47:58Z",
+  "updatedAt": "2026-03-01T16:00:37Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "ВМРО-ДПМНЕ до Филипче: Ако Македонија е како Иран, дали Заев е ајатолахот?",
+          "link": "https://makfax.com.mk/makedonija/%d0%b2%d0%bc%d1%80%d0%be-%d0%b4%d0%bf%d0%bc%d0%bd%d0%b5-%d0%b4%d0%be-%d1%84%d0%b8%d0%bb%d0%b8%d0%bf%d1%87%d0%b5-%d0%b0%d0%ba%d0%be-%d0%bc%d0%b0%d0%ba%d0%b5%d0%b4%d0%be%d0%bd%d0%b8%d1%98%d0%b0-%d0%b5/",
+          "published": "Sun, 01 Mar 2026 15:50:26 +0000"
         },
         {
           "source": "Makfax",
@@ -33,12 +39,6 @@
           "title": "Масовно пукање во Америка, најмалку тројца мртви",
           "link": "https://makfax.com.mk/svet/%d0%bc%d0%b0%d1%81%d0%be%d0%b2%d0%bd%d0%be-%d0%bf%d1%83%d0%ba%d0%b0%d1%9a%d0%b5-%d0%b2%d0%be-%d0%b0%d0%bc%d0%b5%d1%80%d0%b8%d0%ba%d0%b0-%d0%bd%d0%b0%d1%98%d0%bc%d0%b0%d0%bb%d0%ba%d1%83-%d1%82%d1%80/",
           "published": "Sun, 01 Mar 2026 14:01:31 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Кина остро го осуди убиството на Хамнеи, повика на прекин на воените дејствија",
-          "link": "https://makfax.com.mk/svet/%d0%ba%d0%b8%d0%bd%d0%b0-%d0%be%d1%81%d1%82%d1%80%d0%be-%d0%b3%d0%be-%d0%be%d1%81%d1%83%d0%b4%d0%b8-%d1%83%d0%b1%d0%b8%d1%81%d1%82%d0%b2%d0%be%d1%82%d0%be-%d0%bd%d0%b0-%d1%85%d0%b0%d0%bc%d0%bd%d0%b5/",
-          "published": "Sun, 01 Mar 2026 13:40:46 +0000"
         },
         {
           "source": "NetPress",
@@ -107,6 +107,24 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Who are the council members temporarily in charge of Iran?",
+          "link": "https://www.aljazeera.com/news/2026/3/1/who-are-the-council-members-temporarily-in-charge-of-iran?traffic_source=rss",
+          "published": "Sun, 01 Mar 2026 15:47:10 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "At least three US service members killed during Iran operation: CENTCOM",
+          "link": "https://www.aljazeera.com/news/2026/3/1/at-least-three-us-service-members-killed-during-iran-operation-centcom?traffic_source=rss",
+          "published": "Sun, 01 Mar 2026 15:37:01 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Iranian missile strike on Israel’s Beit Shemesh kills nine people",
+          "link": "https://www.aljazeera.com/gallery/2026/3/1/iranian-missile-strike-on-israels-beit-shemesh-kills-nine-people?traffic_source=rss",
+          "published": "Sun, 01 Mar 2026 15:36:55 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Who are Iran’s senior figures killed in US-Israeli attacks?",
           "link": "https://www.aljazeera.com/news/2026/3/1/who-are-irans-senior-figures-killed-in-us-israeli-attacks?traffic_source=rss",
           "published": "Sun, 01 Mar 2026 15:20:30 +0000"
@@ -116,24 +134,6 @@
           "title": "US-Israel attacks on Iran: Death toll and injuries live tracker",
           "link": "https://www.aljazeera.com/news/2026/3/1/us-israel-attacks-on-iran-death-toll-and-injuries-live-tracker?traffic_source=rss",
           "published": "Sun, 01 Mar 2026 14:32:24 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Iranian attack on Beit Shemesh kills several in Israel",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/1/iranian-attack-on-beit-shemesh-kills-several-in-israel?traffic_source=rss",
-          "published": "Sun, 01 Mar 2026 14:29:45 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "How did air traffic change in the last 48 hours?",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/1/how-did-air-traffic-change-in-the-last-48-hours?traffic_source=rss",
-          "published": "Sun, 01 Mar 2026 14:25:18 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Who was Iran’s supreme leader, Ayatollah Ali Khamenei?",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/1/who-was-irans-supreme-leader-ayatollah-ali-khamenei?traffic_source=rss",
-          "published": "Sun, 01 Mar 2026 13:50:15 +0000"
         }
       ]
     }
