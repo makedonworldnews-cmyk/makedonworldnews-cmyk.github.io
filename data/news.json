@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-02T21:19:05Z",
+  "updatedAt": "2026-03-02T21:53:25Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Се вршат разговори и се прибираат докази по трагедијата во Карпош, соопшти Обвинителството",
+          "link": "https://makfax.com.mk/makedonija/%d1%81%d0%b5-%d0%b2%d1%80%d1%88%d0%b0%d1%82-%d1%80%d0%b0%d0%b7%d0%b3%d0%be%d0%b2%d0%be%d1%80%d0%b8-%d0%b8-%d1%81%d0%b5-%d0%bf%d1%80%d0%b8%d0%b1%d0%b8%d1%80%d0%b0%d0%b0%d1%82-%d0%b4%d0%be%d0%ba%d0%b0/",
+          "published": "Mon, 02 Mar 2026 21:20:18 +0000"
         },
         {
           "source": "Makfax",
@@ -35,10 +41,22 @@
           "published": "Mon, 02 Mar 2026 19:28:06 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Дачиќ симнат од респиратор",
-          "link": "https://makfax.com.mk/svet/region/%d0%b4%d0%b0%d1%87%d0%b8%d1%9c-%d1%81%d0%b8%d0%bc%d0%bd%d0%b0%d1%82-%d0%be%d0%b4-%d1%80%d0%b5%d1%81%d0%bf%d0%b8%d1%80%d0%b0%d1%82%d0%be%d1%80/",
-          "published": "Mon, 02 Mar 2026 19:08:56 +0000"
+          "source": "NetPress",
+          "title": "Македонски репрезентативец успешно евакуиран од Иран",
+          "link": "https://netpress.com.mk/makedonski-reprezentativecz-uspeshno-evakuiran-od-iran/",
+          "published": "Mon, 02 Mar 2026 21:50:31 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "ВИДЕО| Шакира одржа бесплатен концерт во Мексико, привлече 400.000 луѓе",
+          "link": "https://netpress.com.mk/video-shakira-odrzha-besplaten-konczert-vo-meksiko-privleche-400-000-luge/",
+          "published": "Mon, 02 Mar 2026 21:35:50 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Николоски: Aвтопатот Гостивар – Букојчани се гради по најсовремени светски практики",
+          "link": "https://netpress.com.mk/nikoloski-avtopatot-gostivar-bukojchani-se-gradi-po-najsovremeni-svetski-praktiki/",
+          "published": "Mon, 02 Mar 2026 21:24:47 +0000"
         },
         {
           "source": "NetPress",
@@ -51,24 +69,6 @@
           "title": "Трамп: Ја искористивме „последната најдобра шанса“ да го нападнеме Иран",
           "link": "https://netpress.com.mk/tramp-ja-iskoristivme-poslednata-najdobra-shansa-da-go-napadneme-iran/",
           "published": "Mon, 02 Mar 2026 20:31:34 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Неизвесен настапот на Иран на Светското првенство, ФИФА ја следи ситуацијата",
-          "link": "https://netpress.com.mk/neizvesen-nastapot-na-iran-na-svetskoto-prvenstvo-fifa-ja-sledi-situaczijata/",
-          "published": "Mon, 02 Mar 2026 19:58:32 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Руте: Акцијата против Иран е во интерес на Европа",
-          "link": "https://netpress.com.mk/rute-akczijata-protiv-iran-e-vo-interes-na-evropa/",
-          "published": "Mon, 02 Mar 2026 19:35:25 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Тотенхем казнет за однесувањето на навивачи",
-          "link": "https://netpress.com.mk/totenhem-kaznet-za-odnesuvaneto-na-navivachi/",
-          "published": "Mon, 02 Mar 2026 19:10:49 +0000"
         }
       ]
     },
@@ -107,6 +107,18 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "What dangers does the Iran war pose for Israel?",
+          "link": "https://www.aljazeera.com/video/inside-story/2026/3/2/what-dangers-does-the-iran-war-pose-for-israel?traffic_source=rss",
+          "published": "Mon, 02 Mar 2026 21:38:51 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Rubio suggests US strikes on Iran were influenced by Israeli plans",
+          "link": "https://www.aljazeera.com/news/2026/3/2/rubio-suggests-timing-of-us-strikes-on-iran-was-influenced-by-israeli-plans?traffic_source=rss",
+          "published": "Mon, 02 Mar 2026 21:30:25 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Spain refuses to let US use bases for Iran attacks",
           "link": "https://www.aljazeera.com/news/2026/3/2/spain-refuses-to-let-us-use-bases-for-iran-attacks?traffic_source=rss",
           "published": "Mon, 02 Mar 2026 20:31:34 +0000"
@@ -122,18 +134,6 @@
           "title": "Anti-war candidates pose early test for US Democrats after attacks on Iran",
           "link": "https://www.aljazeera.com/news/2026/3/2/anti-war-candidates-pose-early-test-for-us-democrats-after-attacks-on-iran?traffic_source=rss",
           "published": "Mon, 02 Mar 2026 20:02:03 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Netanyahu: Iran would ‘threaten all of humanity’ with nuclear weapon",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/2/netanyahu-iran-would-threaten-all-of-humanity-with-nuclear-weapon?traffic_source=rss",
-          "published": "Mon, 02 Mar 2026 19:35:54 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "US and Israeli interests may soon diverge on Iran",
-          "link": "https://www.aljazeera.com/opinions/2026/3/2/us-and-israeli-interests-may-soon-diverge-on-iran?traffic_source=rss",
-          "published": "Mon, 02 Mar 2026 19:10:57 +0000"
         }
       ]
     }
