@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-02T19:57:05Z",
+  "updatedAt": "2026-03-02T20:43:06Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "„Денес потфрли целиот наш систем“: се огласи братот на жената која заедно со ќерката паднаа од зграда во Карпош",
+          "link": "https://makfax.com.mk/makedonija/%d0%b4%d0%b5%d0%bd%d0%b5%d1%81-%d0%bf%d0%be%d1%82%d1%84%d1%80%d0%bb%d0%b8-%d1%86%d0%b5%d0%bb%d0%b8%d0%be%d1%82-%d0%bd%d0%b0%d1%88-%d1%81%d0%b8%d1%81%d1%82%d0%b5%d0%bc-%d1%81%d0%b5/",
+          "published": "Mon, 02 Mar 2026 20:23:02 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Иранската револуционерна гарда: „Непријателот нема да биде безбеден никаде во светот, дури ниту во своите домови“",
+          "link": "https://makfax.com.mk/svet/%d0%b8%d1%80%d0%b0%d0%bd%d1%81%d0%ba%d0%b0%d1%82%d0%b0-%d1%80%d0%b5%d0%b2%d0%be%d0%bb%d1%83%d1%86%d0%b8%d0%be%d0%bd%d0%b5%d1%80%d0%bd%d0%b0-%d0%b3%d0%b0%d1%80%d0%b4%d0%b0-%d0%bd%d0%b5%d0%bf/",
+          "published": "Mon, 02 Mar 2026 19:57:14 +0000"
         },
         {
           "source": "Makfax",
@@ -29,16 +41,16 @@
           "published": "Mon, 02 Mar 2026 19:02:42 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Почина и сопругата на иранскиот ајатолах: им подлегна на повредите",
-          "link": "https://makfax.com.mk/svet/%d0%bf%d0%be%d1%87%d0%b8%d0%bd%d0%b0-%d0%b8-%d1%81%d0%be%d0%bf%d1%80%d1%83%d0%b3%d0%b0%d1%82%d0%b0-%d0%bd%d0%b0-%d0%b8%d1%80%d0%b0%d0%bd%d1%81%d0%ba%d0%b8%d0%be%d1%82-%d0%b0%d1%98%d0%b0%d1%82%d0%be/",
-          "published": "Mon, 02 Mar 2026 18:39:30 +0000"
+          "source": "NetPress",
+          "title": "Трамп: Ја искористивме „последната најдобра шанса“ да го нападнеме Иран",
+          "link": "https://netpress.com.mk/tramp-ja-iskoristivme-poslednata-najdobra-shansa-da-go-napadneme-iran/",
+          "published": "Mon, 02 Mar 2026 20:31:34 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Поради утрешната посета на Руте посебен режим на сообраќај во Скопје",
-          "link": "https://makfax.com.mk/makedonija/%d0%bf%d0%be%d1%80%d0%b0%d0%b4%d0%b8-%d1%83%d1%82%d1%80%d0%b5%d1%88%d0%bd%d0%b0%d1%82%d0%b0-%d0%bf%d0%be%d1%81%d0%b5%d1%82%d0%b0-%d0%bd%d0%b0-%d1%80%d1%83%d1%82%d0%b5-%d0%bf%d0%be%d1%81%d0%b5%d0%b1/",
-          "published": "Mon, 02 Mar 2026 18:15:12 +0000"
+          "source": "NetPress",
+          "title": "Неизвесен настапот на Иран на Светското првенство, ФИФА ја следи ситуацијата",
+          "link": "https://netpress.com.mk/neizvesen-nastapot-na-iran-na-svetskoto-prvenstvo-fifa-ja-sledi-situaczijata/",
+          "published": "Mon, 02 Mar 2026 19:58:32 +0000"
         },
         {
           "source": "NetPress",
@@ -57,18 +69,6 @@
           "title": "Нападите врз Иран се јасно кршење на меѓународното право, осуди Ердоган",
           "link": "https://netpress.com.mk/napadite-vrz-iran-se-jasno-krshene-na-megunarodnoto-pravo-osudi-erdogan/",
           "published": "Mon, 02 Mar 2026 18:59:47 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Кумановец дилал марихуана на улица",
-          "link": "https://netpress.com.mk/kumanovecz-dilal-marihuana-na-ulicza/",
-          "published": "Mon, 02 Mar 2026 18:44:21 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Цените на дизелот на највисоко ниво во последните две години",
-          "link": "https://netpress.com.mk/czenite-na-dizelot-na-najvisoko-nivo-vo-poslednite-dve-godini/",
-          "published": "Mon, 02 Mar 2026 18:34:46 +0000"
         }
       ]
     },
@@ -97,13 +97,31 @@
           "source": "BBC",
           "title": "India and Canada reset ties with 'landmark' nuclear energy deal",
           "link": "https://www.bbc.com/news/articles/cx24gl7jrgno?at_medium=RSS&at_campaign=rss",
-          "published": "Mon, 02 Mar 2026 16:07:19 GMT"
+          "published": "Mon, 02 Mar 2026 20:18:12 GMT"
         },
         {
           "source": "BBC",
           "title": "At least 169 people killed in South Sudan 'surprise' attack",
           "link": "https://www.bbc.com/news/articles/c0mgkvy4wr8o?at_medium=RSS&at_campaign=rss",
           "published": "Mon, 02 Mar 2026 16:11:52 GMT"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Spain refuses to let US use bases for Iran attacks",
+          "link": "https://www.aljazeera.com/news/2026/3/2/spain-refuses-to-let-us-use-bases-for-iran-attacks?traffic_source=rss",
+          "published": "Mon, 02 Mar 2026 20:31:34 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "US-Israeli strikes hit housing, hospitals, and more in Tehran",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/2/us-israeli-strikes-hit-housing-hospitals-and-more-in-tehran?traffic_source=rss",
+          "published": "Mon, 02 Mar 2026 20:22:34 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Anti-war candidates pose early test for US Democrats after attacks on Iran",
+          "link": "https://www.aljazeera.com/news/2026/3/2/anti-war-candidates-pose-early-test-for-us-democrats-after-attacks-on-iran?traffic_source=rss",
+          "published": "Mon, 02 Mar 2026 20:02:03 +0000"
         },
         {
           "source": "Al Jazeera",
@@ -116,24 +134,6 @@
           "title": "US and Israeli interests may soon diverge on Iran",
           "link": "https://www.aljazeera.com/opinions/2026/3/2/us-and-israeli-interests-may-soon-diverge-on-iran?traffic_source=rss",
           "published": "Mon, 02 Mar 2026 19:10:57 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Trump says Iran war projected to last 4 to 5 weeks, could go ‘far longer’",
-          "link": "https://www.aljazeera.com/news/2026/3/2/trump-says-iran-war-projected-to-last-4-to-5-weeks-could-go-far-longer?traffic_source=rss",
-          "published": "Mon, 02 Mar 2026 19:06:51 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Why QatarEnergy’s LNG production halt could shake up global gas markets",
-          "link": "https://www.aljazeera.com/economy/2026/3/2/why-qatarenergys-lng-production-halt-could-shake-up-global-gas-markets?traffic_source=rss",
-          "published": "Mon, 02 Mar 2026 18:39:11 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Trump: this was the best chance to strike Iran’s ‘sick and sinister regime’",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/2/trump-this-was-the-best-chance-to-strike-irans-sick-and-sinister?traffic_source=rss",
-          "published": "Mon, 02 Mar 2026 18:11:17 +0000"
         }
       ]
     }
