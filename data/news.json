@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-01T23:47:02Z",
+  "updatedAt": "2026-03-02T00:00:11Z",
   "groups": [
     {
       "region": "Македонија",
@@ -107,6 +107,12 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Gunman kills two in Texas bar shooting, FBI probing ‘terrorism’ link",
+          "link": "https://www.aljazeera.com/news/2026/3/1/gunman-kills-two-in-texas-nightlife-shooting-fbi-probing-terrorism-link?traffic_source=rss",
+          "published": "Sun, 01 Mar 2026 23:29:44 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "How robust is the Iranian state system?",
           "link": "https://www.aljazeera.com/video/inside-story/2026/3/1/how-robust-is-the-iranian-state-system?traffic_source=rss",
           "published": "Sun, 01 Mar 2026 23:10:40 +0000"
@@ -128,12 +134,6 @@
           "title": "Trump vows to continue attacks on Iran, says more US troops ‘likely’ to die",
           "link": "https://www.aljazeera.com/news/2026/3/1/trump-vows-to-continue-attacks-on-iran-says-more-us-troops-likely-to-die?traffic_source=rss",
           "published": "Sun, 01 Mar 2026 22:51:32 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Huge fire at Bahrain port home to US Navy’s Fifth Fleet",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/1/huge-fire-at-bahrain-port-home-to-us-navys-fifth-fleet?traffic_source=rss",
-          "published": "Sun, 01 Mar 2026 21:40:19 +0000"
         }
       ]
     }
