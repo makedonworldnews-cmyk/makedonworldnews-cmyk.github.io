@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-02T09:00:06Z",
+  "updatedAt": "2026-03-02T10:01:59Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,24 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Трамп е невообичаено тивок по нападот врз Иран",
+          "link": "https://makfax.com.mk/svet/%d1%82%d1%80%d0%b0%d0%bc%d0%bf-%d0%b5-%d0%bd%d0%b5%d0%b2%d0%be%d0%be%d0%b1%d0%b8%d1%87%d0%b0%d0%b5%d0%bd%d0%be-%d1%82%d0%b8%d0%b2%d0%be%d0%ba-%d0%bf%d0%be-%d0%bd%d0%b0%d0%bf%d0%b0%d0%b4%d0%be%d1%82/",
+          "published": "Mon, 02 Mar 2026 09:56:52 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Меланија Трамп денес ќе претседава со состанокот на Советот за безбедност на ОН",
+          "link": "https://makfax.com.mk/svet/%d0%bc%d0%b5%d0%bb%d0%b0%d0%bd%d0%b8%d1%98%d0%b0-%d1%82%d1%80%d0%b0%d0%bc%d0%bf-%d0%b4%d0%b5%d0%bd%d0%b5%d1%81-%d1%9c%d0%b5-%d0%bf%d1%80%d0%b5%d1%82%d1%81%d0%b5%d0%b4%d0%b0%d0%b2%d0%b0-%d1%81%d0%be/",
+          "published": "Mon, 02 Mar 2026 09:23:59 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) Чад се издига над амбасадата на САД во Кувајт",
+          "link": "https://makfax.com.mk/svet/%d1%87%d0%b0%d0%b4-%d1%81%d0%b5-%d0%b8%d0%b7%d0%b4%d0%b8%d0%b3%d0%b0-%d0%bd%d0%b0%d0%b4-%d0%b0%d0%bc%d0%b1%d0%b0%d1%81%d0%b0%d0%b4%d0%b0%d1%82%d0%b0-%d0%bd%d0%b0-%d1%81%d0%b0%d0%b4-%d0%b2%d0%be-%d0%ba/",
+          "published": "Mon, 02 Mar 2026 09:02:55 +0000"
         },
         {
           "source": "Makfax",
@@ -23,52 +41,34 @@
           "published": "Mon, 02 Mar 2026 08:29:33 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Mарт – месец за подигнување на свеста за симптомите од ендометриоза",
-          "link": "https://makfax.com.mk/makedonija/m%d0%b0%d1%80%d1%82-%d0%bc%d0%b5%d1%81%d0%b5%d1%86-%d0%b7%d0%b0-%d0%bf%d0%be%d0%b4%d0%b8%d0%b3%d0%bd%d1%83%d0%b2%d0%b0%d1%9a%d0%b5-%d0%bd%d0%b0-%d1%81%d0%b2%d0%b5%d1%81%d1%82%d0%b0-%d0%b7/",
-          "published": "Mon, 02 Mar 2026 08:10:46 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Израелскиот „Ер Форс Уан“ кружеше над Медитеранот со часови: преместен е на безбедно место",
-          "link": "https://makfax.com.mk/svet/%d0%b8%d0%b7%d1%80%d0%b0%d0%b5%d0%bb%d1%81%d0%ba%d0%b8%d0%be%d1%82-%d0%b5%d1%80-%d1%84%d0%be%d1%80%d1%81-%d1%83%d0%b0%d0%bd-%d0%ba%d1%80%d1%83%d0%b6%d0%b5%d1%88%d0%b5-%d0%bd%d0%b0/",
-          "published": "Mon, 02 Mar 2026 08:08:29 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Почна спроведувањето на Законот за работно ангажирање на лица: нов чекор кон фер услови за работа и формализација на сезонскиот труд",
-          "link": "https://makfax.com.mk/makedonija/%d0%b7%d0%b0%d0%bf%d0%be%d1%87%d0%bd%d0%b0-%d1%81%d0%bf%d1%80%d0%be%d0%b2%d0%b5%d0%b4%d1%83%d0%b2%d0%b0%d1%9a%d0%b5%d1%82%d0%be-%d0%bd%d0%b0-%d0%b7%d0%b0%d0%ba%d0%be%d0%bd%d0%be%d1%82-%d0%b7%d0%b0/",
-          "published": "Mon, 02 Mar 2026 08:00:51 +0000"
+          "source": "NetPress",
+          "title": "Трамп се притаи по нападот во Иран",
+          "link": "https://netpress.com.mk/tramp-se-pritai-po-napadot-vo-iran/",
+          "published": "Mon, 02 Mar 2026 10:00:55 +0000"
         },
         {
           "source": "NetPress",
-          "title": "ВИДЕО I Американски борбени авиони се урнаа во Кувајт",
-          "link": "https://netpress.com.mk/video-i-amerikanski-borbeni-avioni-se-urnaa-vo-kuvajt/",
-          "published": "Mon, 02 Mar 2026 08:58:01 +0000"
+          "title": "Хаосот во Иран по смртта на Хамнеи би бил од корист за Израел",
+          "link": "https://netpress.com.mk/haosot-vo-iran-po-smrtta-na-hamnei-bi-bil-od-korist-za-izrael/",
+          "published": "Mon, 02 Mar 2026 09:49:59 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Убиен лидерот на парламентарното крило на Хезболах, Мохамед Раад",
-          "link": "https://netpress.com.mk/ubien-liderot-na-parlamentarnoto-krilo-na-hezbolah-mohamed-raad/",
-          "published": "Mon, 02 Mar 2026 08:52:51 +0000"
+          "title": "Лариџани: Трамп го турна Блискиот Исток во хаос со своите фантазии и заблуди",
+          "link": "https://netpress.com.mk/laridhani-tramp-go-turna-bliskiot-istok-vo-haos-so-svoite-fantazii-i-zabludi/",
+          "published": "Mon, 02 Mar 2026 09:47:16 +0000"
         },
         {
           "source": "NetPress",
-          "title": "ВИДЕО I Иранците објавија што „кријат“ во тунелите",
-          "link": "https://netpress.com.mk/video-i-iranczite-objavija-shto-krijat-vo-tunelite/",
-          "published": "Mon, 02 Mar 2026 08:50:10 +0000"
+          "title": "Орбан: Денес ќе ги презентираме доказите за состојбата на „Дружба“, ќе ја прекинеме блокадата на Зеленски",
+          "link": "https://netpress.com.mk/orban-denes-ke-gi-prezentirame-dokazite-za-sostojbata-na-druzhba-ke-ja-prekineme-blokadata-na-zelenski/",
+          "published": "Mon, 02 Mar 2026 09:45:06 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Денес ќе се одржи седница на Економско-социјален совет",
-          "link": "https://netpress.com.mk/denes-ke-se-odrzhi-sednicza-na-ekonomsko-soczijalen-sovet/",
-          "published": "Mon, 02 Mar 2026 08:28:26 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "СДС сервилна талка без цел, ниту за партијата, ниту за државата, во СДС постои само страв и нервоза од Груби",
-          "link": "https://netpress.com.mk/sds-servilna-talka-bez-czel-nitu-za-partijata-nitu-za-drzhavata-vo-sds-postoi-samo-strav-i-nervoza-od-grubi/",
-          "published": "Mon, 02 Mar 2026 08:25:11 +0000"
+          "title": "Пентагон пред Конгресот: Немаше знаци дека Иран планира прв да ги нападне САД",
+          "link": "https://netpress.com.mk/pentagon-pred-kongresot-nemashe-znaczi-deka-iran-planira-prv-da-gi-napadne-sad/",
+          "published": "Mon, 02 Mar 2026 09:19:35 +0000"
         }
       ]
     },
@@ -83,9 +83,9 @@
         },
         {
           "source": "BBC",
-          "title": "Oil prices jump after attack on Iran threatens crucial Strait of Hormuz",
+          "title": "Oil prices jump and shares fall as conflict escalates",
           "link": "https://www.bbc.com/news/articles/c75evve6l63o?at_medium=RSS&at_campaign=rss",
-          "published": "Mon, 02 Mar 2026 08:48:18 GMT"
+          "published": "Mon, 02 Mar 2026 09:56:32 GMT"
         },
         {
           "source": "BBC",
@@ -107,33 +107,33 @@
         },
         {
           "source": "Al Jazeera",
-          "title": "What we know on day three of US-Israeli attacks on Iran",
-          "link": "https://www.aljazeera.com/news/2026/3/2/what-we-know-on-day-three-of-us-israeli-attacks-on-iran?traffic_source=rss",
-          "published": "Mon, 02 Mar 2026 08:31:25 +0000"
+          "title": "Oil prices rise sharply after US, Israeli attacks on Iran",
+          "link": "https://www.aljazeera.com/news/2026/3/2/oil-prices-rise-sharply-after-us-israeli-attacks-on-iran?traffic_source=rss",
+          "published": "Mon, 02 Mar 2026 09:27:13 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "British military base in Cyprus targeted in suspected drone attack",
-          "link": "https://www.aljazeera.com/news/2026/3/2/british-military-base-in-cyprus-targeted-in-suspected-drone-attack?traffic_source=rss",
-          "published": "Mon, 02 Mar 2026 08:13:09 +0000"
+          "title": "Which teams are in the T20 World Cup semifinals and what’s the schedule?",
+          "link": "https://www.aljazeera.com/sports/2026/3/2/which-teams-are-in-the-t20-world-cup-semifinals-and-whats-the-schedule?traffic_source=rss",
+          "published": "Mon, 02 Mar 2026 09:24:43 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Blasts shake Qatar, UAE, Kuwait as Iran’s retaliatory strikes continue",
-          "link": "https://www.aljazeera.com/news/2026/3/2/blasts-shake-qatar-uae-kuwait-as-irans-retaliatory-strikes-continue?traffic_source=rss",
-          "published": "Mon, 02 Mar 2026 07:16:41 +0000"
+          "title": "Video: US military jet crashes in Kuwait",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/2/video-us-military-jet-crashes-in-kuwait?traffic_source=rss",
+          "published": "Mon, 02 Mar 2026 09:20:27 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Iran’s Larijani refutes claims Tehran pushed to resume US talks",
-          "link": "https://www.aljazeera.com/news/2026/3/2/irans-larijani-refutes-claims-tehran-pushed-to-resume-us-talks?traffic_source=rss",
-          "published": "Mon, 02 Mar 2026 07:16:08 +0000"
+          "title": "‘Missile debris’ sparks fire at Saudi’s Aramco oil refinery",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/2/missile-debris-sparks-fire-at-saudis-aramco-oil-refinery?traffic_source=rss",
+          "published": "Mon, 02 Mar 2026 09:16:19 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Analysis: Khamenei’s killing leaves Iran’s ‘axis’ in disarray as war widens",
-          "link": "https://www.aljazeera.com/features/2026/3/2/hold-analysis-khameneis-killing-leaves-irans-axis-in-disarray?traffic_source=rss",
-          "published": "Mon, 02 Mar 2026 05:38:15 +0000"
+          "title": "‘Not again’: Gaza rushes to stockpile amid Iran war, crossing closures",
+          "link": "https://www.aljazeera.com/features/2026/3/2/not-again-gaza-rushes-to-stockpile-amid-iran-war-crossing-closures?traffic_source=rss",
+          "published": "Mon, 02 Mar 2026 09:03:00 +0000"
         }
       ]
     }
