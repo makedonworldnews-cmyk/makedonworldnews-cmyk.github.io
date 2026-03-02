@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-02T23:29:01Z",
+  "updatedAt": "2026-03-02T23:52:45Z",
   "groups": [
     {
       "region": "Македонија",
@@ -107,6 +107,18 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Iran says will attack any ship trying to pass through Strait of Hormuz",
+          "link": "https://www.aljazeera.com/news/2026/3/2/iran-says-will-attack-any-ship-trying-to-pass-through-strait-of-hormuz?traffic_source=rss",
+          "published": "Mon, 02 Mar 2026 23:09:22 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "New wave of heavy Israeli strikes hit Tehran",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/2/new-wave-of-heavy-israeli-strikes-hit-tehran?traffic_source=rss",
+          "published": "Mon, 02 Mar 2026 23:03:19 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "What dangers does the Iran war pose for Israel?",
           "link": "https://www.aljazeera.com/video/inside-story/2026/3/2/what-dangers-does-the-iran-war-pose-for-israel?traffic_source=rss",
           "published": "Mon, 02 Mar 2026 21:38:51 +0000"
@@ -122,18 +134,6 @@
           "title": "Spain refuses to let US use bases for Iran attacks",
           "link": "https://www.aljazeera.com/news/2026/3/2/spain-refuses-to-let-us-use-bases-for-iran-attacks?traffic_source=rss",
           "published": "Mon, 02 Mar 2026 20:31:34 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "US-Israeli strikes hit housing, hospitals, and more in Tehran",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/2/us-israeli-strikes-hit-housing-hospitals-and-more-in-tehran?traffic_source=rss",
-          "published": "Mon, 02 Mar 2026 20:22:34 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Anti-war candidates pose early test for US Democrats after attacks on Iran",
-          "link": "https://www.aljazeera.com/news/2026/3/2/anti-war-candidates-pose-early-test-for-us-democrats-after-attacks-on-iran?traffic_source=rss",
-          "published": "Mon, 02 Mar 2026 20:02:03 +0000"
         }
       ]
     }
