@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-03T09:55:14Z",
+  "updatedAt": "2026-03-03T10:40:23Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,24 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Погоден нуклеарeн објект во Иран, ИАЕА потврди оштетувања на влезните згради",
+          "link": "https://makfax.com.mk/svet/%d0%bf%d0%be%d0%b3%d0%be%d0%b4%d0%b5%d0%bd-%d0%bd%d1%83%d0%ba%d0%bb%d0%b5%d0%b0%d1%80e%d0%bd-%d0%be%d0%b1%d1%98%d0%b5%d0%ba%d1%82-%d0%b2%d0%be-%d0%b8%d1%80%d0%b0%d0%bd-%d0%b8%d0%b0%d0%b5%d0%b0-%d0%bf/",
+          "published": "Tue, 03 Mar 2026 10:30:28 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Апасиев: Семејното насилство да се казнува повеќе од обичното, итно е потребна радикална реформа на заостанатите Центри за социјална работа",
+          "link": "https://makfax.com.mk/makedonija/%d0%b0%d0%bf%d0%b0%d1%81%d0%b8%d0%b5%d0%b2-%d1%81%d0%b5%d0%bc%d0%b5%d1%98%d0%bd%d0%be%d1%82%d0%be-%d0%bd%d0%b0%d1%81%d0%b8%d0%bb%d1%81%d1%82%d0%b2%d0%be-%d0%b4%d0%b0-%d1%81%d0%b5-%d0%ba%d0%b0%d0%b7/",
+          "published": "Tue, 03 Mar 2026 10:26:02 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Израел испрати дополнителни сили во јужен Либан, Шошани тврди: „Ова не е копнена офанзива“",
+          "link": "https://makfax.com.mk/svet/%d0%b8%d0%b7%d1%80%d0%b0%d0%b5%d0%bb-%d0%b8%d1%81%d0%bf%d1%80%d0%b0%d1%82%d0%b8-%d0%b4%d0%be%d0%bf%d0%be%d0%bb%d0%bd%d0%b8%d1%82%d0%b5%d0%bb%d0%bd%d0%b8-%d1%81%d0%b8%d0%bb%d0%b8-%d0%b2%d0%be-%d1%98/",
+          "published": "Tue, 03 Mar 2026 10:23:35 +0000"
         },
         {
           "source": "Makfax",
@@ -23,52 +41,34 @@
           "published": "Tue, 03 Mar 2026 09:43:18 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Кои цвеќиња можете да ги изнесете надвор, а за кои мора да почекате?",
-          "link": "https://makfax.com.mk/zanimlivosti/%d0%ba%d0%be%d0%b8-%d1%86%d0%b2%d0%b5%d1%9c%d0%b8%d1%9a%d0%b0-%d0%bc%d0%be%d0%b6%d0%b5%d1%82%d0%b5-%d0%b4%d0%b0-%d0%b3%d0%b8-%d0%b8%d0%b7%d0%bd%d0%b5%d1%81%d0%b5%d1%82%d0%b5-%d0%bd%d0%b0%d0%b4%d0%b2/",
-          "published": "Tue, 03 Mar 2026 09:31:52 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Општина Аеродром објави јавен повик за доделување признанија за особени достигнувања",
-          "link": "https://makfax.com.mk/makedonija/%d0%be%d0%bf%d1%88%d1%82%d0%b8%d0%bd%d0%b0-%d0%b0%d0%b5%d1%80%d0%be%d0%b4%d1%80%d0%be%d0%bc-%d0%be%d0%b1%d1%98%d0%b0%d0%b2%d0%b8-%d1%98%d0%b0%d0%b2%d0%b5%d0%bd-%d0%bf%d0%be%d0%b2%d0%b8%d0%ba-%d0%b7-6/",
-          "published": "Tue, 03 Mar 2026 09:31:36 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Сè уште не се препорачува евакуација по копнен пат за граѓаните кои се наоѓаат во Катар и Обединетите Арапски Емирати, велат од МНР",
-          "link": "https://makfax.com.mk/makedonija/%d1%81e-%d1%83%d1%88%d1%82%d0%b5-%d0%bd%d0%b5-%d1%81%d0%b5-%d0%bf%d1%80%d0%b5%d0%bf%d0%be%d1%80%d0%b0%d1%87%d1%83%d0%b2%d0%b0-%d0%b5%d0%b2%d0%b0%d0%ba%d1%83%d0%b0%d1%86%d0%b8%d1%98%d0%b0-%d0%bf%d0%be/",
-          "published": "Tue, 03 Mar 2026 09:30:35 +0000"
+          "source": "NetPress",
+          "title": "Речиси 800 убиени во израелско-американските напади врз Иран",
+          "link": "https://netpress.com.mk/rechisi-800-ubieni-vo-izraelsko-amerikanskite-napadi-vrz-iran/",
+          "published": "Tue, 03 Mar 2026 10:37:15 +0000"
         },
         {
           "source": "NetPress",
-          "title": "ОЈО: Станот запечатен, едно лице здржано во полиција, се вршат распити за смртта на мајката и детето",
-          "link": "https://netpress.com.mk/ojo-stanot-zapechaten-edno-licze-zdrzhano-vo-policzija-se-vrshat-raspiti-na-poveke-licza-za-smrtta-na-majkata-i-deteto/",
-          "published": "Tue, 03 Mar 2026 09:47:13 +0000"
+          "title": "Иран повторно лансира ракети кон Израел",
+          "link": "https://netpress.com.mk/iran-povtorno-lansira-raketi-kon-izrael/",
+          "published": "Tue, 03 Mar 2026 10:34:23 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Премиерата „Диџеј Ахмет“ во Брисел ја воодушеви европската публика",
-          "link": "https://netpress.com.mk/premierata-didhej-ahmet-vo-brisel-ja-voodushevi-evropskata-publika/",
-          "published": "Tue, 03 Mar 2026 09:42:04 +0000"
+          "title": "Заливските земји имаат муниција за уште четири дена, бараат итна помош од Трамп",
+          "link": "https://netpress.com.mk/zaliviskite-zemji-imaat-municzija-za-ushte-chetiri-dena-baraat-od-tramp/",
+          "published": "Tue, 03 Mar 2026 10:22:02 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Народната банка објавува повик за пријавување трудови за 57. сесија на Клубот на истражувачите",
-          "link": "https://netpress.com.mk/narodnata-banka-objavuva-povik-za-prijavuvane-trudovi-za-57-sesija-na-klubot-na-istrazhuvachite/",
-          "published": "Tue, 03 Mar 2026 09:04:09 +0000"
+          "title": "Досега 473 македонски државјани на Блиски Исток се јавиле",
+          "link": "https://netpress.com.mk/dosega-473-makedonski-drzhavjani-na-bliski-istok-se-javile/",
+          "published": "Tue, 03 Mar 2026 10:07:07 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Во најкраткиот месец однесени 11.000 тони ѓубре",
-          "link": "https://netpress.com.mk/vo-najkratkiot-mesecz-odneseni-11-000-toni-gubre/",
-          "published": "Tue, 03 Mar 2026 09:01:29 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Денес ќе се сретнат Трамп и Мерц во Вашингтон",
-          "link": "https://netpress.com.mk/denes-ke-se-sretnat-tramp-i-mercz-vo-vashington/",
-          "published": "Tue, 03 Mar 2026 08:34:39 +0000"
+          "title": "Мосад го искористил техеранското Сејф ситри за атентатот на Хамнеи",
+          "link": "https://netpress.com.mk/mosad-go-iskoristil-teheranskoto-sejf-sitri-za-atentatot-na-hamnei/",
+          "published": "Tue, 03 Mar 2026 09:56:10 +0000"
         }
       ]
     },
@@ -77,9 +77,9 @@
       "items": [
         {
           "source": "BBC",
-          "title": "Israel strikes Lebanon after Hezbollah rocket fire as Iran conflict widens",
-          "link": "https://www.bbc.com/news/articles/c5y4v8g13wxo?at_medium=RSS&at_campaign=rss",
-          "published": "Mon, 02 Mar 2026 18:53:27 GMT"
+          "title": "Six US soldiers killed in Iranian strike on Kuwait base",
+          "link": "https://www.bbc.com/news/articles/c4gq33ynl07o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 03 Mar 2026 09:57:59 GMT"
         },
         {
           "source": "BBC",
@@ -107,6 +107,24 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "The aftermath of ongoing Israeli and US strikes on Iran’s capital, Tehran",
+          "link": "https://www.aljazeera.com/gallery/2026/3/3/the-aftermath-of-ongoing-israeli-and-us-strikes-on-irans-capital-tehran?traffic_source=rss",
+          "published": "Tue, 03 Mar 2026 10:07:18 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Hillary Clinton walks out of Epstein deposition after photo leak",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/3/hillary-clinton-walks-out-of-epstein-deposition-after-photo-leak?traffic_source=rss",
+          "published": "Tue, 03 Mar 2026 09:53:12 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Could the US run low on weapons for its assault on Iran?",
+          "link": "https://www.aljazeera.com/news/2026/3/3/could-the-us-run-low-on-weapons-for-its-assault-on-iran?traffic_source=rss",
+          "published": "Tue, 03 Mar 2026 09:45:10 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Israeli strikes in Beirut as Hezbollah launches drones at Israel",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/3/3/israeli-strikes-in-beirut-as-hezbollah-launches-drones-at-israel?traffic_source=rss",
           "published": "Tue, 03 Mar 2026 09:03:27 +0000"
@@ -116,24 +134,6 @@
           "title": "Iran holds mass funeral for girls, staff killed in US-Israel school attack",
           "link": "https://www.aljazeera.com/news/2026/3/3/iran-holds-mass-funeral-for-girls-staff-killed-in-us-israel-school-attack?traffic_source=rss",
           "published": "Tue, 03 Mar 2026 08:54:48 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Video: Top Democrat says there was no imminent threat to the US from Iran",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/3/video-top-democrat-says-there-was-no-imminent-threat-to-the-us-from-iran?traffic_source=rss",
-          "published": "Tue, 03 Mar 2026 08:44:09 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "US Speaker says US had to attack Iran after Israel did",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/3/us-speaker-says-us-had-to-attack-iran-after-israel-did?traffic_source=rss",
-          "published": "Tue, 03 Mar 2026 08:21:48 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Is the US arming Mexican cartels?",
-          "link": "https://www.aljazeera.com/news/2026/3/3/is-the-us-arming-mexican-cartels?traffic_source=rss",
-          "published": "Tue, 03 Mar 2026 08:09:31 +0000"
         }
       ]
     }
