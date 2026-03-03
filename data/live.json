@@ -1,6 +1,27 @@
 {
-  "generated_at": "2026-03-03T23:01:41Z",
+  "generated_at": "2026-03-03T23:38:00Z",
   "items": [
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "(Видео) Вулверхемптон не се предава, го победи Ливерпул",
+      "link": "https://makfax.com.mk/sport/video-vulverhempton-ne-se-predava-go-pobedi-liverpul/",
+      "published": "Tue, 03 Mar 2026 22:39:53 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "Вардар 1961 избори место во осминафиналето во Лига Европа",
+      "link": "https://makfax.com.mk/sport/vardar-1961-izbori-mesto-vo-osminafinaleto-vo-liga-evropa/",
+      "published": "Tue, 03 Mar 2026 22:27:49 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "(Видео) Барселона победи, Атлетико оди во финалето",
+      "link": "https://makfax.com.mk/sport/video-barselona-pobedi-atletiko-odi-vo-finaleto/",
+      "published": "Tue, 03 Mar 2026 22:18:18 +0000"
+    },
     {
       "region": "Македонија",
       "source": "Makfax",
@@ -14,27 +35,6 @@
       "title": "Вучиќ лут на граѓаните: „Отидоа да се сончаат во Дубаи и не ме слушаа што зборував“",
       "link": "https://makfax.com.mk/svet/region/%d0%b2%d1%83%d1%87%d0%b8%d1%9c-%d0%bb%d1%83%d1%82-%d0%bd%d0%b0-%d0%b3%d1%80%d0%b0%d1%93%d0%b0%d0%bd%d0%b8%d1%82%d0%b5-%d0%be%d1%82%d0%b8%d0%b4%d0%be%d0%b0-%d0%b4%d0%b0-%d1%81%d0%b5-%d1%81/",
       "published": "Tue, 03 Mar 2026 20:31:36 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "Makfax",
-      "title": "Иран: Сè уште не сме го употребиле нашето најнапредно оружје",
-      "link": "https://makfax.com.mk/svet/%d0%b8%d1%80%d0%b0%d0%bd-%d1%81e-%d1%83%d1%88%d1%82%d0%b5-%d0%bd%d0%b5-%d1%81%d0%bc%d0%b5-%d0%b3%d0%be-%d1%83%d0%bf%d0%be%d1%82%d1%80%d0%b5%d0%b1%d0%b8%d0%bb%d0%b5-%d0%bd%d0%b0%d1%88%d0%b5%d1%82/",
-      "published": "Tue, 03 Mar 2026 20:26:24 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "Makfax",
-      "title": "(Видео) Погоден американскиот конзулат во Дубаи",
-      "link": "https://makfax.com.mk/svet/%d0%b2%d0%b8%d0%b4%d0%b5%d0%be-%d0%bf%d0%be%d0%b3%d0%be%d0%b4%d0%b5%d0%bd-%d0%b0%d0%bc%d0%b5%d1%80%d0%b8%d0%ba%d0%b0%d0%bd%d1%81%d0%ba%d0%b8%d0%be%d1%82-%d0%ba%d0%be%d0%bd%d0%b7%d1%83%d0%bb%d0%b0/",
-      "published": "Tue, 03 Mar 2026 20:20:30 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "Makfax",
-      "title": "Притвор од 48 часа за сопругот по смртта на неговите жена и ќерка во Карпош",
-      "link": "https://makfax.com.mk/makedonija/%d0%bf%d1%80%d0%b8%d1%82%d0%b2%d0%be%d1%80-%d0%be%d0%b4-48-%d1%87%d0%b0%d1%81%d0%b0-%d0%b7%d0%b0-%d1%81%d0%ba%d0%be%d0%bf%d1%98%d0%b0%d0%bd%d0%b5%d1%86%d0%be%d1%82-%d0%bf%d0%be-%d1%81%d0%bc%d1%80/",
-      "published": "Tue, 03 Mar 2026 19:40:44 +0000"
     },
     {
       "region": "Македонија",
@@ -104,7 +104,14 @@
       "source": "BBC",
       "title": "Six US soldiers killed in Iranian strike on Kuwait base",
       "link": "https://www.bbc.com/news/articles/c4gq33ynl07o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 03 Mar 2026 16:08:38 GMT"
+      "published": "Tue, 03 Mar 2026 23:30:49 GMT"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Unpacking US justification for Iran attacks",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/3/unpacking-us-justification-for-iran-attacks?traffic_source=rss",
+      "published": "Tue, 03 Mar 2026 23:18:06 +0000"
     },
     {
       "region": "Свет",
@@ -133,13 +140,6 @@
       "title": "Travellers stranded, airlines under pressure as Iran war escalates",
       "link": "https://www.aljazeera.com/economy/2026/3/3/travellers-stranded-airlines-under-pressure-as-iran-war-escalates?traffic_source=rss",
       "published": "Tue, 03 Mar 2026 21:59:34 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Rubio says Iran was ‘playing’ US in negotiations",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/3/rubio-says-iran-was-playing-us-in-negotiations?traffic_source=rss",
-      "published": "Tue, 03 Mar 2026 21:28:47 +0000"
     }
   ]
 }
