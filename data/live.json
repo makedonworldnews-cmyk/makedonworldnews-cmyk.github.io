@@ -1,6 +1,13 @@
 {
-  "generated_at": "2026-03-03T04:01:20Z",
+  "generated_at": "2026-03-03T05:17:28Z",
   "items": [
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "Сончево и релативно топло, максималната температура до 20 степени",
+      "link": "https://makfax.com.mk/makedonija/%d1%81%d0%be%d0%bd%d1%87%d0%b5%d0%b2%d0%be-%d0%b8-%d1%80%d0%b5%d0%bb%d0%b0%d1%82%d0%b8%d0%b2%d0%bd%d0%be-%d1%82%d0%be%d0%bf%d0%bb%d0%be-%d1%81%d0%be-%d0%bc%d0%b0%d0%bb%d0%b0-%d0%b4%d0%be-%d1%83-3/",
+      "published": "Tue, 03 Mar 2026 05:00:55 +0000"
+    },
     {
       "region": "Македонија",
       "source": "Makfax",
@@ -28,13 +35,6 @@
       "title": "„Денес потфрли целиот наш систем“: се огласи братот на жената која заедно со ќерката паднаа од зграда во Карпош",
       "link": "https://makfax.com.mk/makedonija/%d0%b4%d0%b5%d0%bd%d0%b5%d1%81-%d0%bf%d0%be%d1%82%d1%84%d1%80%d0%bb%d0%b8-%d1%86%d0%b5%d0%bb%d0%b8%d0%be%d1%82-%d0%bd%d0%b0%d1%88-%d1%81%d0%b8%d1%81%d1%82%d0%b5%d0%bc-%d1%81%d0%b5/",
       "published": "Mon, 02 Mar 2026 20:23:02 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "Makfax",
-      "title": "Иранската револуционерна гарда: „Непријателот нема да биде безбеден никаде во светот, дури ниту во своите домови“",
-      "link": "https://makfax.com.mk/svet/%d0%b8%d1%80%d0%b0%d0%bd%d1%81%d0%ba%d0%b0%d1%82%d0%b0-%d1%80%d0%b5%d0%b2%d0%be%d0%bb%d1%83%d1%86%d0%b8%d0%be%d0%bd%d0%b5%d1%80%d0%bd%d0%b0-%d0%b3%d0%b0%d1%80%d0%b4%d0%b0-%d0%bd%d0%b5%d0%bf/",
-      "published": "Mon, 02 Mar 2026 19:57:14 +0000"
     },
     {
       "region": "Македонија",
@@ -109,6 +109,20 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "UAE resumes limited flights amid travel chaos across Middle East",
+      "link": "https://www.aljazeera.com/economy/2026/3/3/uae-resumes-limited-flights-amid-travel-chaos-across-middle-east?traffic_source=rss",
+      "published": "Tue, 03 Mar 2026 04:39:43 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Iran to do ‘utmost’ to protect China’s citizens amid US-Israel attacks: FM",
+      "link": "https://www.aljazeera.com/news/2026/3/3/iran-to-do-utmost-to-protect-chinas-citizens-amid-us-israel-attacks-fm?traffic_source=rss",
+      "published": "Tue, 03 Mar 2026 04:10:54 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "Shutdown of Hormuz Strait raises fears of soaring oil prices",
       "link": "https://www.aljazeera.com/economy/2026/3/3/shutdown-of-hormuz-strait-raises-fears-of-soaring-oil-prices?traffic_source=rss",
       "published": "Tue, 03 Mar 2026 03:18:08 +0000"
@@ -126,20 +140,6 @@
       "title": "US Embassy in Saudi capital Riyadh hit by drones, fire reported: Ministry",
       "link": "https://www.aljazeera.com/news/2026/3/3/us-embassy-in-saudi-capital-riyadh-hit-by-drones-fire-reported-ministry?traffic_source=rss",
       "published": "Tue, 03 Mar 2026 02:35:36 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "US kamikaze drone found on farmland in Iraq",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/3/us-kamikaze-drone-found-on-farmland-in-iraq?traffic_source=rss",
-      "published": "Tue, 03 Mar 2026 02:12:59 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "How much could the Iran war cost the US? Here’s what we know",
-      "link": "https://www.aljazeera.com/news/2026/3/3/how-much-could-the-iran-war-cost-the-us-heres-what-we-know?traffic_source=rss",
-      "published": "Tue, 03 Mar 2026 01:44:08 +0000"
     }
   ]
 }
