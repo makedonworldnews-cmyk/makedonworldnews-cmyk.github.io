@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-03T20:46:18Z",
+  "generated_at": "2026-03-03T21:18:07Z",
   "items": [
     {
       "region": "Македонија",
@@ -53,6 +53,13 @@
     {
       "region": "Македонија",
       "source": "NetPress",
+      "title": "Средба Мицкоски – Руте: Потврда за силното партнерство со НАТО",
+      "link": "https://netpress.com.mk/sredba-miczkoski-rute-potvrda-za-silnoto-partnerstvo-so-nato/",
+      "published": "Tue, 03 Mar 2026 19:58:03 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "NetPress",
       "title": "Концерт на „Мизар“ во Филхармонија на 3 април",
       "link": "https://netpress.com.mk/konczert-na-mizar-vo-filharmonija-na-3-april/",
       "published": "Tue, 03 Mar 2026 19:03:55 +0000"
@@ -63,13 +70,6 @@
       "title": "Русија и’ порача на ЕУ: Ќе разговараме за гасот кога ќе се отарасите од Урсула и Каја",
       "link": "https://netpress.com.mk/rusija-i-poracha-na-eu-ke-razgovarame-za-gasot-koga-ke-se-otarasite-od-ursula-i-kaja/",
       "published": "Tue, 03 Mar 2026 18:52:40 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Трамп ќе ја прекине целата трговија со Шпанија",
-      "link": "https://netpress.com.mk/tramp-ke-ja-prekine-czelata-trgovija-so-shpanija/",
-      "published": "Tue, 03 Mar 2026 18:35:20 +0000"
     },
     {
       "region": "Свет",
@@ -109,6 +109,20 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "‘Worst-case scenario’: Trump weighs replacing Khamenei as leader of Iran",
+      "link": "https://www.aljazeera.com/news/2026/3/3/worst-case-scenario-trump-weighs-replacing-khamenei-as-leader-of-iran?traffic_source=rss",
+      "published": "Tue, 03 Mar 2026 20:50:38 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Trump mulls exiled Iranian dissident Reza Pahlavi as regime successor",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/3/trump-mulls-exiled-iranian-dissident-reza-pahlavi-as-regime-successor?traffic_source=rss",
+      "published": "Tue, 03 Mar 2026 20:49:32 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "US midterm primary season kicks off in shadow of Iran war",
       "link": "https://www.aljazeera.com/news/2026/3/3/us-midterm-primary-season-kicks-off-in-shadow-of-iran-war?traffic_source=rss",
       "published": "Tue, 03 Mar 2026 20:30:43 +0000"
@@ -126,20 +140,6 @@
       "title": "UK, France send warships, air defence assets to Cyprus after drone attack",
       "link": "https://www.aljazeera.com/news/2026/3/3/uk-sending-warship-helicopters-to-cyprus-after-drone-attack?traffic_source=rss",
       "published": "Tue, 03 Mar 2026 20:19:00 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Flames, smoke rise from US Consulate in Dubai after suspected attack",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/3/flames-smoke-rise-from-us-consulate-in-dubai-after-suspected-attack?traffic_source=rss",
-      "published": "Tue, 03 Mar 2026 20:15:17 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Iran mourns 165 girls, staff killed in US-Israel strike on Minab school",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/3/iran-mourns-165-girls-staff-killed-in-us-israel-strike-on-minab-school?traffic_source=rss",
-      "published": "Tue, 03 Mar 2026 20:12:45 +0000"
     }
   ]
 }
