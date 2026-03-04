@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-04T21:01:04Z",
+  "updatedAt": "2026-03-04T21:47:49Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Пелистер во последните секунди извлече реми против ПСЖ",
+          "link": "https://makfax.com.mk/sport/pelister-vo-poslednite-sekundi-izvleche-remi-protiv-pszh/",
+          "published": "Wed, 04 Mar 2026 21:46:49 +0000"
         },
         {
           "source": "Makfax",
@@ -35,40 +41,34 @@
           "published": "Wed, 04 Mar 2026 20:31:12 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Шефот на иранската дипломатија: САД го бомбардираат Иран од инает",
-          "link": "https://makfax.com.mk/svet/shefot-na-iranskata-diplomatija-sad-go-bombardiraat-iran-od-inaet/",
-          "published": "Wed, 04 Mar 2026 20:23:07 +0000"
+          "source": "NetPress",
+          "title": "Белата куќа тврди дека Шпанија се согласила да соработува, Мадрид негира",
+          "link": "https://netpress.com.mk/belata-kuka-tvrdi-deka-shpanija-se-soglasila-da-sorabotuva-madrid-negira/",
+          "published": "Wed, 04 Mar 2026 21:36:03 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Триша Татл останува директорка на Берлинале по тензиите во Газа",
+          "link": "https://netpress.com.mk/trisha-tatl-ostanuva-direktorka-na-berlinale-po-tenziite-vo-gaza/",
+          "published": "Wed, 04 Mar 2026 21:20:16 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Путин и Сијарто ја потврдија испораката на енергенси, се зацврстува соработката меѓу Русија и Унгарија",
+          "link": "https://netpress.com.mk/putin-i-sijarto-ja-potvrdija-isporakata-na-energensi-se-zaczvrstuva-sorabotkata-megu-rusija-i-ungarija/",
+          "published": "Wed, 04 Mar 2026 21:15:27 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Калас за надворешната политика на ЕУ – Украина не смее да исчезне од агендата",
+          "link": "https://netpress.com.mk/kalas-za-nadvoreshnata-politika-na-eu-ukraina-ne-smee-da-ischezne-od-agendata/",
+          "published": "Wed, 04 Mar 2026 21:02:47 +0000"
         },
         {
           "source": "NetPress",
           "title": "ВИДЕО I Се сврши Арина Сабаленка, го покажа и свршеничкиот пораз",
           "link": "https://netpress.com.mk/video-i-se-svrshi-arina-sabalenka-go-pokazha-i-svrshenichkiot-poraz/",
           "published": "Wed, 04 Mar 2026 20:42:26 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Трамп ја разгледува улогата на САД во Иран по војната",
-          "link": "https://netpress.com.mk/tramp-ja-razgleduva-ulogata-na-sad-vo-iran-po-vojnata/",
-          "published": "Wed, 04 Mar 2026 20:27:29 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Макрон го повикува Нетанјаху да се „воздржи од копнена офанзива“ во Либан",
-          "link": "https://netpress.com.mk/makron-go-povikuva-netanjahu-da-se-vozdrzhi-od-kopnena-ofanziva-vo-liban/",
-          "published": "Wed, 04 Mar 2026 20:25:48 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Путин сугерира дека Русија може веднаш да ги запре испораките на гас, пред забраната на ЕУ",
-          "link": "https://netpress.com.mk/putin-sugerira-deka-rusija-mozhe-vednash-da-gi-zapre-isporakite-na-gas-i-pred-zabranata-na-eu/",
-          "published": "Wed, 04 Mar 2026 19:59:57 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Уапсени четворица дилери од Скопје и Кратово",
-          "link": "https://netpress.com.mk/uapseni-chetvoricza-dileri-od-skopje-i-kratovo/",
-          "published": "Wed, 04 Mar 2026 19:59:29 +0000"
         }
       ]
     },
@@ -107,6 +107,24 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Why Washington can’t stop Trump on Iran",
+          "link": "https://www.aljazeera.com/video/the-take-2/2026/3/4/aje-onl-tt_usa_usairanwed_av_v2-040326?traffic_source=rss",
+          "published": "Wed, 04 Mar 2026 21:05:37 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Russia accuses Ukraine of drone attack as gas tanker sinks in Mediterranean",
+          "link": "https://www.aljazeera.com/news/2026/3/4/russia-accuses-ukraine-of-drone-attack-as-gas-tanker-sinks-in-mediterranean?traffic_source=rss",
+          "published": "Wed, 04 Mar 2026 21:04:34 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Why Iran’s system may endure the US–Israel strikes",
+          "link": "https://www.aljazeera.com/video/the-take-2/2026/3/4/aje-onl-tt_irn_usirantuesday_av_v3-030326?traffic_source=rss",
+          "published": "Wed, 04 Mar 2026 20:44:09 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Israeli attacks, threats fuel mass displacement crisis in southern Lebanon",
           "link": "https://www.aljazeera.com/news/2026/3/4/israeli-attacks-threats-fuel-mass-displacement-crisis-in-southern-lebanon?traffic_source=rss",
           "published": "Wed, 04 Mar 2026 20:22:35 +0000"
@@ -116,24 +134,6 @@
           "title": "Spain denies White House claim it agreed to cooperate with US military",
           "link": "https://www.aljazeera.com/news/2026/3/4/spain-denies-white-house-claim-it-agreed-to-cooperate-with-us-military?traffic_source=rss",
           "published": "Wed, 04 Mar 2026 19:53:52 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "US Dems say Iran troop deployment ‘more likely’ ahead of war powers vote",
-          "link": "https://www.aljazeera.com/news/2026/3/4/us-dems-say-iran-troop-deployment-more-likely-ahead-of-war-powers-vote?traffic_source=rss",
-          "published": "Wed, 04 Mar 2026 19:42:05 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Iran war: Redrawing the map of the Middle East, Israeli style?",
-          "link": "https://www.aljazeera.com/video/the-bottom-line/2026/3/4/iran-war-redrawing-the-map-of-the-middle-east-israeli-style?traffic_source=rss",
-          "published": "Wed, 04 Mar 2026 19:24:46 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Debris from NATO’s missile interception falls on Turkish soil",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/4/debris-from-natos-missile-interception-falls-on-turkish-soil-2?traffic_source=rss",
-          "published": "Wed, 04 Mar 2026 19:19:08 +0000"
         }
       ]
     }
