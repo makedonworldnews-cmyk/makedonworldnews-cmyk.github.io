@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-05T22:14:32Z",
+  "generated_at": "2026-03-05T23:29:13Z",
   "items": [
     {
       "region": "Македонија",
@@ -39,6 +39,27 @@
     {
       "region": "Македонија",
       "source": "NetPress",
+      "title": "Француски куп: Ланс го елиминираше Лион на пенали",
+      "link": "https://netpress.com.mk/franczuski-kup-lans-go-eliminirashe-lion-na-penali/",
+      "published": "Thu, 05 Mar 2026 22:53:09 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "NetPress",
+      "title": "Премиер лига: Нов пораз на Тотенхем",
+      "link": "https://netpress.com.mk/premier-liga-nov-poraz-na-totenhem/",
+      "published": "Thu, 05 Mar 2026 22:37:55 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "NetPress",
+      "title": "Евролига: Монако си го загрози учеството во разигрувањето",
+      "link": "https://netpress.com.mk/evroliga-monako-si-go-zagrozi-uchestvoto-vo-razigruvaneto/",
+      "published": "Thu, 05 Mar 2026 22:19:46 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "NetPress",
       "title": "Израелската армија објави дека започнала напади во предградие на Бејрут",
       "link": "https://netpress.com.mk/izraelskata-armija-objavi-deka-zapochnala-napadi-vo-predgradie-na-bejrut/",
       "published": "Thu, 05 Mar 2026 22:04:37 +0000"
@@ -51,25 +72,11 @@
       "published": "Thu, 05 Mar 2026 21:52:50 +0000"
     },
     {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "НАТО ја зајакнува ракетната одбрана по инцидентот во Турција",
-      "link": "https://netpress.com.mk/nato-ja-zajaknuva-raketnata-odbrana-po-inczidentot-vo-turczija/",
-      "published": "Thu, 05 Mar 2026 21:44:55 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Трамп ја смени министерката за внатрешна безбедност Кристи Ноем",
-      "link": "https://netpress.com.mk/tramp-ja-smeni-ministerkata-za-vnatreshna-bezbednost-kristi-noem/",
-      "published": "Thu, 05 Mar 2026 20:59:29 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Изјавите на Филипче се далеку од здравиот разум, жална е состојбата во која се наоѓа СДСМ",
-      "link": "https://netpress.com.mk/izjavite-na-filipche-se-daleku-od-zdraviot-razum-zhalna-e-sostojbata-vo-koja-se-naoga-sdsm/",
-      "published": "Thu, 05 Mar 2026 20:24:42 +0000"
+      "region": "Свет",
+      "source": "BBC",
+      "title": "'What is the game plan?': The Iran war is unsettling China and its ambitions",
+      "link": "https://www.bbc.com/news/articles/c2044vzrdpzo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 05 Mar 2026 23:13:57 GMT"
     },
     {
       "region": "Свет",
@@ -101,10 +108,31 @@
     },
     {
       "region": "Свет",
-      "source": "BBC",
-      "title": "Ecuadorean troops find 35m-long 'narco-sub' hidden in nature reserve",
-      "link": "https://www.bbc.com/news/articles/cd6zz65vg0qo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 05 Mar 2026 17:34:04 GMT"
+      "source": "Al Jazeera",
+      "title": "US House narrowly rejects resolution to end Trump’s Iran war",
+      "link": "https://www.aljazeera.com/news/2026/3/5/us-house-narrowly-rejects-resolution-to-end-trumps-iran-war?traffic_source=rss",
+      "published": "Thu, 05 Mar 2026 22:38:37 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Trump says regime change in Cuba is ‘question of time’ after Iran",
+      "link": "https://www.aljazeera.com/news/2026/3/5/trump-says-regime-change-in-cuba-is-question-of-time-after-iran?traffic_source=rss",
+      "published": "Thu, 05 Mar 2026 22:37:41 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Trump says he must be ‘involved’ in choosing Iran’s next supreme leader",
+      "link": "https://www.aljazeera.com/news/2026/3/5/trump-says-he-must-be-involved-in-choosing-irans-next-supreme-leader?traffic_source=rss",
+      "published": "Thu, 05 Mar 2026 22:12:45 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Celta Vigo vs Real Madrid: La Liga – teams, start, kickoff time, lineups",
+      "link": "https://www.aljazeera.com/sports/2026/3/5/celta-vigo-vs-real-madrid-la-liga-teams-start-kickoff-time-lineups?traffic_source=rss",
+      "published": "Thu, 05 Mar 2026 22:01:44 +0000"
     },
     {
       "region": "Свет",
@@ -112,34 +140,6 @@
       "title": "US states sue to stop Trump’s latest global tariffs",
       "link": "https://www.aljazeera.com/economy/2026/3/5/us-states-sue-to-stop-trumps-latest-global-tariffs?traffic_source=rss",
       "published": "Thu, 05 Mar 2026 21:39:15 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Iran fires more missiles, drones across Gulf region amid US-Israeli attacks",
-      "link": "https://www.aljazeera.com/news/2026/3/5/iran-fires-more-missiles-drones-across-gulf-region-amid-us-israeli-attacks?traffic_source=rss",
-      "published": "Thu, 05 Mar 2026 21:31:45 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Why has Hezbollah joined Middle East war?",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/3/5/why-has-hezbollah-joined-middle-east-war?traffic_source=rss",
-      "published": "Thu, 05 Mar 2026 21:28:15 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Trump voices support for possible Kurdish offensive in Iran",
-      "link": "https://www.aljazeera.com/news/2026/3/5/trump-voices-support-for-possible-kurdish-offensive-in-iran?traffic_source=rss",
-      "published": "Thu, 05 Mar 2026 21:06:01 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Israel cancels Friday prayers at Al-Aqsa Mosque amid Iran conflict",
-      "link": "https://www.aljazeera.com/news/2026/3/5/israel-cancels-friday-prayers-at-al-aqsa-mosque-amid-iran-conflict?traffic_source=rss",
-      "published": "Thu, 05 Mar 2026 21:02:01 +0000"
     }
   ]
 }
