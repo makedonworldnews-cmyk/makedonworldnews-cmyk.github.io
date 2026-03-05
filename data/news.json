@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-05T20:20:09Z",
+  "updatedAt": "2026-03-05T20:56:35Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Полицијата застрела маж во Љубљана откако нападнал минувачи и полицајци со нож",
+          "link": "https://makfax.com.mk/svet/region/policzijata-zastrela-mazh-vo-lublana-otkako-napadnal-minuvachi-i-policzajczi-so-nozh/",
+          "published": "Thu, 05 Mar 2026 20:51:54 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Нема простор за загриженост, залихи на гориво има, кажа Мицкоски по средбата со претставници на нафтената индустрија",
+          "link": "https://makfax.com.mk/makedonija/nema-prostor-za-zagrizhenost-zalihi-na-gorivo-ima-kazha-miczkoski-po-sredbata-so-pretstavniczi-na-naftenata-industrija/",
+          "published": "Thu, 05 Mar 2026 20:30:05 +0000"
         },
         {
           "source": "Makfax",
@@ -29,20 +41,14 @@
           "published": "Thu, 05 Mar 2026 19:32:27 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Финска планира да ја укине забраната: можно нуклеарно оружје на своја територија во случај на војна",
-          "link": "https://makfax.com.mk/svet/finska-planira-da-ja-ukine-zabranata-mozhno-nuklearno-oruzhje-na-svoja-teritorija-vo-sluchaj-na-vojna/",
-          "published": "Thu, 05 Mar 2026 19:13:28 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Зеленски: САД побараа помош од Украина во борбата против беспилотните летала на Блискиот Исток",
-          "link": "https://makfax.com.mk/svet/zelenski-sad-pobaraa-pomosh-od-ukraina-vo-borbata-protiv-bespilotnite-letala-na-bliskiot-istok/",
-          "published": "Thu, 05 Mar 2026 18:57:00 +0000"
+          "source": "NetPress",
+          "title": "Изјавите на Филипче се далеку од здравиот разум, жална е состојбата во која се наоѓа СДСМ",
+          "link": "https://netpress.com.mk/izjavite-na-filipche-se-daleku-od-zdraviot-razum-zhalna-e-sostojbata-vo-koja-se-naoga-sdsm/",
+          "published": "Thu, 05 Mar 2026 20:24:42 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Вашингтон побара помош од Киев во одбраната од иранските беспилотни летала, рече Зеленски",
+          "title": "Вашингтон побара помош од Киев во одбраната од иранските беспилотни летала, според Зеленски",
           "link": "https://netpress.com.mk/vashington-pobara-pomosh-od-kiev-vo-odbranata-od-iranskite-bespilotni-letala-reche-zelenski/",
           "published": "Thu, 05 Mar 2026 20:18:34 +0000"
         },
@@ -63,12 +69,6 @@
           "title": "Нов супермаркет „Лидл“ ќе се гради во Гази Баба",
           "link": "https://netpress.com.mk/nov-supermarket-lidl-ke-se-gradi-vo-gazi-baba/",
           "published": "Thu, 05 Mar 2026 19:35:58 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Нафтените потреби целосно се задоволуваат и нема простор за загриженост, изјави Мицкоски по средба со претставници на нафтената индустрија",
-          "link": "https://netpress.com.mk/naftenite-potrebi-czelosno-se-zadovoluvaat-i-nema-prostor-za-zagrizhenost-izjavi-miczkoski-po-sredba-so-pretstavniczi-na-naftenata-industrija/",
-          "published": "Thu, 05 Mar 2026 19:33:27 +0000"
         }
       ]
     },
@@ -107,7 +107,13 @@
         },
         {
           "source": "Al Jazeera",
-          "title": "Trump to replace Homeland Security chief Kristi Noem with Markwayne Mullin",
+          "title": "US House of Representatives to vote on latest effort to halt Iran war",
+          "link": "https://www.aljazeera.com/news/2026/3/5/us-house-of-representatives-to-vote-on-latest-effort-to-halt-iran-war?traffic_source=rss",
+          "published": "Thu, 05 Mar 2026 20:34:17 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Trump fires Homeland Security head Kristi Noem, names Mullin as replacement",
           "link": "https://www.aljazeera.com/news/2026/3/5/trump-says-he-will-replace-homeland-security-chief-kristi-noem?traffic_source=rss",
           "published": "Thu, 05 Mar 2026 20:04:44 +0000"
         },
@@ -128,12 +134,6 @@
           "title": "Trump administration doubles down on military action in Latin America",
           "link": "https://www.aljazeera.com/news/2026/3/5/trump-administration-doubles-down-on-military-action-in-latin-america?traffic_source=rss",
           "published": "Thu, 05 Mar 2026 19:21:39 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Senators propose ban on US gov’t officials doing prediction market trading",
-          "link": "https://www.aljazeera.com/economy/2026/3/5/senators-propose-ban-on-us-govt-officials-doing-prediction-market-trading?traffic_source=rss",
-          "published": "Thu, 05 Mar 2026 19:12:07 +0000"
         }
       ]
     }
