@@ -1,6 +1,13 @@
 {
-  "generated_at": "2026-03-05T20:30:44Z",
+  "generated_at": "2026-03-05T21:04:29Z",
   "items": [
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "Полицијата застрела маж во Љубљана откако нападнал минувачи и полицајци со нож",
+      "link": "https://makfax.com.mk/svet/region/policzijata-zastrela-mazh-vo-lublana-otkako-napadnal-minuvachi-i-policzajczi-so-nozh/",
+      "published": "Thu, 05 Mar 2026 20:51:54 +0000"
+    },
     {
       "region": "Македонија",
       "source": "Makfax",
@@ -31,10 +38,10 @@
     },
     {
       "region": "Македонија",
-      "source": "Makfax",
-      "title": "Финска планира да ја укине забраната: можно нуклеарно оружје на своја територија во случај на војна",
-      "link": "https://makfax.com.mk/svet/finska-planira-da-ja-ukine-zabranata-mozhno-nuklearno-oruzhje-na-svoja-teritorija-vo-sluchaj-na-vojna/",
-      "published": "Thu, 05 Mar 2026 19:13:28 +0000"
+      "source": "NetPress",
+      "title": "Трамп ја смени министерката за внатрешна безбедност Кристи Ноем",
+      "link": "https://netpress.com.mk/tramp-ja-smeni-ministerkata-za-vnatreshna-bezbednost-kristi-noem/",
+      "published": "Thu, 05 Mar 2026 20:59:29 +0000"
     },
     {
       "region": "Македонија",
@@ -63,13 +70,6 @@
       "title": "Македонскиот КИЦ во Софија дел од филмскиот фестивал „Балкинофест“",
       "link": "https://netpress.com.mk/makedonskiot-kicz-vo-sofija-del-od-filmskiot-festival-balkinofest/",
       "published": "Thu, 05 Mar 2026 19:46:32 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Нов супермаркет „Лидл“ ќе се гради во Гази Баба",
-      "link": "https://netpress.com.mk/nov-supermarket-lidl-ke-se-gradi-vo-gazi-baba/",
-      "published": "Thu, 05 Mar 2026 19:35:58 +0000"
     },
     {
       "region": "Свет",
@@ -109,7 +109,14 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
-      "title": "Trump to replace Homeland Security chief Kristi Noem with Markwayne Mullin",
+      "title": "US House of Representatives to vote on latest effort to halt Iran war",
+      "link": "https://www.aljazeera.com/news/2026/3/5/us-house-of-representatives-to-vote-on-latest-effort-to-halt-iran-war?traffic_source=rss",
+      "published": "Thu, 05 Mar 2026 20:34:17 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Trump fires Homeland Security head Kristi Noem, names Mullin as replacement",
       "link": "https://www.aljazeera.com/news/2026/3/5/trump-says-he-will-replace-homeland-security-chief-kristi-noem?traffic_source=rss",
       "published": "Thu, 05 Mar 2026 20:04:44 +0000"
     },
@@ -133,13 +140,6 @@
       "title": "Trump administration doubles down on military action in Latin America",
       "link": "https://www.aljazeera.com/news/2026/3/5/trump-administration-doubles-down-on-military-action-in-latin-america?traffic_source=rss",
       "published": "Thu, 05 Mar 2026 19:21:39 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Senators propose ban on US gov’t officials doing prediction market trading",
-      "link": "https://www.aljazeera.com/economy/2026/3/5/senators-propose-ban-on-us-govt-officials-doing-prediction-market-trading?traffic_source=rss",
-      "published": "Thu, 05 Mar 2026 19:12:07 +0000"
     }
   ]
 }
