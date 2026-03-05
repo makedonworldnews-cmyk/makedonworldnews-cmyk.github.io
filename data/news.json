@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-05T20:56:35Z",
+  "updatedAt": "2026-03-05T21:41:11Z",
   "groups": [
     {
       "region": "Македонија",
@@ -42,6 +42,12 @@
         },
         {
           "source": "NetPress",
+          "title": "Трамп ја смени министерката за внатрешна безбедност Кристи Ноем",
+          "link": "https://netpress.com.mk/tramp-ja-smeni-ministerkata-za-vnatreshna-bezbednost-kristi-noem/",
+          "published": "Thu, 05 Mar 2026 20:59:29 +0000"
+        },
+        {
+          "source": "NetPress",
           "title": "Изјавите на Филипче се далеку од здравиот разум, жална е состојбата во која се наоѓа СДСМ",
           "link": "https://netpress.com.mk/izjavite-na-filipche-se-daleku-od-zdraviot-razum-zhalna-e-sostojbata-vo-koja-se-naoga-sdsm/",
           "published": "Thu, 05 Mar 2026 20:24:42 +0000"
@@ -63,12 +69,6 @@
           "title": "Македонскиот КИЦ во Софија дел од филмскиот фестивал „Балкинофест“",
           "link": "https://netpress.com.mk/makedonskiot-kicz-vo-sofija-del-od-filmskiot-festival-balkinofest/",
           "published": "Thu, 05 Mar 2026 19:46:32 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Нов супермаркет „Лидл“ ќе се гради во Гази Баба",
-          "link": "https://netpress.com.mk/nov-supermarket-lidl-ke-se-gradi-vo-gazi-baba/",
-          "published": "Thu, 05 Mar 2026 19:35:58 +0000"
         }
       ]
     },
@@ -79,7 +79,7 @@
           "source": "BBC",
           "title": "'We have been preparing': Why the boots on the ground in Iran could be Kurdish",
           "link": "https://www.bbc.com/news/articles/cm215nnjyr0o?at_medium=RSS&at_campaign=rss",
-          "published": "Thu, 05 Mar 2026 19:55:03 GMT"
+          "published": "Thu, 05 Mar 2026 21:20:49 GMT"
         },
         {
           "source": "BBC",
@@ -89,9 +89,9 @@
         },
         {
           "source": "BBC",
-          "title": "Israelis back war with Iran despite uncertainty and fatigue",
-          "link": "https://www.bbc.com/news/articles/cj6d023rjpzo?at_medium=RSS&at_campaign=rss",
-          "published": "Thu, 05 Mar 2026 19:24:39 GMT"
+          "title": "Azerbaijan says Iran struck its territory, as war spills over border",
+          "link": "https://www.bbc.com/news/articles/c1e9qpy90g3o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 05 Mar 2026 21:33:48 GMT"
         },
         {
           "source": "BBC",
@@ -104,6 +104,18 @@
           "title": "Ecuadorean troops find 35m-long 'narco-sub' hidden in nature reserve",
           "link": "https://www.bbc.com/news/articles/cd6zz65vg0qo?at_medium=RSS&at_campaign=rss",
           "published": "Thu, 05 Mar 2026 17:34:04 GMT"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Trump voices support for possible Kurdish offensive in Iran",
+          "link": "https://www.aljazeera.com/news/2026/3/5/trump-voices-support-for-possible-kurdish-offensive-in-iran?traffic_source=rss",
+          "published": "Thu, 05 Mar 2026 21:06:01 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Israel cancels Friday prayers at Al-Aqsa Mosque amid Iran conflict",
+          "link": "https://www.aljazeera.com/news/2026/3/5/israel-cancels-friday-prayers-at-al-aqsa-mosque-amid-iran-conflict?traffic_source=rss",
+          "published": "Thu, 05 Mar 2026 21:02:01 +0000"
         },
         {
           "source": "Al Jazeera",
@@ -122,18 +134,6 @@
           "title": "Sri Lanka evacuates crew of second Iranian vessel after US sunk IRIS Dena",
           "link": "https://www.aljazeera.com/news/2026/3/5/sri-lanka-evacuates-crew-of-second-iranian-vessel-after-us-sunk-iris-dena?traffic_source=rss",
           "published": "Thu, 05 Mar 2026 19:49:29 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Ukraine, Russia free 200 POWs each in latest swap amid stalled peace talks",
-          "link": "https://www.aljazeera.com/news/2026/3/5/ukraine-russia-free-200-pows-each-in-latest-swap-amid-stalled-peace-talks?traffic_source=rss",
-          "published": "Thu, 05 Mar 2026 19:41:59 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Trump administration doubles down on military action in Latin America",
-          "link": "https://www.aljazeera.com/news/2026/3/5/trump-administration-doubles-down-on-military-action-in-latin-america?traffic_source=rss",
-          "published": "Thu, 05 Mar 2026 19:21:39 +0000"
         }
       ]
     }
