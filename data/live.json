@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-05T21:48:04Z",
+  "generated_at": "2026-03-05T22:14:32Z",
   "items": [
     {
       "region": "Македонија",
@@ -39,6 +39,20 @@
     {
       "region": "Македонија",
       "source": "NetPress",
+      "title": "Израелската армија објави дека започнала напади во предградие на Бејрут",
+      "link": "https://netpress.com.mk/izraelskata-armija-objavi-deka-zapochnala-napadi-vo-predgradie-na-bejrut/",
+      "published": "Thu, 05 Mar 2026 22:04:37 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "NetPress",
+      "title": "Зеленски му се заканува на Орбан поради блокирањето на заемот од ЕУ",
+      "link": "https://netpress.com.mk/zelenski-mu-se-zakanuva-na-orban-poradi-blokiraneto-na-zaemot-od-eu/",
+      "published": "Thu, 05 Mar 2026 21:52:50 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "NetPress",
       "title": "НАТО ја зајакнува ракетната одбрана по инцидентот во Турција",
       "link": "https://netpress.com.mk/nato-ja-zajaknuva-raketnata-odbrana-po-inczidentot-vo-turczija/",
       "published": "Thu, 05 Mar 2026 21:44:55 +0000"
@@ -56,20 +70,6 @@
       "title": "Изјавите на Филипче се далеку од здравиот разум, жална е состојбата во која се наоѓа СДСМ",
       "link": "https://netpress.com.mk/izjavite-na-filipche-se-daleku-od-zdraviot-razum-zhalna-e-sostojbata-vo-koja-se-naoga-sdsm/",
       "published": "Thu, 05 Mar 2026 20:24:42 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Вашингтон побара помош од Киев во одбраната од иранските беспилотни летала, според Зеленски",
-      "link": "https://netpress.com.mk/vashington-pobara-pomosh-od-kiev-vo-odbranata-od-iranskite-bespilotni-letala-reche-zelenski/",
-      "published": "Thu, 05 Mar 2026 20:18:34 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Кина ја открива стратегијата за економската и политичката иднина на земјата",
-      "link": "https://netpress.com.mk/kina-ja-otkriva-strategijata-za-ekonomskata-i-politichkata-idnina-na-zemjata/",
-      "published": "Thu, 05 Mar 2026 19:52:36 +0000"
     },
     {
       "region": "Свет",
@@ -109,6 +109,27 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "US states sue to stop Trump’s latest global tariffs",
+      "link": "https://www.aljazeera.com/economy/2026/3/5/us-states-sue-to-stop-trumps-latest-global-tariffs?traffic_source=rss",
+      "published": "Thu, 05 Mar 2026 21:39:15 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Iran fires more missiles, drones across Gulf region amid US-Israeli attacks",
+      "link": "https://www.aljazeera.com/news/2026/3/5/iran-fires-more-missiles-drones-across-gulf-region-amid-us-israeli-attacks?traffic_source=rss",
+      "published": "Thu, 05 Mar 2026 21:31:45 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Why has Hezbollah joined Middle East war?",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/3/5/why-has-hezbollah-joined-middle-east-war?traffic_source=rss",
+      "published": "Thu, 05 Mar 2026 21:28:15 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "Trump voices support for possible Kurdish offensive in Iran",
       "link": "https://www.aljazeera.com/news/2026/3/5/trump-voices-support-for-possible-kurdish-offensive-in-iran?traffic_source=rss",
       "published": "Thu, 05 Mar 2026 21:06:01 +0000"
@@ -119,27 +140,6 @@
       "title": "Israel cancels Friday prayers at Al-Aqsa Mosque amid Iran conflict",
       "link": "https://www.aljazeera.com/news/2026/3/5/israel-cancels-friday-prayers-at-al-aqsa-mosque-amid-iran-conflict?traffic_source=rss",
       "published": "Thu, 05 Mar 2026 21:02:01 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "US House of Representatives to vote on latest effort to halt Iran war",
-      "link": "https://www.aljazeera.com/news/2026/3/5/us-house-of-representatives-to-vote-on-latest-effort-to-halt-iran-war?traffic_source=rss",
-      "published": "Thu, 05 Mar 2026 20:34:17 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Trump fires Homeland Security head Kristi Noem, names Mullin as replacement",
-      "link": "https://www.aljazeera.com/news/2026/3/5/trump-says-he-will-replace-homeland-security-chief-kristi-noem?traffic_source=rss",
-      "published": "Thu, 05 Mar 2026 20:04:44 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Sri Lanka evacuates crew of second Iranian vessel after US sunk IRIS Dena",
-      "link": "https://www.aljazeera.com/news/2026/3/5/sri-lanka-evacuates-crew-of-second-iranian-vessel-after-us-sunk-iris-dena?traffic_source=rss",
-      "published": "Thu, 05 Mar 2026 19:49:29 +0000"
     }
   ]
 }
