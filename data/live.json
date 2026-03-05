@@ -1,6 +1,27 @@
 {
-  "generated_at": "2026-03-05T19:55:24Z",
+  "generated_at": "2026-03-05T20:30:44Z",
   "items": [
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "Нема простор за загриженост, залихи на гориво има, кажа Мицкоски по средбата со претставници на нафтената индустрија",
+      "link": "https://makfax.com.mk/makedonija/nema-prostor-za-zagrizhenost-zalihi-na-gorivo-ima-kazha-miczkoski-po-sredbata-so-pretstavniczi-na-naftenata-industrija/",
+      "published": "Thu, 05 Mar 2026 20:30:05 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "Израелската војска: Извршивме воздушни напади врз повеќе од 200 цели во Иран",
+      "link": "https://makfax.com.mk/svet/izraelskata-vojska-izvrshivme-vozdushni-napadi-vrz-poveke-od-200-czeli-vo-iran/",
+      "published": "Thu, 05 Mar 2026 20:17:20 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "Израелскиот министер за одбрана: Планот беше Хамнеи да биде ликвидиран кон средината на оваа година",
+      "link": "https://makfax.com.mk/svet/izraelskiot-minister-za-odbrana-planot-beshe-hamnei-da-bide-likvidiran-kon-sredinata-na-ovaa-godina/",
+      "published": "Thu, 05 Mar 2026 20:13:43 +0000"
+    },
     {
       "region": "Македонија",
       "source": "Makfax",
@@ -17,24 +38,17 @@
     },
     {
       "region": "Македонија",
-      "source": "Makfax",
-      "title": "Зеленски: САД побараа помош од Украина во борбата против беспилотните летала на Блискиот Исток",
-      "link": "https://makfax.com.mk/svet/zelenski-sad-pobaraa-pomosh-od-ukraina-vo-borbata-protiv-bespilotnite-letala-na-bliskiot-istok/",
-      "published": "Thu, 05 Mar 2026 18:57:00 +0000"
+      "source": "NetPress",
+      "title": "Изјавите на Филипче се далеку од здравиот разум, жална е состојбата во која се наоѓа СДСМ",
+      "link": "https://netpress.com.mk/izjavite-na-filipche-se-daleku-od-zdraviot-razum-zhalna-e-sostojbata-vo-koja-se-naoga-sdsm/",
+      "published": "Thu, 05 Mar 2026 20:24:42 +0000"
     },
     {
       "region": "Македонија",
-      "source": "Makfax",
-      "title": "Густ црн чад во Скопје: пријавено лице што палело кабли во Маџари",
-      "link": "https://makfax.com.mk/makedonija/gust-czrn-chad-vo-skopje-prijaveno-licze-shto-palelo-kabli-vo-madhari/",
-      "published": "Thu, 05 Mar 2026 18:35:10 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "Makfax",
-      "title": "Трамп: Кубанскиот режим ќе падне",
-      "link": "https://makfax.com.mk/svet/tramp-kubanskiot-rezhim-ke-padne/",
-      "published": "Thu, 05 Mar 2026 18:16:06 +0000"
+      "source": "NetPress",
+      "title": "Вашингтон побара помош од Киев во одбраната од иранските беспилотни летала, според Зеленски",
+      "link": "https://netpress.com.mk/vashington-pobara-pomosh-od-kiev-vo-odbranata-od-iranskite-bespilotni-letala-reche-zelenski/",
+      "published": "Thu, 05 Mar 2026 20:18:34 +0000"
     },
     {
       "region": "Македонија",
@@ -58,25 +72,11 @@
       "published": "Thu, 05 Mar 2026 19:35:58 +0000"
     },
     {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Нафтените потреби целосно се задоволуваат и нема простор за загриженост, изјави Мицкоски по средба со претставници на нафтената индустрија",
-      "link": "https://netpress.com.mk/naftenite-potrebi-czelosno-se-zadovoluvaat-i-nema-prostor-za-zagrizhenost-izjavi-miczkoski-po-sredba-so-pretstavniczi-na-naftenata-industrija/",
-      "published": "Thu, 05 Mar 2026 19:33:27 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Македонски државјани евакуирани од Израел, со владиниот авион тргнаа од Шарм ел-Шеик кон Скопје",
-      "link": "https://netpress.com.mk/makedonski-drzhavjani-evakuirani-od-izrael-so-vladiniot-avion-trgnaa-od-sharm-el-sheik-kon-skopje/",
-      "published": "Thu, 05 Mar 2026 19:14:52 +0000"
-    },
-    {
       "region": "Свет",
       "source": "BBC",
-      "title": "Iran targets headquarters of Iranian Kurdish forces in Iraq",
-      "link": "https://www.bbc.com/news/articles/c2k88y1147jo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 05 Mar 2026 11:35:09 GMT"
+      "title": "'We have been preparing': Why the boots on the ground in Iran could be Kurdish",
+      "link": "https://www.bbc.com/news/articles/cm215nnjyr0o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 05 Mar 2026 19:55:03 GMT"
     },
     {
       "region": "Свет",
@@ -88,6 +88,13 @@
     {
       "region": "Свет",
       "source": "BBC",
+      "title": "Israelis back war with Iran despite uncertainty and fatigue",
+      "link": "https://www.bbc.com/news/articles/cj6d023rjpzo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 05 Mar 2026 19:24:39 GMT"
+    },
+    {
+      "region": "Свет",
+      "source": "BBC",
       "title": "Britney Spears arrested on suspicion of driving under the influence",
       "link": "https://www.bbc.com/news/articles/c4gjjn41l7no?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 05 Mar 2026 17:23:19 GMT"
@@ -95,16 +102,30 @@
     {
       "region": "Свет",
       "source": "BBC",
-      "title": "Israeli evacuation order for Beirut's southern suburbs sparks panic",
-      "link": "https://www.bbc.com/news/articles/cj32750e7j6o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 05 Mar 2026 18:39:43 GMT"
-    },
-    {
-      "region": "Свет",
-      "source": "BBC",
       "title": "Ecuadorean troops find 35m-long 'narco-sub' hidden in nature reserve",
       "link": "https://www.bbc.com/news/articles/cd6zz65vg0qo?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 05 Mar 2026 17:34:04 GMT"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Trump to replace Homeland Security chief Kristi Noem with Markwayne Mullin",
+      "link": "https://www.aljazeera.com/news/2026/3/5/trump-says-he-will-replace-homeland-security-chief-kristi-noem?traffic_source=rss",
+      "published": "Thu, 05 Mar 2026 20:04:44 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Sri Lanka evacuates crew of second Iranian vessel after US sunk IRIS Dena",
+      "link": "https://www.aljazeera.com/news/2026/3/5/sri-lanka-evacuates-crew-of-second-iranian-vessel-after-us-sunk-iris-dena?traffic_source=rss",
+      "published": "Thu, 05 Mar 2026 19:49:29 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Ukraine, Russia free 200 POWs each in latest swap amid stalled peace talks",
+      "link": "https://www.aljazeera.com/news/2026/3/5/ukraine-russia-free-200-pows-each-in-latest-swap-amid-stalled-peace-talks?traffic_source=rss",
+      "published": "Thu, 05 Mar 2026 19:41:59 +0000"
     },
     {
       "region": "Свет",
@@ -119,27 +140,6 @@
       "title": "Senators propose ban on US gov’t officials doing prediction market trading",
       "link": "https://www.aljazeera.com/economy/2026/3/5/senators-propose-ban-on-us-govt-officials-doing-prediction-market-trading?traffic_source=rss",
       "published": "Thu, 05 Mar 2026 19:12:07 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Israel, US intensify Iran strikes, targeting homes, hospitals, stadium",
-      "link": "https://www.aljazeera.com/gallery/2026/3/5/explosions-rock-tehran-as-israel-intensifies-strikes-on-government-sites?traffic_source=rss",
-      "published": "Thu, 05 Mar 2026 19:01:45 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Israel kills more than 100 Lebanese as it commands Beirut residents to flee",
-      "link": "https://www.aljazeera.com/gallery/2026/3/5/buildings-devastated-by-israeli-strikes-in-lebanon-death-toll-rises-to-77?traffic_source=rss",
-      "published": "Thu, 05 Mar 2026 18:15:14 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "India beat England to reach T20 World Cup final as Sanju stars again",
-      "link": "https://www.aljazeera.com/sports/2026/3/5/india-beat-england-to-reach-t20-world-cup-final-as-sanju-stars-again?traffic_source=rss",
-      "published": "Thu, 05 Mar 2026 17:47:31 +0000"
     }
   ]
 }
