@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-06T19:47:46Z",
+  "updatedAt": "2026-03-06T20:16:17Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,24 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Ние ќе продолжиме да се бориме за зголемување на вашите плати, но мора да почнете да се борите и вие, Трендафилов ги повикува работниците на протест на 14 март",
+          "link": "https://makfax.com.mk/makedonija/nie-ke-prodolzhime-da-se-borime-za-zgolemuvane-na-vashite-plati-no-mora-da-pochnete-da-se-borite-i-vie-trendafilov-gi-povikuva-rabotniczite-na-protest-na-14-mart/",
+          "published": "Fri, 06 Mar 2026 20:05:57 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) Израел објави како изгледал бункерот на ајатолахот",
+          "link": "https://makfax.com.mk/svet/video-izrael-objavi-kako-izgledal-bunkerot-na-ajatolahot/",
+          "published": "Fri, 06 Mar 2026 19:52:57 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Иран бомбардира центри за податоци, серверите на „Амазон“ во ОАЕ и Бахреин се погодени",
+          "link": "https://makfax.com.mk/svet/iran-bombardira-czentri-za-podatoczi-serverite-na-amazon-vo-oae-i-bahrein-se-pogodeni/",
+          "published": "Fri, 06 Mar 2026 19:48:54 +0000"
         },
         {
           "source": "Makfax",
@@ -23,22 +41,10 @@
           "published": "Fri, 06 Mar 2026 19:22:57 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "БиХ нема авиокомпанија ниту државен авион, бара помош од ЕУ за евакуација на 1.300 граѓани од Блискиот Исток",
-          "link": "https://makfax.com.mk/svet/region/bih-nema-aviokompanija-nitu-drzhaven-avion-bara-pomosh-od-eu-za-evakuaczija-na-1-300-gragani-od-bliskiot-istok/",
-          "published": "Fri, 06 Mar 2026 19:15:18 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Тополова – Исајловска: Кога жртвата се повлекува од притисок, системот мора да биде доволно силен да ја заштити",
-          "link": "https://makfax.com.mk/makedonija/topolova-isajlovska-koga-zhrtvata-se-povlekuva-od-pritisok-ili-zavisnost-sistemot-mora-da-bide-dovolno-silen-da-ja-zashtiti/",
-          "published": "Fri, 06 Mar 2026 19:06:20 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Тотенхем има спискот на потенцијални наследници на Игор Тудор",
-          "link": "https://makfax.com.mk/sport/totenhem-ima-spiskot-na-potenczijalni-nasledniczi-na-igor-tudor/",
-          "published": "Fri, 06 Mar 2026 18:51:50 +0000"
+          "source": "NetPress",
+          "title": "Естонец притворен во Скопје за силување 14-годишен малолетник",
+          "link": "https://netpress.com.mk/estonecz-pritvoren-vo-skopje-za-siluvane-14-godishen-maloletnik/",
+          "published": "Fri, 06 Mar 2026 20:11:25 +0000"
         },
         {
           "source": "NetPress",
@@ -63,12 +69,6 @@
           "title": "Водата во Струга безбедна за пиење, по еден месец тргната забраната",
           "link": "https://netpress.com.mk/1057376-2/",
           "published": "Fri, 06 Mar 2026 18:15:11 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Скопјанец „падна“ со марихуана во центарот на Кичево",
-          "link": "https://netpress.com.mk/skopjanecz-padna-so-marihuana-vo-czentarot-na-kichevo/",
-          "published": "Fri, 06 Mar 2026 17:35:02 +0000"
         }
       ]
     },
@@ -107,6 +107,12 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Messi criticised for applauding Trump amid US attacks on Iran",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/6/messi-criticised-for-applauding-trump-amid-us-attacks-on-iran?traffic_source=rss",
+          "published": "Fri, 06 Mar 2026 19:56:35 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "What the world is getting wrong about what Iranians think",
           "link": "https://www.aljazeera.com/video/the-take-2/2026/3/6/tt_irn_usiranthursday_av_v3-050326?traffic_source=rss",
           "published": "Fri, 06 Mar 2026 19:42:36 +0000"
@@ -128,12 +134,6 @@
           "title": "US customs agency says it is not yet able to reimburse tariff costs",
           "link": "https://www.aljazeera.com/news/2026/3/6/us-customs-agency-says-it-is-not-yet-able-to-reimburse-tariff-costs?traffic_source=rss",
           "published": "Fri, 06 Mar 2026 18:56:10 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Zelenskyy visits front line as Ukraine and Russia swap 500 prisoners each",
-          "link": "https://www.aljazeera.com/news/2026/3/6/zelenskyy-visits-front-line-as-ukraine-and-russia-swap-500-prisoners-each?traffic_source=rss",
-          "published": "Fri, 06 Mar 2026 18:48:19 +0000"
         }
       ]
     }
