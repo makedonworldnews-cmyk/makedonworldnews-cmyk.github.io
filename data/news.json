@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-06T17:42:02Z",
+  "updatedAt": "2026-03-06T18:25:08Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "(Фото) Пуштени во употреба обновените спортски терени на кејот на Вардар",
+          "link": "https://makfax.com.mk/makedonija/pushteni-vo-upotreba-obnovenite-sportski-tereni-na-kejot-na-vardar/",
+          "published": "Fri, 06 Mar 2026 18:24:24 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Турција побарала помош од британската тајна служба за заштита на сирискиот претседател",
+          "link": "https://makfax.com.mk/svet/turczija-bara-pomosh-od-britanskata-tajna-sluzhba-za-zashtita-na-siriskiot-pretsedatel/",
+          "published": "Fri, 06 Mar 2026 17:58:48 +0000"
         },
         {
           "source": "Makfax",
@@ -29,16 +41,10 @@
           "published": "Fri, 06 Mar 2026 17:08:01 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "„Зајакнувањето на жените значи зајакнување на целото општество“",
-          "link": "https://makfax.com.mk/makedonija/zajaknuvaneto-na-zhenite-znachi-zajaknuvane-na-czeloto-opshtestvo/",
-          "published": "Fri, 06 Mar 2026 16:47:06 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Лажен лекар измамил кавадарчанка за 5.000 евра",
-          "link": "https://makfax.com.mk/crna-hronika/lazhen-lekar-izmamil-kavadarchanka-za-5-000-evra/",
-          "published": "Fri, 06 Mar 2026 16:20:02 +0000"
+          "source": "NetPress",
+          "title": "Водата во Струга безбедна за пиење, по еден месец тргната забраната",
+          "link": "https://netpress.com.mk/1057376-2/",
+          "published": "Fri, 06 Mar 2026 18:15:11 +0000"
         },
         {
           "source": "NetPress",
@@ -63,12 +69,6 @@
           "title": "Трамп веќе има неколку добри кандидати на ум за следниот ајатолах на Иран",
           "link": "https://netpress.com.mk/tramp-veke-ima-nekolku-dobri-kandidati-na-um-za-sledniot-ajatolah-na-iran/",
           "published": "Fri, 06 Mar 2026 16:57:10 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Турчин возел мигранти во „дачија“ кај Гевгелија",
-          "link": "https://netpress.com.mk/turchin-vozel-migranti-vo-dachija-kaj-gevgelija/",
-          "published": "Fri, 06 Mar 2026 16:39:41 +0000"
         }
       ]
     },
@@ -107,6 +107,18 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Has Donald Trump failed to sell the Iran war to the world?",
+          "link": "https://www.aljazeera.com/video/inside-story/2026/3/6/has-donald-trump-failed-to-sell-the-iran-war-to-the-world?traffic_source=rss",
+          "published": "Fri, 06 Mar 2026 17:34:14 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "How will the Middle East conflict affect global energy prices?",
+          "link": "https://www.aljazeera.com/video/counting-the-cost/2026/3/6/how-will-the-middle-east-conflict-affect-global-energy-prices?traffic_source=rss",
+          "published": "Fri, 06 Mar 2026 17:30:00 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "US job market stalls, unemployment rate rises before Fed decision",
           "link": "https://www.aljazeera.com/economy/2026/3/6/us-job-market-stalls-unemployment-rate-rises-before-fed-decision?traffic_source=rss",
           "published": "Fri, 06 Mar 2026 17:11:16 +0000"
@@ -122,18 +134,6 @@
           "title": "Israel extending ‘Gaza playbook’ to Lebanon, charity warns",
           "link": "https://www.aljazeera.com/news/2026/3/6/israel-extending-gaza-playbook-to-lebanon-charity-warns?traffic_source=rss",
           "published": "Fri, 06 Mar 2026 16:21:39 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "In a bid to counter China, Trump hosts a summit for Latin America leaders",
-          "link": "https://www.aljazeera.com/news/2026/3/6/in-a-bid-to-counter-china-trump-hosts-a-summit-for-latin-america-leaders?traffic_source=rss",
-          "published": "Fri, 06 Mar 2026 15:55:29 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Thousands of Syrian refugees flee Lebanon after Israeli strikes",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/6/thousands-of-syrian-refugees-flee-lebanon-after-israeli-strikes?traffic_source=rss",
-          "published": "Fri, 06 Mar 2026 15:45:36 +0000"
         }
       ]
     }
