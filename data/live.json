@@ -1,6 +1,13 @@
 {
-  "generated_at": "2026-03-06T21:56:47Z",
+  "generated_at": "2026-03-06T22:25:05Z",
   "items": [
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "(Видео) Прв пораз на ПСЖ на „Паркот на принцовите“ – Монако победи во Париз",
+      "link": "https://makfax.com.mk/sport/video-prv-poraz-na-pszh-na-parkot-na-princzovite-monako-pobedi-vo-pariz/",
+      "published": "Fri, 06 Mar 2026 22:10:48 +0000"
+    },
     {
       "region": "Македонија",
       "source": "Makfax",
@@ -31,10 +38,17 @@
     },
     {
       "region": "Македонија",
-      "source": "Makfax",
-      "title": "(Видео) Израел објави како изгледал бункерот на ајатолахот",
-      "link": "https://makfax.com.mk/svet/video-izrael-objavi-kako-izgledal-bunkerot-na-ajatolahot/",
-      "published": "Fri, 06 Mar 2026 19:52:57 +0000"
+      "source": "NetPress",
+      "title": "Лекари во Куманово издаваат потврда за смрт после карање",
+      "link": "https://netpress.com.mk/lekari-vo-kumanovo-izdavaat-potvrda-za-smrt-posle-karane/",
+      "published": "Fri, 06 Mar 2026 22:16:24 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "NetPress",
+      "title": "Одново лажен лекар во Кавадарци – 81 годишна кавадарчанка измамена за 300.000 денари",
+      "link": "https://netpress.com.mk/odnovo-lazhen-lekar-vo-kavadarczi-81-godishna-kavadarchanka-izmamena-za-300-000-denari/",
+      "published": "Fri, 06 Mar 2026 22:12:47 +0000"
     },
     {
       "region": "Македонија",
@@ -42,13 +56,6 @@
       "title": "Во Липковско жител пресретнал и пукал кон сограѓани",
       "link": "https://netpress.com.mk/vo-lipkovsko-zhitel-presretnal-i-pukal-kon-sogragani/",
       "published": "Fri, 06 Mar 2026 21:45:43 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Скопјанец „падна“ со марихуана во центарот на Кичево",
-      "link": "https://netpress.com.mk/skopjanecz-padna-so-marihuana-vo-czentarot-na-kichevo-2/",
-      "published": "Fri, 06 Mar 2026 21:39:38 +0000"
     },
     {
       "region": "Македонија",
@@ -63,13 +70,6 @@
       "title": "Тинејџер во Тетово со нож ранил сограѓанин",
       "link": "https://netpress.com.mk/tinejdher-vo-tetovo-so-nozh-ranil-sograganin/",
       "published": "Fri, 06 Mar 2026 21:04:40 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Организирана евакуација од Блиски Исток ќе почне в недела",
-      "link": "https://netpress.com.mk/organizirana-evakuaczija-od-bliski-istok-ke-pochne-v-nedela/",
-      "published": "Fri, 06 Mar 2026 20:21:57 +0000"
     },
     {
       "region": "Свет",
@@ -109,6 +109,27 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "Why did the US torpedo Iran’s ‘prize’ warship?",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/6/why-did-the-us-torpedo-irans-prize-warship?traffic_source=rss",
+      "published": "Fri, 06 Mar 2026 22:04:02 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "People are tracking this shepherd fleeing Israeli strikes in Lebanon",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/6/people-are-tracking-this-shepherd-fleeing-israeli-strikes-in-lebanon?traffic_source=rss",
+      "published": "Fri, 06 Mar 2026 21:50:17 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "US issues limited licence for Venezuelan gold following high-level visit",
+      "link": "https://www.aljazeera.com/news/2026/3/6/us-issues-limited-licence-for-venezuelan-gold-following-high-level-visit?traffic_source=rss",
+      "published": "Fri, 06 Mar 2026 21:31:09 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "Strikes on Iran to last ‘four to six weeks’, White House says",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/3/6/strikes-on-iran-to-last-four-to-six-weeks-white-house-says?traffic_source=rss",
       "published": "Fri, 06 Mar 2026 20:46:20 +0000"
@@ -119,27 +140,6 @@
       "title": "US and Israel attacking Iran at ‘record pace’, war monitor says",
       "link": "https://www.aljazeera.com/news/2026/3/6/us-and-israel-attacking-iran-at-record-pace-war-monitor-says?traffic_source=rss",
       "published": "Fri, 06 Mar 2026 20:37:21 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Human rights court orders reparations for forced sterilisation case in Peru",
-      "link": "https://www.aljazeera.com/news/2026/3/6/human-rights-court-orders-reparations-for-forced-sterilisation-case-in-peru?traffic_source=rss",
-      "published": "Fri, 06 Mar 2026 20:31:37 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Spanish politician slams those using ‘feminism’ as excuse for Iran war",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/6/spanish-politician-slams-those-using-feminism-as-excuse-for-iran-war?traffic_source=rss",
-      "published": "Fri, 06 Mar 2026 20:02:44 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Messi criticised for applauding Trump amid US attacks on Iran",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/6/messi-criticised-for-applauding-trump-amid-us-attacks-on-iran?traffic_source=rss",
-      "published": "Fri, 06 Mar 2026 19:56:35 +0000"
     }
   ]
 }
