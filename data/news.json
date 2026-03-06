@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-06T23:36:28Z",
+  "updatedAt": "2026-03-06T23:55:47Z",
   "groups": [
     {
       "region": "Македонија",
@@ -107,6 +107,12 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Real Madrid beat Celta Vigo to close on Barcelona with Valverde late goal",
+          "link": "https://www.aljazeera.com/sports/2026/3/6/real-madrid-beat-celta-vigo-to-close-on-barcelona-with-valverde-late-goal?traffic_source=rss",
+          "published": "Fri, 06 Mar 2026 23:34:21 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Iranian UN ambassador condemns US-Israeli ‘criminal war’",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/3/6/iranian-un-ambassador-condemns-us-israeli-criminal?traffic_source=rss",
           "published": "Fri, 06 Mar 2026 23:14:05 +0000"
@@ -128,12 +134,6 @@
           "title": "Qatar partially reopens airspace as Iranian strikes continue to hit Gulf",
           "link": "https://www.aljazeera.com/news/2026/3/6/qatar-partially-reopens-airspace-as-iranian-strikes-continue-to-hit-gulf?traffic_source=rss",
           "published": "Fri, 06 Mar 2026 22:08:19 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Why did the US torpedo Iran’s ‘prize’ warship?",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/6/why-did-the-us-torpedo-irans-prize-warship?traffic_source=rss",
-          "published": "Fri, 06 Mar 2026 22:04:02 +0000"
         }
       ]
     }
