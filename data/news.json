@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-06T20:16:17Z",
+  "updatedAt": "2026-03-06T20:50:42Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Евакуацијата на македонските државјани од земјите од Блискиот Исток ќе почне в недела",
+          "link": "https://makfax.com.mk/makedonija/evakuaczijata-na-makedonskite-drzhavjani-od-zemjite-od-bliskiot-istok-ke-pochne-v-nedela/",
+          "published": "Fri, 06 Mar 2026 20:29:36 +0000"
         },
         {
           "source": "Makfax",
@@ -35,10 +41,10 @@
           "published": "Fri, 06 Mar 2026 19:43:05 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Домен Превц испиша историја во ски-скоковите",
-          "link": "https://makfax.com.mk/sport/domen-prevcz-ispisha-istorija-vo-ski-skokovite/",
-          "published": "Fri, 06 Mar 2026 19:22:57 +0000"
+          "source": "NetPress",
+          "title": "Организирана евакуација од Блиски Исток ќе почне в недела",
+          "link": "https://netpress.com.mk/organizirana-evakuaczija-od-bliski-istok-ke-pochne-v-nedela/",
+          "published": "Fri, 06 Mar 2026 20:21:57 +0000"
         },
         {
           "source": "NetPress",
@@ -63,12 +69,6 @@
           "title": "Ќе се осветлува Камениот мост – со турска донација",
           "link": "https://netpress.com.mk/ke-se-osvetluva-kameniot-most-so-turska-donaczija/",
           "published": "Fri, 06 Mar 2026 19:09:25 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Водата во Струга безбедна за пиење, по еден месец тргната забраната",
-          "link": "https://netpress.com.mk/1057376-2/",
-          "published": "Fri, 06 Mar 2026 18:15:11 +0000"
         }
       ]
     },
@@ -107,6 +107,12 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Spanish politician slams those using ‘feminism’ as excuse for Iran war",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/6/spanish-politician-slams-those-using-feminism-as-excuse-for-iran-war?traffic_source=rss",
+          "published": "Fri, 06 Mar 2026 20:02:44 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Messi criticised for applauding Trump amid US attacks on Iran",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/3/6/messi-criticised-for-applauding-trump-amid-us-attacks-on-iran?traffic_source=rss",
           "published": "Fri, 06 Mar 2026 19:56:35 +0000"
@@ -128,12 +134,6 @@
           "title": "Iran’s future will be determined by Iranians, not Trump, officials say",
           "link": "https://www.aljazeera.com/news/2026/3/6/irans-future-will-be-determined-by-iranians-not-trump-officials-say?traffic_source=rss",
           "published": "Fri, 06 Mar 2026 19:29:26 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "US customs agency says it is not yet able to reimburse tariff costs",
-          "link": "https://www.aljazeera.com/news/2026/3/6/us-customs-agency-says-it-is-not-yet-able-to-reimburse-tariff-costs?traffic_source=rss",
-          "published": "Fri, 06 Mar 2026 18:56:10 +0000"
         }
       ]
     }
