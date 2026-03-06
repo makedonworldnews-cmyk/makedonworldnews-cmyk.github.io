@@ -1,6 +1,20 @@
 {
-  "generated_at": "2026-03-06T17:31:09Z",
+  "generated_at": "2026-03-06T18:02:34Z",
   "items": [
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "Турција побарала помош од британската тајна служба за заштита на сирискиот претседател",
+      "link": "https://makfax.com.mk/svet/turczija-bara-pomosh-od-britanskata-tajna-sluzhba-za-zashtita-na-siriskiot-pretsedatel/",
+      "published": "Fri, 06 Mar 2026 17:58:48 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "Германија повлекува дополнителни сили од Блискиот Исток поради војната",
+      "link": "https://makfax.com.mk/svet/germanija-povlekuva-dopolnitelni-sili-od-bliskiot-istok-poradi-vojnata/",
+      "published": "Fri, 06 Mar 2026 17:31:58 +0000"
+    },
     {
       "region": "Македонија",
       "source": "Makfax",
@@ -24,17 +38,10 @@
     },
     {
       "region": "Македонија",
-      "source": "Makfax",
-      "title": "Лажен лекар измамил кавадарчанка за 5.000 евра",
-      "link": "https://makfax.com.mk/crna-hronika/lazhen-lekar-izmamil-kavadarchanka-za-5-000-evra/",
-      "published": "Fri, 06 Mar 2026 16:20:02 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "Makfax",
-      "title": "Шпанскиот премиер: Нападите врз Иран се голема грешка",
-      "link": "https://makfax.com.mk/svet/shpanskiot-premier-napadite-vrz-iran-se-golema-greshka/",
-      "published": "Fri, 06 Mar 2026 16:16:19 +0000"
+      "source": "NetPress",
+      "title": "Скопјанец „падна“ со марихуана во центарот на Кичево",
+      "link": "https://netpress.com.mk/skopjanecz-padna-so-marihuana-vo-czentarot-na-kichevo/",
+      "published": "Fri, 06 Mar 2026 17:35:02 +0000"
     },
     {
       "region": "Македонија",
@@ -63,13 +70,6 @@
       "title": "Турчин возел мигранти во „дачија“ кај Гевгелија",
       "link": "https://netpress.com.mk/turchin-vozel-migranti-vo-dachija-kaj-gevgelija/",
       "published": "Fri, 06 Mar 2026 16:39:41 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "В понеделник без вода дел од Тафталиџе",
-      "link": "https://netpress.com.mk/v-ponedelnik-bez-voda-del-od-taftalidhe/",
-      "published": "Fri, 06 Mar 2026 16:08:03 +0000"
     },
     {
       "region": "Свет",
@@ -109,6 +109,20 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "Has Donald Trump failed to sell the Iran war to the world?",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/3/6/has-donald-trump-failed-to-sell-the-iran-war-to-the-world?traffic_source=rss",
+      "published": "Fri, 06 Mar 2026 17:34:14 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "How will the Middle East conflict affect global energy prices?",
+      "link": "https://www.aljazeera.com/video/counting-the-cost/2026/3/6/how-will-the-middle-east-conflict-affect-global-energy-prices?traffic_source=rss",
+      "published": "Fri, 06 Mar 2026 17:30:00 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "US job market stalls, unemployment rate rises before Fed decision",
       "link": "https://www.aljazeera.com/economy/2026/3/6/us-job-market-stalls-unemployment-rate-rises-before-fed-decision?traffic_source=rss",
       "published": "Fri, 06 Mar 2026 17:11:16 +0000"
@@ -126,20 +140,6 @@
       "title": "Israel extending ‘Gaza playbook’ to Lebanon, charity warns",
       "link": "https://www.aljazeera.com/news/2026/3/6/israel-extending-gaza-playbook-to-lebanon-charity-warns?traffic_source=rss",
       "published": "Fri, 06 Mar 2026 16:21:39 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "In a bid to counter China, Trump hosts a summit for Latin America leaders",
-      "link": "https://www.aljazeera.com/news/2026/3/6/in-a-bid-to-counter-china-trump-hosts-a-summit-for-latin-america-leaders?traffic_source=rss",
-      "published": "Fri, 06 Mar 2026 15:55:29 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Thousands of Syrian refugees flee Lebanon after Israeli strikes",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/6/thousands-of-syrian-refugees-flee-lebanon-after-israeli-strikes?traffic_source=rss",
-      "published": "Fri, 06 Mar 2026 15:45:36 +0000"
     }
   ]
 }
