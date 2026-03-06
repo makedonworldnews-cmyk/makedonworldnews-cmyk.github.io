@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-06T02:47:54Z",
+  "generated_at": "2026-03-06T04:23:55Z",
   "items": [
     {
       "region": "Македонија",
@@ -109,6 +109,13 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "US House joins Senate to vote down war powers resolution",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/6/us-house-joins-senate-to-vote-down-war-powers-resolution?traffic_source=rss",
+      "published": "Fri, 06 Mar 2026 03:20:48 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "Video shows projectile exploding near Ali al-Salem Air Base in Kuwait",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/3/6/video-shows-projectile-exploding-near-ali-al-salem-air-base-in-kuwait?traffic_source=rss",
       "published": "Fri, 06 Mar 2026 01:32:29 +0000"
@@ -133,13 +140,6 @@
       "title": "US says Iran missile attacks down 90% after strikes from B-2 bombers",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/3/6/us-says-iran-missile-attacks-down-90-after-strikes-from-b-2-bombers?traffic_source=rss",
       "published": "Fri, 06 Mar 2026 00:39:14 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Iran war live: Trump says Iran being ‘demolished’ as Gulf attacks continue",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/3/6/iran-live-trump-says-iran-being-demolished-tehran-keeps-up-gulf-attacks?traffic_source=rss",
-      "published": "Fri, 06 Mar 2026 00:00:00 +0000"
     }
   ]
 }
