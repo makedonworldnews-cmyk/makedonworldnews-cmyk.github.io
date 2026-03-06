@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-06T02:50:39Z",
+  "updatedAt": "2026-03-06T04:42:19Z",
   "groups": [
     {
       "region": "Македонија",
@@ -83,6 +83,18 @@
         },
         {
           "source": "BBC",
+          "title": "Trump cuts his losses on Noem after controversial tenure at homeland security",
+          "link": "https://www.bbc.com/news/articles/c2e4v7yvjx8o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 05 Mar 2026 22:16:24 GMT"
+        },
+        {
+          "source": "BBC",
+          "title": "US and Venezuela agree to resume diplomatic ties after Maduro capture",
+          "link": "https://www.bbc.com/news/articles/cy9g1l5jx90o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 06 Mar 2026 04:23:12 GMT"
+        },
+        {
+          "source": "BBC",
           "title": "'We have been preparing': Why the boots on the ground in Iran could be Kurdish",
           "link": "https://www.bbc.com/news/articles/cm215nnjyr0o?at_medium=RSS&at_campaign=rss",
           "published": "Thu, 05 Mar 2026 21:20:49 GMT"
@@ -94,16 +106,10 @@
           "published": "Thu, 05 Mar 2026 18:19:34 GMT"
         },
         {
-          "source": "BBC",
-          "title": "Azerbaijan says Iran struck its territory, as war spills over border",
-          "link": "https://www.bbc.com/news/articles/c1e9qpy90g3o?at_medium=RSS&at_campaign=rss",
-          "published": "Thu, 05 Mar 2026 21:33:48 GMT"
-        },
-        {
-          "source": "BBC",
-          "title": "Britney Spears arrested in California on suspicion of driving under the influence",
-          "link": "https://www.bbc.com/news/articles/c4gjjn41l7no?at_medium=RSS&at_campaign=rss",
-          "published": "Fri, 06 Mar 2026 00:51:38 GMT"
+          "source": "Al Jazeera",
+          "title": "US House joins Senate to vote down war powers resolution",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/6/us-house-joins-senate-to-vote-down-war-powers-resolution?traffic_source=rss",
+          "published": "Fri, 06 Mar 2026 03:20:48 +0000"
         },
         {
           "source": "Al Jazeera",
@@ -128,12 +134,6 @@
           "title": "US says Iran missile attacks down 90% after strikes from B-2 bombers",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/3/6/us-says-iran-missile-attacks-down-90-after-strikes-from-b-2-bombers?traffic_source=rss",
           "published": "Fri, 06 Mar 2026 00:39:14 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Iran war live: Trump says Iran being ‘demolished’ as Gulf attacks continue",
-          "link": "https://www.aljazeera.com/news/liveblog/2026/3/6/iran-live-trump-says-iran-being-demolished-tehran-keeps-up-gulf-attacks?traffic_source=rss",
-          "published": "Fri, 06 Mar 2026 00:00:00 +0000"
         }
       ]
     }
