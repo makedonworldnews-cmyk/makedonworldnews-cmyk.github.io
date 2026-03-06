@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-06T21:30:47Z",
+  "updatedAt": "2026-03-06T21:56:18Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) Елмас стрелец во триумфот на Наполи",
+          "link": "https://makfax.com.mk/sport/video-elmas-strelecz-vo-triumfot-na-napoli/",
+          "published": "Fri, 06 Mar 2026 21:54:50 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) Без Кејн, Баерн рутински славеше против Борусија",
+          "link": "https://makfax.com.mk/sport/video-bez-kejn-baern-rutinski-slaveshe-protiv-borusija/",
+          "published": "Fri, 06 Mar 2026 21:42:48 +0000"
         },
         {
           "source": "Makfax",
@@ -29,16 +41,16 @@
           "published": "Fri, 06 Mar 2026 19:52:57 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Иран бомбардира центри за податоци, серверите на „Амазон“ во ОАЕ и Бахреин се погодени",
-          "link": "https://makfax.com.mk/svet/iran-bombardira-czentri-za-podatoczi-serverite-na-amazon-vo-oae-i-bahrein-se-pogodeni/",
-          "published": "Fri, 06 Mar 2026 19:48:54 +0000"
+          "source": "NetPress",
+          "title": "Во Липковско жител пресретнал и пукал кон сограѓани",
+          "link": "https://netpress.com.mk/vo-lipkovsko-zhitel-presretnal-i-pukal-kon-sogragani/",
+          "published": "Fri, 06 Mar 2026 21:45:43 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Ѓорѓиевски најави декоративно осветлување на Камениот мост",
-          "link": "https://makfax.com.mk/makedonija/gorgievski-najavi-dekorativno-osvetluvane-na-kameniot-most/",
-          "published": "Fri, 06 Mar 2026 19:43:05 +0000"
+          "source": "NetPress",
+          "title": "Скопјанец „падна“ со марихуана во центарот на Кичево",
+          "link": "https://netpress.com.mk/skopjanecz-padna-so-marihuana-vo-czentarot-na-kichevo-2/",
+          "published": "Fri, 06 Mar 2026 21:39:38 +0000"
         },
         {
           "source": "NetPress",
@@ -57,18 +69,6 @@
           "title": "Организирана евакуација од Блиски Исток ќе почне в недела",
           "link": "https://netpress.com.mk/organizirana-evakuaczija-od-bliski-istok-ke-pochne-v-nedela/",
           "published": "Fri, 06 Mar 2026 20:21:57 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Естонец притворен во Скопје за силување 14-годишен малолетник",
-          "link": "https://netpress.com.mk/estonecz-pritvoren-vo-skopje-za-siluvane-14-godishen-maloletnik/",
-          "published": "Fri, 06 Mar 2026 20:11:25 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Германија повлекува дополнителни сили од Блискиот Исток поради војната",
-          "link": "https://netpress.com.mk/germanija-povlekuva-dopolnitelni-sili-od-bliskiot-istok-poradi-vojnata/",
-          "published": "Fri, 06 Mar 2026 19:37:25 +0000"
         }
       ]
     },
