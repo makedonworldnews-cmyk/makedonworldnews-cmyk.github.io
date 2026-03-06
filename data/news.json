@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-06T11:37:25Z",
+  "updatedAt": "2026-03-06T11:57:42Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,24 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Дмитриев: „Енергетско цунами“ над Европа",
+          "link": "https://makfax.com.mk/svet/dmitriev-energetsko-czunami-nad-evropa/",
+          "published": "Fri, 06 Mar 2026 11:54:36 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Ника Превц ја забележа рекордната 16-та победа во сезоната",
+          "link": "https://makfax.com.mk/sport/nika-prevcz-ja-zabelezha-rekordnata-16-ta-pobeda-vo-sezonata/",
+          "published": "Fri, 06 Mar 2026 11:46:49 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Кремљ: Побарувачката за руски енергетски производи брзо расте",
+          "link": "https://makfax.com.mk/svet/kreml-pobaruvachkata-za-ruski-energetski-proizvodi-brzo-raste/",
+          "published": "Fri, 06 Mar 2026 11:41:08 +0000"
         },
         {
           "source": "Makfax",
@@ -23,22 +41,16 @@
           "published": "Fri, 06 Mar 2026 11:19:45 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "(Видео) Стојаноски: 18.000 нови работни места во последните шест квартали, економијата се движи во позитивна насока",
-          "link": "https://makfax.com.mk/ekonomija/video-stojanoski-18-000-novi-rabotni-mesta-vo-poslednite-shest-kvartali-ekonomijata-se-dvizhi-vo-pozitivna-nasoka/",
-          "published": "Fri, 06 Mar 2026 11:16:46 +0000"
+          "source": "NetPress",
+          "title": "Филипче немаше па имаше златна виза, не се познава па се познава со Котев, сега не го знае Борче Марковски, дали истото ќе важи и за него?",
+          "link": "https://netpress.com.mk/filipche-nemashe-pa-imashe-zlatna-viza-ne-se-poznava-pa-se-poznava-so-kotev-sega-ne-go-znae-borche-markovski-dali-istoto-ke-vazhi-i-za-nego/",
+          "published": "Fri, 06 Mar 2026 11:57:38 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "(Видео) Лефков: Политиките на СДС со Заев и Филипче ја оддалечија Македонија од демократските стандарди, а ја приближија кон руската политика",
-          "link": "https://makfax.com.mk/makedonija/video-lefkov-politikite-na-sds-so-zaev-i-filipche-ja-oddalechija-makedonija-od-demokratskite-standardi-a-ja-priblizhija-kon-ruskata-politika/",
-          "published": "Fri, 06 Mar 2026 11:12:49 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "(Видео) Иранските фудбалери се соочуваат со смртна казна",
-          "link": "https://makfax.com.mk/sport/video-iranskite-fudbaleri-se-soochuvaat-so-smrtna-kazna/",
-          "published": "Fri, 06 Mar 2026 11:11:50 +0000"
+          "source": "NetPress",
+          "title": "Танкерите со течен гас се пренасочуваат кон Азија",
+          "link": "https://netpress.com.mk/tankerite-so-techen-gas-se-prenasochuvaat-kon-azija/",
+          "published": "Fri, 06 Mar 2026 11:50:31 +0000"
         },
         {
           "source": "NetPress",
@@ -57,18 +69,6 @@
           "title": "Ќе бидеме првата земја во регионот што ги исполнува условите за европски роаминг",
           "link": "https://netpress.com.mk/ke-bideme-prvata-zemja-vo-regionot-shto-gi-ispolnuva-uslovite-za-evropski-roaming/",
           "published": "Fri, 06 Mar 2026 11:21:54 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Отворени 18.000 нови работни места во последните шест квартали",
-          "link": "https://netpress.com.mk/otvoreni-18-000-novi-rabotni-mesta-vo-poslednite-shest-kvartali/",
-          "published": "Fri, 06 Mar 2026 11:18:01 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Мицкоски телефонски разговарал со премиерот на Катар за случувањата на Блискиот Исток",
-          "link": "https://netpress.com.mk/miczkoski-telefonski-razgovaral-so-premierot-na-katar-za-sluchuvanata-na-bliskiot-istok/",
-          "published": "Fri, 06 Mar 2026 11:14:11 +0000"
         }
       ]
     },
@@ -107,6 +107,18 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "The end of Iran’s strategic patience",
+          "link": "https://www.aljazeera.com/opinions/2026/3/6/the-end-of-irans-strategic-patience?traffic_source=rss",
+          "published": "Fri, 06 Mar 2026 11:44:23 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "‘Segregation’: Multimillion-dollar crime wall causes uproar in S Africa",
+          "link": "https://www.aljazeera.com/features/2026/3/6/segregation-multimillion-dollar-crime-wall-causes-uproar-in-s-africa?traffic_source=rss",
+          "published": "Fri, 06 Mar 2026 11:31:36 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "A weak Iran would backfire on the United States",
           "link": "https://www.aljazeera.com/opinions/2026/3/6/a-weak-iran-would-backfire-on-the-united-states?traffic_source=rss",
           "published": "Fri, 06 Mar 2026 11:08:38 +0000"
@@ -122,18 +134,6 @@
           "title": "Pastors pray for Trump as strikes on Iran continue",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/3/6/pastors-pray-for-trump-as-strikes-on-iran-continue?traffic_source=rss",
           "published": "Fri, 06 Mar 2026 10:54:36 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Huge explosion seen in Tehran as strikes on Iran continue",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/6/huge-explosion-seen-in-tehran-as-strikes-on-iran-continue?traffic_source=rss",
-          "published": "Fri, 06 Mar 2026 10:39:15 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Russian attacks on Kramatorsk escalate Ukraine war as Kyiv regains ground",
-          "link": "https://www.aljazeera.com/news/2026/3/6/russian-attacks-on-kramatorsk-escalate-ukraine-war-as-kyiv-regains-ground?traffic_source=rss",
-          "published": "Fri, 06 Mar 2026 10:38:53 +0000"
         }
       ]
     }
