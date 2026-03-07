@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-07T09:45:47Z",
+  "updatedAt": "2026-03-07T09:59:23Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Конте: Среќа е што го имаме Елмас",
+          "link": "https://makfax.com.mk/sport/konte-sreka-e-shto-go-imame-elmas/",
+          "published": "Sat, 07 Mar 2026 09:55:48 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Гризман се премисли, ќе остане до крајот на сезоната",
+          "link": "https://makfax.com.mk/sport/grizman-se-premisli-ke-ostane-do-krajot-na-sezonata/",
+          "published": "Sat, 07 Mar 2026 09:47:48 +0000"
         },
         {
           "source": "Makfax",
@@ -29,16 +41,10 @@
           "published": "Sat, 07 Mar 2026 09:32:42 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "(Видео) На „Тик-Ток“ ги споредуваат песните: мелодија од новата песна на Хари Стајлс потсетува на „Лутка“ на С.А.Р.С.",
-          "link": "https://makfax.com.mk/zanimlivosti/video-na-tik-tok-gi-sporeduvaat-pesnite-melodija-od-novata-pesna-na-hari-stajls-potsetuva-na-lutka-na-s-a-r-s/",
-          "published": "Sat, 07 Mar 2026 09:22:25 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Иран се извини за нападите врз соседните земји и најави прекин",
-          "link": "https://makfax.com.mk/svet/iran-se-izvini-za-napadite-vrz-sosednite-zemji-i-najavi-prekin/",
-          "published": "Sat, 07 Mar 2026 09:09:45 +0000"
+          "source": "NetPress",
+          "title": "Цените на храната пораснаа во февруари",
+          "link": "https://netpress.com.mk/czenite-na-hranata-porasnaa-vo-fevruari/",
+          "published": "Sat, 07 Mar 2026 09:54:54 +0000"
         },
         {
           "source": "NetPress",
@@ -63,12 +69,6 @@
           "title": "На лекар само со лична карта",
           "link": "https://netpress.com.mk/na-lekar-samo-so-lichna-karta/",
           "published": "Sat, 07 Mar 2026 09:10:12 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Привремениот совет на Иран одлучи да ги запре нападите во соседните земји, Пезешкијан се извини",
-          "link": "https://netpress.com.mk/privremeniot-sovet-na-iran-odluchi-da-go-zapre-napadite-vo-sosednite-zemji-pezeshkijan-se-izvini/",
-          "published": "Sat, 07 Mar 2026 08:56:39 +0000"
         }
       ]
     },
