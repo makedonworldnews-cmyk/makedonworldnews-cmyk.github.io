@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-07T10:34:32Z",
+  "updatedAt": "2026-03-07T10:53:47Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,24 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Кардиолог предлага со што да ги замените чипсот и слатките",
+          "link": "https://makfax.com.mk/zanimlivosti/kardiolog-predlaga-so-shto-da-gi-zamenite-chipsot-i-slatkite/",
+          "published": "Sat, 07 Mar 2026 10:49:49 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Шест романи во најтесниот избор за наградата „Роман на годината“",
+          "link": "https://makfax.com.mk/kultura/shest-romani-vo-najtesniot-izbor-za-nagradata-roman-na-godinata/",
+          "published": "Sat, 07 Mar 2026 10:40:03 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) Форумот на жени на СДСМ обвинува: МВР потфрли во низа трагедии, Тошковски да поднесе оставка",
+          "link": "https://makfax.com.mk/makedonija/video-forumot-na-zheni-na-sdsm-obvinuva-mvr-potfrli-vo-niza-tragedii-toshkovski-da-podnese-ostavka/",
+          "published": "Sat, 07 Mar 2026 10:37:29 +0000"
         },
         {
           "source": "Makfax",
@@ -23,22 +41,10 @@
           "published": "Sat, 07 Mar 2026 10:22:21 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Семејно насилство во Скопје: Со пиштол пукал кон сопругата, куршумот се одбил од паркетот и завршил во прозорецот",
-          "link": "https://makfax.com.mk/crna-hronika/semejno-nasilstvo-vo-skopje-so-pishtol-pukal-kon-soprugata-kurshumot-se-odbil-od-parketot-i-zavrshil-vo-prozoreczot/",
-          "published": "Sat, 07 Mar 2026 10:20:25 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Конте: Среќа е што го имаме Елмас",
-          "link": "https://makfax.com.mk/sport/konte-sreka-e-shto-go-imame-elmas/",
-          "published": "Sat, 07 Mar 2026 09:55:48 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Гризман се премисли, ќе остане до крајот на сезоната",
-          "link": "https://makfax.com.mk/sport/grizman-se-premisli-ke-ostane-do-krajot-na-sezonata/",
-          "published": "Sat, 07 Mar 2026 09:47:48 +0000"
+          "source": "NetPress",
+          "title": "Американскиот спринтер Керли суспендиран на две години",
+          "link": "https://netpress.com.mk/amerikanskiot-sprinter-kerli-suspendiran-na-dve-godini/",
+          "published": "Sat, 07 Mar 2026 10:43:22 +0000"
         },
         {
           "source": "NetPress",
@@ -63,12 +69,6 @@
           "title": "Цените на храната пораснаа во февруари",
           "link": "https://netpress.com.mk/czenite-na-hranata-porasnaa-vo-fevruari/",
           "published": "Sat, 07 Mar 2026 09:54:54 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Индијан Велс: Резултати",
-          "link": "https://netpress.com.mk/indijan-vels-rezultati/",
-          "published": "Sat, 07 Mar 2026 09:40:18 +0000"
         }
       ]
     },
