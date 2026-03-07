@@ -1,6 +1,20 @@
 {
-  "generated_at": "2026-03-07T18:54:25Z",
+  "generated_at": "2026-03-07T19:16:24Z",
   "items": [
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "(Видео) Хеликоптерска акција на Шар Планина: Спасена повредена Италијанка",
+      "link": "https://makfax.com.mk/svet/video-helikopterska-akczija-na-shar-planina-spasena-povredena-italijanska-drzhavjanka/",
+      "published": "Sat, 07 Mar 2026 19:04:39 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "Приведен скопјанец: ја следел, фотографирал и вознемирувал жена со месеци",
+      "link": "https://makfax.com.mk/crna-hronika/priveden-skopjanecz-ja-sledel-fotografiral-i-voznemiruval-zhena-so-meseczi/",
+      "published": "Sat, 07 Mar 2026 19:00:50 +0000"
+    },
     {
       "region": "Македонија",
       "source": "Makfax",
@@ -24,17 +38,17 @@
     },
     {
       "region": "Македонија",
-      "source": "Makfax",
-      "title": "Двајца повредени во сообраќајка кај демирхисарско, возачот имал 1,66 промили алкохол",
-      "link": "https://makfax.com.mk/crna-hronika/dvajcza-povredeni-vo-soobrakajka-kaj-demirhisarsko-vozachot-imal-166-promili-alkohol/",
-      "published": "Sat, 07 Mar 2026 18:00:39 +0000"
+      "source": "NetPress",
+      "title": "Уапсени 13 возачи, меѓу нив и малолетници",
+      "link": "https://netpress.com.mk/uapseni-13-vozali-megu-niv-i-maloletniczi/",
+      "published": "Sat, 07 Mar 2026 19:04:05 +0000"
     },
     {
       "region": "Македонија",
-      "source": "Makfax",
-      "title": "СДСМ ќе поднесе предлог до Собранието за помош на производителите на зелка",
-      "link": "https://makfax.com.mk/makedonija/sdsm-ke-podnese-predlog-do-sobranieto-za-pomosh-na-proizvoditelite-na-zelka/",
-      "published": "Sat, 07 Mar 2026 17:34:35 +0000"
+      "source": "NetPress",
+      "title": "Вучиќ ја претстави стратегијата за развој „Србија 2030“",
+      "link": "https://netpress.com.mk/vuchik-ja-pretstavi-strategijata-za-razvoj-srbija-2030/",
+      "published": "Sat, 07 Mar 2026 19:00:41 +0000"
     },
     {
       "region": "Македонија",
@@ -56,20 +70,6 @@
       "title": "Адвокатот Тони Менкиноски добил десетгодишна забрана за влез во Бугарија",
       "link": "https://netpress.com.mk/advokatot-toni-menkinoski-dobil-desetgodishna-zabrana-za-vlez-vo-bugarija/",
       "published": "Sat, 07 Mar 2026 18:09:33 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Трамп тврди дека Куба преговара со него и Рубио",
-      "link": "https://netpress.com.mk/tramp-tvrdi-deka-kuba-pregovara-so-nego-i-rubio/",
-      "published": "Sat, 07 Mar 2026 17:44:49 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "ВМРО-ДПМНЕ: Дебакл на Шукова и Филипче, уште непочнат им пропадна осмомартовскиот марш, никој не сака да застане до нив",
-      "link": "https://netpress.com.mk/vmro-dpmne-debakl-na-shukova-i-filipche-ushte-nepochnat-im-propadna-osmomartovskiot-marsh-nikoj-ne-saka-da-zastane-do-niv/",
-      "published": "Sat, 07 Mar 2026 17:23:55 +0000"
     },
     {
       "region": "Свет",
@@ -109,6 +109,13 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "‘They’re cancer’: Trump threatens cartels, Cuba at Latin American summit",
+      "link": "https://www.aljazeera.com/news/2026/3/7/theyre-a-cancer-trump-threatens-cartels-cuba-at-latin-american-summit?traffic_source=rss",
+      "published": "Sat, 07 Mar 2026 18:56:30 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "Israel launches raid in Lebanon searching for missing pilot",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/3/7/israel-launches-raid-in-lebanon-searching-for-missing-pilot?traffic_source=rss",
       "published": "Sat, 07 Mar 2026 18:24:09 +0000"
@@ -133,13 +140,6 @@
       "title": "Tornadoes across central United States kill at least eight people",
       "link": "https://www.aljazeera.com/news/2026/3/7/tornadoes-across-central-united-states-kill-at-least-eight-people?traffic_source=rss",
       "published": "Sat, 07 Mar 2026 16:46:25 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "War against Iran: How far will it go?",
-      "link": "https://www.aljazeera.com/video/upfront/2026/3/7/war-against-iran-how-far-will-it-go?traffic_source=rss",
-      "published": "Sat, 07 Mar 2026 15:40:58 +0000"
     }
   ]
 }
