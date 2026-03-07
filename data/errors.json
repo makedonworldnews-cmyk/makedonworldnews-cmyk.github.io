@@ -1,10 +1,15 @@
 {
-  "generated_at": "2026-03-07T05:08:46Z",
+  "generated_at": "2026-03-07T05:50:26Z",
   "errors": [
     {
       "source": "МИА",
       "url": "https://mia.mk/rss",
       "error": "404 Client Error: Not Found for url: https://mia.mk/rss"
+    },
+    {
+      "source": "Makfax",
+      "url": "https://makfax.com.mk/feed/",
+      "error": "520 Server Error: <none> for url: https://makfax.com.mk/feed/"
     }
   ]
 }
