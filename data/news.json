@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-07T08:42:17Z",
+  "updatedAt": "2026-03-07T09:14:08Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Иран се извини за нападите врз соседните земји и најави прекин",
+          "link": "https://makfax.com.mk/svet/iran-se-izvini-za-napadite-vrz-sosednite-zemji-i-najavi-prekin/",
+          "published": "Sat, 07 Mar 2026 09:09:45 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "„Емирати“ повторно ги активира летовите од Дубаи по привремената суспензија",
+          "link": "https://makfax.com.mk/svet/emirati-povtorno-gi-aktivira-letovite-od-dubai-po-privremenata-suspenzija/",
+          "published": "Sat, 07 Mar 2026 09:00:18 +0000"
         },
         {
           "source": "Makfax",
@@ -29,16 +41,16 @@
           "published": "Sat, 07 Mar 2026 08:25:58 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Иранскиот претседател: Никогаш нема да се предадеме",
-          "link": "https://makfax.com.mk/svet/iranskiot-pretsedatel-nikogash-nema-da-se-predademe/",
-          "published": "Sat, 07 Mar 2026 08:19:22 +0000"
+          "source": "NetPress",
+          "title": "На лекар само со лична карта",
+          "link": "https://netpress.com.mk/na-lekar-samo-so-lichna-karta/",
+          "published": "Sat, 07 Mar 2026 09:10:12 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "(Видео) Експлозии на аеродромот во Техеран",
-          "link": "https://makfax.com.mk/svet/video-eksplozii-na-aerodromot-vo-teheran/",
-          "published": "Sat, 07 Mar 2026 08:14:55 +0000"
+          "source": "NetPress",
+          "title": "Привремениот совет на Иран одлучи да ги запре нападите во соседните земји, Пезешкијан се извини",
+          "link": "https://netpress.com.mk/privremeniot-sovet-na-iran-odluchi-da-go-zapre-napadite-vo-sosednite-zemji-pezeshkijan-se-izvini/",
+          "published": "Sat, 07 Mar 2026 08:56:39 +0000"
         },
         {
           "source": "NetPress",
@@ -57,18 +69,6 @@
           "title": "Една третина од пратениците во ЕУ се жени, во Македонија 37,5 отсто",
           "link": "https://netpress.com.mk/edna-tretina-od-prateniczite-vo-eu-se-zheni-vo-makedonija-375-otsto/",
           "published": "Sat, 07 Mar 2026 08:23:00 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Торнада во рурален Мичиген убија четири лица, повредени над десет",
-          "link": "https://netpress.com.mk/tornada-vo-ruralen-michigen-ubija-chetiri-licza-povredeni-nad-deset/",
-          "published": "Sat, 07 Mar 2026 08:19:50 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Куба е на работ на колапс, повтори Трамп",
-          "link": "https://netpress.com.mk/kuba-e-na-rabot-na-kolaps-povtori-tramp/",
-          "published": "Sat, 07 Mar 2026 08:05:08 +0000"
         }
       ]
     },
@@ -107,6 +107,24 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Moment drone strikes Dubai International Airport",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/7/moment-drone-strikes-dubai-international-airport?traffic_source=rss",
+          "published": "Sat, 07 Mar 2026 08:33:40 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Overnight US-Israeli strikes in Tehran target airport",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/7/overnight-us-israeli-strikes-in-tehran-target-airport?traffic_source=rss",
+          "published": "Sat, 07 Mar 2026 08:27:28 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Iran to halt strikes on neighbours unless attacks from there: Pezeshkian",
+          "link": "https://www.aljazeera.com/news/2026/3/7/iran-to-halt-strikes-on-neighbours-unless-attacks-from-there-pezeshkian?traffic_source=rss",
+          "published": "Sat, 07 Mar 2026 08:25:01 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Panic at Pakistan fuel stations over Iran war",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/3/7/panic-at-pakistan-fuel-stations-over-iran-war?traffic_source=rss",
           "published": "Sat, 07 Mar 2026 08:05:26 +0000"
@@ -116,24 +134,6 @@
           "title": "Hezbollah, Israeli troops clash on the ground in eastern Lebanon’s Bekaa",
           "link": "https://www.aljazeera.com/news/2026/3/7/hezbollah-israeli-troops-clash-on-the-ground-in-eastern-lebanons-bekaa?traffic_source=rss",
           "published": "Sat, 07 Mar 2026 07:35:45 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Tehran pounded in week two of US-Israel war, Iran targets Israel",
-          "link": "https://www.aljazeera.com/news/2026/3/7/tehran-pounded-in-week-two-of-us-israel-war-iran-targets-israel?traffic_source=rss",
-          "published": "Sat, 07 Mar 2026 07:02:48 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Indonesian president’s US ties questioned amid public anger over Iran war",
-          "link": "https://www.aljazeera.com/features/2026/3/7/indonesian-presidents-us-ties-questioned-amid-public-anger-over-iran-war?traffic_source=rss",
-          "published": "Sat, 07 Mar 2026 06:33:03 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Iranian missiles intercepted over Saudi, UAE, drones launched at Qatar",
-          "link": "https://www.aljazeera.com/news/2026/3/7/iranian-missiles-intercepted-over-saudi-jordan-drones-launched-at-qatar?traffic_source=rss",
-          "published": "Sat, 07 Mar 2026 06:07:22 +0000"
         }
       ]
     }
