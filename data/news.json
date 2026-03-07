@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-07T15:27:17Z",
+  "updatedAt": "2026-03-07T15:47:31Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Секој што ќе крене рака или ќе демне жена ќе се соочи со законот, порача Тошковски информирајќи дека двајца се притворени",
+          "link": "https://makfax.com.mk/crna-hronika/sekoj-shto-ke-krene-raka-ili-ke-demne-zhena-ke-se-soochi-so-zakonot-poracha-toshkovski-informirajki-deka-dvajcza-se-pritvoreni/",
+          "published": "Sat, 07 Mar 2026 15:40:02 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Израелскиот министер за одбрана го предупреди Либан: Ќе платите висока цена ако Хезболах продолжи со заканите",
+          "link": "https://makfax.com.mk/svet/izraelskiot-minister-za-odbrana-go-predupredi-liban-ke-platite-visoka-czena-ako-hezbolah-prodolzhi-so-zakanite/",
+          "published": "Sat, 07 Mar 2026 15:29:49 +0000"
         },
         {
           "source": "Makfax",
@@ -29,16 +41,10 @@
           "published": "Sat, 07 Mar 2026 15:02:32 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Приведен маж од Врапчиште: се сомничи дека ѝ се заканувал и ја следел поранешната партнерка од Скопје",
-          "link": "https://makfax.com.mk/crna-hronika/priveden-mazh-od-vrapchishte-se-somnichi-deka-%d1%9d-se-zakanuval-i-ja-sledel-poraneshnata-partnerka-od-skopje/",
-          "published": "Sat, 07 Mar 2026 15:00:03 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Погоден стадионот „Азади“ во Техеран, соопшти иранското МНР",
-          "link": "https://makfax.com.mk/svet/pogoden-stadionot-azadi-vo-teheran-soopshti-iranskoto-mnr/",
-          "published": "Sat, 07 Mar 2026 14:58:37 +0000"
+          "source": "NetPress",
+          "title": "Близу три милиона евра ќе издвои Град Скопје во првата фаза за изградба на монтажни паркинзи, приоритет ќе имаат двата паркинга на Клиничкиот центар",
+          "link": "https://netpress.com.mk/blizu-tri-miliona-evra-ke-izdvoi-grad-skopje-vo-prvata-faza-za-izgradba-na-montazhni-parkinzi-prioritet-ke-imaat-dvata-parkinga-na-klinichkiot-czentar/",
+          "published": "Sat, 07 Mar 2026 15:33:19 +0000"
         },
         {
           "source": "NetPress",
@@ -63,12 +69,6 @@
           "title": "Паниката во врвот на СДСМ минува во политичка хистерија",
           "link": "https://netpress.com.mk/panikata-vo-vrvot-na-sdsm-minuva-vo-politichka-histerija/",
           "published": "Sat, 07 Mar 2026 14:17:31 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "СДСМ го откажува маршот во Богданци, на 8-ми Март се приклучува на граѓанскиот протестот „Нема да нè снема“ во Скопје",
-          "link": "https://netpress.com.mk/filipche-sdsm-go-otkazhuva-marshot-vo-bogdanczi-na-8-mi-mart-se-prikluchuva-na-graganskiot-protestot-nema-da-ne-snema-vo-skopje/",
-          "published": "Sat, 07 Mar 2026 14:09:50 +0000"
         }
       ]
     },
@@ -107,6 +107,12 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "India vs New Zealand: T20 World Cup final – ‘No pressure, no fun’ for hosts",
+          "link": "https://www.aljazeera.com/sports/2026/3/7/india-vs-new-zealand-t20-world-cup-final-no-pressure-no-fun-for-hosts?traffic_source=rss",
+          "published": "Sat, 07 Mar 2026 15:30:46 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Israel kills father, daughter in Gaza as genocide continues amid wider war",
           "link": "https://www.aljazeera.com/news/2026/3/7/israel-kills-father-daughter-in-gaza-as-genocide-continues-amid-wider-war?traffic_source=rss",
           "published": "Sat, 07 Mar 2026 14:00:42 +0000"
@@ -128,12 +134,6 @@
           "title": "OpenAI’s fund raising boom slows amid mounting debt",
           "link": "https://www.aljazeera.com/economy/2026/3/7/openais-fund-raising-boom-slows-amid-mounting-debt?traffic_source=rss",
           "published": "Sat, 07 Mar 2026 12:29:11 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Aftermath of village in Lebanon after Hezbollah, Israeli troops clash",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/7/aftermath-of-village-in-lebanon-after-hezbollah-israeli-troops-clash?traffic_source=rss",
-          "published": "Sat, 07 Mar 2026 12:24:56 +0000"
         }
       ]
     }
