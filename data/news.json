@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-07T10:53:47Z",
+  "updatedAt": "2026-03-07T11:20:54Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) Најбрзиот американски бомбардер пристигна во Европа",
+          "link": "https://makfax.com.mk/svet/video-najbrziot-amerikanski-bombarder-pristigna-vo-evropa/",
+          "published": "Sat, 07 Mar 2026 11:10:54 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) Ријалити ѕвезда жали за пластична операција од 25.000 долари: „Ми го уништи животот“",
+          "link": "https://makfax.com.mk/zanimlivosti/video-rijaliti-zvezda-zhali-za-plastichna-operaczija-od-25-000-dolari-mi-go-unishti-zhivotot/",
+          "published": "Sat, 07 Mar 2026 10:59:21 +0000"
         },
         {
           "source": "Makfax",
@@ -29,16 +41,10 @@
           "published": "Sat, 07 Mar 2026 10:37:29 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Ирански медиуми објавија фотографија од запален танкер во Ормутскиот теснец",
-          "link": "https://makfax.com.mk/svet/iranski-mediumi-objavija-fotografija-od-zapalen-tanker-vo-ormutskiot-tesnecz/",
-          "published": "Sat, 07 Mar 2026 10:25:00 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Интер во Мадрид ја најде замената за Јан Зомер",
-          "link": "https://makfax.com.mk/sport/inter-vo-madrid-ja-najde-zamenata-za-jan-zomer/",
-          "published": "Sat, 07 Mar 2026 10:22:21 +0000"
+          "source": "NetPress",
+          "title": "За иранскиот претседател апсурдни се повиците на Трамп за „капитуалција“",
+          "link": "https://netpress.com.mk/za-iranskiot-pretsedatel-apsurdni-se-poviczite-na-tramp-za-kapitualczija/",
+          "published": "Sat, 07 Mar 2026 10:57:05 +0000"
         },
         {
           "source": "NetPress",
@@ -63,12 +69,6 @@
           "title": "Средното полициско образование се возобновува по 26 години, ќе се запишат околу 200 ученици",
           "link": "https://netpress.com.mk/srednoto-policzisko-obrazovanie-se-vozobnovuva-po-26-godini-ke-se-zapishat-okolu-200-ucheniczi/",
           "published": "Sat, 07 Mar 2026 10:04:45 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Цените на храната пораснаа во февруари",
-          "link": "https://netpress.com.mk/czenite-na-hranata-porasnaa-vo-fevruari/",
-          "published": "Sat, 07 Mar 2026 09:54:54 +0000"
         }
       ]
     },
@@ -107,6 +107,24 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Trump-Netanyahu’s ‘war in search of a strategy’",
+          "link": "https://www.aljazeera.com/video/the-listening-post/2026/3/7/trump-netanyahus-war-in-search-of-a-strategy?traffic_source=rss",
+          "published": "Sat, 07 Mar 2026 11:14:04 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "India vs New Zealand: T20 World Cup final – Kiwis ready to ‘break hearts’",
+          "link": "https://www.aljazeera.com/sports/2026/3/7/india-vs-new-zealand-t20-world-cup-final-kiwis-ready-to-break-hearts?traffic_source=rss",
+          "published": "Sat, 07 Mar 2026 11:08:18 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Beirut’s southern suburbs in ruins after Israeli attack",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/7/beiruts-southern-suburbs-in-ruins-after-israeli-attack?traffic_source=rss",
+          "published": "Sat, 07 Mar 2026 11:05:36 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Protests in Cuba after thousands without power following blackout",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/3/7/protests-in-cuba-after-thousands-without-power-following-blackout?traffic_source=rss",
           "published": "Sat, 07 Mar 2026 10:18:45 +0000"
@@ -116,24 +134,6 @@
           "title": "Southern Peru flooded after torrential rain",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/3/7/southern-peru-flooded-after-torrential-rain?traffic_source=rss",
           "published": "Sat, 07 Mar 2026 10:08:25 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Explosion and fire in Syria due to falling drone debris",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/7/explosion-and-fire-in-syria-due-to-falling-drone-debris?traffic_source=rss",
-          "published": "Sat, 07 Mar 2026 09:57:51 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Iranian Kurd leader in Iraq says ground operation into Iran ‘highly likely’",
-          "link": "https://www.aljazeera.com/news/2026/3/7/iranian-kurd-leader-in-iraq-says-ground-operation-into-iran-highly-likely?traffic_source=rss",
-          "published": "Sat, 07 Mar 2026 09:50:54 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "US downplays reports Russia gave Iran intel to help Tehran strike US assets",
-          "link": "https://www.aljazeera.com/news/2026/3/7/us-downplays-reports-russia-gave-iran-intel-to-help-tehran-strike-us-assets?traffic_source=rss",
-          "published": "Sat, 07 Mar 2026 09:09:15 +0000"
         }
       ]
     }
