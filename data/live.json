@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-07T07:38:03Z",
+  "generated_at": "2026-03-07T07:53:50Z",
   "items": [
     {
       "region": "Македонија",
@@ -39,6 +39,13 @@
     {
       "region": "Македонија",
       "source": "NetPress",
+      "title": "НБА: Тејтум се врати на теренот за Бостон, Дончиќ повторно над 40 коша",
+      "link": "https://netpress.com.mk/nba-tejtum-se-vrati-na-terenot-za-boston-donchik-povtorno-nad-40-kosha/",
+      "published": "Sat, 07 Mar 2026 07:44:55 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "NetPress",
       "title": "Иранскиот амбасадор го отфрли мешањето на странство во изборот на нов водач",
       "link": "https://netpress.com.mk/iranskiot-ambasador-go-otfrli-meshaneto-na-stranstvo-vo-izborot-na-nov-vodach/",
       "published": "Sat, 07 Mar 2026 06:58:53 +0000"
@@ -63,13 +70,6 @@
       "title": "Прогнозата за денеска како за пролет",
       "link": "https://netpress.com.mk/prognozata-za-deneska-kako-za-prolet/",
       "published": "Sat, 07 Mar 2026 06:07:30 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Лекари во Куманово издаваат потврда за смрт после карање",
-      "link": "https://netpress.com.mk/lekari-vo-kumanovo-izdavaat-potvrda-za-smrt-posle-karane/",
-      "published": "Fri, 06 Mar 2026 22:16:24 +0000"
     },
     {
       "region": "Свет",
@@ -109,6 +109,13 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "Hezbollah, Israeli troops clash on the ground in eastern Lebanon’s Bekaa",
+      "link": "https://www.aljazeera.com/news/2026/3/7/hezbollah-israeli-troops-clash-on-the-ground-in-eastern-lebanons-bekaa?traffic_source=rss",
+      "published": "Sat, 07 Mar 2026 07:35:45 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "Tehran pounded in week two of US-Israel war, Iran targets Israel",
       "link": "https://www.aljazeera.com/news/2026/3/7/tehran-pounded-in-week-two-of-us-israel-war-iran-targets-israel?traffic_source=rss",
       "published": "Sat, 07 Mar 2026 07:02:48 +0000"
@@ -133,13 +140,6 @@
       "title": "Iran war: What is happening on day eight of US-Israel attacks?",
       "link": "https://www.aljazeera.com/news/2026/3/7/iran-war-what-is-happening-on-day-eight-of-us-israel-attacks?traffic_source=rss",
       "published": "Sat, 07 Mar 2026 05:32:59 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Pro-Palestinian activist records questioning by German border police",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/7/pro-palestinian-activist-records-questioning-by-german-border-police?traffic_source=rss",
-      "published": "Sat, 07 Mar 2026 05:18:45 +0000"
     }
   ]
 }
