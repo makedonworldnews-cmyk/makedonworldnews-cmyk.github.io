@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-07T22:24:17Z",
+  "updatedAt": "2026-03-07T22:48:48Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Брант го напушта Дортмунд како слободен играч",
+          "link": "https://makfax.com.mk/sport/brant-go-napushta-dortmund-kako-sloboden-igrach/",
+          "published": "Sat, 07 Mar 2026 22:31:31 +0000"
         },
         {
           "source": "Makfax",
@@ -35,10 +41,16 @@
           "published": "Sat, 07 Mar 2026 21:00:08 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Јовановски останува во притвор: прифатен предлогот на Обвинителството кое води постапка за долгогодишно малтретирање на сопругата",
-          "link": "https://makfax.com.mk/makedonija/jovanovski-ostanuva-vo-pritvor-prifaten-predlogot-na-obvinitelstvoto-koe-vodi-postapka-za-dolgogodishno-maltretirane-na-soprugata/",
-          "published": "Sat, 07 Mar 2026 20:57:31 +0000"
+          "source": "NetPress",
+          "title": "Серија А: Јувентус ја уништи Пиза во второто полувреме",
+          "link": "https://netpress.com.mk/serija-a-juventus-ja-unishti-piza-vo-vtoroto-poluvreme/",
+          "published": "Sat, 07 Mar 2026 22:37:21 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "ВИДЕО| Николоски по изјавата на aмбасадорот Лосон: Како меур од сапуница се распрсна лагата за „мигранти за пари“",
+          "link": "https://netpress.com.mk/video-nikoloski-po-izjavata-na-ambasadorot-loson-kako-meur-od-sapunicza-se-rasprsna-lagata-za-migranti-za-pari/",
+          "published": "Sat, 07 Mar 2026 22:25:28 +0000"
         },
         {
           "source": "NetPress",
@@ -57,18 +69,6 @@
           "title": "ВИДЕО| Челникот на ОАЕ: Сега сме во воeно време",
           "link": "https://netpress.com.mk/video-chelnikot-na-oae-sega-sme-vo-voeno-vreme/",
           "published": "Sat, 07 Mar 2026 20:58:05 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Европската комисија го прекори Зеленски за заканите кон Орбан",
-          "link": "https://netpress.com.mk/evropskata-komisija-go-prekori-zelenski-za-zakanite-kon-orban/",
-          "published": "Sat, 07 Mar 2026 20:31:24 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Бундеслига: Победи на Борусија Д. и Хофенхајм",
-          "link": "https://netpress.com.mk/bundesliga-pobedi-na-borusija-d-i-hofenhajm/",
-          "published": "Sat, 07 Mar 2026 19:52:16 +0000"
         }
       ]
     },
@@ -107,6 +107,18 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Lamine Yamal gives Barcelona hard-fought 1-0 win at Athletic Bilbao",
+          "link": "https://www.aljazeera.com/sports/2026/3/7/lamine-yamal-gives-barcelona-hard-fought-1-0-win-at-athletic-bilbao?traffic_source=rss",
+          "published": "Sat, 07 Mar 2026 22:27:43 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Trump oversees return of US troops killed in Iranian drone strike",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/7/trump-oversees-return-of-us-troops-killed-in-iranian-drone-strike?traffic_source=rss",
+          "published": "Sat, 07 Mar 2026 22:21:56 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "US embassy in Baghdad attacked as US-Israel war on Iran escalates",
           "link": "https://www.aljazeera.com/news/2026/3/7/us-embassy-in-baghdad-attacked-as-us-israel-war-on-iran-escalates?traffic_source=rss",
           "published": "Sat, 07 Mar 2026 22:06:16 +0000"
@@ -122,18 +134,6 @@
           "title": "Florida Bar denies investigation into Trump lawyer Lindsey Halligan",
           "link": "https://www.aljazeera.com/news/2026/3/7/florida-bar-denies-investigation-into-trump-lawyer-lindsey-halligan?traffic_source=rss",
           "published": "Sat, 07 Mar 2026 21:09:53 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Doctors try to save girl as father was killed in Gaza Israeli attack",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/7/doctors-try-to-save-girl-as-father-was-killed-in-gaza-israeli-attack?traffic_source=rss",
-          "published": "Sat, 07 Mar 2026 20:56:45 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Video: Satellite images reveal damage to several Iranian military bases",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/7/video-satellite-images-reveal-damage-to-several-iranian-military-bases?traffic_source=rss",
-          "published": "Sat, 07 Mar 2026 20:39:25 +0000"
         }
       ]
     }
