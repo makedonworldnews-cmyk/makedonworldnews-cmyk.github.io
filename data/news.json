@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-07T02:08:18Z",
+  "updatedAt": "2026-03-07T04:07:11Z",
   "groups": [
     {
       "region": "Македонија",
@@ -77,6 +77,12 @@
       "items": [
         {
           "source": "BBC",
+          "title": "Trump demands 'unconditional surrender' from Iran as Putin speaks with Iran's president",
+          "link": "https://www.bbc.com/news/articles/c5yq82k1wk8o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 07 Mar 2026 02:04:06 GMT"
+        },
+        {
+          "source": "BBC",
           "title": "Flight paths squeezed as Iran conflict closes more airspace",
           "link": "https://www.bbc.com/news/articles/crrx1jgr4jjo?at_medium=RSS&at_campaign=rss",
           "published": "Fri, 06 Mar 2026 18:09:19 GMT"
@@ -100,10 +106,16 @@
           "published": "Fri, 06 Mar 2026 17:06:14 GMT"
         },
         {
-          "source": "BBC",
-          "title": "Swiss to vote on right-wing push to slash licence fee for public broadcaster",
-          "link": "https://www.bbc.com/news/articles/c4g55v24wrno?at_medium=RSS&at_campaign=rss",
-          "published": "Sat, 07 Mar 2026 02:04:23 GMT"
+          "source": "Al Jazeera",
+          "title": "Anti-aircraft fire seen in eastern Lebanon amid Israeli incursion",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/7/anti-aircraft-fire-seen-in-eastern-lebanon-amid-israeli-incursion?traffic_source=rss",
+          "published": "Sat, 07 Mar 2026 03:18:18 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Massive explosions, fires from US-Israeli strikes on Tehran",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/7/massive-explosions-fires-from-us-israeli-strikes-on-tehran?traffic_source=rss",
+          "published": "Sat, 07 Mar 2026 03:02:32 +0000"
         },
         {
           "source": "Al Jazeera",
@@ -122,18 +134,6 @@
           "title": "Wake up before it’s too late: Oppose the unjust, cruel war on Iran",
           "link": "https://www.aljazeera.com/opinions/2026/3/7/wake-up-before-its-too-late-oppose-the-unjust-cruel-war-on-iran?traffic_source=rss",
           "published": "Sat, 07 Mar 2026 01:07:49 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "‘We stand with Israel’: Germany’s Friedrich Merz scolds protester",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/7/we-stand-with-israel-germanys-friedrich-merz-scolds-protester?traffic_source=rss",
-          "published": "Sat, 07 Mar 2026 01:06:28 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Iran’s strikes on the Gulf: Burning the bridges of good neighbourliness",
-          "link": "https://www.aljazeera.com/opinions/2026/3/7/irans-strikes-on-the-gulf-burning-the-bridges-of-good-neighbourliness?traffic_source=rss",
-          "published": "Sat, 07 Mar 2026 01:05:37 +0000"
         }
       ]
     }
