@@ -1,6 +1,20 @@
 {
-  "generated_at": "2026-03-07T11:00:07Z",
+  "generated_at": "2026-03-07T11:28:42Z",
   "items": [
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "Алиу: Потпишан договор со Град Скопје за катни гаражи во Клинички, најмалку 500 нови паркинг-места",
+      "link": "https://makfax.com.mk/makedonija/aliu-potpishan-dogovor-so-grad-skopje-za-katni-garazhi-vo-klinichki-najmalku-500-novi-parking-mesta/",
+      "published": "Sat, 07 Mar 2026 11:28:40 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "(Видео) Најбрзиот американски бомбардер пристигна во Европа",
+      "link": "https://makfax.com.mk/svet/video-najbrziot-amerikanski-bombarder-pristigna-vo-evropa/",
+      "published": "Sat, 07 Mar 2026 11:10:54 +0000"
+    },
     {
       "region": "Македонија",
       "source": "Makfax",
@@ -21,20 +35,6 @@
       "title": "Шест романи во најтесниот избор за наградата „Роман на годината“",
       "link": "https://makfax.com.mk/kultura/shest-romani-vo-najtesniot-izbor-za-nagradata-roman-na-godinata/",
       "published": "Sat, 07 Mar 2026 10:40:03 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "Makfax",
-      "title": "(Видео) Форумот на жени на СДСМ обвинува: МВР потфрли во низа трагедии, Тошковски да поднесе оставка",
-      "link": "https://makfax.com.mk/makedonija/video-forumot-na-zheni-na-sdsm-obvinuva-mvr-potfrli-vo-niza-tragedii-toshkovski-da-podnese-ostavka/",
-      "published": "Sat, 07 Mar 2026 10:37:29 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "Makfax",
-      "title": "Ирански медиуми објавија фотографија од запален танкер во Ормутскиот теснец",
-      "link": "https://makfax.com.mk/svet/iranski-mediumi-objavija-fotografija-od-zapalen-tanker-vo-ormutskiot-tesnecz/",
-      "published": "Sat, 07 Mar 2026 10:25:00 +0000"
     },
     {
       "region": "Македонија",
@@ -109,6 +109,20 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "India vs New Zealand: T20 World Cup final – Kiwis ready to ‘break hearts’",
+      "link": "https://www.aljazeera.com/sports/2026/3/7/india-vs-new-zealand-t20-world-cup-final-kiwis-ready-to-break-hearts?traffic_source=rss",
+      "published": "Sat, 07 Mar 2026 11:08:18 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Beirut’s southern suburbs in ruins after Israeli attack",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/7/beiruts-southern-suburbs-in-ruins-after-israeli-attack?traffic_source=rss",
+      "published": "Sat, 07 Mar 2026 11:05:36 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "Protests in Cuba after thousands without power following blackout",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/3/7/protests-in-cuba-after-thousands-without-power-following-blackout?traffic_source=rss",
       "published": "Sat, 07 Mar 2026 10:18:45 +0000"
@@ -126,20 +140,6 @@
       "title": "Explosion and fire in Syria due to falling drone debris",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/3/7/explosion-and-fire-in-syria-due-to-falling-drone-debris?traffic_source=rss",
       "published": "Sat, 07 Mar 2026 09:57:51 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Iranian Kurd leader in Iraq says ground operation into Iran ‘highly likely’",
-      "link": "https://www.aljazeera.com/news/2026/3/7/iranian-kurd-leader-in-iraq-says-ground-operation-into-iran-highly-likely?traffic_source=rss",
-      "published": "Sat, 07 Mar 2026 09:50:54 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "US downplays reports Russia gave Iran intel to help Tehran strike US assets",
-      "link": "https://www.aljazeera.com/news/2026/3/7/us-downplays-reports-russia-gave-iran-intel-to-help-tehran-strike-us-assets?traffic_source=rss",
-      "published": "Sat, 07 Mar 2026 09:09:15 +0000"
     }
   ]
 }
