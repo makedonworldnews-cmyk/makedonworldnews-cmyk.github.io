@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-07T21:23:15Z",
+  "generated_at": "2026-03-07T21:41:27Z",
   "items": [
     {
       "region": "Македонија",
@@ -109,6 +109,13 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "Florida Bar denies investigation into Trump lawyer Lindsey Halligan",
+      "link": "https://www.aljazeera.com/news/2026/3/7/florida-bar-denies-investigation-into-trump-lawyer-lindsey-halligan?traffic_source=rss",
+      "published": "Sat, 07 Mar 2026 21:09:53 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "Doctors try to save girl as father was killed in Gaza Israeli attack",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/3/7/doctors-try-to-save-girl-as-father-was-killed-in-gaza-israeli-attack?traffic_source=rss",
       "published": "Sat, 07 Mar 2026 20:56:45 +0000"
@@ -133,13 +140,6 @@
       "title": "UAE president says prepared to confront ‘threats’ as Iran attacks continue",
       "link": "https://www.aljazeera.com/news/2026/3/7/uae-president-says-prepared-to-confront-threats-as-iran-attacks-continue?traffic_source=rss",
       "published": "Sat, 07 Mar 2026 20:18:59 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Russia kills 10 in Ukraine strike including children with new missile",
-      "link": "https://www.aljazeera.com/news/2026/3/7/russia-kills-10-in-kharkiv-strike-including-children-using-new-missile?traffic_source=rss",
-      "published": "Sat, 07 Mar 2026 20:13:31 +0000"
     }
   ]
 }
