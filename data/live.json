@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-07T22:58:06Z",
+  "generated_at": "2026-03-07T23:23:26Z",
   "items": [
     {
       "region": "Македонија",
@@ -39,8 +39,15 @@
     {
       "region": "Македонија",
       "source": "NetPress",
-      "title": "Серија А: Јувентус ја уништи Пиза во второто полувреме",
-      "link": "https://netpress.com.mk/serija-a-juventus-ja-unishti-piza-vo-vtoroto-poluvreme/",
+      "title": "Ла Лига: Важна победа на Барса на тешкото гостување во Билбао",
+      "link": "https://netpress.com.mk/la-liga-vazhna-pobeda-na-barsa-na-teshkoto-gostuvane-vo-bilbao/",
+      "published": "Sat, 07 Mar 2026 23:01:29 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "NetPress",
+      "title": "Серија А: Јуве без проблеми со Пиза, Аталанта извади бод по два гола заостанување",
+      "link": "https://netpress.com.mk/serija-a-juve-bez-problemi-so-piza-atalanta-izvadi-bod-po-dva-gola-zaostanuvane/",
       "published": "Sat, 07 Mar 2026 22:37:21 +0000"
     },
     {
@@ -63,13 +70,6 @@
       "title": "Лондон итно го подготвува својот носач на авиони за испловување, Трамп порача дека не му е потребен откако „победил“",
       "link": "https://netpress.com.mk/london-itno-go-podgotvuva-svojot-nosach-na-avioni-za-isplovuvane-tramp-poracha-deka-ne-mu-e-potreben-otkako-pobedil/",
       "published": "Sat, 07 Mar 2026 22:02:27 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "ВИДЕО| Челникот на ОАЕ: Сега сме во воeно време",
-      "link": "https://netpress.com.mk/video-chelnikot-na-oae-sega-sme-vo-voeno-vreme/",
-      "published": "Sat, 07 Mar 2026 20:58:05 +0000"
     },
     {
       "region": "Свет",
@@ -109,6 +109,13 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "Trump administration denies reports that Iran captured US soldiers",
+      "link": "https://www.aljazeera.com/news/2026/3/7/trump-administration-denies-reports-that-iran-captured-us-soldiers?traffic_source=rss",
+      "published": "Sat, 07 Mar 2026 22:37:00 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "Lamine Yamal gives Barcelona hard-fought 1-0 win at Athletic Bilbao",
       "link": "https://www.aljazeera.com/sports/2026/3/7/lamine-yamal-gives-barcelona-hard-fought-1-0-win-at-athletic-bilbao?traffic_source=rss",
       "published": "Sat, 07 Mar 2026 22:27:43 +0000"
@@ -133,13 +140,6 @@
       "title": "How far will the Iran war spillover?",
       "link": "https://www.aljazeera.com/video/inside-story/2026/3/7/how-far-will-the-iran-war-spillover?traffic_source=rss",
       "published": "Sat, 07 Mar 2026 21:45:43 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Florida Bar denies investigation into Trump lawyer Lindsey Halligan",
-      "link": "https://www.aljazeera.com/news/2026/3/7/florida-bar-denies-investigation-into-trump-lawyer-lindsey-halligan?traffic_source=rss",
-      "published": "Sat, 07 Mar 2026 21:09:53 +0000"
     }
   ]
 }
