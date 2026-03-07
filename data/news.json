@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-07T20:49:49Z",
+  "updatedAt": "2026-03-07T21:00:55Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Поранешен сопруг ѝ се заканувал на жена од Скопје преку телефонот на нивниот син",
+          "link": "https://makfax.com.mk/crna-hronika/poraneshen-soprug-%d1%9d-se-zakanuval-na-zhena-od-skopje-preku-telefonot-na-nivniot-sin/",
+          "published": "Sat, 07 Mar 2026 21:00:08 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Јовановски останува во притвор: прифатен предлогот на Обвинителството кое води постапка за долгогодишно малтретирање на сопругата",
+          "link": "https://makfax.com.mk/makedonija/jovanovski-ostanuva-vo-pritvor-prifaten-predlogot-na-obvinitelstvoto-koe-vodi-postapka-za-dolgogodishno-maltretirane-na-soprugata/",
+          "published": "Sat, 07 Mar 2026 20:57:31 +0000"
         },
         {
           "source": "Makfax",
@@ -29,16 +41,10 @@
           "published": "Sat, 07 Mar 2026 20:30:17 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "(Видео) Борусија со играч повеќе победи во Келн",
-          "link": "https://makfax.com.mk/sport/video-borusija-so-igrach-poveke-pobedi-vo-keln/",
-          "published": "Sat, 07 Mar 2026 20:24:31 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Нетанјаху до Иранците: Се приближува моментот на вистината",
-          "link": "https://makfax.com.mk/svet/netanjahu-do-iranczite-se-priblizhuva-momentot-na-vistinata/",
-          "published": "Sat, 07 Mar 2026 20:16:36 +0000"
+          "source": "NetPress",
+          "title": "ВИДЕО| Челникот на ОАЕ: Сега сме во воeно време",
+          "link": "https://netpress.com.mk/video-chelnikot-na-oae-sega-sme-vo-voeno-vreme/",
+          "published": "Sat, 07 Mar 2026 20:58:05 +0000"
         },
         {
           "source": "NetPress",
@@ -63,12 +69,6 @@
           "title": "Уапсени 13 возачи, меѓу нив и малолетници",
           "link": "https://netpress.com.mk/uapseni-13-vozali-megu-niv-i-maloletniczi/",
           "published": "Sat, 07 Mar 2026 19:04:05 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Вучиќ ја претстави стратегијата за развој „Србија 2030“",
-          "link": "https://netpress.com.mk/vuchik-ja-pretstavi-strategijata-za-razvoj-srbija-2030/",
-          "published": "Sat, 07 Mar 2026 19:00:41 +0000"
         }
       ]
     },
@@ -107,6 +107,12 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Video: Satellite images reveal damage to several Iranian military bases",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/7/video-satellite-images-reveal-damage-to-several-iranian-military-bases?traffic_source=rss",
+          "published": "Sat, 07 Mar 2026 20:39:25 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Cuba says electricity plant successfully repaired after large blackout",
           "link": "https://www.aljazeera.com/news/2026/3/7/cuba-says-electricity-plant-successfully-repaired-after-large-blackout?traffic_source=rss",
           "published": "Sat, 07 Mar 2026 20:34:18 +0000"
@@ -128,12 +134,6 @@
           "title": "Smoke rises from a Dubai tower after attack",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/3/7/smoke-rises-from-a-dubai-tower-after?traffic_source=rss",
           "published": "Sat, 07 Mar 2026 19:49:46 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "More than 30 injured in nightclub bombing in northern Peru",
-          "link": "https://www.aljazeera.com/news/2026/3/7/more-than-30-injured-in-nightclub-bombing-in-northern-peru?traffic_source=rss",
-          "published": "Sat, 07 Mar 2026 19:26:21 +0000"
         }
       ]
     }
