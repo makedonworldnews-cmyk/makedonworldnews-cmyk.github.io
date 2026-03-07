@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-07T07:04:48Z",
+  "generated_at": "2026-03-07T07:38:03Z",
   "items": [
     {
       "region": "Македонија",
@@ -109,6 +109,13 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "Tehran pounded in week two of US-Israel war, Iran targets Israel",
+      "link": "https://www.aljazeera.com/news/2026/3/7/tehran-pounded-in-week-two-of-us-israel-war-iran-targets-israel?traffic_source=rss",
+      "published": "Sat, 07 Mar 2026 07:02:48 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "Indonesian president’s US ties questioned amid public anger over Iran war",
       "link": "https://www.aljazeera.com/features/2026/3/7/indonesian-presidents-us-ties-questioned-amid-public-anger-over-iran-war?traffic_source=rss",
       "published": "Sat, 07 Mar 2026 06:33:03 +0000"
@@ -133,13 +140,6 @@
       "title": "Pro-Palestinian activist records questioning by German border police",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/3/7/pro-palestinian-activist-records-questioning-by-german-border-police?traffic_source=rss",
       "published": "Sat, 07 Mar 2026 05:18:45 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Caught between Iran and Saudi Arabia, can Pakistan stay neutral for long?",
-      "link": "https://www.aljazeera.com/news/2026/3/7/caught-between-iran-and-saudi-arabia-can-pakistan-stay-neutral-for-long?traffic_source=rss",
-      "published": "Sat, 07 Mar 2026 05:06:44 +0000"
     }
   ]
 }
