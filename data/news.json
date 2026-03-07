@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-07T15:59:49Z",
+  "updatedAt": "2026-03-07T16:39:16Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Трамп: Му направивме услуга на светот",
+          "link": "https://makfax.com.mk/svet/tramp-mu-napravivme-usluga-na-svetot/",
+          "published": "Sat, 07 Mar 2026 16:22:43 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Мотоцикл удрил во 76-годишна жена во Струмица, возачот побегнал",
+          "link": "https://makfax.com.mk/crna-hronika/motoczikl-udril-vo-76-godishna-zhena-vo-strumicza-vozachot-pobegnal/",
+          "published": "Sat, 07 Mar 2026 16:00:00 +0000"
         },
         {
           "source": "Makfax",
@@ -29,16 +41,10 @@
           "published": "Sat, 07 Mar 2026 15:17:36 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Орбан до Зеленски: Престанете со заканите и пуштете ги унгарските пратки нафта",
-          "link": "https://makfax.com.mk/svet/orban-do-zelenski-prestanete-so-zakanite-i-pushtete-gi-ungarskite-pratki-nafta/",
-          "published": "Sat, 07 Mar 2026 15:10:26 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "(Видео) Арсенал на „мускули“ до 1/4 финалето на ФА купот",
-          "link": "https://makfax.com.mk/sport/video-arsenal-na-muskuli-do-1-4-finaleto-na-fa-kupot/",
-          "published": "Sat, 07 Mar 2026 15:02:32 +0000"
+          "source": "NetPress",
+          "title": "Турција размислува за распоредување авиони „F-16“ во Северен Кипар",
+          "link": "https://netpress.com.mk/turczija-razmisluva-za-rasporeduvane-avioni-f-16-vo-severen-kipar/",
+          "published": "Sat, 07 Mar 2026 16:16:56 +0000"
         },
         {
           "source": "NetPress",
@@ -63,12 +69,6 @@
           "title": "Иран не е Венецуела, иако Трамп би сакал да биде",
           "link": "https://netpress.com.mk/iran-ne-e-veneczuela-iako-tramp-bi-sakal-da-bide/",
           "published": "Sat, 07 Mar 2026 14:46:09 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Во Софија промовиран романот „Порција бара спас“ од Христо Георгиев – книга што чекала шест децении да стигне до читателите",
-          "link": "https://netpress.com.mk/vo-sofija-promoviran-romanot-porczija-bara-spas-od-hristo-georgiev-kniga-shto-chekala-shest-deczenii-da-stigne-do-chitatelite/",
-          "published": "Sat, 07 Mar 2026 14:30:21 +0000"
         }
       ]
     },
