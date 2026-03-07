@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-07T23:23:26Z",
+  "generated_at": "2026-03-07T23:42:26Z",
   "items": [
     {
       "region": "Македонија",
@@ -109,6 +109,20 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "Huge fire rages at Tehran oil depot after Israeli attack",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/7/huge-fire-rages-at-tehran-oil-depot-after-israeli-attack?traffic_source=rss",
+      "published": "Sat, 07 Mar 2026 23:26:45 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Zelenskyy offers Saudi Arabia’s MBS help countering Iranian drones",
+      "link": "https://www.aljazeera.com/news/2026/3/7/zelenskyy-offers-saudi-arabias-mbs-help-with-countering-iranian-drones?traffic_source=rss",
+      "published": "Sat, 07 Mar 2026 23:11:51 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "Trump administration denies reports that Iran captured US soldiers",
       "link": "https://www.aljazeera.com/news/2026/3/7/trump-administration-denies-reports-that-iran-captured-us-soldiers?traffic_source=rss",
       "published": "Sat, 07 Mar 2026 22:37:00 +0000"
@@ -126,20 +140,6 @@
       "title": "Trump oversees return of US troops killed in Iranian drone strike",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/3/7/trump-oversees-return-of-us-troops-killed-in-iranian-drone-strike?traffic_source=rss",
       "published": "Sat, 07 Mar 2026 22:21:56 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "US embassy in Baghdad attacked as US-Israel war on Iran escalates",
-      "link": "https://www.aljazeera.com/news/2026/3/7/us-embassy-in-baghdad-attacked-as-us-israel-war-on-iran-escalates?traffic_source=rss",
-      "published": "Sat, 07 Mar 2026 22:06:16 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "How far will the Iran war spillover?",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/3/7/how-far-will-the-iran-war-spillover?traffic_source=rss",
-      "published": "Sat, 07 Mar 2026 21:45:43 +0000"
     }
   ]
 }
