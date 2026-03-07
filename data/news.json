@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-07T11:56:43Z",
+  "updatedAt": "2026-03-07T12:57:52Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,24 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Македонија е безбедна и има доволно залихи, граѓаните се евакуираат од Блискиот Исток, уверува пратеникот Лефков",
+          "link": "https://makfax.com.mk/makedonija/makedonija-e-bezbedna-i-ima-dovolno-zalihi-graganite-se-evakuiraat-od-bliskiot-istok-uveruva-pratenikot-lefkov/",
+          "published": "Sat, 07 Mar 2026 12:27:19 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Лефков: Битиќи призна дека СДСМ нема да биде конкурентна на следните избори",
+          "link": "https://makfax.com.mk/makedonija/lefkov-bitiki-prizna-deka-sdsm-nema-da-bide-konkurentna-na-slednite-izbori/",
+          "published": "Sat, 07 Mar 2026 12:22:39 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Сопругот ја истепал Ивана Јовановски на денот на трагедијата и и’ се заканувал дека ќе ја убие, соопшти Обвинителството, предложен е притвор",
+          "link": "https://makfax.com.mk/makedonija/soprugot-ja-istepal-ivana-jovanovski-na-denot-na-tragedijata-i-i-se-zakanuval-deka-ke-ja-ubie-soopshti-obvinitelstvoto-predlozhen-e-pritvor/",
+          "published": "Sat, 07 Mar 2026 12:02:53 +0000"
         },
         {
           "source": "Makfax",
@@ -23,22 +41,16 @@
           "published": "Sat, 07 Mar 2026 11:28:40 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "(Видео) Најбрзиот американски бомбардер пристигна во Европа",
-          "link": "https://makfax.com.mk/svet/video-najbrziot-amerikanski-bombarder-pristigna-vo-evropa/",
-          "published": "Sat, 07 Mar 2026 11:10:54 +0000"
+          "source": "NetPress",
+          "title": "ВИДЕО| Сунѓерот Боб, Ајронмен и Call of Duty – американска „мим-војна“ против Иран",
+          "link": "https://netpress.com.mk/video-sungerot-bob-ajronmen-i-call-of-duty-amerikanska-mim-vojna-protiv-iran/",
+          "published": "Sat, 07 Mar 2026 12:55:48 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "(Видео) Ријалити ѕвезда жали за пластична операција од 25.000 долари: „Ми го уништи животот“",
-          "link": "https://makfax.com.mk/zanimlivosti/video-rijaliti-zvezda-zhali-za-plastichna-operaczija-od-25-000-dolari-mi-go-unishti-zhivotot/",
-          "published": "Sat, 07 Mar 2026 10:59:21 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Кардиолог предлага со што да ги замените чипсот и слатките",
-          "link": "https://makfax.com.mk/zanimlivosti/kardiolog-predlaga-so-shto-da-gi-zamenite-chipsot-i-slatkite/",
-          "published": "Sat, 07 Mar 2026 10:49:49 +0000"
+          "source": "NetPress",
+          "title": "Германската царина ги контролира возачите кои точат поевтино гориво во соседните земји",
+          "link": "https://netpress.com.mk/germanskata-czarina-gi-kontrolira-vozachite-koi-tochat-poevtino-gorivo-vo-sosednite-zemji/",
+          "published": "Sat, 07 Mar 2026 12:11:40 +0000"
         },
         {
           "source": "NetPress",
@@ -57,18 +69,6 @@
           "title": "За иранскиот претседател апсурдни се повиците на Трамп за „капитуалција“",
           "link": "https://netpress.com.mk/za-iranskiot-pretsedatel-apsurdni-se-poviczite-na-tramp-za-kapitualczija/",
           "published": "Sat, 07 Mar 2026 10:57:05 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Американскиот спринтер Керли суспендиран на две години",
-          "link": "https://netpress.com.mk/amerikanskiot-sprinter-kerli-suspendiran-na-dve-godini/",
-          "published": "Sat, 07 Mar 2026 10:43:22 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Побаран притвор за скопјанец кој се обидел да ја убие сопругата пред децата",
-          "link": "https://netpress.com.mk/pobaran-pritvor-za-skopjanecz-koj-se-obidel-da-ja-ubie-soprugata-pred-deczata/",
-          "published": "Sat, 07 Mar 2026 10:32:58 +0000"
         }
       ]
     },
@@ -80,12 +80,6 @@
           "title": "Trump demands 'unconditional surrender' from Iran as Putin speaks with Iran's president",
           "link": "https://www.bbc.com/news/articles/c5yq82k1wk8o?at_medium=RSS&at_campaign=rss",
           "published": "Sat, 07 Mar 2026 02:04:06 GMT"
-        },
-        {
-          "source": "BBC",
-          "title": "Flight paths squeezed as Iran conflict closes more airspace",
-          "link": "https://www.bbc.com/news/articles/crrx1jgr4jjo?at_medium=RSS&at_campaign=rss",
-          "published": "Fri, 06 Mar 2026 18:09:19 GMT"
         },
         {
           "source": "BBC",
@@ -101,39 +95,45 @@
         },
         {
           "source": "BBC",
+          "title": "Heavy rains and flooding kills at least 23 in Nairobi",
+          "link": "https://www.bbc.com/news/articles/cn87pl8e2l5o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 07 Mar 2026 12:21:40 GMT"
+        },
+        {
+          "source": "BBC",
           "title": "Israeli troops push into Lebanon for yet another war with Iran's proxy Hezbollah",
           "link": "https://www.bbc.com/news/articles/cpv8xlvk3p4o?at_medium=RSS&at_campaign=rss",
           "published": "Fri, 06 Mar 2026 16:16:05 GMT"
         },
         {
           "source": "Al Jazeera",
+          "title": "OpenAI’s fund raising boom slows amid mounting debt",
+          "link": "https://www.aljazeera.com/economy/2026/3/7/openais-fund-raising-boom-slows-amid-mounting-debt?traffic_source=rss",
+          "published": "Sat, 07 Mar 2026 12:29:11 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Aftermath of village in Lebanon after Hezbollah, Israeli troops clash",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/7/aftermath-of-village-in-lebanon-after-hezbollah-israeli-troops-clash?traffic_source=rss",
+          "published": "Sat, 07 Mar 2026 12:24:56 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Indonesians protest Iran war, pressure president over US ties",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/7/indonesians-protest-iran-war-pressure-president-over-us-ties?traffic_source=rss",
+          "published": "Sat, 07 Mar 2026 12:23:43 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Kurdish fighters say Iran ground operation ‘highly likely’",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/7/kurdish-fighters-say-iran-ground-operation-highly?traffic_source=rss",
+          "published": "Sat, 07 Mar 2026 12:19:47 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Sirens echo in occupied East Jerusalem warning of Iranian missiles",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/3/7/sirens-echo-in-occupied-east-jerusalem-warning-of-iranian-missiles?traffic_source=rss",
           "published": "Sat, 07 Mar 2026 11:30:19 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Trump-Netanyahu’s ‘war in search of a strategy’",
-          "link": "https://www.aljazeera.com/video/the-listening-post/2026/3/7/trump-netanyahus-war-in-search-of-a-strategy?traffic_source=rss",
-          "published": "Sat, 07 Mar 2026 11:14:04 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "India vs New Zealand: T20 World Cup final – Kiwis ready to ‘break hearts’",
-          "link": "https://www.aljazeera.com/sports/2026/3/7/india-vs-new-zealand-t20-world-cup-final-kiwis-ready-to-break-hearts?traffic_source=rss",
-          "published": "Sat, 07 Mar 2026 11:08:18 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Beirut’s southern suburbs in ruins after Israeli attack",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/7/beiruts-southern-suburbs-in-ruins-after-israeli-attack?traffic_source=rss",
-          "published": "Sat, 07 Mar 2026 11:05:36 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Protests in Cuba after thousands without power following blackout",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/7/protests-in-cuba-after-thousands-without-power-following-blackout?traffic_source=rss",
-          "published": "Sat, 07 Mar 2026 10:18:45 +0000"
         }
       ]
     }
