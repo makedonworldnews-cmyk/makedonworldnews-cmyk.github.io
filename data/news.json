@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-07T19:10:34Z",
+  "updatedAt": "2026-03-07T19:38:08Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Нов рекорд во авијацијата: директен лет Сиднеј – Лондон долг над 20 часа",
+          "link": "https://makfax.com.mk/zanimlivosti/nov-rekord-vo-avijaczijata-direkten-let-sidnej-london-dolg-nad-20-chasa/",
+          "published": "Sat, 07 Mar 2026 19:30:39 +0000"
         },
         {
           "source": "Makfax",
@@ -35,10 +41,10 @@
           "published": "Sat, 07 Mar 2026 18:15:46 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "САД почнаа да користат британски бази за операции против Иран",
-          "link": "https://makfax.com.mk/svet/sad-pochnaa-da-koristat-britanski-bazi-za-operaczii-protiv-iran/",
-          "published": "Sat, 07 Mar 2026 18:08:41 +0000"
+          "source": "NetPress",
+          "title": "Трамп ги прими латиноамериканските лидери за основање „воена коалиција против картелите“",
+          "link": "https://netpress.com.mk/tramp-gi-primi-latinoamerikanskite-lideri-za-osnovane-voena-koaliczija-protiv-kartelite/",
+          "published": "Sat, 07 Mar 2026 19:37:13 +0000"
         },
         {
           "source": "NetPress",
@@ -63,18 +69,18 @@
           "title": "„Бехтел и Енка“ потврди дека Владата нема долг кон компанијата, а отпуштањата се на нивна одлука и одговорност",
           "link": "https://netpress.com.mk/behtel-i-enka-potvrdi-deka-vladata-nema-dolg-kon-kompanijata-a-otpushtanata-se-na-nivna-odluka-i-odgovornost/",
           "published": "Sat, 07 Mar 2026 18:15:13 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Адвокатот Тони Менкиноски добил десетгодишна забрана за влез во Бугарија",
-          "link": "https://netpress.com.mk/advokatot-toni-menkinoski-dobil-desetgodishna-zabrana-za-vlez-vo-bugarija/",
-          "published": "Sat, 07 Mar 2026 18:09:33 +0000"
         }
       ]
     },
     {
       "region": "Свет",
       "items": [
+        {
+          "source": "BBC",
+          "title": "Dozens killed as Israeli special forces raid Lebanese village in search of 40-year-old remains",
+          "link": "https://www.bbc.com/news/articles/cy8l2p2l3v0o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 07 Mar 2026 19:16:44 GMT"
+        },
         {
           "source": "BBC",
           "title": "Iranian ambassador warns UK to be 'very careful' about further involvement in war",
@@ -95,19 +101,13 @@
         },
         {
           "source": "BBC",
-          "title": "Heavy rains and flooding kills at least 23 in Nairobi",
-          "link": "https://www.bbc.com/news/articles/cn87pl8e2l5o?at_medium=RSS&at_campaign=rss",
-          "published": "Sat, 07 Mar 2026 12:21:40 GMT"
-        },
-        {
-          "source": "BBC",
-          "title": "Israeli troops push into Lebanon for yet another war with Iran's proxy Hezbollah",
-          "link": "https://www.bbc.com/news/articles/cpv8xlvk3p4o?at_medium=RSS&at_campaign=rss",
-          "published": "Fri, 06 Mar 2026 16:16:05 GMT"
+          "title": "At least six dead after tornadoes sweep across Michigan and Oklahoma, officials say",
+          "link": "https://www.bbc.com/news/articles/crrxpwzvd5vo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 07 Mar 2026 19:09:19 GMT"
         },
         {
           "source": "Al Jazeera",
-          "title": "‘They’re a cancer’: Trump threatens cartels, Cuba at Latin American summit",
+          "title": "‘They’re cancer’: Trump threatens cartels, Cuba at Latin American summit",
           "link": "https://www.aljazeera.com/news/2026/3/7/theyre-a-cancer-trump-threatens-cartels-cuba-at-latin-american-summit?traffic_source=rss",
           "published": "Sat, 07 Mar 2026 18:56:30 +0000"
         },
