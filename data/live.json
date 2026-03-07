@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-07T19:49:10Z",
+  "generated_at": "2026-03-07T19:57:23Z",
   "items": [
     {
       "region": "Македонија",
@@ -39,6 +39,13 @@
     {
       "region": "Македонија",
       "source": "NetPress",
+      "title": "Бундеслига: Победи на Борусија Д. и Хофенхајм",
+      "link": "https://netpress.com.mk/bundesliga-pobedi-na-borusija-d-i-hofenhajm/",
+      "published": "Sat, 07 Mar 2026 19:52:16 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "NetPress",
       "title": "Трамп ги прими латиноамериканските лидери за основање „воена коалиција против картелите“",
       "link": "https://netpress.com.mk/tramp-gi-primi-latinoamerikanskite-lideri-za-osnovane-voena-koaliczija-protiv-kartelite/",
       "published": "Sat, 07 Mar 2026 19:37:13 +0000"
@@ -63,13 +70,6 @@
       "title": "САД почнaле да користат британски бази за „дефанзивни“ операции во војната против Иран",
       "link": "https://netpress.com.mk/sad-pochnale-da-koristat-britanski-bazi-za-defanzivni-operaczii-vo-vojnata-protiv-iran/",
       "published": "Sat, 07 Mar 2026 18:29:46 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "„Бехтел и Енка“ потврди дека Владата нема долг кон компанијата, а отпуштањата се на нивна одлука и одговорност",
-      "link": "https://netpress.com.mk/behtel-i-enka-potvrdi-deka-vladata-nema-dolg-kon-kompanijata-a-otpushtanata-se-na-nivna-odluka-i-odgovornost/",
-      "published": "Sat, 07 Mar 2026 18:15:13 +0000"
     },
     {
       "region": "Свет",
@@ -109,6 +109,13 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "Smoke rises from a Dubai tower after attack",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/7/smoke-rises-from-a-dubai-tower-after?traffic_source=rss",
+      "published": "Sat, 07 Mar 2026 19:49:46 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "More than 30 injured in nightclub bombing in northern Peru",
       "link": "https://www.aljazeera.com/news/2026/3/7/more-than-30-injured-in-nightclub-bombing-in-northern-peru?traffic_source=rss",
       "published": "Sat, 07 Mar 2026 19:26:21 +0000"
@@ -133,13 +140,6 @@
       "title": "LIVE: Athletic Bilbao vs Barcelona – La Liga",
       "link": "https://www.aljazeera.com/sports/liveblog/2026/3/7/live-athletic-bilbao-vs-barcelona-la-liga?traffic_source=rss",
       "published": "Sat, 07 Mar 2026 17:30:26 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "What people in Gaza are saying about the closure of the Rafah crossing",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/7/what-people-in-gaza-are-saying-about-the-closure-of-the-rafah-crossing?traffic_source=rss",
-      "published": "Sat, 07 Mar 2026 16:56:01 +0000"
     }
   ]
 }
