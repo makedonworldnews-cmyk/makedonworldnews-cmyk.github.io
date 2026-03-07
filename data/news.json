@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-07T16:39:16Z",
+  "updatedAt": "2026-03-07T16:57:41Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Филипче: Откупната цена на зимската зелка е понижувачка, власта нема слух за земјоделците",
+          "link": "https://makfax.com.mk/ekonomija/filipche-otkupnata-czena-na-zimskata-zelka-e-ponizhuvachka-vlasta-nema-sluh-za-zemjodelczite/",
+          "published": "Sat, 07 Mar 2026 16:47:32 +0000"
         },
         {
           "source": "Makfax",
@@ -35,10 +41,16 @@
           "published": "Sat, 07 Mar 2026 15:29:49 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Залудни головите на Муричи – Мајорка водеше до 90-та и не победи",
-          "link": "https://makfax.com.mk/sport/zaludni-golovite-na-murichi-majorka-vodeshe-do-90-ta-i-ne-pobedi/",
-          "published": "Sat, 07 Mar 2026 15:17:36 +0000"
+          "source": "NetPress",
+          "title": "Филипче: Оваа влада го доведе до пропаст земјоделството, земјоделците се на раб на егзистенција",
+          "link": "https://netpress.com.mk/filipche-ovaa-vlada-go-dovede-do-propast-zemjodelstvoto-zemjodelczite-se-na-rab-na-egzistenczija/",
+          "published": "Sat, 07 Mar 2026 16:54:52 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Трамп не смее да ја укине заштитата за 350.000 Хаиќани, одлучи судот",
+          "link": "https://netpress.com.mk/tramp-ne-smee-da-ja-ukine-zashtitata-za-350-000-haikani-odluchi-sudot/",
+          "published": "Sat, 07 Mar 2026 16:40:27 +0000"
         },
         {
           "source": "NetPress",
@@ -57,18 +69,6 @@
           "title": "Близу три милиона евра ќе издвои Град Скопје во првата фаза за изградба на монтажни паркинзи, приоритет ќе имаат двата паркинга на Клиничкиот центар",
           "link": "https://netpress.com.mk/blizu-tri-miliona-evra-ke-izdvoi-grad-skopje-vo-prvata-faza-za-izgradba-na-montazhni-parkinzi-prioritet-ke-imaat-dvata-parkinga-na-klinichkiot-czentar/",
           "published": "Sat, 07 Mar 2026 15:33:19 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Нема силна економија без силни универзитети, нема модерна држава без образовани и мотивирани млади луѓе",
-          "link": "https://netpress.com.mk/nema-silna-ekonomija-bez-silni-univerziteti-nema-moderna-drzhava-bez-obrazovani-i-motivirani-mladi-luge/",
-          "published": "Sat, 07 Mar 2026 15:05:58 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Иран не е Венецуела, иако Трамп би сакал да биде",
-          "link": "https://netpress.com.mk/iran-ne-e-veneczuela-iako-tramp-bi-sakal-da-bide/",
-          "published": "Sat, 07 Mar 2026 14:46:09 +0000"
         }
       ]
     },
@@ -77,9 +77,9 @@
       "items": [
         {
           "source": "BBC",
-          "title": "Iran will continue to defend itself against aggression, ambassador to UK says",
+          "title": "Iranian ambassador warns UK to be 'very careful' about further involvement in war",
           "link": "https://www.bbc.com/news/articles/cq6qp458zv1o?at_medium=RSS&at_campaign=rss",
-          "published": "Sat, 07 Mar 2026 14:11:37 GMT"
+          "published": "Sat, 07 Mar 2026 16:53:57 GMT"
         },
         {
           "source": "BBC",
