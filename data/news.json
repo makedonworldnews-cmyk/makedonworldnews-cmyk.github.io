@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-07T21:00:55Z",
+  "updatedAt": "2026-03-07T21:32:46Z",
   "groups": [
     {
       "region": "Македонија",
@@ -107,6 +107,18 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Florida Bar denies investigation into Trump lawyer Lindsey Halligan",
+          "link": "https://www.aljazeera.com/news/2026/3/7/florida-bar-denies-investigation-into-trump-lawyer-lindsey-halligan?traffic_source=rss",
+          "published": "Sat, 07 Mar 2026 21:09:53 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Doctors try to save girl as father was killed in Gaza Israeli attack",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/7/doctors-try-to-save-girl-as-father-was-killed-in-gaza-israeli-attack?traffic_source=rss",
+          "published": "Sat, 07 Mar 2026 20:56:45 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Video: Satellite images reveal damage to several Iranian military bases",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/3/7/video-satellite-images-reveal-damage-to-several-iranian-military-bases?traffic_source=rss",
           "published": "Sat, 07 Mar 2026 20:39:25 +0000"
@@ -122,18 +134,6 @@
           "title": "UAE president says prepared to confront ‘threats’ as Iran attacks continue",
           "link": "https://www.aljazeera.com/news/2026/3/7/uae-president-says-prepared-to-confront-threats-as-iran-attacks-continue?traffic_source=rss",
           "published": "Sat, 07 Mar 2026 20:18:59 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Russia kills 10 in Ukraine strike including children with new missile",
-          "link": "https://www.aljazeera.com/news/2026/3/7/russia-kills-10-in-kharkiv-strike-including-children-using-new-missile?traffic_source=rss",
-          "published": "Sat, 07 Mar 2026 20:13:31 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Smoke rises from a Dubai tower after attack",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/7/smoke-rises-from-a-dubai-tower-after?traffic_source=rss",
-          "published": "Sat, 07 Mar 2026 19:49:46 +0000"
         }
       ]
     }
