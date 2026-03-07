@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-07T19:38:08Z",
+  "updatedAt": "2026-03-07T19:51:32Z",
   "groups": [
     {
       "region": "Македонија",
@@ -107,6 +107,12 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "More than 30 injured in nightclub bombing in northern Peru",
+          "link": "https://www.aljazeera.com/news/2026/3/7/more-than-30-injured-in-nightclub-bombing-in-northern-peru?traffic_source=rss",
+          "published": "Sat, 07 Mar 2026 19:26:21 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "‘They’re cancer’: Trump threatens cartels, Cuba at Latin American summit",
           "link": "https://www.aljazeera.com/news/2026/3/7/theyre-a-cancer-trump-threatens-cartels-cuba-at-latin-american-summit?traffic_source=rss",
           "published": "Sat, 07 Mar 2026 18:56:30 +0000"
@@ -128,12 +134,6 @@
           "title": "What people in Gaza are saying about the closure of the Rafah crossing",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/3/7/what-people-in-gaza-are-saying-about-the-closure-of-the-rafah-crossing?traffic_source=rss",
           "published": "Sat, 07 Mar 2026 16:56:01 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Tornadoes across central United States kill at least eight people",
-          "link": "https://www.aljazeera.com/news/2026/3/7/tornadoes-across-central-united-states-kill-at-least-eight-people?traffic_source=rss",
-          "published": "Sat, 07 Mar 2026 16:46:25 +0000"
         }
       ]
     }
