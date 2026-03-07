@@ -1,6 +1,20 @@
 {
-  "generated_at": "2026-03-07T20:23:49Z",
+  "generated_at": "2026-03-07T20:45:47Z",
   "items": [
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "Скопјанец ѝ се заканувал на мајка си, полицијата постапува",
+      "link": "https://makfax.com.mk/crna-hronika/skopjanecz-%d1%9d-se-zakanuval-na-majka-si-policzijata-postapuva/",
+      "published": "Sat, 07 Mar 2026 20:30:17 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "(Видео) Борусија со играч повеќе победи во Келн",
+      "link": "https://makfax.com.mk/sport/video-borusija-so-igrach-poveke-pobedi-vo-keln/",
+      "published": "Sat, 07 Mar 2026 20:24:31 +0000"
+    },
     {
       "region": "Македонија",
       "source": "Makfax",
@@ -24,17 +38,10 @@
     },
     {
       "region": "Македонија",
-      "source": "Makfax",
-      "title": "(Видео) Нико Гонзалес го реши Реал Сосиедад",
-      "link": "https://makfax.com.mk/sport/video-niko-gonzales-go-reshi-real-sosiedad/",
-      "published": "Sat, 07 Mar 2026 20:04:38 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "Makfax",
-      "title": "Три случаи на насилство врз малолетници за еден ден: напади во Куманово, Скопје и Штип",
-      "link": "https://makfax.com.mk/crna-hronika/tri-sluchai-na-nasilstvo-vrz-maloletniczi-za-eden-den-napadi-vo-kumanovo-skopje-i-shtip/",
-      "published": "Sat, 07 Mar 2026 20:00:28 +0000"
+      "source": "NetPress",
+      "title": "Европската комисија го прекори Зеленски за заканите кон Орбан",
+      "link": "https://netpress.com.mk/evropskata-komisija-go-prekori-zelenski-za-zakanite-kon-orban/",
+      "published": "Sat, 07 Mar 2026 20:31:24 +0000"
     },
     {
       "region": "Македонија",
@@ -63,13 +70,6 @@
       "title": "Вучиќ ја претстави стратегијата за развој „Србија 2030“",
       "link": "https://netpress.com.mk/vuchik-ja-pretstavi-strategijata-za-razvoj-srbija-2030/",
       "published": "Sat, 07 Mar 2026 19:00:41 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "САД почнaле да користат британски бази за „дефанзивни“ операции во војната против Иран",
-      "link": "https://netpress.com.mk/sad-pochnale-da-koristat-britanski-bazi-za-defanzivni-operaczii-vo-vojnata-protiv-iran/",
-      "published": "Sat, 07 Mar 2026 18:29:46 +0000"
     },
     {
       "region": "Свет",
@@ -109,6 +109,20 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "UAE president says prepared to confront ‘threats’ as Iran attacks continue",
+      "link": "https://www.aljazeera.com/news/2026/3/7/uae-president-says-prepared-to-confront-threats-as-iran-attacks-continue?traffic_source=rss",
+      "published": "Sat, 07 Mar 2026 20:18:59 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Russia kills 10 in Ukraine strike including children with new missile",
+      "link": "https://www.aljazeera.com/news/2026/3/7/russia-kills-10-in-kharkiv-strike-including-children-using-new-missile?traffic_source=rss",
+      "published": "Sat, 07 Mar 2026 20:13:31 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "Smoke rises from a Dubai tower after attack",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/3/7/smoke-rises-from-a-dubai-tower-after?traffic_source=rss",
       "published": "Sat, 07 Mar 2026 19:49:46 +0000"
@@ -126,20 +140,6 @@
       "title": "‘They’re cancer’: Trump threatens cartels, Cuba at Latin American summit",
       "link": "https://www.aljazeera.com/news/2026/3/7/theyre-a-cancer-trump-threatens-cartels-cuba-at-latin-american-summit?traffic_source=rss",
       "published": "Sat, 07 Mar 2026 18:56:30 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Israel launches raid in Lebanon searching for missing pilot",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/7/israel-launches-raid-in-lebanon-searching-for-missing-pilot?traffic_source=rss",
-      "published": "Sat, 07 Mar 2026 18:24:09 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "LIVE: Athletic Bilbao vs Barcelona – La Liga",
-      "link": "https://www.aljazeera.com/sports/liveblog/2026/3/7/live-athletic-bilbao-vs-barcelona-la-liga?traffic_source=rss",
-      "published": "Sat, 07 Mar 2026 17:30:26 +0000"
     }
   ]
 }
