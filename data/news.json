@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-07T06:42:04Z",
+  "updatedAt": "2026-03-07T07:18:02Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) Газдата на ПАО наредил да биде симнат банерот со ликот на Бодирога во ОАКА",
+          "link": "https://makfax.com.mk/sport/video-gazdata-na-pao-naredil-da-bide-simnat-banerot-so-likot-na-bodiroga-vo-oaka/",
+          "published": "Sat, 07 Mar 2026 06:46:48 +0000"
         },
         {
           "source": "Makfax",
@@ -35,10 +41,16 @@
           "published": "Fri, 06 Mar 2026 21:42:48 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Евакуацијата на македонските државјани од земјите од Блискиот Исток ќе почне в недела",
-          "link": "https://makfax.com.mk/makedonija/evakuaczijata-na-makedonskite-drzhavjani-od-zemjite-od-bliskiot-istok-ke-pochne-v-nedela/",
-          "published": "Fri, 06 Mar 2026 20:29:36 +0000"
+          "source": "NetPress",
+          "title": "Иранскиот амбасадор го отфрли мешањето на странство во изборот на нов водач",
+          "link": "https://netpress.com.mk/iranskiot-ambasador-go-otfrli-meshaneto-na-stranstvo-vo-izborot-na-nov-vodach/",
+          "published": "Sat, 07 Mar 2026 06:58:53 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Трамп бара безусловно предавање, засилени нападите врз Техеран",
+          "link": "https://netpress.com.mk/tramp-bara-bezuslovno-predavane-zasileni-napadite-vrz-teheran/",
+          "published": "Sat, 07 Mar 2026 06:42:09 +0000"
         },
         {
           "source": "NetPress",
@@ -57,18 +69,6 @@
           "title": "Лекари во Куманово издаваат потврда за смрт после карање",
           "link": "https://netpress.com.mk/lekari-vo-kumanovo-izdavaat-potvrda-za-smrt-posle-karane/",
           "published": "Fri, 06 Mar 2026 22:16:24 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Одново лажен лекар во Кавадарци – 81 годишна кавадарчанка измамена за 300.000 денари",
-          "link": "https://netpress.com.mk/odnovo-lazhen-lekar-vo-kavadarczi-81-godishna-kavadarchanka-izmamena-za-300-000-denari/",
-          "published": "Fri, 06 Mar 2026 22:12:47 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Во Липковско жител пресретнал и пукал кон сограѓани",
-          "link": "https://netpress.com.mk/vo-lipkovsko-zhitel-presretnal-i-pukal-kon-sogragani/",
-          "published": "Fri, 06 Mar 2026 21:45:43 +0000"
         }
       ]
     },
@@ -107,6 +107,12 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Indonesian president’s US ties questioned amid public anger over Iran war",
+          "link": "https://www.aljazeera.com/features/2026/3/7/indonesian-presidents-us-ties-questioned-amid-public-anger-over-iran-war?traffic_source=rss",
+          "published": "Sat, 07 Mar 2026 06:33:03 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Iranian missiles intercepted over Saudi, UAE, drones launched at Qatar",
           "link": "https://www.aljazeera.com/news/2026/3/7/iranian-missiles-intercepted-over-saudi-jordan-drones-launched-at-qatar?traffic_source=rss",
           "published": "Sat, 07 Mar 2026 06:07:22 +0000"
@@ -128,12 +134,6 @@
           "title": "Caught between Iran and Saudi Arabia, can Pakistan stay neutral for long?",
           "link": "https://www.aljazeera.com/news/2026/3/7/caught-between-iran-and-saudi-arabia-can-pakistan-stay-neutral-for-long?traffic_source=rss",
           "published": "Sat, 07 Mar 2026 05:06:44 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Why Yemen’s Houthis are staying out of Israel-US fight with Iran – for now",
-          "link": "https://www.aljazeera.com/news/2026/3/7/why-yemens-houthis-are-staying-out-of-israel-us-fight-with-iran-for-now?traffic_source=rss",
-          "published": "Sat, 07 Mar 2026 04:21:27 +0000"
         }
       ]
     }
