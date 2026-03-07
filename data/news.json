@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-07T14:01:00Z",
+  "updatedAt": "2026-03-07T14:37:46Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Менкиноски за забраната за влез во Бугарија: Да прогласите адвокат за закана затоа што брани човекови права е опасен преседан за Европа",
+          "link": "https://makfax.com.mk/makedonija/menkinoski-za-zabranata-za-vlez-vo-bugarija-da-proglasite-advokat-za-zakana-zatoa-shto-brani-chovekovi-prava-e-opasen-presedan-za-evropa/",
+          "published": "Sat, 07 Mar 2026 14:23:09 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) СДСМ се приклучува на граѓанскиот протест „Нема да нè снема“",
+          "link": "https://makfax.com.mk/makedonija/video-sdsm-se-prikluchuva-na-graganskiot-protest-nema-da-ne-snema/",
+          "published": "Sat, 07 Mar 2026 14:14:46 +0000"
         },
         {
           "source": "Makfax",
@@ -29,16 +41,22 @@
           "published": "Sat, 07 Mar 2026 13:06:17 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Македонија е безбедна и има доволно залихи, граѓаните се евакуираат од Блискиот Исток, уверува пратеникот Лефков",
-          "link": "https://makfax.com.mk/makedonija/makedonija-e-bezbedna-i-ima-dovolno-zalihi-graganite-se-evakuiraat-od-bliskiot-istok-uveruva-pratenikot-lefkov/",
-          "published": "Sat, 07 Mar 2026 12:27:19 +0000"
+          "source": "NetPress",
+          "title": "Во Софија промовиран романот „Порција бара спас“ од Христо Георгиев – книга што чекала шест децении да стигне до читателите",
+          "link": "https://netpress.com.mk/vo-sofija-promoviran-romanot-porczija-bara-spas-od-hristo-georgiev-kniga-shto-chekala-shest-deczenii-da-stigne-do-chitatelite/",
+          "published": "Sat, 07 Mar 2026 14:30:21 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Лефков: Битиќи призна дека СДСМ нема да биде конкурентна на следните избори",
-          "link": "https://makfax.com.mk/makedonija/lefkov-bitiki-prizna-deka-sdsm-nema-da-bide-konkurentna-na-slednite-izbori/",
-          "published": "Sat, 07 Mar 2026 12:22:39 +0000"
+          "source": "NetPress",
+          "title": "Паниката во врвот на СДСМ минува во политичка хистерија",
+          "link": "https://netpress.com.mk/panikata-vo-vrvot-na-sdsm-minuva-vo-politichka-histerija/",
+          "published": "Sat, 07 Mar 2026 14:17:31 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "СДСМ го откажува маршот во Богданци, на 8-ми Март се приклучуваме на граѓанскиот протестот „Нема да нè снема“ во Скопје",
+          "link": "https://netpress.com.mk/filipche-sdsm-go-otkazhuva-marshot-vo-bogdanczi-na-8-mi-mart-se-prikluchuvame-na-graganskiot-protestot-nema-da-ne-snema-vo-skopje/",
+          "published": "Sat, 07 Mar 2026 14:09:50 +0000"
         },
         {
           "source": "NetPress",
@@ -51,30 +69,18 @@
           "title": "Цени на бензините во Македонија најниски во споредба со соседите и со сите земји во регионот, нафта ќе има",
           "link": "https://netpress.com.mk/czeni-na-benzinite-vo-makedonija-najniski-vo-sporedba-so-sosedite-i-so-site-zemji-vo-regionot-nafta-ke-ima/",
           "published": "Sat, 07 Mar 2026 13:36:40 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Битиќи призна дека СДСM нема да биде конкурентна за следните избори",
-          "link": "https://netpress.com.mk/bitiki-prizna-deka-sdsm-nema-da-bide-konkurentna-za-slednite-izbori/",
-          "published": "Sat, 07 Mar 2026 13:31:46 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Скопското обвинителство бара продолжување на притворот за Стојанче Јовановски",
-          "link": "https://netpress.com.mk/skopskoto-obvinitelstvo-bara-prodolzhuvane-na-pritvorot-za-stojanche-jovanovski/",
-          "published": "Sat, 07 Mar 2026 13:26:43 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Поставен камен темелник на новиот кампус на Универзитетот „Мајка Тереза“",
-          "link": "https://netpress.com.mk/postaven-kamen-temelnik-na-noviot-kampus-na-univerzitetot-majka-tereza-miczkoski/",
-          "published": "Sat, 07 Mar 2026 13:23:38 +0000"
         }
       ]
     },
     {
       "region": "Свет",
       "items": [
+        {
+          "source": "BBC",
+          "title": "Iran will continue to defend itself against aggression, ambassador to UK says",
+          "link": "https://www.bbc.com/news/articles/cq6qp458zv1o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 07 Mar 2026 14:11:37 GMT"
+        },
         {
           "source": "BBC",
           "title": "Armed robots take to the battlefield in Ukraine war",
@@ -100,10 +106,10 @@
           "published": "Fri, 06 Mar 2026 16:16:05 GMT"
         },
         {
-          "source": "BBC",
-          "title": "'Massive' numbers killed by gunmen in latest Nigeria attack, senator tells BBC",
-          "link": "https://www.bbc.com/news/articles/c1d69z3p9g2o?at_medium=RSS&at_campaign=rss",
-          "published": "Fri, 06 Mar 2026 17:06:14 GMT"
+          "source": "Al Jazeera",
+          "title": "Israel kills father, daughter in Gaza as genocide continues amid wider war",
+          "link": "https://www.aljazeera.com/news/2026/3/7/israel-kills-father-daughter-in-gaza-as-genocide-continues-amid-wider-war?traffic_source=rss",
+          "published": "Sat, 07 Mar 2026 14:00:42 +0000"
         },
         {
           "source": "Al Jazeera",
@@ -128,12 +134,6 @@
           "title": "Aftermath of village in Lebanon after Hezbollah, Israeli troops clash",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/3/7/aftermath-of-village-in-lebanon-after-hezbollah-israeli-troops-clash?traffic_source=rss",
           "published": "Sat, 07 Mar 2026 12:24:56 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Indonesians protest Iran war, pressure president over US ties",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/7/indonesians-protest-iran-war-pressure-president-over-us-ties?traffic_source=rss",
-          "published": "Sat, 07 Mar 2026 12:23:43 +0000"
         }
       ]
     }
