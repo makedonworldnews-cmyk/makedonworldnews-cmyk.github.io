@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-07T11:41:20Z",
+  "generated_at": "2026-03-07T11:55:09Z",
   "items": [
     {
       "region": "Македонија",
@@ -39,6 +39,13 @@
     {
       "region": "Македонија",
       "source": "NetPress",
+      "title": "Потпишан договор за изградба на паркинзи во комплексот клиники „Мајка Тереза“",
+      "link": "https://netpress.com.mk/potpishan-dogovor-za-izgradba-na-parkinzi-vo-kompleksot-kliniki-majka-tereza/",
+      "published": "Sat, 07 Mar 2026 11:45:27 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "NetPress",
       "title": "Војната влегува во втората седмица, Израел и Иран продолжуваат со меѓусебните удари",
       "link": "https://netpress.com.mk/vojnata-vleguva-vo-vtorata-sedmicza-izrael-i-iran-prodolzhuvaat-so-megusebnite-udari/",
       "published": "Sat, 07 Mar 2026 11:37:40 +0000"
@@ -63,13 +70,6 @@
       "title": "Побаран притвор за скопјанец кој се обидел да ја убие сопругата пред децата",
       "link": "https://netpress.com.mk/pobaran-pritvor-za-skopjanecz-koj-se-obidel-da-ja-ubie-soprugata-pred-deczata/",
       "published": "Sat, 07 Mar 2026 10:32:58 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "ФОТО| Мермерна биста од италијанска базилика повторно му се припишува на Микеланџело",
-      "link": "https://netpress.com.mk/foto-mermerna-bista-od-italijanska-bazilika-povtorno-mu-se-pripishuva-na-mikelandhelo/",
-      "published": "Sat, 07 Mar 2026 10:23:46 +0000"
     },
     {
       "region": "Свет",
@@ -109,6 +109,27 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "Sirens echo in occupied East Jerusalem warning of Iranian missiles",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/7/sirens-echo-in-occupied-east-jerusalem-warning-of-iranian-missiles?traffic_source=rss",
+      "published": "Sat, 07 Mar 2026 11:30:19 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Trump-Netanyahu’s ‘war in search of a strategy’",
+      "link": "https://www.aljazeera.com/video/the-listening-post/2026/3/7/trump-netanyahus-war-in-search-of-a-strategy?traffic_source=rss",
+      "published": "Sat, 07 Mar 2026 11:14:04 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "India vs New Zealand: T20 World Cup final – Kiwis ready to ‘break hearts’",
+      "link": "https://www.aljazeera.com/sports/2026/3/7/india-vs-new-zealand-t20-world-cup-final-kiwis-ready-to-break-hearts?traffic_source=rss",
+      "published": "Sat, 07 Mar 2026 11:08:18 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "Beirut’s southern suburbs in ruins after Israeli attack",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/3/7/beiruts-southern-suburbs-in-ruins-after-israeli-attack?traffic_source=rss",
       "published": "Sat, 07 Mar 2026 11:05:36 +0000"
@@ -119,27 +140,6 @@
       "title": "Protests in Cuba after thousands without power following blackout",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/3/7/protests-in-cuba-after-thousands-without-power-following-blackout?traffic_source=rss",
       "published": "Sat, 07 Mar 2026 10:18:45 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Southern Peru flooded after torrential rain",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/7/southern-peru-flooded-after-torrential-rain?traffic_source=rss",
-      "published": "Sat, 07 Mar 2026 10:08:25 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Explosion and fire in Syria due to falling drone debris",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/7/explosion-and-fire-in-syria-due-to-falling-drone-debris?traffic_source=rss",
-      "published": "Sat, 07 Mar 2026 09:57:51 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Iranian Kurd leader in Iraq says ground operation into Iran ‘highly likely’",
-      "link": "https://www.aljazeera.com/news/2026/3/7/iranian-kurd-leader-in-iraq-says-ground-operation-into-iran-highly-likely?traffic_source=rss",
-      "published": "Sat, 07 Mar 2026 09:50:54 +0000"
     }
   ]
 }
