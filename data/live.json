@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-07T21:41:27Z",
+  "generated_at": "2026-03-07T21:54:55Z",
   "items": [
     {
       "region": "Македонија",
@@ -109,6 +109,13 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "How far will the Iran war spillover?",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/3/7/how-far-will-the-iran-war-spillover?traffic_source=rss",
+      "published": "Sat, 07 Mar 2026 21:45:43 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "Florida Bar denies investigation into Trump lawyer Lindsey Halligan",
       "link": "https://www.aljazeera.com/news/2026/3/7/florida-bar-denies-investigation-into-trump-lawyer-lindsey-halligan?traffic_source=rss",
       "published": "Sat, 07 Mar 2026 21:09:53 +0000"
@@ -133,13 +140,6 @@
       "title": "Cuba says electricity plant successfully repaired after large blackout",
       "link": "https://www.aljazeera.com/news/2026/3/7/cuba-says-electricity-plant-successfully-repaired-after-large-blackout?traffic_source=rss",
       "published": "Sat, 07 Mar 2026 20:34:18 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "UAE president says prepared to confront ‘threats’ as Iran attacks continue",
-      "link": "https://www.aljazeera.com/news/2026/3/7/uae-president-says-prepared-to-confront-threats-as-iran-attacks-continue?traffic_source=rss",
-      "published": "Sat, 07 Mar 2026 20:18:59 +0000"
     }
   ]
 }
