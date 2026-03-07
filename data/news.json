@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-07T20:27:13Z",
+  "updatedAt": "2026-03-07T20:49:49Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,24 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) Под напад иранската нафтена инфраструктура во Техеран",
+          "link": "https://makfax.com.mk/svet/video-pod-napad-iranskata-naftena-infrastruktura-vo-teheran/",
+          "published": "Sat, 07 Mar 2026 20:48:01 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) Челси со помош на ВАР-от и преку продолженија го елиминира Врексам",
+          "link": "https://makfax.com.mk/sport/video-chelsi-so-pomosh-na-var-ot-i-preku-prodolzhenija-go-eliminira-vreksam/",
+          "published": "Sat, 07 Mar 2026 20:45:56 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Скопјанец ѝ се заканувал на мајка си, полицијата постапува",
+          "link": "https://makfax.com.mk/crna-hronika/skopjanecz-%d1%9d-se-zakanuval-na-majka-si-policzijata-postapuva/",
+          "published": "Sat, 07 Mar 2026 20:30:17 +0000"
         },
         {
           "source": "Makfax",
@@ -23,22 +41,10 @@
           "published": "Sat, 07 Mar 2026 20:16:36 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Хаос во Волфсбург – играчите се тепаа, навивачите дивееја",
-          "link": "https://makfax.com.mk/sport/haos-vo-volfsburg-igrachite-se-tepaa-navivachite-diveeja/",
-          "published": "Sat, 07 Mar 2026 20:14:45 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "(Видео) Нико Гонзалес го реши Реал Сосиедад",
-          "link": "https://makfax.com.mk/sport/video-niko-gonzales-go-reshi-real-sosiedad/",
-          "published": "Sat, 07 Mar 2026 20:04:38 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "(Видео) Нико Гонзалес го реши Реал Сосиедад",
-          "link": "https://makfax.com.mk/sport/video-niko-gonzales-go-reshi-real-sosiedad/",
-          "published": "Sat, 07 Mar 2026 20:04:38 +0000"
+          "source": "NetPress",
+          "title": "Европската комисија го прекори Зеленски за заканите кон Орбан",
+          "link": "https://netpress.com.mk/evropskata-komisija-go-prekori-zelenski-za-zakanite-kon-orban/",
+          "published": "Sat, 07 Mar 2026 20:31:24 +0000"
         },
         {
           "source": "NetPress",
@@ -63,12 +69,6 @@
           "title": "Вучиќ ја претстави стратегијата за развој „Србија 2030“",
           "link": "https://netpress.com.mk/vuchik-ja-pretstavi-strategijata-za-razvoj-srbija-2030/",
           "published": "Sat, 07 Mar 2026 19:00:41 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "САД почнaле да користат британски бази за „дефанзивни“ операции во војната против Иран",
-          "link": "https://netpress.com.mk/sad-pochnale-da-koristat-britanski-bazi-za-defanzivni-operaczii-vo-vojnata-protiv-iran/",
-          "published": "Sat, 07 Mar 2026 18:29:46 +0000"
         }
       ]
     },
@@ -107,6 +107,24 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Cuba says electricity plant successfully repaired after large blackout",
+          "link": "https://www.aljazeera.com/news/2026/3/7/cuba-says-electricity-plant-successfully-repaired-after-large-blackout?traffic_source=rss",
+          "published": "Sat, 07 Mar 2026 20:34:18 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "UAE president says prepared to confront ‘threats’ as Iran attacks continue",
+          "link": "https://www.aljazeera.com/news/2026/3/7/uae-president-says-prepared-to-confront-threats-as-iran-attacks-continue?traffic_source=rss",
+          "published": "Sat, 07 Mar 2026 20:18:59 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Russia kills 10 in Ukraine strike including children with new missile",
+          "link": "https://www.aljazeera.com/news/2026/3/7/russia-kills-10-in-kharkiv-strike-including-children-using-new-missile?traffic_source=rss",
+          "published": "Sat, 07 Mar 2026 20:13:31 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Smoke rises from a Dubai tower after attack",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/3/7/smoke-rises-from-a-dubai-tower-after?traffic_source=rss",
           "published": "Sat, 07 Mar 2026 19:49:46 +0000"
@@ -116,24 +134,6 @@
           "title": "More than 30 injured in nightclub bombing in northern Peru",
           "link": "https://www.aljazeera.com/news/2026/3/7/more-than-30-injured-in-nightclub-bombing-in-northern-peru?traffic_source=rss",
           "published": "Sat, 07 Mar 2026 19:26:21 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "‘They’re cancer’: Trump threatens cartels, Cuba at Latin American summit",
-          "link": "https://www.aljazeera.com/news/2026/3/7/theyre-a-cancer-trump-threatens-cartels-cuba-at-latin-american-summit?traffic_source=rss",
-          "published": "Sat, 07 Mar 2026 18:56:30 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Israel launches raid in Lebanon searching for missing pilot",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/7/israel-launches-raid-in-lebanon-searching-for-missing-pilot?traffic_source=rss",
-          "published": "Sat, 07 Mar 2026 18:24:09 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "LIVE: Athletic Bilbao vs Barcelona – La Liga",
-          "link": "https://www.aljazeera.com/sports/liveblog/2026/3/7/live-athletic-bilbao-vs-barcelona-la-liga?traffic_source=rss",
-          "published": "Sat, 07 Mar 2026 17:30:26 +0000"
         }
       ]
     }
