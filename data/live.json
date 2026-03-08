@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-08T21:01:11Z",
+  "generated_at": "2026-03-08T21:34:35Z",
   "items": [
     {
       "region": "Македонија",
@@ -39,6 +39,20 @@
     {
       "region": "Македонија",
       "source": "NetPress",
+      "title": "Најбитна е безбедноста на граѓаните, до крајот на седмицата сите што побарале евакуација треба да бидат дома",
+      "link": "https://netpress.com.mk/najbitna-e-bezbednosta-na-graganite-do-krajot-na-sedmiczata-site-shto-pobarale-evakuaczija-treba-da-bidat-doma/",
+      "published": "Sun, 08 Mar 2026 21:21:05 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "NetPress",
+      "title": "Кир Стармер разговараше со Трамп по најновиот спор околу Иран",
+      "link": "https://netpress.com.mk/kir-starmer-razgovarashe-so-tramp-po-najnoviot-spor-okolu-iran/",
+      "published": "Sun, 08 Mar 2026 21:13:21 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "NetPress",
       "title": "Пристигна првата група македонски државјани евакуирани од Блискиот исток",
       "link": "https://netpress.com.mk/pristigna-prvata-grupa-makedonski-drzhavjani-evakuirani-od-bliskiot-istok/",
       "published": "Sun, 08 Mar 2026 20:34:45 +0000"
@@ -56,20 +70,6 @@
       "title": "Бундеслига: Вердер убедлив кај Унион Берлин",
       "link": "https://netpress.com.mk/bundesliga-verder-ubedliv-kaj-union-berlin/",
       "published": "Sun, 08 Mar 2026 19:39:04 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "ФА Куп: Третолигашот Порт Вејл во четвртфиналето",
-      "link": "https://netpress.com.mk/fa-kup-tretoligashot-port-vejl-vo-chetvrtfinaleto/",
-      "published": "Sun, 08 Mar 2026 19:16:20 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Техеран алудира дека синот на ајатолахот Хамнеи е именуван за врховен водач",
-      "link": "https://netpress.com.mk/teheran-aludira-deka-sinot-na-ajatolahot-hamnei-e-imenuvan-za-vrhoven-vodach/",
-      "published": "Sun, 08 Mar 2026 18:57:54 +0000"
     },
     {
       "region": "Свет",
@@ -109,6 +109,13 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "Marches for International Women’s Day denounce war, abuse and oppression",
+      "link": "https://www.aljazeera.com/news/2026/3/8/marches-for-international-womens-day-denounce-war-abuse-and-oppression?traffic_source=rss",
+      "published": "Sun, 08 Mar 2026 20:58:20 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "Colombia elects Congress, chooses presidential candidates amid US tensions",
       "link": "https://www.aljazeera.com/news/2026/3/8/colombia-elects-congress-chooses-presidential-candidates-amid-us-tensions?traffic_source=rss",
       "published": "Sun, 08 Mar 2026 20:37:01 +0000"
@@ -133,13 +140,6 @@
       "title": "Aftermath in Iran of US and Israeli air strikes",
       "link": "https://www.aljazeera.com/gallery/2026/3/8/aftermath-in-iran-of-us-and-israeli-air-strikes?traffic_source=rss",
       "published": "Sun, 08 Mar 2026 19:56:51 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "How do you track a war in real time?",
-      "link": "https://www.aljazeera.com/video/the-stream/2026/3/8/how-do-you-track-a-war-in-real-time?traffic_source=rss",
-      "published": "Sun, 08 Mar 2026 19:30:00 +0000"
     }
   ]
 }
