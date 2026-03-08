@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-08T11:23:13Z",
+  "updatedAt": "2026-03-08T11:44:17Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Ќе го побарам Менкиноски, државата ќе ги искористи сите алатки за заштита на граѓаните, рече Мицкоски по забраната за влез на адвокатот во Бугарија",
+          "link": "https://makfax.com.mk/makedonija/ke-go-pobaram-menkinoski-drzhavata-ke-gi-iskoristi-site-alatki-za-zashtita-na-graganite-reche-miczkoski-po-zabranata-za-vlez-na-advokatot-vo-bugarija/",
+          "published": "Sun, 08 Mar 2026 11:38:14 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Мицкоски со апел до жртвите: Пријавувајте насилство и не ги повлекувајте пријавите за да може системот да реагира",
+          "link": "https://makfax.com.mk/makedonija/miczkoski-so-apel-do-zhrtvite-prijavuvajte-nasilstvo-i-ne-gi-povlekuvajte-prijavite-za-da-mozhe-sistemot-da-reagira/",
+          "published": "Sun, 08 Mar 2026 11:27:12 +0000"
         },
         {
           "source": "Makfax",
@@ -29,16 +41,16 @@
           "published": "Sun, 08 Mar 2026 10:19:38 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Избран нов врховен лидер на Иран, се чека официјално објавување на името",
-          "link": "https://makfax.com.mk/svet/izbran-nov-vrhoven-lider-na-iran-se-cheka-oficzijalno-objavuvane-na-imeto/",
-          "published": "Sun, 08 Mar 2026 10:04:01 +0000"
+          "source": "NetPress",
+          "title": "Никој нема право семејна трагедија да ја користи за политички поени",
+          "link": "https://netpress.com.mk/nikoj-nema-pravo-semejna-tragedija-da-ja-koristi-za-politichki-poeni/",
+          "published": "Sun, 08 Mar 2026 11:39:39 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "(Видео) Новинар на Си-Ен-Ен од Техеран: „Паѓа црн дожд по израелските напади“",
-          "link": "https://makfax.com.mk/svet/video-novinar-na-si-en-en-od-teheran-paga-czrn-dozhd-po-izraelskite-napadi/",
-          "published": "Sun, 08 Mar 2026 10:02:13 +0000"
+          "source": "NetPress",
+          "title": "Иран го избра наследникот на Али Хамнеи, но името не се открива",
+          "link": "https://netpress.com.mk/iran-go-izbra-naslednikot-na-ali-hamnei-no-imeto-ne-se-otkriva/",
+          "published": "Sun, 08 Mar 2026 11:27:49 +0000"
         },
         {
           "source": "NetPress",
@@ -57,18 +69,6 @@
           "title": "ВМРО-ДПМНЕ: Хистеријата за мигрантите му се удри од глава на Филипче",
           "link": "https://netpress.com.mk/vmro-dpmne-histerijata-za-migrantite-mu-se-udri-od-glava-na-filipche/",
           "published": "Sun, 08 Mar 2026 10:39:16 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Експлозија во амбасадата на САД во Осло",
-          "link": "https://netpress.com.mk/eksplozija-vo-ambasadata-na-sad-vo-oslo/",
-          "published": "Sun, 08 Mar 2026 10:30:43 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Уапсен маж, со пластичен предмет ја нападнал сопругата",
-          "link": "https://netpress.com.mk/uapsen-mazh-so-plastichen-predmet-ja-napadnal-soprugata/",
-          "published": "Sun, 08 Mar 2026 10:24:21 +0000"
         }
       ]
     },
@@ -107,6 +107,24 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Why international law is still the world’s best defence",
+          "link": "https://www.aljazeera.com/opinions/2026/3/8/why-international-law-is-still-the-worlds-best-defence?traffic_source=rss",
+          "published": "Sun, 08 Mar 2026 11:25:29 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Dark haze over Tehran as US-Israeli forces bomb oil storage facilities",
+          "link": "https://www.aljazeera.com/gallery/2026/3/8/dark-haze-over-tehran-as-us-israeli-forces-bomb-oil-storage-facilities?traffic_source=rss",
+          "published": "Sun, 08 Mar 2026 11:25:07 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Who pays when the war on Iran breaks air travel?",
+          "link": "https://www.aljazeera.com/video/by-the-numbers-3/2026/3/8/who-pays-when-the-war-on-iran-breaks-air-travel?traffic_source=rss",
+          "published": "Sun, 08 Mar 2026 11:12:21 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "The new boss at work may not be human",
           "link": "https://www.aljazeera.com/economy/2026/3/8/the-new-boss-at-work-may-not-be?traffic_source=rss",
           "published": "Sun, 08 Mar 2026 11:08:18 +0000"
@@ -116,24 +134,6 @@
           "title": "Israeli settlers kill two Palestinians in occupied West Bank",
           "link": "https://www.aljazeera.com/news/2026/3/8/israeli-settlers-kill-two-palestinians-in-occupied-west-bank?traffic_source=rss",
           "published": "Sun, 08 Mar 2026 10:32:37 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Hundreds march in New York condemning US-Israeli attacks on Iran",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/8/hundreds-march-in-new-york-condemning-us-israeli-attacks-on-iran?traffic_source=rss",
-          "published": "Sun, 08 Mar 2026 10:24:54 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Bahrain says water desalination plant damaged in Iranian drone attack",
-          "link": "https://www.aljazeera.com/news/2026/3/8/bahrain-says-water-desalination-plant-damaged-in-iranian-drone-attack?traffic_source=rss",
-          "published": "Sun, 08 Mar 2026 10:17:02 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "T20 World Cup: The Final",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/8/aje-onl-t20_wc_final_v3-080326?traffic_source=rss",
-          "published": "Sun, 08 Mar 2026 10:07:43 +0000"
         }
       ]
     }
