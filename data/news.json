@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-08T19:54:00Z",
+  "updatedAt": "2026-03-08T20:28:04Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Иран предупредува: Ако продолжат нападите врз енергетските постројки, ќе следуваат слични удари во регионот",
+          "link": "https://makfax.com.mk/svet/iran-predupreduva-ako-prodolzhat-napadite-vrz-energetskite-postrojki-ke-sleduvaat-slichni-udari-vo-regionot/",
+          "published": "Sun, 08 Mar 2026 20:19:47 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Пациентка од Крива Паланка почина во возило на Итната помош на пат кон болница",
+          "link": "https://makfax.com.mk/crna-hronika/paczientka-od-kriva-palanka-pochina-vo-vozilo-na-itnata-pomosh-na-pat-kon-bolnicza/",
+          "published": "Sun, 08 Mar 2026 20:00:51 +0000"
         },
         {
           "source": "Makfax",
@@ -29,16 +41,10 @@
           "published": "Sun, 08 Mar 2026 19:00:23 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Кинескиот министер ги критикува нападите врз Иран: Светот не смее да се врати на законот на џунглата",
-          "link": "https://makfax.com.mk/svet/kineskiot-minister-gi-kritikuva-napadite-vrz-iran-svetot-ne-smee-da-se-vrati-na-zakonot-na-dhunglata/",
-          "published": "Sun, 08 Mar 2026 18:45:04 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Промовиран Регионалниот феминистички туристички водич „Откривајќи ја нејзината историја“",
-          "link": "https://makfax.com.mk/makedonija/promoviran-regionalniot-feministichki-turistichki-vodich-otkrivajki-ja-nejzinata-istorija/",
-          "published": "Sun, 08 Mar 2026 18:32:34 +0000"
+          "source": "NetPress",
+          "title": "Швајцарските гласачи го отфрлија планот за намалување на финансирањето за државната телевизија",
+          "link": "https://netpress.com.mk/shvajczarskite-glasachi-go-otfrlija-planot-za-namaluvane-na-finansiraneto-za-drzhavnata-televizija/",
+          "published": "Sun, 08 Mar 2026 20:01:08 +0000"
         },
         {
           "source": "NetPress",
@@ -63,12 +69,6 @@
           "title": "Американците побарале прекин на огнот, тврди Аракчи",
           "link": "https://netpress.com.mk/amerikanczite-pobarale-prekin-na-ognot-tvrdi-arakchi/",
           "published": "Sun, 08 Mar 2026 18:04:52 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Двајца убиени во ракетен напад во Саудиска Арабија, Иран тврди дека уништил четири американски радари",
-          "link": "https://netpress.com.mk/dvajcza-ubieni-vo-raketen-napad-vo-saudiska-arabija-iran-tvrdi-deka-unishtil-chetiri-amerikanski-radari/",
-          "published": "Sun, 08 Mar 2026 17:19:04 +0000"
         }
       ]
     },
@@ -107,6 +107,18 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Trump pledges to block legislation until US voter ID law passes",
+          "link": "https://www.aljazeera.com/news/2026/3/8/trump-pledges-to-block-legislation-until-us-voter-id-law-passes?traffic_source=rss",
+          "published": "Sun, 08 Mar 2026 19:59:20 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Aftermath in Iran of US and Israeli air strikes",
+          "link": "https://www.aljazeera.com/gallery/2026/3/8/aftermath-in-iran-of-us-and-israeli-air-strikes?traffic_source=rss",
+          "published": "Sun, 08 Mar 2026 19:56:51 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "How do you track a war in real time?",
           "link": "https://www.aljazeera.com/video/the-stream/2026/3/8/how-do-you-track-a-war-in-real-time?traffic_source=rss",
           "published": "Sun, 08 Mar 2026 19:30:00 +0000"
@@ -119,21 +131,9 @@
         },
         {
           "source": "Al Jazeera",
-          "title": "Trump vows control over Iran leaders as officials seek to calm oil concerns",
+          "title": "Trump vows control over Iran leaders as US troop death toll rises to seven",
           "link": "https://www.aljazeera.com/news/2026/3/8/trump-vows-control-over-iran-leaders-as-officials-seek-to-calm-oil-concerns?traffic_source=rss",
           "published": "Sun, 08 Mar 2026 18:56:10 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Two killed in Saudi Arabia after ‘projectile’ falls on residential building",
-          "link": "https://www.aljazeera.com/news/2026/3/8/two-killed-in-saudi-arabia-after-projectile-falls-on-residential-building?traffic_source=rss",
-          "published": "Sun, 08 Mar 2026 18:02:44 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Why is the conflict with Iran being framed as a ‘holy war’?",
-          "link": "https://www.aljazeera.com/video/2026/3/8/aje-onl-nf_dnrexp-260306-warrinera-us_holy_war-07-080326?traffic_source=rss",
-          "published": "Sun, 08 Mar 2026 17:56:50 +0000"
         }
       ]
     }
