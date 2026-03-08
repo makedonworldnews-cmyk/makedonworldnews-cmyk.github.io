@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-08T06:58:52Z",
+  "updatedAt": "2026-03-08T07:37:31Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,24 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Началникот на Генералштабот на Армијата присуствуваше на примопредавањето на должноста командант на Националната Гарда на Вермонт",
+          "link": "https://makfax.com.mk/makedonija/nachalnikot-na-generalshtabot-na-armijata-prisustvuvashe-na-primopredavaneto-na-dolzhnosta-komandant-na-naczionalnata-garda-na-vermont/",
+          "published": "Sun, 08 Mar 2026 07:37:03 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Возбудливо осмомартовско патување во светот на гитарата со Дејан Милевски",
+          "link": "https://makfax.com.mk/kultura/vozbudlivo-osmomartovsko-patuvane-vo-svetot-na-gitarata-so-dejan-milevski/",
+          "published": "Sun, 08 Mar 2026 07:35:08 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Претежно облачно време со услови за слаб дожд, најавуваат метеоролозите",
+          "link": "https://makfax.com.mk/makedonija/pretezhno-oblachno-vreme-so-uslovi-za-slab-dozhd-najavuvaat-meteorolozite/",
+          "published": "Sun, 08 Mar 2026 07:00:47 +0000"
         },
         {
           "source": "Makfax",
@@ -23,22 +41,16 @@
           "published": "Sat, 07 Mar 2026 22:31:31 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "(Видео) Мармуш ги однесе „граѓаните“ во 1/4 финалето",
-          "link": "https://makfax.com.mk/sport/video-marmush-gi-odnese-graganite-vo-1-4-finaleto/",
-          "published": "Sat, 07 Mar 2026 22:19:31 +0000"
+          "source": "NetPress",
+          "title": "Дневен хороскоп за недела, 8-ми март 2026-та",
+          "link": "https://netpress.com.mk/dneven-horoskop-za-nedela-8-mi-mart-2026-ta/",
+          "published": "Sun, 08 Mar 2026 07:27:06 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "(Видео) Мајсторија на Јамал, Барселона победи во Билбао",
-          "link": "https://makfax.com.mk/sport/video-majstorija-na-jamal-barselona-pobedi-vo-bilbao/",
-          "published": "Sat, 07 Mar 2026 22:10:33 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "(Видео) Мајсторија на Јамал, Барселона победи во Билбао",
-          "link": "https://makfax.com.mk/sport/video-majstorija-na-jamal-barselona-pobedi-vo-bilbao/",
-          "published": "Sat, 07 Mar 2026 22:10:33 +0000"
+          "source": "NetPress",
+          "title": "Денеска и утре облачно со попладневни врнежи, од вторник разведрување",
+          "link": "https://netpress.com.mk/deneska-i-utre-oblachno-so-popladnevni-vrnezhi-od-vtornik-razvedruvane/",
+          "published": "Sun, 08 Mar 2026 07:07:38 +0000"
         },
         {
           "source": "NetPress",
@@ -57,18 +69,6 @@
           "title": "ВИДЕО| Николоски по изјавата на aмбасадорот Лосон: Како меур од сапуница се распрсна лагата за „мигранти за пари“",
           "link": "https://netpress.com.mk/video-nikoloski-po-izjavata-na-ambasadorot-loson-kako-meur-od-sapunicza-se-rasprsna-lagata-za-migranti-za-pari/",
           "published": "Sat, 07 Mar 2026 22:25:28 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Сити, Челзи и Арсенал во четвртфиналето на ФА купот",
-          "link": "https://netpress.com.mk/siti-chelzi-i-arsenal-vo-chetvrtfinaleto-na-fa-kupot/",
-          "published": "Sat, 07 Mar 2026 22:12:22 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Лондон итно го подготвува својот носач на авиони за испловување, Трамп порача дека не му е потребен откако „победил“",
-          "link": "https://netpress.com.mk/london-itno-go-podgotvuva-svojot-nosach-na-avioni-za-isplovuvane-tramp-poracha-deka-ne-mu-e-potreben-otkako-pobedil/",
-          "published": "Sat, 07 Mar 2026 22:02:27 +0000"
         }
       ]
     },
