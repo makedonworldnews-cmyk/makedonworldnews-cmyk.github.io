@@ -1,6 +1,20 @@
 {
-  "generated_at": "2026-03-08T10:18:03Z",
+  "generated_at": "2026-03-08T10:45:50Z",
   "items": [
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "Силен земјотрес од 5,5 степени во Грција, почувствуван и во Охрид, Струга и други делови од западна Македонија",
+      "link": "https://makfax.com.mk/makedonija/silen-zemjotres-od-55-stepeni-vo-grczija-pochuvstvuvan-i-vo-ohrid-struga-i-drugi-delovi-od-zapadna-makedonija/",
+      "published": "Sun, 08 Mar 2026 10:26:15 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "(Видео) Драма на мечот на Ѓоковиќ: Се сокри зад рекламните паноа, а потоа го прегази Мајжак",
+      "link": "https://makfax.com.mk/sport/video-drama-na-mechot-na-gokovik-se-sokri-zad-reklamnite-panoa-a-potoa-go-pregazi-majzhak/",
+      "published": "Sun, 08 Mar 2026 10:19:38 +0000"
+    },
     {
       "region": "Македонија",
       "source": "Makfax",
@@ -24,17 +38,31 @@
     },
     {
       "region": "Македонија",
-      "source": "Makfax",
-      "title": "Маж од охридско село ја нападнал сопругата со пластичен предмет, приведен од полицијата",
-      "link": "https://makfax.com.mk/crna-hronika/mazh-od-ohridsko-selo-ja-napadnal-soprugata-so-plastichen-predmet-priveden-od-policzijata/",
-      "published": "Sun, 08 Mar 2026 09:21:46 +0000"
+      "source": "NetPress",
+      "title": "ВМРО-ДПМНЕ: Хистеријата за мигрантите му се удри од глава на Филипче",
+      "link": "https://netpress.com.mk/vmro-dpmne-histerijata-za-migrantite-mu-se-udri-od-glava-na-filipche/",
+      "published": "Sun, 08 Mar 2026 10:39:16 +0000"
     },
     {
       "region": "Македонија",
-      "source": "Makfax",
-      "title": "Гвардиола на принуден одмор",
-      "link": "https://makfax.com.mk/sport/gvardiola-na-prinuden-odmor/",
-      "published": "Sun, 08 Mar 2026 09:14:33 +0000"
+      "source": "NetPress",
+      "title": "Експлозија во амбасадата на САД во Осло",
+      "link": "https://netpress.com.mk/eksplozija-vo-ambasadata-na-sad-vo-oslo/",
+      "published": "Sun, 08 Mar 2026 10:30:43 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "NetPress",
+      "title": "Уапсен маж, со пластичен предмет ја нападнал сопругата",
+      "link": "https://netpress.com.mk/uapsen-mazh-so-plastichen-predmet-ja-napadnal-soprugata/",
+      "published": "Sun, 08 Mar 2026 10:24:21 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "NetPress",
+      "title": "Земјотрес ја погоди северзападна Грција, нема настрадани",
+      "link": "https://netpress.com.mk/zemjotres-ja-pogodi-severzapadna-grczija-nema-nastradani/",
+      "published": "Sun, 08 Mar 2026 10:20:33 +0000"
     },
     {
       "region": "Македонија",
@@ -42,34 +70,6 @@
       "title": "Војната на Блискиот исток никогаш не требаше да се случи, порача Кина",
       "link": "https://netpress.com.mk/vojnata-na-bliskiot-istok-nikogash-ne-trebashe-da-se-sluchi-poracha-kina/",
       "published": "Sun, 08 Mar 2026 10:08:20 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "НБА: 50-та победа на Оклахома, Детроит изненаден од Бруклин",
-      "link": "https://netpress.com.mk/nba-50-ta-pobeda-na-oklahoma-detroit-iznenaden-od-bruklin/",
-      "published": "Sun, 08 Mar 2026 09:59:57 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Формула 1: Доминација на Мерцедес на отворањето на сезоната",
-      "link": "https://netpress.com.mk/formula-1-dominaczija-na-merczedes-na-otvoraneto-na-sezonata/",
-      "published": "Sun, 08 Mar 2026 09:49:43 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Четири жртви во израелски напад врз зграда во Бејрут, напади ширум регионот",
-      "link": "https://netpress.com.mk/chetiri-zhrtvi-vo-izraelski-napad-vrz-zgrada-vo-bejrut-napadi-shirum-regionot/",
-      "published": "Sun, 08 Mar 2026 09:34:41 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "СДСМ повторно користи трагедии за политичка пропаганда, критикуваат од ВМРО-ДПМНЕ",
-      "link": "https://netpress.com.mk/sdsm-povtorno-koristi-tragedii-za-politichka-propaganda-kritikuvaat-od-vmro-dpmne/",
-      "published": "Sun, 08 Mar 2026 09:14:30 +0000"
     },
     {
       "region": "Свет",
@@ -109,6 +109,20 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "T20 World Cup: The Final",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/8/aje-onl-t20_wc_final_v3-080326?traffic_source=rss",
+      "published": "Sun, 08 Mar 2026 10:07:43 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Smoke rises over Beirut after Israeli strike on Raouche building",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/8/smoke-rises-over-beirut-after-israeli-strike-on-raouche-building?traffic_source=rss",
+      "published": "Sun, 08 Mar 2026 10:04:24 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "Selecting Iran’s next supreme leader has ‘nothing to with the IRGC’",
       "link": "https://www.aljazeera.com/video/quotable/2026/3/8/selecting-irans-next-supreme-leader-has-nothing-to-with-the?traffic_source=rss",
       "published": "Sun, 08 Mar 2026 09:52:22 +0000"
@@ -126,20 +140,6 @@
       "title": "‘No popular support’: China warns against government change in Iran",
       "link": "https://www.aljazeera.com/news/2026/3/8/no-popular-support-china-warns-against-government-change-in-iran?traffic_source=rss",
       "published": "Sun, 08 Mar 2026 08:33:16 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "LIVE: India vs New Zealand – T20 World Cup final",
-      "link": "https://www.aljazeera.com/sports/liveblog/2026/3/8/live-india-vs-new-zealand-t20-world-cup-final?traffic_source=rss",
-      "published": "Sun, 08 Mar 2026 08:30:00 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Children wounded in the US-Israeli strikes receive treatment in Tehran",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/8/children-wounded-in-the-us-israeli-strikes-receive-treatment-in-tehran?traffic_source=rss",
-      "published": "Sun, 08 Mar 2026 08:29:30 +0000"
     }
   ]
 }
