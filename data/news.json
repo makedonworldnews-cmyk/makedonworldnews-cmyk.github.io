@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-08T18:49:28Z",
+  "updatedAt": "2026-03-08T19:13:25Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Тетовец уапсен по пријава дека задржувал 15-годишно девојче и не ѝ дозволувал контакт со родителите",
+          "link": "https://makfax.com.mk/crna-hronika/tetovecz-uapsen-po-prijava-deka-zadrzhuval-15-godishno-devojche-i-ne-%d1%9d-dozvoluval-kontakt-so-roditelite/",
+          "published": "Sun, 08 Mar 2026 19:00:23 +0000"
         },
         {
           "source": "Makfax",
@@ -35,10 +41,10 @@
           "published": "Sun, 08 Mar 2026 18:00:43 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Турција стравува од поширока војна меѓу САД и Иран",
-          "link": "https://makfax.com.mk/svet/region/turczija-stravuva-od-poshiroka-vojna-megu-sad-i-iran/",
-          "published": "Sun, 08 Mar 2026 17:40:16 +0000"
+          "source": "NetPress",
+          "title": "Техеран алудира дека синот на ајатолахот Хамнеи е именуван за врховен водач",
+          "link": "https://netpress.com.mk/teheran-aludira-deka-sinot-na-ajatolahot-hamnei-e-imenuvan-za-vrhoven-vodach/",
+          "published": "Sun, 08 Mar 2026 18:57:54 +0000"
         },
         {
           "source": "NetPress",
@@ -63,12 +69,6 @@
           "title": "Победи за домашните екипи на двете денешни средби во ПМФЛ",
           "link": "https://netpress.com.mk/pobedi-za-domashnite-ekipi-na-dvete-deneshni-sredbi-vo-pmfl/",
           "published": "Sun, 08 Mar 2026 16:39:52 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Израел се закани дека ќе го прогонува секој наследник на Хамнеи",
-          "link": "https://netpress.com.mk/izrael-se-zakani-deka-ke-go-progonuva-sekoj-naslednik-na-hamnei/",
-          "published": "Sun, 08 Mar 2026 16:15:33 +0000"
         }
       ]
     },
@@ -107,6 +107,12 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Trump vows control over Iran leaders as officials seek to calm oil concerns",
+          "link": "https://www.aljazeera.com/news/2026/3/8/trump-vows-control-over-iran-leaders-as-officials-seek-to-calm-oil-concerns?traffic_source=rss",
+          "published": "Sun, 08 Mar 2026 18:56:10 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Two killed in Saudi Arabia after ‘projectile’ falls on residential building",
           "link": "https://www.aljazeera.com/news/2026/3/8/two-killed-in-saudi-arabia-after-projectile-falls-on-residential-building?traffic_source=rss",
           "published": "Sun, 08 Mar 2026 18:02:44 +0000"
@@ -128,12 +134,6 @@
           "title": "Israel’s Mossad relies on US cover and security rot for Iran strikes",
           "link": "https://www.aljazeera.com/features/2026/3/8/israels-mossad-relies-on-us-cover-and-security-rot-for-iran-strikes?traffic_source=rss",
           "published": "Sun, 08 Mar 2026 17:06:37 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Is Israel reshaping Lebanon, trying to separate Hezbollah from its people?",
-          "link": "https://www.aljazeera.com/features/2026/3/8/is-israel-reshaping-lebanon-trying-to-separate-hezbollah-from-its-people?traffic_source=rss",
-          "published": "Sun, 08 Mar 2026 16:36:24 +0000"
         }
       ]
     }
