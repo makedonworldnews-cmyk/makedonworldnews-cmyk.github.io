@@ -1,6 +1,13 @@
 {
-  "generated_at": "2026-03-08T10:59:39Z",
+  "generated_at": "2026-03-08T11:25:53Z",
   "items": [
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "МВР за две недели поднесе 21 кривична пријава за семејно насилство, изречени пет притвори",
+      "link": "https://makfax.com.mk/makedonija/mvr-za-dve-nedeli-podnese-21-krivichna-prijava-za-semejno-nasilstvo-izrecheni-pet-pritvori/",
+      "published": "Sun, 08 Mar 2026 11:08:42 +0000"
+    },
     {
       "region": "Македонија",
       "source": "Makfax",
@@ -31,10 +38,17 @@
     },
     {
       "region": "Македонија",
-      "source": "Makfax",
-      "title": "Познато е кој ќе се бори на УФЦ спектаклот во Белата куќа",
-      "link": "https://makfax.com.mk/sport/poznato-e-koj-ke-se-bori-na-ufcz-spektaklot-vo-belata-kuka/",
-      "published": "Sun, 08 Mar 2026 09:22:36 +0000"
+      "source": "NetPress",
+      "title": "Алармантни бројки за семејното насилство, за две седмици поднесени 21 пријави, регистрирани и обид за убиство и силување",
+      "link": "https://netpress.com.mk/alarmantni-brojki-za-semejnoto-nasilstvo-za-dve-sedmiczi-podneseni-21-prijavi-registrirani-i-obid-za-ubistvo-i-siluvane/",
+      "published": "Sun, 08 Mar 2026 11:12:07 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "NetPress",
+      "title": "Трамп не сака Курдите да се вклучат во војната против Иран",
+      "link": "https://netpress.com.mk/tramp-ne-saka-kurdite-da-se-vkluchat-vo-vojnata-protiv-iran/",
+      "published": "Sun, 08 Mar 2026 11:04:24 +0000"
     },
     {
       "region": "Македонија",
@@ -56,20 +70,6 @@
       "title": "Уапсен маж, со пластичен предмет ја нападнал сопругата",
       "link": "https://netpress.com.mk/uapsen-mazh-so-plastichen-predmet-ja-napadnal-soprugata/",
       "published": "Sun, 08 Mar 2026 10:24:21 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Земјотрес ја погоди северзападна Грција, нема настрадани",
-      "link": "https://netpress.com.mk/zemjotres-ja-pogodi-severzapadna-grczija-nema-nastradani/",
-      "published": "Sun, 08 Mar 2026 10:20:33 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Војната на Блискиот исток никогаш не требаше да се случи, порача Кина",
-      "link": "https://netpress.com.mk/vojnata-na-bliskiot-istok-nikogash-ne-trebashe-da-se-sluchi-poracha-kina/",
-      "published": "Sun, 08 Mar 2026 10:08:20 +0000"
     },
     {
       "region": "Свет",
@@ -109,6 +109,20 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "The new boss at work may not be human",
+      "link": "https://www.aljazeera.com/economy/2026/3/8/the-new-boss-at-work-may-not-be?traffic_source=rss",
+      "published": "Sun, 08 Mar 2026 11:08:18 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Israeli settlers kill two Palestinians in occupied West Bank",
+      "link": "https://www.aljazeera.com/news/2026/3/8/israeli-settlers-kill-two-palestinians-in-occupied-west-bank?traffic_source=rss",
+      "published": "Sun, 08 Mar 2026 10:32:37 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "Hundreds march in New York condemning US-Israeli attacks on Iran",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/3/8/hundreds-march-in-new-york-condemning-us-israeli-attacks-on-iran?traffic_source=rss",
       "published": "Sun, 08 Mar 2026 10:24:54 +0000"
@@ -126,20 +140,6 @@
       "title": "T20 World Cup: The Final",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/3/8/aje-onl-t20_wc_final_v3-080326?traffic_source=rss",
       "published": "Sun, 08 Mar 2026 10:07:43 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Smoke rises over Beirut after Israeli strike on Raouche building",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/8/smoke-rises-over-beirut-after-israeli-strike-on-raouche-building?traffic_source=rss",
-      "published": "Sun, 08 Mar 2026 10:04:24 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Selecting Iran’s next supreme leader has ‘nothing to with the IRGC’",
-      "link": "https://www.aljazeera.com/video/quotable/2026/3/8/selecting-irans-next-supreme-leader-has-nothing-to-with-the?traffic_source=rss",
-      "published": "Sun, 08 Mar 2026 09:52:22 +0000"
     }
   ]
 }
