@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-08T19:32:59Z",
+  "generated_at": "2026-03-08T19:49:19Z",
   "items": [
     {
       "region": "Македонија",
@@ -39,6 +39,13 @@
     {
       "region": "Македонија",
       "source": "NetPress",
+      "title": "Бундеслига: Вердер убедлив кај Унион Берлин",
+      "link": "https://netpress.com.mk/bundesliga-verder-ubedliv-kaj-union-berlin/",
+      "published": "Sun, 08 Mar 2026 19:39:04 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "NetPress",
       "title": "ФА Куп: Третолигашот Порт Вејл во четвртфиналето",
       "link": "https://netpress.com.mk/fa-kup-tretoligashot-port-vejl-vo-chetvrtfinaleto/",
       "published": "Sun, 08 Mar 2026 19:16:20 +0000"
@@ -63,13 +70,6 @@
       "title": "Двајца убиени во ракетен напад во Саудиска Арабија, Иран тврди дека уништил четири американски радари",
       "link": "https://netpress.com.mk/dvajcza-ubieni-vo-raketen-napad-vo-saudiska-arabija-iran-tvrdi-deka-unishtil-chetiri-amerikanski-radari/",
       "published": "Sun, 08 Mar 2026 17:19:04 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Трамп вели дека следниот ирански водач „нема да потрае“ без негово одобрение",
-      "link": "https://netpress.com.mk/tramp-veli-deka-sledniot-iranski-vodach-nema-da-potrae-bez-negovo-odobrenie/",
-      "published": "Sun, 08 Mar 2026 16:48:30 +0000"
     },
     {
       "region": "Свет",
@@ -109,6 +109,20 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "How do you track a war in real time?",
+      "link": "https://www.aljazeera.com/video/the-stream/2026/3/8/how-do-you-track-a-war-in-real-time?traffic_source=rss",
+      "published": "Sun, 08 Mar 2026 19:30:00 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Rangers vs Celtic turns ugly as fans clash on pitch after Scottish Cup tie",
+      "link": "https://www.aljazeera.com/sports/2026/3/8/rangers-vs-celtic-turns-ugly-as-fans-clash-on-pitch-after-scottish-cup-tie?traffic_source=rss",
+      "published": "Sun, 08 Mar 2026 19:25:13 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "Trump vows control over Iran leaders as officials seek to calm oil concerns",
       "link": "https://www.aljazeera.com/news/2026/3/8/trump-vows-control-over-iran-leaders-as-officials-seek-to-calm-oil-concerns?traffic_source=rss",
       "published": "Sun, 08 Mar 2026 18:56:10 +0000"
@@ -126,20 +140,6 @@
       "title": "Why is the conflict with Iran being framed as a ‘holy war’?",
       "link": "https://www.aljazeera.com/video/2026/3/8/aje-onl-nf_dnrexp-260306-warrinera-us_holy_war-07-080326?traffic_source=rss",
       "published": "Sun, 08 Mar 2026 17:56:50 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "T20 World Cup final: India defeat New Zealand by 96 runs for third title",
-      "link": "https://www.aljazeera.com/sports/2026/3/8/t20-world-cup-final-india-defeat-new-zealand-by-96-runs-for-third-title?traffic_source=rss",
-      "published": "Sun, 08 Mar 2026 17:42:30 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Israel’s Mossad relies on US cover and security rot for Iran strikes",
-      "link": "https://www.aljazeera.com/features/2026/3/8/israels-mossad-relies-on-us-cover-and-security-rot-for-iran-strikes?traffic_source=rss",
-      "published": "Sun, 08 Mar 2026 17:06:37 +0000"
     }
   ]
 }
