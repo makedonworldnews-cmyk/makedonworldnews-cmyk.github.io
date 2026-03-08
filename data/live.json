@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-08T11:42:02Z",
+  "generated_at": "2026-03-08T11:55:48Z",
   "items": [
     {
       "region": "Македонија",
@@ -109,6 +109,13 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "Why are Iranian leaders sending mixed messages on Gulf attacks?",
+      "link": "https://www.aljazeera.com/news/2026/3/8/why-are-iranian-leaders-sending-mixed-messages-on-gulf-attacks?traffic_source=rss",
+      "published": "Sun, 08 Mar 2026 11:40:17 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "Why international law is still the world’s best defence",
       "link": "https://www.aljazeera.com/opinions/2026/3/8/why-international-law-is-still-the-worlds-best-defence?traffic_source=rss",
       "published": "Sun, 08 Mar 2026 11:25:29 +0000"
@@ -133,13 +140,6 @@
       "title": "The new boss at work may not be human",
       "link": "https://www.aljazeera.com/economy/2026/3/8/the-new-boss-at-work-may-not-be?traffic_source=rss",
       "published": "Sun, 08 Mar 2026 11:08:18 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Israeli settlers kill two Palestinians in occupied West Bank",
-      "link": "https://www.aljazeera.com/news/2026/3/8/israeli-settlers-kill-two-palestinians-in-occupied-west-bank?traffic_source=rss",
-      "published": "Sun, 08 Mar 2026 10:32:37 +0000"
     }
   ]
 }
