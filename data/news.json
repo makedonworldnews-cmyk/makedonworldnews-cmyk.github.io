@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-08T13:47:56Z",
+  "updatedAt": "2026-03-08T14:11:43Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,24 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "СДСМ реагира за мигрантите: Мицкоски ти веруваме, многу ти веруваме",
+          "link": "https://makfax.com.mk/makedonija/sdsm-reagira-za-migrantite-miczkoski-ti-veruvame-mnogu-ti-veruvame/",
+          "published": "Sun, 08 Mar 2026 14:11:28 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Весна Бендевска: Црвениот аларм е вклучен – потребни се итни мерки против семејното насилство",
+          "link": "https://makfax.com.mk/makedonija/vesna-bendevska-czrveniot-alarm-e-vkluchen-potrebni-se-itni-merki-protiv-semejnoto-nasilstvo/",
+          "published": "Sun, 08 Mar 2026 14:06:37 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Семејното насилство не е приватен проблем: АФЖ – Левица со работна средба за сеопфатен систем на заштита",
+          "link": "https://makfax.com.mk/makedonija/semejnoto-nasilstvo-ne-e-privaten-problem-afzh-levicza-so-rabotna-sredba-za-seopfaten-sistem-na-zashtita/",
+          "published": "Sun, 08 Mar 2026 14:04:34 +0000"
         },
         {
           "source": "Makfax",
@@ -23,22 +41,16 @@
           "published": "Sun, 08 Mar 2026 12:50:12 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "(Видео) Протести на Кипар против британските воени бази: „Сакаме да се затворат“",
-          "link": "https://makfax.com.mk/svet/video-protesti-na-kipar-protiv-britanskite-voeni-bazi-sakame-da-se-zatvorat/",
-          "published": "Sun, 08 Mar 2026 12:46:41 +0000"
+          "source": "NetPress",
+          "title": "Мицкоски: Македонија организира чартер летови за евакуација на граѓани од Дубаи, Катар и Кувајт",
+          "link": "https://netpress.com.mk/miczkoski-makedonija-organizira-charter-letovi-za-evakuaczija-na-gragani-od-dubai-katar-i-kuvajt/",
+          "published": "Sun, 08 Mar 2026 14:10:59 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Иранскиот претседател: Ќе ги засилиме нападите врз американски цели, немаме друг избор",
-          "link": "https://makfax.com.mk/svet/iranskiot-pretsedatel-ke-gi-zasilime-napadite-vrz-amerikanski-czeli-nemame-drug-izbor/",
-          "published": "Sun, 08 Mar 2026 12:41:58 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Мицкоски: Британскиот амбасадор ги демантираше лагите на СДСМ за мигрантите, таков договор не постои и никогаш не постоел",
-          "link": "https://makfax.com.mk/makedonija/miczkoski-britanskiot-ambasador-go-demantirashe-lagite-na-sdsm-za-migrantite-takov-dogovor-ne-postoi-i-nikogash-ne-postoel/",
-          "published": "Sun, 08 Mar 2026 12:31:31 +0000"
+          "source": "NetPress",
+          "title": "„Нема да нè снема“ – Осмомартовски марш за женските права во Скопје",
+          "link": "https://netpress.com.mk/nema-da-ne-snema-osmomartovski-marsh-za-zhenskite-prava-vo-skopje/",
+          "published": "Sun, 08 Mar 2026 13:50:02 +0000"
         },
         {
           "source": "NetPress",
@@ -57,30 +69,12 @@
           "title": "Блискоисточната војна го зајакна доларот",
           "link": "https://netpress.com.mk/bliskoistochnata-vojna-go-zajakna-dolarot/",
           "published": "Sun, 08 Mar 2026 13:13:15 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Мицкоски: Работите се сериозни поради кризата на Блискиот исток, мојата борба е нашите граѓани да плаќаат поевтино од соседството",
-          "link": "https://netpress.com.mk/miczkoski-rabotite-se-seriozni-poradi-krizata-na-bliskiot-istok-mojata-borba-e-nashite-gragani-da-plakaat-poevtino-od-sosedstvoto/",
-          "published": "Sun, 08 Mar 2026 12:42:36 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "СДСМ добија јасен одговор на нивните лаги за наводни центри за мигранти",
-          "link": "https://netpress.com.mk/sdsm-dobija-jasen-odgovor-na-nivnite-lagi-za-navodni-czentri-za-migranti/",
-          "published": "Sun, 08 Mar 2026 12:35:32 +0000"
         }
       ]
     },
     {
       "region": "Свет",
       "items": [
-        {
-          "source": "BBC",
-          "title": "Dozens killed as Israeli special forces raid Lebanese village in search of 40-year-old remains",
-          "link": "https://www.bbc.com/news/articles/cy8l2p2l3v0o?at_medium=RSS&at_campaign=rss",
-          "published": "Sat, 07 Mar 2026 19:16:44 GMT"
-        },
         {
           "source": "BBC",
           "title": "War fuels debate in Cyprus over UK military bases",
@@ -101,9 +95,27 @@
         },
         {
           "source": "BBC",
-          "title": "Iranian ambassador warns UK to be 'very careful' about further involvement in war",
-          "link": "https://www.bbc.com/news/articles/cq6qp458zv1o?at_medium=RSS&at_campaign=rss",
-          "published": "Sat, 07 Mar 2026 16:53:57 GMT"
+          "title": "Swiss reject right-wing plan to cut licence fee for public broadcaster",
+          "link": "https://www.bbc.com/news/articles/c0q32322wq8o?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 08 Mar 2026 13:12:54 GMT"
+        },
+        {
+          "source": "BBC",
+          "title": "Rapper-politician Balendra Shah unseats Nepal's ex-PM as he heads for victory",
+          "link": "https://www.bbc.com/news/articles/c93w6y0lnd9o?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 08 Mar 2026 04:36:12 GMT"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "UNICEF spokesman enraged over child casualties from Israeli-US Iran war",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/8/unicef-spokesman-enraged-over-child-casualties-from-israeli-us-iran-war?traffic_source=rss",
+          "published": "Sun, 08 Mar 2026 13:48:05 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Pope Leo urges dialogue amid Middle East war",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/8/pope-leo-urges-dialogue-amid-middle-east-war?traffic_source=rss",
+          "published": "Sun, 08 Mar 2026 13:44:37 +0000"
         },
         {
           "source": "Al Jazeera",
@@ -122,18 +134,6 @@
           "title": "Blast at US Embassy in Oslo may have terror motive, Norway police say",
           "link": "https://www.aljazeera.com/news/2026/3/8/blast-at-us-embassy-in-oslo-may-have-terror-motive-norway-police-say?traffic_source=rss",
           "published": "Sun, 08 Mar 2026 13:07:19 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Israel’s president responds to Trump call to pardon Netanyahu",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/8/israels-president-responds-to-trump-call-to-pardon-netanyahu?traffic_source=rss",
-          "published": "Sun, 08 Mar 2026 13:03:56 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Iran war threatens prolonged impact on energy markets as oil prices rise",
-          "link": "https://www.aljazeera.com/news/2026/3/8/iran-war-threatens-prolonged-impact-on-energy-markets-as-oil-prices-rise?traffic_source=rss",
-          "published": "Sun, 08 Mar 2026 12:55:57 +0000"
         }
       ]
     }
