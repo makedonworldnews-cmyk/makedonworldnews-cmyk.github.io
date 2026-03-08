@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-08T07:37:31Z",
+  "updatedAt": "2026-03-08T07:55:53Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Иранците: Во текот на ноќта погодени пет наши нафтени постројки",
+          "link": "https://makfax.com.mk/svet/iranczite-vo-tekot-na-nokta-pogodeni-pet-nashi-nafteni-postrojki/",
+          "published": "Sun, 08 Mar 2026 07:49:05 +0000"
         },
         {
           "source": "Makfax",
@@ -35,10 +41,10 @@
           "published": "Sun, 08 Mar 2026 00:27:56 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Брант го напушта Дортмунд како слободен играч",
-          "link": "https://makfax.com.mk/sport/brant-go-napushta-dortmund-kako-sloboden-igrach/",
-          "published": "Sat, 07 Mar 2026 22:31:31 +0000"
+          "source": "NetPress",
+          "title": "ВИДЕО| Израелската војска ги нападна иранските нафтени резерви во Техеран, Иран возврати со удар на рафинеријата во Хаифа",
+          "link": "https://netpress.com.mk/video-izraelskata-vojska-gi-napadna-iranskite-nafteni-rezervi-vo-teheran-iran-vozvrati-so-udar-na-rafinerijata-vo-haifa/",
+          "published": "Sun, 08 Mar 2026 07:47:09 +0000"
         },
         {
           "source": "NetPress",
@@ -63,12 +69,6 @@
           "title": "Серија А: Јуве без проблеми со Пиза, Аталанта извади бод по два гола заостанување",
           "link": "https://netpress.com.mk/serija-a-juve-bez-problemi-so-piza-atalanta-izvadi-bod-po-dva-gola-zaostanuvane/",
           "published": "Sat, 07 Mar 2026 22:37:21 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "ВИДЕО| Николоски по изјавата на aмбасадорот Лосон: Како меур од сапуница се распрсна лагата за „мигранти за пари“",
-          "link": "https://netpress.com.mk/video-nikoloski-po-izjavata-na-ambasadorot-loson-kako-meur-od-sapunicza-se-rasprsna-lagata-za-migranti-za-pari/",
-          "published": "Sat, 07 Mar 2026 22:25:28 +0000"
         }
       ]
     },
