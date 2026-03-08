@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-08T09:34:24Z",
+  "generated_at": "2026-03-08T09:54:40Z",
   "items": [
     {
       "region": "Македонија",
@@ -39,6 +39,20 @@
     {
       "region": "Македонија",
       "source": "NetPress",
+      "title": "Формила 1: Доминација на Мерцедес на отворањето на сезоната",
+      "link": "https://netpress.com.mk/formila-1-dominaczija-na-merczedes-na-otvoraneto-na-sezonata/",
+      "published": "Sun, 08 Mar 2026 09:49:43 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "NetPress",
+      "title": "Четири жртви во израелски напад врз зграда во Бејрут, напади ширум регионот",
+      "link": "https://netpress.com.mk/chetiri-zhrtvi-vo-izraelski-napad-vrz-zgrada-vo-bejrut-napadi-shirum-regionot/",
+      "published": "Sun, 08 Mar 2026 09:34:41 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "NetPress",
       "title": "СДСМ повторно користи трагедии за политичка пропаганда, критикуваат од ВМРО-ДПМНЕ",
       "link": "https://netpress.com.mk/sdsm-povtorno-koristi-tragedii-za-politichka-propaganda-kritikuvaat-od-vmro-dpmne/",
       "published": "Sun, 08 Mar 2026 09:14:30 +0000"
@@ -56,20 +70,6 @@
       "title": "Се празнува Меѓународниот ден на жената",
       "link": "https://netpress.com.mk/se-praznuva-megunarodniot-den-na-zhenata/",
       "published": "Sun, 08 Mar 2026 09:05:34 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Почнува евакуацијата на македонските државјани од Блискиот исток со чартер-летови",
-      "link": "https://netpress.com.mk/pochnuva-evakuaczijata-na-makedonskite-drzhavjani-od-bliskiot-istok-so-charter-letovi/",
-      "published": "Sun, 08 Mar 2026 09:02:30 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Иран порача дека може да се бори со месеци, постигнат консензус за нов водач",
-      "link": "https://netpress.com.mk/iran-poracha-deka-mozhe-da-se-bori-so-meseczi-postignat-konsenzus-za-nov-vodach/",
-      "published": "Sun, 08 Mar 2026 08:51:07 +0000"
     },
     {
       "region": "Свет",
@@ -109,6 +109,13 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "Iran’s Assembly of Experts says consensus reached on Khamenei’s successor",
+      "link": "https://www.aljazeera.com/news/2026/3/8/irans-assembly-of-experts-says-consensus-reached-on-khameneis-successor?traffic_source=rss",
+      "published": "Sun, 08 Mar 2026 09:24:21 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "‘No popular support’: China warns against government change in Iran",
       "link": "https://www.aljazeera.com/news/2026/3/8/no-popular-support-china-warns-against-government-change-in-iran?traffic_source=rss",
       "published": "Sun, 08 Mar 2026 08:33:16 +0000"
@@ -133,13 +140,6 @@
       "title": "Israel strikes Iran’s oil facilities for first time as war enters ninth day",
       "link": "https://www.aljazeera.com/news/2026/3/8/israel-strikes-irans-oil-facilities-for-first-time-as-war-enters-ninth-day?traffic_source=rss",
       "published": "Sun, 08 Mar 2026 08:17:48 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Iran war: What is happening on day nine of US-Israel attacks?",
-      "link": "https://www.aljazeera.com/news/2026/3/8/iran-war-what-is-happening-on-day-nine-of-us-israel-attacks?traffic_source=rss",
-      "published": "Sun, 08 Mar 2026 07:55:11 +0000"
     }
   ]
 }
