@@ -1,6 +1,13 @@
 {
-  "generated_at": "2026-03-08T16:30:43Z",
+  "generated_at": "2026-03-08T16:55:54Z",
   "items": [
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "Динамо победи во Сплит и ја зголеми предноста на врвот на 10 поени",
+      "link": "https://makfax.com.mk/sport/dinamo-pobedi-vo-split-i-ja-zgolemi-prednosta-na-vrvot-na-10-poeni/",
+      "published": "Sun, 08 Mar 2026 16:48:57 +0000"
+    },
     {
       "region": "Македонија",
       "source": "Makfax",
@@ -31,10 +38,17 @@
     },
     {
       "region": "Македонија",
-      "source": "Makfax",
-      "title": "Софија Вергара откри за што најмногу жали во кариерата: „Не знам што си мислев“",
-      "link": "https://makfax.com.mk/zanimlivosti/sofija-vergara-otkri-za-shto-najmnogu-zhali-vo-karierata-ne-znam-shto-si-mislev/",
-      "published": "Sun, 08 Mar 2026 15:55:33 +0000"
+      "source": "NetPress",
+      "title": "Трамп вели дека следниот ирански водач „нема да потрае“ без негово одобрение",
+      "link": "https://netpress.com.mk/tramp-veli-deka-sledniot-iranski-vodach-nema-da-potrae-bez-negovo-odobrenie/",
+      "published": "Sun, 08 Mar 2026 16:48:30 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "NetPress",
+      "title": "Победи за домашните екипи на двете денешни средби во ПМФЛ",
+      "link": "https://netpress.com.mk/pobedi-za-domashnite-ekipi-na-dvete-deneshni-sredbi-vo-pmfl/",
+      "published": "Sun, 08 Mar 2026 16:39:52 +0000"
     },
     {
       "region": "Македонија",
@@ -56,20 +70,6 @@
       "title": "Трамп бара од Конгресот да го донесе законот за гласачи",
       "link": "https://netpress.com.mk/tramp-bara-od-kongresot-da-go-donese-zakonot-za-glasachi/",
       "published": "Sun, 08 Mar 2026 14:56:18 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Најмалку 15 убиени во израелски воздушни напади врз јужен Либан",
-      "link": "https://netpress.com.mk/najmalku-15-ubieni-vo-izraelski-vozdushni-napadi-vrz-juzhen-liban/",
-      "published": "Sun, 08 Mar 2026 14:34:13 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Светски рекорд на Киплимо во полумаратон",
-      "link": "https://netpress.com.mk/svetski-rekord-na-kiplimo-vo-polumaraton/",
-      "published": "Sun, 08 Mar 2026 14:17:36 +0000"
     },
     {
       "region": "Свет",
@@ -109,6 +109,13 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "Israel escalates attacks across Lebanon as two soldiers killed",
+      "link": "https://www.aljazeera.com/news/2026/3/8/israel-escalates-attacks-across-lebanon-as-two-soldiers-killed?traffic_source=rss",
+      "published": "Sun, 08 Mar 2026 16:31:19 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "‘Gulf countries may question US capability to protect them’",
       "link": "https://www.aljazeera.com/video/quotable/2026/3/8/gulf-countries-may-question-us-capability-to-protect?traffic_source=rss",
       "published": "Sun, 08 Mar 2026 15:30:18 +0000"
@@ -133,13 +140,6 @@
       "title": "Uganda’s Jacob Kiplimo regains half-marathon world record in Lisbon",
       "link": "https://www.aljazeera.com/sports/2026/3/8/ugandas-jacob-kiplimo-regains-half-marathon-world-record-in-lisbon?traffic_source=rss",
       "published": "Sun, 08 Mar 2026 14:18:54 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Amid escalation, Iran religious scholars signal new leader to be named soon",
-      "link": "https://www.aljazeera.com/features/2026/3/8/iranian-authorities-push-toward-new-leadership-as-war-escalates?traffic_source=rss",
-      "published": "Sun, 08 Mar 2026 14:05:14 +0000"
     }
   ]
 }
