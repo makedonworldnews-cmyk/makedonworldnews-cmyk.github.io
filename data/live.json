@@ -1,6 +1,20 @@
 {
-  "generated_at": "2026-03-08T17:18:25Z",
+  "generated_at": "2026-03-08T17:42:33Z",
   "items": [
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "Турција стравува од поширока војна меѓу САД и Иран",
+      "link": "https://makfax.com.mk/svet/region/turczija-stravuva-od-poshiroka-vojna-megu-sad-i-iran/",
+      "published": "Sun, 08 Mar 2026 17:40:16 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "Трамп и Стармер разговараа за воената соработка и базите",
+      "link": "https://makfax.com.mk/svet/tramp-i-starmer-razgovaraa-za-voenata-sorabotka-i-bazite/",
+      "published": "Sun, 08 Mar 2026 17:30:31 +0000"
+    },
     {
       "region": "Македонија",
       "source": "Makfax",
@@ -24,17 +38,10 @@
     },
     {
       "region": "Македонија",
-      "source": "Makfax",
-      "title": "Во Батинци уапсен 40-годишник, полицијата пронашла два пиштоли кај неговиот малолетен син",
-      "link": "https://makfax.com.mk/crna-hronika/vo-batinczi-uapsen-40-godishnik-policzijata-pronashla-dva-pishtoli-kaj-negoviot-maloleten-sin/",
-      "published": "Sun, 08 Mar 2026 17:00:18 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "Makfax",
-      "title": "Динамо победи во Сплит и ја зголеми предноста на врвот на 10 поени",
-      "link": "https://makfax.com.mk/sport/dinamo-pobedi-vo-split-i-ja-zgolemi-prednosta-na-vrvot-na-10-poeni/",
-      "published": "Sun, 08 Mar 2026 16:48:57 +0000"
+      "source": "NetPress",
+      "title": "Двајца убиени во ракетен напад во Саудиска Арабија, Иран тврди дека уништил четири американски радари",
+      "link": "https://netpress.com.mk/dvajcza-ubieni-vo-raketen-napad-vo-saudiska-arabija-iran-tvrdi-deka-unishtil-chetiri-amerikanski-radari/",
+      "published": "Sun, 08 Mar 2026 17:19:04 +0000"
     },
     {
       "region": "Македонија",
@@ -63,13 +70,6 @@
       "title": "Евакуираните македонски државјани од ОАЕ, вечер ќе слетаат во Скопје",
       "link": "https://netpress.com.mk/evakuiranite-makedonski-drzhavjani-od-oae-vecher-ke-sletaat-vo-skopje/",
       "published": "Sun, 08 Mar 2026 15:00:27 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Трамп бара од Конгресот да го донесе законот за гласачи",
-      "link": "https://netpress.com.mk/tramp-bara-od-kongresot-da-go-donese-zakonot-za-glasachi/",
-      "published": "Sun, 08 Mar 2026 14:56:18 +0000"
     },
     {
       "region": "Свет",
@@ -109,6 +109,13 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "Israel’s Mossad relies on US cover and security rot for Iran strikes",
+      "link": "https://www.aljazeera.com/features/2026/3/8/israels-mossad-relies-on-us-cover-and-security-rot-for-iran-strikes?traffic_source=rss",
+      "published": "Sun, 08 Mar 2026 17:06:37 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "Is Israel reshaping Lebanon, trying to separate Hezbollah from its people?",
       "link": "https://www.aljazeera.com/features/2026/3/8/is-israel-reshaping-lebanon-trying-to-separate-hezbollah-from-its-people?traffic_source=rss",
       "published": "Sun, 08 Mar 2026 16:36:24 +0000"
@@ -133,13 +140,6 @@
       "title": "‘Gulf countries may question US capability to protect them’",
       "link": "https://www.aljazeera.com/video/quotable/2026/3/8/gulf-countries-may-question-us-capability-to-protect?traffic_source=rss",
       "published": "Sun, 08 Mar 2026 15:30:18 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Iran women’s football team sing anthem amid safety concerns during war",
-      "link": "https://www.aljazeera.com/sports/2026/3/8/iran-womens-football-team-sing-anthem-amid-safety-concerns-during-war?traffic_source=rss",
-      "published": "Sun, 08 Mar 2026 14:34:51 +0000"
     }
   ]
 }
