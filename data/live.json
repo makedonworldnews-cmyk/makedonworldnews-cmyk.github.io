@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-08T10:45:50Z",
+  "generated_at": "2026-03-08T10:59:39Z",
   "items": [
     {
       "region": "Македонија",
@@ -90,7 +90,7 @@
       "source": "BBC",
       "title": "US embassy in Oslo hit by explosion, Norway police say",
       "link": "https://www.bbc.com/news/articles/c5yjegg892lo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 08 Mar 2026 06:54:58 GMT"
+      "published": "Sun, 08 Mar 2026 10:52:29 GMT"
     },
     {
       "region": "Свет",
@@ -105,6 +105,20 @@
       "title": "Iranian ambassador warns UK to be 'very careful' about further involvement in war",
       "link": "https://www.bbc.com/news/articles/cq6qp458zv1o?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 07 Mar 2026 16:53:57 GMT"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Hundreds march in New York condemning US-Israeli attacks on Iran",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/8/hundreds-march-in-new-york-condemning-us-israeli-attacks-on-iran?traffic_source=rss",
+      "published": "Sun, 08 Mar 2026 10:24:54 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Bahrain says water desalination plant damaged in Iranian drone attack",
+      "link": "https://www.aljazeera.com/news/2026/3/8/bahrain-says-water-desalination-plant-damaged-in-iranian-drone-attack?traffic_source=rss",
+      "published": "Sun, 08 Mar 2026 10:17:02 +0000"
     },
     {
       "region": "Свет",
@@ -126,20 +140,6 @@
       "title": "Selecting Iran’s next supreme leader has ‘nothing to with the IRGC’",
       "link": "https://www.aljazeera.com/video/quotable/2026/3/8/selecting-irans-next-supreme-leader-has-nothing-to-with-the?traffic_source=rss",
       "published": "Sun, 08 Mar 2026 09:52:22 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Iran’s Assembly of Experts says consensus reached on Khamenei’s successor",
-      "link": "https://www.aljazeera.com/news/2026/3/8/irans-assembly-of-experts-says-consensus-reached-on-khameneis-successor?traffic_source=rss",
-      "published": "Sun, 08 Mar 2026 09:24:21 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "‘No popular support’: China warns against government change in Iran",
-      "link": "https://www.aljazeera.com/news/2026/3/8/no-popular-support-china-warns-against-government-change-in-iran?traffic_source=rss",
-      "published": "Sun, 08 Mar 2026 08:33:16 +0000"
     }
   ]
 }
