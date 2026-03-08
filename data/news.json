@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-07T23:52:59Z",
+  "updatedAt": "2026-03-08T02:10:52Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Мајзак се закани, Ѓоковиќ по пресврт стигна до третото коло",
+          "link": "https://makfax.com.mk/sport/majzak-se-zakani-gokovik-po-presvrt-stigna-do-tretoto-kolo/",
+          "published": "Sun, 08 Mar 2026 00:27:56 +0000"
         },
         {
           "source": "Makfax",
@@ -33,12 +39,6 @@
           "title": "(Видео) Мајсторија на Јамал, Барселона победи во Билбао",
           "link": "https://makfax.com.mk/sport/video-majstorija-na-jamal-barselona-pobedi-vo-bilbao/",
           "published": "Sat, 07 Mar 2026 22:10:33 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Поранешен сопруг ѝ се заканувал на жена од Скопје преку телефонот на нивниот син",
-          "link": "https://makfax.com.mk/crna-hronika/poraneshen-soprug-%d1%9d-se-zakanuval-na-zhena-od-skopje-preku-telefonot-na-nivniot-sin/",
-          "published": "Sat, 07 Mar 2026 21:00:08 +0000"
         },
         {
           "source": "NetPress",
@@ -101,9 +101,21 @@
         },
         {
           "source": "BBC",
-          "title": "At least six dead after tornadoes sweep across Michigan and Oklahoma, officials say",
+          "title": "Boy, 12, among six dead as tornadoes hit Michigan and Oklahoma",
           "link": "https://www.bbc.com/news/articles/crrxpwzvd5vo?at_medium=RSS&at_campaign=rss",
-          "published": "Sat, 07 Mar 2026 20:16:07 GMT"
+          "published": "Sun, 08 Mar 2026 01:08:16 GMT"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Trump says US does not need UK’s aircraft carriers for Iran war",
+          "link": "https://www.aljazeera.com/news/2026/3/8/trump-says-us-does-not-need-united-kingdom-aircraft-carriers-for-iran-war?traffic_source=rss",
+          "published": "Sun, 08 Mar 2026 00:33:56 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Iran live: Israel bombs Tehran oil depots; attacks on Gulf states continue",
+          "link": "https://www.aljazeera.com/news/liveblog/2026/3/8/iran-live-israel-bombs-tehran-oil-depots-attacks-on-gulf-states-continue?traffic_source=rss",
+          "published": "Sun, 08 Mar 2026 00:00:00 +0000"
         },
         {
           "source": "Al Jazeera",
@@ -122,18 +134,6 @@
           "title": "Trump administration denies reports that Iran captured US soldiers",
           "link": "https://www.aljazeera.com/news/2026/3/7/trump-administration-denies-reports-that-iran-captured-us-soldiers?traffic_source=rss",
           "published": "Sat, 07 Mar 2026 22:37:00 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Lamine Yamal gives Barcelona hard-fought 1-0 win at Athletic Bilbao",
-          "link": "https://www.aljazeera.com/sports/2026/3/7/lamine-yamal-gives-barcelona-hard-fought-1-0-win-at-athletic-bilbao?traffic_source=rss",
-          "published": "Sat, 07 Mar 2026 22:27:43 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Trump oversees return of US troops killed in Iranian drone strike",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/7/trump-oversees-return-of-us-troops-killed-in-iranian-drone-strike?traffic_source=rss",
-          "published": "Sat, 07 Mar 2026 22:21:56 +0000"
         }
       ]
     }
