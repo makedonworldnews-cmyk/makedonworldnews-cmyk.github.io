@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-08T05:13:24Z",
+  "generated_at": "2026-03-08T05:58:35Z",
   "items": [
     {
       "region": "Македонија",
@@ -81,16 +81,23 @@
     {
       "region": "Свет",
       "source": "BBC",
-      "title": "Iranian ambassador warns UK to be 'very careful' about further involvement in war",
-      "link": "https://www.bbc.com/news/articles/cq6qp458zv1o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 07 Mar 2026 16:53:57 GMT"
+      "title": "Explosion reported outside US embassy in Oslo, police say",
+      "link": "https://www.bbc.com/news/articles/c5yjegg892lo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 08 Mar 2026 05:18:15 GMT"
     },
     {
       "region": "Свет",
       "source": "BBC",
-      "title": "Armed robots take to the battlefield in Ukraine war",
-      "link": "https://www.bbc.com/news/articles/c62662gzlp8o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 07 Mar 2026 00:36:19 GMT"
+      "title": "Boy, 12, among six dead as tornadoes hit Michigan and Oklahoma",
+      "link": "https://www.bbc.com/news/articles/crrxpwzvd5vo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 08 Mar 2026 01:08:16 GMT"
+    },
+    {
+      "region": "Свет",
+      "source": "BBC",
+      "title": "Iranian ambassador warns UK to be 'very careful' about further involvement in war",
+      "link": "https://www.bbc.com/news/articles/cq6qp458zv1o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 07 Mar 2026 16:53:57 GMT"
     },
     {
       "region": "Свет",
@@ -101,10 +108,17 @@
     },
     {
       "region": "Свет",
-      "source": "BBC",
-      "title": "Boy, 12, among six dead as tornadoes hit Michigan and Oklahoma",
-      "link": "https://www.bbc.com/news/articles/crrxpwzvd5vo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 08 Mar 2026 01:08:16 GMT"
+      "source": "Al Jazeera",
+      "title": "Israel strikes busy Beirut hotel in assassination attempt",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/8/israel-strikes-busy-beirut-hotel-in-assassination-attempt?traffic_source=rss",
+      "published": "Sun, 08 Mar 2026 05:07:10 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Rapper-turned-politician Balen Shah’s RSP heads for poll landslide in Nepal",
+      "link": "https://www.aljazeera.com/news/2026/3/8/rapper-turned-politician-defeats-veteran-leader-in-nepal-election-upset?traffic_source=rss",
+      "published": "Sun, 08 Mar 2026 05:06:00 +0000"
     },
     {
       "region": "Свет",
@@ -126,20 +140,6 @@
       "title": "Iran war live: Trump again demands surrender; Israel bombs oil depots",
       "link": "https://www.aljazeera.com/news/liveblog/2026/3/8/iran-live-israel-bombs-tehran-oil-depots-attacks-on-gulf-states-continue?traffic_source=rss",
       "published": "Sun, 08 Mar 2026 00:00:00 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Huge fire rages at Tehran oil depot after Israeli attack",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/7/huge-fire-rages-at-tehran-oil-depot-after-israeli-attack?traffic_source=rss",
-      "published": "Sat, 07 Mar 2026 23:26:45 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Zelenskyy offers Saudi Arabia’s MBS help countering Iranian drones",
-      "link": "https://www.aljazeera.com/news/2026/3/7/zelenskyy-offers-saudi-arabias-mbs-help-with-countering-iranian-drones?traffic_source=rss",
-      "published": "Sat, 07 Mar 2026 23:11:51 +0000"
     }
   ]
 }
