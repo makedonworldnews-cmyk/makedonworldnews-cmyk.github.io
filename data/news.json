@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-08T14:11:43Z",
+  "updatedAt": "2026-03-08T14:44:50Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Трагедија кај Струмица: Возач на трактор загина по превртување на возилото",
+          "link": "https://makfax.com.mk/crna-hronika/tragedija-kaj-strumicza-vozach-na-traktor-zagina-po-prevrtuvane-na-voziloto/",
+          "published": "Sun, 08 Mar 2026 14:38:37 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) Ѕвезда од „Вил и Грејс“ почина на 60 години по борба со рак",
+          "link": "https://makfax.com.mk/kultura/video-zvezda-od-vil-i-grejs-pochina-na-60-godini-po-borba-so-rak/",
+          "published": "Sun, 08 Mar 2026 14:32:24 +0000"
         },
         {
           "source": "Makfax",
@@ -29,16 +41,16 @@
           "published": "Sun, 08 Mar 2026 14:04:34 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Евакуација на македонски граѓани од Блискиот Исток: група од Дубаи се очекува да допатува во Скопје",
-          "link": "https://makfax.com.mk/makedonija/evakuaczija-na-makedonski-gragani-od-bliskiot-istok-grupa-od-dubai-se-ochekuva-da-dopatuva-vo-skopje/",
-          "published": "Sun, 08 Mar 2026 13:04:58 +0000"
+          "source": "NetPress",
+          "title": "Најмалку 15 убиени во израелски воздушни напади врз јужен Либан",
+          "link": "https://netpress.com.mk/najmalku-15-ubieni-vo-izraelski-vozdushni-napadi-vrz-juzhen-liban/",
+          "published": "Sun, 08 Mar 2026 14:34:13 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Жителка на Техеран: Луѓето попрво би загинале во бомбардирање отколку во затворите на Исламската Република",
-          "link": "https://makfax.com.mk/svet/zhitelka-na-teheran-lugeto-poprvo-bi-zaginale-vo-bombardirane-otkolku-vo-zatvorite-na-islamskata-republika/",
-          "published": "Sun, 08 Mar 2026 12:50:12 +0000"
+          "source": "NetPress",
+          "title": "Светски рекорд на Киплимо во полумаратон",
+          "link": "https://netpress.com.mk/svetski-rekord-na-kiplimo-vo-polumaraton/",
+          "published": "Sun, 08 Mar 2026 14:17:36 +0000"
         },
         {
           "source": "NetPress",
@@ -57,18 +69,6 @@
           "title": "Мора да направиме разлика со опозицијата, работиме на 17 инвестиции и нови 5.000 работни места, порача премиерот",
           "link": "https://netpress.com.mk/mora-da-napravime-razlika-so-opoziczijata-rabotime-na-17-investiczii-i-novi-5-000-rabotni-mesta-poracha-premierot/",
           "published": "Sun, 08 Mar 2026 13:43:03 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Хари и Меган следниот месец во добротворни и хуманитарни мисии",
-          "link": "https://netpress.com.mk/hari-i-megan-sledniot-mesecz-vo-dobrotvorni-i-humanitarni-misii/",
-          "published": "Sun, 08 Mar 2026 13:33:08 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Блискоисточната војна го зајакна доларот",
-          "link": "https://netpress.com.mk/bliskoistochnata-vojna-go-zajakna-dolarot/",
-          "published": "Sun, 08 Mar 2026 13:13:15 +0000"
         }
       ]
     },
@@ -107,6 +107,24 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "How targeting of desalination plants could disrupt water supply in the Gulf",
+          "link": "https://www.aljazeera.com/news/2026/3/8/how-targeting-of-desalination-plants-could-disrupt-water-supply-in-the-gulf?traffic_source=rss",
+          "published": "Sun, 08 Mar 2026 14:22:47 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Uganda’s Jacob Kiplimo regains half-marathon world record in Lisbon",
+          "link": "https://www.aljazeera.com/sports/2026/3/8/ugandas-jacob-kiplimo-regains-half-marathon-world-record-in-lisbon?traffic_source=rss",
+          "published": "Sun, 08 Mar 2026 14:18:54 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Amid escalation, Iran religious scholars signal new leader to be named soon",
+          "link": "https://www.aljazeera.com/features/2026/3/8/iranian-authorities-push-toward-new-leadership-as-war-escalates?traffic_source=rss",
+          "published": "Sun, 08 Mar 2026 14:05:14 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "UNICEF spokesman enraged over child casualties from Israeli-US Iran war",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/3/8/unicef-spokesman-enraged-over-child-casualties-from-israeli-us-iran-war?traffic_source=rss",
           "published": "Sun, 08 Mar 2026 13:48:05 +0000"
@@ -116,24 +134,6 @@
           "title": "Pope Leo urges dialogue amid Middle East war",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/3/8/pope-leo-urges-dialogue-amid-middle-east-war?traffic_source=rss",
           "published": "Sun, 08 Mar 2026 13:44:37 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Al Jazeera reporter boards first flight to Doha since war on Iran",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/8/al-jazeera-reporter-boards-first-flight-to-doha-since-war-on-iran?traffic_source=rss",
-          "published": "Sun, 08 Mar 2026 13:23:26 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Tehran residents donate blood amid ongoing US-Israel attacks on Iran",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/8/tehran-residents-donate-blood-amid-ongoing-us-israel-attacks-on-iran?traffic_source=rss",
-          "published": "Sun, 08 Mar 2026 13:10:20 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Blast at US Embassy in Oslo may have terror motive, Norway police say",
-          "link": "https://www.aljazeera.com/news/2026/3/8/blast-at-us-embassy-in-oslo-may-have-terror-motive-norway-police-say?traffic_source=rss",
-          "published": "Sun, 08 Mar 2026 13:07:19 +0000"
         }
       ]
     }
