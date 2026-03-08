@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-08T05:58:35Z",
+  "generated_at": "2026-03-08T06:46:20Z",
   "items": [
     {
       "region": "Македонија",
@@ -109,6 +109,13 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "Palestinians risk life and limb to fish in Gaza’s Israeli-controlled sea",
+      "link": "https://www.aljazeera.com/features/2026/3/8/palestinians-risk-life-and-limb-to-fish-in-gazas-israeli-controlled-sea?traffic_source=rss",
+      "published": "Sun, 08 Mar 2026 06:13:06 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "Israel strikes busy Beirut hotel in assassination attempt",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/3/8/israel-strikes-busy-beirut-hotel-in-assassination-attempt?traffic_source=rss",
       "published": "Sun, 08 Mar 2026 05:07:10 +0000"
@@ -133,13 +140,6 @@
       "title": "Trump says US does not need UK’s aircraft carriers for Iran war",
       "link": "https://www.aljazeera.com/news/2026/3/8/trump-says-us-does-not-need-united-kingdom-aircraft-carriers-for-iran-war?traffic_source=rss",
       "published": "Sun, 08 Mar 2026 00:33:56 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Iran war live: Trump again demands surrender; Israel bombs oil depots",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/3/8/iran-live-israel-bombs-tehran-oil-depots-attacks-on-gulf-states-continue?traffic_source=rss",
-      "published": "Sun, 08 Mar 2026 00:00:00 +0000"
     }
   ]
 }
