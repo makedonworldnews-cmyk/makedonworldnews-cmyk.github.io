@@ -1,6 +1,27 @@
 {
-  "generated_at": "2026-03-08T19:00:16Z",
+  "generated_at": "2026-03-08T19:32:59Z",
   "items": [
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "(Фото) Кевин Костнер уживаше во друштво на 42 години помлада манекенка",
+      "link": "https://makfax.com.mk/zanimlivosti/foto-kevin-kostner-uzhivashe-vo-drushtvo-na-42-godini-pomlada-manekenka/",
+      "published": "Sun, 08 Mar 2026 19:30:32 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "(Видео) Рома падна во Џенова",
+      "link": "https://makfax.com.mk/sport/video-roma-padna-vo-dhenova/",
+      "published": "Sun, 08 Mar 2026 19:23:57 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "Тетовец уапсен по пријава дека задржувал 15-годишно девојче и не ѝ дозволувал контакт со родителите",
+      "link": "https://makfax.com.mk/crna-hronika/tetovecz-uapsen-po-prijava-deka-zadrzhuval-15-godishno-devojche-i-ne-%d1%9d-dozvoluval-kontakt-so-roditelite/",
+      "published": "Sun, 08 Mar 2026 19:00:23 +0000"
+    },
     {
       "region": "Македонија",
       "source": "Makfax",
@@ -17,24 +38,10 @@
     },
     {
       "region": "Македонија",
-      "source": "Makfax",
-      "title": "Зеленски: Војната на Блискиот Исток може да ја намали поддршката за Украина",
-      "link": "https://makfax.com.mk/svet/zelenski-vojnata-na-bliskiot-istok-mozhe-da-ja-namali-poddrshkata-za-ukraina/",
-      "published": "Sun, 08 Mar 2026 18:27:29 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "Makfax",
-      "title": "Арсенал оружје откриен во куќа во Брвеница – пиштол, карабин и стотици куршуми",
-      "link": "https://makfax.com.mk/crna-hronika/arsenal-oruzhje-otkrien-vo-kuka-vo-brvenicza-pishtol-karabin-i-stoticzi-kurshumi/",
-      "published": "Sun, 08 Mar 2026 18:00:43 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "Makfax",
-      "title": "Турција стравува од поширока војна меѓу САД и Иран",
-      "link": "https://makfax.com.mk/svet/region/turczija-stravuva-od-poshiroka-vojna-megu-sad-i-iran/",
-      "published": "Sun, 08 Mar 2026 17:40:16 +0000"
+      "source": "NetPress",
+      "title": "ФА Куп: Третолигашот Порт Вејл во четвртфиналето",
+      "link": "https://netpress.com.mk/fa-kup-tretoligashot-port-vejl-vo-chetvrtfinaleto/",
+      "published": "Sun, 08 Mar 2026 19:16:20 +0000"
     },
     {
       "region": "Македонија",
@@ -63,13 +70,6 @@
       "title": "Трамп вели дека следниот ирански водач „нема да потрае“ без негово одобрение",
       "link": "https://netpress.com.mk/tramp-veli-deka-sledniot-iranski-vodach-nema-da-potrae-bez-negovo-odobrenie/",
       "published": "Sun, 08 Mar 2026 16:48:30 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Победи за домашните екипи на двете денешни средби во ПМФЛ",
-      "link": "https://netpress.com.mk/pobedi-za-domashnite-ekipi-na-dvete-deneshni-sredbi-vo-pmfl/",
-      "published": "Sun, 08 Mar 2026 16:39:52 +0000"
     },
     {
       "region": "Свет",
@@ -109,6 +109,13 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "Trump vows control over Iran leaders as officials seek to calm oil concerns",
+      "link": "https://www.aljazeera.com/news/2026/3/8/trump-vows-control-over-iran-leaders-as-officials-seek-to-calm-oil-concerns?traffic_source=rss",
+      "published": "Sun, 08 Mar 2026 18:56:10 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "Two killed in Saudi Arabia after ‘projectile’ falls on residential building",
       "link": "https://www.aljazeera.com/news/2026/3/8/two-killed-in-saudi-arabia-after-projectile-falls-on-residential-building?traffic_source=rss",
       "published": "Sun, 08 Mar 2026 18:02:44 +0000"
@@ -133,13 +140,6 @@
       "title": "Israel’s Mossad relies on US cover and security rot for Iran strikes",
       "link": "https://www.aljazeera.com/features/2026/3/8/israels-mossad-relies-on-us-cover-and-security-rot-for-iran-strikes?traffic_source=rss",
       "published": "Sun, 08 Mar 2026 17:06:37 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Is Israel reshaping Lebanon, trying to separate Hezbollah from its people?",
-      "link": "https://www.aljazeera.com/features/2026/3/8/is-israel-reshaping-lebanon-trying-to-separate-hezbollah-from-its-people?traffic_source=rss",
-      "published": "Sun, 08 Mar 2026 16:36:24 +0000"
     }
   ]
 }
