@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-08T04:04:21Z",
+  "generated_at": "2026-03-08T05:13:24Z",
   "items": [
     {
       "region": "Македонија",
@@ -109,6 +109,13 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "Flames engulf Kuwaiti high-rise amid Iranian drone strikes",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/8/flames-engulf-kuwaiti-high-rise-amid-iranian-drone-strikes?traffic_source=rss",
+      "published": "Sun, 08 Mar 2026 04:55:43 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "Trump says US does not need UK’s aircraft carriers for Iran war",
       "link": "https://www.aljazeera.com/news/2026/3/8/trump-says-us-does-not-need-united-kingdom-aircraft-carriers-for-iran-war?traffic_source=rss",
       "published": "Sun, 08 Mar 2026 00:33:56 +0000"
@@ -133,13 +140,6 @@
       "title": "Zelenskyy offers Saudi Arabia’s MBS help countering Iranian drones",
       "link": "https://www.aljazeera.com/news/2026/3/7/zelenskyy-offers-saudi-arabias-mbs-help-with-countering-iranian-drones?traffic_source=rss",
       "published": "Sat, 07 Mar 2026 23:11:51 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Trump administration denies reports that Iran captured US soldiers",
-      "link": "https://www.aljazeera.com/news/2026/3/7/trump-administration-denies-reports-that-iran-captured-us-soldiers?traffic_source=rss",
-      "published": "Sat, 07 Mar 2026 22:37:00 +0000"
     }
   ]
 }
