@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-08T19:13:25Z",
+  "updatedAt": "2026-03-08T19:39:17Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "(Фото) Кевин Костнер уживаше во друштво на 42 години помлада манекенка",
+          "link": "https://makfax.com.mk/zanimlivosti/foto-kevin-kostner-uzhivashe-vo-drushtvo-na-42-godini-pomlada-manekenka/",
+          "published": "Sun, 08 Mar 2026 19:30:32 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) Рома падна во Џенова",
+          "link": "https://makfax.com.mk/sport/video-roma-padna-vo-dhenova/",
+          "published": "Sun, 08 Mar 2026 19:23:57 +0000"
         },
         {
           "source": "Makfax",
@@ -29,16 +41,16 @@
           "published": "Sun, 08 Mar 2026 18:32:34 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Зеленски: Војната на Блискиот Исток може да ја намали поддршката за Украина",
-          "link": "https://makfax.com.mk/svet/zelenski-vojnata-na-bliskiot-istok-mozhe-da-ja-namali-poddrshkata-za-ukraina/",
-          "published": "Sun, 08 Mar 2026 18:27:29 +0000"
+          "source": "NetPress",
+          "title": "Бундеслига: Вердер убедлив кај Унион Берлин",
+          "link": "https://netpress.com.mk/bundesliga-verder-ubedliv-kaj-union-berlin/",
+          "published": "Sun, 08 Mar 2026 19:39:04 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Арсенал оружје откриен во куќа во Брвеница – пиштол, карабин и стотици куршуми",
-          "link": "https://makfax.com.mk/crna-hronika/arsenal-oruzhje-otkrien-vo-kuka-vo-brvenicza-pishtol-karabin-i-stoticzi-kurshumi/",
-          "published": "Sun, 08 Mar 2026 18:00:43 +0000"
+          "source": "NetPress",
+          "title": "ФА Куп: Третолигашот Порт Вејл во четвртфиналето",
+          "link": "https://netpress.com.mk/fa-kup-tretoligashot-port-vejl-vo-chetvrtfinaleto/",
+          "published": "Sun, 08 Mar 2026 19:16:20 +0000"
         },
         {
           "source": "NetPress",
@@ -57,18 +69,6 @@
           "title": "Двајца убиени во ракетен напад во Саудиска Арабија, Иран тврди дека уништил четири американски радари",
           "link": "https://netpress.com.mk/dvajcza-ubieni-vo-raketen-napad-vo-saudiska-arabija-iran-tvrdi-deka-unishtil-chetiri-amerikanski-radari/",
           "published": "Sun, 08 Mar 2026 17:19:04 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Трамп вели дека следниот ирански водач „нема да потрае“ без негово одобрение",
-          "link": "https://netpress.com.mk/tramp-veli-deka-sledniot-iranski-vodach-nema-da-potrae-bez-negovo-odobrenie/",
-          "published": "Sun, 08 Mar 2026 16:48:30 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Победи за домашните екипи на двете денешни средби во ПМФЛ",
-          "link": "https://netpress.com.mk/pobedi-za-domashnite-ekipi-na-dvete-deneshni-sredbi-vo-pmfl/",
-          "published": "Sun, 08 Mar 2026 16:39:52 +0000"
         }
       ]
     },
