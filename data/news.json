@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-08T21:46:11Z",
+  "updatedAt": "2026-03-08T21:58:28Z",
   "groups": [
     {
       "region": "Македонија",
@@ -77,6 +77,12 @@
       "items": [
         {
           "source": "BBC",
+          "title": "Who is Mojtaba Khamenei, Iran's new supreme leader?",
+          "link": "https://www.bbc.com/news/articles/c78xxg05w0zo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 08 Mar 2026 21:51:48 GMT"
+        },
+        {
+          "source": "BBC",
           "title": "War fuels debate in Cyprus over UK military bases",
           "link": "https://www.bbc.com/news/articles/cx2r1xldl1ko?at_medium=RSS&at_campaign=rss",
           "published": "Sun, 08 Mar 2026 08:03:40 GMT"
@@ -100,10 +106,22 @@
           "published": "Sun, 08 Mar 2026 20:47:29 GMT"
         },
         {
-          "source": "BBC",
-          "title": "Rapper-politician Balendra Shah unseats Nepal's ex-PM as he heads for victory",
-          "link": "https://www.bbc.com/news/articles/c93w6y0lnd9o?at_medium=RSS&at_campaign=rss",
-          "published": "Sun, 08 Mar 2026 04:36:12 GMT"
+          "source": "Al Jazeera",
+          "title": "One ‘party state’: Guinea dissolves main opposition parties",
+          "link": "https://www.aljazeera.com/news/2026/3/8/one-party-state-guinea-dissolves-main-opposition-parties?traffic_source=rss",
+          "published": "Sun, 08 Mar 2026 21:45:02 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Palestinians killed during Israeli settler attack in the occupied West Bank",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/8/palestinians-killed-during-israeli-settler-attack-in-the-occupied-west-bank?traffic_source=rss",
+          "published": "Sun, 08 Mar 2026 21:25:08 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Iran names Khamenei’s son as new Supreme Leader after father’s killing",
+          "link": "https://www.aljazeera.com/news/2026/3/8/iran-names-khameneis-son-as-new-supreme-leader-after-fathers-killing-2?traffic_source=rss",
+          "published": "Sun, 08 Mar 2026 21:21:28 +0000"
         },
         {
           "source": "Al Jazeera",
@@ -116,24 +134,6 @@
           "title": "Marches for International Women’s Day denounce war, abuse and oppression",
           "link": "https://www.aljazeera.com/news/2026/3/8/marches-for-international-womens-day-denounce-war-abuse-and-oppression?traffic_source=rss",
           "published": "Sun, 08 Mar 2026 20:58:20 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Colombia elects Congress, chooses presidential candidates amid US tensions",
-          "link": "https://www.aljazeera.com/news/2026/3/8/colombia-elects-congress-chooses-presidential-candidates-amid-us-tensions?traffic_source=rss",
-          "published": "Sun, 08 Mar 2026 20:37:01 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Thousands flee Akobo after South Sudan army issues forced evacuation order",
-          "link": "https://www.aljazeera.com/news/2026/3/8/thousands-flee-akobo-after-south-sudan-army-issues-forced-evacuation-order?traffic_source=rss",
-          "published": "Sun, 08 Mar 2026 20:17:38 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Trump pledges to block legislation until US voter ID law passes",
-          "link": "https://www.aljazeera.com/news/2026/3/8/trump-pledges-to-block-legislation-until-us-voter-id-law-passes?traffic_source=rss",
-          "published": "Sun, 08 Mar 2026 19:59:20 +0000"
         }
       ]
     }
