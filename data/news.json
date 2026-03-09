@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-09T05:04:14Z",
+  "updatedAt": "2026-03-09T06:09:29Z",
   "groups": [
     {
       "region": "Македонија",
@@ -12,33 +12,39 @@
         },
         {
           "source": "Makfax",
-          "title": "Дел од Лондонска во Карпош без вода поради дефект во шахта",
-          "link": "https://makfax.com.mk/makedonija/del-od-londonska-vo-karposh-bez-voda-poradi-defekt-vo-shahta/",
-          "published": "Mon, 09 Mar 2026 05:00:10 +0000"
+          "title": "(Видео) Си-Ен-Ен: Ракетата што падна во близина на иранско училиште се совпаѓа со американскиот „Томахавк“",
+          "link": "https://makfax.com.mk/svet/video-si-en-en-novi-snimki-go-potvrduvaat-amerikanskiot-vozdushen-napad-vrz-iranskata-baza-vo-blizina-na-uchilishteto-minab/",
+          "published": "Mon, 09 Mar 2026 05:51:43 +0000"
         },
         {
           "source": "Makfax",
-          "title": "Ирански државни медиуми: Синот на Али Хамнеи е новиот врховен водач",
-          "link": "https://makfax.com.mk/svet/iranski-drzhavni-mediumi-sinot-na-ali-hamnei-e-noviot-vrhoven-vodach/",
-          "published": "Mon, 09 Mar 2026 04:44:35 +0000"
+          "title": "(Фото) Деми Мур го прекина молчењето: ја откри вистинската причина за драстичната промена на имиџот",
+          "link": "https://makfax.com.mk/zanimlivosti/foto-demi-mur-go-prekina-molcheneto-ja-otkri-vistinskata-prichina-za-drastichnata-promena-na-imidhot/",
+          "published": "Mon, 09 Mar 2026 05:50:00 +0000"
         },
         {
           "source": "Makfax",
-          "title": "Почувствуван земјотрес во западните делови на Македонија",
-          "link": "https://makfax.com.mk/makedonija/pochuvstvuvan-zemjotres-vo-zapadnite-delovi-na-makedonija/",
-          "published": "Mon, 09 Mar 2026 04:18:38 +0000"
+          "title": "(Фото) Стапалата на Кејт Мидлтон ја шокираа јавноста: „Можеше барем да си ги исече ноктите“",
+          "link": "https://makfax.com.mk/zanimlivosti/foto-stapalata-na-kejt-midlton-ja-shokiraa-javnosta-mozheshe-barem-da-si-gi-iseche-noktite/",
+          "published": "Mon, 09 Mar 2026 05:40:22 +0000"
         },
         {
           "source": "Makfax",
-          "title": "(Видео) Неверојатен кам-бек на Валенсија, победи со гол 99-та минута",
-          "link": "https://makfax.com.mk/sport/video-neverojaten-kam-bek-na-valensija-pobedi-so-gol-99-ta-minuta/",
-          "published": "Sun, 08 Mar 2026 22:21:43 +0000"
+          "title": "Трамп: Нетанјаху и јас ќе одлучиме заедно кога да ја завршиме војната",
+          "link": "https://makfax.com.mk/svet/tramp-netanjahu-i-jas-ke-odluchime-zaedno-koga-da-ja-zavrshime-vojnata/",
+          "published": "Mon, 09 Mar 2026 05:39:09 +0000"
         },
         {
           "source": "Makfax",
-          "title": "(Видео) Милан не се откажува од титулата, го победи Интер во „Дерби дела Мадонина“",
-          "link": "https://makfax.com.mk/sport/video-milan-ne-se-otkazhuva-od-titulata-go-pobedi-inter-vo-derbi-dela-madonina/",
-          "published": "Sun, 08 Mar 2026 22:00:32 +0000"
+          "title": "Револуционерната гарда се заколна на верност на новиот лидер: „Подготвени сме за целосна послушност“",
+          "link": "https://makfax.com.mk/svet/revoluczionernata-garda-se-zakolna-na-vernost-na-noviot-lider-podgotveni-sme-za-czelosna-poslushnost/",
+          "published": "Mon, 09 Mar 2026 05:36:07 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Денеска променливо облачно, следи сончево и релативно топло време",
+          "link": "https://netpress.com.mk/deneska-promenlivo-oblachno-sledi-sonchevo-i-relativno-toplo-vreme/",
+          "published": "Mon, 09 Mar 2026 06:07:34 +0000"
         },
         {
           "source": "NetPress",
@@ -63,12 +69,6 @@
           "title": "ВИДЕО|  Гужви на бензинските пумпи поради можен недостиг на горива во Црна Гора",
           "link": "https://netpress.com.mk/video-guzhvi-na-benzinskite-pumpi-poradi-mozhen-nedostig-na-goriva-vo-czrna-gora/",
           "published": "Sun, 08 Mar 2026 21:36:30 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Најбитна е безбедноста на граѓаните, до крајот на седмицата сите што побарале евакуација треба да бидат дома",
-          "link": "https://netpress.com.mk/najbitna-e-bezbednosta-na-graganite-do-krajot-na-sedmiczata-site-shto-pobarale-evakuaczija-treba-da-bidat-doma/",
-          "published": "Sun, 08 Mar 2026 21:21:05 +0000"
         }
       ]
     },
@@ -83,7 +83,7 @@
         },
         {
           "source": "BBC",
-          "title": "Oil prices surge above $110 and shares slide over Iran war",
+          "title": "Oil prices surge above $100 and shares slide over Iran war",
           "link": "https://www.bbc.com/news/articles/c79542n0grwo?at_medium=RSS&at_campaign=rss",
           "published": "Mon, 09 Mar 2026 02:19:19 GMT"
         },
