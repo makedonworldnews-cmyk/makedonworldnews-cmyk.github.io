@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-09T20:41:50Z",
+  "updatedAt": "2026-03-09T21:17:22Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,24 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Ѓоковиќ се изнамачи против инспирираниот Ковачевиќ",
+          "link": "https://makfax.com.mk/sport/gokovik-se-iznamachi-protiv-inspiriraniot-kovachevik/",
+          "published": "Mon, 09 Mar 2026 20:51:49 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Цените на нафтата паднаа под 90 долари за барел по најавата на Г7 дека ќе ослободи резерви",
+          "link": "https://makfax.com.mk/ekonomija/czenite-na-naftata-padnaa-pod-90-dolari-za-barel-po-najavata-na-g7-deka-ke-oslobodi-rezervi/",
+          "published": "Mon, 09 Mar 2026 20:50:38 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Ме повредуваат постојаните гласини за пластични операции, вели актерката Тори Спелинг",
+          "link": "https://makfax.com.mk/zanimlivosti/me-povreduvaat-postojanite-glasini-za-plastichni-operaczii-veli-akterkata-tori-speling/",
+          "published": "Mon, 09 Mar 2026 20:43:34 +0000"
         },
         {
           "source": "Makfax",
@@ -23,22 +41,16 @@
           "published": "Mon, 09 Mar 2026 20:37:58 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Сериозна казна за Родри",
-          "link": "https://makfax.com.mk/sport/seriozna-kazna-za-rodri/",
-          "published": "Mon, 09 Mar 2026 20:25:50 +0000"
+          "source": "NetPress",
+          "title": "ВИДЕО| Судија додели 23 црвени картони, но не го собори рекордот",
+          "link": "https://netpress.com.mk/video-sudija-dodeli-23-czrveni-kartoni-no-ne-go-sobori-rekordot/",
+          "published": "Mon, 09 Mar 2026 21:14:03 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Трамп: Ако Иран се обиде со трикови, тоа ќе им биде крајoт, повеќе нема да слушнете за Иран",
-          "link": "https://makfax.com.mk/svet/tramp-ako-iran-se-obide-so-trikovi-toa-ke-im-bide-krajot-poveke-nema-da-slushnete-za-iran/",
-          "published": "Mon, 09 Mar 2026 20:25:46 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Фенг шуи совет: Крупна сол покрај креветот може да помогне за мирен сон",
-          "link": "https://makfax.com.mk/zanimlivosti/feng-shui-sovet-krupna-sol-pokraj-krevetot-mozhe-da-pomogne-za-miren-son/",
-          "published": "Mon, 09 Mar 2026 19:51:05 +0000"
+          "source": "NetPress",
+          "title": "Путин и Трамп разговараа за Иран, Украина и Венецуела",
+          "link": "https://netpress.com.mk/putin-i-tramp-razgovaraa-za-iran-ukraina-i-veneczuela/",
+          "published": "Mon, 09 Mar 2026 21:04:45 +0000"
         },
         {
           "source": "NetPress",
@@ -57,18 +69,6 @@
           "title": "МААЕ: Голем дел од збогатениот ураниум на Иран веројатно е во Исфахан",
           "link": "https://netpress.com.mk/maae-golem-del-od-zbogateniot-uranium-na-iran-verojatno-e-vo-isfahan/",
           "published": "Mon, 09 Mar 2026 20:20:09 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Мерц го предупреди Иран дека САД и Израел ќе продолжат со „својата одбрана“ и бара промена на власта во Техеран",
-          "link": "https://netpress.com.mk/mercz-go-predupredi-iran-deka-sad-i-izrael-ke-prodolzhat-so-svojata-odbrana-i-bara-promena-na-vlasta-vo-teheran/",
-          "published": "Mon, 09 Mar 2026 19:27:52 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Во јануари 256 одобренија за градење, пад од 19,2 отсто на годишно ниво",
-          "link": "https://netpress.com.mk/vo-januari-256-odobrenija-za-gradene-pad-od-192-otsto-na-godishno-nivo/",
-          "published": "Mon, 09 Mar 2026 19:14:41 +0000"
         }
       ]
     },
@@ -107,7 +107,25 @@
         },
         {
           "source": "Al Jazeera",
-          "title": "Who is Iran’s new supreme leader?",
+          "title": "World reacts to appointment of Mojtaba Khamenei as Iran’s supreme leader",
+          "link": "https://www.aljazeera.com/news/2026/3/9/world-reacts-to-appointment-of-mojtaba-khamenei-as-irans-supreme-leader?traffic_source=rss",
+          "published": "Mon, 09 Mar 2026 21:03:44 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Qatar releases video of interception of Iranian missiles",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/9/qatar-releases-video-of-interception-of-iranian-missiles?traffic_source=rss",
+          "published": "Mon, 09 Mar 2026 20:56:20 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Trump slams Mojtaba Khamenei’s appointment as Iran projects defiance",
+          "link": "https://www.aljazeera.com/news/2026/3/9/trump-slams-mojtaba-khameneis-appointment-as-iran-projects-defiance?traffic_source=rss",
+          "published": "Mon, 09 Mar 2026 20:52:29 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Who is Iran’s new supreme leader, Mojtaba Khamenei?",
           "link": "https://www.aljazeera.com/video/inside-story/2026/3/9/who-is-irans-new-supreme-leader?traffic_source=rss",
           "published": "Mon, 09 Mar 2026 20:12:52 +0000"
         },
@@ -116,24 +134,6 @@
           "title": "Putin says Russia can supply oil, gas to Europe as energy prices soar",
           "link": "https://www.aljazeera.com/news/2026/3/9/putin-says-russia-can-supply-oil-gas-to-europe-amid-global-energy-crisis?traffic_source=rss",
           "published": "Mon, 09 Mar 2026 20:09:10 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Why Israel’s war on Hezbollah keeps returning",
-          "link": "https://www.aljazeera.com/video/the-take-2/2026/3/9/aje-onl-tt_lbn_50yearsofisrinvasions_av_v3-090326?traffic_source=rss",
-          "published": "Mon, 09 Mar 2026 20:05:39 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "What is Trump’s endgame in Iran as the US-Israel war escalates?",
-          "link": "https://www.aljazeera.com/news/2026/3/9/what-is-the-us-endgame-in-iran-as-the-war-escalates?traffic_source=rss",
-          "published": "Mon, 09 Mar 2026 19:18:54 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "What to know about Iran’s new Supreme Leader Mojtaba Khamenei",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/9/what-to-know-about-irans-new-supreme-leader-mojtaba-khamenei?traffic_source=rss",
-          "published": "Mon, 09 Mar 2026 19:17:20 +0000"
         }
       ]
     }
