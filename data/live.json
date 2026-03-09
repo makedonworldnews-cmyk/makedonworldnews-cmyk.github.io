@@ -1,6 +1,13 @@
 {
-  "generated_at": "2026-03-09T18:27:30Z",
+  "generated_at": "2026-03-09T19:22:15Z",
   "items": [
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "Трамп: Иран направи голема грешка со изборот на Мојтаба Хамнеи",
+      "link": "https://makfax.com.mk/svet/tramp-iran-napravi-golema-greshka-so-izborot-na-mojtaba-hamnei/",
+      "published": "Mon, 09 Mar 2026 19:11:19 +0000"
+    },
     {
       "region": "Македонија",
       "source": "Makfax",
@@ -31,10 +38,24 @@
     },
     {
       "region": "Македонија",
-      "source": "Makfax",
-      "title": "Орбан ги ограничува цените на горивата",
-      "link": "https://makfax.com.mk/ekonomija/orban-gi-ogranichuva-czenite-na-gorivata/",
-      "published": "Mon, 09 Mar 2026 16:53:04 +0000"
+      "source": "NetPress",
+      "title": "Во јануари 256 одобренија за градење, пад од 19,2 отсто на годишно ниво",
+      "link": "https://netpress.com.mk/vo-januari-256-odobrenija-za-gradene-pad-od-192-otsto-na-godishno-nivo/",
+      "published": "Mon, 09 Mar 2026 19:14:41 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "NetPress",
+      "title": "Путин: Енергетската криза дојде, подготвени сме да соработуваме",
+      "link": "https://netpress.com.mk/putin-energetskata-kriza-dojde-podgotveni-sme-da-sorabotuvame/",
+      "published": "Mon, 09 Mar 2026 19:01:29 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "NetPress",
+      "title": "Кинеска „Nexperia“ со плочките за чипови се одлепува од матичната холандска компанија",
+      "link": "https://netpress.com.mk/kineska-nexperia-so-plochkite-za-chipovi-se-odlepuva-od-matichnata-holandska-kompanija/",
+      "published": "Mon, 09 Mar 2026 18:33:20 +0000"
     },
     {
       "region": "Македонија",
@@ -49,27 +70,6 @@
       "title": "Цените на нафтата близу 100 долари, инвеститорите бројат денови на намалена понуда",
       "link": "https://netpress.com.mk/czenite-na-naftata-blizu-100-dolari-investitorite-brojat-denovi-na-namalena-ponuda/",
       "published": "Mon, 09 Mar 2026 16:39:13 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Азербејџан ја отвори границата со Иран за транзит на товар",
-      "link": "https://netpress.com.mk/azerbejdhan-ja-otvori-graniczata-so-iran-za-tranzit-na-tovar/",
-      "published": "Mon, 09 Mar 2026 16:26:48 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Вработена од ДЗС Кочани: За Пулс не сум добила никаква документација, подрачното одделение Кочани нема инспектор за заштита и спасување",
-      "link": "https://netpress.com.mk/vrabotena-od-dzs-kochani-za-puls-ne-sum-dobila-nikakva-dokumentaczija-podrachnoto-oddelenie-kochani-nema-inspektor-za-zashtita-i-spasuvane/",
-      "published": "Mon, 09 Mar 2026 15:51:15 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Тепачка двајца наспроти еден",
-      "link": "https://netpress.com.mk/tepachka-dvajcza-nasproti-eden/",
-      "published": "Mon, 09 Mar 2026 15:31:23 +0000"
     },
     {
       "region": "Свет",
@@ -109,6 +109,13 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "Anthropic sues Trump administration to undo US ‘supply chain risk’ tag",
+      "link": "https://www.aljazeera.com/economy/2026/3/9/anthropic-sues-trump-administration-to-undo-us-supply-chain-risk-tag?traffic_source=rss",
+      "published": "Mon, 09 Mar 2026 18:44:03 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "WHO chief raises alarm after Israeli attacks on Iranian oil facilities",
       "link": "https://www.aljazeera.com/news/2026/3/9/who-chief-raises-alarm-after-israeli-attacks-on-iranian-oil-facilities?traffic_source=rss",
       "published": "Mon, 09 Mar 2026 18:10:10 +0000"
@@ -133,13 +140,6 @@
       "title": "France preparing to escort ships in Strait of Hormuz when war calms: Macron",
       "link": "https://www.aljazeera.com/news/2026/3/9/france-preparing-to-escort-ships-in-strait-of-hormuz-when-war-calms-macron?traffic_source=rss",
       "published": "Mon, 09 Mar 2026 16:45:04 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "US senators demand probe into ‘appalling’ attack on girls’s school in Iran",
-      "link": "https://www.aljazeera.com/news/2026/3/9/us-senators-demand-probe-into-appalling-attack-on-girlss-school-in-iran?traffic_source=rss",
-      "published": "Mon, 09 Mar 2026 16:41:43 +0000"
     }
   ]
 }
