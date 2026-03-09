@@ -1,6 +1,13 @@
 {
-  "generated_at": "2026-03-09T02:28:05Z",
+  "generated_at": "2026-03-09T04:29:42Z",
   "items": [
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "Почувствуван земјотрес во западните делови на Македонија",
+      "link": "https://makfax.com.mk/makedonija/pochuvstvuvan-zemjotres-vo-zapadnite-delovi-na-makedonija/",
+      "published": "Mon, 09 Mar 2026 04:18:38 +0000"
+    },
     {
       "region": "Македонија",
       "source": "Makfax",
@@ -28,13 +35,6 @@
       "title": "Макрон до Техеран: Веднаш запрете ги нападите и обезбедете пловидба низ Ормутскиот теснец",
       "link": "https://makfax.com.mk/svet/makron-do-teheran-vednash-zaprete-gi-napadite-i-obezbedete-plovidba-niz-ormutskiot-tesnecz/",
       "published": "Sun, 08 Mar 2026 20:29:58 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "Makfax",
-      "title": "Иран предупредува: Ако продолжат нападите врз енергетските постројки, ќе следуваат слични удари во регионот",
-      "link": "https://makfax.com.mk/svet/iran-predupreduva-ako-prodolzhat-napadite-vrz-energetskite-postrojki-ke-sleduvaat-slichni-udari-vo-regionot/",
-      "published": "Sun, 08 Mar 2026 20:19:47 +0000"
     },
     {
       "region": "Македонија",
@@ -81,9 +81,16 @@
     {
       "region": "Свет",
       "source": "BBC",
-      "title": "Oil prices surge above $100 and shares slide over Iran war",
+      "title": "Oil prices surge above $110 and shares slide over Iran war",
       "link": "https://www.bbc.com/news/articles/c79542n0grwo?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 09 Mar 2026 02:19:19 GMT"
+    },
+    {
+      "region": "Свет",
+      "source": "BBC",
+      "title": "Rihanna's Beverly Hills home hit by gunfire, police say",
+      "link": "https://www.bbc.com/news/articles/ckg2pm2kvkeo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 09 Mar 2026 03:01:00 GMT"
     },
     {
       "region": "Свет",
@@ -101,15 +108,8 @@
     },
     {
       "region": "Свет",
-      "source": "BBC",
-      "title": "Explosion at US embassy in Oslo may have been terrorism, Norway police say",
-      "link": "https://www.bbc.com/news/articles/c5yjegg892lo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 08 Mar 2026 18:32:37 GMT"
-    },
-    {
-      "region": "Свет",
       "source": "Al Jazeera",
-      "title": "Oil soars past $100 a barrel amid Iran war",
+      "title": "Oil soars past $100 a barrel as US-Israel war on Iran rages",
       "link": "https://www.aljazeera.com/economy/2026/3/9/oil-soars-past-100-a-barrel-amid-iran-war?traffic_source=rss",
       "published": "Mon, 09 Mar 2026 00:52:24 +0000"
     },
