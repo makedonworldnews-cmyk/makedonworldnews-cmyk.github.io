@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-09T23:45:14Z",
+  "updatedAt": "2026-03-09T23:59:54Z",
   "groups": [
     {
       "region": "Македонија",
@@ -107,6 +107,12 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Trump says US-Israeli war on Iran will be over ‘very soon’",
+          "link": "https://www.aljazeera.com/news/2026/3/9/trump-says-us-israeli-war-on-iran-will-be-over-very-soon?traffic_source=rss",
+          "published": "Mon, 09 Mar 2026 23:43:55 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Where do the 35 million foreigners living in the GCC come from?",
           "link": "https://www.aljazeera.com/news/2026/3/9/where-do-the-35-million-foreigners-living-in-the-gcc-come-from?traffic_source=rss",
           "published": "Mon, 09 Mar 2026 22:20:17 +0000"
@@ -128,12 +134,6 @@
           "title": "Qatar releases video of interception of Iranian missiles",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/3/9/qatar-releases-video-of-interception-of-iranian-missiles?traffic_source=rss",
           "published": "Mon, 09 Mar 2026 20:56:20 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Trump slams Mojtaba Khamenei’s appointment as Iran projects defiance",
-          "link": "https://www.aljazeera.com/news/2026/3/9/trump-slams-mojtaba-khameneis-appointment-as-iran-projects-defiance?traffic_source=rss",
-          "published": "Mon, 09 Mar 2026 20:52:29 +0000"
         }
       ]
     }
