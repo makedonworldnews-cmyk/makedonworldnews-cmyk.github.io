@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-10T19:05:39Z",
+  "updatedAt": "2026-03-10T19:49:22Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Пентагон објави биланс од војната со Иран: седум загинати и околу 140 ранети американски војници",
+          "link": "https://makfax.com.mk/svet/pentagon-objavi-bilans-od-vojnata-so-iran-sedum-zaginati-i-okolu-140-raneti-amerikanski-vojniczi/",
+          "published": "Tue, 10 Mar 2026 19:40:29 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "По нападот врз нејзината куќа, Ријана забележана како заминува од Лос Анџелес",
+          "link": "https://makfax.com.mk/zanimlivosti/po-napadot-vrz-nejzinata-kuka-rijana-zabelezhana-kako-zaminuva-od-los-andheles/",
+          "published": "Tue, 10 Mar 2026 19:36:51 +0000"
         },
         {
           "source": "Makfax",
@@ -29,16 +41,22 @@
           "published": "Tue, 10 Mar 2026 18:43:03 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Астролозите најавуваат пресврт: За три знаци април носи љубов, пари и нови шанси",
-          "link": "https://makfax.com.mk/zanimlivosti/astrolozite-najavuvaat-presvrt-za-tri-znaczi-april-nosi-lubov-pari-i-novi-shansi/",
-          "published": "Tue, 10 Mar 2026 18:15:09 +0000"
+          "source": "NetPress",
+          "title": "Авиокомпаниите ги зголемуваат цените на билетите поради поскапувањето на горивата",
+          "link": "https://netpress.com.mk/aviokompaniite-gi-zgolemuvaat-czenite-na-biletite-poradi-poskapuvaneto-na-gorivata/",
+          "published": "Tue, 10 Mar 2026 19:47:18 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Извозот на енергенси од Блискиот Исток падна на 10 проценти од предвоеното ниво",
-          "link": "https://makfax.com.mk/svet/izvozot-na-energensi-od-bliskiot-istok-padna-na-10-proczenti-od-predvoenoto-nivo/",
-          "published": "Tue, 10 Mar 2026 18:08:30 +0000"
+          "source": "NetPress",
+          "title": "Мерц ја отфрли идејата за ублажување на санкциите против Русија",
+          "link": "https://netpress.com.mk/mercz-ja-otfrli-idejata-za-ublazhuvane-na-sankcziite-protiv-rusija/",
+          "published": "Tue, 10 Mar 2026 19:23:49 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Шест цивили убиени во украински ракетен напад врз руски Брјанск",
+          "link": "https://netpress.com.mk/shest-czivili-ubieni-vo-ukrainski-raketen-napad-vrz-ruski-brjansk/",
+          "published": "Tue, 10 Mar 2026 19:12:53 +0000"
         },
         {
           "source": "NetPress",
@@ -51,24 +69,6 @@
           "title": "Николоски од Вашингтон најави бројни нови проекти во соработка со Светска банка",
           "link": "https://netpress.com.mk/nikoloski-od-vashington-najavi-brojni-novi-proekti-vo-sorabotka-so-svetska-banka/",
           "published": "Tue, 10 Mar 2026 18:22:09 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Владата одзеде уште шест лиценци за одгледување канабис",
-          "link": "https://netpress.com.mk/vladata-odzede-ushte-shest-liczenczi-za-odgleduvane-kanabis/",
-          "published": "Tue, 10 Mar 2026 18:04:04 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Сиљановска-Давкова од Треблинка: Нема да дозволиме фалсификување на вистината за Холокаустот на македонските Евреи",
-          "link": "https://netpress.com.mk/silanovska-davkova-od-treblinka-nema-da-dozvolime-falsifikuvane-na-vistinata-za-holokaustot-na-makedonskite-evrei/",
-          "published": "Tue, 10 Mar 2026 17:54:17 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Парите што ги конфискуваше Унгарија ѝ припаѓале на украинската „Фајр Поинт“?",
-          "link": "https://netpress.com.mk/parite-shto-gi-konfiskuvashe-ungarija-%d1%9d-pripagale-na-ukrainskata-fajr-point/",
-          "published": "Tue, 10 Mar 2026 17:34:57 +0000"
         }
       ]
     },
@@ -107,6 +107,18 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Five stories you may have missed amid US-Israeli war on Iran",
+          "link": "https://www.aljazeera.com/news/2026/3/10/five-stories-you-may-have-missed-amid-us-israeli-war-on-iran?traffic_source=rss",
+          "published": "Tue, 10 Mar 2026 19:14:27 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "‘America has no narrative for victory’",
+          "link": "https://www.aljazeera.com/video/quotable/2026/3/10/america-has-no-narrative-for-victory?traffic_source=rss",
+          "published": "Tue, 10 Mar 2026 18:55:53 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Russian attack kills four in Ukraine’s Sloviansk as both sides claim gains",
           "link": "https://www.aljazeera.com/news/2026/3/10/russian-attack-kills-four-in-ukraines-sloviansk-as-both-sides-claim-gains?traffic_source=rss",
           "published": "Tue, 10 Mar 2026 18:40:23 +0000"
@@ -122,18 +134,6 @@
           "title": "White House denies US military escorted tanker in Hormuz after deleted post",
           "link": "https://www.aljazeera.com/news/2026/3/10/energy-secretary-deletes-claim-us-military-escorted-tanker-through-hormuz?traffic_source=rss",
           "published": "Tue, 10 Mar 2026 18:12:32 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Duterte’s drug war faces judgement at the ICC",
-          "link": "https://www.aljazeera.com/opinions/2026/3/10/dutertes-drug-war-faces-judgement-at-the-icc?traffic_source=rss",
-          "published": "Tue, 10 Mar 2026 17:51:35 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "WHO warns of health risks from ‘black rain’ in Iran",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/10/who-warns-of-health-risks-from-black-rain-in-iran?traffic_source=rss",
-          "published": "Tue, 10 Mar 2026 17:32:47 +0000"
         }
       ]
     }
