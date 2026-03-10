@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-10T19:49:22Z",
+  "updatedAt": "2026-03-10T20:18:34Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,24 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "По наводите за мини во Ормускиот теснец, Трамп му порача на Иран: „Отстранете ги или ќе следуваат невидени последици“",
+          "link": "https://makfax.com.mk/svet/po-navodite-za-mini-vo-ormuskiot-tesnecz-tramp-mu-poracha-na-iran-otstranete-gi-ili-ke-sleduvaat-nevideni-poslediczi/",
+          "published": "Tue, 10 Mar 2026 20:12:43 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Администрацијата на Трамп побарала од Израел да не напаѓа енергетски цели во Иран",
+          "link": "https://makfax.com.mk/svet/administraczijata-na-tramp-pobarala-od-izrael-da-ne-napaga-energetski-czeli-vo-iran/",
+          "published": "Tue, 10 Mar 2026 20:06:34 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) Галатасарај (повторно) го победи Ливерпул",
+          "link": "https://makfax.com.mk/sport/video-galatasaraj-povtorno-go-pobedi-liverpul/",
+          "published": "Tue, 10 Mar 2026 19:52:31 +0000"
         },
         {
           "source": "Makfax",
@@ -23,22 +41,16 @@
           "published": "Tue, 10 Mar 2026 19:36:51 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Бритни Спирс под стрес по апсењето: семејството ја убедува да се помири со татко ѝ",
-          "link": "https://makfax.com.mk/zanimlivosti/britni-spirs-pod-stres-po-apseneto-semejstvoto-ja-ubeduva-da-se-pomiri-so-tatko-%d1%9d/",
-          "published": "Tue, 10 Mar 2026 19:02:11 +0000"
+          "source": "NetPress",
+          "title": "Пентагон: 140 американски војници се ранети во операцијата против Иран",
+          "link": "https://netpress.com.mk/pentagon-140-amerikanski-vojniczi-se-raneti-vo-operaczijata-protiv-iran/",
+          "published": "Tue, 10 Mar 2026 20:18:02 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Белата куќа: Војната ќе заврши кога Иран ќе биде доведен до безусловно предaвање",
-          "link": "https://makfax.com.mk/svet/belata-kuka-vojnata-ke-zavrshi-koga-iran-ke-bide-doveden-do-bezuslovno-predavane/",
-          "published": "Tue, 10 Mar 2026 18:48:55 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "​Стаменкоска-Трајкоска на форум: Одржливи политики и реални решенија за поквалитетен живот на лицата со атипичен развој",
-          "link": "https://makfax.com.mk/makedonija/stamenkoska-trajkoska-na-forum-odrzhlivi-politiki-i-realni-reshenija-za-pokvaliteten-zhivot-na-liczata-so-atipichen-razvoj/",
-          "published": "Tue, 10 Mar 2026 18:43:03 +0000"
+          "source": "NetPress",
+          "title": "Американската разузнавачка служба: Иран го минира Ормускиот теснец",
+          "link": "https://netpress.com.mk/amerikanskata-razuznavachka-sluzhba-iran-go-minira-ormuskiot-tesnecz/",
+          "published": "Tue, 10 Mar 2026 19:56:56 +0000"
         },
         {
           "source": "NetPress",
@@ -57,18 +69,6 @@
           "title": "Шест цивили убиени во украински ракетен напад врз руски Брјанск",
           "link": "https://netpress.com.mk/shest-czivili-ubieni-vo-ukrainski-raketen-napad-vrz-ruski-brjansk/",
           "published": "Tue, 10 Mar 2026 19:12:53 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Жестоки напади врз Иран и покрај најавите на Трамп дека војната наскоро ќе заврши",
-          "link": "https://netpress.com.mk/zhestoki-napadi-vrz-iran-i-pokraj-najavite-na-tramp-deka-vojnata-naskoro-ke-zavrshi/",
-          "published": "Tue, 10 Mar 2026 18:45:44 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Николоски од Вашингтон најави бројни нови проекти во соработка со Светска банка",
-          "link": "https://netpress.com.mk/nikoloski-od-vashington-najavi-brojni-novi-proekti-vo-sorabotka-so-svetska-banka/",
-          "published": "Tue, 10 Mar 2026 18:22:09 +0000"
         }
       ]
     },
@@ -83,27 +83,45 @@
         },
         {
           "source": "BBC",
-          "title": "Five Iranian footballers granted Australian visas after anthem protest",
-          "link": "https://www.bbc.com/news/articles/cwy8e978xl8o?at_medium=RSS&at_campaign=rss",
-          "published": "Tue, 10 Mar 2026 10:38:32 GMT"
+          "title": "Steve Rosenberg: Russia seeks diplomatic and economic gains from Iran war",
+          "link": "https://www.bbc.com/news/articles/c4gjyg0djvmo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 10 Mar 2026 19:35:29 GMT"
         },
         {
           "source": "BBC",
-          "title": "Lebanon calls for talks with Israel on plan to end Hezbollah conflict",
-          "link": "https://www.bbc.com/news/articles/cd9g5p3ppxlo?at_medium=RSS&at_campaign=rss",
-          "published": "Tue, 10 Mar 2026 12:00:25 GMT"
+          "title": "Georgia voters to pick replacement for Marjorie Taylor Greene in special election",
+          "link": "https://www.bbc.com/news/articles/c77ey1v7jrzo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 10 Mar 2026 10:47:08 GMT"
         },
         {
           "source": "BBC",
-          "title": "Family of child injured in Canada school shooting sues OpenAI",
-          "link": "https://www.bbc.com/news/articles/c309y25prnlo?at_medium=RSS&at_campaign=rss",
-          "published": "Tue, 10 Mar 2026 11:27:55 GMT"
+          "title": "Russia's deportation of Ukrainian children amounts to crime against humanity, UN says",
+          "link": "https://www.bbc.com/news/articles/cz7g5xnvl2eo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 10 Mar 2026 17:50:52 GMT"
         },
         {
           "source": "BBC",
-          "title": "Syrian ex-colonel in court on crimes against humanity charge",
-          "link": "https://www.bbc.com/news/articles/cedz4jp379wo?at_medium=RSS&at_campaign=rss",
-          "published": "Tue, 10 Mar 2026 14:17:37 GMT"
+          "title": "Acclaimed Peruvian writer Alfredo Bryce Echenique dies aged 87",
+          "link": "https://www.bbc.com/news/articles/ce82j8j8l25o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 10 Mar 2026 20:10:56 GMT"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Could the US-Israel war with Iran fuel global inflation?",
+          "link": "https://www.aljazeera.com/video/counting-the-cost/2026/3/10/could-the-us-israel-war-with-iran-fuel-global-inflation?traffic_source=rss",
+          "published": "Tue, 10 Mar 2026 19:30:00 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Is control of Iran’s natural resources a factor in US strategy?",
+          "link": "https://www.aljazeera.com/video/inside-story/2026/3/10/is-control-of-irans-natural-resources-a-factor-in-us-strategy?traffic_source=rss",
+          "published": "Tue, 10 Mar 2026 19:29:48 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "German Chancellor concerned US-Israel have no exit plan for Iran war",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/10/german-chancellor-concerned-us-israel-have-no-exit-plan-for-iran-war?traffic_source=rss",
+          "published": "Tue, 10 Mar 2026 19:28:36 +0000"
         },
         {
           "source": "Al Jazeera",
@@ -116,24 +134,6 @@
           "title": "‘America has no narrative for victory’",
           "link": "https://www.aljazeera.com/video/quotable/2026/3/10/america-has-no-narrative-for-victory?traffic_source=rss",
           "published": "Tue, 10 Mar 2026 18:55:53 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Russian attack kills four in Ukraine’s Sloviansk as both sides claim gains",
-          "link": "https://www.aljazeera.com/news/2026/3/10/russian-attack-kills-four-in-ukraines-sloviansk-as-both-sides-claim-gains?traffic_source=rss",
-          "published": "Tue, 10 Mar 2026 18:40:23 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Moment ‘Hezbollah missile’ strikes Israeli radar station",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/10/moment-hezbollah-missile-strikes-israeli-radar-station?traffic_source=rss",
-          "published": "Tue, 10 Mar 2026 18:20:49 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "White House denies US military escorted tanker in Hormuz after deleted post",
-          "link": "https://www.aljazeera.com/news/2026/3/10/energy-secretary-deletes-claim-us-military-escorted-tanker-through-hormuz?traffic_source=rss",
-          "published": "Tue, 10 Mar 2026 18:12:32 +0000"
         }
       ]
     }
