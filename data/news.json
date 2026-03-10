@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-10T22:56:39Z",
+  "updatedAt": "2026-03-10T23:32:29Z",
   "groups": [
     {
       "region": "Македонија",
@@ -42,6 +42,12 @@
         },
         {
           "source": "NetPress",
+          "title": "Евролига: Победа на Олимпијакос во Париз",
+          "link": "https://netpress.com.mk/evroliga-pobeda-na-olimpijakos-vo-pariz/",
+          "published": "Tue, 10 Mar 2026 23:06:31 +0000"
+        },
+        {
+          "source": "NetPress",
           "title": "Шестмина загинати, неколку повредени во пожар во автобус во Швајцарија",
           "link": "https://netpress.com.mk/shestmina-zaginati-nekolku-povredeni-vo-pozhar-vo-avtobus-vo-shvajczarija/",
           "published": "Tue, 10 Mar 2026 22:50:06 +0000"
@@ -63,12 +69,6 @@
           "title": "Евакуирана втората група македонски граѓани од Дубаи",
           "link": "https://netpress.com.mk/evakuirana-vtorata-grupa-makedonski-gragani-od-dubai/",
           "published": "Tue, 10 Mar 2026 21:48:34 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Украина испрати стручњаци за дронови во три земји од Блискиот исток",
-          "link": "https://netpress.com.mk/ukraina-isprati-struchnaczi-za-dronovi-vo-tri-zemji-od-bliskiot-istok/",
-          "published": "Tue, 10 Mar 2026 21:30:13 +0000"
         }
       ]
     },
@@ -107,6 +107,12 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Democrats say White House offers no clarity on Iran war goals after 11 days",
+          "link": "https://www.aljazeera.com/news/2026/3/10/democrats-say-white-house-still-giving-no-clarity-on-iran-war-after-eleven-days?traffic_source=rss",
+          "published": "Tue, 10 Mar 2026 22:45:31 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Late Yamal penalty earns Barcelona draw at Newcastle in Champions League",
           "link": "https://www.aljazeera.com/sports/2026/3/10/late-yamal-penalty-earns-barcelona-draw-at-newcastle-in-champions-league?traffic_source=rss",
           "published": "Tue, 10 Mar 2026 22:17:01 +0000"
@@ -128,12 +134,6 @@
           "title": "Unexploded missile extracted from house in western Iran",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/3/10/unexploded-missile-extracted-from-house-in-western-iran?traffic_source=rss",
           "published": "Tue, 10 Mar 2026 20:07:25 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Lebanese priest killed by Israeli tank fire",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/10/lebanese-priest-killed-by-israeli-tank-fire?traffic_source=rss",
-          "published": "Tue, 10 Mar 2026 20:05:46 +0000"
         }
       ]
     }
