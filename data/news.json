@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-10T20:53:35Z",
+  "updatedAt": "2026-03-10T21:29:48Z",
   "groups": [
     {
       "region": "Македонија",
@@ -42,6 +42,12 @@
         },
         {
           "source": "NetPress",
+          "title": "Основачите на BioNTech се повлекуваат од компанијата",
+          "link": "https://netpress.com.mk/osnovachite-na-biontech-se-povlekuvaat-od-kompanijata/",
+          "published": "Tue, 10 Mar 2026 21:14:06 +0000"
+        },
+        {
+          "source": "NetPress",
           "title": "Извозот на енергенси од Блискиот исток намален на 10 отсто од предвоените нивоа",
           "link": "https://netpress.com.mk/izvozot-na-energensi-od-bliskiot-istok-namalen-na-10-otsto-od-predvoenite-nivoa/",
           "published": "Tue, 10 Mar 2026 20:33:51 +0000"
@@ -63,12 +69,6 @@
           "title": "Авиокомпаниите ги зголемуваат цените на билетите поради поскапувањето на горивата",
           "link": "https://netpress.com.mk/aviokompaniite-gi-zgolemuvaat-czenite-na-biletite-poradi-poskapuvaneto-na-gorivata/",
           "published": "Tue, 10 Mar 2026 19:47:18 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Мерц ја отфрли идејата за ублажување на санкциите против Русија",
-          "link": "https://netpress.com.mk/mercz-ja-otfrli-idejata-za-ublazhuvane-na-sankcziite-protiv-rusija/",
-          "published": "Tue, 10 Mar 2026 19:23:49 +0000"
         }
       ]
     },
@@ -107,6 +107,18 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "US civil rights group documents ‘broad attack on Muslim life’ in 2025",
+          "link": "https://www.aljazeera.com/news/2026/3/10/us-civil-rights-group-documents-broad-attack-on-muslim-life-in-2025?traffic_source=rss",
+          "published": "Tue, 10 Mar 2026 21:15:38 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Around 140 US service members wounded in Iran war, Pentagon says",
+          "link": "https://www.aljazeera.com/news/2026/3/10/around-140-us-service-members-wounded-in-iran-war-pentagon-says?traffic_source=rss",
+          "published": "Tue, 10 Mar 2026 21:10:50 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Unexploded missile extracted from house in western Iran",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/3/10/unexploded-missile-extracted-from-house-in-western-iran?traffic_source=rss",
           "published": "Tue, 10 Mar 2026 20:07:25 +0000"
@@ -122,18 +134,6 @@
           "title": "Aviation will feel effect for the rest of the year ‘even if conflict ends t",
           "link": "https://www.aljazeera.com/video/quotable/2026/3/10/aviation-will-feel-effect-for-the-rest-of-the-year-even-if-conflict-ends-t?traffic_source=rss",
           "published": "Tue, 10 Mar 2026 19:56:18 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Could the US-Israel war with Iran fuel global inflation?",
-          "link": "https://www.aljazeera.com/video/counting-the-cost/2026/3/10/could-the-us-israel-war-with-iran-fuel-global-inflation?traffic_source=rss",
-          "published": "Tue, 10 Mar 2026 19:30:00 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Is control of Iran’s natural resources a factor in US strategy?",
-          "link": "https://www.aljazeera.com/video/inside-story/2026/3/10/is-control-of-irans-natural-resources-a-factor-in-us-strategy?traffic_source=rss",
-          "published": "Tue, 10 Mar 2026 19:29:48 +0000"
         }
       ]
     }
