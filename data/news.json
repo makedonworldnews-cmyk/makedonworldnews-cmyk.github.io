@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-11T22:51:52Z",
+  "updatedAt": "2026-03-11T23:27:14Z",
   "groups": [
     {
       "region": "Македонија",
@@ -42,6 +42,12 @@
         },
         {
           "source": "NetPress",
+          "title": "Евролига: Партизан славеше во Болоња",
+          "link": "https://netpress.com.mk/evroliga-partizan-slaveshe-vo-bolona/",
+          "published": "Wed, 11 Mar 2026 23:21:40 +0000"
+        },
+        {
+          "source": "NetPress",
           "title": "Трамп за Иран: Победивме, но не сакаме прерано да си заминеме",
           "link": "https://netpress.com.mk/tramp-za-iran-pobedivme-no-ne-sakame-prerano-da-si-zamineme/",
           "published": "Wed, 11 Mar 2026 22:38:55 +0000"
@@ -63,12 +69,6 @@
           "title": "Го претепале и му го оштетиле возилото",
           "link": "https://netpress.com.mk/go-pretepale-i-mu-go-oshtetile-voziloto/",
           "published": "Wed, 11 Mar 2026 22:02:06 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Тројца се нафрлиле на еден и го претепале – дивеење во Аеродром",
-          "link": "https://netpress.com.mk/trojcza-se-nafrlile-na-eden-i-go-pretepale-diveene-vo-aerodrom/",
-          "published": "Wed, 11 Mar 2026 21:51:00 +0000"
         }
       ]
     },
@@ -95,15 +95,33 @@
         },
         {
           "source": "BBC",
+          "title": "China's biggest political meeting is ending - what have we learned?",
+          "link": "https://www.bbc.com/news/articles/cvg80pedxeyo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 11 Mar 2026 23:03:12 GMT"
+        },
+        {
+          "source": "BBC",
           "title": "EU and UK demand Israel stop surge in West Bank settler violence since Iran war",
           "link": "https://www.bbc.com/news/articles/c620vwl97vyo?at_medium=RSS&at_campaign=rss",
           "published": "Wed, 11 Mar 2026 14:13:52 GMT"
         },
         {
-          "source": "BBC",
-          "title": "Three brothers arrested after explosion at US embassy in Oslo",
-          "link": "https://www.bbc.com/news/articles/cx2grl7lrrmo?at_medium=RSS&at_campaign=rss",
-          "published": "Wed, 11 Mar 2026 18:28:46 GMT"
+          "source": "Al Jazeera",
+          "title": "Trump: ‘I don’t know’ about report US at fault in school strike",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/11/trump-i-dont-know-about-report-us-at-fault-in-school-strike?traffic_source=rss",
+          "published": "Wed, 11 Mar 2026 22:38:41 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "South Africa summons new US ambassador over ‘undiplomatic remarks’",
+          "link": "https://www.aljazeera.com/news/2026/3/11/south-africa-summons-new-us-ambassador-over-undiplomatic-remarks?traffic_source=rss",
+          "published": "Wed, 11 Mar 2026 22:33:32 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Iran-linked hackers hit medical giant Stryker in retaliatory cyberattack",
+          "link": "https://www.aljazeera.com/news/2026/3/11/iran-linked-hackers-hit-medical-giant-stryker-in-retaliatory-cyberattack?traffic_source=rss",
+          "published": "Wed, 11 Mar 2026 22:32:40 +0000"
         },
         {
           "source": "Al Jazeera",
@@ -116,24 +134,6 @@
           "title": "How Trump has addressed the deadly Iran school bombing",
           "link": "https://www.aljazeera.com/news/2026/3/11/how-trump-has-addressed-the-deadly-iran-school-bombing?traffic_source=rss",
           "published": "Wed, 11 Mar 2026 21:55:51 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "UN Security Council adopts Gulf countries’ draft resolution",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/11/un-security-council-adopts-gulf-countries-draft-resolution-2?traffic_source=rss",
-          "published": "Wed, 11 Mar 2026 21:11:05 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Ecuador prepares for attack on ‘criminal economy’ with Trump backing",
-          "link": "https://www.aljazeera.com/news/2026/3/11/ecuador-prepares-for-attack-on-criminal-economy-with-trump-backing?traffic_source=rss",
-          "published": "Wed, 11 Mar 2026 21:10:20 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Displaced Lebanese families seek refuge in school shelter",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/11/displaced-lebanese-families-seek-refuge-in-school-shelter?traffic_source=rss",
-          "published": "Wed, 11 Mar 2026 20:54:36 +0000"
         }
       ]
     }
