@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-11T22:27:48Z",
+  "updatedAt": "2026-03-11T22:51:52Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Арбелоа тажен поради повредата на Менди",
+          "link": "https://makfax.com.mk/sport/arbeloa-tazhen-poradi-povredata-na-mendi/",
+          "published": "Wed, 11 Mar 2026 22:49:32 +0000"
         },
         {
           "source": "Makfax",
@@ -35,10 +41,10 @@
           "published": "Wed, 11 Mar 2026 20:26:32 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "(Видео) Арсенал во 89-та минута се спаси од пораз во Леверкузен",
-          "link": "https://makfax.com.mk/sport/video-arsenal-vo-89-ta-minuta-se-spasi-od-poraz-vo-leverkuzen/",
-          "published": "Wed, 11 Mar 2026 20:25:57 +0000"
+          "source": "NetPress",
+          "title": "Трамп за Иран: Победивме, но не сакаме прерано да си заминеме",
+          "link": "https://netpress.com.mk/tramp-za-iran-pobedivme-no-ne-sakame-prerano-da-si-zamineme/",
+          "published": "Wed, 11 Mar 2026 22:38:55 +0000"
         },
         {
           "source": "NetPress",
@@ -63,12 +69,6 @@
           "title": "Тројца се нафрлиле на еден и го претепале – дивеење во Аеродром",
           "link": "https://netpress.com.mk/trojcza-se-nafrlile-na-eden-i-go-pretepale-diveene-vo-aerodrom/",
           "published": "Wed, 11 Mar 2026 21:51:00 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Демохристијаните повторно најсилни во Баварија, крајната десница зајакна",
-          "link": "https://netpress.com.mk/demohristijanite-povtorno-najsilni-vo-bavarija-krajnata-desnicza-zajakna/",
-          "published": "Wed, 11 Mar 2026 21:46:10 +0000"
         }
       ]
     },
