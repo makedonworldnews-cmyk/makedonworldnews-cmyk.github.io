@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-11T19:26:11Z",
+  "updatedAt": "2026-03-11T19:58:38Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Силна бура во САД: има загинати и повредени",
+          "link": "https://makfax.com.mk/svet/silna-bura-vo-sad-ima-zaginati-i-povredeni/",
+          "published": "Wed, 11 Mar 2026 19:41:42 +0000"
         },
         {
           "source": "Makfax",
@@ -35,40 +41,34 @@
           "published": "Wed, 11 Mar 2026 18:17:41 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Хоџа со претставници на ЕБОР:  Продлабочување на партнерството  за модерна инфраструктура и зелени инвестиции",
-          "link": "https://makfax.com.mk/makedonija/hodha-so-pretstavniczi-na-ebor-prodlabochuvane-na-partnerstvoto-za-moderna-infrastruktura-i-zeleni-investiczii/",
-          "published": "Wed, 11 Mar 2026 17:57:50 +0000"
+          "source": "NetPress",
+          "title": "Џебџија „оперирал“ во автобус во Чаир",
+          "link": "https://netpress.com.mk/dhebdhija-operiral-vo-avtobus-vo-chair/",
+          "published": "Wed, 11 Mar 2026 19:56:46 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "До петок вечер сончево време",
+          "link": "https://netpress.com.mk/do-petok-vecher-sonchevo-vreme/",
+          "published": "Wed, 11 Mar 2026 19:47:12 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Ердоган повикува на прекин на војната во Иран пред целиот регион да биде вовлечен",
+          "link": "https://netpress.com.mk/erdogan-povikuva-na-prekin-na-vojnata-vo-iran-pred-czeliot-region-da-bide-vovlechen/",
+          "published": "Wed, 11 Mar 2026 19:43:22 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Кoс: ЕУ нема да прима „тројански коњи“ во процесот на проширување",
+          "link": "https://netpress.com.mk/kos-eu-nema-da-prima-trojanski-koni-vo-proczesot-na-proshiruvane/",
+          "published": "Wed, 11 Mar 2026 19:27:12 +0000"
         },
         {
           "source": "NetPress",
           "title": "Времето утре сончево и пријатно",
           "link": "https://netpress.com.mk/vremeto-utre-sonchevo-i-prijatno/",
           "published": "Wed, 11 Mar 2026 19:22:42 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Фон дер Лајен го омекнува ставот за застарениот светски поредок",
-          "link": "https://netpress.com.mk/fon-der-lajen-go-omeknuva-stavot-za-zastareniot-svetski-poredok/",
-          "published": "Wed, 11 Mar 2026 18:57:30 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Малолетници нападнале врсник во градски автобус",
-          "link": "https://netpress.com.mk/maloletniczi-napadnale-vrsnik-vo-gradski-avtobus/",
-          "published": "Wed, 11 Mar 2026 18:49:49 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "ЕК: Враќањето кон руските енергенси би било стратешка грешка",
-          "link": "https://netpress.com.mk/ek-vrakaneto-kon-ruskite-energensi-bi-bilo-strateshka-greshka/",
-          "published": "Wed, 11 Mar 2026 18:44:33 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Израел не е сигурен дека иранскaта власт ќе падне и покрај војната",
-          "link": "https://netpress.com.mk/izrael-ne-e-siguren-deka-iranskata-vlast-ke-padne-i-pokraj-vojnata/",
-          "published": "Wed, 11 Mar 2026 18:37:20 +0000"
         }
       ]
     },
@@ -107,6 +107,12 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Three brothers arrested in Norway over bomb attack on US embassy in Oslo",
+          "link": "https://www.aljazeera.com/news/2026/3/11/three-brothers-arrested-in-norway-over-bomb-attack-on-us-embassy-in-oslo?traffic_source=rss",
+          "published": "Wed, 11 Mar 2026 19:34:22 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Six die in Swiss bus fire after man thought to have set himself alight",
           "link": "https://www.aljazeera.com/news/2026/3/11/six-die-in-swiss-bus-fire-after-man-thought-to-have-set-himself-alight?traffic_source=rss",
           "published": "Wed, 11 Mar 2026 18:47:49 +0000"
@@ -128,12 +134,6 @@
           "title": "What’s left in Iran ‘could be taken out in an hour’, says Trump",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/3/11/whats-left-in-iran-could-be-taken-out-in-an-hour-says-trump?traffic_source=rss",
           "published": "Wed, 11 Mar 2026 18:13:06 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "UK court rejects bid to reinstate ‘terrorism’ charge against Kneecap rapper",
-          "link": "https://www.aljazeera.com/news/2026/3/11/uk-court-rejects-bid-to-reinstate-terrorism-charge-against-kneecap-rapper?traffic_source=rss",
-          "published": "Wed, 11 Mar 2026 17:33:03 +0000"
         }
       ]
     }
