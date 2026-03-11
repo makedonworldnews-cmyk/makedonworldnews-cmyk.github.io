@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-11T21:50:19Z",
+  "updatedAt": "2026-03-11T22:27:48Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) Валверде го нокаутира Сити, трае бајката на Боде/Глимт, ПСЖ го растури Челзи",
+          "link": "https://makfax.com.mk/sport/video-valverde-go-nokautira-siti-trae-bajkata-na-bode-glimt-pszh-go-rasturi-chelzi/",
+          "published": "Wed, 11 Mar 2026 22:16:46 +0000"
         },
         {
           "source": "Makfax",
@@ -35,40 +41,34 @@
           "published": "Wed, 11 Mar 2026 20:25:57 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Виткоф: Британската поддршка за САД дојде „малку предоцна“",
-          "link": "https://makfax.com.mk/svet/vitkof-britanskata-poddrshka-za-sad-dojde-malku-predoczna/",
-          "published": "Wed, 11 Mar 2026 20:20:53 +0000"
+          "source": "NetPress",
+          "title": "САД го правдаат масакрот на иранските девојчиња со можни застарени податоци",
+          "link": "https://netpress.com.mk/sad-go-pravdaat-masakrot-na-iranskite-devojchina-so-mozhni-zastareni-podatoczi/",
+          "published": "Wed, 11 Mar 2026 22:20:48 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Пациент се заканувал и кршел",
+          "link": "https://netpress.com.mk/paczient-se-zakanuval-i-krshel/",
+          "published": "Wed, 11 Mar 2026 22:09:25 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Го претепале и му го оштетиле возилото",
+          "link": "https://netpress.com.mk/go-pretepale-i-mu-go-oshtetile-voziloto/",
+          "published": "Wed, 11 Mar 2026 22:02:06 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Тројца се нафрлиле на еден и го претепале – дивеење во Аеродром",
+          "link": "https://netpress.com.mk/trojcza-se-nafrlile-na-eden-i-go-pretepale-diveene-vo-aerodrom/",
+          "published": "Wed, 11 Mar 2026 21:51:00 +0000"
         },
         {
           "source": "NetPress",
           "title": "Демохристијаните повторно најсилни во Баварија, крајната десница зајакна",
           "link": "https://netpress.com.mk/demohristijanite-povtorno-najsilni-vo-bavarija-krajnata-desnicza-zajakna/",
           "published": "Wed, 11 Mar 2026 21:46:10 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Ќе изгасне ли една локална телевизија?",
-          "link": "https://netpress.com.mk/ke-izgasne-li-edna-lokalna-televizija/",
-          "published": "Wed, 11 Mar 2026 21:43:31 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Тројца браќа уапсени за бомбашкиот напад врз амбасадата на САД во Осло",
-          "link": "https://netpress.com.mk/trojcza-braka-uapseni-za-bombashkiot-napad-vrz-ambasadata-na-sad-vo-oslo/",
-          "published": "Wed, 11 Mar 2026 21:23:07 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Нападнато медицинско лице на работа",
-          "link": "https://netpress.com.mk/napadnato-mediczinsko-licze-na-rabota/",
-          "published": "Wed, 11 Mar 2026 21:18:06 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Без струја утре значителен број жители на Скопје",
-          "link": "https://netpress.com.mk/bez-struja-utre-znachitelen-broj-zhiteli-na-skopje/",
-          "published": "Wed, 11 Mar 2026 21:14:50 +0000"
         }
       ]
     },
@@ -107,6 +107,18 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Valverde hat-trick gives Real Madrid 3-0 Champions League win over Man City",
+          "link": "https://www.aljazeera.com/sports/2026/3/11/valverde-hat-trick-gives-real-madrid-3-0-champions-league-win-over-man-city?traffic_source=rss",
+          "published": "Wed, 11 Mar 2026 22:16:30 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "How Trump has addressed the deadly Iran school bombing",
+          "link": "https://www.aljazeera.com/news/2026/3/11/how-trump-has-addressed-the-deadly-iran-school-bombing?traffic_source=rss",
+          "published": "Wed, 11 Mar 2026 21:55:51 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "UN Security Council adopts Gulf countries’ draft resolution",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/3/11/un-security-council-adopts-gulf-countries-draft-resolution-2?traffic_source=rss",
           "published": "Wed, 11 Mar 2026 21:11:05 +0000"
@@ -122,18 +134,6 @@
           "title": "Displaced Lebanese families seek refuge in school shelter",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/3/11/displaced-lebanese-families-seek-refuge-in-school-shelter?traffic_source=rss",
           "published": "Wed, 11 Mar 2026 20:54:36 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Why does Iran war pose more dilemmas for Europe?",
-          "link": "https://www.aljazeera.com/video/inside-story/2026/3/11/why-does-the-iran-war-pose-more-dilemmas-for-europe?traffic_source=rss",
-          "published": "Wed, 11 Mar 2026 20:41:48 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Two killed as tornadoes sweep across US Midwest in latest extreme weather",
-          "link": "https://www.aljazeera.com/news/2026/3/11/two-killed-as-tornadoes-sweep-across-us-midwest-in-latest-extreme-weather?traffic_source=rss",
-          "published": "Wed, 11 Mar 2026 20:26:04 +0000"
         }
       ]
     }
