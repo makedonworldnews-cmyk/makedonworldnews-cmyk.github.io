@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-11T21:25:56Z",
+  "generated_at": "2026-03-11T21:54:18Z",
   "items": [
     {
       "region": "Македонија",
@@ -39,6 +39,27 @@
     {
       "region": "Македонија",
       "source": "NetPress",
+      "title": "Тројца се нафрлиле на еден и го претепале – дивеење во Аеродром",
+      "link": "https://netpress.com.mk/trojcza-se-nafrlile-na-eden-i-go-pretepale-diveene-vo-aerodrom/",
+      "published": "Wed, 11 Mar 2026 21:51:00 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "NetPress",
+      "title": "Демохристијаните повторно најсилни во Баварија, крајната десница зајакна",
+      "link": "https://netpress.com.mk/demohristijanite-povtorno-najsilni-vo-bavarija-krajnata-desnicza-zajakna/",
+      "published": "Wed, 11 Mar 2026 21:46:10 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "NetPress",
+      "title": "Ќе изгасне ли една локална телевизија?",
+      "link": "https://netpress.com.mk/ke-izgasne-li-edna-lokalna-televizija/",
+      "published": "Wed, 11 Mar 2026 21:43:31 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "NetPress",
       "title": "Тројца браќа уапсени за бомбашкиот напад врз амбасадата на САД во Осло",
       "link": "https://netpress.com.mk/trojcza-braka-uapseni-za-bombashkiot-napad-vrz-ambasadata-na-sad-vo-oslo/",
       "published": "Wed, 11 Mar 2026 21:23:07 +0000"
@@ -49,27 +70,6 @@
       "title": "Нападнато медицинско лице на работа",
       "link": "https://netpress.com.mk/napadnato-mediczinsko-licze-na-rabota/",
       "published": "Wed, 11 Mar 2026 21:18:06 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Без струја утре значителен број жители на Скопје",
-      "link": "https://netpress.com.mk/bez-struja-utre-znachitelen-broj-zhiteli-na-skopje/",
-      "published": "Wed, 11 Mar 2026 21:14:50 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Трамп не е загрижен за напади на американска територија поврзани со Иран",
-      "link": "https://netpress.com.mk/tramp-ne-e-zagrizhen-za-napadi-na-amerikanska-teritorija-povrzani-so-iran/",
-      "published": "Wed, 11 Mar 2026 21:04:18 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Без вода утре дел од Маџир Маало",
-      "link": "https://netpress.com.mk/bez-voda-utre-del-od-madhir-maalo/",
-      "published": "Wed, 11 Mar 2026 21:00:45 +0000"
     },
     {
       "region": "Свет",
@@ -109,6 +109,20 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "UN Security Council adopts Gulf countries’ draft resolution",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/11/un-security-council-adopts-gulf-countries-draft-resolution-2?traffic_source=rss",
+      "published": "Wed, 11 Mar 2026 21:11:05 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Ecuador prepares for attack on ‘criminal economy’ with Trump backing",
+      "link": "https://www.aljazeera.com/news/2026/3/11/ecuador-prepares-for-attack-on-criminal-economy-with-trump-backing?traffic_source=rss",
+      "published": "Wed, 11 Mar 2026 21:10:20 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "Displaced Lebanese families seek refuge in school shelter",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/3/11/displaced-lebanese-families-seek-refuge-in-school-shelter?traffic_source=rss",
       "published": "Wed, 11 Mar 2026 20:54:36 +0000"
@@ -126,20 +140,6 @@
       "title": "Two killed as tornadoes sweep across US Midwest in latest extreme weather",
       "link": "https://www.aljazeera.com/news/2026/3/11/two-killed-as-tornadoes-sweep-across-us-midwest-in-latest-extreme-weather?traffic_source=rss",
       "published": "Wed, 11 Mar 2026 20:26:04 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "UN’s failure to stop Iranian attacks sending ‘dangerous signal’: Qatar",
-      "link": "https://www.aljazeera.com/news/2026/3/11/uns-failure-to-stop-iranian-attacks-sending-dangerous-signal-qatar?traffic_source=rss",
-      "published": "Wed, 11 Mar 2026 20:01:42 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Three brothers arrested in Norway over bomb attack on US embassy in Oslo",
-      "link": "https://www.aljazeera.com/news/2026/3/11/three-brothers-arrested-in-norway-over-bomb-attack-on-us-embassy-in-oslo?traffic_source=rss",
-      "published": "Wed, 11 Mar 2026 19:34:22 +0000"
     }
   ]
 }
