@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-11T23:27:14Z",
+  "updatedAt": "2026-03-11T23:50:58Z",
   "groups": [
     {
       "region": "Македонија",
@@ -42,6 +42,12 @@
         },
         {
           "source": "NetPress",
+          "title": "Преглед ЛШ: Реал, ПСЖ и Бодо со три гола предност по првите дуел во осминафиналето",
+          "link": "https://netpress.com.mk/pregled-lsh-real-pszh-i-bodo-so-tri-gola-prednost-po-prvite-duel-vo-osminafinaleto/",
+          "published": "Wed, 11 Mar 2026 23:45:27 +0000"
+        },
+        {
+          "source": "NetPress",
           "title": "Евролига: Партизан славеше во Болоња",
           "link": "https://netpress.com.mk/evroliga-partizan-slaveshe-vo-bolona/",
           "published": "Wed, 11 Mar 2026 23:21:40 +0000"
@@ -63,12 +69,6 @@
           "title": "Пациент се заканувал и кршел",
           "link": "https://netpress.com.mk/paczient-se-zakanuval-i-krshel/",
           "published": "Wed, 11 Mar 2026 22:09:25 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Го претепале и му го оштетиле возилото",
-          "link": "https://netpress.com.mk/go-pretepale-i-mu-go-oshtetile-voziloto/",
-          "published": "Wed, 11 Mar 2026 22:02:06 +0000"
         }
       ]
     },
@@ -107,6 +107,18 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Massive fires on two oil tankers after attack in Iraqi waters",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/11/massive-fires-on-two-oil-tankers-after-attack-in-iraqi-waters?traffic_source=rss",
+          "published": "Wed, 11 Mar 2026 23:19:04 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "New files show British PM warned of ‘reputational risks’ with Mandelson",
+          "link": "https://www.aljazeera.com/news/2026/3/11/new-files-show-british-pm-warned-of-reputational-risks-with-mandelson?traffic_source=rss",
+          "published": "Wed, 11 Mar 2026 23:14:25 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Trump: ‘I don’t know’ about report US at fault in school strike",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/3/11/trump-i-dont-know-about-report-us-at-fault-in-school-strike?traffic_source=rss",
           "published": "Wed, 11 Mar 2026 22:38:41 +0000"
@@ -122,18 +134,6 @@
           "title": "Iran-linked hackers hit medical giant Stryker in retaliatory cyberattack",
           "link": "https://www.aljazeera.com/news/2026/3/11/iran-linked-hackers-hit-medical-giant-stryker-in-retaliatory-cyberattack?traffic_source=rss",
           "published": "Wed, 11 Mar 2026 22:32:40 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Valverde hat-trick gives Real Madrid 3-0 Champions League win over Man City",
-          "link": "https://www.aljazeera.com/sports/2026/3/11/valverde-hat-trick-gives-real-madrid-3-0-champions-league-win-over-man-city?traffic_source=rss",
-          "published": "Wed, 11 Mar 2026 22:16:30 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "How Trump has addressed the deadly Iran school bombing",
-          "link": "https://www.aljazeera.com/news/2026/3/11/how-trump-has-addressed-the-deadly-iran-school-bombing?traffic_source=rss",
-          "published": "Wed, 11 Mar 2026 21:55:51 +0000"
         }
       ]
     }
