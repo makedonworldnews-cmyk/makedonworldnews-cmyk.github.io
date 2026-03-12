@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-12T10:42:15Z",
+  "updatedAt": "2026-03-12T11:21:50Z",
   "groups": [
     {
       "region": "Македонија",
@@ -18,6 +18,24 @@
         },
         {
           "source": "NetPress",
+          "title": "„Тиквеш“ прогласен за најдобар производител на вино од Македонија на престижниот „Mundus Vini“",
+          "link": "https://netpress.com.mk/tikvesh-proglasen-za-najdobar-proizvoditel-na-vino-od-makedonija-na-prestizhniot-mundus-vini/",
+          "published": "Thu, 12 Mar 2026 11:15:46 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Петрушевски: ССМ не постои, тоа е само СДС во синдикални маички",
+          "link": "https://netpress.com.mk/petrushevski-ssm-ne-postoi-toa-e-samo-sds-vo-sindikalni-maichki/",
+          "published": "Thu, 12 Mar 2026 10:59:52 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Преглед НБА: Јокиќ со ново историско остварување,, Клиперс се искачија на осмото место на Западот",
+          "link": "https://netpress.com.mk/pregled-nba-jokik-so-novo-ostvaruvane-vo-istorijata-na-nba-klipers-se-iskachija-na-osmoto-mesto-na-zapadot/",
+          "published": "Thu, 12 Mar 2026 10:50:12 +0000"
+        },
+        {
+          "source": "NetPress",
           "title": "ЕУ ги демантира СДСМ, пораката од Кос не се однесува на Македонија",
           "link": "https://netpress.com.mk/eu-gi-demantira-sdsm-porakata-od-kos-ne-se-odnesuva-na-makedonija/",
           "published": "Thu, 12 Mar 2026 10:36:21 +0000"
@@ -27,24 +45,6 @@
           "title": "САД потрошија 11 милијарди долари само во првите шест дена од војната",
           "link": "https://netpress.com.mk/sad-potroshija-11-milijardi-dolari-samo-vo-prvite-shest-dena-od-vojnata/",
           "published": "Thu, 12 Mar 2026 10:10:37 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "На „Блаце“ спречен обид за криумчарење 120 килограми тутун за наргиле",
-          "link": "https://netpress.com.mk/na-blacze-sprechen-obid-za-kriumcharene-120-kilogrami-tutun-za-nargile/",
-          "published": "Thu, 12 Mar 2026 10:09:24 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Ден на бубррежните болести: Алпортов синдром",
-          "link": "https://netpress.com.mk/den-na-bubrrezhnite-bolesti-alportov-sindrom/",
-          "published": "Thu, 12 Mar 2026 09:58:33 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "ВИДЕО| Орбан го смирува семејството по украинските закани",
-          "link": "https://netpress.com.mk/video-orban-go-smiruva-semejstvoto-po-ukrainskite-zakani/",
-          "published": "Thu, 12 Mar 2026 09:56:43 +0000"
         }
       ]
     },
@@ -53,15 +53,9 @@
       "items": [
         {
           "source": "BBC",
-          "title": "Oil price jumps despite deal to release record amount of reserves",
-          "link": "https://www.bbc.com/news/articles/c1w5141vx53o?at_medium=RSS&at_campaign=rss",
-          "published": "Thu, 12 Mar 2026 08:20:04 GMT"
-        },
-        {
-          "source": "BBC",
-          "title": "Bowen: Trump has called for an Iran uprising but the lessons from Iraq in 1991 loom large",
-          "link": "https://www.bbc.com/news/articles/cn0znx4xrl9o?at_medium=RSS&at_campaign=rss",
-          "published": "Wed, 11 Mar 2026 16:45:28 GMT"
+          "title": "China approves 'ethnic unity' law requiring minorities to learn Mandarin",
+          "link": "https://www.bbc.com/news/articles/cp9meeek051o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 12 Mar 2026 08:41:47 GMT"
         },
         {
           "source": "BBC",
@@ -71,45 +65,51 @@
         },
         {
           "source": "BBC",
+          "title": "War in Ukraine spills into Hungarian election campaign",
+          "link": "https://www.bbc.com/news/articles/crm8rxwyyz8o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 12 Mar 2026 09:03:39 GMT"
+        },
+        {
+          "source": "BBC",
           "title": "Noma head chef resigns from restaurant amid abuse allegations",
           "link": "https://www.bbc.com/news/articles/c07jr2pe5j9o?at_medium=RSS&at_campaign=rss",
           "published": "Thu, 12 Mar 2026 04:09:16 GMT"
         },
         {
           "source": "BBC",
-          "title": "War in Ukraine spills into Hungarian election campaign",
-          "link": "https://www.bbc.com/news/articles/crm8rxwyyz8o?at_medium=RSS&at_campaign=rss",
-          "published": "Thu, 12 Mar 2026 09:03:39 GMT"
+          "title": "Hozier, Jessie Buckley and Bruce Springsteen record Shane MacGowan tribute album",
+          "link": "https://www.bbc.com/news/articles/cn87ndvklr2o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 12 Mar 2026 10:32:03 GMT"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "The war of signals: How Russia and China help Iran see the battlefield",
+          "link": "https://www.aljazeera.com/opinions/2026/3/12/the-war-of-signals-how-russia-and-china-help-iran-see-the-battlefield?traffic_source=rss",
+          "published": "Thu, 12 Mar 2026 11:09:52 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Dubai high-rise building damaged in overnight drone hit",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/12/dubai-high-rise-building-damaged-in-overnight-drone-hit?traffic_source=rss",
+          "published": "Thu, 12 Mar 2026 11:01:57 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Chile’s new far-right president is sworn in",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/12/chiles-new-far-right-president-is-sworn-in?traffic_source=rss",
+          "published": "Thu, 12 Mar 2026 10:48:28 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Iran says it targets Israeli bases, accuses Israel of targeting hospitals",
+          "link": "https://www.aljazeera.com/news/2026/3/12/iran-says-it-targets-israeli-bases-accuses-israel-of-targeting-hospitals?traffic_source=rss",
+          "published": "Thu, 12 Mar 2026 10:37:28 +0000"
         },
         {
           "source": "Al Jazeera",
           "title": "North Korea says no more protests after China stir in Women’s Asian Cup",
           "link": "https://www.aljazeera.com/sports/2026/3/12/north-korea-vows-no-more-protests-after-china-stir-in-womens-asian-cup?traffic_source=rss",
           "published": "Thu, 12 Mar 2026 10:16:01 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Al Jazeera sees bombs being loaded onto US planes at UK base",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/12/al-jazeera-sees-bombs-being-loaded-onto-us-planes-at-uk-base?traffic_source=rss",
-          "published": "Thu, 12 Mar 2026 09:46:23 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Saudi Arabia and UAE condemn Iranian attacks",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/12/saudi-arabia-and-uae-condemn-iranian-attacks?traffic_source=rss",
-          "published": "Thu, 12 Mar 2026 09:38:07 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Residents of this Beirut neighbourhood felt safe. Then Israel attacked it.",
-          "link": "https://www.aljazeera.com/features/2026/3/12/residents-of-this-beirut-neighbourhood-felt-safe-then-israel-attacked-it?traffic_source=rss",
-          "published": "Thu, 12 Mar 2026 09:36:15 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Bangladesh parliament meets after uprising, elections ushered in new gov’t",
-          "link": "https://www.aljazeera.com/news/2026/3/12/bangladesh-parliament-meets-for-first-time-after-uprising-elections?traffic_source=rss",
-          "published": "Thu, 12 Mar 2026 09:34:06 +0000"
         }
       ]
     }
