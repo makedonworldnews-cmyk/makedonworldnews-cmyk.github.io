@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-12T21:58:33Z",
+  "updatedAt": "2026-03-12T22:36:15Z",
   "groups": [
     {
       "region": "Македонија",
@@ -42,6 +42,12 @@
         },
         {
           "source": "NetPress",
+          "title": "Евролига: Резултати и поредок",
+          "link": "https://netpress.com.mk/evroliga-rezultati-i-poredok/",
+          "published": "Thu, 12 Mar 2026 22:32:43 +0000"
+        },
+        {
+          "source": "NetPress",
           "title": "Дуплантис повторно го собори светскиот рекорд во скок со стап",
           "link": "https://netpress.com.mk/duplantis-povtorno-go-sobori-svetskiot-rekord-vo-skok-so-stap/",
           "published": "Thu, 12 Mar 2026 21:57:15 +0000"
@@ -63,12 +69,6 @@
           "title": "Србија ниту потврдува ниту негира дека поседува хиперсонични ракети",
           "link": "https://netpress.com.mk/srbija-nitu-potvrduva-nitu-negira-deka-poseduva-hipersonichni-raketi/",
           "published": "Thu, 12 Mar 2026 21:34:51 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "ЕУ се лути, Рама возвраќа – секој парламент во Европа би го сторил тоа",
-          "link": "https://netpress.com.mk/eu-se-luti-rama-vozvraka-sekoj-parlament-vo-evropa-bi-go-storil-toa/",
-          "published": "Thu, 12 Mar 2026 21:26:17 +0000"
         }
       ]
     },
@@ -107,6 +107,12 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Air attacks target bases of Iran-backed forces in Iraq",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/12/air-attacks-target-bases-of-iran-backed-forces-in-iraq?traffic_source=rss",
+          "published": "Thu, 12 Mar 2026 22:01:00 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Netanyahu says Israel ‘stronger than ever’ in first speech since Iran war",
           "link": "https://www.aljazeera.com/news/2026/3/12/netanyahu-says-israel-stronger-than-ever-in-first-speech-since-iran-war?traffic_source=rss",
           "published": "Thu, 12 Mar 2026 21:32:46 +0000"
@@ -128,12 +134,6 @@
           "title": "Can AI in military operations really be ethical?",
           "link": "https://www.aljazeera.com/video/the-stream/2026/3/12/can-ai-in-military-operations-really-be-ethical?traffic_source=rss",
           "published": "Thu, 12 Mar 2026 20:30:00 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Taiwan cheering row overshadows China quarterfinal at Asian Cup",
-          "link": "https://www.aljazeera.com/sports/2026/3/12/taiwan-cheering-row-overshadows-china-quarter-final-at-asian-cup?traffic_source=rss",
-          "published": "Thu, 12 Mar 2026 19:57:43 +0000"
         }
       ]
     }
