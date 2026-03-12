@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-12T22:36:15Z",
+  "updatedAt": "2026-03-12T22:58:46Z",
   "groups": [
     {
       "region": "Македонија",
@@ -42,6 +42,18 @@
         },
         {
           "source": "NetPress",
+          "title": "Конференцијса лига: Преглед на резултатите од натпреварите од осминафиналето",
+          "link": "https://netpress.com.mk/konferenczijsa-liga-pregled-na-rezultatite-od-natprevarite-od-osminafinaleto/",
+          "published": "Thu, 12 Mar 2026 22:54:47 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Лига Европа: Резултати од првите дуели во осминафиналето",
+          "link": "https://netpress.com.mk/liga-evropa-rezultati-od-prvite-dueli-vo-osminafinaleto/",
+          "published": "Thu, 12 Mar 2026 22:47:21 +0000"
+        },
+        {
+          "source": "NetPress",
           "title": "Евролига: Резултати и поредок",
           "link": "https://netpress.com.mk/evroliga-rezultati-i-poredok/",
           "published": "Thu, 12 Mar 2026 22:32:43 +0000"
@@ -57,18 +69,6 @@
           "title": "Израел ги ликвидира врвните ирански нуклеарни научници",
           "link": "https://netpress.com.mk/izrael-gi-likvidira-vrvnite-iranski-nuklearni-nauchniczi/",
           "published": "Thu, 12 Mar 2026 21:50:39 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Нетанјаху му се заканува на новиот ирански врховен водач",
-          "link": "https://netpress.com.mk/netanjahu-mu-se-zakanuva-na-noviot-iranski-vrhoven-vodach/",
-          "published": "Thu, 12 Mar 2026 21:48:13 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Србија ниту потврдува ниту негира дека поседува хиперсонични ракети",
-          "link": "https://netpress.com.mk/srbija-nitu-potvrduva-nitu-negira-deka-poseduva-hipersonichni-raketi/",
-          "published": "Thu, 12 Mar 2026 21:34:51 +0000"
         }
       ]
     },
@@ -107,6 +107,18 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Ex-rapper Balendra Shah sweeps to power in Nepal landslide election victory",
+          "link": "https://www.aljazeera.com/news/2026/3/12/ex-rapper-balendra-shah-sweeps-to-power-in-nepal-landslide-election-victory?traffic_source=rss",
+          "published": "Thu, 12 Mar 2026 22:12:46 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "US military announces rescue effort after fueling aircraft crashes in Iraq",
+          "link": "https://www.aljazeera.com/news/2026/3/12/us-military-announces-loss-of-refueling-aircraft-over-western-iraq?traffic_source=rss",
+          "published": "Thu, 12 Mar 2026 22:10:05 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Air attacks target bases of Iran-backed forces in Iraq",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/3/12/air-attacks-target-bases-of-iran-backed-forces-in-iraq?traffic_source=rss",
           "published": "Thu, 12 Mar 2026 22:01:00 +0000"
@@ -122,18 +134,6 @@
           "title": "Fuel shortages bring queues, protests around the world",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/3/12/fuel-shortages-bring-queues-protests-around-the-world?traffic_source=rss",
           "published": "Thu, 12 Mar 2026 21:30:54 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Advocates push for major probe as US boat strikes in Latin America kill 157",
-          "link": "https://www.aljazeera.com/news/2026/3/12/advocates-push-for-major-probe-as-us-boat-strikes-in-latin-america-kill-157?traffic_source=rss",
-          "published": "Thu, 12 Mar 2026 21:02:34 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Can AI in military operations really be ethical?",
-          "link": "https://www.aljazeera.com/video/the-stream/2026/3/12/can-ai-in-military-operations-really-be-ethical?traffic_source=rss",
-          "published": "Thu, 12 Mar 2026 20:30:00 +0000"
         }
       ]
     }
