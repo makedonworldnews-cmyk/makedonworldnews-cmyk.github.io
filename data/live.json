@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-12T20:55:25Z",
+  "generated_at": "2026-03-12T21:26:12Z",
   "items": [
     {
       "region": "Македонија",
@@ -39,6 +39,27 @@
     {
       "region": "Македонија",
       "source": "NetPress",
+      "title": "Морисеј го откажа концертот во Валенсија бидејќи поради бучавата не можел да се наспие",
+      "link": "https://netpress.com.mk/morisej-go-otkazha-konczertot-vo-valensija-bidejki-poradi-buchavata-ne-mozhel-da-se-naspie/",
+      "published": "Thu, 12 Mar 2026 21:10:13 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "NetPress",
+      "title": "Хамнеи нареди затворање на Ормускиот теснец – американската морнарица ќе ги придружува танкерите низ теснецот",
+      "link": "https://netpress.com.mk/hamnei-naredi-zatvorane-na-ormuskiot-tesnecz-amerikanskata-mornaricza-ke-gi-pridruzhuva-tankerite-niz-tesneczot/",
+      "published": "Thu, 12 Mar 2026 21:06:16 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "NetPress",
+      "title": "Граѓаните не треба да се грижат, имаме механизми да реагираме доколку кризата продолжи",
+      "link": "https://netpress.com.mk/graganite-ne-treba-da-se-grizhat-imame-mehanizmi-da-reagirame-dokolku-krizata-prodolzhi/",
+      "published": "Thu, 12 Mar 2026 20:57:56 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "NetPress",
       "title": "Пожар на најголемиот американски носача на авиони",
       "link": "https://netpress.com.mk/pozhar-na-najgolemiot-amerikanski-nosacha-na-avioni/",
       "published": "Thu, 12 Mar 2026 20:35:21 +0000"
@@ -49,27 +70,6 @@
       "title": "Има доволно нафта! Ја следиме состојбата, ако има потреба ќе интервенираме",
       "link": "https://netpress.com.mk/sostojbata-so-energensite-vo-momentot-e-stabilna-ako-ima-potreba-ke-intervenirame/",
       "published": "Thu, 12 Mar 2026 20:06:28 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "ОБСЕ утврдил „значителен демократски застој“ во Грузија",
-      "link": "https://netpress.com.mk/obse-utvrdil-znachitelen-demokratski-zastoj-vo-gruzija/",
-      "published": "Thu, 12 Mar 2026 19:32:21 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "ВИДЕО| Пукање во синагога во Мичиген, напаѓачот е убиен",
-      "link": "https://netpress.com.mk/video-pukane-vo-sinagoga-vo-michigen-napagachot-e-ubien/",
-      "published": "Thu, 12 Mar 2026 19:06:00 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Вдовицата на ајатолахот Али Хамнеи пронајдена жива",
-      "link": "https://netpress.com.mk/vdoviczata-na-ajatolahot-ali-hamnei-pronajdena-zhiva/",
-      "published": "Thu, 12 Mar 2026 19:02:19 +0000"
     },
     {
       "region": "Свет",
@@ -109,6 +109,13 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "Advocates push for major probe as US boat strikes in Latin America kill 157",
+      "link": "https://www.aljazeera.com/news/2026/3/12/advocates-push-for-major-probe-as-us-boat-strikes-in-latin-america-kill-157?traffic_source=rss",
+      "published": "Thu, 12 Mar 2026 21:02:34 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "Can AI in military operations really be ethical?",
       "link": "https://www.aljazeera.com/video/the-stream/2026/3/12/can-ai-in-military-operations-really-be-ethical?traffic_source=rss",
       "published": "Thu, 12 Mar 2026 20:30:00 +0000"
@@ -133,13 +140,6 @@
       "title": "Does President Trump have an exit strategy for the war with Iran?",
       "link": "https://www.aljazeera.com/video/inside-story/2026/3/12/does-president-trump-have-an-exit-strategy-for-the-war-with-iran?traffic_source=rss",
       "published": "Thu, 12 Mar 2026 19:50:37 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Iran vows to make Trump pay for ‘grave miscalculation’ if US escalates war",
-      "link": "https://www.aljazeera.com/news/2026/3/12/iran-vows-to-make-trump-pay-for-grave-miscalculation-if-us-escalates-war?traffic_source=rss",
-      "published": "Thu, 12 Mar 2026 19:31:34 +0000"
     }
   ]
 }
