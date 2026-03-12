@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-12T16:41:53Z",
+  "updatedAt": "2026-03-12T17:36:49Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) Белата куќа објави контроверзно видео: „НЕПОРАЗЕНИ“",
+          "link": "https://makfax.com.mk/svet/video-belata-kuka-objavi-kontroverzno-video-neporazeni/",
+          "published": "Thu, 12 Mar 2026 17:19:41 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "ТИТАН Усје: Свесни сме дека квалитетот на воздухот предизвикува загриженост кај граѓаните, внимателно ја следиме јавната дебата",
+          "link": "https://makfax.com.mk/ekonomija/titan-usje-prodolzhuvaneto-na-a-integriranata-ekoloshka-dozvola-se-odviva-soglasno-zakonot-i-vo-sorabotka-so-nadlezhnite-instituczii/",
+          "published": "Thu, 12 Mar 2026 16:58:20 +0000"
         },
         {
           "source": "Makfax",
@@ -29,46 +41,34 @@
           "published": "Thu, 12 Mar 2026 15:44:50 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Сали: Владата е целосно свесна дека следниот период е критичен за реализацијата на реформите",
-          "link": "https://makfax.com.mk/makedonija/sali-vladata-e-czelosno-svesna-deka-sledniot-period-e-kritichen-za-realizaczijata-na-reformite/",
-          "published": "Thu, 12 Mar 2026 15:39:52 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Утре сончево време со температура до 20 степени",
-          "link": "https://makfax.com.mk/makedonija/utre-sonchevo-vreme-so-temperatura-do-20-stepeni/",
-          "published": "Thu, 12 Mar 2026 15:36:47 +0000"
+          "source": "NetPress",
+          "title": "Велешани украле паричници, потоа од картичките си ваделе пари",
+          "link": "https://netpress.com.mk/veleshani-ukrale-parichniczi-potoa-od-kartichkite-si-vadele-pari/",
+          "published": "Thu, 12 Mar 2026 17:27:43 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Сведоштво на инспектор за Пулс: Имаше хидрант, ама празен и два ПП-апарати, а помошната врата беше заклучена",
-          "link": "https://netpress.com.mk/svedoshtvo-na-inspektor-za-puls-imashe-hidrant-ama-prazen-i-dva-pp-aparati-a-pomoshnata-vrata-beshe-zakluchena/",
-          "published": "Thu, 12 Mar 2026 16:36:29 +0000"
+          "title": "Тешко повреден возач на мопед во Скопје",
+          "link": "https://netpress.com.mk/teshko-povreden-vozach-na-moped-vo-skopje/",
+          "published": "Thu, 12 Mar 2026 17:18:43 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Без вода утре дел од Маџир Маало",
-          "link": "https://netpress.com.mk/bez-voda-utre-del-od-madhir-maalo-2/",
-          "published": "Thu, 12 Mar 2026 16:29:30 +0000"
+          "title": "Евакуирани 380 македонски државјани од Блискиот Исток и 78 странци",
+          "link": "https://netpress.com.mk/evakuirani-380-makedonski-drzhavjani-od-bliskiot-istok-i-78-stranczi/",
+          "published": "Thu, 12 Mar 2026 17:12:08 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Норвешка против ограничување на цените на гасот во ЕУ",
-          "link": "https://netpress.com.mk/norveshka-protiv-ogranichuvane-na-czenite-na-gasot-vo-eu/",
-          "published": "Thu, 12 Mar 2026 16:24:23 +0000"
+          "title": "Бран од 11 пријави за семејно насилство ја крена полицијата на нозе",
+          "link": "https://netpress.com.mk/bran-od-11-prijavi-za-semejno-nasilstvo-ja-krena-policzijata-na-noze/",
+          "published": "Thu, 12 Mar 2026 17:07:01 +0000"
         },
         {
           "source": "NetPress",
-          "title": "ЕУ ги предупреди САД против потенцијални нови царини",
-          "link": "https://netpress.com.mk/eu-gi-predupredi-sad-protiv-potenczijalni-novi-czarini/",
-          "published": "Thu, 12 Mar 2026 16:22:39 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Без струја утре улица во Кисела Вода",
-          "link": "https://netpress.com.mk/bez-struja-utre-ulicza-vo-kisela-voda/",
-          "published": "Thu, 12 Mar 2026 16:22:25 +0000"
+          "title": "УЈП воведува систем за реални податоци и наплата",
+          "link": "https://netpress.com.mk/ujp-voveduva-sistem-za-realni-podatoczi-i-naplata/",
+          "published": "Thu, 12 Mar 2026 17:02:13 +0000"
         }
       ]
     },
@@ -80,6 +80,12 @@
           "title": "'What if we're left with ruins?': Doubts creep in for Iranians who supported war",
           "link": "https://www.bbc.com/news/articles/c3094g50rnvo?at_medium=RSS&at_campaign=rss",
           "published": "Thu, 12 Mar 2026 12:49:14 GMT"
+        },
+        {
+          "source": "BBC",
+          "title": "Rapper-politician Balendra Shah's party wins Nepal election",
+          "link": "https://www.bbc.com/news/articles/c8jxnjvjkg7o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 12 Mar 2026 15:25:35 GMT"
         },
         {
           "source": "BBC",
@@ -98,12 +104,6 @@
           "title": "Nineteen jailed over deadly Moscow concert attack",
           "link": "https://www.bbc.com/news/articles/c0j5lx75vg3o?at_medium=RSS&at_campaign=rss",
           "published": "Thu, 12 Mar 2026 13:29:01 GMT"
-        },
-        {
-          "source": "BBC",
-          "title": "Noma head chef resigns from restaurant amid abuse allegations",
-          "link": "https://www.bbc.com/news/articles/c07jr2pe5j9o?at_medium=RSS&at_campaign=rss",
-          "published": "Thu, 12 Mar 2026 04:09:16 GMT"
         },
         {
           "source": "Al Jazeera",
