@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-12T21:34:10Z",
+  "updatedAt": "2026-03-12T21:58:33Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) Дуплантис повторно го сруши светскиот рекорд",
+          "link": "https://makfax.com.mk/sport/video-duplantis-povtorno-go-srushi-svetskiot-rekord-2/",
+          "published": "Thu, 12 Mar 2026 21:36:56 +0000"
         },
         {
           "source": "Makfax",
@@ -35,40 +41,34 @@
           "published": "Thu, 12 Mar 2026 20:08:31 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "(Видео) Прво забивање во историјата на француската женска репрезентација",
-          "link": "https://makfax.com.mk/sport/video-prvo-zabivane-vo-istorijata-na-franczuskata-zhenska-reprezentaczija/",
-          "published": "Thu, 12 Mar 2026 19:36:12 +0000"
+          "source": "NetPress",
+          "title": "Дуплантис повторно го собори светскиот рекорд во скок со стап",
+          "link": "https://netpress.com.mk/duplantis-povtorno-go-sobori-svetskiot-rekord-vo-skok-so-stap/",
+          "published": "Thu, 12 Mar 2026 21:57:15 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Израел ги ликвидира врвните ирански нуклеарни научници",
+          "link": "https://netpress.com.mk/izrael-gi-likvidira-vrvnite-iranski-nuklearni-nauchniczi/",
+          "published": "Thu, 12 Mar 2026 21:50:39 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Нетанјаху му се заканува на новиот ирански врховен водач",
+          "link": "https://netpress.com.mk/netanjahu-mu-se-zakanuva-na-noviot-iranski-vrhoven-vodach/",
+          "published": "Thu, 12 Mar 2026 21:48:13 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Србија ниту потврдува ниту негира дека поседува хиперсонични ракети",
+          "link": "https://netpress.com.mk/srbija-nitu-potvrduva-nitu-negira-deka-poseduva-hipersonichni-raketi/",
+          "published": "Thu, 12 Mar 2026 21:34:51 +0000"
         },
         {
           "source": "NetPress",
           "title": "ЕУ се лути, Рама возвраќа – секој парламент во Европа би го сторил тоа",
           "link": "https://netpress.com.mk/eu-se-luti-rama-vozvraka-sekoj-parlament-vo-evropa-bi-go-storil-toa/",
           "published": "Thu, 12 Mar 2026 21:26:17 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Морисеј го откажа концертот во Валенсија бидејќи поради бучавата не можел да се наспие",
-          "link": "https://netpress.com.mk/morisej-go-otkazha-konczertot-vo-valensija-bidejki-poradi-buchavata-ne-mozhel-da-se-naspie/",
-          "published": "Thu, 12 Mar 2026 21:10:13 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Хамнеи нареди затворање на Ормускиот теснец – американската морнарица ќе ги придружува танкерите низ теснецот",
-          "link": "https://netpress.com.mk/hamnei-naredi-zatvorane-na-ormuskiot-tesnecz-amerikanskata-mornaricza-ke-gi-pridruzhuva-tankerite-niz-tesneczot/",
-          "published": "Thu, 12 Mar 2026 21:06:16 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Граѓаните не треба да се грижат, имаме механизми да реагираме доколку кризата продолжи",
-          "link": "https://netpress.com.mk/graganite-ne-treba-da-se-grizhat-imame-mehanizmi-da-reagirame-dokolku-krizata-prodolzhi/",
-          "published": "Thu, 12 Mar 2026 20:57:56 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Пожар на најголемиот американски носача на авиони",
-          "link": "https://netpress.com.mk/pozhar-na-najgolemiot-amerikanski-nosacha-na-avioni/",
-          "published": "Thu, 12 Mar 2026 20:35:21 +0000"
         }
       ]
     },
@@ -107,6 +107,18 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Netanyahu says Israel ‘stronger than ever’ in first speech since Iran war",
+          "link": "https://www.aljazeera.com/news/2026/3/12/netanyahu-says-israel-stronger-than-ever-in-first-speech-since-iran-war?traffic_source=rss",
+          "published": "Thu, 12 Mar 2026 21:32:46 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Fuel shortages bring queues, protests around the world",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/12/fuel-shortages-bring-queues-protests-around-the-world?traffic_source=rss",
+          "published": "Thu, 12 Mar 2026 21:30:54 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Advocates push for major probe as US boat strikes in Latin America kill 157",
           "link": "https://www.aljazeera.com/news/2026/3/12/advocates-push-for-major-probe-as-us-boat-strikes-in-latin-america-kill-157?traffic_source=rss",
           "published": "Thu, 12 Mar 2026 21:02:34 +0000"
@@ -122,18 +134,6 @@
           "title": "Taiwan cheering row overshadows China quarterfinal at Asian Cup",
           "link": "https://www.aljazeera.com/sports/2026/3/12/taiwan-cheering-row-overshadows-china-quarter-final-at-asian-cup?traffic_source=rss",
           "published": "Thu, 12 Mar 2026 19:57:43 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "How will the war on Iran impact the US economy?",
-          "link": "https://www.aljazeera.com/economy/2026/3/12/how-will-the-war-on-iran-impact-the-us-economy?traffic_source=rss",
-          "published": "Thu, 12 Mar 2026 19:50:51 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Does President Trump have an exit strategy for the war with Iran?",
-          "link": "https://www.aljazeera.com/video/inside-story/2026/3/12/does-president-trump-have-an-exit-strategy-for-the-war-with-iran?traffic_source=rss",
-          "published": "Thu, 12 Mar 2026 19:50:37 +0000"
         }
       ]
     }
