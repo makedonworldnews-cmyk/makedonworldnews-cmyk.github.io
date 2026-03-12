@@ -1,6 +1,27 @@
 {
-  "generated_at": "2026-03-12T03:40:25Z",
+  "generated_at": "2026-03-12T05:08:02Z",
   "items": [
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "Делови од Карпош и Ѓорче Петров денеска без струја",
+      "link": "https://makfax.com.mk/makedonija/delovi-od-karposh-i-gorche-petrov-deneska-bez-struja/",
+      "published": "Thu, 12 Mar 2026 05:05:20 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "Ѓоковиќ елиминира од Дрејпер во осминафиналето",
+      "link": "https://makfax.com.mk/sport/gokovik-eliminira-od-drejper-vo-osminafinaleto/",
+      "published": "Thu, 12 Mar 2026 05:03:55 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "Сончево и релативно топло, максималната температура до 21 степен",
+      "link": "https://makfax.com.mk/makedonija/sonchevo-i-relativno-toplo-maksimalnata-temperatura-do-21-stepen/",
+      "published": "Thu, 12 Mar 2026 05:00:36 +0000"
+    },
     {
       "region": "Македонија",
       "source": "Makfax",
@@ -17,24 +38,10 @@
     },
     {
       "region": "Македонија",
-      "source": "Makfax",
-      "title": "Гардијан: Иран нема волја да ја продолжи војната доколку САД прогласат прекин на огнот",
-      "link": "https://makfax.com.mk/svet/gardijan-iran-nema-volja-da-ja-prodolzhi-vojnata-dokolku-sad-proglasat-prekin-na-ognot/",
-      "published": "Wed, 11 Mar 2026 20:54:18 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "Makfax",
-      "title": "ФБИ со предупредување дека Иран би можел да ја нападне Калифорнија",
-      "link": "https://makfax.com.mk/svet/fbi-so-predupreduvane-deka-iran-bi-mozhel-da-ja-napadne-kalifornija/",
-      "published": "Wed, 11 Mar 2026 20:46:03 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "Makfax",
-      "title": "(Видео) Трамп: Можеме да го уништиме Иран во рок од еден час",
-      "link": "https://makfax.com.mk/svet/video-tramp-mozheme-da-go-unishtime-iran-vo-rok-od-eden-chas/",
-      "published": "Wed, 11 Mar 2026 20:26:32 +0000"
+      "source": "NetPress",
+      "title": "Сончево и топло време денеска",
+      "link": "https://netpress.com.mk/sonchevo-i-toplo-vreme-deneska/",
+      "published": "Thu, 12 Mar 2026 05:01:29 +0000"
     },
     {
       "region": "Македонија",
@@ -65,16 +72,9 @@
       "published": "Wed, 11 Mar 2026 22:20:48 +0000"
     },
     {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Пациент се заканувал и кршел",
-      "link": "https://netpress.com.mk/paczient-se-zakanuval-i-krshel/",
-      "published": "Wed, 11 Mar 2026 22:09:25 +0000"
-    },
-    {
       "region": "Свет",
       "source": "BBC",
-      "title": "Oil hits $100 a barrel despite deal to release record amount of reserves",
+      "title": "Oil price jumps despite deal to release record amount of reserves",
       "link": "https://www.bbc.com/news/articles/c1w5141vx53o?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 12 Mar 2026 03:04:24 GMT"
     },
@@ -95,16 +95,44 @@
     {
       "region": "Свет",
       "source": "BBC",
+      "title": "Noma head chef resigns from restaurant amid abuse allegations",
+      "link": "https://www.bbc.com/news/articles/c07jr2pe5j9o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 12 Mar 2026 04:09:16 GMT"
+    },
+    {
+      "region": "Свет",
+      "source": "BBC",
       "title": "China's biggest political meeting is ending - what have we learned?",
       "link": "https://www.bbc.com/news/articles/cvg80pedxeyo?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 11 Mar 2026 23:03:12 GMT"
     },
     {
       "region": "Свет",
-      "source": "BBC",
-      "title": "Countries agree to record release of emergency oil reserves as prices surge",
-      "link": "https://www.bbc.com/news/articles/cly093xxlzzo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 11 Mar 2026 15:51:11 GMT"
+      "source": "Al Jazeera",
+      "title": "There is only one person’ who can decide to end the war on Iran",
+      "link": "https://www.aljazeera.com/video/quotable/2026/3/12/there-is-only-one-person-who-can-decide-to-end-the-war-on-iran?traffic_source=rss",
+      "published": "Thu, 12 Mar 2026 04:35:59 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Why historic oil reserves release may do little to bring down rising prices",
+      "link": "https://www.aljazeera.com/economy/2026/3/12/why-historic-oil-reserves-release-may-do-little-to-bring-down-rising-prices?traffic_source=rss",
+      "published": "Thu, 12 Mar 2026 04:32:39 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Five vessels attacked amid reports of Iranian drone boats, sea mines",
+      "link": "https://www.aljazeera.com/news/2026/3/12/five-vessels-attacked-amid-reports-of-iranian-drone-boats-sea-mines?traffic_source=rss",
+      "published": "Thu, 12 Mar 2026 03:45:14 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "How is feminism being used to justify war in Iran?",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/12/how-is-feminism-being-used-to-justify-war-in-iran?traffic_source=rss",
+      "published": "Thu, 12 Mar 2026 03:43:40 +0000"
     },
     {
       "region": "Свет",
@@ -112,34 +140,6 @@
       "title": "Fire erupts at Gaza camp after Israeli attack hits tents",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/3/12/fire-erupts-at-gaza-camp-after-israeli-attack-hits-tents?traffic_source=rss",
       "published": "Thu, 12 Mar 2026 03:25:41 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Fuel tank fire rages in Bahrain after Iranian attack",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/12/fuel-tank-fire-rages-in-bahrain-after-iranian-attack?traffic_source=rss",
-      "published": "Thu, 12 Mar 2026 03:15:15 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "UN Security Council adopts resolution condemning Iran’s attacks in the Gulf",
-      "link": "https://www.aljazeera.com/news/2026/3/12/un-security-council-adopts-resolution-condemning-irans-attacks-in-the-gulf?traffic_source=rss",
-      "published": "Thu, 12 Mar 2026 02:44:48 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Who bombed the Iranian girls’ school, killing more than 170? What we know",
-      "link": "https://www.aljazeera.com/news/2026/3/12/who-bombed-the-iranian-girls-school-killing-more-than-170-what-we-know?traffic_source=rss",
-      "published": "Thu, 12 Mar 2026 02:21:15 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Israeli strike hits Beirut waterfront near tents of displaced",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/12/israeli-strike-hits-beirut-waterfront-near-tents-of-displaced?traffic_source=rss",
-      "published": "Thu, 12 Mar 2026 01:53:23 +0000"
     }
   ]
 }
