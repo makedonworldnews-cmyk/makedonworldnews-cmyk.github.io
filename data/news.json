@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-12T02:10:27Z",
+  "updatedAt": "2026-03-12T04:22:59Z",
   "groups": [
     {
       "region": "Македонија",
@@ -77,6 +77,12 @@
       "items": [
         {
           "source": "BBC",
+          "title": "Oil hits $100 a barrel despite deal to release record amount of reserves",
+          "link": "https://www.bbc.com/news/articles/c1w5141vx53o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 12 Mar 2026 03:04:24 GMT"
+        },
+        {
+          "source": "BBC",
           "title": "Bowen: Trump has called for an Iran uprising but the lessons from Iraq in 1991 loom large",
           "link": "https://www.bbc.com/news/articles/cn0znx4xrl9o?at_medium=RSS&at_campaign=rss",
           "published": "Wed, 11 Mar 2026 16:45:28 GMT"
@@ -100,40 +106,34 @@
           "published": "Wed, 11 Mar 2026 15:51:11 GMT"
         },
         {
-          "source": "BBC",
-          "title": "'Even under missiles we carry on living' - how young Iranians are coping with war",
-          "link": "https://www.bbc.com/news/articles/c1mj1pyrzryo?at_medium=RSS&at_campaign=rss",
-          "published": "Wed, 11 Mar 2026 16:00:34 GMT"
+          "source": "Al Jazeera",
+          "title": "Five vessels attacked amid reports of Iranian drone boats, sea mines",
+          "link": "https://www.aljazeera.com/news/2026/3/12/five-vessels-attacked-amid-reports-of-iranian-drone-boats-sea-mines?traffic_source=rss",
+          "published": "Thu, 12 Mar 2026 03:45:14 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Israeli strike hits Beirut waterfront near tents of displaced",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/12/israeli-strike-hits-beirut-waterfront-near-tents-of-displaced?traffic_source=rss",
-          "published": "Thu, 12 Mar 2026 01:53:23 +0000"
+          "title": "How is feminism being used to justify war in Iran?",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/12/how-is-feminism-being-used-to-justify-war-in-iran?traffic_source=rss",
+          "published": "Thu, 12 Mar 2026 03:43:40 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Iran’s authorities warn against protests as Israel threatens Basij forces",
-          "link": "https://www.aljazeera.com/news/2026/3/12/irans-authorities-warn-against-protests-as-israel-threatens-basij-forces?traffic_source=rss",
-          "published": "Thu, 12 Mar 2026 01:35:06 +0000"
+          "title": "Fire erupts at Gaza camp after Israeli attack hits tents",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/12/fire-erupts-at-gaza-camp-after-israeli-attack-hits-tents?traffic_source=rss",
+          "published": "Thu, 12 Mar 2026 03:25:41 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Qatar PM urges resilience and unity amid Iran strikes",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/12/qatar-pm-urges-resilience-and-unity-amid-iran-strikes?traffic_source=rss",
-          "published": "Thu, 12 Mar 2026 00:35:43 +0000"
+          "title": "Fuel tank fire rages in Bahrain after Iranian attack",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/12/fuel-tank-fire-rages-in-bahrain-after-iranian-attack?traffic_source=rss",
+          "published": "Thu, 12 Mar 2026 03:15:15 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Eight Arab, Islamic countries condemn Israeli closure of Al-Aqsa Mosque",
-          "link": "https://www.aljazeera.com/news/2026/3/12/eight-arab-islamic-countries-condemn-israeli-closure-of-al-aqsa-mosque?traffic_source=rss",
-          "published": "Thu, 12 Mar 2026 00:04:37 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Iran war live: Oil tankers hit in Iraq, Tehran sets 3 conditions for peace",
-          "link": "https://www.aljazeera.com/news/liveblog/2026/3/12/iran-war-live-oil-tankers-hit-in-iraq-tehran-sets-3-conditions-for-peace?traffic_source=rss",
-          "published": "Thu, 12 Mar 2026 00:00:00 +0000"
+          "title": "UN Security Council adopts resolution condemning Iran’s attacks in the Gulf",
+          "link": "https://www.aljazeera.com/news/2026/3/12/un-security-council-adopts-resolution-condemning-irans-attacks-in-the-gulf?traffic_source=rss",
+          "published": "Thu, 12 Mar 2026 02:44:48 +0000"
         }
       ]
     }
