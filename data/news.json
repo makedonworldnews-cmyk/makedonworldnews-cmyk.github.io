@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-12T22:58:46Z",
+  "updatedAt": "2026-03-12T23:36:26Z",
   "groups": [
     {
       "region": "Македонија",
@@ -107,13 +107,25 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Iran envoy says Tehran will keep Strait of Hormuz open",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/12/iran-envoy-says-tehran-will-keep-strait-of-hormuz-open?traffic_source=rss",
+          "published": "Thu, 12 Mar 2026 23:18:48 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Qatar rejects attempts to ‘drive wedge’ with US over gas pause",
+          "link": "https://www.aljazeera.com/news/2026/3/12/qatar-rejects-attempts-to-drive-wedge-with-us-over-gas-pause?traffic_source=rss",
+          "published": "Thu, 12 Mar 2026 23:17:28 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Ex-rapper Balendra Shah sweeps to power in Nepal landslide election victory",
           "link": "https://www.aljazeera.com/news/2026/3/12/ex-rapper-balendra-shah-sweeps-to-power-in-nepal-landslide-election-victory?traffic_source=rss",
           "published": "Thu, 12 Mar 2026 22:12:46 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "US military announces rescue effort after fueling aircraft crashes in Iraq",
+          "title": "US military announces rescue effort after fuelling aircraft crashes in Iraq",
           "link": "https://www.aljazeera.com/news/2026/3/12/us-military-announces-loss-of-refueling-aircraft-over-western-iraq?traffic_source=rss",
           "published": "Thu, 12 Mar 2026 22:10:05 +0000"
         },
@@ -122,18 +134,6 @@
           "title": "Air attacks target bases of Iran-backed forces in Iraq",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/3/12/air-attacks-target-bases-of-iran-backed-forces-in-iraq?traffic_source=rss",
           "published": "Thu, 12 Mar 2026 22:01:00 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Netanyahu says Israel ‘stronger than ever’ in first speech since Iran war",
-          "link": "https://www.aljazeera.com/news/2026/3/12/netanyahu-says-israel-stronger-than-ever-in-first-speech-since-iran-war?traffic_source=rss",
-          "published": "Thu, 12 Mar 2026 21:32:46 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Fuel shortages bring queues, protests around the world",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/12/fuel-shortages-bring-queues-protests-around-the-world?traffic_source=rss",
-          "published": "Thu, 12 Mar 2026 21:30:54 +0000"
         }
       ]
     }
