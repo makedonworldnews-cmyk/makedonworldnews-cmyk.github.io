@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-11T23:55:03Z",
+  "generated_at": "2026-03-12T01:16:29Z",
   "items": [
     {
       "region": "Македонија",
@@ -81,6 +81,20 @@
     {
       "region": "Свет",
       "source": "BBC",
+      "title": "Epstein used modelling agent to recruit girls, Brazilian women tell BBC",
+      "link": "https://www.bbc.com/news/articles/cr4576v66kno?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 12 Mar 2026 00:05:52 GMT"
+    },
+    {
+      "region": "Свет",
+      "source": "BBC",
+      "title": "China's biggest political meeting is ending - what have we learned?",
+      "link": "https://www.bbc.com/news/articles/cvg80pedxeyo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 11 Mar 2026 23:03:12 GMT"
+    },
+    {
+      "region": "Свет",
+      "source": "BBC",
       "title": "Countries agree to record release of emergency oil reserves as prices surge",
       "link": "https://www.bbc.com/news/articles/cly093xxlzzo?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 11 Mar 2026 15:51:11 GMT"
@@ -94,17 +108,31 @@
     },
     {
       "region": "Свет",
-      "source": "BBC",
-      "title": "China's biggest political meeting is ending - what have we learned?",
-      "link": "https://www.bbc.com/news/articles/cvg80pedxeyo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 11 Mar 2026 23:03:12 GMT"
+      "source": "Al Jazeera",
+      "title": "Qatar PM urges resilience and unity amid Iran strikes",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/12/qatar-pm-urges-resilience-and-unity-amid-iran-strikes?traffic_source=rss",
+      "published": "Thu, 12 Mar 2026 00:35:43 +0000"
     },
     {
       "region": "Свет",
-      "source": "BBC",
-      "title": "EU and UK demand Israel stop surge in West Bank settler violence since Iran war",
-      "link": "https://www.bbc.com/news/articles/c620vwl97vyo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 11 Mar 2026 14:13:52 GMT"
+      "source": "Al Jazeera",
+      "title": "Eight Arab, Islamic countries condemn Israeli closure of Al-Aqsa Mosque",
+      "link": "https://www.aljazeera.com/news/2026/3/12/eight-arab-islamic-countries-condemn-israeli-closure-of-al-aqsa-mosque?traffic_source=rss",
+      "published": "Thu, 12 Mar 2026 00:04:37 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Iran war live: Oil tankers hit in Iraq, Tehran sets 3 conditions for peace",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/3/12/iran-war-live-oil-tankers-hit-in-iraq-tehran-sets-3-conditions-for-peace?traffic_source=rss",
+      "published": "Thu, 12 Mar 2026 00:00:00 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "‘Proud as a Qatari’: Country’s PM salutes resilience amid Iranian attacks",
+      "link": "https://www.aljazeera.com/news/2026/3/11/proud-as-a-qatari-countrys-pm-salutes-resilience-amid-iranian-attacks?traffic_source=rss",
+      "published": "Wed, 11 Mar 2026 23:56:57 +0000"
     },
     {
       "region": "Свет",
@@ -112,34 +140,6 @@
       "title": "Massive fires on two oil tankers after attack in Iraqi waters",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/3/11/massive-fires-on-two-oil-tankers-after-attack-in-iraqi-waters?traffic_source=rss",
       "published": "Wed, 11 Mar 2026 23:19:04 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "New files show British PM warned of ‘reputational risks’ with Mandelson",
-      "link": "https://www.aljazeera.com/news/2026/3/11/new-files-show-british-pm-warned-of-reputational-risks-with-mandelson?traffic_source=rss",
-      "published": "Wed, 11 Mar 2026 23:14:25 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Trump: ‘I don’t know’ about report US at fault in school strike",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/11/trump-i-dont-know-about-report-us-at-fault-in-school-strike?traffic_source=rss",
-      "published": "Wed, 11 Mar 2026 22:38:41 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "South Africa summons new US ambassador over ‘undiplomatic remarks’",
-      "link": "https://www.aljazeera.com/news/2026/3/11/south-africa-summons-new-us-ambassador-over-undiplomatic-remarks?traffic_source=rss",
-      "published": "Wed, 11 Mar 2026 22:33:32 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Iran-linked hackers hit medical giant Stryker in retaliatory cyberattack",
-      "link": "https://www.aljazeera.com/news/2026/3/11/iran-linked-hackers-hit-medical-giant-stryker-in-retaliatory-cyberattack?traffic_source=rss",
-      "published": "Wed, 11 Mar 2026 22:32:40 +0000"
     }
   ]
 }
