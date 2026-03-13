@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-13T16:52:52Z",
+  "updatedAt": "2026-03-13T17:35:46Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,24 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Хегсет вели дека иранските лидери се кријат како стаорци; Лариџани: Нашите лидери се со народот, додека Американците се на „островот Епстин“",
+          "link": "https://makfax.com.mk/svet/hegset-veli-deka-iranskite-lideri-se-krijat-kako-staorczi-laridhani-nashite-lideri-se-so-narodot-dodeka-amerikanczite-se-na-ostrovot-epstin/",
+          "published": "Fri, 13 Mar 2026 17:33:12 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Лукашенко: Земјите што го нападнаа Иран не ги постигнаа своите цели",
+          "link": "https://makfax.com.mk/svet/lukashenko-zemjite-shto-go-napadnaa-iran-ne-gi-postignaa-svoite-czeli/",
+          "published": "Fri, 13 Mar 2026 17:11:04 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Психијатар во Марсеј осуден на 20 години затвор: силувал пациентки",
+          "link": "https://makfax.com.mk/svet/psihijatar-vo-marsej-osuden-na-20-godini-zatvor-siluval-paczientki/",
+          "published": "Fri, 13 Mar 2026 16:53:01 +0000"
         },
         {
           "source": "Makfax",
@@ -23,52 +41,34 @@
           "published": "Fri, 13 Mar 2026 16:11:12 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Трамп: Путин „можеби“ малку му помага на Иран, бидејќи мисли дека ние ѝ помагаме на Украина",
-          "link": "https://makfax.com.mk/svet/tramp-putin-mozhebi-malku-mu-pomaga-na-iran-bidejki-misli-deka-nie-%d1%9d-pomagame-na-ukraina/",
-          "published": "Fri, 13 Mar 2026 16:00:28 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Утре умерено облачно со сончеви периоди: можен краткотраен дожд, температури до 19 степени",
-          "link": "https://makfax.com.mk/makedonija/utre-umereno-oblachno-so-sonchevi-periodi-mozhen-kratkotraen-dozhd-temperaturi-do-19-stepeni/",
-          "published": "Fri, 13 Mar 2026 15:50:00 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Одермат испиша историја во Франција",
-          "link": "https://makfax.com.mk/sport/odermat-ispisha-istorija-vo-franczija/",
-          "published": "Fri, 13 Mar 2026 15:48:59 +0000"
+          "source": "NetPress",
+          "title": "Цените на нафтата се искачија кон 102 долари, САД сигнализираа продолжување на нападите врз Иран",
+          "link": "https://netpress.com.mk/czenite-na-naftata-se-iskachija-kon-102-dolari-sad-signaliziraa-prodolzhuvane-na-napadite-vrz-iran/",
+          "published": "Fri, 13 Mar 2026 17:35:19 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Зеленски: Ублажувањето на санкциите за Русија не помага во завршувањето на војната во Украина",
-          "link": "https://netpress.com.mk/zelenski-ublazhuvaneto-na-sankcziite-za-rusija-ne-pomaga-vo-zavrshuvaneto-na-vojnata-vo-ukraina/",
-          "published": "Fri, 13 Mar 2026 16:47:03 +0000"
+          "title": "Салата во Градски парк официјално преименувана во „Лазар Лечиќ“",
+          "link": "https://netpress.com.mk/salata-vo-gradski-park-oficzijalno-preimenuvana-vo-lazar-lechik/",
+          "published": "Fri, 13 Mar 2026 17:18:08 +0000"
         },
         {
           "source": "NetPress",
-          "title": "САЕ „Тигар“ е повеќе од единица – Семејство на исклучително храбри, пожртвувани и врвно обучени полициски службеници",
-          "link": "https://netpress.com.mk/sae-tigar-e-poveke-od-edinicza-semejstvo-na-iskluchitelno-hrabri-pozhrtvuvani-i-vrvno-obucheni-policziski-sluzhbeniczi/",
-          "published": "Fri, 13 Mar 2026 16:43:26 +0000"
+          "title": "Трамп: САД ќе ги придружуваат бродовите низ Ормутскиот теснец „доколку е потребно“, следи „многу силен удар“",
+          "link": "https://netpress.com.mk/tramp-sad-ke-gi-pridruzhuvaat-brodovite-niz-ormutskiot-tesnecz-dokolku-e-potrebno-sledi-mnogu-silen-udar/",
+          "published": "Fri, 13 Mar 2026 17:13:51 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Мерц смета дека е погрешно ублажувањето на санкциите кон Русија",
-          "link": "https://netpress.com.mk/mercz-smeta-deka-e-pogreshno-ublazhuvaneto-na-sankcziite-kon-rusija/",
-          "published": "Fri, 13 Mar 2026 16:23:50 +0000"
+          "title": "САД во јануари забелажаа најголем трговски дефицит со Виетнам",
+          "link": "https://netpress.com.mk/sad-vo-januari-zabelazhaa-najgolem-trgovski-deficzit-so-vietnam/",
+          "published": "Fri, 13 Mar 2026 17:03:59 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Лицата со попреченост ќе го остваруваат правото на ослободување од партиципација преку системот „Мое осигурување“",
-          "link": "https://netpress.com.mk/liczata-so-poprechenost-ke-go-ostvaruvaat-pravoto-na-osloboduvane-od-particzipaczija-preku-sistemot-moe-osiguruvane/",
-          "published": "Fri, 13 Mar 2026 16:20:00 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Венецуела потпиша договор за производство на гас со шпанска компанија",
-          "link": "https://netpress.com.mk/veneczuela-potpisha-dogovor-za-proizvodstvo-na-gas-so-shpanska-kompanija/",
-          "published": "Fri, 13 Mar 2026 16:12:39 +0000"
+          "title": "РК Вардар ќе потпише со српскиот ракометар Марко Тасиќ",
+          "link": "https://netpress.com.mk/rk-vardar-ke-potpishe-so-srpskiot-rakometar-marko-tasik/",
+          "published": "Fri, 13 Mar 2026 16:54:26 +0000"
         }
       ]
     },
@@ -89,9 +89,15 @@
         },
         {
           "source": "BBC",
+          "title": "Sheriff in Nancy Guthrie case believes they know kidnapper's motive",
+          "link": "https://www.bbc.com/news/articles/cx2lzlydg93o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 13 Mar 2026 16:38:09 GMT"
+        },
+        {
+          "source": "BBC",
           "title": "Michigan synagogue attack was 'hate, plain and simple', says governor",
           "link": "https://www.bbc.com/news/articles/cdxz0jpzk4do?at_medium=RSS&at_campaign=rss",
-          "published": "Fri, 13 Mar 2026 14:56:03 GMT"
+          "published": "Fri, 13 Mar 2026 16:57:30 GMT"
         },
         {
           "source": "BBC",
@@ -100,10 +106,22 @@
           "published": "Fri, 13 Mar 2026 14:17:06 GMT"
         },
         {
-          "source": "BBC",
-          "title": "'No-one will hire women' - India's top court rejects menstrual leave petition",
-          "link": "https://www.bbc.com/news/articles/c0436qkegdqo?at_medium=RSS&at_campaign=rss",
-          "published": "Fri, 13 Mar 2026 11:47:09 GMT"
+          "source": "Al Jazeera",
+          "title": "Success uncertain, but Israelis continue to back ‘heroic’ war with Iran",
+          "link": "https://www.aljazeera.com/news/2026/3/13/success-uncertain-but-israelis-continue-to-back-heroic-war-with-iran?traffic_source=rss",
+          "published": "Fri, 13 Mar 2026 17:14:04 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Ukraine, EU allies slam US decision to roll back Russia oil sanctions",
+          "link": "https://www.aljazeera.com/news/2026/3/13/ukraine-eu-allies-slam-us-decision-to-roll-back-russia-oil-sanctions?traffic_source=rss",
+          "published": "Fri, 13 Mar 2026 17:05:57 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Ukraine finds new role as protector of US, Gulf allies amid Iran war",
+          "link": "https://www.aljazeera.com/news/2026/3/13/ukraine-finds-new-role-as-protector-of-the-us-and-its-allies-in-gulf-war?traffic_source=rss",
+          "published": "Fri, 13 Mar 2026 17:03:22 +0000"
         },
         {
           "source": "Al Jazeera",
@@ -116,24 +134,6 @@
           "title": "Thousands march worldwide in solidarity with Palestine, Iran on al-Quds Day",
           "link": "https://www.aljazeera.com/gallery/2026/3/13/thousands-march-worldwide-in-solidarity-with-palestine-iran-on-al-quds-day?traffic_source=rss",
           "published": "Fri, 13 Mar 2026 15:26:20 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Air attack hits as Iran’s chief justice gives lives interview at rally",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/13/air-attack-hits-as-irans-chief-justice-gives-lives-interview-at-rally?traffic_source=rss",
-          "published": "Fri, 13 Mar 2026 15:25:52 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "A president suing himself? Why experts say Trump’s $10bn lawsuit might fail",
-          "link": "https://www.aljazeera.com/news/longform/2026/3/13/a-president-suing-himself-why-experts-say-trumps-10bn-lawsuit-might-fail?traffic_source=rss",
-          "published": "Fri, 13 Mar 2026 15:16:52 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "US’s Hegseth claims new Iran Supreme Leader Mojtaba Khamenei injured",
-          "link": "https://www.aljazeera.com/news/2026/3/13/us-hegseth-claims-irans-new-supreme-leader-mojtaba-khamenei-injured?traffic_source=rss",
-          "published": "Fri, 13 Mar 2026 14:35:22 +0000"
         }
       ]
     }
