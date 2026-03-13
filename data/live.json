@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-13T22:50:05Z",
+  "generated_at": "2026-03-13T23:15:10Z",
   "items": [
     {
       "region": "Македонија",
@@ -109,6 +109,13 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "US judge nixes two subpoenas against Federal Reserve chair Jerome Powell",
+      "link": "https://www.aljazeera.com/news/2026/3/13/us-judge-nixes-two-subpoenas-against-federal-reserve-chair-jerome-powell?traffic_source=rss",
+      "published": "Fri, 13 Mar 2026 22:52:35 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "Worshippers pray outside Al-Aqsa amid closure on al-Quds Day",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/3/13/worshippers-pray-outside-al-aqsa-amid-closure-on-al-quds-day?traffic_source=rss",
       "published": "Fri, 13 Mar 2026 21:53:58 +0000"
@@ -133,13 +140,6 @@
       "title": "Iranian missile strike in central Israel sets building ablaze",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/3/13/iranian-missile-strike-in-central-israel-sets-building-ablaze?traffic_source=rss",
       "published": "Fri, 13 Mar 2026 20:04:14 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Qatar’s interior minister says security situation ‘stable’ amid Iran war",
-      "link": "https://www.aljazeera.com/news/2026/3/13/qatars-interior-minister-says-security-situation-stable-amid-iran-war?traffic_source=rss",
-      "published": "Fri, 13 Mar 2026 19:18:20 +0000"
     }
   ]
 }
