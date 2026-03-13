@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-13T01:44:43Z",
+  "generated_at": "2026-03-13T03:58:01Z",
   "items": [
     {
       "region": "Македонија",
@@ -109,6 +109,27 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "Israel drops abuse charges against soldiers",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/13/israel-drops-abuse-charges-against-soldiers?traffic_source=rss",
+      "published": "Fri, 13 Mar 2026 03:39:35 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Iranian missile strikes residential area in northern Israel",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/13/iranian-missile-strikes-residential-area-in-northern-israel?traffic_source=rss",
+      "published": "Fri, 13 Mar 2026 01:55:30 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Thousands rally in Athens protesting US-Israeli attacks on Iran",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/13/thousands-rally-in-athens-protesting-us-israeli-attacks-on-iran?traffic_source=rss",
+      "published": "Fri, 13 Mar 2026 01:51:24 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "Netanyahu says Israeli strikes killed Iranian nuclear scientists",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/3/13/netanyahu-says-israeli-strikes-killed-iranian-nuclear-scientists?traffic_source=rss",
       "published": "Fri, 13 Mar 2026 00:25:46 +0000"
@@ -119,27 +140,6 @@
       "title": "Michigan synagogue ramming an ‘act of targeted violence’: FBI",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/3/13/michigan-synagogue-ramming-an-act-of-targeted-violence-fbi?traffic_source=rss",
       "published": "Fri, 13 Mar 2026 00:06:16 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Iran war live: Trump says war going ‘well’ as Gulf under wave of attacks",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/3/13/iran-war-live-trump-says-war-going-well-as-gulf-under-wave-of-attacks?traffic_source=rss",
-      "published": "Fri, 13 Mar 2026 00:00:00 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "UN fact-finding mission warns of continued human rights abuses in Venezuela",
-      "link": "https://www.aljazeera.com/news/2026/3/12/un-fact-finding-mission-warns-of-continued-human-rights-abuses-in-venezuela?traffic_source=rss",
-      "published": "Thu, 12 Mar 2026 23:51:28 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Iran envoy says Tehran will keep Strait of Hormuz open",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/12/iran-envoy-says-tehran-will-keep-strait-of-hormuz-open?traffic_source=rss",
-      "published": "Thu, 12 Mar 2026 23:18:48 +0000"
     }
   ]
 }
