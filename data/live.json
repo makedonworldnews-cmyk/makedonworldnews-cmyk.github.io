@@ -1,6 +1,13 @@
 {
-  "generated_at": "2026-03-13T19:42:42Z",
+  "generated_at": "2026-03-13T20:02:51Z",
   "items": [
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "Ердоган: Турција нема да биде вовлечена во војна со Иран по инцидентот со ракетата",
+      "link": "https://makfax.com.mk/svet/erdogan-turczija-nema-da-bide-vovlechena-vo-vojna-so-iran-po-inczidentot-so-raketata/",
+      "published": "Fri, 13 Mar 2026 19:54:02 +0000"
+    },
     {
       "region": "Македонија",
       "source": "Makfax",
@@ -28,13 +35,6 @@
       "title": "Вучиќ: Србија ќе купи повеќе оружје и ракети",
       "link": "https://makfax.com.mk/svet/region/vuchik-srbija-ke-kupi-poveke-oruzhje-i-raketi/",
       "published": "Fri, 13 Mar 2026 18:17:31 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "Makfax",
-      "title": "(Видео) Агенцијата за филм во чест на починатиот Кирил Поп Христов – Кили: Неговото дело ќе продолжи да живее преку филмовите и улогите што ги создаде",
-      "link": "https://makfax.com.mk/makedonija/video-agenczijata-za-film-vo-chest-na-pochinatiot-kiril-pop-hristov-kili-negovoto-delo-ke-prodolzhi-da-zhivee-preku-filmovite-i-ulogite-shto-gi-sozdade/",
-      "published": "Fri, 13 Mar 2026 17:45:26 +0000"
     },
     {
       "region": "Македонија",
@@ -109,6 +109,13 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "Qatar’s interior minister says security situation ‘stable’ amid Iran war",
+      "link": "https://www.aljazeera.com/news/2026/3/13/qatars-interior-minister-says-security-situation-stable-amid-iran-war?traffic_source=rss",
+      "published": "Fri, 13 Mar 2026 19:18:20 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "Bolivian authorities capture drug kingpin Sebastian Marset in police raid",
       "link": "https://www.aljazeera.com/news/2026/3/13/bolivian-authorities-capture-drug-kingpin-sebastian-marset-in-police-raid?traffic_source=rss",
       "published": "Fri, 13 Mar 2026 18:52:46 +0000"
@@ -133,13 +140,6 @@
       "title": "Bahrain and Saudi F1 races set to be cancelled due to Middle East conflict",
       "link": "https://www.aljazeera.com/sports/2026/3/13/bahrain-and-saudi-f1-races-set-to-be-cancelled-due-to-middle-east-conflict?traffic_source=rss",
       "published": "Fri, 13 Mar 2026 18:06:34 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Israel destroys bridge in Lebanon and threatens Gaza-scale devastation",
-      "link": "https://www.aljazeera.com/news/2026/3/13/israel-destroys-bridge-in-lebanon-and-threatens-gaza-scale-devastation?traffic_source=rss",
-      "published": "Fri, 13 Mar 2026 17:54:21 +0000"
     }
   ]
 }
