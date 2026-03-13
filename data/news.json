@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-13T17:35:46Z",
+  "updatedAt": "2026-03-13T18:03:26Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) Агенцијата за филм во чест на починатиот Кирил Поп Христов – Кили: Неговото дело ќе продолжи да живее преку филмовите и улогите што ги создаде",
+          "link": "https://makfax.com.mk/makedonija/video-agenczijata-za-film-vo-chest-na-pochinatiot-kiril-pop-hristov-kili-negovoto-delo-ke-prodolzhi-da-zhivee-preku-filmovite-i-ulogite-shto-gi-sozdade/",
+          "published": "Fri, 13 Mar 2026 17:45:26 +0000"
         },
         {
           "source": "Makfax",
@@ -35,10 +41,10 @@
           "published": "Fri, 13 Mar 2026 16:27:17 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "„Танц фест“ во Битола",
-          "link": "https://makfax.com.mk/kultura/tancz-fest-vo-bitola/",
-          "published": "Fri, 13 Mar 2026 16:11:12 +0000"
+          "source": "NetPress",
+          "title": "Јаневска: Законот за високо образование за краток период ќе биде пуштен во владина постапка",
+          "link": "https://netpress.com.mk/janevska-zakonot-za-visoko-obrazovanie-za-kratok-period-ke-bide-pushten-vo-vladina-postapka/",
+          "published": "Fri, 13 Mar 2026 17:41:03 +0000"
         },
         {
           "source": "NetPress",
@@ -63,12 +69,6 @@
           "title": "САД во јануари забелажаа најголем трговски дефицит со Виетнам",
           "link": "https://netpress.com.mk/sad-vo-januari-zabelazhaa-najgolem-trgovski-deficzit-so-vietnam/",
           "published": "Fri, 13 Mar 2026 17:03:59 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "РК Вардар ќе потпише со српскиот ракометар Марко Тасиќ",
-          "link": "https://netpress.com.mk/rk-vardar-ke-potpishe-so-srpskiot-rakometar-marko-tasik/",
-          "published": "Fri, 13 Mar 2026 16:54:26 +0000"
         }
       ]
     },
@@ -107,6 +107,12 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Lebanese father buries four daughters killed in Israeli strike",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/13/lebanese-father-buries-four-daughters-killed-in-israeli-strike?traffic_source=rss",
+          "published": "Fri, 13 Mar 2026 17:28:17 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Success uncertain, but Israelis continue to back ‘heroic’ war with Iran",
           "link": "https://www.aljazeera.com/news/2026/3/13/success-uncertain-but-israelis-continue-to-back-heroic-war-with-iran?traffic_source=rss",
           "published": "Fri, 13 Mar 2026 17:14:04 +0000"
@@ -128,12 +134,6 @@
           "title": "Who wins and loses in the global energy crisis?",
           "link": "https://www.aljazeera.com/video/counting-the-cost/2026/3/13/who-wins-and-loses-in-the-global-energy-crisis?traffic_source=rss",
           "published": "Fri, 13 Mar 2026 16:10:18 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Thousands march worldwide in solidarity with Palestine, Iran on al-Quds Day",
-          "link": "https://www.aljazeera.com/gallery/2026/3/13/thousands-march-worldwide-in-solidarity-with-palestine-iran-on-al-quds-day?traffic_source=rss",
-          "published": "Fri, 13 Mar 2026 15:26:20 +0000"
         }
       ]
     }
