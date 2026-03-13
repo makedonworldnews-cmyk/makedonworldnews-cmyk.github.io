@@ -1,6 +1,20 @@
 {
-  "generated_at": "2026-03-13T20:50:39Z",
+  "generated_at": "2026-03-13T21:26:31Z",
   "items": [
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "Сијарто: Унгарија нема да купува поскапа нафта по наредба на Украина",
+      "link": "https://makfax.com.mk/svet/sijarto-ungarija-nema-da-kupuva-poskapa-nafta-po-naredba-na-ukraina/",
+      "published": "Fri, 13 Mar 2026 21:06:12 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "Француски професор: Ако Европа не се зајакне, ќе стане овца во свет на волци",
+      "link": "https://makfax.com.mk/svet/franczuski-profesor-ako-evropa-ne-se-zajakne-ke-stane-ovcza-vo-svet-na-volczi/",
+      "published": "Fri, 13 Mar 2026 20:58:06 +0000"
+    },
     {
       "region": "Македонија",
       "source": "Makfax",
@@ -24,17 +38,10 @@
     },
     {
       "region": "Македонија",
-      "source": "Makfax",
-      "title": "(Видео) Иран го нападна Израел со балистички ракети; САД: Ги бараме овие луѓе, нудиме милиони",
-      "link": "https://makfax.com.mk/svet/video-iran-go-napadna-izrael-so-balistichki-raketi-sad-gi-barame-ovie-luge-nudime-milioni/",
-      "published": "Fri, 13 Mar 2026 19:25:30 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "Makfax",
-      "title": "Трамп: Иранците во САД под надзор поради страв од тероризам, можност за „скриени ќелии“",
-      "link": "https://makfax.com.mk/svet/tramp-iranczite-vo-sad-pod-nadzor-poradi-strav-od-terorizam-mozhnost-za-skrieni-kelii/",
-      "published": "Fri, 13 Mar 2026 18:46:28 +0000"
+      "source": "NetPress",
+      "title": "ВИДЕО| Иран објави дека нападнал израелски и американски командни центри",
+      "link": "https://netpress.com.mk/video-iran-objavi-deka-napadnal-izraelski-i-amerikanski-komandni-czentri/",
+      "published": "Fri, 13 Mar 2026 21:04:19 +0000"
     },
     {
       "region": "Македонија",
@@ -63,13 +70,6 @@
       "title": "Кина му оддаде почит на 109-годишниот ветеран на Комунистичката партија",
       "link": "https://netpress.com.mk/kina-mu-oddade-pochit-na-109-godishniot-veteran-na-komunistichkata-partija/",
       "published": "Fri, 13 Mar 2026 19:25:13 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Усогласување на минимална плата ќе се изврши преку социјален дијалог помеѓу синдикатите и работодавачите",
-      "link": "https://netpress.com.mk/usoglasuvane-na-minimalna-plata-ke-se-izvrshi-preku-soczijalen-dijalog-pomegu-sindikatite-i-rabotodavachite/",
-      "published": "Fri, 13 Mar 2026 19:10:29 +0000"
     },
     {
       "region": "Свет",
@@ -109,6 +109,13 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "Drone attack on market in Sudan kills 11, as air war civilian toll mounts",
+      "link": "https://www.aljazeera.com/news/2026/3/13/drone-attack-on-market-in-sudan-kills-11-as-air-war-civilian-toll-mounts?traffic_source=rss",
+      "published": "Fri, 13 Mar 2026 20:50:49 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "Israel’s military campaign in Lebanon reaches devastating new phase",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/3/13/israels-military-campaign-in-lebanon-reaches-devastating-new-phase?traffic_source=rss",
       "published": "Fri, 13 Mar 2026 20:10:43 +0000"
@@ -133,13 +140,6 @@
       "title": "Bolivian authorities capture drug kingpin Sebastian Marset in police raid",
       "link": "https://www.aljazeera.com/news/2026/3/13/bolivian-authorities-capture-drug-kingpin-sebastian-marset-in-police-raid?traffic_source=rss",
       "published": "Fri, 13 Mar 2026 18:52:46 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "What is Israel’s endgame in Lebanon?",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/3/13/what-is-israels-endgame-in-lebanon?traffic_source=rss",
-      "published": "Fri, 13 Mar 2026 18:21:25 +0000"
     }
   ]
 }
