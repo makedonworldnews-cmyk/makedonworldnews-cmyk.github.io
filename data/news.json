@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-13T18:03:26Z",
+  "updatedAt": "2026-03-13T18:59:03Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,24 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Трамп: Иранците во САД под надзор поради страв од тероризам, можност за „скриени ќелии“",
+          "link": "https://makfax.com.mk/svet/tramp-iranczite-vo-sad-pod-nadzor-poradi-strav-od-terorizam-mozhnost-za-skrieni-kelii/",
+          "published": "Fri, 13 Mar 2026 18:46:28 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Свечено менување на државното знаме во претседателскиот Кабинет",
+          "link": "https://makfax.com.mk/makedonija/svecheno-menuvane-na-drzhavnoto-zname-vo-pretsedatelskiot-kabinet/",
+          "published": "Fri, 13 Mar 2026 18:38:00 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Вучиќ: Србија ќе купи повеќе оружје и ракети",
+          "link": "https://makfax.com.mk/svet/region/vuchik-srbija-ke-kupi-poveke-oruzhje-i-raketi/",
+          "published": "Fri, 13 Mar 2026 18:17:31 +0000"
         },
         {
           "source": "Makfax",
@@ -23,22 +41,16 @@
           "published": "Fri, 13 Mar 2026 17:33:12 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Лукашенко: Земјите што го нападнаа Иран не ги постигнаа своите цели",
-          "link": "https://makfax.com.mk/svet/lukashenko-zemjite-shto-go-napadnaa-iran-ne-gi-postignaa-svoite-czeli/",
-          "published": "Fri, 13 Mar 2026 17:11:04 +0000"
+          "source": "NetPress",
+          "title": "Макрон по загинувањето на францускиот војник во Ирак: Франција не е во војна со Иран",
+          "link": "https://netpress.com.mk/makron-po-zaginuvaneto-na-franczuskiot-vojnik-vo-irak-franczija-ne-e-vo-vojna-so-iran/",
+          "published": "Fri, 13 Mar 2026 18:39:00 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Психијатар во Марсеј осуден на 20 години затвор: силувал пациентки",
-          "link": "https://makfax.com.mk/svet/psihijatar-vo-marsej-osuden-na-20-godini-zatvor-siluval-paczientki/",
-          "published": "Fri, 13 Mar 2026 16:53:01 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Пленковиќ за новото оружје на српската армија: Нешто вакво никогаш не е видено во Европа",
-          "link": "https://makfax.com.mk/svet/region/plenkovik-za-novoto-oruzhje-na-srpskata-armija-neshto-vakvo-nikogash-ne-e-videno-vo-evropa/",
-          "published": "Fri, 13 Mar 2026 16:27:17 +0000"
+          "source": "NetPress",
+          "title": "Во подготовка итни законски измени за подобрување на системот за спречување и заштита од насилство врз жените и семејното насилство",
+          "link": "https://netpress.com.mk/vo-podgotovka-itni-zakonski-izmeni-za-podobruvane-na-sistemot-za-sprechuvane-i-zashtita-od-nasilstvo-vrz-zhenite-i-semejnoto-nasilstvo/",
+          "published": "Fri, 13 Mar 2026 18:20:43 +0000"
         },
         {
           "source": "NetPress",
@@ -57,18 +69,6 @@
           "title": "Салата во Градски парк официјално преименувана во „Лазар Лечиќ“",
           "link": "https://netpress.com.mk/salata-vo-gradski-park-oficzijalno-preimenuvana-vo-lazar-lechik/",
           "published": "Fri, 13 Mar 2026 17:18:08 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Трамп: САД ќе ги придружуваат бродовите низ Ормутскиот теснец „доколку е потребно“, следи „многу силен удар“",
-          "link": "https://netpress.com.mk/tramp-sad-ke-gi-pridruzhuvaat-brodovite-niz-ormutskiot-tesnecz-dokolku-e-potrebno-sledi-mnogu-silen-udar/",
-          "published": "Fri, 13 Mar 2026 17:13:51 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "САД во јануари забелажаа најголем трговски дефицит со Виетнам",
-          "link": "https://netpress.com.mk/sad-vo-januari-zabelazhaa-najgolem-trgovski-deficzit-so-vietnam/",
-          "published": "Fri, 13 Mar 2026 17:03:59 +0000"
         }
       ]
     },
@@ -107,33 +107,33 @@
         },
         {
           "source": "Al Jazeera",
-          "title": "Lebanese father buries four daughters killed in Israeli strike",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/13/lebanese-father-buries-four-daughters-killed-in-israeli-strike?traffic_source=rss",
-          "published": "Fri, 13 Mar 2026 17:28:17 +0000"
+          "title": "What is Israel’s endgame in Lebanon?",
+          "link": "https://www.aljazeera.com/video/inside-story/2026/3/13/what-is-israels-endgame-in-lebanon?traffic_source=rss",
+          "published": "Fri, 13 Mar 2026 18:21:25 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Success uncertain, but Israelis continue to back ‘heroic’ war with Iran",
-          "link": "https://www.aljazeera.com/news/2026/3/13/success-uncertain-but-israelis-continue-to-back-heroic-war-with-iran?traffic_source=rss",
-          "published": "Fri, 13 Mar 2026 17:14:04 +0000"
+          "title": "Brazil pulls visa of Trump adviser who asked to visit Bolsonaro in prison",
+          "link": "https://www.aljazeera.com/news/2026/3/13/brazil-pulls-visa-of-trump-adviser-who-asked-to-visit-bolsonaro-in-prison?traffic_source=rss",
+          "published": "Fri, 13 Mar 2026 18:10:41 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Ukraine, EU allies slam US decision to roll back Russia oil sanctions",
-          "link": "https://www.aljazeera.com/news/2026/3/13/ukraine-eu-allies-slam-us-decision-to-roll-back-russia-oil-sanctions?traffic_source=rss",
-          "published": "Fri, 13 Mar 2026 17:05:57 +0000"
+          "title": "Bahrain and Saudi F1 races set to be cancelled due to Middle East conflict",
+          "link": "https://www.aljazeera.com/sports/2026/3/13/bahrain-and-saudi-f1-races-set-to-be-cancelled-due-to-middle-east-conflict?traffic_source=rss",
+          "published": "Fri, 13 Mar 2026 18:06:34 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Ukraine finds new role as protector of US, Gulf allies amid Iran war",
-          "link": "https://www.aljazeera.com/news/2026/3/13/ukraine-finds-new-role-as-protector-of-the-us-and-its-allies-in-gulf-war?traffic_source=rss",
-          "published": "Fri, 13 Mar 2026 17:03:22 +0000"
+          "title": "Israel destroys bridge in Lebanon and threatens Gaza-scale devastation",
+          "link": "https://www.aljazeera.com/news/2026/3/13/israel-destroys-bridge-in-lebanon-and-threatens-gaza-scale-devastation?traffic_source=rss",
+          "published": "Fri, 13 Mar 2026 17:54:21 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Who wins and loses in the global energy crisis?",
-          "link": "https://www.aljazeera.com/video/counting-the-cost/2026/3/13/who-wins-and-loses-in-the-global-energy-crisis?traffic_source=rss",
-          "published": "Fri, 13 Mar 2026 16:10:18 +0000"
+          "title": "What rats do’: US says Iranian leaders hiding as leaders appear in Tehran",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/13/what-rats-do-us-says-iranian-leaders-hiding-as-leaders-appear-in-tehran?traffic_source=rss",
+          "published": "Fri, 13 Mar 2026 17:50:17 +0000"
         }
       ]
     }
