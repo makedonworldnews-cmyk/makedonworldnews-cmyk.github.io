@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-13T21:59:50Z",
+  "updatedAt": "2026-03-13T22:37:50Z",
   "groups": [
     {
       "region": "Македонија",
@@ -42,6 +42,18 @@
         },
         {
           "source": "NetPress",
+          "title": "Ла Лига: Алавес – Виљареал 1:1, гостите израмнија во осмата минута од судиското продолжение",
+          "link": "https://netpress.com.mk/la-liga-alaves-vilareal-11-gostite-izramnija-vo-osmata-minuta-od-sudiskoto-prodolzhenie/",
+          "published": "Fri, 13 Mar 2026 22:31:57 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Зеленски: САД бараа одложување на преговорите за завршување на војната во Украина",
+          "link": "https://netpress.com.mk/zelenski-sad-baraa-odlozhuvane-na-pregovorite-za-zavrshuvane-na-vojnata-vo-ukraina/",
+          "published": "Fri, 13 Mar 2026 22:08:46 +0000"
+        },
+        {
+          "source": "NetPress",
           "title": "ВИДЕО| Играч куртули откако кошот се урна врз него",
           "link": "https://netpress.com.mk/video-igrach-kurtuli-otkako-koshot-se-urna-vrz-nego/",
           "published": "Fri, 13 Mar 2026 21:45:55 +0000"
@@ -57,18 +69,6 @@
           "title": "ВИДЕО| Иран објави дека нападнал израелски и американски командни центри",
           "link": "https://netpress.com.mk/video-iran-objavi-deka-napadnal-izraelski-i-amerikanski-komandni-czentri/",
           "published": "Fri, 13 Mar 2026 21:04:19 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Трамп: Русија можеби „малку“ му помага на Иран",
-          "link": "https://netpress.com.mk/tramp-rusija-mozhebi-malku-mu-pomaga-na-iran/",
-          "published": "Fri, 13 Mar 2026 20:18:16 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Функциите претставуваат одговорност и патриотизам, се случуваат кадровски освежувања",
-          "link": "https://netpress.com.mk/funkcziite-pretstavuvaat-odgovornost-i-patriotizam-se-sluchuvaat-kadrovski-osvezhuvana/",
-          "published": "Fri, 13 Mar 2026 20:07:58 +0000"
         }
       ]
     },
@@ -89,9 +89,9 @@
         },
         {
           "source": "BBC",
-          "title": "Sheriff in Nancy Guthrie case believes they know kidnapper's motive",
-          "link": "https://www.bbc.com/news/articles/cx2lzlydg93o?at_medium=RSS&at_campaign=rss",
-          "published": "Fri, 13 Mar 2026 16:38:09 GMT"
+          "title": "Under drone fire, exiled Kurds wait to confront Iranian regime",
+          "link": "https://www.bbc.com/news/articles/c79505804lpo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 13 Mar 2026 22:02:39 GMT"
         },
         {
           "source": "BBC",
@@ -101,9 +101,15 @@
         },
         {
           "source": "BBC",
-          "title": "Cuba says it will release 51 prisoners in the coming days",
-          "link": "https://www.bbc.com/news/articles/cwy8zv9gp0go?at_medium=RSS&at_campaign=rss",
-          "published": "Fri, 13 Mar 2026 14:17:06 GMT"
+          "title": "Pink Floyd guitar sold for record-breaking $14.6m",
+          "link": "https://www.bbc.com/news/articles/cr45v7ey91eo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 13 Mar 2026 21:50:22 GMT"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Worshippers pray outside Al-Aqsa amid closure on al-Quds Day",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/13/worshippers-pray-outside-al-aqsa-amid-closure-on-al-quds-day?traffic_source=rss",
+          "published": "Fri, 13 Mar 2026 21:53:58 +0000"
         },
         {
           "source": "Al Jazeera",
@@ -128,12 +134,6 @@
           "title": "Qatar’s interior minister says security situation ‘stable’ amid Iran war",
           "link": "https://www.aljazeera.com/news/2026/3/13/qatars-interior-minister-says-security-situation-stable-amid-iran-war?traffic_source=rss",
           "published": "Fri, 13 Mar 2026 19:18:20 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Bolivian authorities capture drug kingpin Sebastian Marset in police raid",
-          "link": "https://www.aljazeera.com/news/2026/3/13/bolivian-authorities-capture-drug-kingpin-sebastian-marset-in-police-raid?traffic_source=rss",
-          "published": "Fri, 13 Mar 2026 18:52:46 +0000"
         }
       ]
     }
