@@ -1,6 +1,27 @@
 {
-  "generated_at": "2026-03-13T03:58:01Z",
+  "generated_at": "2026-03-13T05:12:57Z",
   "items": [
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "Без вода денеска дел од Центар",
+      "link": "https://makfax.com.mk/makedonija/bez-voda-deneska-del-od-czentar-2/",
+      "published": "Fri, 13 Mar 2026 05:09:53 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "Дел од Кисела Вода денеска без струја",
+      "link": "https://makfax.com.mk/makedonija/del-od-kisela-voda-deneska-bez-struja/",
+      "published": "Fri, 13 Mar 2026 05:05:02 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "Сончево со мала до умерена локална облачност, температурата до 20 степени",
+      "link": "https://makfax.com.mk/makedonija/sonchevo-so-mala-do-umerena-lokalna-oblachnost-temperaturata-do-20-stepeni/",
+      "published": "Fri, 13 Mar 2026 05:03:18 +0000"
+    },
     {
       "region": "Македонија",
       "source": "Makfax",
@@ -14,27 +35,6 @@
       "title": "Нетанјаху: Ги убивме врвните ирански нуклеарни научници",
       "link": "https://makfax.com.mk/svet/netanjahu-gi-ubivme-vrvnite-iranski-nuklearni-nauchniczi/",
       "published": "Thu, 12 Mar 2026 20:51:45 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "Makfax",
-      "title": "Го исклучив Роналдо, потоа никогаш не бев делегиран да му судам на Реал",
-      "link": "https://makfax.com.mk/sport/go-iskluchiv-ronaldo-potoa-nikogash-ne-bev-delegiran-da-mu-sudam-na-real/",
-      "published": "Thu, 12 Mar 2026 20:35:01 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "Makfax",
-      "title": "Пронајдена неексплодирана граната во тело на војник вратен од Русија",
-      "link": "https://makfax.com.mk/svet/pronajdena-neeksplodirana-granata-vo-telo-na-vojnik-vraten-od-rusija/",
-      "published": "Thu, 12 Mar 2026 20:18:22 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "Makfax",
-      "title": "(Видео) Вила победи во Лил, без победник во италијанското дерби, Порто славеше во Штутгарт",
-      "link": "https://makfax.com.mk/sport/video-vila-pobedi-vo-lil-bez-pobednik-vo-italijanskoto-derbi-porto-slaveshe-vo-shtutgart/",
-      "published": "Thu, 12 Mar 2026 20:08:31 +0000"
     },
     {
       "region": "Македонија",
@@ -109,6 +109,20 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "The Palestinians forced to demolish their own homes by Israel",
+      "link": "https://www.aljazeera.com/features/2026/3/13/the-palestinians-forced-to-demolish-their-own-homes-by-israel?traffic_source=rss",
+      "published": "Fri, 13 Mar 2026 04:49:07 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Oil stays above $100 a barrel amid Iran’s stranglehold on Strait of Hormuz",
+      "link": "https://www.aljazeera.com/economy/2026/3/13/oil-stays-above-100-a-barrel-amid-irans-stranglehold-on-strait-of-hormuz?traffic_source=rss",
+      "published": "Fri, 13 Mar 2026 03:58:19 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "Israel drops abuse charges against soldiers",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/3/13/israel-drops-abuse-charges-against-soldiers?traffic_source=rss",
       "published": "Fri, 13 Mar 2026 03:39:35 +0000"
@@ -126,20 +140,6 @@
       "title": "Thousands rally in Athens protesting US-Israeli attacks on Iran",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/3/13/thousands-rally-in-athens-protesting-us-israeli-attacks-on-iran?traffic_source=rss",
       "published": "Fri, 13 Mar 2026 01:51:24 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Netanyahu says Israeli strikes killed Iranian nuclear scientists",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/13/netanyahu-says-israeli-strikes-killed-iranian-nuclear-scientists?traffic_source=rss",
-      "published": "Fri, 13 Mar 2026 00:25:46 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Michigan synagogue ramming an ‘act of targeted violence’: FBI",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/13/michigan-synagogue-ramming-an-act-of-targeted-violence-fbi?traffic_source=rss",
-      "published": "Fri, 13 Mar 2026 00:06:16 +0000"
     }
   ]
 }
