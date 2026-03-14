@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-14T21:37:33Z",
+  "generated_at": "2026-03-14T21:55:00Z",
   "items": [
     {
       "region": "Македонија",
@@ -88,13 +88,6 @@
     {
       "region": "Свет",
       "source": "BBC",
-      "title": "More US Marines and warships being moved to Middle East, reports say",
-      "link": "https://www.bbc.com/news/articles/cq8gj9n12g8o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 14 Mar 2026 13:27:32 GMT"
-    },
-    {
-      "region": "Свет",
-      "source": "BBC",
       "title": "Treasure hunter freed from prison after refusing to turn over shipwreck gold",
       "link": "https://www.bbc.com/news/articles/cg4g7kn99q3o?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 14 Mar 2026 17:51:28 GMT"
@@ -102,9 +95,23 @@
     {
       "region": "Свет",
       "source": "BBC",
+      "title": "Russia exploiting Iran war, Zelensky says after fresh bombardment",
+      "link": "https://www.bbc.com/news/articles/c0mger2zkmwo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 14 Mar 2026 21:50:22 GMT"
+    },
+    {
+      "region": "Свет",
+      "source": "BBC",
       "title": "Cuban protesters ransack Communist office as energy crisis deepens",
       "link": "https://www.bbc.com/news/articles/c875zd7de5xo?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 14 Mar 2026 17:57:49 GMT"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "US-Israeli strike kills 15 at Isfahan factory, Iranian media says",
+      "link": "https://www.aljazeera.com/news/2026/3/14/us-israeli-strike-kills-15-at-isfahan-factory-iranian-media-says?traffic_source=rss",
+      "published": "Sat, 14 Mar 2026 21:25:17 +0000"
     },
     {
       "region": "Свет",
@@ -133,13 +140,6 @@
       "title": "Arsenal beat Everton as Dowman makes Premier League history",
       "link": "https://www.aljazeera.com/sports/2026/3/14/arsenal-beat-everton-as-dowman-makes-premier-league-history?traffic_source=rss",
       "published": "Sat, 14 Mar 2026 20:27:13 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Trump administration to drop charges against US veteran who burned flag",
-      "link": "https://www.aljazeera.com/news/2026/3/14/trump-administration-to-drop-charges-against-us-veteran-who-burned-flag?traffic_source=rss",
-      "published": "Sat, 14 Mar 2026 20:22:22 +0000"
     }
   ]
 }
