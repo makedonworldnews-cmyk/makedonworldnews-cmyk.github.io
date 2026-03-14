@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-14T05:28:55Z",
+  "generated_at": "2026-03-14T06:05:47Z",
   "items": [
     {
       "region": "Македонија",
@@ -109,6 +109,13 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "Iran war: What is happening on day 15 of US-Israel attacks?",
+      "link": "https://www.aljazeera.com/news/2026/3/14/iran-war-what-is-happening-on-day-15-of-us-israel-attacks?traffic_source=rss",
+      "published": "Sat, 14 Mar 2026 05:45:46 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "Smoke seen rising from US embassy in Baghdad",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/3/14/smoke-seen-rising-from-us-embassy-in-baghdad?traffic_source=rss",
       "published": "Sat, 14 Mar 2026 04:38:03 +0000"
@@ -133,13 +140,6 @@
       "title": "Trump claims US ‘way ahead of schedule’ in Iran war",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/3/14/trump-claims-us-way-ahead-of-schedule-in-iran?traffic_source=rss",
       "published": "Sat, 14 Mar 2026 03:11:50 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Projectile falls, explodes in Israel’s Negev",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/14/projectile-falls-explodes-in-israels-negev?traffic_source=rss",
-      "published": "Sat, 14 Mar 2026 02:39:05 +0000"
     }
   ]
 }
