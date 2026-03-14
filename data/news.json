@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-14T18:00:54Z",
+  "updatedAt": "2026-03-14T18:56:16Z",
   "groups": [
     {
       "region": "Македонија",
@@ -12,33 +12,39 @@
         },
         {
           "source": "Makfax",
+          "title": "Војна на световите“ ја освои наградата за најлош филм",
+          "link": "https://makfax.com.mk/zanimlivosti/vojna-na-svetovite-ja-osvoi-nagradata-za-najlosh-film/",
+          "published": "Sat, 14 Mar 2026 18:49:19 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Иран: Ормускиот теснец е затворен само за нашите непријатели",
+          "link": "https://makfax.com.mk/svet/iran-ormuskiot-tesnecz-e-zatvoren-samo-za-nashite-neprijateli/",
+          "published": "Sat, 14 Mar 2026 18:44:53 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Макрон: Либанската влада сака директни преговори со Израел",
+          "link": "https://makfax.com.mk/svet/makron-libanskata-vlada-saka-direktni-pregovori-so-izrael/",
+          "published": "Sat, 14 Mar 2026 18:17:48 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "18-годишник од тетовско физички нападнал соселанец, а потоа го удрил со автомобил",
+          "link": "https://makfax.com.mk/crna-hronika/18-godishnik-od-tetovsko-fizichki-napadnal-soselanecz-a-potoa-go-udril-so-avtomobil/",
+          "published": "Sat, 14 Mar 2026 18:14:23 +0000"
+        },
+        {
+          "source": "Makfax",
           "title": "Ѓорѓиевски вели дека заглавениот и заборавен проект за Момин Поток конечно се реализира со силно темпо",
           "link": "https://makfax.com.mk/makedonija/gorgievski-veli-deka-zaglaveniot-i-zaboraven-proekt-za-momin-potok-konechno-se-realizira-so-silno-tempo/",
           "published": "Sat, 14 Mar 2026 17:56:43 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Г.г. Стефан за трагедијата во Кочани: Нашите прерано заминати деца, браќа, сестри, внуци, роднини, пријатели засекогаш ќе ни недостасуваат",
-          "link": "https://makfax.com.mk/makedonija/g-g-stefan-za-tragedijata-vo-kochani-nashite-prerano-zaminati-decza-braka-sestri-vnuczi-rodnini-prijateli-zasekogash-ke-ni-nedostasuvaat/",
-          "published": "Sat, 14 Mar 2026 17:50:20 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Полицаец цела година сексуално злоставувал малолетно момче",
-          "link": "https://makfax.com.mk/crna-hronika/policzaecz-czela-godina-seksualno-zlostavuval-maloletno-momche/",
-          "published": "Sat, 14 Mar 2026 17:46:10 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "(Видео) Проектилот на Молина и неспортскиот потег на Абкар во малото дерби на Мадрид – Атлетико го победи Хетафе",
-          "link": "https://makfax.com.mk/sport/video-proektilot-na-molina-i-nesportskiot-poteg-na-abkar-vo-maloto-derbi-na-madrid-atletiko-go-pobedi-hetafe/",
-          "published": "Sat, 14 Mar 2026 17:37:59 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Сиљановска-Давкова за годишнината од трагедијата во Кочани: Ништо не може да ја намали болката на семејствата",
-          "link": "https://makfax.com.mk/makedonija/silanovska-davkova-za-godishninata-od-tragedijata-vo-kochani-nishto-ne-mozhe-da-ja-namali-bolkata-na-semejstvata/",
-          "published": "Sat, 14 Mar 2026 17:37:55 +0000"
+          "source": "NetPress",
+          "title": "Г.г. Стефан на литургија за загинатите во дискотеката „Пулс“: Солзите и да престанат, тагата не исчезнува",
+          "link": "https://netpress.com.mk/g-g-stefan-na-liturgija-za-zaginatite-vo-diskotekata-puls-solzite-i-da-prestanat-tagata-ne-ischeznuva/",
+          "published": "Sat, 14 Mar 2026 18:05:33 +0000"
         },
         {
           "source": "NetPress",
@@ -63,24 +69,12 @@
           "title": "Мерц бара забрана за влез на руски војници во ЕУ",
           "link": "https://netpress.com.mk/mercz-bara-zabrana-za-vlez-na-ruski-vojniczi-vo-eu/",
           "published": "Sat, 14 Mar 2026 17:02:17 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Портпаролот на принцот Хари за новата биографија: „Налудничава теорија на заговор“",
-          "link": "https://netpress.com.mk/portparolot-na-princzot-hari-za-novata-biografija-naludnichava-teorija-na-zagovor/",
-          "published": "Sat, 14 Mar 2026 16:36:35 +0000"
         }
       ]
     },
     {
       "region": "Свет",
       "items": [
-        {
-          "source": "BBC",
-          "title": "Why has the US targeted Iran's Kharg Island?",
-          "link": "https://www.bbc.com/news/articles/c8jxzlwvd8ro?at_medium=RSS&at_campaign=rss",
-          "published": "Sat, 14 Mar 2026 13:42:48 GMT"
-        },
         {
           "source": "BBC",
           "title": "Hamas urges key ally Iran to halt attacks on Gulf states",
@@ -95,45 +89,51 @@
         },
         {
           "source": "BBC",
+          "title": "Treasure hunter freed from prison after refusing to turn over shipwreck gold",
+          "link": "https://www.bbc.com/news/articles/cg4g7kn99q3o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 14 Mar 2026 17:51:28 GMT"
+        },
+        {
+          "source": "BBC",
+          "title": "Cuban protesters ransack Communist office as energy crisis deepens",
+          "link": "https://www.bbc.com/news/articles/c875zd7de5xo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 14 Mar 2026 17:57:49 GMT"
+        },
+        {
+          "source": "BBC",
           "title": "Rescuers blame weather and 'underprepared skiers' for rise in Alps avalanche deaths",
           "link": "https://www.bbc.com/news/articles/cev7111kx9wo?at_medium=RSS&at_campaign=rss",
           "published": "Sat, 14 Mar 2026 16:32:25 GMT"
         },
         {
-          "source": "BBC",
-          "title": "Explosion at Amsterdam Jewish school 'a deliberate attack' says mayor",
-          "link": "https://www.bbc.com/news/articles/cwyg4j58gdyo?at_medium=RSS&at_campaign=rss",
-          "published": "Sat, 14 Mar 2026 12:45:41 GMT"
+          "source": "Al Jazeera",
+          "title": "Iran warns UAE ports and ‘American hideouts’ are targets",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/14/iran-warns-uae-ports-and-american-hideouts-are-targets?traffic_source=rss",
+          "published": "Sat, 14 Mar 2026 18:31:30 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Is the world ignoring Gaza?",
+          "link": "https://www.aljazeera.com/video/inside-story/2026/3/14/is-the-world-ignoring-gaza?traffic_source=rss",
+          "published": "Sat, 14 Mar 2026 18:13:37 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Protesters in Cuba attack Communist party office in rare riot over blackout",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/14/protesters-in-cuba-attack-communist-party-office-in-rare-riot-over-blackout?traffic_source=rss",
+          "published": "Sat, 14 Mar 2026 18:01:56 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Trump says ‘many countries’ will send warships to Hormuz amid Iran blockade",
+          "link": "https://www.aljazeera.com/news/2026/3/14/trump-says-many-countries-will-send-warships-to-hormuz-amid-iran-blockade?traffic_source=rss",
+          "published": "Sat, 14 Mar 2026 17:38:12 +0000"
         },
         {
           "source": "Al Jazeera",
           "title": "UN chief Guterres says ‘no military solution, only diplomacy’ for Lebanon",
           "link": "https://www.aljazeera.com/news/2026/3/14/un-chief-guterres-says-no-military-solution-only-diplomacy-for-lebanon?traffic_source=rss",
           "published": "Sat, 14 Mar 2026 17:24:56 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Protests erupt in Cuba as US restrictions spark food, energy shortages",
-          "link": "https://www.aljazeera.com/news/2026/3/14/protests-erupt-in-cuba-as-us-restrictions-spark-food-energy-shortages?traffic_source=rss",
-          "published": "Sat, 14 Mar 2026 17:09:09 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "LIVE: Real Madrid vs Elche – La Liga",
-          "link": "https://www.aljazeera.com/sports/liveblog/2026/3/14/live-real-madrid-vs-elche-la-liga?traffic_source=rss",
-          "published": "Sat, 14 Mar 2026 17:02:45 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "‘Israel targeting Iran’s security forces may aim to encourage uprising’",
-          "link": "https://www.aljazeera.com/video/quotable/2026/3/14/israel-targeting-irans-security-forces-may-aim-to-encourage?traffic_source=rss",
-          "published": "Sat, 14 Mar 2026 17:02:25 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "The Iranian moment: A leap into the unknown",
-          "link": "https://www.aljazeera.com/opinions/2026/3/14/the-iranian-moment-a-leap-into-the-unknown?traffic_source=rss",
-          "published": "Sat, 14 Mar 2026 16:55:03 +0000"
         }
       ]
     }
