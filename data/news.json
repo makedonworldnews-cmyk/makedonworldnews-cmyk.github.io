@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-14T19:53:08Z",
+  "updatedAt": "2026-03-14T20:29:25Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Еди Рама се расправаше и избрка новинари од прес-конференција",
+          "link": "https://makfax.com.mk/svet/edi-rama-se-raspravashe-i-izbrka-novinari-od-pres-konfereczija/",
+          "published": "Sat, 14 Mar 2026 19:56:44 +0000"
         },
         {
           "source": "Makfax",
@@ -35,40 +41,34 @@
           "published": "Sat, 14 Mar 2026 18:17:48 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "18-годишник од тетовско физички нападнал соселанец, а потоа го удрил со автомобил",
-          "link": "https://makfax.com.mk/crna-hronika/18-godishnik-od-tetovsko-fizichki-napadnal-soselanecz-a-potoa-go-udril-so-avtomobil/",
-          "published": "Sat, 14 Mar 2026 18:14:23 +0000"
+          "source": "NetPress",
+          "title": "Бундеслига: Баерн со двајца играчи помалку ремизираше во Леверкузен, по бод за Хамбургер и Келн",
+          "link": "https://netpress.com.mk/bundesliga-baern-so-dvajcza-igrachi-pomalku-remizirashe-vo-leverkuzen-po-bod-za-hamburger-i-keln/",
+          "published": "Sat, 14 Mar 2026 20:25:22 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Засадени 300 млади багреми, во сеќавање на сите што ги изгубија животите во „Плус“",
+          "link": "https://netpress.com.mk/zasadeni-300-mladi-bagremi-vo-sekavane-na-site-shto-gi-izgubija-zhivotite-vo-plus/",
+          "published": "Sat, 14 Mar 2026 20:10:49 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Мораме да направиме се’ што е во наша моќ трагедии како во Кочани никогаш да не ни се повторат",
+          "link": "https://netpress.com.mk/morame-da-napravime-se-shto-e-vo-nasha-mok-tragedii-kako-vo-kochani-nikogash-da-ne-ni-se-povtorat/",
+          "published": "Sat, 14 Mar 2026 20:06:06 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Гитаристот на Motorhead, Фил Кемпбел, почина по „храбра борба“",
+          "link": "https://netpress.com.mk/gitaristot-na-motorhead-fil-kempbel-pochina-po-hrabra-borba/",
+          "published": "Sat, 14 Mar 2026 19:53:52 +0000"
         },
         {
           "source": "NetPress",
           "title": "Г.г. Стефан на литургија за загинатите во дискотеката „Пулс“: Солзите и да престанат, тагата не исчезнува",
           "link": "https://netpress.com.mk/g-g-stefan-na-liturgija-za-zaginatite-vo-diskotekata-puls-solzite-i-da-prestanat-tagata-ne-ischeznuva/",
           "published": "Sat, 14 Mar 2026 18:05:33 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Пјонгјанг истрела десет балистички ракети за време на јужнокорејско-американските маневри",
-          "link": "https://netpress.com.mk/pjongjang-istrela-deset-balistichki-raketi-za-vreme-na-juzhnokorejsko-amerikanskite-manevri/",
-          "published": "Sat, 14 Mar 2026 17:58:55 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Од забрана до шверц: Eвропските земји се борат со црниот пазар на никотински производи",
-          "link": "https://netpress.com.mk/od-zabrana-do-shvercz-evropskite-zemji-se-borat-so-czrniot-pazar-na-nikotinski-proizvodi/",
-          "published": "Sat, 14 Mar 2026 17:44:08 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Трамп вели дека „многу земји“ ќе испратат бродови во Ормутскиот теснец",
-          "link": "https://netpress.com.mk/tramp-veli-deka-mnogu-zemji-ke-ispratat-brodovi-vo-ormutskiot-tesnecz/",
-          "published": "Sat, 14 Mar 2026 17:17:14 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Мерц бара забрана за влез на руски војници во ЕУ",
-          "link": "https://netpress.com.mk/mercz-bara-zabrana-za-vlez-na-ruski-vojniczi-vo-eu/",
-          "published": "Sat, 14 Mar 2026 17:02:17 +0000"
         }
       ]
     },
@@ -107,6 +107,18 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Turkey on alert as Iran conflict escalates, warns against provocations",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/14/turkey-on-alert-as-iran-conflict-escalates-warns-against-provocations?traffic_source=rss",
+          "published": "Sat, 14 Mar 2026 20:01:20 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "UNESCO condemns strike on Minab girls’ school: ‘They attacked twice… How",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/14/unesco-condemns-strike-on-minab-girls-school-they-attacked-twice-how?traffic_source=rss",
+          "published": "Sat, 14 Mar 2026 19:58:27 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Six killed in attacks on Ukraine as EU extends sanctions against Russians",
           "link": "https://www.aljazeera.com/news/2026/3/14/eu-sanctions-against-russia-renewed-amid-deadly-attacks-on-ukraine?traffic_source=rss",
           "published": "Sat, 14 Mar 2026 19:28:58 +0000"
@@ -122,18 +134,6 @@
           "title": "Iranian woman explains ‘Allahu Akbar’ to Americans, amid explosion in Iran",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/3/14/iranian-woman-explains-allahu-akbar-to-americans-amid-explosion-in-iran?traffic_source=rss",
           "published": "Sat, 14 Mar 2026 19:23:52 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Israeli settlers shoot Palestinians in West Bank villages, steal livestock",
-          "link": "https://www.aljazeera.com/news/2026/3/14/israeli-settlers-shoot-palestinians-in-west-bank-villages-steal-livestock?traffic_source=rss",
-          "published": "Sat, 14 Mar 2026 19:15:08 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "US embassy in Venezuela reopens as Trump pushes for access to resources",
-          "link": "https://www.aljazeera.com/news/2026/3/14/us-embassy-in-venezuela-reopens-as-trump-pushes-for-access-to-resources?traffic_source=rss",
-          "published": "Sat, 14 Mar 2026 19:04:05 +0000"
         }
       ]
     }
