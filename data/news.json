@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-14T17:40:38Z",
+  "updatedAt": "2026-03-14T18:00:54Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,24 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Ѓорѓиевски вели дека заглавениот и заборавен проект за Момин Поток конечно се реализира со силно темпо",
+          "link": "https://makfax.com.mk/makedonija/gorgievski-veli-deka-zaglaveniot-i-zaboraven-proekt-za-momin-potok-konechno-se-realizira-so-silno-tempo/",
+          "published": "Sat, 14 Mar 2026 17:56:43 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Г.г. Стефан за трагедијата во Кочани: Нашите прерано заминати деца, браќа, сестри, внуци, роднини, пријатели засекогаш ќе ни недостасуваат",
+          "link": "https://makfax.com.mk/makedonija/g-g-stefan-za-tragedijata-vo-kochani-nashite-prerano-zaminati-decza-braka-sestri-vnuczi-rodnini-prijateli-zasekogash-ke-ni-nedostasuvaat/",
+          "published": "Sat, 14 Mar 2026 17:50:20 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Полицаец цела година сексуално злоставувал малолетно момче",
+          "link": "https://makfax.com.mk/crna-hronika/policzaecz-czela-godina-seksualno-zlostavuval-maloletno-momche/",
+          "published": "Sat, 14 Mar 2026 17:46:10 +0000"
         },
         {
           "source": "Makfax",
@@ -23,22 +41,16 @@
           "published": "Sat, 14 Mar 2026 17:37:55 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "(Видео) Баерн со двајца играчи помалку избегна пораз во Леверкузен",
-          "link": "https://makfax.com.mk/sport/video-baern-so-dvajcza-igrachi-pomalku-izbegna-poraz-vo-leverkuzen/",
-          "published": "Sat, 14 Mar 2026 16:43:32 +0000"
+          "source": "NetPress",
+          "title": "Пјонгјанг истрела десет балистички ракети за време на јужнокорејско-американските маневри",
+          "link": "https://netpress.com.mk/pjongjang-istrela-deset-balistichki-raketi-za-vreme-na-juzhnokorejsko-amerikanskite-manevri/",
+          "published": "Sat, 14 Mar 2026 17:58:55 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "(Видео) Контроверзен гол на Крстовиќ, Интер не успеа да ја победи Аталанта – Киву исклучен",
-          "link": "https://makfax.com.mk/sport/video-kontroverzen-gol-na-krstovik-inter-ne-uspea-da-ja-pobedi-atalanta-kivu-iskluchen/",
-          "published": "Sat, 14 Mar 2026 16:18:31 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Eдно лице загина, а неколку се тешко повредени во неколку сообраќајки",
-          "link": "https://makfax.com.mk/crna-hronika/edno-licze-zagina-a-nekolku-se-teshko-povredeni-vo-nekolku-soobrakajki/",
-          "published": "Sat, 14 Mar 2026 16:00:22 +0000"
+          "source": "NetPress",
+          "title": "Од забрана до шверц: Eвропските земји се борат со црниот пазар на никотински производи",
+          "link": "https://netpress.com.mk/od-zabrana-do-shvercz-evropskite-zemji-se-borat-so-czrniot-pazar-na-nikotinski-proizvodi/",
+          "published": "Sat, 14 Mar 2026 17:44:08 +0000"
         },
         {
           "source": "NetPress",
@@ -57,18 +69,6 @@
           "title": "Портпаролот на принцот Хари за новата биографија: „Налудничава теорија на заговор“",
           "link": "https://netpress.com.mk/portparolot-na-princzot-hari-za-novata-biografija-naludnichava-teorija-na-zagovor/",
           "published": "Sat, 14 Mar 2026 16:36:35 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Белгија ја повика ЕУ да преговара со Русија за украинскиот конфликт",
-          "link": "https://netpress.com.mk/belgija-ja-povika-eu-da-pregovara-so-rusija-za-ukrainskiot-konflikt/",
-          "published": "Sat, 14 Mar 2026 15:02:15 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Украина стана за Иран „легитимна цел“ за напади",
-          "link": "https://netpress.com.mk/ukraina-stana-za-iran-legitimna-czel-za-napadi/",
-          "published": "Sat, 14 Mar 2026 14:47:31 +0000"
         }
       ]
     },
