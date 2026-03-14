@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-14T14:15:03Z",
+  "generated_at": "2026-03-14T14:48:07Z",
   "items": [
     {
       "region": "Македонија",
@@ -39,9 +39,23 @@
     {
       "region": "Македонија",
       "source": "NetPress",
-      "title": "ВИДЕО| Погодени над 90 ирански цели на островот Харг, според американската команда",
-      "link": "https://netpress.com.mk/video-pogodeni-nad-90-iranski-czeli-na-ostrovot-harg-spored-amerikanskata-komanda/",
-      "published": "Sat, 14 Mar 2026 13:45:27 +0000"
+      "title": "Украина стана за Иран „легитимна цел“ за напади",
+      "link": "https://netpress.com.mk/ukraina-stana-za-iran-legitimna-czel-za-napadi/",
+      "published": "Sat, 14 Mar 2026 14:47:31 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "NetPress",
+      "title": "Германските бродосопственици ја критикуваат одлуката да не се испраќа морнарицата во Заливот",
+      "link": "https://netpress.com.mk/germanskite-brodosopstveniczi-ja-kritikuvaat-odlukata-da-ne-se-ispraka-mornariczata-vo-zalivot/",
+      "published": "Sat, 14 Mar 2026 14:29:45 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "NetPress",
+      "title": "Денешниот протест покажа дека е само една заедничка парада на СДС и ССМ со која ги лажат работниците дека се залагаат за повисоки плати",
+      "link": "https://netpress.com.mk/deneshniot-protest-pokazha-deka-e-samo-edna-zaednichka-parada-na-sds-i-ssm-so-koja-gi-lazhat-rabotniczite-deka-se-zalagaat-za-povisoki-plati/",
+      "published": "Sat, 14 Mar 2026 14:18:09 +0000"
     },
     {
       "region": "Македонија",
@@ -56,20 +70,6 @@
       "title": "ЕУ во последен момент одлучува за продолжување на антируските санкции",
       "link": "https://netpress.com.mk/eu-vo-posleden-moment-odluchuva-za-prodolzhuvane-na-antiruskite-sankczii/",
       "published": "Sat, 14 Mar 2026 13:12:36 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Со партиски обележја протестот на ССМ за повисоки плати",
-      "link": "https://netpress.com.mk/so-partiski-obelezhja-protestot-na-ssm-za-povisoki-plati/",
-      "published": "Sat, 14 Mar 2026 13:11:31 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Либан: Најмалку 12 здравствени работници убиени во израелски напад",
-      "link": "https://netpress.com.mk/liban-najmalku-12-zdravstveni-rabotniczi-ubieni-vo-izraelski-napad/",
-      "published": "Sat, 14 Mar 2026 12:39:52 +0000"
     },
     {
       "region": "Свет",
@@ -109,6 +109,13 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "Why is Iran’s Kharg Island important?",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/14/us-bombs-irans-oil-hub-kharg-island?traffic_source=rss",
+      "published": "Sat, 14 Mar 2026 14:07:05 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "Fire and damage after strike on US embassy compound in Baghdad",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/3/14/fire-and-damage-after-strike-on-us-embassy-compound-in-baghdad?traffic_source=rss",
       "published": "Sat, 14 Mar 2026 13:55:01 +0000"
@@ -133,13 +140,6 @@
       "title": "Two Indian ships cross Strait of Hormuz as Iran says it allowed passage",
       "link": "https://www.aljazeera.com/news/2026/3/14/two-indian-ships-cross-strait-of-hormuz-as-iran-says-it-allowed-passage?traffic_source=rss",
       "published": "Sat, 14 Mar 2026 12:58:22 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "India releases Ladakh activist Sonam Wangchuk after six months in jail",
-      "link": "https://www.aljazeera.com/news/2026/3/14/india-releases-ladakh-activist-sonam-wangchuk-after-six-months-in-jail?traffic_source=rss",
-      "published": "Sat, 14 Mar 2026 12:34:17 +0000"
     }
   ]
 }
