@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-14T15:34:17Z",
+  "updatedAt": "2026-03-14T15:55:29Z",
   "groups": [
     {
       "region": "Македонија",
@@ -95,15 +95,27 @@
         },
         {
           "source": "BBC",
+          "title": "Rescuers blame weather and 'underprepared skiers' for rise in Alps avalanche deaths",
+          "link": "https://www.bbc.com/news/articles/cev7111kx9wo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 14 Mar 2026 05:59:09 GMT"
+        },
+        {
+          "source": "BBC",
           "title": "Explosion at Amsterdam Jewish school 'a deliberate attack' says mayor",
           "link": "https://www.bbc.com/news/articles/cwyg4j58gdyo?at_medium=RSS&at_campaign=rss",
           "published": "Sat, 14 Mar 2026 12:45:41 GMT"
         },
         {
-          "source": "BBC",
-          "title": "Rescuers blame weather and 'underprepared skiers' for rise in Alps avalanche deaths",
-          "link": "https://www.bbc.com/news/articles/cev7111kx9wo?at_medium=RSS&at_campaign=rss",
-          "published": "Sat, 14 Mar 2026 05:59:09 GMT"
+          "source": "Al Jazeera",
+          "title": "How Carney’s ‘build fast’ push divides Canada’s Indigenous peoples",
+          "link": "https://www.aljazeera.com/economy/2026/3/14/carneys-build-big-and-build-fast-push-is-dividing-canadas-indigenous?traffic_source=rss",
+          "published": "Sat, 14 Mar 2026 15:18:59 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Iran says Strait of Hormuz will not be reopened to US ships",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/14/iran-says-strait-of-hormuz-will-not-be-reopened-to-us-ships?traffic_source=rss",
+          "published": "Sat, 14 Mar 2026 15:18:04 +0000"
         },
         {
           "source": "Al Jazeera",
@@ -122,18 +134,6 @@
           "title": "Why is Iran’s Kharg Island important?",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/3/14/us-bombs-irans-oil-hub-kharg-island?traffic_source=rss",
           "published": "Sat, 14 Mar 2026 14:07:05 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Fire and damage after strike on US embassy compound in Baghdad",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/14/fire-and-damage-after-strike-on-us-embassy-compound-in-baghdad?traffic_source=rss",
-          "published": "Sat, 14 Mar 2026 13:55:01 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Smoke rises from Fujairah oil facility in UAE",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/14/smoke-rises-from-fujairah-oil-facility-in-uae?traffic_source=rss",
-          "published": "Sat, 14 Mar 2026 13:25:52 +0000"
         }
       ]
     }
