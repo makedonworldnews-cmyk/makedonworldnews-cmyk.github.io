@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-14T15:55:29Z",
+  "updatedAt": "2026-03-14T16:34:49Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) Контроверзен гол на Крстовиќ, Интер не успеа да ја победи Аталанта – Киву исклучен",
+          "link": "https://makfax.com.mk/sport/video-kontroverzen-gol-na-krstovik-inter-ne-uspea-da-ja-pobedi-atalanta-kivu-iskluchen/",
+          "published": "Sat, 14 Mar 2026 16:18:31 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Eдно лице загина, а неколку се тешко повредени во неколку сообраќајки",
+          "link": "https://makfax.com.mk/crna-hronika/edno-licze-zagina-a-nekolku-se-teshko-povredeni-vo-nekolku-soobrakajki/",
+          "published": "Sat, 14 Mar 2026 16:00:22 +0000"
         },
         {
           "source": "Makfax",
@@ -27,18 +39,6 @@
           "title": "Маж ги прекршил забраните и ѝ се заканувал на поранешната партнерка",
           "link": "https://makfax.com.mk/crna-hronika/mazh-gi-prekrshil-zabranite-i-%d1%9d-se-zakanuval-na-poraneshnata-partnerka/",
           "published": "Sat, 14 Mar 2026 15:24:40 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Работник загина по пад од висина на градилиште во Скопје",
-          "link": "https://makfax.com.mk/crna-hronika/rabotnik-zagina-po-pad-od-visina-na-gradilishte-vo-skopje/",
-          "published": "Sat, 14 Mar 2026 15:14:05 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "„Федерер го интересираа само парите, никому ништо не му даваше“",
-          "link": "https://makfax.com.mk/sport/federer-go-interesiraa-samo-parite-nikomu-nishto-ne-mu-davashe/",
-          "published": "Sat, 14 Mar 2026 15:05:56 +0000"
         },
         {
           "source": "NetPress",
@@ -97,7 +97,7 @@
           "source": "BBC",
           "title": "Rescuers blame weather and 'underprepared skiers' for rise in Alps avalanche deaths",
           "link": "https://www.bbc.com/news/articles/cev7111kx9wo?at_medium=RSS&at_campaign=rss",
-          "published": "Sat, 14 Mar 2026 05:59:09 GMT"
+          "published": "Sat, 14 Mar 2026 16:32:25 GMT"
         },
         {
           "source": "BBC",
