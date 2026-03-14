@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-14T09:04:06Z",
+  "updatedAt": "2026-03-14T09:47:34Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Вучиќ ја зајакнува војската и вели дека нема да дозволи Србија да биде покорена",
+          "link": "https://makfax.com.mk/svet/vuchik-ja-zajaknuva-vojskata-i-veli-deka-nema-da-dozvoli-srbija-da-bide-pokorena/",
+          "published": "Sat, 14 Mar 2026 09:10:05 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Ние денеска се бориме за вашите плати, а што ќе правите вие?, праша Трендафилов",
+          "link": "https://makfax.com.mk/makedonija/nie-deneska-se-borime-za-vashite-plati-a-shto-ke-pravite-vie-prasha-trendafilov/",
+          "published": "Sat, 14 Mar 2026 09:07:16 +0000"
         },
         {
           "source": "Makfax",
@@ -29,16 +41,16 @@
           "published": "Sat, 14 Mar 2026 08:53:36 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Лапорта: Ќелавиот нè предаде, ни збоде нож во грб",
-          "link": "https://makfax.com.mk/sport/laporta-kelaviot-ne-predade-ni-zbode-nozh-vo-grb/",
-          "published": "Sat, 14 Mar 2026 08:51:31 +0000"
+          "source": "NetPress",
+          "title": "Експлозија во еврејско училиште во Амстердам",
+          "link": "https://netpress.com.mk/eksplozija-vo-evrejsko-uchilishte-vo-amsterdam/",
+          "published": "Sat, 14 Mar 2026 09:39:42 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Расел победи во спринт трката, Антонели најбрз во квалификациите за ГН на Кина",
-          "link": "https://makfax.com.mk/sport/rasel-pobedi-vo-sprint-trkata-antoneli-najbrz-vo-kvalifikacziite-za-gn-na-kina/",
-          "published": "Sat, 14 Mar 2026 08:14:01 +0000"
+          "source": "NetPress",
+          "title": "Од земја која во минатото бараше помош, денес сме држава која им помага на пријателите",
+          "link": "https://netpress.com.mk/od-zemja-koja-vo-minatoto-barashe-pomosh-denes-sme-drzhava-koja-im-pomaga-na-prijatelite/",
+          "published": "Sat, 14 Mar 2026 09:24:30 +0000"
         },
         {
           "source": "NetPress",
@@ -57,18 +69,6 @@
           "title": "Дневен хороскоп за сабота, 14-ти март 2026-та",
           "link": "https://netpress.com.mk/dneven-horoskop-za-sabota-14-ti-mart-2026-ta/",
           "published": "Sat, 14 Mar 2026 07:27:46 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Времето умерено облачно, попладне можен краткотраен дожд",
-          "link": "https://netpress.com.mk/vremeto-umereno-oblachno-popladne-mozhen-kratkotraen-dozhd/",
-          "published": "Sat, 14 Mar 2026 07:07:54 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Евролига: Ѕвезда го запре водечкиот Фенер",
-          "link": "https://netpress.com.mk/evroliga-zvezda-go-zapre-vodechkiot-fener/",
-          "published": "Fri, 13 Mar 2026 22:45:04 +0000"
         }
       ]
     },
@@ -89,21 +89,33 @@
         },
         {
           "source": "BBC",
-          "title": "Los Angeles asks for investigation into LA28 Olympics chief over Epstein ties",
-          "link": "https://www.bbc.com/news/articles/cn9ewxq98e5o?at_medium=RSS&at_campaign=rss",
-          "published": "Sat, 14 Mar 2026 02:28:50 GMT"
-        },
-        {
-          "source": "BBC",
           "title": "Under drone fire, exiled Kurds wait to confront Iranian regime",
           "link": "https://www.bbc.com/news/articles/c79505804lpo?at_medium=RSS&at_campaign=rss",
           "published": "Fri, 13 Mar 2026 22:02:39 GMT"
         },
         {
           "source": "BBC",
-          "title": "Family of Michigan synagogue suspect killed in Lebanon airstrike, officials say",
-          "link": "https://www.bbc.com/news/articles/cdxz0jpzk4do?at_medium=RSS&at_campaign=rss",
-          "published": "Fri, 13 Mar 2026 23:36:41 GMT"
+          "title": "Explosion at Amsterdam Jewish school 'a deliberate attack' says mayor",
+          "link": "https://www.bbc.com/news/articles/cwyg4j58gdyo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 14 Mar 2026 08:11:15 GMT"
+        },
+        {
+          "source": "BBC",
+          "title": "Los Angeles asks for investigation into LA28 Olympics chief over Epstein ties",
+          "link": "https://www.bbc.com/news/articles/cn9ewxq98e5o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 14 Mar 2026 02:28:50 GMT"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "More than 110 people killed in Iran’s Kurdistan: Official",
+          "link": "https://www.aljazeera.com/news/2026/3/14/more-than-110-people-killed-in-irans-kurdistan-official?traffic_source=rss",
+          "published": "Sat, 14 Mar 2026 09:24:02 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Iran continues intensified attacks across Gulf in US-Israel war fallout",
+          "link": "https://www.aljazeera.com/news/2026/3/14/iran-continues-intensified-attacks-across-gulf-in-us-israel-war-fallout?traffic_source=rss",
+          "published": "Sat, 14 Mar 2026 09:12:38 +0000"
         },
         {
           "source": "Al Jazeera",
@@ -122,18 +134,6 @@
           "title": "North Korea fires ballistic missiles as US-South Korea hold military drills",
           "link": "https://www.aljazeera.com/news/2026/3/14/north-korea-fires-ballistic-missiles-as-us-south-korea-hold-military-drills?traffic_source=rss",
           "published": "Sat, 14 Mar 2026 08:17:27 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "‘Israel is targeting civilian infrastructure as a matter of policy’",
-          "link": "https://www.aljazeera.com/video/quotable/2026/3/14/israel-is-targeting-civilian-infrastructure-as-a-matter-of-policy?traffic_source=rss",
-          "published": "Sat, 14 Mar 2026 07:59:17 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "US Embassy in Baghdad, Iraq attacked with missile that hits helipad",
-          "link": "https://www.aljazeera.com/news/2026/3/14/us-embassy-in-baghdad-iraq-targeted-with-missile-hits-helipad?traffic_source=rss",
-          "published": "Sat, 14 Mar 2026 07:20:24 +0000"
         }
       ]
     }
