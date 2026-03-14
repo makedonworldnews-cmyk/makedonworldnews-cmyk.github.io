@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-14T18:56:16Z",
+  "updatedAt": "2026-03-14T19:30:30Z",
   "groups": [
     {
       "region": "Македонија",
@@ -107,6 +107,18 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Israeli settlers shoot Palestinians in West Bank villages, steal livestock",
+          "link": "https://www.aljazeera.com/news/2026/3/14/israeli-settlers-shoot-palestinians-in-west-bank-villages-steal-livestock?traffic_source=rss",
+          "published": "Sat, 14 Mar 2026 19:15:08 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "US embassy in Venezuela reopens as Trump pushes for access to resources",
+          "link": "https://www.aljazeera.com/news/2026/3/14/us-embassy-in-venezuela-reopens-as-trump-pushes-for-access-to-resources?traffic_source=rss",
+          "published": "Sat, 14 Mar 2026 19:04:05 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Iran warns UAE ports and ‘American hideouts’ are targets",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/3/14/iran-warns-uae-ports-and-american-hideouts-are-targets?traffic_source=rss",
           "published": "Sat, 14 Mar 2026 18:31:30 +0000"
@@ -122,18 +134,6 @@
           "title": "Protesters in Cuba attack Communist party office in rare riot over blackout",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/3/14/protesters-in-cuba-attack-communist-party-office-in-rare-riot-over-blackout?traffic_source=rss",
           "published": "Sat, 14 Mar 2026 18:01:56 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Trump says ‘many countries’ will send warships to Hormuz amid Iran blockade",
-          "link": "https://www.aljazeera.com/news/2026/3/14/trump-says-many-countries-will-send-warships-to-hormuz-amid-iran-blockade?traffic_source=rss",
-          "published": "Sat, 14 Mar 2026 17:38:12 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "UN chief Guterres says ‘no military solution, only diplomacy’ for Lebanon",
-          "link": "https://www.aljazeera.com/news/2026/3/14/un-chief-guterres-says-no-military-solution-only-diplomacy-for-lebanon?traffic_source=rss",
-          "published": "Sat, 14 Mar 2026 17:24:56 +0000"
         }
       ]
     }
