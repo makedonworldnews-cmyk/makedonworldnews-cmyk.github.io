@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-14T21:28:11Z",
+  "updatedAt": "2026-03-14T21:50:51Z",
   "groups": [
     {
       "region": "Македонија",
@@ -107,6 +107,12 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "US-Israeli strike kills 15 at Isfahan factory, Iranian media says",
+          "link": "https://www.aljazeera.com/news/2026/3/14/us-israeli-strike-kills-15-at-isfahan-factory-iranian-media-says?traffic_source=rss",
+          "published": "Sat, 14 Mar 2026 21:25:17 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Thousands in Madrid protest ‘forgotten’ Gaza, warn Iran war may spiral into",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/3/14/thousands-in-madrid-protest-forgotten-gaza-warn-iran-war-may-spiral-into?traffic_source=rss",
           "published": "Sat, 14 Mar 2026 20:59:54 +0000"
@@ -128,12 +134,6 @@
           "title": "Arsenal beat Everton as Dowman makes Premier League history",
           "link": "https://www.aljazeera.com/sports/2026/3/14/arsenal-beat-everton-as-dowman-makes-premier-league-history?traffic_source=rss",
           "published": "Sat, 14 Mar 2026 20:27:13 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Trump administration to drop charges against US veteran who burned flag",
-          "link": "https://www.aljazeera.com/news/2026/3/14/trump-administration-to-drop-charges-against-us-veteran-who-burned-flag?traffic_source=rss",
-          "published": "Sat, 14 Mar 2026 20:22:22 +0000"
         }
       ]
     }
