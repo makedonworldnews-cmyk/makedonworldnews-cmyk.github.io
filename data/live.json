@@ -1,6 +1,27 @@
 {
-  "generated_at": "2026-03-14T07:45:41Z",
+  "generated_at": "2026-03-14T08:01:12Z",
   "items": [
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "Американските напади врз Харг не ја оштетиле нафтената инфраструктура",
+      "link": "https://makfax.com.mk/svet/amerikanskite-napadi-vrz-harg-ne-ja-oshtetile-naftenata-infrastruktura/",
+      "published": "Sat, 14 Mar 2026 07:58:30 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "Во Доха, главниот град на Катар се слушаат експлозии",
+      "link": "https://makfax.com.mk/svet/vo-doha-glavniot-grad-na-katar-se-slushaat-eksplozii/",
+      "published": "Sat, 14 Mar 2026 07:56:12 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "Меѓународна конференција за институционални решенија по пожарот во Кочани",
+      "link": "https://makfax.com.mk/makedonija/megunarodna-konferenczija-za-instituczionalni-reshenija-po-pozharot-vo-kochani/",
+      "published": "Sat, 14 Mar 2026 07:45:46 +0000"
+    },
     {
       "region": "Македонија",
       "source": "Makfax",
@@ -17,24 +38,10 @@
     },
     {
       "region": "Македонија",
-      "source": "Makfax",
-      "title": "Умерено облачно со сончеви периоди и температура до 19 степени, попладне краткотраен дожд",
-      "link": "https://makfax.com.mk/makedonija/umereno-oblachno-so-sonchevi-periodi-i-temperatura-do-19-stepeni-popladne-kratkotraen-dozhd/",
-      "published": "Sat, 14 Mar 2026 06:45:53 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "Makfax",
-      "title": "Една година по трагедијата Кочани жали за загинатите 63 жртви, меѓу кои и деца",
-      "link": "https://makfax.com.mk/makedonija/edna-godina-po-tragedija-kochani-zhali-za-zaginatite-63-zhrtvi-megu-koi-i-decza/",
-      "published": "Sat, 14 Mar 2026 06:32:16 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "Makfax",
-      "title": "Сијарто: Унгарија нема да купува поскапа нафта по наредба на Украина",
-      "link": "https://makfax.com.mk/svet/sijarto-ungarija-nema-da-kupuva-poskapa-nafta-po-naredba-na-ukraina/",
-      "published": "Fri, 13 Mar 2026 21:06:12 +0000"
+      "source": "NetPress",
+      "title": "Катар евакуираше делови од Доха со владини канцеларии и филијали на американски универзитети",
+      "link": "https://netpress.com.mk/katar-evakuirashe-delovi-od-doha-so-vladini-kanczelarii-i-filijali-na-amerikanski-univerziteti/",
+      "published": "Sat, 14 Mar 2026 07:47:11 +0000"
     },
     {
       "region": "Македонија",
@@ -63,13 +70,6 @@
       "title": "Ла Лига: Алавес – Виљареал 1:1, гостите израмнија во осмата минута од судиското продолжение",
       "link": "https://netpress.com.mk/la-liga-alaves-vilareal-11-gostite-izramnija-vo-osmata-minuta-od-sudiskoto-prodolzhenie/",
       "published": "Fri, 13 Mar 2026 22:31:57 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Зеленски: САД бараа одложување на преговорите за завршување на војната во Украина",
-      "link": "https://netpress.com.mk/zelenski-sad-baraa-odlozhuvane-na-pregovorite-za-zavrshuvane-na-vojnata-vo-ukraina/",
-      "published": "Fri, 13 Mar 2026 22:08:46 +0000"
     },
     {
       "region": "Свет",
@@ -109,6 +109,13 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "US Embassy in Baghdad, Iraq attacked with missile that hits helipad",
+      "link": "https://www.aljazeera.com/news/2026/3/14/us-embassy-in-baghdad-iraq-targeted-with-missile-hits-helipad?traffic_source=rss",
+      "published": "Sat, 14 Mar 2026 07:20:24 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "Israel kills 12 medics in attack in southern Lebanon as war ravages nation",
       "link": "https://www.aljazeera.com/news/2026/3/14/israel-kills-12-medics-in-attack-in-southern-lebanon-as-war-drags-on?traffic_source=rss",
       "published": "Sat, 14 Mar 2026 06:58:20 +0000"
@@ -116,7 +123,7 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
-      "title": "US attacks military sites on Iran’s Kharg Island, home to vast oil facility",
+      "title": "US attacks military sites on Iran’s Kharg island, home to vast oil facility",
       "link": "https://www.aljazeera.com/news/2026/3/14/us-attacks-military-sites-on-irans-kharg-island-home-to-vast-oil-facility?traffic_source=rss",
       "published": "Sat, 14 Mar 2026 06:42:25 +0000"
     },
@@ -133,13 +140,6 @@
       "title": "Smoke seen rising from US embassy in Baghdad",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/3/14/smoke-seen-rising-from-us-embassy-in-baghdad?traffic_source=rss",
       "published": "Sat, 14 Mar 2026 04:38:03 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Yemeni ports face shipping fee hike amid Iran conflict",
-      "link": "https://www.aljazeera.com/news/2026/3/14/yemeni-ports-face-shipping-fee-hike-amid-iran-conflict?traffic_source=rss",
-      "published": "Sat, 14 Mar 2026 04:37:30 +0000"
     }
   ]
 }
