@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-14T11:17:40Z",
+  "generated_at": "2026-03-14T11:58:32Z",
   "items": [
     {
       "region": "Македонија",
@@ -39,6 +39,27 @@
     {
       "region": "Македонија",
       "source": "NetPress",
+      "title": "Професионалноста и хуманоста на здравствените работници беше исклучителна во трагедијата во „Пулс“",
+      "link": "https://netpress.com.mk/profesionalnosta-i-humanosta-na-zdravstvenite-rabotniczi-beshe-iskluchitelna-vo-tragedijata-vo-puls/",
+      "published": "Sat, 14 Mar 2026 11:47:00 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "NetPress",
+      "title": "Со нафтата од резервите владите можат само кусо да здивнат",
+      "link": "https://netpress.com.mk/so-naftata-od-rezervite-vladite-mozhat-samo-kuso-da-zdivnat/",
+      "published": "Sat, 14 Mar 2026 11:38:45 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "NetPress",
+      "title": "Денот на несреќата во Кочани беше најтешкиот ден во мојот живот",
+      "link": "https://netpress.com.mk/denot-na-nesrekata-vo-kochani-beshe-najteshkiot-den-vo-mojot-zhivot/",
+      "published": "Sat, 14 Mar 2026 11:23:41 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "NetPress",
       "title": "Антонели стана најмладиот возач со пол-позицијата",
       "link": "https://netpress.com.mk/antoneli-stana-najmladiot-vozach-so-pol-poziczijata/",
       "published": "Sat, 14 Mar 2026 11:14:26 +0000"
@@ -49,27 +70,6 @@
       "title": "Хамас го повика Иран да не ги напаѓа соседните земји",
       "link": "https://netpress.com.mk/hamas-go-povika-iran-da-ne-gi-napaga-sosednite-zemji/",
       "published": "Sat, 14 Mar 2026 11:05:45 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Трамп им купи исти чевли на членовите на кабинетот",
-      "link": "https://netpress.com.mk/tramp-im-kupi-isti-chevli-na-chlenovite-na-kabinetot/",
-      "published": "Sat, 14 Mar 2026 11:00:21 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Два армиски хеликоптери го гаснат пожарот на планината Јабланица",
-      "link": "https://netpress.com.mk/dva-armiski-helikopteri-go-gasnat-pozharot-na-planinata-jablanicza/",
-      "published": "Sat, 14 Mar 2026 10:55:00 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "„Сите сте кој од кој полоши“: Антирежимските Иранци се вртат против Трамп",
-      "link": "https://netpress.com.mk/site-ste-koj-od-koj-poloshi-antirezhimskite-iranczi-se-vrtat-protiv-tramp/",
-      "published": "Sat, 14 Mar 2026 10:47:08 +0000"
     },
     {
       "region": "Свет",
@@ -109,37 +109,37 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "Kimi Antonelli becomes youngest F1 driver to take ‌Grand Prix pole position",
+      "link": "https://www.aljazeera.com/sports/2026/3/14/kimi-antonelli-becomes-youngest-f1-driver-to-take-grand-prix-pole-position?traffic_source=rss",
+      "published": "Sat, 14 Mar 2026 11:37:31 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Sandstorm hits Gaza, impacting displaced Palestinians",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/14/sandstorm-hits-gaza-impacting-displaced-palestinians?traffic_source=rss",
+      "published": "Sat, 14 Mar 2026 11:31:34 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Family pulled from the rubble after US-Israeli strikes on Tehran",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/14/family-pulled-from-the-rubble-after-us-israeli-strikes-on-tehran?traffic_source=rss",
+      "published": "Sat, 14 Mar 2026 11:21:20 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "The battle on the propaganda front intensifies",
+      "link": "https://www.aljazeera.com/video/the-listening-post/2026/3/14/the-battle-on-the-propaganda-front-intensifies?traffic_source=rss",
+      "published": "Sat, 14 Mar 2026 11:17:10 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "China beat Taiwan 2-0 in extra time to reach Women’s Asian Cup semifinals",
       "link": "https://www.aljazeera.com/sports/2026/3/14/china-edge-taiwan-2-0-in-extra-time-to-reach-womens-asian-cup-semifinals?traffic_source=rss",
       "published": "Sat, 14 Mar 2026 10:05:50 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Hamas urges Iran to halt attacks on Gulf, slams aggression on Tehran",
-      "link": "https://www.aljazeera.com/news/2026/3/14/hamas-urges-iran-to-halt-attacks-on-neighbouring-gulf-states?traffic_source=rss",
-      "published": "Sat, 14 Mar 2026 09:53:03 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Four killed in southern Lebanon apartment after reported Israeli attack",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/14/four-killed-in-southern-lebanon-apartment-after-reported-israeli-attack?traffic_source=rss",
-      "published": "Sat, 14 Mar 2026 09:50:03 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Manchester United vs Aston Villa: Premier League – teams, start, lineups",
-      "link": "https://www.aljazeera.com/sports/2026/3/14/manchester-united-vs-aston-villa-premier-league-teams-start-lineups?traffic_source=rss",
-      "published": "Sat, 14 Mar 2026 09:40:26 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "More than 110 people killed in Iran’s Kurdistan: Official",
-      "link": "https://www.aljazeera.com/news/2026/3/14/more-than-110-people-killed-in-irans-kurdistan-official?traffic_source=rss",
-      "published": "Sat, 14 Mar 2026 09:24:02 +0000"
     }
   ]
 }
