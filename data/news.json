@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-14T20:29:25Z",
+  "updatedAt": "2026-03-14T20:55:18Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) Исповед на преживеаниот гитарист од ДНК кој еден месец беше во кома по пожарот во Пулс",
+          "link": "https://makfax.com.mk/makedonija/video-ispoved-na-prezhiveaniot-gitarist-od-dnk-koj-eden-mesecz-beshe-vo-koma-po-pozharot-vo-puls/",
+          "published": "Sat, 14 Mar 2026 20:29:46 +0000"
         },
         {
           "source": "Makfax",
@@ -33,12 +39,6 @@
           "title": "Иран: Ормускиот теснец е затворен само за нашите непријатели",
           "link": "https://makfax.com.mk/svet/iran-ormuskiot-tesnecz-e-zatvoren-samo-za-nashite-neprijateli/",
           "published": "Sat, 14 Mar 2026 18:44:53 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Макрон: Либанската влада сака директни преговори со Израел",
-          "link": "https://makfax.com.mk/svet/makron-libanskata-vlada-saka-direktni-pregovori-so-izrael/",
-          "published": "Sat, 14 Mar 2026 18:17:48 +0000"
         },
         {
           "source": "NetPress",
@@ -77,6 +77,12 @@
       "items": [
         {
           "source": "BBC",
+          "title": "Three more Iran football team members change minds over asylum",
+          "link": "https://www.bbc.com/news/articles/c98gz372683o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 14 Mar 2026 20:48:55 GMT"
+        },
+        {
+          "source": "BBC",
           "title": "Hamas urges key ally Iran to halt attacks on Gulf states",
           "link": "https://www.bbc.com/news/articles/cvg3xk6xgyzo?at_medium=RSS&at_campaign=rss",
           "published": "Sat, 14 Mar 2026 13:34:17 GMT"
@@ -100,40 +106,34 @@
           "published": "Sat, 14 Mar 2026 17:57:49 GMT"
         },
         {
-          "source": "BBC",
-          "title": "Rescuers blame weather and 'underprepared skiers' for rise in Alps avalanche deaths",
-          "link": "https://www.bbc.com/news/articles/cev7111kx9wo?at_medium=RSS&at_campaign=rss",
-          "published": "Sat, 14 Mar 2026 16:32:25 GMT"
+          "source": "Al Jazeera",
+          "title": "Hundreds protest against US-Israeli strikes on Iran in Seoul",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/14/hundreds-protest-against-us-israeli-strikes-on-iran-in-seoul?traffic_source=rss",
+          "published": "Sat, 14 Mar 2026 20:38:26 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Two more Iranian female footballers pull Australia asylum bids: State media",
+          "link": "https://www.aljazeera.com/news/2026/3/14/two-more-iranian-women-footballers-pull-australia-asylum-bids-state-media?traffic_source=rss",
+          "published": "Sat, 14 Mar 2026 20:35:49 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Arsenal beat Everton as Dowman makes Premier League history",
+          "link": "https://www.aljazeera.com/sports/2026/3/14/arsenal-beat-everton-as-dowman-makes-premier-league-history?traffic_source=rss",
+          "published": "Sat, 14 Mar 2026 20:27:13 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Trump administration to drop charges against US veteran who burned flag",
+          "link": "https://www.aljazeera.com/news/2026/3/14/trump-administration-to-drop-charges-against-us-veteran-who-burned-flag?traffic_source=rss",
+          "published": "Sat, 14 Mar 2026 20:22:22 +0000"
         },
         {
           "source": "Al Jazeera",
           "title": "Turkey on alert as Iran conflict escalates, warns against provocations",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/3/14/turkey-on-alert-as-iran-conflict-escalates-warns-against-provocations?traffic_source=rss",
           "published": "Sat, 14 Mar 2026 20:01:20 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "UNESCO condemns strike on Minab girls’ school: ‘They attacked twice… How",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/14/unesco-condemns-strike-on-minab-girls-school-they-attacked-twice-how?traffic_source=rss",
-          "published": "Sat, 14 Mar 2026 19:58:27 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Six killed in attacks on Ukraine as EU extends sanctions against Russians",
-          "link": "https://www.aljazeera.com/news/2026/3/14/eu-sanctions-against-russia-renewed-amid-deadly-attacks-on-ukraine?traffic_source=rss",
-          "published": "Sat, 14 Mar 2026 19:28:58 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Trump administration threatens news outlets over critical coverage of Iran",
-          "link": "https://www.aljazeera.com/news/2026/3/14/trump-administration-threatens-news-outlets-over-critical-coverage-of-iran?traffic_source=rss",
-          "published": "Sat, 14 Mar 2026 19:25:29 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Iranian woman explains ‘Allahu Akbar’ to Americans, amid explosion in Iran",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/14/iranian-woman-explains-allahu-akbar-to-americans-amid-explosion-in-iran?traffic_source=rss",
-          "published": "Sat, 14 Mar 2026 19:23:52 +0000"
         }
       ]
     }
