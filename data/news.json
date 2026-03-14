@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-14T17:00:31Z",
+  "updatedAt": "2026-03-14T17:40:38Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) Проектилот на Молина и неспортскиот потег на Абкар во малото дерби на Мадрид – Атлетико го победи Хетафе",
+          "link": "https://makfax.com.mk/sport/video-proektilot-na-molina-i-nesportskiot-poteg-na-abkar-vo-maloto-derbi-na-madrid-atletiko-go-pobedi-hetafe/",
+          "published": "Sat, 14 Mar 2026 17:37:59 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Сиљановска-Давкова за годишнината од трагедијата во Кочани: Ништо не може да ја намали болката на семејствата",
+          "link": "https://makfax.com.mk/makedonija/silanovska-davkova-za-godishninata-od-tragedijata-vo-kochani-nishto-ne-mozhe-da-ja-namali-bolkata-na-semejstvata/",
+          "published": "Sat, 14 Mar 2026 17:37:55 +0000"
         },
         {
           "source": "Makfax",
@@ -29,16 +41,16 @@
           "published": "Sat, 14 Mar 2026 16:00:22 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Иран нема да го отвори Ормускиот Теснец и покрај заканите на Трамп",
-          "link": "https://makfax.com.mk/svet/iran-nema-da-go-otvori-ormuskiot-tesnecz-i-pokraj-zakanite-na-tramp/",
-          "published": "Sat, 14 Mar 2026 15:31:23 +0000"
+          "source": "NetPress",
+          "title": "Трамп вели дека „многу земји“ ќе испратат бродови во Ормутскиот теснец",
+          "link": "https://netpress.com.mk/tramp-veli-deka-mnogu-zemji-ke-ispratat-brodovi-vo-ormutskiot-tesnecz/",
+          "published": "Sat, 14 Mar 2026 17:17:14 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Полициски акции против за низ државата, приведени повеќе лица во Скопје, Радовиш и Охрид",
-          "link": "https://makfax.com.mk/crna-hronika/policziski-akczii-protiv-droga-niz-drzhavata-privedeni-poveke-licza-vo-skopje-radovish-i-ohrid/",
-          "published": "Sat, 14 Mar 2026 15:27:12 +0000"
+          "source": "NetPress",
+          "title": "Мерц бара забрана за влез на руски војници во ЕУ",
+          "link": "https://netpress.com.mk/mercz-bara-zabrana-za-vlez-na-ruski-vojniczi-vo-eu/",
+          "published": "Sat, 14 Mar 2026 17:02:17 +0000"
         },
         {
           "source": "NetPress",
@@ -57,18 +69,6 @@
           "title": "Украина стана за Иран „легитимна цел“ за напади",
           "link": "https://netpress.com.mk/ukraina-stana-za-iran-legitimna-czel-za-napadi/",
           "published": "Sat, 14 Mar 2026 14:47:31 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Германските бродосопственици ја критикуваат одлуката да не се испраќа морнарицата во Заливот",
-          "link": "https://netpress.com.mk/germanskite-brodosopstveniczi-ja-kritikuvaat-odlukata-da-ne-se-ispraka-mornariczata-vo-zalivot/",
-          "published": "Sat, 14 Mar 2026 14:29:45 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Денешниот протест покажа дека е само една заедничка парада на СДС и ССМ со која ги лажат работниците дека се залагаат за повисоки плати",
-          "link": "https://netpress.com.mk/deneshniot-protest-pokazha-deka-e-samo-edna-zaednichka-parada-na-sds-i-ssm-so-koja-gi-lazhat-rabotniczite-deka-se-zalagaat-za-povisoki-plati/",
-          "published": "Sat, 14 Mar 2026 14:18:09 +0000"
         }
       ]
     },
@@ -107,33 +107,33 @@
         },
         {
           "source": "Al Jazeera",
-          "title": "Iran allows limited Indian shipping through Strait of Hormuz",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/14/iran-allows-limited-indian-shipping-through-strait-of-hormuz?traffic_source=rss",
-          "published": "Sat, 14 Mar 2026 16:23:24 +0000"
+          "title": "UN chief Guterres says ‘no military solution, only diplomacy’ for Lebanon",
+          "link": "https://www.aljazeera.com/news/2026/3/14/un-chief-guterres-says-no-military-solution-only-diplomacy-for-lebanon?traffic_source=rss",
+          "published": "Sat, 14 Mar 2026 17:24:56 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Israel bombs Basij checkpoints in Tehran as US, Iran trade fire and jabs",
-          "link": "https://www.aljazeera.com/news/2026/3/14/israel-bombs-basij-checkpoints-in-tehran-as-us-iran-trade-fire-and-jabs?traffic_source=rss",
-          "published": "Sat, 14 Mar 2026 16:03:00 +0000"
+          "title": "Protests erupt in Cuba as US restrictions spark food, energy shortages",
+          "link": "https://www.aljazeera.com/news/2026/3/14/protests-erupt-in-cuba-as-us-restrictions-spark-food-energy-shortages?traffic_source=rss",
+          "published": "Sat, 14 Mar 2026 17:09:09 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "How Carney’s ‘build fast’ push divides Canada’s Indigenous peoples",
-          "link": "https://www.aljazeera.com/economy/2026/3/14/carneys-build-big-and-build-fast-push-is-dividing-canadas-indigenous?traffic_source=rss",
-          "published": "Sat, 14 Mar 2026 15:18:59 +0000"
+          "title": "LIVE: Real Madrid vs Elche – La Liga",
+          "link": "https://www.aljazeera.com/sports/liveblog/2026/3/14/live-real-madrid-vs-elche-la-liga?traffic_source=rss",
+          "published": "Sat, 14 Mar 2026 17:02:45 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Iran says Strait of Hormuz will not be reopened to US ships",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/14/iran-says-strait-of-hormuz-will-not-be-reopened-to-us-ships?traffic_source=rss",
-          "published": "Sat, 14 Mar 2026 15:18:04 +0000"
+          "title": "‘Israel targeting Iran’s security forces may aim to encourage uprising’",
+          "link": "https://www.aljazeera.com/video/quotable/2026/3/14/israel-targeting-irans-security-forces-may-aim-to-encourage?traffic_source=rss",
+          "published": "Sat, 14 Mar 2026 17:02:25 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Vatican envoy visits Lebanese church after priest killed in shelling",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/14/vatican-envoy-visits-lebanese-church-after-priest-killed-in-shelling?traffic_source=rss",
-          "published": "Sat, 14 Mar 2026 14:55:53 +0000"
+          "title": "The Iranian moment: A leap into the unknown",
+          "link": "https://www.aljazeera.com/opinions/2026/3/14/the-iranian-moment-a-leap-into-the-unknown?traffic_source=rss",
+          "published": "Sat, 14 Mar 2026 16:55:03 +0000"
         }
       ]
     }
