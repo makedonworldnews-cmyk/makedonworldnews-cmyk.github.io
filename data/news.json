@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-14T23:28:27Z",
+  "updatedAt": "2026-03-14T23:52:26Z",
   "groups": [
     {
       "region": "Македонија",
@@ -107,6 +107,12 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Pakistan strikes Afghan base after its president warns ‘red line’ crossed",
+          "link": "https://www.aljazeera.com/news/2026/3/14/pakistan-strikes-afghan-base-after-its-president-warns-red-line-crossed?traffic_source=rss",
+          "published": "Sat, 14 Mar 2026 23:28:40 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Brazil’s jailed ex-president Bolsonaro hospitalised with lung infection",
           "link": "https://www.aljazeera.com/news/2026/3/14/brazils-jailed-ex-president-bolsonaro-hospitalised-with-lung-infection?traffic_source=rss",
           "published": "Sat, 14 Mar 2026 23:18:28 +0000"
@@ -128,12 +134,6 @@
           "title": "Trinidad and Tobago extends state of emergency for another three months",
           "link": "https://www.aljazeera.com/news/2026/3/14/trinidad-and-tobago-extends-state-of-emergency-for-another-three-months?traffic_source=rss",
           "published": "Sat, 14 Mar 2026 22:27:11 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Real Madrid beat Elche to pressure Barcelona for La Liga title",
-          "link": "https://www.aljazeera.com/sports/2026/3/14/real-madrid-beat-elche-to-pressure-barcelona-in-la-liga?traffic_source=rss",
-          "published": "Sat, 14 Mar 2026 22:11:01 +0000"
         }
       ]
     }
