@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-14T20:47:37Z",
+  "generated_at": "2026-03-14T21:03:38Z",
   "items": [
     {
       "region": "Македонија",
@@ -39,6 +39,13 @@
     {
       "region": "Македонија",
       "source": "NetPress",
+      "title": "Руската воздушна одбрана собори три дронови што летале кон Москва.",
+      "link": "https://netpress.com.mk/ruskata-vozdushna-odbrana-sobori-tri-dronovi-shto-letale-kon-moskva/",
+      "published": "Sat, 14 Mar 2026 21:00:36 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "NetPress",
       "title": "Бундеслига: Баерн со двајца играчи помалку ремизираше во Леверкузен, по бод за Хамбургер и Келн",
       "link": "https://netpress.com.mk/bundesliga-baern-so-dvajcza-igrachi-pomalku-remizirashe-vo-leverkuzen-po-bod-za-hamburger-i-keln/",
       "published": "Sat, 14 Mar 2026 20:25:22 +0000"
@@ -65,11 +72,11 @@
       "published": "Sat, 14 Mar 2026 19:53:52 +0000"
     },
     {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Г.г. Стефан на литургија за загинатите во дискотеката „Пулс“: Солзите и да престанат, тагата не исчезнува",
-      "link": "https://netpress.com.mk/g-g-stefan-na-liturgija-za-zaginatite-vo-diskotekata-puls-solzite-i-da-prestanat-tagata-ne-ischeznuva/",
-      "published": "Sat, 14 Mar 2026 18:05:33 +0000"
+      "region": "Свет",
+      "source": "BBC",
+      "title": "Three more Iran football team members change minds over asylum",
+      "link": "https://www.bbc.com/news/articles/c98gz372683o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 14 Mar 2026 20:48:55 GMT"
     },
     {
       "region": "Свет",
@@ -101,10 +108,24 @@
     },
     {
       "region": "Свет",
-      "source": "BBC",
-      "title": "Rescuers blame weather and 'underprepared skiers' for rise in Alps avalanche deaths",
-      "link": "https://www.bbc.com/news/articles/cev7111kx9wo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 14 Mar 2026 16:32:25 GMT"
+      "source": "Al Jazeera",
+      "title": "Hundreds protest against US-Israeli strikes on Iran in Seoul",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/14/hundreds-protest-against-us-israeli-strikes-on-iran-in-seoul?traffic_source=rss",
+      "published": "Sat, 14 Mar 2026 20:38:26 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Two more Iranian female footballers pull Australia asylum bids: State media",
+      "link": "https://www.aljazeera.com/news/2026/3/14/two-more-iranian-women-footballers-pull-australia-asylum-bids-state-media?traffic_source=rss",
+      "published": "Sat, 14 Mar 2026 20:35:49 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Arsenal beat Everton as Dowman makes Premier League history",
+      "link": "https://www.aljazeera.com/sports/2026/3/14/arsenal-beat-everton-as-dowman-makes-premier-league-history?traffic_source=rss",
+      "published": "Sat, 14 Mar 2026 20:27:13 +0000"
     },
     {
       "region": "Свет",
@@ -119,27 +140,6 @@
       "title": "Turkey on alert as Iran conflict escalates, warns against provocations",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/3/14/turkey-on-alert-as-iran-conflict-escalates-warns-against-provocations?traffic_source=rss",
       "published": "Sat, 14 Mar 2026 20:01:20 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "UNESCO condemns strike on Minab girls’ school: ‘They attacked twice… How",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/14/unesco-condemns-strike-on-minab-girls-school-they-attacked-twice-how?traffic_source=rss",
-      "published": "Sat, 14 Mar 2026 19:58:27 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Six killed in attacks on Ukraine as EU extends sanctions against Russians",
-      "link": "https://www.aljazeera.com/news/2026/3/14/eu-sanctions-against-russia-renewed-amid-deadly-attacks-on-ukraine?traffic_source=rss",
-      "published": "Sat, 14 Mar 2026 19:28:58 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Trump administration threatens news outlets over critical coverage of Iran",
-      "link": "https://www.aljazeera.com/news/2026/3/14/trump-administration-threatens-news-outlets-over-critical-coverage-of-iran?traffic_source=rss",
-      "published": "Sat, 14 Mar 2026 19:25:29 +0000"
     }
   ]
 }
