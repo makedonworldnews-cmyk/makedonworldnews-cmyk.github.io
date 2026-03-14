@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-14T16:34:49Z",
+  "updatedAt": "2026-03-14T17:00:31Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) Баерн со двајца играчи помалку избегна пораз во Леверкузен",
+          "link": "https://makfax.com.mk/sport/video-baern-so-dvajcza-igrachi-pomalku-izbegna-poraz-vo-leverkuzen/",
+          "published": "Sat, 14 Mar 2026 16:43:32 +0000"
         },
         {
           "source": "Makfax",
@@ -35,10 +41,10 @@
           "published": "Sat, 14 Mar 2026 15:27:12 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Маж ги прекршил забраните и ѝ се заканувал на поранешната партнерка",
-          "link": "https://makfax.com.mk/crna-hronika/mazh-gi-prekrshil-zabranite-i-%d1%9d-se-zakanuval-na-poraneshnata-partnerka/",
-          "published": "Sat, 14 Mar 2026 15:24:40 +0000"
+          "source": "NetPress",
+          "title": "Портпаролот на принцот Хари за новата биографија: „Налудничава теорија на заговор“",
+          "link": "https://netpress.com.mk/portparolot-na-princzot-hari-za-novata-biografija-naludnichava-teorija-na-zagovor/",
+          "published": "Sat, 14 Mar 2026 16:36:35 +0000"
         },
         {
           "source": "NetPress",
@@ -63,12 +69,6 @@
           "title": "Денешниот протест покажа дека е само една заедничка парада на СДС и ССМ со која ги лажат работниците дека се залагаат за повисоки плати",
           "link": "https://netpress.com.mk/deneshniot-protest-pokazha-deka-e-samo-edna-zaednichka-parada-na-sds-i-ssm-so-koja-gi-lazhat-rabotniczite-deka-se-zalagaat-za-povisoki-plati/",
           "published": "Sat, 14 Mar 2026 14:18:09 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Македонските институции и македонскиот здравствен систем соодветно се справи со трагедијата во Кочани",
-          "link": "https://netpress.com.mk/makedonskite-instituczii-i-makedonskiot-zdravstven-sistem-soodvetno-se-spravi-so-tragedijata-vo-kochani/",
-          "published": "Sat, 14 Mar 2026 13:36:59 +0000"
         }
       ]
     },
@@ -107,6 +107,18 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Iran allows limited Indian shipping through Strait of Hormuz",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/14/iran-allows-limited-indian-shipping-through-strait-of-hormuz?traffic_source=rss",
+          "published": "Sat, 14 Mar 2026 16:23:24 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Israel bombs Basij checkpoints in Tehran as US, Iran trade fire and jabs",
+          "link": "https://www.aljazeera.com/news/2026/3/14/israel-bombs-basij-checkpoints-in-tehran-as-us-iran-trade-fire-and-jabs?traffic_source=rss",
+          "published": "Sat, 14 Mar 2026 16:03:00 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "How Carney’s ‘build fast’ push divides Canada’s Indigenous peoples",
           "link": "https://www.aljazeera.com/economy/2026/3/14/carneys-build-big-and-build-fast-push-is-dividing-canadas-indigenous?traffic_source=rss",
           "published": "Sat, 14 Mar 2026 15:18:59 +0000"
@@ -122,18 +134,6 @@
           "title": "Vatican envoy visits Lebanese church after priest killed in shelling",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/3/14/vatican-envoy-visits-lebanese-church-after-priest-killed-in-shelling?traffic_source=rss",
           "published": "Sat, 14 Mar 2026 14:55:53 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Hunger is looming over Yemen, urgent action is needed",
-          "link": "https://www.aljazeera.com/opinions/2026/3/14/hunger-is-looming-over-yemen-urgent-action-is-needed?traffic_source=rss",
-          "published": "Sat, 14 Mar 2026 14:44:56 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Why is Iran’s Kharg Island important?",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/14/us-bombs-irans-oil-hub-kharg-island?traffic_source=rss",
-          "published": "Sat, 14 Mar 2026 14:07:05 +0000"
         }
       ]
     }
