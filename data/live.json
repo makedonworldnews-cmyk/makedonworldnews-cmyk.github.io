@@ -1,40 +1,40 @@
 {
-  "generated_at": "2026-03-14T15:12:56Z",
+  "generated_at": "2026-03-14T15:43:43Z",
   "items": [
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "Иран нема да го отвори Ормускиот Теснец и покрај заканите на Трамп",
+      "link": "https://makfax.com.mk/svet/iran-nema-da-go-otvori-ormuskiot-tesnecz-i-pokraj-zakanite-na-tramp/",
+      "published": "Sat, 14 Mar 2026 15:31:23 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "Полициски акции против за низ државата, приведени повеќе лица во Скопје, Радовиш и Охрид",
+      "link": "https://makfax.com.mk/crna-hronika/policziski-akczii-protiv-droga-niz-drzhavata-privedeni-poveke-licza-vo-skopje-radovish-i-ohrid/",
+      "published": "Sat, 14 Mar 2026 15:27:12 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "Маж ги прекршил забраните и ѝ се заканувал на поранешната партнерка",
+      "link": "https://makfax.com.mk/crna-hronika/mazh-gi-prekrshil-zabranite-i-%d1%9d-se-zakanuval-na-poraneshnata-partnerka/",
+      "published": "Sat, 14 Mar 2026 15:24:40 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "Работник загина по пад од висина на градилиште во Скопје",
+      "link": "https://makfax.com.mk/crna-hronika/rabotnik-zagina-po-pad-od-visina-na-gradilishte-vo-skopje/",
+      "published": "Sat, 14 Mar 2026 15:14:05 +0000"
+    },
     {
       "region": "Македонија",
       "source": "Makfax",
       "title": "„Федерер го интересираа само парите, никому ништо не му даваше“",
       "link": "https://makfax.com.mk/sport/federer-go-interesiraa-samo-parite-nikomu-nishto-ne-mu-davashe/",
       "published": "Sat, 14 Mar 2026 15:05:56 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "Makfax",
-      "title": "Алонсо не постигнал никаков договор со Ливерпул",
-      "link": "https://makfax.com.mk/sport/alonso-ne-postignal-nikakov-dogovor-so-liverpul/",
-      "published": "Sat, 14 Mar 2026 14:50:31 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "Makfax",
-      "title": "Пронајдена автоматска пушка во реката Вардар кај Гостивар",
-      "link": "https://makfax.com.mk/crna-hronika/pronajdena-avtomatska-pushka-vo-rekata-vardar-kaj-gostivar/",
-      "published": "Sat, 14 Mar 2026 14:13:40 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "Makfax",
-      "title": "Тошковски за годишнината од трагедијата во Кочани: Покажавме дека државата и институциите можат да одговорат на секаков предизвик",
-      "link": "https://makfax.com.mk/makedonija/toshkovski-za-godishninata-od-tragedijata-vo-kochani-pokazhavme-deka-drzhavata-i-institucziite-mozhat-da-odgovorat-na-sekakov-predizvik/",
-      "published": "Sat, 14 Mar 2026 13:38:12 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "Makfax",
-      "title": "Пријави за семејно насилство во повеќе градови, шест лица лишени од слобода",
-      "link": "https://makfax.com.mk/crna-hronika/prijavi-za-semejno-nasilstvo-vo-poveke-gradovi-shest-licza-lisheni-od-sloboda/",
-      "published": "Sat, 14 Mar 2026 13:32:23 +0000"
     },
     {
       "region": "Македонија",
@@ -109,6 +109,13 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "Vatican envoy visits Lebanese church after priest killed in shelling",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/14/vatican-envoy-visits-lebanese-church-after-priest-killed-in-shelling?traffic_source=rss",
+      "published": "Sat, 14 Mar 2026 14:55:53 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "Hunger is looming over Yemen, urgent action is needed",
       "link": "https://www.aljazeera.com/opinions/2026/3/14/hunger-is-looming-over-yemen-urgent-action-is-needed?traffic_source=rss",
       "published": "Sat, 14 Mar 2026 14:44:56 +0000"
@@ -133,13 +140,6 @@
       "title": "Smoke rises from Fujairah oil facility in UAE",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/3/14/smoke-rises-from-fujairah-oil-facility-in-uae?traffic_source=rss",
       "published": "Sat, 14 Mar 2026 13:25:52 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Moment car slams into Muslim woman in broad daylight",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/14/moment-car-slams-into-muslim-woman-in-broad-daylight?traffic_source=rss",
-      "published": "Sat, 14 Mar 2026 13:09:31 +0000"
     }
   ]
 }
