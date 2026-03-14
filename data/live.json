@@ -1,6 +1,20 @@
 {
-  "generated_at": "2026-03-14T18:34:22Z",
+  "generated_at": "2026-03-14T19:05:04Z",
   "items": [
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "Војна на световите“ ја освои наградата за најлош филм",
+      "link": "https://makfax.com.mk/zanimlivosti/vojna-na-svetovite-ja-osvoi-nagradata-za-najlosh-film/",
+      "published": "Sat, 14 Mar 2026 18:49:19 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "Иран: Ормускиот теснец е затворен само за нашите непријатели",
+      "link": "https://makfax.com.mk/svet/iran-ormuskiot-tesnecz-e-zatvoren-samo-za-nashite-neprijateli/",
+      "published": "Sat, 14 Mar 2026 18:44:53 +0000"
+    },
     {
       "region": "Македонија",
       "source": "Makfax",
@@ -21,20 +35,6 @@
       "title": "Ѓорѓиевски вели дека заглавениот и заборавен проект за Момин Поток конечно се реализира со силно темпо",
       "link": "https://makfax.com.mk/makedonija/gorgievski-veli-deka-zaglaveniot-i-zaboraven-proekt-za-momin-potok-konechno-se-realizira-so-silno-tempo/",
       "published": "Sat, 14 Mar 2026 17:56:43 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "Makfax",
-      "title": "Г.г. Стефан за трагедијата во Кочани: Нашите прерано заминати деца, браќа, сестри, внуци, роднини, пријатели засекогаш ќе ни недостасуваат",
-      "link": "https://makfax.com.mk/makedonija/g-g-stefan-za-tragedijata-vo-kochani-nashite-prerano-zaminati-decza-braka-sestri-vnuczi-rodnini-prijateli-zasekogash-ke-ni-nedostasuvaat/",
-      "published": "Sat, 14 Mar 2026 17:50:20 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "Makfax",
-      "title": "Полицаец цела година сексуално злоставувал малолетно момче",
-      "link": "https://makfax.com.mk/crna-hronika/policzaecz-czela-godina-seksualno-zlostavuval-maloletno-momche/",
-      "published": "Sat, 14 Mar 2026 17:46:10 +0000"
     },
     {
       "region": "Македонија",
@@ -109,6 +109,20 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "Iran warns UAE ports and ‘American hideouts’ are targets",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/14/iran-warns-uae-ports-and-american-hideouts-are-targets?traffic_source=rss",
+      "published": "Sat, 14 Mar 2026 18:31:30 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Is the world ignoring Gaza?",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/3/14/is-the-world-ignoring-gaza?traffic_source=rss",
+      "published": "Sat, 14 Mar 2026 18:13:37 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "Protesters in Cuba attack Communist party office in rare riot over blackout",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/3/14/protesters-in-cuba-attack-communist-party-office-in-rare-riot-over-blackout?traffic_source=rss",
       "published": "Sat, 14 Mar 2026 18:01:56 +0000"
@@ -126,20 +140,6 @@
       "title": "UN chief Guterres says ‘no military solution, only diplomacy’ for Lebanon",
       "link": "https://www.aljazeera.com/news/2026/3/14/un-chief-guterres-says-no-military-solution-only-diplomacy-for-lebanon?traffic_source=rss",
       "published": "Sat, 14 Mar 2026 17:24:56 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Protests erupt in Cuba as US restrictions spark food, energy shortages",
-      "link": "https://www.aljazeera.com/news/2026/3/14/protests-erupt-in-cuba-as-us-restrictions-spark-food-energy-shortages?traffic_source=rss",
-      "published": "Sat, 14 Mar 2026 17:09:09 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "LIVE: Real Madrid vs Elche – La Liga",
-      "link": "https://www.aljazeera.com/sports/liveblog/2026/3/14/live-real-madrid-vs-elche-la-liga?traffic_source=rss",
-      "published": "Sat, 14 Mar 2026 17:02:45 +0000"
     }
   ]
 }
