@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-15T20:00:19Z",
+  "updatedAt": "2026-03-15T20:44:50Z",
   "groups": [
     {
       "region": "Македонија",
@@ -42,6 +42,24 @@
         },
         {
           "source": "NetPress",
+          "title": "Шилегов: СДСМ е кадровски испразнета и е на прагот на политичка егзистенција",
+          "link": "https://netpress.com.mk/shilegov-sdsm-e-kadrovski-isprazneta-i-e-na-pragot-na-politichka-egzistenczija/",
+          "published": "Sun, 15 Mar 2026 20:37:42 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Над 3.000 мртви во американско-израелската војна против Иран",
+          "link": "https://netpress.com.mk/nad-3-000-mrtvi-vo-amerikansko-izraelskata-vojna-protiv-iran/",
+          "published": "Sun, 15 Mar 2026 20:30:45 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Премиер лига: Тотенхем ремизираше кај Ливeрпул, Манчестер Јунајтед ја победи Астон Вила",
+          "link": "https://netpress.com.mk/premier-liga-totenhem-remizirashe-kaj-liverpul-manchester-junajted-ja-pobedi-aston-vila/",
+          "published": "Sun, 15 Mar 2026 20:08:14 +0000"
+        },
+        {
+          "source": "NetPress",
           "title": "Ѓоковиќ го откажа настапот во Мајами",
           "link": "https://netpress.com.mk/gokovik-go-otkazha-nastapot-vo-majami/",
           "published": "Sun, 15 Mar 2026 19:36:35 +0000"
@@ -51,24 +69,6 @@
           "title": "ФОТО I Над 1000 планинари на маршот во чест на „Ивона Антова и 63 ангели“",
           "link": "https://netpress.com.mk/foto-i-nad-1000-planinari-na-marshot-vo-chest-na-ivona-antova-i-63-angeli/",
           "published": "Sun, 15 Mar 2026 19:03:28 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Кривична пријава против Зоран Витанов за случајот „Мајворлд“, измамени илјадници граѓани",
-          "link": "https://netpress.com.mk/krivichna-prijava-protiv-zoran-vitanov-za-sluchajot-majvorld-izmameni-iljadniczi-gragani/",
-          "published": "Sun, 15 Mar 2026 17:01:10 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Нападите врз Иран ќе траат најмалку уште три седмици, според израелски портпарол",
-          "link": "https://netpress.com.mk/napadite-vrz-iran-ke-traat-najmalku-ushte-tri-sedmiczi-spored-izraelski-portparol/",
-          "published": "Sun, 15 Mar 2026 16:28:29 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Трамп во оваа фаза не сака договор со Иран и покрај високата цена на војната",
-          "link": "https://netpress.com.mk/tramp-vo-ovaa-faza-ne-saka-dogovor-so-iran-i-pokraj-visokata-czena-na-vojnata/",
-          "published": "Sun, 15 Mar 2026 15:52:14 +0000"
         }
       ]
     },
@@ -107,6 +107,12 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Ukraine eyes money and tech in return for Middle East drone support",
+          "link": "https://www.aljazeera.com/news/2026/3/15/money-technology-important-in-return-for-middle-east-support-zelenskyy?traffic_source=rss",
+          "published": "Sun, 15 Mar 2026 20:03:03 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "What is force majeure and why are some Gulf countries invoking it?",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/3/15/what-is-force-majeure-and-why-are-some-gulf-countries-invoking-it?traffic_source=rss",
           "published": "Sun, 15 Mar 2026 19:30:55 +0000"
@@ -128,12 +134,6 @@
           "title": "Different parties ‘on the rise’ within the anti-Netanyahu right",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/3/15/different-parties-on-the-rise-within-the-anti-netanyahu-right?traffic_source=rss",
           "published": "Sun, 15 Mar 2026 18:56:48 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "US Senator Van Hollen: Trump ‘has no idea where this war is going’",
-          "link": "https://www.aljazeera.com/video/the-bottom-line/2026/3/15/us-senator-van-hollen-trump-has-no-idea-where-this-war-is?traffic_source=rss",
-          "published": "Sun, 15 Mar 2026 18:52:50 +0000"
         }
       ]
     }
