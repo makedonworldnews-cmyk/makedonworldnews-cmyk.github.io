@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-15T19:17:34Z",
+  "updatedAt": "2026-03-15T19:45:21Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Од сонце, на дожд и снег: зимски циклон со центар над Јонско море ни носи заладување",
+          "link": "https://makfax.com.mk/makedonija/od-soncze-na-dozhd-i-sneg-zimski-cziklon-so-czentar-nad-jonsko-more-ni-nosi-zaladuvane/",
+          "published": "Sun, 15 Mar 2026 19:40:30 +0000"
         },
         {
           "source": "Makfax",
@@ -35,10 +41,10 @@
           "published": "Sun, 15 Mar 2026 18:37:59 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "(Видео) „Петарда“ на Барселона и хет-трик на Рафиња",
-          "link": "https://makfax.com.mk/sport/video-petarda-na-barselona-i-het-trik-na-rafina/",
-          "published": "Sun, 15 Mar 2026 17:50:56 +0000"
+          "source": "NetPress",
+          "title": "Ѓоковиќ го откажа настапот во Мајами",
+          "link": "https://netpress.com.mk/gokovik-go-otkazha-nastapot-vo-majami/",
+          "published": "Sun, 15 Mar 2026 19:36:35 +0000"
         },
         {
           "source": "NetPress",
@@ -63,12 +69,6 @@
           "title": "Трамп во оваа фаза не сака договор со Иран и покрај високата цена на војната",
           "link": "https://netpress.com.mk/tramp-vo-ovaa-faza-ne-saka-dogovor-so-iran-i-pokraj-visokata-czena-na-vojnata/",
           "published": "Sun, 15 Mar 2026 15:52:14 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Хрват осомничен за смртоносен напад врз група Авганистанци во Австрија",
-          "link": "https://netpress.com.mk/hrvat-osomnichen-za-smrtonosen-napad-vrz-grupa-avganistanczi-vo-avstrija/",
-          "published": "Sun, 15 Mar 2026 15:18:54 +0000"
         }
       ]
     },
