@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-15T12:22:15Z",
+  "updatedAt": "2026-03-15T13:29:03Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Свекрва тепала снаа, мажи тепале жени: регистрирани седум пријави за семејно насилство во последните 24 часа",
+          "link": "https://makfax.com.mk/makedonija/svekrva-tepala-snaa-mazhi-tepale-zheni-registrirani-sedum-prijavi-za-semejno-nasilstvo-vo-poslednite-24-chasa/",
+          "published": "Sun, 15 Mar 2026 13:11:25 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Хотелите во Будва бараат 5.000 сезонски работници",
+          "link": "https://makfax.com.mk/svet/hotelite-vo-budva-baraat-5-000-sezonski-rabotniczi/",
+          "published": "Sun, 15 Mar 2026 12:34:55 +0000"
         },
         {
           "source": "Makfax",
@@ -29,16 +41,22 @@
           "published": "Sun, 15 Mar 2026 10:44:42 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Полицијата тресеше во Тетово, уапси четири лица и пронајде предмети од кривични дела",
-          "link": "https://makfax.com.mk/crna-hronika/policzijata-trese-vo-tetovo-uapsi-chetiri-licza-i-pronajde-predmeti-od-krivichni-dela/",
-          "published": "Sun, 15 Mar 2026 10:40:30 +0000"
+          "source": "NetPress",
+          "title": "Фудбалер уби бизнисменка во Москва",
+          "link": "https://netpress.com.mk/fudbaler-ubi-biznismenka-vo-moskva/",
+          "published": "Sun, 15 Mar 2026 13:26:27 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Со плач и прегратки, на импровизирани гробишта се погребуваат загинатите од нападите во Либан",
-          "link": "https://makfax.com.mk/svet/so-plach-i-pregratki-na-improvizirani-grobishta-se-pogrebuvaat-zaginatite-od-napadite-vo-liban/",
-          "published": "Sun, 15 Mar 2026 10:12:49 +0000"
+          "source": "NetPress",
+          "title": "УЈП: Даночната дисциплина и фер конкуренцијата одат заедно",
+          "link": "https://netpress.com.mk/ujp-danochnata-discziplina-i-fer-konkurenczijata-odat-zaedno/",
+          "published": "Sun, 15 Mar 2026 12:46:11 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Почнува кампањата „Гласот што го слушаме – македонско најдобро“, ќе се посетат над 120 населени места",
+          "link": "https://netpress.com.mk/pochnuva-kampanata-glasot-shto-go-slushame-makedonsko-najdobro-ke-se-posetat-nad-120-naseleni-mesta/",
+          "published": "Sun, 15 Mar 2026 12:34:20 +0000"
         },
         {
           "source": "NetPress",
@@ -51,24 +69,6 @@
           "title": "Траедија во Битола: 19-годишно момче пронајдено мртво во стан",
           "link": "https://netpress.com.mk/traedija-vo-bitola-19-godishno-momche-pronajdeno-mrtvo-vo-stan/",
           "published": "Sun, 15 Mar 2026 11:34:45 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Доларот зајакна втора седмица по ред поради блискоисточната криза",
-          "link": "https://netpress.com.mk/dolarot-zajakna-vtora-sedmicza-po-red-poradi-bliskoistochnata-kriza/",
-          "published": "Sun, 15 Mar 2026 11:24:44 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Дали САД ќе инсталираат „свој Шах“ во Иран? Тоа веќе го направија пред 70 години за нафтата",
-          "link": "https://netpress.com.mk/dali-sad-ke-instaliraat-svoj-shah-vo-iran-toa-veke-go-napravija-pred-70-godini-za-naftata/",
-          "published": "Sun, 15 Mar 2026 11:13:57 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Пад на светските берзи поради растот на цените на нафтата",
-          "link": "https://netpress.com.mk/pad-na-svetskite-berzi-poradi-rastot-na-czenite-na-naftata/",
-          "published": "Sun, 15 Mar 2026 11:07:34 +0000"
         }
       ]
     },
@@ -91,7 +91,7 @@
           "source": "BBC",
           "title": "Severe flooding kills 62 in Kenya, as heavy rains continue",
           "link": "https://www.bbc.com/news/articles/cz6e5eng03yo?at_medium=RSS&at_campaign=rss",
-          "published": "Sun, 15 Mar 2026 10:13:03 GMT"
+          "published": "Sun, 15 Mar 2026 13:19:04 GMT"
         },
         {
           "source": "BBC",
@@ -107,6 +107,24 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "France offers to broker Lebanon-Israel talks: What do we know?",
+          "link": "https://www.aljazeera.com/news/2026/3/15/france-offers-to-broker-lebanon-israel-talks-what-do-we-know?traffic_source=rss",
+          "published": "Sun, 15 Mar 2026 13:00:51 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "ICC judge says US sanctions left her without bank cards and Google accounts",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/15/icc-judge-says-us-sanctions-left-her-without-bank-cards-and-google-accounts?traffic_source=rss",
+          "published": "Sun, 15 Mar 2026 12:53:02 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "How Trump’s unchecked power has changed the world",
+          "link": "https://www.aljazeera.com/news/2026/3/15/how-trumps-unchecked-power-has-changed-the-world?traffic_source=rss",
+          "published": "Sun, 15 Mar 2026 12:30:24 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "‘We killed dogs’: Israeli troops kill two children, parents in West Bank",
           "link": "https://www.aljazeera.com/news/2026/3/15/we-killed-dogs-israeli-troops-kill-two-children-parents-in-west-bank?traffic_source=rss",
           "published": "Sun, 15 Mar 2026 12:11:04 +0000"
@@ -116,24 +134,6 @@
           "title": "Oscars 2026: Nominees, predictions, start time and how to watch",
           "link": "https://www.aljazeera.com/news/2026/3/15/oscars-2026-nominees-predictions-start-time-and-how-to-watch?traffic_source=rss",
           "published": "Sun, 15 Mar 2026 11:36:48 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Iranian govt reveals scale of civilian casualties from US-Israeli strikes",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/15/iranian-govt-reveals-scale-of-civilian-casualties-from-us-israeli-strikes?traffic_source=rss",
-          "published": "Sun, 15 Mar 2026 11:32:54 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Iran claims US and Israel using copycat ‘Lucas’ drones to frame it",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/15/iran-claims-us-and-israel-using-copycat-lucas-drones-to-frame-it?traffic_source=rss",
-          "published": "Sun, 15 Mar 2026 11:21:58 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Overnight Israeli attacks kill four people in Lebanon",
-          "link": "https://www.aljazeera.com/news/2026/3/15/overnight-israeli-attacks-kill-four-people-in-lebanon?traffic_source=rss",
-          "published": "Sun, 15 Mar 2026 11:05:21 +0000"
         }
       ]
     }
