@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-15T13:29:03Z",
+  "updatedAt": "2026-03-15T14:03:31Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,24 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Ѓорѓиевски објави дека е во тек акција за темелно чистење на коритото на реката Вардар",
+          "link": "https://makfax.com.mk/makedonija/gorgievski-objavi-deka-e-vo-tek-akczija-za-temelno-chistene-na-koritoto-na-rekata-vardar/",
+          "published": "Sun, 15 Mar 2026 13:50:47 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Тешко повреден возач во сообраќајна несреќа кај ГП Дојран",
+          "link": "https://makfax.com.mk/crna-hronika/teshko-povreden-vozach-vo-soobrakajna-nesreka-kaj-gp-dojran/",
+          "published": "Sun, 15 Mar 2026 13:43:27 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Маж нападнат од четири лица во подземна гаража во Центар, едниот носел оружје",
+          "link": "https://makfax.com.mk/crna-hronika/mazh-napadnat-od-chetiri-licza-vo-podzemna-garazha-vo-czentar-edniot-nosel-oruzhje/",
+          "published": "Sun, 15 Mar 2026 13:33:22 +0000"
         },
         {
           "source": "Makfax",
@@ -23,22 +41,10 @@
           "published": "Sun, 15 Mar 2026 12:34:55 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Принцот Вилијам објави невидена фотографија од Дијана од приватната колекција на семејството",
-          "link": "https://makfax.com.mk/svet/princzot-vilijam-objavi-nevidena-fotografija-od-dajana-od-privatnata-kolekczija-na-semejstvoto/",
-          "published": "Sun, 15 Mar 2026 12:10:31 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Една година по сташниот пожар во „Пулс“, дел од повредените ги чекаат сложени операции од изгореници",
-          "link": "https://makfax.com.mk/makedonija/edna-godina-po-stashniot-pozhar-vo-puls-del-od-povredenite-gi-chekaat-slozheni-operaczii-od-izgoreniczite/",
-          "published": "Sun, 15 Mar 2026 11:14:36 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Едни се заканувале со нож, други пресретнале возило и го оштетиле со тврд предмет",
-          "link": "https://makfax.com.mk/crna-hronika/edni-se-zakanuvale-so-nozh-drugi-presretnale-vozilo-i-go-oshtetile-so-tvrd-predmet/",
-          "published": "Sun, 15 Mar 2026 10:44:42 +0000"
+          "source": "NetPress",
+          "title": "Седум пријави за семејно насилство за 24 часа",
+          "link": "https://netpress.com.mk/sedum-prijavi-za-semejno-nasilstvo-za-24-chasa/",
+          "published": "Sun, 15 Mar 2026 13:32:13 +0000"
         },
         {
           "source": "NetPress",
@@ -63,12 +69,6 @@
           "title": "ВИДЕО| „Од пламен до надеж“, документарен филм за преживеаните од „Пулс“",
           "link": "https://netpress.com.mk/video-od-plamen-do-nadezh-dokumentaren-film-za-prezhiveanite-od-puls/",
           "published": "Sun, 15 Mar 2026 11:48:04 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Траедија во Битола: 19-годишно момче пронајдено мртво во стан",
-          "link": "https://netpress.com.mk/traedija-vo-bitola-19-godishno-momche-pronajdeno-mrtvo-vo-stan/",
-          "published": "Sun, 15 Mar 2026 11:34:45 +0000"
         }
       ]
     },
@@ -107,6 +107,18 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "What do the first two weeks of the war on Iran portend for the future?",
+          "link": "https://www.aljazeera.com/opinions/2026/3/15/what-do-the-first-two-weeks-of-the-war-on-iran-portend-for-the-future?traffic_source=rss",
+          "published": "Sun, 15 Mar 2026 13:41:53 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Keisuke Honda loses US advertising deal over Iran support at World Cup",
+          "link": "https://www.aljazeera.com/sports/2026/3/15/keisuke-honda-loses-us-advertising-deal-over-iran-support-at-world-cup?traffic_source=rss",
+          "published": "Sun, 15 Mar 2026 13:06:41 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "France offers to broker Lebanon-Israel talks: What do we know?",
           "link": "https://www.aljazeera.com/news/2026/3/15/france-offers-to-broker-lebanon-israel-talks-what-do-we-know?traffic_source=rss",
           "published": "Sun, 15 Mar 2026 13:00:51 +0000"
@@ -122,18 +134,6 @@
           "title": "How Trump’s unchecked power has changed the world",
           "link": "https://www.aljazeera.com/news/2026/3/15/how-trumps-unchecked-power-has-changed-the-world?traffic_source=rss",
           "published": "Sun, 15 Mar 2026 12:30:24 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "‘We killed dogs’: Israeli troops kill two children, parents in West Bank",
-          "link": "https://www.aljazeera.com/news/2026/3/15/we-killed-dogs-israeli-troops-kill-two-children-parents-in-west-bank?traffic_source=rss",
-          "published": "Sun, 15 Mar 2026 12:11:04 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Oscars 2026: Nominees, predictions, start time and how to watch",
-          "link": "https://www.aljazeera.com/news/2026/3/15/oscars-2026-nominees-predictions-start-time-and-how-to-watch?traffic_source=rss",
-          "published": "Sun, 15 Mar 2026 11:36:48 +0000"
         }
       ]
     }
