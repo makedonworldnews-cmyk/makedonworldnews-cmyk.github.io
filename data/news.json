@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-15T16:50:51Z",
+  "updatedAt": "2026-03-15T17:28:37Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Ред Бул објасни зошто Ферстапен не ја заврши трката во Шангај",
+          "link": "https://makfax.com.mk/sport/red-bul-objasni-zoshto-ferstapen-ne-ja-zavrshi-trkata-vo-shangaj/",
+          "published": "Sun, 15 Mar 2026 16:51:56 +0000"
         },
         {
           "source": "Makfax",
@@ -35,10 +41,10 @@
           "published": "Sun, 15 Mar 2026 16:19:32 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Во вторник ќе се реализира уште еден лет за евакуација на македонски државјани заглавени во војната на Блискиот Исток",
-          "link": "https://makfax.com.mk/makedonija/vo-vtornik-ke-se-realizira-ushte-eden-let-za-evakuaczija-na-makedonski-drzhavjani-zaglaveni-vo-vojnata-na-bliskiot-istok/",
-          "published": "Sun, 15 Mar 2026 16:05:54 +0000"
+          "source": "NetPress",
+          "title": "Кривична пријава против Зоран Витанов за случајот „Мајворлд“, измамени илјадници граѓани",
+          "link": "https://netpress.com.mk/krivichna-prijava-protiv-zoran-vitanov-za-sluchajot-majvorld-izmameni-iljadniczi-gragani/",
+          "published": "Sun, 15 Mar 2026 17:01:10 +0000"
         },
         {
           "source": "NetPress",
@@ -63,12 +69,6 @@
           "title": "Набавете билети за мечот Данска-Македонија",
           "link": "https://netpress.com.mk/nabavete-bileti-za-mechot-danska-makedonija/",
           "published": "Sun, 15 Mar 2026 14:56:15 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Економските челници на САД и Кина на средба во Париз на подготoвки за самитот Трамп-Кси",
-          "link": "https://netpress.com.mk/ekonomskite-chelniczi-na-sad-i-kina-na-sredba-vo-pariz-na-podgotovki-za-samitot-tramp-ksi/",
-          "published": "Sun, 15 Mar 2026 14:48:07 +0000"
         }
       ]
     },
