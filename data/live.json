@@ -1,6 +1,13 @@
 {
-  "generated_at": "2026-03-15T13:50:47Z",
+  "generated_at": "2026-03-15T14:23:19Z",
   "items": [
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "Полицијата одзеде шест автомобили и лиши од слобода 13 возачи",
+      "link": "https://makfax.com.mk/makedonija/policzijata-odzede-shest-avtomobili-i-lishi-od-sloboda-13-vozachi/",
+      "published": "Sun, 15 Mar 2026 14:10:28 +0000"
+    },
     {
       "region": "Македонија",
       "source": "Makfax",
@@ -31,10 +38,24 @@
     },
     {
       "region": "Македонија",
-      "source": "Makfax",
-      "title": "Хотелите во Будва бараат 5.000 сезонски работници",
-      "link": "https://makfax.com.mk/svet/hotelite-vo-budva-baraat-5-000-sezonski-rabotniczi/",
-      "published": "Sun, 15 Mar 2026 12:34:55 +0000"
+      "source": "NetPress",
+      "title": "Баерн остана без голман",
+      "link": "https://netpress.com.mk/baern-ostana-bez-golman/",
+      "published": "Sun, 15 Mar 2026 14:17:52 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "NetPress",
+      "title": "Доаѓањето на француски претставници во Москва не донесе позитивни сигнали",
+      "link": "https://netpress.com.mk/doaganeto-na-franczuski-pretstavniczi-vo-moskva-ne-donese-pozitivni-signali/",
+      "published": "Sun, 15 Mar 2026 14:15:36 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "NetPress",
+      "title": "Зеленски: Притисокот од ЕУ за повторно отворање на рускиот нафтовод е „уцена“",
+      "link": "https://netpress.com.mk/zelenski-pritisokot-od-eu-za-povtorno-otvorane-na-ruskiot-naftovod-e-uczena/",
+      "published": "Sun, 15 Mar 2026 14:04:25 +0000"
     },
     {
       "region": "Македонија",
@@ -49,27 +70,6 @@
       "title": "Фудбалер уби бизнисменка во Москва",
       "link": "https://netpress.com.mk/fudbaler-ubi-biznismenka-vo-moskva/",
       "published": "Sun, 15 Mar 2026 13:26:27 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "УЈП: Даночната дисциплина и фер конкуренцијата одат заедно",
-      "link": "https://netpress.com.mk/ujp-danochnata-discziplina-i-fer-konkurenczijata-odat-zaedno/",
-      "published": "Sun, 15 Mar 2026 12:46:11 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Почнува кампањата „Гласот што го слушаме – македонско најдобро“, ќе се посетат над 120 населени места",
-      "link": "https://netpress.com.mk/pochnuva-kampanata-glasot-shto-go-slushame-makedonsko-najdobro-ke-se-posetat-nad-120-naseleni-mesta/",
-      "published": "Sun, 15 Mar 2026 12:34:20 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "ВИДЕО| „Од пламен до надеж“, документарен филм за преживеаните од „Пулс“",
-      "link": "https://netpress.com.mk/video-od-plamen-do-nadezh-dokumentaren-film-za-prezhiveanite-od-puls/",
-      "published": "Sun, 15 Mar 2026 11:48:04 +0000"
     },
     {
       "region": "Свет",
@@ -109,6 +109,13 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "What do the first two weeks of the war on Iran portend for the future?",
+      "link": "https://www.aljazeera.com/opinions/2026/3/15/what-do-the-first-two-weeks-of-the-war-on-iran-portend-for-the-future?traffic_source=rss",
+      "published": "Sun, 15 Mar 2026 13:41:53 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "Keisuke Honda loses US advertising deal over Iran support at World Cup",
       "link": "https://www.aljazeera.com/sports/2026/3/15/keisuke-honda-loses-us-advertising-deal-over-iran-support-at-world-cup?traffic_source=rss",
       "published": "Sun, 15 Mar 2026 13:06:41 +0000"
@@ -133,13 +140,6 @@
       "title": "How Trump’s unchecked power has changed the world",
       "link": "https://www.aljazeera.com/news/2026/3/15/how-trumps-unchecked-power-has-changed-the-world?traffic_source=rss",
       "published": "Sun, 15 Mar 2026 12:30:24 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "‘We killed dogs’: Israeli troops kill two children, parents in West Bank",
-      "link": "https://www.aljazeera.com/news/2026/3/15/we-killed-dogs-israeli-troops-kill-two-children-parents-in-west-bank?traffic_source=rss",
-      "published": "Sun, 15 Mar 2026 12:11:04 +0000"
     }
   ]
 }
