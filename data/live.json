@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-15T21:02:47Z",
+  "generated_at": "2026-03-15T21:38:51Z",
   "items": [
     {
       "region": "Македонија",
@@ -39,6 +39,13 @@
     {
       "region": "Македонија",
       "source": "NetPress",
+      "title": "Нетанјаху објави видео како одговор на гласините дека е мртов",
+      "link": "https://netpress.com.mk/netanjahu-objavi-video-kako-odgovor-na-glasinite-deka-e-mrtov/",
+      "published": "Sun, 15 Mar 2026 21:17:16 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "NetPress",
       "title": "Германија нема да игра активна улога во војната против Иран",
       "link": "https://netpress.com.mk/germanija-nema-da-igra-aktivna-uloga-vo-vojnata-protiv-iran/",
       "published": "Sun, 15 Mar 2026 21:01:29 +0000"
@@ -63,13 +70,6 @@
       "title": "Премиер лига: Тотенхем ремизираше кај Ливeрпул, Манчестер Јунајтед ја победи Астон Вила",
       "link": "https://netpress.com.mk/premier-liga-totenhem-remizirashe-kaj-liverpul-manchester-junajted-ja-pobedi-aston-vila/",
       "published": "Sun, 15 Mar 2026 20:08:14 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Ѓоковиќ го откажа настапот во Мајами",
-      "link": "https://netpress.com.mk/gokovik-go-otkazha-nastapot-vo-majami/",
-      "published": "Sun, 15 Mar 2026 19:36:35 +0000"
     },
     {
       "region": "Свет",
@@ -109,6 +109,20 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "A dozen arrests as hundreds attend Al-Quds Day rally in London",
+      "link": "https://www.aljazeera.com/news/2026/3/15/thousands-attend-al-quds-day-rally-in-london?traffic_source=rss",
+      "published": "Sun, 15 Mar 2026 20:50:09 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Displaced families in Lebanon turn vehicles into rain-soaked shelters",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/15/displaced-families-in-lebanon-turn-vehicles-into-rain-soaked-shelters?traffic_source=rss",
+      "published": "Sun, 15 Mar 2026 20:37:19 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "Ukraine eyes money and tech in return for Middle East drone support",
       "link": "https://www.aljazeera.com/news/2026/3/15/money-technology-important-in-return-for-middle-east-support-zelenskyy?traffic_source=rss",
       "published": "Sun, 15 Mar 2026 20:03:03 +0000"
@@ -126,20 +140,6 @@
       "title": "Oscars 2026 live: Sinners, One Battle After Another race for Academy gold",
       "link": "https://www.aljazeera.com/news/liveblog/2026/3/15/oscars-2026-live-sinners-one-battle-after-another-race-for-academy-gold?traffic_source=rss",
       "published": "Sun, 15 Mar 2026 19:30:22 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Two brothers survive after Israeli troops kill family in occupied West Bank",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/15/two-brothers-survive-after-israeli-troops-kill-family-in-occupied-west-bank?traffic_source=rss",
-      "published": "Sun, 15 Mar 2026 19:07:07 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Different parties ‘on the rise’ within the anti-Netanyahu right",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/15/different-parties-on-the-rise-within-the-anti-netanyahu-right?traffic_source=rss",
-      "published": "Sun, 15 Mar 2026 18:56:48 +0000"
     }
   ]
 }
