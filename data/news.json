@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-15T15:15:19Z",
+  "updatedAt": "2026-03-15T15:47:03Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Зеленски: ЕУ ја уценува Украина за повторно да го отвори нафтоводот",
+          "link": "https://makfax.com.mk/svet/zelenski-eu-ja-uczenuva-ukraina-za-povtorno-da-go-otvori-naftovodot/",
+          "published": "Sun, 15 Mar 2026 15:34:36 +0000"
         },
         {
           "source": "Makfax",
@@ -35,10 +41,10 @@
           "published": "Sun, 15 Mar 2026 13:43:27 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Маж нападнат од четири лица во подземна гаража во Центар, едниот носел оружје",
-          "link": "https://makfax.com.mk/crna-hronika/mazh-napadnat-od-chetiri-licza-vo-podzemna-garazha-vo-czentar-edniot-nosel-oruzhje/",
-          "published": "Sun, 15 Mar 2026 13:33:22 +0000"
+          "source": "NetPress",
+          "title": "Хрват осомничен за смртоносен напад врз група Авганистанци во Австрија",
+          "link": "https://netpress.com.mk/hrvat-osomnichen-za-smrtonosen-napad-vrz-grupa-avganistanczi-vo-avstrija/",
+          "published": "Sun, 15 Mar 2026 15:18:54 +0000"
         },
         {
           "source": "NetPress",
@@ -63,12 +69,6 @@
           "title": "Доаѓањето на француски претставници во Москва не донесе позитивни сигнали",
           "link": "https://netpress.com.mk/doaganeto-na-franczuski-pretstavniczi-vo-moskva-ne-donese-pozitivni-signali/",
           "published": "Sun, 15 Mar 2026 14:15:36 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Зеленски: Притисокот од ЕУ за повторно отворање на рускиот нафтовод е „уцена“",
-          "link": "https://netpress.com.mk/zelenski-pritisokot-od-eu-za-povtorno-otvorane-na-ruskiot-naftovod-e-uczena/",
-          "published": "Sun, 15 Mar 2026 14:04:25 +0000"
         }
       ]
     },
