@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-15T17:28:37Z",
+  "updatedAt": "2026-03-15T17:55:16Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) „Петарда“ на Барселона и хет-трик на Рафиња",
+          "link": "https://makfax.com.mk/sport/video-petarda-na-barselona-i-het-trik-na-rafina/",
+          "published": "Sun, 15 Mar 2026 17:50:56 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Докторка што лекувала повредени од „Пулс“ вели дека секунди биле во прашање за одлуки за спас на животи",
+          "link": "https://makfax.com.mk/makedonija/doktorkata-shto-lekuvala-povredeni-od-puls-veli-deka-sekundi-bile-vo-prashane-za-odluki-za-spas-na-zhivoti/",
+          "published": "Sun, 15 Mar 2026 17:35:15 +0000"
         },
         {
           "source": "Makfax",
@@ -27,18 +39,6 @@
           "title": "(Видео) Манчестер Јунајтед го доби најважниот натпревар во сезоната",
           "link": "https://makfax.com.mk/sport/video-manchester-junajted-go-dobi-najvazhniot-natprevar-vo-sezonata/",
           "published": "Sun, 15 Mar 2026 16:35:56 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Иран нападна италијанска воена база во Кувајт",
-          "link": "https://makfax.com.mk/svet/iran-napadna-italijanska-voena-baza-vo-kuvajt/",
-          "published": "Sun, 15 Mar 2026 16:22:54 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Кочани им се заблагодари на сите кои учествуваа во спасување и хоспитализација на повредните во пожарот",
-          "link": "https://makfax.com.mk/makedonija/kochani-im-se-zablagodari-na-site-koi-uchestvuvaa-vo-spasuvane-i-hospitalizaczija-na-povrednite-vo-pozharot/",
-          "published": "Sun, 15 Mar 2026 16:19:32 +0000"
         },
         {
           "source": "NetPress",
