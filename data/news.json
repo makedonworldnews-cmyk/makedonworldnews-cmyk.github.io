@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-15T08:39:01Z",
+  "updatedAt": "2026-03-15T09:05:49Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Прва победа во кариерата – Антонели ја освои ГН на Кина",
+          "link": "https://makfax.com.mk/sport/prva-pobeda-vo-karierata-antoneli-ja-osvoi-gn-na-kina/",
+          "published": "Sun, 15 Mar 2026 08:39:57 +0000"
         },
         {
           "source": "Makfax",
@@ -35,10 +41,10 @@
           "published": "Sun, 15 Mar 2026 07:42:32 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Украинец во Риека со измама зел речиси 100.000 евр од тројца пензионери со приказна за итна операција",
-          "link": "https://makfax.com.mk/svet/ukrainecz-vo-rieka-so-izmama-zel-rechisi-100-000-evr-od-trojcza-penzioneri-so-prikazna-za-itna-operaczija/",
-          "published": "Sun, 15 Mar 2026 07:40:39 +0000"
+          "source": "NetPress",
+          "title": "Стармер би можел да испрати „илјадници дронови“ на Блискиот исток",
+          "link": "https://netpress.com.mk/starmer-bi-mozhel-da-isprati-iljadniczi-dronovi-na-bliskiot-istok/",
+          "published": "Sun, 15 Mar 2026 08:47:49 +0000"
         },
         {
           "source": "NetPress",
@@ -54,21 +60,15 @@
         },
         {
           "source": "NetPress",
+          "title": "Повредените во „Пулс“ ќе играат хуманитарен кошаркарски натпревар во чест на загинатите",
+          "link": "https://netpress.com.mk/povredenite-vo-puls-ke-igraat-humanitaren-kosharkarski-natprevar-vo-chest-na-zaginatite/",
+          "published": "Sun, 15 Mar 2026 08:00:02 +0000"
+        },
+        {
+          "source": "NetPress",
           "title": "Ф1: Откажани трките во Бахреин и Саудиска Арабија",
           "link": "https://netpress.com.mk/f1-otkazhani-trkite-vo-bahrein-i-saudiska-arabija/",
           "published": "Sun, 15 Mar 2026 07:47:17 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Швајцарија одбила две барања на САД за прелети поврзани со војната во Иран",
-          "link": "https://netpress.com.mk/shvajczarija-odbila-dve-barana-na-sad-za-preleti-povrzani-so-vojnata-vo-iran/",
-          "published": "Sun, 15 Mar 2026 07:27:54 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Синер преку Зверев до првото финале на Индијан Велс",
-          "link": "https://netpress.com.mk/siner-preku-zverev-do-prvoto-finale-na-indijan-vels/",
-          "published": "Sun, 15 Mar 2026 07:07:58 +0000"
         }
       ]
     },
