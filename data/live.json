@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-15T08:51:26Z",
+  "generated_at": "2026-03-15T09:26:32Z",
   "items": [
     {
       "region": "Македонија",
@@ -39,6 +39,13 @@
     {
       "region": "Македонија",
       "source": "NetPress",
+      "title": "Девојка паднала од балкон во Тетово",
+      "link": "https://netpress.com.mk/devojka-padnala-od-balkon-vo-tetovo/",
+      "published": "Sun, 15 Mar 2026 09:08:34 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "NetPress",
       "title": "Стармер би можел да испрати „илјадници дронови“ на Блискиот исток",
       "link": "https://netpress.com.mk/starmer-bi-mozhel-da-isprati-iljadniczi-dronovi-na-bliskiot-istok/",
       "published": "Sun, 15 Mar 2026 08:47:49 +0000"
@@ -60,16 +67,9 @@
     {
       "region": "Македонија",
       "source": "NetPress",
-      "title": "Ф1: Откажани трките во Бахреин и Саудиска Арабија",
-      "link": "https://netpress.com.mk/f1-otkazhani-trkite-vo-bahrein-i-saudiska-arabija/",
-      "published": "Sun, 15 Mar 2026 07:47:17 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Швајцарија одбила две барања на САД за прелети поврзани со војната во Иран",
-      "link": "https://netpress.com.mk/shvajczarija-odbila-dve-barana-na-sad-za-preleti-povrzani-so-vojnata-vo-iran/",
-      "published": "Sun, 15 Mar 2026 07:27:54 +0000"
+      "title": "Повредените во „Пулс“ ќе играат хуманитарен кошаркарски натпревар во чест на загинатите",
+      "link": "https://netpress.com.mk/povredenite-vo-puls-ke-igraat-humanitaren-kosharkarski-natprevar-vo-chest-na-zaginatite/",
+      "published": "Sun, 15 Mar 2026 08:00:02 +0000"
     },
     {
       "region": "Свет",
@@ -109,6 +109,13 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "Iran war: What is happening on day 16 of US-Israel attacks?",
+      "link": "https://www.aljazeera.com/news/2026/3/15/iran-war-what-is-happening-on-day-16-of-us-israel-attacks?traffic_source=rss",
+      "published": "Sun, 15 Mar 2026 08:52:23 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "MotoGP postpones Qatar Grand Prix due to Middle East conflict",
       "link": "https://www.aljazeera.com/sports/2026/3/15/motogp-postpones-qatar-grand-prix-due-to-middle-east-conflict?traffic_source=rss",
       "published": "Sun, 15 Mar 2026 08:33:45 +0000"
@@ -133,13 +140,6 @@
       "title": "Minab: When the world’s most precise missile chose a classroom",
       "link": "https://www.aljazeera.com/opinions/2026/3/15/minab-when-the-worlds-most-precise-missile-chose-a-classroom?traffic_source=rss",
       "published": "Sun, 15 Mar 2026 07:53:43 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Smoke rises over Beirut’s southern suburbs",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/15/smoke-rises-over-beiruts-southern-suburbs?traffic_source=rss",
-      "published": "Sun, 15 Mar 2026 07:41:26 +0000"
     }
   ]
 }
