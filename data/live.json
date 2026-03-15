@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-15T04:38:57Z",
+  "generated_at": "2026-03-15T05:53:03Z",
   "items": [
     {
       "region": "Македонија",
@@ -74,6 +74,13 @@
     {
       "region": "Свет",
       "source": "BBC",
+      "title": "Trump urges UK and other nations to send warships to Strait of Hormuz",
+      "link": "https://www.bbc.com/news/articles/cd039n9vj3vo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 14 Mar 2026 20:33:34 GMT"
+    },
+    {
+      "region": "Свет",
+      "source": "BBC",
       "title": "BBC visits aftermath of Israeli strike on Lebanon that killed family as IDF targets Hezbollah",
       "link": "https://www.bbc.com/news/articles/c20lvn0ex6yo?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 14 Mar 2026 22:55:40 GMT"
@@ -101,10 +108,17 @@
     },
     {
       "region": "Свет",
-      "source": "BBC",
-      "title": "Cuban protesters ransack Communist office as energy crisis deepens",
-      "link": "https://www.bbc.com/news/articles/c875zd7de5xo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 14 Mar 2026 22:07:50 GMT"
+      "source": "Al Jazeera",
+      "title": "As Syria marks 15 years since anti-Assad uprising, security issues remain",
+      "link": "https://www.aljazeera.com/features/2026/3/15/as-syria-marks-15-years-since-anti-assad-uprising-security-issues-remain?traffic_source=rss",
+      "published": "Sun, 15 Mar 2026 05:13:09 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "FPV drone slams into US military base in Iraq",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/15/fpv-drone-slams-into-us-military-base-in-iraq?traffic_source=rss",
+      "published": "Sun, 15 Mar 2026 04:53:14 +0000"
     },
     {
       "region": "Свет",
@@ -126,20 +140,6 @@
       "title": "Former CIA chief reveals early knowledge of Israeli attack plans",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/3/15/former-cia-chief-reveals-early-knowledge-of-israeli-attack-plans?traffic_source=rss",
       "published": "Sun, 15 Mar 2026 03:49:11 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Iran’s Space Research Centre severely damaged in strikes",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/15/irans-space-research-centre-severely-damaged-in-strikes?traffic_source=rss",
-      "published": "Sun, 15 Mar 2026 03:29:57 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Iran war live: Trump urges allies to keep Hormuz open amid Gulf attacks",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/3/15/iran-war-live-trump-urges-world-to-keep-hormuz-strait-open?traffic_source=rss",
-      "published": "Sun, 15 Mar 2026 00:00:00 +0000"
     }
   ]
 }
