@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-16T22:55:00Z",
+  "generated_at": "2026-03-16T23:24:24Z",
   "items": [
     {
       "region": "Македонија",
@@ -39,6 +39,13 @@
     {
       "region": "Македонија",
       "source": "NetPress",
+      "title": "Иран тврди дека ги уништил повеќето клучни објекти во американските бази",
+      "link": "https://netpress.com.mk/iran-tvrdi-deka-gi-unishtil-poveketo-kluchni-objekti-vo-amerikanskite-bazi/",
+      "published": "Mon, 16 Mar 2026 22:55:15 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "NetPress",
       "title": "Викендов двајца малолетници нападнати од врсници",
       "link": "https://netpress.com.mk/vikendov-dvajcza-maloletniczi-napadnati-od-vrsniczi/",
       "published": "Mon, 16 Mar 2026 22:22:22 +0000"
@@ -63,13 +70,6 @@
       "title": "Турчин шверцувал Египќани во автомобил со албански таблички",
       "link": "https://netpress.com.mk/turchin-shverczuval-egipkani-vo-avtomobil-so-albanski-tablichki/",
       "published": "Mon, 16 Mar 2026 22:05:22 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Се судриле полициски џип и такси во центарот на Скопје",
-      "link": "https://netpress.com.mk/se-sudrile-policziski-dhip-i-taksi-vo-czentarot-na-skopje/",
-      "published": "Mon, 16 Mar 2026 21:57:22 +0000"
     },
     {
       "region": "Свет",
@@ -109,6 +109,13 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "Hotel in Iraqi capital Baghdad struck as attacks on US embassy intercepted",
+      "link": "https://www.aljazeera.com/news/2026/3/16/hotel-in-iraqi-capital-baghdad-struck-as-attacks-on-us-embassy-intercepted?traffic_source=rss",
+      "published": "Mon, 16 Mar 2026 23:00:11 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "Trump claims strikes on Iran prevented nuclear war",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/3/16/trump-claims-strikes-on-iran-prevented-nuclear-war?traffic_source=rss",
       "published": "Mon, 16 Mar 2026 22:34:59 +0000"
@@ -133,13 +140,6 @@
       "title": "Ten ICU patients killed in hospital fire in eastern India",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/3/16/ten-icu-patients-killed-in-hospital-fire-in-eastern-india?traffic_source=rss",
       "published": "Mon, 16 Mar 2026 21:01:22 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Who is answering Trump’s call for help with Strait of Hormuz?",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/16/who-is-answering-trumps-call-for-help-with-strait-of-hormuz?traffic_source=rss",
-      "published": "Mon, 16 Mar 2026 21:00:54 +0000"
     }
   ]
 }
