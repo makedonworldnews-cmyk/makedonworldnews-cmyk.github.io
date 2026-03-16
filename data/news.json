@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-16T19:40:05Z",
+  "updatedAt": "2026-03-16T20:20:56Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,24 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "СДСМ со одлука за исклучување на Петре Шилегов",
+          "link": "https://makfax.com.mk/makedonija/sdsm-so-odluka-za-iskluchuvane-na-petre-shilegov/",
+          "published": "Mon, 16 Mar 2026 20:11:10 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Русија: Трамп јасно изјави дека Украина не е приоритет на САД",
+          "link": "https://makfax.com.mk/svet/rusija-tramp-jasno-izjavi-deka-ukraina-ne-e-prioritet-na-sad/",
+          "published": "Mon, 16 Mar 2026 19:51:52 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Калас: Брисел не успеа да усвои нови санкции против Русија",
+          "link": "https://makfax.com.mk/svet/kalas-brisel-ne-uspea-da-usvoi-novi-sankczii-protiv-rusija/",
+          "published": "Mon, 16 Mar 2026 19:40:22 +0000"
         },
         {
           "source": "Makfax",
@@ -23,22 +41,10 @@
           "published": "Mon, 16 Mar 2026 18:43:33 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Утре прекин на водоснабдувањето во  Студеничани",
-          "link": "https://makfax.com.mk/makedonija/utre-prekin-na-vodosnabduvaneto-vo-studenichani/",
-          "published": "Mon, 16 Mar 2026 18:41:33 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Вучиќ: Србија гради силна одбрана",
-          "link": "https://makfax.com.mk/svet/region/vuchik-srbija-gradi-silna-odbrana/",
-          "published": "Mon, 16 Mar 2026 18:09:37 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Борел: ЕУ го губи кредибилитетот затоа што не му се спротивставува на Трамп",
-          "link": "https://makfax.com.mk/svet/borel-eu-go-gubi-kredibilitetot-zatoa-shto-ne-mu-se-sprotivstavuva-na-tramp/",
-          "published": "Mon, 16 Mar 2026 17:35:09 +0000"
+          "source": "NetPress",
+          "title": "Будимпешта ќе ја блокира помошта за Киев и за руските санкции сè додека не се рестартира гасоводот „Дружба“",
+          "link": "https://netpress.com.mk/budimpeshta-ke-ja-blokira-pomoshta-za-kiev-i-za-ruskite-sankczii-se-dodeka-ne-se-restartira-gasovodot-druzhba/",
+          "published": "Mon, 16 Mar 2026 20:00:30 +0000"
         },
         {
           "source": "NetPress",
@@ -63,12 +69,6 @@
           "title": "Уапсен оти предизвикал пожар на соседниот плац  што самиот згаснал",
           "link": "https://netpress.com.mk/uapsen-oti-predizvikal-pozhar-na-sosedniot-placz-shto-samiot-zgasnal/",
           "published": "Mon, 16 Mar 2026 18:48:15 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Жена нападнала лекарка од Брза помош во Кочани",
-          "link": "https://netpress.com.mk/zhena-napadnala-lekarka-od-brza-pomosh-vo-kochani/",
-          "published": "Mon, 16 Mar 2026 18:34:40 +0000"
         }
       ]
     },
@@ -107,6 +107,12 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Israeli forces in southern Lebanon as ground operation announced",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/16/israeli-forces-in-southern-lebanon-as-ground-operation-announced?traffic_source=rss",
+          "published": "Mon, 16 Mar 2026 19:14:42 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Trump says Hormuz Strait help ‘on the way’ as allies reject military action",
           "link": "https://www.aljazeera.com/news/2026/3/16/trump-says-hormuz-strait-help-on-the-way-as-allies-reject-military-action?traffic_source=rss",
           "published": "Mon, 16 Mar 2026 18:53:32 +0000"
@@ -128,12 +134,6 @@
           "title": "Civilians pulled from rubble after US-Israeli strikes on Tehran",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/3/16/civilians-pulled-from-rubble-after-us-israeli-strikes-on-tehran?traffic_source=rss",
           "published": "Mon, 16 Mar 2026 17:27:54 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "US responsible for deadly attack on Iranian school: Amnesty International",
-          "link": "https://www.aljazeera.com/news/2026/3/16/us-responsible-for-deadly-attack-on-iranian-school-amnesty-international?traffic_source=rss",
-          "published": "Mon, 16 Mar 2026 17:01:52 +0000"
         }
       ]
     }
