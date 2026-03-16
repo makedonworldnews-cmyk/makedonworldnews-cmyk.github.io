@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-16T22:34:39Z",
+  "updatedAt": "2026-03-16T23:00:25Z",
   "groups": [
     {
       "region": "Македонија",
@@ -42,6 +42,12 @@
         },
         {
           "source": "NetPress",
+          "title": "Иран тврди дека ги уништил повеќето клучни објекти во американските бази",
+          "link": "https://netpress.com.mk/iran-tvrdi-deka-gi-unishtil-poveketo-kluchni-objekti-vo-amerikanskite-bazi/",
+          "published": "Mon, 16 Mar 2026 22:55:15 +0000"
+        },
+        {
+          "source": "NetPress",
           "title": "Викендов двајца малолетници нападнати од врсници",
           "link": "https://netpress.com.mk/vikendov-dvajcza-maloletniczi-napadnati-od-vrsniczi/",
           "published": "Mon, 16 Mar 2026 22:22:22 +0000"
@@ -63,12 +69,6 @@
           "title": "Турчин шверцувал Египќани во автомобил со албански таблички",
           "link": "https://netpress.com.mk/turchin-shverczuval-egipkani-vo-avtomobil-so-albanski-tablichki/",
           "published": "Mon, 16 Mar 2026 22:05:22 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Се судриле полициски џип и такси во центарот на Скопје",
-          "link": "https://netpress.com.mk/se-sudrile-policziski-dhip-i-taksi-vo-czentarot-na-skopje/",
-          "published": "Mon, 16 Mar 2026 21:57:22 +0000"
         }
       ]
     },
@@ -107,6 +107,18 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Trump claims strikes on Iran prevented nuclear war",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/16/trump-claims-strikes-on-iran-prevented-nuclear-war?traffic_source=rss",
+          "published": "Mon, 16 Mar 2026 22:34:59 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Trump seeks to delay meeting with China’s Xi by ‘month or so’ amid Iran war",
+          "link": "https://www.aljazeera.com/news/2026/3/16/trump-seeks-to-delay-meeting-with-chinas-xi-by-month-or-so-amid-iran-war?traffic_source=rss",
+          "published": "Mon, 16 Mar 2026 22:25:55 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "‘Fourth world nation’: Trump slams Somalia, Ilhan Omar",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/3/16/fourth-world-nation-trump-slams-somalia-ilhan-omar?traffic_source=rss",
           "published": "Mon, 16 Mar 2026 21:16:51 +0000"
@@ -122,18 +134,6 @@
           "title": "Who is answering Trump’s call for help with Strait of Hormuz?",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/3/16/who-is-answering-trumps-call-for-help-with-strait-of-hormuz?traffic_source=rss",
           "published": "Mon, 16 Mar 2026 21:00:54 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Cuba electric grid collapses amid US oil blockade causing national blackout",
-          "link": "https://www.aljazeera.com/news/2026/3/16/cuba-electric-grid-collapses-amid-us-oil-blockade-causing-national-blackout?traffic_source=rss",
-          "published": "Mon, 16 Mar 2026 20:45:55 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "BBC files motion asking US court to throw out Trump’s $10bn lawsuit",
-          "link": "https://www.aljazeera.com/news/2026/3/16/bbc-files-motion-asking-us-court-to-throw-out-trumps-10bn-lawsuit?traffic_source=rss",
-          "published": "Mon, 16 Mar 2026 20:42:07 +0000"
         }
       ]
     }
