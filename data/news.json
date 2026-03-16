@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-16T23:00:25Z",
+  "updatedAt": "2026-03-16T23:40:48Z",
   "groups": [
     {
       "region": "Македонија",
@@ -107,6 +107,12 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Hotel in Iraqi capital Baghdad struck as attacks on US embassy intercepted",
+          "link": "https://www.aljazeera.com/news/2026/3/16/hotel-in-iraqi-capital-baghdad-struck-as-attacks-on-us-embassy-intercepted?traffic_source=rss",
+          "published": "Mon, 16 Mar 2026 23:00:11 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Trump claims strikes on Iran prevented nuclear war",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/3/16/trump-claims-strikes-on-iran-prevented-nuclear-war?traffic_source=rss",
           "published": "Mon, 16 Mar 2026 22:34:59 +0000"
@@ -128,12 +134,6 @@
           "title": "Ten ICU patients killed in hospital fire in eastern India",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/3/16/ten-icu-patients-killed-in-hospital-fire-in-eastern-india?traffic_source=rss",
           "published": "Mon, 16 Mar 2026 21:01:22 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Who is answering Trump’s call for help with Strait of Hormuz?",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/16/who-is-answering-trumps-call-for-help-with-strait-of-hormuz?traffic_source=rss",
-          "published": "Mon, 16 Mar 2026 21:00:54 +0000"
         }
       ]
     }
