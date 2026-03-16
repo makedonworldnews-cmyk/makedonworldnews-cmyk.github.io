@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-16T01:02:46Z",
+  "updatedAt": "2026-03-16T04:10:18Z",
   "groups": [
     {
       "region": "Македонија",
@@ -42,6 +42,12 @@
         },
         {
           "source": "NetPress",
+          "title": "ФОТО I Запалени свеќи и повеќеминитен молк пред Пулс-оддадена почит на жртвите од трагедијата",
+          "link": "https://netpress.com.mk/foto-i-zapaleni-sveki-i-povekeminiten-molk-pred-puls-oddadena-pochit-na-zhrtvite-od-tragedijata/",
+          "published": "Mon, 16 Mar 2026 03:07:04 +0000"
+        },
+        {
+          "source": "NetPress",
           "title": "Ла Лига: Реал Сосиедад подобар од Осасуна, Барса се врати на плус 4 од Реал",
           "link": "https://netpress.com.mk/la-liga-real-sosiedad-podobar-od-osasuna-barsa-se-vrati-na-plus-4-od-real/",
           "published": "Sun, 15 Mar 2026 22:53:18 +0000"
@@ -63,18 +69,30 @@
           "title": "Нетанјаху објави видео како одговор на гласините дека е мртов",
           "link": "https://netpress.com.mk/netanjahu-objavi-video-kako-odgovor-na-glasinite-deka-e-mrtov/",
           "published": "Sun, 15 Mar 2026 21:17:16 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Германија нема да игра активна улога во војната против Иран",
-          "link": "https://netpress.com.mk/germanija-nema-da-igra-aktivna-uloga-vo-vojnata-protiv-iran/",
-          "published": "Sun, 15 Mar 2026 21:01:29 +0000"
         }
       ]
     },
     {
       "region": "Свет",
       "items": [
+        {
+          "source": "BBC",
+          "title": "'A new norm': BBC visits Doha market starting to fill up again two weeks into Iran war",
+          "link": "https://www.bbc.com/news/videos/cp32gez414yo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 15 Mar 2026 23:14:40 GMT"
+        },
+        {
+          "source": "BBC",
+          "title": "How US groups are driving a new generation of anti-abortion activism in the UK",
+          "link": "https://www.bbc.com/news/articles/cx2dl5j0w23o?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 16 Mar 2026 00:31:48 GMT"
+        },
+        {
+          "source": "BBC",
+          "title": "Ukraine's urgent fight on the financial frontline",
+          "link": "https://www.bbc.com/news/articles/c20jyngz7ygo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 16 Mar 2026 00:06:14 GMT"
+        },
         {
           "source": "BBC",
           "title": "Zelensky accuses EU allies of 'blackmail' in oil pipeline row",
@@ -88,52 +106,34 @@
           "published": "Sun, 15 Mar 2026 21:56:34 GMT"
         },
         {
-          "source": "BBC",
-          "title": "Sweden detains captain of Russian shadow fleet ship",
-          "link": "https://www.bbc.com/news/articles/cpqwg0yej04o?at_medium=RSS&at_campaign=rss",
-          "published": "Sun, 15 Mar 2026 18:40:59 GMT"
-        },
-        {
-          "source": "BBC",
-          "title": "Israeli forces kill Palestinian couple and two of their children in occupied West Bank",
-          "link": "https://www.bbc.com/news/articles/cqxdndz75zvo?at_medium=RSS&at_campaign=rss",
-          "published": "Sun, 15 Mar 2026 10:38:22 GMT"
-        },
-        {
-          "source": "BBC",
-          "title": "US names six crew killed in refuelling plane crash in Iraq",
-          "link": "https://www.bbc.com/news/articles/cly0d510yz3o?at_medium=RSS&at_campaign=rss",
-          "published": "Sun, 15 Mar 2026 08:08:30 GMT"
+          "source": "Al Jazeera",
+          "title": "Stars at Oscars 2026 call for end to war in Gaza and Iran",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/16/stars-at-oscars-2026-call-for-end-to-war-in-gaza-and-iran?traffic_source=rss",
+          "published": "Mon, 16 Mar 2026 03:48:41 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "First face of Al Jazeera Jamal Rayyan dies at 73",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/16/first-face-of-al-jazeera-jamal-rayyan-dies-at-73?traffic_source=rss",
-          "published": "Mon, 16 Mar 2026 00:15:23 +0000"
+          "title": "Nobody wants to get involved’ in Strait of Hormuz military operations",
+          "link": "https://www.aljazeera.com/video/quotable/2026/3/16/nobody-wants-to-get-involved-in-strait-of-hormuz-military-operations?traffic_source=rss",
+          "published": "Mon, 16 Mar 2026 03:14:39 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Iran war live: Tehran rejects Trump claim on talks; fire near Dubai airport",
-          "link": "https://www.aljazeera.com/news/liveblog/2026/3/16/iran-war-live-tehran-rejects-trump-claim-on-talks-gulf-attacks-continue?traffic_source=rss",
-          "published": "Mon, 16 Mar 2026 00:00:00 +0000"
+          "title": "Fire erupts at Dubai airport following drone attack",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/16/fire-erupts-at-dubai-airport-following-drone-attack?traffic_source=rss",
+          "published": "Mon, 16 Mar 2026 02:29:42 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Top Trump adviser says Iran war price tag at $12bn so far",
-          "link": "https://www.aljazeera.com/news/2026/3/15/top-trump-advisor-says-iran-war-price-tag-at-approximately-12bn-so-far?traffic_source=rss",
-          "published": "Sun, 15 Mar 2026 23:34:06 +0000"
+          "title": "Oil prices keep rising as Trump seeks coalition to reopen Strait of Hormuz",
+          "link": "https://www.aljazeera.com/economy/2026/3/16/oil-prices-keep-rising-as-trump-seeks-coalition-to-reopen-strait-of-hormuz?traffic_source=rss",
+          "published": "Mon, 16 Mar 2026 02:05:53 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Muted response as Trump urges nations to escort ships through Hormuz Strait",
-          "link": "https://www.aljazeera.com/news/2026/3/15/muted-response-as-trump-urges-nations-to-escort-ships-through-hormuz-strait?traffic_source=rss",
-          "published": "Sun, 15 Mar 2026 23:30:39 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Israeli attacks kill 13 in Gaza, including 2 children and a pregnant woman",
-          "link": "https://www.aljazeera.com/news/2026/3/15/israeli-attacks-kill-12-in-gaza-including-2-children-and-a-pregnant-woman?traffic_source=rss",
-          "published": "Sun, 15 Mar 2026 23:26:52 +0000"
+          "title": "US-Israeli strike pounds city of Hamadan, Iran",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/16/us-israeli-strike-pounds-city-of-hamadan-iran?traffic_source=rss",
+          "published": "Mon, 16 Mar 2026 01:26:27 +0000"
         }
       ]
     }
