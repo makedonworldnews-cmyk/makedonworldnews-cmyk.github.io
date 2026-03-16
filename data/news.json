@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-16T21:04:46Z",
+  "updatedAt": "2026-03-16T21:52:42Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) Трамп за Иран: „Само еден збор и нема да го има повеќе“",
+          "link": "https://makfax.com.mk/svet/video-tramp-za-iran-samo-eden-zbor-i-nema-da-go-ima-poveke/",
+          "published": "Mon, 16 Mar 2026 21:22:14 +0000"
         },
         {
           "source": "Makfax",
@@ -35,40 +41,34 @@
           "published": "Mon, 16 Mar 2026 20:28:56 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "СДСМ со одлука за исклучување на Петре Шилегов",
-          "link": "https://makfax.com.mk/makedonija/sdsm-so-odluka-za-iskluchuvane-na-petre-shilegov/",
-          "published": "Mon, 16 Mar 2026 20:11:10 +0000"
+          "source": "NetPress",
+          "title": "Западните земји го предупредуваат Израел против копнена офанзива во Либан",
+          "link": "https://netpress.com.mk/zapadnite-zemji-go-predupreduvaat-izrael-protiv-kopnena-ofanziva-vo-liban/",
+          "published": "Mon, 16 Mar 2026 21:46:14 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Ноќно возење со мопед завршило лошо во Радовиш",
+          "link": "https://netpress.com.mk/nokno-vozene-so-moped-zavrshilo-losho-vo-radovish/",
+          "published": "Mon, 16 Mar 2026 21:39:16 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Кичевец фатен со кокаин",
+          "link": "https://netpress.com.mk/kichevecz-faten-so-kokain/",
+          "published": "Mon, 16 Mar 2026 21:33:39 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Калас: „Нема апетит“ во ЕУ за испраќање бродови во Ормутскиот теснец",
+          "link": "https://netpress.com.mk/kalas-nema-apetit-vo-eu-za-isprakane-brodovi-vo-ormutskiot-tesnecz/",
+          "published": "Mon, 16 Mar 2026 21:30:51 +0000"
         },
         {
           "source": "NetPress",
           "title": "СДСМ го исклучи Шилегов од партијата",
           "link": "https://netpress.com.mk/sdsm-go-iskluchi-shilegov-od-partijata/",
           "published": "Mon, 16 Mar 2026 20:58:49 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Банкарски службеник незаконски исплатил околу 4.070 евра",
-          "link": "https://netpress.com.mk/bankarski-sluzhbenik-nezakonski-isplatil-okolu-4-070-evra/",
-          "published": "Mon, 16 Mar 2026 20:40:45 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Стратешка грешка на Трамп: Што значи затворањето на Ормутскиот теснец?",
-          "link": "https://netpress.com.mk/strateshka-greshka-na-tramp-shto-znachi-zatvoraneto-na-ormutskiot-tesnecz/",
-          "published": "Mon, 16 Mar 2026 20:38:20 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Европската комисија ќе предложи целосна забрана за увоз на руска нафта",
-          "link": "https://netpress.com.mk/evropskata-komisija-ke-predlozhi-czelosna-zabrana-za-uvoz-na-ruska-nafta/",
-          "published": "Mon, 16 Mar 2026 20:34:30 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Без струја утре села на Скопска Црна Гора и улици во Скопје",
-          "link": "https://netpress.com.mk/bez-struja-utre-sela-na-skopska-czrna-gora-i-uliczi-vo-skopje/",
-          "published": "Mon, 16 Mar 2026 20:31:03 +0000"
         }
       ]
     },
@@ -107,6 +107,24 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "‘Fourth world nation’: Trump slams Somalia, Ilhan Omar",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/16/fourth-world-nation-trump-slams-somalia-ilhan-omar?traffic_source=rss",
+          "published": "Mon, 16 Mar 2026 21:16:51 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Ten ICU patients killed in hospital fire in eastern India",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/16/ten-icu-patients-killed-in-hospital-fire-in-eastern-india?traffic_source=rss",
+          "published": "Mon, 16 Mar 2026 21:01:22 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Who is answering Trump’s call for help with Strait of Hormuz?",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/16/who-is-answering-trumps-call-for-help-with-strait-of-hormuz?traffic_source=rss",
+          "published": "Mon, 16 Mar 2026 21:00:54 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Cuba electric grid collapses amid US oil blockade causing national blackout",
           "link": "https://www.aljazeera.com/news/2026/3/16/cuba-electric-grid-collapses-amid-us-oil-blockade-causing-national-blackout?traffic_source=rss",
           "published": "Mon, 16 Mar 2026 20:45:55 +0000"
@@ -116,24 +134,6 @@
           "title": "BBC files motion asking US court to throw out Trump’s $10bn lawsuit",
           "link": "https://www.aljazeera.com/news/2026/3/16/bbc-files-motion-asking-us-court-to-throw-out-trumps-10bn-lawsuit?traffic_source=rss",
           "published": "Mon, 16 Mar 2026 20:42:07 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "How big of a problem is the Strait of Hormuz for Donald Trump?",
-          "link": "https://www.aljazeera.com/video/inside-story/2026/3/16/how-big-of-a-problem-is-the-strait-of-hormuz-for-donald-trump?traffic_source=rss",
-          "published": "Mon, 16 Mar 2026 20:41:10 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Hezbollah rocket hits a residential building in Israel’s Nahariya",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/16/hezbollah-rocket-hits-a-residential-building-in-israels-nahariya?traffic_source=rss",
-          "published": "Mon, 16 Mar 2026 20:27:10 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Israeli forces in southern Lebanon as ground operation announced",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/16/israeli-forces-in-southern-lebanon-as-ground-operation-announced?traffic_source=rss",
-          "published": "Mon, 16 Mar 2026 19:14:42 +0000"
         }
       ]
     }
