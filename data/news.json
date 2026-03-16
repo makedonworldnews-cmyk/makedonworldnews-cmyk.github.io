@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-16T17:39:23Z",
+  "updatedAt": "2026-03-16T18:37:15Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Вучиќ: Србија гради силна одбрана",
+          "link": "https://makfax.com.mk/svet/region/vuchik-srbija-gradi-silna-odbrana/",
+          "published": "Mon, 16 Mar 2026 18:09:37 +0000"
         },
         {
           "source": "Makfax",
@@ -35,40 +41,34 @@
           "published": "Mon, 16 Mar 2026 16:48:25 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "(Видео) Трамп до новинарка: Псст, виe сте многу напорна личност",
-          "link": "https://makfax.com.mk/svet/video-tramp-do-novinarka-psst-vis-ste-mnogu-naporna-lichnost/",
-          "published": "Mon, 16 Mar 2026 16:24:16 +0000"
+          "source": "NetPress",
+          "title": "Жена нападнала лекарка од Брза помош во Кочани",
+          "link": "https://netpress.com.mk/zhena-napadnala-lekarka-od-brza-pomosh-vo-kochani/",
+          "published": "Mon, 16 Mar 2026 18:34:40 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Грција ќе купува систем за противвоздушна одбрана и ќе ги надградува борбените авиони",
-          "link": "https://netpress.com.mk/grczija-ke-kupuva-sistem-za-protivvozdushna-odbrana-i-ke-gi-nadgraduva-borbenite-avioni/",
-          "published": "Mon, 16 Mar 2026 17:38:44 +0000"
+          "title": "Проценките за „порозниот“ Ормуз ги спуштија цените на нафтата под 102 долари",
+          "link": "https://netpress.com.mk/proczenkite-za-porozniot-ormuz-gi-spushtija-czenite-na-naftata-pod-102-dolari/",
+          "published": "Mon, 16 Mar 2026 18:25:26 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Судии нападнати по фудбалски меч во Скопје",
-          "link": "https://netpress.com.mk/sudii-napadnati-po-fudbalski-mech-vo-skopje/",
-          "published": "Mon, 16 Mar 2026 17:37:55 +0000"
+          "title": "Двајца шеснаесетгодишници на мотоцикл повредени во судир со автомобил во Струмица",
+          "link": "https://netpress.com.mk/dvajcza-shesnaesetgodishniczi-na-motoczikl-povredeni-vo-sudir-so-avtomobil-vo-strumicza/",
+          "published": "Mon, 16 Mar 2026 18:23:43 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Тепачка тројца на тројца во Чаир по сообраќајка",
-          "link": "https://netpress.com.mk/tepachka-trojcza-na-trojcza-vo-chair-po-soobrakajka/",
-          "published": "Mon, 16 Mar 2026 17:17:08 +0000"
+          "title": "Техеран го обвини Зеленски за обид да ја вовлече Украина во конфликт со Иран",
+          "link": "https://netpress.com.mk/teheran-go-obvini-zelenski-za-obid-da-ja-vovleche-ukraina-vo-konflikt-so-iran/",
+          "published": "Mon, 16 Mar 2026 18:04:45 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Во скопската Зоолошка градина се роди пингвинче",
-          "link": "https://netpress.com.mk/vo-skopskata-zooloshka-gradina-se-rodi-pingvinche/",
-          "published": "Mon, 16 Mar 2026 17:12:31 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Внуката на шахот открива план за Иран по падот на режимот",
-          "link": "https://netpress.com.mk/vnukata-na-shahot-otkriva-plan-za-iran-po-padot-na-rezhimot/",
-          "published": "Mon, 16 Mar 2026 17:09:44 +0000"
+          "title": "Ја тепал и повредил сопругата – средовечен маж од Гостиварско доби кривична пријава",
+          "link": "https://netpress.com.mk/ja-tepal-i-povredil-soprugata-sredovechen-mazh-od-gostivarsko-dobi-krivichna-prijava/",
+          "published": "Mon, 16 Mar 2026 17:56:30 +0000"
         }
       ]
     },
@@ -83,9 +83,21 @@
         },
         {
           "source": "BBC",
+          "title": "Meta and TikTok let harmful content rise after evidence outrage drove engagement, say whistleblowers",
+          "link": "https://www.bbc.com/news/articles/cqj9kgxqjwjo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 16 Mar 2026 06:10:55 GMT"
+        },
+        {
+          "source": "BBC",
           "title": "Iran hits key UAE oil port and Dubai airport",
           "link": "https://www.bbc.com/news/articles/crl4gxgkkylo?at_medium=RSS&at_campaign=rss",
           "published": "Mon, 16 Mar 2026 12:43:32 GMT"
+        },
+        {
+          "source": "BBC",
+          "title": "'My mother cried out one last time': Palestinian boy, 12, describes how Israeli forces killed his family in car",
+          "link": "https://www.bbc.com/news/articles/c70n2x7p22do?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 16 Mar 2026 17:57:45 GMT"
         },
         {
           "source": "BBC",
@@ -94,16 +106,16 @@
           "published": "Mon, 16 Mar 2026 00:31:48 GMT"
         },
         {
-          "source": "BBC",
-          "title": "Meta and TikTok let harmful content rise after evidence outrage drove engagement, say whistleblowers",
-          "link": "https://www.bbc.com/news/articles/cqj9kgxqjwjo?at_medium=RSS&at_campaign=rss",
-          "published": "Mon, 16 Mar 2026 06:10:55 GMT"
+          "source": "Al Jazeera",
+          "title": "Indian farmers dress up as bears to protect crops from monkeys",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/16/indian-farmers-dress-up-as-bears-to-protect-crops-from-monkeys?traffic_source=rss",
+          "published": "Mon, 16 Mar 2026 17:37:08 +0000"
         },
         {
-          "source": "BBC",
-          "title": "Ecuador deploys 75,000 soldiers and police to combat drug gangs",
-          "link": "https://www.bbc.com/news/articles/cp32vy321r7o?at_medium=RSS&at_campaign=rss",
-          "published": "Mon, 16 Mar 2026 11:58:42 GMT"
+          "source": "Al Jazeera",
+          "title": "Civilians pulled from rubble after US-Israeli strikes on Tehran",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/16/civilians-pulled-from-rubble-after-us-israeli-strikes-on-tehran?traffic_source=rss",
+          "published": "Mon, 16 Mar 2026 17:27:54 +0000"
         },
         {
           "source": "Al Jazeera",
@@ -122,18 +134,6 @@
           "title": "US, Israel now know ‘what kind of nation they are dealing with’",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/3/16/us-israel-now-know-what-kind-of-nation-they-are-dealing?traffic_source=rss",
           "published": "Mon, 16 Mar 2026 16:00:08 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "How badly has the Iran war hit the global economy? The tell-tale signs",
-          "link": "https://www.aljazeera.com/news/2026/3/16/the-tell-tale-signs-how-bad-has-the-iran-war-hit-the-global-economy?traffic_source=rss",
-          "published": "Mon, 16 Mar 2026 15:54:02 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Is Russia benefitting from the Iran war?",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/16/is-russia-benefitting-from-the-iran-war?traffic_source=rss",
-          "published": "Mon, 16 Mar 2026 15:49:27 +0000"
         }
       ]
     }
