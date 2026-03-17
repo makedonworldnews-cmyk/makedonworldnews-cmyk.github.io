@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-17T17:46:41Z",
+  "updatedAt": "2026-03-17T18:40:54Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,24 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Сиљановска-Давкова на средба со директорката на новоформираната Агенција за иновации, научно-технолошки развој и претприемништво",
+          "link": "https://makfax.com.mk/makedonija/silanovska-davkova-na-sredba-so-direktorkata-na-novoformiranata-agenczija-za-inovaczii-nauchno-tehnoloshki-razvoj-i-pretpriemnishtvo/",
+          "published": "Tue, 17 Mar 2026 18:27:00 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Израелски министер: Ја добивме војната со Иран, но не знаеме колку долго ќе трае",
+          "link": "https://makfax.com.mk/svet/izraelski-minister-ja-dobivme-vojnata-so-iran-no-ne-znaeme-kolku-dolgo-ke-trae/",
+          "published": "Tue, 17 Mar 2026 18:21:09 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Зеленски: Нетанјаху го има она што ми треба, јас го имам она што нему му треба",
+          "link": "https://makfax.com.mk/svet/zelenski-netanjahu-go-ima-ona-shto-mi-treba-jas-go-imam-ona-shto-nemu-mu-treba/",
+          "published": "Tue, 17 Mar 2026 18:02:15 +0000"
         },
         {
           "source": "Makfax",
@@ -23,22 +41,22 @@
           "published": "Tue, 17 Mar 2026 17:21:47 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Средба на Сиљановска-Давкова со Зорица Митровиќ, претседателка на Националниот совет на македонското национално малцинство во Србија",
-          "link": "https://makfax.com.mk/makedonija/sredba-na-silanovska-davkova-so-zoricza-mitrovik-pretsedatelka-na-naczionalniot-sovet-na-makedonskoto-naczionalno-malczinstvo-vo-srbija/",
-          "published": "Tue, 17 Mar 2026 17:12:54 +0000"
+          "source": "NetPress",
+          "title": "Сиљановска-Давкова се сретна со претставници на Националниот совет на македонското национално малцинство во Србија",
+          "link": "https://netpress.com.mk/silanovska-davkova-se-sretna-so-pretstavniczi-na-naczionalniot-sovet-na-makedonskoto-naczionalno-malczinstvo-vo-srbija/",
+          "published": "Tue, 17 Mar 2026 18:30:39 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Трамп: САД сè уште не се подготвени да го напуштат Иран, но ќе го сторат тоа во блиска иднина",
-          "link": "https://makfax.com.mk/svet/tramp-sad-se-ushte-ne-se-podgotveni-da-go-napushtat-iran-no-ke-go-storat-toa-vo-bliska-idnina/",
-          "published": "Tue, 17 Mar 2026 16:38:43 +0000"
+          "source": "NetPress",
+          "title": "Tрамп: Одбивањето на НАТО да се придружи на операцијата во Иран е „глупава грешка“",
+          "link": "https://netpress.com.mk/tramp-odbivaneto-na-nato-da-se-pridruzhi-na-operaczijata-vo-iran-e-glupava-greshka/",
+          "published": "Tue, 17 Mar 2026 17:57:21 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Турција: Подготвени сме да бидеме домаќини на нова рунда мировни преговори меѓу Русија и Украина",
-          "link": "https://makfax.com.mk/svet/turczija-podgotveni-sme-da-bideme-domakini-na-nova-runda-mirovni-pregovori-megu-rusija-i-ukraina/",
-          "published": "Tue, 17 Mar 2026 16:34:09 +0000"
+          "source": "NetPress",
+          "title": "Лишени од слобода девет возачи, седумина биле без возачка дозвола",
+          "link": "https://netpress.com.mk/lisheni-od-sloboda-devet-vozachi-sedumina-bile-bez-vozachka-dozvola/",
+          "published": "Tue, 17 Mar 2026 17:50:37 +0000"
         },
         {
           "source": "NetPress",
@@ -51,24 +69,6 @@
           "title": "Пресметките за Ормутскиот теснец ги кренаа цените на нафтата над 102 долари",
           "link": "https://netpress.com.mk/presmetkite-za-ormutskiot-tesnecz-gi-krenaa-czenite-na-naftata-nad-102-dolari/",
           "published": "Tue, 17 Mar 2026 17:17:21 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Ѓорѓиевски најави почнување на реализацијата на три стратешки пилот-активности од клучно значење",
-          "link": "https://netpress.com.mk/gorgievski-najavi-pochnuvane-na-realizaczijata-na-tri-strateshki-pilot-aktivnosti-od-kluchno-znachene/",
-          "published": "Tue, 17 Mar 2026 17:11:31 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Скандал во албанското МВР, 520 вработени земале плата, а со години не оделе на работа",
-          "link": "https://netpress.com.mk/skandal-vo-albanskoto-mvr-520-vraboteni-zemale-plata-a-so-godini-ne-odele-na-rabota/",
-          "published": "Tue, 17 Mar 2026 17:03:39 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Јавна расправа за новиот закон за Јавното обвинителство",
-          "link": "https://netpress.com.mk/javna-rasprava-za-noviot-zakon-za-javnoto-obvinitelstvo/",
-          "published": "Tue, 17 Mar 2026 16:55:19 +0000"
         }
       ]
     },
@@ -107,6 +107,18 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "US confirms 157 killed in maritime strikes experts call ‘extrajudicial’",
+          "link": "https://www.aljazeera.com/news/2026/3/17/us-confirms-157-killed-in-maritime-strikes-experts-call-extrajudicial?traffic_source=rss",
+          "published": "Tue, 17 Mar 2026 18:10:11 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Starmer, Zelenskyy urge ‘focus’ on Ukraine as Iran war diverts attention",
+          "link": "https://www.aljazeera.com/news/2026/3/17/starmer-tells-zelenskyy-focus-on-ukraine-as-iran-war-diverts-attention?traffic_source=rss",
+          "published": "Tue, 17 Mar 2026 17:59:21 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Video: Man rescued from under rubble after attack in Iran",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/3/17/video-man-rescued-from-under-rubble-after-attack-in-iran?traffic_source=rss",
           "published": "Tue, 17 Mar 2026 17:05:28 +0000"
@@ -122,18 +134,6 @@
           "title": "Israel carrying out ‘mass expulsion of Palestinians’ in West Bank, UN warns",
           "link": "https://www.aljazeera.com/news/2026/3/17/israel-carrying-out-mass-expulsion-of-palestinians-in-west-bank-un-warns?traffic_source=rss",
           "published": "Tue, 17 Mar 2026 17:04:44 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "LIVE: Manchester City vs Real Madrid – Champions League last 16",
-          "link": "https://www.aljazeera.com/sports/liveblog/2026/3/17/live-manchester-city-vs-real-madrid-champions-league-last-16?traffic_source=rss",
-          "published": "Tue, 17 Mar 2026 17:00:33 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Why Iranians are taking to Tehran’s streets during war",
-          "link": "https://www.aljazeera.com/video/the-take-2/2026/3/17/aje-onl-irn_fromwithin_av_v3-170326?traffic_source=rss",
-          "published": "Tue, 17 Mar 2026 16:32:46 +0000"
         }
       ]
     }
