@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-17T20:23:59Z",
+  "updatedAt": "2026-03-17T21:04:40Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Ердоган повикува на итен прекин на „бесмислената војна во Иран“",
+          "link": "https://makfax.com.mk/svet/erdogan-povikuva-na-iten-prekin-na-besmislenata-vojna-vo-iran/",
+          "published": "Tue, 17 Mar 2026 20:38:04 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) Спортинг со „петарда“ го елиминира Боде/Глимт",
+          "link": "https://makfax.com.mk/sport/video-sporting-so-petarda-go-eliminira-bode-glimt/",
+          "published": "Tue, 17 Mar 2026 20:31:56 +0000"
         },
         {
           "source": "Makfax",
@@ -29,20 +41,26 @@
           "published": "Tue, 17 Mar 2026 19:36:05 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Зеленски: Испративме 201 експерт на Блискиот Исток и земјите од Заливот",
-          "link": "https://makfax.com.mk/svet/zelenski-isprativme-201-ekspert-na-bliskiot-istok-i-zemjite-od-zalivot/",
-          "published": "Tue, 17 Mar 2026 18:54:20 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Макрон: Подготвени сме да помогнеме со Ормутскиот теснец кога ќе престанат борбите",
-          "link": "https://makfax.com.mk/svet/makron-podgotveni-sme-da-pomogneme-so-ormutskiot-tesnecz-koga-ke-prestanat-borbite/",
-          "published": "Tue, 17 Mar 2026 18:50:00 +0000"
+          "source": "NetPress",
+          "title": "Најголемиот производител на злато во Русија оствари двоцифрен раст на приходитe",
+          "link": "https://netpress.com.mk/najgolemiot-proizvoditel-na-zlato-vo-rusija-ostvari-dvoczifren-rast-na-prihodite/",
+          "published": "Tue, 17 Mar 2026 20:53:57 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Се закани дека ќе убива христијани во Босна и Херцеговина, полицијата го уапси",
+          "title": "Макрон категорично ја отфрли можноста за учество во воени операции кај Ормутскиот теснец",
+          "link": "https://netpress.com.mk/makron-kategorichno-ja-otfrli-mozhnosta-za-uchestvo-vo-voeni-operaczii-kaj-ormutskiot-tesnecz/",
+          "published": "Tue, 17 Mar 2026 20:33:23 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Кинески JD.com влегува во трка со американски Amazon во Европа",
+          "link": "https://netpress.com.mk/kineski-jd-com-vleguva-vo-trka-so-amerikanski-amazon-vo-evropa/",
+          "published": "Tue, 17 Mar 2026 20:27:43 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Се закани дека ќе убива христијани во БиХ, полицијата го уапси",
           "link": "https://netpress.com.mk/se-zakani-deka-ke-ubiva-hristijani-vo-bosna-i-herczegovina-policzijata-go-uapsi/",
           "published": "Tue, 17 Mar 2026 20:21:19 +0000"
         },
@@ -51,24 +69,6 @@
           "title": "ФИФА нема да го менува распоредот поради Иран, Мексико подготвен да биде домаќин на Иранците",
           "link": "https://netpress.com.mk/fifa-nema-da-go-menuva-rasporedot-poradi-iran-meksiko-podgotven-da-bide-domakin-na-iranczite/",
           "published": "Tue, 17 Mar 2026 20:09:39 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Фидан: Турција е подготвена да биде домаќин на следната рунда преговори меѓу Русија и Украина",
-          "link": "https://netpress.com.mk/fidan-turczija-e-podgotvena-da-bide-domakin-na-slednata-runda-pregovori-megu-rusija-i-ukraina/",
-          "published": "Tue, 17 Mar 2026 19:51:41 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Кочани беше тешка лекција и аларм за државата која предолго беше во длабок сон",
-          "link": "https://netpress.com.mk/kochani-beshe-teshka-lekczija-i-alarm-za-drzhavata-koja-predolgo-beshe-vo-dlabok-son/",
-          "published": "Tue, 17 Mar 2026 19:49:19 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Стармер: Русија не смее да има полза од војната во Иран",
-          "link": "https://netpress.com.mk/starmer-rusija-ne-smee-da-ima-polza-od-vojnata-vo-iran/",
-          "published": "Tue, 17 Mar 2026 19:44:40 +0000"
         }
       ]
     },
@@ -107,33 +107,33 @@
         },
         {
           "source": "Al Jazeera",
-          "title": "Congolese President Sassou Nguesso wins fifth term: Provisional results",
-          "link": "https://www.aljazeera.com/news/2026/3/17/congos-president-nguesso-to-secure-fifth-term-provisional-results-predict?traffic_source=rss",
-          "published": "Tue, 17 Mar 2026 19:05:19 +0000"
+          "title": "FIFA rejects Iran’s request to move World Cup matches from US to Mexico",
+          "link": "https://www.aljazeera.com/sports/2026/3/17/fifa-rejects-irans-request-to-move-world-cup-matches-from-us-to-mexico?traffic_source=rss",
+          "published": "Tue, 17 Mar 2026 20:57:04 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "US lawmakers Murphy, Casar push legislation to regulate prediction markets",
-          "link": "https://www.aljazeera.com/economy/2026/3/17/us-lawmakers-murphy-casar-push-legislation-to-regulate-prediction-markets?traffic_source=rss",
-          "published": "Tue, 17 Mar 2026 18:58:30 +0000"
+          "title": "Rubio says Cuba needs to ‘get new people in charge’ as US ratchets pressure",
+          "link": "https://www.aljazeera.com/news/2026/3/17/rubio-says-cuba-needs-to-get-new-people-in-charge-as-us-ratchets-pressure?traffic_source=rss",
+          "published": "Tue, 17 Mar 2026 20:48:05 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Trump says it’s a ‘good thing’ counterterrorism director resigned over Iran",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/17/trump-says-its-a-good-thing-counterterrorism-director-resigned-over-iran?traffic_source=rss",
-          "published": "Tue, 17 Mar 2026 18:46:30 +0000"
+          "title": "Diners witness drone interception attempt overhead in Baghdad",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/17/diners-witness-drone-interception-attempt-overhead-in-baghdad?traffic_source=rss",
+          "published": "Tue, 17 Mar 2026 20:38:46 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "US confirms 157 killed in maritime strikes experts call ‘extrajudicial’",
-          "link": "https://www.aljazeera.com/news/2026/3/17/us-confirms-157-killed-in-maritime-strikes-experts-call-extrajudicial?traffic_source=rss",
-          "published": "Tue, 17 Mar 2026 18:10:11 +0000"
+          "title": "Colombia’s Petro accuses Ecuador of bombing near border",
+          "link": "https://www.aljazeera.com/news/2026/3/17/colombias-petro-accuses-ecuador-of-bombing-near-border?traffic_source=rss",
+          "published": "Tue, 17 Mar 2026 20:16:32 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Starmer, Zelenskyy urge ‘focus’ on Ukraine as Iran war diverts attention",
-          "link": "https://www.aljazeera.com/news/2026/3/17/starmer-tells-zelenskyy-focus-on-ukraine-as-iran-war-diverts-attention?traffic_source=rss",
-          "published": "Tue, 17 Mar 2026 17:59:21 +0000"
+          "title": "Could the Iran war keep Netanyahu in power for longer?",
+          "link": "https://www.aljazeera.com/video/inside-story/2026/3/17/could-the-iran-war-keep-netanyahu-in-power-for-longer?traffic_source=rss",
+          "published": "Tue, 17 Mar 2026 20:08:20 +0000"
         }
       ]
     }
