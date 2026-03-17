@@ -1,6 +1,20 @@
 {
-  "generated_at": "2026-03-17T22:02:30Z",
+  "generated_at": "2026-03-17T22:48:29Z",
   "items": [
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "Судот му ја одзеде титулата на ​​Сенегал, за шампион на Африка го прогласи Мароко",
+      "link": "https://makfax.com.mk/sport/sudot-mu-ja-odzede-titulata-na-senegal-za-shampion-na-afrika-go-proglasi-maroko/",
+      "published": "Tue, 17 Mar 2026 22:38:34 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "(Видео) Реал пак го победи Сити, ПСЖ демонстрираше сила во Лондон, спектакуларен гол на Езе против Баер",
+      "link": "https://makfax.com.mk/sport/video-real-pak-go-pobedi-siti-pszh-demonstrirashe-sila-vo-london-spektakularen-gol-na-eze-protiv-baer/",
+      "published": "Tue, 17 Mar 2026 22:20:39 +0000"
+    },
     {
       "region": "Македонија",
       "source": "Makfax",
@@ -24,17 +38,17 @@
     },
     {
       "region": "Македонија",
-      "source": "Makfax",
-      "title": "(Видео) Спортинг со „петарда“ го елиминира Боде/Глимт",
-      "link": "https://makfax.com.mk/sport/video-sporting-so-petarda-go-eliminira-bode-glimt/",
-      "published": "Tue, 17 Mar 2026 20:31:56 +0000"
+      "source": "NetPress",
+      "title": "Преглед ЛШ: Од трите англиски преставника мина само Арсенал, голем пресврт на Спортинг",
+      "link": "https://netpress.com.mk/pregled-lsh-od-trite-angliski-prestavnika-mina-samo-arsenal-golem-presvrt-na-sporting/",
+      "published": "Tue, 17 Mar 2026 22:37:00 +0000"
     },
     {
       "region": "Македонија",
-      "source": "Makfax",
-      "title": "Поради стравот од ширење на војната во Иран, САД наредија безбедносна проверка на сите амбасади",
-      "link": "https://makfax.com.mk/svet/poradi-stravot-od-shirene-na-vojnata-vo-iran-sad-naredija-bezbednosna-proverka-na-site-ambasadi/",
-      "published": "Tue, 17 Mar 2026 19:53:26 +0000"
+      "source": "NetPress",
+      "title": "Германската влада ненаменски ги трошела кредитите за инвестиции во инфраструктурата",
+      "link": "https://netpress.com.mk/germanskata-vlada-nenamenski-gi-troshela-kreditite-za-investiczii-vo-infrastrukturata/",
+      "published": "Tue, 17 Mar 2026 22:11:20 +0000"
     },
     {
       "region": "Македонија",
@@ -56,20 +70,6 @@
       "title": "Евролига: Олимпијакос го победи Фенербахче во дербито, Партизан со пресврт го доби Дубаи",
       "link": "https://netpress.com.mk/evroliga-olimpijakos-go-pobedi-fenerbahche-vo-derbito-partizan-so-presvrt-go-dobi-dubai/",
       "published": "Tue, 17 Mar 2026 21:27:43 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Земјоделците искористија над 80% од поддршката зелена нафта",
-      "link": "https://netpress.com.mk/zemjodelczite-iskoristija-nad-80-od-poddrshkata-zelena-nafta/",
-      "published": "Tue, 17 Mar 2026 21:20:52 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Британските угостители ги исклучуваат печките и фрижидерите за да заштедат",
-      "link": "https://netpress.com.mk/britanskite-ugostiteli-gi-iskluchuvaat-pechkite-i-frizhiderite-za-da-zashtedat/",
-      "published": "Tue, 17 Mar 2026 21:16:37 +0000"
     },
     {
       "region": "Свет",
@@ -109,37 +109,37 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "Vinicius Jr scores twice as Real Madrid knock Man City out of UCL last 16",
+      "link": "https://www.aljazeera.com/sports/2026/3/17/vinicius-jr-scores-twice-as-real-madrid-knock-man-city-out-of-ucl-last-16?traffic_source=rss",
+      "published": "Tue, 17 Mar 2026 22:30:35 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Argentina officially withdraws from World Health Organization, following US",
+      "link": "https://www.aljazeera.com/news/2026/3/17/argentina-officially-withdraws-from-world-health-organization-following-us?traffic_source=rss",
+      "published": "Tue, 17 Mar 2026 22:22:20 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Pakistan denies hospital strike in Afghanistan as death toll hits 400",
+      "link": "https://www.aljazeera.com/news/2026/3/17/pakistan-denies-hospital-strike-in-afghanistan-as-death-toll-hits-400?traffic_source=rss",
+      "published": "Tue, 17 Mar 2026 22:06:38 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Tipster claims to have seen ‘grave-like plots’ at Epstein’s Zorro Ranch",
+      "link": "https://www.aljazeera.com/news/2026/3/17/tipster-claims-to-have-seen-grave-like-plots-at-epsteins-zorro-ranch?traffic_source=rss",
+      "published": "Tue, 17 Mar 2026 22:06:10 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "Trump says US does not ‘need’ Strait of Hormuz help, despite appeal",
       "link": "https://www.aljazeera.com/news/2026/3/17/trump-says-us-does-not-need-strait-of-hormuz-help-despite-appeal?traffic_source=rss",
       "published": "Tue, 17 Mar 2026 21:17:56 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Who was Ali Larijani, Iran’s powerful insider?",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/17/who-was-ali-larijani-irans-powerful-insider?traffic_source=rss",
-      "published": "Tue, 17 Mar 2026 21:09:44 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "FIFA rejects Iran’s request to move World Cup matches from US to Mexico",
-      "link": "https://www.aljazeera.com/sports/2026/3/17/fifa-rejects-irans-request-to-move-world-cup-matches-from-us-to-mexico?traffic_source=rss",
-      "published": "Tue, 17 Mar 2026 20:57:04 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Rubio says Cuba needs to ‘get new people in charge’ as US ratchets pressure",
-      "link": "https://www.aljazeera.com/news/2026/3/17/rubio-says-cuba-needs-to-get-new-people-in-charge-as-us-ratchets-pressure?traffic_source=rss",
-      "published": "Tue, 17 Mar 2026 20:48:05 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Diners witness drone interception attempt overhead in Baghdad",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/17/diners-witness-drone-interception-attempt-overhead-in-baghdad?traffic_source=rss",
-      "published": "Tue, 17 Mar 2026 20:38:46 +0000"
     }
   ]
 }
