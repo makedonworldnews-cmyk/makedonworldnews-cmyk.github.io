@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-17T18:40:54Z",
+  "updatedAt": "2026-03-17T19:44:25Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,24 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Калас: Одлуката на САД да ги ублажи санкциите врз руската нафта не можеше да дојде во полошо време за Украина",
+          "link": "https://makfax.com.mk/svet/kalas-odlukata-na-sad-da-gi-ublazhi-sankcziite-vrz-ruskata-nafta-ne-mozheshe-da-dojde-vo-polosho-vreme-za-ukraina/",
+          "published": "Tue, 17 Mar 2026 19:36:05 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Зеленски: Испративме 201 експерт на Блискиот Исток и земјите од Заливот",
+          "link": "https://makfax.com.mk/svet/zelenski-isprativme-201-ekspert-na-bliskiot-istok-i-zemjite-od-zalivot/",
+          "published": "Tue, 17 Mar 2026 18:54:20 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Макрон: Подготвени сме да помогнеме со Ормутскиот теснец кога ќе престанат борбите",
+          "link": "https://makfax.com.mk/svet/makron-podgotveni-sme-da-pomogneme-so-ormutskiot-tesnecz-koga-ke-prestanat-borbite/",
+          "published": "Tue, 17 Mar 2026 18:50:00 +0000"
         },
         {
           "source": "Makfax",
@@ -23,22 +41,16 @@
           "published": "Tue, 17 Mar 2026 18:21:09 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Зеленски: Нетанјаху го има она што ми треба, јас го имам она што нему му треба",
-          "link": "https://makfax.com.mk/svet/zelenski-netanjahu-go-ima-ona-shto-mi-treba-jas-go-imam-ona-shto-nemu-mu-treba/",
-          "published": "Tue, 17 Mar 2026 18:02:15 +0000"
+          "source": "NetPress",
+          "title": "Обвинителката Пам Бонди ќе сведочи пред конгресмените како се постапува со досиејата поврзани со Џефри Епштајн",
+          "link": "https://netpress.com.mk/obvinitelkata-pam-bondi-ke-svedochi-pred-kongresmenite-kako-se-postapuva-so-dosiejata-povrzani-so-dhefri-epshtajn/",
+          "published": "Tue, 17 Mar 2026 19:28:54 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Цените на нафтата растат",
-          "link": "https://makfax.com.mk/svet/czenite-na-naftata-rastat/",
-          "published": "Tue, 17 Mar 2026 17:36:05 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "(Видео) „Трамп ме прати да проверам дали сте жив“ – Нетанјаху објави шеговито видео за теориите на заговор за неговата смрт",
-          "link": "https://makfax.com.mk/svet/video-tramp-me-prati-da-proveram-dali-ste-zhiv-netanjahu-objavi-shegovito-video-za-teoriite-na-zagovor-za-negovata-smrt/",
-          "published": "Tue, 17 Mar 2026 17:21:47 +0000"
+          "source": "NetPress",
+          "title": "Работнички и Тиквеш ќе играат меч во чест на Андреј Лазаров",
+          "link": "https://netpress.com.mk/rabotnichki-i-tikvesh-ke-igraat-mech-vo-chest-na-andrej-lazarov/",
+          "published": "Tue, 17 Mar 2026 18:49:32 +0000"
         },
         {
           "source": "NetPress",
@@ -57,18 +69,6 @@
           "title": "Лишени од слобода девет возачи, седумина биле без возачка дозвола",
           "link": "https://netpress.com.mk/lisheni-od-sloboda-devet-vozachi-sedumina-bile-bez-vozachka-dozvola/",
           "published": "Tue, 17 Mar 2026 17:50:37 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "И Полска нема да испрати трупи во Иран",
-          "link": "https://netpress.com.mk/i-polska-nema-da-isprati-trupi-vo-iran/",
-          "published": "Tue, 17 Mar 2026 17:46:39 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Пресметките за Ормутскиот теснец ги кренаа цените на нафтата над 102 долари",
-          "link": "https://netpress.com.mk/presmetkite-za-ormutskiot-tesnecz-gi-krenaa-czenite-na-naftata-nad-102-dolari/",
-          "published": "Tue, 17 Mar 2026 17:17:21 +0000"
         }
       ]
     },
@@ -83,9 +83,15 @@
         },
         {
           "source": "BBC",
+          "title": "Air strike hit Kabul rehab centre as patients ate dinner, survivor tells BBC",
+          "link": "https://www.bbc.com/news/articles/ckg1kgz6wkgo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 17 Mar 2026 18:45:54 GMT"
+        },
+        {
+          "source": "BBC",
           "title": "Israel says it killed Iranian security chief Ali Larijani in air strike",
           "link": "https://www.bbc.com/news/articles/c24deezq6meo?at_medium=RSS&at_campaign=rss",
-          "published": "Tue, 17 Mar 2026 15:31:43 GMT"
+          "published": "Tue, 17 Mar 2026 19:07:04 GMT"
         },
         {
           "source": "BBC",
@@ -100,10 +106,22 @@
           "published": "Tue, 17 Mar 2026 15:49:46 GMT"
         },
         {
-          "source": "BBC",
-          "title": "Utah mother who wrote book about grief found guilty of poisoning husband",
-          "link": "https://www.bbc.com/news/articles/cdxg1nx2r61o?at_medium=RSS&at_campaign=rss",
-          "published": "Tue, 17 Mar 2026 01:14:04 GMT"
+          "source": "Al Jazeera",
+          "title": "Congolese President Sassou Nguesso wins fifth term: Provisional results",
+          "link": "https://www.aljazeera.com/news/2026/3/17/congos-president-nguesso-to-secure-fifth-term-provisional-results-predict?traffic_source=rss",
+          "published": "Tue, 17 Mar 2026 19:05:19 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "US lawmakers Murphy, Casar push legislation to regulate prediction markets",
+          "link": "https://www.aljazeera.com/economy/2026/3/17/us-lawmakers-murphy-casar-push-legislation-to-regulate-prediction-markets?traffic_source=rss",
+          "published": "Tue, 17 Mar 2026 18:58:30 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Trump says it’s a ‘good thing’ counterterrorism director resigned over Iran",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/17/trump-says-its-a-good-thing-counterterrorism-director-resigned-over-iran?traffic_source=rss",
+          "published": "Tue, 17 Mar 2026 18:46:30 +0000"
         },
         {
           "source": "Al Jazeera",
@@ -116,24 +134,6 @@
           "title": "Starmer, Zelenskyy urge ‘focus’ on Ukraine as Iran war diverts attention",
           "link": "https://www.aljazeera.com/news/2026/3/17/starmer-tells-zelenskyy-focus-on-ukraine-as-iran-war-diverts-attention?traffic_source=rss",
           "published": "Tue, 17 Mar 2026 17:59:21 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Video: Man rescued from under rubble after attack in Iran",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/17/video-man-rescued-from-under-rubble-after-attack-in-iran?traffic_source=rss",
-          "published": "Tue, 17 Mar 2026 17:05:28 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Ex-Belgian diplomat ordered to stand trial over murder of Congo’s Lumumba",
-          "link": "https://www.aljazeera.com/news/2026/3/17/belgium-diplomat-ordered-to-stand-trial-over-killing-of-patrice-lumumba?traffic_source=rss",
-          "published": "Tue, 17 Mar 2026 17:04:55 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Israel carrying out ‘mass expulsion of Palestinians’ in West Bank, UN warns",
-          "link": "https://www.aljazeera.com/news/2026/3/17/israel-carrying-out-mass-expulsion-of-palestinians-in-west-bank-un-warns?traffic_source=rss",
-          "published": "Tue, 17 Mar 2026 17:04:44 +0000"
         }
       ]
     }
