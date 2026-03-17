@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-17T22:33:58Z",
+  "updatedAt": "2026-03-17T23:04:04Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Судот му ја одзеде титулата на ​​Сенегал, за шампион на Африка го прогласи Мароко",
+          "link": "https://makfax.com.mk/sport/sudot-mu-ja-odzede-titulata-na-senegal-za-shampion-na-afrika-go-proglasi-maroko/",
+          "published": "Tue, 17 Mar 2026 22:38:34 +0000"
         },
         {
           "source": "Makfax",
@@ -35,10 +41,16 @@
           "published": "Tue, 17 Mar 2026 20:38:04 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "(Видео) Спортинг со „петарда“ го елиминира Боде/Глимт",
-          "link": "https://makfax.com.mk/sport/video-sporting-so-petarda-go-eliminira-bode-glimt/",
-          "published": "Tue, 17 Mar 2026 20:31:56 +0000"
+          "source": "NetPress",
+          "title": "Африкански Kуп на нациитe:  Одземена титулата на Сенегал – Мароко е шампион",
+          "link": "https://netpress.com.mk/afrikanski-kup-na-nacziite-odzemena-titulata-na-senegal-maroko-e-shampion/",
+          "published": "Tue, 17 Mar 2026 22:58:35 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Преглед ЛШ: Од трите англиски преставника мина само Арсенал, голем пресврт на Спортинг",
+          "link": "https://netpress.com.mk/pregled-lsh-od-trite-angliski-prestavnika-mina-samo-arsenal-golem-presvrt-na-sporting/",
+          "published": "Tue, 17 Mar 2026 22:37:00 +0000"
         },
         {
           "source": "NetPress",
@@ -57,18 +69,6 @@
           "title": "Иран ја потврди смртта на Али Лариџани",
           "link": "https://netpress.com.mk/iran-ja-potvrdi-smrtta-na-ali-laridhani/",
           "published": "Tue, 17 Mar 2026 21:36:03 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Евролига: Олимпијакос го победи Фенербахче во дербито, Партизан со пресврт го доби Дубаи",
-          "link": "https://netpress.com.mk/evroliga-olimpijakos-go-pobedi-fenerbahche-vo-derbito-partizan-so-presvrt-go-dobi-dubai/",
-          "published": "Tue, 17 Mar 2026 21:27:43 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Земјоделците искористија над 80% од поддршката зелена нафта",
-          "link": "https://netpress.com.mk/zemjodelczite-iskoristija-nad-80-od-poddrshkata-zelena-nafta/",
-          "published": "Tue, 17 Mar 2026 21:20:52 +0000"
         }
       ]
     },
@@ -91,7 +91,7 @@
           "source": "BBC",
           "title": "Iranian security chief Ali Larijani killed in air strike",
           "link": "https://www.bbc.com/news/articles/c24deezq6meo?at_medium=RSS&at_campaign=rss",
-          "published": "Tue, 17 Mar 2026 21:14:35 GMT"
+          "published": "Tue, 17 Mar 2026 22:49:03 GMT"
         },
         {
           "source": "BBC",
@@ -104,6 +104,18 @@
           "title": "Chile's president begins building border barrier less than week into term",
           "link": "https://www.bbc.com/news/articles/cvg1227k00eo?at_medium=RSS&at_campaign=rss",
           "published": "Tue, 17 Mar 2026 15:49:46 GMT"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Vinicius Jr scores twice as Real Madrid knock Man City out of UCL last 16",
+          "link": "https://www.aljazeera.com/sports/2026/3/17/vinicius-jr-scores-twice-as-real-madrid-knock-man-city-out-of-ucl-last-16?traffic_source=rss",
+          "published": "Tue, 17 Mar 2026 22:30:35 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Argentina officially withdraws from World Health Organization, following US",
+          "link": "https://www.aljazeera.com/news/2026/3/17/argentina-officially-withdraws-from-world-health-organization-following-us?traffic_source=rss",
+          "published": "Tue, 17 Mar 2026 22:22:20 +0000"
         },
         {
           "source": "Al Jazeera",
@@ -122,18 +134,6 @@
           "title": "Trump says US does not ‘need’ Strait of Hormuz help, despite appeal",
           "link": "https://www.aljazeera.com/news/2026/3/17/trump-says-us-does-not-need-strait-of-hormuz-help-despite-appeal?traffic_source=rss",
           "published": "Tue, 17 Mar 2026 21:17:56 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Who was Ali Larijani, Iran’s powerful insider?",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/17/who-was-ali-larijani-irans-powerful-insider?traffic_source=rss",
-          "published": "Tue, 17 Mar 2026 21:09:44 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "FIFA rejects Iran’s request to move World Cup matches from US to Mexico",
-          "link": "https://www.aljazeera.com/sports/2026/3/17/fifa-rejects-irans-request-to-move-world-cup-matches-from-us-to-mexico?traffic_source=rss",
-          "published": "Tue, 17 Mar 2026 20:57:04 +0000"
         }
       ]
     }
