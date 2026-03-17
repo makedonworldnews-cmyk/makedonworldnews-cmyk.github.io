@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-17T23:04:04Z",
+  "updatedAt": "2026-03-17T23:45:34Z",
   "groups": [
     {
       "region": "Македонија",
@@ -89,21 +89,33 @@
         },
         {
           "source": "BBC",
-          "title": "Iranian security chief Ali Larijani killed in air strike",
-          "link": "https://www.bbc.com/news/articles/c24deezq6meo?at_medium=RSS&at_campaign=rss",
-          "published": "Tue, 17 Mar 2026 22:49:03 GMT"
-        },
-        {
-          "source": "BBC",
           "title": "Pakistan air strike kills at least 100 at Kabul drug rehab centre",
           "link": "https://www.bbc.com/news/articles/c4g8n7e0l40o?at_medium=RSS&at_campaign=rss",
           "published": "Tue, 17 Mar 2026 12:38:49 GMT"
         },
         {
           "source": "BBC",
+          "title": "Iranian security chief Ali Larijani killed in air strike",
+          "link": "https://www.bbc.com/news/articles/c24deezq6meo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 17 Mar 2026 22:49:03 GMT"
+        },
+        {
+          "source": "BBC",
           "title": "Chile's president begins building border barrier less than week into term",
           "link": "https://www.bbc.com/news/articles/cvg1227k00eo?at_medium=RSS&at_campaign=rss",
           "published": "Tue, 17 Mar 2026 15:49:46 GMT"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "CAF strips Senegal of AFCON title, Morocco declared African champions",
+          "link": "https://www.aljazeera.com/sports/2026/3/17/caf-strips-senegal-of-afcon-title-morocco-declared-african-champions?traffic_source=rss",
+          "published": "Tue, 17 Mar 2026 22:57:33 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Ireland’s Micheal Martin and Trump in awkward St Patrick’s Day exchange",
+          "link": "https://www.aljazeera.com/news/2026/3/17/irelands-micheal-martin-and-trump-in-awkward-st-patricks-day-exchange?traffic_source=rss",
+          "published": "Tue, 17 Mar 2026 22:53:11 +0000"
         },
         {
           "source": "Al Jazeera",
@@ -122,18 +134,6 @@
           "title": "Pakistan denies hospital strike in Afghanistan as death toll hits 400",
           "link": "https://www.aljazeera.com/news/2026/3/17/pakistan-denies-hospital-strike-in-afghanistan-as-death-toll-hits-400?traffic_source=rss",
           "published": "Tue, 17 Mar 2026 22:06:38 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Tipster claims to have seen ‘grave-like plots’ at Epstein’s Zorro Ranch",
-          "link": "https://www.aljazeera.com/news/2026/3/17/tipster-claims-to-have-seen-grave-like-plots-at-epsteins-zorro-ranch?traffic_source=rss",
-          "published": "Tue, 17 Mar 2026 22:06:10 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Trump says US does not ‘need’ Strait of Hormuz help, despite appeal",
-          "link": "https://www.aljazeera.com/news/2026/3/17/trump-says-us-does-not-need-strait-of-hormuz-help-despite-appeal?traffic_source=rss",
-          "published": "Tue, 17 Mar 2026 21:17:56 +0000"
         }
       ]
     }
