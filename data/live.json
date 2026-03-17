@@ -1,6 +1,13 @@
 {
-  "generated_at": "2026-03-17T21:30:04Z",
+  "generated_at": "2026-03-17T22:02:30Z",
   "items": [
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "Флик: Барселона ќе биде мојот последен клуб",
+      "link": "https://makfax.com.mk/sport/flik-barselona-ke-bide-mojot-posleden-klub/",
+      "published": "Tue, 17 Mar 2026 21:34:31 +0000"
+    },
     {
       "region": "Македонија",
       "source": "Makfax",
@@ -31,10 +38,17 @@
     },
     {
       "region": "Македонија",
-      "source": "Makfax",
-      "title": "(Видео) Дрон удри во амбасадата на САД во Багдад",
-      "link": "https://makfax.com.mk/svet/video-dron-udri-vo-ambasadata-na-sad-vo-bagdad/",
-      "published": "Tue, 17 Mar 2026 19:48:01 +0000"
+      "source": "NetPress",
+      "title": "Романија во готовност, итно покренати два борбени авиони Ф-16",
+      "link": "https://netpress.com.mk/romanija-vo-gotovnost-itno-pokrenati-dva-borbeni-avioni-f-16/",
+      "published": "Tue, 17 Mar 2026 21:56:34 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "NetPress",
+      "title": "Иран ја потврди смртта на Али Лариџани",
+      "link": "https://netpress.com.mk/iran-ja-potvrdi-smrtta-na-ali-laridhani/",
+      "published": "Tue, 17 Mar 2026 21:36:03 +0000"
     },
     {
       "region": "Македонија",
@@ -58,25 +72,11 @@
       "published": "Tue, 17 Mar 2026 21:16:37 +0000"
     },
     {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Ако Зеленски сака пари мора да ги обнови испораките преку нафтоводот „Дружба“",
-      "link": "https://netpress.com.mk/ako-zelenski-saka-pari-mora-da-gi-obnovi-isporakite-preku-naftovodot-druzhba/",
-      "published": "Tue, 17 Mar 2026 21:10:15 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Најголемиот производител на злато во Русија оствари двоцифрен раст на приходитe",
-      "link": "https://netpress.com.mk/najgolemiot-proizvoditel-na-zlato-vo-rusija-ostvari-dvoczifren-rast-na-prihodite/",
-      "published": "Tue, 17 Mar 2026 20:53:57 +0000"
-    },
-    {
       "region": "Свет",
       "source": "BBC",
       "title": "Top US counterterrorism official resigns over Iran war, urging Trump to 'reverse course'",
       "link": "https://www.bbc.com/news/articles/cg4g66r3z40o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 17 Mar 2026 16:43:34 GMT"
+      "published": "Tue, 17 Mar 2026 21:48:08 GMT"
     },
     {
       "region": "Свет",
@@ -109,6 +109,20 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "Trump says US does not ‘need’ Strait of Hormuz help, despite appeal",
+      "link": "https://www.aljazeera.com/news/2026/3/17/trump-says-us-does-not-need-strait-of-hormuz-help-despite-appeal?traffic_source=rss",
+      "published": "Tue, 17 Mar 2026 21:17:56 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Who was Ali Larijani, Iran’s powerful insider?",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/17/who-was-ali-larijani-irans-powerful-insider?traffic_source=rss",
+      "published": "Tue, 17 Mar 2026 21:09:44 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "FIFA rejects Iran’s request to move World Cup matches from US to Mexico",
       "link": "https://www.aljazeera.com/sports/2026/3/17/fifa-rejects-irans-request-to-move-world-cup-matches-from-us-to-mexico?traffic_source=rss",
       "published": "Tue, 17 Mar 2026 20:57:04 +0000"
@@ -126,20 +140,6 @@
       "title": "Diners witness drone interception attempt overhead in Baghdad",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/3/17/diners-witness-drone-interception-attempt-overhead-in-baghdad?traffic_source=rss",
       "published": "Tue, 17 Mar 2026 20:38:46 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Colombia’s Petro accuses Ecuador of bombing near border",
-      "link": "https://www.aljazeera.com/news/2026/3/17/colombias-petro-accuses-ecuador-of-bombing-near-border?traffic_source=rss",
-      "published": "Tue, 17 Mar 2026 20:16:32 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Could the Iran war keep Netanyahu in power for longer?",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/3/17/could-the-iran-war-keep-netanyahu-in-power-for-longer?traffic_source=rss",
-      "published": "Tue, 17 Mar 2026 20:08:20 +0000"
     }
   ]
 }
