@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-18T17:31:31Z",
+  "updatedAt": "2026-03-18T18:33:46Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,24 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Папата го критикуваше Трамп: „Војната не е видео игра, медиумите не смеат да шират пропаганда“",
+          "link": "https://makfax.com.mk/svet/papata-go-kritikuvashe-tramp-vojnata-ne-e-video-igra-mediumite-ne-smeat-da-shirat-propaganda/",
+          "published": "Wed, 18 Mar 2026 18:11:45 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) Макрон го откри името на новиот носач на авиони: France Libre (Слободна Франција)",
+          "link": "https://makfax.com.mk/svet/video-makron-go-otkri-imeto-na-noviot-nosach-na-avioni-france-libre-slobodna-franczija/",
+          "published": "Wed, 18 Mar 2026 18:07:26 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Шпанија ги повлекува трупите од Ирак поради војната во Иран",
+          "link": "https://makfax.com.mk/svet/shpanija-gi-povlekuva-trupite-od-irak-poradi-vojnata-vo-iran/",
+          "published": "Wed, 18 Mar 2026 17:51:01 +0000"
         },
         {
           "source": "Makfax",
@@ -23,52 +41,34 @@
           "published": "Wed, 18 Mar 2026 17:24:17 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "„Паниката во ВМРО ја извади на површина Платформата за рушење на СДСМ“, велат од Социјалдемократскиот сојуз",
-          "link": "https://makfax.com.mk/makedonija/panikata-vo-vmro-ja-izvadi-na-povrshina-platformata-za-rushene-na-sdsm-velat-od-soczijaldemokratskiot-sojuz/",
-          "published": "Wed, 18 Mar 2026 17:21:28 +0000"
+          "source": "NetPress",
+          "title": "Започна твининг проект „Зајакнување на националниот фитосанитарен систем“",
+          "link": "https://netpress.com.mk/zapochna-tvining-proekt-zajaknuvane-na-naczionalniot-fitosanitaren-sistem/",
+          "published": "Wed, 18 Mar 2026 18:24:31 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "„Секоја крв има цена што убијците наскоро ќе мора да ја платат“: новиот врховен лидер на Иран се огласи по атентатите врз високи функционери",
-          "link": "https://makfax.com.mk/svet/sekoja-krv-ima-czena-shto-ubijczite-naskoro-ke-mora-da-ja-platat-noviot-vrhoven-lider-na-iran-se-oglasi-po-atentatite-vrz-visoki-funkczioneri/",
-          "published": "Wed, 18 Mar 2026 17:10:43 +0000"
+          "source": "NetPress",
+          "title": "ОАЕ го осудија нападот врз гасното поле Јужен Фарс во Иран",
+          "link": "https://netpress.com.mk/oae-go-osudija-napadot-vrz-gasnoto-pole-juzhen-fars-vo-iran/",
+          "published": "Wed, 18 Mar 2026 18:17:59 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Руте: НАТО работи на решение за Ормускиот теснец",
-          "link": "https://makfax.com.mk/svet/rute-nato-raboti-na-reshenie-za-ormuskiot-tesnecz/",
-          "published": "Wed, 18 Mar 2026 17:00:22 +0000"
+          "source": "NetPress",
+          "title": "Членките на НАТО дискутираат за „најдобриот начин“ за повторно отворање на Ормутскиот теснец, според Руте",
+          "link": "https://netpress.com.mk/chlenkite-na-nato-diskutiraat-za-najdobriot-nachin-za-povtorno-otvorane-na-ormutskiot-tesnecz-spored-rute/",
+          "published": "Wed, 18 Mar 2026 18:03:04 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Норвешкото обвинителство бара седум години затвор за синот на престолонаследничката Мете-Марит",
+          "link": "https://netpress.com.mk/norveshkoto-obvinitelstvo-bara-sedum-godini-zatvor-za-sinot-na-prestolonaslednichkata-mete-marit/",
+          "published": "Wed, 18 Mar 2026 17:49:45 +0000"
         },
         {
           "source": "NetPress",
           "title": "ВИДЕО| ВМРО-ДПМНЕ дел од самитот на ЕПП на кој ќе разговараме за глобалните предизвици, а ние ќе ставиме акцент и на проширувањето на ЕУ",
           "link": "https://netpress.com.mk/video-vmro-dpmne-e-del-od-samitot-na-epp-na-koj-ke-razgovarame-za-globalnite-predizviczi-a-nie-ke-stavime-akczent-i-na-proshiruvaneto-na-eu/",
           "published": "Wed, 18 Mar 2026 17:29:08 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Нападот врз иранската инфраструктура ги крена цените на нафтата кон 109 долари",
-          "link": "https://netpress.com.mk/napadot-vrz-iranskata-infrastruktura-gi-krena-czenite-na-naftata-kon-109-dolari/",
-          "published": "Wed, 18 Mar 2026 16:50:53 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Поевтино гориво за два денара на повеќето бензински пумпи",
-          "link": "https://netpress.com.mk/poevtino-gorivo-za-dva-denara-na-poveketo-benzinski-pumpi/",
-          "published": "Wed, 18 Mar 2026 16:27:32 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Едно лице загина во несреќа со гондола во швајцарски ски-центар",
-          "link": "https://netpress.com.mk/edno-licze-zagina-vo-nesreka-so-gondola-vo-shvajczarski-ski-czentar/",
-          "published": "Wed, 18 Mar 2026 16:16:01 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Американско разузнавање: Иран не збогатувал ураниум од нападот во јуни 2025-та",
-          "link": "https://netpress.com.mk/amerikansko-razuznavane-iran-ne-zbogatuval-uranium-od-napadot-vo-juni-2025-ta/",
-          "published": "Wed, 18 Mar 2026 16:05:13 +0000"
         }
       ]
     },
@@ -107,6 +107,24 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Trump temporarily waives century-old shipping law amid rising fuel costs",
+          "link": "https://www.aljazeera.com/economy/2026/3/18/trump-temporarily-waives-century-old-shipping-law-amid-rising-fuel-costs?traffic_source=rss",
+          "published": "Wed, 18 Mar 2026 17:56:26 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Who will answer for the Iranian schoolchildren killed in Minab?",
+          "link": "https://www.aljazeera.com/video/the-take-2/2026/3/18/aje-onl-usa_iranaccountability_av_v2-180326?traffic_source=rss",
+          "published": "Wed, 18 Mar 2026 17:53:40 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Iranian women’s football team return to Iran",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/18/iranian-womens-football-team-return-to-iran?traffic_source=rss",
+          "published": "Wed, 18 Mar 2026 17:51:55 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "LIVE: Liverpool vs Galatasaray – Champions League last 16",
           "link": "https://www.aljazeera.com/sports/liveblog/2026/3/18/live-liverpool-vs-galatasaray-champions-league-last-16?traffic_source=rss",
           "published": "Wed, 18 Mar 2026 17:10:14 +0000"
@@ -116,24 +134,6 @@
           "title": "Gunshots disperse crowd during Persian New Year festivities in Tehran",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/3/18/gunshots-disperse-crowd-during-persian-new-year-festivities-in-tehran?traffic_source=rss",
           "published": "Wed, 18 Mar 2026 16:51:05 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "President or Congress? Who in the US has the power to declare war?",
-          "link": "https://www.aljazeera.com/news/2026/3/18/president-or-congress-who-in-the-us-has-the-power-to-declare-war?traffic_source=rss",
-          "published": "Wed, 18 Mar 2026 16:48:57 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Pakistan and Afghanistan agree to temporary Eid al-Fitr ‘pause’ in conflict",
-          "link": "https://www.aljazeera.com/news/2026/3/18/pakistan-and-afghanistan-agree-to-temporary-eid-al-fitr-pause-in-conflict?traffic_source=rss",
-          "published": "Wed, 18 Mar 2026 16:47:12 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "How Los Angeles’s Iranian diaspora is confronting the US war on Iran",
-          "link": "https://www.aljazeera.com/news/longform/2026/3/18/how-los-angeless-iranian-diaspora-is-confronting-the-us-war-on-iran?traffic_source=rss",
-          "published": "Wed, 18 Mar 2026 15:42:59 +0000"
         }
       ]
     }
