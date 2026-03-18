@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-18T21:35:18Z",
+  "updatedAt": "2026-03-18T22:02:02Z",
   "groups": [
     {
       "region": "Македонија",
@@ -42,6 +42,18 @@
         },
         {
           "source": "NetPress",
+          "title": "Висок дипломат на Ватикан ги повика САД и Израел да ја прекинат војната „што е можно поскоро“",
+          "link": "https://netpress.com.mk/visok-diplomat-na-vatikan-gi-povika-sad-i-izrael-da-ja-prekinat-vojnata-shto-e-mozhno-poskoro/",
+          "published": "Wed, 18 Mar 2026 21:49:30 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Во Словенија лимитирано полнење на горивата, Словачка се справува со „бензискиот туризам“",
+          "link": "https://netpress.com.mk/vo-slovenija-limitirano-polnene-na-gorivata-slovachka-se-spravuva-so-benziskiot-turizam/",
+          "published": "Wed, 18 Mar 2026 21:39:13 +0000"
+        },
+        {
+          "source": "NetPress",
           "title": "Пакистан и Авганистан прогласија прекин на огнот по повод крајот на Рамазан",
           "link": "https://netpress.com.mk/pakistan-i-avganistan-proglasija-prekin-na-ognot-po-povod-krajot-na-ramazan/",
           "published": "Wed, 18 Mar 2026 21:23:15 +0000"
@@ -57,18 +69,6 @@
           "title": "ОН: Една училница деца секој ден се убиени или ранети од почетокот на војната во Либан",
           "link": "https://netpress.com.mk/on-edna-uchilnicza-decza-sekoj-den-se-ubieni-ili-raneti-od-pochetokot-na-vojnata-vo-liban/",
           "published": "Wed, 18 Mar 2026 20:35:44 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Милошоски – Лексман: Членството во ЕУ е заемно корисно за стабилноста, безбедноста и економскиот просперитет на регионот и Европа во целина",
-          "link": "https://netpress.com.mk/miloshoski-leksman-chlenstvoto-vo-eu-e-zaemno-korisno-za-stabilnosta-bezbednosta-i-ekonomskiot-prosperitet-na-regionot-i-evropa-vo-czelina/",
-          "published": "Wed, 18 Mar 2026 20:22:01 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Петнаесет тони гумени бомбони украдени од паркиран камион во Германија",
-          "link": "https://netpress.com.mk/petnaeset-toni-gumeni-bomboni-ukradeni-od-parkiran-kamion-vo-germanija/",
-          "published": "Wed, 18 Mar 2026 20:03:48 +0000"
         }
       ]
     },
@@ -107,13 +107,19 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Nigeria’s President Tinubu meets royals in UK state visit",
+          "link": "https://www.aljazeera.com/news/2026/3/18/nigerias-president-tinubu-meets-royals-in-historic-uk-state-visit?traffic_source=rss",
+          "published": "Wed, 18 Mar 2026 21:46:17 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Iranians burn Trump, Netanyahu effigies at warship victim rally",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/3/18/iranians-burn-trump-netanyahu-effigies-at-warship-victim-rally?traffic_source=rss",
           "published": "Wed, 18 Mar 2026 20:42:32 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "US Fed keeps interest rates steady amid economic, geopolitical uncertainty",
+          "title": "US Fed keeps interest rates steady amid economic uncertainty, Iran war",
           "link": "https://www.aljazeera.com/economy/2026/3/18/us-fed-keeps-interest-rates-steady-amid-economic-geopolitical-uncertainty?traffic_source=rss",
           "published": "Wed, 18 Mar 2026 20:34:19 +0000"
         },
@@ -128,12 +134,6 @@
           "title": "Delcy Rodriguez replaces Venezuela’s Defence Minister Vladimir Padrino",
           "link": "https://www.aljazeera.com/news/2026/3/18/delcy-rodriguez-replaces-venezuelas-defence-minister-vladimir-padrino?traffic_source=rss",
           "published": "Wed, 18 Mar 2026 20:11:42 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Oil prices surge after Israeli strike on Iran’s South Pars gasfield",
-          "link": "https://www.aljazeera.com/news/2026/3/18/oil-prices-surge-after-israeli-strike-on-iran-gasfield-irans-threats?traffic_source=rss",
-          "published": "Wed, 18 Mar 2026 19:56:15 +0000"
         }
       ]
     }
