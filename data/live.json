@@ -1,6 +1,13 @@
 {
-  "generated_at": "2026-03-18T21:58:15Z",
+  "generated_at": "2026-03-18T22:33:09Z",
   "items": [
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "(Видео) Лесни и убедливи победи на Ливерпул и Баерн , Тотенхем чесно се збогува со ЛШ",
+      "link": "https://makfax.com.mk/sport/video-lesni-i-ubedlivi-pobedi-na-liverpul-i-baern-totenhem-chesno-se-zboguva-so-lsh/",
+      "published": "Wed, 18 Mar 2026 22:08:31 +0000"
+    },
     {
       "region": "Македонија",
       "source": "Makfax",
@@ -31,10 +38,17 @@
     },
     {
       "region": "Македонија",
-      "source": "Makfax",
-      "title": "Поддршката за Зеленски се зголеми, покажуваат новите анкети",
-      "link": "https://makfax.com.mk/svet/poddrshkata-za-zelenski-se-zgolemi-pokazhuvaat-novite-anketi/",
-      "published": "Wed, 18 Mar 2026 20:33:42 +0000"
+      "source": "NetPress",
+      "title": "Израел првпат извел воздушни напади врз северен Иран, а Хезболах првпат удри во јужен Израел",
+      "link": "https://netpress.com.mk/izrael-prvpat-izvel-vozdushni-napadi-vrz-severen-iran-a-hezbolah-prvpat-udri-vo-juzhen-izrael/",
+      "published": "Wed, 18 Mar 2026 22:19:35 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "NetPress",
+      "title": "Саудиска Арабија ќе испорачува повеќе нафта преку Црвеното Море во март",
+      "link": "https://netpress.com.mk/saudiska-arabija-ke-isporachuva-poveke-nafta-preku-czrvenoto-more-vo-mart/",
+      "published": "Wed, 18 Mar 2026 22:02:57 +0000"
     },
     {
       "region": "Македонија",
@@ -56,20 +70,6 @@
       "title": "Пакистан и Авганистан прогласија прекин на огнот по повод крајот на Рамазан",
       "link": "https://netpress.com.mk/pakistan-i-avganistan-proglasija-prekin-na-ognot-po-povod-krajot-na-ramazan/",
       "published": "Wed, 18 Mar 2026 21:23:15 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "ФОТО| Мицкоски на 50-годишнината од формирањето на Европската народна партија во Брисел",
-      "link": "https://netpress.com.mk/foto-miczkoski-na-50-godishninata-od-formiraneto-na-evropskata-narodna-partija-vo-brisel/",
-      "published": "Wed, 18 Mar 2026 20:44:17 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "ОН: Една училница деца секој ден се убиени или ранети од почетокот на војната во Либан",
-      "link": "https://netpress.com.mk/on-edna-uchilnicza-decza-sekoj-den-se-ubieni-ili-raneti-od-pochetokot-na-vojnata-vo-liban/",
-      "published": "Wed, 18 Mar 2026 20:35:44 +0000"
     },
     {
       "region": "Свет",
@@ -95,9 +95,9 @@
     {
       "region": "Свет",
       "source": "BBC",
-      "title": "Oil nears $110 a barrel after gas field strike",
-      "link": "https://www.bbc.com/news/articles/c78x83lpgngo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 18 Mar 2026 19:53:50 GMT"
+      "title": "Ecuador gang leader wanted for murder of presidential candidate arrested",
+      "link": "https://www.bbc.com/news/articles/cy8g81k5xzgo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 18 Mar 2026 22:20:16 GMT"
     },
     {
       "region": "Свет",
@@ -109,6 +109,20 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "Leader of Ecuador-based criminal group Los Lobos arrested in Mexico City",
+      "link": "https://www.aljazeera.com/news/2026/3/18/leader-of-ecuadorean-criminal-group-los-lobos-apprehended-in-mexico-city?traffic_source=rss",
+      "published": "Wed, 18 Mar 2026 21:55:30 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Nigeria’s President Tinubu meets royals in UK state visit",
+      "link": "https://www.aljazeera.com/news/2026/3/18/nigerias-president-tinubu-meets-royals-in-historic-uk-state-visit?traffic_source=rss",
+      "published": "Wed, 18 Mar 2026 21:46:17 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "Iranians burn Trump, Netanyahu effigies at warship victim rally",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/3/18/iranians-burn-trump-netanyahu-effigies-at-warship-victim-rally?traffic_source=rss",
       "published": "Wed, 18 Mar 2026 20:42:32 +0000"
@@ -116,7 +130,7 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
-      "title": "US Fed keeps interest rates steady amid economic, geopolitical uncertainty",
+      "title": "US Fed keeps interest rates steady amid economic uncertainty, Iran war",
       "link": "https://www.aljazeera.com/economy/2026/3/18/us-fed-keeps-interest-rates-steady-amid-economic-geopolitical-uncertainty?traffic_source=rss",
       "published": "Wed, 18 Mar 2026 20:34:19 +0000"
     },
@@ -126,20 +140,6 @@
       "title": "Israel holding more than half of Palestinian child detainees without charge",
       "link": "https://www.aljazeera.com/news/2026/3/18/israel-holding-more-than-half-of-palestinian-child-detainees-without-charge?traffic_source=rss",
       "published": "Wed, 18 Mar 2026 20:25:52 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Delcy Rodriguez replaces Venezuela’s Defence Minister Vladimir Padrino",
-      "link": "https://www.aljazeera.com/news/2026/3/18/delcy-rodriguez-replaces-venezuelas-defence-minister-vladimir-padrino?traffic_source=rss",
-      "published": "Wed, 18 Mar 2026 20:11:42 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Oil prices surge after Israeli strike on Iran’s South Pars gasfield",
-      "link": "https://www.aljazeera.com/news/2026/3/18/oil-prices-surge-after-israeli-strike-on-iran-gasfield-irans-threats?traffic_source=rss",
-      "published": "Wed, 18 Mar 2026 19:56:15 +0000"
     }
   ]
 }
