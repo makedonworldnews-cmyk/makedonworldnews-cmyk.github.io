@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-18T11:29:25Z",
+  "updatedAt": "2026-03-18T12:07:03Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Објавен конкурс за нови композиции фестивал „Бисер на Јадранот“ 2026 – повик за пејачи, автори од Македонија",
+          "link": "https://makfax.com.mk/kultura/objaven-konkurs-za-novi-kompoziczii-festival-biser-na-jadranot-2026-povik-za-pejachi-avtori-od-makedonija/",
+          "published": "Wed, 18 Mar 2026 12:06:12 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Мане се огласи по одуката на Сенегал да му биде одземена титулата",
+          "link": "https://makfax.com.mk/sport/mane-se-oglasi-po-odukata-na-senegal-da-mu-bide-odzemena-titulata/",
+          "published": "Wed, 18 Mar 2026 12:02:56 +0000"
         },
         {
           "source": "Makfax",
@@ -29,46 +41,34 @@
           "published": "Wed, 18 Mar 2026 11:15:45 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Песков: Русија го осудува убиството на иранските лидери",
-          "link": "https://makfax.com.mk/svet/peskov-rusija-go-osuduva-ubistvoto-na-iranskite-lideri/",
-          "published": "Wed, 18 Mar 2026 11:14:21 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Природен трик за бујни рози: Кора од банана како тајно ѓубриво",
-          "link": "https://makfax.com.mk/zanimlivosti/priroden-trik-za-bujni-rozi-kora-od-banana-kako-tajno-gubrivo/",
-          "published": "Wed, 18 Mar 2026 11:08:39 +0000"
+          "source": "NetPress",
+          "title": "Утре променливо облачно, на запад со повремен дожд",
+          "link": "https://netpress.com.mk/utre-promenlivo-oblachno-na-zapad-so-povremen-dozhd/",
+          "published": "Wed, 18 Mar 2026 12:01:02 +0000"
         },
         {
           "source": "NetPress",
-          "title": "„Оваа недела не е во ред да пееме“: Владо Георгиев го помести својот концерт во Скопје за 24-ти април",
-          "link": "https://netpress.com.mk/ovaa-nedela-ne-e-vo-red-da-peeme-vlado-georgiev-go-pomesti-svojot-konczert-vo-skopje-za-24-ti-april/",
-          "published": "Wed, 18 Mar 2026 11:27:20 +0000"
+          "title": "ДУИ: Граѓаните и бизнисите губат околу 685.000 евра дневно на цените на горивата",
+          "link": "https://netpress.com.mk/dui-graganite-i-biznisite-gubat-okolu-685-000-evra-dnevno-na-czenite-na-gorivata/",
+          "published": "Wed, 18 Mar 2026 11:53:18 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Невидена еуфорија: Концертот на Јаков Јозиновиќ на 9-ти април во СЦ „Јане Сандански“ речиси распродаден",
-          "link": "https://netpress.com.mk/nevidena-euforija-konczertot-na-jakov-jozinovik-na-9-ti-april-vo-scz-jane-sandanski-rechisi-rasprodaden/",
-          "published": "Wed, 18 Mar 2026 11:18:39 +0000"
+          "title": "Шпионски скандал пред изборите во Словенија",
+          "link": "https://netpress.com.mk/shpionski-skandal-pred-izborite-vo-slovenija/",
+          "published": "Wed, 18 Mar 2026 11:45:01 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Целосно завршена евакуацијата македонските граѓани од погодените земји на Блискиот Исток",
-          "link": "https://netpress.com.mk/czelosno-zavrshena-evakuaczijata-makedonskite-gragani-od-pogodenite-zemji-na-bliskiot-istok/",
-          "published": "Wed, 18 Mar 2026 11:17:07 +0000"
+          "title": "Ненад Савески е личност со искуство што ќе испорача правда, која на Македонија очајно и е потребна",
+          "link": "https://netpress.com.mk/nenad-saveski-e-lichnost-so-iskustvo-shto-ke-isporacha-pravda-koja-na-makedonija-ochajno-i-e-potrebna/",
+          "published": "Wed, 18 Mar 2026 11:41:07 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Изложба на уметничка фотографија „Soul reflect“ на Каролина Димовска",
-          "link": "https://netpress.com.mk/izlozhba-na-umetnichka-fotografija-soul-reflect-na-karolina-dimovska/",
-          "published": "Wed, 18 Mar 2026 11:09:52 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Врховниот суд го одби барањето на Васил Јованов, ќе лежи 13 години во затвор",
-          "link": "https://netpress.com.mk/vrhovniot-sud-go-odbi-baraneto-na-vasil-jovanov-ke-lezhi-13-godini-vo-zatvor/",
-          "published": "Wed, 18 Mar 2026 11:08:59 +0000"
+          "title": "Убиен иранскиот министер за разузнавање",
+          "link": "https://netpress.com.mk/ubien-iranskiot-minister-za-razuznavane/",
+          "published": "Wed, 18 Mar 2026 11:38:19 +0000"
         }
       ]
     },
@@ -95,15 +95,33 @@
         },
         {
           "source": "BBC",
-          "title": "Spanish king reopens debate on conquest of Mexico by acknowledging 'abuse'",
-          "link": "https://www.bbc.com/news/articles/c33j3ne2mjlo?at_medium=RSS&at_campaign=rss",
-          "published": "Tue, 17 Mar 2026 18:55:17 GMT"
+          "title": "India's cheap weight-loss drugs could reshape global obesity fight",
+          "link": "https://www.bbc.com/news/articles/cx2g4411en3o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 18 Mar 2026 00:30:49 GMT"
         },
         {
           "source": "BBC",
-          "title": "Air strike hit Kabul rehab centre as patients ate dinner, survivor tells BBC",
-          "link": "https://www.bbc.com/news/articles/ckg1kgz6wkgo?at_medium=RSS&at_campaign=rss",
-          "published": "Tue, 17 Mar 2026 18:45:54 GMT"
+          "title": "US judge orders Trump administration to reopen Voice of America",
+          "link": "https://www.bbc.com/news/articles/ce3g3j1y2ldo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 18 Mar 2026 11:01:43 GMT"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Olympics urged to drop reported gender test plans for female athletes",
+          "link": "https://www.aljazeera.com/sports/2026/3/18/olympics-urged-to-drop-reported-gender-test-plans-for-female-athletes?traffic_source=rss",
+          "published": "Wed, 18 Mar 2026 11:41:09 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Turkiye says NATO bringing in more defences after missile interceptions",
+          "link": "https://www.aljazeera.com/news/2026/3/18/turkiye-says-nato-bringing-in-more-defences-after-missile-interceptions?traffic_source=rss",
+          "published": "Wed, 18 Mar 2026 11:24:40 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Iranian women footballers arrive in eastern Turkiye, on home border",
+          "link": "https://www.aljazeera.com/sports/2026/3/18/iran-womens-football-team-arrive-in-eastern-turkiye-on-home-border?traffic_source=rss",
+          "published": "Wed, 18 Mar 2026 11:23:56 +0000"
         },
         {
           "source": "Al Jazeera",
@@ -113,27 +131,9 @@
         },
         {
           "source": "Al Jazeera",
-          "title": "Israel says it killed Iran intel minister in third assassination in 2 days",
+          "title": "Israel says it kills Iran intel minister in third assassination in two days",
           "link": "https://www.aljazeera.com/news/2026/3/18/israel-says-it-killed-iran-intel-minister-in-third-assassination-in-2-days?traffic_source=rss",
           "published": "Wed, 18 Mar 2026 10:33:12 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Senegal to appeal decision to award AFCON title to Morocco",
-          "link": "https://www.aljazeera.com/sports/2026/3/18/senegal-to-appeal-decision-to-award-afcon-title-to-morocco?traffic_source=rss",
-          "published": "Wed, 18 Mar 2026 10:25:44 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Iranian diaspora celebrates Persian festival wrapped in US, Israeli flags",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/18/iranian-diaspora-celebrates-persian-festival-wrapped-in-us-israeli-flags?traffic_source=rss",
-          "published": "Wed, 18 Mar 2026 10:22:55 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Colombian president says Gaza was an ‘experiment’ for wider destruction",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/18/colombian-president-says-gaza-was-an-experiment-for-wider-destruction?traffic_source=rss",
-          "published": "Wed, 18 Mar 2026 10:20:51 +0000"
         }
       ]
     }
