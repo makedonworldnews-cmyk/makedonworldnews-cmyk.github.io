@@ -1,6 +1,20 @@
 {
-  "generated_at": "2026-03-18T05:17:28Z",
+  "generated_at": "2026-03-18T06:16:00Z",
   "items": [
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "Нов бран израелски напади врз Либан, погоден центарот на Бејрут, десетици мртви",
+      "link": "https://makfax.com.mk/svet/nov-bran-izraelski-napadi-vrz-liban-pogoden-czentarot-na-bejrut-deseticzi-mrtvi/",
+      "published": "Wed, 18 Mar 2026 06:13:34 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "(Видео) Иран објави снимка: „Го нападнавме Израел со еден од најмоќните проектили",
+      "link": "https://makfax.com.mk/svet/video-iran-objavi-snimka-go-napadnavme-izrael-so-eden-od-najmoknite-proektili/",
+      "published": "Wed, 18 Mar 2026 06:04:08 +0000"
+    },
     {
       "region": "Македонија",
       "source": "Makfax",
@@ -24,17 +38,10 @@
     },
     {
       "region": "Македонија",
-      "source": "Makfax",
-      "title": "Фурније го изрешета Фенербахче",
-      "link": "https://makfax.com.mk/sport/furnije-go-izresheta-fenerbahche/",
-      "published": "Tue, 17 Mar 2026 21:25:31 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "Makfax",
-      "title": "Ердоган повикува на итен прекин на „бесмислената војна во Иран“",
-      "link": "https://makfax.com.mk/svet/erdogan-povikuva-na-iten-prekin-na-besmislenata-vojna-vo-iran/",
-      "published": "Tue, 17 Mar 2026 20:38:04 +0000"
+      "source": "NetPress",
+      "title": "Променливо облачно и посвежо, со повремени врнежи",
+      "link": "https://netpress.com.mk/promenlivo-oblachno-i-posvezho-so-povremeni-vrnezhi/",
+      "published": "Wed, 18 Mar 2026 06:07:14 +0000"
     },
     {
       "region": "Македонија",
@@ -63,13 +70,6 @@
       "title": "Романија во готовност, итно покренати два борбени авиони Ф-16",
       "link": "https://netpress.com.mk/romanija-vo-gotovnost-itno-pokrenati-dva-borbeni-avioni-f-16/",
       "published": "Tue, 17 Mar 2026 21:56:34 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Иран ја потврди смртта на Али Лариџани",
-      "link": "https://netpress.com.mk/iran-ja-potvrdi-smrtta-na-ali-laridhani/",
-      "published": "Tue, 17 Mar 2026 21:36:03 +0000"
     },
     {
       "region": "Свет",
@@ -109,6 +109,20 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "Iran fires missiles, drones across Gulf, region remains in war crosshairs",
+      "link": "https://www.aljazeera.com/news/2026/3/18/iran-fires-missiles-drones-across-gulf-region-remains-in-war-crosshairs?traffic_source=rss",
+      "published": "Wed, 18 Mar 2026 05:52:26 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Venezuela defeat USA, win first World Baseball Classic championship",
+      "link": "https://www.aljazeera.com/sports/2026/3/18/venezuela-defeat-usa-win-first-world-baseball-classic-championship?traffic_source=rss",
+      "published": "Wed, 18 Mar 2026 05:50:31 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "Cuba restores power after 29-hour blackout amid US oil blockade",
       "link": "https://www.aljazeera.com/economy/2026/3/18/cuba-restores-power-after-29-hour-blackout-amid-us-oil-blockade?traffic_source=rss",
       "published": "Wed, 18 Mar 2026 04:58:32 +0000"
@@ -126,20 +140,6 @@
       "title": "Actor Sean Penn gifted a special ‘Oscar’ by Ukraine’s railway company",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/3/18/actor-sean-penn-gifted-a-special-oscar-by-ukraines-railway-company?traffic_source=rss",
       "published": "Wed, 18 Mar 2026 04:37:47 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Trump administration defends Anthropic blacklisting in US court",
-      "link": "https://www.aljazeera.com/economy/2026/3/18/trump-administration-defends-anthropic-blacklisting-in-us-court?traffic_source=rss",
-      "published": "Wed, 18 Mar 2026 04:15:54 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Araghchi: Iran’s system holds despite targeted leaders",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/18/araghchi-irans-system-holds-despite-targeted-leaders?traffic_source=rss",
-      "published": "Wed, 18 Mar 2026 04:15:39 +0000"
     }
   ]
 }
