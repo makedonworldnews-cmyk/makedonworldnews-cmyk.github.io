@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-18T20:53:57Z",
+  "updatedAt": "2026-03-18T21:35:18Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Пакистан и Авганистан договорија привремен прекин на огнот",
+          "link": "https://makfax.com.mk/svet/pakistan-i-avganistan-dogovorija-privremen-prekin-na-ognot/",
+          "published": "Wed, 18 Mar 2026 21:32:55 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Фокусот на Трамп на Иран ги одложува мировните преговори за Украина",
+          "link": "https://makfax.com.mk/svet/fokusot-na-tramp-na-iran-gi-odlozhuva-mirovnite-pregovori-za-ukraina/",
+          "published": "Wed, 18 Mar 2026 21:04:37 +0000"
         },
         {
           "source": "Makfax",
@@ -29,16 +41,10 @@
           "published": "Wed, 18 Mar 2026 20:33:42 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Мерц за Унгарија: Не треба да обрнуваме внимание на една земја во ЕУ што создава блокада",
-          "link": "https://makfax.com.mk/svet/mercz-za-ungarija-ne-treba-da-obrnuvame-vnimanie-na-edna-zemja-vo-eu-shto-sozdava-blokada/",
-          "published": "Wed, 18 Mar 2026 20:23:51 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Иран нападна голем енергетски центар, Катар бесен: Дрските напади се директна закана",
-          "link": "https://makfax.com.mk/svet/iran-napadna-golem-energetski-czentar-katar-besen-drskite-napadi-se-direktna-zakana/",
-          "published": "Wed, 18 Mar 2026 20:17:30 +0000"
+          "source": "NetPress",
+          "title": "Пакистан и Авганистан прогласија прекин на огнот по повод крајот на Рамазан",
+          "link": "https://netpress.com.mk/pakistan-i-avganistan-proglasija-prekin-na-ognot-po-povod-krajot-na-ramazan/",
+          "published": "Wed, 18 Mar 2026 21:23:15 +0000"
         },
         {
           "source": "NetPress",
@@ -63,12 +69,6 @@
           "title": "Петнаесет тони гумени бомбони украдени од паркиран камион во Германија",
           "link": "https://netpress.com.mk/petnaeset-toni-gumeni-bomboni-ukradeni-od-parkiran-kamion-vo-germanija/",
           "published": "Wed, 18 Mar 2026 20:03:48 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Трипуновски: Босилово е пример за модерна и успешна општина со силно земјоделство",
-          "link": "https://netpress.com.mk/tripunovski-bosilovo-e-primer-za-moderna-i-uspeshna-opshtina-so-silno-zemjodelstvo/",
-          "published": "Wed, 18 Mar 2026 19:53:38 +0000"
         }
       ]
     },
