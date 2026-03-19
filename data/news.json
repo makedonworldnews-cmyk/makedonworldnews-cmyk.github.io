@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-19T22:39:46Z",
+  "updatedAt": "2026-03-19T23:02:31Z",
   "groups": [
     {
       "region": "Македонија",
@@ -42,6 +42,12 @@
         },
         {
           "source": "NetPress",
+          "title": "Мисајловски: Иницираме постапка како да им помогнеме на сите војници што имаат 45 години",
+          "link": "https://netpress.com.mk/misajlovski-iniczirame-postapka-kako-da-im-pomogneme-na-site-vojniczi-shto-imaat-45-godini/",
+          "published": "Thu, 19 Mar 2026 22:43:44 +0000"
+        },
+        {
+          "source": "NetPress",
           "title": "Кoнференциска лига: Сите фаворити се пласираа во четвртфиналето",
           "link": "https://netpress.com.mk/konferencziska-liga-site-favoriti-se-plasiraa-vo-chetvrtfinaleto/",
           "published": "Thu, 19 Mar 2026 22:34:56 +0000"
@@ -63,18 +69,18 @@
           "title": "Закани кон вработени на Клиниката за кардиологија во Скопје",
           "link": "https://netpress.com.mk/zakani-kon-vraboteni-na-klinikata-za-kardiologija-vo-skopje/",
           "published": "Thu, 19 Mar 2026 22:19:27 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Тешко повреден прилепчанец што возел електричен тротинет",
-          "link": "https://netpress.com.mk/teshko-povreden-prilepchanecz-shto-vozel-elektrichen-trotinet/",
-          "published": "Thu, 19 Mar 2026 22:16:11 +0000"
         }
       ]
     },
     {
       "region": "Свет",
       "items": [
+        {
+          "source": "BBC",
+          "title": "Netanyahu says Israel 'acted alone' in attack on Iranian gas field",
+          "link": "https://www.bbc.com/news/articles/c2k3jgy9vq3o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 19 Mar 2026 22:41:40 GMT"
+        },
         {
           "source": "BBC",
           "title": "US considers lifting sanctions on some Iranian oil",
@@ -98,12 +104,6 @@
           "title": "Teenager among first to be executed over Iran's anti-government protests",
           "link": "https://www.bbc.com/news/articles/ce9mzn7k722o?at_medium=RSS&at_campaign=rss",
           "published": "Thu, 19 Mar 2026 22:07:17 GMT"
-        },
-        {
-          "source": "BBC",
-          "title": "US civil rights leader Cesar Chavez accused of sexual abuse",
-          "link": "https://www.bbc.com/news/articles/cp8r8rggxmmo?at_medium=RSS&at_campaign=rss",
-          "published": "Thu, 19 Mar 2026 21:37:45 GMT"
         },
         {
           "source": "Al Jazeera",
