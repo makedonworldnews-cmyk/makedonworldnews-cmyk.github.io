@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-19T14:49:58Z",
+  "updatedAt": "2026-03-19T15:39:17Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,24 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Катастрофа за Пистонс – Канингем доживеа колапс на белите дробови",
+          "link": "https://makfax.com.mk/sport/katastrofa-za-pistons-kaningem-dozhivea-kolaps-na-belite-drobovi/",
+          "published": "Thu, 19 Mar 2026 15:31:41 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Унгарија и Словачка ја блокираа помошта за Украина",
+          "link": "https://makfax.com.mk/svet/ungarija-i-slovachka-ja-blokiraa-pomoshta-za-ukraina/",
+          "published": "Thu, 19 Mar 2026 15:17:15 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Финскиот премиер: Орбан ја предаде ЕУ",
+          "link": "https://makfax.com.mk/svet/finskiot-premier-orban-ja-predade-eu/",
+          "published": "Thu, 19 Mar 2026 15:04:07 +0000"
         },
         {
           "source": "Makfax",
@@ -23,22 +41,16 @@
           "published": "Thu, 19 Mar 2026 14:41:44 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Ѓорѓиевски преку хуманитарна акција со порака за солидарност, заедништво и меѓусебна почит по повод Рамазан Бајрам",
-          "link": "https://makfax.com.mk/makedonija/gorgievski-preku-humanitarna-akczija-so-poraka-za-solidarnost-zaednishtvo-i-megusebna-pochit-po-povod-ramazan-bajram/",
-          "published": "Thu, 19 Mar 2026 14:32:22 +0000"
+          "source": "NetPress",
+          "title": "Кипарскиот претседател повикува на „искрена дискусија“ за иднината на британските бази",
+          "link": "https://netpress.com.mk/kiparskiot-pretsedatel-povikuva-na-iskrena-diskusija-za-idninata-na-britanskite-bazi/",
+          "published": "Thu, 19 Mar 2026 15:33:18 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "„Вистината за Армијата ќе биде објавена во целост“: претседателот на Независниот сидникат на професионални војници обвинува за притисоци",
-          "link": "https://makfax.com.mk/makedonija/vistinata-za-armijata-ke-bide-objavena-vo-czelost-pretsedatelot-na-nezavisniot-sidnikat-na-profesionalni-vojniczi-obvinuva-za-pritisoczi/",
-          "published": "Thu, 19 Mar 2026 14:12:12 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "УЈП пред ММФ: Растот на приходите е резултат на системски мерки",
-          "link": "https://makfax.com.mk/ekonomija/ujp-pred-mmf-rastot-na-prihodite-e-rezultat-na-sistemski-merki/",
-          "published": "Thu, 19 Mar 2026 13:47:45 +0000"
+          "source": "NetPress",
+          "title": "Пет кандидати во трка за член на ДКСК по оставката на Ристовска",
+          "link": "https://netpress.com.mk/pet-kandidati-vo-trka-za-chlen-na-dksk-po-ostavkata-na-ristovska/",
+          "published": "Thu, 19 Mar 2026 15:16:52 +0000"
         },
         {
           "source": "NetPress",
@@ -57,18 +69,6 @@
           "title": "Британски воени експерти во САД разгледуваат опции за отворање на Ормутскиот теснец",
           "link": "https://netpress.com.mk/britanski-voeni-eksperti-vo-sad-razgleduvaat-opczii-za-otvorane-na-ormutskiot-tesnecz/",
           "published": "Thu, 19 Mar 2026 13:26:56 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "20 март – Меѓународен ден на среќата: Побарај ја среќата со Државна лотарија!",
-          "link": "https://netpress.com.mk/20-mart-megunaroden-den-na-srekata-pobaraj-ja-srekata-so-drzhavna-lotarija/",
-          "published": "Thu, 19 Mar 2026 13:21:52 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Дрога пројандена во затворската амбуланта во Идризово",
-          "link": "https://netpress.com.mk/droga-projandena-zatvorskata-ambulanta-vo-idrizovo/",
-          "published": "Thu, 19 Mar 2026 13:21:24 +0000"
         }
       ]
     },
@@ -77,7 +77,7 @@
       "items": [
         {
           "source": "BBC",
-          "title": "Are US and Israel in lockstep in Iran war? Deciphering Trump's post after gas field attacks",
+          "title": "Are US and Israel aligned on Iran war? Deciphering Trump's post after gas field attacks",
           "link": "https://www.bbc.com/news/articles/c8x7leknlywo?at_medium=RSS&at_campaign=rss",
           "published": "Thu, 19 Mar 2026 14:07:28 GMT"
         },
