@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-19T22:53:34Z",
+  "generated_at": "2026-03-19T23:22:51Z",
   "items": [
     {
       "region": "Македонија",
@@ -39,6 +39,13 @@
     {
       "region": "Македонија",
       "source": "NetPress",
+      "title": "Преглед Лига Европа: Болоња ја исфрли Рома",
+      "link": "https://netpress.com.mk/pregled-liga-evropa-bolona-ja-isfrli-roma/",
+      "published": "Thu, 19 Mar 2026 23:08:43 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "NetPress",
       "title": "Мисајловски: Иницираме постапка како да им помогнеме на сите војници што имаат 45 години",
       "link": "https://netpress.com.mk/misajlovski-iniczirame-postapka-kako-da-im-pomogneme-na-site-vojniczi-shto-imaat-45-godini/",
       "published": "Thu, 19 Mar 2026 22:43:44 +0000"
@@ -65,13 +72,6 @@
       "published": "Thu, 19 Mar 2026 22:24:40 +0000"
     },
     {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Закани кон вработени на Клиниката за кардиологија во Скопје",
-      "link": "https://netpress.com.mk/zakani-kon-vraboteni-na-klinikata-za-kardiologija-vo-skopje/",
-      "published": "Thu, 19 Mar 2026 22:19:27 +0000"
-    },
-    {
       "region": "Свет",
       "source": "BBC",
       "title": "Netanyahu says Israel 'acted alone' in attack on Iranian gas field",
@@ -88,13 +88,6 @@
     {
       "region": "Свет",
       "source": "BBC",
-      "title": "Are US and Israel aligned on Iran war? Deciphering Trump's post after gas field attacks",
-      "link": "https://www.bbc.com/news/articles/c8x7leknlywo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 19 Mar 2026 19:31:21 GMT"
-    },
-    {
-      "region": "Свет",
-      "source": "BBC",
       "title": "Denmark planned to blow up Greenland runways if US invaded, reports say",
       "link": "https://www.bbc.com/news/articles/c33ln4mp1p2o?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 19 Mar 2026 21:52:36 GMT"
@@ -105,6 +98,27 @@
       "title": "Teenager among first to be executed over Iran's anti-government protests",
       "link": "https://www.bbc.com/news/articles/ce9mzn7k722o?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 19 Mar 2026 22:07:17 GMT"
+    },
+    {
+      "region": "Свет",
+      "source": "BBC",
+      "title": "Bachelorette's new season pulled after Taylor Frankie Paul abuse allegations",
+      "link": "https://www.bbc.com/news/articles/cp9vryml4d1o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 19 Mar 2026 22:24:51 GMT"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "US intelligence chief admits US, Israel not aligned on Iran war goals",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/19/us-intelligence-chief-admits-us-israel-not-aligned-on-iran-war-goals?traffic_source=rss",
+      "published": "Thu, 19 Mar 2026 23:07:25 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Senegal and Morocco tied by religion and trade but divided by AFCON fallout",
+      "link": "https://www.aljazeera.com/sports/2026/3/19/senegal-and-morocco-tied-by-religion-and-trade-but-divided-by-afcon-fallout?traffic_source=rss",
+      "published": "Thu, 19 Mar 2026 22:51:25 +0000"
     },
     {
       "region": "Свет",
@@ -126,20 +140,6 @@
       "title": "FIFA details Infantino’s $6m deal with 33% Club World Cup bonus increase",
       "link": "https://www.aljazeera.com/sports/2026/3/19/fifa-details-infantinos-6m-deal-with-33-club-world-cup-bonus-increase?traffic_source=rss",
       "published": "Thu, 19 Mar 2026 21:27:39 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Israelis protest in Tel Aviv calling for end to Iran war",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/19/israelis-protest-in-tel-aviv-calling-for-end-to-iran-war?traffic_source=rss",
-      "published": "Thu, 19 Mar 2026 21:12:48 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "FIFA fines Israel FA citing racism and ‘multiple’ discrimination breaches",
-      "link": "https://www.aljazeera.com/sports/2026/3/19/israel-fined-by-fifa-citing-racism-and-multiple-discrimination-breaches?traffic_source=rss",
-      "published": "Thu, 19 Mar 2026 21:11:42 +0000"
     }
   ]
 }
