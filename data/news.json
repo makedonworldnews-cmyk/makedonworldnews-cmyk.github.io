@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-19T17:43:59Z",
+  "updatedAt": "2026-03-19T18:36:14Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "„Економист“ со сатирична насловна за Трамп: „Операција Слеп гнев“",
+          "link": "https://makfax.com.mk/svet/ekonomist-so-satirichna-naslovna-za-tramp-operaczija-slep-gnev/",
+          "published": "Thu, 19 Mar 2026 18:12:00 +0000"
         },
         {
           "source": "Makfax",
@@ -35,10 +41,16 @@
           "published": "Thu, 19 Mar 2026 16:34:03 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Алиу: Соработка со Меѓународен универзитет Визион со цел унапредување капацитетите во здравствениот систем",
-          "link": "https://makfax.com.mk/makedonija/aliu-sorabotka-so-megunaroden-univerzitet-vizion-so-czel-unapreduvane-kapaczitetite-vo-zdravstveniot-sistem/",
-          "published": "Thu, 19 Mar 2026 16:08:02 +0000"
+          "source": "NetPress",
+          "title": "ФОТО| Сиљановска-Давкова: Потребна е поголема институционална поддршка за лицата со Даунов синдром",
+          "link": "https://netpress.com.mk/silanovska-davkova-potrebna-e-pogolema-instituczionalna-poddrshka-za-liczata-so-daunov-sindrom/",
+          "published": "Thu, 19 Mar 2026 18:19:43 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Кривична пријава за пожар во плевна со пет тони сено и земјоделски алат",
+          "link": "https://netpress.com.mk/krivichna-prijava-za-pozhar-vo-plevna-so-pet-toni-seno-i-zemjodelski-alat/",
+          "published": "Thu, 19 Mar 2026 17:46:50 +0000"
         },
         {
           "source": "NetPress",
@@ -57,18 +69,6 @@
           "title": "Освен студентските домови, ќе се реконструираат и државните училишта со ресурсни центри",
           "link": "https://netpress.com.mk/osven-studentskite-domovi-ke-se-rekonstruiraat-i-drzhavnite-uchilishta-so-resursni-czentri/",
           "published": "Thu, 19 Mar 2026 16:47:33 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Временската прогноза за утре поволна",
-          "link": "https://netpress.com.mk/vremenskata-prognoza-za-utre-povolna/",
-          "published": "Thu, 19 Mar 2026 16:30:48 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "САД се „вовлечени во војната“, тврди оманскиот посредник меѓу Вашингтон и Техеран",
-          "link": "https://netpress.com.mk/sad-se-vovlecheni-vo-vojnata-tvrdi-omanskiot-posrednik-megu-vashington-i-teheran/",
-          "published": "Thu, 19 Mar 2026 16:23:05 +0000"
         }
       ]
     },
@@ -107,6 +107,18 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Israel says Haifa oil refinery hit in Iranian missile attack",
+          "link": "https://www.aljazeera.com/news/2026/3/19/israel-says-oil-refinery-hit-in-iranian-missile-attack-no-major-damage?traffic_source=rss",
+          "published": "Thu, 19 Mar 2026 18:12:01 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Trump references Pearl Harbor during meeting with Japanese PM on Iran war",
+          "link": "https://www.aljazeera.com/news/2026/3/19/trump-references-pearl-harbor-during-meeting-with-japanese-pm-on-iran-war?traffic_source=rss",
+          "published": "Thu, 19 Mar 2026 18:05:50 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Missile strikes close to reporter during Israeli attacks in Lebanon",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/3/19/missile-strikes-close-to-reporter-during-israeli-attacks-in-lebanon?traffic_source=rss",
           "published": "Thu, 19 Mar 2026 17:21:42 +0000"
@@ -122,18 +134,6 @@
           "title": "European nations, Japan to join ‘appropriate efforts’ to open Hormuz Strait",
           "link": "https://www.aljazeera.com/news/2026/3/19/european-nations-japan-to-join-appropriate-efforts-to-open-hormuz-strait?traffic_source=rss",
           "published": "Thu, 19 Mar 2026 16:36:15 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Senegal instruct lawyers, while CAF’s Motsepe defends Morocco’s AFCON award",
-          "link": "https://www.aljazeera.com/sports/2026/3/19/senegal-instruct-lawyers-while-cafs-motsepe-defends-moroccos-afcon-award?traffic_source=rss",
-          "published": "Thu, 19 Mar 2026 16:14:41 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Death toll surpasses 1,000 in Lebanon as Israeli bombardment continues",
-          "link": "https://www.aljazeera.com/news/2026/3/19/death-toll-surpasses-1000-in-lebanon-as-israeli-bombardment-continues?traffic_source=rss",
-          "published": "Thu, 19 Mar 2026 15:47:11 +0000"
         }
       ]
     }
