@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-19T20:04:32Z",
+  "updatedAt": "2026-03-19T20:53:44Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Иран до Берлин: Објаснете ја улогата на „Рамштајн“ или ќе има последици",
+          "link": "https://makfax.com.mk/svet/iran-do-berlin-objasnete-ja-ulogata-na-ramshtajn-ili-ke-ima-poslediczi/",
+          "published": "Thu, 19 Mar 2026 20:45:34 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Поранешниот советник на Трамп: Војната во Иран е европска војна",
+          "link": "https://makfax.com.mk/svet/poraneshniot-sovetnik-na-tramp-vojnata-vo-iran-e-evropska-vojna/",
+          "published": "Thu, 19 Mar 2026 20:20:52 +0000"
         },
         {
           "source": "Makfax",
@@ -29,46 +41,34 @@
           "published": "Thu, 19 Mar 2026 18:12:00 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "САД одобрија оружје вредно 16,5 милијарди долари за Блискиот Исток среде ескалацијата со Иран",
-          "link": "https://makfax.com.mk/svet/sad-odobrija-oruzhje-vredno-165-milijardi-dolari-za-bliskiot-istok-srede-eskalaczijata-so-iran/",
-          "published": "Thu, 19 Mar 2026 17:29:24 +0000"
+          "source": "NetPress",
+          "title": "Механичар тешко се повредил поправајќи камион",
+          "link": "https://netpress.com.mk/mehanichar-teshko-se-povredil-popravajki-kamion/",
+          "published": "Thu, 19 Mar 2026 20:42:38 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "За разлика од НАТО, Јапонија презема одговорност во војната со Иран, рече Трамп",
-          "link": "https://makfax.com.mk/svet/za-razlika-od-nato-japonija-prezema-odgovornost-vo-vojnata-so-iran-reche-tramp/",
-          "published": "Thu, 19 Mar 2026 17:03:18 +0000"
+          "source": "NetPress",
+          "title": "Косовец шверцувал цигари и текстил",
+          "link": "https://netpress.com.mk/kosovecz-shverczuval-czigari-i-tekstil/",
+          "published": "Thu, 19 Mar 2026 20:36:11 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Тешко повреден возач на мопед во населбата Даме Груев",
+          "link": "https://netpress.com.mk/teshko-povreden-vozach-na-moped-vo-naselbata-dame-gruev/",
+          "published": "Thu, 19 Mar 2026 20:21:43 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Тепачка меѓу две жени во Шуто Оризари",
+          "link": "https://netpress.com.mk/tepachka-megu-dve-zheni-vo-shuto-orizari/",
+          "published": "Thu, 19 Mar 2026 20:12:02 +0000"
         },
         {
           "source": "NetPress",
           "title": "ФОТО| Уапсен актуелен директор кадар на Социјалистичка партија – примал мито, завршил со лисици",
           "link": "https://netpress.com.mk/foto-uapsen-aktuelen-direktor-kadar-na-soczijalistichka-partija-primal-mito-zavrshil-so-lisiczi/",
           "published": "Thu, 19 Mar 2026 19:55:52 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Струшкиот Музеј ќе колекционира фауна од дното на Охридското Езеро",
-          "link": "https://netpress.com.mk/strushkiot-muzej-ke-kolekczionira-fauna-od-dnoto-na-ohridskoto-ezero/",
-          "published": "Thu, 19 Mar 2026 19:55:26 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Примена на пробацијата ќе придонесе кон поуспешна ресоцијализација и реинтеграција на сторителите",
-          "link": "https://netpress.com.mk/primena-na-probaczijata-ke-pridonese-kon-pouspeshna-resoczijalizaczija-i-reintegraczija-na-storitelite/",
-          "published": "Thu, 19 Mar 2026 19:48:12 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Прилепчанец се обидел да ја нападне сопругата со нож",
-          "link": "https://netpress.com.mk/prilepchanecz-se-obidel-da-ja-napadne-soprugata-so-nozh/",
-          "published": "Thu, 19 Mar 2026 19:39:53 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Хрватските војници евакуирани од Ирак по ескалацијата на конфликтот",
-          "link": "https://netpress.com.mk/hrvatskite-vojniczi-evakuirani-od-irak-po-eskalaczijata-na-konfliktot/",
-          "published": "Thu, 19 Mar 2026 19:31:26 +0000"
         }
       ]
     },
@@ -95,15 +95,27 @@
         },
         {
           "source": "BBC",
+          "title": "Norway crown princess to address Epstein links as son's rape trial closes",
+          "link": "https://www.bbc.com/news/articles/cvge3mxgvwwo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 19 Mar 2026 20:14:30 GMT"
+        },
+        {
+          "source": "BBC",
           "title": "DR Congo and Rwanda agree to ease tensions after talks in US",
           "link": "https://www.bbc.com/news/articles/c15x5ejgyl3o?at_medium=RSS&at_campaign=rss",
           "published": "Thu, 19 Mar 2026 11:14:02 GMT"
         },
         {
-          "source": "BBC",
-          "title": "Former counter-terrorism head investigated by FBI over alleged leaks",
-          "link": "https://www.bbc.com/news/articles/c33j3gxvgmro?at_medium=RSS&at_campaign=rss",
-          "published": "Thu, 19 Mar 2026 17:12:27 GMT"
+          "source": "Al Jazeera",
+          "title": "US approves $16.5bn arms deal to Gulf states amid rising Iran tensions",
+          "link": "https://www.aljazeera.com/economy/2026/3/19/us-approves-16-5bn-arms-deal-to-gulf-states-amid-rising-iran-tensions?traffic_source=rss",
+          "published": "Thu, 19 Mar 2026 20:06:02 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Why the US Homeland Security shutdown is raising fears of airport delays",
+          "link": "https://www.aljazeera.com/economy/2026/3/19/why-the-us-homeland-security-shutdown-is-raising-fears-of-airport-delays?traffic_source=rss",
+          "published": "Thu, 19 Mar 2026 20:04:54 +0000"
         },
         {
           "source": "Al Jazeera",
@@ -122,18 +134,6 @@
           "title": "Iran’s strike on Qatar gas facility will reduce supply for 3 to 5 years",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/3/19/irans-strike-on-qatar-gas-facility-will-reduce-supply-for-3-to-5-years?traffic_source=rss",
           "published": "Thu, 19 Mar 2026 18:38:04 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Qatar PM on Iran attacks: ‘Wisdom seems to be lacking these days’",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/19/qatar-pm-on-iran-attacks-wisdom-seems-to-be-lacking-these-days?traffic_source=rss",
-          "published": "Thu, 19 Mar 2026 18:35:02 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Who leads Iran? Assassinations leave leadership and command in question",
-          "link": "https://www.aljazeera.com/news/2026/3/19/who-leads-iran-assassinations-leave-leadership-and-command-in-question?traffic_source=rss",
-          "published": "Thu, 19 Mar 2026 18:21:50 +0000"
         }
       ]
     }
