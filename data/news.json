@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-19T03:44:14Z",
+  "updatedAt": "2026-03-19T05:14:45Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Променливо облачно, со повремени слаби врнежи од дожд: минусни утрински температури",
+          "link": "https://makfax.com.mk/makedonija/promenlivo-oblachno-so-povremeni-slabi-vrnezhi-od-dozhd-minusni-utrinski-temperaturi/",
+          "published": "Thu, 19 Mar 2026 05:00:13 +0000"
         },
         {
           "source": "Makfax",
@@ -33,12 +39,6 @@
           "title": "Фокусот на Трамп на Иран ги одложува мировните преговори за Украина",
           "link": "https://makfax.com.mk/svet/fokusot-na-tramp-na-iran-gi-odlozhuva-mirovnite-pregovori-za-ukraina/",
           "published": "Wed, 18 Mar 2026 21:04:37 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Русија за нападот врз иранската нуклеарна централа: „Неодговорен и неприфатлив чин“",
-          "link": "https://makfax.com.mk/svet/rusija-za-napadot-vrz-iranskata-nuklearna-czentrala-neodgovoren-i-neprifatliv-chin/",
-          "published": "Wed, 18 Mar 2026 20:53:10 +0000"
         },
         {
           "source": "NetPress",
@@ -107,33 +107,33 @@
         },
         {
           "source": "Al Jazeera",
-          "title": "‘Does America have a plan? Israel has a plan. Does America know?’",
-          "link": "https://www.aljazeera.com/video/quotable/2026/3/19/does-america-have-a-plan-israel-has-a-plan-does-america-know?traffic_source=rss",
-          "published": "Thu, 19 Mar 2026 02:57:54 +0000"
+          "title": "Ben-Gvir visits gallows museum, threatens the death penalty",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/19/ben-gvir-visits-gallows-museum-threatens-the-death-penalty?traffic_source=rss",
+          "published": "Thu, 19 Mar 2026 04:48:37 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Three women killed in occupied West Bank missile attack",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/19/three-women-killed-in-occupied-west-bank-missile-attack?traffic_source=rss",
-          "published": "Thu, 19 Mar 2026 02:19:28 +0000"
+          "title": "Attacks on GCC show ‘IRGC don’t think, they just push a button’",
+          "link": "https://www.aljazeera.com/video/quotable/2026/3/19/attacks-on-gcc-show-irgc-dont-think-they-just-push-a-button?traffic_source=rss",
+          "published": "Thu, 19 Mar 2026 04:48:11 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Saudi FM warns Iran that patience in Gulf not ‘unlimited’ amid attacks",
-          "link": "https://www.aljazeera.com/news/2026/3/19/saudi-fm-warns-iran-that-patience-in-gulf-not-unlimited-amid-attacks?traffic_source=rss",
-          "published": "Thu, 19 Mar 2026 02:11:25 +0000"
+          "title": "Asia’s stock markets dive after attacks on energy facilities in Qatar, Iran",
+          "link": "https://www.aljazeera.com/economy/2026/3/19/asias-stock-markets-dive-after-attacks-on-energy-facilities-in-qatar-iran?traffic_source=rss",
+          "published": "Thu, 19 Mar 2026 04:46:51 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Iran war live: Qatar, Saudi energy sites attacked; Riyadh says trust gone",
-          "link": "https://www.aljazeera.com/news/liveblog/2026/3/19/iran-war-live-qatar-saudi-energy-sites-attacked-riyadh-says-trust-gone?traffic_source=rss",
-          "published": "Thu, 19 Mar 2026 00:30:00 +0000"
+          "title": "Tehran rescue workers pull survivors from rubble",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/19/tehran-rescue-workers-pull-survivors-from-rubble?traffic_source=rss",
+          "published": "Thu, 19 Mar 2026 04:44:48 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Qatar expels Iranian attaches after LNG facility strike",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/19/qatar-expels-iranian-attaches-after-lng-facility-strike?traffic_source=rss",
-          "published": "Thu, 19 Mar 2026 00:20:00 +0000"
+          "title": "Could oil hit $200 a barrel? Analysts no longer think it’s far-fetched",
+          "link": "https://www.aljazeera.com/news/2026/3/19/could-oil-hit-200-a-barrel-analysts-no-longer-think-its-far-fetched?traffic_source=rss",
+          "published": "Thu, 19 Mar 2026 04:43:12 +0000"
         }
       ]
     }
