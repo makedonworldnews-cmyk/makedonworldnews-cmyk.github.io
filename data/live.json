@@ -1,6 +1,13 @@
 {
-  "generated_at": "2026-03-20T15:04:27Z",
+  "generated_at": "2026-03-20T15:54:23Z",
   "items": [
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "МВР со детали за апсењето на Анакиев : побарал поткуп од 100.000 евра а примил 50.000 како прва рата",
+      "link": "https://makfax.com.mk/makedonija/mvr-so-detali-za-apseneto-na-anakiev-pobaral-potkup-od-100-000-evra-a-primil-50-000-kako-prva-rata/",
+      "published": "Fri, 20 Mar 2026 15:10:54 +0000"
+    },
     {
       "region": "Македонија",
       "source": "Makfax",
@@ -31,10 +38,24 @@
     },
     {
       "region": "Македонија",
-      "source": "Makfax",
-      "title": "Минчев од Белград: Конкретни чекори за поефикасна администрација и продлабочена соработка со Србија",
-      "link": "https://makfax.com.mk/makedonija/minchev-od-belgrad-konkretni-chekori-za-poefikasna-administraczija-i-prodlabochena-sorabotka-so-srbija/",
-      "published": "Fri, 20 Mar 2026 13:20:22 +0000"
+      "source": "NetPress",
+      "title": "Почина легендарниот актер Чак Норис",
+      "link": "https://netpress.com.mk/pochina-legendarniot-akter-chak-noris/",
+      "published": "Fri, 20 Mar 2026 15:39:07 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "NetPress",
+      "title": "Директорот од Социјалистичка партија побарал 100.000 евра мито за увоз на стока што не можела да се внесе во Македонија",
+      "link": "https://netpress.com.mk/direktorot-od-soczijalistichka-partija-pobaral-100-000-evra-mito-za-uvoz-na-stoka-shto-ne-mozhela-da-se-vnese-vo-makedonija/",
+      "published": "Fri, 20 Mar 2026 15:24:22 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "NetPress",
+      "title": "МЗШВ: Секој што се огрешил и ја злоупотребил функцијата, ќе одговара",
+      "link": "https://netpress.com.mk/mzshv-sekoj-shto-se-ogreshil-i-ja-zloupotrebil-funkczijata-ke-odgovara/",
+      "published": "Fri, 20 Mar 2026 15:11:43 +0000"
     },
     {
       "region": "Македонија",
@@ -51,27 +72,6 @@
       "published": "Fri, 20 Mar 2026 14:47:47 +0000"
     },
     {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "САД размислуваат за заземање на иранскиот остров Харг за да го принудат Техеран повторно да ја отвори Ормутската теснец",
-      "link": "https://netpress.com.mk/sad-razmisluvaat-za-zazemane-na-iranskiot-ostrov-harg-za-da-go-prinudat-teheran-povtorno-da-ja-otvori-ormuskata-tesnina/",
-      "published": "Fri, 20 Mar 2026 14:11:43 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Изгореа 4 мотоцикли пред магацин во Прилеп",
-      "link": "https://netpress.com.mk/izgorea-4-motoczikli-pred-magaczin-vo-prilep/",
-      "published": "Fri, 20 Mar 2026 14:03:32 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Mалолетник од кочанско со пиштол му се заканувал на врсник",
-      "link": "https://netpress.com.mk/vo-raspravija-za-devojka-maloletnik-od-kochansko-so-pishtol-mu-se-zakanuval-na-vrsnik/",
-      "published": "Fri, 20 Mar 2026 13:51:32 +0000"
-    },
-    {
       "region": "Свет",
       "source": "BBC",
       "title": "Russia, China and the US – the global winners and losers of the Iran war",
@@ -83,7 +83,7 @@
       "source": "BBC",
       "title": "Norway's crown princess breaks silence, claiming she was 'manipulated and deceived' by Epstein",
       "link": "https://www.bbc.com/news/articles/cde5y63y3n7o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 20 Mar 2026 10:43:00 GMT"
+      "published": "Fri, 20 Mar 2026 15:30:28 GMT"
     },
     {
       "region": "Свет",
@@ -104,7 +104,28 @@
       "source": "BBC",
       "title": "Hungary's Orbán accused of disloyalty and blackmail over Ukraine loan veto",
       "link": "https://www.bbc.com/news/articles/cq6jrvgqeejo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 20 Mar 2026 11:33:17 GMT"
+      "published": "Fri, 20 Mar 2026 15:34:19 GMT"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "What US-Israeli targets reveal about Iran war goals three weeks in",
+      "link": "https://www.aljazeera.com/news/2026/3/20/what-us-israeli-targets-reveal-about-iran-war-goals-three-weeks-in?traffic_source=rss",
+      "published": "Fri, 20 Mar 2026 15:35:06 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Switzerland announces halt to weapons exports to US amid Iran war",
+      "link": "https://www.aljazeera.com/news/2026/3/20/switzerland-announces-halt-to-weapons-exports-to-us-amid-iran-war?traffic_source=rss",
+      "published": "Fri, 20 Mar 2026 15:29:24 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "US easing ban on Iranian oil would signal ‘beginning of the end of war’",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/20/us-easing-ban-on-iranian-oil-would-signal-beginning-of-the-end-of?traffic_source=rss",
+      "published": "Fri, 20 Mar 2026 15:12:02 +0000"
     },
     {
       "region": "Свет",
@@ -119,27 +140,6 @@
       "title": "Zelenskyy says Ukraine wants timeline for next round of Russia talks",
       "link": "https://www.aljazeera.com/news/2026/3/20/zelenskyy-says-ukraine-wants-timeline-for-next-round-of-russia-talks?traffic_source=rss",
       "published": "Fri, 20 Mar 2026 14:30:45 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Who are the Gulf’s military allies, and how are they helping in Iran war?",
-      "link": "https://www.aljazeera.com/news/2026/3/20/who-are-the-gulfs-military-allies-and-how-are-they-helping-in-iran-war?traffic_source=rss",
-      "published": "Fri, 20 Mar 2026 13:45:18 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Iran video said to show US F-35 being hit",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/20/iran-video-said-to-show-us-f-35-being-hit?traffic_source=rss",
-      "published": "Fri, 20 Mar 2026 13:44:06 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Iran’s IRGC says spokesman Ali Mohammad Naini killed in US-Israeli attack",
-      "link": "https://www.aljazeera.com/news/2026/3/20/irans-irgc-says-spokesman-ali-mohammad-naini-killed-in-us-israeli-attack?traffic_source=rss",
-      "published": "Fri, 20 Mar 2026 12:44:16 +0000"
     }
   ]
 }
