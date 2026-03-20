@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-20T16:59:43Z",
+  "updatedAt": "2026-03-20T17:46:29Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "„Стравот од воена акција е сè уште голем“: Данска сериозно се подготвувала за американската инвазија на Гренланд",
+          "link": "https://makfax.com.mk/svet/stravot-od-voena-akczija-e-se-ushte-golem-danska-seriozno-se-podgotvuvala-za-amerikanskata-invazija-na-grenland/",
+          "published": "Fri, 20 Mar 2026 17:21:50 +0000"
         },
         {
           "source": "Makfax",
@@ -35,10 +41,22 @@
           "published": "Fri, 20 Mar 2026 15:10:54 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "МЗШВ: Нема привилегирани и заштитени, секој што се огрешил и ја злоупотребил функцијата, ќе одговара",
-          "link": "https://makfax.com.mk/makedonija/mzshv-nema-privilegirani-i-zashtiteni-sekoj-shto-se-ogreshil-i-ja-zloupotrebil-funkczijata-ke-odgovara/",
-          "published": "Fri, 20 Mar 2026 15:03:30 +0000"
+          "source": "NetPress",
+          "title": "Велосипедист удрен од автомобил на влез на бензинска станица",
+          "link": "https://netpress.com.mk/velosipedist-udren-od-avtomobil-na-vlez-na-benzinska-stanicza/",
+          "published": "Fri, 20 Mar 2026 17:40:03 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Кривичен суд одреди 30 дена притвор за Васе Анакиев",
+          "link": "https://netpress.com.mk/krivichen-sud-odredi-30-dena-pritvor-za-vase-anakiev/",
+          "published": "Fri, 20 Mar 2026 17:14:01 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Променливо облачно со северен ветер, дожд на почетокот на следната седмица",
+          "link": "https://netpress.com.mk/promenlivo-oblachno-so-severen-veter-dozhd-na-pochetokot-na-slednata-sedmicza/",
+          "published": "Fri, 20 Mar 2026 17:00:04 +0000"
         },
         {
           "source": "NetPress",
@@ -51,24 +69,6 @@
           "title": "Почина легендарниот актер Чак Норис",
           "link": "https://netpress.com.mk/pochina-legendarniot-akter-chak-noris/",
           "published": "Fri, 20 Mar 2026 15:39:07 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Директорот од Социјалистичка партија побарал 100.000 евра мито за увоз на стока што не можела да се внесе во Македонија",
-          "link": "https://netpress.com.mk/direktorot-od-soczijalistichka-partija-pobaral-100-000-evra-mito-za-uvoz-na-stoka-shto-ne-mozhela-da-se-vnese-vo-makedonija/",
-          "published": "Fri, 20 Mar 2026 15:24:22 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "МЗШВ: Секој што се огрешил и ја злоупотребил функцијата, ќе одговара",
-          "link": "https://netpress.com.mk/mzshv-sekoj-shto-se-ogreshil-i-ja-zloupotrebil-funkczijata-ke-odgovara/",
-          "published": "Fri, 20 Mar 2026 15:11:43 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Иран одреди коридор за пловидба низ Ормутскиот теснец",
-          "link": "https://netpress.com.mk/iran-odredi-koridor-za-plovidba-niz-ormutskiot-tesnecz/",
-          "published": "Fri, 20 Mar 2026 14:51:44 +0000"
         }
       ]
     },
