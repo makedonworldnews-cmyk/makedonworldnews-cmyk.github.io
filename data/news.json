@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-20T14:32:15Z",
+  "updatedAt": "2026-03-20T15:25:52Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,24 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "МВР со детали за апсењето на Анакиев : побарал поткуп од 100.000 евра а примил 50.000 како прва рата",
+          "link": "https://makfax.com.mk/makedonija/mvr-so-detali-za-apseneto-na-anakiev-pobaral-potkup-od-100-000-evra-a-primil-50-000-kako-prva-rata/",
+          "published": "Fri, 20 Mar 2026 15:10:54 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "МЗШВ: Нема привилегирани и заштитени, секој што се огрешил и ја злоупотребил функцијата, ќе одговара",
+          "link": "https://makfax.com.mk/makedonija/mzshv-nema-privilegirani-i-zashtiteni-sekoj-shto-se-ogreshil-i-ja-zloupotrebil-funkczijata-ke-odgovara/",
+          "published": "Fri, 20 Mar 2026 15:03:30 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Почина актерот Чак Норис",
+          "link": "https://makfax.com.mk/zanimlivosti/pochina-akterot-chak-noris/",
+          "published": "Fri, 20 Mar 2026 14:45:26 +0000"
         },
         {
           "source": "Makfax",
@@ -23,52 +41,34 @@
           "published": "Fri, 20 Mar 2026 13:46:25 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Минчев од Белград: Конкретни чекори за поефикасна администрација и продлабочена соработка со Србија",
-          "link": "https://makfax.com.mk/makedonija/minchev-od-belgrad-konkretni-chekori-za-poefikasna-administraczija-i-prodlabochena-sorabotka-so-srbija/",
-          "published": "Fri, 20 Mar 2026 13:20:22 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Јувентус започна преговори со Бернардо Силва",
-          "link": "https://makfax.com.mk/sport/juventus-zapochna-pregovori-so-bernardo-silva/",
-          "published": "Fri, 20 Mar 2026 13:14:32 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "(Видео) Скопјанка со „ауди“ се движела по пешачката патека во паркот „Жена- Борец“",
-          "link": "https://makfax.com.mk/crna-hronika/video-skopjanka-so-audi-se-dvizhela-po-peshachkata-pateka-vo-parkot-zhena-borecz/",
-          "published": "Fri, 20 Mar 2026 13:09:49 +0000"
+          "source": "NetPress",
+          "title": "Директорот од Социјалистичка партија побарал 100.000 евра мито за увоз на стока што не можела да се внесе во Македонија",
+          "link": "https://netpress.com.mk/direktorot-od-soczijalistichka-partija-pobaral-100-000-evra-mito-za-uvoz-na-stoka-shto-ne-mozhela-da-se-vnese-vo-makedonija/",
+          "published": "Fri, 20 Mar 2026 15:24:22 +0000"
         },
         {
           "source": "NetPress",
-          "title": "САД размислуваат за заземање на иранскиот остров Харг за да го принудат Техеран повторно да ја отвори Ормуската Теснина",
+          "title": "МЗШВ: Секој што се огрешил и ја злоупотребил функцијата, ќе одговара",
+          "link": "https://netpress.com.mk/mzshv-sekoj-shto-se-ogreshil-i-ja-zloupotrebil-funkczijata-ke-odgovara/",
+          "published": "Fri, 20 Mar 2026 15:11:43 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Иран одреди коридор за пловидба низ Ормутскиот теснец",
+          "link": "https://netpress.com.mk/iran-odredi-koridor-za-plovidba-niz-ormutskiot-tesnecz/",
+          "published": "Fri, 20 Mar 2026 14:51:44 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Германија го поедностави извозот на воена опрема во земјите од Персискиот Залив и Украина",
+          "link": "https://netpress.com.mk/germanija-go-poednostavi-izvozot-na-voena-oprema-vo-zemjite-od-persiskiot-zaliv-i-ukraina/",
+          "published": "Fri, 20 Mar 2026 14:47:47 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "САД размислуваат за заземање на иранскиот остров Харг за да го принудат Техеран повторно да ја отвори Ормутската теснец",
           "link": "https://netpress.com.mk/sad-razmisluvaat-za-zazemane-na-iranskiot-ostrov-harg-za-da-go-prinudat-teheran-povtorno-da-ja-otvori-ormuskata-tesnina/",
           "published": "Fri, 20 Mar 2026 14:11:43 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Изгореа 4 мотоцикли пред магацин во Прилеп",
-          "link": "https://netpress.com.mk/izgorea-4-motoczikli-pred-magaczin-vo-prilep/",
-          "published": "Fri, 20 Mar 2026 14:03:32 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Mалолетник од кочанско со пиштол му се заканувал на врсник",
-          "link": "https://netpress.com.mk/vo-raspravija-za-devojka-maloletnik-od-kochansko-so-pishtol-mu-se-zakanuval-na-vrsnik/",
-          "published": "Fri, 20 Mar 2026 13:51:32 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Уапсена Црногорка за кражба во тетовска златарница",
-          "link": "https://netpress.com.mk/uapsena-czrnogorka-za-krazhba-vo-tetovska-zlatarnicza/",
-          "published": "Fri, 20 Mar 2026 13:25:32 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Три земјотреси од 4 до 4,6 степени регистрирани во близина на Јанина во Грција",
-          "link": "https://netpress.com.mk/tri-zemjotresi-od-4-do-46-stepeni-registrirani-vo-blizina-na-janina-vo-grczija/",
-          "published": "Fri, 20 Mar 2026 13:23:22 +0000"
         }
       ]
     },
@@ -89,21 +89,33 @@
         },
         {
           "source": "BBC",
+          "title": "BTS return from military service - but does their album live up to the hype?",
+          "link": "https://www.bbc.com/news/articles/c070eg32dryo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 20 Mar 2026 04:04:50 GMT"
+        },
+        {
+          "source": "BBC",
+          "title": "Leading anti‑racism activist in Tunisia jailed for eight years",
+          "link": "https://www.bbc.com/news/articles/clyjg1x7r43o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 20 Mar 2026 13:17:56 GMT"
+        },
+        {
+          "source": "BBC",
           "title": "Hungary's Orbán accused of disloyalty and blackmail over Ukraine loan veto",
           "link": "https://www.bbc.com/news/articles/cq6jrvgqeejo?at_medium=RSS&at_campaign=rss",
           "published": "Fri, 20 Mar 2026 11:33:17 GMT"
         },
         {
-          "source": "BBC",
-          "title": "Trump makes Pearl Harbor remark in meeting with Japan's PM",
-          "link": "https://www.bbc.com/news/articles/c8dlpr074q3o?at_medium=RSS&at_campaign=rss",
-          "published": "Fri, 20 Mar 2026 09:55:19 GMT"
+          "source": "Al Jazeera",
+          "title": "Will Russian oil be the biggest winner in the US-Israel war on Iran?",
+          "link": "https://www.aljazeera.com/features/2026/3/20/will-russian-oil-be-the-biggest-winner-in-the-us-israel-war-on-iran?traffic_source=rss",
+          "published": "Fri, 20 Mar 2026 14:48:43 +0000"
         },
         {
-          "source": "BBC",
-          "title": "BTS return from military service - but does their album live up to the hype?",
-          "link": "https://www.bbc.com/news/articles/c070eg32dryo?at_medium=RSS&at_campaign=rss",
-          "published": "Fri, 20 Mar 2026 04:04:50 GMT"
+          "source": "Al Jazeera",
+          "title": "Zelenskyy says Ukraine wants timeline for next round of Russia talks",
+          "link": "https://www.aljazeera.com/news/2026/3/20/zelenskyy-says-ukraine-wants-timeline-for-next-round-of-russia-talks?traffic_source=rss",
+          "published": "Fri, 20 Mar 2026 14:30:45 +0000"
         },
         {
           "source": "Al Jazeera",
@@ -122,18 +134,6 @@
           "title": "Iran’s IRGC says spokesman Ali Mohammad Naini killed in US-Israeli attack",
           "link": "https://www.aljazeera.com/news/2026/3/20/irans-irgc-says-spokesman-ali-mohammad-naini-killed-in-us-israeli-attack?traffic_source=rss",
           "published": "Fri, 20 Mar 2026 12:44:16 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "FIFA World Cup 2026: Security concerns grow in US as funding stalls",
-          "link": "https://www.aljazeera.com/sports/2026/3/20/fifa-world-cup-2026-security-concerns-grow-in-us-as-funding-stalls?traffic_source=rss",
-          "published": "Fri, 20 Mar 2026 12:37:18 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Slovenia heads to polls with diverging views on Israel in focus",
-          "link": "https://www.aljazeera.com/news/2026/3/20/slovenia-heads-to-polls-with-diverging-views-on-israel-in-focus?traffic_source=rss",
-          "published": "Fri, 20 Mar 2026 11:51:23 +0000"
         }
       ]
     }
