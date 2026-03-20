@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-20T22:46:16Z",
+  "updatedAt": "2026-03-20T23:15:08Z",
   "groups": [
     {
       "region": "Македонија",
@@ -42,6 +42,18 @@
         },
         {
           "source": "NetPress",
+          "title": "Евролига: Резултати",
+          "link": "https://netpress.com.mk/evroliga-rezultati-2/",
+          "published": "Fri, 20 Mar 2026 23:09:12 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Трамп: САД размислуваат за „постепено намалување“ на операциите против Иран",
+          "link": "https://netpress.com.mk/tramp-sad-razmisluvaat-za-postepeno-namaluvane-na-operacziite-protiv-iran/",
+          "published": "Fri, 20 Mar 2026 22:51:06 +0000"
+        },
+        {
+          "source": "NetPress",
           "title": "Русија ќе ѝ дозволи на војската ослободување на руските граѓани затворени во странство",
           "link": "https://netpress.com.mk/rusija-ke-%d1%9d-dozvoli-na-vojskata-osloboduvane-na-ruskite-gragani-zatvoreni-vo-stranstvo/",
           "published": "Fri, 20 Mar 2026 22:38:31 +0000"
@@ -57,24 +69,18 @@
           "title": "Се обидувал преку синот да ја следи сопругата со која се разведува",
           "link": "https://netpress.com.mk/soprug-se-obiduval-preku-sinot-da-ja-sledi-soprugata-so-koja-se-razveduva/",
           "published": "Fri, 20 Mar 2026 22:26:39 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Оклахома Сити Тандер нема да ја посетат Белата куќа поради „проблеми со распоредот“",
-          "link": "https://netpress.com.mk/oklahoma-siti-tander-nema-da-ja-poseti-belata-kuka-poradi-problemi-so-rasporedot/",
-          "published": "Fri, 20 Mar 2026 22:23:35 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Скопјанка стравува од сопствениот син",
-          "link": "https://netpress.com.mk/skopjanka-stravuva-od-sopstveniot-sin/",
-          "published": "Fri, 20 Mar 2026 22:02:42 +0000"
         }
       ]
     },
     {
       "region": "Свет",
       "items": [
+        {
+          "source": "BBC",
+          "title": "Iranian strikes on bases used by US caused $800m in damage, new analysis shows",
+          "link": "https://www.bbc.com/news/articles/cddq7j48p35o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 20 Mar 2026 22:34:05 GMT"
+        },
         {
           "source": "BBC",
           "title": "Norway's crown princess breaks silence, claiming she was 'manipulated and deceived' by Epstein",
@@ -89,9 +95,9 @@
         },
         {
           "source": "BBC",
-          "title": "Israel strikes Syria after Druze clashes",
-          "link": "https://www.bbc.com/news/articles/c248pgn158go?at_medium=RSS&at_campaign=rss",
-          "published": "Fri, 20 Mar 2026 16:02:50 GMT"
+          "title": "Elon Musk misled Twitter investors, jury finds",
+          "link": "https://www.bbc.com/news/articles/c62j3yl842eo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 20 Mar 2026 22:55:41 GMT"
         },
         {
           "source": "BBC",
@@ -100,10 +106,16 @@
           "published": "Fri, 20 Mar 2026 04:04:50 GMT"
         },
         {
-          "source": "BBC",
-          "title": "As Islamophobia rises, Australia's Muslims celebrate Eid",
-          "link": "https://www.bbc.com/news/articles/cr410ezy312o?at_medium=RSS&at_campaign=rss",
-          "published": "Fri, 20 Mar 2026 22:36:13 GMT"
+          "source": "Al Jazeera",
+          "title": "Pezeshkian says Iran not seeking war with Muslim neighbours",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/20/pezeshkian-says-iran-not-seeking-war-with-muslim-neighbours?traffic_source=rss",
+          "published": "Fri, 20 Mar 2026 22:58:31 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Colombia’s President Gustavo Petro under investigation in US for drug ties",
+          "link": "https://www.aljazeera.com/news/2026/3/20/colombias-president-gustavo-petro-under-investigation-in-us-for-drug-ties?traffic_source=rss",
+          "published": "Fri, 20 Mar 2026 22:58:09 +0000"
         },
         {
           "source": "Al Jazeera",
@@ -122,18 +134,6 @@
           "title": "Palestinian citizens of Israel demand better protection against missiles",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/3/20/palestinian-citizens-of-israel-demand-better-protection-against-missiles?traffic_source=rss",
           "published": "Fri, 20 Mar 2026 21:03:38 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Iran’s Supreme Leader Khamenei says enemy ‘defeated’ in audio message",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/20/irans-supreme-leader-khamenei-says-enemy-defeated-in-audio-message?traffic_source=rss",
-          "published": "Fri, 20 Mar 2026 20:50:29 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Ex-minister Gamboa targeted in Costa Rica’s first extradition to the US",
-          "link": "https://www.aljazeera.com/news/2026/3/20/ex-minister-gamboa-targeted-in-costa-ricas-first-extradition-to-the-us?traffic_source=rss",
-          "published": "Fri, 20 Mar 2026 20:39:59 +0000"
         }
       ]
     }
