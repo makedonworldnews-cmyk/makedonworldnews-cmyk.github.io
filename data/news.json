@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-20T11:17:54Z",
+  "updatedAt": "2026-03-20T11:48:24Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Хамнеи им наредил на разузнавачките служби да се справат со „непријателите дома и во странство“",
+          "link": "https://makfax.com.mk/svet/hamnei-im-naredil-na-razuznavachkite-sluzhbi-da-se-spravat-so-neprijatelite-doma-i-vo-stranstvo/",
+          "published": "Fri, 20 Mar 2026 11:32:22 +0000"
         },
         {
           "source": "Makfax",
@@ -35,10 +41,16 @@
           "published": "Fri, 20 Mar 2026 10:27:08 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Силен земјотрес во Грција, почувствуван и во Македонија и Албанија",
-          "link": "https://makfax.com.mk/svet/region/silen-zemjotres-vo-grczija-pochuvstvuvan-i-vo-makedonija-i-albanija/",
-          "published": "Fri, 20 Mar 2026 10:16:29 +0000"
+          "source": "NetPress",
+          "title": "Теоријата на групно размислување",
+          "link": "https://netpress.com.mk/teorijata-na-grupno-razmisluvane/",
+          "published": "Fri, 20 Mar 2026 11:33:43 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "ВИДЕО I Џамијата Ал-Акса е затворена за Рамазан бајрам, верниците растерани од просторот пред неа",
+          "link": "https://netpress.com.mk/video-i-dhamijata-al-aksa-e-zatvorena-za-ramazan-bajram-verniczite-rasterani-od-prostorot-pred-nea/",
+          "published": "Fri, 20 Mar 2026 11:23:14 +0000"
         },
         {
           "source": "NetPress",
@@ -57,18 +69,6 @@
           "title": "Времен режим на сообраќај во недела во скопската населба Аеродром",
           "link": "https://netpress.com.mk/vremen-rezhim-na-soobrakaj-vo-nedela-vo-skopskata-naselba-aerodrom/",
           "published": "Fri, 20 Mar 2026 11:07:05 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Честитка од претседателот на Собранието Гаши по повод Рамазан бајрам",
-          "link": "https://netpress.com.mk/chestitka-od-pretsedatelot-na-sobranieto-gashi-po-povod-ramazan-bajram/",
-          "published": "Fri, 20 Mar 2026 10:34:25 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Да вложуваме во заедничка иднина исполнета со мир, порача Мицкоски во честитката за празник Рамазан бајрам",
-          "link": "https://netpress.com.mk/da-vlozhuvame-vo-zaednichka-idnina-ispolneta-so-mir-poracha-miczkoski-vo-chestitkata-za-praznik-ramazan-bajram/",
-          "published": "Fri, 20 Mar 2026 10:32:05 +0000"
         }
       ]
     },
@@ -83,27 +83,33 @@
         },
         {
           "source": "BBC",
-          "title": "Several injured as turbulence hits Delta flight into Sydney",
-          "link": "https://www.bbc.com/news/articles/c78l572p4n7o?at_medium=RSS&at_campaign=rss",
-          "published": "Fri, 20 Mar 2026 01:26:01 GMT"
-        },
-        {
-          "source": "BBC",
           "title": "Norway's crown princess breaks silence on Epstein links: 'I was manipulated and deceived'",
           "link": "https://www.bbc.com/news/articles/cde5y63y3n7o?at_medium=RSS&at_campaign=rss",
           "published": "Fri, 20 Mar 2026 10:43:00 GMT"
         },
         {
           "source": "BBC",
-          "title": "Mexican teen dies while being held in US immigration custody",
-          "link": "https://www.bbc.com/news/articles/cp84n0kn902o?at_medium=RSS&at_campaign=rss",
-          "published": "Fri, 20 Mar 2026 10:57:38 GMT"
+          "title": "Hungary's Orbán accused of disloyalty and blackmail over Ukraine loan veto",
+          "link": "https://www.bbc.com/news/articles/cq6jrvgqeejo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 20 Mar 2026 11:33:17 GMT"
+        },
+        {
+          "source": "BBC",
+          "title": "Trump makes Pearl Harbor remark in meeting with Japan's PM",
+          "link": "https://www.bbc.com/news/articles/c8dlpr074q3o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 20 Mar 2026 09:55:19 GMT"
         },
         {
           "source": "BBC",
           "title": "BTS return from military service - but does their album live up to the hype?",
           "link": "https://www.bbc.com/news/articles/c070eg32dryo?at_medium=RSS&at_campaign=rss",
           "published": "Fri, 20 Mar 2026 04:04:50 GMT"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Refugee Council questions Australia’s Iran strategy at Women’s Asian Cup",
+          "link": "https://www.aljazeera.com/sports/2026/3/20/refugee-council-questions-australias-iran-strategy-at-womens-asian-cup?traffic_source=rss",
+          "published": "Fri, 20 Mar 2026 11:21:01 +0000"
         },
         {
           "source": "Al Jazeera",
@@ -128,12 +134,6 @@
           "title": "Muslims celebrate Eid al-Fitr around the world amid shadow of war",
           "link": "https://www.aljazeera.com/gallery/2026/3/20/photos-muslims-celebrate-eid-al-fitr-around-the-world-amid-shadow-of-war?traffic_source=rss",
           "published": "Fri, 20 Mar 2026 10:11:30 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Eid celebrations dimmed by war and displacement across Middle East",
-          "link": "https://www.aljazeera.com/news/2026/3/20/eid-celebrations-dimmed-by-war-and-displacement-across-middle-east?traffic_source=rss",
-          "published": "Fri, 20 Mar 2026 09:25:00 +0000"
         }
       ]
     }
