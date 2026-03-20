@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-20T19:20:53Z",
+  "updatedAt": "2026-03-20T19:55:28Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Трипуновски од Росоман: Земјоделците ги креираат идните политики во земјоделскиот сектор",
+          "link": "https://makfax.com.mk/ekonomija/tripunovski-od-rosoman-zemjodelczite-gi-kreiraat-idnite-politiki-vo-zemjodelskiot-sektor/",
+          "published": "Fri, 20 Mar 2026 19:39:17 +0000"
         },
         {
           "source": "Makfax",
@@ -35,40 +41,34 @@
           "published": "Fri, 20 Mar 2026 16:55:26 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Утре променливо облачно со сончеви периоди, во почетокот на новата седмица  со услови за повремени локални врнежи од дожд",
-          "link": "https://makfax.com.mk/makedonija/utre-promenlivo-oblachno-so-sonchevi-periodi-vo-pochetokot-na-novata-sedmicza-so-uslovi-za-povremeni-lokalni-vrnezhi-od-dozhd/",
-          "published": "Fri, 20 Mar 2026 16:28:48 +0000"
+          "source": "NetPress",
+          "title": "Струмичанец приведен по напад врз сопругата во семејниот дом",
+          "link": "https://netpress.com.mk/strumichanecz-priveden-po-napad-vrz-soprugata-vo-semejniot-dom/",
+          "published": "Fri, 20 Mar 2026 19:52:56 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Земјоделците ги креираат идните политики во земјоделскиот сектор",
+          "link": "https://netpress.com.mk/zemjodelczite-gi-kreiraat-idnite-politiki-vo-zemjodelskiot-sektor/",
+          "published": "Fri, 20 Mar 2026 19:50:20 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Млад скопјанец ја претепал мајка си",
+          "link": "https://netpress.com.mk/mlad-skopjanecz-ja-pretepal-majka-si/",
+          "published": "Fri, 20 Mar 2026 19:41:42 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Група малолетници нападнале соученик во средно училиште во Аеродром",
+          "link": "https://netpress.com.mk/grupa-maloletniczi-napadnale-souchenik-vo-sredno-uchilishte-vo-aerodrom/",
+          "published": "Fri, 20 Mar 2026 19:33:07 +0000"
         },
         {
           "source": "NetPress",
           "title": "Приведен скопјанец за физички напад во продавница во Радишани",
           "link": "https://netpress.com.mk/priveden-skopjanecz-za-fizichki-napad-vo-prodavnicza-vo-radishani/",
           "published": "Fri, 20 Mar 2026 19:20:53 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Тетовец со „ауди“ повредил полицаец бегајќи од „палката“",
-          "link": "https://netpress.com.mk/tetovecz-so-audi-povredil-policzaecz-begajki-od-palkata/",
-          "published": "Fri, 20 Mar 2026 19:02:54 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Украина испратила тимови за пресретнување дронови на Блискиот исток",
-          "link": "https://netpress.com.mk/ukraina-ispratila-timovi-za-presretnuvane-dronovi-na-bliskiot-istok/",
-          "published": "Fri, 20 Mar 2026 18:57:40 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Во Љубанци избувнал пожар во празна куќа",
-          "link": "https://netpress.com.mk/vo-lubanczi-izbuvnal-pozhar-vo-prazna-kuka/",
-          "published": "Fri, 20 Mar 2026 18:52:29 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Ограбена металната каса за донации во џамија во Гостиварско",
-          "link": "https://netpress.com.mk/ograbena-metalnata-kasa-za-donaczii-vo-dhamija-vo-gostivarsko/",
-          "published": "Fri, 20 Mar 2026 18:47:19 +0000"
         }
       ]
     },
@@ -107,6 +107,24 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "QatarEnergy CEO says warned US, industry officials against attack on energy",
+          "link": "https://www.aljazeera.com/news/2026/3/20/qatarenergy-ceo-says-warned-us-industry-officials-against-attack-on-energy?traffic_source=rss",
+          "published": "Fri, 20 Mar 2026 19:34:34 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Trump: No Iranian leaders left to talk to, says war going ‘extremely well’",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/20/trump-no-iranian-leaders-left-to-talk-to-says-war-going-extremely?traffic_source=rss",
+          "published": "Fri, 20 Mar 2026 19:22:41 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Sri Lanka says it denied US request to land two aircraft at Mattala airport",
+          "link": "https://www.aljazeera.com/news/2026/3/20/sri-lanka-says-it-denied-us-request-to-land-two-aircraft-at-mattala-airport?traffic_source=rss",
+          "published": "Fri, 20 Mar 2026 19:21:09 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Walker, Texas Ranger star and martial arts icon Chuck Norris dies at 86",
           "link": "https://www.aljazeera.com/news/2026/3/20/walker-texas-ranger-star-and-martial-arts-icon-chuck-norris-dies-at-86?traffic_source=rss",
           "published": "Fri, 20 Mar 2026 18:58:52 +0000"
@@ -116,24 +134,6 @@
           "title": "Iranians celebrate Persian New Year in first wartime Nowruz in decades",
           "link": "https://www.aljazeera.com/news/2026/3/20/iranians-celebrate-persian-new-year-in-first-wartime-nowruz-in-decades?traffic_source=rss",
           "published": "Fri, 20 Mar 2026 18:41:04 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Iran: From Khamenei to Khamenei",
-          "link": "https://www.aljazeera.com/video/featured-documentaries/2026/3/20/iran-from-khamenei-to-khamenei?traffic_source=rss",
-          "published": "Fri, 20 Mar 2026 18:30:00 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Trump administration seeks billions from Harvard in anti-Semitism lawsuit",
-          "link": "https://www.aljazeera.com/news/2026/3/20/trump-administration-seeks-billions-from-harvard-over-anti-semitism-claims?traffic_source=rss",
-          "published": "Fri, 20 Mar 2026 18:28:44 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Explosion hits Jerusalem’s Old City after Iran missile alert",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/20/explosion-hits-jerusalems-old-city-after-iran-missile-alert?traffic_source=rss",
-          "published": "Fri, 20 Mar 2026 18:15:27 +0000"
         }
       ]
     }
