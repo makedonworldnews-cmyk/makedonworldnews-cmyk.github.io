@@ -1,6 +1,27 @@
 {
-  "generated_at": "2026-03-20T10:35:39Z",
+  "generated_at": "2026-03-20T11:07:04Z",
   "items": [
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "ВМРО-ДПМНЕ за апсењето на директорот на Државниот инспекторат за земјоделство: Крај на неказнивоста, законот важи за сите",
+      "link": "https://makfax.com.mk/makedonija/vmro-dpmne-za-apseneto-na-direktorot-na-drzhavniot-inspektorat-za-zemjodelstvo-kraj-na-nekaznivosta-zakonot-vazhi-za-site/",
+      "published": "Fri, 20 Mar 2026 11:01:26 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "Ума Турман за насилството во филмовите: „На некои луѓе навистина им се допаѓа, мене не“",
+      "link": "https://makfax.com.mk/zanimlivosti/uma-turman-za-nasilstvoto-vo-filmovite-na-nekoi-luge-navistina-im-se-dopaga-mene-ne/",
+      "published": "Fri, 20 Mar 2026 10:50:20 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "Поднесено обвинение за лице кое примило 50.000 евра за да влијае и интервенира кај судија во Апелациониот суд",
+      "link": "https://makfax.com.mk/makedonija/podneseno-obvinenie-za-licze-koe-primilo-50-000-evra-za-da-vlijae-i-intervenira-kaj-sudija-vo-apelaczioniot-sud/",
+      "published": "Fri, 20 Mar 2026 10:40:01 +0000"
+    },
     {
       "region": "Македонија",
       "source": "Makfax",
@@ -14,27 +35,6 @@
       "title": "Силен земјотрес во Грција, почувствуван и во Македонија и Албанија",
       "link": "https://makfax.com.mk/svet/region/silen-zemjotres-vo-grczija-pochuvstvuvan-i-vo-makedonija-i-albanija/",
       "published": "Fri, 20 Mar 2026 10:16:29 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "Makfax",
-      "title": "Мицкоски: Денес повеќе од кога било, потребно е да го негуваме соживотот, да градиме доверба и да вложуваме во заедничка иднина исполнета со мир",
-      "link": "https://makfax.com.mk/makedonija/miczkoski-denes-poveke-od-koga-bilo-potrebno-e-da-go-neguvame-sozhivotot-da-gradime-doverba-i-da-vlozhuvame-vo-zaednichka-idnina-ispolneta-so-mir/",
-      "published": "Fri, 20 Mar 2026 09:55:27 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "Makfax",
-      "title": "(Видео) Пожар во фабрика за автомобили во Јужна Кореја: бројот на жртви се зголемува",
-      "link": "https://makfax.com.mk/svet/video-pozhar-vo-fabrika-za-avtomobili-vo-juzhna-koreja-brojot-na-zhrtvi-se-zgolemuva/",
-      "published": "Fri, 20 Mar 2026 09:46:09 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "Makfax",
-      "title": "Милан сака да го задржи Модиќ",
-      "link": "https://makfax.com.mk/sport/milan-saka-da-go-zadrzhi-modik/",
-      "published": "Fri, 20 Mar 2026 09:23:03 +0000"
     },
     {
       "region": "Македонија",
@@ -81,13 +81,6 @@
     {
       "region": "Свет",
       "source": "BBC",
-      "title": "Trump compares attack on Iran to Pearl Harbor in meeting with Japanese PM",
-      "link": "https://www.bbc.com/news/videos/cx248jvgwj8o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 19 Mar 2026 17:50:38 GMT"
-    },
-    {
-      "region": "Свет",
-      "source": "BBC",
       "title": "Several injured as turbulence hits Delta flight into Sydney",
       "link": "https://www.bbc.com/news/articles/c78l572p4n7o?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 20 Mar 2026 01:26:01 GMT"
@@ -95,16 +88,37 @@
     {
       "region": "Свет",
       "source": "BBC",
-      "title": "Denmark planned to blow up Greenland runways if US invaded, reports say",
-      "link": "https://www.bbc.com/news/articles/c33ln4mp1p2o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 19 Mar 2026 21:52:36 GMT"
+      "title": "Norway's crown princess breaks silence on Epstein links: 'I was manipulated and deceived'",
+      "link": "https://www.bbc.com/news/articles/cde5y63y3n7o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 20 Mar 2026 10:43:00 GMT"
     },
     {
       "region": "Свет",
       "source": "BBC",
-      "title": "Australia PM heckled at Sydney mosque Ramadan event",
-      "link": "https://www.bbc.com/news/articles/cz90wy2190go?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 20 Mar 2026 02:54:21 GMT"
+      "title": "Mexican teen dies while being held in US immigration custody",
+      "link": "https://www.bbc.com/news/articles/cp84n0kn902o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 20 Mar 2026 10:57:38 GMT"
+    },
+    {
+      "region": "Свет",
+      "source": "BBC",
+      "title": "BTS return from military service - but does their album live up to the hype?",
+      "link": "https://www.bbc.com/news/articles/c070eg32dryo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 20 Mar 2026 04:04:50 GMT"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Iran developing a ‘vetting system’ for Strait of Hormuz transit: Report",
+      "link": "https://www.aljazeera.com/news/2026/3/20/iran-developing-a-vetting-system-for-strait-of-hormuz-transit-report?traffic_source=rss",
+      "published": "Fri, 20 Mar 2026 10:13:07 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Muslims celebrate Eid al-Fitr around the world amid shadow of war",
+      "link": "https://www.aljazeera.com/gallery/2026/3/20/photos-muslims-celebrate-eid-al-fitr-around-the-world-amid-shadow-of-war?traffic_source=rss",
+      "published": "Fri, 20 Mar 2026 10:11:30 +0000"
     },
     {
       "region": "Свет",
@@ -126,20 +140,6 @@
       "title": "Long before Trump: How US policy has harmed the environment for decades",
       "link": "https://www.aljazeera.com/news/2026/3/20/long-before-trump-how-us-policy-has-harmed-the-environment-for-decades?traffic_source=rss",
       "published": "Fri, 20 Mar 2026 08:28:07 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Ukraine sends advisers to Gulf as it counterattacks Russian forces in south",
-      "link": "https://www.aljazeera.com/features/2026/3/20/ukraine-sends-advisers-to-gulf-as-it-counterattacks-russian-forces-in-south?traffic_source=rss",
-      "published": "Fri, 20 Mar 2026 08:18:04 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "‘It helps us survive’: Poverty forces children into mine work in DR Congo",
-      "link": "https://www.aljazeera.com/features/2026/3/20/it-helps-us-survive-poverty-forces-children-into-mine-work-in-dr-congo?traffic_source=rss",
-      "published": "Fri, 20 Mar 2026 08:15:20 +0000"
     }
   ]
 }
