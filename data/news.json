@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-20T13:41:09Z",
+  "updatedAt": "2026-03-20T14:32:15Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Захарова: Пожарот предизвикан од САД и Израел се шири",
+          "link": "https://makfax.com.mk/svet/zaharova-pozharot-predizvikan-od-sad-i-izrael-se-shiri/",
+          "published": "Fri, 20 Mar 2026 14:14:16 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Четири лица уапсени за семејно насилство, вкупно осум пријави во Скопје, Тетово и Струмица во последното деноноќие, соопшти МВР",
+          "link": "https://makfax.com.mk/crna-hronika/chetiri-licza-uapseni-za-semejno-nasilstvo-vkupno-osum-prijavi-vo-skopje-tetovo-i-strumicza-vo-poslednoto-denonokie-soopshti-mvr/",
+          "published": "Fri, 20 Mar 2026 13:46:25 +0000"
         },
         {
           "source": "Makfax",
@@ -29,16 +41,22 @@
           "published": "Fri, 20 Mar 2026 13:09:49 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Вучиќ: Во Србија нема ограничувања за купување гориво, снабдувањето не е доведено во прашање, државата се откажува од акцизи",
-          "link": "https://makfax.com.mk/svet/region/vuchik-vo-srbija-nema-ogranichuvana-za-kupuvane-gorivo-snabduvaneto-ne-e-dovedeno-vo-prashane-drzhavata-se-otkazhuva-od-akczizi/",
-          "published": "Fri, 20 Mar 2026 12:54:36 +0000"
+          "source": "NetPress",
+          "title": "САД размислуваат за заземање на иранскиот остров Харг за да го принудат Техеран повторно да ја отвори Ормуската Теснина",
+          "link": "https://netpress.com.mk/sad-razmisluvaat-za-zazemane-na-iranskiot-ostrov-harg-za-da-go-prinudat-teheran-povtorno-da-ja-otvori-ormuskata-tesnina/",
+          "published": "Fri, 20 Mar 2026 14:11:43 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Четири хороскопски знаци кои ќе имаат најголема среќа на пролетната рамноденица",
-          "link": "https://makfax.com.mk/zanimlivosti/chetiri-horoskopski-znaczi-koi-ke-imaat-najgolema-sreka-na-proletnata-ramnodenicza/",
-          "published": "Fri, 20 Mar 2026 12:43:37 +0000"
+          "source": "NetPress",
+          "title": "Изгореа 4 мотоцикли пред магацин во Прилеп",
+          "link": "https://netpress.com.mk/izgorea-4-motoczikli-pred-magaczin-vo-prilep/",
+          "published": "Fri, 20 Mar 2026 14:03:32 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Mалолетник од кочанско со пиштол му се заканувал на врсник",
+          "link": "https://netpress.com.mk/vo-raspravija-za-devojka-maloletnik-od-kochansko-so-pishtol-mu-se-zakanuval-na-vrsnik/",
+          "published": "Fri, 20 Mar 2026 13:51:32 +0000"
         },
         {
           "source": "NetPress",
@@ -51,24 +69,6 @@
           "title": "Три земјотреси од 4 до 4,6 степени регистрирани во близина на Јанина во Грција",
           "link": "https://netpress.com.mk/tri-zemjotresi-od-4-do-46-stepeni-registrirani-vo-blizina-na-janina-vo-grczija/",
           "published": "Fri, 20 Mar 2026 13:23:22 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Саудиска Арабија го задржува правото да преземеме воена акција против Иран",
-          "link": "https://netpress.com.mk/saudiska-arabija-go-zadrzhuva-pravoto-da-prezememe-voena-akczija-protiv-iran/",
-          "published": "Fri, 20 Mar 2026 12:41:16 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Над 70 отсто од Грците не се согласуваат со нападот на САД и Израел врз Иран",
-          "link": "https://netpress.com.mk/nad-70-otsto-od-grczite-ne-se-soglasuvaat-so-napadot-na-sad-i-izrael-vrz-iran/",
-          "published": "Fri, 20 Mar 2026 12:37:27 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Српска ПР агенција ги штанца лажните соопштенија и прес-конференции на СДС, Башановиќ и Заев стојат зад завесите",
-          "link": "https://netpress.com.mk/srpska-pr-agenczija-gi-shtancza-lazhnite-soopshtenija-i-pres-konferenczii-na-sds-bashanovik-i-zaev-stojat-zad-zavesite/",
-          "published": "Fri, 20 Mar 2026 12:31:48 +0000"
         }
       ]
     },
@@ -83,7 +83,7 @@
         },
         {
           "source": "BBC",
-          "title": "Norway's crown princess breaks silence on Epstein links: 'I was manipulated and deceived'",
+          "title": "Norway's crown princess breaks silence, claiming she was 'manipulated and deceived' by Epstein",
           "link": "https://www.bbc.com/news/articles/cde5y63y3n7o?at_medium=RSS&at_campaign=rss",
           "published": "Fri, 20 Mar 2026 10:43:00 GMT"
         },
@@ -107,6 +107,18 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Who are the Gulf’s military allies, and how are they helping in Iran war?",
+          "link": "https://www.aljazeera.com/news/2026/3/20/who-are-the-gulfs-military-allies-and-how-are-they-helping-in-iran-war?traffic_source=rss",
+          "published": "Fri, 20 Mar 2026 13:45:18 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Iran video said to show US F-35 being hit",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/20/iran-video-said-to-show-us-f-35-being-hit?traffic_source=rss",
+          "published": "Fri, 20 Mar 2026 13:44:06 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Iran’s IRGC says spokesman Ali Mohammad Naini killed in US-Israeli attack",
           "link": "https://www.aljazeera.com/news/2026/3/20/irans-irgc-says-spokesman-ali-mohammad-naini-killed-in-us-israeli-attack?traffic_source=rss",
           "published": "Fri, 20 Mar 2026 12:44:16 +0000"
@@ -122,18 +134,6 @@
           "title": "Slovenia heads to polls with diverging views on Israel in focus",
           "link": "https://www.aljazeera.com/news/2026/3/20/slovenia-heads-to-polls-with-diverging-views-on-israel-in-focus?traffic_source=rss",
           "published": "Fri, 20 Mar 2026 11:51:23 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Israel says it hit Syrian army camps in the south after Druze ‘attacked’",
-          "link": "https://www.aljazeera.com/news/2026/3/20/israel-says-it-hit-syrian-army-camps-in-the-south-after-druze-attacked?traffic_source=rss",
-          "published": "Fri, 20 Mar 2026 11:46:30 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Refugee Council questions Australia’s Iran strategy at Women’s Asian Cup",
-          "link": "https://www.aljazeera.com/sports/2026/3/20/refugee-council-questions-australias-iran-strategy-at-womens-asian-cup?traffic_source=rss",
-          "published": "Fri, 20 Mar 2026 11:21:01 +0000"
         }
       ]
     }
