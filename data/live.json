@@ -1,6 +1,13 @@
 {
-  "generated_at": "2026-03-20T18:52:49Z",
+  "generated_at": "2026-03-20T19:32:33Z",
   "items": [
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "Мерц предупреди дека Орбан ќе ги сноси последиците поради блокадата од ЕУ",
+      "link": "https://makfax.com.mk/svet/mercz-predupredi-deka-orban-ke-gi-snosi-poslediczite-poradi-blokadata-od-eu/",
+      "published": "Fri, 20 Mar 2026 18:53:41 +0000"
+    },
     {
       "region": "Македонија",
       "source": "Makfax",
@@ -31,10 +38,24 @@
     },
     {
       "region": "Македонија",
-      "source": "Makfax",
-      "title": "(Видео) Чак Норис објави емотивно видео неколку дена пред неговата смрт: „Јас не стареам“",
-      "link": "https://makfax.com.mk/zanimlivosti/video-chak-noris-objavi-emotivno-video-nekolku-dena-pred-negovata-smrt-jas-ne-staream/",
-      "published": "Fri, 20 Mar 2026 15:56:38 +0000"
+      "source": "NetPress",
+      "title": "Приведен скопјанец за физички напад во продавница во Радишани",
+      "link": "https://netpress.com.mk/priveden-skopjanecz-za-fizichki-napad-vo-prodavnicza-vo-radishani/",
+      "published": "Fri, 20 Mar 2026 19:20:53 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "NetPress",
+      "title": "Тетовец со „ауди“ повредил полицаец бегајќи од „палката“",
+      "link": "https://netpress.com.mk/tetovecz-so-audi-povredil-policzaecz-begajki-od-palkata/",
+      "published": "Fri, 20 Mar 2026 19:02:54 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "NetPress",
+      "title": "Украина испратила тимови за пресретнување дронови на Блискиот исток",
+      "link": "https://netpress.com.mk/ukraina-ispratila-timovi-za-presretnuvane-dronovi-na-bliskiot-istok/",
+      "published": "Fri, 20 Mar 2026 18:57:40 +0000"
     },
     {
       "region": "Македонија",
@@ -49,27 +70,6 @@
       "title": "Ограбена металната каса за донации во џамија во Гостиварско",
       "link": "https://netpress.com.mk/ograbena-metalnata-kasa-za-donaczii-vo-dhamija-vo-gostivarsko/",
       "published": "Fri, 20 Mar 2026 18:47:19 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Русија сака договор со САД – ние нема да го поддржуваме Иран, вие не ја поддржувајте Украина",
-      "link": "https://netpress.com.mk/rusija-saka-dogovor-so-sad-nie-nema-da-go-poddrzhuvame-iran-vie-ne-ja-poddrzhuvajte-ukraina/",
-      "published": "Fri, 20 Mar 2026 18:36:15 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "ЕПП: Проблемите на изборите и корупцијата го загрозуваат патот на Албанија кон ЕУ",
-      "link": "https://netpress.com.mk/epp-problemite-na-izborite-i-korupczijata-go-zagrozuvaat-patot-na-albanija-kon-eu/",
-      "published": "Fri, 20 Mar 2026 18:25:17 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Цените на нафтата близу 109 долари, инвеститорите стравуваат за енергетската инфраструктура",
-      "link": "https://netpress.com.mk/czenite-na-naftata-blizu-109-dolari-investitorite-stravuvaat-za-energetskata-infrastruktura/",
-      "published": "Fri, 20 Mar 2026 18:24:37 +0000"
     },
     {
       "region": "Свет",
@@ -109,37 +109,37 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "Trump: No Iranian leaders left to talk to, says war going ‘extremely well’",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/20/trump-no-iranian-leaders-left-to-talk-to-says-war-going-extremely?traffic_source=rss",
+      "published": "Fri, 20 Mar 2026 19:22:41 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Sri Lanka says it denied US request to land two aircraft at Mattala airport",
+      "link": "https://www.aljazeera.com/news/2026/3/20/sri-lanka-says-it-denied-us-request-to-land-two-aircraft-at-mattala-airport?traffic_source=rss",
+      "published": "Fri, 20 Mar 2026 19:21:09 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Walker, Texas Ranger star and martial arts icon Chuck Norris dies at 86",
+      "link": "https://www.aljazeera.com/news/2026/3/20/walker-texas-ranger-star-and-martial-arts-icon-chuck-norris-dies-at-86?traffic_source=rss",
+      "published": "Fri, 20 Mar 2026 18:58:52 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Iranians celebrate Persian New Year in first wartime Nowruz in decades",
+      "link": "https://www.aljazeera.com/news/2026/3/20/iranians-celebrate-persian-new-year-in-first-wartime-nowruz-in-decades?traffic_source=rss",
+      "published": "Fri, 20 Mar 2026 18:41:04 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "Iran: From Khamenei to Khamenei",
       "link": "https://www.aljazeera.com/video/featured-documentaries/2026/3/20/iran-from-khamenei-to-khamenei?traffic_source=rss",
       "published": "Fri, 20 Mar 2026 18:30:00 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Trump administration seeks billions from Harvard over anti-Semitism claims",
-      "link": "https://www.aljazeera.com/news/2026/3/20/trump-administration-seeks-billions-from-harvard-over-anti-semitism-claims?traffic_source=rss",
-      "published": "Fri, 20 Mar 2026 18:28:44 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Explosion hits Jerusalem’s Old City after Iran missile alert",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/20/explosion-hits-jerusalems-old-city-after-iran-missile-alert?traffic_source=rss",
-      "published": "Fri, 20 Mar 2026 18:15:27 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Cuba ‘categorically’ rejects prospect of removing Diaz-Canel in US talks",
-      "link": "https://www.aljazeera.com/news/2026/3/20/cuba-categorically-rejects-prospect-of-removing-diaz-canel-in-us-talks?traffic_source=rss",
-      "published": "Fri, 20 Mar 2026 18:10:24 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Iran’s Khamenei says enemy ‘defeated’ in written Nowruz message",
-      "link": "https://www.aljazeera.com/news/2026/3/20/irans-khamenei-says-enemy-defeated-in-written-nowruz-message?traffic_source=rss",
-      "published": "Fri, 20 Mar 2026 16:38:53 +0000"
     }
   ]
 }
