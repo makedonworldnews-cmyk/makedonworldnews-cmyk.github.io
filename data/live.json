@@ -1,6 +1,20 @@
 {
-  "generated_at": "2026-03-21T08:26:04Z",
+  "generated_at": "2026-03-21T08:55:39Z",
   "items": [
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "Иранските напади врз базите што ги користат САД предизвикаа штета од 800 милиони долари, покажува нова анализа",
+      "link": "https://makfax.com.mk/svet/iranskite-napadi-vrz-bazite-shto-gi-koristat-sad-predizvikaa-shteta-od-800-milioni-dolari-pokazhuva-nova-analiza/",
+      "published": "Sat, 21 Mar 2026 08:46:34 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "Путин му порача на Иран: Москва останува верен пријател и доверлив партнер",
+      "link": "https://makfax.com.mk/svet/putin-mu-poracha-na-iran-moskva-ostanuva-veren-prijatel-i-doverliv-partner/",
+      "published": "Sat, 21 Mar 2026 08:36:24 +0000"
+    },
     {
       "region": "Македонија",
       "source": "Makfax",
@@ -21,20 +35,6 @@
       "title": "Иран испали балистички ракети насочени кон американско-британската база во Индискиот Океан",
       "link": "https://makfax.com.mk/svet/iran-ispali-balistichki-raketi-nasocheni-kon-amerikansko-britanskata-baza-vo-indiskiot-okean/",
       "published": "Sat, 21 Mar 2026 07:13:27 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "Makfax",
-      "title": "Променливо облачно време со сончеви периоди",
-      "link": "https://makfax.com.mk/makedonija/promenlivo-oblachno-vreme-so-sonchevi-periodi/",
-      "published": "Sat, 21 Mar 2026 06:57:13 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "Makfax",
-      "title": "(Видео) Без победник во дуелот меѓу Борнмут и Манчестер Јунајтед",
-      "link": "https://makfax.com.mk/sport/video-bez-pobednik-vo-duelot-megu-bornmut-i-manchester-junajted/",
-      "published": "Fri, 20 Mar 2026 22:11:31 +0000"
     },
     {
       "region": "Македонија",
@@ -109,6 +109,13 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "Iran says it will allow Japanese ships to transit the Strait of Hormuz",
+      "link": "https://www.aljazeera.com/news/2026/3/21/iran-says-it-will-allow-japanese-ships-to-transit-the-strait-of-hormuz?traffic_source=rss",
+      "published": "Sat, 21 Mar 2026 08:21:20 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "Trump hints at ‘winding down’ Iran war as US deploys more troops to region",
       "link": "https://www.aljazeera.com/news/2026/3/21/trump-hints-at-winding-down-iran-war-as-us-deploys-more-troops-to-region?traffic_source=rss",
       "published": "Sat, 21 Mar 2026 08:01:15 +0000"
@@ -133,13 +140,6 @@
       "title": "Aid flotilla for Cuba sets sail from Mexico",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/3/21/aid-flotilla-for-cuba-sets-sail-from-mexico?traffic_source=rss",
       "published": "Sat, 21 Mar 2026 03:31:10 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Al Jazeera reporter’s journey from Jordan to Iraq",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/21/al-jazeera-reporters-journey-from-jordan-to-iraq?traffic_source=rss",
-      "published": "Sat, 21 Mar 2026 01:02:53 +0000"
     }
   ]
 }
