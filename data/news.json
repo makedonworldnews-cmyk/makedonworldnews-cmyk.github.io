@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-21T13:42:47Z",
+  "updatedAt": "2026-03-21T14:13:12Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Владата утре ќе носи мерки за цените на горивата",
+          "link": "https://makfax.com.mk/ekonomija/vladata-utre-ke-nosi-merki-za-czenite-na-gorivata/",
+          "published": "Sat, 21 Mar 2026 14:11:43 +0000"
         },
         {
           "source": "Makfax",
@@ -35,10 +41,10 @@
           "published": "Sat, 21 Mar 2026 13:18:13 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "(Видео) Манасиевски: Башановиќ, кумот на Вучиќ и екс советник на Заев, го води ПР-от на СДС",
-          "link": "https://makfax.com.mk/makedonija/video-manasievski-bashanovik-kumot-na-vuchik-i-eks-sovetnik-na-zaev-go-vodi-pr-ot-na-sds/",
-          "published": "Sat, 21 Mar 2026 11:57:04 +0000"
+          "source": "NetPress",
+          "title": "Опожарени 20-тина хектари шума, пожарот е изгасен по 23 часот",
+          "link": "https://netpress.com.mk/opozhareni-20-tina-hektari-shuma-pozharot-e-izgasen-po-23-chasot/",
+          "published": "Sat, 21 Mar 2026 14:03:24 +0000"
         },
         {
           "source": "NetPress",
@@ -63,12 +69,6 @@
           "title": "Автопатите се градат со полна динамика-цената на горивата нема да предизвика дополнителни трошоци",
           "link": "https://netpress.com.mk/avtopatite-se-gradar-so-polna-dinamika-czenata-na-gorivata-nema-da-predizvika-dopolnitelni-troshoczi/",
           "published": "Sat, 21 Mar 2026 12:41:56 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Арагчи: Не прифаќаме прекин на огнот – војната мора целосно и трајно да заврши",
-          "link": "https://netpress.com.mk/aragchi-ne-prifakame-prekin-na-ognot-vojnata-mora-czelosno-i-trajno-da-zavrshi/",
-          "published": "Sat, 21 Mar 2026 12:32:18 +0000"
         }
       ]
     },
