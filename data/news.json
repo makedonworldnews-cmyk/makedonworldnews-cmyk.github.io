@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-21T04:20:32Z",
+  "updatedAt": "2026-03-21T05:27:11Z",
   "groups": [
     {
       "region": "Македонија",
@@ -107,6 +107,12 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "300 million people celebrate Nowruz under a cloud of war",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/21/300-million-people-celebrate-nowruz-under-a-cloud-of-war?traffic_source=rss",
+          "published": "Sat, 21 Mar 2026 03:58:08 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Aid flotilla for Cuba sets sail from Mexico",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/3/21/aid-flotilla-for-cuba-sets-sail-from-mexico?traffic_source=rss",
           "published": "Sat, 21 Mar 2026 03:31:10 +0000"
@@ -128,12 +134,6 @@
           "title": "US judge sides with New York Times against Pentagon journalism policies",
           "link": "https://www.aljazeera.com/news/2026/3/20/us-judge-sides-with-new-york-times-against-pentagon-journalism-policies?traffic_source=rss",
           "published": "Fri, 20 Mar 2026 23:07:20 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Pezeshkian says Iran not seeking war with Muslim neighbours",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/20/pezeshkian-says-iran-not-seeking-war-with-muslim-neighbours?traffic_source=rss",
-          "published": "Fri, 20 Mar 2026 22:58:31 +0000"
         }
       ]
     }
