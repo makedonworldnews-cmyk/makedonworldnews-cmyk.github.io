@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-21T11:55:22Z",
+  "updatedAt": "2026-03-21T12:52:52Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) Манасиевски: Башановиќ, кумот на Вучиќ и екс советник на Заев, го води ПР-от на СДС",
+          "link": "https://makfax.com.mk/makedonija/video-manasievski-bashanovik-kumot-na-vuchik-i-eks-sovetnik-na-zaev-go-vodi-pr-ot-na-sds/",
+          "published": "Sat, 21 Mar 2026 11:57:04 +0000"
         },
         {
           "source": "Makfax",
@@ -35,40 +41,34 @@
           "published": "Sat, 21 Mar 2026 11:27:38 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "МААЕ повика на воздржаност по нападите врз ирански нуклеарен објект",
-          "link": "https://makfax.com.mk/svet/maae-povika-na-vozdrzhanost-po-napadite-vrz-iranski-nuklearen-objekt/",
-          "published": "Sat, 21 Mar 2026 11:22:02 +0000"
+          "source": "NetPress",
+          "title": "Целта е да се привлечат инвеститори кои ќе донесат високоплатени работни места",
+          "link": "https://netpress.com.mk/czelta-e-da-se-privlechat-investitori-koi-ke-donesat-visokoplateni-rabotni-mesta/",
+          "published": "Sat, 21 Mar 2026 12:48:52 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Струмичките пожарникари утринава извлекле девојка падната во провалија",
-          "link": "https://netpress.com.mk/strumichkite-pozharnikari-utrinava-izvlekle-devojka-padnata-vo-provalija/",
-          "published": "Sat, 21 Mar 2026 11:17:28 +0000"
+          "title": "Автопатите се градат со полна динамика-цената на горивата нема да предизвика дополнителни трошоци",
+          "link": "https://netpress.com.mk/avtopatite-se-gradar-so-polna-dinamika-czenata-na-gorivata-nema-da-predizvika-dopolnitelni-troshoczi/",
+          "published": "Sat, 21 Mar 2026 12:41:56 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Николоски: Инвестициите во модерни автопати и железница ќе го забрзаат развојот на Македонија",
-          "link": "https://netpress.com.mk/nikoloski-investicziite-vo-moderni-avtopati-i-zheleznicza-ke-go-zabrzaat-razvojot-na-makedonija/",
-          "published": "Sat, 21 Mar 2026 11:05:30 +0000"
+          "title": "Арагчи: Не прифаќаме прекин на огнот – војната мора целосно и трајно да заврши",
+          "link": "https://netpress.com.mk/aragchi-ne-prifakame-prekin-na-ognot-vojnata-mora-czelosno-i-trajno-da-zavrshi/",
+          "published": "Sat, 21 Mar 2026 12:32:18 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Во Вашингтон потврдени добрите политички и економски врски меѓу Македонија и САД",
-          "link": "https://netpress.com.mk/vo-vashington-potvrdeni-dobrite-politichki-i-ekonomski-vrski-megu-makedonija-i-sad/",
-          "published": "Sat, 21 Mar 2026 10:58:48 +0000"
+          "title": "Има услови за 6 нови шалтери на Скопскиот аердором и целосна реконструкција на аеродромот во Охрид",
+          "link": "https://netpress.com.mk/ima-uslovi-za-6-novi-shalteri-na-skopskiot-aerdorom-i-czelosna-rekonstrukczija-na-aerodromot-vo-ohrid/",
+          "published": "Sat, 21 Mar 2026 12:25:14 +0000"
         },
         {
           "source": "NetPress",
-          "title": "„Псиохолошки трик“ на САД со олабавените санкции, немаме вишок нафта на море, порачаа од Техеран",
-          "link": "https://netpress.com.mk/psioholoshki-trik-na-sad-so-olabavenite-sankczii-nemame-vishok-nafta-na-more-porachaa-od-teheran/",
-          "published": "Sat, 21 Mar 2026 10:33:06 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Израел повторно ги нападна Иран и Бејрут, САД испраќаат маринци во регионот Американците се противат",
-          "link": "https://netpress.com.mk/izrael-povtorno-gi-napadna-iran-i-bejrut-sad-isprakaat-marinczi-vo-regionot-amerikanczite-se-protivat/",
-          "published": "Sat, 21 Mar 2026 10:29:26 +0000"
+          "title": "Тирана ќе биде домаќин на состанокот на министрите за надворешни работи на Украина и Југоисточна Европа",
+          "link": "https://netpress.com.mk/tirana-ke-bide-domakin-na-sostanokot-na-ministrite-za-nadvoreshni-raboti-na-ukraina-i-jugoistochna-evropa/",
+          "published": "Sat, 21 Mar 2026 12:10:42 +0000"
         }
       ]
     },
@@ -85,7 +85,7 @@
           "source": "BBC",
           "title": "Fans elated as BTS play first gig together in nearly four years",
           "link": "https://www.bbc.com/news/articles/cge0dyjwezgo?at_medium=RSS&at_campaign=rss",
-          "published": "Sat, 21 Mar 2026 11:22:47 GMT"
+          "published": "Sat, 21 Mar 2026 12:02:09 GMT"
         },
         {
           "source": "BBC",
@@ -104,6 +104,12 @@
           "title": "Socialists battle to hold Paris in key mayoral elections across France",
           "link": "https://www.bbc.com/news/articles/c87wgw27201o?at_medium=RSS&at_campaign=rss",
           "published": "Sat, 21 Mar 2026 01:03:36 GMT"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Japan beat Australia to lift Women’s Asian Cup title",
+          "link": "https://www.aljazeera.com/sports/2026/3/21/japan-beat-australia-to-lift-womens-asian-cup-title?traffic_source=rss",
+          "published": "Sat, 21 Mar 2026 11:57:41 +0000"
         },
         {
           "source": "Al Jazeera",
@@ -128,12 +134,6 @@
           "title": "Drone strike near Iraqi intelligence headquarters in Baghdad kills officer",
           "link": "https://www.aljazeera.com/news/2026/3/21/drone-strike-near-iraqi-intelligence-headquarters-in-baghdad-kills-officer?traffic_source=rss",
           "published": "Sat, 21 Mar 2026 10:41:03 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Lin Yu-ting cleared to return to boxing after sex eligibility review",
-          "link": "https://www.aljazeera.com/sports/2026/3/21/olympic-champion-lin-yu-ting-cleared-to-return-to-boxing-after-sex-eligibility-review?traffic_source=rss",
-          "published": "Sat, 21 Mar 2026 10:40:59 +0000"
         }
       ]
     }
