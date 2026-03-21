@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-21T20:56:51Z",
+  "updatedAt": "2026-03-21T21:30:32Z",
   "groups": [
     {
       "region": "Македонија",
@@ -42,6 +42,18 @@
         },
         {
           "source": "NetPress",
+          "title": "ВИДЕО| Израелската армија го потврди иранскиот напад врз нуклеарен објект во градот Домона",
+          "link": "https://netpress.com.mk/video-izraelskata-armija-go-potvrdi-iranskiot-napad-vrz-nuklearen-objekt-vo-gradot-domona/",
+          "published": "Sat, 21 Mar 2026 21:07:35 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "„Новите тактики и системи за лансирање“ ќе ги шокираат САД и Израел",
+          "link": "https://netpress.com.mk/novite-taktiki-i-sistemi-za-lansirane-ke-gi-shokiraat-sad-i-izrael/",
+          "published": "Sat, 21 Mar 2026 21:02:22 +0000"
+        },
+        {
+          "source": "NetPress",
           "title": "За еден месец потрошени 5 милиони евра во ФФМ, имало 30.000 фантомски играчи?",
           "link": "https://netpress.com.mk/za-eden-mesecz-potrosheni-5-milioni-evra-vo-ffm-imalo-30-000-fantomski-igrachi/",
           "published": "Sat, 21 Mar 2026 20:56:19 +0000"
@@ -57,18 +69,6 @@
           "title": "Италијанскиот амбасадор Палминтери: Нема гаранција дека Бугарија нема повторно да блокира",
           "link": "https://netpress.com.mk/italijanskiot-ambasador-palminteri-nema-garanczija-deka-bugarija-nema-povtorno-da-blokira/",
           "published": "Sat, 21 Mar 2026 19:58:47 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Дваесетина повредени во ирански напад со балистичка ракета врз Димона",
-          "link": "https://netpress.com.mk/dvaesetina-povredeni-vo-iranski-napad-so-balistichka-raketa-vrz-dimona/",
-          "published": "Sat, 21 Mar 2026 19:33:11 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Македонија одригра нерешено против Австрија",
-          "link": "https://netpress.com.mk/makedonija-i-avstrija-odrigraa-neresheno/",
-          "published": "Sat, 21 Mar 2026 19:30:26 +0000"
         }
       ]
     },
@@ -107,6 +107,12 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "‘Tears and grief’: Mother’s Day in Gaza marked by mourning",
+          "link": "https://www.aljazeera.com/news/2026/3/21/tears-and-grief-mothers-day-in-gaza-marked-by-mourning?traffic_source=rss",
+          "published": "Sat, 21 Mar 2026 20:45:16 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Joe Kent speaks out against Iran war at prayer event after resigning",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/3/21/joe-kent-speaks-out-against-iran-war-at-prayer-event-after-resigning?traffic_source=rss",
           "published": "Sat, 21 Mar 2026 19:46:04 +0000"
@@ -128,12 +134,6 @@
           "title": "Flash flooding swamps Hawaii, prompting evacuation orders for 5,500 people",
           "link": "https://www.aljazeera.com/news/2026/3/21/flash-flooding-swamps-hawaii-prompting-evacuation-orders-for-5500-people?traffic_source=rss",
           "published": "Sat, 21 Mar 2026 18:01:23 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Former FBI chief Robert Mueller, known for Trump investigation, dead at 81",
-          "link": "https://www.aljazeera.com/news/2026/3/21/former-fbi-chief-robert-mueller-dead-at-81?traffic_source=rss",
-          "published": "Sat, 21 Mar 2026 17:42:27 +0000"
         }
       ]
     }
