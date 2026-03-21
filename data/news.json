@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-21T15:12:26Z",
+  "updatedAt": "2026-03-21T15:43:54Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Муричи промаши пенал во 92-та минута, Мајорка загуби кај Елче",
+          "link": "https://makfax.com.mk/sport/murichi-promashi-penal-vo-92-ta-minuta-majorka-zagubi-kaj-elche/",
+          "published": "Sat, 21 Mar 2026 15:23:31 +0000"
         },
         {
           "source": "Makfax",
@@ -33,12 +39,6 @@
           "title": "Ќе воведеме нови мерки, почнува најголемата енергетска криза, вели хрватскиот премиер",
           "link": "https://makfax.com.mk/svet/region/ke-vovedeme-novi-merki-pochnuva-najgolemata-energetska-kriza-veli-hrvatskiot-premier/",
           "published": "Sat, 21 Mar 2026 13:41:06 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Техеран го демантира Трамп: Нема намалување на воените операции, ќе следи лекција",
-          "link": "https://makfax.com.mk/svet/teheran-go-demantira-tramp-nema-namaluvane-na-voenite-operaczii-ke-sledi-lekczija/",
-          "published": "Sat, 21 Mar 2026 13:32:22 +0000"
         },
         {
           "source": "NetPress",
