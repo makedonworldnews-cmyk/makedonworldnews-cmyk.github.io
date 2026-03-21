@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-21T10:47:57Z",
+  "generated_at": "2026-03-21T11:01:45Z",
   "items": [
     {
       "region": "Македонија",
@@ -39,6 +39,13 @@
     {
       "region": "Македонија",
       "source": "NetPress",
+      "title": "Во Вашингтон потврдени добрите политички и економски врски меѓу Македонија и САД",
+      "link": "https://netpress.com.mk/vo-vashington-potvrdeni-dobrite-politichki-i-ekonomski-vrski-megu-makedonija-i-sad/",
+      "published": "Sat, 21 Mar 2026 10:58:48 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "NetPress",
       "title": "„Псиохолошки трик“ на САД со олабавените санкции, немаме вишок нафта на море, порачаа од Техеран",
       "link": "https://netpress.com.mk/psioholoshki-trik-na-sad-so-olabavenite-sankczii-nemame-vishok-nafta-na-more-porachaa-od-teheran/",
       "published": "Sat, 21 Mar 2026 10:33:06 +0000"
@@ -63,13 +70,6 @@
       "title": "Најстудено изутринава на Попова Шапка минус седум степени",
       "link": "https://netpress.com.mk/najstudeno-izutrinava-na-popova-shapka-minus-sedum-stepeni/",
       "published": "Sat, 21 Mar 2026 10:11:30 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Прекин во водоснабдување за корисниците на неколку улици во Карпош",
-      "link": "https://netpress.com.mk/prekin-vo-vodosnabduvane-za-korisniczite-na-nekolku-uliczi-vo-karposh/",
-      "published": "Sat, 21 Mar 2026 10:09:05 +0000"
     },
     {
       "region": "Свет",
@@ -109,6 +109,27 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "War spirals as information control tightens",
+      "link": "https://www.aljazeera.com/video/the-listening-post/2026/3/21/war-spirals-as-information-control-tightens?traffic_source=rss",
+      "published": "Sat, 21 Mar 2026 10:44:38 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Drone strike near Iraqi intelligence headquarters in Baghdad kills officer",
+      "link": "https://www.aljazeera.com/news/2026/3/21/drone-strike-near-iraqi-intelligence-headquarters-in-baghdad-kills-officer?traffic_source=rss",
+      "published": "Sat, 21 Mar 2026 10:41:03 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Lin Yu-ting cleared to return to boxing after sex eligibility review",
+      "link": "https://www.aljazeera.com/sports/2026/3/21/olympic-champion-lin-yu-ting-cleared-to-return-to-boxing-after-sex-eligibility-review?traffic_source=rss",
+      "published": "Sat, 21 Mar 2026 10:40:59 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "‘I have fought for Aaron’: A Ugandan mother confronts disability and stigma",
       "link": "https://www.aljazeera.com/features/longform/2026/3/21/i-have-fought-for-aaron-a-ugandan-mother-confronts-disability-and-stigma?traffic_source=rss",
       "published": "Sat, 21 Mar 2026 09:42:23 +0000"
@@ -119,27 +140,6 @@
       "title": "Real Madrid vs Atletico Madrid: La Liga – team news, start, lineups",
       "link": "https://www.aljazeera.com/sports/2026/3/21/real-madrid-vs-atletico-madrid-la-liga-team-news-start-lineups?traffic_source=rss",
       "published": "Sat, 21 Mar 2026 09:34:42 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Israel systematically torturing Palestinians in custody, says UN expert",
-      "link": "https://www.aljazeera.com/news/2026/3/21/israel-systematically-torturing-palestinians-in-custody-says-un-expert?traffic_source=rss",
-      "published": "Sat, 21 Mar 2026 09:31:47 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Iran war: What’s happening on day 22 of US-Israel attacks?",
-      "link": "https://www.aljazeera.com/news/2026/3/21/iran-war-what-is-happening-on-day-22-of-us-israel-attacks?traffic_source=rss",
-      "published": "Sat, 21 Mar 2026 09:07:01 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Iran says it will allow Japanese ships to transit the Strait of Hormuz",
-      "link": "https://www.aljazeera.com/news/2026/3/21/iran-says-it-will-allow-japanese-ships-to-transit-the-strait-of-hormuz?traffic_source=rss",
-      "published": "Sat, 21 Mar 2026 08:21:20 +0000"
     }
   ]
 }
