@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-21T19:46:02Z",
+  "updatedAt": "2026-03-21T19:58:30Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) Иран го потврди нападот врз Димона, бројот на повредени се искачи на 47",
+          "link": "https://makfax.com.mk/svet/video-iran-go-potvrdi-napadot-vrz-dimona-brojot-na-povredeni-se-iskachi-na-47/",
+          "published": "Sat, 21 Mar 2026 19:53:09 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Спринтот во Бразил за Марк Маркез, Хорхе Мартин на подиумот по 504 денови",
+          "link": "https://makfax.com.mk/sport/sprintot-vo-brazil-za-mark-markez-horhe-martin-na-podiumot-po-504-denovi/",
+          "published": "Sat, 21 Mar 2026 19:49:32 +0000"
         },
         {
           "source": "Makfax",
@@ -27,18 +39,6 @@
           "title": "Шест американски услови за мир со Иран",
           "link": "https://makfax.com.mk/svet/shest-amerikanski-uslovi-za-mir-so-iran/",
           "published": "Sat, 21 Mar 2026 19:26:49 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Иран планира да наплаќа за премин низ Ормутскиот теснец",
-          "link": "https://makfax.com.mk/svet/iran-planira-da-naplaka-za-premin-niz-ormutskiot-tesnecz/",
-          "published": "Sat, 21 Mar 2026 19:22:43 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "(Видео) Голчиште на Павловиќ, Милан го победи Торино",
-          "link": "https://makfax.com.mk/sport/video-golchishte-na-pavlovik-milan-go-pobedi-torino/",
-          "published": "Sat, 21 Mar 2026 19:07:31 +0000"
         },
         {
           "source": "NetPress",
