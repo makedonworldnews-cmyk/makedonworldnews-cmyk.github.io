@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-21T10:47:40Z",
+  "updatedAt": "2026-03-21T11:11:20Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Нападите врз Иран ќе ескалираат оваа недела, кажа израелскиот министер за одбрана",
+          "link": "https://makfax.com.mk/svet/napadite-vrz-iran-ke-eskaliraat-ovaa-nedela-kazha-izraelskiot-minister-za-odbrana/",
+          "published": "Sat, 21 Mar 2026 11:07:03 +0000"
         },
         {
           "source": "Makfax",
@@ -35,10 +41,16 @@
           "published": "Sat, 21 Mar 2026 09:44:36 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "(Видео) Пистонс први на Истокот обезбедија место во плејофот, Јокиќ беше на чекор од трипл-дабл",
-          "link": "https://makfax.com.mk/sport/video-pistons-prvi-na-istokot-obezbedija-mesto-vo-plejofot-jokik-beshe-na-chekor-od-tripl-dabl/",
-          "published": "Sat, 21 Mar 2026 09:26:31 +0000"
+          "source": "NetPress",
+          "title": "Николоски: Инвестициите во модерни автопати и железница ќе го забрзаат развојот на Македонија",
+          "link": "https://netpress.com.mk/nikoloski-investicziite-vo-moderni-avtopati-i-zheleznicza-ke-go-zabrzaat-razvojot-na-makedonija/",
+          "published": "Sat, 21 Mar 2026 11:05:30 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Во Вашингтон потврдени добрите политички и економски врски меѓу Македонија и САД",
+          "link": "https://netpress.com.mk/vo-vashington-potvrdeni-dobrite-politichki-i-ekonomski-vrski-megu-makedonija-i-sad/",
+          "published": "Sat, 21 Mar 2026 10:58:48 +0000"
         },
         {
           "source": "NetPress",
@@ -57,18 +69,6 @@
           "title": "Директорот на Државниот архив: Најстариот документ што го поседува е Евангелието на Лука од 12.век",
           "link": "https://netpress.com.mk/direktorot-na-drzhavniot-arhiv-najstariot-dokument-shto-go-poseduva-e-evangelieto-na-luka-od-12-vek/",
           "published": "Sat, 21 Mar 2026 10:23:35 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Најстудено изутринава на Попова Шапка минус седум степени",
-          "link": "https://netpress.com.mk/najstudeno-izutrinava-na-popova-shapka-minus-sedum-stepeni/",
-          "published": "Sat, 21 Mar 2026 10:11:30 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Прекин во водоснабдување за корисниците на неколку улици во Карпош",
-          "link": "https://netpress.com.mk/prekin-vo-vodosnabduvane-za-korisniczite-na-nekolku-uliczi-vo-karposh/",
-          "published": "Sat, 21 Mar 2026 10:09:05 +0000"
         }
       ]
     },
