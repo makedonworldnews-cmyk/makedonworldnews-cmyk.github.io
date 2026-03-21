@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-21T14:47:13Z",
+  "updatedAt": "2026-03-21T15:12:26Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Диџа на пол-позицијата во Бразил",
+          "link": "https://makfax.com.mk/sport/didha-na-pol-poziczijata-vo-brazil/",
+          "published": "Sat, 21 Mar 2026 15:10:56 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) Ветеранот Велбек го реши Ливерпул",
+          "link": "https://makfax.com.mk/sport/video-veteranot-velbek-go-reshi-liverpul/",
+          "published": "Sat, 21 Mar 2026 15:02:31 +0000"
         },
         {
           "source": "Makfax",
@@ -29,16 +41,10 @@
           "published": "Sat, 21 Mar 2026 13:32:22 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Иран обвинува дека САД и Израел нападнале цивилни бродови во Персискиот Залив",
-          "link": "https://makfax.com.mk/svet/iran-obvinuva-deka-sad-i-izrael-napadnale-czivilni-brodovi-vo-persiskiot-zaliv/",
-          "published": "Sat, 21 Mar 2026 13:28:21 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Дали Трамп ќе ризикува копнена војна со Иран?",
-          "link": "https://makfax.com.mk/ekonomija/analiza/dali-tramp-ke-rizikuva-kopnena-vojna-so-iran/",
-          "published": "Sat, 21 Mar 2026 13:18:13 +0000"
+          "source": "NetPress",
+          "title": "За еден ден уапсени 6 лица за семејно насилство",
+          "link": "https://netpress.com.mk/za-eden-den-uapseni-6-licza-za-semejno-nasilstvo/",
+          "published": "Sat, 21 Mar 2026 14:49:24 +0000"
         },
         {
           "source": "NetPress",
@@ -63,12 +69,6 @@
           "title": "Пронајдено тело на жена кај Зрновци, неофицијално станува збор за свиреп настан",
           "link": "https://netpress.com.mk/pronajdeno-telo-na-zhena-kaj-zrnovczi-neoficzijalno-stanuva-zbor-za-svirep-nastan/",
           "published": "Sat, 21 Mar 2026 14:14:05 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Опожарени 20-тина хектари шума, пожарот е изгасен по 23 часот",
-          "link": "https://netpress.com.mk/opozhareni-20-tina-hektari-shuma-pozharot-e-izgasen-po-23-chasot/",
-          "published": "Sat, 21 Mar 2026 14:03:24 +0000"
         }
       ]
     },
@@ -107,6 +107,18 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Iranian woman’s video of US-Israel attack ends as bomb hits",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/21/iranian-womans-video-of-us-israel-attack-ends-as-bomb-hits?traffic_source=rss",
+          "published": "Sat, 21 Mar 2026 14:40:33 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Unease in Japan after Trump cites Pearl Harbor to defend Iran war",
+          "link": "https://www.aljazeera.com/news/2026/3/21/unease-in-japan-after-trump-uses-pearl-harbor-to-defend-iran-war?traffic_source=rss",
+          "published": "Sat, 21 Mar 2026 14:34:12 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Japan beat Australia to lift Women’s Asian Cup title",
           "link": "https://www.aljazeera.com/sports/2026/3/21/japan-beat-australia-to-lift-womens-asian-cup-title?traffic_source=rss",
           "published": "Sat, 21 Mar 2026 11:57:41 +0000"
@@ -122,18 +134,6 @@
           "title": "US jury finds Elon Musk misled investors during Twitter purchase",
           "link": "https://www.aljazeera.com/news/2026/3/21/us-jury-finds-elon-musk-misled-investors-during-twitter-purchase?traffic_source=rss",
           "published": "Sat, 21 Mar 2026 11:18:31 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "War spirals as information control tightens",
-          "link": "https://www.aljazeera.com/video/the-listening-post/2026/3/21/war-spirals-as-information-control-tightens?traffic_source=rss",
-          "published": "Sat, 21 Mar 2026 10:44:38 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Drone strike near Iraqi intelligence headquarters in Baghdad kills officer",
-          "link": "https://www.aljazeera.com/news/2026/3/21/drone-strike-near-iraqi-intelligence-headquarters-in-baghdad-kills-officer?traffic_source=rss",
-          "published": "Sat, 21 Mar 2026 10:41:03 +0000"
         }
       ]
     }
