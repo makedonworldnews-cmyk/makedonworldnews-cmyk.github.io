@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-20T23:54:57Z",
+  "generated_at": "2026-03-21T01:16:19Z",
   "items": [
     {
       "region": "Македонија",
@@ -81,6 +81,13 @@
     {
       "region": "Свет",
       "source": "BBC",
+      "title": "US lifts sanctions on some Iranian oil as gas prices soar",
+      "link": "https://www.bbc.com/news/articles/c9d415g55nno?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 20 Mar 2026 23:52:54 GMT"
+    },
+    {
+      "region": "Свет",
+      "source": "BBC",
       "title": "Norway's crown princess breaks silence, claiming she was 'manipulated and deceived' by Epstein",
       "link": "https://www.bbc.com/news/articles/cde5y63y3n7o?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 20 Mar 2026 15:30:28 GMT"
@@ -101,10 +108,10 @@
     },
     {
       "region": "Свет",
-      "source": "BBC",
-      "title": "BTS return from military service - but does their album live up to the hype?",
-      "link": "https://www.bbc.com/news/articles/c070eg32dryo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 20 Mar 2026 04:04:50 GMT"
+      "source": "Al Jazeera",
+      "title": "Iran war live: Trump says no ceasefire as Khamenei issues defiant message",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/3/21/iran-war-live-trump-says-other-nations-have-to-protect-hormuz-from-iran?traffic_source=rss",
+      "published": "Sat, 21 Mar 2026 00:00:00 +0000"
     },
     {
       "region": "Свет",
@@ -133,13 +140,6 @@
       "title": "India cooking gas crisis forces exodus of textile workers",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/3/20/india-cooking-gas-crisis-forces-exodus-of-textile-workers?traffic_source=rss",
       "published": "Fri, 20 Mar 2026 21:17:30 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Military movements indicate Trump is considering Iran ground operation",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/20/military-movements-indicate-trump-is-considering-iran-ground-operation?traffic_source=rss",
-      "published": "Fri, 20 Mar 2026 21:05:32 +0000"
     }
   ]
 }
