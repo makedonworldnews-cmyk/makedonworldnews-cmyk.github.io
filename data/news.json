@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-21T16:46:01Z",
+  "updatedAt": "2026-03-21T17:12:58Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Ормутскиот теснец – животна линија за милиони",
+          "link": "https://makfax.com.mk/svet/ormutskiot-tesnecz-zhivotna-linija-za-milioni/",
+          "published": "Sat, 21 Mar 2026 17:11:02 +0000"
         },
         {
           "source": "Makfax",
@@ -35,40 +41,34 @@
           "published": "Sat, 21 Mar 2026 15:02:31 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Владата утре ќе носи мерки за цените на горивата",
-          "link": "https://makfax.com.mk/ekonomija/vladata-utre-ke-nosi-merki-za-czenite-na-gorivata/",
-          "published": "Sat, 21 Mar 2026 14:11:43 +0000"
+          "source": "NetPress",
+          "title": "Пленковиќ смета дека светот е на почетокот на „најголема енергетска криза која ја памети нашата генерација“",
+          "link": "https://netpress.com.mk/plenkovik-smeta-deka-svetot-e-na-pochetokot-na-najgolema-energetska-kriza-koja-ja-pameti-nashata-generaczija/",
+          "published": "Sat, 21 Mar 2026 17:11:13 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Во францускиот Парламент идната недела расправа за кризата на Блискиот Исток",
+          "link": "https://netpress.com.mk/vo-franczuskiot-parlament-idnata-nedela-rasprava-za-krizata-na-bliskiot-istok/",
+          "published": "Sat, 21 Mar 2026 17:01:41 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "ЕУ ги повика земјите-членки да не чекаат да ги наполнат складиштата за гас",
+          "link": "https://netpress.com.mk/eu-gi-povika-zemjite-chlenki-da-ne-chekaat-da-gi-napolnat-skladishtata-za-gas/",
+          "published": "Sat, 21 Mar 2026 16:57:07 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "И покрај фаталните грешки, лекцијата во СДС не е научена",
+          "link": "https://netpress.com.mk/i-pokraj-fatalnite-greshki-lekczijata-vo-sds-ne-e-nauchena-smeta-stoilkovski/",
+          "published": "Sat, 21 Mar 2026 16:54:01 +0000"
         },
         {
           "source": "NetPress",
           "title": "СДС е синоним за корупција и криминал кој допрва треба да се истражи, Филип Андов кој е осуден на затворска казна, се уште е во ИО",
           "link": "https://netpress.com.mk/sds-e-sinonim-za-korupczija-i-kriminal-koj-doprva-treba-da-se-istrazhi-filip-andov-koj-e-osuden-na-zatvorska-kazna-se-ushte-e-vo-io/",
           "published": "Sat, 21 Mar 2026 16:33:20 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Не е идентификувана починатата чии тело е пронајдено во распаѓање во близина на Зрновска",
-          "link": "https://netpress.com.mk/ne-e-identifikuvana-pochinatata-chii-telo-e-pronajdeno-vo-raspagane-vo-blizina-na-zrnovska/",
-          "published": "Sat, 21 Mar 2026 16:25:29 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "За еден ден уапсени 6 лица за семејно насилство",
-          "link": "https://netpress.com.mk/za-eden-den-uapseni-6-licza-za-semejno-nasilstvo/",
-          "published": "Sat, 21 Mar 2026 14:49:24 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Нови цени на дизелот и бензините во понеделник-Владата ќе донесе мерки за ублажување на ценовниот шок",
-          "link": "https://netpress.com.mk/novi-czeni-na-dizelot-i-benzinite-vo-ponedelnik-vladata-ke-donese-merki-za-ublazhuvane-na-czenovniot-shok/",
-          "published": "Sat, 21 Mar 2026 14:44:50 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Осумгодишно дете е тешко повредено, го удрил автомобил на влезот во Конче",
-          "link": "https://netpress.com.mk/osumgodishno-dete-e-teshko-povredeno-go-udril-avtomobil-na-vlezot-vo-konche/",
-          "published": "Sat, 21 Mar 2026 14:33:47 +0000"
         }
       ]
     },
@@ -107,6 +107,18 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Trump threatens to deploy ICE to airports amid Homeland Security shutdown",
+          "link": "https://www.aljazeera.com/news/2026/3/21/trump-threatens-to-deploy-ice-to-airports-amid-homeland-security-shutdown?traffic_source=rss",
+          "published": "Sat, 21 Mar 2026 16:57:54 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Tehran holds Eid prayers as funeral held for IRGC spokesman",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/21/tehran-holds-eid-prayers-as-funeral-held-for-irgc-spokesman?traffic_source=rss",
+          "published": "Sat, 21 Mar 2026 16:20:31 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Bahrain says Patriot system intercepted drone over homes",
           "link": "https://www.aljazeera.com/news/2026/3/21/bahrain-says-patriot-system-intercepted-drone-over-homes?traffic_source=rss",
           "published": "Sat, 21 Mar 2026 16:02:46 +0000"
@@ -122,18 +134,6 @@
           "title": "UK says Iran missile attack on Diego Garcia failed",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/3/21/uk-says-iran-missile-attack-on-diego-garcia-failed?traffic_source=rss",
           "published": "Sat, 21 Mar 2026 15:59:35 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Iranian woman’s video of US-Israel attack ends as bomb hits",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/21/iranian-womans-video-of-us-israel-attack-ends-as-bomb-hits?traffic_source=rss",
-          "published": "Sat, 21 Mar 2026 14:40:33 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Unease in Japan after Trump cites Pearl Harbor to defend Iran war",
-          "link": "https://www.aljazeera.com/news/2026/3/21/unease-in-japan-after-trump-uses-pearl-harbor-to-defend-iran-war?traffic_source=rss",
-          "published": "Sat, 21 Mar 2026 14:34:12 +0000"
         }
       ]
     }
