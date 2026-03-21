@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-21T07:43:56Z",
+  "updatedAt": "2026-03-21T08:00:51Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Израел намерно ги таргетира медицинските објекти, велат либанските здравствени работници",
+          "link": "https://makfax.com.mk/svet/izrael-namerno-gi-targetira-mediczinskite-objekti-velat-libanskite-zdravstveni-rabotniczi/",
+          "published": "Sat, 21 Mar 2026 07:58:09 +0000"
         },
         {
           "source": "Makfax",
@@ -35,10 +41,10 @@
           "published": "Fri, 20 Mar 2026 22:11:31 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Иран: Стармер ги става британските животи во опасност",
-          "link": "https://makfax.com.mk/svet/iran-starmer-gi-stava-britanskite-zhivoti-vo-opasnost/",
-          "published": "Fri, 20 Mar 2026 20:46:44 +0000"
+          "source": "NetPress",
+          "title": "Стармер ги става британските животи во опасност поради одлукaтa за базите, порача Иран",
+          "link": "https://netpress.com.mk/starmer-gi-stava-britanskite-zhivoti-vo-opasnost-poradi-odlukata-za-bazite-poracha-iran/",
+          "published": "Sat, 21 Mar 2026 07:47:32 +0000"
         },
         {
           "source": "NetPress",
@@ -63,12 +69,6 @@
           "title": "Евролига: Резултати",
           "link": "https://netpress.com.mk/evroliga-rezultati-2/",
           "published": "Fri, 20 Mar 2026 23:09:12 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Трамп: САД размислуваат за „постепено намалување“ на операциите против Иран",
-          "link": "https://netpress.com.mk/tramp-sad-razmisluvaat-za-postepeno-namaluvane-na-operacziite-protiv-iran/",
-          "published": "Fri, 20 Mar 2026 22:51:06 +0000"
         }
       ]
     },
