@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-21T02:45:44Z",
+  "updatedAt": "2026-03-21T04:20:32Z",
   "groups": [
     {
       "region": "Македонија",
@@ -89,6 +89,12 @@
         },
         {
           "source": "BBC",
+          "title": "Chuck Norris memes were undefeated for a generation of young fans",
+          "link": "https://www.bbc.com/news/articles/c62541e29z9o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 21 Mar 2026 01:03:01 GMT"
+        },
+        {
+          "source": "BBC",
           "title": "Ukraine-Hungary oil pipeline row threatens EU loan",
           "link": "https://www.bbc.com/news/articles/cr71rkeg7xxo?at_medium=RSS&at_campaign=rss",
           "published": "Fri, 20 Mar 2026 20:16:29 GMT"
@@ -100,10 +106,10 @@
           "published": "Sat, 21 Mar 2026 01:03:36 GMT"
         },
         {
-          "source": "BBC",
-          "title": "Elon Musk misled Twitter investors, jury finds",
-          "link": "https://www.bbc.com/news/articles/c62j3yl842eo?at_medium=RSS&at_campaign=rss",
-          "published": "Fri, 20 Mar 2026 23:44:09 GMT"
+          "source": "Al Jazeera",
+          "title": "Aid flotilla for Cuba sets sail from Mexico",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/21/aid-flotilla-for-cuba-sets-sail-from-mexico?traffic_source=rss",
+          "published": "Sat, 21 Mar 2026 03:31:10 +0000"
         },
         {
           "source": "Al Jazeera",
@@ -128,12 +134,6 @@
           "title": "Pezeshkian says Iran not seeking war with Muslim neighbours",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/3/20/pezeshkian-says-iran-not-seeking-war-with-muslim-neighbours?traffic_source=rss",
           "published": "Fri, 20 Mar 2026 22:58:31 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Colombia’s President Gustavo Petro under investigation in US for drug ties",
-          "link": "https://www.aljazeera.com/news/2026/3/20/colombias-president-gustavo-petro-under-investigation-in-us-for-drug-ties?traffic_source=rss",
-          "published": "Fri, 20 Mar 2026 22:58:09 +0000"
         }
       ]
     }
