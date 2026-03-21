@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-21T08:00:51Z",
+  "updatedAt": "2026-03-21T08:48:54Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Иранските напади врз базите што ги користат САД предизвикаа штета од 800 милиони долари, покажува нова анализа",
+          "link": "https://makfax.com.mk/svet/iranskite-napadi-vrz-bazite-shto-gi-koristat-sad-predizvikaa-shteta-od-800-milioni-dolari-pokazhuva-nova-analiza/",
+          "published": "Sat, 21 Mar 2026 08:46:34 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Путин му порача на Иран: Москва останува верен пријател и доверлив партнер",
+          "link": "https://makfax.com.mk/svet/putin-mu-poracha-na-iran-moskva-ostanuva-veren-prijatel-i-doverliv-partner/",
+          "published": "Sat, 21 Mar 2026 08:36:24 +0000"
         },
         {
           "source": "Makfax",
@@ -29,16 +41,10 @@
           "published": "Sat, 21 Mar 2026 07:13:27 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Променливо облачно време со сончеви периоди",
-          "link": "https://makfax.com.mk/makedonija/promenlivo-oblachno-vreme-so-sonchevi-periodi/",
-          "published": "Sat, 21 Mar 2026 06:57:13 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "(Видео) Без победник во дуелот меѓу Борнмут и Манчестер Јунајтед",
-          "link": "https://makfax.com.mk/sport/video-bez-pobednik-vo-duelot-megu-bornmut-i-manchester-junajted/",
-          "published": "Fri, 20 Mar 2026 22:11:31 +0000"
+          "source": "NetPress",
+          "title": "Федералниот суд пресуди дека Пентагон неуставно ја одзел акредитацијата на некои новинари",
+          "link": "https://netpress.com.mk/federalniot-sud-presudi-deka-pentagon-neustavno-ja-odzel-akreditaczijata-na-nekoi-novinari/",
+          "published": "Sat, 21 Mar 2026 08:07:47 +0000"
         },
         {
           "source": "NetPress",
@@ -63,12 +69,6 @@
           "title": "Времето променливо облачно со слаб северен ветер",
           "link": "https://netpress.com.mk/vremeto-promenlivo-oblachno-so-slab-severen-veter/",
           "published": "Sat, 21 Mar 2026 06:07:51 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Евролига: Резултати",
-          "link": "https://netpress.com.mk/evroliga-rezultati-2/",
-          "published": "Fri, 20 Mar 2026 23:09:12 +0000"
         }
       ]
     },
@@ -107,6 +107,12 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Trump hints at ‘winding down’ Iran war as US deploys more troops to region",
+          "link": "https://www.aljazeera.com/news/2026/3/21/trump-hints-at-winding-down-iran-war-as-us-deploys-more-troops-to-region?traffic_source=rss",
+          "published": "Sat, 21 Mar 2026 08:01:15 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "LIVE: Japan vs Australia – Women’s Asian Cup 2026 final",
           "link": "https://www.aljazeera.com/sports/liveblog/2026/3/21/live-japan-vs-australia-womens-asian-cup-2026-final?traffic_source=rss",
           "published": "Sat, 21 Mar 2026 06:01:04 +0000"
@@ -128,12 +134,6 @@
           "title": "Al Jazeera reporter’s journey from Jordan to Iraq",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/3/21/al-jazeera-reporters-journey-from-jordan-to-iraq?traffic_source=rss",
           "published": "Sat, 21 Mar 2026 01:02:53 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Iran war live: Trump says no ceasefire as Khamenei issues defiant message",
-          "link": "https://www.aljazeera.com/news/liveblog/2026/3/21/iran-war-live-trump-says-other-nations-have-to-protect-hormuz-from-iran?traffic_source=rss",
-          "published": "Sat, 21 Mar 2026 00:00:00 +0000"
         }
       ]
     }
