@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-21T00:01:45Z",
+  "updatedAt": "2026-03-21T02:45:44Z",
   "groups": [
     {
       "region": "Македонија",
@@ -89,21 +89,33 @@
         },
         {
           "source": "BBC",
-          "title": "Norway's crown princess breaks silence, claiming she was 'manipulated and deceived' by Epstein",
-          "link": "https://www.bbc.com/news/articles/cde5y63y3n7o?at_medium=RSS&at_campaign=rss",
-          "published": "Fri, 20 Mar 2026 15:30:28 GMT"
-        },
-        {
-          "source": "BBC",
           "title": "Ukraine-Hungary oil pipeline row threatens EU loan",
           "link": "https://www.bbc.com/news/articles/cr71rkeg7xxo?at_medium=RSS&at_campaign=rss",
           "published": "Fri, 20 Mar 2026 20:16:29 GMT"
         },
         {
           "source": "BBC",
+          "title": "Socialists battle to hold Paris in key mayoral elections across France",
+          "link": "https://www.bbc.com/news/articles/c87wgw27201o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 21 Mar 2026 01:03:36 GMT"
+        },
+        {
+          "source": "BBC",
           "title": "Elon Musk misled Twitter investors, jury finds",
           "link": "https://www.bbc.com/news/articles/c62j3yl842eo?at_medium=RSS&at_campaign=rss",
           "published": "Fri, 20 Mar 2026 23:44:09 GMT"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Al Jazeera reporter’s journey from Jordan to Iraq",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/21/al-jazeera-reporters-journey-from-jordan-to-iraq?traffic_source=rss",
+          "published": "Sat, 21 Mar 2026 01:02:53 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Iran war live: Trump says no ceasefire as Khamenei issues defiant message",
+          "link": "https://www.aljazeera.com/news/liveblog/2026/3/21/iran-war-live-trump-says-other-nations-have-to-protect-hormuz-from-iran?traffic_source=rss",
+          "published": "Sat, 21 Mar 2026 00:00:00 +0000"
         },
         {
           "source": "Al Jazeera",
@@ -122,18 +134,6 @@
           "title": "Colombia’s President Gustavo Petro under investigation in US for drug ties",
           "link": "https://www.aljazeera.com/news/2026/3/20/colombias-president-gustavo-petro-under-investigation-in-us-for-drug-ties?traffic_source=rss",
           "published": "Fri, 20 Mar 2026 22:58:09 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "India cooking gas crisis forces exodus of textile workers",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/20/india-cooking-gas-crisis-forces-exodus-of-textile-workers?traffic_source=rss",
-          "published": "Fri, 20 Mar 2026 21:17:30 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Military movements indicate Trump is considering Iran ground operation",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/20/military-movements-indicate-trump-is-considering-iran-ground-operation?traffic_source=rss",
-          "published": "Fri, 20 Mar 2026 21:05:32 +0000"
         }
       ]
     }
