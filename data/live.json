@@ -1,6 +1,27 @@
 {
-  "generated_at": "2026-03-21T19:40:34Z",
+  "generated_at": "2026-03-21T19:56:11Z",
   "items": [
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "(Видео) Иран го потврди нападот врз Димона, бројот на повредени се искачи на 47",
+      "link": "https://makfax.com.mk/svet/video-iran-go-potvrdi-napadot-vrz-dimona-brojot-na-povredeni-se-iskachi-na-47/",
+      "published": "Sat, 21 Mar 2026 19:53:09 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "Спринтот во Бразил за Марк Маркез, Хорхе Мартин на подиумот по 504 денови",
+      "link": "https://makfax.com.mk/sport/sprintot-vo-brazil-za-mark-markez-horhe-martin-na-podiumot-po-504-denovi/",
+      "published": "Sat, 21 Mar 2026 19:49:32 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "Симон Ехамер постави спектакуларен светски рекорд",
+      "link": "https://makfax.com.mk/sport/simon-ehamer-postavi-spektakularen-svetski-rekord/",
+      "published": "Sat, 21 Mar 2026 19:42:00 +0000"
+    },
     {
       "region": "Македонија",
       "source": "Makfax",
@@ -14,27 +35,6 @@
       "title": "Шест американски услови за мир со Иран",
       "link": "https://makfax.com.mk/svet/shest-amerikanski-uslovi-za-mir-so-iran/",
       "published": "Sat, 21 Mar 2026 19:26:49 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "Makfax",
-      "title": "Иран планира да наплаќа за премин низ Ормутскиот теснец",
-      "link": "https://makfax.com.mk/svet/iran-planira-da-naplaka-za-premin-niz-ormutskiot-tesnecz/",
-      "published": "Sat, 21 Mar 2026 19:22:43 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "Makfax",
-      "title": "(Видео) Голчиште на Павловиќ, Милан го победи Торино",
-      "link": "https://makfax.com.mk/sport/video-golchishte-na-pavlovik-milan-go-pobedi-torino/",
-      "published": "Sat, 21 Mar 2026 19:07:31 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "Makfax",
-      "title": "(Видео) Иран со балистичка ракета го нападна градот каде се наоѓа главниот нуклеарен објект на Израел",
-      "link": "https://makfax.com.mk/svet/video-iran-so-balistichka-raketa-go-napadna-gradot-kade-se-naoga-glavniot-nuklearen-objekt-na-izrael/",
-      "published": "Sat, 21 Mar 2026 18:43:31 +0000"
     },
     {
       "region": "Македонија",
@@ -109,6 +109,13 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "EU urges members to start storing winter gas as Iran war causes price surge",
+      "link": "https://www.aljazeera.com/news/2026/3/21/eu-urges-members-to-start-storing-winter-gas-as-iran-war-causes-price-surge?traffic_source=rss",
+      "published": "Sat, 21 Mar 2026 19:24:11 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "Eid without toys: Israeli restrictions drive up prices in Gaza",
       "link": "https://www.aljazeera.com/features/2026/3/21/eid-without-toys-israeli-restrictions-drive-up-prices-in-gaza?traffic_source=rss",
       "published": "Sat, 21 Mar 2026 18:03:20 +0000"
@@ -123,7 +130,7 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
-      "title": "Former FBI chief, Robert Mueller, dead at 81",
+      "title": "Former FBI chief Robert Mueller, known for Trump investigation, dead at 81",
       "link": "https://www.aljazeera.com/news/2026/3/21/former-fbi-chief-robert-mueller-dead-at-81?traffic_source=rss",
       "published": "Sat, 21 Mar 2026 17:42:27 +0000"
     },
@@ -133,13 +140,6 @@
       "title": "Trump threatens to deploy ICE to airports amid Homeland Security shutdown",
       "link": "https://www.aljazeera.com/news/2026/3/21/trump-threatens-to-deploy-ice-to-airports-amid-homeland-security-shutdown?traffic_source=rss",
       "published": "Sat, 21 Mar 2026 16:57:54 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Tehran holds Eid prayers as funeral held for IRGC spokesman",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/21/tehran-holds-eid-prayers-as-funeral-held-for-irgc-spokesman?traffic_source=rss",
-      "published": "Sat, 21 Mar 2026 16:20:31 +0000"
     }
   ]
 }
