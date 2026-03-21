@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-21T18:52:44Z",
+  "updatedAt": "2026-03-21T19:25:08Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Иран планира да наплаќа за премин низ Ормутскиот теснец",
+          "link": "https://makfax.com.mk/svet/iran-planira-da-naplaka-za-premin-niz-ormutskiot-tesnecz/",
+          "published": "Sat, 21 Mar 2026 19:22:43 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) Голчиште на Павловиќ, Милан го победи Торино",
+          "link": "https://makfax.com.mk/sport/video-golchishte-na-pavlovik-milan-go-pobedi-torino/",
+          "published": "Sat, 21 Mar 2026 19:07:31 +0000"
         },
         {
           "source": "Makfax",
@@ -27,18 +39,6 @@
           "title": "Електрична елеганција и шпански ритам: Промоција на новиот Porsche Macan",
           "link": "https://makfax.com.mk/soopstenija/elektrichna-eleganczija-i-shpanski-ritam-promoczija-na-noviot-porsche-macan/",
           "published": "Sat, 21 Mar 2026 17:52:57 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Ученици од „Партенија Зографски“ во посета на БРАКО – се запознаа со роботско производство и индустриски технологии",
-          "link": "https://makfax.com.mk/soopstenija/ucheniczi-od-partenija-zografski-vo-poseta-na-brako-se-zapoznaa-so-robotsko-proizvodstvo-i-industriski-tehnologii/",
-          "published": "Sat, 21 Mar 2026 17:46:26 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Ормутскиот теснец – животна линија за милиони",
-          "link": "https://makfax.com.mk/svet/ormutskiot-tesnecz-zhivotna-linija-za-milioni/",
-          "published": "Sat, 21 Mar 2026 17:11:02 +0000"
         },
         {
           "source": "NetPress",
@@ -95,7 +95,7 @@
         },
         {
           "source": "BBC",
-          "title": "First photos as BTS make live return in front of huge crowd",
+          "title": "BTS make live return in front of huge crowd",
           "link": "https://www.bbc.com/news/articles/cge0dyjwezgo?at_medium=RSS&at_campaign=rss",
           "published": "Sat, 21 Mar 2026 13:24:34 GMT"
         },
