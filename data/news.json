@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-21T16:00:48Z",
+  "updatedAt": "2026-03-21T16:46:01Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Ова е најлошото глобално енергетско нарушување во историјата, оцени Меѓународната агенција за енергетика",
+          "link": "https://makfax.com.mk/svet/ova-e-najloshoto-globalno-energetsko-narushuvane-vo-istorijata-oczeni-megunarodnata-agenczija-za-energetika/",
+          "published": "Sat, 21 Mar 2026 16:08:52 +0000"
         },
         {
           "source": "Makfax",
@@ -35,10 +41,16 @@
           "published": "Sat, 21 Mar 2026 14:11:43 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Ќе воведеме нови мерки, почнува најголемата енергетска криза, вели хрватскиот премиер",
-          "link": "https://makfax.com.mk/svet/region/ke-vovedeme-novi-merki-pochnuva-najgolemata-energetska-kriza-veli-hrvatskiot-premier/",
-          "published": "Sat, 21 Mar 2026 13:41:06 +0000"
+          "source": "NetPress",
+          "title": "СДС е синоним за корупција и криминал кој допрва треба да се истражи, Филип Андов кој е осуден на затворска казна, се уште е во ИО",
+          "link": "https://netpress.com.mk/sds-e-sinonim-za-korupczija-i-kriminal-koj-doprva-treba-da-se-istrazhi-filip-andov-koj-e-osuden-na-zatvorska-kazna-se-ushte-e-vo-io/",
+          "published": "Sat, 21 Mar 2026 16:33:20 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Не е идентификувана починатата чии тело е пронајдено во распаѓање во близина на Зрновска",
+          "link": "https://netpress.com.mk/ne-e-identifikuvana-pochinatata-chii-telo-e-pronajdeno-vo-raspagane-vo-blizina-na-zrnovska/",
+          "published": "Sat, 21 Mar 2026 16:25:29 +0000"
         },
         {
           "source": "NetPress",
@@ -57,18 +69,6 @@
           "title": "Осумгодишно дете е тешко повредено, го удрил автомобил на влезот во Конче",
           "link": "https://netpress.com.mk/osumgodishno-dete-e-teshko-povredeno-go-udril-avtomobil-na-vlezot-vo-konche/",
           "published": "Sat, 21 Mar 2026 14:33:47 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Контроверзниот Башановиќ бил куќен пријател на Заев и во Грција?",
-          "link": "https://netpress.com.mk/kontroverzniot-bashanovik-bil-kuken-prijatel-na-zaev-i-vo-grczija/",
-          "published": "Sat, 21 Mar 2026 14:30:20 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Пронајдено тело на жена кај Зрновци, неофицијално станува збор за свиреп настан",
-          "link": "https://netpress.com.mk/pronajdeno-telo-na-zhena-kaj-zrnovczi-neoficzijalno-stanuva-zbor-za-svirep-nastan/",
-          "published": "Sat, 21 Mar 2026 14:14:05 +0000"
         }
       ]
     },
@@ -83,6 +83,18 @@
         },
         {
           "source": "BBC",
+          "title": "Thousands evacuated as Hawaii faces worst flooding in 20 years",
+          "link": "https://www.bbc.com/news/articles/c20qj970gwro?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 21 Mar 2026 16:09:50 GMT"
+        },
+        {
+          "source": "BBC",
+          "title": "Pentagon restrictions on press violate First Amendment, judge rules",
+          "link": "https://www.bbc.com/news/articles/cwy3961xdr8o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 21 Mar 2026 16:11:58 GMT"
+        },
+        {
+          "source": "BBC",
           "title": "First photos as BTS make live return in front of huge crowd",
           "link": "https://www.bbc.com/news/articles/cge0dyjwezgo?at_medium=RSS&at_campaign=rss",
           "published": "Sat, 21 Mar 2026 13:24:34 GMT"
@@ -94,16 +106,22 @@
           "published": "Sat, 21 Mar 2026 10:34:53 GMT"
         },
         {
-          "source": "BBC",
-          "title": "Elon Musk misled Twitter investors, jury finds",
-          "link": "https://www.bbc.com/news/articles/c62j3yl842eo?at_medium=RSS&at_campaign=rss",
-          "published": "Fri, 20 Mar 2026 23:44:09 GMT"
+          "source": "Al Jazeera",
+          "title": "Bahrain says Patriot system intercepted drone over homes",
+          "link": "https://www.aljazeera.com/news/2026/3/21/bahrain-says-patriot-system-intercepted-drone-over-homes?traffic_source=rss",
+          "published": "Sat, 21 Mar 2026 16:02:46 +0000"
         },
         {
-          "source": "BBC",
-          "title": "Socialists battle to hold Paris in key mayoral elections across France",
-          "link": "https://www.bbc.com/news/articles/c87wgw27201o?at_medium=RSS&at_campaign=rss",
-          "published": "Sat, 21 Mar 2026 01:03:36 GMT"
+          "source": "Al Jazeera",
+          "title": "Arab states should beware of Israel’s hegemonic energy expansion",
+          "link": "https://www.aljazeera.com/opinions/2026/3/21/arab-states-should-beware-of-israels-hegemonic-energy-expansion?traffic_source=rss",
+          "published": "Sat, 21 Mar 2026 16:01:31 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "UK says Iran missile attack on Diego Garcia failed",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/21/uk-says-iran-missile-attack-on-diego-garcia-failed?traffic_source=rss",
+          "published": "Sat, 21 Mar 2026 15:59:35 +0000"
         },
         {
           "source": "Al Jazeera",
@@ -116,24 +134,6 @@
           "title": "Unease in Japan after Trump cites Pearl Harbor to defend Iran war",
           "link": "https://www.aljazeera.com/news/2026/3/21/unease-in-japan-after-trump-uses-pearl-harbor-to-defend-iran-war?traffic_source=rss",
           "published": "Sat, 21 Mar 2026 14:34:12 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Japan beat Australia to lift Women’s Asian Cup title",
-          "link": "https://www.aljazeera.com/sports/2026/3/21/japan-beat-australia-to-lift-womens-asian-cup-title?traffic_source=rss",
-          "published": "Sat, 21 Mar 2026 11:57:41 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Iran says US and Israel attacked Natanz nuclear facility",
-          "link": "https://www.aljazeera.com/news/2026/3/21/iran-says-us-and-israel-attacked-natanz-nuclear-facility?traffic_source=rss",
-          "published": "Sat, 21 Mar 2026 11:32:54 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "US jury finds Elon Musk misled investors during Twitter purchase",
-          "link": "https://www.aljazeera.com/news/2026/3/21/us-jury-finds-elon-musk-misled-investors-during-twitter-purchase?traffic_source=rss",
-          "published": "Sat, 21 Mar 2026 11:18:31 +0000"
         }
       ]
     }
