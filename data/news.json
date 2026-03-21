@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-21T11:39:49Z",
+  "updatedAt": "2026-03-21T11:55:22Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Словенија може да ограничи точење гориво за странци",
+          "link": "https://makfax.com.mk/svet/evropa/slovenija-mozhe-da-ogranichi-tochene-gorivo-za-stranczi/",
+          "published": "Sat, 21 Mar 2026 11:50:57 +0000"
         },
         {
           "source": "Makfax",
@@ -33,12 +39,6 @@
           "title": "МААЕ повика на воздржаност по нападите врз ирански нуклеарен објект",
           "link": "https://makfax.com.mk/svet/maae-povika-na-vozdrzhanost-po-napadite-vrz-iranski-nuklearen-objekt/",
           "published": "Sat, 21 Mar 2026 11:22:02 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Обединетите Арапски Емирати пресретнаа ирански балистички ракети и дронови",
-          "link": "https://makfax.com.mk/svet/obedinetite-arapski-emirati-presretnaa-iranski-balistichki-raketi-i-dronovi/",
-          "published": "Sat, 21 Mar 2026 11:16:30 +0000"
         },
         {
           "source": "NetPress",
@@ -107,6 +107,12 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Iran says US and Israel attacked Natanz nuclear facility",
+          "link": "https://www.aljazeera.com/news/2026/3/21/iran-says-us-and-israel-attacked-natanz-nuclear-facility?traffic_source=rss",
+          "published": "Sat, 21 Mar 2026 11:32:54 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "US jury finds Elon Musk misled investors during Twitter purchase",
           "link": "https://www.aljazeera.com/news/2026/3/21/us-jury-finds-elon-musk-misled-investors-during-twitter-purchase?traffic_source=rss",
           "published": "Sat, 21 Mar 2026 11:18:31 +0000"
@@ -128,12 +134,6 @@
           "title": "Lin Yu-ting cleared to return to boxing after sex eligibility review",
           "link": "https://www.aljazeera.com/sports/2026/3/21/olympic-champion-lin-yu-ting-cleared-to-return-to-boxing-after-sex-eligibility-review?traffic_source=rss",
           "published": "Sat, 21 Mar 2026 10:40:59 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "‘I have fought for Aaron’: A Ugandan mother confronts disability and stigma",
-          "link": "https://www.aljazeera.com/features/longform/2026/3/21/i-have-fought-for-aaron-a-ugandan-mother-confronts-disability-and-stigma?traffic_source=rss",
-          "published": "Sat, 21 Mar 2026 09:42:23 +0000"
         }
       ]
     }
