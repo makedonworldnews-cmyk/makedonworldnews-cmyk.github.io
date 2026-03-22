@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-22T07:06:05Z",
+  "updatedAt": "2026-03-22T07:48:16Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,24 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Иран му одговори на Трамп: Ако се оствари заканата, ќе ги нападнеме постројките за десалинизација",
+          "link": "https://makfax.com.mk/svet/iran-mu-odgovori-na-tramp-ako-se-ostvari-zakanata-ke-gi-napadneme-postrojkite-za-desalinizaczija/",
+          "published": "Sun, 22 Mar 2026 07:43:25 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Трамп му се закани на Иран: Ако за 48 часа не го отворите Ормутскиот теснец, ќе ви ги уништиме електраните",
+          "link": "https://makfax.com.mk/svet/tramp-mu-se-zakani-na-iran-ako-za-48-chasa-ne-go-otvorite-ormutskiot-tesnecz-ke-vi-gi-unishtime-elektranite/",
+          "published": "Sun, 22 Mar 2026 07:24:36 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Куба повторно во мрак: втор колапс на електросистемот за една недела",
+          "link": "https://makfax.com.mk/svet/kuba-povtorno-vo-mrak-vtor-kolaps-na-elektrosistemot-za-edna-nedela/",
+          "published": "Sun, 22 Mar 2026 07:10:11 +0000"
         },
         {
           "source": "Makfax",
@@ -23,52 +41,34 @@
           "published": "Sat, 21 Mar 2026 20:35:55 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "МААЕ: Нема штета на нуклеарниот центар по нападот врз  Димона",
-          "link": "https://makfax.com.mk/svet/maae-nema-shteta-na-nuklearniot-czentar-po-napadot-vrz-dimona/",
-          "published": "Sat, 21 Mar 2026 20:19:35 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Иран најави ноќна ракетна офанзива, Израел ги активира новите воени планови",
-          "link": "https://makfax.com.mk/svet/iran-najavi-nokna-raketna-ofanziva-izrael-gi-aktivira-novite-voeni-planovi/",
-          "published": "Sat, 21 Mar 2026 20:09:09 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "(Видео) Иран го потврди нападот врз Димона, бројот на повредени се искачи на 47",
-          "link": "https://makfax.com.mk/svet/video-iran-go-potvrdi-napadot-vrz-dimona-brojot-na-povredeni-se-iskachi-na-47/",
-          "published": "Sat, 21 Mar 2026 19:53:09 +0000"
+          "source": "NetPress",
+          "title": "Судан: Над 60 убиени во напад врз болница",
+          "link": "https://netpress.com.mk/sudan-nad-60-ubieni-vo-napad-vrz-bolnicza/",
+          "published": "Sun, 22 Mar 2026 07:47:12 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Лондон вели дека неговите бази на Кипар нема да се користат за офанзивни дејства против Иран",
-          "link": "https://netpress.com.mk/london-veli-deka-negovite-bazi-na-kipar-nema-da-se-koristat-za-ofanzivni-dejstva-protiv-iran/",
-          "published": "Sat, 21 Mar 2026 21:55:13 +0000"
+          "title": "Трамп се закани на Иран: Ако за 48 часа не го отворите Ормутскиот теснец, ќе ви ги уништиме електраните",
+          "link": "https://netpress.com.mk/tramp-se-zakani-na-iran-ako-za-48-chasa-ne-go-otvorite-ormutskiot-tesnecz-ke-vi-gi-unishtime-elektranite/",
+          "published": "Sun, 22 Mar 2026 07:45:17 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Трамп има 6 услови за крај на војната,",
-          "link": "https://netpress.com.mk/tramp-ima-6-uslovi-za-kraj-na-vojnata/",
-          "published": "Sat, 21 Mar 2026 21:54:32 +0000"
+          "title": "Словенија денес гласа, либералите и десницата во тесна трка",
+          "link": "https://netpress.com.mk/slovenija-denes-glasa-liberalite-i-desniczata-vo-tesna-trka/",
+          "published": "Sun, 22 Mar 2026 07:39:44 +0000"
         },
         {
           "source": "NetPress",
-          "title": "ВИДЕО| Израелската армија го потврди иранскиот напад врз нуклеарен објект во градот Домона",
-          "link": "https://netpress.com.mk/video-izraelskata-armija-go-potvrdi-iranskiot-napad-vrz-nuklearen-objekt-vo-gradot-domona/",
-          "published": "Sat, 21 Mar 2026 21:07:35 +0000"
+          "title": "ЛА Лејкерс со тројка на 0,6 секунди до крајот славеше против Орландо",
+          "link": "https://netpress.com.mk/la-lejkers-so-trojka-na-06-sekundi-do-krajot-slaveshe-protiv-orlando/",
+          "published": "Sun, 22 Mar 2026 07:37:08 +0000"
         },
         {
           "source": "NetPress",
-          "title": "„Новите тактики и системи за лансирање“ ќе ги шокираат САД и Израел",
-          "link": "https://netpress.com.mk/novite-taktiki-i-sistemi-za-lansirane-ke-gi-shokiraat-sad-i-izrael/",
-          "published": "Sat, 21 Mar 2026 21:02:22 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "За еден месец потрошени 5 милиони евра во ФФМ, имало 30.000 фантомски играчи?",
-          "link": "https://netpress.com.mk/za-eden-mesecz-potrosheni-5-milioni-evra-vo-ffm-imalo-30-000-fantomski-igrachi/",
-          "published": "Sat, 21 Mar 2026 20:56:19 +0000"
+          "title": "Дневен хороскоп за недела, 22-ри март 2026-та",
+          "link": "https://netpress.com.mk/dneven-horoskop-za-nedela-22-ri-mart-2026-ta/",
+          "published": "Sun, 22 Mar 2026 07:27:06 +0000"
         }
       ]
     },
@@ -77,15 +77,21 @@
       "items": [
         {
           "source": "BBC",
-          "title": "Iranian strike hits near Israeli nuclear facility after Tehran says its site targeted",
+          "title": "Iranian missiles injure 160 in towns near Israeli nuclear site",
           "link": "https://www.bbc.com/news/articles/c9qdvnv13qdo?at_medium=RSS&at_campaign=rss",
-          "published": "Sat, 21 Mar 2026 23:01:07 GMT"
+          "published": "Sun, 22 Mar 2026 07:39:50 GMT"
         },
         {
           "source": "BBC",
-          "title": "Trump at a crossroads as US weighs tough options in Iran",
-          "link": "https://www.bbc.com/news/articles/clyxv87zwwpo?at_medium=RSS&at_campaign=rss",
-          "published": "Sun, 22 Mar 2026 00:50:43 GMT"
+          "title": "Socialists battle to hold Paris as France holds mayoral elections",
+          "link": "https://www.bbc.com/news/articles/c87wgw27201o?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 22 Mar 2026 07:08:59 GMT"
+        },
+        {
+          "source": "BBC",
+          "title": "Did Australia's under-16s social media ban work?",
+          "link": "https://www.bbc.com/news/videos/cq8g9y5x1llo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 21 Mar 2026 19:06:39 GMT"
         },
         {
           "source": "BBC",
@@ -100,10 +106,10 @@
           "published": "Sun, 22 Mar 2026 01:04:57 GMT"
         },
         {
-          "source": "BBC",
-          "title": "Russian drone attack kills two in Ukraine ahead of talks in US, officials say",
-          "link": "https://www.bbc.com/news/articles/crl18nwjzzzo?at_medium=RSS&at_campaign=rss",
-          "published": "Sat, 21 Mar 2026 19:39:57 GMT"
+          "source": "Al Jazeera",
+          "title": "Drone footage captures flooding across Oahu, Hawaii",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/22/drone-footage-captures-flooding-across-oahu-hawaii?traffic_source=rss",
+          "published": "Sun, 22 Mar 2026 07:06:48 +0000"
         },
         {
           "source": "Al Jazeera",
@@ -128,12 +134,6 @@
           "title": "What we know about Iran’s latest attacks on Israel",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/3/22/what-we-know-about-irans-latest-attacks-on-israel?traffic_source=rss",
           "published": "Sun, 22 Mar 2026 02:19:22 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Will the Houthis join Iran in war against Israel and the US?",
-          "link": "https://www.aljazeera.com/video/inside-story/2026/3/22/will-the-houthis-join-iran-in-war-against-israel-and-the-us?traffic_source=rss",
-          "published": "Sun, 22 Mar 2026 01:22:48 +0000"
         }
       ]
     }
