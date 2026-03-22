@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-22T06:04:43Z",
+  "updatedAt": "2026-03-22T07:06:05Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Променливо облачно време со сончеви периоди",
+          "link": "https://makfax.com.mk/makedonija/promenlivo-oblachno-vreme-so-sonchevi-periodi-2/",
+          "published": "Sun, 22 Mar 2026 07:00:56 +0000"
         },
         {
           "source": "Makfax",
@@ -33,12 +39,6 @@
           "title": "(Видео) Иран го потврди нападот врз Димона, бројот на повредени се искачи на 47",
           "link": "https://makfax.com.mk/svet/video-iran-go-potvrdi-napadot-vrz-dimona-brojot-na-povredeni-se-iskachi-na-47/",
           "published": "Sat, 21 Mar 2026 19:53:09 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Спринтот во Бразил за Марк Маркез, Хорхе Мартин на подиумот по 504 денови",
-          "link": "https://makfax.com.mk/sport/sprintot-vo-brazil-za-mark-markez-horhe-martin-na-podiumot-po-504-denovi/",
-          "published": "Sat, 21 Mar 2026 19:49:32 +0000"
         },
         {
           "source": "NetPress",
