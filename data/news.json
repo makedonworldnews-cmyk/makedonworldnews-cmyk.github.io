@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-22T15:13:13Z",
+  "updatedAt": "2026-03-22T15:44:11Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,24 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Иран: Енергетските објекти во земјите со американски бази ќе станат „легитимни“ цели, ако Трамп ги оствари заканите",
+          "link": "https://makfax.com.mk/svet/iran-energetskite-objekti-vo-zemjite-so-amerikanski-bazi-ke-stanat-legitimni-czeli-ako-tramp-gi-ostvari-zakanite/",
+          "published": "Sun, 22 Mar 2026 15:36:58 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Мерц и Трамп разговараа за Иран",
+          "link": "https://makfax.com.mk/svet/mercz-i-tramp-razgovaraa-za-iran/",
+          "published": "Sun, 22 Mar 2026 15:29:39 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) Филипче: Задоцнета и половична мерка на Мицкоски која нема да има ефект",
+          "link": "https://makfax.com.mk/makedonija/video-filipche-zadoczneta-i-polovichna-merka-na-miczkoski-koja-nema-da-ima-efekt/",
+          "published": "Sun, 22 Mar 2026 15:19:12 +0000"
         },
         {
           "source": "Makfax",
@@ -23,22 +41,10 @@
           "published": "Sun, 22 Mar 2026 14:36:35 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Австралиецот Мекивој најбрз во историјата",
-          "link": "https://makfax.com.mk/sport/avstralieczot-mekivoj-najbrz-vo-istorijata/",
-          "published": "Sun, 22 Mar 2026 14:35:31 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "(Видео) Комо со „петарда“ ја испрати Пиза",
-          "link": "https://makfax.com.mk/sport/video-komo-so-petarda-ja-isprati-piza/",
-          "published": "Sun, 22 Mar 2026 14:29:57 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "(Видео) Страшен судир: Велосипедистка прелета преку оградата",
-          "link": "https://makfax.com.mk/sport/video-strashen-sudir-velosipedistka-preleta-preku-ogradata/",
-          "published": "Sun, 22 Mar 2026 14:22:31 +0000"
+          "source": "NetPress",
+          "title": "Иран му се заканува „на целиот свет“, тврди Нетанјаху и повикува на „поширока коалиција“",
+          "link": "https://netpress.com.mk/iran-mu-se-zakanuva-na-czeliot-svet-tvrdi-netanjahu-i-povikuva-na-poshiroka-koaliczija/",
+          "published": "Sun, 22 Mar 2026 15:37:00 +0000"
         },
         {
           "source": "NetPress",
@@ -63,12 +69,6 @@
           "title": "Доларот ослабе, централните банки на ЕУ и САД ги оставија каматните стапки непроменети",
           "link": "https://netpress.com.mk/dolarot-oslabe-czentralnite-banki-na-eu-i-sad-gi-ostavija-kamatnite-stapki-nepromeneti/",
           "published": "Sun, 22 Mar 2026 14:20:24 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Македонија ќе се бори со Словачка за пласман на СП",
-          "link": "https://netpress.com.mk/makedonija-ke-se-bori-so-slovachka-za-plasman-na-sp/",
-          "published": "Sun, 22 Mar 2026 14:16:32 +0000"
         }
       ]
     },
@@ -107,6 +107,12 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Trump’s changing messages on Iran war: What does it say about US strategy?",
+          "link": "https://www.aljazeera.com/news/2026/3/22/trumps-changing-messages-on-iran-war-what-does-it-say-about-us-strategy?traffic_source=rss",
+          "published": "Sun, 22 Mar 2026 14:51:27 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Is Greater Israel already happening on the ground?",
           "link": "https://www.aljazeera.com/video/by-the-numbers-3/2026/3/22/is-greater-israel-already-happening-on-the-ground?traffic_source=rss",
           "published": "Sun, 22 Mar 2026 14:32:36 +0000"
@@ -128,12 +134,6 @@
           "title": "Iran says will hit region’s energy sites if US, Israel target power plants",
           "link": "https://www.aljazeera.com/news/2026/3/22/iran-says-will-hit-regions-energy-sites-if-us-israel-target-power-plants?traffic_source=rss",
           "published": "Sun, 22 Mar 2026 13:42:25 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Hezbollah attack kills one in north Israel as assault on Lebanon continues",
-          "link": "https://www.aljazeera.com/news/2026/3/22/hezbollah-attack-kills-one-in-north-israel-as-assault-on-lebanon-continues?traffic_source=rss",
-          "published": "Sun, 22 Mar 2026 13:09:57 +0000"
         }
       ]
     }
