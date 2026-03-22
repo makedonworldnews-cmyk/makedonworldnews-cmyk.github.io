@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-22T14:48:23Z",
+  "updatedAt": "2026-03-22T15:13:13Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Странци точат до 150.000 литри гориво секој ден во Македонија, Владата засега нема да воведе ограничувања",
+          "link": "https://makfax.com.mk/makedonija/stranczi-tochat-do-150-000-litri-gorivo-sekoj-den-vo-makedonija-vladata-zasega-nema-da-vovede-ogranichuvana/",
+          "published": "Sun, 22 Mar 2026 15:07:18 +0000"
         },
         {
           "source": "Makfax",
@@ -35,10 +41,16 @@
           "published": "Sun, 22 Mar 2026 14:22:31 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "(Видео) Сандрленд со гол во 90-та минута победи кај најголемиот ривал",
-          "link": "https://makfax.com.mk/sport/video-sandrlend-so-gol-vo-90-ta-minuta-pobedi-kaj-najgolemiot-rival/",
-          "published": "Sun, 22 Mar 2026 14:16:31 +0000"
+          "source": "NetPress",
+          "title": "Владата има план и нема да дозволиме било какви осцилации во цените на прехранбените производи, уверува Мицкоски",
+          "link": "https://netpress.com.mk/vladata-ima-plan-i-nema-da-dozvolime-bilo-kakvi-osczilaczii-vo-czenite-na-prehranbenite-proizvodi-uveruva-miczkoski/",
+          "published": "Sun, 22 Mar 2026 14:57:32 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Остар пад на светските берзи трета седмица по ред поради растот на цените на нафтата",
+          "link": "https://netpress.com.mk/ostar-pad-na-svetskite-berzi-treta-sedmicza-po-red-poradi-rastot-na-czenite-na-naftata/",
+          "published": "Sun, 22 Mar 2026 14:54:00 +0000"
         },
         {
           "source": "NetPress",
@@ -57,18 +69,6 @@
           "title": "Македонија ќе се бори со Словачка за пласман на СП",
           "link": "https://netpress.com.mk/makedonija-ke-se-bori-so-slovachka-za-plasman-na-sp/",
           "published": "Sun, 22 Mar 2026 14:16:32 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Разбојништво и два обиди со закана со пиштол на Бит Пазар",
-          "link": "https://netpress.com.mk/razbojnishtvo-i-dva-obidi-so-zakana-so-pishtol-na-bit-pazar/",
-          "published": "Sun, 22 Mar 2026 14:12:35 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Иран се заканува со „неповратна штета“ на инфраструктурата во регионот доколку бидат нападнати неговите централи",
-          "link": "https://netpress.com.mk/iran-se-zakanuva-so-nepovratna-shteta-na-infrastrukturata-vo-regionot-dokolku-bidat-napadnati-negovite-czentrali/",
-          "published": "Sun, 22 Mar 2026 13:59:51 +0000"
         }
       ]
     },
@@ -101,9 +101,21 @@
         },
         {
           "source": "BBC",
-          "title": "Socialists battle to hold Paris as France holds mayoral elections",
-          "link": "https://www.bbc.com/news/articles/c87wgw27201o?at_medium=RSS&at_campaign=rss",
-          "published": "Sun, 22 Mar 2026 07:08:59 GMT"
+          "title": "Russian attacks kill six in Ukraine, officials say",
+          "link": "https://www.bbc.com/news/articles/crl18nwjzzzo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 22 Mar 2026 11:07:06 GMT"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Is Greater Israel already happening on the ground?",
+          "link": "https://www.aljazeera.com/video/by-the-numbers-3/2026/3/22/is-greater-israel-already-happening-on-the-ground?traffic_source=rss",
+          "published": "Sun, 22 Mar 2026 14:32:36 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Canada’s Supreme Court must strike down Quebec’s Bill 21",
+          "link": "https://www.aljazeera.com/opinions/2026/3/22/canadas-supreme-court-must-strike-down-quebecs-bill-21?traffic_source=rss",
+          "published": "Sun, 22 Mar 2026 14:25:45 +0000"
         },
         {
           "source": "Al Jazeera",
@@ -122,18 +134,6 @@
           "title": "Hezbollah attack kills one in north Israel as assault on Lebanon continues",
           "link": "https://www.aljazeera.com/news/2026/3/22/hezbollah-attack-kills-one-in-north-israel-as-assault-on-lebanon-continues?traffic_source=rss",
           "published": "Sun, 22 Mar 2026 13:09:57 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Did Iran launch missiles at US-UK base on Diego Garcia? Here’s what to know",
-          "link": "https://www.aljazeera.com/news/2026/3/22/did-iran-launch-missiles-at-us-uk-base-on-diego-garcia-heres-what-to-know?traffic_source=rss",
-          "published": "Sun, 22 Mar 2026 13:03:57 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Moment Iranian strike hits central Tel Aviv",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/22/moment-iranian-strike-hits-central-tel-aviv?traffic_source=rss",
-          "published": "Sun, 22 Mar 2026 12:37:15 +0000"
         }
       ]
     }
