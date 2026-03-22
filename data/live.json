@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-22T19:35:30Z",
+  "generated_at": "2026-03-22T19:50:23Z",
   "items": [
     {
       "region": "Македонија",
@@ -109,6 +109,13 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "Israeli settlers violently storm through occupied West Bank",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/22/israeli-settlers-violently-storm-through-occupied-west-bank?traffic_source=rss",
+      "published": "Sun, 22 Mar 2026 19:35:29 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "Israel vows to escalate campaign against Hezbollah in Lebanon",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/3/22/israel-vows-to-escalate-campaign-against-hezbollah-in-lebanon?traffic_source=rss",
       "published": "Sun, 22 Mar 2026 19:21:20 +0000"
@@ -133,13 +140,6 @@
       "title": "‘We do it together, in confidence’: Netanyahu backs US strikes on Iran",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/3/22/we-do-it-together-in-confidence-netanyahu-backs-us-strikes-on-iran?traffic_source=rss",
       "published": "Sun, 22 Mar 2026 17:09:18 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "LIVE: Real Madrid vs Atletico Madrid – La Liga",
-      "link": "https://www.aljazeera.com/sports/liveblog/2026/3/22/live-real-madrid-vs-atletico-madrid-la-liga?traffic_source=rss",
-      "published": "Sun, 22 Mar 2026 17:00:00 +0000"
     }
   ]
 }
