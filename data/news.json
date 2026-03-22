@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-22T22:26:56Z",
+  "updatedAt": "2026-03-22T22:53:52Z",
   "groups": [
     {
       "region": "Македонија",
@@ -42,6 +42,12 @@
         },
         {
           "source": "NetPress",
+          "title": "Ла Лига: Реал го доби мадридското дерби, ја одржа разликата зад Барса",
+          "link": "https://netpress.com.mk/la-liga-real-go-dobi-madridskoto-derbi-ja-odrzha-razlikata-zad-barsa/",
+          "published": "Sun, 22 Mar 2026 22:44:33 +0000"
+        },
+        {
+          "source": "NetPress",
           "title": "Серија А: Интер ремизираше во Фиренца",
           "link": "https://netpress.com.mk/serija-a-inter-remizirashe-vo-firencza/",
           "published": "Sun, 22 Mar 2026 22:18:50 +0000"
@@ -63,12 +69,6 @@
           "title": "ВИДЕО I Во Тирана летаа молотови коктели кон Владата",
           "link": "https://netpress.com.mk/video-i-letaa-molotovi-kokteli-kon-vladata-vo-tirana/",
           "published": "Sun, 22 Mar 2026 21:38:28 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Американски WP се вклучи во кампањата против Орбан, го обвини Сијарто дека „со години“ споделувал доверливи податоци од ЕУ со Русија",
-          "link": "https://netpress.com.mk/amerikanski-wp-se-vkluchi-vo-kampanata-protiv-orban-go-obvini-sijarto-deka-so-godini-spodeluval-doverlivi-podatoczi-od-eu-so-rusija/",
-          "published": "Sun, 22 Mar 2026 21:13:00 +0000"
         }
       ]
     },
@@ -79,7 +79,7 @@
           "source": "BBC",
           "title": "Israeli settlers target Palestinian villages in occupied West Bank, attacking people and properties",
           "link": "https://www.bbc.com/news/articles/cew719w80g7o?at_medium=RSS&at_campaign=rss",
-          "published": "Sun, 22 Mar 2026 21:52:28 GMT"
+          "published": "Sun, 22 Mar 2026 22:38:24 GMT"
         },
         {
           "source": "BBC",
@@ -107,6 +107,12 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Who’s left running Iran?",
+          "link": "https://www.aljazeera.com/video/inside-story/2026/3/22/whos-left-running-iran?traffic_source=rss",
+          "published": "Sun, 22 Mar 2026 22:14:08 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Slovenia’s Freedom Movement Party takes narrow election lead: Exit poll",
           "link": "https://www.aljazeera.com/news/2026/3/22/slovenias-freedom-movement-party-takes-narrow-election-lead-exit-poll?traffic_source=rss",
           "published": "Sun, 22 Mar 2026 21:22:41 +0000"
@@ -128,12 +134,6 @@
           "title": "Trump sends US immigration agents to airports as shutdown chaos deepens",
           "link": "https://www.aljazeera.com/news/2026/3/22/trump-sends-us-immigration-agents-to-airports-as-shutdown-chaos-deepens?traffic_source=rss",
           "published": "Sun, 22 Mar 2026 20:24:06 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Israeli air strikes on Gaza kill four Palestinians",
-          "link": "https://www.aljazeera.com/news/2026/3/22/israeli-air-strikes-on-gaza-kill-four-palestinians?traffic_source=rss",
-          "published": "Sun, 22 Mar 2026 20:17:33 +0000"
         }
       ]
     }
