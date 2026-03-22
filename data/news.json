@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-22T21:55:05Z",
+  "updatedAt": "2026-03-22T22:26:56Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,24 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) Сомнителен пенал го раздвижи Реал – „Кралскиот клуб“ го доби градското дерби",
+          "link": "https://makfax.com.mk/sport/video-somnitelen-penal-go-razdvizhi-real-kralskiot-klub-go-dobi-gradskoto-derbi/",
+          "published": "Sun, 22 Mar 2026 22:26:31 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Корда го победи Алкараз",
+          "link": "https://makfax.com.mk/sport/korda-go-pobedi-alkaraz/",
+          "published": "Sun, 22 Mar 2026 22:12:58 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) Нов кикс на Интер, освои само бод во Фиренца",
+          "link": "https://makfax.com.mk/sport/video-nov-kiks-na-inter-osvoi-samo-bod-vo-firencza/",
+          "published": "Sun, 22 Mar 2026 22:08:01 +0000"
         },
         {
           "source": "Makfax",
@@ -23,22 +41,16 @@
           "published": "Sun, 22 Mar 2026 18:39:56 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Руте ја поддржува воената стратегија на Трамп против Иран, ги повикува сојузниците на единство",
-          "link": "https://makfax.com.mk/svet/rute-ja-poddrzhuva-voenata-strategija-na-tramp-protiv-iran-gi-povikuva-sojuzniczite-na-edinstvo/",
-          "published": "Sun, 22 Mar 2026 18:21:56 +0000"
+          "source": "NetPress",
+          "title": "Серија А: Интер ремизираше во Фиренца",
+          "link": "https://netpress.com.mk/serija-a-inter-remizirashe-vo-firencza/",
+          "published": "Sun, 22 Mar 2026 22:18:50 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "(Видео) Либанскиот претседател: Рушењето на мостовите од страна на Израел може да биде подготовка за копнена инвазија",
-          "link": "https://makfax.com.mk/svet/libanskiot-pretsedatel-rusheneto-na-mostovite-od-strana-na-izrael-mozhe-da-bide-podgotovka-za-kopnena-invazija/",
-          "published": "Sun, 22 Mar 2026 17:38:30 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Епски пресврт на Алавес, на „Балаидос“ во Виго",
-          "link": "https://makfax.com.mk/sport/epski-presvrt-na-alaves-na-balaidos-vo-vigo/",
-          "published": "Sun, 22 Mar 2026 17:33:32 +0000"
+          "source": "NetPress",
+          "title": "Француската крајна десница не успеа да ги освои Марсеј и Тулон, според излезните анкети",
+          "link": "https://netpress.com.mk/franczuskata-krajna-desnicza-ne-uspea-da-gi-osvoi-marsej-i-tulon-spored-izleznite-anketi/",
+          "published": "Sun, 22 Mar 2026 21:57:45 +0000"
         },
         {
           "source": "NetPress",
@@ -57,18 +69,6 @@
           "title": "Американски WP се вклучи во кампањата против Орбан, го обвини Сијарто дека „со години“ споделувал доверливи податоци од ЕУ со Русија",
           "link": "https://netpress.com.mk/amerikanski-wp-se-vkluchi-vo-kampanata-protiv-orban-go-obvini-sijarto-deka-so-godini-spodeluval-doverlivi-podatoczi-od-eu-so-rusija/",
           "published": "Sun, 22 Mar 2026 21:13:00 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Кривични пријави за три угостителски објекти во Аеродром, служеле алкохол на малолетници",
-          "link": "https://netpress.com.mk/krivichni-prijavi-za-tri-ugostitelski-objekti-vo-aerodrom-sluzhele-alkohol-na-maloletniczi/",
-          "published": "Sun, 22 Mar 2026 20:59:37 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Протести во Дамаск против ограничувањата за алкохолот",
-          "link": "https://netpress.com.mk/protesti-vo-damask-protiv-ogranichuvanata-za-alkoholot/",
-          "published": "Sun, 22 Mar 2026 20:36:26 +0000"
         }
       ]
     },
