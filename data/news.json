@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-22T10:59:26Z",
+  "updatedAt": "2026-03-22T11:32:26Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,24 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) Иран тврди дека соборил американски борбен авион Ф-15 во близина на Ормутскиот теснец",
+          "link": "https://makfax.com.mk/svet/video-iran-tvrdi-deka-soboril-amerikanski-borben-avion-f-15-vo-blizina-na-ormutskiot-tesnecz/",
+          "published": "Sun, 22 Mar 2026 11:24:32 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Иран ја отфрли понудата на САД за укинување на санкциите за нафта: „Жалимe – распродадена ни е“",
+          "link": "https://makfax.com.mk/svet/iran-ja-otfrli-ponudata-na-sad-za-ukinuvane-na-sankcziite-za-nafta-zhalime-rasprodadena-ni-e/",
+          "published": "Sun, 22 Mar 2026 11:21:01 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Николоски: Штип и источниот дел на Македонија добиваат прво туристичко вештачко езеро, ќе биде завршено во 2027",
+          "link": "https://makfax.com.mk/makedonija/nikoloski-shtip-i-istochniot-del-na-makedonija-dobivaat-prvo-turistichko-veshtachko-ezero-ke-bide-zavrsheno-vo-2027/",
+          "published": "Sun, 22 Mar 2026 11:11:36 +0000"
         },
         {
           "source": "Makfax",
@@ -23,22 +41,16 @@
           "published": "Sun, 22 Mar 2026 10:23:33 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Зеленски: Војната на САД и Израел со Иран го одвлекува вниманието од Украина",
-          "link": "https://makfax.com.mk/svet/zelenski-vojnata-na-sad-i-izrael-so-iran-go-odvlekuva-vnimanieto-od-ukraina/",
-          "published": "Sun, 22 Mar 2026 10:19:07 +0000"
+          "source": "NetPress",
+          "title": "Николоски: Изградени 70 проценти од браната Отиња",
+          "link": "https://netpress.com.mk/nikoloski-izgradeni-70-proczenti-od-branata-otina/",
+          "published": "Sun, 22 Mar 2026 11:06:27 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "(Видео) Израел нареди брзо рушење на куќи и мостови во Либан",
-          "link": "https://makfax.com.mk/svet/video-izrael-naredi-brzo-rushene-na-kuki-i-mostovi-vo-liban/",
-          "published": "Sun, 22 Mar 2026 10:14:07 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Ај медија: Нема соработка со СДСМ, ниту со Зоран Башановиќ",
-          "link": "https://makfax.com.mk/makedonija/aj-medija-nema-sorabotka-so-sdsm-nitu-so-zoran-bashanovik/",
-          "published": "Sun, 22 Mar 2026 09:56:39 +0000"
+          "source": "NetPress",
+          "title": "СДС не негираше дека има соработка со Милјан Шчекиќ и Башановиќ",
+          "link": "https://netpress.com.mk/sds-ne-negirashe-deka-ima-sorabotka-so-miljan-shchekik-i-bashanovik/",
+          "published": "Sun, 22 Mar 2026 11:03:36 +0000"
         },
         {
           "source": "NetPress",
@@ -57,18 +69,6 @@
           "title": "Разговорите со американските претставници ќе продолжат денеска",
           "link": "https://netpress.com.mk/razgovorite-so-amerikanskite-pretstavniczi-ke-prodolzhat-deneska/",
           "published": "Sun, 22 Mar 2026 10:38:30 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Израелски доселеници напаѓаат села на Западниот брег, палат куќи и возила",
-          "link": "https://netpress.com.mk/izraelski-doseleniczi-napagaat-sela-na-zapadniot-breg-palat-kuki-i-vozila/",
-          "published": "Sun, 22 Mar 2026 10:36:13 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "НБА: 11-та последователна победа на Оклахома, деветта на Лејкерс",
-          "link": "https://netpress.com.mk/nba-11-ta-posledovatelna-pobeda-na-oklahoma-devetta-na-lejkers/",
-          "published": "Sun, 22 Mar 2026 10:21:54 +0000"
         }
       ]
     },
@@ -107,6 +107,18 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Aftermath of Iranian missile strikes near Israel’s nuclear facility",
+          "link": "https://www.aljazeera.com/gallery/2026/3/22/aftermath-of-iranian-missiles-strikes-near-israels-nuclear-centre?traffic_source=rss",
+          "published": "Sun, 22 Mar 2026 10:34:48 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Lebanese nurse refuses to leave her post at hospital despite loses",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/22/lebanese-nurse-refuses-to-leave-her-post-at-hospital-despite-loses?traffic_source=rss",
+          "published": "Sun, 22 Mar 2026 10:34:37 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "‘The United States doesn’t even pretend to be within international law’",
           "link": "https://www.aljazeera.com/video/quotable/2026/3/22/the-united-states-doesnt-even-pretend-to-be-within-international?traffic_source=rss",
           "published": "Sun, 22 Mar 2026 10:11:42 +0000"
@@ -122,18 +134,6 @@
           "title": "Israeli firefighters battle vehicles blaze after missile attack from Lebano",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/3/22/israeli-firefighters-battle-vehicles-blaze-after-missile-attack-from-lebano?traffic_source=rss",
           "published": "Sun, 22 Mar 2026 09:54:51 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Woman confronts Ben-Gvir at site of Iranian missile strike",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/22/woman-confronts-ben-gvir-at-site-of-iranian-missile-strike?traffic_source=rss",
-          "published": "Sun, 22 Mar 2026 09:09:43 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Why the world should worry about Israel’s nuclear doctrine",
-          "link": "https://www.aljazeera.com/opinions/2026/3/22/why-the-world-should-worry-about-israels-nuclear-doctrine?traffic_source=rss",
-          "published": "Sun, 22 Mar 2026 09:01:21 +0000"
         }
       ]
     }
