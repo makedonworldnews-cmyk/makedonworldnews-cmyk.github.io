@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-22T18:01:10Z",
+  "updatedAt": "2026-03-22T18:54:06Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,24 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Априлија го освои Бразил – Бецеки победи пред Мартин",
+          "link": "https://makfax.com.mk/sport/aprilija-go-osvoi-brazil-beczeki-pobedi-pred-martin/",
+          "published": "Sun, 22 Mar 2026 18:54:05 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) О’Рајли херој, Сити лесно го победи Арсенал и го освои Лига Купот",
+          "link": "https://makfax.com.mk/sport/video-orajli-heroj-siti-lesno-go-pobedi-arsenal-i-go-osvoi-liga-kupot/",
+          "published": "Sun, 22 Mar 2026 18:39:56 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Руте ја поддржува воената стратегија на Трамп против Иран, ги повикува сојузниците на единство",
+          "link": "https://makfax.com.mk/svet/rute-ja-poddrzhuva-voenata-strategija-na-tramp-protiv-iran-gi-povikuva-sojuzniczite-na-edinstvo/",
+          "published": "Sun, 22 Mar 2026 18:21:56 +0000"
         },
         {
           "source": "Makfax",
@@ -23,22 +41,16 @@
           "published": "Sun, 22 Mar 2026 17:33:32 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "(Видео) Тотенхем уште еднаш се изрезили, Форест убедливо победи во Лондон",
-          "link": "https://makfax.com.mk/sport/video-totenhem-ushte-ednash-se-izrezili-forest-ubedlivo-pobedi-vo-london/",
-          "published": "Sun, 22 Mar 2026 16:57:57 +0000"
+          "source": "NetPress",
+          "title": "Иран започна нови напади врз земјите од Персискиот залив",
+          "link": "https://netpress.com.mk/iran-zapochna-novi-napadi-vrz-zemjite-od-persiskiot-zaliv/",
+          "published": "Sun, 22 Mar 2026 18:13:38 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "ВМРО-ДПМНЕ: Филипче против тоа граѓаните да заштедат пари, тој е синоним за најнеуспешната влада на Заев",
-          "link": "https://makfax.com.mk/makedonija/vmro-dpmne-filipche-protiv-toa-graganite-da-zashtedat-pari-toj-e-sinonim-za-najneuspeshnata-vlada-na-zaev/",
-          "published": "Sun, 22 Mar 2026 16:20:58 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Брз преглед на 23-тиот ден од војната меѓу САД и Израел со Иран",
-          "link": "https://makfax.com.mk/svet/brz-pregled-na-23-tiot-den-od-vojnata-megu-sad-i-izrael-so-iran/",
-          "published": "Sun, 22 Mar 2026 16:09:23 +0000"
+          "source": "NetPress",
+          "title": "ВИДЕО I Браната во изградба на реката Отиња кај Штип во завршна фаза",
+          "link": "https://netpress.com.mk/video-i-branata-vo-izgradba-na-rekata-otina-kaj-shtip-vo-zavrshna-faza/",
+          "published": "Sun, 22 Mar 2026 18:13:11 +0000"
         },
         {
           "source": "NetPress",
@@ -57,18 +69,6 @@
           "title": "Тешко повредена млада велосипедистка, ја удрил автомобил",
           "link": "https://netpress.com.mk/teshko-povredena-mlada-velosipedistka-ja-udril-avtomobil/",
           "published": "Sun, 22 Mar 2026 16:42:42 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Муцунски во работна посета на Брисел, најавена средба со еврокомесарката Кос",
-          "link": "https://netpress.com.mk/muczunski-vo-rabotna-poseta-na-brisel-najavena-sredba-so-evrokomesarkata-kos/",
-          "published": "Sun, 22 Mar 2026 16:40:04 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Скот Бесант тврди – САД имаат доволно пари за војна со Иран",
-          "link": "https://netpress.com.mk/skot-besant-tvrdi-sad-imaat-dovolno-pari-za-vojna-so-iran/",
-          "published": "Sun, 22 Mar 2026 16:35:42 +0000"
         }
       ]
     },
@@ -79,7 +79,7 @@
           "source": "BBC",
           "title": "Israeli settlers target Palestinian villages in occupied West Bank, attacking people and properties",
           "link": "https://www.bbc.com/news/articles/cew719w80g7o?at_medium=RSS&at_campaign=rss",
-          "published": "Sun, 22 Mar 2026 17:57:48 GMT"
+          "published": "Sun, 22 Mar 2026 18:37:07 GMT"
         },
         {
           "source": "BBC",
