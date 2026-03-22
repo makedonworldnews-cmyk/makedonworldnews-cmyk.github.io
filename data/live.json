@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-22T01:25:44Z",
+  "generated_at": "2026-03-22T03:58:42Z",
   "items": [
     {
       "region": "Македонија",
@@ -88,23 +88,44 @@
     {
       "region": "Свет",
       "source": "BBC",
+      "title": "National blackout hits Cuba for second time in a week",
+      "link": "https://www.bbc.com/news/articles/cvg0l44yxrvo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 22 Mar 2026 02:02:40 GMT"
+    },
+    {
+      "region": "Свет",
+      "source": "BBC",
+      "title": "Robert Mueller, ex-FBI chief who led Trump-Russia investigation, dies at 81",
+      "link": "https://www.bbc.com/news/articles/c8dlj6gv0q6o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 22 Mar 2026 01:04:57 GMT"
+    },
+    {
+      "region": "Свет",
+      "source": "BBC",
       "title": "Russian drone attack kills two in Ukraine ahead of talks in US, officials say",
       "link": "https://www.bbc.com/news/articles/crl18nwjzzzo?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 21 Mar 2026 19:39:57 GMT"
     },
     {
       "region": "Свет",
-      "source": "BBC",
-      "title": "Trump threatens to send ICE into airports unless funding deal reached",
-      "link": "https://www.bbc.com/news/articles/c3ex9nq2qywo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 21 Mar 2026 20:22:10 GMT"
+      "source": "Al Jazeera",
+      "title": "What we know about Iran’s latest attacks on Israel",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/22/what-we-know-about-irans-latest-attacks-on-israel?traffic_source=rss",
+      "published": "Sun, 22 Mar 2026 02:19:22 +0000"
     },
     {
       "region": "Свет",
-      "source": "BBC",
-      "title": "Thousands evacuated as Hawaii faces worst flooding in 20 years",
-      "link": "https://www.bbc.com/news/articles/c20qj970gwro?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 21 Mar 2026 22:01:45 GMT"
+      "source": "Al Jazeera",
+      "title": "Will the Houthis join Iran in war against Israel and the US?",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/3/22/will-the-houthis-join-iran-in-war-against-israel-and-the-us?traffic_source=rss",
+      "published": "Sun, 22 Mar 2026 01:22:48 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Trump issues 48-hour Hormuz Strait ultimatum, threatens Iran power plants",
+      "link": "https://www.aljazeera.com/news/2026/3/22/trump-issues-48-hour-hormuz-strait-ultimatum-threatens-iran-power-plants?traffic_source=rss",
+      "published": "Sun, 22 Mar 2026 01:16:57 +0000"
     },
     {
       "region": "Свет",
@@ -119,27 +140,6 @@
       "title": "‘They want to colonise us’: Brazil’s Lula warns of foreign interference",
       "link": "https://www.aljazeera.com/news/2026/3/21/they-want-to-colonise-us-brazils-lula-warns-of-foreign-interference?traffic_source=rss",
       "published": "Sat, 21 Mar 2026 23:35:52 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Saudi Arabia expels Iran military attache, four embassy staff",
-      "link": "https://www.aljazeera.com/news/2026/3/21/saudi-arabia-expels-iran-military-attache-and-four-team-members?traffic_source=rss",
-      "published": "Sat, 21 Mar 2026 23:00:56 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Iran strikes towns near Israel’s nuclear site, wounds over 100",
-      "link": "https://www.aljazeera.com/news/2026/3/21/iran-strikes-towns-near-israels-nuclear-site-in-escalating-tit-for-tat?traffic_source=rss",
-      "published": "Sat, 21 Mar 2026 22:57:24 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "WHO says attack on Sudan hospital killed 64, including 13 children",
-      "link": "https://www.aljazeera.com/news/2026/3/21/who-says-attack-on-sudan-hospital-killed-64-including-13-children?traffic_source=rss",
-      "published": "Sat, 21 Mar 2026 22:43:25 +0000"
     }
   ]
 }
