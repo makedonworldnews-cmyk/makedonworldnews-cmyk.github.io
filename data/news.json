@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-22T08:54:07Z",
+  "updatedAt": "2026-03-22T09:34:00Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Словенија воведе ограничување на гориво поради проблеми со снабдувањето",
+          "link": "https://makfax.com.mk/svet/slovenija-vovede-ogranichuvane-na-gorivo-poradi-problemi-so-snabduvaneto/",
+          "published": "Sun, 22 Mar 2026 08:59:44 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "(Фото) Иран објави мапа на цели: „Напад врз нашата енергетска мрежа ќе го потоне регионот во темнина“",
+          "link": "https://makfax.com.mk/top/iran-objavi-mapa-na-czeli-napad-vrz-nashata-energetska-mrezha-ke-go-potone-regionot-vo-temnina/",
+          "published": "Sun, 22 Mar 2026 08:58:02 +0000"
         },
         {
           "source": "Makfax",
@@ -27,18 +39,6 @@
           "title": "Иран може да има поголем дострел од очекуваното, велат експертите",
           "link": "https://makfax.com.mk/svet/iran-mozhe-da-ima-pogolem-dostrel-od-ochekuvanoto-velat-ekspertite/",
           "published": "Sun, 22 Mar 2026 08:43:03 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Кои се клучните електрани во Иран?",
-          "link": "https://makfax.com.mk/svet/koi-se-kluchnite-elektrani-vo-iran/",
-          "published": "Sun, 22 Mar 2026 08:12:44 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Иран му одговори на Трамп: Ако се оствари заканата, ќе ги нападнеме постројките за десалинизација",
-          "link": "https://makfax.com.mk/svet/iran-mu-odgovori-na-tramp-ako-se-ostvari-zakanata-ke-gi-napadneme-postrojkite-za-desalinizaczija/",
-          "published": "Sun, 22 Mar 2026 07:43:25 +0000"
         },
         {
           "source": "NetPress",
@@ -107,33 +107,33 @@
         },
         {
           "source": "Al Jazeera",
-          "title": "Six killed as Qatar army helicopter crashes due to ‘technical malfunction’",
+          "title": "Woman confronts Ben-Gvir at site of Iranian missile strike",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/22/woman-confronts-ben-gvir-at-site-of-iranian-missile-strike?traffic_source=rss",
+          "published": "Sun, 22 Mar 2026 09:09:43 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Why the world should worry about Israel’s nuclear doctrine",
+          "link": "https://www.aljazeera.com/opinions/2026/3/22/why-the-world-should-worry-about-israels-nuclear-doctrine?traffic_source=rss",
+          "published": "Sun, 22 Mar 2026 09:01:21 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Slovenia’s governing liberals face right-wing populists in tight election",
+          "link": "https://www.aljazeera.com/news/2026/3/22/slovenias-governing-liberals-face-right-wing-populists-in-tight-election?traffic_source=rss",
+          "published": "Sun, 22 Mar 2026 08:53:45 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Iran war: What’s happening on day 23 of US-Israel attacks?",
+          "link": "https://www.aljazeera.com/news/2026/3/22/iran-war-whats-happening-on-day-23-of-us-israel-attacks?traffic_source=rss",
+          "published": "Sun, 22 Mar 2026 08:33:28 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Six dead as Qatar military helicopter crashes after ‘technical malfunction’",
           "link": "https://www.aljazeera.com/news/2026/3/22/six-killed-as-qatar-army-helicopter-crashes-due-to-technical-malfunction-2?traffic_source=rss",
           "published": "Sun, 22 Mar 2026 08:27:07 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Ghana pushes for slave trade to be declared a crime against Humanity",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/22/ghana-pushes-for-slave-trade-to-be-declared-a-crime-against-humanity?traffic_source=rss",
-          "published": "Sun, 22 Mar 2026 08:22:02 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "‘I count their breaths’: A homeless mother protects her children in Delhi",
-          "link": "https://www.aljazeera.com/features/longform/2026/3/22/i-count-their-breaths-a-homeless-mother-protects-her-children-in-delhi?traffic_source=rss",
-          "published": "Sun, 22 Mar 2026 08:18:05 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Drone footage shows damage in Arad after overnight Iranian missile attack",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/22/drone-footage-shows-damage-in-arad-after-overnight-iranian-missile-attack?traffic_source=rss",
-          "published": "Sun, 22 Mar 2026 08:11:11 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "‘Can’t live like this’: Cuba hit by second nationwide blackout in a week",
-          "link": "https://www.aljazeera.com/news/2026/3/22/cant-live-like-this-cuba-hit-by-second-nationwide-blackout-in-a-week?traffic_source=rss",
-          "published": "Sun, 22 Mar 2026 07:57:18 +0000"
         }
       ]
     }
