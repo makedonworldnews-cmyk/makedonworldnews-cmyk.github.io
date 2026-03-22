@@ -1,6 +1,20 @@
 {
-  "generated_at": "2026-03-22T14:56:30Z",
+  "generated_at": "2026-03-22T15:22:08Z",
   "items": [
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "(Видео) Филипче: Задоцнета и половична мерка на Мицкоски која нема да има ефект",
+      "link": "https://makfax.com.mk/makedonija/video-filipche-zadoczneta-i-polovichna-merka-na-miczkoski-koja-nema-da-ima-efekt/",
+      "published": "Sun, 22 Mar 2026 15:19:12 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "Странци точат до 150.000 литри гориво секој ден во Македонија, Владата засега нема да воведе ограничувања",
+      "link": "https://makfax.com.mk/makedonija/stranczi-tochat-do-150-000-litri-gorivo-sekoj-den-vo-makedonija-vladata-zasega-nema-da-vovede-ogranichuvana/",
+      "published": "Sun, 22 Mar 2026 15:07:18 +0000"
+    },
     {
       "region": "Македонија",
       "source": "Makfax",
@@ -24,17 +38,10 @@
     },
     {
       "region": "Македонија",
-      "source": "Makfax",
-      "title": "(Видео) Страшен судир: Велосипедистка прелета преку оградата",
-      "link": "https://makfax.com.mk/sport/video-strashen-sudir-velosipedistka-preleta-preku-ogradata/",
-      "published": "Sun, 22 Mar 2026 14:22:31 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "Makfax",
-      "title": "(Видео) Сандрленд со гол во 90-та минута победи кај најголемиот ривал",
-      "link": "https://makfax.com.mk/sport/video-sandrlend-so-gol-vo-90-ta-minuta-pobedi-kaj-najgolemiot-rival/",
-      "published": "Sun, 22 Mar 2026 14:16:31 +0000"
+      "source": "NetPress",
+      "title": "Владата има план и нема да дозволиме било какви осцилации во цените на прехранбените производи, уверува Мицкоски",
+      "link": "https://netpress.com.mk/vladata-ima-plan-i-nema-da-dozvolime-bilo-kakvi-osczilaczii-vo-czenite-na-prehranbenite-proizvodi-uveruva-miczkoski/",
+      "published": "Sun, 22 Mar 2026 14:57:32 +0000"
     },
     {
       "region": "Македонија",
@@ -63,13 +70,6 @@
       "title": "Македонија ќе се бори со Словачка за пласман на СП",
       "link": "https://netpress.com.mk/makedonija-ke-se-bori-so-slovachka-za-plasman-na-sp/",
       "published": "Sun, 22 Mar 2026 14:16:32 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Разбојништво и два обиди со закана со пиштол на Бит Пазар",
-      "link": "https://netpress.com.mk/razbojnishtvo-i-dva-obidi-so-zakana-so-pishtol-na-bit-pazar/",
-      "published": "Sun, 22 Mar 2026 14:12:35 +0000"
     },
     {
       "region": "Свет",
@@ -102,9 +102,16 @@
     {
       "region": "Свет",
       "source": "BBC",
-      "title": "Socialists battle to hold Paris as France holds mayoral elections",
-      "link": "https://www.bbc.com/news/articles/c87wgw27201o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 22 Mar 2026 07:08:59 GMT"
+      "title": "Russian attacks kill six in Ukraine, officials say",
+      "link": "https://www.bbc.com/news/articles/crl18nwjzzzo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 22 Mar 2026 11:07:06 GMT"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Trump’s changing messages on Iran war: What does it say about US strategy?",
+      "link": "https://www.aljazeera.com/news/2026/3/22/trumps-changing-messages-on-iran-war-what-does-it-say-about-us-strategy?traffic_source=rss",
+      "published": "Sun, 22 Mar 2026 14:51:27 +0000"
     },
     {
       "region": "Свет",
@@ -133,13 +140,6 @@
       "title": "Iran says will hit region’s energy sites if US, Israel target power plants",
       "link": "https://www.aljazeera.com/news/2026/3/22/iran-says-will-hit-regions-energy-sites-if-us-israel-target-power-plants?traffic_source=rss",
       "published": "Sun, 22 Mar 2026 13:42:25 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Hezbollah attack kills one in north Israel as assault on Lebanon continues",
-      "link": "https://www.aljazeera.com/news/2026/3/22/hezbollah-attack-kills-one-in-north-israel-as-assault-on-lebanon-continues?traffic_source=rss",
-      "published": "Sun, 22 Mar 2026 13:09:57 +0000"
     }
   ]
 }
