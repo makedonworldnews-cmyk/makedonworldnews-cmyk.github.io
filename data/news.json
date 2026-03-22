@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-22T00:01:01Z",
+  "updatedAt": "2026-03-22T03:19:05Z",
   "groups": [
     {
       "region": "Македонија",
@@ -77,9 +77,27 @@
       "items": [
         {
           "source": "BBC",
+          "title": "Iranian strike hits near Israeli nuclear facility after Tehran says its site targeted",
+          "link": "https://www.bbc.com/news/articles/c9qdvnv13qdo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 21 Mar 2026 23:01:07 GMT"
+        },
+        {
+          "source": "BBC",
           "title": "Trump at a crossroads as US weighs tough options in Iran",
           "link": "https://www.bbc.com/news/articles/clyxv87zwwpo?at_medium=RSS&at_campaign=rss",
-          "published": "Sat, 21 Mar 2026 22:12:04 GMT"
+          "published": "Sun, 22 Mar 2026 00:50:43 GMT"
+        },
+        {
+          "source": "BBC",
+          "title": "National blackout hits Cuba for second time in a week",
+          "link": "https://www.bbc.com/news/articles/cvg0l44yxrvo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 22 Mar 2026 02:02:40 GMT"
+        },
+        {
+          "source": "BBC",
+          "title": "Robert Mueller, ex-FBI chief who led Trump-Russia investigation, dies at 81",
+          "link": "https://www.bbc.com/news/articles/c8dlj6gv0q6o?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 22 Mar 2026 01:04:57 GMT"
         },
         {
           "source": "BBC",
@@ -88,52 +106,34 @@
           "published": "Sat, 21 Mar 2026 19:39:57 GMT"
         },
         {
-          "source": "BBC",
-          "title": "Trump threatens to send ICE into airports unless funding deal reached",
-          "link": "https://www.bbc.com/news/articles/c3ex9nq2qywo?at_medium=RSS&at_campaign=rss",
-          "published": "Sat, 21 Mar 2026 20:22:10 GMT"
+          "source": "Al Jazeera",
+          "title": "What we know about Iran’s latest attacks on Israel",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/22/what-we-know-about-irans-latest-attacks-on-israel?traffic_source=rss",
+          "published": "Sun, 22 Mar 2026 02:19:22 +0000"
         },
         {
-          "source": "BBC",
-          "title": "Thousands evacuated as Hawaii faces worst flooding in 20 years",
-          "link": "https://www.bbc.com/news/articles/c20qj970gwro?at_medium=RSS&at_campaign=rss",
-          "published": "Sat, 21 Mar 2026 22:01:45 GMT"
+          "source": "Al Jazeera",
+          "title": "Will the Houthis join Iran in war against Israel and the US?",
+          "link": "https://www.aljazeera.com/video/inside-story/2026/3/22/will-the-houthis-join-iran-in-war-against-israel-and-the-us?traffic_source=rss",
+          "published": "Sun, 22 Mar 2026 01:22:48 +0000"
         },
         {
-          "source": "BBC",
-          "title": "BTS make live return in front of huge crowd",
-          "link": "https://www.bbc.com/news/articles/cge0dyjwezgo?at_medium=RSS&at_campaign=rss",
-          "published": "Sat, 21 Mar 2026 13:24:34 GMT"
+          "source": "Al Jazeera",
+          "title": "Trump issues 48-hour Hormuz Strait ultimatum, threatens Iran power plants",
+          "link": "https://www.aljazeera.com/news/2026/3/22/trump-issues-48-hour-hormuz-strait-ultimatum-threatens-iran-power-plants?traffic_source=rss",
+          "published": "Sun, 22 Mar 2026 01:16:57 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Iran war live: Trump threatens to attack power plants over Strait of Hormuz",
+          "link": "https://www.aljazeera.com/news/liveblog/2026/3/22/iran-war-live-trump-threatens-attacks-on-power-plants-over-hormuz-strait?traffic_source=rss",
+          "published": "Sun, 22 Mar 2026 00:00:13 +0000"
         },
         {
           "source": "Al Jazeera",
           "title": "‘They want to colonise us’: Brazil’s Lula warns of foreign interference",
           "link": "https://www.aljazeera.com/news/2026/3/21/they-want-to-colonise-us-brazils-lula-warns-of-foreign-interference?traffic_source=rss",
           "published": "Sat, 21 Mar 2026 23:35:52 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Saudi Arabia expels Iran military attache, four embassy staff",
-          "link": "https://www.aljazeera.com/news/2026/3/21/saudi-arabia-expels-iran-military-attache-and-four-team-members?traffic_source=rss",
-          "published": "Sat, 21 Mar 2026 23:00:56 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Iran strikes towns near Israel’s nuclear site in escalating tit-for-tat",
-          "link": "https://www.aljazeera.com/news/2026/3/21/iran-strikes-towns-near-israels-nuclear-site-in-escalating-tit-for-tat?traffic_source=rss",
-          "published": "Sat, 21 Mar 2026 22:57:24 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "WHO says attack on Sudan hospital killed 64, including 13 children",
-          "link": "https://www.aljazeera.com/news/2026/3/21/who-says-attack-on-sudan-hospital-killed-64-including-13-children?traffic_source=rss",
-          "published": "Sat, 21 Mar 2026 22:43:25 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "ICC Chief Prosecutor Khan cleared of sexual misconduct by judges: Report",
-          "link": "https://www.aljazeera.com/news/2026/3/21/icc-chief-prosecutor-khan-cleared-of-sexual-misconduct-by-judges-report?traffic_source=rss",
-          "published": "Sat, 21 Mar 2026 22:08:23 +0000"
         }
       ]
     }
