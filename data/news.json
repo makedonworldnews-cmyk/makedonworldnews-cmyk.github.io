@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-22T17:12:40Z",
+  "updatedAt": "2026-03-22T17:45:06Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) Либанскиот претседател: Рушењето на мостовите од страна на Израел може да биде подготовка за копнена инвазија",
+          "link": "https://makfax.com.mk/svet/libanskiot-pretsedatel-rusheneto-na-mostovite-od-strana-na-izrael-mozhe-da-bide-podgotovka-za-kopnena-invazija/",
+          "published": "Sun, 22 Mar 2026 17:38:30 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Епски пресврт на Алавес, на „Балаидос“ во Виго",
+          "link": "https://makfax.com.mk/sport/epski-presvrt-na-alaves-na-balaidos-vo-vigo/",
+          "published": "Sun, 22 Mar 2026 17:33:32 +0000"
         },
         {
           "source": "Makfax",
@@ -27,18 +39,6 @@
           "title": "Брз преглед на 23-тиот ден од војната меѓу САД и Израел со Иран",
           "link": "https://makfax.com.mk/svet/brz-pregled-na-23-tiot-den-od-vojnata-megu-sad-i-izrael-so-iran/",
           "published": "Sun, 22 Mar 2026 16:09:23 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Иран: Енергетските објекти во земјите со американски бази ќе станат „легитимни“ цели, ако Трамп ги оствари заканите",
-          "link": "https://makfax.com.mk/svet/iran-energetskite-objekti-vo-zemjite-so-amerikanski-bazi-ke-stanat-legitimni-czeli-ako-tramp-gi-ostvari-zakanite/",
-          "published": "Sun, 22 Mar 2026 15:36:58 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Мерц и Трамп разговараа за Иран",
-          "link": "https://makfax.com.mk/svet/mercz-i-tramp-razgovaraa-za-iran/",
-          "published": "Sun, 22 Mar 2026 15:29:39 +0000"
         },
         {
           "source": "NetPress",
@@ -77,9 +77,9 @@
       "items": [
         {
           "source": "BBC",
-          "title": "Iranian missiles injure 160 in towns near Israeli nuclear site",
+          "title": "Iranian missiles injure 180 in towns near Israeli nuclear site",
           "link": "https://www.bbc.com/news/articles/c9qdvnv13qdo?at_medium=RSS&at_campaign=rss",
-          "published": "Sun, 22 Mar 2026 14:46:17 GMT"
+          "published": "Sun, 22 Mar 2026 17:35:19 GMT"
         },
         {
           "source": "BBC",
@@ -107,6 +107,18 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "‘We do it together, in confidence’: Netanyahu backs US strikes on Iran",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/22/we-do-it-together-in-confidence-netanyahu-backs-us-strikes-on-iran?traffic_source=rss",
+          "published": "Sun, 22 Mar 2026 17:09:18 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "LIVE: Real Madrid vs Atletico Madrid – La Liga",
+          "link": "https://www.aljazeera.com/sports/liveblog/2026/3/22/live-real-madrid-vs-atletico-madrid-la-liga?traffic_source=rss",
+          "published": "Sun, 22 Mar 2026 17:00:00 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "‘Risk of escalation is extremely high as Iran shows it can retaliate’",
           "link": "https://www.aljazeera.com/video/quotable/2026/3/22/risk-of-escalation-is-extremely-high-as-iran-shows-it-can?traffic_source=rss",
           "published": "Sun, 22 Mar 2026 16:52:35 +0000"
@@ -122,18 +134,6 @@
           "title": "The Gaza Tribunal: A question of complicity",
           "link": "https://www.aljazeera.com/video/people-power/2026/3/22/the-gaza-tribunal-a-question-of-complicity?traffic_source=rss",
           "published": "Sun, 22 Mar 2026 16:13:27 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Pakistan T20 cricket league to be held in empty stadiums amid oil crisis",
-          "link": "https://www.aljazeera.com/news/2026/3/22/pakistan-super-league-matches-to-be-held-in-empty-stadiums-amid-oil-crisis?traffic_source=rss",
-          "published": "Sun, 22 Mar 2026 16:00:40 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Iran claims missile attacks on key Israeli military bases",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/22/iran-claims-missile-attacks-on-key-israeli-military-bases?traffic_source=rss",
-          "published": "Sun, 22 Mar 2026 15:40:46 +0000"
         }
       ]
     }
