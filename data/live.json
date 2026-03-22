@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-22T23:02:21Z",
+  "generated_at": "2026-03-22T23:38:59Z",
   "items": [
     {
       "region": "Македонија",
@@ -88,6 +88,13 @@
     {
       "region": "Свет",
       "source": "BBC",
+      "title": "France's Socialists hold onto power in major cities in election boost for mainstream",
+      "link": "https://www.bbc.com/news/articles/crk14m7mjddo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 22 Mar 2026 23:27:59 GMT"
+    },
+    {
+      "region": "Свет",
+      "source": "BBC",
       "title": "Kenyans fighting illegally for Russia in Ukraine to be granted amnesty",
       "link": "https://www.bbc.com/news/articles/cj94jmj2p28o?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 22 Mar 2026 19:05:30 GMT"
@@ -101,10 +108,10 @@
     },
     {
       "region": "Свет",
-      "source": "BBC",
-      "title": "Iranian missiles injure 180 in towns near Israeli nuclear site",
-      "link": "https://www.bbc.com/news/articles/c9qdvnv13qdo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 22 Mar 2026 17:35:19 GMT"
+      "source": "Al Jazeera",
+      "title": "Socialist Emmanuel Gregoire wins Paris mayoral race",
+      "link": "https://www.aljazeera.com/news/2026/3/22/socialist-emmanuel-gregoire-wins-paris-mayoral-race?traffic_source=rss",
+      "published": "Sun, 22 Mar 2026 22:59:44 +0000"
     },
     {
       "region": "Свет",
@@ -123,7 +130,7 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
-      "title": "Slovenia’s Freedom Movement Party takes narrow election lead: Exit poll",
+      "title": "Slovenia’s liberals and conservatives neck and neck in parliamentary vote",
       "link": "https://www.aljazeera.com/news/2026/3/22/slovenias-freedom-movement-party-takes-narrow-election-lead-exit-poll?traffic_source=rss",
       "published": "Sun, 22 Mar 2026 21:22:41 +0000"
     },
@@ -133,13 +140,6 @@
       "title": "Displaced families shelter in tents in Beirut amid Israeli strikes",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/3/22/displaced-families-shelter-in-tents-in-beirut-amid-israeli-strikes?traffic_source=rss",
       "published": "Sun, 22 Mar 2026 20:33:30 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Emerging from latest blackout, Cuba says ready for any potential US attack",
-      "link": "https://www.aljazeera.com/news/2026/3/22/emerging-from-latest-blackout-cuba-says-ready-for-any-potential-us-attack?traffic_source=rss",
-      "published": "Sun, 22 Mar 2026 20:28:34 +0000"
     }
   ]
 }
