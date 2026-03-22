@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-21T23:53:33Z",
+  "generated_at": "2026-03-22T01:25:44Z",
   "items": [
     {
       "region": "Македонија",
@@ -74,9 +74,16 @@
     {
       "region": "Свет",
       "source": "BBC",
+      "title": "Iranian strike hits near Israeli nuclear facility after Tehran says its site targeted",
+      "link": "https://www.bbc.com/news/articles/c9qdvnv13qdo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 21 Mar 2026 23:01:07 GMT"
+    },
+    {
+      "region": "Свет",
+      "source": "BBC",
       "title": "Trump at a crossroads as US weighs tough options in Iran",
       "link": "https://www.bbc.com/news/articles/clyxv87zwwpo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 21 Mar 2026 22:12:04 GMT"
+      "published": "Sun, 22 Mar 2026 00:50:43 GMT"
     },
     {
       "region": "Свет",
@@ -101,10 +108,10 @@
     },
     {
       "region": "Свет",
-      "source": "BBC",
-      "title": "BTS make live return in front of huge crowd",
-      "link": "https://www.bbc.com/news/articles/cge0dyjwezgo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 21 Mar 2026 13:24:34 GMT"
+      "source": "Al Jazeera",
+      "title": "Iran war live: Trump threatens to attack power plants over Strait of Hormuz",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/3/22/iran-war-live-trump-threatens-attacks-on-power-plants-over-hormuz-strait?traffic_source=rss",
+      "published": "Sun, 22 Mar 2026 00:00:13 +0000"
     },
     {
       "region": "Свет",
@@ -123,7 +130,7 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
-      "title": "Iran strikes towns near Israel’s nuclear site in escalating tit-for-tat",
+      "title": "Iran strikes towns near Israel’s nuclear site, wounds over 100",
       "link": "https://www.aljazeera.com/news/2026/3/21/iran-strikes-towns-near-israels-nuclear-site-in-escalating-tit-for-tat?traffic_source=rss",
       "published": "Sat, 21 Mar 2026 22:57:24 +0000"
     },
@@ -133,13 +140,6 @@
       "title": "WHO says attack on Sudan hospital killed 64, including 13 children",
       "link": "https://www.aljazeera.com/news/2026/3/21/who-says-attack-on-sudan-hospital-killed-64-including-13-children?traffic_source=rss",
       "published": "Sat, 21 Mar 2026 22:43:25 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "ICC Chief Prosecutor Khan cleared of sexual misconduct by judges: Report",
-      "link": "https://www.aljazeera.com/news/2026/3/21/icc-chief-prosecutor-khan-cleared-of-sexual-misconduct-by-judges-report?traffic_source=rss",
-      "published": "Sat, 21 Mar 2026 22:08:23 +0000"
     }
   ]
 }
