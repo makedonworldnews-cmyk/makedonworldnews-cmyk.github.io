@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-22T11:53:43Z",
+  "updatedAt": "2026-03-22T12:53:45Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Авиоиндустријата во најтешка криза од пандемијата поради конфликтот на Блискиот Исток",
+          "link": "https://makfax.com.mk/svet/avioindustrijata-vo-najteshka-kriza-od-pandemijata-poradi-konfliktot-na-bliskiot-istok/",
+          "published": "Sun, 22 Mar 2026 12:00:08 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Хрватската влада на итна седница поради енергетската криза",
+          "link": "https://makfax.com.mk/svet/region/hrvatskata-vlada-na-itna-sednicza-poradi-energetskata-kriza/",
+          "published": "Sun, 22 Mar 2026 11:53:54 +0000"
         },
         {
           "source": "Makfax",
@@ -29,46 +41,28 @@
           "published": "Sun, 22 Mar 2026 11:21:01 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Николоски: Штип и источниот дел на Македонија добиваат прво туристичко вештачко езеро, ќе биде завршено во 2027",
-          "link": "https://makfax.com.mk/makedonija/nikoloski-shtip-i-istochniot-del-na-makedonija-dobivaat-prvo-turistichko-veshtachko-ezero-ke-bide-zavrsheno-vo-2027/",
-          "published": "Sun, 22 Mar 2026 11:11:36 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "(Видео) Иран го нападна аеродромот Бен Гуриoн во Тел Авив",
-          "link": "https://makfax.com.mk/svet/video-iran-go-napadna-aerodromot-ben-gurion-vo-tel-aviv/",
-          "published": "Sun, 22 Mar 2026 10:33:46 +0000"
+          "source": "NetPress",
+          "title": "Иран ги блокира бродовите Ормускиот теснец поврзани со „непријателите“",
+          "link": "https://netpress.com.mk/iran-gi-blokira-brodovite-ormuskiot-tesnecz-povrzani-so-neprijatelite/",
+          "published": "Sun, 22 Mar 2026 12:47:25 +0000"
         },
         {
           "source": "NetPress",
-          "title": "АТП/ВТА Мајами: Резултати",
-          "link": "https://netpress.com.mk/atp-vta-majami-rezultati/",
-          "published": "Sun, 22 Mar 2026 11:52:07 +0000"
+          "title": "Израел тврди дека соборил 92 отсто од иранските ракети",
+          "link": "https://netpress.com.mk/izrael-tvrdi-deka-soboril-92-otsto-od-iranskite-raketi/",
+          "published": "Sun, 22 Mar 2026 12:33:03 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Британија нема докази за тврдењата дека Иран би можел да ја гаѓа Европа со ракети",
-          "link": "https://netpress.com.mk/britanija-nema-dokazi-za-tvrdenata-deka-iran-bi-mozhel-da-ja-gaga-evropa-so-raketi/",
-          "published": "Sun, 22 Mar 2026 11:38:37 +0000"
+          "title": "Министрите од Г7 се подготвени да дејствуваат за заштита на глобалните испораки на енергенси",
+          "link": "https://netpress.com.mk/ministrite-od-g7-se-podgotveni-da-dejstvuvaat-za-zashtita-na-globalnite-isporaki-na-energensi/",
+          "published": "Sun, 22 Mar 2026 12:16:24 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Дали Башановиќ бил посредник за матни бизнис зделки во енергетиката и промената на името?",
-          "link": "https://netpress.com.mk/dali-bashanovik-bil-posrednik-za-matni-biznis-zdelki-vo-energetikata-i-promenata-na-imeto-na-drzhavata-koe-zaev-i-filipche-go-sprovedoa/",
-          "published": "Sun, 22 Mar 2026 11:38:31 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Изградени 70 проценти од браната Отиња, Штип наскоро ќе стане нова туристичка атракција",
-          "link": "https://netpress.com.mk/nikoloski-izgradeni-70-proczenti-od-branata-otina/",
-          "published": "Sun, 22 Mar 2026 11:06:27 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "СДС не негираше дека има соработка со Милјан Шчекиќ и Башановиќ",
-          "link": "https://netpress.com.mk/sds-ne-negirashe-deka-ima-sorabotka-so-miljan-shchekik-i-bashanovik/",
-          "published": "Sun, 22 Mar 2026 11:03:36 +0000"
+          "title": "Ќе се прогласи кризна состојба – дизелот ќе поскапи 10 денари, а безоловниот 6 денари",
+          "link": "https://netpress.com.mk/ke-se-proglasi-krizna-sostojba-dizelot-ke-poskapi-10-denari-a-bezolovniot-6-denari/",
+          "published": "Sun, 22 Mar 2026 12:12:02 +0000"
         }
       ]
     },
@@ -80,6 +74,12 @@
           "title": "Iranian missiles injure 160 in towns near Israeli nuclear site",
           "link": "https://www.bbc.com/news/articles/c9qdvnv13qdo?at_medium=RSS&at_campaign=rss",
           "published": "Sun, 22 Mar 2026 10:57:44 GMT"
+        },
+        {
+          "source": "BBC",
+          "title": "Sudan army denies carrying out hospital attack that killed 64 during Eid",
+          "link": "https://www.bbc.com/news/articles/cr715xynkvvo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 22 Mar 2026 12:15:05 GMT"
         },
         {
           "source": "BBC",
@@ -100,10 +100,16 @@
           "published": "Sun, 22 Mar 2026 02:02:40 GMT"
         },
         {
-          "source": "BBC",
-          "title": "Robert Mueller, ex-FBI chief who led Trump-Russia investigation, dies at 81",
-          "link": "https://www.bbc.com/news/articles/c8dlj6gv0q6o?at_medium=RSS&at_campaign=rss",
-          "published": "Sun, 22 Mar 2026 01:04:57 GMT"
+          "source": "Al Jazeera",
+          "title": "Moment Iranian strike hits central Tel Aviv",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/22/moment-iranian-strike-hits-central-tel-aviv?traffic_source=rss",
+          "published": "Sun, 22 Mar 2026 12:37:15 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "‘Opening Strait of Hormuz will probably require US boots on the ground’",
+          "link": "https://www.aljazeera.com/video/quotable/2026/3/22/opening-strait-of-hormuz-will-probably-require-us-boots-on-the?traffic_source=rss",
+          "published": "Sun, 22 Mar 2026 12:30:17 +0000"
         },
         {
           "source": "Al Jazeera",
@@ -122,18 +128,6 @@
           "title": "Iran war is creating ‘heightened risks of instability across countries in A",
           "link": "https://www.aljazeera.com/video/quotable/2026/3/22/iran-war-is-creating-heightened-risks-of-instability-across-countries-in-a?traffic_source=rss",
           "published": "Sun, 22 Mar 2026 11:19:46 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Aftermath of Iranian missile strikes near Israel’s nuclear facility",
-          "link": "https://www.aljazeera.com/gallery/2026/3/22/aftermath-of-iranian-missiles-strikes-near-israels-nuclear-centre?traffic_source=rss",
-          "published": "Sun, 22 Mar 2026 10:34:48 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Lebanese nurse refuses to leave her post at hospital despite losses",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/22/lebanese-nurse-refuses-to-leave-her-post-at-hospital-despite-loses?traffic_source=rss",
-          "published": "Sun, 22 Mar 2026 10:34:37 +0000"
         }
       ]
     }
