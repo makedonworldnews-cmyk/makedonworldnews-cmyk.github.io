@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-22T21:36:52Z",
+  "generated_at": "2026-03-22T21:54:19Z",
   "items": [
     {
       "region": "Македонија",
@@ -39,6 +39,20 @@
     {
       "region": "Македонија",
       "source": "NetPress",
+      "title": "Артан Груби останува во домашен притвор",
+      "link": "https://netpress.com.mk/artan-grubi-ostanuva-vo-domashen-pritvor/",
+      "published": "Sun, 22 Mar 2026 21:44:23 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "NetPress",
+      "title": "ВИДЕО I Во Тирана летаа молотови коктели кон Владата",
+      "link": "https://netpress.com.mk/video-i-letaa-molotovi-kokteli-kon-vladata-vo-tirana/",
+      "published": "Sun, 22 Mar 2026 21:38:28 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "NetPress",
       "title": "Американски WP се вклучи во кампањата против Орбан, го обвини Сијарто дека „со години“ споделувал доверливи податоци од ЕУ со Русија",
       "link": "https://netpress.com.mk/amerikanski-wp-se-vkluchi-vo-kampanata-protiv-orban-go-obvini-sijarto-deka-so-godini-spodeluval-doverlivi-podatoczi-od-eu-so-rusija/",
       "published": "Sun, 22 Mar 2026 21:13:00 +0000"
@@ -58,25 +72,11 @@
       "published": "Sun, 22 Mar 2026 20:36:26 +0000"
     },
     {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Му барал 5.000 евра за наводен долг и го уценувал, уапсен маж од Чегране",
-      "link": "https://netpress.com.mk/mu-baral-5-000-evra-za-navoden-dolg-i-go-uczenuval-uapsen-mazh-od-chegrane/",
-      "published": "Sun, 22 Mar 2026 20:32:07 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Завршени американско-украинските разговори, можна размена на затвореници",
-      "link": "https://netpress.com.mk/zavrsheni-amerikansko-ukrainskite-razgovori-mozhna-razmena-na-zatvoreniczi/",
-      "published": "Sun, 22 Mar 2026 20:01:27 +0000"
-    },
-    {
       "region": "Свет",
       "source": "BBC",
       "title": "Israeli settlers target Palestinian villages in occupied West Bank, attacking people and properties",
       "link": "https://www.bbc.com/news/articles/cew719w80g7o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 22 Mar 2026 18:37:07 GMT"
+      "published": "Sun, 22 Mar 2026 21:52:28 GMT"
     },
     {
       "region": "Свет",
@@ -109,6 +109,13 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "Slovenia’s Freedom Movement Party takes narrow election lead: Exit poll",
+      "link": "https://www.aljazeera.com/news/2026/3/22/slovenias-freedom-movement-party-takes-narrow-election-lead-exit-poll?traffic_source=rss",
+      "published": "Sun, 22 Mar 2026 21:22:41 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "Displaced families shelter in tents in Beirut amid Israeli strikes",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/3/22/displaced-families-shelter-in-tents-in-beirut-amid-israeli-strikes?traffic_source=rss",
       "published": "Sun, 22 Mar 2026 20:33:30 +0000"
@@ -133,13 +140,6 @@
       "title": "Israeli air strikes on Gaza kill four Palestinians",
       "link": "https://www.aljazeera.com/news/2026/3/22/israeli-air-strikes-on-gaza-kill-four-palestinians?traffic_source=rss",
       "published": "Sun, 22 Mar 2026 20:17:33 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Israeli settlers violently storm through occupied West Bank",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/22/israeli-settlers-violently-storm-through-occupied-west-bank?traffic_source=rss",
-      "published": "Sun, 22 Mar 2026 19:35:29 +0000"
     }
   ]
 }
