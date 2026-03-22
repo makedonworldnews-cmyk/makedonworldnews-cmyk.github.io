@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-22T21:02:07Z",
+  "generated_at": "2026-03-22T21:36:52Z",
   "items": [
     {
       "region": "Македонија",
@@ -39,6 +39,13 @@
     {
       "region": "Македонија",
       "source": "NetPress",
+      "title": "Американски WP се вклучи во кампањата против Орбан, го обвини Сијарто дека „со години“ споделувал доверливи податоци од ЕУ со Русија",
+      "link": "https://netpress.com.mk/amerikanski-wp-se-vkluchi-vo-kampanata-protiv-orban-go-obvini-sijarto-deka-so-godini-spodeluval-doverlivi-podatoczi-od-eu-so-rusija/",
+      "published": "Sun, 22 Mar 2026 21:13:00 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "NetPress",
       "title": "Кривични пријави за три угостителски објекти во Аеродром, служеле алкохол на малолетници",
       "link": "https://netpress.com.mk/krivichni-prijavi-za-tri-ugostitelski-objekti-vo-aerodrom-sluzhele-alkohol-na-maloletniczi/",
       "published": "Sun, 22 Mar 2026 20:59:37 +0000"
@@ -63,13 +70,6 @@
       "title": "Завршени американско-украинските разговори, можна размена на затвореници",
       "link": "https://netpress.com.mk/zavrsheni-amerikansko-ukrainskite-razgovori-mozhna-razmena-na-zatvoreniczi/",
       "published": "Sun, 22 Mar 2026 20:01:27 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Божиновска: Снабдувањето со гориво е во одлична кондиција и има доволно деривати",
-      "link": "https://netpress.com.mk/bozhinovska-snabduvaneto-so-gorivo-e-vo-odlichna-kondiczija-i-ima-dovolno-derivati/",
-      "published": "Sun, 22 Mar 2026 19:59:09 +0000"
     },
     {
       "region": "Свет",
@@ -97,7 +97,7 @@
       "source": "BBC",
       "title": "National blackout hits Cuba for second time in a week",
       "link": "https://www.bbc.com/news/articles/cvg0l44yxrvo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 22 Mar 2026 16:59:26 GMT"
+      "published": "Sun, 22 Mar 2026 21:31:41 GMT"
     },
     {
       "region": "Свет",
@@ -105,6 +105,13 @@
       "title": "Iranian missiles injure 180 in towns near Israeli nuclear site",
       "link": "https://www.bbc.com/news/articles/c9qdvnv13qdo?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 22 Mar 2026 17:35:19 GMT"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Displaced families shelter in tents in Beirut amid Israeli strikes",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/22/displaced-families-shelter-in-tents-in-beirut-amid-israeli-strikes?traffic_source=rss",
+      "published": "Sun, 22 Mar 2026 20:33:30 +0000"
     },
     {
       "region": "Свет",
@@ -133,13 +140,6 @@
       "title": "Israeli settlers violently storm through occupied West Bank",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/3/22/israeli-settlers-violently-storm-through-occupied-west-bank?traffic_source=rss",
       "published": "Sun, 22 Mar 2026 19:35:29 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Israel vows to escalate campaign against Hezbollah in Lebanon",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/22/israel-vows-to-escalate-campaign-against-hezbollah-in-lebanon?traffic_source=rss",
-      "published": "Sun, 22 Mar 2026 19:21:20 +0000"
     }
   ]
 }
