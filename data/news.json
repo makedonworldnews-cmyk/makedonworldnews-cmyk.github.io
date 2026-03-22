@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-22T09:34:00Z",
+  "updatedAt": "2026-03-22T09:58:13Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Ај медија: Нема соработка со СДСМ, ниту со Зоран Башановиќ",
+          "link": "https://makfax.com.mk/makedonija/aj-medija-nema-sorabotka-so-sdsm-nitu-so-zoran-bashanovik/",
+          "published": "Sun, 22 Mar 2026 09:56:39 +0000"
         },
         {
           "source": "Makfax",
@@ -35,10 +41,16 @@
           "published": "Sun, 22 Mar 2026 08:47:09 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Иран може да има поголем дострел од очекуваното, велат експертите",
-          "link": "https://makfax.com.mk/svet/iran-mozhe-da-ima-pogolem-dostrel-od-ochekuvanoto-velat-ekspertite/",
-          "published": "Sun, 22 Mar 2026 08:43:03 +0000"
+          "source": "NetPress",
+          "title": "АХВ спречи увоз на околу 50 тони небезбедна храна",
+          "link": "https://netpress.com.mk/ahv-sprechi-uvoz-na-okolu-50-toni-nebezbedna-hrana/",
+          "published": "Sun, 22 Mar 2026 09:53:02 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "ПР-от на СДС е под надворешно влијание, Башановиќ и Милјан Шчекиќ ја креираат политиката",
+          "link": "https://netpress.com.mk/pr-ot-na-sds-e-pod-nadvoreshno-vlijanie-bashanovik-i-miljan-shchekik-ja-kreiraat-politikata/",
+          "published": "Sun, 22 Mar 2026 09:49:31 +0000"
         },
         {
           "source": "NetPress",
@@ -57,18 +69,6 @@
           "title": "Полска економско чудо-таа е меѓу 20-те најголеми економии во светот",
           "link": "https://netpress.com.mk/polska-ekonomsko-chudo-taa-e-megu-20-te-najgolemi-ekonomii-vo-svetot/",
           "published": "Sun, 22 Mar 2026 08:07:35 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "ВИДЕО I Ова ретко се гледа – мечка со мечињата се бања во Радика",
-          "link": "https://netpress.com.mk/video-i-ova-rertko-se-gleda-mechka-so-mechinata-se-bana-vo-radika/",
-          "published": "Sun, 22 Mar 2026 08:03:04 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Иран му одговори на Трамп – ќе ги нападне постројките за десалинизација во регионот",
-          "link": "https://netpress.com.mk/iran-mu-odgovori-na-tramp-ke-gi-napadne-postrojkite-za-desalinizaczija-vo-regionot/",
-          "published": "Sun, 22 Mar 2026 07:57:51 +0000"
         }
       ]
     },
@@ -79,7 +79,7 @@
           "source": "BBC",
           "title": "Iranian missiles injure 160 in towns near Israeli nuclear site",
           "link": "https://www.bbc.com/news/articles/c9qdvnv13qdo?at_medium=RSS&at_campaign=rss",
-          "published": "Sun, 22 Mar 2026 07:39:50 GMT"
+          "published": "Sun, 22 Mar 2026 09:35:02 GMT"
         },
         {
           "source": "BBC",
