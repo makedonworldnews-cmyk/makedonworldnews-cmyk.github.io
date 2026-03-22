@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-22T15:46:36Z",
+  "generated_at": "2026-03-22T15:59:37Z",
   "items": [
     {
       "region": "Македонија",
@@ -109,6 +109,13 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "Iranian authorities taunt US, Israel, EU amid strikes and assassinations",
+      "link": "https://www.aljazeera.com/news/2026/3/22/iranian-authorities-taunt-us-israel-eu-amid-strikes-and-assassinations?traffic_source=rss",
+      "published": "Sun, 22 Mar 2026 15:25:01 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "Trump’s changing messages on Iran war: What does it say about US strategy?",
       "link": "https://www.aljazeera.com/news/2026/3/22/trumps-changing-messages-on-iran-war-what-does-it-say-about-us-strategy?traffic_source=rss",
       "published": "Sun, 22 Mar 2026 14:51:27 +0000"
@@ -133,13 +140,6 @@
       "title": "Puerto Rican activists bring medicine to Havana despite US blockade",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/3/22/puerto-rican-activists-bring-medicine-to-havana-despite-us-blockade?traffic_source=rss",
       "published": "Sun, 22 Mar 2026 14:14:02 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Iran says will hit region’s energy sites if US, Israel target power plants",
-      "link": "https://www.aljazeera.com/news/2026/3/22/iran-says-will-hit-regions-energy-sites-if-us-israel-target-power-plants?traffic_source=rss",
-      "published": "Sun, 22 Mar 2026 13:42:25 +0000"
     }
   ]
 }
