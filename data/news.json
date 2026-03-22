@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-22T17:45:06Z",
+  "updatedAt": "2026-03-22T18:01:10Z",
   "groups": [
     {
       "region": "Македонија",
@@ -42,6 +42,12 @@
         },
         {
           "source": "NetPress",
+          "title": "Од понеделник агентите за имигранти на американските аеродроми",
+          "link": "https://netpress.com.mk/od-ponedelnik-agentite-za-imigranti-na-amerikanskite-aerodromi/",
+          "published": "Sun, 22 Mar 2026 17:52:58 +0000"
+        },
+        {
+          "source": "NetPress",
           "title": "Три лица приведени за семејно насилство: Ја фрлил по скали, ја тепал со предмет",
           "link": "https://netpress.com.mk/tri-licza-privedeni-za-semejno-nasilstvo-ja-frlil-po-skali-ja-tepal-so-predmet/",
           "published": "Sun, 22 Mar 2026 16:48:27 +0000"
@@ -63,18 +69,18 @@
           "title": "Скот Бесант тврди – САД имаат доволно пари за војна со Иран",
           "link": "https://netpress.com.mk/skot-besant-tvrdi-sad-imaat-dovolno-pari-za-vojna-so-iran/",
           "published": "Sun, 22 Mar 2026 16:35:42 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Мицкоски: Нема простор за зголемување на платите во Обвинителството",
-          "link": "https://netpress.com.mk/miczkoski-nema-prostor-za-zgolemuvane-na-platite-vo-obvinitelstvoto/",
-          "published": "Sun, 22 Mar 2026 16:32:43 +0000"
         }
       ]
     },
     {
       "region": "Свет",
       "items": [
+        {
+          "source": "BBC",
+          "title": "Israeli settlers target Palestinian villages in occupied West Bank, attacking people and properties",
+          "link": "https://www.bbc.com/news/articles/cew719w80g7o?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 22 Mar 2026 17:57:48 GMT"
+        },
         {
           "source": "BBC",
           "title": "Iranian missiles injure 180 in towns near Israeli nuclear site",
@@ -95,15 +101,15 @@
         },
         {
           "source": "BBC",
-          "title": "Qatari and Turkish citizens die in military helicopter crash",
-          "link": "https://www.bbc.com/news/articles/cx2v4k0xn9no?at_medium=RSS&at_campaign=rss",
-          "published": "Sun, 22 Mar 2026 13:35:44 GMT"
-        },
-        {
-          "source": "BBC",
           "title": "Russian attacks kill six in Ukraine, officials say",
           "link": "https://www.bbc.com/news/articles/crl18nwjzzzo?at_medium=RSS&at_campaign=rss",
           "published": "Sun, 22 Mar 2026 11:07:06 GMT"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Ukraine’s Zelenskyy urges allies to pressure Russia ahead of US talks",
+          "link": "https://www.aljazeera.com/news/2026/3/22/ukraines-zelenskyy-urges-allies-to-pressure-russia-ahead-of-us-talks?traffic_source=rss",
+          "published": "Sun, 22 Mar 2026 17:42:52 +0000"
         },
         {
           "source": "Al Jazeera",
@@ -128,12 +134,6 @@
           "title": "Did Israel miscalculate Iranian military capabilities?",
           "link": "https://www.aljazeera.com/news/2026/3/22/did-israel-miscalculate-iranian-military-capabilities?traffic_source=rss",
           "published": "Sun, 22 Mar 2026 16:14:24 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "The Gaza Tribunal: A question of complicity",
-          "link": "https://www.aljazeera.com/video/people-power/2026/3/22/the-gaza-tribunal-a-question-of-complicity?traffic_source=rss",
-          "published": "Sun, 22 Mar 2026 16:13:27 +0000"
         }
       ]
     }
