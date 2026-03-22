@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-22T16:46:19Z",
+  "updatedAt": "2026-03-22T17:12:40Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) Тотенхем уште еднаш се изрезили, Форест убедливо победи во Лондон",
+          "link": "https://makfax.com.mk/sport/video-totenhem-ushte-ednash-se-izrezili-forest-ubedlivo-pobedi-vo-london/",
+          "published": "Sun, 22 Mar 2026 16:57:57 +0000"
         },
         {
           "source": "Makfax",
@@ -35,10 +41,10 @@
           "published": "Sun, 22 Mar 2026 15:29:39 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "(Видео) Филипче: Задоцнета и половична мерка на Мицкоски која нема да има ефект",
-          "link": "https://makfax.com.mk/makedonija/video-filipche-zadoczneta-i-polovichna-merka-na-miczkoski-koja-nema-da-ima-efekt/",
-          "published": "Sun, 22 Mar 2026 15:19:12 +0000"
+          "source": "NetPress",
+          "title": "Три лица приведени за семејно насилство: Ја фрлил по скали, ја тепал со предмет",
+          "link": "https://netpress.com.mk/tri-licza-privedeni-za-semejno-nasilstvo-ja-frlil-po-skali-ja-tepal-so-predmet/",
+          "published": "Sun, 22 Mar 2026 16:48:27 +0000"
         },
         {
           "source": "NetPress",
@@ -63,12 +69,6 @@
           "title": "Мицкоски: Нема простор за зголемување на платите во Обвинителството",
           "link": "https://netpress.com.mk/miczkoski-nema-prostor-za-zgolemuvane-na-platite-vo-obvinitelstvoto/",
           "published": "Sun, 22 Mar 2026 16:32:43 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Иран му се заканува „на целиот свет“, тврди Нетанјаху и повикува на „поширока коалиција“",
-          "link": "https://netpress.com.mk/iran-mu-se-zakanuva-na-czeliot-svet-tvrdi-netanjahu-i-povikuva-na-poshiroka-koaliczija/",
-          "published": "Sun, 22 Mar 2026 15:37:00 +0000"
         }
       ]
     },
@@ -91,7 +91,7 @@
           "source": "BBC",
           "title": "National blackout hits Cuba for second time in a week",
           "link": "https://www.bbc.com/news/articles/cvg0l44yxrvo?at_medium=RSS&at_campaign=rss",
-          "published": "Sun, 22 Mar 2026 02:02:40 GMT"
+          "published": "Sun, 22 Mar 2026 16:59:26 GMT"
         },
         {
           "source": "BBC",
@@ -104,6 +104,12 @@
           "title": "Russian attacks kill six in Ukraine, officials say",
           "link": "https://www.bbc.com/news/articles/crl18nwjzzzo?at_medium=RSS&at_campaign=rss",
           "published": "Sun, 22 Mar 2026 11:07:06 GMT"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "‘Risk of escalation is extremely high as Iran shows it can retaliate’",
+          "link": "https://www.aljazeera.com/video/quotable/2026/3/22/risk-of-escalation-is-extremely-high-as-iran-shows-it-can?traffic_source=rss",
+          "published": "Sun, 22 Mar 2026 16:52:35 +0000"
         },
         {
           "source": "Al Jazeera",
@@ -128,12 +134,6 @@
           "title": "Iran claims missile attacks on key Israeli military bases",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/3/22/iran-claims-missile-attacks-on-key-israeli-military-bases?traffic_source=rss",
           "published": "Sun, 22 Mar 2026 15:40:46 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Moment Israeli strike hits bridge in southern Lebanon",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/22/moment-israeli-strike-hits-bridge-in-southern-lebanon?traffic_source=rss",
-          "published": "Sun, 22 Mar 2026 15:32:31 +0000"
         }
       ]
     }
