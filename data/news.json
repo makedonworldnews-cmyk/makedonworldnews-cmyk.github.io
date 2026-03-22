@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-22T19:26:49Z",
+  "updatedAt": "2026-03-22T19:47:47Z",
   "groups": [
     {
       "region": "Македонија",
@@ -42,6 +42,12 @@
         },
         {
           "source": "NetPress",
+          "title": "Лига Куп: Манчестер Сити го победи Арсенал во финалето",
+          "link": "https://netpress.com.mk/liga-kup-manchester-siti-go-pobedi-arsenal-vo-finaleto/",
+          "published": "Sun, 22 Mar 2026 19:32:43 +0000"
+        },
+        {
+          "source": "NetPress",
           "title": "Патничка починала за време на патувањето, телото го чувале во кујната",
           "link": "https://netpress.com.mk/patnichka-pochinala-za-vreme-na-patuvaneto-teloto-go-chuvale-vo-kujnata/",
           "published": "Sun, 22 Mar 2026 19:21:05 +0000"
@@ -63,12 +69,6 @@
           "title": "Земјите од Персискиот Залив јавија за нови напади од Иран",
           "link": "https://netpress.com.mk/zemjite-od-persiskiot-zaliv-javija-za-novi-napadi-od-iran/",
           "published": "Sun, 22 Mar 2026 19:08:39 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Иран започна нови напади врз земјите од Персискиот залив",
-          "link": "https://netpress.com.mk/iran-zapochna-novi-napadi-vrz-zemjite-od-persiskiot-zaliv/",
-          "published": "Sun, 22 Mar 2026 18:13:38 +0000"
         }
       ]
     },
@@ -107,6 +107,12 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Israel vows to escalate campaign against Hezbollah in Lebanon",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/22/israel-vows-to-escalate-campaign-against-hezbollah-in-lebanon?traffic_source=rss",
+          "published": "Sun, 22 Mar 2026 19:21:20 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Lebanon’s Aoun warns Israeli attack on bridge ‘prelude to ground invasion’",
           "link": "https://www.aljazeera.com/news/2026/3/22/lebanons-aoun-calls-israel-strikes-on-bridges-prelude-to-ground-invasion?traffic_source=rss",
           "published": "Sun, 22 Mar 2026 18:48:15 +0000"
@@ -128,12 +134,6 @@
           "title": "LIVE: Real Madrid vs Atletico Madrid – La Liga",
           "link": "https://www.aljazeera.com/sports/liveblog/2026/3/22/live-real-madrid-vs-atletico-madrid-la-liga?traffic_source=rss",
           "published": "Sun, 22 Mar 2026 17:00:00 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "‘Risk of escalation is extremely high as Iran shows it can retaliate’",
-          "link": "https://www.aljazeera.com/video/quotable/2026/3/22/risk-of-escalation-is-extremely-high-as-iran-shows-it-can?traffic_source=rss",
-          "published": "Sun, 22 Mar 2026 16:52:35 +0000"
         }
       ]
     }
