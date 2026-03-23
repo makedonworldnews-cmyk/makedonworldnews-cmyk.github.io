@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-23T21:06:49Z",
+  "generated_at": "2026-03-23T21:48:38Z",
   "items": [
     {
       "region": "Македонија",
@@ -39,6 +39,20 @@
     {
       "region": "Македонија",
       "source": "NetPress",
+      "title": "Предложен сум од Владата, но не чувствувам обврска кон власта, таква е постапката за избор",
+      "link": "https://netpress.com.mk/predlozhen-sum-od-vladata-no-ne-chuvstvuvam-obvrska-kon-vlastata-takva-e-postapkata-za-izbor/",
+      "published": "Mon, 23 Mar 2026 21:43:50 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "NetPress",
+      "title": "ВИДЕО| Израелскaта „Давидова прачка“ не успеала да ги пресретне иранските ракети во Димона",
+      "link": "https://netpress.com.mk/video-izraelskata-davidova-prachka-ne-uspeala-da-gi-presretne-iranskite-raketi-vo-dimona/",
+      "published": "Mon, 23 Mar 2026 21:43:38 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "NetPress",
       "title": "Јас и следниот ајатолах можеме да го контролираме Ормускиот теснец",
       "link": "https://netpress.com.mk/jas-i-sledniot-ajatolah-mozheme-da-go-kontrolirame-ormuskiot-tesnecz/",
       "published": "Mon, 23 Mar 2026 21:06:00 +0000"
@@ -53,23 +67,9 @@
     {
       "region": "Македонија",
       "source": "NetPress",
-      "title": "Jаревски: Стабилизирани се цените на горивата, приоритет на Владата останува заштита на животниот стандард",
+      "title": "Стабилизирани се цените на горивата, приоритет на Владата останува заштита на животниот стандард",
       "link": "https://netpress.com.mk/jarevski-stabilizirani-se-czenite-na-gorivata-prioritet-na-vladata-ostanuva-zashtita-na-zhivotniot-standard/",
       "published": "Mon, 23 Mar 2026 20:47:17 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Иран тврди дека погодил локации во Израел и три американски воени бази",
-      "link": "https://netpress.com.mk/iran-tvrdi-deka-pogodil-lokaczii-vo-izrael-i-tri-amerikanski-voeni-bazi/",
-      "published": "Mon, 23 Mar 2026 20:40:26 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Медиуми: Мисијата на ЕУ не може да пристапи до нафтоводот Дружба петти ден",
-      "link": "https://netpress.com.mk/mediumi-misijata-na-eu-ne-mozhe-da-pristapi-do-naftovodot-druzhba-petti-den/",
-      "published": "Mon, 23 Mar 2026 20:38:28 +0000"
     },
     {
       "region": "Свет",
@@ -81,9 +81,16 @@
     {
       "region": "Свет",
       "source": "BBC",
-      "title": "Colombian Air Force plane crashes with 125 people on board",
-      "link": "https://www.bbc.com/news/articles/c8dlmrjn1l2o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 23 Mar 2026 19:04:15 GMT"
+      "title": "'Like the plane got cut in half': LaGuardia crash that killed two pilots now under investigation",
+      "link": "https://www.bbc.com/news/articles/c78rdze8zvjo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 23 Mar 2026 21:13:47 GMT"
+    },
+    {
+      "region": "Свет",
+      "source": "BBC",
+      "title": "Referendum defeat leaves Italy's Meloni looking more vulnerable",
+      "link": "https://www.bbc.com/news/articles/crl1ne8dj1eo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 23 Mar 2026 20:25:32 GMT"
     },
     {
       "region": "Свет",
@@ -101,10 +108,24 @@
     },
     {
       "region": "Свет",
-      "source": "BBC",
-      "title": "Referendum defeat leaves Italy's Meloni looking more vulnerable",
-      "link": "https://www.bbc.com/news/articles/crl1ne8dj1eo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 23 Mar 2026 20:25:32 GMT"
+      "source": "Al Jazeera",
+      "title": "Smotrich urges Israel to annex southern Lebanon as assault intensifies",
+      "link": "https://www.aljazeera.com/news/2026/3/23/smotrich-urges-israel-to-annex-southern-lebanon-as-assault-intensifies?traffic_source=rss",
+      "published": "Mon, 23 Mar 2026 21:27:33 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Iranian officials dismiss claims of US talks",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/23/iranian-officials-dismiss-claims-of-us-talks?traffic_source=rss",
+      "published": "Mon, 23 Mar 2026 21:14:07 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Moment missile strikes shortly after Israeli president’s visit",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/23/moment-missile-strikes-shortly-after-israeli-presidents-visit?traffic_source=rss",
+      "published": "Mon, 23 Mar 2026 20:47:04 +0000"
     },
     {
       "region": "Свет",
@@ -119,27 +140,6 @@
       "title": "What Trump said about Iran after postponing military strikes",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/3/23/what-trump-said-about-iran-after-postponing-military-strikes?traffic_source=rss",
       "published": "Mon, 23 Mar 2026 20:34:33 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Air Canada crash at LaGuardia Airport: What happened, who were the victims?",
-      "link": "https://www.aljazeera.com/news/2026/3/23/air-canada-crash-at-laguardia-airport-what-happened-who-were-the-victims?traffic_source=rss",
-      "published": "Mon, 23 Mar 2026 19:44:38 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Tehran residents express distrust over Trump’s war diplomacy",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/23/tehran-residents-express-distrust-over-trumps-war-diplomacy?traffic_source=rss",
-      "published": "Mon, 23 Mar 2026 19:43:27 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Colombian military plane crash kills at least one",
-      "link": "https://www.aljazeera.com/news/2026/3/23/colombian-military-plane-with-125-on-board-crashes-after-takeoff?traffic_source=rss",
-      "published": "Mon, 23 Mar 2026 19:11:27 +0000"
     }
   ]
 }
