@@ -1,6 +1,20 @@
 {
-  "generated_at": "2026-03-23T19:53:33Z",
+  "generated_at": "2026-03-23T20:30:57Z",
   "items": [
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "Италијански град го менува името за да привлече туристи",
+      "link": "https://makfax.com.mk/svet/italijanski-grad-go-menuva-imeto-za-da-privleche-turisti/",
+      "published": "Mon, 23 Mar 2026 20:21:52 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "Нетанјаху: Ќе продолжиме со нападите и покрај преговорите меѓу САД и Иран",
+      "link": "https://makfax.com.mk/svet/netanjahu-ke-prodolzhime-so-napadite-i-pokraj-pregovorite-megu-sad-i-iran/",
+      "published": "Mon, 23 Mar 2026 20:13:30 +0000"
+    },
     {
       "region": "Македонија",
       "source": "Makfax",
@@ -24,17 +38,31 @@
     },
     {
       "region": "Македонија",
-      "source": "Makfax",
-      "title": "Израелски медиум објави можен датум за крај на војната со Иран",
-      "link": "https://makfax.com.mk/svet/izraelski-medium-objavi-mozhen-datum-za-kraj-na-vojnata-so-iran/",
-      "published": "Mon, 23 Mar 2026 18:24:36 +0000"
+      "source": "NetPress",
+      "title": "Бахреин иницира разговори во ОН за употреба на сила во Ормутскиот теснец",
+      "link": "https://netpress.com.mk/bahrein-iniczira-razgovori-vo-on-za-upotreba-na-sila-vo-ormutskiot-tesnecz/",
+      "published": "Mon, 23 Mar 2026 20:28:13 +0000"
     },
     {
       "region": "Македонија",
-      "source": "Makfax",
-      "title": "ОН: Нашата зграда во Либан погодена од проектил",
-      "link": "https://makfax.com.mk/svet/on-nashata-zgrada-vo-liban-pogodena-od-proektil/",
-      "published": "Mon, 23 Mar 2026 18:15:19 +0000"
+      "source": "NetPress",
+      "title": "АТП/ВТА Мајами: Мухова и Мбоко први четвртфиналистки, Черундоло го нокаутира Медведев",
+      "link": "https://netpress.com.mk/atp-vta-majami-muhova-i-mboko-prvi-chetvrtfinalistki-cherundolo-go-nokautira-medvedev/",
+      "published": "Mon, 23 Mar 2026 20:20:07 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "NetPress",
+      "title": "Гасот во Европа поевтини, по отстранувањето на заканите од САД и Иран",
+      "link": "https://netpress.com.mk/gasot-vo-evropa-poevtini-po-otstranuvaneto-na-zakanite-od-sad-i-iran/",
+      "published": "Mon, 23 Mar 2026 19:57:04 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "NetPress",
+      "title": "ИДФ го погодила главниот безбедносен штаб на ИРГЦ",
+      "link": "https://netpress.com.mk/idf-go-pogodila-glavniot-bezbednosen-shtab-na-irgcz/",
+      "published": "Mon, 23 Mar 2026 19:56:01 +0000"
     },
     {
       "region": "Македонија",
@@ -42,34 +70,6 @@
       "title": "Издадена поштенска марка „Кедев – 14 највисоки врвови“",
       "link": "https://netpress.com.mk/izdadena-poshtenska-marka-kedev-14-najvisoki-vrvovi/",
       "published": "Mon, 23 Mar 2026 19:51:46 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Турција, Египет и Пакистан посредуваат меѓу САД и Иран за смирување на конфликтот",
-      "link": "https://netpress.com.mk/turczija-egipet-i-pakistan-posreduvaat-megu-sad-i-iran-za-smiruvane-na-konfliktot/",
-      "published": "Mon, 23 Mar 2026 19:48:50 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Следењето на членот на владата Петер Сијартo е сериозен напад врз Унгарија",
-      "link": "https://netpress.com.mk/sledeneto-na-chlenot-na-vladata-peter-sijarto-e-seriozen-napad-vrz-ungarija/",
-      "published": "Mon, 23 Mar 2026 19:39:16 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "САД ги одложија нападите врз Иран по предупредување на сојузниците",
-      "link": "https://netpress.com.mk/sad-gi-odlozhija-napadite-vrz-iran-po-predupreduvane-na-sojuzniczite/",
-      "published": "Mon, 23 Mar 2026 19:29:54 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Неколку илјади лица загинаа од почетокот на американско-израелските напади врз Иран",
-      "link": "https://netpress.com.mk/nekolku-iljadi-licza-zaginaa-od-pochetokot-na-amerikansko-izraelskite-napadi-vrz-iran/",
-      "published": "Mon, 23 Mar 2026 19:04:31 +0000"
     },
     {
       "region": "Свет",
@@ -90,26 +90,40 @@
       "source": "BBC",
       "title": "Oil falls and shares rebound after Trump says talks have been held to end war",
       "link": "https://www.bbc.com/news/articles/czex56kwxxzo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 23 Mar 2026 16:50:12 GMT"
+      "published": "Mon, 23 Mar 2026 20:21:51 GMT"
     },
     {
       "region": "Свет",
       "source": "BBC",
-      "title": "UN warns Earth's climate being 'pushed beyond its limits' as El Niño looms",
-      "link": "https://www.bbc.com/news/articles/c203rdxkezwo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 23 Mar 2026 04:06:22 GMT"
+      "title": "Slovenia becomes first EU country to introduce fuel rationing",
+      "link": "https://www.bbc.com/news/articles/c77m4zx6zvmo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 23 Mar 2026 17:45:25 GMT"
     },
     {
       "region": "Свет",
       "source": "BBC",
-      "title": "HK police can now demand phone passwords under new national security rules",
-      "link": "https://www.bbc.com/news/articles/ce8j9yj52lro?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 23 Mar 2026 08:06:25 GMT"
+      "title": "Referendum defeat leaves Italy's Meloni looking more vulnerable",
+      "link": "https://www.bbc.com/news/articles/crl1ne8dj1eo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 23 Mar 2026 20:25:32 GMT"
     },
     {
       "region": "Свет",
       "source": "Al Jazeera",
-      "title": "Colombian military plane with 125 on board crashes after takeoff",
+      "title": "Air Canada crash at LaGuardia Airport: What happened, who were the victims?",
+      "link": "https://www.aljazeera.com/news/2026/3/23/air-canada-crash-at-laguardia-airport-what-happened-who-were-the-victims?traffic_source=rss",
+      "published": "Mon, 23 Mar 2026 19:44:38 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Tehran residents express distrust over Trump’s war diplomacy",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/23/tehran-residents-express-distrust-over-trumps-war-diplomacy?traffic_source=rss",
+      "published": "Mon, 23 Mar 2026 19:43:27 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "At least one killed after Colombian military plane crashes on takeoff",
       "link": "https://www.aljazeera.com/news/2026/3/23/colombian-military-plane-with-125-on-board-crashes-after-takeoff?traffic_source=rss",
       "published": "Mon, 23 Mar 2026 19:11:27 +0000"
     },
@@ -126,20 +140,6 @@
       "title": "Italy’s Meloni concedes referendum defeat, calling it ‘a lost opportunity’",
       "link": "https://www.aljazeera.com/news/2026/3/23/italys-meloni-concedes-referendum-defeat-calling-it-a-lost-opportunity?traffic_source=rss",
       "published": "Mon, 23 Mar 2026 18:54:31 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "EU calls for clarification after Hungary accused of leaking info to Russia",
-      "link": "https://www.aljazeera.com/news/2026/3/23/eu-calls-for-clarification-after-hungary-accused-of-leaking-info-to-russia?traffic_source=rss",
-      "published": "Mon, 23 Mar 2026 18:36:16 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Iran denies any talks with US after Trump claims ‘productive’ discussions",
-      "link": "https://www.aljazeera.com/news/2026/3/23/iran-denies-any-talks-with-us-after-trump-claims-productive-discussions?traffic_source=rss",
-      "published": "Mon, 23 Mar 2026 18:21:54 +0000"
     }
   ]
 }
