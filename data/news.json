@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-23T20:07:43Z",
+  "updatedAt": "2026-03-23T20:53:52Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,24 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Имаме цврсти докази дека Русија споделува разузнавачки податоци со Иран, рече Зеленски",
+          "link": "https://makfax.com.mk/svet/imame-czvrsti-dokazi-deka-rusija-spodeluva-razuznavachki-podatoczi-so-iran-reche-zelenski/",
+          "published": "Mon, 23 Mar 2026 20:31:35 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Италијански град го менува името за да привлече туристи",
+          "link": "https://makfax.com.mk/svet/italijanski-grad-go-menuva-imeto-za-da-privleche-turisti/",
+          "published": "Mon, 23 Mar 2026 20:21:52 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Нетанјаху: Ќе продолжиме со нападите и покрај преговорите меѓу САД и Иран",
+          "link": "https://makfax.com.mk/svet/netanjahu-ke-prodolzhime-so-napadite-i-pokraj-pregovorite-megu-sad-i-iran/",
+          "published": "Mon, 23 Mar 2026 20:13:30 +0000"
         },
         {
           "source": "Makfax",
@@ -23,52 +41,34 @@
           "published": "Mon, 23 Mar 2026 19:00:53 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Teшко повредена продавачка во трговски центар во Скопје",
-          "link": "https://makfax.com.mk/crna-hronika/teshko-povredena-prodavachka-vo-trgovski-czentar-vo-skopje/",
-          "published": "Mon, 23 Mar 2026 18:59:07 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Израелски медиум објави можен датум за крај на војната со Иран",
-          "link": "https://makfax.com.mk/svet/izraelski-medium-objavi-mozhen-datum-za-kraj-na-vojnata-so-iran/",
-          "published": "Mon, 23 Mar 2026 18:24:36 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "ОН: Нашата зграда во Либан погодена од проектил",
-          "link": "https://makfax.com.mk/svet/on-nashata-zgrada-vo-liban-pogodena-od-proektil/",
-          "published": "Mon, 23 Mar 2026 18:15:19 +0000"
+          "source": "NetPress",
+          "title": "Jаревски: Стабилизирани се цените на горивата, приоритет на Владата останува заштита на животниот стандард",
+          "link": "https://netpress.com.mk/jarevski-stabilizirani-se-czenite-na-gorivata-prioritet-na-vladata-ostanuva-zashtita-na-zhivotniot-standard/",
+          "published": "Mon, 23 Mar 2026 20:47:17 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Гасот во Европа поевтини, по отстранувањето на заканите од САД и Иран",
-          "link": "https://netpress.com.mk/gasot-vo-evropa-poevtini-po-otstranuvaneto-na-zakanite-od-sad-i-iran/",
-          "published": "Mon, 23 Mar 2026 19:57:04 +0000"
+          "title": "Иран тврди дека погодил локации во Израел и три американски воени бази",
+          "link": "https://netpress.com.mk/iran-tvrdi-deka-pogodil-lokaczii-vo-izrael-i-tri-amerikanski-voeni-bazi/",
+          "published": "Mon, 23 Mar 2026 20:40:26 +0000"
         },
         {
           "source": "NetPress",
-          "title": "ИДФ го погодила главниот безбедносен штаб на ИРГЦ",
-          "link": "https://netpress.com.mk/idf-go-pogodila-glavniot-bezbednosen-shtab-na-irgcz/",
-          "published": "Mon, 23 Mar 2026 19:56:01 +0000"
+          "title": "Медиуми: Мисијата на ЕУ не може да пристапи до нафтоводот Дружба петти ден",
+          "link": "https://netpress.com.mk/mediumi-misijata-na-eu-ne-mozhe-da-pristapi-do-naftovodot-druzhba-petti-den/",
+          "published": "Mon, 23 Mar 2026 20:38:28 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Издадена поштенска марка „Кедев – 14 највисоки врвови“",
-          "link": "https://netpress.com.mk/izdadena-poshtenska-marka-kedev-14-najvisoki-vrvovi/",
-          "published": "Mon, 23 Mar 2026 19:51:46 +0000"
+          "title": "Бахреин иницира разговори во ОН за употреба на сила во Ормутскиот теснец",
+          "link": "https://netpress.com.mk/bahrein-iniczira-razgovori-vo-on-za-upotreba-na-sila-vo-ormutskiot-tesnecz/",
+          "published": "Mon, 23 Mar 2026 20:28:13 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Турција, Египет и Пакистан посредуваат меѓу САД и Иран за смирување на конфликтот",
-          "link": "https://netpress.com.mk/turczija-egipet-i-pakistan-posreduvaat-megu-sad-i-iran-za-smiruvane-na-konfliktot/",
-          "published": "Mon, 23 Mar 2026 19:48:50 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Следењето на членот на владата Петер Сијартo е сериозен напад врз Унгарија",
-          "link": "https://netpress.com.mk/sledeneto-na-chlenot-na-vladata-peter-sijarto-e-seriozen-napad-vrz-ungarija/",
-          "published": "Mon, 23 Mar 2026 19:39:16 +0000"
+          "title": "АТП/ВТА Мајами: Мухова и Мбоко први четвртфиналистки, Черундоло го нокаутира Медведев",
+          "link": "https://netpress.com.mk/atp-vta-majami-muhova-i-mboko-prvi-chetvrtfinalistki-cherundolo-go-nokautira-medvedev/",
+          "published": "Mon, 23 Mar 2026 20:20:07 +0000"
         }
       ]
     },
@@ -91,19 +91,31 @@
           "source": "BBC",
           "title": "Oil falls and shares rebound after Trump says talks have been held to end war",
           "link": "https://www.bbc.com/news/articles/czex56kwxxzo?at_medium=RSS&at_campaign=rss",
-          "published": "Mon, 23 Mar 2026 16:50:12 GMT"
+          "published": "Mon, 23 Mar 2026 20:21:51 GMT"
         },
         {
           "source": "BBC",
-          "title": "UN warns Earth's climate being 'pushed beyond its limits' as El Niño looms",
-          "link": "https://www.bbc.com/news/articles/c203rdxkezwo?at_medium=RSS&at_campaign=rss",
-          "published": "Mon, 23 Mar 2026 04:06:22 GMT"
+          "title": "Slovenia becomes first EU country to introduce fuel rationing",
+          "link": "https://www.bbc.com/news/articles/c77m4zx6zvmo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 23 Mar 2026 17:45:25 GMT"
         },
         {
           "source": "BBC",
-          "title": "HK police can now demand phone passwords under new national security rules",
-          "link": "https://www.bbc.com/news/articles/ce8j9yj52lro?at_medium=RSS&at_campaign=rss",
-          "published": "Mon, 23 Mar 2026 08:06:25 GMT"
+          "title": "Referendum defeat leaves Italy's Meloni looking more vulnerable",
+          "link": "https://www.bbc.com/news/articles/crl1ne8dj1eo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 23 Mar 2026 20:25:32 GMT"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Ukraine strikes key Russian oil port and refinery",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/23/ukraine-strikes-key-russian-oil-port-and-refinery?traffic_source=rss",
+          "published": "Mon, 23 Mar 2026 20:35:31 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "What Trump said about Iran after postponing military strikes",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/23/what-trump-said-about-iran-after-postponing-military-strikes?traffic_source=rss",
+          "published": "Mon, 23 Mar 2026 20:34:33 +0000"
         },
         {
           "source": "Al Jazeera",
@@ -119,21 +131,9 @@
         },
         {
           "source": "Al Jazeera",
-          "title": "At least one killed after Colombian military plane crashes on takeoff",
+          "title": "Colombian military plane crash kills at least one",
           "link": "https://www.aljazeera.com/news/2026/3/23/colombian-military-plane-with-125-on-board-crashes-after-takeoff?traffic_source=rss",
           "published": "Mon, 23 Mar 2026 19:11:27 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "‘Stop, stop, stop’: Moment Air Canada plane crashes into truck",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/23/stop-stop-stop-moment-air-canada-plane-crashes-into-truck?traffic_source=rss",
-          "published": "Mon, 23 Mar 2026 18:55:59 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Italy’s Meloni concedes referendum defeat, calling it ‘a lost opportunity’",
-          "link": "https://www.aljazeera.com/news/2026/3/23/italys-meloni-concedes-referendum-defeat-calling-it-a-lost-opportunity?traffic_source=rss",
-          "published": "Mon, 23 Mar 2026 18:54:31 +0000"
         }
       ]
     }
