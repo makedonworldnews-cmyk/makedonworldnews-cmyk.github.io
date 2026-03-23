@@ -1,10 +1,15 @@
 {
-  "updatedAt": "2026-03-23T13:47:09Z",
+  "generated_at": "2026-03-23T14:03:16Z",
   "errors": [
     {
       "source": "МИА",
       "url": "https://mia.mk/rss",
       "error": "404 Client Error: Not Found for url: https://mia.mk/rss"
+    },
+    {
+      "source": "Makfax",
+      "url": "https://makfax.com.mk/feed/",
+      "error": "HTTPSConnectionPool(host='makfax.com.mk', port=443): Read timed out. (read timeout=12)"
     }
   ]
 }
