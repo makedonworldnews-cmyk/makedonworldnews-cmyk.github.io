@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-23T21:37:16Z",
+  "updatedAt": "2026-03-23T22:01:30Z",
   "groups": [
     {
       "region": "Македонија",
@@ -42,6 +42,24 @@
         },
         {
           "source": "NetPress",
+          "title": "Македонија е сиромашна држава, а притворот е скапа мерка- побогати обвинети, повисоки гаранции",
+          "link": "https://netpress.com.mk/makedonija-e-siromashna-drzhava-a-pritvorot-e-skapa-merka-pobogati-obvineti-povisoki-garanczii/",
+          "published": "Mon, 23 Mar 2026 21:59:27 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Предложен сум од Владата, но не чувствувам обврска кон власта, таква е постапката за избор",
+          "link": "https://netpress.com.mk/predlozhen-sum-od-vladata-no-ne-chuvstvuvam-obvrska-kon-vlastata-takva-e-postapkata-za-izbor/",
+          "published": "Mon, 23 Mar 2026 21:43:50 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "ВИДЕО| Израелскaта „Давидова прачка“ не успеала да ги пресретне иранските ракети во Димона",
+          "link": "https://netpress.com.mk/video-izraelskata-davidova-prachka-ne-uspeala-da-gi-presretne-iranskite-raketi-vo-dimona/",
+          "published": "Mon, 23 Mar 2026 21:43:38 +0000"
+        },
+        {
+          "source": "NetPress",
           "title": "Јас и следниот ајатолах можеме да го контролираме Ормускиот теснец",
           "link": "https://netpress.com.mk/jas-i-sledniot-ajatolah-mozheme-da-go-kontrolirame-ormuskiot-tesnecz/",
           "published": "Mon, 23 Mar 2026 21:06:00 +0000"
@@ -51,24 +69,6 @@
           "title": "Обединетото Кралство мора да планира дека војната со Иран ќе продолжи „уште некое време“",
           "link": "https://netpress.com.mk/obedinetoto-kralstvo-mora-da-planira-deka-vojnata-so-iran-ke-prodolzhi-ushte-nekoe-vreme/",
           "published": "Mon, 23 Mar 2026 20:57:52 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Jаревски: Стабилизирани се цените на горивата, приоритет на Владата останува заштита на животниот стандард",
-          "link": "https://netpress.com.mk/jarevski-stabilizirani-se-czenite-na-gorivata-prioritet-na-vladata-ostanuva-zashtita-na-zhivotniot-standard/",
-          "published": "Mon, 23 Mar 2026 20:47:17 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Иран тврди дека погодил локации во Израел и три американски воени бази",
-          "link": "https://netpress.com.mk/iran-tvrdi-deka-pogodil-lokaczii-vo-izrael-i-tri-amerikanski-voeni-bazi/",
-          "published": "Mon, 23 Mar 2026 20:40:26 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Медиуми: Мисијата на ЕУ не може да пристапи до нафтоводот Дружба петти ден",
-          "link": "https://netpress.com.mk/mediumi-misijata-na-eu-ne-mozhe-da-pristapi-do-naftovodot-druzhba-petti-den/",
-          "published": "Mon, 23 Mar 2026 20:38:28 +0000"
         }
       ]
     },
@@ -107,6 +107,12 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Have Israel, the US and Iran violated international law?",
+          "link": "https://www.aljazeera.com/video/inside-story/2026/3/23/have-israel-the-us-and-iran-violated-international-law?traffic_source=rss",
+          "published": "Mon, 23 Mar 2026 21:34:08 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Smotrich urges Israel to annex southern Lebanon as assault intensifies",
           "link": "https://www.aljazeera.com/news/2026/3/23/smotrich-urges-israel-to-annex-southern-lebanon-as-assault-intensifies?traffic_source=rss",
           "published": "Mon, 23 Mar 2026 21:27:33 +0000"
@@ -128,12 +134,6 @@
           "title": "Ukraine strikes key Russian oil port and refinery",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/3/23/ukraine-strikes-key-russian-oil-port-and-refinery?traffic_source=rss",
           "published": "Mon, 23 Mar 2026 20:35:31 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "What Trump said about Iran after postponing military strikes",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/23/what-trump-said-about-iran-after-postponing-military-strikes?traffic_source=rss",
-          "published": "Mon, 23 Mar 2026 20:34:33 +0000"
         }
       ]
     }
