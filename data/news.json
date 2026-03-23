@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-23T02:24:48Z",
+  "updatedAt": "2026-03-23T04:40:33Z",
   "groups": [
     {
       "region": "Македонија",
@@ -77,9 +77,9 @@
       "items": [
         {
           "source": "BBC",
-          "title": "Israeli settlers target Palestinian villages in occupied West Bank, attacking people and properties",
-          "link": "https://www.bbc.com/news/articles/cew719w80g7o?at_medium=RSS&at_campaign=rss",
-          "published": "Sun, 22 Mar 2026 22:38:24 GMT"
+          "title": "Asia stocks slide as US and Iran threaten to intensify war",
+          "link": "https://www.bbc.com/news/articles/czex56kwxxzo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 23 Mar 2026 03:00:32 GMT"
         },
         {
           "source": "BBC",
@@ -95,15 +95,21 @@
         },
         {
           "source": "BBC",
-          "title": "Kenyans fighting illegally for Russia in Ukraine to be granted amnesty",
-          "link": "https://www.bbc.com/news/articles/cj94jmj2p28o?at_medium=RSS&at_campaign=rss",
-          "published": "Sun, 22 Mar 2026 19:05:30 GMT"
+          "title": "Israeli settlers target Palestinian villages in occupied West Bank, attacking people and properties",
+          "link": "https://www.bbc.com/news/articles/cew719w80g7o?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 22 Mar 2026 22:38:24 GMT"
         },
         {
           "source": "BBC",
-          "title": "National blackout hits Cuba for second time in a week",
-          "link": "https://www.bbc.com/news/articles/cvg0l44yxrvo?at_medium=RSS&at_campaign=rss",
-          "published": "Sun, 22 Mar 2026 21:31:41 GMT"
+          "title": "UN issues new climate warning as El Niño looms",
+          "link": "https://www.bbc.com/news/articles/c203rdxkezwo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 23 Mar 2026 04:06:22 GMT"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Immense damage seen in Iran’s streets after air strikes",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/23/immense-damage-seen-in-irans-streets-after-air-strikes?traffic_source=rss",
+          "published": "Mon, 23 Mar 2026 03:19:18 +0000"
         },
         {
           "source": "Al Jazeera",
@@ -128,12 +134,6 @@
           "title": "Socialist Emmanuel Gregoire wins Paris mayoral race",
           "link": "https://www.aljazeera.com/news/2026/3/22/socialist-emmanuel-gregoire-wins-paris-mayoral-race?traffic_source=rss",
           "published": "Sun, 22 Mar 2026 22:59:44 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Vinicius strikes twice as Real Madrid edge Atletico 3-2 in pulsating derby",
-          "link": "https://www.aljazeera.com/sports/2026/3/22/vinicius-strikes-twice-as-real-madrid-edge-atletico-3-2-in-pulsating-derby?traffic_source=rss",
-          "published": "Sun, 22 Mar 2026 22:37:57 +0000"
         }
       ]
     }
