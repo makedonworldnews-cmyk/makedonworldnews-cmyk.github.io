@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-24T19:43:10Z",
+  "updatedAt": "2026-03-24T20:26:46Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Трамп: Војната со Иран е добиена, Техеран ни даде огромен подарок поврзан со нафтата",
+          "link": "https://makfax.com.mk/svet/tramp-vojnata-so-iran-e-dobiena-teheran-ni-dade-ogromen-podarok-povrzan-so-naftata/",
+          "published": "Tue, 24 Mar 2026 20:10:10 +0000"
         },
         {
           "source": "Makfax",
@@ -35,10 +41,22 @@
           "published": "Tue, 24 Mar 2026 18:00:22 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Левица: Куба е симбол на отпор, солидарност против империјалистичките притисоци",
-          "link": "https://makfax.com.mk/makedonija/levicza-kuba-e-simbol-na-otpor-solidarnost-protiv-imperijalistichkite-pritisoczi/",
-          "published": "Tue, 24 Mar 2026 17:39:23 +0000"
+          "source": "NetPress",
+          "title": "Андоновски: Со електронската архива чувањето предмети во фиока заминува во историја",
+          "link": "https://netpress.com.mk/andonovski-so-elektronskata-arhiva-chuvaneto-predmeti-vo-fioka-zaminuva-vo-istorija/",
+          "published": "Tue, 24 Mar 2026 20:21:02 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Трамп: Иран ни испрати подарок вреден многу пари",
+          "link": "https://netpress.com.mk/tramp-iran-ni-isprati-podarok-vreden-mnogu-pari/",
+          "published": "Tue, 24 Mar 2026 19:54:05 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Уапсени двајца велешки крадци, дел од пленот пронајден",
+          "link": "https://netpress.com.mk/uapseni-dvajcza-veleshki-kradczi-del-od-plenot-pronajden/",
+          "published": "Tue, 24 Mar 2026 19:49:52 +0000"
         },
         {
           "source": "NetPress",
@@ -51,24 +69,6 @@
           "title": "Пронајден украден автомобил во дворот на жител на Чегране",
           "link": "https://netpress.com.mk/pronajden-ukraden-avtomobil-vo-dvorot-na-zhitel-na-chegrane/",
           "published": "Tue, 24 Mar 2026 19:00:23 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "За Ромите од Битола кривични пријави за предизвикување омраза и закани кон полицијата",
-          "link": "https://netpress.com.mk/za-romite-od-bitola-krivichni-prijavi-za-predizvikuvane-omraza-i-zakani-kon-policzijata/",
-          "published": "Tue, 24 Mar 2026 18:16:52 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "„Голф“ излетал од патот кај Рогачево, тешко повреден дваесетгодишен сопатник",
-          "link": "https://netpress.com.mk/golf-izletal-od-patot-kaj-rogachevo-teshko-povreden-dvaesetgodishen-sopatnik/",
-          "published": "Tue, 24 Mar 2026 18:07:58 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Имаме раст на пријави за семејно насилство, следуваат итни законски измени",
-          "link": "https://netpress.com.mk/imame-rast-na-prijavi-za-semejno-nasilstvo-sleduvaat-itni-zakonski-izmeni/",
-          "published": "Tue, 24 Mar 2026 17:37:37 +0000"
         }
       ]
     },
