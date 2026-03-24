@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-24T22:46:21Z",
+  "generated_at": "2026-03-24T23:16:19Z",
   "items": [
     {
       "region": "Македонија",
@@ -109,6 +109,13 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "Palestinian refugees in Lebanon face another forced displacement",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/24/palestinian-refugees-in-lebanon-face-another-forced-displacement?traffic_source=rss",
+      "published": "Tue, 24 Mar 2026 22:39:48 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "Arms manufacturer thrives amid US-Israel war on Iran",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/3/24/arms-manufacturer-thrives-amid-us-israel-war-on-iran?traffic_source=rss",
       "published": "Tue, 24 Mar 2026 21:33:59 +0000"
@@ -133,13 +140,6 @@
       "title": "Trump claims US has achieved ‘regime change’, ‘received present’ from Iran",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/3/24/trump-claims-us-has-achieved-regime-change-received-present-from-iran?traffic_source=rss",
       "published": "Tue, 24 Mar 2026 21:06:28 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Iraq to summon US, Iran envoys over deadly attacks: PM’s office",
-      "link": "https://www.aljazeera.com/news/2026/3/24/iraq-to-summon-us-iranian-envoys-over-deadly-attacks-pms-office?traffic_source=rss",
-      "published": "Tue, 24 Mar 2026 21:05:15 +0000"
     }
   ]
 }
