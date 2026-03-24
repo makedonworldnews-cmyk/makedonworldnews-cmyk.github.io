@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-24T02:50:17Z",
+  "updatedAt": "2026-03-24T04:53:44Z",
   "groups": [
     {
       "region": "Македонија",
@@ -77,9 +77,9 @@
       "items": [
         {
           "source": "BBC",
-          "title": "A committed pharmacist and a homesick blogger – the Iranian civilians killed in the war",
-          "link": "https://www.bbc.com/news/articles/c3v6ld7lv9no?at_medium=RSS&at_campaign=rss",
-          "published": "Mon, 23 Mar 2026 18:31:26 GMT"
+          "title": "Ultimatums, diplomacy and a trip to Graceland as Trump eyes a deal with Iran",
+          "link": "https://www.bbc.com/news/articles/c895v5pq5p1o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 24 Mar 2026 02:41:31 GMT"
         },
         {
           "source": "BBC",
@@ -95,15 +95,33 @@
         },
         {
           "source": "BBC",
+          "title": "Colombian military plane crash kills at least 66",
+          "link": "https://www.bbc.com/news/articles/c8dlmrjn1l2o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 24 Mar 2026 02:52:21 GMT"
+        },
+        {
+          "source": "BBC",
           "title": "Referendum defeat leaves Italy's Meloni looking more vulnerable",
           "link": "https://www.bbc.com/news/articles/crl1ne8dj1eo?at_medium=RSS&at_campaign=rss",
           "published": "Mon, 23 Mar 2026 20:25:32 GMT"
         },
         {
-          "source": "BBC",
-          "title": "Oil falls and shares rebound after Trump says talks have been held to end war",
-          "link": "https://www.bbc.com/news/articles/czex56kwxxzo?at_medium=RSS&at_campaign=rss",
-          "published": "Mon, 23 Mar 2026 20:21:51 GMT"
+          "source": "Al Jazeera",
+          "title": "Israel bombs petrol station in southern Lebanon",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/24/israel-bombs-petrol-station-in-southern-lebanon?traffic_source=rss",
+          "published": "Tue, 24 Mar 2026 04:28:17 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "US markets surge after Trump announces he’s postponing strikes on Iran",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/24/us-markets-surge-after-trump-announces-hes-postponing-strikes-on-iran?traffic_source=rss",
+          "published": "Tue, 24 Mar 2026 04:21:56 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Large pro-government rallies held in Tehran",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/24/large-pro-government-rallies-held-in-tehran?traffic_source=rss",
+          "published": "Tue, 24 Mar 2026 03:27:35 +0000"
         },
         {
           "source": "Al Jazeera",
@@ -116,24 +134,6 @@
           "title": "Texas oil refinery in flames after explosion",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/3/24/texas-oil-refinery-in-flames-after-explosion?traffic_source=rss",
           "published": "Tue, 24 Mar 2026 01:52:42 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Survivors pulled from wreckage of Colombian air force plane",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/24/survivors-pulled-from-wreckage-of-colombian-air-force-plane?traffic_source=rss",
-          "published": "Tue, 24 Mar 2026 01:40:42 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Israeli settlers vandalise school, raise Israeli flag in occupied West Bank",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/24/israeli-settlers-vandalise-school-raise-israeli-flag-in-occupied-west-bank?traffic_source=rss",
-          "published": "Tue, 24 Mar 2026 00:14:00 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Iran war live: Tehran says Trump’s peace talk claims are ‘fake news’",
-          "link": "https://www.aljazeera.com/news/liveblog/2026/3/24/iran-war-live-tehran-says-trumps-claims-of-peace-talks-fake?traffic_source=rss",
-          "published": "Tue, 24 Mar 2026 00:00:00 +0000"
         }
       ]
     }
