@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-25T15:54:17Z",
+  "updatedAt": "2026-03-25T17:02:44Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,24 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Савески-Вал: разговарано и за финансирањето и потребата од соодветен буџет за ефикасна борба против корупцијата",
+          "link": "https://makfax.com.mk/makedonija/saveski-val-razgovarano-i-za-finansiraneto-i-potrebata-od-soodveten-budhet-za-efikasna-borba-protiv-korupczijata/",
+          "published": "Wed, 25 Mar 2026 16:31:24 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Орбан: Потсмевањето на Трамп беше првата грешка на Европа",
+          "link": "https://makfax.com.mk/svet/orban-potsmevaneto-na-tramp-beshe-prvata-greshka-na-evropa/",
+          "published": "Wed, 25 Mar 2026 16:14:52 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Ѓорѓиевски: Обезбедуваме еднократна парична помош за онколошките пациенти",
+          "link": "https://makfax.com.mk/makedonija/gorgievski-obezbeduvame-ednokratna-parichna-pomosh-za-onkoloshkite-paczienti/",
+          "published": "Wed, 25 Mar 2026 16:06:45 +0000"
         },
         {
           "source": "Makfax",
@@ -23,52 +41,34 @@
           "published": "Wed, 25 Mar 2026 15:36:00 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Муцунски: Поставуваме основа за подлабока економска и трговска соработка со Полска",
-          "link": "https://makfax.com.mk/makedonija/muczunski-postavuvame-osnova-za-podlaboka-ekonomska-i-trgovska-sorabotka-so-polska/",
-          "published": "Wed, 25 Mar 2026 15:15:29 +0000"
+          "source": "NetPress",
+          "title": "Над осумдесет вработени во РЕК Битола затруени со храна?",
+          "link": "https://netpress.com.mk/nad-osumdeset-vraboteni-vo-rek-bitola-zatrueni-so-hrana/",
+          "published": "Wed, 25 Mar 2026 16:31:55 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Сиљановска-Давкова пред студентите во Загреб: ЕУ патот на Македонија полн со парадокси",
-          "link": "https://makfax.com.mk/makedonija/silanovska-davkova-odrzha-predavane-na-pravniot-fakultet-vo-zagreb/",
-          "published": "Wed, 25 Mar 2026 15:09:36 +0000"
+          "source": "NetPress",
+          "title": "Кривична пријава за угостителски објект – дивоградба кренат во 2008 година",
+          "link": "https://netpress.com.mk/krivichna-prijava-za-ugostitelski-objekt-divogradba-krenat-vo-2008-godina/",
+          "published": "Wed, 25 Mar 2026 16:15:53 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Гаши на средба со амбасадорот на Кореја",
-          "link": "https://makfax.com.mk/makedonija/gashi-na-sredba-so-ambasadorot-na-koreja/",
-          "published": "Wed, 25 Mar 2026 15:08:20 +0000"
+          "source": "NetPress",
+          "title": "Скопјанка прегазила дванаесетгодишник",
+          "link": "https://netpress.com.mk/skopjanka-pregazila-dvanaesetgodishnik/",
+          "published": "Wed, 25 Mar 2026 16:10:13 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Кај тинејџер во угостителски објект во село Марино пронајден пиштол",
+          "link": "https://netpress.com.mk/kaj-tinejdher-vo-ugostitelski-objekt-vo-selo-marino-pronajden-pishtol/",
+          "published": "Wed, 25 Mar 2026 16:01:25 +0000"
         },
         {
           "source": "NetPress",
           "title": "Доаѓа заладување со врнежи и ветришта",
           "link": "https://netpress.com.mk/doaga-zaladuvane-so-vrnezhi-i-vetrishta/",
           "published": "Wed, 25 Mar 2026 15:31:25 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Еднократна парична помош за онколошките пациенти",
-          "link": "https://netpress.com.mk/ednokratna-parichna-pomosh-za-onkoloshkite-paczienti/",
-          "published": "Wed, 25 Mar 2026 15:31:01 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Кривична за дилер од Кавадарци и за негов муштерија",
-          "link": "https://netpress.com.mk/krivichna-za-diler-od-kavadarczi-i-za-negov-mushterija/",
-          "published": "Wed, 25 Mar 2026 15:29:38 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Деловната активност во САД забави во март",
-          "link": "https://netpress.com.mk/delovnata-aktivnost-vo-sad-zabavi-vo-mart/",
-          "published": "Wed, 25 Mar 2026 15:21:17 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Дете прегазено на булеварот „Маршал Тито“ во Тетово",
-          "link": "https://netpress.com.mk/dete-pregazeno-na-bulevarot-marshal-tito-vo-tetovo/",
-          "published": "Wed, 25 Mar 2026 15:20:07 +0000"
         }
       ]
     },
@@ -95,45 +95,45 @@
         },
         {
           "source": "BBC",
-          "title": "'He liked the fear in our eyes,' Epstein survivors tell BBC",
-          "link": "https://www.bbc.com/news/articles/cy81n9wexx6o?at_medium=RSS&at_campaign=rss",
-          "published": "Wed, 25 Mar 2026 06:00:23 GMT"
+          "title": "'Men need to be perp-walked' after Epstein files release, US Congressman Massie tells BBC",
+          "link": "https://www.bbc.com/news/articles/cd0rek7v7npo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 25 Mar 2026 15:47:48 GMT"
         },
         {
           "source": "BBC",
-          "title": "Marcos promises 'flow of oil' as Philippines declares energy emergency",
-          "link": "https://www.bbc.com/news/articles/c3ex8ez3717o?at_medium=RSS&at_campaign=rss",
-          "published": "Wed, 25 Mar 2026 08:59:46 GMT"
+          "title": "Musketeer d'Artagnan's remains believed found under Dutch church",
+          "link": "https://www.bbc.com/news/articles/cm2rew2dgzzo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 25 Mar 2026 14:30:39 GMT"
         },
         {
           "source": "Al Jazeera",
-          "title": "Iran calls US proposal to end war ‘maximalist, unreasonable’",
-          "link": "https://www.aljazeera.com/news/2026/3/25/iran-calls-us-proposal-to-end-war-maximalist-unreasonable?traffic_source=rss",
-          "published": "Wed, 25 Mar 2026 15:11:36 +0000"
+          "title": "Protest in India over cooking gas crisis",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/25/protest-in-india-over-cooking-gas-crisis?traffic_source=rss",
+          "published": "Wed, 25 Mar 2026 16:36:39 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Missiles overhead, silence below: Israel’s home front holds firm",
-          "link": "https://www.aljazeera.com/news/2026/3/25/missiles-overhead-silence-below-israels-home-front-holds-firm?traffic_source=rss",
-          "published": "Wed, 25 Mar 2026 14:41:47 +0000"
+          "title": "Deadly US attack on Iraqi military base sparks condemnation",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/25/deadly-us-attack-on-iraqi-military-base-sparks-condemnation?traffic_source=rss",
+          "published": "Wed, 25 Mar 2026 16:31:23 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Anthropic’s case against the Pentagon could open space for AI regulation",
-          "link": "https://www.aljazeera.com/economy/2026/3/25/anthropics-case-against-the-pentagon-could-open-space-for-ai-regulation?traffic_source=rss",
-          "published": "Wed, 25 Mar 2026 14:41:16 +0000"
+          "title": "What it would take to end the Iran war",
+          "link": "https://www.aljazeera.com/opinions/2026/3/25/what-it-would-take-to-end-the-iran-war?traffic_source=rss",
+          "published": "Wed, 25 Mar 2026 16:25:30 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Hezbollah chief urges unity, no talks with Israel amid Lebanon attacks",
-          "link": "https://www.aljazeera.com/news/2026/3/25/hezbollah-chief-urges-unity-no-talks-with-israel-amid-lebanon-attacks?traffic_source=rss",
-          "published": "Wed, 25 Mar 2026 14:24:11 +0000"
+          "title": "Is war turning Tehran’s air into a chemical weapon?",
+          "link": "https://www.aljazeera.com/video/the-take-2/2026/3/25/aje-onl-tt_irn_chemicalwarfare_av_v2-240326?traffic_source=rss",
+          "published": "Wed, 25 Mar 2026 16:25:21 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Are Middle East attacks pushing Asia towards an energy crisis?",
-          "link": "https://www.aljazeera.com/video/counting-the-cost/2026/3/25/are-middle-east-attacks-pushing-asia-towards-an-energy-crisis?traffic_source=rss",
-          "published": "Wed, 25 Mar 2026 14:15:00 +0000"
+          "title": "Which teams can still qualify for the World Cup, and when are the playoffs?",
+          "link": "https://www.aljazeera.com/sports/2026/3/25/which-teams-can-still-qualify-for-the-world-cup-and-when-are-the-playoffs?traffic_source=rss",
+          "published": "Wed, 25 Mar 2026 16:19:45 +0000"
         }
       ]
     }
