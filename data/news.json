@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-25T19:56:08Z",
+  "updatedAt": "2026-03-25T20:42:46Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Предупредување од Белата куќа: „Ако Иран не го прифати поразот, Трамп ќе ги отвори „портите на пеколот“",
+          "link": "https://makfax.com.mk/svet/predupreduvane-od-belata-kuka-ako-iran-ne-go-prifati-porazot-tramp-ke-gi-otvori-portite-na-pekolot/",
+          "published": "Wed, 25 Mar 2026 20:35:40 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Нов земјотрес почувствуван во Македонија",
+          "link": "https://makfax.com.mk/makedonija/nov-zemjotres-pochuvstvuvan-vo-makedonija/",
+          "published": "Wed, 25 Mar 2026 20:03:48 +0000"
         },
         {
           "source": "Makfax",
@@ -29,16 +41,10 @@
           "published": "Wed, 25 Mar 2026 19:05:02 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Касемиро е на интеровиот радар",
-          "link": "https://makfax.com.mk/sport/kasemiro-e-na-interoviot-radar/",
-          "published": "Wed, 25 Mar 2026 18:51:33 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Сали во посета на студентскиот дом „Пелагонија“: разговарано за итната потреба од подобрување на стандардот и условите за сместување",
-          "link": "https://makfax.com.mk/makedonija/sali-vo-poseta-na-studentskiot-dom-pelagonija-razgovarano-za-itnata-potreba-od-podobruvane-na-standardot-i-uslovite-za-smestuvane/",
-          "published": "Wed, 25 Mar 2026 18:49:27 +0000"
+          "source": "NetPress",
+          "title": "Зеленски: САД ги поврзуваат безбедносните гаранции за Украина со предавањето на Донбас",
+          "link": "https://netpress.com.mk/zelenski-sad-gi-povrzuvaat-bezbednosnite-garanczii-za-ukraina-so-predavaneto-na-donbas/",
+          "published": "Wed, 25 Mar 2026 20:27:47 +0000"
         },
         {
           "source": "NetPress",
@@ -63,12 +69,6 @@
           "title": "ВИДЕО| Четворица Албанци уапсени во Србија: Прикажувале симболи на Голема Албанија, ја навредувале Србија",
           "link": "https://netpress.com.mk/video-chetvoricza-albanczi-uapseni-vo-srbija-prikazhuvale-simboli-na-golema-albanija-ja-navreduvale-srbija/",
           "published": "Wed, 25 Mar 2026 18:52:07 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "ФОТО| Останките на мускетарот д’Артањан можеби пронајдени во холандска црква",
-          "link": "https://netpress.com.mk/foto-ostankite-na-musketarot-dartanan-mozhebi-pronajdeni-vo-holandska-czrkva/",
-          "published": "Wed, 25 Mar 2026 18:45:30 +0000"
         }
       ]
     },
@@ -83,9 +83,9 @@
         },
         {
           "source": "BBC",
-          "title": "UN votes to recognise slavery as 'gravest crime against humanity'",
+          "title": "UN votes to recognise enslavement of Africans as 'gravest crime against humanity'",
           "link": "https://www.bbc.com/news/articles/cvg06q36052o?at_medium=RSS&at_campaign=rss",
-          "published": "Wed, 25 Mar 2026 17:51:27 GMT"
+          "published": "Wed, 25 Mar 2026 20:12:31 GMT"
         },
         {
           "source": "BBC",
@@ -107,33 +107,33 @@
         },
         {
           "source": "Al Jazeera",
-          "title": "What’s Iran’s war strategy and what risks does it pose?",
-          "link": "https://www.aljazeera.com/video/inside-story/2026/3/25/whats-irans-war-strategy-and-what-risks-does-it-pose?traffic_source=rss",
-          "published": "Wed, 25 Mar 2026 19:22:06 +0000"
+          "title": "Palestinian family evicted from home in occupied East Jerusalem",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/25/palestinian-family-evicted-from-home-in-occupied-east-jerusalem?traffic_source=rss",
+          "published": "Wed, 25 Mar 2026 20:29:49 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "UN passes resolution naming slave trade ‘gravest crime against humanity’",
-          "link": "https://www.aljazeera.com/news/2026/3/25/un-passes-resolution-naming-slave-trade-gravest-crime-against-humanity?traffic_source=rss",
-          "published": "Wed, 25 Mar 2026 18:55:28 +0000"
+          "title": "Trump to visit Xi Jinping in China on May 14 and 15 after Iran war delay",
+          "link": "https://www.aljazeera.com/news/2026/3/25/trump-to-visit-xi-jinping-in-china-on-may-14-and-15-after-iran-war-delay?traffic_source=rss",
+          "published": "Wed, 25 Mar 2026 20:20:16 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "UN chief says ‘high time’ to end ‘out of control’ war on Iran",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/25/un-chief-says-high-time-to-end-out-of-control-war-on-iran?traffic_source=rss",
-          "published": "Wed, 25 Mar 2026 18:44:58 +0000"
+          "title": "US tells Iran to accept defeat or Trump will ‘unleash hell’",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/25/us-tells-iran-to-accept-defeat-or-trump-will-unleash?traffic_source=rss",
+          "published": "Wed, 25 Mar 2026 20:12:04 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Iran’s state TV outlines five conditions to end war",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/25/irans-state-tv-outlines-five-conditions-to-end-war?traffic_source=rss",
-          "published": "Wed, 25 Mar 2026 18:41:11 +0000"
+          "title": "Democrat Emily Gregory wins Florida seat in Trump’s Mar-a-Lago district",
+          "link": "https://www.aljazeera.com/news/2026/3/25/democrat-alleges-trump-sold-out-us-security-in-classified-documents-case?traffic_source=rss",
+          "published": "Wed, 25 Mar 2026 20:08:23 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Israel forcibly displaces more Palestinian families in East Jerusalem",
-          "link": "https://www.aljazeera.com/news/2026/3/25/israel-forcibly-displaces-more-palestinian-families-in-east-jerusalem?traffic_source=rss",
-          "published": "Wed, 25 Mar 2026 18:29:50 +0000"
+          "title": "US jury finds Meta, Alphabet liable in landmark social media addiction case",
+          "link": "https://www.aljazeera.com/economy/2026/3/25/us-jury-finds-meta-alphabet-liable-in-landmark-social-media-addiction-case?traffic_source=rss",
+          "published": "Wed, 25 Mar 2026 19:30:22 +0000"
         }
       ]
     }
