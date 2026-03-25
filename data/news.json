@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-25T20:42:46Z",
+  "updatedAt": "2026-03-25T21:22:46Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Зеленски: Русија се обиде да ги уценува САД",
+          "link": "https://makfax.com.mk/svet/zelenski-rusija-se-obide-da-gi-uczenuva-sad/",
+          "published": "Wed, 25 Mar 2026 21:03:04 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Вучиќ: „Хрватска е извонредно моќна вооружена земја“; „Мораме да бидеме подготвени да се одбраниме“",
+          "link": "https://makfax.com.mk/svet/region/vuchik-hrvatska-e-izvonredno-mokna-vooruzhena-zemja-morame-da-bideme-podgotveni-da-se-odbranime/",
+          "published": "Wed, 25 Mar 2026 20:55:58 +0000"
         },
         {
           "source": "Makfax",
@@ -29,46 +41,34 @@
           "published": "Wed, 25 Mar 2026 19:47:27 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Трипуновски од Кичево: Креираме политики заедно со земјоделците",
-          "link": "https://makfax.com.mk/makedonija/tripunovski-od-kichevo-kreirame-politiki-zaedno-so-zemjodelczite/",
-          "published": "Wed, 25 Mar 2026 19:26:24 +0000"
+          "source": "NetPress",
+          "title": "CAS отвори постапка по жалбата на Сенегал",
+          "link": "https://netpress.com.mk/cas-otvori-postapka-po-zhalbata-na-senegal/",
+          "published": "Wed, 25 Mar 2026 21:19:36 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Дмитриев: Украина се обидува да ја влоши енергетската криза",
-          "link": "https://makfax.com.mk/svet/dmitriev-ukraina-se-obiduva-da-ja-vloshi-energetskata-kriza/",
-          "published": "Wed, 25 Mar 2026 19:05:02 +0000"
+          "source": "NetPress",
+          "title": "Судот ги прогласи за виновни „Мета“ и „Јутјуб“ бидејќи дизајнирале производи што предизвикуваат зависност и им штетат на младите",
+          "link": "https://netpress.com.mk/sudot-gi-proglasi-za-vinovni-meta-i-jutjub-bidejki-dizajnirale-proizvodi-shto-predizvikuvaat-zavisnost-i-im-shtetat-na-mladite/",
+          "published": "Wed, 25 Mar 2026 21:18:10 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Иранците тренираат во Турција под строга медиумска контрола",
+          "link": "https://netpress.com.mk/iranczite-treniraat-vo-turczija-pod-stroga-mediumska-kontrola/",
+          "published": "Wed, 25 Mar 2026 21:09:57 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Белата куќа: Трамп ќе удри посилно ако Иран не го прифати воениот пораз",
+          "link": "https://netpress.com.mk/belata-kuka-tramp-ke-udri-posilno-ako-iran-ne-go-prifati-voeniot-poraz/",
+          "published": "Wed, 25 Mar 2026 20:43:56 +0000"
         },
         {
           "source": "NetPress",
           "title": "Зеленски: САД ги поврзуваат безбедносните гаранции за Украина со предавањето на Донбас",
           "link": "https://netpress.com.mk/zelenski-sad-gi-povrzuvaat-bezbednosnite-garanczii-za-ukraina-so-predavaneto-na-donbas/",
           "published": "Wed, 25 Mar 2026 20:27:47 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Вучиќ за набавката на гас: Русија е сигурен партнер, се надевам на разговор со Путин",
-          "link": "https://netpress.com.mk/vuchik-za-nabavkata-na-gas-rusija-e-siguren-partner-se-nadevam-na-razgovor-so-putin/",
-          "published": "Wed, 25 Mar 2026 19:47:21 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Навивач по 77 години остана без место на „Олд Трафорд“",
-          "link": "https://netpress.com.mk/navivach-po-77-godini-ostana-bez-mesto-na-old-traford/",
-          "published": "Wed, 25 Mar 2026 19:37:55 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Сара Малали востоличена како првата жена епископ на Англиканската црква",
-          "link": "https://netpress.com.mk/sara-malali-vostolichena-kako-prvata-zhena-episkop-na-anglikanskata-czrkva/",
-          "published": "Wed, 25 Mar 2026 19:06:50 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "ВИДЕО| Четворица Албанци уапсени во Србија: Прикажувале симболи на Голема Албанија, ја навредувале Србија",
-          "link": "https://netpress.com.mk/video-chetvoricza-albanczi-uapseni-vo-srbija-prikazhuvale-simboli-na-golema-albanija-ja-navreduvale-srbija/",
-          "published": "Wed, 25 Mar 2026 18:52:07 +0000"
         }
       ]
     },
@@ -79,7 +79,7 @@
           "source": "BBC",
           "title": "Meta and YouTube found liable in landmark social media addiction trial",
           "link": "https://www.bbc.com/news/articles/c747x7gz249o?at_medium=RSS&at_campaign=rss",
-          "published": "Wed, 25 Mar 2026 19:38:00 GMT"
+          "published": "Wed, 25 Mar 2026 21:06:23 GMT"
         },
         {
           "source": "BBC",
@@ -107,33 +107,33 @@
         },
         {
           "source": "Al Jazeera",
-          "title": "Palestinian family evicted from home in occupied East Jerusalem",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/25/palestinian-family-evicted-from-home-in-occupied-east-jerusalem?traffic_source=rss",
-          "published": "Wed, 25 Mar 2026 20:29:49 +0000"
+          "title": "Palestine weekly wrap: West Bank attacks surge, Israel restricts Gaza aid",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/25/palestine-weekly-wrap-west-bank-attacks-surge-israel-restricts-gaza-aid?traffic_source=rss",
+          "published": "Wed, 25 Mar 2026 21:07:47 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Trump to visit Xi Jinping in China on May 14 and 15 after Iran war delay",
-          "link": "https://www.aljazeera.com/news/2026/3/25/trump-to-visit-xi-jinping-in-china-on-may-14-and-15-after-iran-war-delay?traffic_source=rss",
-          "published": "Wed, 25 Mar 2026 20:20:16 +0000"
+          "title": "Philippines farmers feeling the pinch of the war on Iran",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/25/philippines-farmers-feeling-the-pinch-of-the-war-on-iran?traffic_source=rss",
+          "published": "Wed, 25 Mar 2026 20:59:41 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "US tells Iran to accept defeat or Trump will ‘unleash hell’",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/25/us-tells-iran-to-accept-defeat-or-trump-will-unleash?traffic_source=rss",
-          "published": "Wed, 25 Mar 2026 20:12:04 +0000"
+          "title": "Barcelona hammer Real Madrid in Women’s Champions League quarterfinals",
+          "link": "https://www.aljazeera.com/sports/2026/3/25/barcelona-hammer-real-madrid-in-womens-champions-league-quarterfinals?traffic_source=rss",
+          "published": "Wed, 25 Mar 2026 20:51:52 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Democrat Emily Gregory wins Florida seat in Trump’s Mar-a-Lago district",
-          "link": "https://www.aljazeera.com/news/2026/3/25/democrat-alleges-trump-sold-out-us-security-in-classified-documents-case?traffic_source=rss",
-          "published": "Wed, 25 Mar 2026 20:08:23 +0000"
+          "title": "US investors bet big on Indian cricket with record billion-dollar IPL deals",
+          "link": "https://www.aljazeera.com/sports/2026/3/25/us-investors-bet-big-on-indian-cricket-with-record-billion-dollar-ipl-deals?traffic_source=rss",
+          "published": "Wed, 25 Mar 2026 20:51:50 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "US jury finds Meta, Alphabet liable in landmark social media addiction case",
-          "link": "https://www.aljazeera.com/economy/2026/3/25/us-jury-finds-meta-alphabet-liable-in-landmark-social-media-addiction-case?traffic_source=rss",
-          "published": "Wed, 25 Mar 2026 19:30:22 +0000"
+          "title": "UN adopts slavery resolution despite resistance",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/25/un-adopts-slavery-resolution-despite-resistance?traffic_source=rss",
+          "published": "Wed, 25 Mar 2026 20:50:15 +0000"
         }
       ]
     }
