@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-25T03:40:08Z",
+  "updatedAt": "2026-03-25T05:14:39Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Папата: Омразата расте, насилството станува сè полошо и полошо",
+          "link": "https://makfax.com.mk/svet/papata-omrazata-raste-nasilstvoto-stanuva-se-polosho-i-polosho/",
+          "published": "Wed, 25 Mar 2026 05:11:53 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Променливо облачно со сончеви периоди, максималната температура до 19 степени",
+          "link": "https://makfax.com.mk/makedonija/promenlivo-oblachno-so-sonchevi-periodi-maksimalnata-temperatura-do-19-stepeni/",
+          "published": "Wed, 25 Mar 2026 05:06:08 +0000"
         },
         {
           "source": "Makfax",
@@ -27,18 +39,6 @@
           "title": "Трамп: Војната со Иран е добиена, Техеран ни даде огромен подарок поврзан со нафтата",
           "link": "https://makfax.com.mk/svet/tramp-vojnata-so-iran-e-dobiena-teheran-ni-dade-ogromen-podarok-povrzan-so-naftata/",
           "published": "Tue, 24 Mar 2026 20:10:10 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Хороскопски знаци кои никогаш не забораваат предавството: Довербата кај нив се гради со години, а се губи во секунда",
-          "link": "https://makfax.com.mk/zanimlivosti/horoskopski-znaczi-koi-nikogash-ne-zaboravaat-predavstvoto-doverbata-kaj-niv-se-gradi-so-godini-a-se-gubi-vo-sekunda/",
-          "published": "Tue, 24 Mar 2026 19:29:03 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "„Бев неконтролирано бесен“: Џеј Зи првпат проговори за тужбата за силување што беше отфрлена",
-          "link": "https://makfax.com.mk/zanimlivosti/bev-nekontrolirano-besen-dhej-zi-prvpat-progovori-za-tuzhbata-za-siluvane-shto-beshe-otfrlena/",
-          "published": "Tue, 24 Mar 2026 19:11:21 +0000"
         },
         {
           "source": "NetPress",
@@ -83,57 +83,57 @@
         },
         {
           "source": "BBC",
+          "title": "Tough negotiations loom as Denmark's Social Democrats fail to secure a majority",
+          "link": "https://www.bbc.com/news/articles/c74v5qynl9vo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 25 Mar 2026 03:40:53 GMT"
+        },
+        {
+          "source": "BBC",
           "title": "Iran war shows norms of international conflicts have been overturned",
           "link": "https://www.bbc.com/news/articles/c4gjv02g54ko?at_medium=RSS&at_campaign=rss",
           "published": "Tue, 24 Mar 2026 15:55:08 GMT"
         },
         {
           "source": "BBC",
-          "title": "Russia launches 948 drones at Ukraine in largest attack over 24-hour period",
-          "link": "https://www.bbc.com/news/articles/cz90gpyw90wo?at_medium=RSS&at_campaign=rss",
-          "published": "Tue, 24 Mar 2026 21:47:10 GMT"
+          "title": "OpenAI ends Disney partnership as it closes Sora video-making app",
+          "link": "https://www.bbc.com/news/articles/c3w3e467ewqo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 25 Mar 2026 04:48:56 GMT"
         },
         {
           "source": "BBC",
-          "title": "Democrats flip Florida  seat that includes Trump's Mar-a-Lago home",
-          "link": "https://www.bbc.com/news/articles/c9qd7wyln2jo?at_medium=RSS&at_campaign=rss",
-          "published": "Wed, 25 Mar 2026 03:36:08 GMT"
-        },
-        {
-          "source": "BBC",
-          "title": "Everyday life in Asia is being upended by Iran war fuel crisis",
-          "link": "https://www.bbc.com/news/articles/c1450zj6n48o?at_medium=RSS&at_campaign=rss",
-          "published": "Tue, 24 Mar 2026 17:12:50 GMT"
+          "title": "Pilots killed in LaGuardia plane crash named",
+          "link": "https://www.bbc.com/news/articles/cz67jq0enwpo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 24 Mar 2026 20:34:20 GMT"
         },
         {
           "source": "Al Jazeera",
-          "title": "Philippine president declares energy emergency as impact of Iran war felt",
-          "link": "https://www.aljazeera.com/news/2026/3/25/philippine-president-declares-energy-emergency-as-impact-of-iran-war-felt?traffic_source=rss",
-          "published": "Wed, 25 Mar 2026 01:46:20 +0000"
+          "title": "Indonesians fire wooden cannons in post-Eid tradition",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/25/indonesians-fire-wooden-cannons-in-post-eid-tradition?traffic_source=rss",
+          "published": "Wed, 25 Mar 2026 04:51:22 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Philippines declares national emergency as fuel supplies dwindle",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/25/philippines-declares-national-emergency-as-fuel-supplies-dwindle?traffic_source=rss",
-          "published": "Wed, 25 Mar 2026 01:38:49 +0000"
+          "title": "Canada tells Israel that Lebanon’s sovereignty ‘must not be violated’",
+          "link": "https://www.aljazeera.com/news/2026/3/25/canada-tells-israel-that-lebanons-sovereignty-must-not-be-violated?traffic_source=rss",
+          "published": "Wed, 25 Mar 2026 04:21:15 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Indian police manage long lines as panic grows over fuel shortages",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/25/indian-police-manage-long-lines-as-panic-grows-over-fuel-shortages?traffic_source=rss",
-          "published": "Wed, 25 Mar 2026 01:35:56 +0000"
+          "title": "US jury orders Meta to pay $375m for endangering children",
+          "link": "https://www.aljazeera.com/economy/2026/3/25/us-jury-orders-meta-to-pay-375m-for-endangering-children?traffic_source=rss",
+          "published": "Wed, 25 Mar 2026 04:10:03 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Israeli and Palestinian mothers call for peace on barefoot walk",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/25/israeli-and-palestinian-mothers-call-for-peace-on-barefoot-walk?traffic_source=rss",
-          "published": "Wed, 25 Mar 2026 01:18:01 +0000"
+          "title": "What we know about the US’s 15-point plan Iran proposal",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/25/what-we-know-about-the-uss-15-point-plan-iran-proposal?traffic_source=rss",
+          "published": "Wed, 25 Mar 2026 04:10:03 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Iran war live: Trump again says talks under way; 12 killed in south Tehran",
-          "link": "https://www.aljazeera.com/news/liveblog/2026/3/25/iran-war-live-trump-again-says-talks-underway-12-killed-in-south-tehran?traffic_source=rss",
-          "published": "Wed, 25 Mar 2026 00:00:00 +0000"
+          "title": "US to send thousands of soldiers from 82nd Airborne Division to Middle East",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/25/us-to-send-thousands-of-soldiers-from-82nd-airborne-division-to-middle-east?traffic_source=rss",
+          "published": "Wed, 25 Mar 2026 03:52:05 +0000"
         }
       ]
     }
