@@ -1,6 +1,13 @@
 {
-  "generated_at": "2026-03-25T19:30:06Z",
+  "generated_at": "2026-03-25T20:02:13Z",
   "items": [
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "Иран се заканува дека ќе блокира уште еден клучен теснец: „Ќе ја бомбардираме и нашата сопствена почва“",
+      "link": "https://makfax.com.mk/svet/iran-se-zakanuva-deka-ke-blokira-ushte-eden-kluchen-tesnecz-ke-ja-bombardirame-i-nashata-sopstvena-pochva/",
+      "published": "Wed, 25 Mar 2026 19:47:27 +0000"
+    },
     {
       "region": "Македонија",
       "source": "Makfax",
@@ -31,10 +38,17 @@
     },
     {
       "region": "Македонија",
-      "source": "Makfax",
-      "title": "Сè што треба да знаете за плејофот за пласман на Светското првенство",
-      "link": "https://makfax.com.mk/sport/se-shto-treba-da-znaete-za-plejofot-za-plasman-na-svetskoto-prvenstvo/",
-      "published": "Wed, 25 Mar 2026 18:42:32 +0000"
+      "source": "NetPress",
+      "title": "Вучиќ за набавката на гас: Русија е сигурен партнер, се надевам на разговор со Путин",
+      "link": "https://netpress.com.mk/vuchik-za-nabavkata-na-gas-rusija-e-siguren-partner-se-nadevam-na-razgovor-so-putin/",
+      "published": "Wed, 25 Mar 2026 19:47:21 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "NetPress",
+      "title": "Навивач по 77 години остана без место на „Олд Трафорд“",
+      "link": "https://netpress.com.mk/navivach-po-77-godini-ostana-bez-mesto-na-old-traford/",
+      "published": "Wed, 25 Mar 2026 19:37:55 +0000"
     },
     {
       "region": "Македонија",
@@ -58,25 +72,11 @@
       "published": "Wed, 25 Mar 2026 18:45:30 +0000"
     },
     {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Израел брза да го нападне Иран пред американските сили да постигнат прекин на огнот",
-      "link": "https://netpress.com.mk/izrael-brza-da-go-napadne-iran-pred-amerikanskite-sili-da-postignat-prekin-na-ognot/",
-      "published": "Wed, 25 Mar 2026 18:30:10 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Иран го отфрла предлогот на САД, поставува пет услови за прекин на наметнатата војна, објави Press TV",
-      "link": "https://netpress.com.mk/iran-go-otfrla-predlogot-na-sad-postavuva-pet-uslovi-za-prekin-na-nametnatata-vojna-objavi-press-tv/",
-      "published": "Wed, 25 Mar 2026 18:13:09 +0000"
-    },
-    {
       "region": "Свет",
       "source": "BBC",
       "title": "Meta and YouTube found liable in landmark social media addiction trial",
       "link": "https://www.bbc.com/news/articles/c747x7gz249o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 25 Mar 2026 19:22:21 GMT"
+      "published": "Wed, 25 Mar 2026 19:38:00 GMT"
     },
     {
       "region": "Свет",
@@ -109,6 +109,13 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "What’s Iran’s war strategy and what risks does it pose?",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/3/25/whats-irans-war-strategy-and-what-risks-does-it-pose?traffic_source=rss",
+      "published": "Wed, 25 Mar 2026 19:22:06 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "UN passes resolution naming slave trade ‘gravest crime against humanity’",
       "link": "https://www.aljazeera.com/news/2026/3/25/un-passes-resolution-naming-slave-trade-gravest-crime-against-humanity?traffic_source=rss",
       "published": "Wed, 25 Mar 2026 18:55:28 +0000"
@@ -133,13 +140,6 @@
       "title": "Israel forcibly displaces more Palestinian families in East Jerusalem",
       "link": "https://www.aljazeera.com/news/2026/3/25/israel-forcibly-displaces-more-palestinian-families-in-east-jerusalem?traffic_source=rss",
       "published": "Wed, 25 Mar 2026 18:29:50 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Palestine Action hunger strikers to sue prisons over alleged mistreatment",
-      "link": "https://www.aljazeera.com/news/2026/3/25/palestine-action-hunger-strikers-to-sue-prisons-over-alleged-mistreatment?traffic_source=rss",
-      "published": "Wed, 25 Mar 2026 17:49:47 +0000"
     }
   ]
 }
