@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-26T20:59:10Z",
+  "updatedAt": "2026-03-26T21:39:40Z",
   "groups": [
     {
       "region": "Македонија",
@@ -42,6 +42,24 @@
         },
         {
           "source": "NetPress",
+          "title": "Трамп ги одложи нападите врз иранските енергетски објекти за десет дена",
+          "link": "https://netpress.com.mk/tramp-gi-odlozhi-napadite-vrz-iranskite-energetski-objekti-za-deset-dena/",
+          "published": "Thu, 26 Mar 2026 21:39:07 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Предмети од светот на хеви-металот одат на аукција",
+          "link": "https://netpress.com.mk/predmeti-od-svetot-na-hevi-metalot-odat-na-aukczija/",
+          "published": "Thu, 26 Mar 2026 21:11:52 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Сенегал најавува „крстоносна војна“ за враќање на одземената титула",
+          "link": "https://netpress.com.mk/senegal-najavuva-krstonosna-vojna-za-vrakane-na-odzemenata-titula/",
+          "published": "Thu, 26 Mar 2026 21:00:06 +0000"
+        },
+        {
+          "source": "NetPress",
           "title": "ВМРО-ДПМНЕ: Филипче бега од седница за пратенички прашања, а партијата пушта соопштенија што кажал Мицкоски",
           "link": "https://netpress.com.mk/vmro-dpmne-filipche-bega-od-sednicza-za-pratenichki-prashana-a-partijata-pushta-soopshtenija-shto-kazhal-miczkoski/",
           "published": "Thu, 26 Mar 2026 20:55:27 +0000"
@@ -51,24 +69,6 @@
           "title": "Слаб снег на Попова Шапка, сообраќајот се одвива без застои",
           "link": "https://netpress.com.mk/slab-sneg-na-popova-shapka-soobrakajot-se-odviva-bez-zastoi/",
           "published": "Thu, 26 Mar 2026 20:49:43 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Судијата наклонет Мадуро да ја финансираат одбраната со пари од Венецуела",
-          "link": "https://netpress.com.mk/sudijata-naklonet-maduro-da-ja-finansiraat-odbranata-so-pari-od-veneczuela/",
-          "published": "Thu, 26 Mar 2026 20:47:51 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Кинески универзитет ги охрабрува студентите да се „вљубат“ за време на пролетниот распуст",
-          "link": "https://netpress.com.mk/kineski-univerzitet-gi-ohrabruva-studentite-da-se-vlubat-za-vreme-na-proletniot-raspust/",
-          "published": "Thu, 26 Mar 2026 20:09:21 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Македонија во група со Шведска, Грција и Луксембург за ракометното ЕП 2028",
-          "link": "https://netpress.com.mk/makedonija-vo-grupa-so-shvedska-grczija-i-luksemburg-za-rakometnoto-ep-2028/",
-          "published": "Thu, 26 Mar 2026 19:39:55 +0000"
         }
       ]
     },
@@ -95,15 +95,27 @@
         },
         {
           "source": "BBC",
+          "title": "Spanish woman dies by euthanasia after long legal battle with father",
+          "link": "https://www.bbc.com/news/articles/c7vqdd23y0vo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 26 Mar 2026 20:33:07 GMT"
+        },
+        {
+          "source": "BBC",
           "title": "Orban's Hungarian government accused of mass voter intimidation ahead of election",
           "link": "https://www.bbc.com/news/articles/c36r0068xp2o?at_medium=RSS&at_campaign=rss",
           "published": "Thu, 26 Mar 2026 17:16:06 GMT"
         },
         {
-          "source": "BBC",
-          "title": "Olympic women's sport limited to biological females",
-          "link": "https://www.bbc.com/sport/olympics/articles/cdj7dgvlj0no?at_medium=RSS&at_campaign=rss",
-          "published": "Thu, 26 Mar 2026 14:29:18 GMT"
+          "source": "Al Jazeera",
+          "title": "Iran placing messages on missiles as war of narratives intensifies",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/26/iran-placing-messages-on-missiles-as-war-of-narratives-intensifies?traffic_source=rss",
+          "published": "Thu, 26 Mar 2026 20:56:21 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Protests erupt outside US court over Maduro case",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/26/protests-erupt-outside-us-court-over-maduro-case?traffic_source=rss",
+          "published": "Thu, 26 Mar 2026 20:44:16 +0000"
         },
         {
           "source": "Al Jazeera",
@@ -122,18 +134,6 @@
           "title": "US judge weighs Trump decision to bar Venezuelan funds for Maduro’s defence",
           "link": "https://www.aljazeera.com/news/2026/3/26/us-judge-weighs-trump-decision-to-bar-venezuelan-funds-for-maduros-defence?traffic_source=rss",
           "published": "Thu, 26 Mar 2026 19:53:04 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Key takeaways from Trump’s war on Iran meeting",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/26/key-takeaways-from-trumps-war-on-iran-meeting?traffic_source=rss",
-          "published": "Thu, 26 Mar 2026 19:19:11 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Trump says Iran ‘begging’ for deal to end war as Tehran issues new demands",
-          "link": "https://www.aljazeera.com/news/2026/3/26/as-trump-claims-us-winning-tehran-asserts-legal-right-over-hormuz-strait?traffic_source=rss",
-          "published": "Thu, 26 Mar 2026 19:02:32 +0000"
         }
       ]
     }
