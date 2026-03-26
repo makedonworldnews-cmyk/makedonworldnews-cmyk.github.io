@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-25T23:35:54Z",
+  "updatedAt": "2026-03-26T00:02:57Z",
   "groups": [
     {
       "region": "Македонија",
@@ -107,6 +107,12 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Egypt says it is ready to host Iran de-escalation talks",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/25/egypt-says-it-is-ready-to-host-iran-de-escalation-talks?traffic_source=rss",
+          "published": "Wed, 25 Mar 2026 23:44:14 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Iranian foreign minister rejects talks with US",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/3/25/iranian-foreign-minister-rejects-talks-with-us?traffic_source=rss",
           "published": "Wed, 25 Mar 2026 23:09:23 +0000"
@@ -128,12 +134,6 @@
           "title": "Palestine weekly wrap: West Bank attacks surge, Israel restricts Gaza aid",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/3/25/palestine-weekly-wrap-west-bank-attacks-surge-israel-restricts-gaza-aid?traffic_source=rss",
           "published": "Wed, 25 Mar 2026 21:07:47 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Philippines farmers feeling the pinch of the war on Iran",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/25/philippines-farmers-feeling-the-pinch-of-the-war-on-iran?traffic_source=rss",
-          "published": "Wed, 25 Mar 2026 20:59:41 +0000"
         }
       ]
     }
