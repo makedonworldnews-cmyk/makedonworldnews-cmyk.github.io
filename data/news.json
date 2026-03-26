@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-26T03:25:03Z",
+  "updatedAt": "2026-03-26T05:21:04Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) Силен земјотрес ја потресе Света Гора во Грција: Пукнатини во зградите, монасите истрчале надвор",
+          "link": "https://makfax.com.mk/svet/region/video-silen-zemjotres-ja-potrese-sveta-gora-vo-grczija-puknatini-vo-zgradite-monasite-trchaat-nadvor/",
+          "published": "Thu, 26 Mar 2026 05:14:07 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Променливо облачно, кон крајот на денот повремени врнежи од дожд",
+          "link": "https://makfax.com.mk/makedonija/promenlivo-oblachno-kon-krajot-na-denot-povremeni-vrnezhi-od-dozhd/",
+          "published": "Thu, 26 Mar 2026 05:05:38 +0000"
         },
         {
           "source": "Makfax",
@@ -29,16 +41,10 @@
           "published": "Wed, 25 Mar 2026 20:35:40 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Нов земјотрес почувствуван во Македонија",
-          "link": "https://makfax.com.mk/makedonija/nov-zemjotres-pochuvstvuvan-vo-makedonija/",
-          "published": "Wed, 25 Mar 2026 20:03:48 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Иран се заканува дека ќе блокира уште еден клучен теснец: „Ќе ја бомбардираме и нашата сопствена почва“",
-          "link": "https://makfax.com.mk/svet/iran-se-zakanuva-deka-ke-blokira-ushte-eden-kluchen-tesnecz-ke-ja-bombardirame-i-nashata-sopstvena-pochva/",
-          "published": "Wed, 25 Mar 2026 19:47:27 +0000"
+          "source": "NetPress",
+          "title": "Денеска променливо облачно време со засилен ветер",
+          "link": "https://netpress.com.mk/deneska-promenlivo-oblachno-vreme-so-zasilen-veter/",
+          "published": "Thu, 26 Mar 2026 05:16:20 +0000"
         },
         {
           "source": "NetPress",
@@ -63,12 +69,6 @@
           "title": "CAS отвори постапка по жалбата на Сенегал",
           "link": "https://netpress.com.mk/cas-otvori-postapka-po-zhalbata-na-senegal/",
           "published": "Wed, 25 Mar 2026 21:19:36 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Судот ги прогласи за виновни „Мета“ и „Јутјуб“ бидејќи дизајнирале производи што предизвикуваат зависност и им штетат на младите",
-          "link": "https://netpress.com.mk/sudot-gi-proglasi-za-vinovni-meta-i-jutjub-bidejki-dizajnirale-proizvodi-shto-predizvikuvaat-zavisnost-i-im-shtetat-na-mladite/",
-          "published": "Wed, 25 Mar 2026 21:18:10 +0000"
         }
       ]
     },
@@ -107,33 +107,33 @@
         },
         {
           "source": "Al Jazeera",
-          "title": "Malaysia moves to tighten rules for expats, raising fears of talent flight",
-          "link": "https://www.aljazeera.com/economy/2026/3/26/malaysia-moves-to-tighten-rules-for-expats-raising-fears-of-talent-flight?traffic_source=rss",
-          "published": "Thu, 26 Mar 2026 02:40:43 +0000"
+          "title": "Malaysia’s prime minister says Iran talks should end war",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/26/malaysias-prime-minister-says-iran-talks-should-end-war?traffic_source=rss",
+          "published": "Thu, 26 Mar 2026 04:36:31 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Harrison: ‘There is going to be some kind of a military escalation.’",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/26/harrison-there-is-going-to-be-some-kind-of-a-military-escalation?traffic_source=rss",
-          "published": "Thu, 26 Mar 2026 01:56:48 +0000"
+          "title": "Videos show wave of missiles fired from Lebanon to Israel",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/26/videos-show-wave-of-missiles-fired-from-lebanon-to-israel?traffic_source=rss",
+          "published": "Thu, 26 Mar 2026 03:54:44 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Tehran issues warning to regional neighbour if Iranian island occupied",
-          "link": "https://www.aljazeera.com/news/2026/3/26/tehran-issues-warning-to-regional-neighbour-if-iranian-island-occupied?traffic_source=rss",
-          "published": "Thu, 26 Mar 2026 01:24:04 +0000"
+          "title": "US lawmakers push for pause in data centres until AI safeguards in place",
+          "link": "https://www.aljazeera.com/economy/2026/3/26/us-lawmakers-push-for-pause-in-data-centres-until-ai-safeguards-in-place?traffic_source=rss",
+          "published": "Thu, 26 Mar 2026 03:39:28 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Trump says Iranian leaders want deal ‘so badly’ but fear retaliation",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/26/trump-says-iranian-leaders-want-deal-so-badly-but-fear-retaliation?traffic_source=rss",
-          "published": "Thu, 26 Mar 2026 00:56:32 +0000"
+          "title": "Russia slams second US-Israeli strike at Iran’s Bushehr nuclear reactor",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/26/russia-slams-second-us-israeli-strike-at-irans-bushehr-nuclear-reactor?traffic_source=rss",
+          "published": "Thu, 26 Mar 2026 03:31:36 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Sarah Mullally enthroned as first female archbishop of Canterbury",
-          "link": "https://www.aljazeera.com/news/2026/3/26/sarah-mullally-enthroned-as-first-female-archbishop-of-canterbury?traffic_source=rss",
-          "published": "Thu, 26 Mar 2026 00:51:48 +0000"
+          "title": "Australia bans visitors from Iran amid war in the Middle East",
+          "link": "https://www.aljazeera.com/news/2026/3/26/australia-bans-visitors-from-iran-amid-war-in-the-middle-east?traffic_source=rss",
+          "published": "Thu, 26 Mar 2026 03:28:18 +0000"
         }
       ]
     }
