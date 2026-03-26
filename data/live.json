@@ -1,6 +1,13 @@
 {
-  "generated_at": "2026-03-26T21:17:57Z",
+  "generated_at": "2026-03-26T21:48:20Z",
   "items": [
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "Тежок пораз на Македонија во Копенхаген",
+      "link": "https://makfax.com.mk/sport/tezhok-poraz-na-makedonija-vo-kopenhagen/",
+      "published": "Thu, 26 Mar 2026 21:42:32 +0000"
+    },
     {
       "region": "Македонија",
       "source": "Makfax",
@@ -31,10 +38,10 @@
     },
     {
       "region": "Македонија",
-      "source": "Makfax",
-      "title": "Трамп: Го уништивме Иран 99%, но 1% е ракета што погодува брод од милијарда долари",
-      "link": "https://makfax.com.mk/svet/tramp-go-unishtivme-iran-99-no-1-e-raketa-shto-pogoduva-brod-od-milijarda-dolari/",
-      "published": "Thu, 26 Mar 2026 19:43:29 +0000"
+      "source": "NetPress",
+      "title": "Трамп ги одложи нападите врз иранските енергетски објекти за десет дена",
+      "link": "https://netpress.com.mk/tramp-gi-odlozhi-napadite-vrz-iranskite-energetski-objekti-za-deset-dena/",
+      "published": "Thu, 26 Mar 2026 21:39:07 +0000"
     },
     {
       "region": "Македонија",
@@ -65,13 +72,6 @@
       "published": "Thu, 26 Mar 2026 20:49:43 +0000"
     },
     {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Судијата наклонет Мадуро да ја финансираат одбраната со пари од Венецуела",
-      "link": "https://netpress.com.mk/sudijata-naklonet-maduro-da-ja-finansiraat-odbranata-so-pari-od-veneczuela/",
-      "published": "Thu, 26 Mar 2026 20:47:51 +0000"
-    },
-    {
       "region": "Свет",
       "source": "BBC",
       "title": "Zelensky visits Saudi Arabia after offering Ukraine's drone expertise",
@@ -95,16 +95,44 @@
     {
       "region": "Свет",
       "source": "BBC",
+      "title": "Spanish woman dies by euthanasia after long legal battle with father",
+      "link": "https://www.bbc.com/news/articles/c7vqdd23y0vo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 26 Mar 2026 20:33:07 GMT"
+    },
+    {
+      "region": "Свет",
+      "source": "BBC",
       "title": "Orban's Hungarian government accused of mass voter intimidation ahead of election",
       "link": "https://www.bbc.com/news/articles/c36r0068xp2o?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 26 Mar 2026 17:16:06 GMT"
     },
     {
       "region": "Свет",
-      "source": "BBC",
-      "title": "Olympic women's sport limited to biological females",
-      "link": "https://www.bbc.com/sport/olympics/articles/cdj7dgvlj0no?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 26 Mar 2026 14:29:18 GMT"
+      "source": "Al Jazeera",
+      "title": "Al Jazeera visits Iran’s UNESCO-listed palace damaged by war",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/26/al-jazeera-visits-irans-unesco-listed-palace-damaged-by-war?traffic_source=rss",
+      "published": "Thu, 26 Mar 2026 21:33:17 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "At least nine people dead, dozens missing as boat sinks off Djibouti coast",
+      "link": "https://www.aljazeera.com/news/2026/3/26/at-least-nine-people-dead-dozens-missing-as-boat-sinks-off-djibouti-coast?traffic_source=rss",
+      "published": "Thu, 26 Mar 2026 21:21:10 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Iran placing messages on missiles as war of narratives intensifies",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/26/iran-placing-messages-on-missiles-as-war-of-narratives-intensifies?traffic_source=rss",
+      "published": "Thu, 26 Mar 2026 20:56:21 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Protests erupt outside US court over Maduro case",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/26/protests-erupt-outside-us-court-over-maduro-case?traffic_source=rss",
+      "published": "Thu, 26 Mar 2026 20:44:16 +0000"
     },
     {
       "region": "Свет",
@@ -112,34 +140,6 @@
       "title": "Israel sends more troops into southern Lebanon as ground invasion expands",
       "link": "https://www.aljazeera.com/news/2026/3/26/israel-sends-more-troops-into-southern-lebanon-as-ground-invasion-expands?traffic_source=rss",
       "published": "Thu, 26 Mar 2026 20:10:30 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Dutch court bans xAI’s Grok from generating nonconsensual nude images",
-      "link": "https://www.aljazeera.com/news/2026/3/26/dutch-court-bans-xais-grok-from-generating-non-consensual-nude-images?traffic_source=rss",
-      "published": "Thu, 26 Mar 2026 19:56:31 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "US judge weighs Trump decision to bar Venezuelan funds for Maduro’s defence",
-      "link": "https://www.aljazeera.com/news/2026/3/26/us-judge-weighs-trump-decision-to-bar-venezuelan-funds-for-maduros-defence?traffic_source=rss",
-      "published": "Thu, 26 Mar 2026 19:53:04 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Key takeaways from Trump’s war on Iran meeting",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/26/key-takeaways-from-trumps-war-on-iran-meeting?traffic_source=rss",
-      "published": "Thu, 26 Mar 2026 19:19:11 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Trump says Iran ‘begging’ for deal to end war as Tehran issues new demands",
-      "link": "https://www.aljazeera.com/news/2026/3/26/as-trump-claims-us-winning-tehran-asserts-legal-right-over-hormuz-strait?traffic_source=rss",
-      "published": "Thu, 26 Mar 2026 19:02:32 +0000"
     }
   ]
 }
