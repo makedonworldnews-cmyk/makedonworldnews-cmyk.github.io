@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-26T21:39:40Z",
+  "updatedAt": "2026-03-26T21:58:43Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Тежок пораз на Македонија во Копенхаген",
+          "link": "https://makfax.com.mk/sport/tezhok-poraz-na-makedonija-vo-kopenhagen/",
+          "published": "Thu, 26 Mar 2026 21:42:32 +0000"
         },
         {
           "source": "Makfax",
@@ -35,10 +41,10 @@
           "published": "Thu, 26 Mar 2026 19:57:23 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Трамп: Го уништивме Иран 99%, но 1% е ракета што погодува брод од милијарда долари",
-          "link": "https://makfax.com.mk/svet/tramp-go-unishtivme-iran-99-no-1-e-raketa-shto-pogoduva-brod-od-milijarda-dolari/",
-          "published": "Thu, 26 Mar 2026 19:43:29 +0000"
+          "source": "NetPress",
+          "title": "Ќе одговара секој кој прави криминално дејство а е на раководна позиција во некоја институција и ако тој глас допре до мене",
+          "link": "https://netpress.com.mk/ke-odgovara-sekoj-koj-pravi-kriminalno-dejstvo-a-e-na-rakovodna-poziczija-vo-nekoja-instituczija-i-ako-toj-glas-dopre-do-mene/",
+          "published": "Thu, 26 Mar 2026 21:56:26 +0000"
         },
         {
           "source": "NetPress",
@@ -63,12 +69,6 @@
           "title": "ВМРО-ДПМНЕ: Филипче бега од седница за пратенички прашања, а партијата пушта соопштенија што кажал Мицкоски",
           "link": "https://netpress.com.mk/vmro-dpmne-filipche-bega-od-sednicza-za-pratenichki-prashana-a-partijata-pushta-soopshtenija-shto-kazhal-miczkoski/",
           "published": "Thu, 26 Mar 2026 20:55:27 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Слаб снег на Попова Шапка, сообраќајот се одвива без застои",
-          "link": "https://netpress.com.mk/slab-sneg-na-popova-shapka-soobrakajot-se-odviva-bez-zastoi/",
-          "published": "Thu, 26 Mar 2026 20:49:43 +0000"
         }
       ]
     },
@@ -107,6 +107,18 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Al Jazeera visits Iran’s UNESCO-listed palace damaged by war",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/26/al-jazeera-visits-irans-unesco-listed-palace-damaged-by-war?traffic_source=rss",
+          "published": "Thu, 26 Mar 2026 21:33:17 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "At least nine people dead, dozens missing as boat sinks off Djibouti coast",
+          "link": "https://www.aljazeera.com/news/2026/3/26/at-least-nine-people-dead-dozens-missing-as-boat-sinks-off-djibouti-coast?traffic_source=rss",
+          "published": "Thu, 26 Mar 2026 21:21:10 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Iran placing messages on missiles as war of narratives intensifies",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/3/26/iran-placing-messages-on-missiles-as-war-of-narratives-intensifies?traffic_source=rss",
           "published": "Thu, 26 Mar 2026 20:56:21 +0000"
@@ -122,18 +134,6 @@
           "title": "Israel sends more troops into southern Lebanon as ground invasion expands",
           "link": "https://www.aljazeera.com/news/2026/3/26/israel-sends-more-troops-into-southern-lebanon-as-ground-invasion-expands?traffic_source=rss",
           "published": "Thu, 26 Mar 2026 20:10:30 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Dutch court bans xAI’s Grok from generating nonconsensual nude images",
-          "link": "https://www.aljazeera.com/news/2026/3/26/dutch-court-bans-xais-grok-from-generating-non-consensual-nude-images?traffic_source=rss",
-          "published": "Thu, 26 Mar 2026 19:56:31 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "US judge weighs Trump decision to bar Venezuelan funds for Maduro’s defence",
-          "link": "https://www.aljazeera.com/news/2026/3/26/us-judge-weighs-trump-decision-to-bar-venezuelan-funds-for-maduros-defence?traffic_source=rss",
-          "published": "Thu, 26 Mar 2026 19:53:04 +0000"
         }
       ]
     }
