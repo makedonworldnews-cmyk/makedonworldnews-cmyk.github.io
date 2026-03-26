@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-26T19:45:06Z",
+  "updatedAt": "2026-03-26T20:21:42Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Силно невреме ја погоди и Словенија, илјадници домаќинства без струја",
+          "link": "https://makfax.com.mk/svet/region/silno-nevreme-ja-pogodi-i-slovenija-iljadniczi-domakinstva-bez-struja/",
+          "published": "Thu, 26 Mar 2026 19:57:23 +0000"
         },
         {
           "source": "Makfax",
@@ -35,10 +41,10 @@
           "published": "Thu, 26 Mar 2026 19:05:31 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "ВМРО-ДПМНЕ: Филипче бега од седницата за пратенички прашања, вакви политички кукавици немало во досегашната историја",
-          "link": "https://makfax.com.mk/makedonija/vmro-dpmne-filipche-bega-od-sedniczata-za-pratenichki-prashana-vakvi-politichki-kukaviczi-nemalo-vo-dosegashnata-istorija/",
-          "published": "Thu, 26 Mar 2026 18:52:53 +0000"
+          "source": "NetPress",
+          "title": "Кинески универзитет ги охрабрува студентите да се „вљубат“ за време на пролетниот распуст",
+          "link": "https://netpress.com.mk/kineski-univerzitet-gi-ohrabruva-studentite-da-se-vlubat-za-vreme-na-proletniot-raspust/",
+          "published": "Thu, 26 Mar 2026 20:09:21 +0000"
         },
         {
           "source": "NetPress",
@@ -63,12 +69,6 @@
           "title": "Росатом ги здружува силите со бразилска компанија за екстракција и преработка на стратешки минерали",
           "link": "https://netpress.com.mk/rosatom-gi-zdruzhuva-silite-so-brazilska-kompanija-za-ekstrakczija-i-prerabotka-na-strateshki-minerali/",
           "published": "Thu, 26 Mar 2026 18:57:54 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "НГИ „Коалција на Египќани: Владата на Христијан Мицкоски ја води Македонија во правилна насока, СДСМ нема право да ја критикува",
-          "link": "https://netpress.com.mk/ngi-koalczija-na-egipkani-vladata-na-hristijan-miczkoski-ja-vodi-makedonija-vo-pravilna-nasoka-sdsm-nema-pravo-da-ja-kritikuva/",
-          "published": "Thu, 26 Mar 2026 18:53:10 +0000"
         }
       ]
     },
