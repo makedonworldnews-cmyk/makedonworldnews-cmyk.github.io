@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-27T22:39:14Z",
+  "generated_at": "2026-03-27T23:04:24Z",
   "items": [
     {
       "region": "Македонија",
@@ -39,6 +39,13 @@
     {
       "region": "Македонија",
       "source": "NetPress",
+      "title": "Евролига: Порази на Валенсија и Фенербахче, победа на Барселона",
+      "link": "https://netpress.com.mk/evroliga-porazi-na-valensija-i-fenerbahche-pobeda-na-barselona/",
+      "published": "Fri, 27 Mar 2026 22:42:16 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "NetPress",
       "title": "Пријателски натпревари: Резултати",
       "link": "https://netpress.com.mk/prijatelski-natprevari-rezultati/",
       "published": "Fri, 27 Mar 2026 22:35:03 +0000"
@@ -63,13 +70,6 @@
       "title": "Критиките од Бугарија за т.н. непочит на малцинските права не се базирани на факти, туку се гола политика",
       "link": "https://netpress.com.mk/kritikite-od-bugarija-za-t-n-nepochit-na-malczinskite-prava-ne-se-bazirani-na-fakti-tuku-se-gola-politika/",
       "published": "Fri, 27 Mar 2026 21:51:36 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Рубио: Зеленски „лаже“ дека САД ги условуваат безбедносните гаранции со предавање на територија",
-      "link": "https://netpress.com.mk/rubio-zelenski-lazhe-deka-sad-gi-uslovuvaat-bezbednosnite-garanczii-so-predavane-na-teritorija/",
-      "published": "Fri, 27 Mar 2026 21:42:10 +0000"
     },
     {
       "region": "Свет",
@@ -109,6 +109,13 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "‘Fingers on the trigger’ for military intervention, Houthis warn",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/27/fingers-on-the-trigger-for-military-intervention-houthis-warn?traffic_source=rss",
+      "published": "Fri, 27 Mar 2026 22:35:24 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "Tiger Woods charged with DUI after rollover crash in Florida",
       "link": "https://www.aljazeera.com/sports/2026/3/27/tiger-woods-charged-with-dui-after-rollover-crash-in-florida?traffic_source=rss",
       "published": "Fri, 27 Mar 2026 22:17:04 +0000"
@@ -133,13 +140,6 @@
       "title": "Guns in the streets as US, Israel intensify month-long attacks across Iran",
       "link": "https://www.aljazeera.com/news/2026/3/27/guns-in-the-streets-as-us-israel-intensify-month-long-attacks-across?traffic_source=rss",
       "published": "Fri, 27 Mar 2026 21:22:49 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Mexico’s navy searches for two missing boats involved in Cuba aid convoy",
-      "link": "https://www.aljazeera.com/news/2026/3/27/mexicos-navy-searches-for-two-missing-boats-involved-in-cuba-aid-convoy?traffic_source=rss",
-      "published": "Fri, 27 Mar 2026 20:51:09 +0000"
     }
   ]
 }
