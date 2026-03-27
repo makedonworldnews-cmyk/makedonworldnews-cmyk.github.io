@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-27T19:58:59Z",
+  "updatedAt": "2026-03-27T20:50:48Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Напади врз станбени згради, најмалку 20 загинати цивили, јавуваат иранските медиуми",
+          "link": "https://makfax.com.mk/svet/napadi-vrz-stanbeni-zgradi-najmalku-20-zaginati-czivili-javuvaat-iranskite-mediumi/",
+          "published": "Fri, 27 Mar 2026 20:37:20 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) Ника скока како постариот брат, за шест и пол метри го подобри светскиот рекорд",
+          "link": "https://makfax.com.mk/sport/video-nika-skoka-kako-postariot-brat-za-shest-i-pol-metri-go-podobri-svetskiot-rekord/",
+          "published": "Fri, 27 Mar 2026 20:32:56 +0000"
         },
         {
           "source": "Makfax",
@@ -29,46 +41,34 @@
           "published": "Fri, 27 Mar 2026 19:11:03 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "(Видео) Бред Пит непрепознатлив во Амстердам",
-          "link": "https://makfax.com.mk/zanimlivosti/video-bred-pit-neprepoznatliv-vo-amsterdam/",
-          "published": "Fri, 27 Mar 2026 18:59:37 +0000"
+          "source": "NetPress",
+          "title": "Иран го обвини Израел за убиени дипломати во Либан",
+          "link": "https://netpress.com.mk/iran-go-obvini-izrael-za-ubieni-diplomati-vo-liban/",
+          "published": "Fri, 27 Mar 2026 20:49:21 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Чоло не мрда од „Метрополитано“",
-          "link": "https://makfax.com.mk/sport/cholo-ne-mrda-od-metropolitano/",
-          "published": "Fri, 27 Mar 2026 18:45:32 +0000"
+          "source": "NetPress",
+          "title": "Муцунски: Ќе бидеме прва земја во Европа која ќе оддржи стратешки дијалог со САД во Вашингтон",
+          "link": "https://netpress.com.mk/muczunski-ke-bideme-prva-zemja-vo-evropa-koja-ke-oddrzhi-strateshki-dijalog-so-sad-vo-vashington/",
+          "published": "Fri, 27 Mar 2026 20:45:52 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Исчезнаа два мексикански брода кои носеа помош за Куба",
+          "link": "https://netpress.com.mk/ischeznaa-dva-meksikansi-broda-koi-nosea-pomosh-za-kuba/",
+          "published": "Fri, 27 Mar 2026 20:15:45 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Сајбер напад на Европската комисија, покрената е истрага",
+          "link": "https://netpress.com.mk/sajber-napad-na-evropskata-komisija-pokrenata-e-istraga/",
+          "published": "Fri, 27 Mar 2026 20:09:58 +0000"
         },
         {
           "source": "NetPress",
           "title": "МВР го расчисти денешното убиство во Охрид, осомничениот уапсен",
           "link": "https://netpress.com.mk/mvr-go-raschisti-deneshnoto-ubistvo-vo-ohrid-osomnicheniot-uapsen/",
           "published": "Fri, 27 Mar 2026 19:39:16 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Рубио очекува воената операција во Иран да заврши за неколку недели",
-          "link": "https://netpress.com.mk/rubio-ochekuva-voenata-operaczija-vo-iran-da-zavrshi-za-nekolku-nedeli/",
-          "published": "Fri, 27 Mar 2026 19:24:29 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Намалена видливост до 50 метри поради магла на патниот правец Попова Шапка – село Лисец",
-          "link": "https://netpress.com.mk/namalena-vidlivost-do-50-metri-poradi-magla-na-patniot-pravecz-popova-shapka-selo-lisecz/",
-          "published": "Fri, 27 Mar 2026 19:20:40 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Повеќе од 370.000 либански деца се раселени поради израелските напади",
-          "link": "https://netpress.com.mk/poveke-od-370-000-libanski-decza-se-raseleni-poradi-izraelskite-napadi/",
-          "published": "Fri, 27 Mar 2026 19:19:11 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Иран денес ќе одговори на американскиот мировен план",
-          "link": "https://netpress.com.mk/iran-denes-ke-odgovori-na-amerikanskiot-miroven-plan/",
-          "published": "Fri, 27 Mar 2026 19:14:34 +0000"
         }
       ]
     },
@@ -103,37 +103,37 @@
           "source": "BBC",
           "title": "Rubio says US expects to finish Iran war 'in next couple of weeks'",
           "link": "https://www.bbc.com/news/articles/c1l9vz064nqo?at_medium=RSS&at_campaign=rss",
-          "published": "Fri, 27 Mar 2026 18:41:02 GMT"
+          "published": "Fri, 27 Mar 2026 20:30:26 GMT"
         },
         {
           "source": "Al Jazeera",
-          "title": "Off-duty London police officer filmed ‘intimidating’ Al Jazeera journalists",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/27/off-duty-london-police-officer-filmed-intimidating-al-jazeera-journalists?traffic_source=rss",
-          "published": "Fri, 27 Mar 2026 19:24:55 +0000"
+          "title": "How important are the Gulf economies to the world?",
+          "link": "https://www.aljazeera.com/video/inside-story/2026/3/27/how-important-are-the-gulf-economies-to-the-world?traffic_source=rss",
+          "published": "Fri, 27 Mar 2026 20:12:27 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "US Palestinian activist says FBI foiled assassination plot against her",
-          "link": "https://www.aljazeera.com/news/2026/3/27/us-palestinian-activist-says-fbi-foiled-assassination-plot-against-her?traffic_source=rss",
-          "published": "Fri, 27 Mar 2026 19:15:16 +0000"
+          "title": "House Republicans shoot down bill that would pay federal airport workers",
+          "link": "https://www.aljazeera.com/news/2026/3/27/house-republicans-shoot-down-bill-that-would-pay-federal-airport-workers?traffic_source=rss",
+          "published": "Fri, 27 Mar 2026 20:10:31 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Canada’s Bill C-12 an ‘attack on refugee, migrant rights’: Advocates",
-          "link": "https://www.aljazeera.com/news/2026/3/27/canadas-bill-c-12-an-attack-on-refugee-migrant-rights-advocates?traffic_source=rss",
-          "published": "Fri, 27 Mar 2026 19:02:50 +0000"
+          "title": "Israel attacks major industrial and nuclear sites in Iran",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/27/israel-attacks-major-industrial-and-nuclear-sites-in-iran?traffic_source=rss",
+          "published": "Fri, 27 Mar 2026 19:51:25 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Rubio: US expects Iran war to end in ‘weeks, not months’",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/27/rubio-us-expects-iran-war-to-end-in-weeks-not?traffic_source=rss",
-          "published": "Fri, 27 Mar 2026 18:40:51 +0000"
+          "title": "Drone reveals extent of Iranian missile damage in Israeli city of Arad",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/27/drone-reveals-extent-of-iranian-missile-damage-in-israeli-city-of-arad?traffic_source=rss",
+          "published": "Fri, 27 Mar 2026 19:47:14 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "US diplomat Marco Rubio denounces settler violence, tolls in Hormuz strait",
-          "link": "https://www.aljazeera.com/news/2026/3/27/us-diplomat-marco-rubio-denounces-settler-violence-tolls-in-hormuz-strait?traffic_source=rss",
-          "published": "Fri, 27 Mar 2026 18:34:28 +0000"
+          "title": "Smoke rises over Beirut suburbs after massive Israeli airstrike",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/27/smoke-rises-over-beirut-suburbs-after-massive-israeli-airstrike?traffic_source=rss",
+          "published": "Fri, 27 Mar 2026 19:38:01 +0000"
         }
       ]
     }
