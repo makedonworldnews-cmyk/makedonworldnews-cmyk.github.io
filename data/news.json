@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-27T23:19:06Z",
+  "updatedAt": "2026-03-27T23:49:42Z",
   "groups": [
     {
       "region": "Македонија",
@@ -107,6 +107,12 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Rescue workers rush to save lives after south Tehran missile strike",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/27/rescue-workers-rush-to-save-lives-after-south-tehran-missile-strike?traffic_source=rss",
+          "published": "Fri, 27 Mar 2026 23:28:03 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Houthis warn ‘fingers on the trigger’ as US-Israel war on Iran continues",
           "link": "https://www.aljazeera.com/news/2026/3/27/houthis-warn-fingers-on-the-trigger-as-us-israeli-war-on-iran-continues?traffic_source=rss",
           "published": "Fri, 27 Mar 2026 22:53:23 +0000"
@@ -128,12 +134,6 @@
           "title": "Oyarzabal double seals Spain win against Serbia in World Cup warm-up",
           "link": "https://www.aljazeera.com/sports/2026/3/27/oyarzabal-double-seals-spain-win-against-serbia-in-world-cup-warm-up?traffic_source=rss",
           "published": "Fri, 27 Mar 2026 22:09:55 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "What is the TACO trade and are investors profiting amid war on Iran?",
-          "link": "https://www.aljazeera.com/news/2026/3/27/what-is-the-taco-trade-and-are-investors-profiting-amid-war-on-iran?traffic_source=rss",
-          "published": "Fri, 27 Mar 2026 22:06:38 +0000"
         }
       ]
     }
