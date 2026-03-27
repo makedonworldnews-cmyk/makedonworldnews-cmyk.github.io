@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-27T20:58:48Z",
+  "generated_at": "2026-03-27T21:37:38Z",
   "items": [
     {
       "region": "Македонија",
@@ -39,6 +39,20 @@
     {
       "region": "Македонија",
       "source": "NetPress",
+      "title": "Иран се согласи да „олесни и забрза“ хуманитарна помош преку Ормускиот теснец",
+      "link": "https://netpress.com.mk/iran-se-soglasi-da-olesni-i-zabrza-humanitarna-pomosh-preku-ormuskiot-tesnecz/",
+      "published": "Fri, 27 Mar 2026 21:19:33 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "NetPress",
+      "title": "Продолжуваат иранските напади врз заливските држави",
+      "link": "https://netpress.com.mk/prodolzhuvaat-iranskite-napadi-vrz-zalivskite-drzhavi/",
+      "published": "Fri, 27 Mar 2026 21:15:56 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "NetPress",
       "title": "Иран го обвини Израел за убиени дипломати во Либан",
       "link": "https://netpress.com.mk/iran-go-obvini-izrael-za-ubieni-diplomati-vo-liban/",
       "published": "Fri, 27 Mar 2026 20:49:21 +0000"
@@ -58,32 +72,18 @@
       "published": "Fri, 27 Mar 2026 20:15:45 +0000"
     },
     {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Сајбер напад на Европската комисија, покрената е истрага",
-      "link": "https://netpress.com.mk/sajber-napad-na-evropskata-komisija-pokrenata-e-istraga/",
-      "published": "Fri, 27 Mar 2026 20:09:58 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "МВР го расчисти денешното убиство во Охрид, осомничениот уапсен",
-      "link": "https://netpress.com.mk/mvr-go-raschisti-deneshnoto-ubistvo-vo-ohrid-osomnicheniot-uapsen/",
-      "published": "Fri, 27 Mar 2026 19:39:16 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "BBC",
-      "title": "UN human rights chief calls on US to conclude probe into Iran school strike",
-      "link": "https://www.bbc.com/news/articles/c75kzk3lgl5o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 27 Mar 2026 13:25:57 GMT"
-    },
-    {
       "region": "Свет",
       "source": "BBC",
       "title": "Iran-backed hackers breach FBI director Kash Patel's personal emails",
       "link": "https://www.bbc.com/news/articles/cvgl4yk7vgpo?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 27 Mar 2026 19:21:19 GMT"
+    },
+    {
+      "region": "Свет",
+      "source": "BBC",
+      "title": "Tiger Woods charged with driving under influence after crash",
+      "link": "https://www.bbc.com/sport/golf/articles/cvg092kege7o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 27 Mar 2026 21:24:44 GMT"
     },
     {
       "region": "Свет",
@@ -95,16 +95,37 @@
     {
       "region": "Свет",
       "source": "BBC",
-      "title": "Austria becomes latest to propose social media ban for children",
-      "link": "https://www.bbc.com/news/articles/cwyv70de9exo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 27 Mar 2026 17:21:42 GMT"
+      "title": "Rubio says US expects to finish Iran war 'in next couple of weeks'",
+      "link": "https://www.bbc.com/news/articles/c1l9vz064nqo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 27 Mar 2026 21:16:30 GMT"
     },
     {
       "region": "Свет",
       "source": "BBC",
-      "title": "Rubio says US expects to finish Iran war 'in next couple of weeks'",
-      "link": "https://www.bbc.com/news/articles/c1l9vz064nqo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 27 Mar 2026 20:30:26 GMT"
+      "title": "Two Cuba-bound aid ships missing after leaving Mexico",
+      "link": "https://www.bbc.com/news/articles/cp84kw1y337o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 27 Mar 2026 18:04:02 GMT"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Mexico’s navy searches for two missing boats involved in Cuba aid convoy",
+      "link": "https://www.aljazeera.com/news/2026/3/27/mexicos-navy-searches-for-two-missing-boats-involved-in-cuba-aid-convoy?traffic_source=rss",
+      "published": "Fri, 27 Mar 2026 20:51:09 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Grieving Iranian mother tells UN about children before school attack",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/27/grieving-iranian-mother-tells-un-about-children-before-school-attack?traffic_source=rss",
+      "published": "Fri, 27 Mar 2026 20:50:47 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Israel launches strikes on nuclear sites as Iran warns of retaliation",
+      "link": "https://www.aljazeera.com/news/2026/3/27/israel-launches-strikes-on-iran-nuclear-sites-as-war-enters-fifth-week?traffic_source=rss",
+      "published": "Fri, 27 Mar 2026 20:43:37 +0000"
     },
     {
       "region": "Свет",
@@ -119,27 +140,6 @@
       "title": "House Republicans shoot down bill that would pay federal airport workers",
       "link": "https://www.aljazeera.com/news/2026/3/27/house-republicans-shoot-down-bill-that-would-pay-federal-airport-workers?traffic_source=rss",
       "published": "Fri, 27 Mar 2026 20:10:31 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Israel attacks major industrial and nuclear sites in Iran",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/27/israel-attacks-major-industrial-and-nuclear-sites-in-iran?traffic_source=rss",
-      "published": "Fri, 27 Mar 2026 19:51:25 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Drone reveals extent of Iranian missile damage in Israeli city of Arad",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/27/drone-reveals-extent-of-iranian-missile-damage-in-israeli-city-of-arad?traffic_source=rss",
-      "published": "Fri, 27 Mar 2026 19:47:14 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Smoke rises over Beirut suburbs after massive Israeli airstrike",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/27/smoke-rises-over-beirut-suburbs-after-massive-israeli-airstrike?traffic_source=rss",
-      "published": "Fri, 27 Mar 2026 19:38:01 +0000"
     }
   ]
 }
