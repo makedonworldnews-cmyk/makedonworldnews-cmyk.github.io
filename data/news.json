@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-28T20:34:01Z",
+  "updatedAt": "2026-03-28T21:00:25Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Во пет напади во јужен Либан загинаа девет болничари",
+          "link": "https://makfax.com.mk/svet/vo-pet-napadi-vo-juzhen-liban-zaginaa-devet-bolnichari/",
+          "published": "Sat, 28 Mar 2026 20:44:24 +0000"
         },
         {
           "source": "Makfax",
@@ -33,12 +39,6 @@
           "title": "Родителите на починатите во „Пулс“ бараат да се врати обвинителката која го води предметот за обвинетите полицајци",
           "link": "https://makfax.com.mk/makedonija/roditelite-na-pochinatite-vo-puls-baraat-da-se-vrati-obvinitelkata-koja-go-vodi-predmetot-za-obvinetite-policzajczi/",
           "published": "Sat, 28 Mar 2026 18:36:47 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Врнежи од снег на Попова Шапка и во Крушево",
-          "link": "https://makfax.com.mk/makedonija/vrnezhi-od-sneg-na-popova-shapka-i-vo-krushevo/",
-          "published": "Sat, 28 Mar 2026 18:22:48 +0000"
         },
         {
           "source": "NetPress",
@@ -79,7 +79,7 @@
           "source": "BBC",
           "title": "Iran-backed Houthis join war with attack against Israel",
           "link": "https://www.bbc.com/news/articles/cd6l5n8jv4yo?at_medium=RSS&at_campaign=rss",
-          "published": "Sat, 28 Mar 2026 20:11:53 GMT"
+          "published": "Sat, 28 Mar 2026 20:51:57 GMT"
         },
         {
           "source": "BBC",
@@ -107,19 +107,25 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Palestine Action supporters arrested as London’s Met Police reverse policy",
+          "link": "https://www.aljazeera.com/news/2026/3/28/palestine-action-supporters-arrested-as-londons-met-police-reverse-policy?traffic_source=rss",
+          "published": "Sat, 28 Mar 2026 20:09:35 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Missiles hit southern Israeli city of Eilat",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/3/28/missiles-hit-southern-israeli-city-of-eilat?traffic_source=rss",
           "published": "Sat, 28 Mar 2026 19:59:31 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Hundreds of thousands march through London in stand against the far right",
+          "title": "Thousands march through London in stand against the far right",
           "link": "https://www.aljazeera.com/news/2026/3/28/hundreds-of-thousands-march-through-london-in-stand-against-the-far-right?traffic_source=rss",
           "published": "Sat, 28 Mar 2026 18:32:23 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Photos: ‘No Kings’ protests erupt across the US, with a Minnesota focus",
+          "title": "‘No Kings’ protests erupt across the US, with a Minnesota focus",
           "link": "https://www.aljazeera.com/gallery/2026/3/28/photos-no-kings-protests-erupt-across-the-us-with-a-minnesota-focus?traffic_source=rss",
           "published": "Sat, 28 Mar 2026 18:16:38 +0000"
         },
@@ -128,12 +134,6 @@
           "title": "As war rages, Iranian politicians push for exit from nuclear weapons treaty",
           "link": "https://www.aljazeera.com/news/2026/3/28/lawmakers-push-npt-exit-as-us-israel-hit-irans-nuclear-sites-steel-plants?traffic_source=rss",
           "published": "Sat, 28 Mar 2026 17:48:55 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "France opens probe into suspected attack on Bank of America in Paris",
-          "link": "https://www.aljazeera.com/news/2026/3/28/france-opens-probe-into-suspected-attack-on-bank-of-america-in-paris?traffic_source=rss",
-          "published": "Sat, 28 Mar 2026 17:48:34 +0000"
         }
       ]
     }
