@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-27T23:49:42Z",
+  "updatedAt": "2026-03-28T00:57:32Z",
   "groups": [
     {
       "region": "Македонија",
@@ -107,6 +107,18 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Trump says US-Israeli war on Iran creating a new Middle East",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/28/trump-says-us-israeli-war-on-iran-creating-a-new-middle-east?traffic_source=rss",
+          "published": "Sat, 28 Mar 2026 00:05:46 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Iran war live: Trump again slams NATO’s lack of support for war on Tehran",
+          "link": "https://www.aljazeera.com/news/liveblog/2026/3/28/iran-war-live-trump-again-slams-natos-lack-of-support-for-war-on-tehran?traffic_source=rss",
+          "published": "Sat, 28 Mar 2026 00:00:48 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Rescue workers rush to save lives after south Tehran missile strike",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/3/27/rescue-workers-rush-to-save-lives-after-south-tehran-missile-strike?traffic_source=rss",
           "published": "Fri, 27 Mar 2026 23:28:03 +0000"
@@ -122,18 +134,6 @@
           "title": "‘Fingers on the trigger’ for military intervention, Houthis warn",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/3/27/fingers-on-the-trigger-for-military-intervention-houthis-warn?traffic_source=rss",
           "published": "Fri, 27 Mar 2026 22:35:24 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Tiger Woods charged with DUI after rollover crash in Florida",
-          "link": "https://www.aljazeera.com/sports/2026/3/27/tiger-woods-charged-with-dui-after-rollover-crash-in-florida?traffic_source=rss",
-          "published": "Fri, 27 Mar 2026 22:17:04 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Oyarzabal double seals Spain win against Serbia in World Cup warm-up",
-          "link": "https://www.aljazeera.com/sports/2026/3/27/oyarzabal-double-seals-spain-win-against-serbia-in-world-cup-warm-up?traffic_source=rss",
-          "published": "Fri, 27 Mar 2026 22:09:55 +0000"
         }
       ]
     }
