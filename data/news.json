@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-28T17:30:00Z",
+  "updatedAt": "2026-03-28T17:57:25Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Диџа на пол-позицијата во Тексас, Маркез на шестото место",
+          "link": "https://makfax.com.mk/sport/didha-na-pol-poziczijata-vo-teksas-markez-na-shestoto-mesto/",
+          "published": "Sat, 28 Mar 2026 17:53:56 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Бастони сака да се пресели во Барселона",
+          "link": "https://makfax.com.mk/sport/bastoni-saka-da-se-preseli-vo-barselona/",
+          "published": "Sat, 28 Mar 2026 17:45:33 +0000"
         },
         {
           "source": "Makfax",
@@ -29,16 +41,10 @@
           "published": "Sat, 28 Mar 2026 15:36:12 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Пријавен измамник кој се претставувал како полицаец",
-          "link": "https://makfax.com.mk/crna-hronika/prijaven-izmamnik-koj-se-pretstavuval-kako-policzaecz/",
-          "published": "Sat, 28 Mar 2026 15:25:46 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Полицијата во Кочани одзеде марихуана од две лица",
-          "link": "https://makfax.com.mk/crna-hronika/policzijata-vo-kochani-odzede-marihuana-od-dve-licza/",
-          "published": "Sat, 28 Mar 2026 15:19:37 +0000"
+          "source": "NetPress",
+          "title": "Уапсени 12 возачи – седум без возачка, четворица пијани, двајца со забрана",
+          "link": "https://netpress.com.mk/uapseni-12-vozachi-sedum-bez-vozachka-chetvoricza-pijani-dvajcza-so-zabrana/",
+          "published": "Sat, 28 Mar 2026 17:52:46 +0000"
         },
         {
           "source": "NetPress",
@@ -63,12 +69,6 @@
           "title": "Нова епизода во проблемите со говедарите во Кривопаланечко",
           "link": "https://netpress.com.mk/nova-epizoda-vo-problemite-so-govedarite-vo-krivopalanechko/",
           "published": "Sat, 28 Mar 2026 15:42:34 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Шверцерите ги фрлале телата во море – 22 мигранти загинаа во Медитеранот",
-          "link": "https://netpress.com.mk/shverczerite-gi-frlale-telata-vo-more-22-migranti-zaginaa-vo-mediteranot/",
-          "published": "Sat, 28 Mar 2026 15:25:29 +0000"
         }
       ]
     },
@@ -83,15 +83,15 @@
         },
         {
           "source": "BBC",
-          "title": "Tears and defiance as Lebanese family bury child, 11, killed in Israeli strike",
-          "link": "https://www.bbc.com/news/articles/c62lx8ek9x9o?at_medium=RSS&at_campaign=rss",
-          "published": "Sat, 28 Mar 2026 17:14:18 GMT"
-        },
-        {
-          "source": "BBC",
           "title": "Gaza peace doubts deepen as attention shifts to Iran",
           "link": "https://www.bbc.com/news/articles/crr10v5p7lgo?at_medium=RSS&at_campaign=rss",
           "published": "Sat, 28 Mar 2026 06:00:37 GMT"
+        },
+        {
+          "source": "BBC",
+          "title": "Three Lebanese journalists killed in Israeli strike, say broadcasters",
+          "link": "https://www.bbc.com/news/articles/cgme1j70294o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 28 Mar 2026 17:48:44 GMT"
         },
         {
           "source": "BBC",
