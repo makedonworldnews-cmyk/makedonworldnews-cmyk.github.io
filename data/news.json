@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-28T21:00:25Z",
+  "updatedAt": "2026-03-28T21:42:36Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Спектакуларен спринт во Тексас – Мартин победи, Маркез, Диџа и Бецеки не ја завршија трката",
+          "link": "https://makfax.com.mk/sport/spektakularen-sprint-vo-teksas-martin-pobedi-markez-didha-i-beczeki-ne-ja-zavrshija-trkata/",
+          "published": "Sat, 28 Mar 2026 21:00:31 +0000"
         },
         {
           "source": "Makfax",
@@ -35,10 +41,16 @@
           "published": "Sat, 28 Mar 2026 19:10:24 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Родителите на починатите во „Пулс“ бараат да се врати обвинителката која го води предметот за обвинетите полицајци",
-          "link": "https://makfax.com.mk/makedonija/roditelite-na-pochinatite-vo-puls-baraat-da-se-vrati-obvinitelkata-koja-go-vodi-predmetot-za-obvinetite-policzajczi/",
-          "published": "Sat, 28 Mar 2026 18:36:47 +0000"
+          "source": "NetPress",
+          "title": "ВИДЕО| Полицијата во Тел Авив ги растури антивоените протести",
+          "link": "https://netpress.com.mk/video-policzijata-vo-tel-aviv-gi-rasturi-antivoenite-protesti/",
+          "published": "Sat, 28 Mar 2026 21:35:11 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Пакистан домаќин на разговори со Саудиска Арабија, Турција и Египет за Иран",
+          "link": "https://netpress.com.mk/pakistan-domakin-na-razgovori-so-saudiska-arabija-turczija-i-egipet-za-iran/",
+          "published": "Sat, 28 Mar 2026 21:04:19 +0000"
         },
         {
           "source": "NetPress",
@@ -57,18 +69,6 @@
           "title": "Заканувајќи се со два пиштола пред домот на брат му, заработил три кривични пријави",
           "link": "https://netpress.com.mk/zakanuvajki-se-so-dva-pishtola-pred-domot-na-brat-mu-zarabotil-tri-krivichni-prijavi/",
           "published": "Sat, 28 Mar 2026 19:37:07 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Тројца либански новинари убиени во израелски напад",
-          "link": "https://netpress.com.mk/trojcza-libanski-novinari-ubieni-vo-izraelski-napad/",
-          "published": "Sat, 28 Mar 2026 19:19:44 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Каква е улогата на кокаинот во изјавите на СДСМ за бомбардирање на Македонија и паниката за лажните мигранти?",
-          "link": "https://netpress.com.mk/kakva-e-ulogata-na-kokainot-vo-izjavite-na-sdsm-za-bombardirane-na-makedonija-i-panikata-za-lazhnite-migranti/",
-          "published": "Sat, 28 Mar 2026 19:14:21 +0000"
         }
       ]
     },
@@ -77,9 +77,9 @@
       "items": [
         {
           "source": "BBC",
-          "title": "Iran-backed Houthis join war with attack against Israel",
-          "link": "https://www.bbc.com/news/articles/cd6l5n8jv4yo?at_medium=RSS&at_campaign=rss",
-          "published": "Sat, 28 Mar 2026 20:51:57 GMT"
+          "title": "Three Lebanese journalists killed in Israeli strike, say broadcasters",
+          "link": "https://www.bbc.com/news/articles/cgme1j70294o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 28 Mar 2026 20:36:03 GMT"
         },
         {
           "source": "BBC",
@@ -107,6 +107,18 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Kuwait airport hit by Iranian drone strikes",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/28/kuwait-airport-hit-by-iranian-drone-strikes?traffic_source=rss",
+          "published": "Sat, 28 Mar 2026 20:58:37 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Could Ukraine’s drone expertise serve Gulf countries?",
+          "link": "https://www.aljazeera.com/video/inside-story/2026/3/28/could-ukraines-drone-expertise-serve-gulf-countries?traffic_source=rss",
+          "published": "Sat, 28 Mar 2026 20:50:59 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Palestine Action supporters arrested as London’s Met Police reverse policy",
           "link": "https://www.aljazeera.com/news/2026/3/28/palestine-action-supporters-arrested-as-londons-met-police-reverse-policy?traffic_source=rss",
           "published": "Sat, 28 Mar 2026 20:09:35 +0000"
@@ -122,18 +134,6 @@
           "title": "Thousands march through London in stand against the far right",
           "link": "https://www.aljazeera.com/news/2026/3/28/hundreds-of-thousands-march-through-london-in-stand-against-the-far-right?traffic_source=rss",
           "published": "Sat, 28 Mar 2026 18:32:23 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "‘No Kings’ protests erupt across the US, with a Minnesota focus",
-          "link": "https://www.aljazeera.com/gallery/2026/3/28/photos-no-kings-protests-erupt-across-the-us-with-a-minnesota-focus?traffic_source=rss",
-          "published": "Sat, 28 Mar 2026 18:16:38 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "As war rages, Iranian politicians push for exit from nuclear weapons treaty",
-          "link": "https://www.aljazeera.com/news/2026/3/28/lawmakers-push-npt-exit-as-us-israel-hit-irans-nuclear-sites-steel-plants?traffic_source=rss",
-          "published": "Sat, 28 Mar 2026 17:48:55 +0000"
         }
       ]
     }
