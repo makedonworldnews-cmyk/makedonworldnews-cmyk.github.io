@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-28T23:16:24Z",
+  "updatedAt": "2026-03-28T23:49:10Z",
   "groups": [
     {
       "region": "Македонија",
@@ -107,6 +107,12 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Vice President JD Vance tops CPAC’s straw poll to be US president in 2028",
+          "link": "https://www.aljazeera.com/news/2026/3/28/vice-president-jd-vance-tops-cpacs-straw-poll-to-be-us-president-in-2028?traffic_source=rss",
+          "published": "Sat, 28 Mar 2026 23:29:34 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Key moments in first month of US-Israeli war on Iran",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/3/28/key-moments-in-first-month-of-us-israeli-war-on-iran?traffic_source=rss",
           "published": "Sat, 28 Mar 2026 22:50:55 +0000"
@@ -128,12 +134,6 @@
           "title": "Pakistan secures Iran deal to send 20 ships through Strait of Hormuz",
           "link": "https://www.aljazeera.com/news/2026/3/28/pakistan-secures-iran-deal-to-send-20-ships-through-strait-of-hormuz?traffic_source=rss",
           "published": "Sat, 28 Mar 2026 21:56:30 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Kuwait airport hit by Iranian drone strikes",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/28/kuwait-airport-hit-by-iranian-drone-strikes?traffic_source=rss",
-          "published": "Sat, 28 Mar 2026 20:58:37 +0000"
         }
       ]
     }
