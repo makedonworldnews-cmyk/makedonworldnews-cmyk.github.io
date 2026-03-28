@@ -1,6 +1,27 @@
 {
-  "generated_at": "2026-03-28T08:29:56Z",
+  "generated_at": "2026-03-28T09:05:33Z",
   "items": [
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "Чешка вели дека нема пари за одбрана за да ја исполни целта на НАТО",
+      "link": "https://makfax.com.mk/svet/cheshka-veli-deka-nema-pari-za-odbrana-za-da-ja-ispolni-czelta-na-nato/",
+      "published": "Sat, 28 Mar 2026 08:44:12 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "Мразот на Арктикот на историски минимум",
+      "link": "https://makfax.com.mk/svet/mrazot-na-arktikot-na-istoriski-minimum/",
+      "published": "Sat, 28 Mar 2026 08:35:59 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "Скалони: За доброто на фудбалот, Меси треба да игра на Светското првенство",
+      "link": "https://makfax.com.mk/sport/skaloni-za-dobroto-na-fudbalot-mesi-treba-da-igra-na-svetskoto-prvenstvo/",
+      "published": "Sat, 28 Mar 2026 08:33:31 +0000"
+    },
     {
       "region": "Македонија",
       "source": "Makfax",
@@ -17,24 +38,17 @@
     },
     {
       "region": "Македонија",
-      "source": "Makfax",
-      "title": "(Видео) Јокиќ со трипл-дабл, Дончиќ броеше до 41",
-      "link": "https://makfax.com.mk/sport/video-jokik-so-tripl-dabl-donchik-broeshe-do-41/",
-      "published": "Sat, 28 Mar 2026 08:13:57 +0000"
+      "source": "NetPress",
+      "title": "Село на Скопска Црна Гора без вода",
+      "link": "https://netpress.com.mk/selo-na-skopska-czrna-gora-bez-voda/",
+      "published": "Sat, 28 Mar 2026 08:56:24 +0000"
     },
     {
       "region": "Македонија",
-      "source": "Makfax",
-      "title": "(Видео) Трамп: Зошто би биле ние тука за НАТО, ако тие не беа тука за нас",
-      "link": "https://makfax.com.mk/svet/video-tramp-zoshto-bi-bile-nie-tuka-za-nato-ako-tie-ne-bea-tuka-za-nas/",
-      "published": "Sat, 28 Mar 2026 08:08:01 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "Makfax",
-      "title": "Антонели на пол-позицијата во Јапонија",
-      "link": "https://makfax.com.mk/sport/antoneli-na-pol-poziczijata-vo-japonija/",
-      "published": "Sat, 28 Mar 2026 08:02:57 +0000"
+      "source": "NetPress",
+      "title": "Без вода делови од Чаир, Скопје Север и Топаанско После",
+      "link": "https://netpress.com.mk/bez-voda-delovi-od-chair-skopje-sever-i-topaansko-posle/",
+      "published": "Sat, 28 Mar 2026 08:50:48 +0000"
     },
     {
       "region": "Македонија",
@@ -56,20 +70,6 @@
       "title": "Високите цени на дизелот ја вкотвија половина од холандската рибарска флота",
       "link": "https://netpress.com.mk/visokite-czeni-na-dizelot-ja-vkotvija-polovina-od-holandskata-ribarska-flota/",
       "published": "Sat, 28 Mar 2026 07:37:57 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Агенцијата на ОН забрани повеќе од две преносни батерии по патник на летовите",
-      "link": "https://netpress.com.mk/agenczijata-na-on-zabrani-poveke-od-dve-prenosni-baterii-po-patnik-na-letovite/",
-      "published": "Sat, 28 Mar 2026 07:17:01 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Маск се приклучил на разговорот меѓу Трамп и Моди за Иран",
-      "link": "https://netpress.com.mk/mask-se-prikluchil-na-razgovorot-megu-tramp-i-modi-za-iran/",
-      "published": "Sat, 28 Mar 2026 06:57:48 +0000"
     },
     {
       "region": "Свет",
@@ -109,6 +109,27 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "US House passes bill funding Homeland Security amid shutdown",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/28/us-house-passes-bill-funding-homeland-security-amid-shutdown?traffic_source=rss",
+      "published": "Sat, 28 Mar 2026 08:32:34 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Philippine transport strikers say Marcos Jr failing to control oil prices",
+      "link": "https://www.aljazeera.com/economy/2026/3/28/philippine-transport-strikers-say-marcos-jr-failing-to-control-oil-prices?traffic_source=rss",
+      "published": "Sat, 28 Mar 2026 08:31:13 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "US-Israel war on Iran: What’s happening on day 29 of attacks?",
+      "link": "https://www.aljazeera.com/news/2026/3/28/iran-war-what-is-happening-on-day-29-of-us-israel-attacks?traffic_source=rss",
+      "published": "Sat, 28 Mar 2026 08:17:54 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "Trump claims Iran wants to ‘make a deal’",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/3/28/trump-claims-iran-wants-to-make-a?traffic_source=rss",
       "published": "Sat, 28 Mar 2026 07:34:15 +0000"
@@ -119,27 +140,6 @@
       "title": "Yemen’s Houthis launch missile attack on Israel as war on Iran intensifies",
       "link": "https://www.aljazeera.com/news/2026/3/28/yemens-houthis-claim-responsibility-for-a-missile-attack-on-israel-2?traffic_source=rss",
       "published": "Sat, 28 Mar 2026 07:30:45 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "US Secretary of State says war could conclude in ‘weeks, not months’",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/28/us-secretary-of-state-says-war-could-conclude-in-weeks-not-months?traffic_source=rss",
-      "published": "Sat, 28 Mar 2026 06:54:08 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Doncic faces one-game ban after technical foul in Lakers win against Nets",
-      "link": "https://www.aljazeera.com/sports/2026/3/28/doncic-facing-one-game-ban-after-technical-foul-in-lakers-win-against-nets?traffic_source=rss",
-      "published": "Sat, 28 Mar 2026 06:52:31 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "White is hero and villain on England return, Germany’s Wirtz destroys Swiss",
-      "link": "https://www.aljazeera.com/sports/2026/3/28/white-is-hero-and-villain-on-england-return-germanys-wirtz-destroys-swiss?traffic_source=rss",
-      "published": "Sat, 28 Mar 2026 06:50:42 +0000"
     }
   ]
 }
