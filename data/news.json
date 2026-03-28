@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-28T15:17:23Z",
+  "updatedAt": "2026-03-28T15:49:03Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,24 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Полицијата приведе 12 возачи за алкохол, забрана и без дозвола",
+          "link": "https://makfax.com.mk/crna-hronika/policzijata-privede-12-vozachi-za-alkohol-zabrana-i-bez-dozvola/",
+          "published": "Sat, 28 Mar 2026 15:36:12 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Пријавен измамник кој се претставувал како полицаец",
+          "link": "https://makfax.com.mk/crna-hronika/prijaven-izmamnik-koj-se-pretstavuval-kako-policzaecz/",
+          "published": "Sat, 28 Mar 2026 15:25:46 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Полицијата во Кочани одзеде марихуана од две лица",
+          "link": "https://makfax.com.mk/crna-hronika/policzijata-vo-kochani-odzede-marihuana-od-dve-licza/",
+          "published": "Sat, 28 Mar 2026 15:19:37 +0000"
         },
         {
           "source": "Makfax",
@@ -23,22 +41,16 @@
           "published": "Sat, 28 Mar 2026 15:06:33 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Лишен од слобода државјанин на Албанија по потерница на Интерпол",
-          "link": "https://makfax.com.mk/crna-hronika/lishen-od-sloboda-drzhavjanin-na-albanija-po-poternicza-na-interpol/",
-          "published": "Sat, 28 Mar 2026 15:02:36 +0000"
+          "source": "NetPress",
+          "title": "Нова епизода во проблемите со говедарите во Кривопаланечко",
+          "link": "https://netpress.com.mk/nova-epizoda-vo-problemite-so-govedarite-vo-krivopalanechko/",
+          "published": "Sat, 28 Mar 2026 15:42:34 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Пријава за неовластено производство на дрога во Кавадарци",
-          "link": "https://makfax.com.mk/crna-hronika/prijava-za-neovlasteno-proizvodstvo-na-droga-vo-kavadarczi/",
-          "published": "Sat, 28 Mar 2026 14:47:07 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Кривични пријави за лицата кои ги попречуваа вработените во АХВ да ги заловат кравите во Крива Паланка",
-          "link": "https://makfax.com.mk/crna-hronika/krivichni-prijavi-za-liczata-koi-gi-poprechuvaa-vrabotenite-vo-ahv-da-gi-zalovat-kravite-vo-kriva-palanka/",
-          "published": "Sat, 28 Mar 2026 13:53:00 +0000"
+          "source": "NetPress",
+          "title": "Шверцерите ги фрлале телата во море – 22 мигранти загинаа во Медитеранот",
+          "link": "https://netpress.com.mk/shverczerite-gi-frlale-telata-vo-more-22-migranti-zaginaa-vo-mediteranot/",
+          "published": "Sat, 28 Mar 2026 15:25:29 +0000"
         },
         {
           "source": "NetPress",
@@ -57,18 +69,6 @@
           "title": "Грабеж во спортска обложувалница во Карпош",
           "link": "https://netpress.com.mk/grabezh-vo-sportska-oblozhuvalnicza-vo-karposh/",
           "published": "Sat, 28 Mar 2026 14:26:41 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Разбојник ограбил девојка на автобуска постојка во Гази Баба",
-          "link": "https://netpress.com.mk/razbojnik-ograbil-devojka-na-avtobuska-postojka-vo-gazi-baba/",
-          "published": "Sat, 28 Mar 2026 14:18:34 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Мицкоски: Намалувањето на ДДВ ќе ја намали цената на бензините за два денара",
-          "link": "https://netpress.com.mk/miczkoski-namaluvaneto-na-ddv-ke-ja-namali-czenata-na-benzinite-za-dva-denara/",
-          "published": "Sat, 28 Mar 2026 14:07:15 +0000"
         }
       ]
     },
