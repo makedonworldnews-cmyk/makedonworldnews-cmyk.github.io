@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-28T16:16:55Z",
+  "updatedAt": "2026-03-28T16:54:00Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Тепани сопруга, син и снаа: За 24 часа лишени од слобода две лица за семејно насилство",
+          "link": "https://makfax.com.mk/crna-hronika/tepani-sopruga-sin-i-snaa-za-24-chasa-lisheni-od-sloboda-dve-licza-za-semejno-nasilstvo/",
+          "published": "Sat, 28 Mar 2026 16:27:26 +0000"
         },
         {
           "source": "Makfax",
@@ -35,10 +41,22 @@
           "published": "Sat, 28 Mar 2026 15:09:40 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Пријави за продажба и употреба на дрога и управување под дејство на марихуана",
-          "link": "https://makfax.com.mk/crna-hronika/prijavi-za-prodazhba-i-upotreba-na-droga-i-upravuvane-pod-dejstvo-na-marihuana/",
-          "published": "Sat, 28 Mar 2026 15:06:33 +0000"
+          "source": "NetPress",
+          "title": "Филипче: Понижувачки „фингерпринт“ за докторите наместо владата да им ги покачи платите",
+          "link": "https://netpress.com.mk/filipche-ponizhuvachki-fingerprint-za-doktorite-namesto-vladata-da-im-gi-pokachi-platite/",
+          "published": "Sat, 28 Mar 2026 16:50:13 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Четири пријави за семејно насилство, двајца се уапсени",
+          "link": "https://netpress.com.mk/chetiri-prijavi-za-semejno-nasilstvo-dvajcza-se-uapseni/",
+          "published": "Sat, 28 Mar 2026 16:33:22 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Убиството во Охрид од користољубие – убиениот сакал да го раскине договорот за издршка",
+          "link": "https://netpress.com.mk/ubistvoto-vo-ohrid-od-koristolubie-ubieniot-sakal-da-go-raskine-dogovorot-za-izdrshka/",
+          "published": "Sat, 28 Mar 2026 16:17:47 +0000"
         },
         {
           "source": "NetPress",
@@ -51,24 +69,6 @@
           "title": "Шверцерите ги фрлале телата во море – 22 мигранти загинаа во Медитеранот",
           "link": "https://netpress.com.mk/shverczerite-gi-frlale-telata-vo-more-22-migranti-zaginaa-vo-mediteranot/",
           "published": "Sat, 28 Mar 2026 15:25:29 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Го удирал со тупаница па го задушил со рака",
-          "link": "https://netpress.com.mk/go-zadavil-so-raczete/",
-          "published": "Sat, 28 Mar 2026 15:16:30 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Малолетник од Куманово се сомничи за серија кражби",
-          "link": "https://netpress.com.mk/maloletnik-od-kumanovo-se-somnichi-za-serija-krazhbi/",
-          "published": "Sat, 28 Mar 2026 14:32:49 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Грабеж во спортска обложувалница во Карпош",
-          "link": "https://netpress.com.mk/grabezh-vo-sportska-oblozhuvalnicza-vo-karposh/",
-          "published": "Sat, 28 Mar 2026 14:26:41 +0000"
         }
       ]
     },
@@ -80,6 +80,12 @@
           "title": "Iran war splits older and younger conservatives - as pressure builds for Trump to find exit ramp",
           "link": "https://www.bbc.com/news/articles/cjd8e4px12ro?at_medium=RSS&at_campaign=rss",
           "published": "Sat, 28 Mar 2026 00:05:47 GMT"
+        },
+        {
+          "source": "BBC",
+          "title": "Tears and defiance as Lebanese family bury child, 11, killed in Israeli strike",
+          "link": "https://www.bbc.com/news/articles/c62lx8ek9x9o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 28 Mar 2026 16:29:43 GMT"
         },
         {
           "source": "BBC",
@@ -100,40 +106,34 @@
           "published": "Sat, 28 Mar 2026 13:19:20 GMT"
         },
         {
-          "source": "BBC",
-          "title": "House Republicans reject Senate deal, prolonging partial US government shutdown",
-          "link": "https://www.bbc.com/news/articles/cgj052l1j2no?at_medium=RSS&at_campaign=rss",
-          "published": "Sat, 28 Mar 2026 08:38:34 GMT"
+          "source": "Al Jazeera",
+          "title": "Ukraine’s Zelenskyy signs air defence deals with UAE, Qatar on Gulf tour",
+          "link": "https://www.aljazeera.com/news/2026/3/28/zelenskyy-signs-air-defence-deals-with-uae-qatar-on-gulf-tour?traffic_source=rss",
+          "published": "Sat, 28 Mar 2026 16:16:28 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Morocco claims AFCON case closed, despite Senegal appeals to CAF and CAS",
-          "link": "https://www.aljazeera.com/sports/2026/3/28/morocco-claims-afcon-case-closed-despite-senegal-appeals-to-caf-and-cas?traffic_source=rss",
-          "published": "Sat, 28 Mar 2026 14:26:04 +0000"
+          "title": "Senegal parade AFCON trophy, despite title being awarded to Morocco",
+          "link": "https://www.aljazeera.com/sports/2026/3/28/senegal-parade-afcon-trophy-despite-title-being-awarded-to-morocco?traffic_source=rss",
+          "published": "Sat, 28 Mar 2026 15:58:57 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "At least 22 migrants die off Greece after 6 days at sea",
-          "link": "https://www.aljazeera.com/news/2026/3/28/at-least-22-migrants-die-off-greece-after-6-days-at-sea?traffic_source=rss",
-          "published": "Sat, 28 Mar 2026 13:58:19 +0000"
+          "title": "Israeli forces intensify attacks on Beirut",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/28/israeli-forces-intensify-attacks-on-beirut?traffic_source=rss",
+          "published": "Sat, 28 Mar 2026 15:45:31 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Defending champion Aryna Sabalenka and Coco Gauff meet in Miami Open final",
-          "link": "https://www.aljazeera.com/sports/2026/3/28/defending-champion-aryna-sabalenka-and-coco-gauff-meet-for-the-miami-open-t?traffic_source=rss",
-          "published": "Sat, 28 Mar 2026 13:35:33 +0000"
+          "title": "Three journalists killed in Israeli strike on marked press car in Lebanon",
+          "link": "https://www.aljazeera.com/news/2026/3/28/three-journalists-killed-in-israeli-strike-on-marked-press-car-in-lebanon?traffic_source=rss",
+          "published": "Sat, 28 Mar 2026 15:40:03 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Iran warns neighbours not to let ‘enemies run the war’ from their land",
-          "link": "https://www.aljazeera.com/news/2026/3/28/iran-warns-neighbours-not-to-let-enemies-run-the-war-from-their-land?traffic_source=rss",
-          "published": "Sat, 28 Mar 2026 13:34:32 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Verstappen calls his Red Bull ‘undriveable’ after more F1 woes at Japan GP",
-          "link": "https://www.aljazeera.com/sports/2026/3/28/verstappen-calls-his-red-bull-undriveable-after-more-f1-woes-at-japan-gp?traffic_source=rss",
-          "published": "Sat, 28 Mar 2026 13:10:12 +0000"
+          "title": "One month in, disapproval high but US lawmakers take no action on Iran war",
+          "link": "https://www.aljazeera.com/news/2026/3/28/one-month-in-disapproval-high-but-us-lawmakers-take-no-action-on-iran-war?traffic_source=rss",
+          "published": "Sat, 28 Mar 2026 15:39:46 +0000"
         }
       ]
     }
