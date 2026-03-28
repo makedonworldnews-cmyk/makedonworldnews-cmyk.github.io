@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-28T09:23:30Z",
+  "updatedAt": "2026-03-28T10:00:00Z",
   "groups": [
     {
       "region": "Македонија",
@@ -42,6 +42,24 @@
         },
         {
           "source": "NetPress",
+          "title": "НБА преглед: Бостон ја прекина победничката серија на Атланта, Денвер влезе во низа победи",
+          "link": "https://netpress.com.mk/nba-pregled-boston-ja-prekina-pobednichkata-serija-na-atlanta-denver-vleze-vo-niza-pobedi/",
+          "published": "Sat, 28 Mar 2026 09:54:56 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Трипуновски: Нема заштитени лица, без разлика на нивната функција",
+          "link": "https://netpress.com.mk/tripunovski-nema-zashtiteni-licza-bez-razlika-na-nivnata-funkczija/",
+          "published": "Sat, 28 Mar 2026 09:48:15 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Ранети 12 војници во ирански напад на база на САД во Саудиска Арабија",
+          "link": "https://netpress.com.mk/raneti-12-vojniczi-vo-iranski-napad-na-baza-na-sad-vo-saudiska-arabija/",
+          "published": "Sat, 28 Mar 2026 09:30:19 +0000"
+        },
+        {
+          "source": "NetPress",
           "title": "АТП Мајами: Синер и Лехечка во финалето",
           "link": "https://netpress.com.mk/atp-majami-siner-i-lehechka-vo-finaleto/",
           "published": "Sat, 28 Mar 2026 09:23:19 +0000"
@@ -51,30 +69,18 @@
           "title": "Трамп вели дека САД „не мора да бидат тука“ за НАТО",
           "link": "https://netpress.com.mk/tramp-veli-deka-sad-ne-mora-da-bidat-tuka-za-nato/",
           "published": "Sat, 28 Mar 2026 09:14:06 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Европска демократска недела",
-          "link": "https://netpress.com.mk/evropska-demokratska-nedela/",
-          "published": "Sat, 28 Mar 2026 09:13:55 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Влатко Стефановски во Сплит го претстави новиот албум „Muscle Memory“ и прими награда за животно дело",
-          "link": "https://netpress.com.mk/vlatko-stefanovski-vo-split-go-pretstavi-noviot-album-muscle-memory-i-primi-nagrada-za-zhivotno-delo/",
-          "published": "Sat, 28 Mar 2026 09:11:09 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Село на Скопска Црна Гора без вода",
-          "link": "https://netpress.com.mk/selo-na-skopska-czrna-gora-bez-voda/",
-          "published": "Sat, 28 Mar 2026 08:56:24 +0000"
         }
       ]
     },
     {
       "region": "Свет",
       "items": [
+        {
+          "source": "BBC",
+          "title": "Iran war splits older and younger conservatives - as pressure builds for Trump to find exit ramp",
+          "link": "https://www.bbc.com/news/articles/cjd8e4px12ro?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 28 Mar 2026 00:05:47 GMT"
+        },
         {
           "source": "BBC",
           "title": "Nepal's ex-PM arrested over fatal protest crackdown",
@@ -89,21 +95,21 @@
         },
         {
           "source": "BBC",
+          "title": "Gaza peace doubts deepen as attention shifts to Iran",
+          "link": "https://www.bbc.com/news/articles/crr10v5p7lgo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 28 Mar 2026 06:00:37 GMT"
+        },
+        {
+          "source": "BBC",
           "title": "Tiger Woods charged with driving under influence after crash",
           "link": "https://www.bbc.com/sport/golf/articles/cvg092kege7o?at_medium=RSS&at_campaign=rss",
           "published": "Sat, 28 Mar 2026 06:47:10 GMT"
         },
         {
-          "source": "BBC",
-          "title": "House Republicans reject Senate deal, prolonging partial government shutdown",
-          "link": "https://www.bbc.com/news/articles/cgj052l1j2no?at_medium=RSS&at_campaign=rss",
-          "published": "Sat, 28 Mar 2026 08:38:34 GMT"
-        },
-        {
-          "source": "BBC",
-          "title": "From jammed broadcasts to a blocked website: BBC Russian's 80 years of defiance",
-          "link": "https://www.bbc.com/news/articles/c05dlnd3635o?at_medium=RSS&at_campaign=rss",
-          "published": "Sat, 28 Mar 2026 01:37:21 GMT"
+          "source": "Al Jazeera",
+          "title": "Tiger Woods released on bail hours after arrest on suspicion of DUI",
+          "link": "https://www.aljazeera.com/sports/2026/3/28/tiger-woods-released-on-bail-hours-after-arrest-on-suspicion-of-dui?traffic_source=rss",
+          "published": "Sat, 28 Mar 2026 09:09:45 +0000"
         },
         {
           "source": "Al Jazeera",
@@ -128,12 +134,6 @@
           "title": "Trump claims Iran wants to ‘make a deal’",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/3/28/trump-claims-iran-wants-to-make-a?traffic_source=rss",
           "published": "Sat, 28 Mar 2026 07:34:15 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Yemen’s Houthis launch missile attack on Israel as war on Iran intensifies",
-          "link": "https://www.aljazeera.com/news/2026/3/28/yemens-houthis-claim-responsibility-for-a-missile-attack-on-israel-2?traffic_source=rss",
-          "published": "Sat, 28 Mar 2026 07:30:45 +0000"
         }
       ]
     }
