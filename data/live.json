@@ -1,6 +1,13 @@
 {
-  "generated_at": "2026-03-28T14:33:33Z",
+  "generated_at": "2026-03-28T15:00:38Z",
   "items": [
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "Пријава за неовластено производство на дрога во Кавадарци",
+      "link": "https://makfax.com.mk/crna-hronika/prijava-za-neovlasteno-proizvodstvo-na-droga-vo-kavadarczi/",
+      "published": "Sat, 28 Mar 2026 14:47:07 +0000"
+    },
     {
       "region": "Македонија",
       "source": "Makfax",
@@ -28,13 +35,6 @@
       "title": "Европа ќе биде првата жртва ако Зеленски добие нуклеарно оружје, вели Захарова",
       "link": "https://makfax.com.mk/svet/evropa-ke-bide-prvata-zhrtva-ako-zelenski-dobie-nuklearno-oruzhje-veli-zaharova/",
       "published": "Sat, 28 Mar 2026 12:53:41 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "Makfax",
-      "title": "Мицкоски од понеделник очекува поевтина нафта, вели намалувањето на ДДВ-то има ефект",
-      "link": "https://makfax.com.mk/makedonija/miczkoski-od-ponedelnik-ochekuva-poevtina-nafta-veli-namaluvaneto-na-ddv-to-ima-efekt/",
-      "published": "Sat, 28 Mar 2026 12:27:09 +0000"
     },
     {
       "region": "Македонија",
@@ -102,9 +102,16 @@
     {
       "region": "Свет",
       "source": "BBC",
-      "title": "Nepal's ex-PM arrested over fatal protest crackdown",
-      "link": "https://www.bbc.com/news/articles/cn89ry7y835o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 28 Mar 2026 06:58:37 GMT"
+      "title": "House Republicans reject Senate deal, prolonging partial US government shutdown",
+      "link": "https://www.bbc.com/news/articles/cgj052l1j2no?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 28 Mar 2026 08:38:34 GMT"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Morocco claims AFCON case closed, despite Senegal appeals to CAF and CAS",
+      "link": "https://www.aljazeera.com/sports/2026/3/28/morocco-claims-afcon-case-closed-despite-senegal-appeals-to-caf-and-cas?traffic_source=rss",
+      "published": "Sat, 28 Mar 2026 14:26:04 +0000"
     },
     {
       "region": "Свет",
@@ -133,13 +140,6 @@
       "title": "Verstappen calls his Red Bull ‘undriveable’ after more F1 woes at Japan GP",
       "link": "https://www.aljazeera.com/sports/2026/3/28/verstappen-calls-his-red-bull-undriveable-after-more-f1-woes-at-japan-gp?traffic_source=rss",
       "published": "Sat, 28 Mar 2026 13:10:12 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Pakistan’s Naseem Shah under fire after criticism of politician’s PSL visit",
-      "link": "https://www.aljazeera.com/sports/2026/3/28/pakistan-quick-slammed-for-criticizing-politicians-presence-at-cricket-game?traffic_source=rss",
-      "published": "Sat, 28 Mar 2026 12:28:14 +0000"
     }
   ]
 }
