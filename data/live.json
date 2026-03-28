@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-28T22:20:50Z",
+  "generated_at": "2026-03-28T22:53:56Z",
   "items": [
     {
       "region": "Македонија",
@@ -39,6 +39,20 @@
     {
       "region": "Македонија",
       "source": "NetPress",
+      "title": "Преглед пријателски натпревари: Дебакл на САД против Белгија",
+      "link": "https://netpress.com.mk/pregled-prijatelski-natprevari-debakl-na-sad-protiv-belgija/",
+      "published": "Sat, 28 Mar 2026 22:47:28 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "NetPress",
+      "title": "МотоГП: Мартин победник во спринтот во Остин",
+      "link": "https://netpress.com.mk/motogp-martin-pobednik-vo-sprintot-vo-ostin/",
+      "published": "Sat, 28 Mar 2026 22:23:58 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "NetPress",
       "title": "ЏејДи Венс избор на CPAC за републикански претседателски кандидат",
       "link": "https://netpress.com.mk/dhejdi-vens-izbor-na-cpac-za-republikanski-pretsedatelski-kandidat/",
       "published": "Sat, 28 Mar 2026 22:09:00 +0000"
@@ -58,20 +72,6 @@
       "published": "Sat, 28 Mar 2026 21:35:11 +0000"
     },
     {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Пакистан домаќин на разговори со Саудиска Арабија, Турција и Египет за Иран",
-      "link": "https://netpress.com.mk/pakistan-domakin-na-razgovori-so-saudiska-arabija-turczija-i-egipet-za-iran/",
-      "published": "Sat, 28 Mar 2026 21:04:19 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Венс вели дека САД „наскоро“ ќе излезат од Иран и цените на горивата ќе паднат",
-      "link": "https://netpress.com.mk/vens-veli-deka-sad-naskoro-ke-izlezat-od-iran-i-czenite-na-gorivata-ke-padnat/",
-      "published": "Sat, 28 Mar 2026 19:57:40 +0000"
-    },
-    {
       "region": "Свет",
       "source": "BBC",
       "title": "Three Lebanese journalists killed in Israeli strike, say broadcasters",
@@ -83,7 +83,7 @@
       "source": "BBC",
       "title": "No Kings protests across the US rally against Donald Trump",
       "link": "https://www.bbc.com/news/articles/cq8wy7g1gd1o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 28 Mar 2026 21:29:57 GMT"
+      "published": "Sat, 28 Mar 2026 22:48:02 GMT"
     },
     {
       "region": "Свет",
@@ -109,6 +109,20 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "Air strikes in Iraq kill three PMF fighters, two police",
+      "link": "https://www.aljazeera.com/news/2026/3/28/air-strikes-in-iraq-kill-three-pmf-fighters-and-two-iraqi-police?traffic_source=rss",
+      "published": "Sat, 28 Mar 2026 22:32:05 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Reza Pahlavi pledges to ‘make Iran great again’ at 2026 CPAC conference",
+      "link": "https://www.aljazeera.com/news/2026/3/28/reza-pahlavi-pledges-to-make-iran-great-again-at-2026-cpac-conference?traffic_source=rss",
+      "published": "Sat, 28 Mar 2026 22:05:31 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "Pakistan secures Iran deal to send 20 ships through Strait of Hormuz",
       "link": "https://www.aljazeera.com/news/2026/3/28/pakistan-secures-iran-deal-to-send-20-ships-through-strait-of-hormuz?traffic_source=rss",
       "published": "Sat, 28 Mar 2026 21:56:30 +0000"
@@ -126,20 +140,6 @@
       "title": "Could Ukraine’s drone expertise serve Gulf countries?",
       "link": "https://www.aljazeera.com/video/inside-story/2026/3/28/could-ukraines-drone-expertise-serve-gulf-countries?traffic_source=rss",
       "published": "Sat, 28 Mar 2026 20:50:59 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Palestine Action supporters arrested as London’s Met Police reverse policy",
-      "link": "https://www.aljazeera.com/news/2026/3/28/palestine-action-supporters-arrested-as-londons-met-police-reverse-policy?traffic_source=rss",
-      "published": "Sat, 28 Mar 2026 20:09:35 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Missiles hit southern Israeli city of Eilat",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/28/missiles-hit-southern-israeli-city-of-eilat?traffic_source=rss",
-      "published": "Sat, 28 Mar 2026 19:59:31 +0000"
     }
   ]
 }
