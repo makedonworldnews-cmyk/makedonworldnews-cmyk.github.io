@@ -1,6 +1,13 @@
 {
-  "generated_at": "2026-03-28T21:51:30Z",
+  "generated_at": "2026-03-28T22:20:50Z",
   "items": [
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "Сабаленка влезе во историјата го освои Саншајн Дабл",
+      "link": "https://makfax.com.mk/sport/sabalenka-vleze-vo-istorijata-go-osvoi-sanshajn-dabl/",
+      "published": "Sat, 28 Mar 2026 22:15:31 +0000"
+    },
     {
       "region": "Македонија",
       "source": "Makfax",
@@ -31,10 +38,17 @@
     },
     {
       "region": "Македонија",
-      "source": "Makfax",
-      "title": "Мајка пријавила во полиција дека 14-годишната ќерка останала бремена",
-      "link": "https://makfax.com.mk/crna-hronika/majka-prijavila-vo-policzija-deka-14-godishnata-kerka-ostanala-bremena/",
-      "published": "Sat, 28 Mar 2026 19:10:24 +0000"
+      "source": "NetPress",
+      "title": "ЏејДи Венс избор на CPAC за републикански претседателски кандидат",
+      "link": "https://netpress.com.mk/dhejdi-vens-izbor-na-cpac-za-republikanski-pretsedatelski-kandidat/",
+      "published": "Sat, 28 Mar 2026 22:09:00 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "NetPress",
+      "title": "Сабаленка ја одбрани титулата во Мајами и го комплетираше „sunshine double“",
+      "link": "https://netpress.com.mk/sabalenka-ja-odbrani-titulata-vo-majami-i-go-kompletirashe-sunshine-double/",
+      "published": "Sat, 28 Mar 2026 21:54:59 +0000"
     },
     {
       "region": "Македонија",
@@ -58,20 +72,6 @@
       "published": "Sat, 28 Mar 2026 19:57:40 +0000"
     },
     {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Крадци украле 12 тони KitKat чоколатца",
-      "link": "https://netpress.com.mk/kradczi-ukrale-12-toni-kitkat-chokolatcza/",
-      "published": "Sat, 28 Mar 2026 19:41:18 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Заканувајќи се со два пиштола пред домот на брат му, заработил три кривични пријави",
-      "link": "https://netpress.com.mk/zakanuvajki-se-so-dva-pishtola-pred-domot-na-brat-mu-zarabotil-tri-krivichni-prijavi/",
-      "published": "Sat, 28 Mar 2026 19:37:07 +0000"
-    },
-    {
       "region": "Свет",
       "source": "BBC",
       "title": "Three Lebanese journalists killed in Israeli strike, say broadcasters",
@@ -81,9 +81,9 @@
     {
       "region": "Свет",
       "source": "BBC",
-      "title": "Iran war splits older and younger conservatives - as pressure builds for Trump to find exit ramp",
-      "link": "https://www.bbc.com/news/articles/cjd8e4px12ro?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 28 Mar 2026 00:05:47 GMT"
+      "title": "No Kings protests across the US rally against Donald Trump",
+      "link": "https://www.bbc.com/news/articles/cq8wy7g1gd1o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 28 Mar 2026 21:29:57 GMT"
     },
     {
       "region": "Свет",
@@ -105,6 +105,13 @@
       "title": "Two Cuba-bound aid ships found days after disappearing",
       "link": "https://www.bbc.com/news/articles/clye4w10g22o?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 28 Mar 2026 19:41:17 GMT"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Pakistan secures Iran deal to send 20 ships through Strait of Hormuz",
+      "link": "https://www.aljazeera.com/news/2026/3/28/pakistan-secures-iran-deal-to-send-20-ships-through-strait-of-hormuz?traffic_source=rss",
+      "published": "Sat, 28 Mar 2026 21:56:30 +0000"
     },
     {
       "region": "Свет",
@@ -133,13 +140,6 @@
       "title": "Missiles hit southern Israeli city of Eilat",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/3/28/missiles-hit-southern-israeli-city-of-eilat?traffic_source=rss",
       "published": "Sat, 28 Mar 2026 19:59:31 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Thousands march through London in stand against the far right",
-      "link": "https://www.aljazeera.com/news/2026/3/28/hundreds-of-thousands-march-through-london-in-stand-against-the-far-right?traffic_source=rss",
-      "published": "Sat, 28 Mar 2026 18:32:23 +0000"
     }
   ]
 }
