@@ -1,6 +1,13 @@
 {
-  "generated_at": "2026-03-28T09:50:01Z",
+  "generated_at": "2026-03-28T10:17:35Z",
   "items": [
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "35% од населението е со прекумерна тежина, Алиу кажа дека оваа недела центар за дебелина е отворен и во Охрид",
+      "link": "https://makfax.com.mk/makedonija/35-od-naselenieto-e-so-prekumerna-tezhina-aliu-kazha-deka-ovaa-nedela-czentar-za-debelina-e-otvoren-i-vo-ohrid/",
+      "published": "Sat, 28 Mar 2026 10:02:54 +0000"
+    },
     {
       "region": "Македонија",
       "source": "Makfax",
@@ -31,10 +38,24 @@
     },
     {
       "region": "Македонија",
-      "source": "Makfax",
-      "title": "ВМРО-ДПМНЕ со критики за СДСМ и Филипче дека водат андидржавна политика",
-      "link": "https://makfax.com.mk/makedonija/vmro-dpmne-so-kritiki-za-sdsm-i-filipche-deka-vodat-andidrzhavna-politika/",
-      "published": "Sat, 28 Mar 2026 08:14:50 +0000"
+      "source": "NetPress",
+      "title": "Ноќеска ќе почне летното сметање на времето",
+      "link": "https://netpress.com.mk/nokeska-ke-pochne-letnoto-smetane-na-vremeto/",
+      "published": "Sat, 28 Mar 2026 10:13:20 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "NetPress",
+      "title": "Формула 1: Втора пол-позиција за 19-годишниот Антонели",
+      "link": "https://netpress.com.mk/formula-1-vtora-pol-poziczija-za-19-godishniot-antoneli/",
+      "published": "Sat, 28 Mar 2026 10:12:35 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "NetPress",
+      "title": "НБА преглед: Бостон ја прекина победничката серија на Атланта, Денвер влезе во низа победи",
+      "link": "https://netpress.com.mk/nba-pregled-boston-ja-prekina-pobednichkata-serija-na-atlanta-denver-vleze-vo-niza-pobedi/",
+      "published": "Sat, 28 Mar 2026 09:54:56 +0000"
     },
     {
       "region": "Македонија",
@@ -49,27 +70,6 @@
       "title": "Ранети 12 војници во ирански напад на база на САД во Саудиска Арабија",
       "link": "https://netpress.com.mk/raneti-12-vojniczi-vo-iranski-napad-na-baza-na-sad-vo-saudiska-arabija/",
       "published": "Sat, 28 Mar 2026 09:30:19 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "АТП Мајами: Синер и Лехечка во финалето",
-      "link": "https://netpress.com.mk/atp-majami-siner-i-lehechka-vo-finaleto/",
-      "published": "Sat, 28 Mar 2026 09:23:19 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Трамп вели дека САД „не мора да бидат тука“ за НАТО",
-      "link": "https://netpress.com.mk/tramp-veli-deka-sad-ne-mora-da-bidat-tuka-za-nato/",
-      "published": "Sat, 28 Mar 2026 09:14:06 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Европска демократска недела",
-      "link": "https://netpress.com.mk/evropska-demokratska-nedela/",
-      "published": "Sat, 28 Mar 2026 09:13:55 +0000"
     },
     {
       "region": "Свет",
@@ -109,6 +109,13 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "Nepal’s ex-PM Oli detained over alleged role in deadly protest crackdown",
+      "link": "https://www.aljazeera.com/news/2026/3/28/nepals-ex-pm-arrested-over-alleged-role-in-protest-crackdown?traffic_source=rss",
+      "published": "Sat, 28 Mar 2026 09:50:07 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "Tiger Woods released on bail hours after arrest on suspicion of DUI",
       "link": "https://www.aljazeera.com/sports/2026/3/28/tiger-woods-released-on-bail-hours-after-arrest-on-suspicion-of-dui?traffic_source=rss",
       "published": "Sat, 28 Mar 2026 09:09:45 +0000"
@@ -133,13 +140,6 @@
       "title": "US-Israel war on Iran: What’s happening on day 29 of attacks?",
       "link": "https://www.aljazeera.com/news/2026/3/28/iran-war-what-is-happening-on-day-29-of-us-israel-attacks?traffic_source=rss",
       "published": "Sat, 28 Mar 2026 08:17:54 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Trump claims Iran wants to ‘make a deal’",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/28/trump-claims-iran-wants-to-make-a?traffic_source=rss",
-      "published": "Sat, 28 Mar 2026 07:34:15 +0000"
     }
   ]
 }
