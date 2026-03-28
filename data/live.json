@@ -1,6 +1,13 @@
 {
-  "generated_at": "2026-03-28T06:06:57Z",
+  "generated_at": "2026-03-28T07:11:36Z",
   "items": [
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "Викенд со дожд, нов бран врнежи од среда",
+      "link": "https://makfax.com.mk/makedonija/vikend-so-dozhd-nov-bran-vrnezhi-od-sreda/",
+      "published": "Sat, 28 Mar 2026 07:00:36 +0000"
+    },
     {
       "region": "Македонија",
       "source": "Makfax",
@@ -31,10 +38,24 @@
     },
     {
       "region": "Македонија",
-      "source": "Makfax",
-      "title": "Сајбер напад врз Европската комисија",
-      "link": "https://makfax.com.mk/svet/sajber-napad-vrz-evropskata-komisija/",
-      "published": "Fri, 27 Mar 2026 19:11:03 +0000"
+      "source": "NetPress",
+      "title": "Маск се приклучил на разговорот меѓу Трамп и Моди за Иран",
+      "link": "https://netpress.com.mk/mask-se-prikluchil-na-razgovorot-megu-tramp-i-modi-za-iran/",
+      "published": "Sat, 28 Mar 2026 06:57:48 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "NetPress",
+      "title": "САД се надеваат на средби со Иран следните денови",
+      "link": "https://netpress.com.mk/sad-se-nadevaat-na-sredbi-so-iran-slednite-denovi/",
+      "published": "Sat, 28 Mar 2026 06:37:42 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "NetPress",
+      "title": "Дневен хороскоп за сабота 28-ми март 2026-та",
+      "link": "https://netpress.com.mk/dneven-horoskop-za-sabota-28-mi-mart-2026-ta/",
+      "published": "Sat, 28 Mar 2026 06:17:55 +0000"
     },
     {
       "region": "Македонија",
@@ -51,32 +72,11 @@
       "published": "Fri, 27 Mar 2026 22:42:16 +0000"
     },
     {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Пријателски натпревари: Резултати",
-      "link": "https://netpress.com.mk/prijatelski-natprevari-rezultati/",
-      "published": "Fri, 27 Mar 2026 22:35:03 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Јеменските хутисти предупредија дека ќе се вклучат во војната ако продолжат нападите врз Иран",
-      "link": "https://netpress.com.mk/jemenskite-hutisti-predupredija-deka-ke-se-vkluchat-vo-vojnata-ako-prodolzhat-napadite-vrz-iran/",
-      "published": "Fri, 27 Mar 2026 22:24:51 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "ОН формираа работна група за транспорт на суровини од Иран",
-      "link": "https://netpress.com.mk/on-formiraa-rabotna-grupa-za-transport-na-surovini-od-iran/",
-      "published": "Fri, 27 Mar 2026 22:13:18 +0000"
-    },
-    {
       "region": "Свет",
       "source": "BBC",
       "title": "Nepal's ex-PM arrested over fatal protest crackdown",
       "link": "https://www.bbc.com/news/articles/cn89ry7y835o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 28 Mar 2026 03:37:04 GMT"
+      "published": "Sat, 28 Mar 2026 06:58:37 GMT"
     },
     {
       "region": "Свет",
@@ -90,7 +90,14 @@
       "source": "BBC",
       "title": "Tiger Woods charged with driving under influence after crash",
       "link": "https://www.bbc.com/sport/golf/articles/cvg092kege7o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 28 Mar 2026 01:00:35 GMT"
+      "published": "Sat, 28 Mar 2026 06:47:10 GMT"
+    },
+    {
+      "region": "Свет",
+      "source": "BBC",
+      "title": "US House to vote on DHS funding as travel chaos deepens",
+      "link": "https://www.bbc.com/news/articles/c33l4j03kr3o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 28 Mar 2026 01:49:48 GMT"
     },
     {
       "region": "Свет",
@@ -101,10 +108,31 @@
     },
     {
       "region": "Свет",
-      "source": "BBC",
-      "title": "Iran-backed hackers breach FBI director Kash Patel's personal emails",
-      "link": "https://www.bbc.com/news/articles/cvgl4yk7vgpo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 27 Mar 2026 19:21:19 GMT"
+      "source": "Al Jazeera",
+      "title": "US Secretary of State says war could conclude in ‘weeks, not months’",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/28/us-secretary-of-state-says-war-could-conclude-in-weeks-not-months?traffic_source=rss",
+      "published": "Sat, 28 Mar 2026 06:54:08 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Doncic facing one-game ban after technical foul in Lakers win against Nets",
+      "link": "https://www.aljazeera.com/sports/2026/3/28/doncic-facing-one-game-ban-after-technical-foul-in-lakers-win-against-nets?traffic_source=rss",
+      "published": "Sat, 28 Mar 2026 06:52:31 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "White is hero and villain on England return, Germany’s Wirtz destroys Swiss",
+      "link": "https://www.aljazeera.com/sports/2026/3/28/white-is-hero-and-villain-on-england-return-germanys-wirtz-destroys-swiss?traffic_source=rss",
+      "published": "Sat, 28 Mar 2026 06:50:42 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "‘She left her body’: A mother’s fight against her daughter’s anorexia",
+      "link": "https://www.aljazeera.com/features/longform/2026/3/28/she-left-her-body-a-mothers-fight-against-her-daughters-anorexia?traffic_source=rss",
+      "published": "Sat, 28 Mar 2026 06:48:54 +0000"
     },
     {
       "region": "Свет",
@@ -112,34 +140,6 @@
       "title": "Israel’s unending attacks in Lebanon push country’s population to the brink",
       "link": "https://www.aljazeera.com/features/2026/3/28/israels-unending-attacks-in-lebanon-push-countrys-population-to-the-brink?traffic_source=rss",
       "published": "Sat, 28 Mar 2026 04:59:19 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Uproar in Bahrain after detainee dies in police custody",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/28/uproar-in-bahrain-after-detainee-dies-in-police-custody?traffic_source=rss",
-      "published": "Sat, 28 Mar 2026 04:54:23 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "How the US-Israel war on Iran unfolded in its first four weeks",
-      "link": "https://www.aljazeera.com/news/2026/3/28/how-the-us-israel-war-on-iran-unfolded-in-its-first-four-weeks?traffic_source=rss",
-      "published": "Sat, 28 Mar 2026 04:15:55 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Trump says ‘Cuba is next’ target of US military",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/28/trump-says-cuba-is-next-target-of-us-military?traffic_source=rss",
-      "published": "Sat, 28 Mar 2026 04:01:37 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "How mothers raise newborn babies during Israel’s offensive in Lebanon",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/28/how-mothers-raise-newborn-babies-during-israels-offensive-in-lebanon?traffic_source=rss",
-      "published": "Sat, 28 Mar 2026 03:40:07 +0000"
     }
   ]
 }
