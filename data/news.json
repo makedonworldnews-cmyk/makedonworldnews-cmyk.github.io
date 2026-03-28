@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-28T14:48:30Z",
+  "updatedAt": "2026-03-28T15:17:23Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,24 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Пријава за закани, малтретирање и нелегално оружје",
+          "link": "https://makfax.com.mk/crna-hronika/prijava-za-zakani-maltretirane-i-nelegalno-oruzhje/",
+          "published": "Sat, 28 Mar 2026 15:09:40 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Пријави за продажба и употреба на дрога и управување под дејство на марихуана",
+          "link": "https://makfax.com.mk/crna-hronika/prijavi-za-prodazhba-i-upotreba-na-droga-i-upravuvane-pod-dejstvo-na-marihuana/",
+          "published": "Sat, 28 Mar 2026 15:06:33 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Лишен од слобода државјанин на Албанија по потерница на Интерпол",
+          "link": "https://makfax.com.mk/crna-hronika/lishen-od-sloboda-drzhavjanin-na-albanija-po-poternicza-na-interpol/",
+          "published": "Sat, 28 Mar 2026 15:02:36 +0000"
         },
         {
           "source": "Makfax",
@@ -23,22 +41,10 @@
           "published": "Sat, 28 Mar 2026 13:53:00 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Се степале по кавга за паркинг простор",
-          "link": "https://makfax.com.mk/crna-hronika/se-stepale-po-kavga-za-parking-prostor/",
-          "published": "Sat, 28 Mar 2026 13:39:02 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Зеленски: Русија не сака мир",
-          "link": "https://makfax.com.mk/svet/zelenski-rusija-ne-saka-mir/",
-          "published": "Sat, 28 Mar 2026 13:02:46 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Европа ќе биде првата жртва ако Зеленски добие нуклеарно оружје, вели Захарова",
-          "link": "https://makfax.com.mk/svet/evropa-ke-bide-prvata-zhrtva-ako-zelenski-dobie-nuklearno-oruzhje-veli-zaharova/",
-          "published": "Sat, 28 Mar 2026 12:53:41 +0000"
+          "source": "NetPress",
+          "title": "Го задавил со рацете",
+          "link": "https://netpress.com.mk/go-zadavil-so-raczete/",
+          "published": "Sat, 28 Mar 2026 15:16:30 +0000"
         },
         {
           "source": "NetPress",
@@ -63,12 +69,6 @@
           "title": "Мицкоски: Намалувањето на ДДВ ќе ја намали цената на бензините за два денара",
           "link": "https://netpress.com.mk/miczkoski-namaluvaneto-na-ddv-ke-ja-namali-czenata-na-benzinite-za-dva-denara/",
           "published": "Sat, 28 Mar 2026 14:07:15 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Лажен полицаец измамил скопјанец – му зел 3.500 евра",
-          "link": "https://netpress.com.mk/lazhen-policzaecz-izmamil-skopjanecz-mu-zel-3-500-evra/",
-          "published": "Sat, 28 Mar 2026 13:56:06 +0000"
         }
       ]
     },
@@ -101,9 +101,9 @@
         },
         {
           "source": "BBC",
-          "title": "Nepal's ex-PM arrested over fatal protest crackdown",
-          "link": "https://www.bbc.com/news/articles/cn89ry7y835o?at_medium=RSS&at_campaign=rss",
-          "published": "Sat, 28 Mar 2026 06:58:37 GMT"
+          "title": "House Republicans reject Senate deal, prolonging partial US government shutdown",
+          "link": "https://www.bbc.com/news/articles/cgj052l1j2no?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 28 Mar 2026 08:38:34 GMT"
         },
         {
           "source": "Al Jazeera",
