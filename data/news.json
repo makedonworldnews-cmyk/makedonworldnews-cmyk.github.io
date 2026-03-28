@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-28T05:12:36Z",
+  "updatedAt": "2026-03-28T06:12:49Z",
   "groups": [
     {
       "region": "Македонија",
@@ -42,6 +42,12 @@
         },
         {
           "source": "NetPress",
+          "title": "Времето променливо облачно време со дожд и ретки грмежи",
+          "link": "https://netpress.com.mk/vremeto-promenlivo-oblachno-vreme-so-dozhd-i-retki-grmezhi/",
+          "published": "Sat, 28 Mar 2026 05:58:41 +0000"
+        },
+        {
+          "source": "NetPress",
           "title": "Евролига: Порази на Валенсија и Фенербахче, победа на Барселона",
           "link": "https://netpress.com.mk/evroliga-porazi-na-valensija-i-fenerbahche-pobeda-na-barselona/",
           "published": "Fri, 27 Mar 2026 22:42:16 +0000"
@@ -63,12 +69,6 @@
           "title": "ОН формираа работна група за транспорт на суровини од Иран",
           "link": "https://netpress.com.mk/on-formiraa-rabotna-grupa-za-transport-na-surovini-od-iran/",
           "published": "Fri, 27 Mar 2026 22:13:18 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Критиките од Бугарија за т.н. непочит на малцинските права не се базирани на факти, туку се гола политика",
-          "link": "https://netpress.com.mk/kritikite-od-bugarija-za-t-n-nepochit-na-malczinskite-prava-ne-se-bazirani-na-fakti-tuku-se-gola-politika/",
-          "published": "Fri, 27 Mar 2026 21:51:36 +0000"
         }
       ]
     },
@@ -107,6 +107,18 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Israel’s unending attacks in Lebanon push country’s population to the brink",
+          "link": "https://www.aljazeera.com/features/2026/3/28/israels-unending-attacks-in-lebanon-push-countrys-population-to-the-brink?traffic_source=rss",
+          "published": "Sat, 28 Mar 2026 04:59:19 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Uproar in Bahrain after detainee dies in police custody",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/28/uproar-in-bahrain-after-detainee-dies-in-police-custody?traffic_source=rss",
+          "published": "Sat, 28 Mar 2026 04:54:23 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "How the US-Israel war on Iran unfolded in its first four weeks",
           "link": "https://www.aljazeera.com/news/2026/3/28/how-the-us-israel-war-on-iran-unfolded-in-its-first-four-weeks?traffic_source=rss",
           "published": "Sat, 28 Mar 2026 04:15:55 +0000"
@@ -122,18 +134,6 @@
           "title": "How mothers raise newborn babies during Israel’s offensive in Lebanon",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/3/28/how-mothers-raise-newborn-babies-during-israels-offensive-in-lebanon?traffic_source=rss",
           "published": "Sat, 28 Mar 2026 03:40:07 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Intense bombing in Tehran, Isfahan",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/28/intense-bombing-in-tehran-isfahan?traffic_source=rss",
-          "published": "Sat, 28 Mar 2026 02:27:33 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Tiger Woods arrested for suspected DUI after rolling his car",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/28/tiger-woods-arrested-for-suspected-dui-after-rolling-his?traffic_source=rss",
-          "published": "Sat, 28 Mar 2026 01:27:48 +0000"
         }
       ]
     }
