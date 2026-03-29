@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-29T07:05:08Z",
+  "updatedAt": "2026-03-29T07:57:05Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,24 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Денес ги поместуваме стрелките на часовникот нанапред, денот ќе ни биде подолг, ама ни треба време да се навикнеме",
+          "link": "https://makfax.com.mk/svet/denes-gi-pomestuvame-strelkite-na-chasovnikot-nanapred-denot-ke-ni-bide-podolg-ama-ni-treba-vreme-da-se-navikneme/",
+          "published": "Sun, 29 Mar 2026 07:32:31 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Втор ракетен напад од Јемен кон Израел од почетокот на војната во Иран",
+          "link": "https://makfax.com.mk/svet/vtor-raketen-napad-od-jemen-kon-izrael-od-pochetokot-na-vojnata-vo-iran/",
+          "published": "Sun, 29 Mar 2026 07:19:14 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Саудиска Арабија, Турција и Египет на средба за разговори за војната во Иран",
+          "link": "https://makfax.com.mk/svet/saudiska-arabija-turczija-i-egipet-na-sredba-za-razgovori-za-vojnata-vo-iran/",
+          "published": "Sun, 29 Mar 2026 07:08:20 +0000"
         },
         {
           "source": "Makfax",
@@ -23,22 +41,10 @@
           "published": "Sun, 29 Mar 2026 06:14:44 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Променливо облачно со услови за краткотраен локален дожд",
-          "link": "https://makfax.com.mk/makedonija/promenlivo-oblachno-so-uslovi-za-kratkotraen-lokalen-dozhd/",
-          "published": "Sun, 29 Mar 2026 05:53:41 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Сабаленка влезе во историјата го освои Саншајн Дабл",
-          "link": "https://makfax.com.mk/sport/sabalenka-vleze-vo-istorijata-go-osvoi-sanshajn-dabl/",
-          "published": "Sat, 28 Mar 2026 22:15:31 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Спектакуларен спринт во Тексас – Мартин победи, Маркез, Диџа и Бецеки не ја завршија трката",
-          "link": "https://makfax.com.mk/sport/spektakularen-sprint-vo-teksas-martin-pobedi-markez-didha-i-beczeki-ne-ja-zavrshija-trkata/",
-          "published": "Sat, 28 Mar 2026 21:00:31 +0000"
+          "source": "NetPress",
+          "title": "Над 40 тони необележени јајца од Србија уништени на Дрисла",
+          "link": "https://netpress.com.mk/nad-40-toni-neobelezheni-jajcza-od-srbija-unishteni-na-drisla/",
+          "published": "Sun, 29 Mar 2026 07:51:13 +0000"
         },
         {
           "source": "NetPress",
@@ -63,12 +69,6 @@
           "title": "Дополнителни американски поморски сили на Блискиот исток",
           "link": "https://netpress.com.mk/dopolnitelni-amerikanski-pomorski-sili-na-bliskiot-istok/",
           "published": "Sun, 29 Mar 2026 05:47:24 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Дневен хороскоп за недела, 29-ти март 2026-та",
-          "link": "https://netpress.com.mk/dneven-horoskop-za-nedela-29-ti-mart-2026-ta/",
-          "published": "Sun, 29 Mar 2026 05:27:15 +0000"
         }
       ]
     },
@@ -85,7 +85,7 @@
           "source": "BBC",
           "title": "Three Lebanese journalists killed in Israeli strike, say broadcasters",
           "link": "https://www.bbc.com/news/articles/cgme1j70294o?at_medium=RSS&at_campaign=rss",
-          "published": "Sat, 28 Mar 2026 21:50:40 GMT"
+          "published": "Sun, 29 Mar 2026 07:51:04 GMT"
         },
         {
           "source": "BBC",
@@ -101,39 +101,39 @@
         },
         {
           "source": "BBC",
-          "title": "No Kings protests across the US rally against Donald Trump",
+          "title": "No Kings protesters across the US rally against Donald Trump",
           "link": "https://www.bbc.com/news/articles/cq8wy7g1gd1o?at_medium=RSS&at_campaign=rss",
           "published": "Sun, 29 Mar 2026 04:11:27 GMT"
         },
         {
           "source": "Al Jazeera",
-          "title": "Israel Adesanya knocked out by Joe Pyfer at UFC Fight Night in Seattle",
-          "link": "https://www.aljazeera.com/sports/2026/3/29/israel-adesanya-knocked-out-by-joe-pyfer-at-ufc-fight-night-in-seattle?traffic_source=rss",
-          "published": "Sun, 29 Mar 2026 05:57:46 +0000"
+          "title": "Kimi Antonelli wins Japanese GP to become youngest F1 title leader",
+          "link": "https://www.aljazeera.com/sports/2026/3/29/kimi-antonelli-wins-japanese-gp-to-become-youngest-f1-title-leader?traffic_source=rss",
+          "published": "Sun, 29 Mar 2026 07:20:58 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Sabalenka defeats Gauff to win second straight Miami Open title",
-          "link": "https://www.aljazeera.com/sports/2026/3/29/sabalenka-defeats-gauff-to-win-second-straight-miami-open-title?traffic_source=rss",
-          "published": "Sun, 29 Mar 2026 05:25:00 +0000"
+          "title": "‘Trump has to open the Strait of Hormuz’ with ground forces",
+          "link": "https://www.aljazeera.com/video/quotable/2026/3/29/trump-has-to-open-the-strait-of-hormuz-with-ground-forces?traffic_source=rss",
+          "published": "Sun, 29 Mar 2026 07:15:40 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "What happens in the occupied West Bank under the shadow of the Iran war",
-          "link": "https://www.aljazeera.com/video/by-the-numbers-3/2026/3/29/what-happens-in-the-occupied-west-bank-under-the-shadow-of-the-iran-war?traffic_source=rss",
-          "published": "Sun, 29 Mar 2026 04:34:31 +0000"
+          "title": "Thick plumes of smoke rise over Iraq’s Mosul after strikes",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/29/thick-plumes-of-smoke-rise-over-iraqs-mosul-after-strikes?traffic_source=rss",
+          "published": "Sun, 29 Mar 2026 07:15:19 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "As war on Iran enters second month, Yemen’s Houthis open new front",
-          "link": "https://www.aljazeera.com/news/2026/3/29/as-war-on-iran-enters-second-month-yemens-houthis-open-new-front?traffic_source=rss",
-          "published": "Sun, 29 Mar 2026 00:59:21 +0000"
+          "title": "Toddler rescued after US-Israeli strike on Iran",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/29/toddler-rescued-after-us-israeli-strike-on-iran?traffic_source=rss",
+          "published": "Sun, 29 Mar 2026 07:14:59 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Iran war live: Pakistan, Egypt, Turkiye, Saudi diplomats meet in Islamabad",
-          "link": "https://www.aljazeera.com/news/liveblog/2026/3/29/iran-war-live-houthis-attack-israel-anti-war-protesters-rally-in-tel-aviv?traffic_source=rss",
-          "published": "Sun, 29 Mar 2026 00:00:00 +0000"
+          "title": "Belgium thrash USA 5-2; Mexico vs Portugal ends 0-0 in football friendlies",
+          "link": "https://www.aljazeera.com/sports/2026/3/29/belgium-thrash-usa-5-2-mexico-vs-portugal-ends-0-0-in-football-friendlies?traffic_source=rss",
+          "published": "Sun, 29 Mar 2026 07:08:34 +0000"
         }
       ]
     }
