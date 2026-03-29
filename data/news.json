@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-29T09:37:56Z",
+  "updatedAt": "2026-03-29T10:04:15Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Син го тепал 74-годишниот татко, полицијата го приведе",
+          "link": "https://makfax.com.mk/crna-hronika/sin-go-tepal-74-godishniot-tatko-policzijata-go-privede/",
+          "published": "Sun, 29 Mar 2026 09:57:38 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Јавно обвинителство: Промена на јавен обвинител не ги одолговлекува постапките",
+          "link": "https://makfax.com.mk/makedonija/javno-obvinitelstvo-promena-na-javen-obvinitel-ne-gi-odolgovlekuva-postapkite/",
+          "published": "Sun, 29 Mar 2026 09:53:16 +0000"
         },
         {
           "source": "Makfax",
@@ -29,16 +41,16 @@
           "published": "Sun, 29 Mar 2026 08:01:47 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Денес ги поместуваме стрелките на часовникот нанапред, денот ќе ни биде подолг, ама ни треба време да се навикнеме",
-          "link": "https://makfax.com.mk/svet/denes-gi-pomestuvame-strelkite-na-chasovnikot-nanapred-denot-ke-ni-bide-podolg-ama-ni-treba-vreme-da-se-navikneme/",
-          "published": "Sun, 29 Mar 2026 07:32:31 +0000"
+          "source": "NetPress",
+          "title": "Обвинителството бара одговорно информирање и одмереност во јавните настапи за пожарот во Кочани",
+          "link": "https://netpress.com.mk/obvinitelstvoto-bara-odgovorno-informirane-i-odmerenost-vo-javnite-nastapi-za-pozharot-vo-kochani/",
+          "published": "Sun, 29 Mar 2026 09:45:14 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Втор ракетен напад од Јемен кон Израел од почетокот на војната во Иран",
-          "link": "https://makfax.com.mk/svet/vtor-raketen-napad-od-jemen-kon-izrael-od-pochetokot-na-vojnata-vo-iran/",
-          "published": "Sun, 29 Mar 2026 07:19:14 +0000"
+          "source": "NetPress",
+          "title": "Десетици казни при контроли во казина и угостителски објекти во Карпош и Кисела Вода",
+          "link": "https://netpress.com.mk/deseticzi-kazni-pri-kontroli-vo-kazina-i-ugostitelski-objekti-vo-karposh-i-kisela-voda/",
+          "published": "Sun, 29 Mar 2026 09:38:34 +0000"
         },
         {
           "source": "NetPress",
@@ -57,18 +69,6 @@
           "title": "СДС под 5% доверба, ни еден пиар трик на Башановиќ не може да ја продаде новата програмa на Филипче",
           "link": "https://netpress.com.mk/sds-pod-5-doverba-ni-eden-piar-trik-na-bashanovik-ne-mozhe-da-ja-prodade-novata-programa-na-filipche/",
           "published": "Sun, 29 Mar 2026 09:03:25 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Хрватска има сериозен проблем со недостигот на градежни работници",
-          "link": "https://netpress.com.mk/hrvatska-ima-seriozen-problem-so-nedostigot-na-gradezhni-rabotniczi/",
-          "published": "Sun, 29 Mar 2026 08:46:31 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Над 40 тони необележени шверцувани јајца од Србија уништени на Дрисла",
-          "link": "https://netpress.com.mk/nad-40-toni-neobelezheni-jajcza-od-srbija-unishteni-na-drisla/",
-          "published": "Sun, 29 Mar 2026 07:51:13 +0000"
         }
       ]
     },
@@ -107,6 +107,12 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Dozens detained in Tel Aviv as anti-war protest turns violent",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/29/dozens-detained-in-tel-aviv-as-anti-war-protest-turns-violent?traffic_source=rss",
+          "published": "Sun, 29 Mar 2026 09:30:28 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Pentagon readies for weeks of US ground operations in Iran: Report",
           "link": "https://www.aljazeera.com/news/2026/3/29/pentagon-readies-for-weeks-of-us-ground-operations-in-iran-report?traffic_source=rss",
           "published": "Sun, 29 Mar 2026 09:15:57 +0000"
@@ -128,12 +134,6 @@
           "title": "Living in the dark: Gaza’s struggle for electricity",
           "link": "https://www.aljazeera.com/features/2026/3/29/living-in-the-dark-gazas-struggle-for-electricity?traffic_source=rss",
           "published": "Sun, 29 Mar 2026 08:21:13 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Pakistan hosts top Saudi, Turkish, Egyptian diplomats over war in Iran",
-          "link": "https://www.aljazeera.com/news/2026/3/29/pakistan-hosts-top-saudi-turkish-egyptian-diplomats-over-war-in-iran?traffic_source=rss",
-          "published": "Sun, 29 Mar 2026 08:11:52 +0000"
         }
       ]
     }
