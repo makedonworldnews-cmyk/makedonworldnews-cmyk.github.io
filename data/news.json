@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-29T15:03:41Z",
+  "updatedAt": "2026-03-29T15:45:10Z",
   "groups": [
     {
       "region": "Македонија",
@@ -42,6 +42,24 @@
         },
         {
           "source": "NetPress",
+          "title": "Прилепчанец попречувал запленето возило со полицајци да тргне",
+          "link": "https://netpress.com.mk/prilepchanecz-poprechuval-zapleneto-vozilo-so-policzajczi-da-trgne/",
+          "published": "Sun, 29 Mar 2026 15:39:34 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Фицо ќе ги блокира новите санкции на ЕУ кон Русија",
+          "link": "https://netpress.com.mk/ficzo-ke-gi-blokira-novite-sankczii-na-eu-kon-rusija/",
+          "published": "Sun, 29 Mar 2026 15:21:12 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Тотенхем го избрка и Тудор по само 44 дена",
+          "link": "https://netpress.com.mk/totenhem-go-izbrka-i-tudor-po-samo-44-dena/",
+          "published": "Sun, 29 Mar 2026 15:04:50 +0000"
+        },
+        {
+          "source": "NetPress",
           "title": "Се тепале таткото и мајката, па мајката ја нападнала малолетната ќерка",
           "link": "https://netpress.com.mk/se-tepale-tatkoto-i-majkata-pa-majkata-ja-napadnala-maloletnata-kerka/",
           "published": "Sun, 29 Mar 2026 15:02:28 +0000"
@@ -51,24 +69,6 @@
           "title": "Жената што избоде четворица Германци во Софија: Го сторив тоа во интерес на општеството",
           "link": "https://netpress.com.mk/zhenata-shto-izbode-chetvoricza-germanczi-vo-sofija-go-storiv-toa-vo-interes-na-opshtestvoto/",
           "published": "Sun, 29 Mar 2026 14:42:19 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Израелската полиција го спречи патријархот на Ерусалим да ги слави Цветници",
-          "link": "https://netpress.com.mk/izraelskata-policzija-go-sprechi-patrijarhot-na-erusalim-da-gi-slavi-czvetniczi/",
-          "published": "Sun, 29 Mar 2026 14:24:30 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Владата на чекор до донесување туроператор „тежок“ 85 милиони евра вон сезоната",
-          "link": "https://netpress.com.mk/vladata-na-chekor-do-donesuvane-turoperator-tezhok-85-milioni-evra-von-sezonata/",
-          "published": "Sun, 29 Mar 2026 13:38:51 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Доларот зајакна, централната банка на САД веројатно нема да ги намали каматните стапки годинава",
-          "link": "https://netpress.com.mk/dolarot-zajakna-czentralnata-banka-na-sad-verojatno-nema-da-gi-namali-kamatnite-stapki-godinava/",
-          "published": "Sun, 29 Mar 2026 13:36:08 +0000"
         }
       ]
     },
@@ -101,39 +101,39 @@
         },
         {
           "source": "BBC",
-          "title": "One ant for $220: The new frontier of wildlife trafficking",
-          "link": "https://www.bbc.com/news/articles/cg4g44zv37qo?at_medium=RSS&at_campaign=rss",
-          "published": "Sun, 29 Mar 2026 00:01:15 GMT"
+          "title": "Three arrested in Paris after attempted bomb attack outside Bank of America",
+          "link": "https://www.bbc.com/news/articles/cd9v234j2v7o?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 29 Mar 2026 15:33:36 GMT"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Houthis open new front in Iran war: Will Yemeni group block Bab al-Mandeb?",
+          "link": "https://www.aljazeera.com/news/2026/3/29/houthis-open-new-front-in-iran-war-will-yemeni-group-block-bab-al-mandeb?traffic_source=rss",
+          "published": "Sun, 29 Mar 2026 15:09:51 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "African football chief will ‘respect’ CAS decision on AFCON final row",
+          "link": "https://www.aljazeera.com/news/2026/3/29/african-football-chief-will-respect-cas-decision-on-afcon-final-row?traffic_source=rss",
+          "published": "Sun, 29 Mar 2026 14:52:13 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "How the US memeifies its war on Iran",
+          "link": "https://www.aljazeera.com/video/digital-dilemma/2026/3/29/how-the-us-memeifies-its-war-on?traffic_source=rss",
+          "published": "Sun, 29 Mar 2026 14:44:36 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Pakistan maintains ‘delicate balancing act’ as it hosts Iran talks",
+          "link": "https://www.aljazeera.com/news/2026/3/29/pakistan-maintains-delicate-balancing-act-as-it-hosts-iran-talks?traffic_source=rss",
+          "published": "Sun, 29 Mar 2026 14:35:58 +0000"
         },
         {
           "source": "Al Jazeera",
           "title": "‘Nowhere is really safe’: Iranian dissidents grapple with US war in Iran",
           "link": "https://www.aljazeera.com/features/longform/2026/3/29/nowhere-is-really-safe-iranian-dissidents-grapple-with-us-war-in-iran?traffic_source=rss",
           "published": "Sun, 29 Mar 2026 14:26:35 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Israeli footballer’s role in assault on southern Lebanon sparks outrage",
-          "link": "https://www.aljazeera.com/sports/2026/3/29/israeli-footballers-role-in-assault-on-southern-lebanon-sparks-outrage?traffic_source=rss",
-          "published": "Sun, 29 Mar 2026 13:42:41 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Iran ‘hits’ US AWACS, air tankers: What else has it targeted in past month?",
-          "link": "https://www.aljazeera.com/news/2026/3/29/iran-hits-us-awacs-air-tankers-what-else-has-it-targeted-in-past-month?traffic_source=rss",
-          "published": "Sun, 29 Mar 2026 13:33:05 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Lebanese family launches mobile aid initiative for displaced",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/29/lebanese-family-launches-mobile-aid-initiative-for-displaced?traffic_source=rss",
-          "published": "Sun, 29 Mar 2026 13:17:03 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "ICC states should not ignore judicial experts’ conclusions in Khan’s case",
-          "link": "https://www.aljazeera.com/opinions/2026/3/29/icc-states-should-not-ignore-judicial-experts-conclusions-in-khans-case?traffic_source=rss",
-          "published": "Sun, 29 Mar 2026 12:25:29 +0000"
         }
       ]
     }
