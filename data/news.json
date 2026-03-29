@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-29T11:29:54Z",
+  "updatedAt": "2026-03-29T11:54:15Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Иран отсечен од светот, петта недела е без интернет",
+          "link": "https://makfax.com.mk/svet/iran-otsechen-od-svetot-petta-nedela-e-bez-internet/",
+          "published": "Sun, 29 Mar 2026 11:41:17 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "СДСМ обвинува дека во болниците е хаос и две недели на Онкологија недостигаат лекови",
+          "link": "https://makfax.com.mk/makedonija/sdsm-obvinuva-deka-vo-bolniczite-e-haos-i-dve-nedeli-na-onkologija-nedostigaat-lekovi/",
+          "published": "Sun, 29 Mar 2026 11:38:01 +0000"
         },
         {
           "source": "Makfax",
@@ -29,16 +41,10 @@
           "published": "Sun, 29 Mar 2026 11:04:39 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Поради војната во Иран загрозени цените на храната",
-          "link": "https://makfax.com.mk/svet/poradi-vojnata-vo-iran-zagrozeni-czenite-na-hranata/",
-          "published": "Sun, 29 Mar 2026 11:04:06 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Ферстапен размислува да ја заврши кариерата",
-          "link": "https://makfax.com.mk/sport/ferstapen-razmisluva-da-ja-zavrshi-karierata/",
-          "published": "Sun, 29 Mar 2026 10:51:03 +0000"
+          "source": "NetPress",
+          "title": "Иран подготвува посебен план за копнена инвазија од САД",
+          "link": "https://netpress.com.mk/iran-podgotvuva-poseben-plan-za-kopnena-invazija-od-sad/",
+          "published": "Sun, 29 Mar 2026 11:44:01 +0000"
         },
         {
           "source": "NetPress",
@@ -63,12 +69,6 @@
           "title": "Ф1: Берман се заби во оградата при брзина од 308 км/ч",
           "link": "https://netpress.com.mk/f1-berman-se-zabi-vo-ogradata-pri-brzina-od-308-km-ch/",
           "published": "Sun, 29 Mar 2026 10:53:42 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Времето утре променливо облачно со сончеви периоди",
-          "link": "https://netpress.com.mk/vremeto-utre-promenlivo-oblachno-so-sonchevi-periodi-4/",
-          "published": "Sun, 29 Mar 2026 10:27:46 +0000"
         }
       ]
     },
