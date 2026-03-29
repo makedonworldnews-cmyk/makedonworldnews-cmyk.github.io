@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-29T12:58:09Z",
+  "updatedAt": "2026-03-29T13:56:38Z",
   "groups": [
     {
       "region": "Македонија",
@@ -12,37 +12,55 @@
         },
         {
           "source": "Makfax",
+          "title": "Тепани свекрва, ќерка, сопруга и татко: Куп пријави за семејно насилство во МВР",
+          "link": "https://makfax.com.mk/crna-hronika/tepani-svekrva-kerka-sopruga-i-tatko-kup-prijavi-za-semejno-nasilstvo-vo-mvr/",
+          "published": "Sun, 29 Mar 2026 13:37:33 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Илјадници луѓе загинаа низ Блискиот Исток од почетокот на војната, тоа не се само бројки, тоа се животи",
+          "link": "https://makfax.com.mk/svet/iljadniczi-luge-zaginaa-niz-bliskiot-istok-od-pochetokot-na-vojnata-toa-ne-se-samo-brojki-toa-se-zhivoti/",
+          "published": "Sun, 29 Mar 2026 13:23:31 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Пешак тешко повреден во сообраќајка кај Брвеница, возачот избегал",
+          "link": "https://makfax.com.mk/crna-hronika/peshak-teshko-povreden-vo-soobrakajka-kaj-brvenicza-vozachot-izbegal/",
+          "published": "Sun, 29 Mar 2026 13:20:23 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Во државава се вози без возачка, под дејство на алкохол и над дозволеното, ама МВР казнува",
+          "link": "https://makfax.com.mk/makedonija/vo-drzhavava-se-vozi-bez-vozachka-pod-dejstvo-na-alkohol-i-nad-dozvolenoto-ama-mvr-kaznuva/",
+          "published": "Sun, 29 Mar 2026 13:17:55 +0000"
+        },
+        {
+          "source": "Makfax",
           "title": "Мицкоски вели дека во Охрид дневно има по 2.000 гости надвор од сеозната",
           "link": "https://makfax.com.mk/makedonija/miczkoski-veli-deka-vo-ohrid-dnevno-ima-po-2-000-gosti-nadvor-od-seoznata/",
           "published": "Sun, 29 Mar 2026 12:39:41 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Иран отсечен од светот, петта недела е без интернет",
-          "link": "https://makfax.com.mk/svet/iran-otsechen-od-svetot-petta-nedela-e-bez-internet/",
-          "published": "Sun, 29 Mar 2026 11:41:17 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "СДСМ обвинува дека во болниците е хаос и две недели на Онкологија недостигаат лекови",
-          "link": "https://makfax.com.mk/makedonija/sdsm-obvinuva-deka-vo-bolniczite-e-haos-i-dve-nedeli-na-onkologija-nedostigaat-lekovi/",
-          "published": "Sun, 29 Mar 2026 11:38:01 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "На Италија и судеше во поразот од Македонија, сега ќе го суди и клучниот меч во Зеница",
-          "link": "https://makfax.com.mk/sport/na-italija-i-sudeshe-vo-porazot-od-makedonija-sega-ke-go-sudi-i-kluchniot-mech-vo-zenicza/",
-          "published": "Sun, 29 Mar 2026 11:16:31 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Кај Виница најдено починато машко лице со прострелна рана од оружје",
-          "link": "https://makfax.com.mk/crna-hronika/kaj-vinicza-najdeno-pochinato-mashko-licze-so-prostrelna-rana-od-oruzhje/",
-          "published": "Sun, 29 Mar 2026 11:07:34 +0000"
+          "source": "NetPress",
+          "title": "Владата на чекор до донесување туроператор „тежок“ 85 милиони евра вон сезоната",
+          "link": "https://netpress.com.mk/vladata-na-chekor-do-donesuvane-turoperator-tezhok-85-milioni-evra-von-sezonata/",
+          "published": "Sun, 29 Mar 2026 13:38:51 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Реконструкција, модернизација и надградба на охридскиот аеродром, прва од неговата изградба",
+          "title": "Доларот зајакна, централната банка на САД веројатно нема да ги намали каматните стапки годинава",
+          "link": "https://netpress.com.mk/dolarot-zajakna-czentralnata-banka-na-sad-verojatno-nema-da-gi-namali-kamatnite-stapki-godinava/",
+          "published": "Sun, 29 Mar 2026 13:36:08 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Светските берзи нестабилни, Волстрит падна петта седмица по ред",
+          "link": "https://netpress.com.mk/svetskite-berzi-nestabilni-volstrit-padna-petta-sedmicza-po-red/",
+          "published": "Sun, 29 Mar 2026 12:59:40 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "ВИДЕО| Реконструкција, модернизација и надградба на охридскиот аеродром, прва од неговата изградба",
           "link": "https://netpress.com.mk/rekonstrukczija-modernizaczija-i-nadgradba-na-ohridskiot-aerodrom-prva-od-negovata-izgradba/",
           "published": "Sun, 29 Mar 2026 12:50:00 +0000"
         },
@@ -51,24 +69,6 @@
           "title": "Добавувачите во технолошкиот сектор се соочуваат со недостиг од хелиум",
           "link": "https://netpress.com.mk/dobavuvachite-vo-tehnoloshkiot-sektor-se-soochuvaat-so-nedostig-od-helium/",
           "published": "Sun, 29 Mar 2026 12:07:13 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Ловочувар убиен кај Виница",
-          "link": "https://netpress.com.mk/lovochuvar-ubien-kaj-vinicza/",
-          "published": "Sun, 29 Mar 2026 12:06:50 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Иран подготвува посебен план за копнена инвазија од САД",
-          "link": "https://netpress.com.mk/iran-podgotvuva-poseben-plan-za-kopnena-invazija-od-sad/",
-          "published": "Sun, 29 Mar 2026 11:44:01 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Иран се закани со одмазда врз израелски и американски универзитети во регионот",
-          "link": "https://netpress.com.mk/iran-se-zakani-so-odmazda-vrz-izraelski-i-amerikanski-univerziteti-vo-regionot/",
-          "published": "Sun, 29 Mar 2026 11:20:17 +0000"
         }
       ]
     },
@@ -85,7 +85,7 @@
           "source": "BBC",
           "title": "Iranian attacks across Gulf continue as major industrial sites hit",
           "link": "https://www.bbc.com/news/articles/cp86yrq5jy7o?at_medium=RSS&at_campaign=rss",
-          "published": "Sun, 29 Mar 2026 11:38:20 GMT"
+          "published": "Sun, 29 Mar 2026 13:32:49 GMT"
         },
         {
           "source": "BBC",
@@ -107,6 +107,24 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Israeli footballer’s role in assault on southern Lebanon sparks outrage",
+          "link": "https://www.aljazeera.com/sports/2026/3/29/israeli-footballers-role-in-assault-on-southern-lebanon-sparks-outrage?traffic_source=rss",
+          "published": "Sun, 29 Mar 2026 13:42:41 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Iran ‘hits’ US AWACS, air tankers: What else has it targeted in past month?",
+          "link": "https://www.aljazeera.com/news/2026/3/29/iran-hits-us-awacs-air-tankers-what-else-has-it-targeted-in-past-month?traffic_source=rss",
+          "published": "Sun, 29 Mar 2026 13:33:05 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Lebanese family launches mobile aid initiative for displaced",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/29/lebanese-family-launches-mobile-aid-initiative-for-displaced?traffic_source=rss",
+          "published": "Sun, 29 Mar 2026 13:17:03 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "ICC states should not ignore judicial experts’ conclusions in Khan’s case",
           "link": "https://www.aljazeera.com/opinions/2026/3/29/icc-states-should-not-ignore-judicial-experts-conclusions-in-khans-case?traffic_source=rss",
           "published": "Sun, 29 Mar 2026 12:25:29 +0000"
@@ -116,24 +134,6 @@
           "title": "The US-Israeli war on humanity",
           "link": "https://www.aljazeera.com/opinions/2026/3/29/the-us-israeli-war-on-humanity?traffic_source=rss",
           "published": "Sun, 29 Mar 2026 12:08:26 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Pakistan hosts four-nation bid to encourage US, Iran towards diplomacy",
-          "link": "https://www.aljazeera.com/news/2026/3/29/pakistan-hosts-four-nation-bid-to-encourage-us-iran-towards-diplomacy?traffic_source=rss",
-          "published": "Sun, 29 Mar 2026 11:10:43 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "‘We will see a new government in Venezuela, in Cuba and in Iran’",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/29/we-will-see-a-new-government-in-venezuela-in-cuba-and-in?traffic_source=rss",
-          "published": "Sun, 29 Mar 2026 11:09:04 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Olympic gender test ‘a disrespect for women’, South Africa’s Semenya says",
-          "link": "https://www.aljazeera.com/sports/2026/3/29/olympic-gender-test-a-disrespect-for-women-south-africas-semenya-says?traffic_source=rss",
-          "published": "Sun, 29 Mar 2026 10:33:51 +0000"
         }
       ]
     }
