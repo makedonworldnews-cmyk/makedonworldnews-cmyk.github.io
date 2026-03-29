@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-29T04:09:33Z",
+  "updatedAt": "2026-03-29T05:50:58Z",
   "groups": [
     {
       "region": "Македонија",
@@ -42,6 +42,24 @@
         },
         {
           "source": "NetPress",
+          "title": "Дополнителни американски поморски сили на Блискиот исток",
+          "link": "https://netpress.com.mk/dopolnitelni-amerikanski-pomorski-sili-na-bliskiot-istok/",
+          "published": "Sun, 29 Mar 2026 05:47:24 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Дневен хороскоп за недела, 29-ти март 2026-та",
+          "link": "https://netpress.com.mk/dneven-horoskop-za-nedela-29-ti-mart-2026-ta/",
+          "published": "Sun, 29 Mar 2026 05:27:15 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Променливо облачно со услови за локални врнежи, дождливо и следната седмица",
+          "link": "https://netpress.com.mk/promenlivo-oblachno-so-uslovi-za-lokalni-vrnezhi-dozhdlivo-i-slednata-sedmicza/",
+          "published": "Sun, 29 Mar 2026 05:07:35 +0000"
+        },
+        {
+          "source": "NetPress",
           "title": "Иран нападна цели во Катар и американските воени позиции во Дубаи",
           "link": "https://netpress.com.mk/iran-napadna-czeli-vo-katar-i-amerikanskite-voeni-poziczii-vo-dubai/",
           "published": "Sat, 28 Mar 2026 23:04:43 +0000"
@@ -51,24 +69,6 @@
           "title": "Преглед пријателски натпревари: Дебакл на САД против Белгија",
           "link": "https://netpress.com.mk/pregled-prijatelski-natprevari-debakl-na-sad-protiv-belgija/",
           "published": "Sat, 28 Mar 2026 22:47:28 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "МотоГП: Мартин победник во спринтот во Остин",
-          "link": "https://netpress.com.mk/motogp-martin-pobednik-vo-sprintot-vo-ostin/",
-          "published": "Sat, 28 Mar 2026 22:23:58 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "ЏејДи Венс избор на CPAC за републикански претседателски кандидат",
-          "link": "https://netpress.com.mk/dhejdi-vens-izbor-na-cpac-za-republikanski-pretsedatelski-kandidat/",
-          "published": "Sat, 28 Mar 2026 22:09:00 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Сабаленка ја одбрани титулата во Мајами и го комплетираше „sunshine double“",
-          "link": "https://netpress.com.mk/sabalenka-ja-odbrani-titulata-vo-majami-i-go-kompletirashe-sunshine-double/",
-          "published": "Sat, 28 Mar 2026 21:54:59 +0000"
         }
       ]
     },
@@ -103,7 +103,19 @@
           "source": "BBC",
           "title": "No Kings protests across the US rally against Donald Trump",
           "link": "https://www.bbc.com/news/articles/cq8wy7g1gd1o?at_medium=RSS&at_campaign=rss",
-          "published": "Sat, 28 Mar 2026 22:48:02 GMT"
+          "published": "Sun, 29 Mar 2026 04:11:27 GMT"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Sabalenka defeats Gauff to win second straight Miami Open title",
+          "link": "https://www.aljazeera.com/sports/2026/3/29/sabalenka-defeats-gauff-to-win-second-straight-miami-open-title?traffic_source=rss",
+          "published": "Sun, 29 Mar 2026 05:25:00 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "What happens in the occupied West Bank under the shadow of the Iran war",
+          "link": "https://www.aljazeera.com/video/by-the-numbers-3/2026/3/29/what-happens-in-the-occupied-west-bank-under-the-shadow-of-the-iran-war?traffic_source=rss",
+          "published": "Sun, 29 Mar 2026 04:34:31 +0000"
         },
         {
           "source": "Al Jazeera",
@@ -122,18 +134,6 @@
           "title": "Vice President JD Vance tops CPAC’s straw poll to be US president in 2028",
           "link": "https://www.aljazeera.com/news/2026/3/28/vice-president-jd-vance-tops-cpacs-straw-poll-to-be-us-president-in-2028?traffic_source=rss",
           "published": "Sat, 28 Mar 2026 23:29:34 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Key moments in first month of US-Israeli war on Iran",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/28/key-moments-in-first-month-of-us-israeli-war-on-iran?traffic_source=rss",
-          "published": "Sat, 28 Mar 2026 22:50:55 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Air strikes in Iraq kill three PMF fighters, two police",
-          "link": "https://www.aljazeera.com/news/2026/3/28/air-strikes-in-iraq-kill-three-pmf-fighters-and-two-iraqi-police?traffic_source=rss",
-          "published": "Sat, 28 Mar 2026 22:32:05 +0000"
         }
       ]
     }
