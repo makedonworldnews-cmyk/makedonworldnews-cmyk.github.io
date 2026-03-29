@@ -1,6 +1,13 @@
 {
-  "generated_at": "2026-03-29T07:51:12Z",
+  "generated_at": "2026-03-29T08:31:44Z",
   "items": [
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "Правни пречки ја кочат забраната за социјални мрежи за малолетници во Германија",
+      "link": "https://makfax.com.mk/svet/pravni-prechki-ja-kochat-zabranata-za-soczijalni-mrezhi-za-maloletniczi-vo-germanija/",
+      "published": "Sun, 29 Mar 2026 08:01:47 +0000"
+    },
     {
       "region": "Македонија",
       "source": "Makfax",
@@ -31,15 +38,8 @@
     },
     {
       "region": "Македонија",
-      "source": "Makfax",
-      "title": "Синот на осомничениот за убиството во Охрид: Наместо разбирање има медиумски линч",
-      "link": "https://makfax.com.mk/makedonija/sinot-na-osomnicheniot-za-ubistvoto-vo-ohrid-namesto-razbirane-ima-mediumski-linch/",
-      "published": "Sun, 29 Mar 2026 06:14:44 +0000"
-    },
-    {
-      "region": "Македонија",
       "source": "NetPress",
-      "title": "Над 40 тони необележени јајца од Србија уништени на Дрисла",
+      "title": "Над 40 тони необележени шверцурани јајца од Србија уништени на Дрисла",
       "link": "https://netpress.com.mk/nad-40-toni-neobelezheni-jajcza-od-srbija-unishteni-na-drisla/",
       "published": "Sun, 29 Mar 2026 07:51:13 +0000"
     },
@@ -74,7 +74,7 @@
     {
       "region": "Свет",
       "source": "BBC",
-      "title": "Trump is waging war based on instinct and it isn't working",
+      "title": "Jeremy Bowen: Trump is waging war based on instinct and it isn't working",
       "link": "https://www.bbc.com/news/articles/c5y969pnxgvo?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 29 Mar 2026 00:02:46 GMT"
     },
@@ -83,12 +83,12 @@
       "source": "BBC",
       "title": "Three Lebanese journalists killed in Israeli strike, say broadcasters",
       "link": "https://www.bbc.com/news/articles/cgme1j70294o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 28 Mar 2026 21:50:40 GMT"
+      "published": "Sun, 29 Mar 2026 07:51:04 GMT"
     },
     {
       "region": "Свет",
       "source": "BBC",
-      "title": "One ant for $220: the new frontier of wildlife trafficking",
+      "title": "One ant for $220: The new frontier of wildlife trafficking",
       "link": "https://www.bbc.com/news/articles/cg4g44zv37qo?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 29 Mar 2026 00:01:15 GMT"
     },
@@ -105,6 +105,20 @@
       "title": "No Kings protesters across the US rally against Donald Trump",
       "link": "https://www.bbc.com/news/articles/cq8wy7g1gd1o?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 29 Mar 2026 04:11:27 GMT"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Lebanese resident stays behind with pet monkey despite evacuation orders",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/29/lebanese-resident-stays-behind-with-pet-monkey-despite-evacuation-orders?traffic_source=rss",
+      "published": "Sun, 29 Mar 2026 07:31:17 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Iran’s IRGC claims attacks on UAE, Bahrain aluminium facilities",
+      "link": "https://www.aljazeera.com/news/2026/3/29/irans-irgc-claim-attacks-on-uae-bahrain-facilities-linked-to-us-war?traffic_source=rss",
+      "published": "Sun, 29 Mar 2026 07:30:22 +0000"
     },
     {
       "region": "Свет",
@@ -126,20 +140,6 @@
       "title": "Thick plumes of smoke rise over Iraq’s Mosul after strikes",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/3/29/thick-plumes-of-smoke-rise-over-iraqs-mosul-after-strikes?traffic_source=rss",
       "published": "Sun, 29 Mar 2026 07:15:19 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Toddler rescued after US-Israeli strike on Iran",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/29/toddler-rescued-after-us-israeli-strike-on-iran?traffic_source=rss",
-      "published": "Sun, 29 Mar 2026 07:14:59 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Belgium thrash USA 5-2; Mexico vs Portugal ends 0-0 in football friendlies",
-      "link": "https://www.aljazeera.com/sports/2026/3/29/belgium-thrash-usa-5-2-mexico-vs-portugal-ends-0-0-in-football-friendlies?traffic_source=rss",
-      "published": "Sun, 29 Mar 2026 07:08:34 +0000"
     }
   ]
 }
