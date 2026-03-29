@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-29T19:59:26Z",
+  "generated_at": "2026-03-29T20:30:35Z",
   "items": [
     {
       "region": "Македонија",
@@ -109,6 +109,13 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "Qatari TV station hit in Iran",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/29/qatari-tv-station-hit-in-iran?traffic_source=rss",
+      "published": "Sun, 29 Mar 2026 20:11:23 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "Lebanon’s Catholics observe Palm Sunday under looming threat of war",
       "link": "https://www.aljazeera.com/gallery/2026/3/29/lebanons-catholics-observe-palm-sunday-under-looming-threat-of-war?traffic_source=rss",
       "published": "Sun, 29 Mar 2026 19:36:26 +0000"
@@ -133,13 +140,6 @@
       "title": "Republican Mace says Congress must approve any US troop deployment to Iran",
       "link": "https://www.aljazeera.com/news/2026/3/29/republican-mace-says-congress-must-approve-any-us-troop-deployment-to-iran?traffic_source=rss",
       "published": "Sun, 29 Mar 2026 18:53:33 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Zelenskyy arrives in Jordan to bolster security ties",
-      "link": "https://www.aljazeera.com/news/2026/3/29/zelenskyy-arrives-in-jordan-to-bolster-security-ties?traffic_source=rss",
-      "published": "Sun, 29 Mar 2026 18:37:15 +0000"
     }
   ]
 }
