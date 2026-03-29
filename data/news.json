@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-29T20:02:47Z",
+  "updatedAt": "2026-03-29T20:48:04Z",
   "groups": [
     {
       "region": "Македонија",
@@ -42,6 +42,12 @@
         },
         {
           "source": "NetPress",
+          "title": "Нетанјаху нареди проширување на операциите во јужен Либан",
+          "link": "https://netpress.com.mk/netanjahu-naredi-proshiruvane-na-operacziite-vo-juzhen-liban/",
+          "published": "Sun, 29 Mar 2026 20:31:56 +0000"
+        },
+        {
+          "source": "NetPress",
           "title": "Крвната група Б е поврзана со поголем ризик од дијабетес тип 2",
           "link": "https://netpress.com.mk/krvnata-grupa-b-e-povrzana-so-pogolem-rizik-od-dijabetes-tip-2/",
           "published": "Sun, 29 Mar 2026 19:18:05 +0000"
@@ -63,12 +69,6 @@
           "title": "На автобуска постојка во Карпош група малолетници претепале врсник",
           "link": "https://netpress.com.mk/na-avtobuska-postojka-vo-karposh-grupa-maloletniczi-pretepale-vrsnik/",
           "published": "Sun, 29 Mar 2026 18:11:00 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Почината жена пронајдена во Кисела Вода",
-          "link": "https://netpress.com.mk/pochinata-zhena-pronajdena-vo-kisela-voda/",
-          "published": "Sun, 29 Mar 2026 17:49:59 +0000"
         }
       ]
     },
@@ -107,6 +107,18 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Qatari TV station hit in Iran",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/29/qatari-tv-station-hit-in-iran?traffic_source=rss",
+          "published": "Sun, 29 Mar 2026 20:11:23 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Lebanon’s Catholics observe Palm Sunday under looming threat of war",
+          "link": "https://www.aljazeera.com/gallery/2026/3/29/lebanons-catholics-observe-palm-sunday-under-looming-threat-of-war?traffic_source=rss",
+          "published": "Sun, 29 Mar 2026 19:36:26 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "RSF attack on Sudan’s South Kordofan kills at least 14, including children",
           "link": "https://www.aljazeera.com/news/2026/3/29/rsf-attack-on-sudans-south-kordofan-kills-at-least-14-including-children?traffic_source=rss",
           "published": "Sun, 29 Mar 2026 19:22:33 +0000"
@@ -122,18 +134,6 @@
           "title": "Republican Mace says Congress must approve any US troop deployment to Iran",
           "link": "https://www.aljazeera.com/news/2026/3/29/republican-mace-says-congress-must-approve-any-us-troop-deployment-to-iran?traffic_source=rss",
           "published": "Sun, 29 Mar 2026 18:53:33 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Zelenskyy arrives in Jordan to bolster security ties",
-          "link": "https://www.aljazeera.com/news/2026/3/29/zelenskyy-arrives-in-jordan-to-bolster-security-ties?traffic_source=rss",
-          "published": "Sun, 29 Mar 2026 18:37:15 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Netanyahu orders military to expand invasion of southern Lebanon",
-          "link": "https://www.aljazeera.com/news/2026/3/29/netanyahu-announces-expansion-of-security-buffer-zone-in-south-lebanon?traffic_source=rss",
-          "published": "Sun, 29 Mar 2026 17:56:44 +0000"
         }
       ]
     }
