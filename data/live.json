@@ -1,6 +1,20 @@
 {
-  "generated_at": "2026-03-29T05:56:08Z",
+  "generated_at": "2026-03-29T06:57:17Z",
   "items": [
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "Израел уби тројца новинари во Либан",
+      "link": "https://makfax.com.mk/svet/izrael-ubi-trojcza-novinari-vo-liban/",
+      "published": "Sun, 29 Mar 2026 06:50:56 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "Синот на осомничениот за убиството во Охрид: Наместо разбирање има медиумски линч",
+      "link": "https://makfax.com.mk/makedonija/sinot-na-osomnicheniot-za-ubistvoto-vo-ohrid-namesto-razbirane-ima-mediumski-linch/",
+      "published": "Sun, 29 Mar 2026 06:14:44 +0000"
+    },
     {
       "region": "Македонија",
       "source": "Makfax",
@@ -24,17 +38,24 @@
     },
     {
       "region": "Македонија",
-      "source": "Makfax",
-      "title": "Во пет напади во јужен Либан загинаа девет болничари",
-      "link": "https://makfax.com.mk/svet/vo-pet-napadi-vo-juzhen-liban-zaginaa-devet-bolnichari/",
-      "published": "Sat, 28 Mar 2026 20:44:24 +0000"
+      "source": "NetPress",
+      "title": "Затворен патот Средно Водно – манастир „Свети Пантелејмон“ поради атлетска трка",
+      "link": "https://netpress.com.mk/zatvoren-patot-sredno-vodno-manastir-sveti-pantelejmon-poradi-atletska-trka/",
+      "published": "Sun, 29 Mar 2026 06:44:15 +0000"
     },
     {
       "region": "Македонија",
-      "source": "Makfax",
-      "title": "Иран има ново барање за прекин на војната",
-      "link": "https://makfax.com.mk/svet/iran-ima-novo-barane-za-prekin-na-vojnata-iran-a-toa-bi-mozhelo-da-donese-milijardi-dolari/",
-      "published": "Sat, 28 Mar 2026 19:56:14 +0000"
+      "source": "NetPress",
+      "title": "Снежи само на Попова Шапка, но сообраќајот се одвива непречено",
+      "link": "https://netpress.com.mk/snezhi-samo-na-popova-shapka-no-soobrakajot-se-odviva-neprecheno/",
+      "published": "Sun, 29 Mar 2026 06:33:15 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "NetPress",
+      "title": "Бахреинскиот алуминиумски гигант го потврди иранскиот напад врз неговите објекти",
+      "link": "https://netpress.com.mk/bahreinskiot-aluminiumski-gigant-go-potvrdi-iranskiot-napad-vrz-negovite-objekti/",
+      "published": "Sun, 29 Mar 2026 06:07:12 +0000"
     },
     {
       "region": "Македонија",
@@ -49,27 +70,6 @@
       "title": "Дневен хороскоп за недела, 29-ти март 2026-та",
       "link": "https://netpress.com.mk/dneven-horoskop-za-nedela-29-ti-mart-2026-ta/",
       "published": "Sun, 29 Mar 2026 05:27:15 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Променливо облачно со услови за локални врнежи, дождливо и следната седмица",
-      "link": "https://netpress.com.mk/promenlivo-oblachno-so-uslovi-za-lokalni-vrnezhi-dozhdlivo-i-slednata-sedmicza/",
-      "published": "Sun, 29 Mar 2026 05:07:35 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Иран нападна цели во Катар и американските воени позиции во Дубаи",
-      "link": "https://netpress.com.mk/iran-napadna-czeli-vo-katar-i-amerikanskite-voeni-poziczii-vo-dubai/",
-      "published": "Sat, 28 Mar 2026 23:04:43 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Преглед пријателски натпревари: Дебакл на САД против Белгија",
-      "link": "https://netpress.com.mk/pregled-prijatelski-natprevari-debakl-na-sad-protiv-belgija/",
-      "published": "Sat, 28 Mar 2026 22:47:28 +0000"
     },
     {
       "region": "Свет",
@@ -109,6 +109,13 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "Israel Adesanya knocked out by Joe Pyfer at UFC Fight Night in Seattle",
+      "link": "https://www.aljazeera.com/sports/2026/3/29/israel-adesanya-knocked-out-by-joe-pyfer-at-ufc-fight-night-in-seattle?traffic_source=rss",
+      "published": "Sun, 29 Mar 2026 05:57:46 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "Sabalenka defeats Gauff to win second straight Miami Open title",
       "link": "https://www.aljazeera.com/sports/2026/3/29/sabalenka-defeats-gauff-to-win-second-straight-miami-open-title?traffic_source=rss",
       "published": "Sun, 29 Mar 2026 05:25:00 +0000"
@@ -130,16 +137,9 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
-      "title": "Iran war live: Tehran warns US, Israeli universities; Houthis fire missiles",
+      "title": "Iran war live: Pakistan, Egypt, Turkiye, Saudi diplomats meet in Islamabad",
       "link": "https://www.aljazeera.com/news/liveblog/2026/3/29/iran-war-live-houthis-attack-israel-anti-war-protesters-rally-in-tel-aviv?traffic_source=rss",
       "published": "Sun, 29 Mar 2026 00:00:00 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Vice President JD Vance tops CPAC’s straw poll to be US president in 2028",
-      "link": "https://www.aljazeera.com/news/2026/3/28/vice-president-jd-vance-tops-cpacs-straw-poll-to-be-us-president-in-2028?traffic_source=rss",
-      "published": "Sat, 28 Mar 2026 23:29:34 +0000"
     }
   ]
 }
