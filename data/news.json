@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-29T07:57:05Z",
+  "updatedAt": "2026-03-29T08:51:33Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,24 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Седум лица тешко повредени во Англија откако автомобил удрил во пешаци",
+          "link": "https://makfax.com.mk/svet/sedum-licza-teshko-povredeni-vo-anglija-otkako-avtomobil-udril-vo-peshaczi/",
+          "published": "Sun, 29 Mar 2026 08:51:27 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Половина милион јајца запленети на Табановце завршија на „Дрисла“",
+          "link": "https://makfax.com.mk/makedonija/polovina-milion-jajcza-zapleneti-na-tabanovcze-zavrshija-na-drisla/",
+          "published": "Sun, 29 Mar 2026 08:46:19 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Правни пречки ја кочат забраната за социјални мрежи за малолетници во Германија",
+          "link": "https://makfax.com.mk/svet/pravni-prechki-ja-kochat-zabranata-za-soczijalni-mrezhi-za-maloletniczi-vo-germanija/",
+          "published": "Sun, 29 Mar 2026 08:01:47 +0000"
         },
         {
           "source": "Makfax",
@@ -23,26 +41,14 @@
           "published": "Sun, 29 Mar 2026 07:19:14 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Саудиска Арабија, Турција и Египет на средба за разговори за војната во Иран",
-          "link": "https://makfax.com.mk/svet/saudiska-arabija-turczija-i-egipet-na-sredba-za-razgovori-za-vojnata-vo-iran/",
-          "published": "Sun, 29 Mar 2026 07:08:20 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Израел уби тројца новинари во Либан",
-          "link": "https://makfax.com.mk/svet/izrael-ubi-trojcza-novinari-vo-liban/",
-          "published": "Sun, 29 Mar 2026 06:50:56 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Синот на осомничениот за убиството во Охрид: Наместо разбирање има медиумски линч",
-          "link": "https://makfax.com.mk/makedonija/sinot-na-osomnicheniot-za-ubistvoto-vo-ohrid-namesto-razbirane-ima-mediumski-linch/",
-          "published": "Sun, 29 Mar 2026 06:14:44 +0000"
+          "source": "NetPress",
+          "title": "Хрватска има сериозен проблем со недостигот на градежни работници",
+          "link": "https://netpress.com.mk/hrvatska-ima-seriozen-problem-so-nedostigot-na-gradezhni-rabotniczi/",
+          "published": "Sun, 29 Mar 2026 08:46:31 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Над 40 тони необележени јајца од Србија уништени на Дрисла",
+          "title": "Над 40 тони необележени шверцувани јајца од Србија уништени на Дрисла",
           "link": "https://netpress.com.mk/nad-40-toni-neobelezheni-jajcza-od-srbija-unishteni-na-drisla/",
           "published": "Sun, 29 Mar 2026 07:51:13 +0000"
         },
@@ -63,12 +69,6 @@
           "title": "Бахреинскиот алуминиумски гигант го потврди иранскиот напад врз неговите објекти",
           "link": "https://netpress.com.mk/bahreinskiot-aluminiumski-gigant-go-potvrdi-iranskiot-napad-vrz-negovite-objekti/",
           "published": "Sun, 29 Mar 2026 06:07:12 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Дополнителни американски поморски сили на Блискиот исток",
-          "link": "https://netpress.com.mk/dopolnitelni-amerikanski-pomorski-sili-na-bliskiot-istok/",
-          "published": "Sun, 29 Mar 2026 05:47:24 +0000"
         }
       ]
     },
@@ -77,7 +77,7 @@
       "items": [
         {
           "source": "BBC",
-          "title": "Trump is waging war based on instinct and it isn't working",
+          "title": "Jeremy Bowen: Trump is waging war based on instinct and it isn't working",
           "link": "https://www.bbc.com/news/articles/c5y969pnxgvo?at_medium=RSS&at_campaign=rss",
           "published": "Sun, 29 Mar 2026 00:02:46 GMT"
         },
@@ -89,7 +89,7 @@
         },
         {
           "source": "BBC",
-          "title": "One ant for $220: the new frontier of wildlife trafficking",
+          "title": "One ant for $220: The new frontier of wildlife trafficking",
           "link": "https://www.bbc.com/news/articles/cg4g44zv37qo?at_medium=RSS&at_campaign=rss",
           "published": "Sun, 29 Mar 2026 00:01:15 GMT"
         },
@@ -107,33 +107,33 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Living in the dark: Gaza’s struggle for electricity",
+          "link": "https://www.aljazeera.com/features/2026/3/29/living-in-the-dark-gazas-struggle-for-electricity?traffic_source=rss",
+          "published": "Sun, 29 Mar 2026 08:21:13 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Pakistan hosts top Saudi, Turkish, Egyptian diplomats over war in Iran",
+          "link": "https://www.aljazeera.com/news/2026/3/29/pakistan-hosts-top-saudi-turkish-egyptian-diplomats-over-war-in-iran?traffic_source=rss",
+          "published": "Sun, 29 Mar 2026 08:11:52 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Lebanese resident stays behind with pet monkey despite evacuation orders",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/29/lebanese-resident-stays-behind-with-pet-monkey-despite-evacuation-orders?traffic_source=rss",
+          "published": "Sun, 29 Mar 2026 07:31:17 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Iran’s IRGC claims attacks on UAE, Bahrain aluminium facilities",
+          "link": "https://www.aljazeera.com/news/2026/3/29/irans-irgc-claim-attacks-on-uae-bahrain-facilities-linked-to-us-war?traffic_source=rss",
+          "published": "Sun, 29 Mar 2026 07:30:22 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Kimi Antonelli wins Japanese GP to become youngest F1 title leader",
           "link": "https://www.aljazeera.com/sports/2026/3/29/kimi-antonelli-wins-japanese-gp-to-become-youngest-f1-title-leader?traffic_source=rss",
           "published": "Sun, 29 Mar 2026 07:20:58 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "‘Trump has to open the Strait of Hormuz’ with ground forces",
-          "link": "https://www.aljazeera.com/video/quotable/2026/3/29/trump-has-to-open-the-strait-of-hormuz-with-ground-forces?traffic_source=rss",
-          "published": "Sun, 29 Mar 2026 07:15:40 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Thick plumes of smoke rise over Iraq’s Mosul after strikes",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/29/thick-plumes-of-smoke-rise-over-iraqs-mosul-after-strikes?traffic_source=rss",
-          "published": "Sun, 29 Mar 2026 07:15:19 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Toddler rescued after US-Israeli strike on Iran",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/29/toddler-rescued-after-us-israeli-strike-on-iran?traffic_source=rss",
-          "published": "Sun, 29 Mar 2026 07:14:59 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Belgium thrash USA 5-2; Mexico vs Portugal ends 0-0 in football friendlies",
-          "link": "https://www.aljazeera.com/sports/2026/3/29/belgium-thrash-usa-5-2-mexico-vs-portugal-ends-0-0-in-football-friendlies?traffic_source=rss",
-          "published": "Sun, 29 Mar 2026 07:08:34 +0000"
         }
       ]
     }
