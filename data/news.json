@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-29T01:05:32Z",
+  "updatedAt": "2026-03-29T04:09:33Z",
   "groups": [
     {
       "region": "Македонија",
@@ -107,6 +107,12 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "As war on Iran enters second month, Yemen’s Houthis open new front",
+          "link": "https://www.aljazeera.com/news/2026/3/29/as-war-on-iran-enters-second-month-yemens-houthis-open-new-front?traffic_source=rss",
+          "published": "Sun, 29 Mar 2026 00:59:21 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Iran war live: Tehran warns US, Israeli universities; Houthis fire missiles",
           "link": "https://www.aljazeera.com/news/liveblog/2026/3/29/iran-war-live-houthis-attack-israel-anti-war-protesters-rally-in-tel-aviv?traffic_source=rss",
           "published": "Sun, 29 Mar 2026 00:00:00 +0000"
@@ -128,12 +134,6 @@
           "title": "Air strikes in Iraq kill three PMF fighters, two police",
           "link": "https://www.aljazeera.com/news/2026/3/28/air-strikes-in-iraq-kill-three-pmf-fighters-and-two-iraqi-police?traffic_source=rss",
           "published": "Sat, 28 Mar 2026 22:32:05 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Reza Pahlavi pledges to ‘make Iran great again’ at 2026 CPAC conference",
-          "link": "https://www.aljazeera.com/news/2026/3/28/reza-pahlavi-pledges-to-make-iran-great-again-at-2026-cpac-conference?traffic_source=rss",
-          "published": "Sat, 28 Mar 2026 22:05:31 +0000"
         }
       ]
     }
