@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-29T22:01:51Z",
+  "generated_at": "2026-03-29T22:47:32Z",
   "items": [
     {
       "region": "Македонија",
@@ -39,6 +39,13 @@
     {
       "region": "Македонија",
       "source": "NetPress",
+      "title": "MотоГП: Петта последователна победа на Марко Безеки",
+      "link": "https://netpress.com.mk/motogp-petta-posledovatelna-pobeda-na-marko-bezeki/",
+      "published": "Sun, 29 Mar 2026 22:04:46 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "NetPress",
       "title": "ФОТО| Сериозни штети во иранскиот напад врз воздухопловна база во Саудиска Арабија",
       "link": "https://netpress.com.mk/foto-seriozni-shteti-vo-iranskiot-napad-vrz-vozduhoplovna-baza-vo-saudiska-arabija/",
       "published": "Sun, 29 Mar 2026 21:49:13 +0000"
@@ -63,13 +70,6 @@
       "title": "Крвната група Б е поврзана со поголем ризик од дијабетес тип 2",
       "link": "https://netpress.com.mk/krvnata-grupa-b-e-povrzana-so-pogolem-rizik-od-dijabetes-tip-2/",
       "published": "Sun, 29 Mar 2026 19:18:05 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Повозрасна скопјанка тешко повредена по удар од автомобил",
-      "link": "https://netpress.com.mk/povozrasna-skopjanka-teshko-povredena-po-udar-od-avtomobil/",
-      "published": "Sun, 29 Mar 2026 19:00:49 +0000"
     },
     {
       "region": "Свет",
@@ -109,6 +109,13 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "Iran accuses US of plotting ground attack, as Israel steps up bombardment",
+      "link": "https://www.aljazeera.com/news/2026/3/29/iran-accuses-us-of-plotting-ground-attack-as-israel-steps-up-bombardment?traffic_source=rss",
+      "published": "Sun, 29 Mar 2026 22:36:05 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "Israeli police bar priest from Jerusalem’s Holy Sepulchre on Palm Sunday",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/3/29/israeli-police-bar-priest-from-jerusalems-holy-sepulchre-on-palm-sunday?traffic_source=rss",
       "published": "Sun, 29 Mar 2026 21:01:50 +0000"
@@ -133,13 +140,6 @@
       "title": "Qatari TV station hit in Iran",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/3/29/qatari-tv-station-hit-in-iran?traffic_source=rss",
       "published": "Sun, 29 Mar 2026 20:11:23 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Lebanon’s Catholics observe Palm Sunday under looming threat of war",
-      "link": "https://www.aljazeera.com/gallery/2026/3/29/lebanons-catholics-observe-palm-sunday-under-looming-threat-of-war?traffic_source=rss",
-      "published": "Sun, 29 Mar 2026 19:36:26 +0000"
     }
   ]
 }
