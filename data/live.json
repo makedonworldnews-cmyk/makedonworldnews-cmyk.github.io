@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-29T19:35:22Z",
+  "generated_at": "2026-03-29T19:59:26Z",
   "items": [
     {
       "region": "Македонија",
@@ -102,9 +102,23 @@
     {
       "region": "Свет",
       "source": "BBC",
-      "title": "African football chief resigns following row over Morocco-Senegal final",
-      "link": "https://www.bbc.com/news/articles/cx2w8d1q70vo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 29 Mar 2026 13:53:17 GMT"
+      "title": "Italy investigates Sephora and Benefit over marketing skincare to children",
+      "link": "https://www.bbc.com/news/articles/c3dlk93m7jyo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 29 Mar 2026 19:37:03 GMT"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Lebanon’s Catholics observe Palm Sunday under looming threat of war",
+      "link": "https://www.aljazeera.com/gallery/2026/3/29/lebanons-catholics-observe-palm-sunday-under-looming-threat-of-war?traffic_source=rss",
+      "published": "Sun, 29 Mar 2026 19:36:26 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "RSF attack on Sudan’s South Kordofan kills at least 14, including children",
+      "link": "https://www.aljazeera.com/news/2026/3/29/rsf-attack-on-sudans-south-kordofan-kills-at-least-14-including-children?traffic_source=rss",
+      "published": "Sun, 29 Mar 2026 19:22:33 +0000"
     },
     {
       "region": "Свет",
@@ -126,20 +140,6 @@
       "title": "Zelenskyy arrives in Jordan to bolster security ties",
       "link": "https://www.aljazeera.com/news/2026/3/29/zelenskyy-arrives-in-jordan-to-bolster-security-ties?traffic_source=rss",
       "published": "Sun, 29 Mar 2026 18:37:15 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Netanyahu orders military to expand invasion of southern Lebanon",
-      "link": "https://www.aljazeera.com/news/2026/3/29/netanyahu-announces-expansion-of-security-buffer-zone-in-south-lebanon?traffic_source=rss",
-      "published": "Sun, 29 Mar 2026 17:56:44 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "‘We can insure the ship, but we cannot insure a human life.’",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/29/we-can-insure-the-ship-but-we-cannot-insure-a-human-life?traffic_source=rss",
-      "published": "Sun, 29 Mar 2026 17:05:19 +0000"
     }
   ]
 }
