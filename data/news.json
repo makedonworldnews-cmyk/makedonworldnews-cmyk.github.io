@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-29T15:45:10Z",
+  "updatedAt": "2026-03-29T16:17:28Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,24 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Николоски: Авиокомпаниите веќе ја таргетираат Македонија како атрактивна дестинација",
+          "link": "https://makfax.com.mk/makedonija/nikoloski-aviokompaniite-veke-ja-targetiraat-makedonija-kako-atraktivna-destinaczija/",
+          "published": "Sun, 29 Mar 2026 16:14:55 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Тотенхем и Тудор спогодбено се разделија",
+          "link": "https://makfax.com.mk/sport/totenhem-i-tudor-spogodbeno-se-razdelija/",
+          "published": "Sun, 29 Mar 2026 15:59:31 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Пилиповиќ блескаше на голот, Охрид во Грција го победи Олимпијакос",
+          "link": "https://makfax.com.mk/sport/pilipovik-bleskashe-na-golot-ohrid-vo-grczija-go-pobedi-olimpijakos/",
+          "published": "Sun, 29 Mar 2026 15:53:00 +0000"
         },
         {
           "source": "Makfax",
@@ -23,22 +41,16 @@
           "published": "Sun, 29 Mar 2026 14:42:12 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Тепани свекрва, ќерка, сопруга и татко: Куп пријави за семејно насилство во МВР",
-          "link": "https://makfax.com.mk/crna-hronika/tepani-svekrva-kerka-sopruga-i-tatko-kup-prijavi-za-semejno-nasilstvo-vo-mvr/",
-          "published": "Sun, 29 Mar 2026 13:37:33 +0000"
+          "source": "NetPress",
+          "title": "Автомобил удрил пешак и избегал",
+          "link": "https://netpress.com.mk/avtomobil-udril-peshak-i-izbegal/",
+          "published": "Sun, 29 Mar 2026 16:12:29 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Илјадници луѓе загинаа низ Блискиот Исток од почетокот на војната, тоа не се само бројки, тоа се животи",
-          "link": "https://makfax.com.mk/svet/iljadniczi-luge-zaginaa-niz-bliskiot-istok-od-pochetokot-na-vojnata-toa-ne-se-samo-brojki-toa-se-zhivoti/",
-          "published": "Sun, 29 Mar 2026 13:23:31 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Пешак тешко повреден во сообраќајка кај Брвеница, возачот избегал",
-          "link": "https://makfax.com.mk/crna-hronika/peshak-teshko-povreden-vo-soobrakajka-kaj-brvenicza-vozachot-izbegal/",
-          "published": "Sun, 29 Mar 2026 13:20:23 +0000"
+          "source": "NetPress",
+          "title": "Украински дрон се урна во Финска",
+          "link": "https://netpress.com.mk/ukrainski-dron-se-urna-vo-finska/",
+          "published": "Sun, 29 Mar 2026 15:55:15 +0000"
         },
         {
           "source": "NetPress",
@@ -57,18 +69,6 @@
           "title": "Тотенхем го избрка и Тудор по само 44 дена",
           "link": "https://netpress.com.mk/totenhem-go-izbrka-i-tudor-po-samo-44-dena/",
           "published": "Sun, 29 Mar 2026 15:04:50 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Се тепале таткото и мајката, па мајката ја нападнала малолетната ќерка",
-          "link": "https://netpress.com.mk/se-tepale-tatkoto-i-majkata-pa-majkata-ja-napadnala-maloletnata-kerka/",
-          "published": "Sun, 29 Mar 2026 15:02:28 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Жената што избоде четворица Германци во Софија: Го сторив тоа во интерес на општеството",
-          "link": "https://netpress.com.mk/zhenata-shto-izbode-chetvoricza-germanczi-vo-sofija-go-storiv-toa-vo-interes-na-opshtestvoto/",
-          "published": "Sun, 29 Mar 2026 14:42:19 +0000"
         }
       ]
     },
@@ -107,6 +107,24 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Iran hits industrial zone in southern Israel",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/29/iran-hits-industrial-zone-in-southern-israel?traffic_source=rss",
+          "published": "Sun, 29 Mar 2026 16:06:25 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Israeli police block Catholic cardinal from Holy Sepulchre on Palm Sunday",
+          "link": "https://www.aljazeera.com/news/2026/3/29/israeli-police-block-catholic-cardinal-from-holy-sepulchre-on-palm-sunday?traffic_source=rss",
+          "published": "Sun, 29 Mar 2026 15:26:27 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Funeral held for Lebanese journalists killed in Israeli strike",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/29/funeral-held-for-lebanese-journalists-killed-in-israeli-strike?traffic_source=rss",
+          "published": "Sun, 29 Mar 2026 15:25:44 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Houthis open new front in Iran war: Will Yemeni group block Bab al-Mandeb?",
           "link": "https://www.aljazeera.com/news/2026/3/29/houthis-open-new-front-in-iran-war-will-yemeni-group-block-bab-al-mandeb?traffic_source=rss",
           "published": "Sun, 29 Mar 2026 15:09:51 +0000"
@@ -116,24 +134,6 @@
           "title": "African football chief will ‘respect’ CAS decision on AFCON final row",
           "link": "https://www.aljazeera.com/news/2026/3/29/african-football-chief-will-respect-cas-decision-on-afcon-final-row?traffic_source=rss",
           "published": "Sun, 29 Mar 2026 14:52:13 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "How the US memeifies its war on Iran",
-          "link": "https://www.aljazeera.com/video/digital-dilemma/2026/3/29/how-the-us-memeifies-its-war-on?traffic_source=rss",
-          "published": "Sun, 29 Mar 2026 14:44:36 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Pakistan maintains ‘delicate balancing act’ as it hosts Iran talks",
-          "link": "https://www.aljazeera.com/news/2026/3/29/pakistan-maintains-delicate-balancing-act-as-it-hosts-iran-talks?traffic_source=rss",
-          "published": "Sun, 29 Mar 2026 14:35:58 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "‘Nowhere is really safe’: Iranian dissidents grapple with US war in Iran",
-          "link": "https://www.aljazeera.com/features/longform/2026/3/29/nowhere-is-really-safe-iranian-dissidents-grapple-with-us-war-in-iran?traffic_source=rss",
-          "published": "Sun, 29 Mar 2026 14:26:35 +0000"
         }
       ]
     }
