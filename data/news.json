@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-30T20:29:23Z",
+  "updatedAt": "2026-03-30T21:22:20Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Баерн нема да му го продолжи договорот на Гереиро",
+          "link": "https://makfax.com.mk/sport/baern-nema-da-mu-go-prodolzhi-dogovorot-na-gereiro/",
+          "published": "Mon, 30 Mar 2026 20:57:32 +0000"
         },
         {
           "source": "Makfax",
@@ -35,40 +41,34 @@
           "published": "Mon, 30 Mar 2026 20:00:06 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Италијански министер: Имам застрашувачки информации за војната во Иран, не можам да спијам поради она што доаѓа",
-          "link": "https://makfax.com.mk/svet/italijanski-minister-imam-zastrashuvachki-informaczii-za-vojnata-vo-iran-ne-mozham-da-spijam-poradi-ona-shto-doaga/",
-          "published": "Mon, 30 Mar 2026 19:47:40 +0000"
+          "source": "NetPress",
+          "title": "Најмалку шестмина убиени во израелски оган во Газа и Западниот брег",
+          "link": "https://netpress.com.mk/najmalku-shestmina-ubieni-vo-izraelski-ogan-vo-gaza-i-zapadniot-breg/",
+          "published": "Mon, 30 Mar 2026 21:11:02 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Убиецот од Росоман доби 30 дена притвор: Ја лишил од живот мајка му додека таа спиела",
+          "link": "https://netpress.com.mk/ubieczot-od-rosoman-dobi-30-dena-pritvor-ja-lishil-od-zhivot-majka-mu-dodeka-taa-spiela/",
+          "published": "Mon, 30 Mar 2026 21:09:31 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Времето утре променливо облачно со дожд и со снег на повисоките места",
+          "link": "https://netpress.com.mk/vremeto-utre-promenlivo-oblachno-so-dozhd-i-so-sneg-na-povisokite-mesta/",
+          "published": "Mon, 30 Mar 2026 20:38:31 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Без струја утре седум улици во Скопје и села на Скопска Црна Гора",
+          "link": "https://netpress.com.mk/bez-struja-utre-sedum-uliczi-vo-skopje-i-sela-na-skopska-czrna-gora/",
+          "published": "Mon, 30 Mar 2026 20:31:21 +0000"
         },
         {
           "source": "NetPress",
           "title": "Трамп би можел да побара помош од арапските земји за финансирање на војната против Иран",
           "link": "https://netpress.com.mk/tramp-bi-mozhel-da-pobara-pomosh-od-arapskite-zemji-za-finansirane-na-vojnata-protiv-iran/",
           "published": "Mon, 30 Mar 2026 20:27:28 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Пукање во училиште во Аргентина: ученик убиен, осум повредени",
-          "link": "https://netpress.com.mk/pukane-vo-uchilishte-vo-argentina-uchenik-ubien-osum-povredeni/",
-          "published": "Mon, 30 Mar 2026 19:51:47 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Пошумување на Огражден со костен и даб",
-          "link": "https://netpress.com.mk/poshumuvane-na-ograzhden-so-kosten-i-dab/",
-          "published": "Mon, 30 Mar 2026 19:18:24 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Приведени три лица на кошаркарското дерби во „Јане Сандански“",
-          "link": "https://netpress.com.mk/privedeni-tri-licza-na-kosharkarskoto-derbi-vo-jane-sandanski/",
-          "published": "Mon, 30 Mar 2026 19:09:02 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Голема тепачка во Карпош",
-          "link": "https://netpress.com.mk/golema-tepachka-vo-karposh/",
-          "published": "Mon, 30 Mar 2026 19:03:05 +0000"
         }
       ]
     },
@@ -95,45 +95,45 @@
         },
         {
           "source": "BBC",
+          "title": "Palestinians convicted of deadly attacks face death penalty under new Israeli law",
+          "link": "https://www.bbc.com/news/articles/cp8dkd6lnjdo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 30 Mar 2026 21:11:37 GMT"
+        },
+        {
+          "source": "BBC",
           "title": "Kris Jenner's image spreads in Chinese social media good luck trend",
           "link": "https://www.bbc.com/news/articles/c0rx57zgz52o?at_medium=RSS&at_campaign=rss",
           "published": "Mon, 30 Mar 2026 12:59:23 GMT"
         },
         {
-          "source": "BBC",
-          "title": "Most Syrian refugees in Germany expected to return home in three years, Merz says",
-          "link": "https://www.bbc.com/news/articles/cy41vqx4pdzo?at_medium=RSS&at_campaign=rss",
-          "published": "Mon, 30 Mar 2026 20:07:17 GMT"
+          "source": "Al Jazeera",
+          "title": "Israeli Knesset approves death penalty for Palestinians",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/30/israeli-knesset-approves-death-penalty-for-palestinians?traffic_source=rss",
+          "published": "Mon, 30 Mar 2026 21:10:16 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "US embassy reopens in Venezuela months after Maduro abduction",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/30/us-embassy-reopens-in-venezuela-months-after-maduro-abduction?traffic_source=rss",
-          "published": "Mon, 30 Mar 2026 20:16:40 +0000"
+          "title": "The war in Iran: Key takeaways from Al Jazeera’s interview with Marco Rubio",
+          "link": "https://www.aljazeera.com/news/2026/3/30/the-war-in-iran-key-takeaways-from-al-jazeeras-interview-with-marco-rubio?traffic_source=rss",
+          "published": "Mon, 30 Mar 2026 21:03:25 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Rubio denies US actions punitive, blames Cuba for economic failures",
-          "link": "https://www.aljazeera.com/news/2026/3/30/rubio-denies-us-punitive-actions-blames-cuba-for-economic-failures?traffic_source=rss",
-          "published": "Mon, 30 Mar 2026 19:50:00 +0000"
+          "title": "‘We have to destroy Iran’s ability to launch missiles’, Rubio says",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/30/we-have-to-destroy-irans-ability-to-launch-missiles-rubio-says?traffic_source=rss",
+          "published": "Mon, 30 Mar 2026 20:56:43 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "What we know about attack on key Israeli oil refinery",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/30/what-we-know-about-attack-on-key-israeli-oil-refinery?traffic_source=rss",
-          "published": "Mon, 30 Mar 2026 19:19:50 +0000"
+          "title": "Israel’s parliament passes death penalty bill targeting Palestinians",
+          "link": "https://www.aljazeera.com/news/2026/3/30/israel-passes-discriminatory-death-penalty-bill-targeting-palestinians?traffic_source=rss",
+          "published": "Mon, 30 Mar 2026 20:50:36 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "French police make two more arrests over foiled attack on Bank of America",
-          "link": "https://www.aljazeera.com/news/2026/3/30/french-police-make-2-more-arrests-over-suspected-attack-on-bank-of-america?traffic_source=rss",
-          "published": "Mon, 30 Mar 2026 19:15:50 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Cuba waits for Russian oil tanker to arrive amid US blockade",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/30/cuba-waits-for-russian-oil-tanker-to-arrive-amid-us-blockade?traffic_source=rss",
-          "published": "Mon, 30 Mar 2026 18:56:01 +0000"
+          "title": "Rubio says NATO must be re-examined after Spain blocks US operation on Iran",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/30/rubio-says-nato-must-be-re-examined-after-spain-blocks-us-operation-on-iran?traffic_source=rss",
+          "published": "Mon, 30 Mar 2026 20:32:52 +0000"
         }
       ]
     }
