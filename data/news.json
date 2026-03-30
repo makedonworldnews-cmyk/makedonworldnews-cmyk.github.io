@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-30T22:54:20Z",
+  "updatedAt": "2026-03-30T23:35:35Z",
   "groups": [
     {
       "region": "Македонија",
@@ -107,6 +107,12 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Key moments from Marco Rubio’s interview with Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/30/key-moments-from-marco-rubios-interview-with-al-jazeera?traffic_source=rss",
+          "published": "Mon, 30 Mar 2026 22:33:49 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Is a peaceful settlement possible in Iran?",
           "link": "https://www.aljazeera.com/video/inside-story/2026/3/30/is-a-peaceful-settlement-possible-in-iran-2?traffic_source=rss",
           "published": "Mon, 30 Mar 2026 22:16:11 +0000"
@@ -128,12 +134,6 @@
           "title": "UN condemns killing of Indonesian peacekeepers in Lebanon",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/3/30/un-condemns-killing-of-indonesian-peacekeepers-in-lebanon?traffic_source=rss",
           "published": "Mon, 30 Mar 2026 21:20:00 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Israeli Knesset approves death penalty for Palestinians",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/30/israeli-knesset-approves-death-penalty-for-palestinians?traffic_source=rss",
-          "published": "Mon, 30 Mar 2026 21:10:16 +0000"
         }
       ]
     }
