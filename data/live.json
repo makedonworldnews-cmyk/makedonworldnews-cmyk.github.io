@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-30T23:02:55Z",
+  "generated_at": "2026-03-30T23:48:07Z",
   "items": [
     {
       "region": "Македонија",
@@ -109,6 +109,20 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "US raises concern over Israel’s closure of Jerusalem holy sites",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/30/us-raises-concern-over-israels-closure-of-jerusalem-holy-sites?traffic_source=rss",
+      "published": "Mon, 30 Mar 2026 23:21:37 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Iran’s foreign ministry rejects US ceasefire demands",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/30/irans-foreign-ministry-rejects-us-ceasefire-demands?traffic_source=rss",
+      "published": "Mon, 30 Mar 2026 23:12:51 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "Key moments from Marco Rubio’s interview with Al Jazeera",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/3/30/key-moments-from-marco-rubios-interview-with-al-jazeera?traffic_source=rss",
       "published": "Mon, 30 Mar 2026 22:33:49 +0000"
@@ -126,20 +140,6 @@
       "title": "US says Trump ‘interested’ in asking Arab countries to pay for war on Iran",
       "link": "https://www.aljazeera.com/news/2026/3/30/us-says-trump-interested-in-asking-arab-countries-to-pay-for-war-on-iran?traffic_source=rss",
       "published": "Mon, 30 Mar 2026 22:14:30 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "‘Dangerous escalation’: World reacts to Israel passing death penalty law",
-      "link": "https://www.aljazeera.com/news/2026/3/30/dangerous-escalation-world-reacts-to-israel-passing-death-penalty-law?traffic_source=rss",
-      "published": "Mon, 30 Mar 2026 21:29:12 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "UN condemns killing of Indonesian peacekeepers in Lebanon",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/30/un-condemns-killing-of-indonesian-peacekeepers-in-lebanon?traffic_source=rss",
-      "published": "Mon, 30 Mar 2026 21:20:00 +0000"
     }
   ]
 }
