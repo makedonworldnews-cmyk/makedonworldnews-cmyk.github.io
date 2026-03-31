@@ -1,6 +1,13 @@
 {
-  "generated_at": "2026-03-31T18:07:34Z",
+  "generated_at": "2026-03-31T19:17:10Z",
   "items": [
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "„Нема враќање во нормала“: ЕУ предупредува на долгорочна енергетска криза и повикува на штедење",
+      "link": "https://makfax.com.mk/svet/nema-vrakanje-vo-normala-eu-predupreduva-na-dolgorochna-energetska-kriza-i-povikuva-na-shtedenje/",
+      "published": "Tue, 31 Mar 2026 18:47:05 +0000"
+    },
     {
       "region": "Македонија",
       "source": "Makfax",
@@ -31,10 +38,31 @@
     },
     {
       "region": "Македонија",
-      "source": "Makfax",
-      "title": "Њујорк ја укинува забраната за „Тик-ток“ за дел од градските службеници",
-      "link": "https://makfax.com.mk/svet/njujork-ja-ukinuva-zabranata-za-tik-tok-za-del-od-gradskite-sluzhbenici/",
-      "published": "Tue, 31 Mar 2026 17:49:32 +0000"
+      "source": "NetPress",
+      "title": "Војната на Блискиот исток во ЕУ гo поскапе гасот за 70 а нафтата за 60 отсто, Брисел сака да ја ублажи кризата",
+      "link": "https://netpress.com.mk/vojnata-na-bliskiot-istok-vo-eu-go-poskape-gasot-za-70-a-naftata-za-60-otsto-brisel-saka-da-ja-ublazhi-krizata/",
+      "published": "Tue, 31 Mar 2026 19:07:12 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "NetPress",
+      "title": "Злоупотреба на Конвенцијата за правата на детето на МРТ и училиштата",
+      "link": "https://netpress.com.mk/zloupotreba-na-konvenczijata-za-pravata-na-deteto-na-mrt-i-uchilishtata/",
+      "published": "Tue, 31 Mar 2026 19:00:40 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "NetPress",
+      "title": "„Алказар Енерџи“ отвора јавна консултација за значајниот проект за ветерниот парк во Штип",
+      "link": "https://netpress.com.mk/alkazar-enerdhi-otvora-javna-konsultaczija-za-znachajniot-proekt-za-veterniot-park-vo-shtip/",
+      "published": "Tue, 31 Mar 2026 18:46:27 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "NetPress",
+      "title": "Мерц ги повика Сиријците во Германија да се „вратат“ дома",
+      "link": "https://netpress.com.mk/mercz-gi-povika-sirijczite-vo-germanija-da-se-vratat-doma/",
+      "published": "Tue, 31 Mar 2026 18:13:54 +0000"
     },
     {
       "region": "Македонија",
@@ -42,34 +70,6 @@
       "title": "Сè повеќе европски сојузници одбиваат да им помогнат на САД во војната против Иран",
       "link": "https://netpress.com.mk/se-poveke-evropski-sojuzniczi-odbivaat-da-im-pomognat-na-sad-vo-vojnata-protiv-iran/",
       "published": "Tue, 31 Mar 2026 17:51:08 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Трамп ќе одлучи за следните чекори во НАТО, но САД се разочарани од сојузниците",
-      "link": "https://netpress.com.mk/tramp-ke-odluchi-za-slednite-chekori-vo-nato-no-sad-se-razocharani-od-sojuzniczite/",
-      "published": "Tue, 31 Mar 2026 17:39:26 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Пораката од Вашингтон ги качи цените на нафтата над 119 долари",
-      "link": "https://netpress.com.mk/porakata-od-vashington-gi-kachi-czenite-na-naftata-nad-119-dolari/",
-      "published": "Tue, 31 Mar 2026 17:17:33 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Зеленски тврди дека Русија му поставила ултиматум",
-      "link": "https://netpress.com.mk/zelenski-tvrdi-deka-rusija-mu-postavila-ultimatum/",
-      "published": "Tue, 31 Mar 2026 16:52:13 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Иранскиот врховен водач е во земјата но избегнува јавни појавувања",
-      "link": "https://netpress.com.mk/iranskiot-vrhoven-vodach-e-vo-zemjata-no-izbegnuva-javni-pojavuvana/",
-      "published": "Tue, 31 Mar 2026 16:47:53 +0000"
     },
     {
       "region": "Свет",
@@ -83,7 +83,7 @@
       "source": "BBC",
       "title": "Israel says it will keep control over part of southern Lebanon after war with Hezbollah ends",
       "link": "https://www.bbc.com/news/articles/c5yx8knpr5no?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 31 Mar 2026 17:16:00 GMT"
+      "published": "Tue, 31 Mar 2026 18:57:25 GMT"
     },
     {
       "region": "Свет",
@@ -109,37 +109,37 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "Iran’s FM confirms contact with US envoy Witkoff, denies talks under way",
+      "link": "https://www.aljazeera.com/news/2026/3/31/no-truth-to-us-iranian-negotiations-irans-fm-tells-al-jazeera?traffic_source=rss",
+      "published": "Tue, 31 Mar 2026 19:01:03 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Palestinians in occupied West Bank protest Israel’s death penalty law",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/31/palestinians-in-occupied-west-bank-protest-israels-death-penalty-law?traffic_source=rss",
+      "published": "Tue, 31 Mar 2026 18:18:12 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Israeli strike hits building in Beirut’s southern suburbs",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/31/israeli-strike-hits-building-in-beiruts-southern-suburbs?traffic_source=rss",
+      "published": "Tue, 31 Mar 2026 18:16:11 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "US-Israel launch major attacks as Iranian authorities maintain defiance",
+      "link": "https://www.aljazeera.com/news/2026/3/31/us-israel-launch-major-attacks-as-iranian-authorities-maintain-defiance?traffic_source=rss",
+      "published": "Tue, 31 Mar 2026 18:07:51 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "One month of war on Iran cost Arab countries up to $194bn: UNDP",
       "link": "https://www.aljazeera.com/news/2026/3/31/one-month-of-war-in-middle-east-cost-arab-states-up-to-194bn-undp?traffic_source=rss",
       "published": "Tue, 31 Mar 2026 17:48:57 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Major explosion at Russian petrochemical plant",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/31/major-explosion-at-russian-petrochemical-plant?traffic_source=rss",
-      "published": "Tue, 31 Mar 2026 17:31:27 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Foreign journalist kidnapped in Iraq: Interior Ministry",
-      "link": "https://www.aljazeera.com/news/2026/3/31/foreign-journalist-kidnapped-in-iraq-interior-ministry?traffic_source=rss",
-      "published": "Tue, 31 Mar 2026 17:27:53 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Why Iran believes it can outlast the US",
-      "link": "https://www.aljazeera.com/video/the-take-2/2026/3/31/aje-onl-tt_irn_whatcouldendthewar_av_v2-310326?traffic_source=rss",
-      "published": "Tue, 31 Mar 2026 17:04:51 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Qatar says ‘ready to help’ with US-Iran negotiations",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/31/qatar-says-ready-to-help-with-us-iran-negotiations?traffic_source=rss",
-      "published": "Tue, 31 Mar 2026 17:00:24 +0000"
     }
   ]
 }
