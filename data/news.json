@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-31T22:35:12Z",
+  "updatedAt": "2026-03-31T23:03:31Z",
   "groups": [
     {
       "region": "Македонија",
@@ -95,15 +95,21 @@
         },
         {
           "source": "BBC",
-          "title": "Judge temporarily halts construction of Trump's White House ballroom",
-          "link": "https://www.bbc.com/news/articles/c7056exw78xo?at_medium=RSS&at_campaign=rss",
-          "published": "Tue, 31 Mar 2026 22:16:06 GMT"
-        },
-        {
-          "source": "BBC",
           "title": "Peacekeepers killed by roadside explosion in Lebanon, initial report finds",
           "link": "https://www.bbc.com/news/articles/c05d7md899ro?at_medium=RSS&at_campaign=rss",
           "published": "Tue, 31 Mar 2026 22:07:26 GMT"
+        },
+        {
+          "source": "BBC",
+          "title": "Italian Christmas meal tragedy turns into murder inquiry",
+          "link": "https://www.bbc.com/news/articles/cje470qgl1yo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 31 Mar 2026 19:52:31 GMT"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "EU warns oil and gas prices won’t quickly return to normal after Iran war",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/31/eu-warns-oil-and-gas-prices-wont-quickly-return-to-normal-after-iran-war?traffic_source=rss",
+          "published": "Tue, 31 Mar 2026 22:56:54 +0000"
         },
         {
           "source": "Al Jazeera",
@@ -128,12 +134,6 @@
           "title": "Iran ambassador refuses to leave Lebanon despite expulsion order",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/3/31/iran-ambassador-refuses-to-leave-lebanon-despite-expulsion-order?traffic_source=rss",
           "published": "Tue, 31 Mar 2026 21:43:35 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Russian tanker reaches Cuba amid critical energy shortage",
-          "link": "https://www.aljazeera.com/economy/2026/3/31/russian-tanker-reaches-cuba-amid-critical-energy-shortage?traffic_source=rss",
-          "published": "Tue, 31 Mar 2026 21:25:56 +0000"
         }
       ]
     }
