@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-31T21:03:06Z",
+  "updatedAt": "2026-03-31T21:52:58Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Кари Пешиќ го најави крајот на кариерата",
+          "link": "https://makfax.com.mk/sport/kari-peshik-go-najavi-krajot-na-karierata/",
+          "published": "Tue, 31 Mar 2026 21:13:57 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) Турција и Шведска се пласираа на СП",
+          "link": "https://makfax.com.mk/sport/video-turcija-i-shvedska-se-plasiraa-na-sp/",
+          "published": "Tue, 31 Mar 2026 21:03:31 +0000"
         },
         {
           "source": "Makfax",
@@ -29,16 +41,16 @@
           "published": "Tue, 31 Mar 2026 18:47:05 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "(Видео) Спектакуларни ножички на Павловиќ против Саудиска Арабија",
-          "link": "https://makfax.com.mk/sport/video-spektakularni-nozhichki-na-pavlovik-protiv-saudiska-arabija/",
-          "published": "Tue, 31 Mar 2026 18:04:31 +0000"
+          "source": "NetPress",
+          "title": "Пред да се навредат обвинителите на Заев, да не заборавија на криминалите во СЈО?",
+          "link": "https://netpress.com.mk/pred-da-se-navredat-obvinitelite-na-zaev-da-ne-zaboravija-na-kriminalite-vo-sjo/",
+          "published": "Tue, 31 Mar 2026 21:52:09 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "ВМРО-ДПМНЕ: Пред да се навредат обвинителите на Заев како Ленче Ристоска што им се одземаат предмети нека помислат дали треба и кривично да одговараат за кражба на народни пари преку СЈО",
-          "link": "https://makfax.com.mk/makedonija/vmro-dpmne-obvinitelite-bliski-do-zaev-da-odgovaraat-za-sjo-namesto-da-se-navreduvaat-poradi-odzemanje-na-predmeti/",
-          "published": "Tue, 31 Mar 2026 18:02:46 +0000"
+          "source": "NetPress",
+          "title": "Американските воени операции во Иран „се ближат кон крајот“",
+          "link": "https://netpress.com.mk/amerikanskite-voeni-operaczii-vo-iran-se-blizhat-kon-krajot/",
+          "published": "Tue, 31 Mar 2026 21:44:35 +0000"
         },
         {
           "source": "NetPress",
@@ -57,18 +69,6 @@
           "title": "Лига на нациите: Латвија и Луксембург во Лига Ц",
           "link": "https://netpress.com.mk/liga-na-nacziite-latvija-i-luksemburg-vo-liga-cz/",
           "published": "Tue, 31 Mar 2026 20:30:04 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Роберто Де Зерби нов менаџер на Тотенхем",
-          "link": "https://netpress.com.mk/roberto-de-zerbi-nov-menadher-na-totenhem/",
-          "published": "Tue, 31 Mar 2026 20:23:15 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Ворен Бафет одби да каже дали ќе продолжи да донира во Фондацијата Гејтс",
-          "link": "https://netpress.com.mk/voren-bafet-odbi-da-kazhe-dali-ke-prodolzhi-da-donira-vo-fondaczijata-gejts/",
-          "published": "Tue, 31 Mar 2026 19:40:06 +0000"
         }
       ]
     },
@@ -89,9 +89,15 @@
         },
         {
           "source": "BBC",
+          "title": "US journalist Shelly Kittleson kidnapped in Baghdad",
+          "link": "https://www.bbc.com/news/articles/c5yled478zwo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 31 Mar 2026 21:08:35 GMT"
+        },
+        {
+          "source": "BBC",
           "title": "Judge temporarily halts construction of Trump's White House ballroom",
           "link": "https://www.bbc.com/news/articles/c7056exw78xo?at_medium=RSS&at_campaign=rss",
-          "published": "Tue, 31 Mar 2026 20:21:19 GMT"
+          "published": "Tue, 31 Mar 2026 21:07:19 GMT"
         },
         {
           "source": "BBC",
@@ -100,40 +106,34 @@
           "published": "Tue, 31 Mar 2026 10:53:10 GMT"
         },
         {
-          "source": "BBC",
-          "title": "Italian Christmas meal tragedy turns into murder inquiry",
-          "link": "https://www.bbc.com/news/articles/cje470qgl1yo?at_medium=RSS&at_campaign=rss",
-          "published": "Tue, 31 Mar 2026 19:52:31 GMT"
+          "source": "Al Jazeera",
+          "title": "Russian tanker reaches Cuba amid critical energy shortage",
+          "link": "https://www.aljazeera.com/economy/2026/3/31/russian-tanker-reaches-cuba-amid-critical-energy-shortage?traffic_source=rss",
+          "published": "Tue, 31 Mar 2026 21:25:56 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Ukraine to ask US mediators to pass on Easter ceasefire offer to Russia",
-          "link": "https://www.aljazeera.com/news/2026/3/31/zelenskyy-to-ask-us-mediators-to-pass-on-easter-truce-offer-to-kremlin?traffic_source=rss",
-          "published": "Tue, 31 Mar 2026 20:37:47 +0000"
+          "title": "‘I need to leave’: Cuba’s tourism workers reel from US oil blockade",
+          "link": "https://www.aljazeera.com/news/2026/3/31/i-need-to-leave-cubas-tourism-workers-reel-from-us-oil-blockade?traffic_source=rss",
+          "published": "Tue, 31 Mar 2026 21:24:49 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "UN expert Albanese confronted by pro-Israeli protesters in Germany",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/31/un-expert-albanese-confronted-by-pro-israeli-protesters-in-germany?traffic_source=rss",
-          "published": "Tue, 31 Mar 2026 20:29:33 +0000"
+          "title": "FBI agents who investigated Trump file lawsuit alleging retaliatory firing",
+          "link": "https://www.aljazeera.com/news/2026/3/31/fbi-agents-who-investigated-trump-file-lawsuit-alleging-retaliatory-firing?traffic_source=rss",
+          "published": "Tue, 31 Mar 2026 21:17:50 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Israelis attempt to perform Passover sacrifice at Al-Aqsa",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/31/israelis-attempt-to-perform-passover-sacrifice-at-al-aqsa?traffic_source=rss",
-          "published": "Tue, 31 Mar 2026 20:03:53 +0000"
+          "title": "UN aid chief warns of new Israeli occupation in southern Lebanon",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/31/un-aid-chief-warns-of-new-israeli-occupation-in-southern-lebanon?traffic_source=rss",
+          "published": "Tue, 31 Mar 2026 21:15:48 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "How Pakistan positioned itself at the center of global crisis management",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/31/how-pakistan-positioned-itself-at-the-center-of-global-crisis-management?traffic_source=rss",
-          "published": "Tue, 31 Mar 2026 19:46:23 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "What’s behind Donald Trump’s interest in Iran’s Kharg Island?",
-          "link": "https://www.aljazeera.com/video/inside-story/2026/3/31/whats-behind-donald-trumps-interest-in-irans-kharg-island?traffic_source=rss",
-          "published": "Tue, 31 Mar 2026 19:42:25 +0000"
+          "title": "Turkiye and Sweden book World Cup 2026 spots as Kosovo and Poland bow out",
+          "link": "https://www.aljazeera.com/sports/2026/3/31/turkey-and-sweden-book-world-cup-2026-spots-as-kosovo-and-poland-bow-out?traffic_source=rss",
+          "published": "Tue, 31 Mar 2026 21:04:03 +0000"
         }
       ]
     }
