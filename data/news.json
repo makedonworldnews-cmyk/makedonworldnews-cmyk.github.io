@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-01T22:51:58Z",
+  "updatedAt": "2026-04-01T23:36:46Z",
   "groups": [
     {
       "region": "Македонија",
@@ -42,6 +42,12 @@
         },
         {
           "source": "NetPress",
+          "title": "ВИДЕО| САД го лансираа „Artemis II“, првиот лет со екипаж до Месечината по повеќе од 50 години",
+          "link": "https://netpress.com.mk/video-sad-go-lansiraa-artemis-ii-prviot-let-so-ekipazh-do-mesechinata-po-poveke-od-50-godini/",
+          "published": "Wed, 01 Apr 2026 23:20:19 +0000"
+        },
+        {
+          "source": "NetPress",
           "title": "„Apple“ слави 50 години соочен со предизвикот на вештачката интелигенција",
           "link": "https://netpress.com.mk/apple-slavi-50-godini-soochen-so-predizvikot-na-veshtachkata-inteligenczija/",
           "published": "Wed, 01 Apr 2026 22:15:09 +0000"
@@ -63,12 +69,6 @@
           "title": "Финскиот претседател го информирал Трамп дека се обликува „поевропско НАТО“",
           "link": "https://netpress.com.mk/finskiot-pretsedatel-go-informiral-tramp-deka-se-oblikuva-poevropsko-nato/",
           "published": "Wed, 01 Apr 2026 20:30:25 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Челзи пријави најголема загуба во историјата на англискиот фудбал",
-          "link": "https://netpress.com.mk/chelzi-prijavi-najgolema-zaguba-vo-istorijata-na-angliskiot-fudbal/",
-          "published": "Wed, 01 Apr 2026 20:17:45 +0000"
         }
       ]
     },
@@ -107,6 +107,24 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "First troops from UN-backed Gang Suppression Force arrive in Haiti",
+          "link": "https://www.aljazeera.com/news/2026/4/1/first-troops-from-un-backed-gang-suppression-force-arrive-in-haiti?traffic_source=rss",
+          "published": "Wed, 01 Apr 2026 23:19:08 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Artemis II successfully launches four astronauts into space",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/1/artemis-ii-successfully-launches-four-astronauts-into-space?traffic_source=rss",
+          "published": "Wed, 01 Apr 2026 23:09:58 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "NASA’s Artemis II lifts off to the moon",
+          "link": "https://www.aljazeera.com/news/2026/4/1/nasas-artemis-ii-lifts-off-to-the-moon?traffic_source=rss",
+          "published": "Wed, 01 Apr 2026 22:39:26 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "US removes sanctions on Venezuela’s interim President Delcy Rodriguez",
           "link": "https://www.aljazeera.com/news/2026/4/1/us-removes-sanctions-on-venezuelas-interim-president-delcy-rodriguez?traffic_source=rss",
           "published": "Wed, 01 Apr 2026 22:12:46 +0000"
@@ -116,24 +134,6 @@
           "title": "NASA moon mission a ‘contrast’ to US war on Iran, says US senator",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/4/1/nasa-moon-mission-a-contrast-to-us-war-on-iran-says-us-senator?traffic_source=rss",
           "published": "Wed, 01 Apr 2026 21:20:21 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "SpaceX files to go public, paving way to make Elon Musk first trillionaire",
-          "link": "https://www.aljazeera.com/news/2026/4/1/spacex-files-to-go-public-paving-way-to-make-elon-musk-first-trillionaire?traffic_source=rss",
-          "published": "Wed, 01 Apr 2026 21:12:27 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Smoke and embers seen over Iran’s Isfahan after strike",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/1/smoke-and-embers-seen-over-irans-isfahan-after-strike?traffic_source=rss",
-          "published": "Wed, 01 Apr 2026 21:01:09 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Protesters gather to oppose changes to US birthright citizenship law",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/1/protesters-gather-to-oppose-changes-to-us-birthright-citizenship-law?traffic_source=rss",
-          "published": "Wed, 01 Apr 2026 20:58:16 +0000"
         }
       ]
     }
