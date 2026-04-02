@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-02T20:06:08Z",
+  "updatedAt": "2026-04-02T20:51:42Z",
   "groups": [
     {
       "region": "Македонија",
@@ -42,6 +42,18 @@
         },
         {
           "source": "NetPress",
+          "title": "ВИДЕО I Партизан ја совлада Црвена ѕвезда во Евролигата",
+          "link": "https://netpress.com.mk/video-i-partizan-ja-sovlada-czrvena-zvezda-vo-evroligata/",
+          "published": "Thu, 02 Apr 2026 20:44:09 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Рекордни цени на горивата во Германија и покрај владините мерки",
+          "link": "https://netpress.com.mk/rekordni-czeni-na-gorivata-vo-germanija-i-pokraj-vladinite-merki/",
+          "published": "Thu, 02 Apr 2026 20:12:54 +0000"
+        },
+        {
+          "source": "NetPress",
           "title": "Израелската армија елиминирала уште еден висок ирански командат",
           "link": "https://netpress.com.mk/izraelskata-armija-soopshti-deka-eliminirala-ushte-eden-visok-iranski-komandat/",
           "published": "Thu, 02 Apr 2026 20:03:00 +0000"
@@ -57,18 +69,6 @@
           "title": "Уапсен дилер на хероин",
           "link": "https://netpress.com.mk/upasen-diler-na-heroin/",
           "published": "Thu, 02 Apr 2026 19:29:38 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Вардар го совлада ГРК Охрид",
-          "link": "https://netpress.com.mk/vardar-go-sovlada-grk-ohrid/",
-          "published": "Thu, 02 Apr 2026 19:25:59 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Брат претепа сестра – скопјанка нападната од сопругот",
-          "link": "https://netpress.com.mk/brat-pretepa-sestra-skopjanka-napadnata-od-soprugot/",
-          "published": "Thu, 02 Apr 2026 19:18:59 +0000"
         }
       ]
     },
@@ -79,7 +79,7 @@
           "source": "BBC",
           "title": "Trump removes US Attorney General Pam Bondi",
           "link": "https://www.bbc.com/news/articles/ce843ge47z4o?at_medium=RSS&at_campaign=rss",
-          "published": "Thu, 02 Apr 2026 19:26:56 GMT"
+          "published": "Thu, 02 Apr 2026 20:39:32 GMT"
         },
         {
           "source": "BBC",
@@ -89,7 +89,7 @@
         },
         {
           "source": "BBC",
-          "title": "Iran's two largest steel plants shut down due to strikes, companies say",
+          "title": "Iran's two largest steel plants shut down due to air strikes, companies say",
           "link": "https://www.bbc.com/news/articles/c1w4pdexxqpo?at_medium=RSS&at_campaign=rss",
           "published": "Thu, 02 Apr 2026 17:01:08 GMT"
         },
@@ -107,33 +107,33 @@
         },
         {
           "source": "Al Jazeera",
-          "title": "Yamal slams anti-Muslim fan chants as Spain’s World Cup final hopes tainted",
-          "link": "https://www.aljazeera.com/sports/2026/4/2/yamal-slams-anti-muslim-fan-chants-as-spains-world-cup-final-hopes-tainted?traffic_source=rss",
-          "published": "Thu, 02 Apr 2026 19:50:38 +0000"
+          "title": "At least 43 people killed in ADF attack in northeast DR Congo, army says",
+          "link": "https://www.aljazeera.com/news/2026/4/2/at-least-43-people-killed-in-adf-attack-in-northeast-dr-congo-army-says?traffic_source=rss",
+          "published": "Thu, 02 Apr 2026 20:34:00 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Barcelona thump Real Madrid 6-0 to reach women’s Champions League semifinal",
-          "link": "https://www.aljazeera.com/sports/2026/4/2/barcelona-thump-real-madrid-6-0-to-reach-champions-league-final?traffic_source=rss",
-          "published": "Thu, 02 Apr 2026 19:50:29 +0000"
+          "title": "As war drags on, US reiterates Trump open to diplomacy with Iran",
+          "link": "https://www.aljazeera.com/news/2026/4/2/as-war-drags-on-us-reiterates-trump-open-to-diplomacy-with-iran?traffic_source=rss",
+          "published": "Thu, 02 Apr 2026 20:24:20 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Iranians celebrate New Year in parks despite ongoing attacks",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/2/iranians-celebrate-new-year-in-parks-despite-ongoing-attacks?traffic_source=rss",
-          "published": "Thu, 02 Apr 2026 19:33:15 +0000"
+          "title": "Legal groups condemn arrival of a dozen deportees from US to Uganda",
+          "link": "https://www.aljazeera.com/news/2026/4/2/legal-groups-condemn-arrival-of-a-dozen-deportees-from-us-to-uganda?traffic_source=rss",
+          "published": "Thu, 02 Apr 2026 20:17:59 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "GCC chief urges UN to halt Iranian attacks, protect Gulf waterways",
-          "link": "https://www.aljazeera.com/news/2026/4/2/gcc-chief-urges-un-to-halt-iranian-attacks-protect-gulf-waterways?traffic_source=rss",
-          "published": "Thu, 02 Apr 2026 18:40:06 +0000"
+          "title": "State Department claims Iran ‘continually’ pursuing nuclear weapon",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/2/state-department-claims-iran-continually-pursuing-nuclear-weapon?traffic_source=rss",
+          "published": "Thu, 02 Apr 2026 20:12:02 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Can Russia help fill the global energy gap?",
-          "link": "https://www.aljazeera.com/video/counting-the-cost/2026/4/2/can-russia-help-fill-the-global-energy-gap?traffic_source=rss",
-          "published": "Thu, 02 Apr 2026 18:40:00 +0000"
+          "title": "Planning commission approves Trump’s White House ballroom plans",
+          "link": "https://www.aljazeera.com/news/2026/4/2/planning-commission-approves-trumps-white-house-ballroom-plans?traffic_source=rss",
+          "published": "Thu, 02 Apr 2026 20:04:00 +0000"
         }
       ]
     }
