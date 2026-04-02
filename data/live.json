@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-01T23:47:56Z",
+  "generated_at": "2026-04-02T00:59:08Z",
   "items": [
     {
       "region": "Македонија",
@@ -109,6 +109,20 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "Iran war live: Trump to address nation; Tehran denies seeking ceasefire",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/4/2/iran-war-live-trump-to-address-nation-tehran-denies-seeking-ceasefire?traffic_source=rss",
+      "published": "Thu, 02 Apr 2026 00:00:30 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Magnitude 7.4 quake hits off Indonesia’s Ternate, tsunami warning triggered",
+      "link": "https://www.aljazeera.com/news/2026/4/1/magnitude-7-4-quake-hits-off-indonesias-ternate-tsunami-warning-triggered?traffic_source=rss",
+      "published": "Wed, 01 Apr 2026 23:54:08 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "FBI agents from US arrive in Cuba to probe lethal speedboat shooting",
       "link": "https://www.aljazeera.com/news/2026/4/1/fbi-agents-from-us-arrive-in-cuba-to-probe-lethal-speedboat-shooting?traffic_source=rss",
       "published": "Wed, 01 Apr 2026 23:31:14 +0000"
@@ -126,20 +140,6 @@
       "title": "Artemis II successfully launches four astronauts into space",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/4/1/artemis-ii-successfully-launches-four-astronauts-into-space?traffic_source=rss",
       "published": "Wed, 01 Apr 2026 23:09:58 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "NASA’s Artemis II lifts off to the moon",
-      "link": "https://www.aljazeera.com/news/2026/4/1/nasas-artemis-ii-lifts-off-to-the-moon?traffic_source=rss",
-      "published": "Wed, 01 Apr 2026 22:39:26 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "US removes sanctions on Venezuela’s interim President Delcy Rodriguez",
-      "link": "https://www.aljazeera.com/news/2026/4/1/us-removes-sanctions-on-venezuelas-interim-president-delcy-rodriguez?traffic_source=rss",
-      "published": "Wed, 01 Apr 2026 22:12:46 +0000"
     }
   ]
 }
