@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-02T20:51:42Z",
+  "updatedAt": "2026-04-02T21:39:09Z",
   "groups": [
     {
       "region": "Македонија",
@@ -42,6 +42,12 @@
         },
         {
           "source": "NetPress",
+          "title": "Преглед Евролига: Дубаи ги зголеми шансите за доигрувањето, Ѕвезда ги намали, Жалгирис ја потисна Барса",
+          "link": "https://netpress.com.mk/pregled-evroliga-dubai-gi-zgolemi-shansite-za-doigruvaneto-zvezda-gi-namali-zhalgiris-ja-potisna-barsa/",
+          "published": "Thu, 02 Apr 2026 21:15:27 +0000"
+        },
+        {
+          "source": "NetPress",
           "title": "ВИДЕО I Партизан ја совлада Црвена ѕвезда во Евролигата",
           "link": "https://netpress.com.mk/video-i-partizan-ja-sovlada-czrvena-zvezda-vo-evroligata/",
           "published": "Thu, 02 Apr 2026 20:44:09 +0000"
@@ -63,18 +69,24 @@
           "title": "Состанокот на 40-ина земји за отворање на Ормуз без конкретни договори",
           "link": "https://netpress.com.mk/sostanokot-na-40-ina-zemji-za-otvorane-na-ormuz-bez-konkretni-dogovori/",
           "published": "Thu, 02 Apr 2026 19:58:59 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Уапсен дилер на хероин",
-          "link": "https://netpress.com.mk/upasen-diler-na-heroin/",
-          "published": "Thu, 02 Apr 2026 19:29:38 +0000"
         }
       ]
     },
     {
       "region": "Свет",
       "items": [
+        {
+          "source": "BBC",
+          "title": "'I haven't slept for days': Iranians describe mounting desperation after a month of war",
+          "link": "https://www.bbc.com/news/articles/crm1vj941x9o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 02 Apr 2026 16:09:24 GMT"
+        },
+        {
+          "source": "BBC",
+          "title": "Iran's two largest steel plants shut down due to air strikes, companies say",
+          "link": "https://www.bbc.com/news/articles/c1w4pdexxqpo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 02 Apr 2026 17:01:08 GMT"
+        },
         {
           "source": "BBC",
           "title": "Trump removes US Attorney General Pam Bondi",
@@ -89,21 +101,27 @@
         },
         {
           "source": "BBC",
-          "title": "Iran's two largest steel plants shut down due to air strikes, companies say",
-          "link": "https://www.bbc.com/news/articles/c1w4pdexxqpo?at_medium=RSS&at_campaign=rss",
-          "published": "Thu, 02 Apr 2026 17:01:08 GMT"
+          "title": "Judge dismisses most of Blake Lively's claims in Justin Baldoni harassment suit",
+          "link": "https://www.bbc.com/news/articles/c3ex59yy4j2o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 02 Apr 2026 21:30:16 GMT"
         },
         {
-          "source": "BBC",
-          "title": "Brazil grants joint custody over pets in new law for separated couples",
-          "link": "https://www.bbc.com/news/articles/ce8jzn180x2o?at_medium=RSS&at_campaign=rss",
-          "published": "Thu, 02 Apr 2026 09:38:08 GMT"
+          "source": "Al Jazeera",
+          "title": "Oil shock triggers global price spikes as Iran war drags on",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/2/oil-shock-triggers-global-price-spikes-as-iran-war-drags-on?traffic_source=rss",
+          "published": "Thu, 02 Apr 2026 21:04:35 +0000"
         },
         {
-          "source": "BBC",
-          "title": "Baby shot dead in pram in New York City, police say",
-          "link": "https://www.bbc.com/news/articles/c203w57pkn3o?at_medium=RSS&at_campaign=rss",
-          "published": "Thu, 02 Apr 2026 15:20:02 GMT"
+          "source": "Al Jazeera",
+          "title": "Iran says army forces are ready to repel US-Israeli attacks",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/2/iran-says-army-forces-are-ready-to-repel-us-israeli-attacks?traffic_source=rss",
+          "published": "Thu, 02 Apr 2026 20:54:30 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Russia sending second ship with oil to Cuba amid US blockade",
+          "link": "https://www.aljazeera.com/news/2026/4/2/russia-sending-second-ship-with-oil-to-cuba-amid-us-blockade?traffic_source=rss",
+          "published": "Thu, 02 Apr 2026 20:51:25 +0000"
         },
         {
           "source": "Al Jazeera",
@@ -116,24 +134,6 @@
           "title": "As war drags on, US reiterates Trump open to diplomacy with Iran",
           "link": "https://www.aljazeera.com/news/2026/4/2/as-war-drags-on-us-reiterates-trump-open-to-diplomacy-with-iran?traffic_source=rss",
           "published": "Thu, 02 Apr 2026 20:24:20 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Legal groups condemn arrival of a dozen deportees from US to Uganda",
-          "link": "https://www.aljazeera.com/news/2026/4/2/legal-groups-condemn-arrival-of-a-dozen-deportees-from-us-to-uganda?traffic_source=rss",
-          "published": "Thu, 02 Apr 2026 20:17:59 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "State Department claims Iran ‘continually’ pursuing nuclear weapon",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/2/state-department-claims-iran-continually-pursuing-nuclear-weapon?traffic_source=rss",
-          "published": "Thu, 02 Apr 2026 20:12:02 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Planning commission approves Trump’s White House ballroom plans",
-          "link": "https://www.aljazeera.com/news/2026/4/2/planning-commission-approves-trumps-white-house-ballroom-plans?traffic_source=rss",
-          "published": "Thu, 02 Apr 2026 20:04:00 +0000"
         }
       ]
     }
