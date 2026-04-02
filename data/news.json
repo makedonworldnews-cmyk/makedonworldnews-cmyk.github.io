@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-01T23:36:46Z",
+  "updatedAt": "2026-04-02T00:00:51Z",
   "groups": [
     {
       "region": "Македонија",
@@ -107,6 +107,12 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "FBI agents from US arrive in Cuba to probe lethal speedboat shooting",
+          "link": "https://www.aljazeera.com/news/2026/4/1/fbi-agents-from-us-arrive-in-cuba-to-probe-lethal-speedboat-shooting?traffic_source=rss",
+          "published": "Wed, 01 Apr 2026 23:31:14 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "First troops from UN-backed Gang Suppression Force arrive in Haiti",
           "link": "https://www.aljazeera.com/news/2026/4/1/first-troops-from-un-backed-gang-suppression-force-arrive-in-haiti?traffic_source=rss",
           "published": "Wed, 01 Apr 2026 23:19:08 +0000"
@@ -128,12 +134,6 @@
           "title": "US removes sanctions on Venezuela’s interim President Delcy Rodriguez",
           "link": "https://www.aljazeera.com/news/2026/4/1/us-removes-sanctions-on-venezuelas-interim-president-delcy-rodriguez?traffic_source=rss",
           "published": "Wed, 01 Apr 2026 22:12:46 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "NASA moon mission a ‘contrast’ to US war on Iran, says US senator",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/1/nasa-moon-mission-a-contrast-to-us-war-on-iran-says-us-senator?traffic_source=rss",
-          "published": "Wed, 01 Apr 2026 21:20:21 +0000"
         }
       ]
     }
