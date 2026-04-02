@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-02T15:44:00Z",
+  "updatedAt": "2026-04-02T16:40:22Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Над 200 долари по барел: дизелот скокна на највисоко ниво во 4 години",
+          "link": "https://makfax.com.mk/ekonomija/nad-200-dolari-po-barel-dizelot-skokna-na-najvisoko-nivo-vo-4-godini/",
+          "published": "Thu, 02 Apr 2026 16:39:08 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Руски танкер свртен кон Венецуела: товарот наместо за Куба заврши на нова дестинација",
+          "link": "https://makfax.com.mk/svet/ruski-tanker-svrten-kon-venecuela-tovarot-namesto-za-kuba-zavrshi-na-nova-destinacija/",
+          "published": "Thu, 02 Apr 2026 15:55:31 +0000"
         },
         {
           "source": "Makfax",
@@ -29,46 +41,34 @@
           "published": "Thu, 02 Apr 2026 14:59:24 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Путин: Русија е подготвена да помогне во завршувањето на конфликтот на Блискиот Исток",
-          "link": "https://makfax.com.mk/svet/putin-rusija-e-podgotvena-da-pomogne-vo-zavrshuvanjeto-na-konfliktot-na-bliskiot-istok/",
-          "published": "Thu, 02 Apr 2026 14:15:27 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Ѓорѓиевски со сопругата донираше реквизити за сензорна соба во градинката „8 Март“ во општина Кисела Вода",
-          "link": "https://makfax.com.mk/makedonija/gorgievski-so-soprugata-donirashe-rekviziti-za-senzorna-soba-vo-gradinkata-8-mart-vo-opshtina-kisela-voda/",
-          "published": "Thu, 02 Apr 2026 14:03:35 +0000"
+          "source": "NetPress",
+          "title": "Скопје домаќин Меѓународниот таеквондо турнир „Скопје опен – Рамус Г1“",
+          "link": "https://netpress.com.mk/skopje-domakin-megunarodniot-taekvondo-turnir-skopje-open-ramus-g1/",
+          "published": "Thu, 02 Apr 2026 16:37:53 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Американскиот извоз на нафтени производи скокна во март",
-          "link": "https://netpress.com.mk/amerikanskiot-izvoz-na-nafteni-proizvodi-skokna-vo-mart/",
-          "published": "Thu, 02 Apr 2026 14:50:19 +0000"
+          "title": "Кога победуваме, да останеме приземни – кога губиме, да останеме силни",
+          "link": "https://netpress.com.mk/koga-pobeduvame-da-ostaneme-prizemni-koga-gubime-da-ostaneme-silni/",
+          "published": "Thu, 02 Apr 2026 16:34:59 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Армијата ќе се подмлади со нови 300 професионални војници",
-          "link": "https://netpress.com.mk/armijata-ke-se-podmladi-so-novi-300-profesionalni-vojniczi/",
-          "published": "Thu, 02 Apr 2026 14:47:11 +0000"
+          "title": "Пијан возел автомобил и се превртел – 19 годишникот заврши во болница",
+          "link": "https://netpress.com.mk/pijan-vozel-avtomobil-i-se-prevrtel-19-godishnikot-zavrshi-vo-bolnicza/",
+          "published": "Thu, 02 Apr 2026 16:30:32 +0000"
         },
         {
           "source": "NetPress",
-          "title": "„Тато, ќе ја убиеш мама“, сосетката на Ивана и Катја откри потресни детали во сведочењето",
-          "link": "https://netpress.com.mk/tato-ke-ja-ubiesh-mama-sosetkata-na-ivana-i-katja-otkri-potresni-detali-vo-svedocheneto/",
-          "published": "Thu, 02 Apr 2026 14:43:24 +0000"
+          "title": "Цените на лебот и пецивата остануваат на исто ниво",
+          "link": "https://netpress.com.mk/czenite-na-lebot-i-peczivata-ostanuvaat-na-isto-nivo/",
+          "published": "Thu, 02 Apr 2026 15:51:29 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Се судрија патничко и товарно возило на патот Градско – Прилеп",
-          "link": "https://netpress.com.mk/se-sudrija-patnichko-i-tovarno-vozilo-na-patot-gradsko-prilep/",
-          "published": "Thu, 02 Apr 2026 14:38:55 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Почна реконструкцијата на спортската сала на УКИМ",
-          "link": "https://netpress.com.mk/pochna-rekonstrukczijata-na-sportskata-sala-na-ukim/",
-          "published": "Thu, 02 Apr 2026 14:26:22 +0000"
+          "title": "Вештакот од Србија укажува на пропусти во лекувањето и недоволно следење на пациентите",
+          "link": "https://netpress.com.mk/veshtakot-od-srbija-ukazhuva-na-propusti-vo-lekuvaneto-i-nedovolno-sledene-na-paczientite/",
+          "published": "Thu, 02 Apr 2026 15:48:43 +0000"
         }
       ]
     },
@@ -101,9 +101,27 @@
         },
         {
           "source": "BBC",
-          "title": "Baby shot dead in pram in New York City, police say",
+          "title": "Infant shot dead on New York street by  men on motorbike, police say",
           "link": "https://www.bbc.com/news/articles/c203w57pkn3o?at_medium=RSS&at_campaign=rss",
           "published": "Thu, 02 Apr 2026 15:20:02 GMT"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Video: Protests in Gaza against Israel’s Palestinian death penalty law",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/2/video-protests-in-gaza-against-israels-palestinian-death-penalty-law?traffic_source=rss",
+          "published": "Thu, 02 Apr 2026 16:31:38 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "‘Israel has been avoiding any diplomacy’ and pursuing escalation",
+          "link": "https://www.aljazeera.com/video/quotable/2026/4/2/israel-has-been-avoiding-any-diplomacy-and-pursuing-escalation?traffic_source=rss",
+          "published": "Thu, 02 Apr 2026 16:27:36 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Pakistan, Afghanistan hold talks in China to end months of conflict",
+          "link": "https://www.aljazeera.com/news/2026/4/2/pakistan-afghanistan-hold-talks-in-china-to-end-months-of-conflict?traffic_source=rss",
+          "published": "Thu, 02 Apr 2026 15:55:09 +0000"
         },
         {
           "source": "Al Jazeera",
@@ -116,24 +134,6 @@
           "title": "Can the US seize Iran’s enriched uranium – and what are the risks?",
           "link": "https://www.aljazeera.com/news/2026/4/2/can-the-us-seize-irans-enriched-uranium-and-what-are-the-risks?traffic_source=rss",
           "published": "Thu, 02 Apr 2026 15:21:51 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Iran releases mocking missile launch video after Trump threats",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/2/iran-releases-mocking-missile-launch-video-after-trump-threats?traffic_source=rss",
-          "published": "Thu, 02 Apr 2026 15:21:04 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "European Parliament member Rima Hassan taken into French police custody",
-          "link": "https://www.aljazeera.com/news/2026/4/2/european-parliament-member-rima-hassan-taken-into-french-police-custody?traffic_source=rss",
-          "published": "Thu, 02 Apr 2026 15:11:32 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "CENTCOM releases video of air strikes in fifth week of war on Iran",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/2/centcom-releases-video-of-air-strikes-in-fifth-week-of-war-on-iran?traffic_source=rss",
-          "published": "Thu, 02 Apr 2026 14:39:24 +0000"
         }
       ]
     }
