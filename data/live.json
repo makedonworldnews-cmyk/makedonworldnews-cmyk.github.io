@@ -1,6 +1,20 @@
 {
-  "generated_at": "2026-04-03T17:10:14Z",
+  "generated_at": "2026-04-03T17:53:31Z",
   "items": [
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "Украинска амбасадорка: Време е за трансформација на НАТО",
+      "link": "https://makfax.com.mk/svet/ukrainska-ambasadorka-vreme-e-za-transformacija-na-nato/",
+      "published": "Fri, 03 Apr 2026 17:35:55 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "САД ги укинаа санкциите против рускиот банкар Михаил Задорнов",
+      "link": "https://makfax.com.mk/svet/sad-gi-ukinaa-sankciite-protiv-ruskiot-bankar-mihail-zadornov/",
+      "published": "Fri, 03 Apr 2026 17:30:18 +0000"
+    },
     {
       "region": "Македонија",
       "source": "Makfax",
@@ -24,17 +38,10 @@
     },
     {
       "region": "Македонија",
-      "source": "Makfax",
-      "title": "Поранешен ирански министер: Техеран треба да ја искористи својата супериорност и да склучи мировен договор со САД",
-      "link": "https://makfax.com.mk/svet/poraneshen-iranski-minister-teheran-treba-da-ja-iskoristi-svojata-superiornost-i-da-skluchi-miroven-dogovor-so-sad/",
-      "published": "Fri, 03 Apr 2026 16:06:42 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "Makfax",
-      "title": "Расипани сопирачки и претовар: МВР казни фирма и возач на автобус со кој се врши превоз на деца",
-      "link": "https://makfax.com.mk/makedonija/rasipani-sopirachki-i-pretovar-mvr-kazni-firma-i-vozach-na-avtobus-so-koj-se-vrshi-prevoz-na-deca/",
-      "published": "Fri, 03 Apr 2026 15:46:09 +0000"
+      "source": "NetPress",
+      "title": "Трамп: САД можат да го отворат Ормуз, но ни треба малку повеќе време",
+      "link": "https://netpress.com.mk/tramp-sad-mozhat-da-go-otvorat-ormuz-no-ni-treba-malku-poveke-vreme/",
+      "published": "Fri, 03 Apr 2026 17:37:40 +0000"
     },
     {
       "region": "Македонија",
@@ -63,13 +70,6 @@
       "title": "ВИДЕО| Десетина „газди“ на хациенди ја доведуваат во прашање навремената изградба на автопатот Прилеп – Битола",
       "link": "https://netpress.com.mk/video-desetina-gazdi-na-hacziendi-ja-doveduvaat-vo-prashane-navremenata-izgradba-na-avtopatot-prilep-bitola/",
       "published": "Fri, 03 Apr 2026 16:13:59 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Функционер на САД го потврди соборувањето борбен авион над Иран, се трагата по екипажот",
-      "link": "https://netpress.com.mk/funkczioner-na-sad-go-potvrdi-soboruvaneto-borben-avion-nad-iran-se-tragata-po-ekipazhot/",
-      "published": "Fri, 03 Apr 2026 16:08:53 +0000"
     },
     {
       "region": "Свет",
@@ -109,6 +109,13 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "What we know about the US fighter jet shot down in Iran",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/3/what-we-know-about-the-us-fighter-jet-shot-down-in-iran?traffic_source=rss",
+      "published": "Fri, 03 Apr 2026 17:14:08 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "French-owned container ship transits Hormuz Strait in first since Iran war",
       "link": "https://www.aljazeera.com/news/2026/4/3/french-owned-container-ship-transits-hormuz-strait-in-first-since-iran-war?traffic_source=rss",
       "published": "Fri, 03 Apr 2026 16:24:00 +0000"
@@ -133,13 +140,6 @@
       "title": "Ukraine slows enemy advances, liberates land, drains Russia’s war chest",
       "link": "https://www.aljazeera.com/features/2026/4/3/ukraine-slows-enemy-advances-liberates-land-drains-russias-war-chest?traffic_source=rss",
       "published": "Fri, 03 Apr 2026 15:44:16 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Iranian forces launch search for crew of downed US fighter jet",
-      "link": "https://www.aljazeera.com/news/2026/4/3/iranian-forces-launch-search-for-pilot-of-downed-us-fighter-jet?traffic_source=rss",
-      "published": "Fri, 03 Apr 2026 15:43:22 +0000"
     }
   ]
 }
