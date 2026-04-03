@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-03T21:04:43Z",
+  "generated_at": "2026-04-03T21:46:53Z",
   "items": [
     {
       "region": "Македонија",
@@ -39,6 +39,13 @@
     {
       "region": "Македонија",
       "source": "NetPress",
+      "title": "ВИДЕО| Американски јуришен авион се урна близу Ормуз",
+      "link": "https://netpress.com.mk/amerikanski-jurishen-avion-se-urna-blizu-ormuz/",
+      "published": "Fri, 03 Apr 2026 21:14:48 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "NetPress",
       "title": "Осум мртви во Кабул по земјотрес со јачина од 5,9 степени",
       "link": "https://netpress.com.mk/osum-mrtvi-vo-kabul-po-zemjotres-so-jachina-od-59-stepeni/",
       "published": "Fri, 03 Apr 2026 20:50:24 +0000"
@@ -65,16 +72,9 @@
       "published": "Fri, 03 Apr 2026 20:09:10 +0000"
     },
     {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Мелони во ненајавена посета на регионот на Персискиот залив",
-      "link": "https://netpress.com.mk/meloni-vo-nenajavena-poseta-na-regionot-na-persiskiot-zaliv/",
-      "published": "Fri, 03 Apr 2026 19:21:21 +0000"
-    },
-    {
       "region": "Свет",
       "source": "BBC",
-      "title": "Meet the elite US teams tasked with combat rescues",
+      "title": "How elite US teams tackle combat rescue missions",
       "link": "https://www.bbc.com/news/articles/c0le43jw8e9o?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 03 Apr 2026 20:42:56 GMT"
     },
@@ -83,7 +83,7 @@
       "source": "BBC",
       "title": "Artemis II crew take 'spectacular' image of Earth",
       "link": "https://www.bbc.com/news/articles/ce8jzr423p9o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 03 Apr 2026 18:25:25 GMT"
+      "published": "Fri, 03 Apr 2026 21:44:31 GMT"
     },
     {
       "region": "Свет",
@@ -109,6 +109,27 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "Christians in Lebanon observe Good Friday under Israeli attacks",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/3/christians-in-lebanon-observe-good-friday-under-israeli-attacks?traffic_source=rss",
+      "published": "Fri, 03 Apr 2026 21:05:17 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Will force be used to reopen Strait of Hormuz?",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/4/3/will-force-be-used-to-reopen-strait-of-hormuz?traffic_source=rss",
+      "published": "Fri, 03 Apr 2026 20:55:03 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Cuba releases over 2,000 prisoners amid mounting US pressure",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/3/cuba-releases-over-2000-prisoners-amid-mounting-us-pressure?traffic_source=rss",
+      "published": "Fri, 03 Apr 2026 20:45:45 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "Survivors of Iran bridge attack recall terror of US-Israeli strike",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/4/3/survivors-of-iran-bridge-attack-recall-terror-of-us-israeli-strike?traffic_source=rss",
       "published": "Fri, 03 Apr 2026 20:37:44 +0000"
@@ -119,27 +140,6 @@
       "title": "NASA releases first stunning Artemis II photos of Earth from moon mission",
       "link": "https://www.aljazeera.com/news/2026/4/3/nasa-releases-first-stunning-artemis-ii-photos-of-earth-from-moon-mission?traffic_source=rss",
       "published": "Fri, 03 Apr 2026 20:34:59 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Two dozen Democrat-led states sue Trump over mail-in ballot limits",
-      "link": "https://www.aljazeera.com/news/2026/4/3/two-dozen-democrat-led-states-sue-trump-over-mail-in-ballot-limits?traffic_source=rss",
-      "published": "Fri, 03 Apr 2026 19:28:35 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "US judge upholds decision to toss subpoenas into Fed Chair Jerome Powell",
-      "link": "https://www.aljazeera.com/news/2026/4/3/us-judge-upholds-decision-to-toss-subpoenas-into-fed-chair-jerome-powell?traffic_source=rss",
-      "published": "Fri, 03 Apr 2026 19:24:56 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "More than 20 attacks on Iranian healthcare facilities since March 1: WHO",
-      "link": "https://www.aljazeera.com/news/2026/4/3/more-than-20-attacks-on-iranian-healthcare-facilities-since-march-1-who?traffic_source=rss",
-      "published": "Fri, 03 Apr 2026 19:16:56 +0000"
     }
   ]
 }
