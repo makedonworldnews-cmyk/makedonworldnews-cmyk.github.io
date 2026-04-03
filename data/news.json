@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-03T16:40:44Z",
+  "updatedAt": "2026-04-03T17:20:43Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Јозиновиќ го распродаде својот 9-ти концерт во Сава Центар, се наоѓа веднаш зад Лепа Брена и Здравко Чолиќ",
+          "link": "https://makfax.com.mk/zanimlivosti/jozinovik-go-rasprodade-svojot-9-ti-koncert-vo-sava-centar-se-naoga-vednash-zad-lepa-brena-i-zdravko-cholik/",
+          "published": "Fri, 03 Apr 2026 16:55:29 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Би-Би-Си: Ова е првпат Иран да собори американски борбен авион, и тоа е важно",
+          "link": "https://makfax.com.mk/svet/bi-bi-si-ova-e-prvpat-iran-da-sobori-amerikanski-borben-avion-vo-vojna-i-toa-e-vazhno/",
+          "published": "Fri, 03 Apr 2026 16:45:10 +0000"
         },
         {
           "source": "Makfax",
@@ -29,16 +41,10 @@
           "published": "Fri, 03 Apr 2026 15:46:09 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Утре променливо облачно време со сончеви периоди, од недела сончево и топло",
-          "link": "https://makfax.com.mk/makedonija/utre-promenlivo-oblachno-vreme-so-sonchevi-periodi-od-nedela-sonchevo-i-toplo/",
-          "published": "Fri, 03 Apr 2026 15:39:07 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Иранците го исмеваат Трамп: „Додека ние градевме цивилизација, вие бевте во пештери“",
-          "link": "https://makfax.com.mk/svet/irancite-go-ismevaat-tramp-dodeka-nie-gradevme-civilizacija-vie-bevte-vo-peshteri/",
-          "published": "Fri, 03 Apr 2026 15:35:35 +0000"
+          "source": "NetPress",
+          "title": "ВИДЕО| При крај новиот пат за омиленото јонско одморалиште на скопјани – Ксамил",
+          "link": "https://netpress.com.mk/video-pri-kraj-noviot-pat-za-omilenoto-jonsko-odmoralishte-na-skopjani-ksamil/",
+          "published": "Fri, 03 Apr 2026 16:56:35 +0000"
         },
         {
           "source": "NetPress",
@@ -63,12 +69,6 @@
           "title": "Функционер на САД го потврди соборувањето борбен авион над Иран, се трагата по екипажот",
           "link": "https://netpress.com.mk/funkczioner-na-sad-go-potvrdi-soboruvaneto-borben-avion-nad-iran-se-tragata-po-ekipazhot/",
           "published": "Fri, 03 Apr 2026 16:08:53 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Израел и САД ќе продолжат со нападите врз ирански мостови и инфраструктура",
-          "link": "https://netpress.com.mk/izrael-i-sad-ke-prodolzhat-so-napadite-vrz-iranski-mostovi-i-infrastruktura/",
-          "published": "Fri, 03 Apr 2026 15:37:33 +0000"
         }
       ]
     },
@@ -80,6 +80,12 @@
           "title": "Artemis II leaves Earth's orbit on track for far side of the Moon",
           "link": "https://www.bbc.com/news/articles/c937g7nd5x4o?at_medium=RSS&at_campaign=rss",
           "published": "Fri, 03 Apr 2026 11:12:28 GMT"
+        },
+        {
+          "source": "BBC",
+          "title": "Burkina Faso must 'forget' about democracy, military leader says",
+          "link": "https://www.bbc.com/news/articles/cly0zp1xgz3o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 03 Apr 2026 11:11:42 GMT"
         },
         {
           "source": "BBC",
@@ -95,15 +101,9 @@
         },
         {
           "source": "BBC",
-          "title": "Burkina Faso must 'forget' about democracy, military leader says",
-          "link": "https://www.bbc.com/news/articles/cly0zp1xgz3o?at_medium=RSS&at_campaign=rss",
-          "published": "Fri, 03 Apr 2026 11:11:42 GMT"
-        },
-        {
-          "source": "BBC",
-          "title": "Trump removes US Attorney General Pam Bondi",
-          "link": "https://www.bbc.com/news/articles/ce843ge47z4o?at_medium=RSS&at_campaign=rss",
-          "published": "Fri, 03 Apr 2026 11:42:17 GMT"
+          "title": "Rapper Gucci Mane kidnapped and robbed by fellow artist, prosecutors say",
+          "link": "https://www.bbc.com/news/articles/c937kezj03vo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 03 Apr 2026 16:54:35 GMT"
         },
         {
           "source": "Al Jazeera",
