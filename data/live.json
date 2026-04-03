@@ -1,6 +1,27 @@
 {
-  "generated_at": "2026-04-03T18:36:22Z",
+  "generated_at": "2026-04-03T19:24:44Z",
   "items": [
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "Ердоган до Путин: Не ги одобруваме иранските напади",
+      "link": "https://makfax.com.mk/svet/erdogan-do-putin-ne-gi-odobruvame-iranskite-napadi/",
+      "published": "Fri, 03 Apr 2026 19:14:04 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "САД побараа примирје, Иран одби",
+      "link": "https://makfax.com.mk/svet/sad-pobaraa-primirje-iran-odbi/",
+      "published": "Fri, 03 Apr 2026 19:09:55 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "Млад човек активира експлозив во воз во Германија, 12 повредени",
+      "link": "https://makfax.com.mk/svet/mlad-chovek-aktivira-eksploziv-vo-voz-vo-germanija-12-povredeni/",
+      "published": "Fri, 03 Apr 2026 18:42:48 +0000"
+    },
     {
       "region": "Македонија",
       "source": "Makfax",
@@ -17,24 +38,10 @@
     },
     {
       "region": "Македонија",
-      "source": "Makfax",
-      "title": "САД ги укинаа санкциите против рускиот банкар Михаил Задорнов",
-      "link": "https://makfax.com.mk/svet/sad-gi-ukinaa-sankciite-protiv-ruskiot-bankar-mihail-zadornov/",
-      "published": "Fri, 03 Apr 2026 17:30:18 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "Makfax",
-      "title": "Јозиновиќ го распродаде својот 9-ти концерт во Сава Центар, се наоѓа веднаш зад Лепа Брена и Здравко Чолиќ",
-      "link": "https://makfax.com.mk/zanimlivosti/jozinovik-go-rasprodade-svojot-9-ti-koncert-vo-sava-centar-se-naoga-vednash-zad-lepa-brena-i-zdravko-cholik/",
-      "published": "Fri, 03 Apr 2026 16:55:29 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "Makfax",
-      "title": "Би-Би-Си: Ова е првпат Иран да собори американски борбен авион, и тоа е важно",
-      "link": "https://makfax.com.mk/svet/bi-bi-si-ova-e-prvpat-iran-da-sobori-amerikanski-borben-avion-vo-vojna-i-toa-e-vazhno/",
-      "published": "Fri, 03 Apr 2026 16:45:10 +0000"
+      "source": "NetPress",
+      "title": "Мелони во ненајавена посета на регионот на Персискиот залив",
+      "link": "https://netpress.com.mk/meloni-vo-nenajavena-poseta-na-regionot-na-persiskiot-zaliv/",
+      "published": "Fri, 03 Apr 2026 19:21:21 +0000"
     },
     {
       "region": "Македонија",
@@ -63,13 +70,6 @@
       "title": "Трамп: САД можат да го отворат Ормуз, но ни треба малку повеќе време",
       "link": "https://netpress.com.mk/tramp-sad-mozhat-da-go-otvorat-ormuz-no-ni-treba-malku-poveke-vreme/",
       "published": "Fri, 03 Apr 2026 17:37:40 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "ВИДЕО| При крај новиот пат за омиленото јонско одморалиште на скопјани – Ксамил",
-      "link": "https://netpress.com.mk/video-pri-kraj-noviot-pat-za-omilenoto-jonsko-odmoralishte-na-skopjani-ksamil/",
-      "published": "Fri, 03 Apr 2026 16:56:35 +0000"
     },
     {
       "region": "Свет",
@@ -109,6 +109,13 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "Drone strike on Sudan hospital kills 10, medical charity MSF says",
+      "link": "https://www.aljazeera.com/news/2026/4/3/drone-strike-on-sudan-hospital-kills-10-medical-charity-msf-says?traffic_source=rss",
+      "published": "Fri, 03 Apr 2026 18:32:43 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "Palestine 36: A film about a revolt that nearly changed history",
       "link": "https://www.aljazeera.com/video/the-take-2/2026/4/3/aje-onl-tt_pal_jacir_av_v2-030426?traffic_source=rss",
       "published": "Fri, 03 Apr 2026 18:03:23 +0000"
@@ -133,13 +140,6 @@
       "title": "What we know about the US fighter jet shot down in Iran",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/4/3/what-we-know-about-the-us-fighter-jet-shot-down-in-iran?traffic_source=rss",
       "published": "Fri, 03 Apr 2026 17:14:08 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "French-owned container ship transits Hormuz Strait in first since Iran war",
-      "link": "https://www.aljazeera.com/news/2026/4/3/french-owned-container-ship-transits-hormuz-strait-in-first-since-iran-war?traffic_source=rss",
-      "published": "Fri, 03 Apr 2026 16:24:00 +0000"
     }
   ]
 }
