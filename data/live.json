@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-03T19:56:57Z",
+  "generated_at": "2026-04-03T20:33:02Z",
   "items": [
     {
       "region": "Македонија",
@@ -39,9 +39,16 @@
     {
       "region": "Македонија",
       "source": "NetPress",
-      "title": "Бегал од полицијата додека совозачот фрлал пушка низ прозорец",
-      "link": "https://netpress.com.mk/begal-od-policzijata-dodeka-sovozachot-frlal-pushka-niz-prozorecz/",
-      "published": "Fri, 03 Apr 2026 19:56:24 +0000"
+      "title": "Се загубил постар скопјанец со црна јакна и црна капа",
+      "link": "https://netpress.com.mk/se-zagubil-postar-skopjanecz-so-czrna-jakna-i-czrna-kapa/",
+      "published": "Fri, 03 Apr 2026 20:17:56 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "NetPress",
+      "title": "ФОТО| Бомбардиран водечкиот ирански универзитет во Техеран",
+      "link": "https://netpress.com.mk/foto-bombardiran-vodechkiot-iranski-univerzitet-vo-teheran/",
+      "published": "Fri, 03 Apr 2026 20:09:10 +0000"
     },
     {
       "region": "Македонија",
@@ -63,13 +70,6 @@
       "title": "ВИДЕО| U2 изненадија со објава на втор мини абум годинавa",
       "link": "https://netpress.com.mk/video-u2-iznenadija-so-objava-na-vtor-mini-abum-godinava/",
       "published": "Fri, 03 Apr 2026 18:07:05 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "МЕТЕО АЛАРМ Доаѓа силен ветер",
-      "link": "https://netpress.com.mk/meteo-alarm-doaga-silen-veter/",
-      "published": "Fri, 03 Apr 2026 17:56:02 +0000"
     },
     {
       "region": "Свет",
@@ -109,6 +109,13 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "Two dozen Democrat-led states sue Trump over mail-in ballot limits",
+      "link": "https://www.aljazeera.com/news/2026/4/3/two-dozen-democrat-led-states-sue-trump-over-mail-in-ballot-limits?traffic_source=rss",
+      "published": "Fri, 03 Apr 2026 19:28:35 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "US judge upholds decision to toss subpoenas into Fed Chair Jerome Powell",
       "link": "https://www.aljazeera.com/news/2026/4/3/us-judge-upholds-decision-to-toss-subpoenas-into-fed-chair-jerome-powell?traffic_source=rss",
       "published": "Fri, 03 Apr 2026 19:24:56 +0000"
@@ -133,13 +140,6 @@
       "title": "At least one killed at UAE’s Habshan gas facility after intercepted attack",
       "link": "https://www.aljazeera.com/news/2026/4/3/at-least-one-killed-at-uaes-habshan-gas-facility-after-intercepted-attack?traffic_source=rss",
       "published": "Fri, 03 Apr 2026 19:08:52 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Drone strike on Sudan hospital kills 10, medical charity MSF says",
-      "link": "https://www.aljazeera.com/news/2026/4/3/drone-strike-on-sudan-hospital-kills-10-medical-charity-msf-says?traffic_source=rss",
-      "published": "Fri, 03 Apr 2026 18:32:43 +0000"
     }
   ]
 }
