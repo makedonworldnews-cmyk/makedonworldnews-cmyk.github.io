@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-03T20:33:02Z",
+  "generated_at": "2026-04-03T21:04:43Z",
   "items": [
     {
       "region": "Македонија",
@@ -39,6 +39,20 @@
     {
       "region": "Македонија",
       "source": "NetPress",
+      "title": "Осум мртви во Кабул по земјотрес со јачина од 5,9 степени",
+      "link": "https://netpress.com.mk/osum-mrtvi-vo-kabul-po-zemjotres-so-jachina-od-59-stepeni/",
+      "published": "Fri, 03 Apr 2026 20:50:24 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "NetPress",
+      "title": "Цените на храната пораснаа и во март",
+      "link": "https://netpress.com.mk/czenite-na-hranata-porasnaa-i-vo-mart/",
+      "published": "Fri, 03 Apr 2026 20:34:47 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "NetPress",
       "title": "Се загубил постар скопјанец со црна јакна и црна капа",
       "link": "https://netpress.com.mk/se-zagubil-postar-skopjanecz-so-czrna-jakna-i-czrna-kapa/",
       "published": "Fri, 03 Apr 2026 20:17:56 +0000"
@@ -58,18 +72,11 @@
       "published": "Fri, 03 Apr 2026 19:21:21 +0000"
     },
     {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "ВИДЕО| Еден пилот спасен од американскиот авион соборен во Иран",
-      "link": "https://netpress.com.mk/video-eden-pilot-spasen-od-amerikanskiot-avion-soboren-vo-iran/",
-      "published": "Fri, 03 Apr 2026 18:33:16 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "ВИДЕО| U2 изненадија со објава на втор мини абум годинавa",
-      "link": "https://netpress.com.mk/video-u2-iznenadija-so-objava-na-vtor-mini-abum-godinava/",
-      "published": "Fri, 03 Apr 2026 18:07:05 +0000"
+      "region": "Свет",
+      "source": "BBC",
+      "title": "Meet the elite US teams tasked with combat rescues",
+      "link": "https://www.bbc.com/news/articles/c0le43jw8e9o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 03 Apr 2026 20:42:56 GMT"
     },
     {
       "region": "Свет",
@@ -101,10 +108,17 @@
     },
     {
       "region": "Свет",
-      "source": "BBC",
-      "title": "Rapper Gucci Mane kidnapped and robbed by fellow artist, prosecutors say",
-      "link": "https://www.bbc.com/news/articles/c937kezj03vo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 03 Apr 2026 16:54:35 GMT"
+      "source": "Al Jazeera",
+      "title": "Survivors of Iran bridge attack recall terror of US-Israeli strike",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/3/survivors-of-iran-bridge-attack-recall-terror-of-us-israeli-strike?traffic_source=rss",
+      "published": "Fri, 03 Apr 2026 20:37:44 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "NASA releases first stunning Artemis II photos of Earth from moon mission",
+      "link": "https://www.aljazeera.com/news/2026/4/3/nasa-releases-first-stunning-artemis-ii-photos-of-earth-from-moon-mission?traffic_source=rss",
+      "published": "Fri, 03 Apr 2026 20:34:59 +0000"
     },
     {
       "region": "Свет",
@@ -126,20 +140,6 @@
       "title": "More than 20 attacks on Iranian healthcare facilities since March 1: WHO",
       "link": "https://www.aljazeera.com/news/2026/4/3/more-than-20-attacks-on-iranian-healthcare-facilities-since-march-1-who?traffic_source=rss",
       "published": "Fri, 03 Apr 2026 19:16:56 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Monks hold Easter prayers in deserted Old City of Jerusalem",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/3/monks-hold-easter-prayers-in-deserted-old-city-of-jerusalem?traffic_source=rss",
-      "published": "Fri, 03 Apr 2026 19:16:01 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "At least one killed at UAE’s Habshan gas facility after intercepted attack",
-      "link": "https://www.aljazeera.com/news/2026/4/3/at-least-one-killed-at-uaes-habshan-gas-facility-after-intercepted-attack?traffic_source=rss",
-      "published": "Fri, 03 Apr 2026 19:08:52 +0000"
     }
   ]
 }
