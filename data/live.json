@@ -1,6 +1,13 @@
 {
-  "generated_at": "2026-04-03T17:53:31Z",
+  "generated_at": "2026-04-03T18:36:22Z",
   "items": [
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "Белата куќа негира дека е разрешена шефицата на разузнавањето",
+      "link": "https://makfax.com.mk/svet/belata-kuka-negira-deka-e-razreshena-sheficata-na-razuznavanjeto/",
+      "published": "Fri, 03 Apr 2026 17:56:01 +0000"
+    },
     {
       "region": "Македонија",
       "source": "Makfax",
@@ -31,10 +38,24 @@
     },
     {
       "region": "Македонија",
-      "source": "Makfax",
-      "title": "Италијанската премиерка во ненадејна посета на Саудиска Арабија, ОАЕ и Катар",
-      "link": "https://makfax.com.mk/svet/italijanskata-premierka-vo-nenadejna-poseta-na-regionot-na-persiskiot-zaliv/",
-      "published": "Fri, 03 Apr 2026 16:35:44 +0000"
+      "source": "NetPress",
+      "title": "ВИДЕО| Еден пилот спасен од американскиот авион соборен во Иран",
+      "link": "https://netpress.com.mk/video-eden-pilot-spasen-od-amerikanskiot-avion-soboren-vo-iran/",
+      "published": "Fri, 03 Apr 2026 18:33:16 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "NetPress",
+      "title": "ВИДЕО| U2 изненадија со објава на втор мини абум годинавa",
+      "link": "https://netpress.com.mk/video-u2-iznenadija-so-objava-na-vtor-mini-abum-godinava/",
+      "published": "Fri, 03 Apr 2026 18:07:05 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "NetPress",
+      "title": "МЕТЕО АЛАРМ Доаѓа силен ветер",
+      "link": "https://netpress.com.mk/meteo-alarm-doaga-silen-veter/",
+      "published": "Fri, 03 Apr 2026 17:56:02 +0000"
     },
     {
       "region": "Македонија",
@@ -51,32 +72,11 @@
       "published": "Fri, 03 Apr 2026 16:56:35 +0000"
     },
     {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "ФОТО| Падна дел од плафонот во големата сала на Центарот за култура во Битола",
-      "link": "https://netpress.com.mk/foto-padna-del-od-plafonot-vo-golemata-sala-na-czentarot-za-kultura-vo-bitola/",
-      "published": "Fri, 03 Apr 2026 16:39:33 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Скопјанец превезувал деца со претоварен автобус без кочници – возел 37 деца повеќе!!!",
-      "link": "https://netpress.com.mk/skopjanecz-prevezuval-decza-so-pretovaren-avtobus-bez-kochniczi-vozel-37-decza-poveke/",
-      "published": "Fri, 03 Apr 2026 16:22:10 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "ВИДЕО| Десетина „газди“ на хациенди ја доведуваат во прашање навремената изградба на автопатот Прилеп – Битола",
-      "link": "https://netpress.com.mk/video-desetina-gazdi-na-hacziendi-ja-doveduvaat-vo-prashane-navremenata-izgradba-na-avtopatot-prilep-bitola/",
-      "published": "Fri, 03 Apr 2026 16:13:59 +0000"
-    },
-    {
       "region": "Свет",
       "source": "BBC",
-      "title": "Artemis II leaves Earth's orbit on track for far side of the Moon",
-      "link": "https://www.bbc.com/news/articles/c937g7nd5x4o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 03 Apr 2026 11:12:28 GMT"
+      "title": "Artemis II crew take 'spectacular' image of Earth",
+      "link": "https://www.bbc.com/news/articles/ce8jzr423p9o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 03 Apr 2026 18:25:25 GMT"
     },
     {
       "region": "Свет",
@@ -88,6 +88,13 @@
     {
       "region": "Свет",
       "source": "BBC",
+      "title": "French-owned ship passes through Strait of Hormuz",
+      "link": "https://www.bbc.com/news/articles/cjd8275jrrko?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 03 Apr 2026 17:45:46 GMT"
+    },
+    {
+      "region": "Свет",
+      "source": "BBC",
       "title": "France's Muslim gathering ban overturned by courts",
       "link": "https://www.bbc.com/news/articles/cwyjekvwww0o?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 03 Apr 2026 12:20:28 GMT"
@@ -95,16 +102,30 @@
     {
       "region": "Свет",
       "source": "BBC",
-      "title": "Italy's famed Uffizi admits cyber-attack but denies security breach",
-      "link": "https://www.bbc.com/news/articles/cy51wzeq6g5o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 03 Apr 2026 15:04:39 GMT"
-    },
-    {
-      "region": "Свет",
-      "source": "BBC",
       "title": "Rapper Gucci Mane kidnapped and robbed by fellow artist, prosecutors say",
       "link": "https://www.bbc.com/news/articles/c937kezj03vo?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 03 Apr 2026 16:54:35 GMT"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Palestine 36: A film about a revolt that nearly changed history",
+      "link": "https://www.aljazeera.com/video/the-take-2/2026/4/3/aje-onl-tt_pal_jacir_av_v2-030426?traffic_source=rss",
+      "published": "Fri, 03 Apr 2026 18:03:23 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Cambodia parliament approves law to combat cybercrime scam rings",
+      "link": "https://www.aljazeera.com/news/2026/4/3/cambodia-parliament-approves-law-to-combat-cybercrime-scam-rings?traffic_source=rss",
+      "published": "Fri, 03 Apr 2026 17:40:45 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "US unemployment rate drops despite economic uncertainty and Iran war",
+      "link": "https://www.aljazeera.com/news/2026/4/3/us-unemployment-rate-drops-despite-economic-uncertainty-and-iran-war?traffic_source=rss",
+      "published": "Fri, 03 Apr 2026 17:35:23 +0000"
     },
     {
       "region": "Свет",
@@ -119,27 +140,6 @@
       "title": "French-owned container ship transits Hormuz Strait in first since Iran war",
       "link": "https://www.aljazeera.com/news/2026/4/3/french-owned-container-ship-transits-hormuz-strait-in-first-since-iran-war?traffic_source=rss",
       "published": "Fri, 03 Apr 2026 16:24:00 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Drone footage shows a factory in Israel damaged by Iranian missile debris",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/3/drone-footage-shows-a-factory-in-israel-damaged-by-iranian-missile-debris?traffic_source=rss",
-      "published": "Fri, 03 Apr 2026 15:51:15 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Trump seeks historic $1.5 trillion for military in Congress budget request",
-      "link": "https://www.aljazeera.com/news/2026/4/3/trump-seeks-historic-1-5-trillion-for-military-in-congress-budget-request?traffic_source=rss",
-      "published": "Fri, 03 Apr 2026 15:48:57 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Ukraine slows enemy advances, liberates land, drains Russia’s war chest",
-      "link": "https://www.aljazeera.com/features/2026/4/3/ukraine-slows-enemy-advances-liberates-land-drains-russias-war-chest?traffic_source=rss",
-      "published": "Fri, 03 Apr 2026 15:44:16 +0000"
     }
   ]
 }
