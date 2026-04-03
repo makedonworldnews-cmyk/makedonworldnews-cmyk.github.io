@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-03T21:05:57Z",
+  "updatedAt": "2026-04-03T21:48:01Z",
   "groups": [
     {
       "region": "Македонија",
@@ -42,6 +42,12 @@
         },
         {
           "source": "NetPress",
+          "title": "ВИДЕО| Американски јуришен авион се урна близу Ормуз",
+          "link": "https://netpress.com.mk/amerikanski-jurishen-avion-se-urna-blizu-ormuz/",
+          "published": "Fri, 03 Apr 2026 21:14:48 +0000"
+        },
+        {
+          "source": "NetPress",
           "title": "Осум мртви во Кабул по земјотрес со јачина од 5,9 степени",
           "link": "https://netpress.com.mk/osum-mrtvi-vo-kabul-po-zemjotres-so-jachina-od-59-stepeni/",
           "published": "Fri, 03 Apr 2026 20:50:24 +0000"
@@ -63,12 +69,6 @@
           "title": "ФОТО| Бомбардиран водечкиот ирански универзитет во Техеран",
           "link": "https://netpress.com.mk/foto-bombardiran-vodechkiot-iranski-univerzitet-vo-teheran/",
           "published": "Fri, 03 Apr 2026 20:09:10 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Мелони во ненајавена посета на регионот на Персискиот залив",
-          "link": "https://netpress.com.mk/meloni-vo-nenajavena-poseta-na-regionot-na-persiskiot-zaliv/",
-          "published": "Fri, 03 Apr 2026 19:21:21 +0000"
         }
       ]
     },
@@ -77,7 +77,7 @@
       "items": [
         {
           "source": "BBC",
-          "title": "Meet the elite US teams tasked with combat rescues",
+          "title": "How elite US teams tackle combat rescue missions",
           "link": "https://www.bbc.com/news/articles/c0le43jw8e9o?at_medium=RSS&at_campaign=rss",
           "published": "Fri, 03 Apr 2026 20:42:56 GMT"
         },
@@ -85,7 +85,7 @@
           "source": "BBC",
           "title": "Artemis II crew take 'spectacular' image of Earth",
           "link": "https://www.bbc.com/news/articles/ce8jzr423p9o?at_medium=RSS&at_campaign=rss",
-          "published": "Fri, 03 Apr 2026 18:25:25 GMT"
+          "published": "Fri, 03 Apr 2026 21:44:31 GMT"
         },
         {
           "source": "BBC",
@@ -104,6 +104,12 @@
           "title": "France's Muslim gathering ban overturned by courts",
           "link": "https://www.bbc.com/news/articles/cwyjekvwww0o?at_medium=RSS&at_campaign=rss",
           "published": "Fri, 03 Apr 2026 12:20:28 GMT"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Christians in Lebanon observe Good Friday under Israeli attacks",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/3/christians-in-lebanon-observe-good-friday-under-israeli-attacks?traffic_source=rss",
+          "published": "Fri, 03 Apr 2026 21:05:17 +0000"
         },
         {
           "source": "Al Jazeera",
@@ -128,12 +134,6 @@
           "title": "NASA releases first stunning Artemis II photos of Earth from moon mission",
           "link": "https://www.aljazeera.com/news/2026/4/3/nasa-releases-first-stunning-artemis-ii-photos-of-earth-from-moon-mission?traffic_source=rss",
           "published": "Fri, 03 Apr 2026 20:34:59 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Two dozen Democrat-led states sue Trump over mail-in ballot limits",
-          "link": "https://www.aljazeera.com/news/2026/4/3/two-dozen-democrat-led-states-sue-trump-over-mail-in-ballot-limits?traffic_source=rss",
-          "published": "Fri, 03 Apr 2026 19:28:35 +0000"
         }
       ]
     }
