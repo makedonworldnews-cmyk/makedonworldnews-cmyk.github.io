@@ -1,6 +1,13 @@
 {
-  "generated_at": "2026-04-04T14:01:16Z",
+  "generated_at": "2026-04-04T14:47:00Z",
   "items": [
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "МВР: Лишени од слобода 15 возачи за безобѕирно управување возило",
+      "link": "https://makfax.com.mk/crna-hronika/mvr-lisheni-od-sloboda-15-vozachi-za-bezobzirno-upravuvanje-vozilo/",
+      "published": "Sat, 04 Apr 2026 14:01:27 +0000"
+    },
     {
       "region": "Македонија",
       "source": "Makfax",
@@ -31,10 +38,10 @@
     },
     {
       "region": "Македонија",
-      "source": "Makfax",
-      "title": "„Физика на радоста“ – инклузивен настан на Театар Пи вечерва во Центарот за култура Ѓорче Петров",
-      "link": "https://makfax.com.mk/kultura/fizika-na-radosta-inkluziven-nastan-na-teatar-pi-vecherva-vo-centarot-za-kultura-gorche-petrov/",
-      "published": "Sat, 04 Apr 2026 12:09:26 +0000"
+      "source": "NetPress",
+      "title": "Погодени делови од иранската нуклеарка во Бушер, Арагчи ги предупреди земјите од Заливот",
+      "link": "https://netpress.com.mk/pogodeni-delovi-od-iranskata-nuklearka-vo-busher-aragchi-gi-predupredi-zemjite-od-zalivot/",
+      "published": "Sat, 04 Apr 2026 14:22:39 +0000"
     },
     {
       "region": "Македонија",
@@ -63,13 +70,6 @@
       "title": "СДСМ делува како општинска организација на некоја бугарска партија",
       "link": "https://netpress.com.mk/sdsm-deluva-kako-opshtinska-organizaczija-na-nekoja-bugarska-partija/",
       "published": "Sat, 04 Apr 2026 13:01:55 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Законот за високото образование в понеделник ќе се разгледува во Владата",
-      "link": "https://netpress.com.mk/zakonot-za-visokoto-obrazovanie-v-ponedelnik-ke-se-razgleduva-vo-vladata/",
-      "published": "Sat, 04 Apr 2026 12:53:25 +0000"
     },
     {
       "region": "Свет",
@@ -102,9 +102,16 @@
     {
       "region": "Свет",
       "source": "BBC",
-      "title": "Russia chose 'Easter escalation' over ceasefire, says Zelensky",
-      "link": "https://www.bbc.com/news/articles/cew70wjvv9do?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 04 Apr 2026 08:34:00 GMT"
+      "title": "Fugitive mafia boss wanted for murder arrested in Amalfi Coast luxury villa",
+      "link": "https://www.bbc.com/news/articles/cn437qkk80lo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 04 Apr 2026 11:10:28 GMT"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Haaland grabs hat-trick as Man City thrash Liverpool to reach FA Cup semis",
+      "link": "https://www.aljazeera.com/sports/2026/4/4/haaland-grabs-hat-trick-as-man-city-thrash-liverpool-to-reach-fa-cup-semis?traffic_source=rss",
+      "published": "Sat, 04 Apr 2026 13:57:15 +0000"
     },
     {
       "region": "Свет",
@@ -133,13 +140,6 @@
       "title": "At least four people killed in Russian attacks on Ukraine",
       "link": "https://www.aljazeera.com/news/2026/4/4/1997?traffic_source=rss",
       "published": "Sat, 04 Apr 2026 10:20:36 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "LIVE: Manchester City vs Liverpool 4-0: FA Cup quarterfinal",
-      "link": "https://www.aljazeera.com/sports/liveblog/2026/4/4/live-manchester-city-vs-liverpool-fa-cup-quarterfinal?traffic_source=rss",
-      "published": "Sat, 04 Apr 2026 08:50:00 +0000"
     }
   ]
 }
