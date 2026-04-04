@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-03T23:39:46Z",
+  "updatedAt": "2026-04-04T00:02:07Z",
   "groups": [
     {
       "region": "Македонија",
@@ -107,6 +107,12 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Video shows the moment a Russian drone hit an apartment in Ukraine",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/3/video-shows-the-moment-a-russian-drone-hit-an-apartment-in-ukraine?traffic_source=rss",
+          "published": "Fri, 03 Apr 2026 23:40:08 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Lawyers search for Epstein survivors for Bank of America $72.5m settlement",
           "link": "https://www.aljazeera.com/news/2026/4/3/lawyers-search-for-epstein-survivors-for-bank-of-america-72-5m-settlement?traffic_source=rss",
           "published": "Fri, 03 Apr 2026 22:54:46 +0000"
@@ -128,12 +134,6 @@
           "title": "Cuba releases over 2,000 prisoners amid mounting US pressure",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/4/3/cuba-releases-over-2000-prisoners-amid-mounting-us-pressure?traffic_source=rss",
           "published": "Fri, 03 Apr 2026 20:45:45 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Survivors of Iran bridge attack recall terror of US-Israeli strike",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/3/survivors-of-iran-bridge-attack-recall-terror-of-us-israeli-strike?traffic_source=rss",
-          "published": "Fri, 03 Apr 2026 20:37:44 +0000"
         }
       ]
     }
