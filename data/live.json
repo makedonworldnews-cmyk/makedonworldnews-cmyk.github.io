@@ -1,6 +1,13 @@
 {
-  "generated_at": "2026-04-04T07:35:11Z",
+  "generated_at": "2026-04-04T08:05:25Z",
   "items": [
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "Собослај нема намера да го напушта Ливерпул",
+      "link": "https://makfax.com.mk/sport/soboslaj-nema-namera-da-go-napushta-liverpul/",
+      "published": "Sat, 04 Apr 2026 07:47:31 +0000"
+    },
     {
       "region": "Македонија",
       "source": "Makfax",
@@ -28,13 +35,6 @@
       "title": "Нафтената криза се прелева во недостиг на производи за секојдневна употреба – кои се најзагрозени?",
       "link": "https://makfax.com.mk/ekonomija/naftenata-kriza-se-preleva-vo-nedostig-na-proizvodi-za-sekojdnevna-upotreba-koi-se-najzagrozeni/",
       "published": "Sat, 04 Apr 2026 07:16:35 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "Makfax",
-      "title": "(Видео) Историски подвиг на тинејџерот Купер Флег",
-      "link": "https://makfax.com.mk/sport/video-istoriski-podvig-na-tinejdherot-kuper-fleg/",
-      "published": "Sat, 04 Apr 2026 07:11:56 +0000"
     },
     {
       "region": "Македонија",
@@ -109,6 +109,13 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "Afghanistan earthquake kills eight members of same family",
+      "link": "https://www.aljazeera.com/news/2026/4/4/afghanistan-earthquake-kills-eight-members-of-same-family?traffic_source=rss",
+      "published": "Sat, 04 Apr 2026 07:23:53 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "NASA unveils first images of Earth from Artemis II",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/4/4/nasa-unveils-first-images-of-earth-from-artemis-ii?traffic_source=rss",
       "published": "Sat, 04 Apr 2026 04:53:57 +0000"
@@ -133,13 +140,6 @@
       "title": "Iranian missile attack hits residential areas in central Israel",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/4/4/iranian-missile-attack-hits-residential-areas-in-central-israel?traffic_source=rss",
       "published": "Sat, 04 Apr 2026 02:53:18 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Palestinian Christians in Gaza mark Good Friday",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/4/palestinian-christians-in-gaza-mark-good-friday?traffic_source=rss",
-      "published": "Sat, 04 Apr 2026 00:30:08 +0000"
     }
   ]
 }
