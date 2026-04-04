@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-04T00:02:07Z",
+  "updatedAt": "2026-04-04T03:13:10Z",
   "groups": [
     {
       "region": "Македонија",
@@ -77,15 +77,21 @@
       "items": [
         {
           "source": "BBC",
-          "title": "How elite US teams tackle combat rescue missions",
+          "title": "Rescue team in Iran face 'harrowing and dangerous' search for US crew member",
           "link": "https://www.bbc.com/news/articles/c0le43jw8e9o?at_medium=RSS&at_campaign=rss",
-          "published": "Fri, 03 Apr 2026 20:42:56 GMT"
+          "published": "Sat, 04 Apr 2026 02:52:09 GMT"
         },
         {
           "source": "BBC",
           "title": "Artemis II crew take 'spectacular' image of Earth",
           "link": "https://www.bbc.com/news/articles/ce8jzr423p9o?at_medium=RSS&at_campaign=rss",
           "published": "Fri, 03 Apr 2026 21:44:31 GMT"
+        },
+        {
+          "source": "BBC",
+          "title": "After 16 years in power, can Viktor Orban finally be unseated?",
+          "link": "https://www.bbc.com/news/articles/czd7y1n3jyjo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 03 Apr 2026 23:04:24 GMT"
         },
         {
           "source": "BBC",
@@ -100,10 +106,22 @@
           "published": "Fri, 03 Apr 2026 17:45:46 GMT"
         },
         {
-          "source": "BBC",
-          "title": "France's Muslim gathering ban overturned by courts",
-          "link": "https://www.bbc.com/news/articles/cwyjekvwww0o?at_medium=RSS&at_campaign=rss",
-          "published": "Fri, 03 Apr 2026 12:20:28 GMT"
+          "source": "Al Jazeera",
+          "title": "Palestinian Christians in Gaza mark Good Friday",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/4/palestinian-christians-in-gaza-mark-good-friday?traffic_source=rss",
+          "published": "Sat, 04 Apr 2026 00:30:08 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Atletico Madrid vs Barcelona: La Liga preview – teams, start time, lineups",
+          "link": "https://www.aljazeera.com/sports/2026/4/4/atletico-madrid-vs-barcelona-la-liga-preview-teams-start-time-lineups?traffic_source=rss",
+          "published": "Sat, 04 Apr 2026 00:08:06 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Iran war live: Tehran downs 2 US warplanes; Israel bombs Lebanon bridges",
+          "link": "https://www.aljazeera.com/news/liveblog/2026/4/4/iran-war-live-tehran-downs-2-us-warplanes-israel-bombs-lebanon-bridges?traffic_source=rss",
+          "published": "Sat, 04 Apr 2026 00:00:00 +0000"
         },
         {
           "source": "Al Jazeera",
@@ -116,24 +134,6 @@
           "title": "Lawyers search for Epstein survivors for Bank of America $72.5m settlement",
           "link": "https://www.aljazeera.com/news/2026/4/3/lawyers-search-for-epstein-survivors-for-bank-of-america-72-5m-settlement?traffic_source=rss",
           "published": "Fri, 03 Apr 2026 22:54:46 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Christians in Lebanon observe Good Friday under Israeli attacks",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/3/christians-in-lebanon-observe-good-friday-under-israeli-attacks?traffic_source=rss",
-          "published": "Fri, 03 Apr 2026 21:05:17 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Will force be used to reopen Strait of Hormuz?",
-          "link": "https://www.aljazeera.com/video/inside-story/2026/4/3/will-force-be-used-to-reopen-strait-of-hormuz?traffic_source=rss",
-          "published": "Fri, 03 Apr 2026 20:55:03 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Cuba releases over 2,000 prisoners amid mounting US pressure",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/3/cuba-releases-over-2000-prisoners-amid-mounting-us-pressure?traffic_source=rss",
-          "published": "Fri, 03 Apr 2026 20:45:45 +0000"
         }
       ]
     }
