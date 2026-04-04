@@ -1,6 +1,27 @@
 {
-  "generated_at": "2026-04-04T08:55:31Z",
+  "generated_at": "2026-04-04T09:30:40Z",
   "items": [
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "Француски товарен брод помина низ Ормускиот теснец под иранска контрола",
+      "link": "https://makfax.com.mk/svet/francuski-tovaren-brod-pomina-niz-ormuskiot-tesnec-pod-iranska-kontrola/",
+      "published": "Sat, 04 Apr 2026 09:09:50 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "Пет министри од ЕУ бараат данок на екстра добивка за компании кои профитираат од кризата",
+      "link": "https://makfax.com.mk/ekonomija/pet-ministri-od-eu-baraat-danok-na-ekstra-dobivka-za-kompanii-koi-profitiraat-od-krizata/",
+      "published": "Sat, 04 Apr 2026 09:04:38 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "(Фото) Што јадат астронаутите на мисијата Артемис II додека летаат околу Месечината?",
+      "link": "https://makfax.com.mk/zanimlivosti/foto-shto-jadat-astronautite-na-misijata-artemis-ii-dodeka-letaat-okolu-mesechinata/",
+      "published": "Sat, 04 Apr 2026 08:56:09 +0000"
+    },
     {
       "region": "Македонија",
       "source": "Makfax",
@@ -17,24 +38,10 @@
     },
     {
       "region": "Македонија",
-      "source": "Makfax",
-      "title": "(Видео) Огњеновиќ: Владата да најде решение и УЈП да ги ослободи студентите од данок за „Work and Travel“",
-      "link": "https://makfax.com.mk/makedonija/video-ognjenovik-vladata-da-najde-reshenie-i-ujp-da-gi-oslobodi-studentite-od-danok-za-work-and-travel/",
-      "published": "Sat, 04 Apr 2026 08:17:05 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "Makfax",
-      "title": "Иран нуди 60.000 долари за пронаоѓање на исчезнатиот американски пилот",
-      "link": "https://makfax.com.mk/svet/iran-nudi-60-000-dolari-za-pronaoganje-na-ischeznatiot-amerikanski-pilot/",
-      "published": "Sat, 04 Apr 2026 08:13:10 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "Makfax",
-      "title": "Собослај нема намера да го напушта Ливерпул",
-      "link": "https://makfax.com.mk/sport/soboslaj-nema-namera-da-go-napushta-liverpul/",
-      "published": "Sat, 04 Apr 2026 07:47:31 +0000"
+      "source": "NetPress",
+      "title": "Погледнете ги неверојатните фотографии од Земјата направени од „Артемис 2“",
+      "link": "https://netpress.com.mk/poglednete-gi-neverojatnite-fotografii-od-zemjata-napraveni-od-artemis-2/",
+      "published": "Sat, 04 Apr 2026 09:08:29 +0000"
     },
     {
       "region": "Македонија",
@@ -63,13 +70,6 @@
       "title": "Закрепнување на вработувањата во САД во март",
       "link": "https://netpress.com.mk/zakrepnuvane-na-vrabotuvanata-vo-sad-vo-mart/",
       "published": "Sat, 04 Apr 2026 07:07:54 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Соборувањето на американскиот авион нема да влијае на преговорите со Иран, вели Трамп",
-      "link": "https://netpress.com.mk/soboruvaneto-na-amerikanskiot-avion-nema-da-vlijae-na-pregovorite-so-iran-veli-tramp/",
-      "published": "Sat, 04 Apr 2026 06:47:40 +0000"
     },
     {
       "region": "Свет",
@@ -109,6 +109,13 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "LIVE: Manchester City vs Liverpool – FA Cup quarterfinal",
+      "link": "https://www.aljazeera.com/sports/liveblog/2026/4/4/live-manchester-city-vs-liverpool-fa-cup-quarterfinal?traffic_source=rss",
+      "published": "Sat, 04 Apr 2026 08:50:00 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "Iran executes two convicted members of banned opposition group",
       "link": "https://www.aljazeera.com/news/2026/4/4/iran-executes-suspected-members-of-dissident-group-amid-us-israel-war?traffic_source=rss",
       "published": "Sat, 04 Apr 2026 08:22:18 +0000"
@@ -133,13 +140,6 @@
       "title": "Iran war: What is happening on day 36 of US-Israeli attacks?",
       "link": "https://www.aljazeera.com/news/2026/4/4/iran-war-what-is-happening-on-day-36-of-us-israeli-attacks?traffic_source=rss",
       "published": "Sat, 04 Apr 2026 03:51:08 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "European Parliament’s Rima Hassan: I’m a target of ‘political harassment’",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/4/european-parliaments-rima-hassan-im-a-target-of-political?traffic_source=rss",
-      "published": "Sat, 04 Apr 2026 03:35:55 +0000"
     }
   ]
 }
