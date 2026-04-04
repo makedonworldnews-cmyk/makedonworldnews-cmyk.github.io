@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-04T04:10:04Z",
+  "generated_at": "2026-04-04T05:34:29Z",
   "items": [
     {
       "region": "Македонија",
@@ -109,6 +109,20 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "NASA unveils first images of Earth from Artemis II",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/4/nasa-unveils-first-images-of-earth-from-artemis-ii?traffic_source=rss",
+      "published": "Sat, 04 Apr 2026 04:53:57 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Iran war: What is happening on day 36 of US-Israeli attacks?",
+      "link": "https://www.aljazeera.com/news/2026/4/4/iran-war-what-is-happening-on-day-36-of-us-israeli-attacks?traffic_source=rss",
+      "published": "Sat, 04 Apr 2026 03:51:08 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "European Parliament’s Rima Hassan: I’m a target of ‘political harassment’",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/4/4/european-parliaments-rima-hassan-im-a-target-of-political?traffic_source=rss",
       "published": "Sat, 04 Apr 2026 03:35:55 +0000"
@@ -126,20 +140,6 @@
       "title": "Palestinian Christians in Gaza mark Good Friday",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/4/4/palestinian-christians-in-gaza-mark-good-friday?traffic_source=rss",
       "published": "Sat, 04 Apr 2026 00:30:08 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Atletico Madrid vs Barcelona: La Liga preview – teams, start time, lineups",
-      "link": "https://www.aljazeera.com/sports/2026/4/4/atletico-madrid-vs-barcelona-la-liga-preview-teams-start-time-lineups?traffic_source=rss",
-      "published": "Sat, 04 Apr 2026 00:08:06 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Iran war live: Tehran downs 2 US warplanes; Israel bombs Lebanon bridges",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/4/4/iran-war-live-tehran-downs-2-us-warplanes-israel-bombs-lebanon-bridges?traffic_source=rss",
-      "published": "Sat, 04 Apr 2026 00:00:00 +0000"
     }
   ]
 }
