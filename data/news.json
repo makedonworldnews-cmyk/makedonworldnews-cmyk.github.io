@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-04T16:56:37Z",
+  "updatedAt": "2026-04-04T17:36:09Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "(Фото+видео) Пресечен транспорт на дрога во близина на Градско",
+          "link": "https://makfax.com.mk/crna-hronika/foto-video-presechen-transport-na-droga-vo-blizina-na-gradsko/",
+          "published": "Sat, 04 Apr 2026 17:03:03 +0000"
         },
         {
           "source": "Makfax",
@@ -35,10 +41,16 @@
           "published": "Sat, 04 Apr 2026 15:35:24 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Трамп: „Иран има 48 часа или доаѓа пекол“",
-          "link": "https://makfax.com.mk/svet/tramp-iran-ima-48-chasa-ili-doaga-pekol/",
-          "published": "Sat, 04 Apr 2026 14:50:55 +0000"
+          "source": "NetPress",
+          "title": "Внуките на иранскиот генерал Сулејмани уапсени во САД, поништени нивните зелени карти",
+          "link": "https://netpress.com.mk/vnukite-na-iranskiot-general-sulejmani-uapseni-vo-sad-ponishteni-nivnite-zeleni-karti/",
+          "published": "Sat, 04 Apr 2026 17:17:36 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Бундеслига: Фрајбург загуби од Баерн а водеше со 2:0 до финишот",
+          "link": "https://netpress.com.mk/bundesliga-frajburg-zagubi-od-baern-a-vodeshe-so-20-do-finishot/",
+          "published": "Sat, 04 Apr 2026 17:01:57 +0000"
         },
         {
           "source": "NetPress",
@@ -57,18 +69,6 @@
           "title": "Прекините во транзитот низ Ормуз ги катапултира и цените на пластиката",
           "link": "https://netpress.com.mk/prekinite-vo-tranzitot-niz-ormuz-gi-katapultira-i-czenite-na-plastikata/",
           "published": "Sat, 04 Apr 2026 16:25:21 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Возрасен маж им го покажувал половиот орган на малолетници",
-          "link": "https://netpress.com.mk/vozrasen-mazh-im-go-pokazhuval-poloviot-organ-na-maloletniczi/",
-          "published": "Sat, 04 Apr 2026 16:09:04 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Албански граѓани масовно полнат гориво во Македонија",
-          "link": "https://netpress.com.mk/albanski-gragani-masovno-polnat-gorivo-vo-makedonija/",
-          "published": "Sat, 04 Apr 2026 16:03:23 +0000"
         }
       ]
     },
@@ -107,6 +107,12 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "New video reveals moment US-Israeli munitions impact Iranian bridge",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/4/new-video-reveals-moment-us-israeli-munitions-impact-iranian-bridge?traffic_source=rss",
+          "published": "Sat, 04 Apr 2026 17:02:25 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Trump says Iran has 48 hours to make deal as search for US pilot continues",
           "link": "https://www.aljazeera.com/news/2026/4/4/trump-says-iran-has-48-hours-to-make-deal-as-search-for-us-pilot-continues?traffic_source=rss",
           "published": "Sat, 04 Apr 2026 16:35:27 +0000"
@@ -128,12 +134,6 @@
           "title": "Iran says US, Israel belong in Stone Age after Tehran university strike",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/4/4/iran-says-us-israel-belong-in-stone-age-after-tehran-university-strike?traffic_source=rss",
           "published": "Sat, 04 Apr 2026 15:49:30 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Three suspects ordered to stay in UK custody over Jewish charity attack",
-          "link": "https://www.aljazeera.com/news/2026/4/4/three-suspects-ordered-to-stay-in-uk-custody-over-jewish-charity-attack?traffic_source=rss",
-          "published": "Sat, 04 Apr 2026 15:19:01 +0000"
         }
       ]
     }
