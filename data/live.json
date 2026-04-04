@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-04T20:47:18Z",
+  "generated_at": "2026-04-04T21:15:57Z",
   "items": [
     {
       "region": "Македонија",
@@ -39,6 +39,13 @@
     {
       "region": "Македонија",
       "source": "NetPress",
+      "title": "Серија А: Реми на Лацио и Парма",
+      "link": "https://netpress.com.mk/serija-a-remi-na-laczio-i-parma/",
+      "published": "Sat, 04 Apr 2026 21:03:37 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "NetPress",
       "title": "Над илјада луѓе во Тел Авив против војната со Иран и Хезболах",
       "link": "https://netpress.com.mk/nad-iljada-luge-vo-tel-aviv-protiv-vojnata-so-iran-i-hezbolah/",
       "published": "Sat, 04 Apr 2026 20:40:11 +0000"
@@ -63,13 +70,6 @@
       "title": "Нѐ чека тешка година – Мицкоски најави ребаланс на буџетот во јуни",
       "link": "https://netpress.com.mk/n%d1%90-cheka-teshka-godina-miczkoski-najavi-rebalans-na-budhetot-vo-juni/",
       "published": "Sat, 04 Apr 2026 18:45:53 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Заробениот пилот на Ф-15 би можел да стане предност за Иран против САД",
-      "link": "https://netpress.com.mk/zarobeniot-pilot-na-f-15-bi-mozhel-da-stane-prednost-za-iran-protiv-sad/",
-      "published": "Sat, 04 Apr 2026 18:27:17 +0000"
     },
     {
       "region": "Свет",
@@ -109,6 +109,20 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "How will Pakistan deal with the fallout from Iran war?",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/4/4/how-will-pakistan-deal-with-the-fallout-from-iran-war?traffic_source=rss",
+      "published": "Sat, 04 Apr 2026 20:42:26 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Indonesia receives bodies of peacekeepers killed in southern Lebanon",
+      "link": "https://www.aljazeera.com/news/2026/4/4/indonesia-receives-bodies-of-peacekeepers-killed-in-southern-lebanon?traffic_source=rss",
+      "published": "Sat, 04 Apr 2026 20:21:51 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "Trump files emergency motion to continue building White House ballroom",
       "link": "https://www.aljazeera.com/news/2026/4/4/trump-files-emergency-motion-to-continue-building-white-house-ballroom?traffic_source=rss",
       "published": "Sat, 04 Apr 2026 20:17:00 +0000"
@@ -126,20 +140,6 @@
       "title": "Tehran psychiatric hospital not usable after US-Israeli strike",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/4/4/tehran-psychiatric-hospital-not-usable-after-us-israeli-strike?traffic_source=rss",
       "published": "Sat, 04 Apr 2026 19:48:15 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Universities hit as US, Israel ramp up attacks on Iran’s infrastructure",
-      "link": "https://www.aljazeera.com/news/2026/4/4/universities-hit-as-us-israel-ramp-up-attacks-on-irans-infrastructure?traffic_source=rss",
-      "published": "Sat, 04 Apr 2026 19:17:24 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Iran’s coastline: architecture of control",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/4/irans-coastline-architecture-of-control?traffic_source=rss",
-      "published": "Sat, 04 Apr 2026 18:50:16 +0000"
     }
   ]
 }
