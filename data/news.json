@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-04T05:03:53Z",
+  "updatedAt": "2026-04-04T06:09:59Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "И покрај кризата со гориво, Австралија ги повика граѓаните да не ги откажуваат велигденските патувања",
+          "link": "https://makfax.com.mk/svet/i-pokraj-krizata-so-gorivo-avstralija-gi-povika-graganite-da-ne-gi-otkazhuvaat-veligdenskite-patuvanja/",
+          "published": "Sat, 04 Apr 2026 06:08:07 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Американски разузнавачи: Иран наскоро нема да го отвори Ормутскиот теснец",
+          "link": "https://makfax.com.mk/svet/amerikanski-razuznavachi-iran-naskoro-nema-da-go-otvori-ormuskiot-tesnec/",
+          "published": "Sat, 04 Apr 2026 05:54:55 +0000"
         },
         {
           "source": "Makfax",
@@ -29,16 +41,10 @@
           "published": "Fri, 03 Apr 2026 19:09:55 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Млад човек активира експлозив во воз во Германија, 12 повредени",
-          "link": "https://makfax.com.mk/svet/mlad-chovek-aktivira-eksploziv-vo-voz-vo-germanija-12-povredeni/",
-          "published": "Fri, 03 Apr 2026 18:42:48 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Белата куќа негира дека е разрешена шефицата на разузнавањето",
-          "link": "https://makfax.com.mk/svet/belata-kuka-negira-deka-e-razreshena-sheficata-na-razuznavanjeto/",
-          "published": "Fri, 03 Apr 2026 17:56:01 +0000"
+          "source": "NetPress",
+          "title": "Променливо облачно со сончеви периоди",
+          "link": "https://netpress.com.mk/promenlivo-oblachno-so-sonchevi-periodi-49/",
+          "published": "Sat, 04 Apr 2026 06:07:10 +0000"
         },
         {
           "source": "NetPress",
@@ -63,12 +69,6 @@
           "title": "Цените на храната пораснаа и во март",
           "link": "https://netpress.com.mk/czenite-na-hranata-porasnaa-i-vo-mart/",
           "published": "Fri, 03 Apr 2026 20:34:47 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Се загубил постар скопјанец со црна јакна и црна капа",
-          "link": "https://netpress.com.mk/se-zagubil-postar-skopjanecz-so-czrna-jakna-i-czrna-kapa/",
-          "published": "Fri, 03 Apr 2026 20:17:56 +0000"
         }
       ]
     },
@@ -107,6 +107,12 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "NASA unveils first images of Earth from Artemis II",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/4/nasa-unveils-first-images-of-earth-from-artemis-ii?traffic_source=rss",
+          "published": "Sat, 04 Apr 2026 04:53:57 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Iran war: What is happening on day 36 of US-Israeli attacks?",
           "link": "https://www.aljazeera.com/news/2026/4/4/iran-war-what-is-happening-on-day-36-of-us-israeli-attacks?traffic_source=rss",
           "published": "Sat, 04 Apr 2026 03:51:08 +0000"
@@ -128,12 +134,6 @@
           "title": "Palestinian Christians in Gaza mark Good Friday",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/4/4/palestinian-christians-in-gaza-mark-good-friday?traffic_source=rss",
           "published": "Sat, 04 Apr 2026 00:30:08 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Atletico Madrid vs Barcelona: La Liga preview – teams, start time, lineups",
-          "link": "https://www.aljazeera.com/sports/2026/4/4/atletico-madrid-vs-barcelona-la-liga-preview-teams-start-time-lineups?traffic_source=rss",
-          "published": "Sat, 04 Apr 2026 00:08:06 +0000"
         }
       ]
     }
