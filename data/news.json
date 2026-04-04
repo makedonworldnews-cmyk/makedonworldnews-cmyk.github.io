@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-04T21:48:28Z",
+  "updatedAt": "2026-04-04T22:14:27Z",
   "groups": [
     {
       "region": "Македонија",
@@ -42,6 +42,12 @@
         },
         {
           "source": "NetPress",
+          "title": "Ла Лига: Барселона победи кај Атлетико, има седум бода предност пред Реал",
+          "link": "https://netpress.com.mk/la-liga-barselona-pobedi-kaj-atletiko-ima-sedum-boda-prednost-pred-real/",
+          "published": "Sat, 04 Apr 2026 21:59:53 +0000"
+        },
+        {
+          "source": "NetPress",
           "title": "ФА Куп: Саутемптон го исфрли Арсенал, Сити го декласираше Ливерпул",
           "link": "https://netpress.com.mk/fa-kup-sautempton-go-isfrli-arsenal-siti-go-deklasirashe-liverpul/",
           "published": "Sat, 04 Apr 2026 21:28:38 +0000"
@@ -63,12 +69,6 @@
           "title": "Израел подготвен да нападне ирански енергетски објекти, чека одлука од САД",
           "link": "https://netpress.com.mk/izrael-podgotven-da-napadne-iranski-energetski-objekti-cheka-odluka-od-sad/",
           "published": "Sat, 04 Apr 2026 20:11:24 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "ФОТО| Иран употребил нов противвоздушен систем за соборување на американските авиони",
-          "link": "https://netpress.com.mk/foto-iran-upotrebil-nov-protivvozdushen-sistem-za-soboruvane-na-amerikanskite-avioni/",
-          "published": "Sat, 04 Apr 2026 19:15:00 +0000"
         }
       ]
     },
@@ -77,15 +77,15 @@
       "items": [
         {
           "source": "BBC",
-          "title": "Search for missing airman presents serious test for US",
-          "link": "https://www.bbc.com/news/articles/c0le69de645o?at_medium=RSS&at_campaign=rss",
-          "published": "Sat, 04 Apr 2026 20:13:41 GMT"
+          "title": "US and Iran trade threats to unleash 'hell' as search for missing US airman continues",
+          "link": "https://www.bbc.com/news/articles/c5y90jl8veyo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 04 Apr 2026 21:56:24 GMT"
         },
         {
           "source": "BBC",
-          "title": "UN watchdog voices 'deep concern' as Iran reports new attacks on nuclear plant",
-          "link": "https://www.bbc.com/news/articles/c5y90jl8veyo?at_medium=RSS&at_campaign=rss",
-          "published": "Sat, 04 Apr 2026 16:19:25 GMT"
+          "title": "Search for missing airman presents serious test for US",
+          "link": "https://www.bbc.com/news/articles/c0le69de645o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 04 Apr 2026 20:13:41 GMT"
         },
         {
           "source": "BBC",
@@ -104,6 +104,12 @@
           "title": "Russian attack on Ukraine market kills five",
           "link": "https://www.bbc.com/news/articles/cp869m2gzr0o?at_medium=RSS&at_campaign=rss",
           "published": "Sat, 04 Apr 2026 18:54:53 GMT"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Lewandowski claims late La Liga win for Barcelona at Atletico",
+          "link": "https://www.aljazeera.com/sports/2026/4/4/lewandowski-claims-late-la-liga-win-for-barcelona-at-atletico?traffic_source=rss",
+          "published": "Sat, 04 Apr 2026 21:28:12 +0000"
         },
         {
           "source": "Al Jazeera",
@@ -128,12 +134,6 @@
           "title": "Trump files emergency motion to continue building White House ballroom",
           "link": "https://www.aljazeera.com/news/2026/4/4/trump-files-emergency-motion-to-continue-building-white-house-ballroom?traffic_source=rss",
           "published": "Sat, 04 Apr 2026 20:17:00 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Israeli police arrest antiwar protesters in Tel Aviv",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/4/israeli-police-arrest-antiwar-protesters-in-tel-aviv?traffic_source=rss",
-          "published": "Sat, 04 Apr 2026 20:04:21 +0000"
         }
       ]
     }
