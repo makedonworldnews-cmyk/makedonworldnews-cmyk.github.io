@@ -1,6 +1,20 @@
 {
-  "generated_at": "2026-04-04T13:17:52Z",
+  "generated_at": "2026-04-04T14:01:16Z",
   "items": [
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "МВР: Четворица лишени од слобода за семејно насилство – вкупно седум пријави во последното деноноќие",
+      "link": "https://makfax.com.mk/crna-hronika/mvr-chetvorica-lisheni-od-sloboda-za-semejno-nasilstvo-vkupno-sedum-prijavi-vo-poslednoto-denonokie/",
+      "published": "Sat, 04 Apr 2026 13:55:55 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "Иран дозволи поминување на бродови со хуманитарна и основна стока низ Ормутскиот теснец",
+      "link": "https://makfax.com.mk/svet/iran-dozvoli-pominuvanje-na-brodovi-so-humanitarna-i-osnovna-stoka-niz-ormutskiot-tesnec/",
+      "published": "Sat, 04 Apr 2026 13:44:55 +0000"
+    },
     {
       "region": "Македонија",
       "source": "Makfax",
@@ -24,17 +38,17 @@
     },
     {
       "region": "Македонија",
-      "source": "Makfax",
-      "title": "Меѓународната агенција за атомска енергија е загрижена поради нападот во близина на нуклеарна централа во Иран",
-      "link": "https://makfax.com.mk/top/megunarodnata-agencija-za-atomska-energija-e-zagrizhena-poradi-napadot-vo-blizina-na-nuklearna-centrala-vo-iran/",
-      "published": "Sat, 04 Apr 2026 12:09:09 +0000"
+      "source": "NetPress",
+      "title": "Експлозија пред израелски центар во Холандија, нема повредени",
+      "link": "https://netpress.com.mk/eksplozija-pred-izraelski-czentar-vo-holandija-nema-povredeni/",
+      "published": "Sat, 04 Apr 2026 13:47:02 +0000"
     },
     {
       "region": "Македонија",
-      "source": "Makfax",
-      "title": "(Видео) Филипче: Владата призна дека СДСМ бил во право со мерките, но предоцна реагира",
-      "link": "https://makfax.com.mk/makedonija/video-filipche-vladata-prizna-deka-sdsm-bil-vo-pravo-so-merkite-no-predocna-reagira/",
-      "published": "Sat, 04 Apr 2026 12:02:13 +0000"
+      "source": "NetPress",
+      "title": "Филипче: Кошничката е 68.000 денари, ниту 600 евра плата не би ја ублажила кризата",
+      "link": "https://netpress.com.mk/filipche-koshnichkata-e-68-000-denari-nitu-600-evra-plata-ne-bi-ja-ublazhila-krizata/",
+      "published": "Sat, 04 Apr 2026 13:29:37 +0000"
     },
     {
       "region": "Македонија",
@@ -58,25 +72,18 @@
       "published": "Sat, 04 Apr 2026 12:53:25 +0000"
     },
     {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Пезешкијан бара светот да процени која страна, Иран или САД, всушност е за дијалог",
-      "link": "https://netpress.com.mk/pezeshkijan-bara-svetot-da-proczeni-koja-strana-iran-ili-sad-vsushnost-e-za-dijalog/",
-      "published": "Sat, 04 Apr 2026 12:37:35 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Руско МНР: „Ниту сантиметар на исток“ ветуваше НАТО",
-      "link": "https://netpress.com.mk/rusko-mnr-nitu-santimetar-na-istok-vetuvashe-nato/",
-      "published": "Sat, 04 Apr 2026 12:15:33 +0000"
-    },
-    {
       "region": "Свет",
       "source": "BBC",
       "title": "Rescue team in Iran face 'harrowing and dangerous' search for US crew member",
       "link": "https://www.bbc.com/news/articles/c0le43jw8e9o?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 04 Apr 2026 10:41:38 GMT"
+    },
+    {
+      "region": "Свет",
+      "source": "BBC",
+      "title": "Russian attack on Ukraine market kills five",
+      "link": "https://www.bbc.com/news/articles/cp869m2gzr0o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 04 Apr 2026 14:00:31 GMT"
     },
     {
       "region": "Свет",
@@ -98,13 +105,6 @@
       "title": "Russia chose 'Easter escalation' over ceasefire, says Zelensky",
       "link": "https://www.bbc.com/news/articles/cew70wjvv9do?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 04 Apr 2026 08:34:00 GMT"
-    },
-    {
-      "region": "Свет",
-      "source": "BBC",
-      "title": "Trump seeks $152m to reopen notorious Alcatraz prison",
-      "link": "https://www.bbc.com/news/articles/c3dlpk0zzy1o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 04 Apr 2026 09:17:10 GMT"
     },
     {
       "region": "Свет",
@@ -137,7 +137,7 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
-      "title": "LIVE: Manchester City vs Liverpool – FA Cup quarterfinal",
+      "title": "LIVE: Manchester City vs Liverpool 4-0: FA Cup quarterfinal",
       "link": "https://www.aljazeera.com/sports/liveblog/2026/4/4/live-manchester-city-vs-liverpool-fa-cup-quarterfinal?traffic_source=rss",
       "published": "Sat, 04 Apr 2026 08:50:00 +0000"
     }
