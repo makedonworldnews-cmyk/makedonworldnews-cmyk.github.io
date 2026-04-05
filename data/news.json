@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-05T16:00:40Z",
+  "updatedAt": "2026-04-05T16:51:26Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Иран одговори на заканите од Трамп и постави нов услов за отворање на Ормутскиот теснец",
+          "link": "https://makfax.com.mk/svet/iran-odgovori-na-zakanite-od-tramp-i-postavi-nov-uslov-za-otvoranje-na-ormutskiot-tesnec/",
+          "published": "Sun, 05 Apr 2026 16:03:46 +0000"
         },
         {
           "source": "Makfax",
@@ -35,10 +41,22 @@
           "published": "Sun, 05 Apr 2026 14:33:00 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Енергетски шок во Италија: четири аеродроми остануваат без гориво",
-          "link": "https://makfax.com.mk/svet/energetski-shok-vo-italija-chetiri-aerodromi-ostanuvaat-bez-gorivo/",
-          "published": "Sun, 05 Apr 2026 13:40:00 +0000"
+          "source": "NetPress",
+          "title": "Тројца загинати при пад на дрво додека барале велигденски јајца во шума во Германија",
+          "link": "https://netpress.com.mk/trojcza-zaginati-pri-pad-na-drvo-dodeka-barale-veligdenski-jajcza-vo-shuma-vo-germanija/",
+          "published": "Sun, 05 Apr 2026 16:50:11 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Каква врска има аферата „Маѓар Телеком“ со новиот имот на ДУИ во Тетово?",
+          "link": "https://netpress.com.mk/kakva-vrska-ima-aferata-magar-telekom-so-noviot-imot-na-dui-vo-tetovo/",
+          "published": "Sun, 05 Apr 2026 16:40:20 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Трамп пак му се закани на Иран со гаѓање на електрани и мостови ако не го отвори „проклетиот“ теснец",
+          "link": "https://netpress.com.mk/tramp-pak-mu-se-zakani-na-iran-so-gagane-na-elektrani-i-mostovi-ako-ne-go-otvori-prokletiot-tesnecz/",
+          "published": "Sun, 05 Apr 2026 16:26:53 +0000"
         },
         {
           "source": "NetPress",
@@ -51,24 +69,6 @@
           "title": "Се поставува последниот слој асфалт од Стара Рампа до Црвениот крст",
           "link": "https://netpress.com.mk/se-postavuva-posledniot-sloj-asfalt-od-stara-rampa-do-czrveniot-krst/",
           "published": "Sun, 05 Apr 2026 14:58:38 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Петнаесет годишник во Кочани силувал малолетник",
-          "link": "https://netpress.com.mk/petnaeset-godishnik-vo-kochani-siluval-maloletnik/",
-          "published": "Sun, 05 Apr 2026 14:31:58 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Душица Јанковиќ е победничка на 14. Женска трка во Скопје",
-          "link": "https://netpress.com.mk/dushicza-jankovik-e-pobednichka-na-14-zhenska-trka-vo-skopje/",
-          "published": "Sun, 05 Apr 2026 14:22:35 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Закренување на продажбата на возилата на „Tesla“ на почетокот на 2026-та",
-          "link": "https://netpress.com.mk/zakrenuvane-na-prodazhbata-na-vozilata-na-tesla-na-pochetokot-na-2026-ta/",
-          "published": "Sun, 05 Apr 2026 14:16:26 +0000"
         }
       ]
     },
@@ -79,7 +79,7 @@
           "source": "BBC",
           "title": "US airman injured but safe after rescue from inside Iran, Trump says",
           "link": "https://www.bbc.com/news/articles/cr41evk126go?at_medium=RSS&at_campaign=rss",
-          "published": "Sun, 05 Apr 2026 08:36:06 GMT"
+          "published": "Sun, 05 Apr 2026 16:46:33 GMT"
         },
         {
           "source": "BBC",
@@ -89,15 +89,15 @@
         },
         {
           "source": "BBC",
-          "title": "Pope Leo calls for global leaders to choose peace in his first Easter Mass",
-          "link": "https://www.bbc.com/news/articles/crk1zgjj7y1o?at_medium=RSS&at_campaign=rss",
-          "published": "Sun, 05 Apr 2026 12:35:36 GMT"
+          "title": "Hungary alleges plot to blow up gas pipeline ahead of election",
+          "link": "https://www.bbc.com/news/articles/cj60x206dx1o?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 05 Apr 2026 16:38:06 GMT"
         },
         {
           "source": "BBC",
-          "title": "AI videos fuel rhetoric as Orbán bids for four more years in Hungary",
-          "link": "https://www.bbc.com/news/articles/c5yj97yd6v5o?at_medium=RSS&at_campaign=rss",
-          "published": "Sat, 04 Apr 2026 23:15:48 GMT"
+          "title": "Pope Leo calls for global leaders to choose peace in his first Easter Mass",
+          "link": "https://www.bbc.com/news/articles/crk1zgjj7y1o?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 05 Apr 2026 12:35:36 GMT"
         },
         {
           "source": "BBC",
@@ -107,33 +107,33 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "At least 14 people killed in Israeli strikes across Lebanon",
+          "link": "https://www.aljazeera.com/news/2026/4/5/at-least-14-people-killed-in-israeli-strikes-across-lebanon?traffic_source=rss",
+          "published": "Sun, 05 Apr 2026 16:15:14 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Pope warns world is becoming ‘indifferent’ to violence",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/5/pope-warns-world-is-becoming-indifferent-to-violence?traffic_source=rss",
+          "published": "Sun, 05 Apr 2026 16:11:13 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Iranian missile strikes industrial area in southern Israel",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/5/iranian-missile-strikes-industrial-area-in-southern-israel?traffic_source=rss",
+          "published": "Sun, 05 Apr 2026 16:06:15 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Earth in rear-view of Artemis II astronauts",
+          "link": "https://www.aljazeera.com/gallery/2026/4/5/earth-in-rear-view-of-artemis-ii-astronauts?traffic_source=rss",
+          "published": "Sun, 05 Apr 2026 15:46:10 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Israel’s Ben-Gvir details plans for Palestinian ‘death row’",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/4/5/israels-ben-gvir-details-plans-for-palestinian-death?traffic_source=rss",
           "published": "Sun, 05 Apr 2026 15:41:18 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Trump threatens ‘hell’ for Iran over Hormuz Strait as deadline approaches",
-          "link": "https://www.aljazeera.com/news/2026/4/5/trump-threatens-hell-for-iran-over-hormuz-strait-as-deadline-approaches?traffic_source=rss",
-          "published": "Sun, 05 Apr 2026 15:32:02 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Mearsheimer: No signs of quick end to US-Israel war on Iran",
-          "link": "https://www.aljazeera.com/video/the-bottom-line/2026/4/5/mearsheimer-no-signs-of-quick-end-to-us-israel-war-on-iran?traffic_source=rss",
-          "published": "Sun, 05 Apr 2026 15:21:39 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "DR Congo to receive ‘third-country’ deportees from the US under new deal",
-          "link": "https://www.aljazeera.com/news/2026/4/5/dr-congo-to-receive-third-country-deportees-from-the-us-under-new-deal?traffic_source=rss",
-          "published": "Sun, 05 Apr 2026 15:20:03 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Christian Lebanese families displaced as they celebrate Easter",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/5/christian-lebanese-families-displaced-as-they-celebrate-easter?traffic_source=rss",
-          "published": "Sun, 05 Apr 2026 15:17:55 +0000"
         }
       ]
     }
