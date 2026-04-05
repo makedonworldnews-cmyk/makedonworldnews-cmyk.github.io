@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-05T20:15:46Z",
+  "updatedAt": "2026-04-05T20:52:31Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Инзаги нема намера да биде селектор на Италија",
+          "link": "https://makfax.com.mk/sport/inzagi-nema-namera-da-bide-selektor-na-italija/",
+          "published": "Sun, 05 Apr 2026 20:15:58 +0000"
         },
         {
           "source": "Makfax",
@@ -33,12 +39,6 @@
           "title": "(Видео) Овиедо го фати последниот воз во борбата за опстанок, Севилја е блиску до опасната зона",
           "link": "https://makfax.com.mk/sport/video-oviedo-go-fati-posledniot-voz-vo-borbata-za-opstanok-sevilja-e-blisku-do-opasnata-zona/",
           "published": "Sun, 05 Apr 2026 19:17:56 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "(Видео) Тепачка на кошаркарски натпревар во Франција",
-          "link": "https://makfax.com.mk/sport/video-tepachka-na-kosharkarski-natprevar-vo-francija/",
-          "published": "Sun, 05 Apr 2026 19:08:59 +0000"
         },
         {
           "source": "NetPress",
@@ -107,33 +107,33 @@
         },
         {
           "source": "Al Jazeera",
-          "title": "Dozens missing after boat carrying migrants capsizes near Libya",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/5/dozens-missing-after-boat-carrying-migrants-capsizes-near-libya?traffic_source=rss",
-          "published": "Sun, 05 Apr 2026 19:38:53 +0000"
+          "title": "Has the humanitarian crisis in Gaza been ignored?",
+          "link": "https://www.aljazeera.com/video/inside-story/2026/4/5/has-the-humanitarian-crisis-in-gaza-been-ignored?traffic_source=rss",
+          "published": "Sun, 05 Apr 2026 20:16:16 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Trump threatens Iran in expletive-filled social media post",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/5/trump-threatens-iran-in-expletive-filled-social-media-post?traffic_source=rss",
-          "published": "Sun, 05 Apr 2026 19:07:00 +0000"
+          "title": "Hamas armed wing says disarmament demands not acceptable",
+          "link": "https://www.aljazeera.com/news/2026/4/5/hamas-armed-wing-says-disarmament-demands-not-acceptable?traffic_source=rss",
+          "published": "Sun, 05 Apr 2026 20:09:24 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Israel continues deadly attacks on Gaza while striking Iran, Lebanon",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/5/israel-continues-deadly-attacks-on-gaza-while-striking-iran-lebanon?traffic_source=rss",
-          "published": "Sun, 05 Apr 2026 18:36:32 +0000"
+          "title": "Israeli air strike hits crowd in Gaza City",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/5/israeli-air-strike-hits-crowd-in-gaza-city?traffic_source=rss",
+          "published": "Sun, 05 Apr 2026 20:09:18 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Frustration grows as Iran’s wartime internet shutdown breaks grim record",
-          "link": "https://www.aljazeera.com/news/2026/4/5/frustration-grows-as-irans-wartime-internet-shutdown-breaks-grim-record?traffic_source=rss",
-          "published": "Sun, 05 Apr 2026 18:29:52 +0000"
+          "title": "Hamas armed wing rejects disarmament while Israel continues attacks",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/5/hamas-armed-wing-rejects-disarmament-while-israel-continues-attacks?traffic_source=rss",
+          "published": "Sun, 05 Apr 2026 20:03:50 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Video captures Iranian missile striking residential building in Haifa",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/5/video-captures-iranian-missile-striking-residential-building-in-haifa?traffic_source=rss",
-          "published": "Sun, 05 Apr 2026 18:22:14 +0000"
+          "title": "Is war more profitable than peace? David Keen explains",
+          "link": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/4/5/is-war-more-profitable-than-peace-david-keen-explains?traffic_source=rss",
+          "published": "Sun, 05 Apr 2026 19:54:01 +0000"
         }
       ]
     }
