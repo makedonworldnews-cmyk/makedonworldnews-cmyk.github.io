@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-05T19:46:31Z",
+  "updatedAt": "2026-04-05T20:15:46Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Славниот Мирчеа Луческу е во вештачка кома",
+          "link": "https://makfax.com.mk/sport/slavniot-mirchea-luchesku-e-vo-veshtachka-koma/",
+          "published": "Sun, 05 Apr 2026 19:47:57 +0000"
         },
         {
           "source": "Makfax",
@@ -35,10 +41,16 @@
           "published": "Sun, 05 Apr 2026 19:08:59 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "(Видео) Лидс јунајтед по 39 години се полуфиналисти во ФА купот",
-          "link": "https://makfax.com.mk/sport/video-lids-junajted-po-39-godini-se-polufinalisti-vo-fa-kupot/",
-          "published": "Sun, 05 Apr 2026 18:57:59 +0000"
+          "source": "NetPress",
+          "title": "Зеленски и Шара разговараа за безбедносната соработка во Сирија",
+          "link": "https://netpress.com.mk/zelenski-i-shara-razgovaraa-za-bezbednosnata-sorabotka-vo-sirija/",
+          "published": "Sun, 05 Apr 2026 20:04:57 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "ФА Куп: Без чудесен пресврт во Лондон, Лидс последен полуфиналист и оди на Челзи",
+          "link": "https://netpress.com.mk/fa-kup-bez-chudesen-presvrt-vo-london-lids-posleden-polufinalist-i-odi-na-chelzi/",
+          "published": "Sun, 05 Apr 2026 19:52:00 +0000"
         },
         {
           "source": "NetPress",
@@ -57,18 +69,6 @@
           "title": "Бундеслига: Реми на Ајнтрахт и Келн",
           "link": "https://netpress.com.mk/bundesliga-remi-na-ajntraht-i-keln/",
           "published": "Sun, 05 Apr 2026 17:58:17 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "ВИДЕО| Експлозивот најден на Турски тек во Србија од американско потекло, мигрант требало да го активира",
-          "link": "https://netpress.com.mk/video-eksplozivot-najden-na-turski-tek-vo-srbija-od-amerikansko-poteklo-migrant-trebalo-da-go-aktivira/",
-          "published": "Sun, 05 Apr 2026 17:30:05 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Како војната на Трамп со Иран може да го направи светот позависен од јаглен?",
-          "link": "https://netpress.com.mk/kako-vojnata-na-tramp-so-iran-mozhe-da-go-napravi-svetot-pozavisen-od-jaglen/",
-          "published": "Sun, 05 Apr 2026 17:17:42 +0000"
         }
       ]
     },
@@ -77,15 +77,15 @@
       "items": [
         {
           "source": "BBC",
-          "title": "Seriously wounded US airman rescued from Iran, Trump says",
-          "link": "https://www.bbc.com/news/articles/cr41evk126go?at_medium=RSS&at_campaign=rss",
-          "published": "Sun, 05 Apr 2026 16:46:33 GMT"
+          "title": "How rescue of US airman in remote part of Iran unfolded",
+          "link": "https://www.bbc.com/news/articles/cx2vpz1kwreo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 05 Apr 2026 20:00:20 GMT"
         },
         {
           "source": "BBC",
-          "title": "How downed F-15 US airman was rescued inside Iran",
-          "link": "https://www.bbc.com/news/articles/cm2k1dgz142o?at_medium=RSS&at_campaign=rss",
-          "published": "Sun, 05 Apr 2026 17:15:34 GMT"
+          "title": "Analysis: Trump declares victory in Iran war after rescue, but threats to US operation still loom",
+          "link": "https://www.bbc.com/news/articles/cy01vg7x5ppo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 05 Apr 2026 20:02:01 GMT"
         },
         {
           "source": "BBC",
@@ -104,6 +104,12 @@
           "title": "Cambodia unveils statue to honour famous landmine-sniffing rat",
           "link": "https://www.bbc.com/news/articles/c0rx7xzd10xo?at_medium=RSS&at_campaign=rss",
           "published": "Sun, 05 Apr 2026 01:09:11 GMT"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Dozens missing after boat carrying migrants capsizes near Libya",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/5/dozens-missing-after-boat-carrying-migrants-capsizes-near-libya?traffic_source=rss",
+          "published": "Sun, 05 Apr 2026 19:38:53 +0000"
         },
         {
           "source": "Al Jazeera",
@@ -128,12 +134,6 @@
           "title": "Video captures Iranian missile striking residential building in Haifa",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/4/5/video-captures-iranian-missile-striking-residential-building-in-haifa?traffic_source=rss",
           "published": "Sun, 05 Apr 2026 18:22:14 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Rodent infestations and attacks spread in Gaza tent camps",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/5/rodent-infestations-and-attacks-spread-in-gaza-tent-camps?traffic_source=rss",
-          "published": "Sun, 05 Apr 2026 18:20:37 +0000"
         }
       ]
     }
