@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-05T14:02:42Z",
+  "updatedAt": "2026-04-05T14:51:28Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Спречете го „лудакот“ пред регионот да стане „огнена топка“, вели екс директорот на Меѓународната агенција за атомска енергија",
+          "link": "https://makfax.com.mk/svet/sprechete-go-ludakot-pred-regionot-da-stane-ognena-topka-veli-eks-direktorot-na-megunarodnata-agencija-za-atomska-energija/",
+          "published": "Sun, 05 Apr 2026 14:42:25 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Трамп: Можеме да постигнеме договор со Иран утре или можеме сè да дигнеме во воздух и да ја земеме нафтата",
+          "link": "https://makfax.com.mk/svet/tramp-mozheme-da-postigneme-dogovor-so-iran-utre-ili-mozheme-se-da-digneme-vo-vozduh-i-da-ja-zememe-naftata/",
+          "published": "Sun, 05 Apr 2026 14:33:00 +0000"
         },
         {
           "source": "Makfax",
@@ -29,16 +41,22 @@
           "published": "Sun, 05 Apr 2026 12:17:31 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Се разгледуваат нови антикризни мерки, во игра е замрзнувањето на маржите",
-          "link": "https://makfax.com.mk/makedonija/se-razgleduvaat-novi-antikrizni-merki-vo-igra-e-zamrznuvanjeto-na-marzhite/",
-          "published": "Sun, 05 Apr 2026 12:03:50 +0000"
+          "source": "NetPress",
+          "title": "Петнаесет годишник во Кочани силувал малолетник",
+          "link": "https://netpress.com.mk/petnaeset-godishnik-vo-kochani-siluval-maloletnik/",
+          "published": "Sun, 05 Apr 2026 14:31:58 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Буџетот е стабилен, засега не се планира зголемување на дефицитот, вели Мицкоски",
-          "link": "https://makfax.com.mk/ekonomija/budhetot-e-stabilen-zasega-ne-se-planira-zgolemuvanje-na-deficitot-veli-mickoski/",
-          "published": "Sun, 05 Apr 2026 11:45:34 +0000"
+          "source": "NetPress",
+          "title": "Душица Јанковиќ е победничка на 14. Женска трка во Скопје",
+          "link": "https://netpress.com.mk/dushicza-jankovik-e-pobednichka-na-14-zhenska-trka-vo-skopje/",
+          "published": "Sun, 05 Apr 2026 14:22:35 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Закренување на продажбата на возилата на „Tesla“ на почетокот на 2026-та",
+          "link": "https://netpress.com.mk/zakrenuvane-na-prodazhbata-na-vozilata-na-tesla-na-pochetokot-na-2026-ta/",
+          "published": "Sun, 05 Apr 2026 14:16:26 +0000"
         },
         {
           "source": "NetPress",
@@ -51,24 +69,6 @@
           "title": "Со „Панкот не е мртов“ утре почнуваат бесплатни проекции на четири македонски филмa во „Синеплекс“",
           "link": "https://netpress.com.mk/so-pankot-ne-e-mrtov-utre-pochnuvaat-besplatni-proekczii-na-chetiri-makedonski-filma-vo-sinepleks/",
           "published": "Sun, 05 Apr 2026 12:59:46 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Кина погуби француски државјанин за трговија со дрога",
-          "link": "https://netpress.com.mk/kina-pogubi-franczuski-drzhavjanin-za-trgovija-so-droga/",
-          "published": "Sun, 05 Apr 2026 12:56:53 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Lord Of The Dance на 7 април во Скопје",
-          "link": "https://netpress.com.mk/lord-of-the-dance-na-7-april-vo-skopje/",
-          "published": "Sun, 05 Apr 2026 12:39:29 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Мора во високото образование да почнеме да генерираме квалитет, а не квантитет",
-          "link": "https://netpress.com.mk/mora-vo-visokoto-obrazovanie-da-pochneme-da-generirame-kvalitet-a-ne-kvantitet/",
-          "published": "Sun, 05 Apr 2026 12:29:55 +0000"
         }
       ]
     },
@@ -83,15 +83,9 @@
         },
         {
           "source": "BBC",
-          "title": "Man charged over fatal shooting of baby in pram in New York",
-          "link": "https://www.bbc.com/news/articles/cx267dnex7ko?at_medium=RSS&at_campaign=rss",
-          "published": "Sat, 04 Apr 2026 23:28:09 GMT"
-        },
-        {
-          "source": "BBC",
-          "title": "US says it has arrested relatives of late Iranian ​general Qasem ​Soleimani",
-          "link": "https://www.bbc.com/news/articles/cgqkn4j48qdo?at_medium=RSS&at_campaign=rss",
-          "published": "Sat, 04 Apr 2026 21:29:46 GMT"
+          "title": "Pope Leo calls for global leaders to choose peace in his first Easter Mass",
+          "link": "https://www.bbc.com/news/articles/crk1zgjj7y1o?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 05 Apr 2026 12:35:36 GMT"
         },
         {
           "source": "BBC",
@@ -104,6 +98,12 @@
           "title": "AI videos fuel rhetoric as Orbán bids for four more years in Hungary",
           "link": "https://www.bbc.com/news/articles/c5yj97yd6v5o?at_medium=RSS&at_campaign=rss",
           "published": "Sat, 04 Apr 2026 23:15:48 GMT"
+        },
+        {
+          "source": "BBC",
+          "title": "Cambodia unveils statue to honour famous landmine-sniffing rat",
+          "link": "https://www.bbc.com/news/articles/c0rx7xzd10xo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 05 Apr 2026 01:09:11 GMT"
         },
         {
           "source": "Al Jazeera",
