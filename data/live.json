@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-05T20:23:55Z",
+  "generated_at": "2026-04-05T20:56:36Z",
   "items": [
     {
       "region": "Македонија",
@@ -109,6 +109,13 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "Has the humanitarian crisis in Gaza been ignored?",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/4/5/has-the-humanitarian-crisis-in-gaza-been-ignored?traffic_source=rss",
+      "published": "Sun, 05 Apr 2026 20:16:16 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "Hamas armed wing says disarmament demands not acceptable",
       "link": "https://www.aljazeera.com/news/2026/4/5/hamas-armed-wing-says-disarmament-demands-not-acceptable?traffic_source=rss",
       "published": "Sun, 05 Apr 2026 20:09:24 +0000"
@@ -133,13 +140,6 @@
       "title": "Is war more profitable than peace? David Keen explains",
       "link": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/4/5/is-war-more-profitable-than-peace-david-keen-explains?traffic_source=rss",
       "published": "Sun, 05 Apr 2026 19:54:01 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Dozens missing after boat carrying migrants capsizes near Libya",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/5/dozens-missing-after-boat-carrying-migrants-capsizes-near-libya?traffic_source=rss",
-      "published": "Sun, 05 Apr 2026 19:38:53 +0000"
     }
   ]
 }
