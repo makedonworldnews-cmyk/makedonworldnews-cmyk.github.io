@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-05T12:02:52Z",
+  "updatedAt": "2026-04-05T13:19:33Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,24 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Трамп со нова закана за Иран: „Отворете го проклетиот теснец, вие луди гадови, или ќе живеете во пекол – само гледајте!“",
+          "link": "https://makfax.com.mk/svet/tramp-so-nova-zakana-za-iran-otvorete-go-prokletiot-tesnec-vie-ludi-gadovi-ili-ke-zhiveete-vo-pekol-samo-gledajte/",
+          "published": "Sun, 05 Apr 2026 12:47:28 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Мицкоски: Нема да толерираме институти што го „осакатуваат“ образовниот систем",
+          "link": "https://makfax.com.mk/makedonija/mickoski-nema-da-tolerirame-instituti-shto-go-osakatuvaat-obrazovniot-sistem/",
+          "published": "Sun, 05 Apr 2026 12:17:31 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Се разгледуваат нови антикризни мерки, во игра е замрзнувањето на маржите",
+          "link": "https://makfax.com.mk/makedonija/se-razgleduvaat-novi-antikrizni-merki-vo-igra-e-zamrznuvanjeto-na-marzhite/",
+          "published": "Sun, 05 Apr 2026 12:03:50 +0000"
         },
         {
           "source": "Makfax",
@@ -23,52 +41,34 @@
           "published": "Sun, 05 Apr 2026 11:17:08 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Мицкоски: Состојбата со горивата е стабилна, нема потреба од ограничувања и покрај рекордната потрошувачка",
-          "link": "https://makfax.com.mk/makedonija/mickoski-sostojbata-so-gorivata-e-stabilna-nema-potreba-od-ogranichuvanja-i-pokraj-rekordnata-potroshuvachka/",
-          "published": "Sun, 05 Apr 2026 11:08:05 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "(Видео) Голем пожар во нафтен комплекс во Бахреин откако Иран го погодил со дрон",
-          "link": "https://makfax.com.mk/svet/video-golem-pozhar-vo-naften-kompleks-vo-bahrein-otkako-iran-go-pogodil-so-dron/",
-          "published": "Sun, 05 Apr 2026 10:56:09 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "(Видео) Владата ги намали акцизите на горивата, ДДВ од 10 отсто ќе продолжи до крајот на кризната состојба",
-          "link": "https://makfax.com.mk/makedonija/video-vladata-gi-namali-akcizite-na-gorivata-ddv-od-10-otsto-ke-prodolzhi-do-krajot-na-kriznata-sostojba/",
-          "published": "Sun, 05 Apr 2026 10:42:36 +0000"
+          "source": "NetPress",
+          "title": "Со „Панкот не е мртов“ утре почнуваат бесплатни проекции на четири македонски филмa во „Синеплекс“",
+          "link": "https://netpress.com.mk/so-pankot-ne-e-mrtov-utre-pochnuvaat-besplatni-proekczii-na-chetiri-makedonski-filma-vo-sinepleks/",
+          "published": "Sun, 05 Apr 2026 12:59:46 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Имаме стратегија и доволно гориво, нема да има мерки за ограничување",
-          "link": "https://netpress.com.mk/imame-strategija-i-dovolno-gorivo-nema-da-ima-merki-za-ogranichuvane/",
-          "published": "Sun, 05 Apr 2026 11:11:51 +0000"
+          "title": "Кина погуби француски државјанин за трговија со дрога",
+          "link": "https://netpress.com.mk/kina-pogubi-franczuski-drzhavjanin-za-trgovija-so-droga/",
+          "published": "Sun, 05 Apr 2026 12:56:53 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Се намалуваат акцизите за горивата, ДДВ-то од 10 отсто ќе продолжи до крајот на кризната состојба",
-          "link": "https://netpress.com.mk/se-namaluvaat-akczizite-za-gorivata-ddv-to-od-10-otsto-ke-prodolzhi-do-krajot-na-kriznata-sostojba/",
-          "published": "Sun, 05 Apr 2026 10:52:05 +0000"
+          "title": "Lord Of The Dance на 7 април во Скопје",
+          "link": "https://netpress.com.mk/lord-of-the-dance-na-7-april-vo-skopje/",
+          "published": "Sun, 05 Apr 2026 12:39:29 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Вредноста на доларот во однос на кошничка валути речиси непроменета",
-          "link": "https://netpress.com.mk/vrednosta-na-dolarot-vo-odnos-na-koshnichka-valuti-rechisi-nepromeneta/",
-          "published": "Sun, 05 Apr 2026 10:44:47 +0000"
+          "title": "Мора во високото образование да почнеме да генерираме квалитет, а не квантитет",
+          "link": "https://netpress.com.mk/mora-vo-visokoto-obrazovanie-da-pochneme-da-generirame-kvalitet-a-ne-kvantitet/",
+          "published": "Sun, 05 Apr 2026 12:29:55 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Градскиот воз од Зелениково до Новата железничка станица ќе биде пуштен во септември",
-          "link": "https://netpress.com.mk/gradskiot-voz-od-zelenikovo-do-novata-zheleznichka-stanicza-ke-bide-pushten-vo-septemvri/",
-          "published": "Sun, 05 Apr 2026 10:28:13 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "ФОТО| Иран објави дека соборил неколку американски летала во „неуспешната“ мисија за спасување на соборениот пилот",
-          "link": "https://netpress.com.mk/foto-iran-objavi-deka-soboril-nekolku-amerikanski-letala-vo-neuspeshnata-misija-za-spasuvane-na-soboreniot-pilot/",
-          "published": "Sun, 05 Apr 2026 10:19:22 +0000"
+          "title": "САД тврдат дека самите ги уништиле американските авиони во Иран",
+          "link": "https://netpress.com.mk/sad-tvrdat-deka-samite-gi-unishtile-amerikanskite-avioni-vo-iran/",
+          "published": "Sun, 05 Apr 2026 12:26:38 +0000"
         }
       ]
     },
@@ -107,6 +107,24 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Iran’s ex-FM Zarif proposes peace roadmap; Gulf points at erosion of trust",
+          "link": "https://www.aljazeera.com/news/2026/4/5/irans-former-fm-zarif-proposes-peace-roadmap-gulf-states-voice-exclusion?traffic_source=rss",
+          "published": "Sun, 05 Apr 2026 12:44:11 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Italian PM says the Gulf is ‘fundamental’ for Europe’s security",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/5/italian-pm-says-the-gulf-is-fundamental-for-europes-security?traffic_source=rss",
+          "published": "Sun, 05 Apr 2026 12:44:06 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Oman, Iran discuss smooth transit in Strait of Hormuz, Muscat says",
+          "link": "https://www.aljazeera.com/news/2026/4/5/oman-iran-discuss-smooth-transit-in-the-strait-of-hormuz-muscat-says?traffic_source=rss",
+          "published": "Sun, 05 Apr 2026 12:18:43 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Jeremy Hansen is the first Canadian to head to the moon",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/4/5/jeremy-hansen-is-the-first-canadian-to-head-to-the-moon?traffic_source=rss",
           "published": "Sun, 05 Apr 2026 11:34:42 +0000"
@@ -116,24 +134,6 @@
           "title": "“We blame Trump”: Drivers line up for free gas as prices surge in the US",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/4/5/we-blame-trump-drivers-line-up-for-free-gas-as-prices-surge-in-the-us?traffic_source=rss",
           "published": "Sun, 05 Apr 2026 11:08:14 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Lamine Yamal’s anger after Barcelona’s La Liga win downplayed by Flick",
-          "link": "https://www.aljazeera.com/sports/2026/4/5/lamine-yamals-anger-after-barcelonas-la-liga-win-downplayed-by-flick?traffic_source=rss",
-          "published": "Sun, 05 Apr 2026 10:31:18 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "US pilot from downed F-15E plane rescued in Iran: What we know",
-          "link": "https://www.aljazeera.com/news/2026/4/5/us-pilot-from-downed-f-15-plane-rescued-in-iran-what-we-know?traffic_source=rss",
-          "published": "Sun, 05 Apr 2026 10:10:50 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Footage shows Israeli military dog attacking Palestinian man inside mosque",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/5/footage-shows-idf-military-dog-attacking-palestinian-man-inside-mosque?traffic_source=rss",
-          "published": "Sun, 05 Apr 2026 10:04:23 +0000"
         }
       ]
     }
