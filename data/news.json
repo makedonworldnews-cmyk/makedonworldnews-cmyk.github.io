@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-05T11:04:40Z",
+  "updatedAt": "2026-04-05T11:41:50Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) Филипче: Мерките на Мицкоски се задоцнети и недоволни, сè е поскапено",
+          "link": "https://makfax.com.mk/makedonija/video-filipche-merkite-na-mickoski-se-zadocneti-i-nedovolni-se-e-poskapeno/",
+          "published": "Sun, 05 Apr 2026 11:17:08 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Мицкоски: Состојбата со горивата е стабилна, нема потреба од ограничувања и покрај рекордната потрошувачка",
+          "link": "https://makfax.com.mk/makedonija/mickoski-sostojbata-so-gorivata-e-stabilna-nema-potreba-od-ogranichuvanja-i-pokraj-rekordnata-potroshuvachka/",
+          "published": "Sun, 05 Apr 2026 11:08:05 +0000"
         },
         {
           "source": "Makfax",
@@ -29,16 +41,10 @@
           "published": "Sun, 05 Apr 2026 09:59:13 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Иран: Не, Американците не го спасија пилотот на соборениот Ф-15",
-          "link": "https://makfax.com.mk/svet/iran-ne-amerikancite-ne-go-spasija-pilotot-na-soboreniot-f-15/",
-          "published": "Sun, 05 Apr 2026 09:20:03 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Експлозив со разорна моќ пронајден во близина на гасоводот што ги поврзува Србија и Унгарија",
-          "link": "https://makfax.com.mk/svet/region/eksploziv-so-razorna-mok-pronajden-vo-blizina-na-gasnata-infrastruktura-shto-gi-povrzuva-srbija-i-ungarija/",
-          "published": "Sun, 05 Apr 2026 08:40:04 +0000"
+          "source": "NetPress",
+          "title": "Имаме стратегија и доволно гориво, нема да има мерки за ограничување",
+          "link": "https://netpress.com.mk/imame-strategija-i-dovolno-gorivo-nema-da-ima-merki-za-ogranichuvane/",
+          "published": "Sun, 05 Apr 2026 11:11:51 +0000"
         },
         {
           "source": "NetPress",
@@ -63,12 +69,6 @@
           "title": "ФОТО| Иран објави дека соборил неколку американски летала во „неуспешната“ мисија за спасување на соборениот пилот",
           "link": "https://netpress.com.mk/foto-iran-objavi-deka-soboril-nekolku-amerikanski-letala-vo-neuspeshnata-misija-za-spasuvane-na-soboreniot-pilot/",
           "published": "Sun, 05 Apr 2026 10:19:22 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Два ранци со експлозив пронајдени во близина на гасоводот што ги поврзува Србија и Унгарија",
-          "link": "https://netpress.com.mk/dva-ranczi-so-eksploziv-pronajdeni-vo-blizina-na-gasovodot-shto-gi-povrzuva-srbija-i-ungarija/",
-          "published": "Sun, 05 Apr 2026 10:10:07 +0000"
         }
       ]
     },
