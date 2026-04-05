@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-05T11:41:50Z",
+  "updatedAt": "2026-04-05T12:02:52Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Буџетот е стабилен, засега не се планира зголемување на дефицитот, вели Мицкоски",
+          "link": "https://makfax.com.mk/ekonomija/budhetot-e-stabilen-zasega-ne-se-planira-zgolemuvanje-na-deficitot-veli-mickoski/",
+          "published": "Sun, 05 Apr 2026 11:45:34 +0000"
         },
         {
           "source": "Makfax",
@@ -33,12 +39,6 @@
           "title": "(Видео) Владата ги намали акцизите на горивата, ДДВ од 10 отсто ќе продолжи до крајот на кризната состојба",
           "link": "https://makfax.com.mk/makedonija/video-vladata-gi-namali-akcizite-na-gorivata-ddv-od-10-otsto-ke-prodolzhi-do-krajot-na-kriznata-sostojba/",
           "published": "Sun, 05 Apr 2026 10:42:36 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Скопје добива градски воз: првата линија од Зелениково до Транспортен центар функционална од септември",
-          "link": "https://makfax.com.mk/makedonija/skopje-dobiva-gradski-voz-prvata-linija-od-zelenikovo-do-transporten-centar-funkcionalna-od-septemvri/",
-          "published": "Sun, 05 Apr 2026 09:59:13 +0000"
         },
         {
           "source": "NetPress",
@@ -107,6 +107,18 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Jeremy Hansen is the first Canadian to head to the moon",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/5/jeremy-hansen-is-the-first-canadian-to-head-to-the-moon?traffic_source=rss",
+          "published": "Sun, 05 Apr 2026 11:34:42 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "“We blame Trump”: Drivers line up for free gas as prices surge in the US",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/5/we-blame-trump-drivers-line-up-for-free-gas-as-prices-surge-in-the-us?traffic_source=rss",
+          "published": "Sun, 05 Apr 2026 11:08:14 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Lamine Yamal’s anger after Barcelona’s La Liga win downplayed by Flick",
           "link": "https://www.aljazeera.com/sports/2026/4/5/lamine-yamals-anger-after-barcelonas-la-liga-win-downplayed-by-flick?traffic_source=rss",
           "published": "Sun, 05 Apr 2026 10:31:18 +0000"
@@ -122,18 +134,6 @@
           "title": "Footage shows Israeli military dog attacking Palestinian man inside mosque",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/4/5/footage-shows-idf-military-dog-attacking-palestinian-man-inside-mosque?traffic_source=rss",
           "published": "Sun, 05 Apr 2026 10:04:23 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Ukraine hits port in Russia’s Primorsk, oil refinery in Nizhny Novgorod",
-          "link": "https://www.aljazeera.com/news/2026/4/5/drone-attacks-hit-russian-oil-infrastructure-leak-and-fires-reported?traffic_source=rss",
-          "published": "Sun, 05 Apr 2026 09:59:40 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Kuwait’s power, water plants damaged as Iran keeps attacking Gulf states",
-          "link": "https://www.aljazeera.com/news/2026/4/5/kuwait-says-power-water-facilities-hit-by-iran-as-gulf-attacks-continue?traffic_source=rss",
-          "published": "Sun, 05 Apr 2026 08:52:22 +0000"
         }
       ]
     }
