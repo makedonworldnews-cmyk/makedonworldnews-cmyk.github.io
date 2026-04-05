@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-05T21:27:51Z",
+  "generated_at": "2026-04-05T21:55:06Z",
   "items": [
     {
       "region": "Македонија",
@@ -74,6 +74,13 @@
     {
       "region": "Свет",
       "source": "BBC",
+      "title": "Trump issues expletive-laden threat  to Iran over Hormuz Strait blockage",
+      "link": "https://www.bbc.com/news/articles/cvg0q6wdzp1o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 05 Apr 2026 21:10:06 GMT"
+    },
+    {
+      "region": "Свет",
+      "source": "BBC",
       "title": "How rescue of US airman in remote part of Iran unfolded",
       "link": "https://www.bbc.com/news/articles/cx2vpz1kwreo?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 05 Apr 2026 21:19:02 GMT"
@@ -101,10 +108,10 @@
     },
     {
       "region": "Свет",
-      "source": "BBC",
-      "title": "Cambodia unveils statue to honour famous landmine-sniffing rat",
-      "link": "https://www.bbc.com/news/articles/c0rx7xzd10xo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 05 Apr 2026 01:09:11 GMT"
+      "source": "Al Jazeera",
+      "title": "UK police arrest seven protesters near RAF base used by US",
+      "link": "https://www.aljazeera.com/news/2026/4/5/uk-police-arrest-seven-protesters-near-raf-base-used-by-us?traffic_source=rss",
+      "published": "Sun, 05 Apr 2026 21:05:44 +0000"
     },
     {
       "region": "Свет",
@@ -133,13 +140,6 @@
       "title": "Hamas armed wing says disarmament demands not acceptable",
       "link": "https://www.aljazeera.com/news/2026/4/5/hamas-armed-wing-says-disarmament-demands-not-acceptable?traffic_source=rss",
       "published": "Sun, 05 Apr 2026 20:09:24 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Israeli air strike hits crowd in Gaza City",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/5/israeli-air-strike-hits-crowd-in-gaza-city?traffic_source=rss",
-      "published": "Sun, 05 Apr 2026 20:09:18 +0000"
     }
   ]
 }
