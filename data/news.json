@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-05T16:51:26Z",
+  "updatedAt": "2026-04-05T17:32:07Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Трамп: „Вторник, 20:00 по источно време!“",
+          "link": "https://makfax.com.mk/svet/tramp-vtornik-2000-po-istochno-vreme/",
+          "published": "Sun, 05 Apr 2026 17:31:21 +0000"
         },
         {
           "source": "Makfax",
@@ -35,10 +41,22 @@
           "published": "Sun, 05 Apr 2026 14:42:25 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Трамп: Можеме да постигнеме договор со Иран утре или можеме сè да дигнеме во воздух и да ја земеме нафтата",
-          "link": "https://makfax.com.mk/svet/tramp-mozheme-da-postigneme-dogovor-so-iran-utre-ili-mozheme-se-da-digneme-vo-vozduh-i-da-ja-zememe-naftata/",
-          "published": "Sun, 05 Apr 2026 14:33:00 +0000"
+          "source": "NetPress",
+          "title": "ВИДЕО| Експлозивот најден на Турски тек во Србија од американски потекло, мигрант требало да го активира",
+          "link": "https://netpress.com.mk/video-eksplozivot-najden-na-turski-tek-vo-srbija-od-amerikanski-poteklo-migrant-trebalo-da-go-aktivira/",
+          "published": "Sun, 05 Apr 2026 17:30:05 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Како војната на Трамп со Иран може да го направи светот позависен од јаглен?",
+          "link": "https://netpress.com.mk/kako-vojnata-na-tramp-so-iran-mozhe-da-go-napravi-svetot-pozavisen-od-jaglen/",
+          "published": "Sun, 05 Apr 2026 17:17:42 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Сијарто гледа вмешаност на Украина во поставувањето експлозиви на Турски тек, војската ќе го штити гасоводот",
+          "link": "https://netpress.com.mk/sijarto-gleda-vmeshanost-na-ukraina-vo-postavuvaneto-eksplozivi-na-turski-tek-vojskata-ke-go-shtiti-gasovodot/",
+          "published": "Sun, 05 Apr 2026 17:07:21 +0000"
         },
         {
           "source": "NetPress",
@@ -51,24 +69,6 @@
           "title": "Каква врска има аферата „Маѓар Телеком“ со новиот имот на ДУИ во Тетово?",
           "link": "https://netpress.com.mk/kakva-vrska-ima-aferata-magar-telekom-so-noviot-imot-na-dui-vo-tetovo/",
           "published": "Sun, 05 Apr 2026 16:40:20 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Трамп пак му се закани на Иран со гаѓање на електрани и мостови ако не го отвори „проклетиот“ теснец",
-          "link": "https://netpress.com.mk/tramp-pak-mu-se-zakani-na-iran-so-gagane-na-elektrani-i-mostovi-ako-ne-go-otvori-prokletiot-tesnecz/",
-          "published": "Sun, 05 Apr 2026 16:26:53 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Помошникот на Путин: Време е Калас да „испие нешто“",
-          "link": "https://netpress.com.mk/pomoshnikot-na-putin-vreme-e-kalas-da-ispie-neshto/",
-          "published": "Sun, 05 Apr 2026 15:05:38 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Се поставува последниот слој асфалт од Стара Рампа до Црвениот крст",
-          "link": "https://netpress.com.mk/se-postavuva-posledniot-sloj-asfalt-od-stara-rampa-do-czrveniot-krst/",
-          "published": "Sun, 05 Apr 2026 14:58:38 +0000"
         }
       ]
     },
@@ -77,7 +77,7 @@
       "items": [
         {
           "source": "BBC",
-          "title": "US airman injured but safe after rescue from inside Iran, Trump says",
+          "title": "Seriously wounded US airman rescued from Iran, Trump says",
           "link": "https://www.bbc.com/news/articles/cr41evk126go?at_medium=RSS&at_campaign=rss",
           "published": "Sun, 05 Apr 2026 16:46:33 GMT"
         },
@@ -85,7 +85,7 @@
           "source": "BBC",
           "title": "How downed F-15 US airman was rescued inside Iran",
           "link": "https://www.bbc.com/news/articles/cm2k1dgz142o?at_medium=RSS&at_campaign=rss",
-          "published": "Sun, 05 Apr 2026 15:45:20 GMT"
+          "published": "Sun, 05 Apr 2026 17:15:34 GMT"
         },
         {
           "source": "BBC",
