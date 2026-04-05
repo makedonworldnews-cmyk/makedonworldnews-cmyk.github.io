@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-05T13:19:33Z",
+  "updatedAt": "2026-04-05T14:02:42Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Енергетски шок во Италија: четири аеродроми остануваат без гориво",
+          "link": "https://makfax.com.mk/svet/energetski-shok-vo-italija-chetiri-aerodromi-ostanuvaat-bez-gorivo/",
+          "published": "Sun, 05 Apr 2026 13:40:00 +0000"
         },
         {
           "source": "Makfax",
@@ -35,10 +41,10 @@
           "published": "Sun, 05 Apr 2026 11:45:34 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "(Видео) Филипче: Мерките на Мицкоски се задоцнети и недоволни, сè е поскапено",
-          "link": "https://makfax.com.mk/makedonija/video-filipche-merkite-na-mickoski-se-zadocneti-i-nedovolni-se-e-poskapeno/",
-          "published": "Sun, 05 Apr 2026 11:17:08 +0000"
+          "source": "NetPress",
+          "title": "Потрага по лицата вклучени во „ноќното пукање“ близу Белата куќа",
+          "link": "https://netpress.com.mk/potraga-po-liczata-vklucheni-vo-noknoto-pukane-blizu-belata-kuka/",
+          "published": "Sun, 05 Apr 2026 13:22:22 +0000"
         },
         {
           "source": "NetPress",
@@ -63,12 +69,6 @@
           "title": "Мора во високото образование да почнеме да генерираме квалитет, а не квантитет",
           "link": "https://netpress.com.mk/mora-vo-visokoto-obrazovanie-da-pochneme-da-generirame-kvalitet-a-ne-kvantitet/",
           "published": "Sun, 05 Apr 2026 12:29:55 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "САД тврдат дека самите ги уништиле американските авиони во Иран",
-          "link": "https://netpress.com.mk/sad-tvrdat-deka-samite-gi-unishtile-amerikanskite-avioni-vo-iran/",
-          "published": "Sun, 05 Apr 2026 12:26:38 +0000"
         }
       ]
     },
@@ -107,6 +107,12 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Trump offers no concrete plan as Strait of Hormuz closure shocks Europe",
+          "link": "https://www.aljazeera.com/video/quotable/2026/4/5/trump-offers-no-concrete-plan-as-strait-of-hormuz-closure-shocks-europe?traffic_source=rss",
+          "published": "Sun, 05 Apr 2026 13:23:55 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Iran’s ex-FM Zarif proposes peace roadmap; Gulf points at erosion of trust",
           "link": "https://www.aljazeera.com/news/2026/4/5/irans-former-fm-zarif-proposes-peace-roadmap-gulf-states-voice-exclusion?traffic_source=rss",
           "published": "Sun, 05 Apr 2026 12:44:11 +0000"
@@ -128,12 +134,6 @@
           "title": "Jeremy Hansen is the first Canadian to head to the moon",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/4/5/jeremy-hansen-is-the-first-canadian-to-head-to-the-moon?traffic_source=rss",
           "published": "Sun, 05 Apr 2026 11:34:42 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "“We blame Trump”: Drivers line up for free gas as prices surge in the US",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/5/we-blame-trump-drivers-line-up-for-free-gas-as-prices-surge-in-the-us?traffic_source=rss",
-          "published": "Sun, 05 Apr 2026 11:08:14 +0000"
         }
       ]
     }
