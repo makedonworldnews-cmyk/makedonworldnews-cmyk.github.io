@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-04-05T14:02:42Z",
+  "generated_at": "2026-04-05T14:29:00Z",
   "errors": [
     {
       "source": "МИА",
       "url": "https://mia.mk/rss",
-      "error": "404 Client Error: Not Found for url: https://mia.mk/rss"
+      "error": "HTTPSConnectionPool(host='mia.mk', port=443): Read timed out. (read timeout=12)"
     }
   ]
 }
