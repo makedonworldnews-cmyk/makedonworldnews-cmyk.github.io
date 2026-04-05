@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-05T08:26:24Z",
+  "updatedAt": "2026-04-05T09:08:54Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Експлозив со разорна моќ пронајден во близина на гасоводот што ги поврзува Србија и Унгарија",
+          "link": "https://makfax.com.mk/svet/region/eksploziv-so-razorna-mok-pronajden-vo-blizina-na-gasnata-infrastruktura-shto-gi-povrzuva-srbija-i-ungarija/",
+          "published": "Sun, 05 Apr 2026 08:40:04 +0000"
         },
         {
           "source": "Makfax",
@@ -35,46 +41,46 @@
           "published": "Sun, 05 Apr 2026 07:44:44 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Детали за спасувањето во Иран: Елитните „Фоки“ и ЦИА изведоа спектакуларна операција за извлекување на офицерот",
-          "link": "https://makfax.com.mk/svet/detali-za-spasuvanjeto-vo-iran-elitnite-foki-i-cia-izvedoa-spektakularna-operacija-za-izvlekuvanje-na-oficerot/",
-          "published": "Sun, 05 Apr 2026 07:30:07 +0000"
+          "source": "NetPress",
+          "title": "Зошто православниот и католичкиот Велигден некогаш се во ист ден, а некогаш не?",
+          "link": "https://netpress.com.mk/zoshto-pravoslavniot-i-katolichkiot-veligden-nekogash-se-vo-ist-den-a-nekogash-ne/",
+          "published": "Sun, 05 Apr 2026 09:07:40 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Израелската армија нападна повеќе од 120 цели во Иран за еден ден",
+          "link": "https://netpress.com.mk/izraelskata-armija-napadna-poveke-od-120-czeli-vo-iran-za-eden-den/",
+          "published": "Sun, 05 Apr 2026 09:03:19 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Денеска е Цветници – Влегување на Исус Христос во Ерусалим",
+          "link": "https://netpress.com.mk/deneska-e-czvetniczi-vleguvane-na-isus-hristos-vo-erusalim/",
+          "published": "Sun, 05 Apr 2026 08:49:22 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "ЦИА го лоцирала, командоси го спасија вториот пилот на соборениот Ф-15 во Иран",
+          "link": "https://netpress.com.mk/czia-go-loczirala-komandosi-go-spasija-vtoriot-pilot-na-soboreniot-f-15-vo-iran/",
+          "published": "Sun, 05 Apr 2026 08:28:34 +0000"
         },
         {
           "source": "NetPress",
           "title": "Христијаните од римокатоличката црква денеска го слават Велигден",
           "link": "https://netpress.com.mk/hristijanite-od-rimokatolichkata-czrkva-deneska-go-slavat-veligden/",
           "published": "Sun, 05 Apr 2026 08:01:00 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Надежите за крај на војната на Блискиот исток ги поттикнаа светските берзи",
-          "link": "https://netpress.com.mk/nadezhite-za-kraj-na-vojnata-na-bliskiot-istok-gi-pottiknaa-svetskite-berzi/",
-          "published": "Sun, 05 Apr 2026 07:27:13 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Австралија ги поттикнува граѓаните да патуваат за Велигден и покрај тоа што стотици пумпи се без горива",
-          "link": "https://netpress.com.mk/avstralija-gi-pottiknuva-graganite-da-patuvaat-za-veligden-i-pokraj-toa-shto-stoticzi-pumpi-se-bez-goriva/",
-          "published": "Sun, 05 Apr 2026 07:07:49 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Петмина мртви во израелско-американските напади врз иранска петрохемиска фабрика",
-          "link": "https://netpress.com.mk/petmina-mrtvi-vo-izraelsko-amerikanskite-napadi-vrz-iranska-petrohemiska-fabrika/",
-          "published": "Sun, 05 Apr 2026 06:47:36 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Дневен хороскоп за недела, 5-ти април 2026-та",
-          "link": "https://netpress.com.mk/dneven-horoskop-za-nedela-5-ti-april-2026-ta/",
-          "published": "Sun, 05 Apr 2026 06:27:50 +0000"
         }
       ]
     },
     {
       "region": "Свет",
       "items": [
+        {
+          "source": "BBC",
+          "title": "What we know so far about rescue of US airman in Iran",
+          "link": "https://www.bbc.com/news/articles/cm2k1dgz142o?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 05 Apr 2026 06:59:48 GMT"
+        },
         {
           "source": "BBC",
           "title": "Man charged over fatal shooting of baby in pram in New York",
@@ -95,45 +101,39 @@
         },
         {
           "source": "BBC",
-          "title": "Russian attack on Ukraine market kills five",
-          "link": "https://www.bbc.com/news/articles/cp869m2gzr0o?at_medium=RSS&at_campaign=rss",
-          "published": "Sat, 04 Apr 2026 18:54:53 GMT"
+          "title": "AI videos fuel rhetoric as Orbán bids for four more years in Hungary",
+          "link": "https://www.bbc.com/news/articles/c5yj97yd6v5o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 04 Apr 2026 23:15:48 GMT"
         },
         {
-          "source": "BBC",
-          "title": "The man who became one of India's greatest stage queens",
-          "link": "https://www.bbc.com/news/articles/cd0rl52z3dzo?at_medium=RSS&at_campaign=rss",
-          "published": "Sat, 04 Apr 2026 22:20:51 GMT"
+          "source": "Al Jazeera",
+          "title": "Israel’s attack on UNRWA is central to its genocide of the Palestinians",
+          "link": "https://www.aljazeera.com/opinions/2026/4/5/israels-attack-on-unrwa-is-central-to-its-genocide-of-the-palestinians?traffic_source=rss",
+          "published": "Sun, 05 Apr 2026 08:40:26 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Messi scores as Inter Miami open new stadium with a draw in the MLS",
+          "link": "https://www.aljazeera.com/sports/2026/4/5/messi-scores-as-inter-miami-open-new-stadium-with-a-draw-in-the-mls?traffic_source=rss",
+          "published": "Sun, 05 Apr 2026 08:14:26 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Thousands rally in Iraq against ‘senseless’ US-Israel war on Iran",
+          "link": "https://www.aljazeera.com/gallery/2026/4/5/thousands-rally-in-iraq-against-us-israeli-regional-aggression?traffic_source=rss",
+          "published": "Sun, 05 Apr 2026 08:06:38 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Trump seeks to end the war without it becoming ‘an abject failure’",
+          "link": "https://www.aljazeera.com/video/quotable/2026/4/5/trump-seeks-to-end-the-war-without-it-becoming-an-abject?traffic_source=rss",
+          "published": "Sun, 05 Apr 2026 07:58:05 +0000"
         },
         {
           "source": "Al Jazeera",
           "title": "Under Israeli restrictions, Palestinian Christians mark quiet Holy Week",
           "link": "https://www.aljazeera.com/features/2026/4/5/under-israeli-restrictions-palestinian-christians-mark-quiet-holy-week?traffic_source=rss",
           "published": "Sun, 05 Apr 2026 07:49:46 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Iran war: What is happening on day 37 of US-Israeli attacks?",
-          "link": "https://www.aljazeera.com/news/2026/4/5/iran-war-what-is-happening-on-day-37-of-us-israeli-attacks?traffic_source=rss",
-          "published": "Sun, 05 Apr 2026 07:45:48 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Yemen’s Houthis claim cluster missile attack on Israel’s Ben Gurion airport",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/5/yemens-houthis-claim-cluster-missile-attack-on-israels-ben-gurion-airport?traffic_source=rss",
-          "published": "Sun, 05 Apr 2026 07:45:37 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "‘Miraculous’: US rescues second pilot downed in Iran, Trump confirms",
-          "link": "https://www.aljazeera.com/news/2026/4/5/us-rescues-airman-whose-f-15-was-downed-in-iran-trump-confirms?traffic_source=rss",
-          "published": "Sun, 05 Apr 2026 06:51:57 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Wilder edges retiring Chisora in chaotic heavyweight boxing fight",
-          "link": "https://www.aljazeera.com/sports/2026/4/5/wilder-edges-retiring-chisora-in-chaotic-heavyweight-boxing-fight?traffic_source=rss",
-          "published": "Sun, 05 Apr 2026 06:30:20 +0000"
         }
       ]
     }
