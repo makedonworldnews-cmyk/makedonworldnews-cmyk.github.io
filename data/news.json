@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-05T14:51:28Z",
+  "updatedAt": "2026-04-05T15:34:10Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) Нови детали за спектакуларното извлекување на американскиот пилот пред очите на иранската војска",
+          "link": "https://makfax.com.mk/svet/video-novi-detali-za-spektakularnoto-izvlekuvanje-na-amerikanskiot-pilot-pred-ochite-na-iranskata-vojska/",
+          "published": "Sun, 05 Apr 2026 15:31:28 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Оман предупредува: Заканите на Трамп се „екстремно алармантни“, светот е пред енергетски колапс",
+          "link": "https://makfax.com.mk/svet/oman-predupreduva-zakanite-na-tramp-se-ekstremno-alarmantni-svetot-e-pred-energetski-kolaps/",
+          "published": "Sun, 05 Apr 2026 15:18:18 +0000"
         },
         {
           "source": "Makfax",
@@ -29,16 +41,16 @@
           "published": "Sun, 05 Apr 2026 13:40:00 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Трамп со нова закана за Иран: „Отворете го проклетиот теснец, вие луди гадови, или ќе живеете во пекол – само гледајте!“",
-          "link": "https://makfax.com.mk/svet/tramp-so-nova-zakana-za-iran-otvorete-go-prokletiot-tesnec-vie-ludi-gadovi-ili-ke-zhiveete-vo-pekol-samo-gledajte/",
-          "published": "Sun, 05 Apr 2026 12:47:28 +0000"
+          "source": "NetPress",
+          "title": "Помошникот на Путин: Време е Калас да „испие нешто“",
+          "link": "https://netpress.com.mk/pomoshnikot-na-putin-vreme-e-kalas-da-ispie-neshto/",
+          "published": "Sun, 05 Apr 2026 15:05:38 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Мицкоски: Нема да толерираме институти што го „осакатуваат“ образовниот систем",
-          "link": "https://makfax.com.mk/makedonija/mickoski-nema-da-tolerirame-instituti-shto-go-osakatuvaat-obrazovniot-sistem/",
-          "published": "Sun, 05 Apr 2026 12:17:31 +0000"
+          "source": "NetPress",
+          "title": "Се поставува последниот слој асфалт од Стара Рампа до Црвениот крст",
+          "link": "https://netpress.com.mk/se-postavuva-posledniot-sloj-asfalt-od-stara-rampa-do-czrveniot-krst/",
+          "published": "Sun, 05 Apr 2026 14:58:38 +0000"
         },
         {
           "source": "NetPress",
@@ -57,24 +69,18 @@
           "title": "Закренување на продажбата на возилата на „Tesla“ на почетокот на 2026-та",
           "link": "https://netpress.com.mk/zakrenuvane-na-prodazhbata-na-vozilata-na-tesla-na-pochetokot-na-2026-ta/",
           "published": "Sun, 05 Apr 2026 14:16:26 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Потрага по лицата вклучени во „ноќното пукање“ близу Белата куќа",
-          "link": "https://netpress.com.mk/potraga-po-liczata-vklucheni-vo-noknoto-pukane-blizu-belata-kuka/",
-          "published": "Sun, 05 Apr 2026 13:22:22 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Со „Панкот не е мртов“ утре почнуваат бесплатни проекции на четири македонски филмa во „Синеплекс“",
-          "link": "https://netpress.com.mk/so-pankot-ne-e-mrtov-utre-pochnuvaat-besplatni-proekczii-na-chetiri-makedonski-filma-vo-sinepleks/",
-          "published": "Sun, 05 Apr 2026 12:59:46 +0000"
         }
       ]
     },
     {
       "region": "Свет",
       "items": [
+        {
+          "source": "BBC",
+          "title": "US airman injured but safe after rescue from inside Iran, Trump says",
+          "link": "https://www.bbc.com/news/articles/cr41evk126go?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 05 Apr 2026 08:36:06 GMT"
+        },
         {
           "source": "BBC",
           "title": "What we know so far about rescue of US airman in Iran",
@@ -86,12 +92,6 @@
           "title": "Pope Leo calls for global leaders to choose peace in his first Easter Mass",
           "link": "https://www.bbc.com/news/articles/crk1zgjj7y1o?at_medium=RSS&at_campaign=rss",
           "published": "Sun, 05 Apr 2026 12:35:36 GMT"
-        },
-        {
-          "source": "BBC",
-          "title": "German males under 45 may need military approval for long stays abroad",
-          "link": "https://www.bbc.com/news/articles/cvg3nr83xyvo?at_medium=RSS&at_campaign=rss",
-          "published": "Sat, 04 Apr 2026 21:16:42 GMT"
         },
         {
           "source": "BBC",
@@ -107,6 +107,24 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Why an attack on Bushehr nuclear plant would be catastrophic for the Gulf",
+          "link": "https://www.aljazeera.com/news/2026/4/5/why-an-attack-on-bushehr-nuclear-plant-would-be-catastrophic-for-the-gulf?traffic_source=rss",
+          "published": "Sun, 05 Apr 2026 15:05:49 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Suspected measles outbreak kills nearly 100 children in Bangladesh",
+          "link": "https://www.aljazeera.com/news/2026/4/5/suspected-measles-outbreak-kills-nearly-100-children-in-bangladesh?traffic_source=rss",
+          "published": "Sun, 05 Apr 2026 14:52:19 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Nepal announces two-day weekends as fuel crisis caused by Iran war deepens",
+          "link": "https://www.aljazeera.com/news/2026/4/5/nepal-announces-two-day-weekends-as-fuel-crisis-caused-by-iran-war-deepens?traffic_source=rss",
+          "published": "Sun, 05 Apr 2026 14:48:51 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Trump offers no concrete plan as Strait of Hormuz closure shocks Europe",
           "link": "https://www.aljazeera.com/video/quotable/2026/4/5/trump-offers-no-concrete-plan-as-strait-of-hormuz-closure-shocks-europe?traffic_source=rss",
           "published": "Sun, 05 Apr 2026 13:23:55 +0000"
@@ -116,24 +134,6 @@
           "title": "Iran’s ex-FM Zarif proposes peace roadmap; Gulf points at erosion of trust",
           "link": "https://www.aljazeera.com/news/2026/4/5/irans-former-fm-zarif-proposes-peace-roadmap-gulf-states-voice-exclusion?traffic_source=rss",
           "published": "Sun, 05 Apr 2026 12:44:11 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Italian PM says the Gulf is ‘fundamental’ for Europe’s security",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/5/italian-pm-says-the-gulf-is-fundamental-for-europes-security?traffic_source=rss",
-          "published": "Sun, 05 Apr 2026 12:44:06 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Oman, Iran discuss smooth transit in Strait of Hormuz, Muscat says",
-          "link": "https://www.aljazeera.com/news/2026/4/5/oman-iran-discuss-smooth-transit-in-the-strait-of-hormuz-muscat-says?traffic_source=rss",
-          "published": "Sun, 05 Apr 2026 12:18:43 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Jeremy Hansen is the first Canadian to head to the moon",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/5/jeremy-hansen-is-the-first-canadian-to-head-to-the-moon?traffic_source=rss",
-          "published": "Sun, 05 Apr 2026 11:34:42 +0000"
         }
       ]
     }
