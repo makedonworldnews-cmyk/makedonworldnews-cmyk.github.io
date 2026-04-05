@@ -1,6 +1,13 @@
 {
-  "generated_at": "2026-04-05T09:52:50Z",
+  "generated_at": "2026-04-05T10:25:24Z",
   "items": [
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "Скопје добива градски воз: првата линија од Зелениково до Транспортен центар функционална од септември",
+      "link": "https://makfax.com.mk/makedonija/skopje-dobiva-gradski-voz-prvata-linija-od-zelenikovo-do-transporten-centar-funkcionalna-od-septemvri/",
+      "published": "Sun, 05 Apr 2026 09:59:13 +0000"
+    },
     {
       "region": "Македонија",
       "source": "Makfax",
@@ -31,10 +38,24 @@
     },
     {
       "region": "Македонија",
-      "source": "Makfax",
-      "title": "Иран тврди дека соборил три американски летала за време на спасувачката мисија",
-      "link": "https://makfax.com.mk/svet/iran-tvrdi-deka-soboril-tri-amerikanski-letala-za-vreme-na-spasuvachkata-misija/",
-      "published": "Sun, 05 Apr 2026 07:50:25 +0000"
+      "source": "NetPress",
+      "title": "ФОТО| Иран објави дека соборил неколку американски летала во „неуспешната“ мисија за спасување на соборениот пилот",
+      "link": "https://netpress.com.mk/foto-iran-objavi-deka-soboril-nekolku-amerikanski-letala-vo-neuspeshnata-misija-za-spasuvane-na-soboreniot-pilot/",
+      "published": "Sun, 05 Apr 2026 10:19:22 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "NetPress",
+      "title": "Два ранци со експлозив пронајдени во близина на гасоводот што ги поврзува Србија и Унгарија",
+      "link": "https://netpress.com.mk/dva-ranczi-so-eksploziv-pronajdeni-vo-blizina-na-gasovodot-shto-gi-povrzuva-srbija-i-ungarija/",
+      "published": "Sun, 05 Apr 2026 10:10:07 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "NetPress",
+      "title": "Мицкоски го честита католичкиот Велигден: Во овие времиња на предизвици сите да си подадеме рака",
+      "link": "https://netpress.com.mk/miczkoski-go-chestita-katolichkiot-veligden-vo-ovie-vremina-na-predizviczi-site-da-si-podademe-raka/",
+      "published": "Sun, 05 Apr 2026 09:58:03 +0000"
     },
     {
       "region": "Македонија",
@@ -51,32 +72,11 @@
       "published": "Sun, 05 Apr 2026 09:36:05 +0000"
     },
     {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Околу 65 килограми марихуана запленети кај Градско, истрага против две лица",
-      "link": "https://netpress.com.mk/okolu-65-kilogrami-marihuana-zapleneti-kaj-gradsko-istraga-protiv-dve-licza/",
-      "published": "Sun, 05 Apr 2026 09:15:43 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Зошто православниот и католичкиот Велигден некогаш се во ист ден, а некогаш не?",
-      "link": "https://netpress.com.mk/zoshto-pravoslavniot-i-katolichkiot-veligden-nekogash-se-vo-ist-den-a-nekogash-ne/",
-      "published": "Sun, 05 Apr 2026 09:07:40 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Израелската армија нападна повеќе од 120 цели во Иран за еден ден",
-      "link": "https://netpress.com.mk/izraelskata-armija-napadna-poveke-od-120-czeli-vo-iran-za-eden-den/",
-      "published": "Sun, 05 Apr 2026 09:03:19 +0000"
-    },
-    {
       "region": "Свет",
       "source": "BBC",
       "title": "What we know so far about rescue of US airman in Iran",
       "link": "https://www.bbc.com/news/articles/cm2k1dgz142o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 05 Apr 2026 06:59:48 GMT"
+      "published": "Sun, 05 Apr 2026 10:07:16 GMT"
     },
     {
       "region": "Свет",
@@ -109,6 +109,27 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "US pilot from downed F-15E plane rescued in Iran: What we know",
+      "link": "https://www.aljazeera.com/news/2026/4/5/us-pilot-from-downed-f-15-plane-rescued-in-iran-what-we-know?traffic_source=rss",
+      "published": "Sun, 05 Apr 2026 10:10:50 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Footage shows IDF military dog attacking Palestinian man inside mosque",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/5/footage-shows-idf-military-dog-attacking-palestinian-man-inside-mosque?traffic_source=rss",
+      "published": "Sun, 05 Apr 2026 10:04:23 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Ukraine hits port in Russia’s Primorsk, oil refinery in Nizhny Novgorod",
+      "link": "https://www.aljazeera.com/news/2026/4/5/drone-attacks-hit-russian-oil-infrastructure-leak-and-fires-reported?traffic_source=rss",
+      "published": "Sun, 05 Apr 2026 09:59:40 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "Kuwait’s power, water plants damaged as Iran keeps attacking Gulf states",
       "link": "https://www.aljazeera.com/news/2026/4/5/kuwait-says-power-water-facilities-hit-by-iran-as-gulf-attacks-continue?traffic_source=rss",
       "published": "Sun, 05 Apr 2026 08:52:22 +0000"
@@ -119,27 +140,6 @@
       "title": "Israel’s attack on UNRWA is central to its genocide of the Palestinians",
       "link": "https://www.aljazeera.com/opinions/2026/4/5/israels-attack-on-unrwa-is-central-to-its-genocide-of-the-palestinians?traffic_source=rss",
       "published": "Sun, 05 Apr 2026 08:40:26 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Messi scores as Inter Miami open new stadium with a draw in the MLS",
-      "link": "https://www.aljazeera.com/sports/2026/4/5/messi-scores-as-inter-miami-open-new-stadium-with-a-draw-in-the-mls?traffic_source=rss",
-      "published": "Sun, 05 Apr 2026 08:14:26 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Thousands rally in Iraq against ‘senseless’ US-Israel war on Iran",
-      "link": "https://www.aljazeera.com/gallery/2026/4/5/thousands-rally-in-iraq-against-us-israeli-regional-aggression?traffic_source=rss",
-      "published": "Sun, 05 Apr 2026 08:06:38 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Trump seeks to end the war without it becoming ‘an abject failure’",
-      "link": "https://www.aljazeera.com/video/quotable/2026/4/5/trump-seeks-to-end-the-war-without-it-becoming-an-abject?traffic_source=rss",
-      "published": "Sun, 05 Apr 2026 07:58:05 +0000"
     }
   ]
 }
