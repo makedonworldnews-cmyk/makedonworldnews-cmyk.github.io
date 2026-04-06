@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-06T15:08:18Z",
+  "updatedAt": "2026-04-06T16:00:10Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,24 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "ОН: Досега на Блискиот Исток загинаа повеќе од 5.200 луѓе, милиони се раселени",
+          "link": "https://makfax.com.mk/svet/on-dosega-na-bliskiot-istok-zaginaa-poveke-od-5-200-luge-milioni-se-raseleni/",
+          "published": "Mon, 06 Apr 2026 15:58:58 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Утре сончево и топло време со температура до 26 степени",
+          "link": "https://makfax.com.mk/makedonija/utre-sonchevo-i-toplo-vreme-so-temperatura-do-26-stepeni/",
+          "published": "Mon, 06 Apr 2026 15:54:18 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Иран одговори на предлогот на САД, испрати 10 точки",
+          "link": "https://makfax.com.mk/svet/iran-odgovari-na-predlogot-na-sad-isprati-10-tochki/",
+          "published": "Mon, 06 Apr 2026 15:23:47 +0000"
         },
         {
           "source": "Makfax",
@@ -23,22 +41,16 @@
           "published": "Mon, 06 Apr 2026 14:52:24 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Израелска војска: Го убивме командантот на Револуционерната гарда",
-          "link": "https://makfax.com.mk/svet/izraelska-vojska-go-ubivme-komandantot-na-revolucionernata-garda/",
-          "published": "Mon, 06 Apr 2026 14:36:33 +0000"
+          "source": "NetPress",
+          "title": "Во тек е исплатата на правата од социјална и детска заштита",
+          "link": "https://netpress.com.mk/vo-tek-e-isplatata-na-pravata-od-soczijalna-i-detska-zashtita-4/",
+          "published": "Mon, 06 Apr 2026 15:45:51 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Исплатени близу 94 милиони денари кон околу 2.430 земјоделци",
-          "link": "https://makfax.com.mk/makedonija/isplateni-blizu-94-milioni-denari-kon-okolu-2-430-zemjodelci/",
-          "published": "Mon, 06 Apr 2026 14:24:50 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Протест за правосуден испит на албански, Министерството за правда реагира дека испитот е законски, а собирот манипулација на политички структури",
-          "link": "https://makfax.com.mk/makedonija/protest-za-pravosuden-ispit-na-albanski-ministerstvoto-za-pravda-reagira-deka-ispitot-e-zakonski-a-sobirot-manipulacija-na-politichki-strukturi/",
-          "published": "Mon, 06 Apr 2026 14:08:12 +0000"
+          "source": "NetPress",
+          "title": "Отсуството на државни обележја на протестот кажува за демократскиот капацитет на организаторите и нивниот однос кон државата",
+          "link": "https://netpress.com.mk/otsustvoto-na-drzhavni-obelezhja-na-protestot-kazhuva-za-demokratskiot-kapaczitet-na-organizatorite-i-nivniot-odnos-kon-drzhavata/",
+          "published": "Mon, 06 Apr 2026 15:13:19 +0000"
         },
         {
           "source": "NetPress",
@@ -57,24 +69,18 @@
           "title": "Шпанците го сметаат Доналд Трамп за најголема закана за светскиот мир",
           "link": "https://netpress.com.mk/shpanczite-go-smetaat-donald-tramp-za-najgolema-zakana-za-svetskiot-mir/",
           "published": "Mon, 06 Apr 2026 13:32:43 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Станарините во германските градови зголемени за 43 отсто од 2016., во Берлин за 69 отсто",
-          "link": "https://netpress.com.mk/stanarinite-vo-germanskite-gradovi-zgolemeni-za-43-otsto-od-2016-vo-berlin-za-69-otsto/",
-          "published": "Mon, 06 Apr 2026 13:06:35 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Измените во законот за пушење не се шведска маса",
-          "link": "https://netpress.com.mk/vladata-raboti-so-site-stekholderi-za-konechna-verzija-na-zakonot-za-zashtita-od-pushene/",
-          "published": "Mon, 06 Apr 2026 13:04:46 +0000"
         }
       ]
     },
     {
       "region": "Свет",
       "items": [
+        {
+          "source": "BBC",
+          "title": "The 40 minutes when the Artemis crew loses contact with the Earth",
+          "link": "https://www.bbc.com/news/articles/cj0vyzmmy50o?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 05 Apr 2026 23:02:53 GMT"
+        },
         {
           "source": "BBC",
           "title": "How rescue of US airman in remote part of Iran unfolded",
@@ -100,10 +106,10 @@
           "published": "Mon, 06 Apr 2026 09:59:40 GMT"
         },
         {
-          "source": "BBC",
-          "title": "DR Congo agrees to take deportees from the US",
-          "link": "https://www.bbc.com/news/articles/c20d35eejxgo?at_medium=RSS&at_campaign=rss",
-          "published": "Mon, 06 Apr 2026 13:25:37 GMT"
+          "source": "Al Jazeera",
+          "title": "Gaza grandmother loses her family due to Israeli attacks",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/6/gaza-grandmother-loses-her-family-due-to-israeli-attacks?traffic_source=rss",
+          "published": "Mon, 06 Apr 2026 15:45:21 +0000"
         },
         {
           "source": "Al Jazeera",
@@ -128,12 +134,6 @@
           "title": "The US could still try to play the ethnic card in Iran",
           "link": "https://www.aljazeera.com/opinions/2026/4/6/the-us-could-still-try-to-play-the-ethnic-card-in-iran?traffic_source=rss",
           "published": "Mon, 06 Apr 2026 13:01:52 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Jobless young Palestinians trapped as Israel holds Gaza’s economy hostage",
-          "link": "https://www.aljazeera.com/economy/2026/4/6/jobless-young-palestinians-trapped-as-israel-holds-gazas-economy-hostage?traffic_source=rss",
-          "published": "Mon, 06 Apr 2026 13:01:02 +0000"
         }
       ]
     }
