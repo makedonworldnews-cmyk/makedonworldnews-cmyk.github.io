@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-06T19:16:43Z",
+  "updatedAt": "2026-04-06T20:00:43Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Грција купува израелски ракетен систем PULS вреден 650 милиони евра",
+          "link": "https://makfax.com.mk/svet/region/grcija-kupuva-izraelski-raketen-sistem-puls-vreden-650-milioni-evra/",
+          "published": "Mon, 06 Apr 2026 19:38:43 +0000"
         },
         {
           "source": "Makfax",
@@ -35,10 +41,22 @@
           "published": "Mon, 06 Apr 2026 17:56:57 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Нетанјаху објави фотографија „пред и потоа“: Го уништуваме иранскиот непријател",
-          "link": "https://makfax.com.mk/svet/netanjahu-objavi-fotografija-pred-i-potoa-go-unishtuvame-iranskiot-neprijatel/",
-          "published": "Mon, 06 Apr 2026 17:18:50 +0000"
+          "source": "NetPress",
+          "title": "Американската лунарна мисија го собори рекордот за патување на најголема оддалеченост од Земјата",
+          "link": "https://netpress.com.mk/amerikanskata-lunarna-misija-go-sobori-rekordot-za-patuvane-na-najgolema-oddalechenost-od-zemjata/",
+          "published": "Mon, 06 Apr 2026 19:41:18 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Фестивалот EXIT од Нови Сад се сели на црногорскиот брег",
+          "link": "https://netpress.com.mk/festivalot-exit-od-novi-sad-se-seli-na-czrnogorskiot-breg/",
+          "published": "Mon, 06 Apr 2026 19:24:09 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Што треба да знаат македонските патници пред воведувањето на Европскиот систем за влез/излез",
+          "link": "https://netpress.com.mk/shto-treba-da-znaat-makedonskite-patniczi-pred-voveduvaneto-na-evropskiot-sistem-za-vlez-izlez/",
+          "published": "Mon, 06 Apr 2026 19:19:03 +0000"
         },
         {
           "source": "NetPress",
@@ -51,24 +69,6 @@
           "title": "„Невладините“ во БиХ против изградба и управување со гасоводот од страна на американска компанија",
           "link": "https://netpress.com.mk/nevladinite-vo-bih-protiv-izgradba-i-upravuvane-so-gasovodot-od-strana-na-amerikanska-kompanija/",
           "published": "Mon, 06 Apr 2026 18:22:52 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "ОКТА го продолжува попустот од три денари за дизел и два денари за бензините по литар, до крајот на месецот",
-          "link": "https://netpress.com.mk/okta-go-prodolzhuva-popustot-od-tri-denari-za-dizel-i-dva-denari-za-benzinite-po-litar-do-krajot-na-meseczot/",
-          "published": "Mon, 06 Apr 2026 18:06:04 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Иран може да биде елиминиран за една ноќ, а тоа може да биде утре вечер",
-          "link": "https://netpress.com.mk/iran-mozhe-da-bide-eliminiran-za-edna-nok-a-toa-mozhe-da-bide-utre-vecher/",
-          "published": "Mon, 06 Apr 2026 17:45:43 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Украина го нападна меѓународниот нафтовод Касписки конзорциум",
-          "link": "https://netpress.com.mk/ukraina-go-napadna-megunarodniot-naftovod-kaspiski-konzorczium/",
-          "published": "Mon, 06 Apr 2026 16:46:10 +0000"
         }
       ]
     },
@@ -80,6 +80,12 @@
           "title": "'We're sinking deeper': Iranians brace for infrastructure strikes as Trump deadline nears",
           "link": "https://www.bbc.com/news/articles/cvgl0ng8z0do?at_medium=RSS&at_campaign=rss",
           "published": "Mon, 06 Apr 2026 15:40:35 GMT"
+        },
+        {
+          "source": "BBC",
+          "title": "Ten killed in Israeli strikes and clashes between Hamas and militia in Gaza, local sources say",
+          "link": "https://www.bbc.com/news/articles/c77md512n71o?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 06 Apr 2026 19:11:20 GMT"
         },
         {
           "source": "BBC",
@@ -95,15 +101,21 @@
         },
         {
           "source": "BBC",
-          "title": "Trump endorses ex-UK political aide Steve Hilton for California governor",
-          "link": "https://www.bbc.com/news/articles/c0mj4jeyvmzo?at_medium=RSS&at_campaign=rss",
-          "published": "Mon, 06 Apr 2026 18:55:45 GMT"
-        },
-        {
-          "source": "BBC",
           "title": "Kanye West's right to enter UK under review after festival outcry",
           "link": "https://www.bbc.com/news/articles/cwywnkdn3zno?at_medium=RSS&at_campaign=rss",
-          "published": "Mon, 06 Apr 2026 16:03:52 GMT"
+          "published": "Mon, 06 Apr 2026 19:29:02 GMT"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Renewed Israeli strikes pound Lebanon as ground offensive deepens",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/6/renewed-israeli-strikes-pound-lebanon-as-ground-offensive-deepens?traffic_source=rss",
+          "published": "Mon, 06 Apr 2026 19:40:59 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Child rescued from rubble after Russia ramps up strikes on Ukraine",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/6/child-rescued-from-rubble-after-russia-ramps-up-strikes-on-ukraine?traffic_source=rss",
+          "published": "Mon, 06 Apr 2026 19:34:14 +0000"
         },
         {
           "source": "Al Jazeera",
@@ -122,18 +134,6 @@
           "title": "Hegseth says strikes on Iran increasing as Hormuz deadline looms",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/4/6/hegseth-says-strikes-on-iran-increasing-as-hormuz-deadline-looms?traffic_source=rss",
           "published": "Mon, 06 Apr 2026 18:18:16 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Video: Iran’s top university hit in US-Israeli strikes",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/6/video-irans-top-university-hit-in-us-israeli-strikes?traffic_source=rss",
-          "published": "Mon, 06 Apr 2026 18:17:58 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Artemis II breaks record for farthest human travel from Earth",
-          "link": "https://www.aljazeera.com/news/2026/4/6/artemis-ii-breaks-record-for-the-furthest-human-travel-from-earth?traffic_source=rss",
-          "published": "Mon, 06 Apr 2026 18:11:02 +0000"
         }
       ]
     }
