@@ -1,6 +1,13 @@
 {
-  "generated_at": "2026-04-06T20:40:11Z",
+  "generated_at": "2026-04-06T21:20:54Z",
   "items": [
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "(Видео) Наполи го победи Милан и го презеде второто место во Серија А",
+      "link": "https://makfax.com.mk/sport/video-napoli-go-pobedi-milan-i-go-prezede-vtoroto-mesto-vo-serija-a/",
+      "published": "Mon, 06 Apr 2026 21:02:21 +0000"
+    },
     {
       "region": "Македонија",
       "source": "Makfax",
@@ -31,10 +38,17 @@
     },
     {
       "region": "Македонија",
-      "source": "Makfax",
-      "title": "Трамп откри како било извлекувањето на пилотот од Иран",
-      "link": "https://makfax.com.mk/svet/tramp-otkri-kako-bilo-izvlekuvanjeto-na-pilotite-od-iran/",
-      "published": "Mon, 06 Apr 2026 17:56:57 +0000"
+      "source": "NetPress",
+      "title": "Серија А: Наполи го прескокна Милан",
+      "link": "https://netpress.com.mk/serija-a-napoli-go-preskokna-milan/",
+      "published": "Mon, 06 Apr 2026 21:07:39 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "NetPress",
+      "title": "Зеленски ѝ понуди примирје на Русија под услов…",
+      "link": "https://netpress.com.mk/zelenski-%d1%9d-ponudi-primirje-na-rusija-pod-uslov/",
+      "published": "Mon, 06 Apr 2026 20:59:07 +0000"
     },
     {
       "region": "Македонија",
@@ -56,20 +70,6 @@
       "title": "Американската лунарна мисија го собори рекордот за патување на најголема оддалеченост од Земјата",
       "link": "https://netpress.com.mk/amerikanskata-lunarna-misija-go-sobori-rekordot-za-patuvane-na-najgolema-oddalechenost-od-zemjata/",
       "published": "Mon, 06 Apr 2026 19:41:18 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Фестивалот EXIT од Нови Сад се сели на црногорскиот брег",
-      "link": "https://netpress.com.mk/festivalot-exit-od-novi-sad-se-seli-na-czrnogorskiot-breg/",
-      "published": "Mon, 06 Apr 2026 19:24:09 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Што треба да знаат македонските патници пред воведувањето на Европскиот систем за влез/излез",
-      "link": "https://netpress.com.mk/shto-treba-da-znaat-makedonskite-patniczi-pred-voveduvaneto-na-evropskiot-sistem-za-vlez-izlez/",
-      "published": "Mon, 06 Apr 2026 19:19:03 +0000"
     },
     {
       "region": "Свет",
@@ -109,37 +109,37 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "Russia jails former Kursk governor in Ukraine incursion-linked graft probe",
+      "link": "https://www.aljazeera.com/news/2026/4/6/russia-jails-former-kursk-governor-in-ukraine-incursion-linked-graft-probe?traffic_source=rss",
+      "published": "Mon, 06 Apr 2026 20:41:49 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Israeli air strike kills at least 10 Palestinians near Gaza school",
+      "link": "https://www.aljazeera.com/news/2026/4/6/israeli-air-strike-kills-at-least-10-palestinians-near-gaza-school?traffic_source=rss",
+      "published": "Mon, 06 Apr 2026 20:34:47 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "US Supreme Court clears path for Steve Bannon criminal case dismissal",
+      "link": "https://www.aljazeera.com/news/2026/4/6/us-supreme-court-clears-path-for-steve-bannon-criminal-case-dismissal?traffic_source=rss",
+      "published": "Mon, 06 Apr 2026 20:22:24 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Lebanon’s Hezbollah and Yemen’s Houthis join Iran in strike on Israel",
+      "link": "https://www.aljazeera.com/news/2026/4/6/lebanons-hezbollah-and-yemens-houthis-join-iran-in-strike-on-israel?traffic_source=rss",
+      "published": "Mon, 06 Apr 2026 20:22:06 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "Trump claims Iranians begging US to keep bombing Iran",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/4/6/trump-claims-iranians-begging-us-to-keep-bombing-iran?traffic_source=rss",
       "published": "Mon, 06 Apr 2026 20:05:05 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Video: Trump threatens to jail reporter over Iran airman rescue leak",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/6/video-trump-threatens-to-jail-reporter-over-iran-airman-rescue-leak?traffic_source=rss",
-      "published": "Mon, 06 Apr 2026 20:01:32 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Renewed Israeli strikes pound Lebanon as ground offensive deepens",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/6/renewed-israeli-strikes-pound-lebanon-as-ground-offensive-deepens?traffic_source=rss",
-      "published": "Mon, 06 Apr 2026 19:40:59 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Child rescued from rubble after Russia ramps up strikes on Ukraine",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/6/child-rescued-from-rubble-after-russia-ramps-up-strikes-on-ukraine?traffic_source=rss",
-      "published": "Mon, 06 Apr 2026 19:34:14 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Rescuers search for survivors after strikes hit homes in Iran",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/6/rescuers-search-for-survivors-after-strikes-hit-homes-in-iran?traffic_source=rss",
-      "published": "Mon, 06 Apr 2026 19:08:23 +0000"
     }
   ]
 }
