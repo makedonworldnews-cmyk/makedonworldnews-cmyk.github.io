@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-07T21:25:33Z",
+  "updatedAt": "2026-04-07T22:04:09Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) Хаверц во 92-та минута му пресуди на Спортинг",
+          "link": "https://makfax.com.mk/sport/video-haverc-vo-92-ta-minuta-mu-presudi-na-sporting/",
+          "published": "Tue, 07 Apr 2026 21:31:56 +0000"
         },
         {
           "source": "Makfax",
@@ -35,10 +41,10 @@
           "published": "Tue, 07 Apr 2026 19:32:32 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Над 3,5 милиони долари поддршка за МВР, Тошковски вели дека дијалогот со САД носи конкретни резултати",
-          "link": "https://makfax.com.mk/makedonija/toshkovski-od-sad-nad-35-milioni-dolari-poddrshka-za-mvr/",
-          "published": "Tue, 07 Apr 2026 19:21:11 +0000"
+          "source": "NetPress",
+          "title": "Лига на шампионите: Баерн победи во Мадрид, Арсенал во Лисабон",
+          "link": "https://netpress.com.mk/liga-na-shampionite-baern-pobedi-vo-madrid-arsenal-vo-lisabon/",
+          "published": "Tue, 07 Apr 2026 21:35:05 +0000"
         },
         {
           "source": "NetPress",
@@ -63,12 +69,6 @@
           "title": "Ако Трамп ги исполни заканите, Иран пропорционално ќе возврати",
           "link": "https://netpress.com.mk/ako-tramp-gi-ispolni-zakanite-iran-proporczionalno-ke-vozvrati/",
           "published": "Tue, 07 Apr 2026 20:36:56 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "НБА легенди бараат Дончиќ да биде награден",
-          "link": "https://netpress.com.mk/nba-legendi-baraat-donchik-da-bide-nagraden/",
-          "published": "Tue, 07 Apr 2026 20:08:30 +0000"
         }
       ]
     },
@@ -107,33 +107,33 @@
         },
         {
           "source": "Al Jazeera",
-          "title": "Palestinians queue for hours in pouring rain to get bread",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/7/palestinians-queue-for-hours-in-pouring-rain-to-get-bread?traffic_source=rss",
-          "published": "Tue, 07 Apr 2026 20:51:07 +0000"
+          "title": "Iran warns region and beyond as tension builds ahead of US ultimatum",
+          "link": "https://www.aljazeera.com/news/2026/4/7/iran-warns-region-and-beyond-as-tension-builds-ahead-of-us-ultimatum?traffic_source=rss",
+          "published": "Tue, 07 Apr 2026 21:48:54 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "‘Policy of abuse’: Women march in Cuba against US energy blockade",
-          "link": "https://www.aljazeera.com/news/2026/4/7/policy-of-abuse-women-march-in-cuba-against-us-energy-blockade?traffic_source=rss",
-          "published": "Tue, 07 Apr 2026 20:44:11 +0000"
+          "title": "Pakistan appeals to Trump to extend deadline, Iran to reopen Hormuz Strait",
+          "link": "https://www.aljazeera.com/news/2026/4/7/pakistan-appeals-to-trump-to-extend-deadline-iran-to-reopen-strait-of-hormuz?traffic_source=rss",
+          "published": "Tue, 07 Apr 2026 21:35:17 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Russia and China block UN resolution on Strait of Hormuz",
-          "link": "https://www.aljazeera.com/news/2026/4/7/russia-and-china-block-un-resolution-on-strait-of-hormuz?traffic_source=rss",
-          "published": "Tue, 07 Apr 2026 20:17:54 +0000"
+          "title": "Kane leads Bayern to 2-1 win over Real Madrid in Champions League thriller",
+          "link": "https://www.aljazeera.com/sports/2026/4/7/kane-leads-bayern-to-2-1-win-over-real-madrid-in-champions-league-thriller?traffic_source=rss",
+          "published": "Tue, 07 Apr 2026 21:28:34 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Pope Leo slams Trump’s threat that Iran’s ‘civilisation will die’",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/7/pope-leo-slams-trumps-threat-that-irans-civilisation-will?traffic_source=rss",
-          "published": "Tue, 07 Apr 2026 20:15:44 +0000"
+          "title": "Protesters in Iraq swarm Kuwaiti consulate after deadly rocket attack",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/7/protesters-in-iraq-swarm-kuwaiti-consulate-after-deadly-rocket-attack?traffic_source=rss",
+          "published": "Tue, 07 Apr 2026 21:12:04 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Mediterranean migrant deaths mounting towards 1,000 in 2026: UN",
-          "link": "https://www.aljazeera.com/news/2026/4/7/mediterranean-migrant-deaths-mounting-towards-1000-in-2026-un?traffic_source=rss",
-          "published": "Tue, 07 Apr 2026 20:02:11 +0000"
+          "title": "Iranians brace for possible devastation as Trump’s deadline looms",
+          "link": "https://www.aljazeera.com/news/2026/4/7/iranians-brace-for-possible-devastation-as-trumps-deadline-looms?traffic_source=rss",
+          "published": "Tue, 07 Apr 2026 21:08:36 +0000"
         }
       ]
     }
