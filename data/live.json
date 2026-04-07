@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-06T23:56:42Z",
+  "generated_at": "2026-04-07T02:04:54Z",
   "items": [
     {
       "region": "Македонија",
@@ -81,7 +81,7 @@
     {
       "region": "Свет",
       "source": "BBC",
-      "title": "Trump's Hormuz ultimatum nears - with little indication Iran is on board",
+      "title": "Clock ticks on Trump's Iran ultimatum with little sign of breakthrough",
       "link": "https://www.bbc.com/news/articles/czexw94rj5jo?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 06 Apr 2026 23:04:23 GMT"
     },
@@ -109,6 +109,20 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "Vance heads to Budapest to shore up Orban’s support before Sunday vote",
+      "link": "https://www.aljazeera.com/news/2026/4/7/vance-heads-to-budapest-to-shore-up-orbans-support-before-sunday-vote?traffic_source=rss",
+      "published": "Tue, 07 Apr 2026 01:18:59 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Iran war live: Trump warns of attacks as Hormuz deal deadline nears",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/4/7/iran-war-live-trump-warns-of-devastating-attacks-as-deal-deadline-nears?traffic_source=rss",
+      "published": "Tue, 07 Apr 2026 00:00:00 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "Trump says US could charge for Strait of Hormuz passage amid Iran war",
       "link": "https://www.aljazeera.com/news/2026/4/6/trump-says-us-could-charge-for-strait-of-hormuz-passage-amid-iran-war?traffic_source=rss",
       "published": "Mon, 06 Apr 2026 21:26:20 +0000"
@@ -126,20 +140,6 @@
       "title": "Protesters swarm US embassy in Tel Aviv, demanding end of wars",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/4/6/protesters-swarm-us-embassy-in-tel-aviv-demanding-end-of-wars?traffic_source=rss",
       "published": "Mon, 06 Apr 2026 21:05:52 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Israeli soldiers fire tear gas at Palestinian youth during raid in Hebron",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/6/israeli-soldiers-fire-tear-gas-at-palestinian-youth-during-raid-in-hebron?traffic_source=rss",
-      "published": "Mon, 06 Apr 2026 21:02:01 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Russia jails former Kursk governor in Ukraine incursion-linked graft probe",
-      "link": "https://www.aljazeera.com/news/2026/4/6/russia-jails-former-kursk-governor-in-ukraine-incursion-linked-graft-probe?traffic_source=rss",
-      "published": "Mon, 06 Apr 2026 20:41:49 +0000"
     }
   ]
 }
