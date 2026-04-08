@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-08T23:07:47Z",
+  "updatedAt": "2026-04-08T23:52:05Z",
   "groups": [
     {
       "region": "Македонија",
@@ -101,9 +101,21 @@
         },
         {
           "source": "BBC",
-          "title": "Prosecutors seek Woods' prescription drug records after Florida arrest",
+          "title": "Prosecutors seek Tiger Woods' prescription drug records after Florida arrest",
           "link": "https://www.bbc.com/news/articles/c77mz26ed80o?at_medium=RSS&at_campaign=rss",
           "published": "Wed, 08 Apr 2026 22:46:58 GMT"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "‘Israel must be restrained for US-Iran ceasefire to hold’",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/8/israel-must-be-restrained-for-us-iran-ceasefire-to?traffic_source=rss",
+          "published": "Wed, 08 Apr 2026 23:39:52 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Woman given 15 years for role supplying drugs linked to Matthew Perry death",
+          "link": "https://www.aljazeera.com/news/2026/4/8/woman-given-15-years-for-role-supplying-drugs-linked-to-matthew-perry-death?traffic_source=rss",
+          "published": "Wed, 08 Apr 2026 22:49:22 +0000"
         },
         {
           "source": "Al Jazeera",
@@ -122,18 +134,6 @@
           "title": "Prosecutors move to subpoena Tiger Woods’ prescription drug records",
           "link": "https://www.aljazeera.com/sports/2026/4/8/prosecutors-move-to-subpoena-tiger-woods-prescription-drug-records?traffic_source=rss",
           "published": "Wed, 08 Apr 2026 21:50:24 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Trump administration signals it is mulling NATO withdrawal after Iran war",
-          "link": "https://www.aljazeera.com/news/2026/4/8/trump-administration-says-it-is-mulling-nato-withdrawal-after-iran-war?traffic_source=rss",
-          "published": "Wed, 08 Apr 2026 21:47:23 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Macron welcomes US-Iran ceasefire and urges Lebanon’s inclusion",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/8/macron-welcomes-us-iran-ceasefire-and-urges-lebanons-inclusion?traffic_source=rss",
-          "published": "Wed, 08 Apr 2026 21:39:14 +0000"
         }
       ]
     }
