@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-08T20:55:56Z",
+  "updatedAt": "2026-04-08T21:42:47Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) ПСЖ лесно се справи со Ливерпул",
+          "link": "https://makfax.com.mk/sport/video-pszh-lesno-se-spravi-so-liverpul/",
+          "published": "Wed, 08 Apr 2026 21:29:56 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) Голчиште на Алварез – Атлетико со играч повеќе победи во Барселона",
+          "link": "https://makfax.com.mk/sport/video-golchishte-na-alvarez-atletiko-so-igrach-poveke-pobedi-vo-barselona/",
+          "published": "Wed, 08 Apr 2026 21:18:57 +0000"
         },
         {
           "source": "Makfax",
@@ -29,16 +41,22 @@
           "published": "Wed, 08 Apr 2026 19:27:05 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Аракчи: САД треба да изберат помеѓу прекин на огнот и продолжување на војната преку Израел",
-          "link": "https://makfax.com.mk/svet/arakchi-sad-treba-da-izberat-pomegu-prekin-na-ognot-i-prodolzhuvanje-na-vojnata-preku-izrael/",
-          "published": "Wed, 08 Apr 2026 19:03:55 +0000"
+          "source": "NetPress",
+          "title": "Либан прогласи ден на жалост за над 250 жртвите од израелските напади",
+          "link": "https://netpress.com.mk/liban-proglasi-den-na-zhalost-za-nad-250-zhrtvite-od-izraelskite-napadi/",
+          "published": "Wed, 08 Apr 2026 21:38:33 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Мицкоски приреди ручек по повод Велигден: Се испрати силна порака за единство, солидарност и заедничка грижа за доброто на сите",
-          "link": "https://makfax.com.mk/makedonija/mickoski-priredi-ruchek-po-povod-veligden-se-isprati-silna-poraka-za-edinstvo-solidarnost-i-zaednichka-grizha-za-dobroto-na-site/",
-          "published": "Wed, 08 Apr 2026 18:39:31 +0000"
+          "source": "NetPress",
+          "title": "Лига на шампионите: Атлетико и ПСЖ со предност го чекаат реваншот",
+          "link": "https://netpress.com.mk/liga-na-shampionite-atletiko-i-pszh-so-prednost-go-chekaat-revanshot/",
+          "published": "Wed, 08 Apr 2026 21:16:24 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Вашингтон не се согласи примирјето да го опфати Либан, вели Венс",
+          "link": "https://netpress.com.mk/vashington-ne-se-soglasi-primirjeto-da-go-opfati-liban-veli-vens/",
+          "published": "Wed, 08 Apr 2026 21:04:26 +0000"
         },
         {
           "source": "NetPress",
@@ -51,24 +69,6 @@
           "title": "Се договара производство на електричен теренец „Опел“",
           "link": "https://netpress.com.mk/se-dogovara-proizvodstvo-na-elektrichen-terenecz-opel/",
           "published": "Wed, 08 Apr 2026 20:39:22 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Белата куќа предупредува дека затворањето на Ормутскиот теснец би било неприфатливо",
-          "link": "https://netpress.com.mk/belata-kuka-predupreduva-deka-zatvoraneto-na-ormutskiot-tesnecz-bi-bilo-neprifatlivo/",
-          "published": "Wed, 08 Apr 2026 20:35:00 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Ирански преговарач: Веќе се прекршени три точки од десетте принципи",
-          "link": "https://netpress.com.mk/iranski-pregovarach-veke-se-prekrsheni-tri-tochki-od-desette-princzipi/",
-          "published": "Wed, 08 Apr 2026 20:12:36 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "ТФТ со победата кај Сутјеска на чекор до финалето на АБА2 лигата",
-          "link": "https://netpress.com.mk/tft-so-pobedata-kaj-sutjeska-na-chekor-do-finaleto-na-aba2-ligata/",
-          "published": "Wed, 08 Apr 2026 20:04:31 +0000"
         }
       ]
     },
@@ -107,33 +107,33 @@
         },
         {
           "source": "Al Jazeera",
-          "title": "Netanyahu: A ‘ceasefire with Iran will not include Hezbollah’",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/8/netanyahu-a-ceasefire-with-iran-will-not-include?traffic_source=rss",
-          "published": "Wed, 08 Apr 2026 20:24:36 +0000"
+          "title": "Atletico Madrid shock 10-man Barcelona 2-0 in Champions League quarterfinal",
+          "link": "https://www.aljazeera.com/sports/2026/4/8/atletico-madrid-shock-10-man-barcelona-2-0-in-champions-league-quarterfinal?traffic_source=rss",
+          "published": "Wed, 08 Apr 2026 21:22:08 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "NASA releases picture of ‘Earthset’ shot by Artemis crew",
-          "link": "https://www.aljazeera.com/gallery/2026/4/8/nasa-releases-picture-of-earthset-shot-by-artemis-crew?traffic_source=rss",
-          "published": "Wed, 08 Apr 2026 20:19:40 +0000"
+          "title": "What to know about Israel’s strikes on Lebanon amid US-Iran ceasefire",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/8/what-to-know-about-israels-strikes-on-lebanon-amid-us-iran-ceasefire?traffic_source=rss",
+          "published": "Wed, 08 Apr 2026 21:20:03 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "World reacts to ‘brutal’ Israeli attacks on Lebanon after US-Iran truce",
-          "link": "https://www.aljazeera.com/news/2026/4/8/world-reacts-to-brutal-israeli-attacks-on-lebanon-amid-us-iran-ceasefire?traffic_source=rss",
-          "published": "Wed, 08 Apr 2026 19:47:57 +0000"
+          "title": "Trump has found his Iran off-ramp – but at what cost?",
+          "link": "https://www.aljazeera.com/video/inside-story/2026/4/8/trump-has-found-his-iran-off-ramp-but-at-what-cost?traffic_source=rss",
+          "published": "Wed, 08 Apr 2026 21:01:37 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Iranians breathe a ‘ceasefire’ sigh of relief as all sides claim victory",
-          "link": "https://www.aljazeera.com/news/2026/4/8/iranians-breathe-a-ceasefire-sigh-of-relief-as-all-sides-claim-victory?traffic_source=rss",
-          "published": "Wed, 08 Apr 2026 19:20:34 +0000"
+          "title": "PSG beat Liverpool as Champions League defence maintains pace",
+          "link": "https://www.aljazeera.com/sports/2026/4/8/psg-beat-liverpool-as-champions-league-defence-maintains-pace?traffic_source=rss",
+          "published": "Wed, 08 Apr 2026 20:58:15 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "White House says Trump’s ‘red line’ against Iran nuclear enrichment remains",
-          "link": "https://www.aljazeera.com/news/2026/4/8/white-house-says-trumps-red-line-against-iran-nuclear-enrichment-remains?traffic_source=rss",
-          "published": "Wed, 08 Apr 2026 19:00:28 +0000"
+          "title": "‘People are afraid’: Lebanese reeling after Israel’s devastating attacks",
+          "link": "https://www.aljazeera.com/news/2026/4/8/people-are-afraid-lebanese-reeling-after-israels-devastating-attacks?traffic_source=rss",
+          "published": "Wed, 08 Apr 2026 20:57:02 +0000"
         }
       ]
     }
