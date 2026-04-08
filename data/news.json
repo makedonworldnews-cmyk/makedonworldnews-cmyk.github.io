@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-07T23:39:34Z",
+  "updatedAt": "2026-04-08T01:03:19Z",
   "groups": [
     {
       "region": "Македонија",
@@ -77,9 +77,21 @@
       "items": [
         {
           "source": "BBC",
-          "title": "Tracking recent US-Israeli strikes on Iranian infrastructure",
-          "link": "https://www.bbc.com/news/articles/cx2w0v19gw8o?at_medium=RSS&at_campaign=rss",
-          "published": "Tue, 07 Apr 2026 17:15:34 GMT"
+          "title": "Iran ceasefire deal a temporary win for Trump - but it comes at a cost",
+          "link": "https://www.bbc.com/news/articles/cwyvp55xrlro?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 08 Apr 2026 00:45:08 GMT"
+        },
+        {
+          "source": "BBC",
+          "title": "Trump-backed Republican Clay Fuller wins election to replace Marjorie Taylor Greene",
+          "link": "https://www.bbc.com/news/articles/c8r40erdj6mo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 08 Apr 2026 00:37:00 GMT"
+        },
+        {
+          "source": "BBC",
+          "title": "Oil slides after US-Iran ceasefire deal to reopen Strait of Hormuz",
+          "link": "https://www.bbc.com/news/articles/c8r40y3rv75o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 08 Apr 2026 01:00:49 GMT"
         },
         {
           "source": "BBC",
@@ -94,16 +106,10 @@
           "published": "Tue, 07 Apr 2026 15:23:05 GMT"
         },
         {
-          "source": "BBC",
-          "title": "US journalist Shelly Kittleson to be released after kidnap in Iraq, militia says",
-          "link": "https://www.bbc.com/news/articles/crm1xjp08k3o?at_medium=RSS&at_campaign=rss",
-          "published": "Tue, 07 Apr 2026 17:50:17 GMT"
-        },
-        {
-          "source": "BBC",
-          "title": "French couple leave Iran after more than three years in jail",
-          "link": "https://www.bbc.com/news/articles/clyxk5640wko?at_medium=RSS&at_campaign=rss",
-          "published": "Tue, 07 Apr 2026 19:18:08 GMT"
+          "source": "Al Jazeera",
+          "title": "White House confirms two-week suspension of strikes on Iran",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/8/white-house-confirms-two-week-suspension-of-strikes-on-iran?traffic_source=rss",
+          "published": "Wed, 08 Apr 2026 00:06:56 +0000"
         },
         {
           "source": "Al Jazeera",
@@ -128,12 +134,6 @@
           "title": "What we know about Pakistan’s proposed Iran war pause",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/4/7/what-we-know-about-pakistans-proposed-iran-war-pause?traffic_source=rss",
           "published": "Tue, 07 Apr 2026 22:24:13 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Iranian musician stages protest at power station over Trump threats",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/7/iranian-musician-stages-protest-at-power-station-over-trump-threats?traffic_source=rss",
-          "published": "Tue, 07 Apr 2026 22:13:09 +0000"
         }
       ]
     }
