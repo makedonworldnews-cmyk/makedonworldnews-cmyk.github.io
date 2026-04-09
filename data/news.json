@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-09T17:20:08Z",
+  "updatedAt": "2026-04-09T18:15:07Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Руте: Се преговара со САД за Гренланд, Трамп е во право",
+          "link": "https://makfax.com.mk/svet/rute-se-pregovara-so-sad-za-grenland-tramp-e-vo-pravo/",
+          "published": "Thu, 09 Apr 2026 17:43:00 +0000"
         },
         {
           "source": "Makfax",
@@ -35,40 +41,34 @@
           "published": "Thu, 09 Apr 2026 15:58:29 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Хоџа: Нова опрема за отпад во Струга и засилени инвестиции во инфраструктурата",
-          "link": "https://makfax.com.mk/makedonija/hodha-nova-oprema-za-otpad-vo-struga-i-zasileni-investicii-vo-infrastrukturata/",
-          "published": "Thu, 09 Apr 2026 15:22:20 +0000"
+          "source": "NetPress",
+          "title": "МЗШВ го забрани рекреативниот риболов на Дојранско Езеро",
+          "link": "https://netpress.com.mk/mzshv-go-zabrani-rekreativniot-ribolov-na-dojransko-ezero/",
+          "published": "Thu, 09 Apr 2026 18:04:19 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Нова опрема за отпад во Струга и засилени инвестиции во инфраструктурата",
+          "link": "https://netpress.com.mk/nova-oprema-za-otpad-vo-struga-i-zasileni-investiczii-vo-infrastrukturata/",
+          "published": "Thu, 09 Apr 2026 17:58:17 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Тежок судир на булеварот „Борис Трајковски“ – повредени тинејџер-возач и малолетник",
+          "link": "https://netpress.com.mk/tezhok-sudir-na-bulevarot-boris-trajkovski-povredeni-tinejdher-vozach-i-maloletnik/",
+          "published": "Thu, 09 Apr 2026 17:51:26 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Трамп подготвува казни за „непослушните“ сојузници во НАТО и повлекување на САД од некои европски земји",
+          "link": "https://netpress.com.mk/tramp-podgotvuva-kazni-za-neposlushnite-sojuzniczi-vo-nato-i-povlekuvane-na-sad-od-nekoi-evropski-zemji/",
+          "published": "Thu, 09 Apr 2026 17:32:43 +0000"
         },
         {
           "source": "NetPress",
           "title": "Следниов период претежно со променливо облачно време, но ќе има и дождови",
           "link": "https://netpress.com.mk/sledniov-period-pretezhno-so-promenlivo-oblachno-vreme-no-ke-ima-i-dozhdovi/",
           "published": "Thu, 09 Apr 2026 17:06:01 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Променливо облачно и посвежо",
-          "link": "https://netpress.com.mk/promenlivo-oblachno-i-posvezho-3/",
-          "published": "Thu, 09 Apr 2026 16:36:16 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Тетовец избоден со нож по расправија во сообраќајот",
-          "link": "https://netpress.com.mk/tetovecz-izboden-so-nozh-po-raspravija-vo-soobrakajot/",
-          "published": "Thu, 09 Apr 2026 16:13:21 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Автобусите во Скопје од утре до вторник наутро по неделен возен ред",
-          "link": "https://netpress.com.mk/avtobusite-vo-skopje-od-utre-do-vtornik-nautro-po-nedelen-vozen-red/",
-          "published": "Thu, 09 Apr 2026 16:04:15 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Масовна тепачка со ножеви и стапови кај Кичево – уапсени девет лица од три града",
-          "link": "https://netpress.com.mk/masovna-tepachka-so-nozhevi-i-stapovi-kaj-kichevo-uapseni-devet-licza-od-tri-grada/",
-          "published": "Thu, 09 Apr 2026 15:55:46 +0000"
         }
       ]
     },
@@ -107,33 +107,33 @@
         },
         {
           "source": "Al Jazeera",
-          "title": "Humanitarian situation in Sudan at ‘catastrophic levels’, says NGO",
-          "link": "https://www.aljazeera.com/news/2026/4/9/humanitarian-situation-in-sudan-at-catastrophic-levels-says-ngo?traffic_source=rss",
-          "published": "Thu, 09 Apr 2026 16:16:09 +0000"
+          "title": "US Democrats warn Trump that Iran ceasefire must apply to Lebanon",
+          "link": "https://www.aljazeera.com/news/2026/4/9/us-democrats-warn-trump-that-iran-ceasefire-must-apply-to-lebanon?traffic_source=rss",
+          "published": "Thu, 09 Apr 2026 17:38:26 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "What Happens Inside Israel’s Detention System",
-          "link": "https://www.aljazeera.com/video/birds-eye-view/2026/4/9/what-happens-inside-israels-detention-system?traffic_source=rss",
-          "published": "Thu, 09 Apr 2026 16:04:40 +0000"
+          "title": "Sidon residents recall horror of Israeli strikes after Iran ceasefire",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/9/sidon-residents-recall-horror-of-israeli-strikes-after-iran-ceasefire?traffic_source=rss",
+          "published": "Thu, 09 Apr 2026 17:37:15 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "India’s Assam and Kerala states hold legislative assembly elections",
-          "link": "https://www.aljazeera.com/news/2026/4/9/indias-assam-and-kerala-states-hold-legislative-assembly-elections?traffic_source=rss",
-          "published": "Thu, 09 Apr 2026 15:54:26 +0000"
+          "title": "Does a US-Iran ceasefire mean the end of the war?",
+          "link": "https://www.aljazeera.com/video/the-take-2/2026/4/9/aje-onl-tt_irn_ceasefire_av_v2-090426?traffic_source=rss",
+          "published": "Thu, 09 Apr 2026 17:31:15 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Israel bombed Gaza on 36 of the past 40 days while the war raged in Iran",
-          "link": "https://www.aljazeera.com/news/2026/4/9/israel-bombed-gaza-on-36-of-the-past-40-days-while-the-war-raged-in-iran?traffic_source=rss",
-          "published": "Thu, 09 Apr 2026 15:53:33 +0000"
+          "title": "LA28 Olympics opens ticket sales globally after record local demand",
+          "link": "https://www.aljazeera.com/sports/2026/4/9/la28-olympics-opens-ticket-sales-globally-after-record-local-demand?traffic_source=rss",
+          "published": "Thu, 09 Apr 2026 17:23:41 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "A record-breaking field: What to expect from Peru’s presidential election",
-          "link": "https://www.aljazeera.com/news/2026/4/9/a-record-breaking-field-what-to-expect-from-perus-presidential-election?traffic_source=rss",
-          "published": "Thu, 09 Apr 2026 15:52:12 +0000"
+          "title": "IMF warns of looming inflation crisis on back of US-Israel war on Iran",
+          "link": "https://www.aljazeera.com/economy/2026/4/9/imf-warns-of-looming-inflation-crisis-on-back-of-us-israel-war-on-iran?traffic_source=rss",
+          "published": "Thu, 09 Apr 2026 17:23:22 +0000"
         }
       ]
     }
