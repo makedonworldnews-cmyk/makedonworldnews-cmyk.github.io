@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-09T19:40:44Z",
+  "updatedAt": "2026-04-09T20:35:13Z",
   "groups": [
     {
       "region": "Македонија",
@@ -42,6 +42,18 @@
         },
         {
           "source": "NetPress",
+          "title": "Нападнал референт на шумското стопанство во Штип и кршел во канцеларијата",
+          "link": "https://netpress.com.mk/napadnal-referent-na-shumskoto-stopanstvo-vo-shtip-i-krshel-vo-kanczelarijata/",
+          "published": "Thu, 09 Apr 2026 20:33:56 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Ширел омраза со помош на телефонот",
+          "link": "https://netpress.com.mk/shirel-omraza-so-pomosh-na-telefonot/",
+          "published": "Thu, 09 Apr 2026 20:25:28 +0000"
+        },
+        {
+          "source": "NetPress",
           "title": "Штипјанец се нафрлил на татка му во семејниот двор",
           "link": "https://netpress.com.mk/shtipjanecz-se-nafrlil-na-tatko-mu-vo-semejniot-dvor/",
           "published": "Thu, 09 Apr 2026 19:36:29 +0000"
@@ -57,18 +69,6 @@
           "title": "Постар струмичанец фатен со кокаин во автомобилот",
           "link": "https://netpress.com.mk/postar-strumichanecz-faten-so-kokain-vo-avtomobilot/",
           "published": "Thu, 09 Apr 2026 19:11:06 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Двајца трактористи на југот на Македонија ги загубија животите",
-          "link": "https://netpress.com.mk/dvajcza-traktoristi-na-jugot-na-makedonija-zhrtvi-na-nesreki/",
-          "published": "Thu, 09 Apr 2026 18:55:24 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Пијан охриѓанец се шетал со нелегална пушка на рамо",
-          "link": "https://netpress.com.mk/pijan-ohriganecz-se-shetal-so-nelegalna-pushka-na-ramo/",
-          "published": "Thu, 09 Apr 2026 18:31:00 +0000"
         }
       ]
     },
@@ -77,9 +77,9 @@
       "items": [
         {
           "source": "BBC",
-          "title": "'Endless fears': Even if fighting stops, the damage to Iran's children will endure",
-          "link": "https://www.bbc.com/news/articles/ce84ngmjz8zo?at_medium=RSS&at_campaign=rss",
-          "published": "Thu, 09 Apr 2026 16:06:39 GMT"
+          "title": "Israel to hold direct talks with Lebanon, Netanyahu says",
+          "link": "https://www.bbc.com/news/articles/cge0xre3d27o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 09 Apr 2026 20:04:28 GMT"
         },
         {
           "source": "BBC",
@@ -89,15 +89,15 @@
         },
         {
           "source": "BBC",
-          "title": "At least 182 killed across Lebanon in large wave of Israeli strikes",
-          "link": "https://www.bbc.com/news/articles/c0j6d538l6qo?at_medium=RSS&at_campaign=rss",
-          "published": "Wed, 08 Apr 2026 20:54:59 GMT"
-        },
-        {
-          "source": "BBC",
           "title": "Al Jazeera condemns killing of journalist in Israeli strike in Gaza",
           "link": "https://www.bbc.com/news/articles/cg40nqzvwq2o?at_medium=RSS&at_campaign=rss",
           "published": "Thu, 09 Apr 2026 11:39:56 GMT"
+        },
+        {
+          "source": "BBC",
+          "title": "'Endless fears': Even if fighting stops, the damage to Iran's children will endure",
+          "link": "https://www.bbc.com/news/articles/ce84ngmjz8zo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 09 Apr 2026 16:06:39 GMT"
         },
         {
           "source": "BBC",
@@ -107,33 +107,33 @@
         },
         {
           "source": "Al Jazeera",
-          "title": "US led ‘historic’ foreign aid decline in 2025 amid Trump cuts: OECD",
-          "link": "https://www.aljazeera.com/news/2026/4/9/us-led-historic-foreign-aid-decline-in-2025-amid-trump-cuts-oecd?traffic_source=rss",
-          "published": "Thu, 09 Apr 2026 19:01:21 +0000"
+          "title": "Khamenei says Tehran ‘astonished the world’ during US-Israeli war on Iran",
+          "link": "https://www.aljazeera.com/news/2026/4/9/khamenei-says-tehran-astonished-the-world-during-us-israeli-war-on-iran?traffic_source=rss",
+          "published": "Thu, 09 Apr 2026 20:16:45 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Scale of Beirut destruction revealed after wave of Israeli strikes",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/9/scale-of-beirut-destruction-revealed-after-wave-of-israeli-strikes?traffic_source=rss",
-          "published": "Thu, 09 Apr 2026 18:55:46 +0000"
+          "title": "Iran: Strait of Hormuz open with restrictions",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/9/iran-strait-of-hormuz-open-with-restrictions?traffic_source=rss",
+          "published": "Thu, 09 Apr 2026 20:13:18 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Iran says it ‘would be dumb’ for US to let Netanyahu kill diplomacy",
-          "link": "https://www.aljazeera.com/news/2026/4/9/iran-says-it-would-be-dumb-for-us-to-let-netanyahu-kill-diplomacy?traffic_source=rss",
-          "published": "Thu, 09 Apr 2026 18:49:00 +0000"
+          "title": "Saudi Arabia says operational activities halted at several energy sites",
+          "link": "https://www.aljazeera.com/news/2026/4/9/saudi-arabia-says-operational-activities-halted-at-several-energy-sites?traffic_source=rss",
+          "published": "Thu, 09 Apr 2026 20:09:52 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Iranians rally nationwide to honour late leader Ali Khamenei",
-          "link": "https://www.aljazeera.com/gallery/2026/4/9/iranians-rally-nationwide-to-honor-late-leader-ali-khamenei?traffic_source=rss",
-          "published": "Thu, 09 Apr 2026 18:23:47 +0000"
+          "title": "US fertility rate drops to all-time low, continuing a two-decade decline",
+          "link": "https://www.aljazeera.com/news/2026/4/9/us-fertility-rate-drops-to-all-time-low-continuing-a-two-decade-decline?traffic_source=rss",
+          "published": "Thu, 09 Apr 2026 19:30:36 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "‘Not some piece of ice’: Greenland hits back at Trump insult",
-          "link": "https://www.aljazeera.com/news/2026/4/9/not-some-piece-of-ice-greenland-hits-back-at-trump-insult?traffic_source=rss",
-          "published": "Thu, 09 Apr 2026 18:22:55 +0000"
+          "title": "Why is Hezbollah a sticking point in the Iran ceasefire?",
+          "link": "https://www.aljazeera.com/video/inside-story/2026/4/9/why-is-hezbollah-a-sticking-point-in-the-iran-ceasefire?traffic_source=rss",
+          "published": "Thu, 09 Apr 2026 19:17:44 +0000"
         }
       ]
     }
