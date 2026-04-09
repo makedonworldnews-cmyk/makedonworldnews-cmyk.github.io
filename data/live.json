@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-08T23:35:09Z",
+  "generated_at": "2026-04-09T00:01:47Z",
   "items": [
     {
       "region": "Македонија",
@@ -109,6 +109,13 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "‘Israel must be restrained for US-Iran ceasefire to hold’",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/8/israel-must-be-restrained-for-us-iran-ceasefire-to?traffic_source=rss",
+      "published": "Wed, 08 Apr 2026 23:39:52 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "Woman given 15 years for role supplying drugs linked to Matthew Perry death",
       "link": "https://www.aljazeera.com/news/2026/4/8/woman-given-15-years-for-role-supplying-drugs-linked-to-matthew-perry-death?traffic_source=rss",
       "published": "Wed, 08 Apr 2026 22:49:22 +0000"
@@ -133,13 +140,6 @@
       "title": "Prosecutors move to subpoena Tiger Woods’ prescription drug records",
       "link": "https://www.aljazeera.com/sports/2026/4/8/prosecutors-move-to-subpoena-tiger-woods-prescription-drug-records?traffic_source=rss",
       "published": "Wed, 08 Apr 2026 21:50:24 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Trump administration signals it is mulling NATO withdrawal after Iran war",
-      "link": "https://www.aljazeera.com/news/2026/4/8/trump-administration-says-it-is-mulling-nato-withdrawal-after-iran-war?traffic_source=rss",
-      "published": "Wed, 08 Apr 2026 21:47:23 +0000"
     }
   ]
 }
