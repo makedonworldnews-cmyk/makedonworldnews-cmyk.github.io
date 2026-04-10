@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-09T23:59:02Z",
+  "generated_at": "2026-04-10T02:48:07Z",
   "items": [
     {
       "region": "Македонија",
@@ -74,6 +74,13 @@
     {
       "region": "Свет",
       "source": "BBC",
+      "title": "Trump says Iran's handling of Strait of Hormuz is 'not the agreement we have'",
+      "link": "https://www.bbc.com/news/articles/cge0xre3d27o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 10 Apr 2026 02:10:44 GMT"
+    },
+    {
+      "region": "Свет",
+      "source": "BBC",
       "title": "Ceasefire or no ceasefire, the Middle East's reshuffling is not yet done",
       "link": "https://www.bbc.com/news/articles/cp3l4yk5rlgo?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 09 Apr 2026 23:01:47 GMT"
@@ -101,10 +108,24 @@
     },
     {
       "region": "Свет",
-      "source": "BBC",
-      "title": "Al Jazeera condemns killing of journalist in Israeli strike in Gaza",
-      "link": "https://www.bbc.com/news/articles/cg40nqzvwq2o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 09 Apr 2026 11:39:56 GMT"
+      "source": "Al Jazeera",
+      "title": "Riot police push back protesters demanding higher wages in Venezuela",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/10/riot-police-push-back-protesters-demanding-higher-wages-in-venezuela?traffic_source=rss",
+      "published": "Fri, 10 Apr 2026 02:21:29 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Iran war live: Israeli attacks on Lebanon threaten US-Iran ceasefire talks",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/4/10/iran-war-live-israeli-attacks-on-lebanon-threaten-us-iran-ceasefire-talks?traffic_source=rss",
+      "published": "Fri, 10 Apr 2026 00:00:00 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Video shows explosion over Erbil in suspected drone interception",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/9/video-shows-explosion-over-erbil-in-suspected-drone-interception?traffic_source=rss",
+      "published": "Thu, 09 Apr 2026 23:50:16 +0000"
     },
     {
       "region": "Свет",
@@ -119,27 +140,6 @@
       "title": "Iran’s Supreme Leader Mojtaba Khamenei says ‘we seek compensation, not war’",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/4/9/irans-supreme-leader-mojtaba-khamenei-says-we-seek-compensation-not?traffic_source=rss",
       "published": "Thu, 09 Apr 2026 23:16:47 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Police in Venezuela block protesters calling for higher wages, pensions",
-      "link": "https://www.aljazeera.com/news/2026/4/9/police-in-venezuela-block-protesters-calling-for-higher-wages-pensions?traffic_source=rss",
-      "published": "Thu, 09 Apr 2026 22:50:43 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "US-Iran ceasefire: Uncertainty over what’s next",
-      "link": "https://www.aljazeera.com/video/this-is-america/2026/4/9/us-iran-ceasefire-uncertainty-over-whats-next?traffic_source=rss",
-      "published": "Thu, 09 Apr 2026 22:48:25 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Judge bars Trump administration from nixing protected status for Ethiopians",
-      "link": "https://www.aljazeera.com/news/2026/4/9/judge-bars-trump-administration-from-nixing-protected-status-for-ethiopians?traffic_source=rss",
-      "published": "Thu, 09 Apr 2026 22:35:26 +0000"
     }
   ]
 }
