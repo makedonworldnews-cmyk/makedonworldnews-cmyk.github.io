@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-10T17:30:51Z",
+  "updatedAt": "2026-04-10T18:30:53Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Хезболах го предупреди Либан пред разговорите во Вашингтон",
+          "link": "https://makfax.com.mk/svet/hezbolah-go-predupredi-liban-pred-razgovorite-vo-vashington/",
+          "published": "Fri, 10 Apr 2026 17:46:16 +0000"
         },
         {
           "source": "Makfax",
@@ -35,40 +41,34 @@
           "published": "Fri, 10 Apr 2026 17:00:28 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Интер без Лаутаро против Комо",
-          "link": "https://makfax.com.mk/sport/inter-bez-lautaro-protiv-komo/",
-          "published": "Fri, 10 Apr 2026 16:56:57 +0000"
+          "source": "NetPress",
+          "title": "Илир Мета му се заблагодари на Александар Николоски за поддршката",
+          "link": "https://netpress.com.mk/ilir-meta-mu-se-zablagodari-na-aleksandar-nikoloski-za-poddrshkata/",
+          "published": "Fri, 10 Apr 2026 18:28:52 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Мисајловски од Пентагон: Сојузништвото со САД на исклучително високо ниво",
-          "link": "https://netpress.com.mk/misajlovski-od-pentagon-sojuznishtvoto-so-sad-na-iskluchitelno-visoko-nivo/",
-          "published": "Fri, 10 Apr 2026 17:27:51 +0000"
+          "title": "Тешко повреден постар скопјанец на мопед",
+          "link": "https://netpress.com.mk/teshko-povreden-postar-skopjanecz-na-moped/",
+          "published": "Fri, 10 Apr 2026 18:07:15 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Прв и втор ден Велигден суви, потоа дожд",
-          "link": "https://netpress.com.mk/prv-i-vtor-den-veligden-suvi-potoa-dozhd/",
-          "published": "Fri, 10 Apr 2026 17:02:22 +0000"
+          "title": "Лидерот на крајнодесничарската партија нов претседател на словенечкиот парламент",
+          "link": "https://netpress.com.mk/liderot-na-krajnodesnicharskata-partija-nov-pretsedatel-na-slovenechkiot-parlament/",
+          "published": "Fri, 10 Apr 2026 18:06:27 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Цените на нафтата се искачија над 97 долари",
-          "link": "https://netpress.com.mk/czenite-na-naftata-se-iskachija-nad-97-dolari/",
-          "published": "Fri, 10 Apr 2026 16:50:31 +0000"
+          "title": "Германија со воена бригада во Литванија го зајакнува источното крило на НАТО",
+          "link": "https://netpress.com.mk/germanija-so-voena-brigada-vo-litvanija-go-zajaknuva-istochnoto-krilo-na-nato/",
+          "published": "Fri, 10 Apr 2026 17:52:18 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Променливо облачно утре, вечерта и ноќта со врнежи",
-          "link": "https://netpress.com.mk/promenlivo-oblachno-utre-vecherta-i-nokta-so-vrnezhi/",
-          "published": "Fri, 10 Apr 2026 16:40:52 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Новите полициски пежоа почнаа „да се појавуваат“ во сообраќајки",
-          "link": "https://netpress.com.mk/novite-policziski-pezhoa-pochnaa-da-se-pojavuvaat-vo-soobrakajki/",
-          "published": "Fri, 10 Apr 2026 16:18:50 +0000"
+          "title": "Исламабад под силно обезбедување пред почетокот на американско-иранските преговори",
+          "link": "https://netpress.com.mk/islamabad-pod-silno-obezbeduvane-pred-pochetokot-na-amerikansko-iranskite-pregovori/",
+          "published": "Fri, 10 Apr 2026 17:31:28 +0000"
         }
       ]
     },
@@ -91,7 +91,7 @@
           "source": "BBC",
           "title": "Prince Harry sued for defamation by charity Sentebale he co-founded",
           "link": "https://www.bbc.com/news/articles/cr517n2v7myo?at_medium=RSS&at_campaign=rss",
-          "published": "Fri, 10 Apr 2026 17:07:46 GMT"
+          "published": "Fri, 10 Apr 2026 18:29:16 GMT"
         },
         {
           "source": "BBC",
@@ -107,6 +107,24 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Is the US-Iran ceasefire already doomed?",
+          "link": "https://www.aljazeera.com/opinions/2026/4/10/is-trumps-iran-ceasefire-already-doomed?traffic_source=rss",
+          "published": "Fri, 10 Apr 2026 18:01:47 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "OIC condemns Israeli approval of 34 new West Bank settlements",
+          "link": "https://www.aljazeera.com/news/2026/4/10/oic-condemns-israeli-approval-of-34-new-west-bank-settlements?traffic_source=rss",
+          "published": "Fri, 10 Apr 2026 18:01:35 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "US federal court hears new case against Trump tariffs",
+          "link": "https://www.aljazeera.com/economy/2026/4/10/us-federal-court-hears-new-case-against-trump-tariffs?traffic_source=rss",
+          "published": "Fri, 10 Apr 2026 17:35:45 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Hawaii’s Kilauea erupts, blasting lava sky-high",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/4/10/hawaiis-kilauea-erupts-blasting-lava-sky-high?traffic_source=rss",
           "published": "Fri, 10 Apr 2026 17:11:16 +0000"
@@ -116,24 +134,6 @@
           "title": "Starmer and Trump talked military options to reopen Strait of Hormuz",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/4/10/starmer-and-trump-talked-military-options-to-reopen-strait-of-hormuz?traffic_source=rss",
           "published": "Fri, 10 Apr 2026 17:03:30 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Israeli settlers turn Passover into celebration of ethnic cleansing",
-          "link": "https://www.aljazeera.com/features/2026/4/10/israeli-settlers-turn-passover-celebration-ethnic-cleansing?traffic_source=rss",
-          "published": "Fri, 10 Apr 2026 16:56:41 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Netanyahu removes Spain from Gaza coordination centre over ‘hostility’",
-          "link": "https://www.aljazeera.com/news/2026/4/10/netanyahu-removes-spain-from-gaza-coordination-centre-over-hostility?traffic_source=rss",
-          "published": "Fri, 10 Apr 2026 16:39:40 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "JD Vance expects ‘positive’ US-Iran war talks as he departs for Pakistan",
-          "link": "https://www.aljazeera.com/news/2026/4/10/jd-vance-expects-positive-us-iran-war-talks-as-he-departs-for-pakistan?traffic_source=rss",
-          "published": "Fri, 10 Apr 2026 16:05:36 +0000"
         }
       ]
     }
