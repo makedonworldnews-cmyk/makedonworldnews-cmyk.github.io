@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-10T21:38:42Z",
+  "updatedAt": "2026-04-10T22:19:51Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Карлик Џонс го продолжи договорот со Партизан",
+          "link": "https://makfax.com.mk/sport/karlik-dhons-go-prodolzhi-dogovorot-so-partizan/",
+          "published": "Fri, 10 Apr 2026 21:43:57 +0000"
         },
         {
           "source": "Makfax",
@@ -35,10 +41,10 @@
           "published": "Fri, 10 Apr 2026 20:49:26 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Шпанскиот премиер повикува на создавање ЕУ војска: „Не за 10 години, туку утре“",
-          "link": "https://makfax.com.mk/svet/shpanskiot-premier-povikuva-na-sozdavanje-eu-vojska-ne-za-10-godini-tuku-utre/",
-          "published": "Fri, 10 Apr 2026 20:44:07 +0000"
+          "source": "NetPress",
+          "title": "Ла Лига: Нов кикс на Реал, Жирона однесе бод од Мадрид",
+          "link": "https://netpress.com.mk/la-liga-nov-kiks-na-real-zhirona-odnese-bod-od-madrid/",
+          "published": "Fri, 10 Apr 2026 21:46:25 +0000"
         },
         {
           "source": "NetPress",
@@ -63,12 +69,6 @@
           "title": "Пред влезот во Стара Чаршија нападнат вработен во Општина Центар",
           "link": "https://netpress.com.mk/pred-vlezot-vo-stara-charshija-napadnat-vraboten-vo-opshtina-czentar/",
           "published": "Fri, 10 Apr 2026 20:51:40 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Бундеслига: Хофенхајм извади реми кај Аугзбург",
-          "link": "https://netpress.com.mk/bundesliga-hofenhajm-izvadi-remi-kaj-augzburg/",
-          "published": "Fri, 10 Apr 2026 20:49:22 +0000"
         }
       ]
     },
@@ -107,33 +107,33 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Iranian delegation arrives in Islamabad for talks with US",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/10/iranian-delegation-arrives-in-islamabad-for-talks-with-us?traffic_source=rss",
+          "published": "Fri, 10 Apr 2026 21:59:21 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Islamabad on lockdown ahead of US-Iran talks",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/10/islamabad-on-lockdown-ahead-of-us-iran-talks?traffic_source=rss",
+          "published": "Fri, 10 Apr 2026 21:58:14 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Real Madrid hand Barcelona huge La Liga title chance after draw with Girona",
+          "link": "https://www.aljazeera.com/sports/2026/4/10/real-madrid-hand-barcelona-huge-la-liga-title-chance-after-draw-with-girona?traffic_source=rss",
+          "published": "Fri, 10 Apr 2026 21:23:29 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Muslims hold first Friday prayers at Al-Aqsa Mosque after reopening",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/10/muslims-hold-first-friday-prayers-at-al-aqsa-mosque-after-reopening?traffic_source=rss",
+          "published": "Fri, 10 Apr 2026 21:15:45 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Why is Hungary’s election so important on the international stage?",
           "link": "https://www.aljazeera.com/video/inside-story/2026/4/10/why-is-hungarys-election-so-important-on-the-international-stage?traffic_source=rss",
           "published": "Fri, 10 Apr 2026 20:38:52 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "NASA’s Artemis II prepares for splashdown on Earth",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/10/nasas-artemis-ii-prepares-for-splashdown-on-earth?traffic_source=rss",
-          "published": "Fri, 10 Apr 2026 20:32:41 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Democrat Kamala Harris teases 2028 presidential bid, following Trump loss",
-          "link": "https://www.aljazeera.com/news/2026/4/10/democrat-kamala-harris-teases-2028-presidential-bid-following-trump-loss?traffic_source=rss",
-          "published": "Fri, 10 Apr 2026 20:24:03 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "US-Iran negotiations in Islamabad: What to expect?",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/10/us-iran-negotiations-in-islamabad-what-to-expect?traffic_source=rss",
-          "published": "Fri, 10 Apr 2026 20:19:54 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Prince Harry sued for defamation by Sentebale charity he co-founded",
-          "link": "https://www.aljazeera.com/news/2026/4/10/prince-harry-sued-for-defamation-by-sentebale-charity-he-co-founded?traffic_source=rss",
-          "published": "Fri, 10 Apr 2026 20:05:01 +0000"
         }
       ]
     }
