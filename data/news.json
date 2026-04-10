@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-10T01:05:42Z",
+  "updatedAt": "2026-04-10T04:16:12Z",
   "groups": [
     {
       "region": "Македонија",
@@ -42,6 +42,18 @@
         },
         {
           "source": "NetPress",
+          "title": "Повторно кражба на накит во Скопје",
+          "link": "https://netpress.com.mk/povtorno-krazhba-na-nakit-vo-skopje/",
+          "published": "Fri, 10 Apr 2026 04:16:00 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Повредени возач на мопед и неговиот сопатник",
+          "link": "https://netpress.com.mk/povredeni-vozach-na-moped-i-negoviot-sopatnik/",
+          "published": "Fri, 10 Apr 2026 04:09:06 +0000"
+        },
+        {
+          "source": "NetPress",
           "title": "Евролига: Валенсија подобра од Панатинаикос, Реал славеше во Истанбул",
           "link": "https://netpress.com.mk/evroliga-valensija-podobra-od-panatinaikos-real-slaveshe-vo-istanbul/",
           "published": "Thu, 09 Apr 2026 22:31:15 +0000"
@@ -57,24 +69,18 @@
           "title": "Путин објави велигденско промирје, го очекува тоа и од Украина",
           "link": "https://netpress.com.mk/putin-objavi-veligdensko-promirje-go-ochekuva-toa-i-od-ukraina/",
           "published": "Thu, 09 Apr 2026 21:44:55 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Хамнеи најавува нова фаза во управувањето со Ормутскиот теснец",
-          "link": "https://netpress.com.mk/hamnei-najavuva-nova-faza-vo-upravuvaneto-so-ormutskiot-tesnecz/",
-          "published": "Thu, 09 Apr 2026 21:31:09 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Запленет пиштол во Дебар",
-          "link": "https://netpress.com.mk/zaplenet-pishtol-vo-debar/",
-          "published": "Thu, 09 Apr 2026 20:58:01 +0000"
         }
       ]
     },
     {
       "region": "Свет",
       "items": [
+        {
+          "source": "BBC",
+          "title": "Trump says Iran's handling of Strait of Hormuz is 'not the agreement we have'",
+          "link": "https://www.bbc.com/news/articles/cge0xre3d27o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 10 Apr 2026 02:10:44 GMT"
+        },
         {
           "source": "BBC",
           "title": "Ceasefire or no ceasefire, the Middle East's reshuffling is not yet done",
@@ -95,15 +101,27 @@
         },
         {
           "source": "BBC",
-          "title": "Russia and Ukraine agree to truce for Orthodox Easter",
-          "link": "https://www.bbc.com/news/articles/cn0wkkwev2vo?at_medium=RSS&at_campaign=rss",
-          "published": "Thu, 09 Apr 2026 22:33:48 GMT"
+          "title": "White House staff told not to place bets on prediction markets",
+          "link": "https://www.bbc.com/news/articles/cgld65x396go?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 10 Apr 2026 02:32:27 GMT"
         },
         {
-          "source": "BBC",
-          "title": "Al Jazeera condemns killing of journalist in Israeli strike in Gaza",
-          "link": "https://www.bbc.com/news/articles/cg40nqzvwq2o?at_medium=RSS&at_campaign=rss",
-          "published": "Thu, 09 Apr 2026 11:39:56 GMT"
+          "source": "Al Jazeera",
+          "title": "UK PM Keir Starmer visits Gulf to shore up ‘fragile’ US-Iran ceasefire",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/10/uk-pm-keir-starmer-visits-gulf-to-shore-up-fragile-us-iran-ceasefire?traffic_source=rss",
+          "published": "Fri, 10 Apr 2026 03:13:44 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Shipping in Strait of Hormuz still at a trickle despite US-Iran ceasefire",
+          "link": "https://www.aljazeera.com/economy/2026/4/10/shipping-in-strait-of-hormuz-at-a-trickle-despite-us-iran-ceasefire?traffic_source=rss",
+          "published": "Fri, 10 Apr 2026 02:47:13 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Riot police push back protesters demanding higher wages in Venezuela",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/10/riot-police-push-back-protesters-demanding-higher-wages-in-venezuela?traffic_source=rss",
+          "published": "Fri, 10 Apr 2026 02:21:29 +0000"
         },
         {
           "source": "Al Jazeera",
@@ -116,24 +134,6 @@
           "title": "Video shows explosion over Erbil in suspected drone interception",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/4/9/video-shows-explosion-over-erbil-in-suspected-drone-interception?traffic_source=rss",
           "published": "Thu, 09 Apr 2026 23:50:16 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Ecuador hikes tariffs to 100-percent in feud with neighbour Colombia",
-          "link": "https://www.aljazeera.com/news/2026/4/9/ecuador-hikes-tariffs-to-100-percent-in-feud-with-neighbour-colombia?traffic_source=rss",
-          "published": "Thu, 09 Apr 2026 23:33:53 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Iran’s Supreme Leader Mojtaba Khamenei says ‘we seek compensation, not war’",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/9/irans-supreme-leader-mojtaba-khamenei-says-we-seek-compensation-not?traffic_source=rss",
-          "published": "Thu, 09 Apr 2026 23:16:47 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Police in Venezuela block protesters calling for higher wages, pensions",
-          "link": "https://www.aljazeera.com/news/2026/4/9/police-in-venezuela-block-protesters-calling-for-higher-wages-pensions?traffic_source=rss",
-          "published": "Thu, 09 Apr 2026 22:50:43 +0000"
         }
       ]
     }
