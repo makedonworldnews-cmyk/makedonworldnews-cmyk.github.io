@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-11T18:21:18Z",
+  "updatedAt": "2026-04-11T19:11:05Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,24 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) Тинејџерот Нгумоа го раздвижи Ливерпул – „Црвените“ славеа против Фулам",
+          "link": "https://makfax.com.mk/sport/video-tinejdherot-ngumoa-go-razdvizhi-liverpul-crvenite-slavea-protiv-fulam/",
+          "published": "Sat, 11 Apr 2026 18:57:59 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) Јамал доминираше во градското дерби – Барселона го победи Еспањол",
+          "link": "https://makfax.com.mk/sport/video-jamal-dominirashe-vo-gradskoto-derbi-barselona-go-pobedi-espanjol/",
+          "published": "Sat, 11 Apr 2026 18:54:03 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "САД и Иран ја завршија првата фаза од преговорите во Исламабад",
+          "link": "https://makfax.com.mk/svet/sad-i-iran-ja-zavrshija-prvata-faza-od-pregovorite-vo-islamabad/",
+          "published": "Sat, 11 Apr 2026 18:45:47 +0000"
         },
         {
           "source": "Makfax",
@@ -23,22 +41,10 @@
           "published": "Sat, 11 Apr 2026 17:20:53 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Деветгодишно дете извадено од комбе во кое било заклучено од 2024 година во Франција",
-          "link": "https://makfax.com.mk/svet/devetgodishno-dete-izvadeno-od-kombe-vo-koe-bilo-zaklucheno-od-2024-godina-vo-francija/",
-          "published": "Sat, 11 Apr 2026 17:02:00 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "(Видео) Столе еднаш капитулираше, Валенсија загуби од Елче",
-          "link": "https://makfax.com.mk/sport/video-stole-ednash-kapitulirashe-valensija-zagubi-od-elche/",
-          "published": "Sat, 11 Apr 2026 16:40:58 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "ПСЖ ќе го потпише Енрике до 2030 година",
-          "link": "https://makfax.com.mk/sport/pszh-ke-go-potpishe-enrike-do-2030-godina/",
-          "published": "Sat, 11 Apr 2026 16:30:59 +0000"
+          "source": "NetPress",
+          "title": "Макрон го повикува Иран да ја искористи можноста за мировен договор",
+          "link": "https://netpress.com.mk/makron-go-povikuva-iran-da-ja-iskoristi-mozhnosta-za-miroven-dogovor/",
+          "published": "Sat, 11 Apr 2026 18:34:34 +0000"
         },
         {
           "source": "NetPress",
@@ -63,12 +69,6 @@
           "title": "Израел фрлил 18.000 бомби врз Иран во нападите од крајот на февраури",
           "link": "https://netpress.com.mk/izrael-frlil-18-000-bombi-vrz-iran-vo-napadite-od-krajot-na-fevrauri/",
           "published": "Sat, 11 Apr 2026 16:50:47 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Трамп во Вашингтон ja сака „најубавата“ триумфална порта во светот",
-          "link": "https://netpress.com.mk/tramp-vo-vashington-ja-saka-najubavata-triumfalna-porta-vo-svetot/",
-          "published": "Sat, 11 Apr 2026 16:13:53 +0000"
         }
       ]
     },
@@ -107,33 +107,33 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "US appeals court extends deadline to halt White House ballroom construction",
+          "link": "https://www.aljazeera.com/news/2026/4/11/us-appeals-court-extends-deadline-to-halt-white-house-ballroom-construction?traffic_source=rss",
+          "published": "Sat, 11 Apr 2026 18:58:53 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Israeli settlers kill Palestinian during raid on occupied West Bank village",
+          "link": "https://www.aljazeera.com/news/2026/4/11/israeli-settlers-kill-palestinian-during-raid-on-occupied-west-bank-village?traffic_source=rss",
+          "published": "Sat, 11 Apr 2026 18:47:48 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Iranian rabbi describes Israel’s destruction of a Tehran synagogue",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/11/iranian-rabbi-describes-israels-destruction-of-a-tehran-synagogue?traffic_source=rss",
+          "published": "Sat, 11 Apr 2026 18:36:39 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "LIVE: Tyson Fury vs Arslanbek Makhmudov – heavyweight boxing match",
+          "link": "https://www.aljazeera.com/sports/liveblog/2026/4/11/live-tyson-fury-vs-arslanbek-makhmudov-heavyweight-boxing-match?traffic_source=rss",
+          "published": "Sat, 11 Apr 2026 18:33:19 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Gaza families mourn loved ones killed in overnight Israeli air strikes",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/4/11/gaza-families-mourn-loved-ones-killed-in-overnight-israeli-air-strikes?traffic_source=rss",
           "published": "Sat, 11 Apr 2026 18:02:34 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Vigil held in Madrid for victims of Israeli strikes on Lebanon",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/11/vigil-held-in-madrid-for-victims-of-israeli-strikes-on-lebanon?traffic_source=rss",
-          "published": "Sat, 11 Apr 2026 17:32:24 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Ceasefire brings some relief for Iranians but economic outlook remains grim",
-          "link": "https://www.aljazeera.com/news/2026/4/11/ceasefire-brings-some-relief-for-iranians-but-economic-outlook-remains-grim?traffic_source=rss",
-          "published": "Sat, 11 Apr 2026 17:29:23 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Iraq parliament elects Kurdish politician Nizar Amedi as president",
-          "link": "https://www.aljazeera.com/news/2026/4/11/iraq-parliament-elects-kurdish-politician-nizar-amedi-as-president?traffic_source=rss",
-          "published": "Sat, 11 Apr 2026 17:24:02 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Strait of Hormuz leverage looms over US-Iran talks in Islamabad",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/11/strait-of-hormuz-leverage-looms-over-us-iran-talks-in-islamabad?traffic_source=rss",
-          "published": "Sat, 11 Apr 2026 17:15:05 +0000"
         }
       ]
     }
