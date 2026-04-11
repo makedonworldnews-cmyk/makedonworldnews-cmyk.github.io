@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-11T06:33:52Z",
+  "updatedAt": "2026-04-11T07:35:40Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,24 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Земјотрес од 3.1 според Рихтер ноќеска регистриран во Делчево  Берово",
+          "link": "https://makfax.com.mk/makedonija/zemjotres-od-3-1-spored-rihter-nokeska-registriran-vo-delchevo-berovo/",
+          "published": "Sat, 11 Apr 2026 07:24:59 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Локален дожд претпладне и температура до 16 степени прогнозира УХМР за денес",
+          "link": "https://makfax.com.mk/makedonija/lokalen-dozhd-pretpladne-i-temperatura-do-16-stepeni-prognozira-uhmr-za-denes/",
+          "published": "Sat, 11 Apr 2026 07:13:43 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) Астронаутите на „Артемис 2“ слетаа на Земјата",
+          "link": "https://makfax.com.mk/svet/video-astronautite-na-artemis-2-sletaa-na-zemjata/",
+          "published": "Sat, 11 Apr 2026 06:50:05 +0000"
         },
         {
           "source": "Makfax",
@@ -23,52 +41,34 @@
           "published": "Fri, 10 Apr 2026 21:43:57 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "(Видео) „Чеканите“ го оставија Тотенхем во зоната за испаѓање",
-          "link": "https://makfax.com.mk/sport/video-chekanite-go-ostavija-totenhem-vo-zonata-za-ispaganje/",
-          "published": "Fri, 10 Apr 2026 21:18:56 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "(Видео) Реал повторно разочара, не успеа дома да ја победи Џирона",
-          "link": "https://makfax.com.mk/sport/video-real-povtorno-razochara-ne-uspea-doma-da-ja-pobedi-dhirona/",
-          "published": "Fri, 10 Apr 2026 21:11:56 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "(Видео) Хет-трик на Мален, Рома лесно се справи со Пиза",
-          "link": "https://makfax.com.mk/sport/video-het-trik-na-malen-roma-lesno-se-spravi-so-piza/",
-          "published": "Fri, 10 Apr 2026 20:56:56 +0000"
+          "source": "NetPress",
+          "title": "Кина и Северна Кореја треба да ја продлабочат соработката, сметаат во Пекинг",
+          "link": "https://netpress.com.mk/kina-i-severna-koreja-treba-da-ja-prodlabochat-sorabotkata-smetaat-vo-peking/",
+          "published": "Sat, 11 Apr 2026 07:33:46 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Премиер лига: Вест Хем убедлив против Вулверхемптон",
-          "link": "https://netpress.com.mk/premier-liga-vest-hem-ubedliv-protiv-vulverhempton/",
-          "published": "Sat, 11 Apr 2026 06:27:42 +0000"
+          "title": "Инфлацијата во САД остро забрза во март",
+          "link": "https://netpress.com.mk/inflaczijata-vo-sad-ostro-zabrza-vo-mart/",
+          "published": "Sat, 11 Apr 2026 07:27:58 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Камала Харис вели дека би можела повторно да се кандидира на претседателските избори во 2028-ма",
-          "link": "https://netpress.com.mk/kamala-haris-veli-deka-bi-mozhela-povtorno-da-se-kandidira-na-pretsedatelskite-izbori-vo-2028-ma/",
-          "published": "Sat, 11 Apr 2026 06:07:23 +0000"
+          "title": "ВИДЕО| Американските астронаутите слетаа на Земјата, завршувајќи ја десетдневната лунарна мисија",
+          "link": "https://netpress.com.mk/video-amerikanskite-astronautite-sletaa-na-zemjata-zavrshuvajki-ja-desetdnevnata-lunarna-misija/",
+          "published": "Sat, 11 Apr 2026 07:17:48 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Велика сабота, спомен на телесното погребение на Исус Христос и слегувањето во адот",
-          "link": "https://netpress.com.mk/velika-sabota-spomen-na-telesnoto-pogrebenie-na-isus-hristos-i-sleguvanjeto-vo-adot/",
-          "published": "Sat, 11 Apr 2026 05:47:20 +0000"
+          "title": "Шпанија подготвена веднаш да работи на создавање војска на ЕУ",
+          "link": "https://netpress.com.mk/shpanija-podgotvena-vednash-da-raboti-na-sozdavane-vojska-na-eu/",
+          "published": "Sat, 11 Apr 2026 07:07:52 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Дневен хороскоп за саботата, 11-ти април 2026-та",
-          "link": "https://netpress.com.mk/dneven-horoskop-za-sabotata-11-ti-april-2026-ta/",
-          "published": "Sat, 11 Apr 2026 05:27:01 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Променливо облачно со услови за локални врнежи",
-          "link": "https://netpress.com.mk/promenlivo-oblachno-so-uslovi-za-lokalni-vrnezhi-2/",
-          "published": "Sat, 11 Apr 2026 05:07:19 +0000"
+          "title": "Eвролига: Преглед на резултатите од 37-то коло",
+          "link": "https://netpress.com.mk/evroliga-pregled-na-rezultatite-od-37-to-kolo/",
+          "published": "Sat, 11 Apr 2026 06:47:50 +0000"
         }
       ]
     },
@@ -107,6 +107,18 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Chelsea vs Manchester City: Premier League – team news, start, lineups",
+          "link": "https://www.aljazeera.com/sports/2026/4/11/chelsea-vs-manchester-city-premier-league-team-news-start-lineups?traffic_source=rss",
+          "published": "Sat, 11 Apr 2026 07:16:05 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Djibouti’s President Guelleh wins sixth straight term in office",
+          "link": "https://www.aljazeera.com/news/2026/4/11/djiboutis-president-guelleh-claims-sixth-straight-term-in-office?traffic_source=rss",
+          "published": "Sat, 11 Apr 2026 06:26:36 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Iran war: What is happening on day 43 of the US-Iran conflict?",
           "link": "https://www.aljazeera.com/news/2026/4/11/iran-war-what-is-happening-on-day-43-of-the-us-iran-conflict?traffic_source=rss",
           "published": "Sat, 11 Apr 2026 04:49:17 +0000"
@@ -122,18 +134,6 @@
           "title": "Pakistan’s prime minister calls US-Iran talks ‘make or break’",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/4/11/pakistans-prime-minister-calls-us-iran-talks-make-or?traffic_source=rss",
           "published": "Sat, 11 Apr 2026 04:02:42 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Title: Artemis II astronauts journey back to Earth after Moon mission",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/11/artemis-ii-astronauts-journey-back-to-earth-after-moon-mission?traffic_source=rss",
-          "published": "Sat, 11 Apr 2026 03:16:23 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Trump says Strait of Hormuz to reopen ‘soon’ as US, Iran head to talks",
-          "link": "https://www.aljazeera.com/economy/2026/4/11/trump-says-strait-of-hormuz-to-reopen-soon-as-us-iran-head-to-talks?traffic_source=rss",
-          "published": "Sat, 11 Apr 2026 03:06:18 +0000"
         }
       ]
     }
