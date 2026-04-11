@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-11T16:58:28Z",
+  "updatedAt": "2026-04-11T17:40:36Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Утре избори во Унгарија, анкетите покажуваат водство на опозицијата",
+          "link": "https://makfax.com.mk/svet/utre-izbori-vo-ungarija-anketite-pokazhuvaat-vodstvo-na-opozicijata/",
+          "published": "Sat, 11 Apr 2026 17:20:53 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Деветгодишно дете извадено од комбе во кое било заклучено од 2024 година во Франција",
+          "link": "https://makfax.com.mk/svet/devetgodishno-dete-izvadeno-od-kombe-vo-koe-bilo-zaklucheno-od-2024-godina-vo-francija/",
+          "published": "Sat, 11 Apr 2026 17:02:00 +0000"
         },
         {
           "source": "Makfax",
@@ -29,16 +41,10 @@
           "published": "Sat, 11 Apr 2026 16:22:59 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Дождот престана, ведра ноќ прогнозира УХМР",
-          "link": "https://makfax.com.mk/makedonija/dozhdot-prestana-vedra-nok-prognozira-uhmr/",
-          "published": "Sat, 11 Apr 2026 16:11:41 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Боите што ги впиваме во велигденските јајца се израз на животот што победува, порача претседателката Сиљановска-Давкова",
-          "link": "https://makfax.com.mk/makedonija/boite-shto-gi-vpivame-vo-veligdenskite-jajca-se-izraz-na-zhivotot-shto-pobeduva-poracha-pretsedatelkata-siljanovska-davkova/",
-          "published": "Sat, 11 Apr 2026 15:46:31 +0000"
+          "source": "NetPress",
+          "title": "Британското кралско семејство ќе го одбележи 100-годишнината од раѓањето на кралицата Елизабета",
+          "link": "https://netpress.com.mk/britanskoto-kralsko-semejstvo-ke-go-odbelezhi-100-godishninata-od-raganeto-na-kraliczata-elizabeta/",
+          "published": "Sat, 11 Apr 2026 17:29:04 +0000"
         },
         {
           "source": "NetPress",
@@ -63,12 +69,6 @@
           "title": "АТП Монте Карло: Алкараз против Синер в недела за титула и „број 1“",
           "link": "https://netpress.com.mk/atp-monte-karlo-alkaraz-protiv-siner-v-nedela-za-titula-i-broj-1/",
           "published": "Sat, 11 Apr 2026 15:45:46 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Три танкерa минаа низ Ормуз додека траат преговорите меѓу САД и Иран",
-          "link": "https://netpress.com.mk/tri-tankera-minaa-niz-ormuz-dodeka-traat-pregovorite-megu-sad-i-iran/",
-          "published": "Sat, 11 Apr 2026 15:34:36 +0000"
         }
       ]
     },
@@ -97,7 +97,7 @@
           "source": "BBC",
           "title": "Fuel tankers regain access to Irish oil refinery",
           "link": "https://www.bbc.com/news/articles/c0e7rpjqw5po?at_medium=RSS&at_campaign=rss",
-          "published": "Sat, 11 Apr 2026 15:57:26 GMT"
+          "published": "Sat, 11 Apr 2026 17:09:13 GMT"
         },
         {
           "source": "BBC",
@@ -107,13 +107,19 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Strait of Hormuz leverage looms over US-Iran talks in Islamabad",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/11/strait-of-hormuz-leverage-looms-over-us-iran-talks-in-islamabad?traffic_source=rss",
+          "published": "Sat, 11 Apr 2026 17:15:05 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Russia-Ukraine Orthodox Easter ceasefire begins",
           "link": "https://www.aljazeera.com/news/2026/4/11/russia-ukraine-orthodox-easter-ceasefire-begins?traffic_source=rss",
           "published": "Sat, 11 Apr 2026 16:09:51 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Machete-wielding man shot by police in New York City Grand Central station",
+          "title": "Machete-wielding man killed by police in New York’s Grand Central station",
           "link": "https://www.aljazeera.com/news/2026/4/11/machete-wielding-man-shot-by-police-in-new-york-city-grand-central-station?traffic_source=rss",
           "published": "Sat, 11 Apr 2026 15:51:07 +0000"
         },
@@ -128,12 +134,6 @@
           "title": "Hungry Fury ‘light and lean’ for heavyweight comeback fight with Makhmudov",
           "link": "https://www.aljazeera.com/sports/2026/4/11/hungry-fury-light-and-lean-for-heavyweight-comeback-fight-with-makhmudov?traffic_source=rss",
           "published": "Sat, 11 Apr 2026 15:04:46 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Christians return to Jerusalem’s Holy Sepulchre as Israel eases restriction",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/11/christians-return-to-jerusalems-holy-sepulchre-as-israel-eases-restriction?traffic_source=rss",
-          "published": "Sat, 11 Apr 2026 15:04:39 +0000"
         }
       ]
     }
