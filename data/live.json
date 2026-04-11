@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-11T03:44:02Z",
+  "generated_at": "2026-04-11T05:17:13Z",
   "items": [
     {
       "region": "Македонија",
@@ -39,6 +39,13 @@
     {
       "region": "Македонија",
       "source": "NetPress",
+      "title": "Променливо облачно со услови за локални врнежи",
+      "link": "https://netpress.com.mk/promenlivo-oblachno-so-uslovi-za-lokalni-vrnezhi-2/",
+      "published": "Sat, 11 Apr 2026 05:07:19 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "NetPress",
       "title": "Ла Лига: Нов кикс на Реал, Жирона однесе бод од Мадрид",
       "link": "https://netpress.com.mk/la-liga-nov-kiks-na-real-zhirona-odnese-bod-od-madrid/",
       "published": "Fri, 10 Apr 2026 21:46:25 +0000"
@@ -65,13 +72,6 @@
       "published": "Fri, 10 Apr 2026 21:06:59 +0000"
     },
     {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Пред влезот во Стара Чаршија нападнат вработен во Општина Центар",
-      "link": "https://netpress.com.mk/pred-vlezot-vo-stara-charshija-napadnat-vraboten-vo-opshtina-czentar/",
-      "published": "Fri, 10 Apr 2026 20:51:40 +0000"
-    },
-    {
       "region": "Свет",
       "source": "BBC",
       "title": "Lyse Doucet: Historic US-Iran talks must bridge deep distrust",
@@ -88,9 +88,9 @@
     {
       "region": "Свет",
       "source": "BBC",
-      "title": "Lebanon and Israel officials to meet in US on Tuesday",
-      "link": "https://www.bbc.com/news/articles/c93en5q2zl3o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 10 Apr 2026 22:43:03 GMT"
+      "title": "Frontrunner for California governor denies sexual assault allegations",
+      "link": "https://www.bbc.com/news/articles/c20qg3g9554o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 11 Apr 2026 03:13:10 GMT"
     },
     {
       "region": "Свет",
@@ -109,7 +109,28 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
-      "title": "Artemis II astronauts journey back to Earth after moon mission",
+      "title": "Iran war: What is happening on day 43 of the US-Iran conflict?",
+      "link": "https://www.aljazeera.com/news/2026/4/11/iran-war-what-is-happening-on-day-43-of-the-us-iran-conflict?traffic_source=rss",
+      "published": "Sat, 11 Apr 2026 04:49:17 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Pakistan ambassador speaks to Al Jazeera on eve of US-Iran talks",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/11/pakistan-ambassador-speaks-to-al-jazeera-on-eve-of-us-iran-talks?traffic_source=rss",
+      "published": "Sat, 11 Apr 2026 04:15:59 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Pakistan’s prime minister calls US-Iran talks ‘make or break’",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/11/pakistans-prime-minister-calls-us-iran-talks-make-or?traffic_source=rss",
+      "published": "Sat, 11 Apr 2026 04:02:42 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Title: Artemis II astronauts journey back to Earth after Moon mission",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/4/11/artemis-ii-astronauts-journey-back-to-earth-after-moon-mission?traffic_source=rss",
       "published": "Sat, 11 Apr 2026 03:16:23 +0000"
     },
@@ -119,27 +140,6 @@
       "title": "Trump says Strait of Hormuz to reopen ‘soon’ as US, Iran head to talks",
       "link": "https://www.aljazeera.com/economy/2026/4/11/trump-says-strait-of-hormuz-to-reopen-soon-as-us-iran-head-to-talks?traffic_source=rss",
       "published": "Sat, 11 Apr 2026 03:06:18 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Moment Artemis II splashes down after moon mission",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/11/moment-artemis-ii-splashes-down-after-moon-mission?traffic_source=rss",
-      "published": "Sat, 11 Apr 2026 01:04:21 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "NASA’s Artemis II astronauts splash down on Earth after lunar mission",
-      "link": "https://www.aljazeera.com/news/2026/4/11/artemis-ii-splashdown-astronauts-return-to-earth-after-lunar-mission?traffic_source=rss",
-      "published": "Sat, 11 Apr 2026 00:08:15 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Iran war live: US negotiators due to arrive in Pakistan for ceasefire talks",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/4/11/iran-war-live-us-negotiators-due-to-arrive-in-pakistan-for-ceasefire-talks?traffic_source=rss",
-      "published": "Sat, 11 Apr 2026 00:00:00 +0000"
     }
   ]
 }
