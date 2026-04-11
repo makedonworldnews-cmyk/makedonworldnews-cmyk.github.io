@@ -1,6 +1,13 @@
 {
-  "generated_at": "2026-04-11T07:18:24Z",
+  "generated_at": "2026-04-11T07:59:41Z",
   "items": [
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "Земјотрес од 3.1 според Рихтер ноќеска регистриран во Делчево и Берово",
+      "link": "https://makfax.com.mk/makedonija/zemjotres-od-3-1-spored-rihter-nokeska-registriran-vo-delchevo-berovo/",
+      "published": "Sat, 11 Apr 2026 07:24:59 +0000"
+    },
     {
       "region": "Македонија",
       "source": "Makfax",
@@ -31,15 +38,29 @@
     },
     {
       "region": "Македонија",
-      "source": "Makfax",
-      "title": "(Видео) „Чеканите“ го оставија Тотенхем во зоната за испаѓање",
-      "link": "https://makfax.com.mk/sport/video-chekanite-go-ostavija-totenhem-vo-zonata-za-ispaganje/",
-      "published": "Fri, 10 Apr 2026 21:18:56 +0000"
+      "source": "NetPress",
+      "title": "Потпретседателот на САД пристигна во Исламабад на преговори со Иран",
+      "link": "https://netpress.com.mk/potpretsedatelot-na-sad-pristigna-vo-islamabad-na-pregovori-so-iran/",
+      "published": "Sat, 11 Apr 2026 07:59:08 +0000"
     },
     {
       "region": "Македонија",
       "source": "NetPress",
-      "title": "ВИДЕО| Американските астронаутите слетаа на Земјата, завршувајќи ја десетдневната лунарна мисија",
+      "title": "Кина и Северна Кореја треба да ја продлабочат соработката, сметаат во Пекинг",
+      "link": "https://netpress.com.mk/kina-i-severna-koreja-treba-da-ja-prodlabochat-sorabotkata-smetaat-vo-peking/",
+      "published": "Sat, 11 Apr 2026 07:33:46 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "NetPress",
+      "title": "Инфлацијата во САД остро забрза во март",
+      "link": "https://netpress.com.mk/inflaczijata-vo-sad-ostro-zabrza-vo-mart/",
+      "published": "Sat, 11 Apr 2026 07:27:58 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "NetPress",
+      "title": "ВИДЕО| Американските астронаути слетаа на Земјата, завршувајќи ја десетдневната лунарна мисија",
       "link": "https://netpress.com.mk/video-amerikanskite-astronautite-sletaa-na-zemjata-zavrshuvajki-ja-desetdnevnata-lunarna-misija/",
       "published": "Sat, 11 Apr 2026 07:17:48 +0000"
     },
@@ -49,27 +70,6 @@
       "title": "Шпанија подготвена веднаш да работи на создавање војска на ЕУ",
       "link": "https://netpress.com.mk/shpanija-podgotvena-vednash-da-raboti-na-sozdavane-vojska-na-eu/",
       "published": "Sat, 11 Apr 2026 07:07:52 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Eвролига: Преглед на резултатите од 37-то коло",
-      "link": "https://netpress.com.mk/evroliga-pregled-na-rezultatite-od-37-to-kolo/",
-      "published": "Sat, 11 Apr 2026 06:47:50 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Премиер лига: Вест Хем убедлив против Вулверхемптон",
-      "link": "https://netpress.com.mk/premier-liga-vest-hem-ubedliv-protiv-vulverhempton/",
-      "published": "Sat, 11 Apr 2026 06:27:42 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Камала Харис вели дека би можела повторно да се кандидира на претседателските избори во 2028-ма",
-      "link": "https://netpress.com.mk/kamala-haris-veli-deka-bi-mozhela-povtorno-da-se-kandidira-na-pretsedatelskite-izbori-vo-2028-ma/",
-      "published": "Sat, 11 Apr 2026 06:07:23 +0000"
     },
     {
       "region": "Свет",
@@ -109,6 +109,27 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "Video: Vance arrives in Pakistan for talks with Iran",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/11/video-vance-arrives-in-pakistan-for-talks-with-iran?traffic_source=rss",
+      "published": "Sat, 11 Apr 2026 07:34:16 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Artemis II marks historic lunar return with Pacific splashdown success",
+      "link": "https://www.aljazeera.com/gallery/2026/4/11/artemis-ii-marks-historic-lunar-return-with-pacific-splashdown-success?traffic_source=rss",
+      "published": "Sat, 11 Apr 2026 07:23:43 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Chelsea vs Manchester City: Premier League – team news, start, lineups",
+      "link": "https://www.aljazeera.com/sports/2026/4/11/chelsea-vs-manchester-city-premier-league-team-news-start-lineups?traffic_source=rss",
+      "published": "Sat, 11 Apr 2026 07:16:05 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "Djibouti’s President Guelleh wins sixth straight term in office",
       "link": "https://www.aljazeera.com/news/2026/4/11/djiboutis-president-guelleh-claims-sixth-straight-term-in-office?traffic_source=rss",
       "published": "Sat, 11 Apr 2026 06:26:36 +0000"
@@ -119,27 +140,6 @@
       "title": "Iran war: What is happening on day 43 of the US-Iran conflict?",
       "link": "https://www.aljazeera.com/news/2026/4/11/iran-war-what-is-happening-on-day-43-of-the-us-iran-conflict?traffic_source=rss",
       "published": "Sat, 11 Apr 2026 04:49:17 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Pakistan ambassador speaks to Al Jazeera on eve of US-Iran talks",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/11/pakistan-ambassador-speaks-to-al-jazeera-on-eve-of-us-iran-talks?traffic_source=rss",
-      "published": "Sat, 11 Apr 2026 04:15:59 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Pakistan’s prime minister calls US-Iran talks ‘make or break’",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/11/pakistans-prime-minister-calls-us-iran-talks-make-or?traffic_source=rss",
-      "published": "Sat, 11 Apr 2026 04:02:42 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Title: Artemis II astronauts journey back to Earth after Moon mission",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/11/artemis-ii-astronauts-journey-back-to-earth-after-moon-mission?traffic_source=rss",
-      "published": "Sat, 11 Apr 2026 03:16:23 +0000"
     }
   ]
 }
