@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-11T11:42:27Z",
+  "updatedAt": "2026-04-11T12:24:43Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,24 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Уапсен жител на виничко Блатец со 3,18 промили алкохол во крвта, спречувал полицаец во вршење должност",
+          "link": "https://makfax.com.mk/crna-hronika/uapsen-zhitel-na-vinichko-blatec-so-318-promili-alkohol-vo-krvta-sprechuval-policaec-vo-vrshenje-dolzhnost/",
+          "published": "Sat, 11 Apr 2026 12:16:52 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Ноќеска запалени три автомобилa на Бит-пазар",
+          "link": "https://makfax.com.mk/crna-hronika/nokeska-zapaleni-tri-avtomobila-na-bit-pazar/",
+          "published": "Sat, 11 Apr 2026 12:04:05 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "22-годишен Турчин со тротинет тешко повреди 55-годишна жена на  Партизанска и избега, полицијата го бара",
+          "link": "https://makfax.com.mk/uncategorized/22-godishen-turchin-so-trotinet-teshko-povredi-55-godishna-zhena-na-partizanska-i-izbega-policijata-go-bara/",
+          "published": "Sat, 11 Apr 2026 11:54:09 +0000"
         },
         {
           "source": "Makfax",
@@ -23,22 +41,16 @@
           "published": "Sat, 11 Apr 2026 11:23:02 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "(Видео) Заев и Филипче должат одговори дали бил договориле процент од продажбата на „Дака“ во Тетово, вели Петрушевски",
-          "link": "https://makfax.com.mk/makedonija/video-zaev-i-filipche-dolzhat-odgovori-dali-bil-dogovorile-procent-od-prodazhbata-na-daka-vo-tetovo-veli-petrushevski/",
-          "published": "Sat, 11 Apr 2026 11:14:07 +0000"
+          "source": "NetPress",
+          "title": "Вашингтон го негира деблокирањето на иранските средства во странските банки",
+          "link": "https://netpress.com.mk/vashington-go-negira-deblokiraneto-na-iranskite-sredstva-vo-stranskite-banki/",
+          "published": "Sat, 11 Apr 2026 12:18:16 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "(Видео) Бензинот поевтинува за 1,5 денар, дизелот за 2,5 денари, кажа Мицкоски и се извини што се обраќа во предвечерието на Велигден",
-          "link": "https://makfax.com.mk/top/video-benzinot-poevtinuva-za-15-denar-dizelot-za-25-denari-kazha-mickoski-i-se-izvini-shto-se-obraka-vo-predvecherieto-na-veligden/",
-          "published": "Sat, 11 Apr 2026 10:55:20 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Јагнешкото е 700 денари, поскапеа и јајцата, Владата ги остави граѓаните без мерки и пред Велигден, обвини СДСМ",
-          "link": "https://makfax.com.mk/makedonija/jagneshkoto-e-700-denari-poskapea-i-jajcata-vladata-gi-ostavi-graganite-bez-merki-i-pred-veligden-obvini-sdsm/",
-          "published": "Sat, 11 Apr 2026 10:00:35 +0000"
+          "source": "NetPress",
+          "title": "Се степале колеги во хотел во Аеродром",
+          "link": "https://netpress.com.mk/se-stepale-kolegi-vo-hotel-vo-aerodrom/",
+          "published": "Sat, 11 Apr 2026 11:43:37 +0000"
         },
         {
           "source": "NetPress",
@@ -57,18 +69,6 @@
           "title": "Шеснаесетгодишник од Морани со нож тешко ранил две години постар соселанец",
           "link": "https://netpress.com.mk/shesnaesetgodishnik-od-morani-so-nozh-teshko-dve-godini-postar-soselanecz/",
           "published": "Sat, 11 Apr 2026 11:34:24 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Мекото ткиво на македонската идентитетска политика олицетворено во Филипче нека не се грижи за граѓаните, нека си ја консолидира прво СДС",
-          "link": "https://netpress.com.mk/mekoto-tkivo-na-makedonskata-identitetska-politika-oliczetvoreno-vo-filipche-neka-ne-se-grizhi-za-graganite-neka-si-ja-konsolidira-prvo-sds/",
-          "published": "Sat, 11 Apr 2026 11:32:51 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Турски државјанин со тротинет тешко повредил жена и избегал",
-          "link": "https://netpress.com.mk/turski-drzhavjanin-so-trotinet-teshko-povredil-zhena-i-izbegal/",
-          "published": "Sat, 11 Apr 2026 11:29:21 +0000"
         }
       ]
     },
@@ -107,6 +107,12 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Artemis II crew seen on recovery ship after moon mission return",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/11/artemis-ii-crew-seen-on-recovery-ship-after-moon-mission-return?traffic_source=rss",
+          "published": "Sat, 11 Apr 2026 11:19:57 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "We need a regional agreement for the Strait of Hormuz",
           "link": "https://www.aljazeera.com/opinions/2026/4/11/we-need-a-regional-agreement-for-the-strait-of-hormuz?traffic_source=rss",
           "published": "Sat, 11 Apr 2026 10:56:33 +0000"
@@ -128,12 +134,6 @@
           "title": "NASA hails success of Artemis moon mission but says more work to do",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/4/11/nasa-hails-success-of-artemis-moon-mission-but-says-more-work-to-do?traffic_source=rss",
           "published": "Sat, 11 Apr 2026 10:07:11 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "UK to hold off on deal ceding Chagos Islands amid US opposition",
-          "link": "https://www.aljazeera.com/news/2026/4/11/uk-to-hold-off-on-deal-ceding-chagos-islands-amid-us-opposition?traffic_source=rss",
-          "published": "Sat, 11 Apr 2026 10:06:53 +0000"
         }
       ]
     }
