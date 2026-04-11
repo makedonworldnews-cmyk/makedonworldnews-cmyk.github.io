@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-11T07:35:40Z",
+  "updatedAt": "2026-04-11T08:07:07Z",
   "groups": [
     {
       "region": "Македонија",
@@ -12,7 +12,7 @@
         },
         {
           "source": "Makfax",
-          "title": "Земјотрес од 3.1 според Рихтер ноќеска регистриран во Делчево  Берово",
+          "title": "Земјотрес од 3.1 според Рихтер ноќеска регистриран во Делчево и Берово",
           "link": "https://makfax.com.mk/makedonija/zemjotres-od-3-1-spored-rihter-nokeska-registriran-vo-delchevo-berovo/",
           "published": "Sat, 11 Apr 2026 07:24:59 +0000"
         },
@@ -42,6 +42,24 @@
         },
         {
           "source": "NetPress",
+          "title": "Без вода дел од корисниците во Кисела Вода",
+          "link": "https://netpress.com.mk/bez-voda-del-od-korisniczite-vo-kisela-voda/",
+          "published": "Sat, 11 Apr 2026 08:05:06 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Земјотрес почувствуван во Пехчево и Берово",
+          "link": "https://netpress.com.mk/zemjotres-pochuvstvuvan-vo-pehchevo-i-berovo/",
+          "published": "Sat, 11 Apr 2026 08:02:20 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Потпретседателот на САД пристигна во Исламабад на преговори со Иран",
+          "link": "https://netpress.com.mk/potpretsedatelot-na-sad-pristigna-vo-islamabad-na-pregovori-so-iran/",
+          "published": "Sat, 11 Apr 2026 07:59:08 +0000"
+        },
+        {
+          "source": "NetPress",
           "title": "Кина и Северна Кореја треба да ја продлабочат соработката, сметаат во Пекинг",
           "link": "https://netpress.com.mk/kina-i-severna-koreja-treba-da-ja-prodlabochat-sorabotkata-smetaat-vo-peking/",
           "published": "Sat, 11 Apr 2026 07:33:46 +0000"
@@ -51,24 +69,6 @@
           "title": "Инфлацијата во САД остро забрза во март",
           "link": "https://netpress.com.mk/inflaczijata-vo-sad-ostro-zabrza-vo-mart/",
           "published": "Sat, 11 Apr 2026 07:27:58 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "ВИДЕО| Американските астронаутите слетаа на Земјата, завршувајќи ја десетдневната лунарна мисија",
-          "link": "https://netpress.com.mk/video-amerikanskite-astronautite-sletaa-na-zemjata-zavrshuvajki-ja-desetdnevnata-lunarna-misija/",
-          "published": "Sat, 11 Apr 2026 07:17:48 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Шпанија подготвена веднаш да работи на создавање војска на ЕУ",
-          "link": "https://netpress.com.mk/shpanija-podgotvena-vednash-da-raboti-na-sozdavane-vojska-na-eu/",
-          "published": "Sat, 11 Apr 2026 07:07:52 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Eвролига: Преглед на резултатите од 37-то коло",
-          "link": "https://netpress.com.mk/evroliga-pregled-na-rezultatite-od-37-to-kolo/",
-          "published": "Sat, 11 Apr 2026 06:47:50 +0000"
         }
       ]
     },
@@ -107,33 +107,33 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Israel rejects ceasefire with Hezbollah ahead of Lebanon talks next week",
+          "link": "https://www.aljazeera.com/news/2026/4/11/israel-rejects-ceasefire-with-hezbollah-ahead-of-lebanon-talks-next-week?traffic_source=rss",
+          "published": "Sat, 11 Apr 2026 07:51:14 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Israeli drone attack kills Palestinians near Gaza mosque",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/11/israeli-drone-attack-kills-palestinians-near-gaza-mosque?traffic_source=rss",
+          "published": "Sat, 11 Apr 2026 07:51:08 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Video: Vance arrives in Pakistan for talks with Iran",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/11/video-vance-arrives-in-pakistan-for-talks-with-iran?traffic_source=rss",
+          "published": "Sat, 11 Apr 2026 07:34:16 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Artemis II marks historic lunar return with Pacific splashdown success",
+          "link": "https://www.aljazeera.com/gallery/2026/4/11/artemis-ii-marks-historic-lunar-return-with-pacific-splashdown-success?traffic_source=rss",
+          "published": "Sat, 11 Apr 2026 07:23:43 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Chelsea vs Manchester City: Premier League – team news, start, lineups",
           "link": "https://www.aljazeera.com/sports/2026/4/11/chelsea-vs-manchester-city-premier-league-team-news-start-lineups?traffic_source=rss",
           "published": "Sat, 11 Apr 2026 07:16:05 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Djibouti’s President Guelleh wins sixth straight term in office",
-          "link": "https://www.aljazeera.com/news/2026/4/11/djiboutis-president-guelleh-claims-sixth-straight-term-in-office?traffic_source=rss",
-          "published": "Sat, 11 Apr 2026 06:26:36 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Iran war: What is happening on day 43 of the US-Iran conflict?",
-          "link": "https://www.aljazeera.com/news/2026/4/11/iran-war-what-is-happening-on-day-43-of-the-us-iran-conflict?traffic_source=rss",
-          "published": "Sat, 11 Apr 2026 04:49:17 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Pakistan ambassador speaks to Al Jazeera on eve of US-Iran talks",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/11/pakistan-ambassador-speaks-to-al-jazeera-on-eve-of-us-iran-talks?traffic_source=rss",
-          "published": "Sat, 11 Apr 2026 04:15:59 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Pakistan’s prime minister calls US-Iran talks ‘make or break’",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/11/pakistans-prime-minister-calls-us-iran-talks-make-or?traffic_source=rss",
-          "published": "Sat, 11 Apr 2026 04:02:42 +0000"
         }
       ]
     }
