@@ -1,6 +1,13 @@
 {
-  "generated_at": "2026-04-11T14:23:05Z",
+  "generated_at": "2026-04-11T15:00:19Z",
   "items": [
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "(Видео) Со 5.000 денари Општината го награди победникот во потрагата по скриено велигденско јајце во Крива Паланка",
+      "link": "https://makfax.com.mk/makedonija/so-5-000-denari-opshtinata-go-nagradi-pobednikot-vo-potragata-po-skrieni-veligdensko-jajce-vo-kriva-palanka/",
+      "published": "Sat, 11 Apr 2026 14:33:18 +0000"
+    },
     {
       "region": "Македонија",
       "source": "Makfax",
@@ -31,10 +38,17 @@
     },
     {
       "region": "Македонија",
-      "source": "Makfax",
-      "title": "Се степаа двајца вработени во хотел во скопски Аеродром, имале расправија за работните задачи",
-      "link": "https://makfax.com.mk/crna-hronika/se-stepaa-dvajca-vraboteni-vo-hotel-vo-skopski-aerodrom-imale-raspravija-za-rabotnite-zadachi/",
-      "published": "Sat, 11 Apr 2026 12:54:17 +0000"
+      "source": "NetPress",
+      "title": "Британија го одложува договорот за предавање на островите Чагос на Маврициус по противењето на САД",
+      "link": "https://netpress.com.mk/britanija-go-odlozhuva-dogovorot-za-predavane-na-ostrovite-chagos-na-mavriczius-po-protiveneto-na-sad/",
+      "published": "Sat, 11 Apr 2026 14:58:26 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "NetPress",
+      "title": "Нејмар има два месецa да се докаже, му порача Анчелоти",
+      "link": "https://netpress.com.mk/nejmar-ima-dva-mesecza-da-se-dokazhe-mu-poracha-ancheloti/",
+      "published": "Sat, 11 Apr 2026 14:48:31 +0000"
     },
     {
       "region": "Македонија",
@@ -58,20 +72,6 @@
       "published": "Sat, 11 Apr 2026 13:05:12 +0000"
     },
     {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Вашингтон го негира деблокирањето на иранските средства во странските банки",
-      "link": "https://netpress.com.mk/vashington-go-negira-deblokiraneto-na-iranskite-sredstva-vo-stranskite-banki/",
-      "published": "Sat, 11 Apr 2026 12:18:16 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Се степале колеги во хотел во Аеродром",
-      "link": "https://netpress.com.mk/se-stepale-kolegi-vo-hotel-vo-aerodrom/",
-      "published": "Sat, 11 Apr 2026 11:43:37 +0000"
-    },
-    {
       "region": "Свет",
       "source": "BBC",
       "title": "Artemis crew home safely after completing historic mission to the Moon",
@@ -90,7 +90,7 @@
       "source": "BBC",
       "title": "Frontrunner for California governor denies sexual assault allegations",
       "link": "https://www.bbc.com/news/articles/c20qg3g9554o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 11 Apr 2026 03:13:10 GMT"
+      "published": "Sat, 11 Apr 2026 14:24:24 GMT"
     },
     {
       "region": "Свет",
@@ -105,6 +105,13 @@
       "title": "Trump administration unveils 250-foot 'Triumphal Arch' design",
       "link": "https://www.bbc.com/news/articles/cwywre1e3kvo?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 11 Apr 2026 01:49:47 GMT"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Lebanon mourns security forces killed in Israeli strike",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/11/lebanon-mourns-security-forces-killed-in-israeli-strike?traffic_source=rss",
+      "published": "Sat, 11 Apr 2026 14:17:16 +0000"
     },
     {
       "region": "Свет",
@@ -133,13 +140,6 @@
       "title": "Libya approves first unified budget in more than a decade",
       "link": "https://www.aljazeera.com/news/2026/4/11/libya-approves-first-unified-budget-in-more-than-a-decade?traffic_source=rss",
       "published": "Sat, 11 Apr 2026 13:18:51 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Video: JD Vance meets with Pakistani PM ahead of Iran talks",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/11/video-jd-vance-meets-with-pakistani-pm-ahead-of-iran-talks?traffic_source=rss",
-      "published": "Sat, 11 Apr 2026 12:38:48 +0000"
     }
   ]
 }
