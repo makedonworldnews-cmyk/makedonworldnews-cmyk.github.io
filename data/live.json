@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-11T17:25:06Z",
+  "generated_at": "2026-04-11T17:55:02Z",
   "items": [
     {
       "region": "Македонија",
@@ -39,6 +39,20 @@
     {
       "region": "Македонија",
       "source": "NetPress",
+      "title": "Сиљановска-Давкова: Чинот на вапцање не е само обичај, туку и момент на семејна блискост и духовна подготовка",
+      "link": "https://netpress.com.mk/silanovska-davkova-chinot-na-vapczane-ne-e-samo-obichaj-tuku-i-moment-na-semejna-bliskost-i-duhovna-podgotovka/",
+      "published": "Sat, 11 Apr 2026 17:48:48 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "NetPress",
+      "title": "Британското кралско семејство ќе ја одбележи 100-годишнината од раѓањето на кралицата Елизабета",
+      "link": "https://netpress.com.mk/britanskoto-kralsko-semejstvo-ke-ja-odbelezhi-100-godishninata-od-raganeto-na-kraliczata-elizabeta/",
+      "published": "Sat, 11 Apr 2026 17:29:04 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "NetPress",
       "title": "Израел фрлил 18.000 бомби врз Иран во нападите од крајот на февраури",
       "link": "https://netpress.com.mk/izrael-frlil-18-000-bombi-vrz-iran-vo-napadite-od-krajot-na-fevrauri/",
       "published": "Sat, 11 Apr 2026 16:50:47 +0000"
@@ -56,20 +70,6 @@
       "title": "Бундеслига: Баер подобар од Борусија (Д)",
       "link": "https://netpress.com.mk/bundesliga-baer-podobar-od-borusija-d/",
       "published": "Sat, 11 Apr 2026 15:56:22 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "АТП Монте Карло: Алкараз против Синер в недела за титула и „број 1“",
-      "link": "https://netpress.com.mk/atp-monte-karlo-alkaraz-protiv-siner-v-nedela-za-titula-i-broj-1/",
-      "published": "Sat, 11 Apr 2026 15:45:46 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Три танкерa минаа низ Ормуз додека траат преговорите меѓу САД и Иран",
-      "link": "https://netpress.com.mk/tri-tankera-minaa-niz-ormuz-dodeka-traat-pregovorite-megu-sad-i-iran/",
-      "published": "Sat, 11 Apr 2026 15:34:36 +0000"
     },
     {
       "region": "Свет",
@@ -109,6 +109,20 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "Iraq parliament elects Kurdish politician Nizar Amedi as president",
+      "link": "https://www.aljazeera.com/news/2026/4/11/iraq-parliament-elects-kurdish-politician-nizar-amedi-as-president?traffic_source=rss",
+      "published": "Sat, 11 Apr 2026 17:24:02 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Strait of Hormuz leverage looms over US-Iran talks in Islamabad",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/11/strait-of-hormuz-leverage-looms-over-us-iran-talks-in-islamabad?traffic_source=rss",
+      "published": "Sat, 11 Apr 2026 17:15:05 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "Russia-Ukraine Orthodox Easter ceasefire begins",
       "link": "https://www.aljazeera.com/news/2026/4/11/russia-ukraine-orthodox-easter-ceasefire-begins?traffic_source=rss",
       "published": "Sat, 11 Apr 2026 16:09:51 +0000"
@@ -116,7 +130,7 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
-      "title": "Machete-wielding man shot by police in New York City Grand Central station",
+      "title": "Machete-wielding man killed by police in New York’s Grand Central station",
       "link": "https://www.aljazeera.com/news/2026/4/11/machete-wielding-man-shot-by-police-in-new-york-city-grand-central-station?traffic_source=rss",
       "published": "Sat, 11 Apr 2026 15:51:07 +0000"
     },
@@ -126,20 +140,6 @@
       "title": "Peru holds presidential election amid a decade of political tumult",
       "link": "https://www.aljazeera.com/news/longform/2026/4/11/peru-holds-presidential-election-amid-a-decade-of-political-tumult?traffic_source=rss",
       "published": "Sat, 11 Apr 2026 15:22:21 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Hungry Fury ‘light and lean’ for heavyweight comeback fight with Makhmudov",
-      "link": "https://www.aljazeera.com/sports/2026/4/11/hungry-fury-light-and-lean-for-heavyweight-comeback-fight-with-makhmudov?traffic_source=rss",
-      "published": "Sat, 11 Apr 2026 15:04:46 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Christians return to Jerusalem’s Holy Sepulchre as Israel eases restriction",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/11/christians-return-to-jerusalems-holy-sepulchre-as-israel-eases-restriction?traffic_source=rss",
-      "published": "Sat, 11 Apr 2026 15:04:39 +0000"
     }
   ]
 }
