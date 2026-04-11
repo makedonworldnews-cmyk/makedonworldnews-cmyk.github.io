@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-11T21:46:58Z",
+  "updatedAt": "2026-04-11T22:15:24Z",
   "groups": [
     {
       "region": "Македонија",
@@ -42,6 +42,18 @@
         },
         {
           "source": "NetPress",
+          "title": "Иран ги негира извештаите за американски бродови кои го минале Ормутскиот теснец",
+          "link": "https://netpress.com.mk/iran-gi-negira-izveshtaite-za-amerikanski-brodovi-koi-go-minale-ormutskiot-tesnecz/",
+          "published": "Sat, 11 Apr 2026 22:11:22 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Серија А: Важна победа на Јуве во Бергамо, Милан посрамен на „Сан Сиро“",
+          "link": "https://netpress.com.mk/serija-a-vazhna-pobeda-na-juve-vo-bergamo-milan-posramen-na-san-siro/",
+          "published": "Sat, 11 Apr 2026 21:58:42 +0000"
+        },
+        {
+          "source": "NetPress",
           "title": "Ла Лига: Барселона го доби градското дерби, Атлетико поразен во Севиља",
           "link": "https://netpress.com.mk/la-liga-barselona-go-dobi-gradskoto-derbi-atletiko-porazen-vo-sevila/",
           "published": "Sat, 11 Apr 2026 21:44:29 +0000"
@@ -57,18 +69,6 @@
           "title": "Руски гувернери известија за украински напади врз регионите Курск и Белгород",
           "link": "https://netpress.com.mk/ruski-guverneri-izvestija-za-ukrainski-napadi-vrz-regionite-kursk-i-belgorod/",
           "published": "Sat, 11 Apr 2026 21:03:36 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Папата Лав повика на крај на „лудилото на војната“ додека САД и Иран преговараат",
-          "link": "https://netpress.com.mk/papata-lav-povika-na-kraj-na-ludiloto-na-vojnata-dodeka-sad-i-iran-pregovaraat/",
-          "published": "Sat, 11 Apr 2026 20:49:06 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Застој во американско-иранските преговори поради големи несогласувања околу Ормуз",
-          "link": "https://netpress.com.mk/zastoj-vo-amerikansko-iranskite-pregovori-poradi-golemi-nesoglasuvana-okolu-ormuz/",
-          "published": "Sat, 11 Apr 2026 20:19:47 +0000"
         }
       ]
     },
@@ -77,9 +77,9 @@
       "items": [
         {
           "source": "BBC",
-          "title": "Artemis crew home safely after completing historic mission to the Moon",
-          "link": "https://www.bbc.com/news/articles/cr51z54d5rpo?at_medium=RSS&at_campaign=rss",
-          "published": "Sat, 11 Apr 2026 07:53:46 GMT"
+          "title": "'It's a special thing to be on Planet Earth': Artemis crew welcomed home in Houston",
+          "link": "https://www.bbc.com/news/videos/cd7jzj9rg1qo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 11 Apr 2026 21:23:07 GMT"
         },
         {
           "source": "BBC",
@@ -89,21 +89,21 @@
         },
         {
           "source": "BBC",
-          "title": "Frontrunner for California governor denies sexual assault allegations",
-          "link": "https://www.bbc.com/news/articles/c20qg3g9554o?at_medium=RSS&at_campaign=rss",
-          "published": "Sat, 11 Apr 2026 14:24:24 GMT"
+          "title": "Prosecutor probes abuse claims against California governor candidate Swalwell",
+          "link": "https://www.bbc.com/news/articles/c7vq0jnn0yro?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 11 Apr 2026 21:11:18 GMT"
+        },
+        {
+          "source": "BBC",
+          "title": "Artemis crew home safely after completing historic mission to the Moon",
+          "link": "https://www.bbc.com/news/articles/cr51z54d5rpo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 11 Apr 2026 07:53:46 GMT"
         },
         {
           "source": "BBC",
           "title": "Nearly 400 sentenced in Nigeria for links to militant Islamists",
           "link": "https://www.bbc.com/news/articles/cvge1kdmpzwo?at_medium=RSS&at_campaign=rss",
           "published": "Sat, 11 Apr 2026 14:41:31 GMT"
-        },
-        {
-          "source": "BBC",
-          "title": "Irish cabinet meeting to be held to discuss ongoing fuel protests",
-          "link": "https://www.bbc.com/news/articles/c0e7rpjqw5po?at_medium=RSS&at_campaign=rss",
-          "published": "Sat, 11 Apr 2026 20:12:22 GMT"
         },
         {
           "source": "Al Jazeera",
