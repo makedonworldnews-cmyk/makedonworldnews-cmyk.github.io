@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-11T19:21:46Z",
+  "generated_at": "2026-04-11T19:54:48Z",
   "items": [
     {
       "region": "Македонија",
@@ -81,6 +81,13 @@
     {
       "region": "Свет",
       "source": "BBC",
+      "title": "Knifeman calling himself 'Lucifer' slashes three at NYC's Grand Central",
+      "link": "https://www.bbc.com/news/articles/cz67yy0006jo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 11 Apr 2026 18:08:46 GMT"
+    },
+    {
+      "region": "Свет",
+      "source": "BBC",
       "title": "Frontrunner for California governor denies sexual assault allegations",
       "link": "https://www.bbc.com/news/articles/c20qg3g9554o?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 11 Apr 2026 14:24:24 GMT"
@@ -101,10 +108,31 @@
     },
     {
       "region": "Свет",
-      "source": "BBC",
-      "title": "Melania Trump's speech propels Epstein crisis back to forefront",
-      "link": "https://www.bbc.com/news/articles/cwy3w9y8gyjo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 11 Apr 2026 03:25:04 GMT"
+      "source": "Al Jazeera",
+      "title": "US says two naval ships ‘transited’ Strait of Hormuz for mine-clearing",
+      "link": "https://www.aljazeera.com/news/2026/4/11/us-says-two-naval-ships-transited-strait-of-hormuz-for-mine-clearing?traffic_source=rss",
+      "published": "Sat, 11 Apr 2026 19:38:03 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Pakistan sends fighter jets to Saudi Arabia amid fragile US-Iran ceasefire",
+      "link": "https://www.aljazeera.com/news/2026/4/11/pakistan-sends-fighter-jets-to-saudi-arabia-amid-fragile-us-iran-ceasefire?traffic_source=rss",
+      "published": "Sat, 11 Apr 2026 19:35:54 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Barcelona move 9 clear of Real Madrid with derby win as La Liga title nears",
+      "link": "https://www.aljazeera.com/sports/2026/4/11/barcelona-move-9-clear-of-real-madrid-with-derby-win-as-la-liga-title-nears?traffic_source=rss",
+      "published": "Sat, 11 Apr 2026 19:14:46 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "US appeals court extends deadline to halt White House ballroom construction",
+      "link": "https://www.aljazeera.com/news/2026/4/11/us-appeals-court-extends-deadline-to-halt-white-house-ballroom-construction?traffic_source=rss",
+      "published": "Sat, 11 Apr 2026 18:58:53 +0000"
     },
     {
       "region": "Свет",
@@ -112,34 +140,6 @@
       "title": "Israeli settlers kill Palestinian during raid on occupied West Bank village",
       "link": "https://www.aljazeera.com/news/2026/4/11/israeli-settlers-kill-palestinian-during-raid-on-occupied-west-bank-village?traffic_source=rss",
       "published": "Sat, 11 Apr 2026 18:47:48 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Iranian rabbi describes Israel’s destruction of a Tehran synagogue",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/11/iranian-rabbi-describes-israels-destruction-of-a-tehran-synagogue?traffic_source=rss",
-      "published": "Sat, 11 Apr 2026 18:36:39 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "LIVE: Tyson Fury vs Arslanbek Makhmudov – heavyweight boxing match",
-      "link": "https://www.aljazeera.com/sports/liveblog/2026/4/11/live-tyson-fury-vs-arslanbek-makhmudov-heavyweight-boxing-match?traffic_source=rss",
-      "published": "Sat, 11 Apr 2026 18:33:19 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Gaza families mourn loved ones killed in overnight Israeli air strikes",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/11/gaza-families-mourn-loved-ones-killed-in-overnight-israeli-air-strikes?traffic_source=rss",
-      "published": "Sat, 11 Apr 2026 18:02:34 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Vigil held in Madrid for victims of Israeli strikes on Lebanon",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/11/vigil-held-in-madrid-for-victims-of-israeli-strikes-on-lebanon?traffic_source=rss",
-      "published": "Sat, 11 Apr 2026 17:32:24 +0000"
     }
   ]
 }
