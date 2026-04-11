@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-11T15:46:10Z",
+  "updatedAt": "2026-04-11T16:18:15Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Дождот престана, ведра ноќ прогнозира УХМР",
+          "link": "https://makfax.com.mk/makedonija/dozhdot-prestana-vedra-nok-prognozira-uhmr/",
+          "published": "Sat, 11 Apr 2026 16:11:41 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Боите што ги впиваме во велигденските јајца се израз на животот што победува, порача претседателката Сиљановска-Давкова",
+          "link": "https://makfax.com.mk/makedonija/boite-shto-gi-vpivame-vo-veligdenskite-jajca-se-izraz-na-zhivotot-shto-pobeduva-poracha-pretsedatelkata-siljanovska-davkova/",
+          "published": "Sat, 11 Apr 2026 15:46:31 +0000"
         },
         {
           "source": "Makfax",
@@ -29,16 +41,16 @@
           "published": "Sat, 11 Apr 2026 14:07:45 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Дефокусот за Дака не го полни празниот фрижидер, одговори СДСМ на повикот од ВМРО-ДПМНЕ да кажат  за провизиите",
-          "link": "https://makfax.com.mk/makedonija/defokusot-za-daka-ne-go-polni-prazniot-frizhider-odgovori-sdsm-na-povikot-od-vmro-dpmne-da-kazhat-za-proviziite/",
-          "published": "Sat, 11 Apr 2026 13:25:41 +0000"
+          "source": "NetPress",
+          "title": "Трамп во Вашингтон ja сака „најубавата“ триумфална порта во светот",
+          "link": "https://netpress.com.mk/tramp-vo-vashington-ja-saka-najubavata-triumfalna-porta-vo-svetot/",
+          "published": "Sat, 11 Apr 2026 16:13:53 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Синоќа уапсени петмина скопјани фатени со дрога",
-          "link": "https://makfax.com.mk/crna-hronika/sinoka-uapseni-petmina-skopjani-fateni-so-droga/",
-          "published": "Sat, 11 Apr 2026 13:07:36 +0000"
+          "source": "NetPress",
+          "title": "Бундеслига: Баер подобар од Борусија (Д)",
+          "link": "https://netpress.com.mk/bundesliga-baer-podobar-od-borusija-d/",
+          "published": "Sat, 11 Apr 2026 15:56:22 +0000"
         },
         {
           "source": "NetPress",
@@ -57,18 +69,6 @@
           "title": "Британија го одложува договорот за предавање на островите Чагос на Маврициус по противењето на САД",
           "link": "https://netpress.com.mk/britanija-go-odlozhuva-dogovorot-za-predavane-na-ostrovite-chagos-na-mavriczius-po-protiveneto-na-sad/",
           "published": "Sat, 11 Apr 2026 14:58:26 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Нејмар има два месецa да се докаже, му порача Анчелоти",
-          "link": "https://netpress.com.mk/nejmar-ima-dva-mesecza-da-se-dokazhe-mu-poracha-ancheloti/",
-          "published": "Sat, 11 Apr 2026 14:48:31 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Трамп: Големи празни танкери доаѓаат во САД на полнење со „најдобрата“ нафта",
-          "link": "https://netpress.com.mk/tramp-golemi-prazni-tankeri-doagaat-vo-sad-na-polnene-so-najdobrata-nafta/",
-          "published": "Sat, 11 Apr 2026 13:59:00 +0000"
         }
       ]
     },
@@ -83,27 +83,27 @@
         },
         {
           "source": "BBC",
-          "title": "Final push for votes as challenger to Hungary's Orbán senses victory",
-          "link": "https://www.bbc.com/news/articles/c0q9527y41lo?at_medium=RSS&at_campaign=rss",
-          "published": "Sat, 11 Apr 2026 00:17:18 GMT"
-        },
-        {
-          "source": "BBC",
           "title": "Frontrunner for California governor denies sexual assault allegations",
           "link": "https://www.bbc.com/news/articles/c20qg3g9554o?at_medium=RSS&at_campaign=rss",
           "published": "Sat, 11 Apr 2026 14:24:24 GMT"
         },
         {
           "source": "BBC",
-          "title": "Melania Trump's speech propels Epstein crisis back to forefront",
-          "link": "https://www.bbc.com/news/articles/cwy3w9y8gyjo?at_medium=RSS&at_campaign=rss",
-          "published": "Sat, 11 Apr 2026 03:25:04 GMT"
+          "title": "Nearly 400 sentenced in Nigeria for links to militant Islamists",
+          "link": "https://www.bbc.com/news/articles/cvge1kdmpzwo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 11 Apr 2026 14:41:31 GMT"
         },
         {
           "source": "BBC",
-          "title": "Trump unveils giant gold-accented victory arch design for US capital",
-          "link": "https://www.bbc.com/news/articles/cwywre1e3kvo?at_medium=RSS&at_campaign=rss",
-          "published": "Sat, 11 Apr 2026 15:38:30 GMT"
+          "title": "Fuel tankers regain access to Irish oil refinery",
+          "link": "https://www.bbc.com/news/articles/c0e7rpjqw5po?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 11 Apr 2026 15:57:26 GMT"
+        },
+        {
+          "source": "BBC",
+          "title": "Melania Trump's speech propels Epstein crisis back to forefront",
+          "link": "https://www.bbc.com/news/articles/cwy3w9y8gyjo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 11 Apr 2026 03:25:04 GMT"
         },
         {
           "source": "Al Jazeera",
