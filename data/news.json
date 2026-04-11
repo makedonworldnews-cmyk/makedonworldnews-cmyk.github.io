@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-11T16:18:15Z",
+  "updatedAt": "2026-04-11T16:58:28Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,24 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) Столе еднаш капитулираше, Валенсија загуби од Елче",
+          "link": "https://makfax.com.mk/sport/video-stole-ednash-kapitulirashe-valensija-zagubi-od-elche/",
+          "published": "Sat, 11 Apr 2026 16:40:58 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "ПСЖ ќе го потпише Енрике до 2030 година",
+          "link": "https://makfax.com.mk/sport/pszh-ke-go-potpishe-enrike-do-2030-godina/",
+          "published": "Sat, 11 Apr 2026 16:30:59 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) Арсенал шокиран среде Лондон – Борнмут победи на „Емирејтс“",
+          "link": "https://makfax.com.mk/sport/video-arsenal-shokiran-srede-london-bornmut-pobedi-na-emirejts/",
+          "published": "Sat, 11 Apr 2026 16:22:59 +0000"
         },
         {
           "source": "Makfax",
@@ -23,22 +41,10 @@
           "published": "Sat, 11 Apr 2026 15:46:31 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Молотов коктел фрлен врз домот на Сем Алтман, шеф на OpenAI",
-          "link": "https://makfax.com.mk/svet/molotov-koktel-frlen-vrz-domot-na-sem-altman-shef-na-openai/",
-          "published": "Sat, 11 Apr 2026 15:07:30 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "(Видео) Со 5.000 денари Општината го награди победникот во потрагата по скриено велигденско јајце во Крива Паланка",
-          "link": "https://makfax.com.mk/makedonija/so-5-000-denari-opshtinata-go-nagradi-pobednikot-vo-potragata-po-skrieni-veligdensko-jajce-vo-kriva-palanka/",
-          "published": "Sat, 11 Apr 2026 14:33:18 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "„Иран губи и тоа во голема мера“, објави Трамп по почетокот на мировните преговори",
-          "link": "https://makfax.com.mk/svet/iran-gubi-i-toa-vo-golema-mera-objavi-tramp-po-pochetokot-na-mirovnite-pregovori/",
-          "published": "Sat, 11 Apr 2026 14:07:45 +0000"
+          "source": "NetPress",
+          "title": "Израел фрлил 18.000 бомби врз Иран во нападите од крајот на февраури",
+          "link": "https://netpress.com.mk/izrael-frlil-18-000-bombi-vrz-iran-vo-napadite-od-krajot-na-fevrauri/",
+          "published": "Sat, 11 Apr 2026 16:50:47 +0000"
         },
         {
           "source": "NetPress",
@@ -63,12 +69,6 @@
           "title": "Три танкерa минаа низ Ормуз додека траат преговорите меѓу САД и Иран",
           "link": "https://netpress.com.mk/tri-tankera-minaa-niz-ormuz-dodeka-traat-pregovorite-megu-sad-i-iran/",
           "published": "Sat, 11 Apr 2026 15:34:36 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Британија го одложува договорот за предавање на островите Чагос на Маврициус по противењето на САД",
-          "link": "https://netpress.com.mk/britanija-go-odlozhuva-dogovorot-za-predavane-na-ostrovite-chagos-na-mavriczius-po-protiveneto-na-sad/",
-          "published": "Sat, 11 Apr 2026 14:58:26 +0000"
         }
       ]
     },
@@ -107,6 +107,18 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Russia-Ukraine Orthodox Easter ceasefire begins",
+          "link": "https://www.aljazeera.com/news/2026/4/11/russia-ukraine-orthodox-easter-ceasefire-begins?traffic_source=rss",
+          "published": "Sat, 11 Apr 2026 16:09:51 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Machete-wielding man shot by police in New York City Grand Central station",
+          "link": "https://www.aljazeera.com/news/2026/4/11/machete-wielding-man-shot-by-police-in-new-york-city-grand-central-station?traffic_source=rss",
+          "published": "Sat, 11 Apr 2026 15:51:07 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Peru holds presidential election amid a decade of political tumult",
           "link": "https://www.aljazeera.com/news/longform/2026/4/11/peru-holds-presidential-election-amid-a-decade-of-political-tumult?traffic_source=rss",
           "published": "Sat, 11 Apr 2026 15:22:21 +0000"
@@ -122,18 +134,6 @@
           "title": "Christians return to Jerusalem’s Holy Sepulchre as Israel eases restriction",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/4/11/christians-return-to-jerusalems-holy-sepulchre-as-israel-eases-restriction?traffic_source=rss",
           "published": "Sat, 11 Apr 2026 15:04:39 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Police begin arrests at UK protest against Palestine Action ban",
-          "link": "https://www.aljazeera.com/news/2026/4/11/police-begin-arrests-at-uk-protest-against-palestine-action-ban?traffic_source=rss",
-          "published": "Sat, 11 Apr 2026 15:01:18 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "US-Iran ceasefire: Can pressure, incentives, and risks deliver a final deal",
-          "link": "https://www.aljazeera.com/video/this-is-america/2026/4/11/us-iran-ceasefire-can-pressure-incentives-and-risks-deliver-a-final-deal?traffic_source=rss",
-          "published": "Sat, 11 Apr 2026 14:39:38 +0000"
         }
       ]
     }
