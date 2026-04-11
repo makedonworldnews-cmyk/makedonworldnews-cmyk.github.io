@@ -1,6 +1,13 @@
 {
-  "generated_at": "2026-04-11T13:40:58Z",
+  "generated_at": "2026-04-11T14:23:05Z",
   "items": [
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "„Иран губи и тоа во голема мера“, објави Трамп по почетокот на мировните преговори",
+      "link": "https://makfax.com.mk/svet/iran-gubi-i-toa-vo-golema-mera-objavi-tramp-po-pochetokot-na-mirovnite-pregovori/",
+      "published": "Sat, 11 Apr 2026 14:07:45 +0000"
+    },
     {
       "region": "Македонија",
       "source": "Makfax",
@@ -31,16 +38,16 @@
     },
     {
       "region": "Македонија",
-      "source": "Makfax",
-      "title": "Без возачка дозвола превезувале питбул повреден во борба, уапсени деветнаесетгодишник и двајца 17-годишници",
-      "link": "https://makfax.com.mk/crna-hronika/bez-vozachka-dozvola-prevezuvale-pitbul-povreden-vo-borba-uapseni-devetnaesetgodishnik-i-dvajca-17-godishnici/",
-      "published": "Sat, 11 Apr 2026 12:42:29 +0000"
+      "source": "NetPress",
+      "title": "Трамп: Големи празни танкери доаѓаат во САД на полнење со „најдобрата“ нафта",
+      "link": "https://netpress.com.mk/tramp-golemi-prazni-tankeri-doagaat-vo-sad-na-polnene-so-najdobrata-nafta/",
+      "published": "Sat, 11 Apr 2026 13:59:00 +0000"
     },
     {
       "region": "Македонија",
       "source": "NetPress",
-      "title": "Американски разузнавачи откриле дека Кина подготвува испораки на оружје на Иран",
-      "link": "https://netpress.com.mk/amerikanski-razuznavachi-otkrile-deka-kina-podgotvuva-isporaki-na-oruzhje-na-iran/",
+      "title": "Разузнавањето на САД открило дека Кина подготвува испораки на оружје на Иран",
+      "link": "https://netpress.com.mk/razuznavaneto-na-sad-otkrilo-deka-kina-podgotvuva-isporaki-na-oruzhje-na-iran/",
       "published": "Sat, 11 Apr 2026 13:38:27 +0000"
     },
     {
@@ -63,13 +70,6 @@
       "title": "Се степале колеги во хотел во Аеродром",
       "link": "https://netpress.com.mk/se-stepale-kolegi-vo-hotel-vo-aerodrom/",
       "published": "Sat, 11 Apr 2026 11:43:37 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Европските аеродроми стравуваат од недостиг на керозин за три седмици",
-      "link": "https://netpress.com.mk/evropskite-aerodromi-stravuvaat-od-nedostig-na-kerozin-za-tri-sedmiczi/",
-      "published": "Sat, 11 Apr 2026 11:40:21 +0000"
     },
     {
       "region": "Свет",
@@ -109,6 +109,20 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "Arsenal shocked by Bournemouth, offering Man City Premier League lifeline",
+      "link": "https://www.aljazeera.com/sports/2026/4/11/arsenal-shocked-by-bournemouth-offering-man-city-premier-league-lifeline?traffic_source=rss",
+      "published": "Sat, 11 Apr 2026 13:36:18 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "US-Iran talks on ending war begin in Pakistan",
+      "link": "https://www.aljazeera.com/news/2026/4/11/us-iran-talks-on-ending-war-begin-in-pakistan?traffic_source=rss",
+      "published": "Sat, 11 Apr 2026 13:26:53 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "Al Jazeera’s Diplomatic Editor outlines key issues in US-Iran talks",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/4/11/al-jazeeras-diplomatic-editor-outlines-key-issues-in-us-iran-talks?traffic_source=rss",
       "published": "Sat, 11 Apr 2026 13:21:41 +0000"
@@ -126,20 +140,6 @@
       "title": "Video: JD Vance meets with Pakistani PM ahead of Iran talks",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/4/11/video-jd-vance-meets-with-pakistani-pm-ahead-of-iran-talks?traffic_source=rss",
       "published": "Sat, 11 Apr 2026 12:38:48 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Makeshift Gaza university offers chance to resurrect academic studies",
-      "link": "https://www.aljazeera.com/features/2026/4/11/makeshift-gaza-university-offers-chance-to-resurrect-academic-studies?traffic_source=rss",
-      "published": "Sat, 11 Apr 2026 12:15:32 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Hungary’s Viktor Orban struggling for political survival ahead of vote",
-      "link": "https://www.aljazeera.com/news/2026/4/11/hungarys-viktor-orban-struggling-for-political-survival-ahead-of-vote?traffic_source=rss",
-      "published": "Sat, 11 Apr 2026 12:04:15 +0000"
     }
   ]
 }
