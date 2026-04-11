@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-11T09:00:09Z",
+  "updatedAt": "2026-04-11T09:53:02Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "„Какво патување“, се првите зборови на астронаутите по слетувањето на Земјата",
+          "link": "https://makfax.com.mk/svet/kakvo-patuvanje-se-prvite-zborovi-na-astronautite-po-sletuvanjeto-na-zemjata/",
+          "published": "Sat, 11 Apr 2026 09:01:32 +0000"
         },
         {
           "source": "Makfax",
@@ -35,40 +41,34 @@
           "published": "Sat, 11 Apr 2026 08:29:10 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Тимови на САД и Иран пристигнаа во Пакистан за мировни преговори среде сомнежи околу Либан и санкции",
-          "link": "https://makfax.com.mk/svet/timovi-na-sad-i-iran-pristignaa-vo-pakistan-za-mirovni-pregovori-srede-somnezhi-okolu-liban-i-sankcii/",
-          "published": "Sat, 11 Apr 2026 08:15:37 +0000"
+          "source": "NetPress",
+          "title": "Германскиот јавен долг достигнал 2,66 трилиони евра во 2025-таг",
+          "link": "https://netpress.com.mk/germanskiot-javen-dolg-dostignal-266-trilioni-evra-vo-2025-tag/",
+          "published": "Sat, 11 Apr 2026 09:47:29 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "ВО ЖИВО| Прес-конференција на премиерот Христијан Мицкоски",
+          "link": "https://netpress.com.mk/video-pres-konferenczija-na-premierot-hristijan-miczkoski/",
+          "published": "Sat, 11 Apr 2026 09:38:07 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Jапонскaтa премиерка израдувана од посетата Deep Purple",
+          "link": "https://netpress.com.mk/japonskata-premierka-izraduvana-od-posetata-deep-purple/",
+          "published": "Sat, 11 Apr 2026 09:29:04 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Проектот „Безбеден град“ ќе биде имплементиран и во Струмица",
+          "link": "https://netpress.com.mk/proektot-bezbeden-grad-ke-bide-implementiran-i-vo-strumicza/",
+          "published": "Sat, 11 Apr 2026 09:21:20 +0000"
         },
         {
           "source": "NetPress",
           "title": "НБА: Бостон втор на Истокот, Лејкерс обезбедија предност на домашен терен во првото коло",
           "link": "https://netpress.com.mk/nba-boston-vtor-na-istokot-lejkers-obezbedija-prednost-na-domashen-teren-vo-prvoto-kolo/",
           "published": "Sat, 11 Apr 2026 08:44:39 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Израел и Либан ќе започнат преговори во САД во вторник",
-          "link": "https://netpress.com.mk/izrael-i-liban-ke-zapochnat-pregovori-vo-sad-vo-vtornik/",
-          "published": "Sat, 11 Apr 2026 08:21:36 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Без вода дел од корисниците во Кисела Вода",
-          "link": "https://netpress.com.mk/bez-voda-del-od-korisniczite-vo-kisela-voda/",
-          "published": "Sat, 11 Apr 2026 08:05:06 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Земјотрес почувствуван во Пехчево и Берово",
-          "link": "https://netpress.com.mk/zemjotres-pochuvstvuvan-vo-pehchevo-i-berovo/",
-          "published": "Sat, 11 Apr 2026 08:02:20 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Потпретседателот на САД пристигна во Исламабад на преговори со Иран",
-          "link": "https://netpress.com.mk/potpretsedatelot-na-sad-pristigna-vo-islamabad-na-pregovori-so-iran/",
-          "published": "Sat, 11 Apr 2026 07:59:08 +0000"
         }
       ]
     },
@@ -107,6 +107,12 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "What’s at stake in Benin’s presidential election?",
+          "link": "https://www.aljazeera.com/news/2026/4/11/whats-at-stake-in-benins-presidential-election?traffic_source=rss",
+          "published": "Sat, 11 Apr 2026 09:00:39 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "At least seven Palestinians killed in Israeli attacks on Gaza",
           "link": "https://www.aljazeera.com/news/2026/4/11/at-least-seven-palestinians-killed-in-israeli-attacks-on-gaza?traffic_source=rss",
           "published": "Sat, 11 Apr 2026 08:35:13 +0000"
@@ -128,12 +134,6 @@
           "title": "Video: Vance arrives in Pakistan for talks with Iran",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/4/11/video-vance-arrives-in-pakistan-for-talks-with-iran?traffic_source=rss",
           "published": "Sat, 11 Apr 2026 07:34:16 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Artemis II marks historic lunar return with Pacific splashdown success",
-          "link": "https://www.aljazeera.com/gallery/2026/4/11/artemis-ii-marks-historic-lunar-return-with-pacific-splashdown-success?traffic_source=rss",
-          "published": "Sat, 11 Apr 2026 07:23:43 +0000"
         }
       ]
     }
