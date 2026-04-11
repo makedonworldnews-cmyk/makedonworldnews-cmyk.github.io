@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-11T19:51:45Z",
+  "updatedAt": "2026-04-11T20:34:58Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Американската војска потврди дека два нејзини брода го поминале Ормутскиот теснец, почнува расчистувањето мини",
+          "link": "https://makfax.com.mk/svet/amerikanskata-vojska-potvrdi-deka-dva-nejzini-broda-go-pominale-ormutskiot-tesnec-pochnuva-raschistuvanjeto-mini/",
+          "published": "Sat, 11 Apr 2026 20:12:00 +0000"
         },
         {
           "source": "Makfax",
@@ -35,10 +41,16 @@
           "published": "Sat, 11 Apr 2026 18:13:56 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Утре избори во Унгарија, анкетите покажуваат водство на опозицијата",
-          "link": "https://makfax.com.mk/svet/utre-izbori-vo-ungarija-anketite-pokazhuvaat-vodstvo-na-opozicijata/",
-          "published": "Sat, 11 Apr 2026 17:20:53 +0000"
+          "source": "NetPress",
+          "title": "Застој во американско-иранските преговори поради големи несогласувања околу Ормуз",
+          "link": "https://netpress.com.mk/zastoj-vo-amerikansko-iranskite-pregovori-poradi-golemi-nesoglasuvana-okolu-ormuz/",
+          "published": "Sat, 11 Apr 2026 20:19:47 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Баерн го собори рекордот по бројот голови во една сезона",
+          "link": "https://netpress.com.mk/baern-go-sobori-rekordot-po-brojot-golovi-vo-edna-sezona/",
+          "published": "Sat, 11 Apr 2026 19:58:07 +0000"
         },
         {
           "source": "NetPress",
@@ -57,18 +69,6 @@
           "title": "Американската војска „создава услови“ за чистење на мините во Ормутскиот теснец",
           "link": "https://netpress.com.mk/amerikanskata-vojska-sozdava-uslovi-za-chistene-na-minite-vo-ormutskiot-tesnecz/",
           "published": "Sat, 11 Apr 2026 18:00:55 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Сиљановска-Давкова: Чинот на вапцање не е само обичај, туку и момент на семејна блискост и духовна подготовка",
-          "link": "https://netpress.com.mk/silanovska-davkova-chinot-na-vapczane-ne-e-samo-obichaj-tuku-i-moment-na-semejna-bliskost-i-duhovna-podgotovka/",
-          "published": "Sat, 11 Apr 2026 17:48:48 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Британското кралско семејство ќе ја одбележи 100-годишнината од раѓањето на кралицата Елизабета",
-          "link": "https://netpress.com.mk/britanskoto-kralsko-semejstvo-ke-ja-odbelezhi-100-godishninata-od-raganeto-na-kraliczata-elizabeta/",
-          "published": "Sat, 11 Apr 2026 17:29:04 +0000"
         }
       ]
     },
@@ -101,39 +101,39 @@
         },
         {
           "source": "BBC",
-          "title": "Fuel tankers regain access to Irish oil refinery",
+          "title": "Irish cabinet meeting to be held to discuss ongoing fuel protests",
           "link": "https://www.bbc.com/news/articles/c0e7rpjqw5po?at_medium=RSS&at_campaign=rss",
-          "published": "Sat, 11 Apr 2026 17:09:13 GMT"
+          "published": "Sat, 11 Apr 2026 20:12:22 GMT"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Families gather to mourn victims of deadly shooting in Afghanistan",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/11/families-gather-to-mourn-victims-of-deadly-shooting-in-afghanistan?traffic_source=rss",
+          "published": "Sat, 11 Apr 2026 20:08:08 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Iran’s deputy FM says Tehran has ‘upper hand’ in talks with US",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/11/irans-deputy-fm-says-tehran-has-upper-hand-in-talks-with-us?traffic_source=rss",
+          "published": "Sat, 11 Apr 2026 19:46:41 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "US says two naval ships ‘transited’ Strait of Hormuz for mine-clearing",
+          "link": "https://www.aljazeera.com/news/2026/4/11/us-says-two-naval-ships-transited-strait-of-hormuz-for-mine-clearing?traffic_source=rss",
+          "published": "Sat, 11 Apr 2026 19:38:03 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Pakistan sends fighter jets to Saudi Arabia amid fragile US-Iran ceasefire",
+          "link": "https://www.aljazeera.com/news/2026/4/11/pakistan-sends-fighter-jets-to-saudi-arabia-amid-fragile-us-iran-ceasefire?traffic_source=rss",
+          "published": "Sat, 11 Apr 2026 19:35:54 +0000"
         },
         {
           "source": "Al Jazeera",
           "title": "Barcelona move 9 clear of Real Madrid with derby win as La Liga title nears",
           "link": "https://www.aljazeera.com/sports/2026/4/11/barcelona-move-9-clear-of-real-madrid-with-derby-win-as-la-liga-title-nears?traffic_source=rss",
           "published": "Sat, 11 Apr 2026 19:14:46 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "US appeals court extends deadline to halt White House ballroom construction",
-          "link": "https://www.aljazeera.com/news/2026/4/11/us-appeals-court-extends-deadline-to-halt-white-house-ballroom-construction?traffic_source=rss",
-          "published": "Sat, 11 Apr 2026 18:58:53 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Israeli settlers kill Palestinian during raid on occupied West Bank village",
-          "link": "https://www.aljazeera.com/news/2026/4/11/israeli-settlers-kill-palestinian-during-raid-on-occupied-west-bank-village?traffic_source=rss",
-          "published": "Sat, 11 Apr 2026 18:47:48 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Iranian rabbi describes Israel’s destruction of a Tehran synagogue",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/11/iranian-rabbi-describes-israels-destruction-of-a-tehran-synagogue?traffic_source=rss",
-          "published": "Sat, 11 Apr 2026 18:36:39 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "LIVE: Tyson Fury vs Arslanbek Makhmudov – heavyweight boxing match",
-          "link": "https://www.aljazeera.com/sports/liveblog/2026/4/11/live-tyson-fury-vs-arslanbek-makhmudov-heavyweight-boxing-match?traffic_source=rss",
-          "published": "Sat, 11 Apr 2026 18:33:19 +0000"
         }
       ]
     }
