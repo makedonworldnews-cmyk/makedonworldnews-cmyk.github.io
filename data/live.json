@@ -1,6 +1,13 @@
 {
-  "generated_at": "2026-04-11T08:52:20Z",
+  "generated_at": "2026-04-11T09:33:06Z",
   "items": [
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "„Какво патување“, се првите зборови на астронаутите по слетувањето на Земјата",
+      "link": "https://makfax.com.mk/svet/kakvo-patuvanje-se-prvite-zborovi-na-astronautite-po-sletuvanjeto-na-zemjata/",
+      "published": "Sat, 11 Apr 2026 09:01:32 +0000"
+    },
     {
       "region": "Македонија",
       "source": "Makfax",
@@ -31,10 +38,17 @@
     },
     {
       "region": "Македонија",
-      "source": "Makfax",
-      "title": "Тимови на САД и Иран пристигнаа во Пакистан за мировни преговори среде сомнежи околу Либан и санкции",
-      "link": "https://makfax.com.mk/svet/timovi-na-sad-i-iran-pristignaa-vo-pakistan-za-mirovni-pregovori-srede-somnezhi-okolu-liban-i-sankcii/",
-      "published": "Sat, 11 Apr 2026 08:15:37 +0000"
+      "source": "NetPress",
+      "title": "Jапонскaтa премиерка израдувана од посетата Deep Purple",
+      "link": "https://netpress.com.mk/japonskata-premierka-izraduvana-od-posetata-deep-purple/",
+      "published": "Sat, 11 Apr 2026 09:29:04 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "NetPress",
+      "title": "Проектот „Безбеден град“ ќе биде имплементиран и во Струмица",
+      "link": "https://netpress.com.mk/proektot-bezbeden-grad-ke-bide-implementiran-i-vo-strumicza/",
+      "published": "Sat, 11 Apr 2026 09:21:20 +0000"
     },
     {
       "region": "Македонија",
@@ -56,20 +70,6 @@
       "title": "Без вода дел од корисниците во Кисела Вода",
       "link": "https://netpress.com.mk/bez-voda-del-od-korisniczite-vo-kisela-voda/",
       "published": "Sat, 11 Apr 2026 08:05:06 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Земјотрес почувствуван во Пехчево и Берово",
-      "link": "https://netpress.com.mk/zemjotres-pochuvstvuvan-vo-pehchevo-i-berovo/",
-      "published": "Sat, 11 Apr 2026 08:02:20 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Потпретседателот на САД пристигна во Исламабад на преговори со Иран",
-      "link": "https://netpress.com.mk/potpretsedatelot-na-sad-pristigna-vo-islamabad-na-pregovori-so-iran/",
-      "published": "Sat, 11 Apr 2026 07:59:08 +0000"
     },
     {
       "region": "Свет",
@@ -109,6 +109,20 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "What’s at stake in Benin’s presidential election?",
+      "link": "https://www.aljazeera.com/news/2026/4/11/whats-at-stake-in-benins-presidential-election?traffic_source=rss",
+      "published": "Sat, 11 Apr 2026 09:00:39 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "At least seven Palestinians killed in Israeli attacks on Gaza",
+      "link": "https://www.aljazeera.com/news/2026/4/11/at-least-seven-palestinians-killed-in-israeli-attacks-on-gaza?traffic_source=rss",
+      "published": "Sat, 11 Apr 2026 08:35:13 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "Israel rejects ceasefire with Hezbollah ahead of Lebanon talks next week",
       "link": "https://www.aljazeera.com/news/2026/4/11/israel-rejects-ceasefire-with-hezbollah-ahead-of-lebanon-talks-next-week?traffic_source=rss",
       "published": "Sat, 11 Apr 2026 07:51:14 +0000"
@@ -126,20 +140,6 @@
       "title": "Video: Vance arrives in Pakistan for talks with Iran",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/4/11/video-vance-arrives-in-pakistan-for-talks-with-iran?traffic_source=rss",
       "published": "Sat, 11 Apr 2026 07:34:16 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Artemis II marks historic lunar return with Pacific splashdown success",
-      "link": "https://www.aljazeera.com/gallery/2026/4/11/artemis-ii-marks-historic-lunar-return-with-pacific-splashdown-success?traffic_source=rss",
-      "published": "Sat, 11 Apr 2026 07:23:43 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Chelsea vs Manchester City: Premier League – team news, start, lineups",
-      "link": "https://www.aljazeera.com/sports/2026/4/11/chelsea-vs-manchester-city-premier-league-team-news-start-lineups?traffic_source=rss",
-      "published": "Sat, 11 Apr 2026 07:16:05 +0000"
     }
   ]
 }
