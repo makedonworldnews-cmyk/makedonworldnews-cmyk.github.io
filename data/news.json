@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-11T17:40:36Z",
+  "updatedAt": "2026-04-11T18:21:18Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) Удинезе на „Сан Сиро“ го декласира Милан",
+          "link": "https://makfax.com.mk/sport/video-udineze-na-san-siro-go-deklasira-milan/",
+          "published": "Sat, 11 Apr 2026 18:13:56 +0000"
         },
         {
           "source": "Makfax",
@@ -35,15 +41,21 @@
           "published": "Sat, 11 Apr 2026 16:30:59 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "(Видео) Арсенал шокиран среде Лондон – Борнмут победи на „Емирејтс“",
-          "link": "https://makfax.com.mk/sport/video-arsenal-shokiran-srede-london-bornmut-pobedi-na-emirejts/",
-          "published": "Sat, 11 Apr 2026 16:22:59 +0000"
+          "source": "NetPress",
+          "title": "Американската војска „создава услови“ за чистење на мините во Ормутскиот теснец",
+          "link": "https://netpress.com.mk/amerikanskata-vojska-sozdava-uslovi-za-chistene-na-minite-vo-ormutskiot-tesnecz/",
+          "published": "Sat, 11 Apr 2026 18:00:55 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Британското кралско семејство ќе го одбележи 100-годишнината од раѓањето на кралицата Елизабета",
-          "link": "https://netpress.com.mk/britanskoto-kralsko-semejstvo-ke-go-odbelezhi-100-godishninata-od-raganeto-na-kraliczata-elizabeta/",
+          "title": "Сиљановска-Давкова: Чинот на вапцање не е само обичај, туку и момент на семејна блискост и духовна подготовка",
+          "link": "https://netpress.com.mk/silanovska-davkova-chinot-na-vapczane-ne-e-samo-obichaj-tuku-i-moment-na-semejna-bliskost-i-duhovna-podgotovka/",
+          "published": "Sat, 11 Apr 2026 17:48:48 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Британското кралско семејство ќе ја одбележи 100-годишнината од раѓањето на кралицата Елизабета",
+          "link": "https://netpress.com.mk/britanskoto-kralsko-semejstvo-ke-ja-odbelezhi-100-godishninata-od-raganeto-na-kraliczata-elizabeta/",
           "published": "Sat, 11 Apr 2026 17:29:04 +0000"
         },
         {
@@ -57,18 +69,6 @@
           "title": "Трамп во Вашингтон ja сака „најубавата“ триумфална порта во светот",
           "link": "https://netpress.com.mk/tramp-vo-vashington-ja-saka-najubavata-triumfalna-porta-vo-svetot/",
           "published": "Sat, 11 Apr 2026 16:13:53 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Бундеслига: Баер подобар од Борусија (Д)",
-          "link": "https://netpress.com.mk/bundesliga-baer-podobar-od-borusija-d/",
-          "published": "Sat, 11 Apr 2026 15:56:22 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "АТП Монте Карло: Алкараз против Синер в недела за титула и „број 1“",
-          "link": "https://netpress.com.mk/atp-monte-karlo-alkaraz-protiv-siner-v-nedela-za-titula-i-broj-1/",
-          "published": "Sat, 11 Apr 2026 15:45:46 +0000"
         }
       ]
     },
@@ -107,33 +107,33 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Gaza families mourn loved ones killed in overnight Israeli air strikes",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/11/gaza-families-mourn-loved-ones-killed-in-overnight-israeli-air-strikes?traffic_source=rss",
+          "published": "Sat, 11 Apr 2026 18:02:34 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Vigil held in Madrid for victims of Israeli strikes on Lebanon",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/11/vigil-held-in-madrid-for-victims-of-israeli-strikes-on-lebanon?traffic_source=rss",
+          "published": "Sat, 11 Apr 2026 17:32:24 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Ceasefire brings some relief for Iranians but economic outlook remains grim",
+          "link": "https://www.aljazeera.com/news/2026/4/11/ceasefire-brings-some-relief-for-iranians-but-economic-outlook-remains-grim?traffic_source=rss",
+          "published": "Sat, 11 Apr 2026 17:29:23 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Iraq parliament elects Kurdish politician Nizar Amedi as president",
+          "link": "https://www.aljazeera.com/news/2026/4/11/iraq-parliament-elects-kurdish-politician-nizar-amedi-as-president?traffic_source=rss",
+          "published": "Sat, 11 Apr 2026 17:24:02 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Strait of Hormuz leverage looms over US-Iran talks in Islamabad",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/4/11/strait-of-hormuz-leverage-looms-over-us-iran-talks-in-islamabad?traffic_source=rss",
           "published": "Sat, 11 Apr 2026 17:15:05 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Russia-Ukraine Orthodox Easter ceasefire begins",
-          "link": "https://www.aljazeera.com/news/2026/4/11/russia-ukraine-orthodox-easter-ceasefire-begins?traffic_source=rss",
-          "published": "Sat, 11 Apr 2026 16:09:51 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Machete-wielding man killed by police in New York’s Grand Central station",
-          "link": "https://www.aljazeera.com/news/2026/4/11/machete-wielding-man-shot-by-police-in-new-york-city-grand-central-station?traffic_source=rss",
-          "published": "Sat, 11 Apr 2026 15:51:07 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Peru holds presidential election amid a decade of political tumult",
-          "link": "https://www.aljazeera.com/news/longform/2026/4/11/peru-holds-presidential-election-amid-a-decade-of-political-tumult?traffic_source=rss",
-          "published": "Sat, 11 Apr 2026 15:22:21 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Hungry Fury ‘light and lean’ for heavyweight comeback fight with Makhmudov",
-          "link": "https://www.aljazeera.com/sports/2026/4/11/hungry-fury-light-and-lean-for-heavyweight-comeback-fight-with-makhmudov?traffic_source=rss",
-          "published": "Sat, 11 Apr 2026 15:04:46 +0000"
         }
       ]
     }
