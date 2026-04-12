@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-12T13:13:53Z",
+  "updatedAt": "2026-04-12T14:05:16Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,24 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Нападнат таксист во Аеродром",
+          "link": "https://makfax.com.mk/crna-hronika/napadnat-taksist-vo-aerodrom/",
+          "published": "Sun, 12 Apr 2026 14:00:59 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "(Фото) Транспарент во Техеран: Ормускиот теснец е засекогаш во наши раце",
+          "link": "https://makfax.com.mk/svet/foto-transparent-za-ormuskiot-tesnec-vo-teheran-zasegokash-e-vo-nashi-race/",
+          "published": "Sun, 12 Apr 2026 13:45:11 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Малолетник нападнал друг малолетник пред игротека во Шуто Оризари: во полиција се пријавил сам",
+          "link": "https://makfax.com.mk/crna-hronika/maloletnik-napadnal-drug-maloletnik-pred-igroteka-vo-shuto-orizari-vo-policija-se-prijavil-sam/",
+          "published": "Sun, 12 Apr 2026 13:30:09 +0000"
         },
         {
           "source": "Makfax",
@@ -23,22 +41,22 @@
           "published": "Sun, 12 Apr 2026 13:10:36 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Скопјанец истепан на Бит Пазар",
-          "link": "https://makfax.com.mk/crna-hronika/skopjanec-istepan-na-bit-pazar/",
-          "published": "Sun, 12 Apr 2026 13:00:47 +0000"
+          "source": "NetPress",
+          "title": "Димовски очекува победа на Орбан на изборите: Соработката со Унгарија е на високо стратешко ниво",
+          "link": "https://netpress.com.mk/dimovski-ochekuva-pobeda-na-orban-na-izborite-sorabotkata-so-ungarija-e-na-visoko-strateshko-nivo/",
+          "published": "Sun, 12 Apr 2026 13:59:14 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Уапсен 38-годишник од село Камењане поради инволвираност во борби со кучиња",
-          "link": "https://makfax.com.mk/crna-hronika/uapsen-38-godishnik-od-selo-kamenjane-poradi-involviranost-vo-borbi-so-kuchinja/",
-          "published": "Sun, 12 Apr 2026 12:30:09 +0000"
+          "source": "NetPress",
+          "title": "ДПИ проверил над 800 продажни места",
+          "link": "https://netpress.com.mk/dpi-proveril-nad-800-prodazhni-mesta/",
+          "published": "Sun, 12 Apr 2026 13:46:49 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Прекинот на интернет во Иран трае веќе 44 дена",
-          "link": "https://makfax.com.mk/svet/prekinot-na-internet-vo-iran-trae-veke-44-dena/",
-          "published": "Sun, 12 Apr 2026 12:21:30 +0000"
+          "source": "NetPress",
+          "title": "Продажбата на германски автомобили во Русија порасна во првиот квартал",
+          "link": "https://netpress.com.mk/prodazhbata-na-germanski-avtomobili-vo-rusija-porasna-vo-prviot-kvartal/",
+          "published": "Sun, 12 Apr 2026 13:14:02 +0000"
         },
         {
           "source": "NetPress",
@@ -51,24 +69,6 @@
           "title": "Собраниска делегација учествува во набљудување на изборите во Унгарија",
           "link": "https://netpress.com.mk/sobraniska-delegaczija-uchestvuva-vo-nabluduvane-na-izborite-vo-ungarija/",
           "published": "Sun, 12 Apr 2026 12:35:27 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Иран ги обвинува САД за неуспехот на преговорите во Исламабад",
-          "link": "https://netpress.com.mk/iran-gi-obvinuva-sad-za-neuspehot-na-pregovorite-vo-islamabad/",
-          "published": "Sun, 12 Apr 2026 12:23:43 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Пијани каменичани физички се пресметувале, завршија во полиција",
-          "link": "https://netpress.com.mk/pijani-kamenichani-fizichki-se-presmetuvale-zavrshija-vo-policzija/",
-          "published": "Sun, 12 Apr 2026 12:12:10 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Таткото на данската кралица Мери почина во Тасманија",
-          "link": "https://netpress.com.mk/tatkoto-na-danskata-kralicza-meri-pochina-vo-tasmanija/",
-          "published": "Sun, 12 Apr 2026 11:35:06 +0000"
         }
       ]
     },
@@ -77,15 +77,9 @@
       "items": [
         {
           "source": "BBC",
-          "title": "After Iran talks falter, will Trump escalate or negotiate?",
+          "title": "After Iran talks falter, the big question is 'what happens next?'",
           "link": "https://www.bbc.com/news/articles/c5y943x2g8qo?at_medium=RSS&at_campaign=rss",
           "published": "Sun, 12 Apr 2026 12:48:01 GMT"
-        },
-        {
-          "source": "BBC",
-          "title": "Hungarians vote in big numbers on whether to end Orbán rule and elect rival",
-          "link": "https://www.bbc.com/news/articles/cdxdepjrv95o?at_medium=RSS&at_campaign=rss",
-          "published": "Sun, 12 Apr 2026 12:02:31 GMT"
         },
         {
           "source": "BBC",
@@ -106,6 +100,30 @@
           "published": "Sun, 12 Apr 2026 07:22:28 GMT"
         },
         {
+          "source": "BBC",
+          "title": "Why this disillusioned Trump voter spends hours searching Epstein files",
+          "link": "https://www.bbc.com/news/articles/cx237vmr2lyo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 12 Apr 2026 00:30:44 GMT"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Palestinians condemn storming of Al-Aqsa Mosque by Israel’s Ben-Gvir",
+          "link": "https://www.aljazeera.com/news/2026/4/12/palestinians-condemn-storming-of-al-aqsa-mosque-by-israels-ben-gvir?traffic_source=rss",
+          "published": "Sun, 12 Apr 2026 13:42:04 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Explaining Benin’s presidential election",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/12/explaining-benins-presidential-election?traffic_source=rss",
+          "published": "Sun, 12 Apr 2026 13:25:22 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Lessons from the Iran war",
+          "link": "https://www.aljazeera.com/opinions/2026/4/12/lessons-from-the-iran-war?traffic_source=rss",
+          "published": "Sun, 12 Apr 2026 13:10:22 +0000"
+        },
+        {
           "source": "Al Jazeera",
           "title": "Ukraine and Russia accuse each other of breaching Easter ceasefire",
           "link": "https://www.aljazeera.com/news/2026/4/12/ukraine-and-russia-accuse-each-other-of-breaching-easter-ceasefire?traffic_source=rss",
@@ -116,24 +134,6 @@
           "title": "US-Iran ceasefire talks: What are the key sticking points?",
           "link": "https://www.aljazeera.com/news/2026/4/12/us-iran-ceasefire-talks-what-are-the-key-sticking-points?traffic_source=rss",
           "published": "Sun, 12 Apr 2026 12:47:21 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "LIVE: Chelsea vs Manchester City – Premier League",
-          "link": "https://www.aljazeera.com/sports/liveblog/2026/4/12/live-chelsea-vs-manchester-city-premier-league-football?traffic_source=rss",
-          "published": "Sun, 12 Apr 2026 12:30:00 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Who is running US foreign policy? Varsha Gandikota and Jeremy Scahill",
-          "link": "https://www.aljazeera.com/video/reframe/2026/4/12/who-is-running-us-foreign-policy-varsha-gandikota-and-jeremy-scahill?traffic_source=rss",
-          "published": "Sun, 12 Apr 2026 12:02:30 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Israeli army raids across the occupied West Bank overnight",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/12/israeli-army-raids-across-the-occupied-west-bank-overnight?traffic_source=rss",
-          "published": "Sun, 12 Apr 2026 11:40:34 +0000"
         }
       ]
     }
