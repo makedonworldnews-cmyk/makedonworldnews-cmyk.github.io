@@ -1,6 +1,13 @@
 {
-  "generated_at": "2026-04-12T10:06:18Z",
+  "generated_at": "2026-04-12T10:55:56Z",
   "items": [
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "(Фото) Ѓорѓиевски на свечената Велигденска литургија во Соборниот храм: Без молитва, без пост и без искрено покајание, човекот тешко може да го пронајде вистинскиот мир",
+      "link": "https://makfax.com.mk/makedonija/foto-gorgievski-na-svechenata-veligdenska-liturgija-vo-soborniot-hram-bez-molitva-bez-post-i-bez-iskreno-pokajanie-chovekot-teshko-mozhe-da-go-pronajde-vistinskiot-mir/",
+      "published": "Sun, 12 Apr 2026 10:47:55 +0000"
+    },
     {
       "region": "Македонија",
       "source": "Makfax",
@@ -31,10 +38,24 @@
     },
     {
       "region": "Македонија",
-      "source": "Makfax",
-      "title": "Шефицата на канадската армија: Мора да се подготвиме за големи конфликти",
-      "link": "https://makfax.com.mk/svet/sheficata-na-kanadskata-armija-mora-da-se-podgotvime-za-golemi-konflikti/",
-      "published": "Sun, 12 Apr 2026 09:15:07 +0000"
+      "source": "NetPress",
+      "title": "Доларот падна во однос на кошничката со валути по прекинот на огнот меѓу САД и Иран",
+      "link": "https://netpress.com.mk/dolarot-padna-vo-odnos-na-koshnichkata-so-valuti-po-prekinot-na-ognot-megu-sad-i-iran/",
+      "published": "Sun, 12 Apr 2026 10:42:06 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "NetPress",
+      "title": "Без вода дел од село Бардовци",
+      "link": "https://netpress.com.mk/bez-voda-del-od-selo-bardovczi/",
+      "published": "Sun, 12 Apr 2026 10:15:02 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "NetPress",
+      "title": "Флотила за помош за Газа ќе се обиде да ја пробие израелската блокада",
+      "link": "https://netpress.com.mk/flotila-za-pomosh-za-gaza-ke-se-obide-da-ja-probie-izraelskata-blokada/",
+      "published": "Sun, 12 Apr 2026 10:08:48 +0000"
     },
     {
       "region": "Македонија",
@@ -49,27 +70,6 @@
       "title": "Денес, повеќе од кога и да е, потребни ни се вера и избор да останеме луѓе, да подадеме рака и да не се откажеме еден од друг",
       "link": "https://netpress.com.mk/denes-poveke-od-koga-i-da-e-potrebni-ni-se-vera-i-izbor-da-ostaneme-luge-da-podademe-raka-i-da-ne-se-otkazheme-eden-od-drug/",
       "published": "Sun, 12 Apr 2026 09:27:53 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Примирјето на Блискиот исток поттикна силен раст на светските берзи",
-      "link": "https://netpress.com.mk/primirjeto-na-bliskiot-istok-pottikna-silen-rast-na-svetskite-berzi/",
-      "published": "Sun, 12 Apr 2026 09:18:39 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Техеран: Никој не очекуваше договор во првата рунда разговори",
-      "link": "https://netpress.com.mk/teheran-nikoj-ne-ochekuvashe-dogovor-vo-prvata-runda-razgovori/",
-      "published": "Sun, 12 Apr 2026 09:05:57 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Австралиската тинејџерска сензација истрча 200 метри за 19,67 секунди",
-      "link": "https://netpress.com.mk/avstraliskata-tinejdherska-senzaczija-istrcha-200-metri-za-1967-sekundi/",
-      "published": "Sun, 12 Apr 2026 08:57:10 +0000"
     },
     {
       "region": "Свет",
@@ -109,6 +109,13 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "Union Berlin’s Marie-Louise Eta becomes first woman manager of men’s team",
+      "link": "https://www.aljazeera.com/sports/2026/4/12/union-berlins-marie-louise-eta-becomes-first-woman-manager-of-mens-team?traffic_source=rss",
+      "published": "Sun, 12 Apr 2026 10:14:22 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "Saudi Arabia says key oil pipeline back to full capacity after attacks",
       "link": "https://www.aljazeera.com/economy/2026/4/12/saudi-arabia-says-key-oil-pipeline-back-to-full-capacity-after-attacks?traffic_source=rss",
       "published": "Sun, 12 Apr 2026 09:47:24 +0000"
@@ -116,7 +123,7 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
-      "title": "Legendary Bollywood singer Asha Bhosle dies aged 92",
+      "title": "Legendary Indian Bollywood singer Asha Bhosle dies aged 92",
       "link": "https://www.aljazeera.com/news/2026/4/12/legendary-bollywood-singer-asha-bhosle-dies-aged-92?traffic_source=rss",
       "published": "Sun, 12 Apr 2026 09:40:55 +0000"
     },
@@ -133,13 +140,6 @@
       "title": "Teen sprint star Gout powers to 200m win in 19.67 seconds",
       "link": "https://www.aljazeera.com/sports/2026/4/12/teen-sprint-star-gout-powers-to-200m-win-in-19-67-seconds?traffic_source=rss",
       "published": "Sun, 12 Apr 2026 09:33:38 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Deported migrants arrive in Costa Rica from the US",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/12/deported-migrants-arrive-in-costa-rica-from-the-us?traffic_source=rss",
-      "published": "Sun, 12 Apr 2026 09:31:57 +0000"
     }
   ]
 }
