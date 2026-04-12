@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-12T23:05:16Z",
+  "generated_at": "2026-04-12T23:48:40Z",
   "items": [
     {
       "region": "Македонија",
@@ -95,16 +95,23 @@
     {
       "region": "Свет",
       "source": "BBC",
+      "title": "Pope prioritises world's fastest-growing Catholic region in major Africa tour",
+      "link": "https://www.bbc.com/news/articles/cvg0jyx4qq7o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 12 Apr 2026 23:08:40 GMT"
+    },
+    {
+      "region": "Свет",
+      "source": "BBC",
       "title": "Ukraine and Russia accuse each other of hundreds of ceasefire violations",
       "link": "https://www.bbc.com/news/articles/cz78y73v830o?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 12 Apr 2026 11:53:37 GMT"
     },
     {
       "region": "Свет",
-      "source": "BBC",
-      "title": "At least 30 feared dead in crush at Haitian tourist site",
-      "link": "https://www.bbc.com/news/articles/cwyj8d49wzxo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 12 Apr 2026 07:22:28 GMT"
+      "source": "Al Jazeera",
+      "title": "Peter Magyar says his election win has ‘liberated Hungary’ from Orban",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/12/peter-magyar-says-his-election-win-has-liberated-hungary-from-orban?traffic_source=rss",
+      "published": "Sun, 12 Apr 2026 22:38:42 +0000"
     },
     {
       "region": "Свет",
@@ -133,13 +140,6 @@
       "title": "Could the Iran war pose lasting risks to global food security?",
       "link": "https://www.aljazeera.com/video/inside-story/2026/4/12/could-the-iran-war-pose-lasting-risks-to-global-food-security?traffic_source=rss",
       "published": "Sun, 12 Apr 2026 20:44:49 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "World reacts to Peter Magyar defeating Viktor Orban, Hungary’s longtime PM",
-      "link": "https://www.aljazeera.com/news/2026/4/12/world-reacts-to-election-defeat-for-viktor-orban-hungarys-longtime-pm?traffic_source=rss",
-      "published": "Sun, 12 Apr 2026 20:43:13 +0000"
     }
   ]
 }
