@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-12T09:57:09Z",
+  "updatedAt": "2026-04-12T10:46:25Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Орбан: Многу луѓе гласаат, тоа значи само едно",
+          "link": "https://makfax.com.mk/svet/orban-mnogu-luge-glasaat-toa-znachi-samo-edno/",
+          "published": "Sun, 12 Apr 2026 10:02:50 +0000"
         },
         {
           "source": "Makfax",
@@ -35,10 +41,22 @@
           "published": "Sun, 12 Apr 2026 09:15:07 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Иран уапси 50 лица поради шпионажа за САД и Израел",
-          "link": "https://makfax.com.mk/svet/iran-uapsi-50-lica-poradi-shpionazha-za-sad-i-izrael/",
-          "published": "Sun, 12 Apr 2026 09:00:59 +0000"
+          "source": "NetPress",
+          "title": "Доларот падна во однос на кошничката со валути по прекинот на огнот меѓу САД и Иран",
+          "link": "https://netpress.com.mk/dolarot-padna-vo-odnos-na-koshnichkata-so-valuti-po-prekinot-na-ognot-megu-sad-i-iran/",
+          "published": "Sun, 12 Apr 2026 10:42:06 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Без вода дел од село Бардовци",
+          "link": "https://netpress.com.mk/bez-voda-del-od-selo-bardovczi/",
+          "published": "Sun, 12 Apr 2026 10:15:02 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Флотила за помош за Газа ќе се обиде да ја пробие израелската блокада",
+          "link": "https://netpress.com.mk/flotila-za-pomosh-za-gaza-ke-se-obide-da-ja-probie-izraelskata-blokada/",
+          "published": "Sun, 12 Apr 2026 10:08:48 +0000"
         },
         {
           "source": "NetPress",
@@ -51,24 +69,6 @@
           "title": "Денес, повеќе од кога и да е, потребни ни се вера и избор да останеме луѓе, да подадеме рака и да не се откажеме еден од друг",
           "link": "https://netpress.com.mk/denes-poveke-od-koga-i-da-e-potrebni-ni-se-vera-i-izbor-da-ostaneme-luge-da-podademe-raka-i-da-ne-se-otkazheme-eden-od-drug/",
           "published": "Sun, 12 Apr 2026 09:27:53 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Примирјето на Блискиот исток поттикна силен раст на светските берзи",
-          "link": "https://netpress.com.mk/primirjeto-na-bliskiot-istok-pottikna-silen-rast-na-svetskite-berzi/",
-          "published": "Sun, 12 Apr 2026 09:18:39 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Техеран: Никој не очекуваше договор во првата рунда разговори",
-          "link": "https://netpress.com.mk/teheran-nikoj-ne-ochekuvashe-dogovor-vo-prvata-runda-razgovori/",
-          "published": "Sun, 12 Apr 2026 09:05:57 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Австралиската тинејџерска сензација истрча 200 метри за 19,67 секунди",
-          "link": "https://netpress.com.mk/avstraliskata-tinejdherska-senzaczija-istrcha-200-metri-za-1967-sekundi/",
-          "published": "Sun, 12 Apr 2026 08:57:10 +0000"
         }
       ]
     },
@@ -85,7 +85,7 @@
           "source": "BBC",
           "title": "Asha Bhosle: The sound of Bollywood dies aged 92",
           "link": "https://www.bbc.com/news/articles/c6ppd0qdp1do?at_medium=RSS&at_campaign=rss",
-          "published": "Sun, 12 Apr 2026 09:48:10 GMT"
+          "published": "Sun, 12 Apr 2026 10:03:00 GMT"
         },
         {
           "source": "BBC",
@@ -107,6 +107,24 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Saudi Arabia says key oil pipeline back to full capacity after attacks",
+          "link": "https://www.aljazeera.com/economy/2026/4/12/saudi-arabia-says-key-oil-pipeline-back-to-full-capacity-after-attacks?traffic_source=rss",
+          "published": "Sun, 12 Apr 2026 09:47:24 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Legendary Bollywood singer Asha Bhosle dies aged 92",
+          "link": "https://www.aljazeera.com/news/2026/4/12/legendary-bollywood-singer-asha-bhosle-dies-aged-92?traffic_source=rss",
+          "published": "Sun, 12 Apr 2026 09:40:55 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "More than 500 people arrested at London rally for Palestine Action",
+          "link": "https://www.aljazeera.com/gallery/2026/4/12/uk-police-arrest-523-during-pro-palestinian-demonstration-in-london?traffic_source=rss",
+          "published": "Sun, 12 Apr 2026 09:36:42 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Teen sprint star Gout powers to 200m win in 19.67 seconds",
           "link": "https://www.aljazeera.com/sports/2026/4/12/teen-sprint-star-gout-powers-to-200m-win-in-19-67-seconds?traffic_source=rss",
           "published": "Sun, 12 Apr 2026 09:33:38 +0000"
@@ -116,24 +134,6 @@
           "title": "Deported migrants arrive in Costa Rica from the US",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/4/12/deported-migrants-arrive-in-costa-rica-from-the-us?traffic_source=rss",
           "published": "Sun, 12 Apr 2026 09:31:57 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "What happened in 40 days of war on Iran",
-          "link": "https://www.aljazeera.com/video/by-the-numbers-3/2026/4/12/what-happened-in-40-days-of-war-on-iran?traffic_source=rss",
-          "published": "Sun, 12 Apr 2026 08:09:55 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Iran war: What is happening on day 44 of the US-Iran conflict?",
-          "link": "https://www.aljazeera.com/news/2026/4/12/iran-war-what-is-happening-on-day-44-of-the-us-iran-conflict?traffic_source=rss",
-          "published": "Sun, 12 Apr 2026 08:07:31 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Neymar has to prove his fitness for Brazil’s World Cup squad: Ancelotti",
-          "link": "https://www.aljazeera.com/sports/2026/4/12/neymar-has-to-prove-his-fitness-for-brazils-world-cup-squad-ancelotti?traffic_source=rss",
-          "published": "Sun, 12 Apr 2026 06:56:08 +0000"
         }
       ]
     }
