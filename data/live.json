@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-12T21:56:47Z",
+  "generated_at": "2026-04-12T22:30:11Z",
   "items": [
     {
       "region": "Македонија",
@@ -39,6 +39,20 @@
     {
       "region": "Македонија",
       "source": "NetPress",
+      "title": "Серија А: Интер со пресврт во Комо на девет бода предност",
+      "link": "https://netpress.com.mk/serija-a-inter-so-presvrt-vo-komo-na-devet-boda-prednost/",
+      "published": "Sun, 12 Apr 2026 22:24:34 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "NetPress",
+      "title": "Премиер лига: Нов пораз на Тотенхем, Сити убедлив против Челзи",
+      "link": "https://netpress.com.mk/premier-liga-nov-poraz-na-totenhem-siti-ubedliv-protiv-chelzi/",
+      "published": "Sun, 12 Apr 2026 22:04:04 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "NetPress",
       "title": "Ла Лига: Три бода за Виљареал во Билбао, важна победа на Мајорка",
       "link": "https://netpress.com.mk/la-liga-tri-boda-za-vilareal-vo-bilbao-vazhna-pobeda-na-majorka/",
       "published": "Sun, 12 Apr 2026 21:49:35 +0000"
@@ -56,20 +70,6 @@
       "title": "Макрон, Фон дер Лајен и Мерц меѓу првите му ја честитаа изборната победа на Маѓар",
       "link": "https://netpress.com.mk/makron-fon-der-lajen-i-mercz-megu-prvite-mu-ja-chestitaa-izbornata-pobeda-na-magar/",
       "published": "Sun, 12 Apr 2026 20:29:26 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Бундеслига: Фрајбург победи со 1:0 кај Мајнц, Штутгарт убедлив со Хамбург",
-      "link": "https://netpress.com.mk/bundesliga-frajburg-pobedi-so-10-kaj-majncz-shtutgart-ubedliv-so-hamburg/",
-      "published": "Sun, 12 Apr 2026 20:03:29 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Унгарија: Орбан му ја честитал победата на Маѓар",
-      "link": "https://netpress.com.mk/ungarija-orban-mu-ja-chestital-pobedata-na-magar/",
-      "published": "Sun, 12 Apr 2026 19:49:55 +0000"
     },
     {
       "region": "Свет",
@@ -109,6 +109,13 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "These are people Israel killed in Lebanon on a single day",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/12/these-are-people-israel-killed-in-lebanon-on-a-single-day?traffic_source=rss",
+      "published": "Sun, 12 Apr 2026 21:44:00 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "Abuse allegations against lead Democrat shake race for California governor",
       "link": "https://www.aljazeera.com/news/2026/4/12/abuse-allegations-against-lead-democrat-shake-race-for-california-governor?traffic_source=rss",
       "published": "Sun, 12 Apr 2026 21:12:55 +0000"
@@ -133,13 +140,6 @@
       "title": "World reacts to Peter Magyar defeating Viktor Orban, Hungary’s longtime PM",
       "link": "https://www.aljazeera.com/news/2026/4/12/world-reacts-to-election-defeat-for-viktor-orban-hungarys-longtime-pm?traffic_source=rss",
       "published": "Sun, 12 Apr 2026 20:43:13 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "History of flotilla campaigns to end Israel’s siege of Gaza",
-      "link": "https://www.aljazeera.com/news/2026/4/12/history-of-flotilla-campaigns-to-end-israels-siege-of-gaza?traffic_source=rss",
-      "published": "Sun, 12 Apr 2026 20:30:26 +0000"
     }
   ]
 }
