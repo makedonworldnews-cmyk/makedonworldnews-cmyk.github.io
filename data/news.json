@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-12T15:37:29Z",
+  "updatedAt": "2026-04-12T16:05:24Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Тројца мажи се истепаа во кафеана во Македонска Каменица: сите биле пијани",
+          "link": "https://makfax.com.mk/crna-hronika/trojca-mazhi-se-istepaa-vo-kafeana-vo-makedonska-kamenica-site-bile-pijani/",
+          "published": "Sun, 12 Apr 2026 16:00:21 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Иранскиот преговарач за неуспешните преговори: Не им веруваме на Американците",
+          "link": "https://makfax.com.mk/svet/iranskiot-pregovarach-za-neuspeshnite-pregovori-ne-im-veruvame-na-amerikancite/",
+          "published": "Sun, 12 Apr 2026 15:53:43 +0000"
         },
         {
           "source": "Makfax",
@@ -29,16 +41,10 @@
           "published": "Sun, 12 Apr 2026 15:00:05 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Првите резултати од изборите во Унгарија од 20 часот, податоците постојано ќе се ажурираат",
-          "link": "https://makfax.com.mk/svet/evropa/prvite-rezultati-od-izborite-vo-ungarija-od-20-chasot-podatocite-postojano-ke-se-azhuriraat/",
-          "published": "Sun, 12 Apr 2026 14:45:48 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "И американските и иранските претставници го напуштија Исламабад",
-          "link": "https://makfax.com.mk/svet/i-amerikanskite-i-iranskite-pretstavnici-go-napushtija-islamabad/",
-          "published": "Sun, 12 Apr 2026 14:33:36 +0000"
+          "source": "NetPress",
+          "title": "Тајванскиот производител на чипови очекува значително повисоки приходи годинава",
+          "link": "https://netpress.com.mk/tajvanskiot-proizvoditel-na-chipovi-ochekuva-znachitelno-povisoki-prihodi-godinava/",
+          "published": "Sun, 12 Apr 2026 15:57:50 +0000"
         },
         {
           "source": "NetPress",
@@ -63,12 +69,6 @@
           "title": "Трамп порача дека САД веднаш ќе почнат да го блокираат Ормтскиот теснец",
           "link": "https://netpress.com.mk/tramp-poracha-deka-sad-vednash-ke-pochnat-da-go-blokiraat-ormtskiot-tesnecz/",
           "published": "Sun, 12 Apr 2026 14:17:13 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Димовски очекува победа на Орбан на изборите: Соработката со Унгарија е на високо стратешко ниво",
-          "link": "https://netpress.com.mk/dimovski-ochekuva-pobeda-na-orban-na-izborite-sorabotkata-so-ungarija-e-na-visoko-strateshko-nivo/",
-          "published": "Sun, 12 Apr 2026 13:59:14 +0000"
         }
       ]
     },
@@ -107,6 +107,24 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Trump announces Strait of Hormuz blockade after US-Iran peace talks end",
+          "link": "https://www.aljazeera.com/news/2026/4/12/trump-announces-strait-of-hormuz-blockade-after-us-iran-peace-talks-end?traffic_source=rss",
+          "published": "Sun, 12 Apr 2026 15:47:23 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Peru votes for ninth president in less than decade",
+          "link": "https://www.aljazeera.com/news/2026/4/12/peru-votes-for-ninth-president-in-less-than-decade?traffic_source=rss",
+          "published": "Sun, 12 Apr 2026 15:39:49 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Global Sumud Flotilla sets sail from Barcelona for Gaza",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/12/global-sumud-flotilla-sets-sail-from-barcelona-for-gaza?traffic_source=rss",
+          "published": "Sun, 12 Apr 2026 15:27:08 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "FIFA rejects Iran’s request to relocate World Cup games amid US-Israel war",
           "link": "https://www.aljazeera.com/sports/2026/4/12/fifa-rejects-irans-request-to-relocate-world-cup-games-amid-us-israel-war?traffic_source=rss",
           "published": "Sun, 12 Apr 2026 15:17:17 +0000"
@@ -116,24 +134,6 @@
           "title": "Trump says US to blockade ships crossing Strait of Hormuz",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/4/12/james-bays-on-trump-blocking-strait-of-hormuz?traffic_source=rss",
           "published": "Sun, 12 Apr 2026 15:09:17 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Voters cast ballots in pivotal Hungarian election",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/12/voters-cast-ballots-in-pivotal-hungarian-election-2?traffic_source=rss",
-          "published": "Sun, 12 Apr 2026 14:55:53 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "At least 30 dead in stampede at Haiti’s historic Citadelle Laferriere",
-          "link": "https://www.aljazeera.com/news/2026/4/12/at-least-30-dead-in-stampede-at-haitis-historic-citadelle-laferriere?traffic_source=rss",
-          "published": "Sun, 12 Apr 2026 14:36:54 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Palestinians condemn storming of Al-Aqsa Mosque by Israel’s Ben-Gvir",
-          "link": "https://www.aljazeera.com/news/2026/4/12/palestinians-condemn-storming-of-al-aqsa-mosque-by-israels-ben-gvir?traffic_source=rss",
-          "published": "Sun, 12 Apr 2026 13:42:04 +0000"
         }
       ]
     }
