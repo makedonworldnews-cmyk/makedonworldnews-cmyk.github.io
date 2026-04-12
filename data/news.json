@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-12T11:22:41Z",
+  "updatedAt": "2026-04-12T11:57:01Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Двајца уапсени за семејно насилство во последното деноноќие, вкупно пријавени три настани",
+          "link": "https://makfax.com.mk/crna-hronika/dvajca-uapseni-za-semejno-nasilstvo-vo-poslednoto-denonokie-vkupno-prijaveni-tri-nastani/",
+          "published": "Sun, 12 Apr 2026 11:50:06 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Уапсени четворица скопјани: кај нив пронајдена бела прашкаста материја и марихуана",
+          "link": "https://makfax.com.mk/crna-hronika/uapseni-chetvorica-skopjani-kaj-niv-pronajdena-bela-prashkasta-materija-i-marihuana/",
+          "published": "Sun, 12 Apr 2026 11:23:27 +0000"
         },
         {
           "source": "Makfax",
@@ -29,16 +41,16 @@
           "published": "Sun, 12 Apr 2026 10:02:50 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "(Видео) САД уништија голем дел од иранската морнарица, но не и клучната: таа и понатаму го контролира Ормускиот теснец",
-          "link": "https://makfax.com.mk/svet/video-sad-unishtija-golem-del-od-iranskata-mornarica-no-ne-i-kluchnata-taa-i-ponatamu-go-kontrolira-ormuskiot-tesnec/",
-          "published": "Sun, 12 Apr 2026 09:54:18 +0000"
+          "source": "NetPress",
+          "title": "Таткото на данската кралица Мери почина во Тасманија",
+          "link": "https://netpress.com.mk/tatkoto-na-danskata-kralicza-meri-pochina-vo-tasmanija/",
+          "published": "Sun, 12 Apr 2026 11:35:06 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Насилно ограбена жена на мостот „Гоце Делчев“: полицијата ги уапси двајцата разбојници",
-          "link": "https://makfax.com.mk/crna-hronika/nasilno-ograbena-zhena-na-mostot-goce-delchev-policijata-gi-uapsni-dvajcata-razbojnici/",
-          "published": "Sun, 12 Apr 2026 09:46:45 +0000"
+          "source": "NetPress",
+          "title": "Возрасна скопјанка ограбена во центар, разбојниците уапсени",
+          "link": "https://netpress.com.mk/vozrasna-skopjanka-ograbena-vo-czentar-razbojniczite-uapseni/",
+          "published": "Sun, 12 Apr 2026 11:28:04 +0000"
         },
         {
           "source": "NetPress",
@@ -57,18 +69,6 @@
           "title": "Флотила за помош за Газа ќе се обиде да ја пробие израелската блокада",
           "link": "https://netpress.com.mk/flotila-za-pomosh-za-gaza-ke-se-obide-da-ja-probie-izraelskata-blokada/",
           "published": "Sun, 12 Apr 2026 10:08:48 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Уапсени четворица разбојници во Градски парк",
-          "link": "https://netpress.com.mk/uapseni-chetvoricza-razbojniczi-vo-gradski-park/",
-          "published": "Sun, 12 Apr 2026 09:44:01 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Денес, повеќе од кога и да е, потребни ни се вера и избор да останеме луѓе, да подадеме рака и да не се откажеме еден од друг",
-          "link": "https://netpress.com.mk/denes-poveke-od-koga-i-da-e-potrebni-ni-se-vera-i-izbor-da-ostaneme-luge-da-podademe-raka-i-da-ne-se-otkazheme-eden-od-drug/",
-          "published": "Sun, 12 Apr 2026 09:27:53 +0000"
         }
       ]
     },
@@ -91,7 +91,7 @@
           "source": "BBC",
           "title": "Ukraine and Russia accuse each other of hundreds of ceasefire violations",
           "link": "https://www.bbc.com/news/articles/cz78y73v830o?at_medium=RSS&at_campaign=rss",
-          "published": "Sun, 12 Apr 2026 09:19:47 GMT"
+          "published": "Sun, 12 Apr 2026 11:53:37 GMT"
         },
         {
           "source": "BBC",
