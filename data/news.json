@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-12T10:46:25Z",
+  "updatedAt": "2026-04-12T11:22:41Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Шверцал мигранти, па со возилото излетал од патот Богданци – Гевгелија: уапсен 43-годишник",
+          "link": "https://makfax.com.mk/crna-hronika/shvercal-migranti-pa-so-voziloto-izletal-od-patot-bogdanci-gevgelija-uapsen-43-godishnik/",
+          "published": "Sun, 12 Apr 2026 11:05:27 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "(Фото) Ѓорѓиевски на свечената Велигденска литургија во Соборниот храм: Без молитва, без пост и без искрено покајание, човекот тешко може да го пронајде вистинскиот мир",
+          "link": "https://makfax.com.mk/makedonija/foto-gorgievski-na-svechenata-veligdenska-liturgija-vo-soborniot-hram-bez-molitva-bez-post-i-bez-iskreno-pokajanie-chovekot-teshko-mozhe-da-go-pronajde-vistinskiot-mir/",
+          "published": "Sun, 12 Apr 2026 10:47:55 +0000"
         },
         {
           "source": "Makfax",
@@ -24,21 +36,9 @@
         },
         {
           "source": "Makfax",
-          "title": "Насилно ограбена жена на мостот „Гоце Делчев“: полицијата ги уапсни двајцата разбојници",
+          "title": "Насилно ограбена жена на мостот „Гоце Делчев“: полицијата ги уапси двајцата разбојници",
           "link": "https://makfax.com.mk/crna-hronika/nasilno-ograbena-zhena-na-mostot-goce-delchev-policijata-gi-uapsni-dvajcata-razbojnici/",
           "published": "Sun, 12 Apr 2026 09:46:45 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "(Видео) Интернетот повторно зуи за еден бренд: Картонските фустани предизвикуваат хаос",
-          "link": "https://makfax.com.mk/zanimlivosti/video-internetot-povtorno-zui-za-eden-brend-kartonskite-fustani-predizvikuvaat-haos/",
-          "published": "Sun, 12 Apr 2026 09:36:40 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Шефицата на канадската армија: Мора да се подготвиме за големи конфликти",
-          "link": "https://makfax.com.mk/svet/sheficata-na-kanadskata-armija-mora-da-se-podgotvime-za-golemi-konflikti/",
-          "published": "Sun, 12 Apr 2026 09:15:07 +0000"
         },
         {
           "source": "NetPress",
@@ -107,13 +107,25 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Benin holds presidential election amid deteriorating security situation",
+          "link": "https://www.aljazeera.com/news/2026/4/12/benin-holds-presidential-election-amid-deteriorating-security-situation?traffic_source=rss",
+          "published": "Sun, 12 Apr 2026 10:51:36 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Union Berlin’s Marie-Louise Eta becomes first female manager of men’s team",
+          "link": "https://www.aljazeera.com/sports/2026/4/12/union-berlins-marie-louise-eta-becomes-first-woman-manager-of-mens-team?traffic_source=rss",
+          "published": "Sun, 12 Apr 2026 10:14:22 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Saudi Arabia says key oil pipeline back to full capacity after attacks",
           "link": "https://www.aljazeera.com/economy/2026/4/12/saudi-arabia-says-key-oil-pipeline-back-to-full-capacity-after-attacks?traffic_source=rss",
           "published": "Sun, 12 Apr 2026 09:47:24 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Legendary Bollywood singer Asha Bhosle dies aged 92",
+          "title": "Legendary Indian Bollywood singer Asha Bhosle dies aged 92",
           "link": "https://www.aljazeera.com/news/2026/4/12/legendary-bollywood-singer-asha-bhosle-dies-aged-92?traffic_source=rss",
           "published": "Sun, 12 Apr 2026 09:40:55 +0000"
         },
@@ -122,18 +134,6 @@
           "title": "More than 500 people arrested at London rally for Palestine Action",
           "link": "https://www.aljazeera.com/gallery/2026/4/12/uk-police-arrest-523-during-pro-palestinian-demonstration-in-london?traffic_source=rss",
           "published": "Sun, 12 Apr 2026 09:36:42 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Teen sprint star Gout powers to 200m win in 19.67 seconds",
-          "link": "https://www.aljazeera.com/sports/2026/4/12/teen-sprint-star-gout-powers-to-200m-win-in-19-67-seconds?traffic_source=rss",
-          "published": "Sun, 12 Apr 2026 09:33:38 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Deported migrants arrive in Costa Rica from the US",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/12/deported-migrants-arrive-in-costa-rica-from-the-us?traffic_source=rss",
-          "published": "Sun, 12 Apr 2026 09:31:57 +0000"
         }
       ]
     }
