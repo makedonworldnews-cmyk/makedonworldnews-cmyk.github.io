@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-12T20:37:38Z",
+  "updatedAt": "2026-04-12T21:05:58Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "(Во живо) Се слави на улиците, Маѓар им се обрати на поддржувачите: „Унгарија победи“",
+          "link": "https://makfax.com.mk/svet/vo-zhivo-se-slavi-na-ulicite-magar-im-se-obrati-na-poddrzhuvachite-ungarija-pobedi/",
+          "published": "Sun, 12 Apr 2026 20:38:03 +0000"
         },
         {
           "source": "Makfax",
@@ -33,12 +39,6 @@
           "title": "(Видео) Нетанјаху со војници во Либан: Спречивме инвазија на Хезболах",
           "link": "https://makfax.com.mk/svet/video-netanjahu-so-vojnici-vo-liban-sprechivme-invazija-na-hezbolah/",
           "published": "Sun, 12 Apr 2026 20:01:13 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Ќе бидат принудени да го сторат тоа: Овие хороскопски знаци добро ќе го запаметат крајот на април",
-          "link": "https://makfax.com.mk/zanimlivosti/ke-bidat-prinudeni-da-go-storat-toa-ovie-horoskopski-znaci-dobro-ke-go-pametat-krajot-na-april/",
-          "published": "Sun, 12 Apr 2026 19:57:16 +0000"
         },
         {
           "source": "NetPress",
@@ -107,33 +107,33 @@
         },
         {
           "source": "Al Jazeera",
-          "title": "Hungary’s Viktor Orban concedes defeat in parliamentary elections",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/12/hungarys-viktor-orban-concedes-defeat-in-parliamentary-elections?traffic_source=rss",
-          "published": "Sun, 12 Apr 2026 19:59:12 +0000"
+          "title": "Could the Iran war pose lasting risks to global food security?",
+          "link": "https://www.aljazeera.com/video/inside-story/2026/4/12/could-the-iran-war-pose-lasting-risks-to-global-food-security?traffic_source=rss",
+          "published": "Sun, 12 Apr 2026 20:44:49 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "How shaky is the Iran-US ceasefire?",
-          "link": "https://www.aljazeera.com/video/the-bottom-line/2026/4/12/how-shaky-is-the-iran-us-ceasefire?traffic_source=rss",
-          "published": "Sun, 12 Apr 2026 19:46:27 +0000"
+          "title": "World reacts to election defeat for Viktor Orban, Hungary’s longtime PM",
+          "link": "https://www.aljazeera.com/news/2026/4/12/world-reacts-to-election-defeat-for-viktor-orban-hungarys-longtime-pm?traffic_source=rss",
+          "published": "Sun, 12 Apr 2026 20:43:13 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Polls close in Benin with finance minister expected to win election",
-          "link": "https://www.aljazeera.com/news/2026/4/12/polls-close-in-benin-with-finance-minister-expected-to-win-election?traffic_source=rss",
-          "published": "Sun, 12 Apr 2026 19:43:02 +0000"
+          "title": "History of flotilla campaigns to end Israel’s siege of Gaza",
+          "link": "https://www.aljazeera.com/news/2026/4/12/history-of-flotilla-campaigns-to-end-israels-siege-of-gaza?traffic_source=rss",
+          "published": "Sun, 12 Apr 2026 20:30:26 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Peter Magyar’s Tisza wins Hungary election as Viktor Orban concedes",
-          "link": "https://www.aljazeera.com/news/2026/4/12/hungary-election-early-results-show-magyars-tisza-ahead-of-orbans-fidesz?traffic_source=rss",
-          "published": "Sun, 12 Apr 2026 19:19:55 +0000"
+          "title": "‘I’ve congratulated the victorious party’: Viktor Orban concedes",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/12/ive-congratulated-the-victorious-party-viktor-orban-concedes?traffic_source=rss",
+          "published": "Sun, 12 Apr 2026 20:28:17 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Rescuers dig through rubble after deadly Israeli strikes in south Lebanon",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/12/rescuers-dig-through-rubble-after-deadly-israeli-strikes-in-south-lebanon?traffic_source=rss",
-          "published": "Sun, 12 Apr 2026 18:44:30 +0000"
+          "title": "What’s next for the US-Iran peace process after talks end without a deal?",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/12/whats-next-for-the-us-iran-peace-process-after-talks-end-without-a-deal?traffic_source=rss",
+          "published": "Sun, 12 Apr 2026 20:19:05 +0000"
         }
       ]
     }
