@@ -1,6 +1,20 @@
 {
-  "generated_at": "2026-04-12T14:53:42Z",
+  "generated_at": "2026-04-12T15:29:33Z",
   "items": [
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "Иранскиот претседател разговараше со Путин по неуспешните преговори во Пакистан",
+      "link": "https://makfax.com.mk/svet/iranskiot-pretsedatel-razgovarashe-so-putin-po-neuspeshnite-pregovori-vo-pakistan/",
+      "published": "Sun, 12 Apr 2026 15:15:17 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "Маѓар: Не подготвуваме никакви акции, мирно чекаме затворање на гласачките места",
+      "link": "https://makfax.com.mk/svet/magar-ne-podgotvuvame-nikakvi-akcii-mirno-chekame-zatvoranje-na-glasachkite-mesta/",
+      "published": "Sun, 12 Apr 2026 15:00:05 +0000"
+    },
     {
       "region": "Македонија",
       "source": "Makfax",
@@ -24,17 +38,17 @@
     },
     {
       "region": "Македонија",
-      "source": "Makfax",
-      "title": "Трамп: Почнуваме блокада на сите бродови во Ормускиот теснец",
-      "link": "https://makfax.com.mk/svet/tramp-pochnuvame-blokada-na-site-brodovi-vo-ormuskiot-tesnec/",
-      "published": "Sun, 12 Apr 2026 14:20:59 +0000"
+      "source": "NetPress",
+      "title": "Малолетник пред игротека прободел врсник па се пријавил во полиција",
+      "link": "https://netpress.com.mk/maloletnik-pred-igroteka-probodel-vrsnik-pa-se-prijavil-vo-policzija/",
+      "published": "Sun, 12 Apr 2026 15:26:25 +0000"
     },
     {
       "region": "Македонија",
-      "source": "Makfax",
-      "title": "Нападнат таксист во Аеродром",
-      "link": "https://makfax.com.mk/crna-hronika/napadnat-taksist-vo-aerodrom/",
-      "published": "Sun, 12 Apr 2026 14:00:59 +0000"
+      "source": "NetPress",
+      "title": "Кремљ нема да го продолжи примирјето додека Киев не ги прифати руските услови",
+      "link": "https://netpress.com.mk/kreml-nema-da-go-prodolzhi-primirjeto-dodeka-kiev-ne-gi-prifati-ruskite-uslovi/",
+      "published": "Sun, 12 Apr 2026 15:08:27 +0000"
     },
     {
       "region": "Македонија",
@@ -56,20 +70,6 @@
       "title": "Димовски очекува победа на Орбан на изборите: Соработката со Унгарија е на високо стратешко ниво",
       "link": "https://netpress.com.mk/dimovski-ochekuva-pobeda-na-orban-na-izborite-sorabotkata-so-ungarija-e-na-visoko-strateshko-nivo/",
       "published": "Sun, 12 Apr 2026 13:59:14 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "ДПИ проверил над 800 продажни места",
-      "link": "https://netpress.com.mk/dpi-proveril-nad-800-prodazhni-mesta/",
-      "published": "Sun, 12 Apr 2026 13:46:49 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Продажбата на германски автомобили во Русија порасна во првиот квартал",
-      "link": "https://netpress.com.mk/prodazhbata-na-germanski-avtomobili-vo-rusija-porasna-vo-prviot-kvartal/",
-      "published": "Sun, 12 Apr 2026 13:14:02 +0000"
     },
     {
       "region": "Свет",
@@ -109,37 +109,37 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "FIFA rejects Iran’s request to relocate World Cup games amid US-Israel war",
+      "link": "https://www.aljazeera.com/sports/2026/4/12/fifa-rejects-irans-request-to-relocate-world-cup-games-amid-us-israel-war?traffic_source=rss",
+      "published": "Sun, 12 Apr 2026 15:17:17 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Trump says US to blockade ships crossing Strait of Hormuz",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/12/james-bays-on-trump-blocking-strait-of-hormuz?traffic_source=rss",
+      "published": "Sun, 12 Apr 2026 15:09:17 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Voters cast ballots in pivotal Hungarian election",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/12/voters-cast-ballots-in-pivotal-hungarian-election-2?traffic_source=rss",
+      "published": "Sun, 12 Apr 2026 14:55:53 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "At least 30 dead in stampede at Haiti’s historic Citadelle Laferriere",
+      "link": "https://www.aljazeera.com/news/2026/4/12/at-least-30-dead-in-stampede-at-haitis-historic-citadelle-laferriere?traffic_source=rss",
+      "published": "Sun, 12 Apr 2026 14:36:54 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "Palestinians condemn storming of Al-Aqsa Mosque by Israel’s Ben-Gvir",
       "link": "https://www.aljazeera.com/news/2026/4/12/palestinians-condemn-storming-of-al-aqsa-mosque-by-israels-ben-gvir?traffic_source=rss",
       "published": "Sun, 12 Apr 2026 13:42:04 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Explaining Benin’s presidential election",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/12/explaining-benins-presidential-election?traffic_source=rss",
-      "published": "Sun, 12 Apr 2026 13:25:22 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Lessons from the Iran war",
-      "link": "https://www.aljazeera.com/opinions/2026/4/12/lessons-from-the-iran-war?traffic_source=rss",
-      "published": "Sun, 12 Apr 2026 13:10:22 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Ukraine and Russia accuse each other of breaching Easter ceasefire",
-      "link": "https://www.aljazeera.com/news/2026/4/12/ukraine-and-russia-accuse-each-other-of-breaching-easter-ceasefire?traffic_source=rss",
-      "published": "Sun, 12 Apr 2026 12:56:59 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "US-Iran ceasefire talks: What are the key sticking points?",
-      "link": "https://www.aljazeera.com/news/2026/4/12/us-iran-ceasefire-talks-what-are-the-key-sticking-points?traffic_source=rss",
-      "published": "Sun, 12 Apr 2026 12:47:21 +0000"
     }
   ]
 }
