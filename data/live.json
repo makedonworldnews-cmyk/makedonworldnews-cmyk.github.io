@@ -1,10 +1,17 @@
 {
-  "generated_at": "2026-04-12T21:26:51Z",
+  "generated_at": "2026-04-12T21:56:47Z",
   "items": [
     {
       "region": "Македонија",
       "source": "Makfax",
-      "title": "(Во живо) Се слави на улиците, Маѓар им се обрати на поддржувачите: „Унгарија победи“",
+      "title": "Филипче по поразот на Орбан: Нема повеќе криење на Груевски во Будимпешта, ниту бизнис комбинации",
+      "link": "https://makfax.com.mk/makedonija/filipche-po-porazot-na-orban-nema-poveke-krienje-na-gruevski-vo-budimpeshta-nitu-biznis-kombinacii/",
+      "published": "Sun, 12 Apr 2026 21:37:21 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "(Видео) Се слави на улиците, Маѓар им се обрати на поддржувачите: „Унгарија победи“",
       "link": "https://makfax.com.mk/svet/vo-zhivo-se-slavi-na-ulicite-magar-im-se-obrati-na-poddrzhuvachite-ungarija-pobedi/",
       "published": "Sun, 12 Apr 2026 20:38:03 +0000"
     },
@@ -31,10 +38,17 @@
     },
     {
       "region": "Македонија",
-      "source": "Makfax",
-      "title": "(Видео) Нетанјаху со војници во Либан: Спречивме инвазија на Хезболах",
-      "link": "https://makfax.com.mk/svet/video-netanjahu-so-vojnici-vo-liban-sprechivme-invazija-na-hezbolah/",
-      "published": "Sun, 12 Apr 2026 20:01:13 +0000"
+      "source": "NetPress",
+      "title": "Ла Лига: Три бода за Виљареал во Билбао, важна победа на Мајорка",
+      "link": "https://netpress.com.mk/la-liga-tri-boda-za-vilareal-vo-bilbao-vazhna-pobeda-na-majorka/",
+      "published": "Sun, 12 Apr 2026 21:49:35 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "NetPress",
+      "title": "Петер Маѓар, поранешниот инсајдер на Орбан кој го собори",
+      "link": "https://netpress.com.mk/peter-magar-poraneshniot-insajder-na-orban-koj-go-sobori/",
+      "published": "Sun, 12 Apr 2026 21:29:25 +0000"
     },
     {
       "region": "Македонија",
@@ -56,20 +70,6 @@
       "title": "Унгарија: Орбан му ја честитал победата на Маѓар",
       "link": "https://netpress.com.mk/ungarija-orban-mu-ja-chestital-pobedata-na-magar/",
       "published": "Sun, 12 Apr 2026 19:49:55 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Во јужен Либан, Нетанјаху вели дека Израел ја спречил „заканата од инвазија“",
-      "link": "https://netpress.com.mk/vo-juzhen-liban-netanjahu-veli-deka-izrael-ja-sprechil-zakanata-od-invazija/",
-      "published": "Sun, 12 Apr 2026 19:30:23 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Шефот на кабинетот на Орбан задоволен од мобилизацијата на гласачите, Маѓар „претпазливо оптимистичен“",
-      "link": "https://netpress.com.mk/shefot-na-kabinetot-na-orban-zadovolen-od-mobilizaczijata-na-glasachite-magar-pretpazlivo-optimistichen/",
-      "published": "Sun, 12 Apr 2026 18:54:47 +0000"
     },
     {
       "region": "Свет",
@@ -109,6 +109,13 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "Abuse allegations against lead Democrat shake race for California governor",
+      "link": "https://www.aljazeera.com/news/2026/4/12/abuse-allegations-against-lead-democrat-shake-race-for-california-governor?traffic_source=rss",
+      "published": "Sun, 12 Apr 2026 21:12:55 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "Nigerian artisans preserve handwoven fabric amid rising global demand",
       "link": "https://www.aljazeera.com/gallery/2026/4/12/nigerian-artisans-preserve-handwoven-fabric-amid-rising-global-demand?traffic_source=rss",
       "published": "Sun, 12 Apr 2026 20:49:56 +0000"
@@ -123,7 +130,7 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
-      "title": "World reacts to election defeat for Viktor Orban, Hungary’s longtime PM",
+      "title": "World reacts to Peter Magyar defeating Viktor Orban, Hungary’s longtime PM",
       "link": "https://www.aljazeera.com/news/2026/4/12/world-reacts-to-election-defeat-for-viktor-orban-hungarys-longtime-pm?traffic_source=rss",
       "published": "Sun, 12 Apr 2026 20:43:13 +0000"
     },
@@ -133,13 +140,6 @@
       "title": "History of flotilla campaigns to end Israel’s siege of Gaza",
       "link": "https://www.aljazeera.com/news/2026/4/12/history-of-flotilla-campaigns-to-end-israels-siege-of-gaza?traffic_source=rss",
       "published": "Sun, 12 Apr 2026 20:30:26 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "‘I’ve congratulated the victorious party’: Viktor Orban concedes",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/12/ive-congratulated-the-victorious-party-viktor-orban-concedes?traffic_source=rss",
-      "published": "Sun, 12 Apr 2026 20:28:17 +0000"
     }
   ]
 }
