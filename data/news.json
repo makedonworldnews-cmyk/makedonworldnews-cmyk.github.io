@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-13T22:55:39Z",
+  "updatedAt": "2026-04-13T23:45:01Z",
   "groups": [
     {
       "region": "Македонија",
@@ -107,6 +107,18 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Hezbollah leader urges Lebanon’s government to pull out of Israel talks",
+          "link": "https://www.aljazeera.com/news/2026/4/13/hezbollah-leader-urges-lebanon-government-to-pull-out-of-israel-talks?traffic_source=rss",
+          "published": "Mon, 13 Apr 2026 22:46:50 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "UN urges ‘all parties’ to respect navigation in Strait of Hormuz",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/13/un-urges-all-parties-to-respect-navigation-in-strait-of-hormuz?traffic_source=rss",
+          "published": "Mon, 13 Apr 2026 22:33:39 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Energy prices rise despite Jones Act suspension by Trump",
           "link": "https://www.aljazeera.com/economy/2026/4/13/energy-prices-rise-despite-jones-act-suspension-by-trump?traffic_source=rss",
           "published": "Mon, 13 Apr 2026 22:17:07 +0000"
@@ -122,18 +134,6 @@
           "title": "New White House report has plans to fix US housing shortage of 10 million",
           "link": "https://www.aljazeera.com/economy/2026/4/13/new-white-house-report-has-plans-to-fix-us-housing-shortage-of-10-million?traffic_source=rss",
           "published": "Mon, 13 Apr 2026 21:59:05 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "What’s behind Viktor Orban’s defeat in Hungary’s election?",
-          "link": "https://www.aljazeera.com/video/inside-story/2026/4/13/whats-behind-viktor-orbans-defeat?traffic_source=rss",
-          "published": "Mon, 13 Apr 2026 21:58:57 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "French cement giant Lafarge guilty of financing ISIL in Syria",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/13/french-cement-giant-lafarge-guilty-of-financing-isil-in-syria?traffic_source=rss",
-          "published": "Mon, 13 Apr 2026 21:35:30 +0000"
         }
       ]
     }
