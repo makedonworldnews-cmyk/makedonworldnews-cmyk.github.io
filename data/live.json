@@ -1,6 +1,13 @@
 {
-  "generated_at": "2026-04-13T16:56:04Z",
+  "generated_at": "2026-04-13T17:56:10Z",
   "items": [
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "Возило излета од пат, повредени лица од Богданци и Гевгелија",
+      "link": "https://makfax.com.mk/crna-hronika/vozilo-izleta-od-pat-povredeni-lica-od-bogdanci-i-gevgelija/",
+      "published": "Mon, 13 Apr 2026 17:30:14 +0000"
+    },
     {
       "region": "Македонија",
       "source": "Makfax",
@@ -31,10 +38,24 @@
     },
     {
       "region": "Македонија",
-      "source": "Makfax",
-      "title": "Променливо време со врнежи до четврток, најобилни на исток",
-      "link": "https://makfax.com.mk/makedonija/promenlivo-vreme-so-vrnezhi-do-chetvrtok-najobilni-na-istok/",
-      "published": "Mon, 13 Apr 2026 16:14:29 +0000"
+      "source": "NetPress",
+      "title": "Орбан мирно го призна поразот и го разби митот на Брисел дека нема да ја предаде власта",
+      "link": "https://netpress.com.mk/orban-mirno-go-prizna-porazot-i-go-razbi-mitot-na-brisel-deka-nema-da-ja-predade-vlasta/",
+      "published": "Mon, 13 Apr 2026 17:30:08 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "NetPress",
+      "title": "Кремљ: Остануваат уште неколку километри до ослободувањето на Донбас",
+      "link": "https://netpress.com.mk/kreml-ostanuvaat-ushte-nekolku-kilometri-do-osloboduvaneto-na-donbas/",
+      "published": "Mon, 13 Apr 2026 17:14:32 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "NetPress",
+      "title": "Изненадувањата од Хамнеи допрва доаѓаат – Во што ќе се претвори барањето за блокада на Хормуз?",
+      "link": "https://netpress.com.mk/iznenaduvanata-od-hamnei-doprva-doagaat-vo-shto-ke-se-pretvori-baraneto-za-blokada-na-hormuz/",
+      "published": "Mon, 13 Apr 2026 17:04:11 +0000"
     },
     {
       "region": "Македонија",
@@ -49,27 +70,6 @@
       "title": "Зошто САД измислија „кинеско оружје за Иран“",
       "link": "https://netpress.com.mk/zoshto-sad-izmislija-kinesko-oruzhje-za-iran/",
       "published": "Mon, 13 Apr 2026 16:21:35 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Маѓар нема да поддржи забрзан пристап на Украина во ЕУ",
-      "link": "https://netpress.com.mk/magar-nema-da-poddrzhi-zabrzan-pristap-na-ukraina-vo-eu/",
-      "published": "Mon, 13 Apr 2026 15:47:38 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Националниот џез оркестар и Ален Перез – незаборавно патување низ салса, тимба и џез",
-      "link": "https://netpress.com.mk/naczionalniot-dhez-orkestar-i-alen-perez-nezaboravno-patuvane-niz-salsa-timba-i-dhez/",
-      "published": "Mon, 13 Apr 2026 15:28:50 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Муцунски му честиташе победата на Маѓар, очекува соработката со Унгарија да продолжи",
-      "link": "https://netpress.com.mk/muczunski-mu-chestitashe-pobedata-na-magar-ochekuva-sorabotkata-so-ungarija-da-prodolzhi/",
-      "published": "Mon, 13 Apr 2026 15:14:42 +0000"
     },
     {
       "region": "Свет",
@@ -88,9 +88,9 @@
     {
       "region": "Свет",
       "source": "BBC",
-      "title": "Pope says he has 'no fear' of Trump after scathing criticism",
+      "title": "Italian PM condemns ally Trump over 'unacceptable' Pope criticism",
       "link": "https://www.bbc.com/news/articles/cp841y07w5xo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 13 Apr 2026 12:50:30 GMT"
+      "published": "Mon, 13 Apr 2026 17:32:43 GMT"
     },
     {
       "region": "Свет",
@@ -109,37 +109,37 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "EU: No peace possible while “Lebanon is in flames”",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/13/eu-no-peace-possible-while-lebanon-is-in?traffic_source=rss",
+      "published": "Mon, 13 Apr 2026 17:28:22 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "What are the pros and cons of Trump’s Iranian naval blockade?",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/13/what-are-the-pros-and-cons-of-trumps-iranian-naval-blockade?traffic_source=rss",
+      "published": "Mon, 13 Apr 2026 17:15:02 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Bahrain summons Iraqi envoy as pro-Iranian attacks persist in Gulf",
+      "link": "https://www.aljazeera.com/news/2026/4/13/bahrain-summons-iraqi-envoy-as-pro-iranian-attacks-persist-in-gulf?traffic_source=rss",
+      "published": "Mon, 13 Apr 2026 16:58:09 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "PM-in-waiting Peter Magyar lays out vision for Hungary after ousting Orban",
+      "link": "https://www.aljazeera.com/news/2026/4/13/hungary-election?traffic_source=rss",
+      "published": "Mon, 13 Apr 2026 16:54:37 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "Iran releases assets of women’s football captain in Australia asylum row",
       "link": "https://www.aljazeera.com/sports/2026/4/13/iran-releases-assets-of-womens-football-captain-in-australia-asylum-row?traffic_source=rss",
       "published": "Mon, 13 Apr 2026 16:23:44 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Atletico Madrid vs Barcelona: Champions League – team news, start, lineups",
-      "link": "https://www.aljazeera.com/sports/2026/4/13/atletico-madrid-vs-barcelona-champions-league-team-news-start?traffic_source=rss",
-      "published": "Mon, 13 Apr 2026 16:13:34 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Hungary’s Peter Magyar calls for early convening of parliament",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/13/hungarys-peter-magyar-calls-for-early-convening-of-parliament?traffic_source=rss",
-      "published": "Mon, 13 Apr 2026 16:05:03 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Lebanon Latest: Talks scheduled as Israeli strikes continue",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/13/aje-onl-aje_onl_lebanon_wrap-130426?traffic_source=rss",
-      "published": "Mon, 13 Apr 2026 15:41:15 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "‘Drinking Arsenal tears’: How the Gunners’ stumble sparked a meme frenzy",
-      "link": "https://www.aljazeera.com/sports/2026/4/13/drinking-arsenal-tears-how-the-gunners-stumble-sparked-a-meme-frenzy?traffic_source=rss",
-      "published": "Mon, 13 Apr 2026 15:26:37 +0000"
     }
   ]
 }
