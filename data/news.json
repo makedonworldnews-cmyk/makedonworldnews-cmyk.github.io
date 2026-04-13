@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-13T21:01:09Z",
+  "updatedAt": "2026-04-13T21:59:23Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) Фиорентина бега од опасната зона",
+          "link": "https://makfax.com.mk/sport/video-fiorentina-bega-od-opasnata-zona/",
+          "published": "Mon, 13 Apr 2026 21:37:56 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) Голем триумф на Лидс во борбата за опстанок, победија на „Олд Трафорд“",
+          "link": "https://makfax.com.mk/sport/video-golem-triumf-na-lids-vo-borbata-za-opstanok-pobedija-na-old-traford/",
+          "published": "Mon, 13 Apr 2026 21:28:56 +0000"
         },
         {
           "source": "Makfax",
@@ -27,18 +39,6 @@
           "title": "Напад во Затвор Штип: осуденик физички нападнал друг затвореник",
           "link": "https://makfax.com.mk/crna-hronika/napad-vo-zatvor-shtip-osudenik-fizichki-napadnal-drug-zatvorenik/",
           "published": "Mon, 13 Apr 2026 19:30:56 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Израелската амбасадорка ја поздрави реакцијата на властите по обидот за палење на синагогата",
-          "link": "https://makfax.com.mk/makedonija/izraelskata-ambasadorka-ja-pozdravi-reakcijata-na-vlastite-po-obidot-za-palenje-na-sinagogata/",
-          "published": "Mon, 13 Apr 2026 19:26:23 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "(Видео) Жан Тод призна: Шумахер два пати не играше чесно и тоа скапо го плати",
-          "link": "https://makfax.com.mk/sport/video-zhan-tod-prizna-shumaher-dva-pati-ne-igrashe-chesno-i-toa-skapo-go-plati/",
-          "published": "Mon, 13 Apr 2026 19:23:56 +0000"
         },
         {
           "source": "NetPress",
@@ -77,15 +77,15 @@
       "items": [
         {
           "source": "BBC",
-          "title": "Orbán era swept away by Péter Magyar's Hungary election landslide",
-          "link": "https://www.bbc.com/news/articles/cd9vg782kx7o?at_medium=RSS&at_campaign=rss",
-          "published": "Mon, 13 Apr 2026 11:03:12 GMT"
+          "title": "Hungary's next PM would pick up if Putin calls and tell him to stop Ukraine war",
+          "link": "https://www.bbc.com/news/articles/cd6lzezp4zvo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 13 Apr 2026 21:28:14 GMT"
         },
         {
           "source": "BBC",
-          "title": "Israelis war-weary but most oppose Iran ceasefire, poll suggests",
-          "link": "https://www.bbc.com/news/articles/clyxgxyeqpgo?at_medium=RSS&at_campaign=rss",
-          "published": "Mon, 13 Apr 2026 19:20:08 GMT"
+          "title": "BBC joins paramedics on duty in Lebanon after Israeli strikes",
+          "link": "https://www.bbc.com/news/videos/cwyk8rz1pzyo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 13 Apr 2026 21:29:23 GMT"
         },
         {
           "source": "BBC",
@@ -107,33 +107,33 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "French cement giant Lafarge guilty of financing ISIL in Syria",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/13/french-cement-giant-lafarge-guilty-of-financing-isil-in-syria?traffic_source=rss",
+          "published": "Mon, 13 Apr 2026 21:35:30 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Government candidate Wadagni on course to win Benin presidential vote",
+          "link": "https://www.aljazeera.com/news/2026/4/13/government-candidate-wadagni-on-course-to-win-benin-presidential-vote?traffic_source=rss",
+          "published": "Mon, 13 Apr 2026 21:34:24 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Israel kills three Palestinians in separate Gaza strikes",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/13/israel-kills-three-palestinians-in-separate-gaza-strikes?traffic_source=rss",
+          "published": "Mon, 13 Apr 2026 21:06:39 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Philippines accuses China of using cyanide to poison South China Sea atoll",
+          "link": "https://www.aljazeera.com/news/2026/4/13/philippines-accuses-china-of-using-cyanide-to-poison-south-china-sea-atoll?traffic_source=rss",
+          "published": "Mon, 13 Apr 2026 21:05:33 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Bernie Sanders vows to push resolution to block US weapons to Israel",
           "link": "https://www.aljazeera.com/news/2026/4/13/bernie-sanders-vows-to-push-resolution-to-block-us-weapons-to-israel?traffic_source=rss",
           "published": "Mon, 13 Apr 2026 20:28:48 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Brazilian ex-intelligence chief detained by US immigration authorities",
-          "link": "https://www.aljazeera.com/news/2026/4/13/brazilian-ex-intelligence-chief-detained-by-us-immigration-authorities?traffic_source=rss",
-          "published": "Mon, 13 Apr 2026 20:16:45 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Colombia to cull hippo population founded by drug lord",
-          "link": "https://www.aljazeera.com/news/2026/4/13/colombia-to-cull-hippo-population-founded-by-drug-lord?traffic_source=rss",
-          "published": "Mon, 13 Apr 2026 20:09:52 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Trump deletes image of himself as Jesus-like saviour after backlash",
-          "link": "https://www.aljazeera.com/news/2026/4/13/trump-draws-backlash-over-posting-image-depicting-him-as-jesus-like-saviour?traffic_source=rss",
-          "published": "Mon, 13 Apr 2026 19:58:06 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Hezbollah rejects Lebanon’s direct negotiations with Israel",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/13/hezbollah-rejects-lebanons-direct-negotiations-with-israel?traffic_source=rss",
-          "published": "Mon, 13 Apr 2026 19:56:29 +0000"
         }
       ]
     }
