@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-12T23:46:11Z",
+  "updatedAt": "2026-04-13T01:11:10Z",
   "groups": [
     {
       "region": "Македонија",
@@ -77,6 +77,12 @@
       "items": [
         {
           "source": "BBC",
+          "title": "Orbán era swept away by Péter Magyar's Hungary election landslide",
+          "link": "https://www.bbc.com/news/articles/cd9vg782kx7o?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 13 Apr 2026 00:32:46 GMT"
+        },
+        {
+          "source": "BBC",
           "title": "Trump's blockade threat raises risks and leaves predicaments unchanged",
           "link": "https://www.bbc.com/news/articles/c8dl5mly2rzo?at_medium=RSS&at_campaign=rss",
           "published": "Sun, 12 Apr 2026 22:57:22 GMT"
@@ -89,21 +95,27 @@
         },
         {
           "source": "BBC",
+          "title": "Oil jumps above $100 as US to blockade Iranian ports after peace talks fail",
+          "link": "https://www.bbc.com/news/articles/cn781z4lgg4o?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 13 Apr 2026 00:35:08 GMT"
+        },
+        {
+          "source": "BBC",
           "title": "Civilians feared killed after reports of air strike on Nigerian market",
           "link": "https://www.bbc.com/news/articles/cgk021z3ejpo?at_medium=RSS&at_campaign=rss",
           "published": "Sun, 12 Apr 2026 18:11:04 GMT"
         },
         {
-          "source": "BBC",
-          "title": "Pope prioritises world's fastest-growing Catholic region in major Africa tour",
-          "link": "https://www.bbc.com/news/articles/cvg0jyx4qq7o?at_medium=RSS&at_campaign=rss",
-          "published": "Sun, 12 Apr 2026 23:08:40 GMT"
+          "source": "Al Jazeera",
+          "title": "US military threatens to blockade all Iranian ports starting on Monday",
+          "link": "https://www.aljazeera.com/news/2026/4/13/us-military-threatens-to-blockade-all-iranian-ports-starting-on-monday?traffic_source=rss",
+          "published": "Mon, 13 Apr 2026 00:32:03 +0000"
         },
         {
-          "source": "BBC",
-          "title": "Ukraine and Russia accuse each other of hundreds of ceasefire violations",
-          "link": "https://www.bbc.com/news/articles/cz78y73v830o?at_medium=RSS&at_campaign=rss",
-          "published": "Sun, 12 Apr 2026 11:53:37 GMT"
+          "source": "Al Jazeera",
+          "title": "Iran war live: US military says it will block Iranian traffic in Hormuz",
+          "link": "https://www.aljazeera.com/news/liveblog/2026/4/13/iran-war-live-us-military-to-block-iranian-port-traffic-in-hormuz-strait?traffic_source=rss",
+          "published": "Mon, 13 Apr 2026 00:00:00 +0000"
         },
         {
           "source": "Al Jazeera",
@@ -122,18 +134,6 @@
           "title": "Abuse allegations against lead Democrat shake race for California governor",
           "link": "https://www.aljazeera.com/news/2026/4/12/abuse-allegations-against-lead-democrat-shake-race-for-california-governor?traffic_source=rss",
           "published": "Sun, 12 Apr 2026 21:12:55 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Nigerian artisans preserve handwoven fabric amid rising global demand",
-          "link": "https://www.aljazeera.com/gallery/2026/4/12/nigerian-artisans-preserve-handwoven-fabric-amid-rising-global-demand?traffic_source=rss",
-          "published": "Sun, 12 Apr 2026 20:49:56 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Could the Iran war pose lasting risks to global food security?",
-          "link": "https://www.aljazeera.com/video/inside-story/2026/4/12/could-the-iran-war-pose-lasting-risks-to-global-food-security?traffic_source=rss",
-          "published": "Sun, 12 Apr 2026 20:44:49 +0000"
         }
       ]
     }
