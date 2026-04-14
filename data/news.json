@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-14T21:05:20Z",
+  "updatedAt": "2026-04-14T22:01:47Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,24 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Екитике тешко се повреди, со солзи и на носилки го напушти теренот",
+          "link": "https://makfax.com.mk/sport/ekitike-teshko-se-povredi-so-solzi-i-na-nosilki-go-napushti-terenot/",
+          "published": "Tue, 14 Apr 2026 21:55:12 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) Дембеле и на „Енфилд“ го реши Ливерпул",
+          "link": "https://makfax.com.mk/sport/video-dembele-i-na-enfild-go-reshi-liverpul/",
+          "published": "Tue, 14 Apr 2026 21:34:57 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) Барселона победи во Мадрид и испадна",
+          "link": "https://makfax.com.mk/sport/video-barselona-pobedi-vo-madrid-i-ispadna/",
+          "published": "Tue, 14 Apr 2026 21:22:56 +0000"
         },
         {
           "source": "Makfax",
@@ -23,22 +41,16 @@
           "published": "Tue, 14 Apr 2026 19:03:55 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Финска на чекор до воведување на трет пол",
-          "link": "https://makfax.com.mk/svet/finska-na-chekor-do-voveduvanje-na-tret-pol/",
-          "published": "Tue, 14 Apr 2026 18:05:13 +0000"
+          "source": "NetPress",
+          "title": "Лига на шампионите: Атлетико и ПСЖ во полуфиналето",
+          "link": "https://netpress.com.mk/liga-na-shampionite-atletiko-i-pszh-vo-polufinaleto/",
+          "published": "Tue, 14 Apr 2026 21:49:32 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Првата хуманитарна помош од почетокот на војната пристигна во Иран",
-          "link": "https://makfax.com.mk/svet/prvata-humanitarna-pomosh-od-pochetokot-na-vojnata-pristigna-vo-iran/",
-          "published": "Tue, 14 Apr 2026 17:28:02 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "(Видео) Инцидент во полскиот парламент, пратеник го покажа израелското знаме со свастика",
-          "link": "https://makfax.com.mk/svet/video-incident-vo-polskiot-parlament-pratenik-go-pokazha-izraelskoto-zname-so-svastika/",
-          "published": "Tue, 14 Apr 2026 16:55:03 +0000"
+          "source": "NetPress",
+          "title": "Израел и Либан во Вашингтон објавија продолжување на дипломатските напори",
+          "link": "https://netpress.com.mk/izrael-i-liban-vo-vashington-objavija-prodolzhuvane-na-diplomatskite-napori/",
+          "published": "Tue, 14 Apr 2026 21:30:42 +0000"
         },
         {
           "source": "NetPress",
@@ -57,18 +69,6 @@
           "title": "Заштитен појас под УНЕСКО го кочи автопатското решение кон Ќафасан",
           "link": "https://netpress.com.mk/zashtiten-pojas-pod-unesko-go-kochi-avtopatskoto-reshenie-kon-kafasan/",
           "published": "Tue, 14 Apr 2026 20:46:37 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Газа: Израелски напади убија девет лица, вклучувајќи две деца",
-          "link": "https://netpress.com.mk/gaza-izraelski-napadi-ubija-devet-licza-vkluchuvajki-dve-decza/",
-          "published": "Tue, 14 Apr 2026 20:27:06 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Населба „11 Октомври“ вечерва без вода",
-          "link": "https://netpress.com.mk/naselba-11-oktomvri-vecherva-bez-voda/",
-          "published": "Tue, 14 Apr 2026 20:27:03 +0000"
         }
       ]
     },
@@ -107,6 +107,12 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Canada faces calls to rescind planned cuts to refugee healthcare scheme",
+          "link": "https://www.aljazeera.com/news/2026/4/14/canada-faces-calls-to-rescind-planned-cuts-to-refugee-healthcare-scheme?traffic_source=rss",
+          "published": "Tue, 14 Apr 2026 21:02:23 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Israeli attack kills several people in Gaza refugee camp",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/4/14/israeli-attack-kills-several-people-in-gaza-refugee-camp?traffic_source=rss",
           "published": "Tue, 14 Apr 2026 20:35:55 +0000"
@@ -128,12 +134,6 @@
           "title": "US appeals court blocks contempt case over Trump deportation flights",
           "link": "https://www.aljazeera.com/news/2026/4/14/us-appeals-court-blocks-contempt-case-over-trump-deportation-flights?traffic_source=rss",
           "published": "Tue, 14 Apr 2026 20:21:21 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "How US blockade on Iran will worsen energy crisis",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/14/how-us-blockade-on-iran-will-worsen-energy-crisis?traffic_source=rss",
-          "published": "Tue, 14 Apr 2026 20:10:34 +0000"
         }
       ]
     }
