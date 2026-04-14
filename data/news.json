@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-14T23:01:08Z",
+  "updatedAt": "2026-04-14T23:56:03Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Симеоне и Флик се горди на своите фудбалери",
+          "link": "https://makfax.com.mk/sport/simeone-i-flik-se-gordi-na-svoite-fudbaleri/",
+          "published": "Tue, 14 Apr 2026 23:06:58 +0000"
         },
         {
           "source": "Makfax",
@@ -33,12 +39,6 @@
           "title": "(Видео) Дембеле и на „Енфилд“ го реши Ливерпул",
           "link": "https://makfax.com.mk/sport/video-dembele-i-na-enfild-go-reshi-liverpul/",
           "published": "Tue, 14 Apr 2026 21:34:57 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "(Видео) Барселона победи во Мадрид и испадна",
-          "link": "https://makfax.com.mk/sport/video-barselona-pobedi-vo-madrid-i-ispadna/",
-          "published": "Tue, 14 Apr 2026 21:22:56 +0000"
         },
         {
           "source": "NetPress",
@@ -107,6 +107,18 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Israel and Lebanon hold rare talks in Washington, DC, amid Iran war",
+          "link": "https://www.aljazeera.com/news/2026/4/14/israel-and-lebanon-hold-rare-talks-in-washington-dc-amid-iran-war?traffic_source=rss",
+          "published": "Tue, 14 Apr 2026 23:08:43 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "The Take: Who is keeping the fight alive in Sudan’s war?",
+          "link": "https://www.aljazeera.com/video/the-take-2/2026/4/14/aje-onl-sdn_anniversary26_av_v2-140426?traffic_source=rss",
+          "published": "Tue, 14 Apr 2026 22:59:50 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Fifth woman accuses former US lawmaker Eric Swalwell of sexual misconduct",
           "link": "https://www.aljazeera.com/news/2026/4/14/fifth-woman-accuses-former-us-lawmaker-eric-swalwell-of-sexual-misconduct?traffic_source=rss",
           "published": "Tue, 14 Apr 2026 21:49:03 +0000"
@@ -122,18 +134,6 @@
           "title": "Canada faces calls to rescind planned cuts to refugee healthcare scheme",
           "link": "https://www.aljazeera.com/news/2026/4/14/canada-faces-calls-to-rescind-planned-cuts-to-refugee-healthcare-scheme?traffic_source=rss",
           "published": "Tue, 14 Apr 2026 21:02:23 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Israeli attack kills several people in Gaza refugee camp",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/14/israeli-attack-kills-several-people-in-gaza-refugee-camp?traffic_source=rss",
-          "published": "Tue, 14 Apr 2026 20:35:55 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Spain’s Bangladeshi community cheers migrant amnesty programme",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/14/spains-bangladeshi-community-cheers-migrant-amnesty-programme?traffic_source=rss",
-          "published": "Tue, 14 Apr 2026 20:32:38 +0000"
         }
       ]
     }
