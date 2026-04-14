@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-14T18:52:09Z",
+  "updatedAt": "2026-04-14T20:04:57Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Шпанска министерка: Израел ми забранува влез, а Европската комисија не презема ништо",
+          "link": "https://makfax.com.mk/svet/shpanska-ministerka-izrael-mi-zabranuva-vlez-a-evropskata-komisija-ne-prezema-nishto/",
+          "published": "Tue, 14 Apr 2026 19:28:08 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Прва реакција од израелските власти по нападот од Италија",
+          "link": "https://makfax.com.mk/svet/prva-reakcija-od-izraelskite-vlasti-po-napadot-od-italija/",
+          "published": "Tue, 14 Apr 2026 19:03:55 +0000"
         },
         {
           "source": "Makfax",
@@ -29,46 +41,34 @@
           "published": "Tue, 14 Apr 2026 16:55:03 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Трамп: Европските лидери би сакале да ја решат војната во Иран, но едноставно не знаат како",
-          "link": "https://makfax.com.mk/svet/tramp-evropskite-lideri-bi-sakale-da-ja-reshat-vojnata-vo-iran-no-ednostavno-ne-znaat-kako/",
-          "published": "Tue, 14 Apr 2026 16:27:11 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "СДСМ: Би сакале ЗНМ да реагира и кога претседател на партија се споредува со убиец на деца",
-          "link": "https://makfax.com.mk/makedonija/sdsm-bi-sakale-znm-da-reagira-i-koga-pretsedatel-na-partija-se-sporeduva-so-ubiec-na-deca/",
-          "published": "Tue, 14 Apr 2026 15:58:15 +0000"
+          "source": "NetPress",
+          "title": "Над 10.000 американски војници учествуваат во поморската блокада на Ормутскиот теснец",
+          "link": "https://netpress.com.mk/nad-10-000-amerikanski-vojniczi-uchestvuvaat-vo-pomorskata-blokada-na-ormutskiot-tesnecz/",
+          "published": "Tue, 14 Apr 2026 19:58:15 +0000"
         },
         {
           "source": "NetPress",
-          "title": "САД и Иран би можеле наскоро да ги продолжат разговорите и покрај американската блокада",
-          "link": "https://netpress.com.mk/sad-i-iran-bi-mozhele-naskoro-da-gi-prodolzhat-razgovorite-i-pokraj-amerikanskata-blokada/",
-          "published": "Tue, 14 Apr 2026 18:50:25 +0000"
+          "title": "ВИДЕО| Изгоре зграда во Тирана, најмалку пет лица се повредени",
+          "link": "https://netpress.com.mk/video-i-izgore-zgrada-vo-tirana-najmalku-pet-licza-se-povredeni/",
+          "published": "Tue, 14 Apr 2026 19:35:58 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Застарена една затворска казна на Груевски, активни се две пресуди",
-          "link": "https://netpress.com.mk/zastarena-edna-zatvorska-kazna-na-gruevski-aktivni-dve-presudi/",
-          "published": "Tue, 14 Apr 2026 18:46:00 +0000"
+          "title": "ММФ ја намали прогнозата за раст на светската економија за 2026-та",
+          "link": "https://netpress.com.mk/mmf-ja-namali-prognozata-za-rast-na-svetskata-ekonomija-za-2026-ta/",
+          "published": "Tue, 14 Apr 2026 19:30:52 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Американската блокада слабо влијае врз сообраќајот низ Ормуз, покажуваат податоците",
-          "link": "https://netpress.com.mk/amerikanskata-blokada-slabo-vlijae-vrz-soobrakajot-niz-ormuz-pokazhuvaat-podatoczite/",
-          "published": "Tue, 14 Apr 2026 18:32:46 +0000"
+          "title": "Маскерано повеќе не е тренер на Интер Мајами",
+          "link": "https://netpress.com.mk/maskerano-poveke-ne-e-trener-na-inter-majami/",
+          "published": "Tue, 14 Apr 2026 19:03:59 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Таткото на Васил никогаш „немал дадено и одобрено“ син му да вози додека не положи возачки испит",
-          "link": "https://netpress.com.mk/tatkoto-na-vasil-nikogash-nemal-dadeno-i-odobreno-sin-mu-da-vozi-dodeka-ne-polozhi-vozachki-ispit/",
-          "published": "Tue, 14 Apr 2026 18:21:33 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Маѓар вели знае кој бил „кумот“ во врската со Орбан, Вучиќ луто возврати",
-          "link": "https://netpress.com.mk/magar-veli-znae-koj-bil-kumot-vo-vrskata-so-orban-vuchik-luto-vo-vozvraka/",
-          "published": "Tue, 14 Apr 2026 17:56:43 +0000"
+          "title": "ФОТО| Гореше камион на Плетвар",
+          "link": "https://netpress.com.mk/foto-i-goreshe-kamion-na-pletvar/",
+          "published": "Tue, 14 Apr 2026 19:03:37 +0000"
         }
       ]
     },
@@ -89,9 +89,9 @@
         },
         {
           "source": "BBC",
-          "title": "Accusers seek justice after unwanted explicit messages from Congressman Eric Swalwell",
+          "title": "Another woman accuses Swalwell of drugging and raping her in 2018",
           "link": "https://www.bbc.com/news/articles/c78rr9r4e5po?at_medium=RSS&at_campaign=rss",
-          "published": "Tue, 14 Apr 2026 15:20:37 GMT"
+          "published": "Tue, 14 Apr 2026 19:54:52 GMT"
         },
         {
           "source": "BBC",
@@ -107,33 +107,33 @@
         },
         {
           "source": "Al Jazeera",
-          "title": "Over-sold and under-delivered: Israel’s Netanyahu faces ceasefire backlash",
-          "link": "https://www.aljazeera.com/news/2026/4/14/over-sold-and-under-delivered-israels-netanyahu-faces-ceasefire-backlash?traffic_source=rss",
-          "published": "Tue, 14 Apr 2026 18:39:47 +0000"
+          "title": "FIFA faces pressure to call on Trump to stop ICE raids at 2026 World Cup",
+          "link": "https://www.aljazeera.com/news/2026/4/14/fifa-faces-pressure-to-call-on-trump-to-stop-ice-raids-at-2026-world-cup?traffic_source=rss",
+          "published": "Tue, 14 Apr 2026 19:31:20 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Drones, Iran war escalating horror as Sudan war enters fourth year",
-          "link": "https://www.aljazeera.com/news/2026/4/14/drones-iran-war-escalating-horror-as-sudan-war-enters-fourth-year?traffic_source=rss",
-          "published": "Tue, 14 Apr 2026 18:27:45 +0000"
+          "title": "Why are global views of the US getting worse?",
+          "link": "https://www.aljazeera.com/video/the-stream/2026/4/14/why-are-global-views-of-the-us-getting-worse?traffic_source=rss",
+          "published": "Tue, 14 Apr 2026 19:30:00 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Video: UN chief Antonio Guterres says talks on Iran war likely to restart",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/14/video-un-chief-antonio-guterres-says-talks-on-iran-war-likely-to-restart?traffic_source=rss",
-          "published": "Tue, 14 Apr 2026 18:16:23 +0000"
+          "title": "Pakistan PM headed to Riyadh and Ankara amid prospect of US-Iran talks",
+          "link": "https://www.aljazeera.com/news/2026/4/14/pakistan-pm-headed-to-saudi-and-turkiye-amid-prospect-of-new-us-iran-talks?traffic_source=rss",
+          "published": "Tue, 14 Apr 2026 19:21:58 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Carney vows focus on affordability after winning Canada’s special election",
-          "link": "https://www.aljazeera.com/news/2026/4/14/carney-vows-focus-on-affordability-after-winning-canadas-special-election?traffic_source=rss",
-          "published": "Tue, 14 Apr 2026 18:16:07 +0000"
+          "title": "Israeli strike on Gaza police car kills child",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/14/israeli-strike-on-gaza-police-car-kills-child?traffic_source=rss",
+          "published": "Tue, 14 Apr 2026 19:16:19 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "No ships ‘make it past US blockade’ in Hormuz strait in first day: Pentagon",
-          "link": "https://www.aljazeera.com/news/2026/4/14/no-ships-make-it-past-us-blockade-in-hormuz-strait-in-first-day-pentagon?traffic_source=rss",
-          "published": "Tue, 14 Apr 2026 17:53:14 +0000"
+          "title": "IMF cuts global growth forecast during Hormuz blockade",
+          "link": "https://www.aljazeera.com/economy/2026/4/14/imf-cuts-global-growth-forecast-during-hormuz-blockade?traffic_source=rss",
+          "published": "Tue, 14 Apr 2026 19:14:56 +0000"
         }
       ]
     }
