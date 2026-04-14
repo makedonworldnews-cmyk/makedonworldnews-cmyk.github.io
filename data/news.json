@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-14T22:01:47Z",
+  "updatedAt": "2026-04-14T23:01:08Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Слот не знае што прави – Гомез влезе во 45-та, го напушти теренот во 67-та минута",
+          "link": "https://makfax.com.mk/sport/slot-ne-znae-shto-pravi-gomez-vleze-vo-45-ta-go-napushti-terenot-vo-67-ta-minuta/",
+          "published": "Tue, 14 Apr 2026 22:27:56 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Поранешен судија од Ла Лига: Ерик Гарсија заслужи црвен картон",
+          "link": "https://makfax.com.mk/sport/poraneshen-sudija-od-la-liga-erik-garsija-zasluzhi-crven-karton/",
+          "published": "Tue, 14 Apr 2026 22:05:16 +0000"
         },
         {
           "source": "Makfax",
@@ -27,18 +39,6 @@
           "title": "(Видео) Барселона победи во Мадрид и испадна",
           "link": "https://makfax.com.mk/sport/video-barselona-pobedi-vo-madrid-i-ispadna/",
           "published": "Tue, 14 Apr 2026 21:22:56 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Шпанска министерка: Израел ми забранува влез, а Европската комисија не презема ништо",
-          "link": "https://makfax.com.mk/svet/shpanska-ministerka-izrael-mi-zabranuva-vlez-a-evropskata-komisija-ne-prezema-nishto/",
-          "published": "Tue, 14 Apr 2026 19:28:08 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Прва реакција од израелските власти по нападот од Италија",
-          "link": "https://makfax.com.mk/svet/prva-reakcija-od-izraelskite-vlasti-po-napadot-od-italija/",
-          "published": "Tue, 14 Apr 2026 19:03:55 +0000"
         },
         {
           "source": "NetPress",
@@ -89,7 +89,7 @@
         },
         {
           "source": "BBC",
-          "title": "Another woman accuses Swalwell of drugging and raping her in 2018",
+          "title": "Another woman accuses Swalwell of rape, saying he drugged her in 2018",
           "link": "https://www.bbc.com/news/articles/c78rr9r4e5po?at_medium=RSS&at_campaign=rss",
           "published": "Tue, 14 Apr 2026 20:30:57 GMT"
         },
@@ -104,6 +104,18 @@
           "title": "Retrial over death of Argentina legend Maradona begins",
           "link": "https://www.bbc.com/news/articles/cj377mm7zzvo?at_medium=RSS&at_campaign=rss",
           "published": "Tue, 14 Apr 2026 17:44:44 GMT"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Fifth woman accuses former US lawmaker Eric Swalwell of sexual misconduct",
+          "link": "https://www.aljazeera.com/news/2026/4/14/fifth-woman-accuses-former-us-lawmaker-eric-swalwell-of-sexual-misconduct?traffic_source=rss",
+          "published": "Tue, 14 Apr 2026 21:49:03 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Atletico edge Barcelona on aggregate to reach Champions League semifinal",
+          "link": "https://www.aljazeera.com/sports/2026/4/14/atletico-edge-barcelona-on-aggregate-to-reach-champions-league-semifinal?traffic_source=rss",
+          "published": "Tue, 14 Apr 2026 21:30:24 +0000"
         },
         {
           "source": "Al Jazeera",
@@ -122,18 +134,6 @@
           "title": "Spain’s Bangladeshi community cheers migrant amnesty programme",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/4/14/spains-bangladeshi-community-cheers-migrant-amnesty-programme?traffic_source=rss",
           "published": "Tue, 14 Apr 2026 20:32:38 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Hundreds missing after Rohingya boat capsizes in Andaman Sea: UN",
-          "link": "https://www.aljazeera.com/news/2026/4/14/hundreds-missing-after-rohingya-boat-capsizes-in-andaman-sea-un?traffic_source=rss",
-          "published": "Tue, 14 Apr 2026 20:24:45 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "US appeals court blocks contempt case over Trump deportation flights",
-          "link": "https://www.aljazeera.com/news/2026/4/14/us-appeals-court-blocks-contempt-case-over-trump-deportation-flights?traffic_source=rss",
-          "published": "Tue, 14 Apr 2026 20:21:21 +0000"
         }
       ]
     }
