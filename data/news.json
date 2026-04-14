@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-14T01:10:47Z",
+  "updatedAt": "2026-04-14T04:19:34Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "До четврток времето ќе биде променливо облачно со услови за локални врнежи од дожд",
+          "link": "https://makfax.com.mk/makedonija/do-chetvrtok-vremeto-ke-bide-promenlivo-oblachno-so-uslovi-za-lokalni-vrnezhi-od-dozhd/",
+          "published": "Tue, 14 Apr 2026 04:11:44 +0000"
         },
         {
           "source": "Makfax",
@@ -33,12 +39,6 @@
           "title": "Јамал посакува пресврт на „Метрополитано“",
           "link": "https://makfax.com.mk/sport/jamal-posakuva-presvrt-na-metropolitano/",
           "published": "Mon, 13 Apr 2026 19:34:56 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Напад во Затвор Штип: осуденик физички нападнал друг затвореник",
-          "link": "https://makfax.com.mk/crna-hronika/napad-vo-zatvor-shtip-osudenik-fizichki-napadnal-drug-zatvorenik/",
-          "published": "Mon, 13 Apr 2026 19:30:56 +0000"
         },
         {
           "source": "NetPress",
@@ -103,11 +103,29 @@
           "source": "BBC",
           "title": "Harry and Meghan arrive in Australia for four-day tour",
           "link": "https://www.bbc.com/news/articles/cvgk3vpyzdqo?at_medium=RSS&at_campaign=rss",
-          "published": "Tue, 14 Apr 2026 00:14:27 GMT"
+          "published": "Tue, 14 Apr 2026 04:09:33 GMT"
         },
         {
           "source": "Al Jazeera",
-          "title": "Iran war live: Trump says Tehran wants deal as US blockade in Hormuz begins",
+          "title": "US military kills two men in new strike on vessel in eastern Pacific",
+          "link": "https://www.aljazeera.com/news/2026/4/14/us-military-kills-two-men-in-new-strike-on-vessel-in-eastern-pacific?traffic_source=rss",
+          "published": "Tue, 14 Apr 2026 02:47:36 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Man charged with attempted murder after attack on OpenAI CEO Altman’s home",
+          "link": "https://www.aljazeera.com/economy/2026/4/14/man-charged-with-attempted-murder-after-attack-on-openai-ceo-altmans-home?traffic_source=rss",
+          "published": "Tue, 14 Apr 2026 02:27:59 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Anti-war protesters arrested in New York urging end to Israel weapon sales",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/14/anti-war-protesters-arrested-in-new-york-urging-end-to-israel-weapon-sales?traffic_source=rss",
+          "published": "Tue, 14 Apr 2026 02:13:16 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Iran war live: Trump says Tehran wants deal amid US blockade in Hormuz",
           "link": "https://www.aljazeera.com/news/liveblog/2026/4/14/iran-war-live-trump-claims-tehran-wants-a-deal-amid-us-blockade-of-hormuz?traffic_source=rss",
           "published": "Tue, 14 Apr 2026 00:00:00 +0000"
         },
@@ -116,24 +134,6 @@
           "title": "Hezbollah leader urges Lebanon’s government to pull out of Israel talks",
           "link": "https://www.aljazeera.com/news/2026/4/13/hezbollah-leader-urges-lebanon-government-to-pull-out-of-israel-talks?traffic_source=rss",
           "published": "Mon, 13 Apr 2026 22:46:50 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "UN urges ‘all parties’ to respect navigation in Strait of Hormuz",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/13/un-urges-all-parties-to-respect-navigation-in-strait-of-hormuz?traffic_source=rss",
-          "published": "Mon, 13 Apr 2026 22:33:39 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Energy prices rise despite Jones Act suspension by Trump",
-          "link": "https://www.aljazeera.com/economy/2026/4/13/energy-prices-rise-despite-jones-act-suspension-by-trump?traffic_source=rss",
-          "published": "Mon, 13 Apr 2026 22:17:07 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "UN experts slam attacks on Gaza shelters, forced displacement in West Bank",
-          "link": "https://www.aljazeera.com/news/2026/4/13/un-experts-slam-attacks-on-gaza-shelters-forced-displacement-in-west-bank?traffic_source=rss",
-          "published": "Mon, 13 Apr 2026 22:04:16 +0000"
         }
       ]
     }
