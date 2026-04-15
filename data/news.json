@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-15T22:04:45Z",
+  "updatedAt": "2026-04-15T22:58:51Z",
   "groups": [
     {
       "region": "Македонија",
@@ -107,6 +107,12 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Brazil’s police open a probe into presidential candidate Flavio Bolsonaro",
+          "link": "https://www.aljazeera.com/news/2026/4/15/brazils-police-open-a-probe-into-presidential-candidate-flavio-bolsonaro?traffic_source=rss",
+          "published": "Wed, 15 Apr 2026 21:45:31 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Bayern edge Real Madrid 4-3 in classic to reach Champions League semifinals",
           "link": "https://www.aljazeera.com/sports/2026/4/15/bayern-edge-real-madrid-4-3-in-classic-to-reach-champions-league-semifinals?traffic_source=rss",
           "published": "Wed, 15 Apr 2026 21:31:04 +0000"
@@ -128,12 +134,6 @@
           "title": "Israel appoints first ambassador to Somaliland",
           "link": "https://www.aljazeera.com/news/2026/4/15/israel-appoints-first-ambassador-to-somaliland?traffic_source=rss",
           "published": "Wed, 15 Apr 2026 21:05:27 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Could the US oil blockade snuff out the Cuban cigar?",
-          "link": "https://www.aljazeera.com/news/longform/2026/4/15/could-the-us-oil-blockade-snuff-out-the-cuban-cigar?traffic_source=rss",
-          "published": "Wed, 15 Apr 2026 20:08:28 +0000"
         }
       ]
     }
