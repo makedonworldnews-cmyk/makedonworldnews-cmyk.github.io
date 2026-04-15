@@ -1,6 +1,20 @@
 {
-  "generated_at": "2026-04-15T21:43:59Z",
+  "generated_at": "2026-04-15T22:27:45Z",
   "items": [
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "(Видео) Арбелоа: Винчиќ уништи прекрасен натпревар",
+      "link": "https://makfax.com.mk/sport/video-arbeloa-vinchik-unishti-prekrasen-natprevar/",
+      "published": "Wed, 15 Apr 2026 21:54:56 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "(Видео) Гулер доби црвен картон по завршувањето на натпреварот",
+      "link": "https://makfax.com.mk/sport/video-guler-dobi-crven-karton-po-zavrshuvanjeto-na-natprevarot/",
+      "published": "Wed, 15 Apr 2026 21:45:10 +0000"
+    },
     {
       "region": "Македонија",
       "source": "Makfax",
@@ -24,17 +38,10 @@
     },
     {
       "region": "Македонија",
-      "source": "Makfax",
-      "title": "ТФТ ќе се бори за место во АБА лигата",
-      "link": "https://makfax.com.mk/sport/tft-ke-se-bori-za-mesto-vo-aba-ligata/",
-      "published": "Wed, 15 Apr 2026 19:37:57 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "Makfax",
-      "title": "САД им се закануваат на кинеските банки",
-      "link": "https://makfax.com.mk/svet/sad-im-se-zakanuvaat-na-kineskite-banki/",
-      "published": "Wed, 15 Apr 2026 19:12:27 +0000"
+      "source": "NetPress",
+      "title": "Канје Вест го одложи концертот во Марсеј",
+      "link": "https://netpress.com.mk/kanje-vest-go-odlozhi-konczertot-vo-marsej/",
+      "published": "Wed, 15 Apr 2026 21:53:05 +0000"
     },
     {
       "region": "Македонија",
@@ -63,13 +70,6 @@
       "title": "Гулер постигна гол по 34 секунди, Макај сè уште го држи рекордот",
       "link": "https://netpress.com.mk/guler-postigna-gol-po-34-sekundi-makaj-se-ushte-go-drzhi-rekordot/",
       "published": "Wed, 15 Apr 2026 20:15:53 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Белата куќа негира дека бара продолжување на примирјето, верува во продолжување на преговорите",
-      "link": "https://netpress.com.mk/belata-kuka-negira-deka-bara-prodolzhuvane-na-primirjeto-veruva-vo-prodolzhuvane-na-pregovorite/",
-      "published": "Wed, 15 Apr 2026 20:08:56 +0000"
     },
     {
       "region": "Свет",
@@ -109,6 +109,20 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "Brazil’s police open a probe into presidential candidate Flavio Bolsonaro",
+      "link": "https://www.aljazeera.com/news/2026/4/15/brazils-police-open-a-probe-into-presidential-candidate-flavio-bolsonaro?traffic_source=rss",
+      "published": "Wed, 15 Apr 2026 21:45:31 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Bayern edge Real Madrid 4-3 in classic to reach Champions League semifinals",
+      "link": "https://www.aljazeera.com/sports/2026/4/15/bayern-edge-real-madrid-4-3-in-classic-to-reach-champions-league-semifinals?traffic_source=rss",
+      "published": "Wed, 15 Apr 2026 21:31:04 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "US jury finds Ticketmaster and Live Nation had anticompetitive monopoly",
       "link": "https://www.aljazeera.com/economy/2026/4/15/us-jury-finds-ticketmaster-and-live-nation-had-anticompetitive-monopoly?traffic_source=rss",
       "published": "Wed, 15 Apr 2026 21:28:59 +0000"
@@ -126,20 +140,6 @@
       "title": "Israel appoints first ambassador to Somaliland",
       "link": "https://www.aljazeera.com/news/2026/4/15/israel-appoints-first-ambassador-to-somaliland?traffic_source=rss",
       "published": "Wed, 15 Apr 2026 21:05:27 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Could the US oil blockade snuff out the Cuban cigar?",
-      "link": "https://www.aljazeera.com/news/longform/2026/4/15/could-the-us-oil-blockade-snuff-out-the-cuban-cigar?traffic_source=rss",
-      "published": "Wed, 15 Apr 2026 20:08:28 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Hungary’s Magyar urges president to quit, vows to overhaul state media",
-      "link": "https://www.aljazeera.com/news/2026/4/15/hungarys-magyar-urges-president-to-quit-vows-to-overhaul-state-media?traffic_source=rss",
-      "published": "Wed, 15 Apr 2026 19:56:29 +0000"
     }
   ]
 }
