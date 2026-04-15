@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-15T22:27:45Z",
+  "generated_at": "2026-04-15T23:10:01Z",
   "items": [
     {
       "region": "Македонија",
@@ -109,6 +109,13 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "Israel bombs homes in southern Lebanon",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/15/israel-bombs-homes-in-southern-lebanon?traffic_source=rss",
+      "published": "Wed, 15 Apr 2026 22:53:41 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "Brazil’s police open a probe into presidential candidate Flavio Bolsonaro",
       "link": "https://www.aljazeera.com/news/2026/4/15/brazils-police-open-a-probe-into-presidential-candidate-flavio-bolsonaro?traffic_source=rss",
       "published": "Wed, 15 Apr 2026 21:45:31 +0000"
@@ -133,13 +140,6 @@
       "title": "Could the EU’s alliance with Israel soon change?",
       "link": "https://www.aljazeera.com/video/inside-story/2026/4/15/could-the-eus-alliance-with-israel-soon-change?traffic_source=rss",
       "published": "Wed, 15 Apr 2026 21:09:55 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Israel appoints first ambassador to Somaliland",
-      "link": "https://www.aljazeera.com/news/2026/4/15/israel-appoints-first-ambassador-to-somaliland?traffic_source=rss",
-      "published": "Wed, 15 Apr 2026 21:05:27 +0000"
     }
   ]
 }
