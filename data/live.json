@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-16T21:56:58Z",
+  "generated_at": "2026-04-16T22:37:19Z",
   "items": [
     {
       "region": "Македонија",
@@ -39,6 +39,13 @@
     {
       "region": "Македонија",
       "source": "NetPress",
+      "title": "Лига Европа: Вила убедлива, Форест го елиминираше Порто, пресврт на Брага",
+      "link": "https://netpress.com.mk/liga-evropa-vila-ubedliva-forest-go-eliminirashe-porto-presvrt-na-braga/",
+      "published": "Thu, 16 Apr 2026 22:15:15 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "NetPress",
       "title": "Нетанјаху се согласи на десетдневен прекин на огнот во Либан",
       "link": "https://netpress.com.mk/netanjahu-se-soglasi-na-desetdneven-prekin-na-ognot-vo-liban/",
       "published": "Thu, 16 Apr 2026 21:48:29 +0000"
@@ -63,13 +70,6 @@
       "title": "Судот во Струмица ја одби тужбата на Заев против Бране Петрушевски",
       "link": "https://netpress.com.mk/sudot-vo-strumicza-ja-odbi-tuzhbata-na-zaev-protiv-brane-petrushevski/",
       "published": "Thu, 16 Apr 2026 20:34:32 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Судир на возило и мотоцикл во центарот на Скопје",
-      "link": "https://netpress.com.mk/sudir-na-vozilo-i-motoczikl-vo-czentarot-na-skopje/",
-      "published": "Thu, 16 Apr 2026 19:29:29 +0000"
     },
     {
       "region": "Свет",
@@ -109,6 +109,20 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "Displaced Lebanese wary as ceasefire between Israel and Hezbollah begins",
+      "link": "https://www.aljazeera.com/news/2026/4/16/displaced-lebanese-wary-as-ceasefire-between-israel-and-hezbollah-begins?traffic_source=rss",
+      "published": "Thu, 16 Apr 2026 22:04:10 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "US State Department restricts visas for those who ‘support adversaries’",
+      "link": "https://www.aljazeera.com/news/2026/4/16/us-state-department-restricts-visas-for-those-who-support-adversaries?traffic_source=rss",
+      "published": "Thu, 16 Apr 2026 21:54:52 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "Netflix cofounder Hastings to step down after it lost Warner Bros deal",
       "link": "https://www.aljazeera.com/economy/2026/4/16/netflix-cofounder-hastings-to-step-down-after-it-lost-warner-bros-deal?traffic_source=rss",
       "published": "Thu, 16 Apr 2026 21:34:39 +0000"
@@ -126,20 +140,6 @@
       "title": "Turkiye grieves students killed in school shooting",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/4/16/turkiye-grieves-students-killed-in-school-shooting?traffic_source=rss",
       "published": "Thu, 16 Apr 2026 21:15:23 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Pope Leo urges peace in visit to Cameroon’s conflict-hit northwest",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/16/pope-leo-urges-peace-in-visit-to-cameroons-conflict-hit-northwest?traffic_source=rss",
-      "published": "Thu, 16 Apr 2026 21:11:56 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "What is tailgating, and has FIFA banned it at World Cup stadiums in the US?",
-      "link": "https://www.aljazeera.com/sports/2026/4/16/what-is-tailgating-and-has-fifa-banned-it-at-world-cup-stadiums-in-the-us?traffic_source=rss",
-      "published": "Thu, 16 Apr 2026 21:10:57 +0000"
     }
   ]
 }
