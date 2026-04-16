@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-16T19:59:26Z",
+  "updatedAt": "2026-04-16T20:59:35Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Бланар: Словачка e подготвена да го блокира новиот пакет санкции на ЕУ против Русија",
+          "link": "https://makfax.com.mk/svet/blanar-slovachka-e-podgotvena-da-go-blokira-noviot-paket-sankcii-na-eu-protiv-rusija/",
+          "published": "Thu, 16 Apr 2026 20:09:27 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Захарова: Германија е главен спонзор на војната во Украина",
+          "link": "https://makfax.com.mk/svet/zaharova-germanija-e-glaven-sponzor-na-vojnata-vo-ukraina/",
+          "published": "Thu, 16 Apr 2026 20:00:13 +0000"
         },
         {
           "source": "Makfax",
@@ -29,16 +41,16 @@
           "published": "Thu, 16 Apr 2026 19:11:26 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Загина Алекс Манингер",
-          "link": "https://makfax.com.mk/sport/zagina-aleks-maninger/",
-          "published": "Thu, 16 Apr 2026 19:01:07 +0000"
+          "source": "NetPress",
+          "title": "Четиримина повредени – „шкода“ удила во бетонска бандера",
+          "link": "https://netpress.com.mk/chetirimina-povredeni-shkoda-udila-vo-betonska-bandera/",
+          "published": "Thu, 16 Apr 2026 20:53:45 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "(Видео) Фрајбург ја размонтира Селта",
-          "link": "https://makfax.com.mk/sport/video-frajburg-ja-razmontira-selta/",
-          "published": "Thu, 16 Apr 2026 18:51:59 +0000"
+          "source": "NetPress",
+          "title": "Судот во Струмица ја одби тужбата на Заев против Бране Петрушевски",
+          "link": "https://netpress.com.mk/sudot-vo-strumicza-ja-odbi-tuzhbata-na-zaev-protiv-brane-petrushevski/",
+          "published": "Thu, 16 Apr 2026 20:34:32 +0000"
         },
         {
           "source": "NetPress",
@@ -57,24 +69,18 @@
           "title": "Се затвора улица во Драчево",
           "link": "https://netpress.com.mk/se-zatvora-ulicza-vo-drachevo/",
           "published": "Thu, 16 Apr 2026 18:38:25 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Стафа призна вина и склучи спогодба со Обвинителство",
-          "link": "https://netpress.com.mk/stafa-prizna-vina-i-skluchi-spogodba-so-obvinitelstvo/",
-          "published": "Thu, 16 Apr 2026 18:23:39 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Грипот во епидемиски пораст",
-          "link": "https://netpress.com.mk/gripot-vo-epidemiski-porast/",
-          "published": "Thu, 16 Apr 2026 18:08:30 +0000"
         }
       ]
     },
     {
       "region": "Свет",
       "items": [
+        {
+          "source": "BBC",
+          "title": "Israel and Lebanon agree 10-day ceasefire, Trump says",
+          "link": "https://www.bbc.com/news/articles/c8x7w1w9gd2o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 16 Apr 2026 20:40:30 GMT"
+        },
         {
           "source": "BBC",
           "title": "Pope criticises 'tyrants' who spend billions on wars after Trump spat",
@@ -100,40 +106,34 @@
           "published": "Thu, 16 Apr 2026 15:20:59 GMT"
         },
         {
-          "source": "BBC",
-          "title": "Brazil's former spy chief released from ICE detention",
-          "link": "https://www.bbc.com/news/articles/cvglz72rjl2o?at_medium=RSS&at_campaign=rss",
-          "published": "Thu, 16 Apr 2026 11:00:22 GMT"
+          "source": "Al Jazeera",
+          "title": "More than $5 trillion in US taxes. Who gets it?",
+          "link": "https://www.aljazeera.com/video/the-take-2/2026/4/16/aje-onl-tt_usa_taxday_v3_soundmix-150426?traffic_source=rss",
+          "published": "Thu, 16 Apr 2026 20:40:28 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Cuban president defiant amid US pressure and energy blockade threats",
-          "link": "https://www.aljazeera.com/news/2026/4/16/cuban-president-defiant-amid-us-pressure-and-energy-blockade-threats?traffic_source=rss",
-          "published": "Thu, 16 Apr 2026 19:42:15 +0000"
+          "title": "AOC, Boebert join calls for sexual misconduct accountability in Congress",
+          "link": "https://www.aljazeera.com/news/2026/4/16/aoc-boebert-join-calls-for-sexual-misconduct-accountability-in-congress?traffic_source=rss",
+          "published": "Thu, 16 Apr 2026 20:40:05 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Hezbollah strikes north Israel ahead of Lebanon ceasefire announcement",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/16/hezbollah-strikes-north-israel-ahead-of-lebanon-ceasefire-announcement?traffic_source=rss",
-          "published": "Thu, 16 Apr 2026 19:19:17 +0000"
+          "title": "What role is China playing in the Iran war and how is it affected?",
+          "link": "https://www.aljazeera.com/video/inside-story/2026/4/16/what-role-is-china-playing-in-the-iran-war-and-how-is-it-affected?traffic_source=rss",
+          "published": "Thu, 16 Apr 2026 20:34:19 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Lionel Messi buys Barcelona-based Spanish football club Cornella",
-          "link": "https://www.aljazeera.com/sports/2026/4/16/lionel-messi-buys-barcelona-based-spanish-club-cornella?traffic_source=rss",
-          "published": "Thu, 16 Apr 2026 19:19:03 +0000"
+          "title": "UK’s Starmer under fire over report Mandelson failed security vetting",
+          "link": "https://www.aljazeera.com/news/2026/4/16/uks-starmer-under-fire-over-report-mandelson-failed-security-vetting?traffic_source=rss",
+          "published": "Thu, 16 Apr 2026 20:22:38 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "World Cup 2026: Football fans outraged by United States transit prices",
-          "link": "https://www.aljazeera.com/sports/2026/4/16/world-cup-2026-football-fans-outraged-by-united-states-transit-prices?traffic_source=rss",
-          "published": "Thu, 16 Apr 2026 19:19:00 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Trump says Netanyahu, Aoun may meet at White House",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/16/trump-says-netanyahu-aoun-may-meet-at-white-house?traffic_source=rss",
-          "published": "Thu, 16 Apr 2026 19:07:57 +0000"
+          "title": "Displaced Lebanese in Beirut uncertain if they can trust ceasefire",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/16/displaced-lebanese-in-beirut-uncertain-if-they-can-trust-ceasefire?traffic_source=rss",
+          "published": "Thu, 16 Apr 2026 20:10:16 +0000"
         }
       ]
     }
