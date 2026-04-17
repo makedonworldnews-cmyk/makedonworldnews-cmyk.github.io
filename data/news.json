@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-17T22:58:51Z",
+  "updatedAt": "2026-04-17T23:50:36Z",
   "groups": [
     {
       "region": "Македонија",
@@ -107,6 +107,12 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Pressure mounts on Peru’s election authorities amid presidential race delay",
+          "link": "https://www.aljazeera.com/news/2026/4/17/pressure-mounts-on-perus-election-authorities-amid-presidential-race-delay?traffic_source=rss",
+          "published": "Fri, 17 Apr 2026 22:47:21 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "US judge blocks Justice Department bid to seize voter data in Rhode Island",
           "link": "https://www.aljazeera.com/news/2026/4/17/us-judge-blocks-justice-department-bid-to-seize-voter-data-in-rhode-island?traffic_source=rss",
           "published": "Fri, 17 Apr 2026 22:07:16 +0000"
@@ -128,12 +134,6 @@
           "title": "Lebanon president says country is no longer a pawn amid Israel ceasefire",
           "link": "https://www.aljazeera.com/news/2026/4/17/lebanon-president-says-country-is-no-longer-a-pawn-amid-israel-ceasefire?traffic_source=rss",
           "published": "Fri, 17 Apr 2026 20:45:58 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Starmer rejects calls to quit as pressure mounts over Mandelson vetting",
-          "link": "https://www.aljazeera.com/news/2026/4/17/starmer-rejects-calls-to-quit-as-pressure-mounts-over-mandelson-vetting?traffic_source=rss",
-          "published": "Fri, 17 Apr 2026 20:44:59 +0000"
         }
       ]
     }
