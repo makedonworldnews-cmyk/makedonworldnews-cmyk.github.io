@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-18T09:12:03Z",
+  "updatedAt": "2026-04-18T10:03:30Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,24 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Трамп вчера изјави дека Иран никогаш повеќе нема да го затвори Ормускиот теснец",
+          "link": "https://makfax.com.mk/svet/tramp-vchera-izjavi-deka-iran-nikogash-poveke-nema-da-go-zatvori-ormutskiot-tesnec/",
+          "published": "Sat, 18 Apr 2026 09:48:31 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Муцунски од Анталија: Регионалната поврзаност е предуслов за развој и стабилност",
+          "link": "https://makfax.com.mk/makedonija/mucunski-od-antalija-regionalnata-povrzanost-e-preduslov-za-razvoj-i-stabilnost/",
+          "published": "Sat, 18 Apr 2026 09:44:56 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Иран отвори шест аеродроми",
+          "link": "https://makfax.com.mk/svet/iran-otvori-shest-aerodromi/",
+          "published": "Sat, 18 Apr 2026 09:25:37 +0000"
         },
         {
           "source": "Makfax",
@@ -23,52 +41,34 @@
           "published": "Sat, 18 Apr 2026 08:51:11 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Иран повторно воведе ограничувања на Ормускиот теснец",
-          "link": "https://makfax.com.mk/svet/iran-povtorno-vovede-ogranichuvanja-na-ormuskiot-tesnec/",
-          "published": "Sat, 18 Apr 2026 08:49:49 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Финансиски пресврт до лето: три хороскопски знаци ќе се ослободат од долговите",
-          "link": "https://makfax.com.mk/zanimlivosti/finansiski-presvrt-do-leto-tri-horoskopski-znaci-ke-se-oslobodat-od-dolgovite/",
-          "published": "Sat, 18 Apr 2026 08:39:22 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Руте: САД нема да го напуштат НАТО",
-          "link": "https://makfax.com.mk/svet/rute-sad-nema-da-go-napushtat-nato/",
-          "published": "Sat, 18 Apr 2026 08:24:28 +0000"
+          "source": "NetPress",
+          "title": "Македонија има активна улога во унапредувањето на регионалната инфраструктурна и транспортна поврзаност",
+          "link": "https://netpress.com.mk/makedonija-ima-aktivna-uloga-vo-unapreduvaneto-na-regionalnata-infrastrukturna-i-transportna-povrzanost/",
+          "published": "Sat, 18 Apr 2026 09:59:38 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Иран ја повлекува одлуката за повторно отворање на Хормускиот теснец",
-          "link": "https://netpress.com.mk/iran-ja-povlekuva-odlukata-za-povtorno-otvorane-na-hormuskiot-tesnecz/",
-          "published": "Sat, 18 Apr 2026 09:12:01 +0000"
+          "title": "Време е за отрезнување на Бугарите по 35 години вежбање демократија, вели бугарски аналитичар",
+          "link": "https://netpress.com.mk/vreme-e-za-otreznuvane-na-bugarite-po-35-godini-vezhbane-demokratija-veli-bugarski-analitichar/",
+          "published": "Sat, 18 Apr 2026 09:57:41 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Во болницата во Кочани ќе се прават мамографски прегледи за пациентките од Штип и регионот",
-          "link": "https://netpress.com.mk/vo-bolniczata-vo-kochani-ke-se-pravat-mamografski-pregledi-za-paczientkite-od-shtip-i-regionot/",
-          "published": "Sat, 18 Apr 2026 09:08:13 +0000"
+          "title": "Конвој танкери е забележан како го напушта Персискиот Залив и минува низ Ормуската теснина",
+          "link": "https://netpress.com.mk/konvoj-tankeri-e-zabelezhan-kako-go-napushta-persiskiot-zaliv-i-minuva-niz-ormuskata-tesnina/",
+          "published": "Sat, 18 Apr 2026 09:47:12 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Народната банка со нови достигнувања во статистиката",
-          "link": "https://netpress.com.mk/narodnata-banka-so-novi-dostignuvana-vo-statistikata/",
-          "published": "Sat, 18 Apr 2026 09:05:25 +0000"
+          "title": "Владата внимателно носи одлуки за да се спречи дополнителен раст на цените",
+          "link": "https://netpress.com.mk/vladata-vnimatelno-nosi-odluki-za-da-se-sprechi-dopolnitelen-rast-na-czenite/",
+          "published": "Sat, 18 Apr 2026 09:43:21 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Иран предупредува, ќе ја затвори Ормуската теснина доколку продолжи блокадата на САД",
-          "link": "https://netpress.com.mk/iran-predupreduva-ke-ja-zatvori-ormuskata-tesnina-dokolku-prodolzhi-blokadata-na-sad/",
-          "published": "Sat, 18 Apr 2026 09:03:29 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Почина легендарниот Оскар Шмит!",
-          "link": "https://netpress.com.mk/pochina-legendarniot-oskar-shmit/",
-          "published": "Sat, 18 Apr 2026 08:40:44 +0000"
+          "title": "Руте не верува дека САД ќе го напуштат НАТО",
+          "link": "https://netpress.com.mk/rute-ne-veruva-deka-sad-ke-go-napushtat-nato/",
+          "published": "Sat, 18 Apr 2026 09:42:18 +0000"
         }
       ]
     },
@@ -89,9 +89,9 @@
         },
         {
           "source": "BBC",
-          "title": "Kanye West concert in Poland cancelled over antisemitic comments",
-          "link": "https://www.bbc.com/news/articles/czx95rl4ek5o?at_medium=RSS&at_campaign=rss",
-          "published": "Fri, 17 Apr 2026 18:19:10 GMT"
+          "title": "Madonna joins Sabrina Carpenter to surprise Coachella",
+          "link": "https://www.bbc.com/news/articles/c77my6gnpy4o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 18 Apr 2026 08:52:48 GMT"
         },
         {
           "source": "BBC",
@@ -101,9 +101,15 @@
         },
         {
           "source": "BBC",
-          "title": "Suspected crime boss Daniel Kinahan arrested in Dubai",
-          "link": "https://www.bbc.com/news/articles/c4g4yl5dd4do?at_medium=RSS&at_campaign=rss",
-          "published": "Fri, 17 Apr 2026 17:48:13 GMT"
+          "title": "DR Congo accepts first set of deportees from the US",
+          "link": "https://www.bbc.com/news/articles/cp84rye3lg8o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 18 Apr 2026 09:18:16 GMT"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Pakistan PM, army chief wrap up key trips in push for more US-Iran talks",
+          "link": "https://www.aljazeera.com/news/2026/4/18/pakistan-pm-army-chief-wrap-up-key-trips-in-push-for-more-us-iran-talks?traffic_source=rss",
+          "published": "Sat, 18 Apr 2026 09:27:38 +0000"
         },
         {
           "source": "Al Jazeera",
@@ -128,12 +134,6 @@
           "title": "Israeli police destroy children’s footballs at Al-Aqsa mosque",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/4/18/israeli-police-destroy-childrens-footballs-at-al-aqsa-mosque?traffic_source=rss",
           "published": "Sat, 18 Apr 2026 06:52:44 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Trump says US will ‘start dropping bombs again’ if no Iran deal is reached",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/18/trump-says-us-will-start-dropping-bombs-again-if-no-iran-deal-is-reached?traffic_source=rss",
-          "published": "Sat, 18 Apr 2026 06:10:45 +0000"
         }
       ]
     }
