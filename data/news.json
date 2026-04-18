@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-18T16:41:41Z",
+  "updatedAt": "2026-04-18T17:24:18Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Лавров: Москва отворена за нови преговори со Киев",
+          "link": "https://makfax.com.mk/svet/lavrov-moskva-otvorena-za-novi-pregovori-so-kiev/",
+          "published": "Sat, 18 Apr 2026 16:47:53 +0000"
         },
         {
           "source": "Makfax",
@@ -35,40 +41,34 @@
           "published": "Sat, 18 Apr 2026 14:45:03 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Трамп повторно ја критикува Шпанија: „Тажно за гледање“",
-          "link": "https://makfax.com.mk/svet/tramp-povtorno-ja-kritikuva-shpanija-tazhno-za-gledanje/",
-          "published": "Sat, 18 Apr 2026 14:28:07 +0000"
+          "source": "NetPress",
+          "title": "ТФТ со кош во полседниот напад го победи МЗТ Скопје Аеродром",
+          "link": "https://netpress.com.mk/tft-so-kosh-vo-polsedniot-napad-go-pobedi-mzt-skopje-aerodrom/",
+          "published": "Sat, 18 Apr 2026 17:14:27 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Министерот Цветановски му одговори на СДСМ – Николовски политички не постои, а интерпелацијата е безначајна",
-          "link": "https://netpress.com.mk/ministerot-czvetanovski-mu-odgovori-na-sdsm-nikolovski-politichki-ne-postoi-a-interpelaczijata-e-beznachajna/",
-          "published": "Sat, 18 Apr 2026 16:11:22 +0000"
+          "title": "Успешно спроведена вежбата „Сигурен хоризонт 2026“ – диверзија со импровизирана експлозивна направа во ВИП зоната",
+          "link": "https://netpress.com.mk/uspeshno-sprovedena-vezhbata-siguren-horizont-2026-diverzija-so-improvizirana-eksplozivna-naprava-vo-vip-zonata/",
+          "published": "Sat, 18 Apr 2026 17:10:09 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Иран не може да ги уценува САД, смета Трамп, малку се заиграле",
-          "link": "https://netpress.com.mk/iran-ne-mozhe-da-gi-uczenuva-sad-smeta-tramp-malku-se-zaigrale/",
-          "published": "Sat, 18 Apr 2026 15:54:25 +0000"
+          "title": "Папата Лав 14 го ублажува спорот со Трамп, тврди дека наводите за неговите изјави се неточни",
+          "link": "https://netpress.com.mk/papata-lav-14-go-ublazhuva-sporot-so-tramp-tvrdi-deka-navodite-za-negovite-izjavi-se-netochni/",
+          "published": "Sat, 18 Apr 2026 17:03:05 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Лавров открива нов воен блок, па повикува Русија и САД да разговараат за идните економски врски",
-          "link": "https://netpress.com.mk/lavrov-otkriva-nov-voen-blok-pa-povikuva-rusija-i-sad-da-razgovaraat-za-idnite-ekonomski-vrski/",
-          "published": "Sat, 18 Apr 2026 15:46:43 +0000"
+          "title": "Запалена сува трева под Кале, пожарот зафати и три возила",
+          "link": "https://netpress.com.mk/zapalena-suva-treva-pod-kale-pozharot-zafati-i-tri-vozila/",
+          "published": "Sat, 18 Apr 2026 16:59:57 +0000"
         },
         {
           "source": "NetPress",
-          "title": "За верува ле или не, СДСМ обвинува дека ВМРО-ДПМНЕ ангажирала разузнавачка компанија за следење на опозицијата",
-          "link": "https://netpress.com.mk/za-veruva-le-ili-ne-sdsm-obvinuva-deka-vmro-dpmne-angazhirala-razuznavachka-kompanija-za-sledene-na-opoziczijata/",
-          "published": "Sat, 18 Apr 2026 15:40:04 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Светозар Антовиќ актуелниот и иден декан на Медицинскиот факултет го отвори Европски конгрес на хирурзи",
-          "link": "https://netpress.com.mk/svetozar-antovik-aktuelniot-i-iden-dekan-na-mediczinskiot-fakultet-go-otvori-evropski-kongres-na-hirurzi/",
-          "published": "Sat, 18 Apr 2026 15:28:57 +0000"
+          "title": "Над 8 милиони денари инвестиција за улицата 157 во Гази Баба",
+          "link": "https://netpress.com.mk/nad-8-milioni-denari-investiczija-za-uliczata-157-vo-gazi-baba/",
+          "published": "Sat, 18 Apr 2026 16:57:34 +0000"
         }
       ]
     },
@@ -79,7 +79,13 @@
           "source": "BBC",
           "title": "At least six killed in Kyiv as gunman opens fire and takes hostages",
           "link": "https://www.bbc.com/news/articles/cm25r1vkx4lo?at_medium=RSS&at_campaign=rss",
-          "published": "Sat, 18 Apr 2026 16:38:31 GMT"
+          "published": "Sat, 18 Apr 2026 17:14:57 GMT"
+        },
+        {
+          "source": "BBC",
+          "title": "Pope says 'tyrants' speech was not aimed at Trump",
+          "link": "https://www.bbc.com/news/articles/ce84j261kj1o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 18 Apr 2026 16:44:39 GMT"
         },
         {
           "source": "BBC",
@@ -92,12 +98,6 @@
           "title": "French peacekeeper killed in southern Lebanon",
           "link": "https://www.bbc.com/news/articles/cvg4mrm2vm0o?at_medium=RSS&at_campaign=rss",
           "published": "Sat, 18 Apr 2026 14:53:17 GMT"
-        },
-        {
-          "source": "BBC",
-          "title": "Millions listen to Ethiopian star's song taking swipe at government",
-          "link": "https://www.bbc.com/news/articles/cqj81g5dxkyo?at_medium=RSS&at_campaign=rss",
-          "published": "Sat, 18 Apr 2026 13:13:21 GMT"
         },
         {
           "source": "BBC",
