@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-18T21:53:03Z",
+  "updatedAt": "2026-04-18T22:35:42Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Јокиќ и Мареј ја решија Минесота – Денвер води со 1:0 во среијата до четири победи",
+          "link": "https://makfax.com.mk/sport/jokik-i-marej-ja-reshija-minesota-denver-vodi-so-10-vo-sreijata-do-chetiri-pobedi/",
+          "published": "Sat, 18 Apr 2026 22:31:40 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Алварез од херој до трагичар – Сосиедад на пенали го освои Кралскиот Куп",
+          "link": "https://makfax.com.mk/sport/alvarez-od-heroj-do-tragichar-sosiedad-na-penali-go-osvoi-kralskiot-kup/",
+          "published": "Sat, 18 Apr 2026 22:09:03 +0000"
         },
         {
           "source": "Makfax",
@@ -29,16 +41,10 @@
           "published": "Sat, 18 Apr 2026 19:31:57 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Кендал Џенер ги демантира гласините за операција: „Носот ми се промени од лекови против акни“",
-          "link": "https://makfax.com.mk/zanimlivosti/kendal-dhener-gi-demantira-glasinite-za-operacija-nosot-mi-se-promeni-od-lekovi-protiv-akni/",
-          "published": "Sat, 18 Apr 2026 19:25:53 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Пет хороскопски знаци ги очекува успешен период во сезоната на Бикот",
-          "link": "https://makfax.com.mk/zanimlivosti/pet-horoskopski-znaci-gi-ochekuva-uspeshen-period-vo-sezonata-na-bikot/",
-          "published": "Sat, 18 Apr 2026 19:22:30 +0000"
+          "source": "NetPress",
+          "title": "ВИДЕО| Шестмина мртви во пукање во Киев и заложничката криза, полицијата го уби осомничениот",
+          "link": "https://netpress.com.mk/video-shestmina-mrtvi-vo-pukane-vo-kiev-i-zalozhnichkata-kriza-policzijata-go-ubi-osomnicheniot/",
+          "published": "Sat, 18 Apr 2026 22:00:15 +0000"
         },
         {
           "source": "NetPress",
@@ -63,12 +69,6 @@
           "title": "„Маршот на ангелите“ во Штип – „Не бараме изговори и одложувања, бараме одговори и правда“",
           "link": "https://netpress.com.mk/marshot-na-angelite-denes-se-odrzha-vo-shtip-ne-barame-izgovori-i-odlozhuvana-barame-odgovori-i-pravda/",
           "published": "Sat, 18 Apr 2026 20:55:18 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Иранската гарда гаѓаше индиски танкер и контејнерски брод, индиското МНР го повика на разговор амбасадорот на Иран",
-          "link": "https://netpress.com.mk/iranskata-garda-gagashe-indiski-tanker-i-kontejnerski-brod-indiskoto-mnr-go-povika-na-razgovor-ambasadorot-na-iran/",
-          "published": "Sat, 18 Apr 2026 20:49:39 +0000"
         }
       ]
     },
@@ -107,6 +107,12 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Iran reasserts control of Hormuz Strait as Trump warns against ‘blackmail’",
+          "link": "https://www.aljazeera.com/news/2026/4/18/iran-reasserts-control-of-hormuz-strait-as-trump-warns-against-blackmail?traffic_source=rss",
+          "published": "Sat, 18 Apr 2026 21:41:06 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Manchester United beat Chelsea as Cunha strike boosts Champions League hope",
           "link": "https://www.aljazeera.com/sports/2026/4/18/manchester-united-beat-chelsea-as-cunha-strike-boosts-champions-league-hope?traffic_source=rss",
           "published": "Sat, 18 Apr 2026 21:09:16 +0000"
@@ -128,12 +134,6 @@
           "title": "Israel says established a ‘yellow line’ in Lebanon, as it has in Gaza",
           "link": "https://www.aljazeera.com/news/2026/4/18/israel-says-established-a-yellow-line-in-lebanon-as-it-has-in-gaza?traffic_source=rss",
           "published": "Sat, 18 Apr 2026 21:03:33 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Will Keir Starmer resign?",
-          "link": "https://www.aljazeera.com/video/inside-story/2026/4/18/will-keir-starmer-resign?traffic_source=rss",
-          "published": "Sat, 18 Apr 2026 19:58:02 +0000"
         }
       ]
     }
