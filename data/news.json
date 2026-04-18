@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-18T15:09:15Z",
+  "updatedAt": "2026-04-18T15:53:40Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Иран бара такси за бродовите во Ормускиот теснец по повторното затворање",
+          "link": "https://makfax.com.mk/svet/iran-bara-taksi-za-brodovite-vo-ormuskiot-tesnec-po-povtornoto-zatvoranje/",
+          "published": "Sat, 18 Apr 2026 15:12:25 +0000"
         },
         {
           "source": "Makfax",
@@ -35,10 +41,22 @@
           "published": "Sat, 18 Apr 2026 14:00:27 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Влада ја продолжи мерката за намалување на акцизите на нафтените деривати до 4 мај",
-          "link": "https://makfax.com.mk/ekonomija/vlada-ja-prodolzhi-merkata-za-namaluvanje-na-akcizite-na-naftenite-derivati-do-4-maj/",
-          "published": "Sat, 18 Apr 2026 13:15:02 +0000"
+          "source": "NetPress",
+          "title": "Лавров открива нов воен блок, па повикува Русија и САД да разговараат за идните економски врски",
+          "link": "https://netpress.com.mk/lavrov-otkriva-nov-voen-blok-pa-povikuva-rusija-i-sad-da-razgovaraat-za-idnite-ekonomski-vrski/",
+          "published": "Sat, 18 Apr 2026 15:46:43 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "За верува ле или не, СДСМ обвинува дека ВМРО-ДПМНЕ ангажирала разузнавачка компанија за следење на опозицијата",
+          "link": "https://netpress.com.mk/za-veruva-le-ili-ne-sdsm-obvinuva-deka-vmro-dpmne-angazhirala-razuznavachka-kompanija-za-sledene-na-opoziczijata/",
+          "published": "Sat, 18 Apr 2026 15:40:04 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Светозар Антовиќ актуелниот и иден декан на Медицинскиот факултет го отвори Европски конгрес на хирурзи",
+          "link": "https://netpress.com.mk/svetozar-antovik-aktuelniot-i-iden-dekan-na-mediczinskiot-fakultet-go-otvori-evropski-kongres-na-hirurzi/",
+          "published": "Sat, 18 Apr 2026 15:28:57 +0000"
         },
         {
           "source": "NetPress",
@@ -51,24 +69,6 @@
           "title": "Џафери го запечати исклучувањето на албанскиот јазик од правосудниот испит",
           "link": "https://netpress.com.mk/dhaferi-go-zapechati-iskluchuvaneto-na-albanskiot-jazik-od-pravosudniot-ispit/",
           "published": "Sat, 18 Apr 2026 14:47:30 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Приведени шест лица, меѓу нив и малолетниц",
-          "link": "https://netpress.com.mk/privedeni-shest-licza-megu-niv-i-maloletnicz/",
-          "published": "Sat, 18 Apr 2026 14:44:59 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Турција го обвини Израел за експанзионизам- безбедноста е само изговор за окупација на нови територии",
-          "link": "https://netpress.com.mk/turczija-go-obvini-izrael-za-ekspanzionizam-bezbednosta-e-samo-izgovor-za-okupaczija-na-novi-teritorii/",
-          "published": "Sat, 18 Apr 2026 14:42:38 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Македонија постојано покажува дека е сигурен и одговорен европски партнер",
-          "link": "https://netpress.com.mk/makedonija-postojano-pokazhuva-deka-e-siguren-i-odgovoren-evropski-partner/",
-          "published": "Sat, 18 Apr 2026 14:10:27 +0000"
         }
       ]
     },
@@ -77,15 +77,15 @@
       "items": [
         {
           "source": "BBC",
-          "title": "Madonna joins Sabrina Carpenter to surprise Coachella",
-          "link": "https://www.bbc.com/news/articles/c77my6gnpy4o?at_medium=RSS&at_campaign=rss",
-          "published": "Sat, 18 Apr 2026 10:32:54 GMT"
+          "title": "At least two dead as gunman opens fire and takes hostages in Kyiv",
+          "link": "https://www.bbc.com/news/articles/cm25r1vkx4lo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 18 Apr 2026 15:35:35 GMT"
         },
         {
           "source": "BBC",
-          "title": "Orbán's era was over in a flash and Hungary's next PM is a man in a hurry",
-          "link": "https://www.bbc.com/news/articles/c4g40npz37lo?at_medium=RSS&at_campaign=rss",
-          "published": "Sat, 18 Apr 2026 13:00:44 GMT"
+          "title": "Madonna joins Sabrina Carpenter to surprise Coachella",
+          "link": "https://www.bbc.com/news/articles/c77my6gnpy4o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 18 Apr 2026 10:32:54 GMT"
         },
         {
           "source": "BBC",
@@ -107,6 +107,24 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "“Lords of war.” Brazil’s president condemns UN Security Council",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/18/lords-of-war-brazils-president-condemns-un-security?traffic_source=rss",
+          "published": "Sat, 18 Apr 2026 15:30:28 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "French soldier serving with UNIFIL killed in Lebanon attack",
+          "link": "https://www.aljazeera.com/news/2026/4/18/french-soldier-serving-with-unifil-killed-in-lebanon-attack?traffic_source=rss",
+          "published": "Sat, 18 Apr 2026 15:16:08 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "As fentanyl crisis evolves, experts say US is still ‘behind the eight ball’",
+          "link": "https://www.aljazeera.com/economy/2026/4/18/as-fentanyl-crisis-evolves-experts-say-us-is-still-behind-the-eight-ball?traffic_source=rss",
+          "published": "Sat, 18 Apr 2026 15:13:44 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "UNICEF ‘outraged’ after Israeli forces kill water truck drivers in Gaza",
           "link": "https://www.aljazeera.com/news/2026/4/18/unicef-outraged-after-israeli-forces-kill-water-truck-drivers-in-gaza?traffic_source=rss",
           "published": "Sat, 18 Apr 2026 14:22:53 +0000"
@@ -116,24 +134,6 @@
           "title": "Trump claims on Iranian concessions trigger questions, rejections in Tehran",
           "link": "https://www.aljazeera.com/news/2026/4/18/trump-claims-on-iranian-concessions-trigger-questions-rejections-in-tehran?traffic_source=rss",
           "published": "Sat, 18 Apr 2026 13:03:35 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Slavery reparations are just, but who exactly owes whom?",
-          "link": "https://www.aljazeera.com/opinions/2026/4/18/slavery-reparations-are-just-but-who-exactly-owes-whom?traffic_source=rss",
-          "published": "Sat, 18 Apr 2026 13:00:34 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Iran’s supreme leader warns of ‘new bitter defeats’ for US and Israel",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/18/irans-supreme-leader-warns-of-new-bitter-defeats-for-us-and-israel?traffic_source=rss",
-          "published": "Sat, 18 Apr 2026 12:59:53 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Iran’s deputy FM says no date for more US talks until ‘framework’ agreed",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/18/irans-deputy-fm-says-no-date-for-more-us-talks-until-framework-agreed?traffic_source=rss",
-          "published": "Sat, 18 Apr 2026 12:46:18 +0000"
         }
       ]
     }
