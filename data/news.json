@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-18T22:35:42Z",
+  "updatedAt": "2026-04-18T23:07:09Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Трагедија на тренинг, возач загина додека Ферстапен се подготвуваше да излезе на патеката",
+          "link": "https://makfax.com.mk/sport/tragedija-na-trening-vozach-zagina-dodeka-ferstapen-se-podgotvuvashe-da-izleze-na-patekata/",
+          "published": "Sat, 18 Apr 2026 22:41:15 +0000"
         },
         {
           "source": "Makfax",
@@ -33,12 +39,6 @@
           "title": "Изби пожар кај стариот полигон под Кале, оштетени се три возила, едно лице повредено",
           "link": "https://makfax.com.mk/crna-hronika/izbi-pozhar-kaj-stariot-poligon-pod-kale-oshteteni-se-tri-vozila-edno-lice-povredeno/",
           "published": "Sat, 18 Apr 2026 19:38:26 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Маж почина во угостителски објект на пазарот во Свети Николе",
-          "link": "https://makfax.com.mk/crna-hronika/mazh-pochina-vo-ugostitelski-objekt-na-pazarot-vo-sveti-nikole/",
-          "published": "Sat, 18 Apr 2026 19:31:57 +0000"
         },
         {
           "source": "NetPress",
