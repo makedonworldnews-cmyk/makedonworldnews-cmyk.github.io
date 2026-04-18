@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-18T17:24:18Z",
+  "updatedAt": "2026-04-18T18:01:42Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Лукашенко до САД: Ќе мора да учите демократија од нас",
+          "link": "https://makfax.com.mk/svet/lukashenko-do-sad-ke-mora-da-uchite-demokratija-od-nas/",
+          "published": "Sat, 18 Apr 2026 18:01:34 +0000"
         },
         {
           "source": "Makfax",
@@ -33,12 +39,6 @@
           "title": "МВР и ТАВ Македонија: Успешно спроведена вежбата „Сигурен хоризонт 2026“ – тестирана подготвеноста за одговор на сложени безбедносни закани",
           "link": "https://makfax.com.mk/makedonija/mvr-i-tav-makedonija-uspeshno-sprovedena-vezhbata-siguren-horizont-2026-testirana-podgotvenosta-za-odgovor-na-slozheni-bezbednosni-zakani/",
           "published": "Sat, 18 Apr 2026 15:05:12 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Меџити: Над 8 милиони денари инвестиција за улицата 157",
-          "link": "https://makfax.com.mk/makedonija/medhiti-nad-8-milioni-denari-investicija-za-ulicata-157/",
-          "published": "Sat, 18 Apr 2026 14:45:03 +0000"
         },
         {
           "source": "NetPress",
