@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-18T21:17:17Z",
+  "updatedAt": "2026-04-18T21:53:03Z",
   "groups": [
     {
       "region": "Македонија",
@@ -42,6 +42,18 @@
         },
         {
           "source": "NetPress",
+          "title": "Земјотрес во Македонија",
+          "link": "https://netpress.com.mk/zemjotres-vo-makedonija-3/",
+          "published": "Sat, 18 Apr 2026 21:39:50 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Хатибзаде до Трамп: Премногу зборуваш!",
+          "link": "https://netpress.com.mk/hatibzade-do-tramp-premnogu-zboruvash/",
+          "published": "Sat, 18 Apr 2026 21:37:14 +0000"
+        },
+        {
+          "source": "NetPress",
           "title": "Кос: Албанија има реална можност да стане дел од ЕУ до 2030 година",
           "link": "https://netpress.com.mk/kos-albanija-ima-realna-mozhnost-da-stane-del-od-eu-do-2030-godina/",
           "published": "Sat, 18 Apr 2026 21:04:28 +0000"
@@ -57,24 +69,18 @@
           "title": "Иранската гарда гаѓаше индиски танкер и контејнерски брод, индиското МНР го повика на разговор амбасадорот на Иран",
           "link": "https://netpress.com.mk/iranskata-garda-gagashe-indiski-tanker-i-kontejnerski-brod-indiskoto-mnr-go-povika-na-razgovor-ambasadorot-na-iran/",
           "published": "Sat, 18 Apr 2026 20:49:39 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Албанија e „шампион“ по зголемување на цените според куповната моќ",
-          "link": "https://netpress.com.mk/albanija-e-shampion-po-zgolemuvane-na-czenite-spored-kupovnata-mok/",
-          "published": "Sat, 18 Apr 2026 20:39:52 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Приоритет за премин низ Ормуската теснина ќе добијат бродовите кои ќе платат",
-          "link": "https://netpress.com.mk/prioritet-za-premin-niz-ormuskata-tesnina-ke-dobijat-brodovite-koi-ke-platat/",
-          "published": "Sat, 18 Apr 2026 19:56:41 +0000"
         }
       ]
     },
     {
       "region": "Свет",
       "items": [
+        {
+          "source": "BBC",
+          "title": "Strait of Hormuz closed again, Iran says, as ships attacked",
+          "link": "https://www.bbc.com/news/articles/cx2631x6nelo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 18 Apr 2026 21:19:46 GMT"
+        },
         {
           "source": "BBC",
           "title": "At least six killed in Kyiv as gunman opens fire and takes hostages",
@@ -91,19 +97,13 @@
           "source": "BBC",
           "title": "Mexico's Sheinbaum denies 'diplomatic crisis' with Spain after conquest row",
           "link": "https://www.bbc.com/news/articles/cp86r29l45go?at_medium=RSS&at_campaign=rss",
-          "published": "Sat, 18 Apr 2026 18:58:26 GMT"
+          "published": "Sat, 18 Apr 2026 21:27:56 GMT"
         },
         {
           "source": "BBC",
           "title": "Madonna joins Sabrina Carpenter to surprise Coachella",
           "link": "https://www.bbc.com/news/articles/c77my6gnpy4o?at_medium=RSS&at_campaign=rss",
           "published": "Sat, 18 Apr 2026 10:32:54 GMT"
-        },
-        {
-          "source": "BBC",
-          "title": "French film star Nathalie Baye dies aged 77, media report",
-          "link": "https://www.bbc.com/news/articles/cn9q48y9wr7o?at_medium=RSS&at_campaign=rss",
-          "published": "Sat, 18 Apr 2026 14:52:15 GMT"
         },
         {
           "source": "Al Jazeera",
