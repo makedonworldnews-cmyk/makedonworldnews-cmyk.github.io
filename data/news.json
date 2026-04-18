@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-18T13:41:37Z",
+  "updatedAt": "2026-04-18T14:28:18Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Трамп повторно ја критикува Шпанија: „Тажно за гледање“",
+          "link": "https://makfax.com.mk/svet/tramp-povtorno-ja-kritikuva-shpanija-tazhno-za-gledanje/",
+          "published": "Sat, 18 Apr 2026 14:28:07 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Минибус со навивачи оштетен кај Битола: напад од група граѓани на патот Прилеп–Ресен",
+          "link": "https://makfax.com.mk/crna-hronika/minibus-so-navivachi-oshteten-kaj-bitola-napad-od-grupa-gragani-na-patot-prilep-resen/",
+          "published": "Sat, 18 Apr 2026 14:00:27 +0000"
         },
         {
           "source": "Makfax",
@@ -29,16 +41,22 @@
           "published": "Sat, 18 Apr 2026 13:09:54 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Балканската платформа за мир како форум за конкретни резултати, порача Муцунски во Анталија",
-          "link": "https://makfax.com.mk/makedonija/balkanskata-platforma-za-mir-kako-forum-za-konkretni-rezultati-poracha-mucunski-vo-antalija/",
-          "published": "Sat, 18 Apr 2026 13:07:43 +0000"
+          "source": "NetPress",
+          "title": "Македонија постојано покажува дека е сигурен и одговорен европски партнер",
+          "link": "https://netpress.com.mk/makedonija-postojano-pokazhuva-deka-e-siguren-i-odgovoren-evropski-partner/",
+          "published": "Sat, 18 Apr 2026 14:10:27 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Кривична за уцена во Тетово: барал 20.000 евра и се заканувал со објавување видеа",
-          "link": "https://makfax.com.mk/crna-hronika/krivichna-za-ucena-vo-tetovo-baral-20-000-evra-i-se-zakanuval-so-objavuvanje-videa/",
-          "published": "Sat, 18 Apr 2026 13:00:20 +0000"
+          "source": "NetPress",
+          "title": "Се судрија 5 возила во Ѓорче Петров, десетмина повредени",
+          "link": "https://netpress.com.mk/se-sudrija-5-vozila-vo-gorche-petrov-desetmina-povredeni/",
+          "published": "Sat, 18 Apr 2026 14:00:27 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Продолжена мерката за намалување на акцизите на нафтените деривати до 4 мај",
+          "link": "https://netpress.com.mk/prodolzhena-merkata-za-namaluvane-na-akczizite-na-naftenite-derivati-do-4-maj/",
+          "published": "Sat, 18 Apr 2026 13:50:40 +0000"
         },
         {
           "source": "NetPress",
@@ -51,24 +69,6 @@
           "title": "Скопје домаќин на меѓународен настан за женско лидерство и европската перспектива на регионот",
           "link": "https://netpress.com.mk/vo-skopje-domakin-na-megunaroden-nastan-za-zhensko-liderstvo-i-evropskata-perspektiva-na-regionot/",
           "published": "Sat, 18 Apr 2026 12:26:37 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "УПК: Срамни сцени на нашите граници со новиот ЕЕС систем",
-          "link": "https://netpress.com.mk/upk-sramni-sczeni-na-nashite-graniczi-so-noviot-ees-sistem/",
-          "published": "Sat, 18 Apr 2026 12:20:38 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Петрушевски смета дека СДС и Филипче живеат во свет на лаги, конструкции и политичка заблуда",
-          "link": "https://netpress.com.mk/petrushevski-smeta-deka-sds-i-filipche-zhiveat-vo-svet-na-lagi-konstrukczii-i-politichka-zabluda/",
-          "published": "Sat, 18 Apr 2026 12:14:29 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Сиљановска Давкова се сретна со претседателот на ТИКА",
-          "link": "https://netpress.com.mk/silanovska-davkova-se-sretna-so-pretsedatelot-na-tika/",
-          "published": "Sat, 18 Apr 2026 12:10:46 +0000"
         }
       ]
     },
