@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-18T10:57:39Z",
+  "updatedAt": "2026-04-18T11:40:33Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Реконструиран кејот кај Маџир Маало: нови спортски терени и простор за рекреација",
+          "link": "https://makfax.com.mk/makedonija/rekonstruiran-kejot-kaj-madhir-maalo-novi-sportski-tereni-i-prostor-za-rekreacija/",
+          "published": "Sat, 18 Apr 2026 11:39:12 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "СДСМ поднесе интерпелација за Трипуновски, обвинува за корупција и колапс во земјоделството",
+          "link": "https://makfax.com.mk/makedonija/sdsm-podnese-interpelacija-za-tripunovski-obvinuva-za-korupcija-i-kolaps-vo-zemjodelstvoto/",
+          "published": "Sat, 18 Apr 2026 11:36:40 +0000"
         },
         {
           "source": "Makfax",
@@ -29,16 +41,16 @@
           "published": "Sat, 18 Apr 2026 10:17:54 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Трамп вчера изјави дека Иран никогаш повеќе нема да го затвори Ормускиот теснец",
-          "link": "https://makfax.com.mk/svet/tramp-vchera-izjavi-deka-iran-nikogash-poveke-nema-da-go-zatvori-ormutskiot-tesnec/",
-          "published": "Sat, 18 Apr 2026 09:48:31 +0000"
+          "source": "NetPress",
+          "title": "Германија ќе купи оружје од САД за 10 милијарди евра",
+          "link": "https://netpress.com.mk/germanija-ke-kupi-oruzhje-od-sad-vo-vrednost-od-priblizhno-10-milijardi-evra/",
+          "published": "Sat, 18 Apr 2026 11:15:47 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Муцунски од Анталија: Регионалната поврзаност е предуслов за развој и стабилност",
-          "link": "https://makfax.com.mk/makedonija/mucunski-od-antalija-regionalnata-povrzanost-e-preduslov-za-razvoj-i-stabilnost/",
-          "published": "Sat, 18 Apr 2026 09:44:56 +0000"
+          "source": "NetPress",
+          "title": "Запленети скапи „Ејпл“ часовници заменети со евтини копии, оригиналите пронајдени во мобилара",
+          "link": "https://netpress.com.mk/zapleneti-skapi-ejpl-chasovniczi-zameneti-so-evtini-kopii-originalite-pronajdeni-vo-mobilara/",
+          "published": "Sat, 18 Apr 2026 11:10:38 +0000"
         },
         {
           "source": "NetPress",
@@ -57,18 +69,6 @@
           "title": "Француската актерка Натали Баји почина на 77 години",
           "link": "https://netpress.com.mk/franczuskata-akterka-natali-baji-pochina-na-77-godini/",
           "published": "Sat, 18 Apr 2026 10:21:36 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Македонија има активна улога во унапредувањето на регионалната инфраструктурна и транспортна поврзаност",
-          "link": "https://netpress.com.mk/makedonija-ima-aktivna-uloga-vo-unapreduvaneto-na-regionalnata-infrastrukturna-i-transportna-povrzanost/",
-          "published": "Sat, 18 Apr 2026 09:59:38 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Време е за отрезнување на Бугарите по 35 години вежбање демократија, вели бугарски аналитичар",
-          "link": "https://netpress.com.mk/vreme-e-za-otreznuvane-na-bugarite-po-35-godini-vezhbane-demokratija-veli-bugarski-analitichar/",
-          "published": "Sat, 18 Apr 2026 09:57:41 +0000"
         }
       ]
     },
@@ -107,6 +107,24 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Hormuz: Spin in the Strait",
+          "link": "https://www.aljazeera.com/video/the-listening-post/2026/4/18/hormuz-spin-in-the-strait?traffic_source=rss",
+          "published": "Sat, 18 Apr 2026 10:48:10 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Ambulance crew in south Lebanon describes Israel’s ‘triple-tap’ attack",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/18/ambulance-crew-in-south-lebanon-describes-israels-triple-tap-attack?traffic_source=rss",
+          "published": "Sat, 18 Apr 2026 10:39:22 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "As oil prices plunge below $91 after weeks, a new Hormuz crisis emerges",
+          "link": "https://www.aljazeera.com/economy/2026/4/18/as-oil-prices-plunge-below-91-after-weeks-a-new-hormuz-crisis-emerges?traffic_source=rss",
+          "published": "Sat, 18 Apr 2026 10:29:06 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Death penalty law proves the EU must treat Israel as an apartheid state",
           "link": "https://www.aljazeera.com/video/quotable/2026/4/18/death-penalty-law-proves-the-eu-must-treat-israel-as-an-apartheid-state?traffic_source=rss",
           "published": "Sat, 18 Apr 2026 10:07:52 +0000"
@@ -116,24 +134,6 @@
           "title": "Pakistan PM, army chief wrap up key trips in push for more US-Iran talks",
           "link": "https://www.aljazeera.com/news/2026/4/18/pakistan-pm-army-chief-wrap-up-key-trips-in-push-for-more-us-iran-talks?traffic_source=rss",
           "published": "Sat, 18 Apr 2026 09:27:38 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Iran has learned that the Strait of Hormuz is its strongest deterrent",
-          "link": "https://www.aljazeera.com/video/quotable/2026/4/18/iran-has-learned-that-the-strait-of-hormuz-is-its-strongest-deterrent?traffic_source=rss",
-          "published": "Sat, 18 Apr 2026 08:25:24 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Man City vs Arsenal: All you need to know about title showdown",
-          "link": "https://www.aljazeera.com/sports/2026/4/18/man-city-vs-arsenal-all-you-need-to-know-about-title-showdown?traffic_source=rss",
-          "published": "Sat, 18 Apr 2026 08:21:51 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Pope Leo heads to Angola in landmark Africa visit amid Trump clash",
-          "link": "https://www.aljazeera.com/news/2026/4/18/pope-leo-heads-to-angola-in-landmark-africa-visit-amid-trump-clash?traffic_source=rss",
-          "published": "Sat, 18 Apr 2026 08:10:17 +0000"
         }
       ]
     }
