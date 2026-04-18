@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-18T19:07:24Z",
+  "updatedAt": "2026-04-18T19:51:35Z",
   "groups": [
     {
       "region": "Македонија",
@@ -12,33 +12,45 @@
         },
         {
           "source": "Makfax",
+          "title": "Изби пожар кај стариот полигон под Кале, оштетени се три возила, едно лице повредено",
+          "link": "https://makfax.com.mk/crna-hronika/izbi-pozhar-kaj-stariot-poligon-pod-kale-oshteteni-se-tri-vozila-edno-lice-povredeno/",
+          "published": "Sat, 18 Apr 2026 19:38:26 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Маж почина во угостителски објект на пазарот во Свети Николе",
+          "link": "https://makfax.com.mk/crna-hronika/mazh-pochina-vo-ugostitelski-objekt-na-pazarot-vo-sveti-nikole/",
+          "published": "Sat, 18 Apr 2026 19:31:57 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Кендал Џенер ги демантира гласините за операција: „Носот ми се промени од лекови против акни“",
+          "link": "https://makfax.com.mk/zanimlivosti/kendal-dhener-gi-demantira-glasinite-za-operacija-nosot-mi-se-promeni-od-lekovi-protiv-akni/",
+          "published": "Sat, 18 Apr 2026 19:25:53 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Пет хороскопски знаци ги очекува успешен период во сезоната на Бикот",
+          "link": "https://makfax.com.mk/zanimlivosti/pet-horoskopski-znaci-gi-ochekuva-uspeshen-period-vo-sezonata-na-bikot/",
+          "published": "Sat, 18 Apr 2026 19:22:30 +0000"
+        },
+        {
+          "source": "Makfax",
           "title": "(Видео) Молк во Лондон – Тотенхем осѕана без победата во 95-та минута",
           "link": "https://makfax.com.mk/sport/video-molk-vo-london-totenhem-oszana-bez-pobedata-vo-95-ta-minuta/",
           "published": "Sat, 18 Apr 2026 18:49:56 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "(Видео) Напаѓач отвори оган во Киев, специјалците го ликвидираа – објавени детали за идентитетот",
-          "link": "https://makfax.com.mk/svet/video-napagach-otvori-ogan-vo-kiev-specijalcite-go-likvidiraa-objaveni-detali-za-identitetot/",
-          "published": "Sat, 18 Apr 2026 18:23:34 +0000"
+          "source": "NetPress",
+          "title": "Пронајдена граната во двор во Општина Новаци",
+          "link": "https://netpress.com.mk/pronajdena-granata-vo-dvor-vo-opshtina-novaczi/",
+          "published": "Sat, 18 Apr 2026 19:49:18 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Наполи се збогува со Скудетото",
-          "link": "https://makfax.com.mk/sport/napoli-se-zboguva-so-skudetoto/",
-          "published": "Sat, 18 Apr 2026 18:12:57 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "На изборите во Унгарија учествувал уште еден Петер Маѓар",
-          "link": "https://makfax.com.mk/svet/na-izborite-vo-ungarija-uchestvuval-ushte-eden-peter-magar/",
-          "published": "Sat, 18 Apr 2026 18:12:12 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Иран: Нема нови директни преговори додека САД не ги променат максималистичките барања",
-          "link": "https://makfax.com.mk/svet/iran-nema-novi-direktni-pregovori-dodeka-sad-ne-gi-promenat-maksimalistichkite-baranja/",
-          "published": "Sat, 18 Apr 2026 18:06:39 +0000"
+          "source": "NetPress",
+          "title": "Возило на јавно претпријатие излетало од пат",
+          "link": "https://netpress.com.mk/vozilo-na-javno-pretprijatie-izletalo-od-pat/",
+          "published": "Sat, 18 Apr 2026 19:14:54 +0000"
         },
         {
           "source": "NetPress",
@@ -57,18 +69,6 @@
           "title": "Двајца убиени и пет повредени меѓу кои и дете во пукотница во Киев",
           "link": "https://netpress.com.mk/dvajcza-ubieni-i-pet-povredeni-megu-koi-i-dete-vo-pukotnicza-vo-kiev/",
           "published": "Sat, 18 Apr 2026 18:33:30 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Кавадарци е еден од најзначајните центри на агросекторот во државата, 7.000 хектари под лозов насад",
-          "link": "https://netpress.com.mk/kavadarczi-e-eden-od-najznachajnite-czentri-na-agrosektorot-vo-drzhavata-7-000-hektari-pod-lozov-nasad/",
-          "published": "Sat, 18 Apr 2026 18:31:32 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "ТФТ со кош во полседниот напад го победи МЗТ Скопје Аеродром",
-          "link": "https://netpress.com.mk/tft-so-kosh-vo-polsedniot-napad-go-pobedi-mzt-skopje-aerodrom/",
-          "published": "Sat, 18 Apr 2026 17:14:27 +0000"
         }
       ]
     },
@@ -89,6 +89,12 @@
         },
         {
           "source": "BBC",
+          "title": "All construction of Trump's White House ballroom can resume, appeals court says",
+          "link": "https://www.bbc.com/news/articles/clyx9xyy0j9o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 18 Apr 2026 19:18:40 GMT"
+        },
+        {
+          "source": "BBC",
           "title": "Mexico's Sheinbaum denies 'diplomatic crisis' with Spain after conquest row",
           "link": "https://www.bbc.com/news/articles/cp86r29l45go?at_medium=RSS&at_campaign=rss",
           "published": "Sat, 18 Apr 2026 18:58:26 GMT"
@@ -100,10 +106,22 @@
           "published": "Sat, 18 Apr 2026 10:32:54 GMT"
         },
         {
-          "source": "BBC",
-          "title": "French film star Nathalie Baye dies aged 77, media report",
-          "link": "https://www.bbc.com/news/articles/cn9q48y9wr7o?at_medium=RSS&at_campaign=rss",
-          "published": "Sat, 18 Apr 2026 14:52:15 GMT"
+          "source": "Al Jazeera",
+          "title": "Mazzucato on the Iran war’s economic shock: Who pays the price?",
+          "link": "https://www.aljazeera.com/video/upfront/2026/4/18/mazzucato-on-the-iran-wars-economic-shock-who-pays-the-price?traffic_source=rss",
+          "published": "Sat, 18 Apr 2026 19:29:42 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Mexico arrests suspected Hungarian drug trafficker amid crime crackdown",
+          "link": "https://www.aljazeera.com/news/2026/4/18/mexico-arrests-suspected-hungarian-drug-trafficker-amid-crime-crackdown?traffic_source=rss",
+          "published": "Sat, 18 Apr 2026 19:05:04 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Sudanese refugees trapped between borders and bureaucracy in Morocco",
+          "link": "https://www.aljazeera.com/features/longform/2026/4/18/sudanese-refugees-trapped-between-borders-and-bureaucracy-in-morocco?traffic_source=rss",
+          "published": "Sat, 18 Apr 2026 18:51:05 +0000"
         },
         {
           "source": "Al Jazeera",
@@ -116,24 +134,6 @@
           "title": "Trump joined by Joe Rogan as he signs order to speed up psychedelic review",
           "link": "https://www.aljazeera.com/news/2026/4/18/trump-joined-by-joe-rogan-as-he-signs-order-to-speed-up-psychedelic-review?traffic_source=rss",
           "published": "Sat, 18 Apr 2026 17:46:57 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "‘No regrets’: Venezuela’s Machado defends giving Nobel medal to Trump",
-          "link": "https://www.aljazeera.com/news/2026/4/18/no-regrets-venezuelas-machado-defends-giving-nobel-medal-to-trump?traffic_source=rss",
-          "published": "Sat, 18 Apr 2026 16:08:43 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "LIVE: Chelsea vs Manchester United – Premier League",
-          "link": "https://www.aljazeera.com/sports/liveblog/2026/4/18/live-chelsea-vs-manchester-united-english-premier-league?traffic_source=rss",
-          "published": "Sat, 18 Apr 2026 16:01:00 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "“Lords of war.” Brazil’s president condemns UN Security Council",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/18/lords-of-war-brazils-president-condemns-un-security?traffic_source=rss",
-          "published": "Sat, 18 Apr 2026 15:30:28 +0000"
         }
       ]
     }
