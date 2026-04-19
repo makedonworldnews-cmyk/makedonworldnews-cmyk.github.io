@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-19T21:54:09Z",
+  "updatedAt": "2026-04-19T22:36:46Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Македонија ќе биде домаќин на 30-то генерално собрание на ЕУРОСАФ",
+          "link": "https://makfax.com.mk/sport/makedonija-ke-bide-domakin-na-30-to-generalno-sobranie-na-eurosaf/",
+          "published": "Sun, 19 Apr 2026 22:01:56 +0000"
         },
         {
           "source": "Makfax",
@@ -33,12 +39,6 @@
           "title": "Доделена наградата за најдобар млад џез-музичар „Гоце Димитровски“на Христијан Ристески",
           "link": "https://makfax.com.mk/kultura/dodelena-nagradata-za-najdobar-mlad-dhez-muzichar-goce-dimitrovskina-hristijan-risteski/",
           "published": "Sun, 19 Apr 2026 19:11:48 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Борисов: Изборите одлучуваат кој е прв, но преговорите ќе одлучат кој ќе владее",
-          "link": "https://makfax.com.mk/svet/region/borisov-izborite-odluchuvaat-koj-e-prv-no-pregovorite-ke-odluchat-koj-ke-vladee/",
-          "published": "Sun, 19 Apr 2026 19:05:26 +0000"
         },
         {
           "source": "NetPress",
@@ -85,7 +85,7 @@
           "source": "BBC",
           "title": "Eight children killed in Louisiana shooting, police say",
           "link": "https://www.bbc.com/news/articles/c0q9v1p2dd2o?at_medium=RSS&at_campaign=rss",
-          "published": "Sun, 19 Apr 2026 19:22:44 GMT"
+          "published": "Sun, 19 Apr 2026 22:24:00 GMT"
         },
         {
           "source": "BBC",
@@ -107,6 +107,12 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "US forces attack and seize Iranian ship Touska near Strait of Hormuz",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/19/us-forces-attack-and-seize-iranian-ship-touska-near-strait-of-hormuz?traffic_source=rss",
+          "published": "Sun, 19 Apr 2026 21:53:29 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Argentina’s Milei backs US-Israel war on Iran in Jerusalem visit",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/4/19/argentinas-milei-backs-us-israel-war-on-iran-in-jerusalem-visit?traffic_source=rss",
           "published": "Sun, 19 Apr 2026 21:23:19 +0000"
@@ -125,15 +131,9 @@
         },
         {
           "source": "Al Jazeera",
-          "title": "Who will shape the global agenda – the left or far right?",
+          "title": "Who will shape the global agenda, the left or far right?",
           "link": "https://www.aljazeera.com/video/inside-story/2026/4/19/who-will-shape-the-global-agenda-the-left-or-far-right?traffic_source=rss",
           "published": "Sun, 19 Apr 2026 20:54:32 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "With loss at Man City, have Arsenal lost their grip on the Premier League?",
-          "link": "https://www.aljazeera.com/sports/2026/4/19/with-loss-at-man-city-have-arsenal-lost-their-grip-on-the-premier-league?traffic_source=rss",
-          "published": "Sun, 19 Apr 2026 20:49:52 +0000"
         }
       ]
     }
