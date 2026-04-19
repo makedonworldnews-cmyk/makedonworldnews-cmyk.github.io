@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-19T15:52:00Z",
+  "updatedAt": "2026-04-19T16:41:35Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,24 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Тивки навики што го рушат бракот: Малите работи што прават голема штета",
+          "link": "https://makfax.com.mk/zanimlivosti/tivki-naviki-shto-go-rushat-brakot-malite-raboti-shto-pravat-golema-shteta/",
+          "published": "Sun, 19 Apr 2026 16:40:32 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Четири хороскопски знаци на прагот на финансиски пресврт: Крајот на април носи пари и нови шанси",
+          "link": "https://makfax.com.mk/zanimlivosti/chetiri-horoskopski-znaci-na-pragot-na-finansiski-presvrt-krajot-na-april-nosi-pari-i-novi-shansi/",
+          "published": "Sun, 19 Apr 2026 16:27:41 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Невреме со град и силен ветер ја зафати Словенија",
+          "link": "https://makfax.com.mk/svet/region/nevreme-so-grad-i-silen-veter-ja-zafati-slovenija/",
+          "published": "Sun, 19 Apr 2026 16:15:15 +0000"
         },
         {
           "source": "Makfax",
@@ -23,52 +41,34 @@
           "published": "Sun, 19 Apr 2026 15:28:56 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "(Видео) Ван Дајк во 100-та минута го реши Мерсисајд дербито",
-          "link": "https://makfax.com.mk/sport/video-van-dajk-vo-100-ta-minuta-go-reshi-mersisajd-derbito/",
-          "published": "Sun, 19 Apr 2026 15:21:56 +0000"
+          "source": "NetPress",
+          "title": "Стерјо Папули е новиот лидер на Партијата на власите од Македонија",
+          "link": "https://netpress.com.mk/sterjo-papuli-e-noviot-lider-na-partijata-na-vlasite-od-makedonija/",
+          "published": "Sun, 19 Apr 2026 16:24:59 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "ЕУ има план за енергетската криза, „Политико“ имал увид во документот",
-          "link": "https://makfax.com.mk/svet/eu-ima-plan-za-energetskata-kriza-politiko-imal-uvid-vo-dokumentot/",
-          "published": "Sun, 19 Apr 2026 14:41:14 +0000"
+          "source": "NetPress",
+          "title": "Ги малтретирал неговата партнерка и нејзините деца, па им се заканувал",
+          "link": "https://netpress.com.mk/gi-maltretiral-negovata-partnerka-i-nejzinite-decza-pa-im-se-zakanuval/",
+          "published": "Sun, 19 Apr 2026 16:20:13 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Џуди Грир: Немав ни за паркинг, Метју Меконахи ми позајми 20 долари",
-          "link": "https://makfax.com.mk/zanimlivosti/dhudi-grir-nemav-ni-za-parking-metju-mekonahi-mi-pozajmi-20-dolari/",
-          "published": "Sun, 19 Apr 2026 14:35:34 +0000"
+          "source": "NetPress",
+          "title": "Џеј Ди Венс нема да ја предводи американската делегација на втората рунда преговори со Иран",
+          "link": "https://netpress.com.mk/dhej-di-vens-nema-da-ja-predvodi-amerikanskata-delegaczija-na-vtorata-runda-pregovori-so-iran/",
+          "published": "Sun, 19 Apr 2026 16:16:31 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Белорусија е подготвена за голем договор со САД",
+          "link": "https://netpress.com.mk/belorusija-e-podgotvena-za-golem-dogovor-so-sad/",
+          "published": "Sun, 19 Apr 2026 16:14:07 +0000"
         },
         {
           "source": "NetPress",
           "title": "Малолетник додека возел велосипед удрен е од товарно возило",
           "link": "https://netpress.com.mk/maloletnik-dodeka-vozel-velosiped-udren-e-od-tovarno-vozilo/",
           "published": "Sun, 19 Apr 2026 14:52:31 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Делови од Сопиште и Карпош утре без струја",
-          "link": "https://netpress.com.mk/delovi-od-sopishte-i-karposh-utre-bez-struja/",
-          "published": "Sun, 19 Apr 2026 14:50:17 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Пожар во село во Малезија, уништени се илјада куќи и илјада луѓе се раселени",
-          "link": "https://netpress.com.mk/pozhar-vo-selo-vo-malezija-unishteni-se-iljada-kuki-i-iljada-luge-se-raseleni/",
-          "published": "Sun, 19 Apr 2026 14:33:43 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Трамп го обвинува Иран за сериозно прекршување на примирјето, но американските претставници в понедленик ќе бидат во Пакистан",
-          "link": "https://netpress.com.mk/tramp-go-obvinuva-iran-za-seriozno-prekrshuvane-na-primirjeto-no-amerikanskite-pretstavniczi-v-ponedlenik-ke-bidat-vo-pakistan/",
-          "published": "Sun, 19 Apr 2026 14:31:15 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "МОК го одржа традиционалниот Олимписки пикник во знакот на спортот и пријателството",
-          "link": "https://netpress.com.mk/mok-go-odrzha-tradiczionalniot-olimpiski-piknik-vo-znakot-na-sportot-i-prijatelstvoto/",
-          "published": "Sun, 19 Apr 2026 13:52:18 +0000"
         }
       ]
     },
@@ -101,9 +101,15 @@
         },
         {
           "source": "BBC",
-          "title": "Bodies of 50 infants dumped at Trinidad graveyard",
-          "link": "https://www.bbc.com/news/articles/ce8jl1271pjo?at_medium=RSS&at_campaign=rss",
-          "published": "Sun, 19 Apr 2026 07:49:45 GMT"
+          "title": "Thousands of Parisians evacuated as WW2 bomb detonated",
+          "link": "https://www.bbc.com/news/articles/c4gxv3874vjo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 19 Apr 2026 15:50:48 GMT"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Satellite images reveal Israel expanding Gaza military sites",
+          "link": "https://www.aljazeera.com/news/2026/4/19/satellite-images-reveal-israel-expanding-gaza-military-sites?traffic_source=rss",
+          "published": "Sun, 19 Apr 2026 15:38:52 +0000"
         },
         {
           "source": "Al Jazeera",
@@ -128,12 +134,6 @@
           "title": "Trump says US negotiators to head to Pakistan for Iran talks",
           "link": "https://www.aljazeera.com/news/2026/4/19/trump-says-us-negotiators-will-head-to-pakistan-for-iran-ceasefire-talks?traffic_source=rss",
           "published": "Sun, 19 Apr 2026 12:38:11 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Peru says presidential election results due by mid-May after delayed count",
-          "link": "https://www.aljazeera.com/news/2026/4/19/peru-says-presidential-election-results-due-by-mid-may-after-delayed-count?traffic_source=rss",
-          "published": "Sun, 19 Apr 2026 12:07:39 +0000"
         }
       ]
     }
