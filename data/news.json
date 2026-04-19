@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-19T11:35:19Z",
+  "updatedAt": "2026-04-19T12:01:54Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Пријава за малтретирање и закани: тетовец под истрага за насилство врз партнерка и деца",
+          "link": "https://makfax.com.mk/crna-hronika/prijava-za-maltretiranje-i-zakani-tetovec-pod-istraga-za-nasilstvo-vrz-partnerka-i-deca/",
+          "published": "Sun, 19 Apr 2026 11:51:34 +0000"
         },
         {
           "source": "Makfax",
@@ -33,12 +39,6 @@
           "title": "„Волстрит журнал“: Трамп со часови викал на советниците поради соборен авион",
           "link": "https://makfax.com.mk/svet/volstrit-zhurnal-tramp-so-chasovi-vikal-na-sovetnicite-poradi-soboren-avion/",
           "published": "Sun, 19 Apr 2026 10:21:32 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Шефот на иранскиот парламент: Американците го блокира Oрмускиот теснец, каква глупава и неразумна одлука",
-          "link": "https://makfax.com.mk/svet/shefot-na-iranskiot-parlament-amerikancite-go-blokira-ormuskiot-tesnec-kakva-glupava-i-nerazumna-odluka/",
-          "published": "Sun, 19 Apr 2026 10:11:19 +0000"
         },
         {
           "source": "NetPress",
@@ -107,33 +107,33 @@
         },
         {
           "source": "Al Jazeera",
-          "title": "Humanoid robot breaks half marathon world record in Beijing",
-          "link": "https://www.aljazeera.com/sports/2026/4/19/humanoid-robot-breaks-half-marathon-world-record-in-beijing?traffic_source=rss",
-          "published": "Sun, 19 Apr 2026 11:07:51 +0000"
+          "title": "Pope Leo tells Angola during huge Mass to ‘build hope’",
+          "link": "https://www.aljazeera.com/news/2026/4/19/pope-leo-tells-angola-during-huge-mass-to-build-hope?traffic_source=rss",
+          "published": "Sun, 19 Apr 2026 11:45:48 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Australia and Japan sign contracts for $7bn warships deal",
-          "link": "https://www.aljazeera.com/economy/2026/4/19/australia-and-japan-sign-contracts-for-7bn-warships-deal?traffic_source=rss",
-          "published": "Sun, 19 Apr 2026 10:57:56 +0000"
+          "title": "Iran war: 10 frequently used words and their meanings",
+          "link": "https://www.aljazeera.com/news/2026/4/19/iran-war-10-frequently-used-words-and-their-meanings?traffic_source=rss",
+          "published": "Sun, 19 Apr 2026 11:40:06 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "The GCC has unity, it now needs joint defence and development",
-          "link": "https://www.aljazeera.com/opinions/2026/4/19/the-gcc-has-unity-it-now-needs-joint-defence-and-development?traffic_source=rss",
-          "published": "Sun, 19 Apr 2026 10:32:42 +0000"
+          "title": "LIVE: Manchester City vs Arsenal – Premier League",
+          "link": "https://www.aljazeera.com/sports/liveblog/2026/4/19/live-manchester-city-vs-arsenal-premier-league-2?traffic_source=rss",
+          "published": "Sun, 19 Apr 2026 11:36:20 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Displaced Lebanese families return home despite Israeli attacks",
-          "link": "https://www.aljazeera.com/gallery/2026/4/19/displaced-lebanese-families-return-south-despite-risks-near-israeli-border?traffic_source=rss",
-          "published": "Sun, 19 Apr 2026 10:11:31 +0000"
+          "title": "Does the world need new leaders? Varsha Gandikota & Naledi Pandor",
+          "link": "https://www.aljazeera.com/video/reframe/2026/4/19/does-the-world-need-new-leaders-varsha-gandikota-naledi-pandor?traffic_source=rss",
+          "published": "Sun, 19 Apr 2026 11:32:55 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Humanoid robots speed past humans in Beijing half-marathon",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/19/humanoid-robots-speed-past-humans-in-beijing-half-marathon?traffic_source=rss",
-          "published": "Sun, 19 Apr 2026 10:04:26 +0000"
+          "title": "Iran warns Hormuz will stay shut unless US lifts siege on its ports",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/19/iran-warns-hormuz-will-stay-shut-unless-us-lifts-siege-on-its-ports?traffic_source=rss",
+          "published": "Sun, 19 Apr 2026 11:31:31 +0000"
         }
       ]
     }
