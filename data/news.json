@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-19T19:51:16Z",
+  "updatedAt": "2026-04-19T20:39:07Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,24 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Артета: Премиер лигата повторно започна",
+          "link": "https://makfax.com.mk/sport/arteta-premier-ligata-povtorno-zapochna/",
+          "published": "Sun, 19 Apr 2026 20:18:59 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "ГРК Охрид се исплаши од победата, Вардар 1961 го освои Купот на Македонија",
+          "link": "https://makfax.com.mk/sport/grk-ohrid-se-isplashi-od-pobedata-vardar-1961-go-osvoi-kupot-na-makedonija/",
+          "published": "Sun, 19 Apr 2026 20:04:57 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Радев: Победата е прв чекор кон враќање на довербата",
+          "link": "https://makfax.com.mk/svet/region/radev-pobedata-e-prv-chekor-kon-vrakanje-na-doverbata/",
+          "published": "Sun, 19 Apr 2026 20:01:23 +0000"
         },
         {
           "source": "Makfax",
@@ -23,22 +41,22 @@
           "published": "Sun, 19 Apr 2026 19:05:26 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Вучиќ му честиташе на Радев: „Овој резултат ќе биде можност за зајакнување на стабилноста и напредокот“",
-          "link": "https://makfax.com.mk/svet/region/vuchik-mu-chestitashe-na-radev-ovoj-rezultat-ke-bide-mozhnost-za-zajaknuvanje-na-stabilnosta-i-napredokot/",
-          "published": "Sun, 19 Apr 2026 18:58:40 +0000"
+          "source": "NetPress",
+          "title": "Невреме во Словенија",
+          "link": "https://netpress.com.mk/nevreme-vo-slovenija/",
+          "published": "Sun, 19 Apr 2026 20:16:51 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Нетанјаху: Војната не е завршена",
-          "link": "https://makfax.com.mk/svet/netanjahu-vojnata-ne-e-zavrshena/",
-          "published": "Sun, 19 Apr 2026 18:54:41 +0000"
+          "source": "NetPress",
+          "title": "СДСМ бараат референдум, градоначалникот од нивните редови со поддршка за рудникот",
+          "link": "https://netpress.com.mk/sdsm-baraat-referendum-gradonachalnikot-od-nivnite-redovi-so-poddrshka-za-rudnikot/",
+          "published": "Sun, 19 Apr 2026 20:04:41 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Румен Радев победи на изборите во Бугарија, според излезните анкети, но неизвесно е дали ќе успее да формира стабилна Влада",
-          "link": "https://makfax.com.mk/svet/region/rumen-radev-pobedi-na-izborite-vo-bugarija-spored-izleznite-anketi-no-neizvesno-e-dali-ke-uspee-da-formira-stabilna-vlada/",
-          "published": "Sun, 19 Apr 2026 18:25:20 +0000"
+          "source": "NetPress",
+          "title": "Изборите одлучуваат кој е прв, но преговорите ќе одлучат кој ќе владее, оцени Борисов",
+          "link": "https://netpress.com.mk/izborite-odluchuvaat-koj-e-prv-no-pregovorite-ke-odluchat-koj-ke-vladee-oczeni-borisov/",
+          "published": "Sun, 19 Apr 2026 19:56:57 +0000"
         },
         {
           "source": "NetPress",
@@ -51,24 +69,6 @@
           "title": "Иранското раководство ја одбива втората рунда разговори со САД во Исламбад",
           "link": "https://netpress.com.mk/1068979-2/",
           "published": "Sun, 19 Apr 2026 18:56:17 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Кац: ИДФ доби наредба да употреби целосна сила во Либан",
-          "link": "https://netpress.com.mk/kacz-idf-dobi-naredba-da-upotrebi-czelosna-sila-vo-liban/",
-          "published": "Sun, 19 Apr 2026 18:50:45 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Шпанија во вторник ќе побара од ЕУ да го раскине договорот со Израел",
-          "link": "https://netpress.com.mk/shpanija-vo-vtornik-ke-pobara-od-eu-da-go-raskine-dogovorot-so-izrael/",
-          "published": "Sun, 19 Apr 2026 18:47:32 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Партијата на Румен Радев е победник на изборите во Бугарија",
-          "link": "https://netpress.com.mk/partijata-na-rumen-radev-e-pobednik-na-izborite-vo-bugarija/",
-          "published": "Sun, 19 Apr 2026 18:41:25 +0000"
         }
       ]
     },
@@ -107,6 +107,12 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Trump says US seized Iran-flagged ship trying to get past Hormuz blockade",
+          "link": "https://www.aljazeera.com/news/2026/4/19/trump-says-us-seized-iran-flagged-ship-trying-to-get-past-hormuz-blockade?traffic_source=rss",
+          "published": "Sun, 19 Apr 2026 19:52:20 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Salah scores in Merseyside derby as Liverpool win to boost European hopes",
           "link": "https://www.aljazeera.com/sports/2026/4/19/salah-scores-in-merseyside-derby-as-liverpool-win-to-boost-european-hopes?traffic_source=rss",
           "published": "Sun, 19 Apr 2026 19:33:39 +0000"
@@ -128,12 +134,6 @@
           "title": "Man City beat Arsenal 2-1, cut Premier League race to three points",
           "link": "https://www.aljazeera.com/sports/2026/4/19/man-city-beat-arsenal-2-1-cut-premier-league-race-to-three-points?traffic_source=rss",
           "published": "Sun, 19 Apr 2026 18:47:52 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Iran and Israel: From friends to enemies",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/19/iran-and-israel-from-friends-to-enemies?traffic_source=rss",
-          "published": "Sun, 19 Apr 2026 18:02:17 +0000"
         }
       ]
     }
