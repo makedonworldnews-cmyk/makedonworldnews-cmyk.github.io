@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-19T09:58:26Z",
+  "updatedAt": "2026-04-19T10:52:08Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,24 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Мицкоски: Меѓу првите три сме во Европа според примена на мерки за ценовните шокови",
+          "link": "https://makfax.com.mk/top/mickoski-megu-prvite-tri-sme-vo-evropa-spored-primena-na-merki-za-cenovnite-shokovi/",
+          "published": "Sun, 19 Apr 2026 10:42:41 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "„Волстрит журнал“: Трамп со часови викал на советниците поради соборен авион",
+          "link": "https://makfax.com.mk/svet/volstrit-zhurnal-tramp-so-chasovi-vikal-na-sovetnicite-poradi-soboren-avion/",
+          "published": "Sun, 19 Apr 2026 10:21:32 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Шефот на иранскиот парламент: Американците го блокира Oрмускиот теснец, каква глупава и неразумна одлука",
+          "link": "https://makfax.com.mk/svet/shefot-na-iranskiot-parlament-amerikancite-go-blokira-ormuskiot-tesnec-kakva-glupava-i-nerazumna-odluka/",
+          "published": "Sun, 19 Apr 2026 10:11:19 +0000"
         },
         {
           "source": "Makfax",
@@ -23,52 +41,34 @@
           "published": "Sun, 19 Apr 2026 09:50:34 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "(Видео) Падобранец удри во семафор на стадион во САД, натпреварот одложен",
-          "link": "https://makfax.com.mk/svet/video-padobranec-udri-vo-semafor-na-stadion-vo-sad-natprevarot-odlozhen/",
-          "published": "Sun, 19 Apr 2026 09:46:37 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Отров за стаорци во бебешка храна: Австрија со итно предупредување, се повлекуваат производи",
-          "link": "https://makfax.com.mk/svet/otrov-za-staorci-vo-bebeshka-hrana-avstrija-so-itno-predupreduvanje-se-povlekuvaat-proizvodi/",
-          "published": "Sun, 19 Apr 2026 09:26:12 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Поранешниот сопруг на Џенифер Анистон и неговата 22 години помлада сопруга добија дете",
-          "link": "https://makfax.com.mk/zanimlivosti/poraneshniot-soprug-na-dhenifer-aniston-i-negovata-22-godini-pomlada-sopruga-dobija-dete/",
-          "published": "Sun, 19 Apr 2026 09:04:10 +0000"
+          "source": "NetPress",
+          "title": "Грозоморно злоставување во Гостивар: Брат ја силувал малолетната сестра, а таткото ја малтретирал",
+          "link": "https://netpress.com.mk/grozomorno-zlostavuvane-vo-gostivar-brat-ja-siluval-maloletnata-sestra-a-tatkoto-ja-maltretiral/",
+          "published": "Sun, 19 Apr 2026 10:42:10 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Скратена казната затвор за судијата Наќе Георгиев, летово ќе излезе на слобода",
-          "link": "https://netpress.com.mk/skratena-kaznata-zatvor-za-sudijata-nake-georgiev-letovo-ke-izleze-na-sloboda/",
-          "published": "Sun, 19 Apr 2026 09:54:20 +0000"
+          "title": "Украина неутрализирала 203 од 236 дронови што Русија ги користела за напад во текот на ноќта",
+          "link": "https://netpress.com.mk/ukraina-neutralizirala-203-od-236-dronovi-shto-rusija-gi-koristela-za-napad-vo-tekot-na-nokta/",
+          "published": "Sun, 19 Apr 2026 10:27:36 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Дојави за бомби во трговски центри Ист гејт и Дајмонд, полицијата прaви проверки",
-          "link": "https://netpress.com.mk/dojavi-za-bombi-vo-trgovski-czentri-ist-gejt-i-dajmond-policzijata-parvi-proverki/",
-          "published": "Sun, 19 Apr 2026 09:46:10 +0000"
+          "title": "Исполнета политичка агенда на маргините на Анталија Дипломатскиот Форум",
+          "link": "https://netpress.com.mk/ispolneta-politichka-agenda-na-marginite-na-antalija-diplomatskiot-forum/",
+          "published": "Sun, 19 Apr 2026 10:25:02 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Извонреден настап на Дарио Ивановски – второ место на Белградски маратон!",
-          "link": "https://netpress.com.mk/izvonreden-nastap-na-dario-ivanovski-vtoro-mesto-na-belgradski-maraton/",
-          "published": "Sun, 19 Apr 2026 09:29:47 +0000"
+          "title": "Мицкоски е благо разочаран што само 250 македонски Бугари ќе гласаат на изборите во Бугарија",
+          "link": "https://netpress.com.mk/miczkoski-e-blago-razocharan-shto-samo-250-makedonski-bugari-ke-glasaat-na-izborite-vo-bugarija/",
+          "published": "Sun, 19 Apr 2026 10:21:54 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Акција на Водовод Скопје – плаќање долгови без камата до 5 јуни",
-          "link": "https://netpress.com.mk/akczija-na-vodovod-skopje-plakane-dolgovi-bez-kamata-do-5-juni/",
-          "published": "Sun, 19 Apr 2026 09:26:31 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "На кој јазик синот на Талат Џафери го положи правосудниот испит?!",
-          "link": "https://netpress.com.mk/na-koj-jazik-sinot-na-talat-dhaferi-go-polozhi-pravosudniot-ispit/",
-          "published": "Sun, 19 Apr 2026 09:24:08 +0000"
+          "title": "Мицкоски очекува бензините и дизел горивото да поефтинат за 1,5 денари",
+          "link": "https://netpress.com.mk/miczkoski-ochekuva-benzinite-i-dizel-gorivoto-da-poeftinat-za-15-denari/",
+          "published": "Sun, 19 Apr 2026 10:18:39 +0000"
         }
       ]
     },
@@ -101,9 +101,27 @@
         },
         {
           "source": "BBC",
-          "title": "Harry and Meghan's trip felt like a royal tour - except many Aussies weren't interested",
-          "link": "https://www.bbc.com/news/articles/cwyx014e2wqo?at_medium=RSS&at_campaign=rss",
-          "published": "Sat, 18 Apr 2026 23:09:30 GMT"
+          "title": "Zelensky condemns US extension of Russian sanctions waiver",
+          "link": "https://www.bbc.com/news/articles/c248m3z49j1o?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 19 Apr 2026 09:55:22 GMT"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Displaced Lebanese families return home despite Israeli attacks",
+          "link": "https://www.aljazeera.com/gallery/2026/4/19/displaced-lebanese-families-return-south-despite-risks-near-israeli-border?traffic_source=rss",
+          "published": "Sun, 19 Apr 2026 10:11:31 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Humanoid robots speed past humans in Beijing half-marathon",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/19/humanoid-robots-speed-past-humans-in-beijing-half-marathon?traffic_source=rss",
+          "published": "Sun, 19 Apr 2026 10:04:26 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Fire razes 200 homes in Sabah, leaving hundreds homeless",
+          "link": "https://www.aljazeera.com/news/2026/4/19/fire-razes-200-homes-in-sabah-leaving-hundreds-homeless?traffic_source=rss",
+          "published": "Sun, 19 Apr 2026 09:50:44 +0000"
         },
         {
           "source": "Al Jazeera",
@@ -116,24 +134,6 @@
           "title": "How the Israeli military targets the people who save lives",
           "link": "https://www.aljazeera.com/video/by-the-numbers-3/2026/4/19/how-the-israeli-military-targets-the-people-who-save-lives?traffic_source=rss",
           "published": "Sun, 19 Apr 2026 09:12:24 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Iran, US still ‘far’ from breakthrough amid Strait of Hormuz impasse",
-          "link": "https://www.aljazeera.com/news/2026/4/19/iran-us-still-far-from-breakthrough-in-strait-of-hormuz-impasse?traffic_source=rss",
-          "published": "Sun, 19 Apr 2026 08:49:19 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Lionel Messi scores twice as Inter Miami defeat Rapids in MLS",
-          "link": "https://www.aljazeera.com/sports/2026/4/19/lionel-messi-scores-twice-as-inter-miami-defeat-rapids-in-mls?traffic_source=rss",
-          "published": "Sun, 19 Apr 2026 08:05:28 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Fire engulfs more than 200 homes in Malaysian floating village",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/19/fire-engulfs-more-than-200-homes-in-malaysian-floating-village?traffic_source=rss",
-          "published": "Sun, 19 Apr 2026 07:35:47 +0000"
         }
       ]
     }
