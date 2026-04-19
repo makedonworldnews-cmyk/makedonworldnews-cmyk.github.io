@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-19T08:05:43Z",
+  "updatedAt": "2026-04-19T09:05:09Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,24 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Поранешниот сопруг на Џенифер Анистон и неговата 22 години помлада сопруга добија дете",
+          "link": "https://makfax.com.mk/zanimlivosti/poraneshniot-soprug-na-dhenifer-aniston-i-negovata-22-godini-pomlada-sopruga-dobija-dete/",
+          "published": "Sun, 19 Apr 2026 09:04:10 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "СДСМ: Мицкоски намерно не праќа барање за екстрадиција на Груевски",
+          "link": "https://makfax.com.mk/makedonija/sdsm-mickoski-namerno-ne-praka-baranje-za-ekstradicija-na-gruevski/",
+          "published": "Sun, 19 Apr 2026 08:31:09 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Спасен живот на пациент со трансплантација на црн дроб",
+          "link": "https://makfax.com.mk/makedonija/spasen-zhivot-na-pacient-so-transplantacija-na-crn-drob/",
+          "published": "Sun, 19 Apr 2026 08:08:03 +0000"
         },
         {
           "source": "Makfax",
@@ -23,52 +41,34 @@
           "published": "Sun, 19 Apr 2026 06:39:35 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Русија подготвена да го отстрани збогатениот ураниум од Иран",
-          "link": "https://makfax.com.mk/svet/rusija-podgotvena-da-go-otstrani-zbogateniot-uranium-od-iran/",
-          "published": "Sun, 19 Apr 2026 06:37:47 +0000"
+          "source": "NetPress",
+          "title": "Земјотрес со јачина од 5,7 степени по Рихтер ја погоди Индонезија",
+          "link": "https://netpress.com.mk/zemjotres-so-jachina-od-57-stepeni-po-rihter-ja-pogodi-indonezija/",
+          "published": "Sun, 19 Apr 2026 08:32:03 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Бугарија во нов изборен круг: Осми избори за пет години, Радев се смета за фаворит",
-          "link": "https://makfax.com.mk/svet/region/bugarija-vo-nov-izboren-krug-osmi-izbori-za-pet-godini-radev-se-smeta-za-favorit/",
-          "published": "Sun, 19 Apr 2026 06:32:44 +0000"
+          "source": "NetPress",
+          "title": "Промоција на активностите и проектите по повод 100 години Скопје ЗОО",
+          "link": "https://netpress.com.mk/promoczija-na-aktivnostite-i-proektite-po-povod-100-godini-skopje-zoo/",
+          "published": "Sun, 19 Apr 2026 08:30:08 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "„Храбар и лојален сојузник“: Трамп го фали Израел, а индиректно ги напаѓа другите партнери",
-          "link": "https://makfax.com.mk/svet/hrabar-i-lojalen-sojuznik-tramp-go-fali-izrael-a-indirektno-gi-napaga-drugite-partneri/",
-          "published": "Sun, 19 Apr 2026 06:12:11 +0000"
+          "source": "NetPress",
+          "title": "Спасен живот на пациент со трансплантација на црн дроб и подобрен квалитет на живот кај пациент со трансплантиран бубрег",
+          "link": "https://netpress.com.mk/spasen-zhivot-na-paczient-so-transplantaczija-na-czrn-drob-i-podobren-kvalitet-na-zhivot-kaj-paczient-so-transplantiran-bubreg/",
+          "published": "Sun, 19 Apr 2026 08:27:55 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Заврши состанокот на Трамп со советниците за новата блокада на Ормуската теснина",
+          "link": "https://netpress.com.mk/zavrshi-sostanokot-na-tramp-so-sovetniczite-za-novata-blokada-na-ormuskata-tesnina/",
+          "published": "Sun, 19 Apr 2026 08:21:55 +0000"
         },
         {
           "source": "NetPress",
           "title": "Патувањето кон ЕУ сè покомплицирано, откако започна примената на новиот систем за евиденција на влез и излез (EES)",
           "link": "https://netpress.com.mk/patuvaneto-kon-eu-se-pokompliczirano-otkako-zapochna-primenata-na-noviot-sistem-za-evidenczija-na-vlez-i-izlez-ees/",
           "published": "Sun, 19 Apr 2026 08:03:25 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Отворени се гласачките места во Бугарија",
-          "link": "https://netpress.com.mk/otvoreni-se-glasachkite-mesta-vo-bugarija/",
-          "published": "Sun, 19 Apr 2026 07:58:05 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Финскиот возач Јуха Миетинен го загуби животот во страотен судир",
-          "link": "https://netpress.com.mk/finskiot-vozach-juha-mietinen-go-zagubi-zhivotot-vo-straoten-sudir/",
-          "published": "Sun, 19 Apr 2026 07:47:16 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Денес е упокоение на Свети Методиј Солунски",
-          "link": "https://netpress.com.mk/denes-e-upokoenie-na-sveti-metodij-solunski/",
-          "published": "Sun, 19 Apr 2026 07:42:32 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Во очајна потрага по добра вест Филипче слави победа на сестринска партија на ВМРО-ДПМНЕ",
-          "link": "https://netpress.com.mk/vo-ochajna-potraga-po-dobra-vest-filipche-slavi-pobeda-na-sestrinska-partija-na-vmro-dpmne/",
-          "published": "Sun, 19 Apr 2026 07:33:25 +0000"
         }
       ]
     },
@@ -77,7 +77,7 @@
       "items": [
         {
           "source": "BBC",
-          "title": "Australia's most-decorated soldier vows to 'fight' war crime charges",
+          "title": "Australia's most-decorated soldier vows to fight war crime charges",
           "link": "https://www.bbc.com/news/articles/cy91r7ww3weo?at_medium=RSS&at_campaign=rss",
           "published": "Sun, 19 Apr 2026 05:12:40 GMT"
         },
@@ -107,6 +107,12 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Lionel Messi scores twice as Inter Miami defeat Rapids in MLS",
+          "link": "https://www.aljazeera.com/sports/2026/4/19/lionel-messi-scores-twice-as-inter-miami-defeat-rapids-in-mls?traffic_source=rss",
+          "published": "Sun, 19 Apr 2026 08:05:28 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Fire engulfs more than 200 homes in Malaysian floating village",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/4/19/fire-engulfs-more-than-200-homes-in-malaysian-floating-village?traffic_source=rss",
           "published": "Sun, 19 Apr 2026 07:35:47 +0000"
@@ -128,12 +134,6 @@
           "title": "Why Britain’s far-right celebrates a saint revered in Palestine",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/4/19/why-britains-far-right-celebrates-a-saint-revered-in-palestine?traffic_source=rss",
           "published": "Sun, 19 Apr 2026 05:01:14 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "LeBron, Lakers shock Rockets with Game 1 win in NBA playoffs",
-          "link": "https://www.aljazeera.com/sports/2026/4/19/lebron-lakers-shock-rockets-with-game-1-win-in-nba-playoffs?traffic_source=rss",
-          "published": "Sun, 19 Apr 2026 03:48:42 +0000"
         }
       ]
     }
