@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-20T22:58:37Z",
+  "generated_at": "2026-04-20T23:43:32Z",
   "items": [
     {
       "region": "Македонија",
@@ -109,6 +109,13 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "Hungary’s incoming PM says Netanyahu would be arrested if he visits",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/20/hungarys-incoming-pm-says-netanyahu-would-be-arrested-if-he-visits?traffic_source=rss",
+      "published": "Mon, 20 Apr 2026 23:08:14 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "D4vd charged with murder of 14-year-old Celeste Rivas Hernandez",
       "link": "https://www.aljazeera.com/news/2026/4/20/d4vd-charged-with-murder-of-14-year-old-celeste-rivas-hernandez?traffic_source=rss",
       "published": "Mon, 20 Apr 2026 22:19:50 +0000"
@@ -133,13 +140,6 @@
       "title": "Fears over Ethiopia peace deal as TPLF restores Tigray government",
       "link": "https://www.aljazeera.com/news/2026/4/20/fears-over-ethiopia-peace-deal-as-tplf-restores-tigray-government?traffic_source=rss",
       "published": "Mon, 20 Apr 2026 22:05:23 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "EU eyes Ukraine loan, Israeli settler sanctions, after Hungarian election",
-      "link": "https://www.aljazeera.com/news/2026/4/20/eu-eyes-ukraine-loan-israeli-settler-sanctions-after-hungarian-election?traffic_source=rss",
-      "published": "Mon, 20 Apr 2026 21:30:55 +0000"
     }
   ]
 }
