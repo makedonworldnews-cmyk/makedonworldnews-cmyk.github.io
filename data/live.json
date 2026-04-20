@@ -1,6 +1,20 @@
 {
-  "generated_at": "2026-04-20T14:07:29Z",
+  "generated_at": "2026-04-20T15:40:57Z",
   "items": [
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "До среда нестабилно време со врнежи",
+      "link": "https://makfax.com.mk/makedonija/do-sreda-nestabilno-vreme-so-vrnezhi/",
+      "published": "Mon, 20 Apr 2026 15:38:00 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "ЗНАМ му честита на Радев: Очекуваме да се отвори простор за зрел дијалог",
+      "link": "https://makfax.com.mk/makedonija/znam-mu-chestita-na-radev-ochekuvame-da-se-otvori-prostor-za-zrel-dijalog/",
+      "published": "Mon, 20 Apr 2026 15:03:35 +0000"
+    },
     {
       "region": "Македонија",
       "source": "Makfax",
@@ -24,17 +38,31 @@
     },
     {
       "region": "Македонија",
-      "source": "Makfax",
-      "title": "Хaланд за судењето: Габриел требаше да добие црвен картон",
-      "link": "https://makfax.com.mk/sport/haland-za-sudenjeto-gabriel-trebashe-da-dobie-crven-karton/",
-      "published": "Mon, 20 Apr 2026 13:21:58 +0000"
+      "source": "NetPress",
+      "title": "Реформската агенда повеќе не е само план на хартија, нагласува Мицкоски, дава конкретни резултати",
+      "link": "https://netpress.com.mk/reformskata-agenda-poveke-ne-e-samo-plan-na-hartija-naglasuva-miczkoski-dava-konkretni-rezultati/",
+      "published": "Mon, 20 Apr 2026 15:17:38 +0000"
     },
     {
       "region": "Македонија",
-      "source": "Makfax",
-      "title": "(Фото) Свечено отворање на националната вежба „БЛЕСОК 26“ во кампот за обука „Пепелиште“",
-      "link": "https://makfax.com.mk/makedonija/foto-svecheno-otvoranje-na-nacionalnata-vezhba-blesok-26-vo-kampot-za-obuka-pepelishte/",
-      "published": "Mon, 20 Apr 2026 12:48:19 +0000"
+      "source": "NetPress",
+      "title": "Пациентите со ретки болести непречено и во континуитет ја примаат потребната терапија",
+      "link": "https://netpress.com.mk/paczientite-so-retki-bolesti-neprecheno-i-vo-kontinuitet-ja-primaat-potrebnata-terapija/",
+      "published": "Mon, 20 Apr 2026 15:12:27 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "NetPress",
+      "title": "Лавров: Брисел бара од Србија да испрати војска против Русија",
+      "link": "https://netpress.com.mk/lavrov-brisel-bara-od-srbija-da-isprati-vojska-protiv-rusija/",
+      "published": "Mon, 20 Apr 2026 15:06:11 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "NetPress",
+      "title": "Кошта и фон дер Лајен му честитаа на Радев за изборната победа",
+      "link": "https://netpress.com.mk/koshta-i-fon-der-lajen-mu-chestitaa-na-radev-za-izbornata-pobeda/",
+      "published": "Mon, 20 Apr 2026 14:26:08 +0000"
     },
     {
       "region": "Македонија",
@@ -44,39 +72,11 @@
       "published": "Mon, 20 Apr 2026 13:58:20 +0000"
     },
     {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "ФФМ го суспендираше стадионот „Башкими“ во Куманово – Покрената дисциплинска постапка",
-      "link": "https://netpress.com.mk/ffm-go-suspendirashe-stadionot-bashkimi-vo-kumanovo-pokrenata-discziplinska-postapka/",
-      "published": "Mon, 20 Apr 2026 13:57:58 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Уапсени 14 возачи – Возеле пијани, брзо и во спротивна насока",
-      "link": "https://netpress.com.mk/uapseni-14-vozachi-vozele-pijani-brzo-i-vo-sprotivna-nasoka/",
-      "published": "Mon, 20 Apr 2026 13:40:16 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Се намалуваат цените на горивата",
-      "link": "https://netpress.com.mk/se-namaluvaat-czenite-na-gorivata/",
-      "published": "Mon, 20 Apr 2026 13:27:44 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Судијата Ристов лично заѕидал 350.000 евра – Пронајдени траги од неговата ДНК",
-      "link": "https://netpress.com.mk/sudijata-ristov-lichno-zazidal-350-000-evra-pronajdeni-tragi-od-negovata-dnk/",
-      "published": "Mon, 20 Apr 2026 13:25:16 +0000"
-    },
-    {
       "region": "Свет",
       "source": "BBC",
       "title": "Japan on high alert for 'huge' second quake after issuing tsunami warning",
       "link": "https://www.bbc.com/news/articles/czd7m7d699do?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 20 Apr 2026 12:53:36 GMT"
+      "published": "Mon, 20 Apr 2026 14:54:21 GMT"
     },
     {
       "region": "Свет",
@@ -90,7 +90,7 @@
       "source": "BBC",
       "title": "Oil prices rise after Trump says Iranian ship seized",
       "link": "https://www.bbc.com/news/articles/c5yjzy35825o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 20 Apr 2026 11:23:04 GMT"
+      "published": "Mon, 20 Apr 2026 14:41:33 GMT"
     },
     {
       "region": "Свет",
@@ -102,9 +102,30 @@
     {
       "region": "Свет",
       "source": "BBC",
-      "title": "Ukraine police chief resigns after officers allegedly fled deadly shooting",
-      "link": "https://www.bbc.com/news/articles/c8ejn778j4do?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 19 Apr 2026 17:48:41 GMT"
+      "title": "Trump tariff refunds begin but consumers likely to miss out",
+      "link": "https://www.bbc.com/news/articles/c7vqgge5g8lo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 20 Apr 2026 14:49:58 GMT"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "‘Israel never talked me into the war with Iran,’ Trump says",
+      "link": "https://www.aljazeera.com/news/2026/4/20/israel-never-talked-me-into-the-war-with-iran-trump-says?traffic_source=rss",
+      "published": "Mon, 20 Apr 2026 15:23:02 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Bulgaria’s former President Radev wins election: All you need to know",
+      "link": "https://www.aljazeera.com/news/2026/4/20/bulgarias-former-president-radev-wins-election-all-you-need-to-know?traffic_source=rss",
+      "published": "Mon, 20 Apr 2026 14:43:42 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Cloud over US-Iran talks: What are the key sticking points?",
+      "link": "https://www.aljazeera.com/news/2026/4/20/cloud-over-us-iran-talks-what-are-the-key-sticking-points?traffic_source=rss",
+      "published": "Mon, 20 Apr 2026 13:51:57 +0000"
     },
     {
       "region": "Свет",
@@ -119,27 +140,6 @@
       "title": "Tight security in Islamabad as US-Iran talks set to go ahead",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/4/20/tight-security-in-islamabad-as-us-iran-talks-set-to-go-ahead?traffic_source=rss",
       "published": "Mon, 20 Apr 2026 13:09:52 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "India in ‘extremely high’ doping risk bracket: Athletics Integrity Unit",
-      "link": "https://www.aljazeera.com/sports/2026/4/20/india-in-extremely-high-doping-risk-bracket-athletics-integrity-unit?traffic_source=rss",
-      "published": "Mon, 20 Apr 2026 12:56:41 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "What we know about the US capture of Iranian vessel near Hormuz",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/20/what-we-know-about-the-us-capture-of-iranian-vessel-near-hormuz?traffic_source=rss",
-      "published": "Mon, 20 Apr 2026 12:43:02 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Iran says it has ‘no plans’ for negotiations with the US",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/20/iran-says-it-has-no-plans-for-negotiations-with-the-us?traffic_source=rss",
-      "published": "Mon, 20 Apr 2026 12:21:27 +0000"
     }
   ]
 }
