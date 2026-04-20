@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-19T23:56:54Z",
+  "updatedAt": "2026-04-20T03:30:22Z",
   "groups": [
     {
       "region": "Македонија",
@@ -79,13 +79,19 @@
           "source": "BBC",
           "title": "US intercepts and seizes Iranian-flagged cargo ship, Trump says",
           "link": "https://www.bbc.com/news/articles/c239500dx8ro?at_medium=RSS&at_campaign=rss",
-          "published": "Sun, 19 Apr 2026 21:39:43 GMT"
+          "published": "Mon, 20 Apr 2026 01:38:17 GMT"
         },
         {
           "source": "BBC",
           "title": "Eight children killed in Louisiana shooting, police say",
           "link": "https://www.bbc.com/news/articles/c0q9v1p2dd2o?at_medium=RSS&at_campaign=rss",
           "published": "Sun, 19 Apr 2026 22:54:51 GMT"
+        },
+        {
+          "source": "BBC",
+          "title": "Oil prices rise after Trump says Iranian ship seized",
+          "link": "https://www.bbc.com/news/articles/c5yjzy35825o?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 20 Apr 2026 02:29:04 GMT"
         },
         {
           "source": "BBC",
@@ -100,10 +106,22 @@
           "published": "Sun, 19 Apr 2026 17:48:41 GMT"
         },
         {
-          "source": "BBC",
-          "title": "Rat poison found in HiPP baby food jar in Austria, police say",
-          "link": "https://www.bbc.com/news/articles/cvg07lq5ql4o?at_medium=RSS&at_campaign=rss",
-          "published": "Sun, 19 Apr 2026 12:52:26 GMT"
+          "source": "Al Jazeera",
+          "title": "Oil prices surge amid mixed signals on US-Iran peace talks",
+          "link": "https://www.aljazeera.com/economy/2026/4/20/oil-prices-surge-amid-mixed-signals-on-us-iran-peace-talks?traffic_source=rss",
+          "published": "Mon, 20 Apr 2026 02:41:14 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "What’s behind the US army’s decision to raise enlistment age to 42?",
+          "link": "https://www.aljazeera.com/news/2026/4/20/whats-behind-the-us-armys-decision-to-raise-enlistment-age-to-42?traffic_source=rss",
+          "published": "Mon, 20 Apr 2026 00:57:58 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Iran war live: Tehran slams US ‘piracy’ after ship seizure, vows response",
+          "link": "https://www.aljazeera.com/news/liveblog/2026/4/20/iran-war-live-tehran-slams-uss-piracy-after-ship-seizure-vows-response?traffic_source=rss",
+          "published": "Mon, 20 Apr 2026 00:00:00 +0000"
         },
         {
           "source": "Al Jazeera",
@@ -116,24 +134,6 @@
           "title": "US forces attack and seize Iranian ship Touska near Strait of Hormuz",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/4/19/us-forces-attack-and-seize-iranian-ship-touska-near-strait-of-hormuz?traffic_source=rss",
           "published": "Sun, 19 Apr 2026 21:53:29 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Argentina’s Milei backs US-Israel war on Iran in Jerusalem visit",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/19/argentinas-milei-backs-us-israel-war-on-iran-in-jerusalem-visit?traffic_source=rss",
-          "published": "Sun, 19 Apr 2026 21:23:19 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Schools, shops shut in northern Israel to protest the Lebanon ceasefire",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/19/schools-shops-shut-in-northern-israel-to-protest-the-lebanon-ceasefire?traffic_source=rss",
-          "published": "Sun, 19 Apr 2026 21:21:51 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Protesters defy Berlin rain to call for end to global wars",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/19/protesters-defy-berlin-rain-to-call-for-end-to-global-wars?traffic_source=rss",
-          "published": "Sun, 19 Apr 2026 21:01:15 +0000"
         }
       ]
     }
