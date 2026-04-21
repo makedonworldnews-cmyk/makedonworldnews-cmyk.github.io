@@ -1,6 +1,27 @@
 {
-  "generated_at": "2026-04-21T01:10:06Z",
+  "generated_at": "2026-04-21T04:20:14Z",
   "items": [
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "Без вода денеска дел од Центар",
+      "link": "https://makfax.com.mk/makedonija/bez-voda-deneska-del-od-centar/",
+      "published": "Tue, 21 Apr 2026 04:17:02 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "Делови од Студеничани и Карпош денеска без струја",
+      "link": "https://makfax.com.mk/makedonija/delovi-od-studenichani-i-karposh-deneska-bez-struja/",
+      "published": "Tue, 21 Apr 2026 04:14:47 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "Променливо облачно со повремени врнежи од дожд, локално пообилни",
+      "link": "https://makfax.com.mk/makedonija/promenlivo-oblachno-so-povremeni-vrnezhi-od-dozhd-lokalno-poobilni/",
+      "published": "Tue, 21 Apr 2026 04:11:06 +0000"
+    },
     {
       "region": "Македонија",
       "source": "Makfax",
@@ -14,27 +35,6 @@
       "title": "Пешакот кој беше удрен со џип кај „Зебра“ е пуштен на домашно лекување, велат од МВР",
       "link": "https://makfax.com.mk/crna-hronika/peshakot-koj-beshe-udren-so-dhip-kaj-zebra-e-pushten-na-domashno-lekuvanje-velat-od-mvr/",
       "published": "Mon, 20 Apr 2026 20:11:22 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "Makfax",
-      "title": "Средба на Сиљановска-Давкова со казахстанскиот министер за трговија и интеграции, Арман Шакалиев",
-      "link": "https://makfax.com.mk/makedonija/sredba-na-siljanovska-davkova-so-kazahstanskiot-minister-za-trgovija-i-integracii-arman-shakaliev/",
-      "published": "Mon, 20 Apr 2026 19:52:44 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "Makfax",
-      "title": "HiPP: Жртва сме на уцена",
-      "link": "https://makfax.com.mk/svet/hipp-zhrtva-sme-na-ucena/",
-      "published": "Mon, 20 Apr 2026 19:13:14 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "Makfax",
-      "title": "Конате ќе остане во Ливерпул",
-      "link": "https://makfax.com.mk/sport/konate-ke-ostane-vo-liverpul/",
-      "published": "Mon, 20 Apr 2026 19:02:56 +0000"
     },
     {
       "region": "Македонија",
@@ -74,6 +74,27 @@
     {
       "region": "Свет",
       "source": "BBC",
+      "title": "Trump says US will not lift Hormuz blockade until deal made with Iran",
+      "link": "https://www.bbc.com/news/articles/cdxd88r2wjzo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 20 Apr 2026 21:52:12 GMT"
+    },
+    {
+      "region": "Свет",
+      "source": "BBC",
+      "title": "Apple names new chief executive to replace Tim Cook",
+      "link": "https://www.bbc.com/news/articles/c1kr19lry18o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 20 Apr 2026 22:55:39 GMT"
+    },
+    {
+      "region": "Свет",
+      "source": "BBC",
+      "title": "Canadian killed in shooting at Mexico's ancient Teotihuacán pyramids",
+      "link": "https://www.bbc.com/news/articles/crm1rg3ydkvo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 21 Apr 2026 03:33:05 GMT"
+    },
+    {
+      "region": "Свет",
+      "source": "BBC",
       "title": "Outrage over Israeli soldier's vandalism of Jesus statue in Lebanon",
       "link": "https://www.bbc.com/news/articles/cpd575n1znzo?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 20 Apr 2026 18:57:25 GMT"
@@ -87,59 +108,38 @@
     },
     {
       "region": "Свет",
-      "source": "BBC",
-      "title": "Japan on high alert for 'huge' second quake after issuing tsunami warning",
-      "link": "https://www.bbc.com/news/articles/czd7m7d699do?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 20 Apr 2026 14:54:21 GMT"
-    },
-    {
-      "region": "Свет",
-      "source": "BBC",
-      "title": "What we know about the Iranian ship seized by the US",
-      "link": "https://www.bbc.com/news/articles/c75kg0vdxyro?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 20 Apr 2026 20:04:59 GMT"
-    },
-    {
-      "region": "Свет",
-      "source": "BBC",
-      "title": "Oil prices rise after Trump says Iranian ship seized",
-      "link": "https://www.bbc.com/news/articles/c5yjzy35825o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 20 Apr 2026 20:33:01 GMT"
+      "source": "Al Jazeera",
+      "title": "Trump’s Labor Secretary Lori Chavez-DeRemer latest to leave administration",
+      "link": "https://www.aljazeera.com/news/2026/4/21/trumps-labor-secretary-lori-chavez-deremer-latest-to-leave-administration?traffic_source=rss",
+      "published": "Tue, 21 Apr 2026 02:31:08 +0000"
     },
     {
       "region": "Свет",
       "source": "Al Jazeera",
-      "title": "Six women win 2026 Goldman prize, world’s top environmental award",
-      "link": "https://www.aljazeera.com/news/2026/4/21/six-women-win-2026-goldman-prize-worlds-top-environmental-award?traffic_source=rss",
-      "published": "Tue, 21 Apr 2026 00:07:04 +0000"
+      "title": "Cuba confirms talks with US officials, wants end to Trump’s energy blockade",
+      "link": "https://www.aljazeera.com/news/2026/4/21/cuba-confirms-meeting-with-us-official-wants-end-to-trumps-energy-blockade?traffic_source=rss",
+      "published": "Tue, 21 Apr 2026 02:29:05 +0000"
     },
     {
       "region": "Свет",
       "source": "Al Jazeera",
-      "title": "Iran war live: Tehran spurns talks under threats; Trump says blockade stays",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/4/21/iran-war-live-tehran-shuns-talks-trump-says-us-blockade-to-remain?traffic_source=rss",
-      "published": "Tue, 21 Apr 2026 00:00:00 +0000"
+      "title": "Global Sumud Flotilla disrupts cargo ship bound for Israel",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/21/global-sumud-flotilla-disrupts-cargo-ship-bound-for-israel?traffic_source=rss",
+      "published": "Tue, 21 Apr 2026 02:05:10 +0000"
     },
     {
       "region": "Свет",
       "source": "Al Jazeera",
-      "title": "‘Predators’: Amnesty slams Netanyahu, Putin, Trump as human rights decline",
-      "link": "https://www.aljazeera.com/news/2026/4/20/predators-amnesty-slams-netanyahu-putin-trump-as-human-rights-decline?traffic_source=rss",
-      "published": "Mon, 20 Apr 2026 23:43:01 +0000"
+      "title": "US is ‘pretty far behind where they started’ the war on Iran",
+      "link": "https://www.aljazeera.com/video/quotable/2026/4/21/us-is-pretty-far-behind-where-they-started-the-war-on-iran?traffic_source=rss",
+      "published": "Tue, 21 Apr 2026 01:37:53 +0000"
     },
     {
       "region": "Свет",
       "source": "Al Jazeera",
-      "title": "Hungary’s incoming PM says Netanyahu would be arrested if he visits",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/20/hungarys-incoming-pm-says-netanyahu-would-be-arrested-if-he-visits?traffic_source=rss",
-      "published": "Mon, 20 Apr 2026 23:08:14 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "D4vd charged with murder of 14-year-old Celeste Rivas Hernandez",
-      "link": "https://www.aljazeera.com/news/2026/4/20/d4vd-charged-with-murder-of-14-year-old-celeste-rivas-hernandez?traffic_source=rss",
-      "published": "Mon, 20 Apr 2026 22:19:50 +0000"
+      "title": "Global fallout grows over Israeli soldier smashing Jesus statue in Lebanon",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/21/global-fallout-grows-over-israeli-soldier-smashing-jesus-statue-in-lebanon?traffic_source=rss",
+      "published": "Tue, 21 Apr 2026 01:33:44 +0000"
     }
   ]
 }
