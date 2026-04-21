@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-21T22:10:28Z",
+  "updatedAt": "2026-04-21T23:01:00Z",
   "groups": [
     {
       "region": "Македонија",
@@ -107,6 +107,12 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Peru’s election chief steps down amid frustration over long vote count",
+          "link": "https://www.aljazeera.com/news/2026/4/21/perus-election-chief-steps-down-amid-frustration-over-long-vote-count?traffic_source=rss",
+          "published": "Tue, 21 Apr 2026 22:14:40 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Real Madrid close on Barcelona as Mbappe and Vinicius net against Alaves",
           "link": "https://www.aljazeera.com/sports/2026/4/21/real-madrid-close-on-barcelona-as-mbappe-and-vinicius-net-against-alaves?traffic_source=rss",
           "published": "Tue, 21 Apr 2026 21:49:40 +0000"
@@ -128,12 +134,6 @@
           "title": "Nearly 8,000 people died or disappeared on migration routes in 2025: IOM",
           "link": "https://www.aljazeera.com/news/2026/4/21/nearly-8000-people-died-or-disappeared-on-migration-routes-in-2025-iom?traffic_source=rss",
           "published": "Tue, 21 Apr 2026 20:43:11 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "US issues more Iran sanctions on eve of possible talks in Pakistan",
-          "link": "https://www.aljazeera.com/news/2026/4/21/us-issues-more-iran-sanctions-on-eve-of-possible-talks-in-pakistan?traffic_source=rss",
-          "published": "Tue, 21 Apr 2026 20:42:21 +0000"
         }
       ]
     }
