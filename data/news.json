@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-21T20:32:32Z",
+  "updatedAt": "2026-04-21T21:27:34Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,24 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) Спектакуларен пресврт на Интер за пласман во финалето на Купот",
+          "link": "https://makfax.com.mk/sport/video-spektakularen-presvrt-na-inter-za-plasman-vo-finaleto-na-kupot/",
+          "published": "Tue, 21 Apr 2026 21:16:56 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) Брајтон го декласира Челзи",
+          "link": "https://makfax.com.mk/sport/video-brajton-go-deklasira-chelzi/",
+          "published": "Tue, 21 Apr 2026 21:07:00 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Барселона лесно се справи со Црвена звезда",
+          "link": "https://makfax.com.mk/sport/barselona-lesno-se-spravi-so-crvena-zvezda/",
+          "published": "Tue, 21 Apr 2026 20:52:57 +0000"
         },
         {
           "source": "Makfax",
@@ -23,22 +41,16 @@
           "published": "Tue, 21 Apr 2026 19:55:59 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Иравани за САД: „Ако сакаат војна, ние сме подготвени“",
-          "link": "https://makfax.com.mk/svet/iravani-za-sad-ako-sakaat-vojna-nie-sme-podgotveni/",
-          "published": "Tue, 21 Apr 2026 19:55:50 +0000"
+          "source": "NetPress",
+          "title": "Трамп го продолжи примирјето со Иран, но и блокадата на иранските пристаништа",
+          "link": "https://netpress.com.mk/tramp-go-prodolzhi-primirjeto-so-iran-no-i-blokadata-na-iranskite-pristanishta/",
+          "published": "Tue, 21 Apr 2026 21:16:50 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Дијаспората е нераскинлив дел од Македонија, порача Мицкоски во Виена",
-          "link": "https://makfax.com.mk/makedonija/dijasporata-e-neraskinliv-del-od-makedonija-poracha-mickoski-vo-viena/",
-          "published": "Tue, 21 Apr 2026 19:47:40 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Макрон: Израел да се откаже од своите територијални претензии",
-          "link": "https://makfax.com.mk/svet/makron-izrael-da-se-otkazhe-od-svoite-teritorijalni-pretenzii/",
-          "published": "Tue, 21 Apr 2026 19:33:32 +0000"
+          "source": "NetPress",
+          "title": "Путин: Знаеме како ќе заврши сè",
+          "link": "https://netpress.com.mk/putin-znaeme-kako-ke-zavrshi-se/",
+          "published": "Tue, 21 Apr 2026 20:35:49 +0000"
         },
         {
           "source": "NetPress",
@@ -57,18 +69,6 @@
           "title": "Калас очекува деблокирање на кредитот за Украина во следните 24 часа",
           "link": "https://netpress.com.mk/kalas-ochekuva-deblokirane-na-kreditot-za-ukraina-vo-slednite-24-chasa/",
           "published": "Tue, 21 Apr 2026 19:41:17 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Флик има намера да ја заврши тренерската кариера во Барселона",
-          "link": "https://netpress.com.mk/flik-ima-namera-da-ja-zavrshi-trenerskata-kariera-vo-barselona/",
-          "published": "Tue, 21 Apr 2026 19:28:05 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Бројни фудбалери и ѕвезда во Формула 1 поврзани со мрежа за проституција",
-          "link": "https://netpress.com.mk/brojni-fudbaleri-i-zvezda-vo-formula-1-povrzani-so-mrezha-za-prostituczija/",
-          "published": "Tue, 21 Apr 2026 18:47:35 +0000"
         }
       ]
     },
@@ -107,33 +107,33 @@
         },
         {
           "source": "Al Jazeera",
-          "title": "Trump’s US Fed nominee Warsh vows independence, says he’s no ‘sock puppet’",
-          "link": "https://www.aljazeera.com/economy/2026/4/21/trumps-us-fed-nominee-warsh-vows-independence-says-hes-no-sock-puppet?traffic_source=rss",
-          "published": "Tue, 21 Apr 2026 20:05:52 +0000"
+          "title": "Pro-Palestine legal aid requests stay high in 2025 amid US campus pressure",
+          "link": "https://www.aljazeera.com/news/2026/4/21/pro-palestine-legal-aid-requests-stay-high-in-2025-amid-us-campus-pressure?traffic_source=rss",
+          "published": "Tue, 21 Apr 2026 20:48:47 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Two CIA agents reportedly killed in car crash in Mexican state of Chihuahua",
-          "link": "https://www.aljazeera.com/news/2026/4/21/two-cia-agents-reportedly-killed-in-car-crash-in-mexican-state-of-chihuahua?traffic_source=rss",
-          "published": "Tue, 21 Apr 2026 19:49:14 +0000"
+          "title": "Nearly 8,000 people died or disappeared on migration routes in 2025: IOM",
+          "link": "https://www.aljazeera.com/news/2026/4/21/nearly-8000-people-died-or-disappeared-on-migration-routes-in-2025-iom?traffic_source=rss",
+          "published": "Tue, 21 Apr 2026 20:43:11 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Israeli rabbi who bulldozed Gaza honoured as torchbearer",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/21/israeli-rabbi-who-bulldozed-gaza-honoured-as-torchbearer?traffic_source=rss",
-          "published": "Tue, 21 Apr 2026 19:43:33 +0000"
+          "title": "US issues more Iran sanctions on eve of possible talks in Pakistan",
+          "link": "https://www.aljazeera.com/news/2026/4/21/us-issues-more-iran-sanctions-on-eve-of-possible-talks-in-pakistan?traffic_source=rss",
+          "published": "Tue, 21 Apr 2026 20:42:21 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Video: Israeli soldiers sing national anthem on ruins of Lebanese town",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/21/video-israeli-soldiers-sing-national-anthem-on-ruins-of-lebanese-town?traffic_source=rss",
-          "published": "Tue, 21 Apr 2026 19:36:41 +0000"
+          "title": "EU eyes options as Iran conflict threatens jet fuel shortages",
+          "link": "https://www.aljazeera.com/news/2026/4/21/eu-eyes-options-as-iran-conflict-threatens-jet-fuel-shortages?traffic_source=rss",
+          "published": "Tue, 21 Apr 2026 20:33:13 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Russian police raid book publisher accused of pushing ‘gay propaganda’",
-          "link": "https://www.aljazeera.com/news/2026/4/21/russian-police-raid-book-publisher-accused-of-pushing-gay-propaganda?traffic_source=rss",
-          "published": "Tue, 21 Apr 2026 19:05:41 +0000"
+          "title": "Sudan refugees returning home face new ‘struggle for survival’: UN",
+          "link": "https://www.aljazeera.com/news/2026/4/21/sudan-refugees-returning-home-face-new-struggle-for-survival-un?traffic_source=rss",
+          "published": "Tue, 21 Apr 2026 20:32:32 +0000"
         }
       ]
     }
