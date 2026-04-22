@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-22T23:03:06Z",
+  "updatedAt": "2026-04-22T23:57:44Z",
   "groups": [
     {
       "region": "Македонија",
@@ -107,6 +107,12 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "South American migrants deported to DRC say facing pressure to return home",
+          "link": "https://www.aljazeera.com/news/2026/4/22/south-american-migrants-deported-to-drc-say-facing-pressure-to-return-home?traffic_source=rss",
+          "published": "Wed, 22 Apr 2026 23:19:02 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Top ministers quit after Peru’s president postpones F-16 fighter jet deal",
           "link": "https://www.aljazeera.com/news/2026/4/22/top-ministers-quit-after-perus-president-postpones-f-16-fighter-jet-deal?traffic_source=rss",
           "published": "Wed, 22 Apr 2026 22:44:28 +0000"
@@ -128,12 +134,6 @@
           "title": "Yamal scores but injured as Barcelona beat Celta to restore La Liga lead",
           "link": "https://www.aljazeera.com/sports/2026/4/22/yamal-scores-then-limps-off-as-barcelona-beat-celta-to-restore-la-liga-lead?traffic_source=rss",
           "published": "Wed, 22 Apr 2026 21:52:02 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Man City topple Arsenal at Premier League summit with nervy win at Burnley",
-          "link": "https://www.aljazeera.com/sports/2026/4/22/man-city-topple-arsenal-at-premier-league-summit-with-win-at-burnley?traffic_source=rss",
-          "published": "Wed, 22 Apr 2026 21:27:44 +0000"
         }
       ]
     }
