@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-22T17:45:28Z",
+  "updatedAt": "2026-04-22T18:50:10Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Мицкоски од Виена: Потребни се дела, а не зборови – Европа мора активно да ги обликува правилата",
+          "link": "https://makfax.com.mk/makedonija/mickoski-od-viena-potrebni-se-dela-a-ne-zborovi-evropa-mora-aktivno-da-gi-oblikuva-pravilata/",
+          "published": "Wed, 22 Apr 2026 18:36:09 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Украина: Руската „победа“ во Луганск е обид желбите да се прикажат како реалност",
+          "link": "https://makfax.com.mk/svet/ukraina-ruskata-pobeda-vo-lugansk-e-obid-zhelbite-da-se-prikazhat-kako-realnost/",
+          "published": "Wed, 22 Apr 2026 17:47:01 +0000"
         },
         {
           "source": "Makfax",
@@ -27,18 +39,6 @@
           "title": "Карни му порача на Трамп: Нема диктирање услови, Канада влегува подготвена во преговорите",
           "link": "https://makfax.com.mk/svet/karni-mu-poracha-na-tramp-nema-diktiranje-uslovi-kanada-vleguva-podgotvena-vo-pregovorite/",
           "published": "Wed, 22 Apr 2026 16:57:08 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "МАГА инфлуенсерката со милиони следбеници не постои – зад неа стои студент од Индија",
-          "link": "https://makfax.com.mk/zanimlivosti/maga-influenserkata-so-milioni-sledbenici-ne-postoi-zad-nea-stoi-student-od-indija/",
-          "published": "Wed, 22 Apr 2026 16:24:24 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Вучиќ по разговорот со Маѓар: Подобро од очекуваното, без непријатни тонови",
-          "link": "https://makfax.com.mk/svet/region/vuchik-po-razgovorot-so-magar-podobro-od-ochekuvanoto-bez-neprijatni-tonovi/",
-          "published": "Wed, 22 Apr 2026 16:12:41 +0000"
         },
         {
           "source": "NetPress",
@@ -85,7 +85,7 @@
           "source": "BBC",
           "title": "Billionaire backer sues Trump family's crypto firm over alleged extortion",
           "link": "https://www.bbc.com/news/articles/c8x7kxjgq9xo?at_medium=RSS&at_campaign=rss",
-          "published": "Wed, 22 Apr 2026 16:14:20 GMT"
+          "published": "Wed, 22 Apr 2026 18:10:42 GMT"
         },
         {
           "source": "BBC",
@@ -97,7 +97,7 @@
           "source": "BBC",
           "title": "EU approves €90bn loan for Ukraine as pipeline is turned on ending deadlock",
           "link": "https://www.bbc.com/news/articles/cnv8l99r3yyo?at_medium=RSS&at_campaign=rss",
-          "published": "Wed, 22 Apr 2026 16:16:57 GMT"
+          "published": "Wed, 22 Apr 2026 17:48:44 GMT"
         },
         {
           "source": "BBC",
@@ -107,33 +107,33 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Bad optics? Israel jails soldiers who smashed Jesus statue in Lebanon",
+          "link": "https://www.aljazeera.com/features/2026/4/22/bad-optics-israel-jails-soldiers-who-smashed-jesus-statue-in-lebanon?traffic_source=rss",
+          "published": "Wed, 22 Apr 2026 18:22:26 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Did UK universities pay to ‘spy’ on pro‑Palestine students?",
+          "link": "https://www.aljazeera.com/video/the-take-2/2026/4/22/aje-onl-tt_gbr_unispying_av_v2-220426?traffic_source=rss",
+          "published": "Wed, 22 Apr 2026 18:21:41 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Suspect in slaying of Colombian presidential hopeful arrested in Argentina",
+          "link": "https://www.aljazeera.com/news/2026/4/22/suspect-in-slaying-of-colombian-presidential-hopeful-arrested-in-argentina?traffic_source=rss",
+          "published": "Wed, 22 Apr 2026 18:12:08 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "At least four killed in Israeli strikes on Lebanon, journalists wounded",
+          "link": "https://www.aljazeera.com/news/2026/4/22/at-least-four-killed-in-israeli-strikes-on-lebanon-journalists-wounded?traffic_source=rss",
+          "published": "Wed, 22 Apr 2026 18:10:52 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Chelsea sack Rosenior after only three months at Premier League club",
           "link": "https://www.aljazeera.com/sports/2026/4/22/chelsea-sack-rosenior-after-only-3-months-at-premier-league-club?traffic_source=rss",
           "published": "Wed, 22 Apr 2026 16:45:17 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Iran says ‘fully prepared’ for football team’s World Cup participation",
-          "link": "https://www.aljazeera.com/news/2026/4/22/iran-says-fully-prepared-for-football-teams-world-cup-participation?traffic_source=rss",
-          "published": "Wed, 22 Apr 2026 16:39:02 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "A 42bn-euro dilemma: What is stopping EU from holding Israel to account?",
-          "link": "https://www.aljazeera.com/economy/2026/4/22/a-42bn-euro-dilemma-what-is-stopping-eu-from-holding-israel-to-account?traffic_source=rss",
-          "published": "Wed, 22 Apr 2026 16:33:22 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Ukraine restarts Russian oil to Europe, unblocking 90-billion-euro EU loan",
-          "link": "https://www.aljazeera.com/news/2026/4/22/ukraine-restarts-russian-oil-flows-to-europe-unblocking-90bn-eu-loan?traffic_source=rss",
-          "published": "Wed, 22 Apr 2026 16:12:38 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "How Israel is destroying Lebanon’s water infrastructure",
-          "link": "https://www.aljazeera.com/features/2026/4/22/how-israel-is-destroying-lebanons-water-infrastructure?traffic_source=rss",
-          "published": "Wed, 22 Apr 2026 16:00:51 +0000"
         }
       ]
     }
