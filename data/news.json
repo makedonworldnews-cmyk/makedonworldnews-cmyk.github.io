@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-21T23:49:33Z",
+  "updatedAt": "2026-04-22T01:09:10Z",
   "groups": [
     {
       "region": "Македонија",
@@ -42,33 +42,9 @@
         },
         {
           "source": "NetPress",
-          "title": "Брајтон го декласираше Челзи",
-          "link": "https://netpress.com.mk/brajton-go-deklasirashe-chelzi/",
-          "published": "Tue, 21 Apr 2026 22:00:41 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Интер со пресврт во финалето на Купот на Италија",
-          "link": "https://netpress.com.mk/inter-so-presvrt-vo-finaleto-na-kupot-na-italija/",
-          "published": "Tue, 21 Apr 2026 21:44:24 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Трамп го продолжи примирјето со Иран, но и блокадата на иранските пристаништа",
-          "link": "https://netpress.com.mk/tramp-go-prodolzhi-primirjeto-so-iran-no-i-blokadata-na-iranskite-pristanishta/",
-          "published": "Tue, 21 Apr 2026 21:16:50 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Путин: Знаеме како ќе заврши сè",
-          "link": "https://netpress.com.mk/putin-znaeme-kako-ke-zavrshi-se/",
-          "published": "Tue, 21 Apr 2026 20:35:49 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Израел тврди дека ги казнил војниците кои го сквернавеа распетието во јужен Либан",
-          "link": "https://netpress.com.mk/izrael-tvrdi-deka-gi-kaznil-vojniczite-koi-oskvernavija-raspetieto-vo-juzhen-liban/",
-          "published": "Tue, 21 Apr 2026 20:04:24 +0000"
+          "title": "⚠️ Не може да се вчита (извор/timeout)",
+          "link": "https://netpress.com.mk/feed/",
+          "published": ""
         }
       ]
     },
@@ -107,6 +83,24 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Argentina’s Milei sings and lights torch for Israeli national day",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/22/argentinas-milei-sings-and-lights-torch-for-israeli-national-day?traffic_source=rss",
+          "published": "Wed, 22 Apr 2026 00:53:59 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Trump extends ceasefire and hopes for ‘unified proposal’",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/22/trump-extends-ceasefire-and-hopes-for-unified?traffic_source=rss",
+          "published": "Wed, 22 Apr 2026 00:51:59 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Iran war live: Trump says ceasefire extended as talks with Tehran in limbo",
+          "link": "https://www.aljazeera.com/news/liveblog/2026/4/22/iran-war-live-trump-says-ceasefire-extended-as-talks-with-tehran-in-limbo?traffic_source=rss",
+          "published": "Wed, 22 Apr 2026 00:00:00 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Trump remains ‘in a quandary’ despite Iran war ceasefire extension",
           "link": "https://www.aljazeera.com/video/quotable/2026/4/21/trump-remains-in-a-quandary-despite-iran-war-ceasefire-extension?traffic_source=rss",
           "published": "Tue, 21 Apr 2026 23:26:57 +0000"
@@ -116,24 +110,6 @@
           "title": "Paraguay plans to accept 25 third-country migrant deportees from US",
           "link": "https://www.aljazeera.com/news/2026/4/21/paraguay-plans-to-accept-25-third-country-migrant-deportees-from-us?traffic_source=rss",
           "published": "Tue, 21 Apr 2026 23:10:21 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Trump administration sues Southern Poverty Law Center on fraud charges",
-          "link": "https://www.aljazeera.com/news/2026/4/21/trump-administration-sues-southern-poverty-law-center-on-fraud-charges?traffic_source=rss",
-          "published": "Tue, 21 Apr 2026 23:08:16 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Peru’s election chief steps down amid frustration over long vote count",
-          "link": "https://www.aljazeera.com/news/2026/4/21/perus-election-chief-steps-down-amid-frustration-over-long-vote-count?traffic_source=rss",
-          "published": "Tue, 21 Apr 2026 22:14:40 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Real Madrid close on Barcelona as Mbappe and Vinicius net against Alaves",
-          "link": "https://www.aljazeera.com/sports/2026/4/21/real-madrid-close-on-barcelona-as-mbappe-and-vinicius-net-against-alaves?traffic_source=rss",
-          "published": "Tue, 21 Apr 2026 21:49:40 +0000"
         }
       ]
     }
