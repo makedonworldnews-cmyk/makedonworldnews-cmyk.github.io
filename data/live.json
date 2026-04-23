@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-23T21:08:41Z",
+  "generated_at": "2026-04-23T21:59:05Z",
   "items": [
     {
       "region": "Македонија",
@@ -39,6 +39,20 @@
     {
       "region": "Македонија",
       "source": "NetPress",
+      "title": "Во македонскиот КИЦ во Загреб отворена изложбата „Дијалог преку борба“",
+      "link": "https://netpress.com.mk/vo-makedonskiot-kicz-vo-zagreb-otvorena-izlozhbata-dijalog-preku-borba/",
+      "published": "Thu, 23 Apr 2026 21:25:56 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "NetPress",
+      "title": "САД нема да употребат нуклеарно оружје во војната со Иран, вели Трамп",
+      "link": "https://netpress.com.mk/sad-nema-da-upotrebat-nuklearno-oruzhje-vo-vojnata-so-iran-veli-tramp/",
+      "published": "Thu, 23 Apr 2026 21:15:11 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "NetPress",
       "title": "Ринго Стар го претстави новиот кантри албум",
       "link": "https://netpress.com.mk/ringo-star-go-pretstavi-noviot-kantri-album/",
       "published": "Thu, 23 Apr 2026 21:05:23 +0000"
@@ -58,20 +72,6 @@
       "published": "Thu, 23 Apr 2026 20:06:18 +0000"
     },
     {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Деловната активност во еврозоната падна во април",
-      "link": "https://netpress.com.mk/delovnata-aktivnost-vo-evrozonata-padna-vo-april/",
-      "published": "Thu, 23 Apr 2026 19:48:19 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Поранешниот претседател на ФФМ осомничен за проневера на 660.000 евра, побаран притвор",
-      "link": "https://netpress.com.mk/uapsen-poraneshniot-pretsedatel-na-ffm-osomnichen-za-pronevera-na-660-000-evra/",
-      "published": "Thu, 23 Apr 2026 19:34:02 +0000"
-    },
-    {
       "region": "Свет",
       "source": "BBC",
       "title": "Trump tells BBC that King's visit could 'absolutely' help repair relations with UK",
@@ -81,9 +81,9 @@
     {
       "region": "Свет",
       "source": "BBC",
-      "title": "In Tehran, money is short and a return to war looms over daily life",
-      "link": "https://www.bbc.com/news/articles/cdrm8k7lzmko?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 23 Apr 2026 11:26:01 GMT"
+      "title": "US boards ship carrying Iran oil as Trump threatens mine-laying vessels",
+      "link": "https://www.bbc.com/news/articles/cgldw5ekrjpo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 23 Apr 2026 20:45:51 GMT"
     },
     {
       "region": "Свет",
@@ -95,16 +95,44 @@
     {
       "region": "Свет",
       "source": "BBC",
+      "title": "In Tehran, money is short and a return to war looms over daily life",
+      "link": "https://www.bbc.com/news/articles/cdrm8k7lzmko?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 23 Apr 2026 11:26:01 GMT"
+    },
+    {
+      "region": "Свет",
+      "source": "BBC",
       "title": "More than 500 people killed in Tanzania election violence, inquiry finds",
       "link": "https://www.bbc.com/news/articles/cgld775knzyo?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 23 Apr 2026 15:33:36 GMT"
     },
     {
       "region": "Свет",
-      "source": "BBC",
-      "title": "US-Kuwaiti journalist held in Kuwait over social media posts acquitted, lawyers say",
-      "link": "https://www.bbc.com/news/articles/cy81ljrd445o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 23 Apr 2026 15:11:03 GMT"
+      "source": "Al Jazeera",
+      "title": "Funeral held for journalist killed in targeted Israeli strike",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/23/funeral-held-for-journalist-killed-in-targeted-israeli-strike?traffic_source=rss",
+      "published": "Thu, 23 Apr 2026 21:11:59 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "EU formally approves 90bn euro Ukraine loan and new sanctions on Russia",
+      "link": "https://www.aljazeera.com/news/2026/4/23/eu-formally-approves-90bn-euro-ukraine-loan-and-new-sanctions-on-russia?traffic_source=rss",
+      "published": "Thu, 23 Apr 2026 21:03:10 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Pope decries migrants and refugees being treated ‘worse than house pets’",
+      "link": "https://www.aljazeera.com/news/2026/4/23/pope-decries-migrants-and-refugees-being-treated-worse-than-house-pets?traffic_source=rss",
+      "published": "Thu, 23 Apr 2026 21:01:50 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "War-driven demand boosts profits for weapons and aircraft manufacturers",
+      "link": "https://www.aljazeera.com/economy/2026/4/23/war-driven-demand-boosts-profits-for-weapons-and-aircraft-manufacturers?traffic_source=rss",
+      "published": "Thu, 23 Apr 2026 21:00:40 +0000"
     },
     {
       "region": "Свет",
@@ -112,34 +140,6 @@
       "title": "Will complex EU loan deal intensify conflict?",
       "link": "https://www.aljazeera.com/video/inside-story/2026/4/23/will-complex-eu-loan-deal-intensify-conflict?traffic_source=rss",
       "published": "Thu, 23 Apr 2026 20:55:28 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Trump says he is keeping Strait of Hormuz closed, not Iran",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/23/trump-says-he-is-keeping-strait-of-hormuz-closed-not-iran?traffic_source=rss",
-      "published": "Thu, 23 Apr 2026 20:53:26 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "US sanctions Cambodian senator over purported scam network links",
-      "link": "https://www.aljazeera.com/news/2026/4/23/us-sanctions-cambodian-senator-over-purported-scam-network-links?traffic_source=rss",
-      "published": "Thu, 23 Apr 2026 20:52:48 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Iran dismisses Trump’s claim of leadership rift, says nation is ‘one soul’",
-      "link": "https://www.aljazeera.com/news/2026/4/23/iran-dismisses-trumps-claim-of-leadership-rift-says-nation-is-one-soul?traffic_source=rss",
-      "published": "Thu, 23 Apr 2026 20:26:13 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Real Betis vs Real Madrid: La Liga – teams, start time, lineup",
-      "link": "https://www.aljazeera.com/sports/2026/4/23/real-betis-vs-real-madrid-la-liga-teams-start-lineup?traffic_source=rss",
-      "published": "Thu, 23 Apr 2026 19:20:30 +0000"
     }
   ]
 }
