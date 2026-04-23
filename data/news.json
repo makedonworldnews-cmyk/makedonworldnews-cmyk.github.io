@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-23T20:58:28Z",
+  "updatedAt": "2026-04-23T21:54:44Z",
   "groups": [
     {
       "region": "Македонија",
@@ -42,6 +42,24 @@
         },
         {
           "source": "NetPress",
+          "title": "Во македонскиот КИЦ во Загреб отворена изложбата „Дијалог преку борба“",
+          "link": "https://netpress.com.mk/vo-makedonskiot-kicz-vo-zagreb-otvorena-izlozhbata-dijalog-preku-borba/",
+          "published": "Thu, 23 Apr 2026 21:25:56 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "САД нема да употребат нуклеарно оружје во војната со Иран, вели Трамп",
+          "link": "https://netpress.com.mk/sad-nema-da-upotrebat-nuklearno-oruzhje-vo-vojnata-so-iran-veli-tramp/",
+          "published": "Thu, 23 Apr 2026 21:15:11 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Ринго Стар го претстави новиот кантри албум",
+          "link": "https://netpress.com.mk/ringo-star-go-pretstavi-noviot-kantri-album/",
+          "published": "Thu, 23 Apr 2026 21:05:23 +0000"
+        },
+        {
+          "source": "NetPress",
           "title": "Уапсени повеќемина низ Македонија – доктори во клиники и сопственици на дерматолошки ординации",
           "link": "https://netpress.com.mk/uapseni-povekemina-niz-makedonija-doktori-vo-kliniki-i-sopstveniczi-na-dermatoloshki-ordinaczii/",
           "published": "Thu, 23 Apr 2026 20:45:28 +0000"
@@ -51,24 +69,6 @@
           "title": "Германски град ќе ги задржи десетте златни прачки пронајдени при косење трева",
           "link": "https://netpress.com.mk/germanski-grad-ke-gi-zadrzhi-desette-zlatni-prachki-pronajdeni-pri-kosene-treva/",
           "published": "Thu, 23 Apr 2026 20:06:18 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Деловната активност во еврозоната падна во април",
-          "link": "https://netpress.com.mk/delovnata-aktivnost-vo-evrozonata-padna-vo-april/",
-          "published": "Thu, 23 Apr 2026 19:48:19 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Поранешниот претседател на ФФМ осомничен за проневера на 660.000 евра, побаран притвор",
-          "link": "https://netpress.com.mk/uapsen-poraneshniot-pretsedatel-na-ffm-osomnichen-za-pronevera-na-660-000-evra/",
-          "published": "Thu, 23 Apr 2026 19:34:02 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "ВМРО-ДПМНЕ и во опозиција и на власт предлага укинување на техничката влада, како услов за градење држава на цврсти темели",
-          "link": "https://netpress.com.mk/vmro-dpmne-i-vo-opoziczija-i-na-vlast-predlaga-ukinuvane-na-tehnichkata-vlada-kako-uslov-za-gradene-drzhava-na-czvrsti-temeli/",
-          "published": "Thu, 23 Apr 2026 19:15:46 +0000"
         }
       ]
     },
@@ -83,9 +83,9 @@
         },
         {
           "source": "BBC",
-          "title": "In Tehran, money is short and a return to war looms over daily life",
-          "link": "https://www.bbc.com/news/articles/cdrm8k7lzmko?at_medium=RSS&at_campaign=rss",
-          "published": "Thu, 23 Apr 2026 11:26:01 GMT"
+          "title": "US boards ship carrying Iran oil as Trump threatens mine-laying vessels",
+          "link": "https://www.bbc.com/news/articles/cgldw5ekrjpo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 23 Apr 2026 20:45:51 GMT"
         },
         {
           "source": "BBC",
@@ -95,45 +95,45 @@
         },
         {
           "source": "BBC",
+          "title": "In Tehran, money is short and a return to war looms over daily life",
+          "link": "https://www.bbc.com/news/articles/cdrm8k7lzmko?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 23 Apr 2026 11:26:01 GMT"
+        },
+        {
+          "source": "BBC",
           "title": "More than 500 people killed in Tanzania election violence, inquiry finds",
           "link": "https://www.bbc.com/news/articles/cgld775knzyo?at_medium=RSS&at_campaign=rss",
           "published": "Thu, 23 Apr 2026 15:33:36 GMT"
         },
         {
-          "source": "BBC",
-          "title": "US-Kuwaiti journalist held in Kuwait over social media posts acquitted, lawyers say",
-          "link": "https://www.bbc.com/news/articles/cy81ljrd445o?at_medium=RSS&at_campaign=rss",
-          "published": "Thu, 23 Apr 2026 15:11:03 GMT"
+          "source": "Al Jazeera",
+          "title": "Funeral held for journalist killed in targeted Israeli strike",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/23/funeral-held-for-journalist-killed-in-targeted-israeli-strike?traffic_source=rss",
+          "published": "Thu, 23 Apr 2026 21:11:59 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Iran dismisses Trump’s claim of leadership rift, says nation is ‘one soul’",
-          "link": "https://www.aljazeera.com/news/2026/4/23/iran-dismisses-trumps-claim-of-leadership-rift-says-nation-is-one-soul?traffic_source=rss",
-          "published": "Thu, 23 Apr 2026 20:26:13 +0000"
+          "title": "EU formally approves 90bn euro Ukraine loan and new sanctions on Russia",
+          "link": "https://www.aljazeera.com/news/2026/4/23/eu-formally-approves-90bn-euro-ukraine-loan-and-new-sanctions-on-russia?traffic_source=rss",
+          "published": "Thu, 23 Apr 2026 21:03:10 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Real Betis vs Real Madrid: La Liga – teams, start time, lineup",
-          "link": "https://www.aljazeera.com/sports/2026/4/23/real-betis-vs-real-madrid-la-liga-teams-start-lineup?traffic_source=rss",
-          "published": "Thu, 23 Apr 2026 19:20:30 +0000"
+          "title": "Pope decries migrants and refugees being treated ‘worse than house pets’",
+          "link": "https://www.aljazeera.com/news/2026/4/23/pope-decries-migrants-and-refugees-being-treated-worse-than-house-pets?traffic_source=rss",
+          "published": "Thu, 23 Apr 2026 21:01:50 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "How Trump’s Iran war is driving military dissent",
-          "link": "https://www.aljazeera.com/video/the-take-2/2026/4/23/how-trumps-iran-war-is-driving-military-dissent?traffic_source=rss",
-          "published": "Thu, 23 Apr 2026 19:08:51 +0000"
+          "title": "War-driven demand boosts profits for weapons and aircraft manufacturers",
+          "link": "https://www.aljazeera.com/economy/2026/4/23/war-driven-demand-boosts-profits-for-weapons-and-aircraft-manufacturers?traffic_source=rss",
+          "published": "Thu, 23 Apr 2026 21:00:40 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "US Department of Justice watchdog to probe release of Epstein files",
-          "link": "https://www.aljazeera.com/news/2026/4/23/us-department-of-justice-watchdog-to-probe-release-of-epstein-files?traffic_source=rss",
-          "published": "Thu, 23 Apr 2026 19:03:18 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "US Senate passes ICE funding resolution after ‘vote-a-rama’: What’s next?",
-          "link": "https://www.aljazeera.com/news/2026/4/23/us-senate-passes-ice-funding-resolution-after-vote-a-rama-whats-next?traffic_source=rss",
-          "published": "Thu, 23 Apr 2026 18:55:10 +0000"
+          "title": "Will complex EU loan deal intensify conflict?",
+          "link": "https://www.aljazeera.com/video/inside-story/2026/4/23/will-complex-eu-loan-deal-intensify-conflict?traffic_source=rss",
+          "published": "Thu, 23 Apr 2026 20:55:28 +0000"
         }
       ]
     }
