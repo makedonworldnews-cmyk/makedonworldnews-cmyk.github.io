@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-24T23:06:06Z",
+  "generated_at": "2026-04-24T23:53:09Z",
   "items": [
     {
       "region": "Македонија",
@@ -109,6 +109,13 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "Police raid Peru’s election authorities after outcry over slow vote count",
+      "link": "https://www.aljazeera.com/news/2026/4/24/police-raid-perus-election-authorities-after-outcry-over-slow-vote-count?traffic_source=rss",
+      "published": "Fri, 24 Apr 2026 23:22:32 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "Israel kills at least 12 Palestinians in Gaza amid ‘ceasefire’",
       "link": "https://www.aljazeera.com/news/2026/4/24/israel-kills-at-least-12-palestinians-in-gaza-amid-ceasefire?traffic_source=rss",
       "published": "Fri, 24 Apr 2026 21:42:22 +0000"
@@ -133,13 +140,6 @@
       "title": "Mass wedding for 300 brides and grooms in central Gaza",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/4/24/mass-wedding-for-300-brides-and-grooms-in-central-gaza?traffic_source=rss",
       "published": "Fri, 24 Apr 2026 20:53:02 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Who’s in control of AI?",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/4/24/whos-in-control-of-ai?traffic_source=rss",
-      "published": "Fri, 24 Apr 2026 20:48:06 +0000"
     }
   ]
 }
