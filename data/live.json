@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-23T23:37:49Z",
+  "generated_at": "2026-04-24T01:11:25Z",
   "items": [
     {
       "region": "Македонија",
@@ -88,23 +88,30 @@
     {
       "region": "Свет",
       "source": "BBC",
+      "title": "Masked Iranian forces appear to seize ships in staged video",
+      "link": "https://www.bbc.com/news/videos/cp86g5m8vyyo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 23 Apr 2026 18:15:28 GMT"
+    },
+    {
+      "region": "Свет",
+      "source": "BBC",
+      "title": "US soldier charged after winning $400,000 betting on removal of Maduro",
+      "link": "https://www.bbc.com/news/articles/c20832yg5p2o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 24 Apr 2026 00:21:32 GMT"
+    },
+    {
+      "region": "Свет",
+      "source": "BBC",
       "title": "Huge chunk of glacier blocks Everest route in peak climbing season",
       "link": "https://www.bbc.com/news/articles/cy81lrnv5peo?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 23 Apr 2026 16:52:44 GMT"
     },
     {
       "region": "Свет",
-      "source": "BBC",
-      "title": "In Tehran, money is short and a return to war looms over daily life",
-      "link": "https://www.bbc.com/news/articles/cdrm8k7lzmko?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 23 Apr 2026 11:26:01 GMT"
-    },
-    {
-      "region": "Свет",
-      "source": "BBC",
-      "title": "More than 500 people killed in Tanzania election violence, inquiry finds",
-      "link": "https://www.bbc.com/news/articles/cgld775knzyo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 23 Apr 2026 15:33:36 GMT"
+      "source": "Al Jazeera",
+      "title": "Iran war live: Lebanon truce extended; Trump says time not on Tehran’s side",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/4/24/iran-war-live-lebanon-truce-extended-trump-says-time-not-on-tehrans-side?traffic_source=rss",
+      "published": "Fri, 24 Apr 2026 00:00:00 +0000"
     },
     {
       "region": "Свет",
@@ -133,13 +140,6 @@
       "title": "Milei administration in Argentina blocks journalist access to Casa Rosada",
       "link": "https://www.aljazeera.com/news/2026/4/23/milei-administration-in-argentina-blocks-journalist-access-to-casa-rosada?traffic_source=rss",
       "published": "Thu, 23 Apr 2026 21:58:16 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Funeral held for journalist killed in targeted Israeli strike",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/23/funeral-held-for-journalist-killed-in-targeted-israeli-strike?traffic_source=rss",
-      "published": "Thu, 23 Apr 2026 21:11:59 +0000"
     }
   ]
 }
