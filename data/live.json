@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-24T21:40:20Z",
+  "generated_at": "2026-04-24T22:26:56Z",
   "items": [
     {
       "region": "Македонија",
@@ -39,6 +39,13 @@
     {
       "region": "Македонија",
       "source": "NetPress",
+      "title": "Ла Лига: Реал сѐ подалеку од титулата",
+      "link": "https://netpress.com.mk/la-liga-real-s%d1%90-podaleku-od-titulata/",
+      "published": "Fri, 24 Apr 2026 21:46:32 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "NetPress",
       "title": "Серија А: Наполи супериорен со Кремонезе",
       "link": "https://netpress.com.mk/serija-a-napoli-superioren-so-kremoneze/",
       "published": "Fri, 24 Apr 2026 21:30:34 +0000"
@@ -65,11 +72,11 @@
       "published": "Fri, 24 Apr 2026 20:59:15 +0000"
     },
     {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "САД и ЕУ потпишаа Меморандум за стратешко партнерство за ретки минерали",
-      "link": "https://netpress.com.mk/sad-i-eu-potpishaa-memorandum-za-strateshko-partnerstvo-za-retki-minerali/",
-      "published": "Fri, 24 Apr 2026 20:56:47 +0000"
+      "region": "Свет",
+      "source": "BBC",
+      "title": "Trump's envoys Witkoff and Kushner to fly to Pakistan for Iran talks",
+      "link": "https://www.bbc.com/news/articles/cy8103xklreo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 24 Apr 2026 22:02:50 GMT"
     },
     {
       "region": "Свет",
@@ -101,10 +108,17 @@
     },
     {
       "region": "Свет",
-      "source": "BBC",
-      "title": "US justice department drops probe into Fed chairman Jerome Powell",
-      "link": "https://www.bbc.com/news/articles/cdxd1v0028vo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 24 Apr 2026 19:10:25 GMT"
+      "source": "Al Jazeera",
+      "title": "Israel kills at least 12 Palestinians in Gaza amid ‘ceasefire’",
+      "link": "https://www.aljazeera.com/news/2026/4/24/israel-kills-at-least-12-palestinians-in-gaza-amid-ceasefire?traffic_source=rss",
+      "published": "Fri, 24 Apr 2026 21:42:22 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Real Madrid stunned at Betis as Barcelona have chance to move 11 clear",
+      "link": "https://www.aljazeera.com/sports/2026/4/24/real-madrid-stunned-at-betis-as-barcelona-have-chance-to-move-11-clear?traffic_source=rss",
+      "published": "Fri, 24 Apr 2026 21:29:59 +0000"
     },
     {
       "region": "Свет",
@@ -126,20 +140,6 @@
       "title": "Who’s in control of AI?",
       "link": "https://www.aljazeera.com/video/inside-story/2026/4/24/whos-in-control-of-ai?traffic_source=rss",
       "published": "Fri, 24 Apr 2026 20:48:06 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Israel continues attacks on Lebanon despite extension of ceasefire",
-      "link": "https://www.aljazeera.com/news/2026/4/24/israel-continues-attacks-on-lebanon-despite-extension-of-ceasefire?traffic_source=rss",
-      "published": "Fri, 24 Apr 2026 20:46:38 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Trump to again end legal status of people who entered US with CBP One app",
-      "link": "https://www.aljazeera.com/news/2026/4/24/trump-to-again-end-legal-status-of-people-who-entered-us-with-cbp-one-app?traffic_source=rss",
-      "published": "Fri, 24 Apr 2026 20:18:07 +0000"
     }
   ]
 }
