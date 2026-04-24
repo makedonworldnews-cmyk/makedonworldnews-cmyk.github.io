@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-24T19:32:32Z",
+  "updatedAt": "2026-04-24T20:27:00Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Трамп: Иран сака да разговара и е подготвен да им даде понуда на САД",
+          "link": "https://makfax.com.mk/svet/tramp-iran-saka-da-razgovara-i-e-podgotven-da-im-dade-ponuda-na-sad/",
+          "published": "Fri, 24 Apr 2026 19:42:46 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Монако е последниот учесник во плејофот",
+          "link": "https://makfax.com.mk/sport/monako-e-posledniot-uchesnik-vo-plejofot/",
+          "published": "Fri, 24 Apr 2026 19:34:57 +0000"
         },
         {
           "source": "Makfax",
@@ -29,16 +41,22 @@
           "published": "Fri, 24 Apr 2026 18:20:59 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Алкараз се откажа од Ролан Гарос",
-          "link": "https://makfax.com.mk/sport/alkaraz-se-otkazha-od-rolan-garos/",
-          "published": "Fri, 24 Apr 2026 17:53:56 +0000"
+          "source": "NetPress",
+          "title": "Германски производител на чоколада згаснува работни места по повеќе од век",
+          "link": "https://netpress.com.mk/germanski-proizvoditel-na-chokolada-zgasnuva-rabotni-mesta-po-poveke-od-vek/",
+          "published": "Fri, 24 Apr 2026 20:11:43 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Трамп ја враќа смртната казна со стрелање",
-          "link": "https://makfax.com.mk/svet/tramp-ja-vraka-smrtnata-kazna-so-strelanje/",
-          "published": "Fri, 24 Apr 2026 17:47:04 +0000"
+          "source": "NetPress",
+          "title": "Во САД се враќа смртната казна со стрелање на федерално ниво, како и електричната столица и задушување со азотен гас",
+          "link": "https://netpress.com.mk/vo-sad-se-vraka-smrtnata-kazna-so-strelane-na-federalno-nivo-kako-i-elektrichnata-stolicza-i-zadushuvane-so-azoten-gas/",
+          "published": "Fri, 24 Apr 2026 20:04:27 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Северноатлантскиот договор не предвидува исклучување на земја-членка од НАТО",
+          "link": "https://netpress.com.mk/severnoatlantskiot-dogovor-ne-predviduva-iskluchuvane-na-zemja-chlenka-od-nato/",
+          "published": "Fri, 24 Apr 2026 19:54:51 +0000"
         },
         {
           "source": "NetPress",
@@ -51,24 +69,6 @@
           "title": "Пленковиќ: Хрватска бара силен буџет на ЕУ фокусиран на кохезија и проширување на Унијата",
           "link": "https://netpress.com.mk/1070634-2/",
           "published": "Fri, 24 Apr 2026 19:10:10 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Бабиш бара ист аршин за сите земји: Ако мора Западен Блакан, и Украина мора да ги исполни условите за влез во ЕУ",
-          "link": "https://netpress.com.mk/babish-bara-ist-arshin-za-site-zemji-ako-mora-zapaden-blakan-i-ukraina-mora-da-gi-ispolni-uslovite-za-vlez-vo-eu/",
-          "published": "Fri, 24 Apr 2026 18:53:51 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Арагчи ќе отпатува во Пакистан на разговори за завршување на војната",
-          "link": "https://netpress.com.mk/aragchi-ke-otpatuva-vo-pakistan-na-razgovori-za-zavrshuvane-na-vojnata/",
-          "published": "Fri, 24 Apr 2026 18:50:36 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Лани 266 милиони луѓе во светот биле погодени од глад",
-          "link": "https://netpress.com.mk/lani-266-milioni-luge-vo-svetot-bile-pogodeni-od-glad/",
-          "published": "Fri, 24 Apr 2026 18:31:39 +0000"
         }
       ]
     },
@@ -107,6 +107,18 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Petro becomes first president to visit Venezuela since Maduro abduction",
+          "link": "https://www.aljazeera.com/news/2026/4/24/petro-becomes-first-president-to-visit-venezuela-since-maduro-abduction?traffic_source=rss",
+          "published": "Fri, 24 Apr 2026 20:00:08 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "US appeals court rejects Trump’s ban on asylum seekers, teeing up appeal",
+          "link": "https://www.aljazeera.com/news/2026/4/24/us-appeals-court-rejects-trumps-ban-on-asylum-seekers-teeing-up-appeal?traffic_source=rss",
+          "published": "Fri, 24 Apr 2026 19:25:55 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Can Europe help the Middle East resolve the war on Iran?",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/4/24/can-europe-help-the-middle-east-resolve-the-war-on-iran?traffic_source=rss",
           "published": "Fri, 24 Apr 2026 19:05:10 +0000"
@@ -122,18 +134,6 @@
           "title": "UK assisted dying bill fails after delays but advocates vow to try again",
           "link": "https://www.aljazeera.com/news/2026/4/24/uk-bill-allowing-terminally-ill-to-end-their-own-lives-obstructed?traffic_source=rss",
           "published": "Fri, 24 Apr 2026 18:46:49 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Israeli attacks on Lebanon may violate international law, UN warns",
-          "link": "https://www.aljazeera.com/news/2026/4/24/israeli-attacks-on-lebanon-may-violate-international-law-un-warns?traffic_source=rss",
-          "published": "Fri, 24 Apr 2026 18:24:27 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Reality check: Israeli ambitions confront US dictates in Iran and Lebanon",
-          "link": "https://www.aljazeera.com/news/2026/4/24/reality-check-israeli-ambitions-confront-us-dictates-in-iran-and-lebanon?traffic_source=rss",
-          "published": "Fri, 24 Apr 2026 18:21:33 +0000"
         }
       ]
     }
