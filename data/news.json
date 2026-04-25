@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-25T15:09:42Z",
+  "updatedAt": "2026-04-25T15:55:32Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,24 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Пукање и закани со пиштол во Ченто по претходен договор за средба",
+          "link": "https://makfax.com.mk/crna-hronika/pukanje-i-zakani-so-pishtol-vo-chento-po-prethoden-dogovor-za-sredba/",
+          "published": "Sat, 25 Apr 2026 15:51:32 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Руси хакирале профили на Сигнал на германски политичари",
+          "link": "https://makfax.com.mk/svet/rusi-hakirale-profili-na-signal-na-germanski-politichari/",
+          "published": "Sat, 25 Apr 2026 15:48:00 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Голем шумски пожар во јужна Австрија",
+          "link": "https://makfax.com.mk/svet/golem-shumski-pozhar-vo-juzhna-avstrija/",
+          "published": "Sat, 25 Apr 2026 15:17:07 +0000"
         },
         {
           "source": "Makfax",
@@ -23,22 +41,22 @@
           "published": "Sat, 25 Apr 2026 14:07:37 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Британец и петмина скопјани приведени со дрога во Скопје",
-          "link": "https://makfax.com.mk/crna-hronika/britanec-i-petmina-skopjani-privedeni-so-droga-vo-skopje/",
-          "published": "Sat, 25 Apr 2026 14:01:24 +0000"
+          "source": "NetPress",
+          "title": "Руси обвинети за хакирање на Signal профилите на членови на германската влада",
+          "link": "https://netpress.com.mk/rusi-obvineti-za-hakirane-na-signal-profilite-na-chlenovi-na-germanskata-vlada/",
+          "published": "Sat, 25 Apr 2026 15:47:29 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Македонски државјанин изнајмил стан во Валона и го претворил во „база за дрога“",
-          "link": "https://makfax.com.mk/svet/makedonski-drzhavjanin-iznajmil-stan-vo-valona-i-go-pretvoril-vo-baza-za-droga/",
-          "published": "Sat, 25 Apr 2026 13:54:42 +0000"
+          "source": "NetPress",
+          "title": "Во игротека во Скопје, келнер заведувал десетгодишно дете и барал да одат до тоалет",
+          "link": "https://netpress.com.mk/vo-igroteka-vo-skopje-kelner-zaveduval-desetgodishno-dete-i-baral-da-odat-do-toalet/",
+          "published": "Sat, 25 Apr 2026 15:32:04 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Спектакуларна спринт трка во Херез, победи Марк Маркез",
-          "link": "https://makfax.com.mk/sport/spektakularna-sprint-trka-vo-herez-pobedi-mark-markez/",
-          "published": "Sat, 25 Apr 2026 13:40:56 +0000"
+          "source": "NetPress",
+          "title": "Поранешниот градоначалник на Дојран, Анго Ангов, како и инспектор и референт пријавени поради  дозвола за хотел",
+          "link": "https://netpress.com.mk/poraneshniot-gradonachalnik-na-dojran-ango-angov-kako-i-inspektor-i-referent-prijaveni-poradi-dozvola-za-hotel/",
+          "published": "Sat, 25 Apr 2026 15:14:17 +0000"
         },
         {
           "source": "NetPress",
@@ -51,24 +69,6 @@
           "title": "Жена од Струшко уапсена откако се заканувала на мајка ѝ",
           "link": "https://netpress.com.mk/zhena-od-strushko-uapsena-otkako-se-zakanuvala-na-majka-%d1%9d/",
           "published": "Sat, 25 Apr 2026 14:52:06 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Лисици на рацете за киднапирање и силување малолетничка – уапсен млад маж во Гостиварско",
-          "link": "https://netpress.com.mk/lisici-na-racete-za-kidnapirane-i-siluvane-maloletnichka-uapsen-mlad-mazh-vo-gostivarsko/",
-          "published": "Sat, 25 Apr 2026 14:47:55 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Божиновска покровител на најголемиот средношколски натпревар за иновации во земјата",
-          "link": "https://netpress.com.mk/bozhinovska-pokrovitel-na-najgolemiot-srednoshkolski-natprevar-za-inovaczii-vo-zemjata/",
-          "published": "Sat, 25 Apr 2026 14:36:30 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Кочанчанец фатен во деловни простории со дрога",
-          "link": "https://netpress.com.mk/kochanchanecz-faten-vo-delovni-prostorii-so-droga/",
-          "published": "Sat, 25 Apr 2026 14:31:51 +0000"
         }
       ]
     },
@@ -79,7 +79,7 @@
           "source": "BBC",
           "title": "Explosions and gunfire as armed groups launch co-ordinated attacks across Mali",
           "link": "https://www.bbc.com/news/articles/clyx7nnrkqdo?at_medium=RSS&at_campaign=rss",
-          "published": "Sat, 25 Apr 2026 14:12:44 GMT"
+          "published": "Sat, 25 Apr 2026 15:32:50 GMT"
         },
         {
           "source": "BBC",
