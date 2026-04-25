@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-25T19:09:30Z",
+  "updatedAt": "2026-04-25T19:54:14Z",
   "groups": [
     {
       "region": "Македонија",
@@ -42,6 +42,24 @@
         },
         {
           "source": "NetPress",
+          "title": "Лажна била дојавата за подметнати бомби во Сити Мол",
+          "link": "https://netpress.com.mk/lazhna-bila-dojavata-za-podmetnati-bombi-vo-siti-mol/",
+          "published": "Sat, 25 Apr 2026 19:35:39 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Нетанјаху нареди „жестоки напади“ во Либан",
+          "link": "https://netpress.com.mk/netanjahu-naredi-zhestoki-napadi/",
+          "published": "Sat, 25 Apr 2026 19:30:55 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Жена се нафрлила на жена во Гази Баба",
+          "link": "https://netpress.com.mk/zhena-se-nafrlila-na-zhena-vo-gazi-baba/",
+          "published": "Sat, 25 Apr 2026 19:28:38 +0000"
+        },
+        {
+          "source": "NetPress",
           "title": "Директорка добила кривична пријава оти побарала електронско наплаќање паркинг",
           "link": "https://netpress.com.mk/direktorka-dobila-krivichna-prijava-oti-pobarala-elektronsko-naplakane-parking/",
           "published": "Sat, 25 Apr 2026 19:03:19 +0000"
@@ -51,24 +69,6 @@
           "title": "ФА Куп: Манчестер Сити во финалето",
           "link": "https://netpress.com.mk/fa-kup-manchester-siti-vo-finaleto/",
           "published": "Sat, 25 Apr 2026 18:58:58 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Дојава за бомба во Сити Мол",
-          "link": "https://netpress.com.mk/dojava-za-bomba-vo-siti-mol/",
-          "published": "Sat, 25 Apr 2026 18:46:06 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Кина го осуди вклучувањето на кинески субјекти во пакетот антируски санкции на ЕУ",
-          "link": "https://netpress.com.mk/kina-go-osudi-vkluchuvaneto-na-kineski-subjekti-vo-paketot-antiruski-sankczii-na-eu/",
-          "published": "Sat, 25 Apr 2026 18:35:09 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Малолетничка од БиХ џепарела во Охрид",
-          "link": "https://netpress.com.mk/maloletnichka-od-bih-dheparela-vo-ohrid/",
-          "published": "Sat, 25 Apr 2026 18:13:06 +0000"
         }
       ]
     },
@@ -80,12 +80,6 @@
           "title": "Explosions and gunfire as armed groups launch co-ordinated attacks across Mali",
           "link": "https://www.bbc.com/news/articles/clyx7nnrkqdo?at_medium=RSS&at_campaign=rss",
           "published": "Sat, 25 Apr 2026 15:32:50 GMT"
-        },
-        {
-          "source": "BBC",
-          "title": "Seven dead in major Russian attack on Ukraine",
-          "link": "https://www.bbc.com/news/articles/c0rxk4q0pj0o?at_medium=RSS&at_campaign=rss",
-          "published": "Sat, 25 Apr 2026 12:29:37 GMT"
         },
         {
           "source": "BBC",
@@ -106,34 +100,40 @@
           "published": "Sat, 25 Apr 2026 17:36:58 GMT"
         },
         {
+          "source": "BBC",
+          "title": "Orbán steps down from Hungarian parliament after landslide defeat",
+          "link": "https://www.bbc.com/news/articles/cd9v1wll8qqo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 25 Apr 2026 19:22:31 GMT"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Protestor depicts Israeli minister Ben Gvir covered in blood in Stockholm",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/25/protestor-depicts-israeli-minister-ben-gvir-covered-in-blood-in-stockholm?traffic_source=rss",
+          "published": "Sat, 25 Apr 2026 19:40:56 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Barcelona on the brink of defending La Liga title after beating Getafe",
+          "link": "https://www.aljazeera.com/sports/2026/4/25/barcelona-on-the-brink-of-defending-la-liga-title-after-beating-getafe?traffic_source=rss",
+          "published": "Sat, 25 Apr 2026 19:15:06 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Arsenal narrowly beat Newcastle to regain Premier League lead over Man City",
+          "link": "https://www.aljazeera.com/sports/2026/4/25/arsenal-narrowly-beat-newcastle-to-regain-premier-league-lead-over-man-city?traffic_source=rss",
+          "published": "Sat, 25 Apr 2026 19:02:11 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "France defends abstention on UN slave trade resolution",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/25/france-defends-abstention-on-un-slave-trade-resolution?traffic_source=rss",
+          "published": "Sat, 25 Apr 2026 18:58:37 +0000"
+        },
+        {
           "source": "Al Jazeera",
           "title": "Trump cancels US envoys’ trip after Iran’s Araghchi leaves Pakistan",
           "link": "https://www.aljazeera.com/news/2026/4/25/trump-cancels-envoys-trip-to-pakistan-after-irans-araghchi-leaves-country?traffic_source=rss",
           "published": "Sat, 25 Apr 2026 18:16:34 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Reported US CIA agents killed in crash not authorised to operate: Mexico",
-          "link": "https://www.aljazeera.com/news/2026/4/25/presence-of-reported-us-cia-agents-killed-in-crash-not-authorised-mexico?traffic_source=rss",
-          "published": "Sat, 25 Apr 2026 17:26:31 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Joy and desire for change as Gaza’s Deir el-Balah holds elections",
-          "link": "https://www.aljazeera.com/features/2026/4/25/joy-and-desire-for-change-as-gazas-deir-el-balah-holds-elections?traffic_source=rss",
-          "published": "Sat, 25 Apr 2026 17:25:09 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Iran FM Abbas Araghchi and Pakistan PM Shehbaz Sharif meet in Pakistan",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/25/iran-fm-abbas-araghchi-and-pakistan-pm-shehbaz-sharif-meet-in-pakistan?traffic_source=rss",
-          "published": "Sat, 25 Apr 2026 17:06:38 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "US to allow Venezuelan government to cover Maduro’s lawyer fees",
-          "link": "https://www.aljazeera.com/news/2026/4/25/us-to-allow-venezuelan-government-to-cover-maduros-lawyer-fees?traffic_source=rss",
-          "published": "Sat, 25 Apr 2026 16:21:24 +0000"
         }
       ]
     }
