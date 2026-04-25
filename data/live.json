@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-25T01:46:37Z",
+  "generated_at": "2026-04-25T04:23:07Z",
   "items": [
     {
       "region": "Македонија",
@@ -109,6 +109,27 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "Israel escalates attacks in Gaza, killing 12 people",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/25/israel-escalates-attacks-in-gaza-killing-12-people?traffic_source=rss",
+      "published": "Sat, 25 Apr 2026 03:23:14 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Iran war: What’s happening on day 57 as US envoys head to Pakistan?",
+      "link": "https://www.aljazeera.com/news/2026/4/25/iran-war-whats-happening-on-day-57-as-us-envoys-head-to-pakistan?traffic_source=rss",
+      "published": "Sat, 25 Apr 2026 02:58:01 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "OpenAI’s Sam Altman apologises over failure to report Canadian mass shooter",
+      "link": "https://www.aljazeera.com/economy/2026/4/25/chkopenaissamaltmanapologises-over-failure-to-report-canadian-mass-shooter?traffic_source=rss",
+      "published": "Sat, 25 Apr 2026 02:07:18 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "Iran war live: Tehran’s FM in Islamabad; US says envoys to travel for talks",
       "link": "https://www.aljazeera.com/news/liveblog/2026/4/25/iran-war-live-tehrans-fm-in-islamabad-us-says-envoys-to-travel-for-talks?traffic_source=rss",
       "published": "Sat, 25 Apr 2026 00:00:00 +0000"
@@ -119,27 +140,6 @@
       "title": "Police raid Peru’s election authorities after outcry over slow vote count",
       "link": "https://www.aljazeera.com/news/2026/4/24/police-raid-perus-election-authorities-after-outcry-over-slow-vote-count?traffic_source=rss",
       "published": "Fri, 24 Apr 2026 23:22:32 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Israel kills at least 12 Palestinians in Gaza amid ‘ceasefire’",
-      "link": "https://www.aljazeera.com/news/2026/4/24/israel-kills-at-least-12-palestinians-in-gaza-amid-ceasefire?traffic_source=rss",
-      "published": "Fri, 24 Apr 2026 21:42:22 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Real Madrid stunned at Betis as Barcelona have chance to move 11 clear",
-      "link": "https://www.aljazeera.com/sports/2026/4/24/real-madrid-stunned-at-betis-as-barcelona-have-chance-to-move-11-clear?traffic_source=rss",
-      "published": "Fri, 24 Apr 2026 21:29:59 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "US sending envoys to Pakistan, raising hopes of talks with Iran’s Araghchi",
-      "link": "https://www.aljazeera.com/news/2026/4/24/us-envoys-head-to-pakistan-raising-hopes-of-peace-talks-with-irans-araghchi?traffic_source=rss",
-      "published": "Fri, 24 Apr 2026 20:54:28 +0000"
     }
   ]
 }
