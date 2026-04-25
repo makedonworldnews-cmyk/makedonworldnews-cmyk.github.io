@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-24T23:50:09Z",
+  "updatedAt": "2026-04-25T01:10:36Z",
   "groups": [
     {
       "region": "Македонија",
@@ -107,6 +107,12 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Iran war live: Tehran’s FM in Islamabad; US says envoys to travel for talks",
+          "link": "https://www.aljazeera.com/news/liveblog/2026/4/25/iran-war-live-tehrans-fm-in-islamabad-us-says-envoys-to-travel-for-talks?traffic_source=rss",
+          "published": "Sat, 25 Apr 2026 00:00:00 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Police raid Peru’s election authorities after outcry over slow vote count",
           "link": "https://www.aljazeera.com/news/2026/4/24/police-raid-perus-election-authorities-after-outcry-over-slow-vote-count?traffic_source=rss",
           "published": "Fri, 24 Apr 2026 23:22:32 +0000"
@@ -128,12 +134,6 @@
           "title": "US sending envoys to Pakistan, raising hopes of talks with Iran’s Araghchi",
           "link": "https://www.aljazeera.com/news/2026/4/24/us-envoys-head-to-pakistan-raising-hopes-of-peace-talks-with-irans-araghchi?traffic_source=rss",
           "published": "Fri, 24 Apr 2026 20:54:28 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Mass wedding for 300 brides and grooms in central Gaza",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/24/mass-wedding-for-300-brides-and-grooms-in-central-gaza?traffic_source=rss",
-          "published": "Fri, 24 Apr 2026 20:53:02 +0000"
         }
       ]
     }
