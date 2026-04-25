@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-25T22:01:19Z",
+  "updatedAt": "2026-04-25T22:54:37Z",
   "groups": [
     {
       "region": "Македонија",
@@ -42,6 +42,12 @@
         },
         {
           "source": "NetPress",
+          "title": "НБА: Орландо поведе со 2-1 против Детроит",
+          "link": "https://netpress.com.mk/nba-orlando-povede-so-2-1-protiv-detroit/",
+          "published": "Sat, 25 Apr 2026 22:01:55 +0000"
+        },
+        {
+          "source": "NetPress",
           "title": "Преглед Ла Лига: Атлетико го победи Атлетик, Барселона чекор поблиску до титулата",
           "link": "https://netpress.com.mk/pregled-la-liga-atletiko-go-pobedi-atletik-barselona-chekor-poblisku-do-titulata/",
           "published": "Sat, 25 Apr 2026 21:44:47 +0000"
@@ -63,12 +69,6 @@
           "title": "Азиска Лига на шампионите: Ал Ахли ја одбрани титулата",
           "link": "https://netpress.com.mk/aziska-liga-na-shampionite-al-ahli-ja-odbrani-titulata/",
           "published": "Sat, 25 Apr 2026 20:17:56 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Преглед Премиер лига: Арсенал го победи Њукасл и се врати на врвот",
-          "link": "https://netpress.com.mk/pregled-premier-liga-arsenal-go-pobedi-nukasl-i-se-vrati-na-vrvot/",
-          "published": "Sat, 25 Apr 2026 19:54:31 +0000"
         }
       ]
     },
@@ -107,7 +107,7 @@
         },
         {
           "source": "Al Jazeera",
-          "title": "Explosion in southwest Colombia kills at leat seven, state governor says",
+          "title": "Explosion in southwest Colombia kills at least seven, state governor says",
           "link": "https://www.aljazeera.com/news/2026/4/25/explosion-in-southwest-colombia-kills-at-leat-seven-state-governor-says?traffic_source=rss",
           "published": "Sat, 25 Apr 2026 21:03:51 +0000"
         },
