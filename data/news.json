@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-25T16:44:09Z",
+  "updatedAt": "2026-04-25T17:26:46Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Трамп ненадејно го откажа испраќањето претставници во Пакистан",
+          "link": "https://makfax.com.mk/svet/tramp-nenadejno-go-otkazha-isprakanjeto-pretstavnici-vo-pakistan/",
+          "published": "Sat, 25 Apr 2026 17:09:49 +0000"
         },
         {
           "source": "Makfax",
@@ -35,40 +41,34 @@
           "published": "Sat, 25 Apr 2026 16:05:38 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Пукање и закани со пиштол во Ченто по претходен договор за средба",
-          "link": "https://makfax.com.mk/crna-hronika/pukanje-i-zakani-so-pishtol-vo-chento-po-prethoden-dogovor-za-sredba/",
-          "published": "Sat, 25 Apr 2026 15:51:32 +0000"
+          "source": "NetPress",
+          "title": "Орбан се откажа од пратеничката функција: Попотребен сум на друго место",
+          "link": "https://netpress.com.mk/orban-se-otkazha-od-pratenichkata-funkczija-popotreben-sum-na-drugo-mesto/",
+          "published": "Sat, 25 Apr 2026 17:17:06 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Трамп: Откажувањето на преговорите не значи враќање на војната",
+          "link": "https://netpress.com.mk/tramp-otkazhuvaneto-na-pregovorite-ne-znachi-vrakane-na-vojnata/",
+          "published": "Sat, 25 Apr 2026 17:09:26 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Трамп го откажа патувањето на преговарачите во Пакистан",
+          "link": "https://netpress.com.mk/tramp-go-otkazha-patuvaneto-na-pregovarachite-vo-pakistan/",
+          "published": "Sat, 25 Apr 2026 17:07:50 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Иран порача дека нема да се согласи со „максималистичките барања“ од САД",
+          "link": "https://netpress.com.mk/iran-poracha-deka-nema-da-se-soglasi-so-maksimalistichkite-barana-od-sad/",
+          "published": "Sat, 25 Apr 2026 16:57:15 +0000"
         },
         {
           "source": "NetPress",
           "title": "Се заканувал на сопругата преку социјална мрежа",
           "link": "https://netpress.com.mk/se-zakanuval-na-soprugata-preku-soczijalna-mrezha/",
           "published": "Sat, 25 Apr 2026 16:35:37 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Првин се скарале, па „се расправале“ со тупаници",
-          "link": "https://netpress.com.mk/prvin-se-skarale-pa-se-raspravale-so-tupaniczi/",
-          "published": "Sat, 25 Apr 2026 16:32:18 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Словенечката претседателка нема да даде мандат за формирање влада",
-          "link": "https://netpress.com.mk/slovenechkata-pretsedatelka-nema-da-dade-mandat-za-formirane-vlada/",
-          "published": "Sat, 25 Apr 2026 16:28:57 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Три случаja на педофилија ја шокираа Македонија денеска",
-          "link": "https://netpress.com.mk/tri-sluchai-na-pedofilija-ja-shokiraa-makedonija-deneska/",
-          "published": "Sat, 25 Apr 2026 16:02:12 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Руси обвинети за хакирање на Signal профилите на членови на германската влада",
-          "link": "https://netpress.com.mk/rusi-obvineti-za-hakirane-na-signal-profilite-na-chlenovi-na-germanskata-vlada/",
-          "published": "Sat, 25 Apr 2026 15:47:29 +0000"
         }
       ]
     },
@@ -91,19 +91,31 @@
           "source": "BBC",
           "title": "Palestinians in West Bank and some in Gaza vote in local elections",
           "link": "https://www.bbc.com/news/articles/cn4vej3x0wxo?at_medium=RSS&at_campaign=rss",
-          "published": "Sat, 25 Apr 2026 10:52:27 GMT"
-        },
-        {
-          "source": "BBC",
-          "title": "Katya Adler: Europe's Nato allies push back at reported US threat to Spain",
-          "link": "https://www.bbc.com/news/articles/cj40r2gw24wo?at_medium=RSS&at_campaign=rss",
-          "published": "Sat, 25 Apr 2026 00:10:51 GMT"
+          "published": "Sat, 25 Apr 2026 17:01:55 GMT"
         },
         {
           "source": "BBC",
           "title": "Nato says 'no provision' to expel members after report US could seek to suspend Spain",
           "link": "https://www.bbc.com/news/articles/cz78x703lrvo?at_medium=RSS&at_campaign=rss",
           "published": "Fri, 24 Apr 2026 16:04:29 GMT"
+        },
+        {
+          "source": "BBC",
+          "title": "Thousands at risk after multi-million dollar Everest flood warning system left to rust",
+          "link": "https://www.bbc.com/news/articles/czjwr93vrrzo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 24 Apr 2026 23:28:09 GMT"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Iran FM Abbas Araghchi and Pakistan PM Shehbaz Sharif meet in Pakistan",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/25/iran-fm-abbas-araghchi-and-pakistan-pm-shehbaz-sharif-meet-in-pakistan?traffic_source=rss",
+          "published": "Sat, 25 Apr 2026 17:06:38 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "US to allow Venezuelan government to cover Maduro’s lawyer fees",
+          "link": "https://www.aljazeera.com/news/2026/4/25/us-to-allow-venezuelan-government-to-cover-maduros-lawyer-fees?traffic_source=rss",
+          "published": "Sat, 25 Apr 2026 16:21:24 +0000"
         },
         {
           "source": "Al Jazeera",
@@ -122,18 +134,6 @@
           "title": "Deporting soldiers? Why immigrant veterans fear removal from the US",
           "link": "https://www.aljazeera.com/news/longform/2026/4/25/deporting-soldiers-why-immigrant-veterans-fear-removal-from-the-us?traffic_source=rss",
           "published": "Sat, 25 Apr 2026 14:25:48 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Israeli attacks kill four in southern Lebanon",
-          "link": "https://www.aljazeera.com/news/2026/4/25/israeli-strikes-kill-four-in-southern-lebanon?traffic_source=rss",
-          "published": "Sat, 25 Apr 2026 13:25:30 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "LIVE: Arsenal vs Newcastle – Premier League",
-          "link": "https://www.aljazeera.com/sports/liveblog/2026/4/25/live-arsenal-vs-newcastle-premier-league?traffic_source=rss",
-          "published": "Sat, 25 Apr 2026 13:16:19 +0000"
         }
       ]
     }
