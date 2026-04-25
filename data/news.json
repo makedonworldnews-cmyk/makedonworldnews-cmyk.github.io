@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-25T17:26:46Z",
+  "updatedAt": "2026-04-25T18:05:50Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Охрид од Целје се враќа со гол негатива",
+          "link": "https://makfax.com.mk/sport/ohrid-od-celje-se-vraka-so-gol-negativa/",
+          "published": "Sat, 25 Apr 2026 17:51:04 +0000"
         },
         {
           "source": "Makfax",
@@ -35,10 +41,22 @@
           "published": "Sat, 25 Apr 2026 16:22:57 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Хоспитализирана Никол Кидман, актерката се разболе за време на снимање",
-          "link": "https://makfax.com.mk/zanimlivosti/hospitalizirana-nikol-kidman-akterkata-se-razbole-za-vreme-na-snimanje/",
-          "published": "Sat, 25 Apr 2026 16:05:38 +0000"
+          "source": "NetPress",
+          "title": "ВИДЕО| Слави Трифонов му предложи – и катастрофално беше поразен од Радев",
+          "link": "https://netpress.com.mk/video-slavi-trifonov-mu-predlozhi-i-katastrofalno-beshe-porazen-od-radev/",
+          "published": "Sat, 25 Apr 2026 18:00:36 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Шестмина осомничени во акцијата „Ботокс“ добија притвор, четворица во куќен притвор",
+          "link": "https://netpress.com.mk/shestmina-osomnicheni-vo-akczijata-botoks-dobija-pritvor-chetvoricza-vo-kuken-pritvor/",
+          "published": "Sat, 25 Apr 2026 17:42:31 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Мицкоски на средба со Македонци кои живеат во Србија",
+          "link": "https://netpress.com.mk/miczkoski-na-sredba-so-makedonczi-koi-zhiveat-vo-srbija/",
+          "published": "Sat, 25 Apr 2026 17:38:13 +0000"
         },
         {
           "source": "NetPress",
@@ -51,24 +69,6 @@
           "title": "Трамп: Откажувањето на преговорите не значи враќање на војната",
           "link": "https://netpress.com.mk/tramp-otkazhuvaneto-na-pregovorite-ne-znachi-vrakane-na-vojnata/",
           "published": "Sat, 25 Apr 2026 17:09:26 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Трамп го откажа патувањето на преговарачите во Пакистан",
-          "link": "https://netpress.com.mk/tramp-go-otkazha-patuvaneto-na-pregovarachite-vo-pakistan/",
-          "published": "Sat, 25 Apr 2026 17:07:50 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Иран порача дека нема да се согласи со „максималистичките барања“ од САД",
-          "link": "https://netpress.com.mk/iran-poracha-deka-nema-da-se-soglasi-so-maksimalistichkite-barana-od-sad/",
-          "published": "Sat, 25 Apr 2026 16:57:15 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Се заканувал на сопругата преку социјална мрежа",
-          "link": "https://netpress.com.mk/se-zakanuval-na-soprugata-preku-soczijalna-mrezha/",
-          "published": "Sat, 25 Apr 2026 16:35:37 +0000"
         }
       ]
     },
@@ -89,21 +89,33 @@
         },
         {
           "source": "BBC",
+          "title": "Mexico says US agents killed in crash weren't permitted to operate there",
+          "link": "https://www.bbc.com/news/articles/cx2491we011o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 25 Apr 2026 17:40:51 GMT"
+        },
+        {
+          "source": "BBC",
           "title": "Palestinians in West Bank and some in Gaza vote in local elections",
           "link": "https://www.bbc.com/news/articles/cn4vej3x0wxo?at_medium=RSS&at_campaign=rss",
           "published": "Sat, 25 Apr 2026 17:01:55 GMT"
         },
         {
           "source": "BBC",
-          "title": "Nato says 'no provision' to expel members after report US could seek to suspend Spain",
-          "link": "https://www.bbc.com/news/articles/cz78x703lrvo?at_medium=RSS&at_campaign=rss",
-          "published": "Fri, 24 Apr 2026 16:04:29 GMT"
+          "title": "Rights groups critical as Venezuela prisoner release scheme 'coming to an end'",
+          "link": "https://www.bbc.com/news/articles/c0kr62z7z6lo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 25 Apr 2026 17:36:58 GMT"
         },
         {
-          "source": "BBC",
-          "title": "Thousands at risk after multi-million dollar Everest flood warning system left to rust",
-          "link": "https://www.bbc.com/news/articles/czjwr93vrrzo?at_medium=RSS&at_campaign=rss",
-          "published": "Fri, 24 Apr 2026 23:28:09 GMT"
+          "source": "Al Jazeera",
+          "title": "Reported US CIA agents killed in crash not authorised to operate: Mexico",
+          "link": "https://www.aljazeera.com/news/2026/4/25/presence-of-reported-us-cia-agents-killed-in-crash-not-authorised-mexico?traffic_source=rss",
+          "published": "Sat, 25 Apr 2026 17:26:31 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Joy and desire for change as Gaza’s Deir el-Balah holds elections",
+          "link": "https://www.aljazeera.com/features/2026/4/25/joy-and-desire-for-change-as-gazas-deir-el-balah-holds-elections?traffic_source=rss",
+          "published": "Sat, 25 Apr 2026 17:25:09 +0000"
         },
         {
           "source": "Al Jazeera",
@@ -122,18 +134,6 @@
           "title": "After years of avoidance, Trump to attend first White House press dinner",
           "link": "https://www.aljazeera.com/news/2026/4/25/after-years-of-avoidance-trump-to-attend-first-white-house-press-dinner?traffic_source=rss",
           "published": "Sat, 25 Apr 2026 14:33:58 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "African governments need to take urgent action on fertiliser shortages",
-          "link": "https://www.aljazeera.com/opinions/2026/4/25/african-governments-need-to-take-urgent-action-on-fertiliser-shortages?traffic_source=rss",
-          "published": "Sat, 25 Apr 2026 14:27:27 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Deporting soldiers? Why immigrant veterans fear removal from the US",
-          "link": "https://www.aljazeera.com/news/longform/2026/4/25/deporting-soldiers-why-immigrant-veterans-fear-removal-from-the-us?traffic_source=rss",
-          "published": "Sat, 25 Apr 2026 14:25:48 +0000"
         }
       ]
     }
