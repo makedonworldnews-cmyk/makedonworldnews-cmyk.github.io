@@ -1,6 +1,13 @@
 {
-  "generated_at": "2026-04-26T11:05:46Z",
+  "generated_at": "2026-04-26T11:51:14Z",
   "items": [
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "Дождлив продолжен викенд за празничниот 1 Мај",
+      "link": "https://makfax.com.mk/makedonija/dozhdliv-prodolzhen-vikend-za-praznichniot-1-maj/",
+      "published": "Sun, 26 Apr 2026 11:29:05 +0000"
+    },
     {
       "region": "Македонија",
       "source": "Makfax",
@@ -31,10 +38,10 @@
     },
     {
       "region": "Македонија",
-      "source": "Makfax",
-      "title": "Салах го одигра последниот меч за Ливерпул",
-      "link": "https://makfax.com.mk/sport/salah-go-odigra-posledniot-mech-za-liverpul/",
-      "published": "Sun, 26 Apr 2026 09:47:00 +0000"
+      "source": "NetPress",
+      "title": "Во истиот хотел, два напада врз претседатели на САД",
+      "link": "https://netpress.com.mk/vo-istiot-hotel-dva-napada-vrz-pretsedateli-na-sad/",
+      "published": "Sun, 26 Apr 2026 11:23:00 +0000"
     },
     {
       "region": "Македонија",
@@ -63,13 +70,6 @@
       "title": "Доларот зајакна кон кошничката валути, во фокусот Блискиот исток",
       "link": "https://netpress.com.mk/dolarot-zajakna-kon-koshnichkata-valuti-vo-fokusot-bliskiot-istok/",
       "published": "Sun, 26 Apr 2026 10:11:13 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "ВИДЕО| Пожар во британска база каде се стационирани американски бомбардери",
-      "link": "https://netpress.com.mk/video-pozhar-vo-britanska-baza-kade-se-staczionirani-amerikanski-bombarderi/",
-      "published": "Sun, 26 Apr 2026 10:11:03 +0000"
     },
     {
       "region": "Свет",
@@ -109,6 +109,20 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "Mali’s Defence Minister Sadio Camara killed amid coordinated attacks",
+      "link": "https://www.aljazeera.com/news/2026/4/26/malis-defence-minister-sadio-camara-killed-amid-coordinated-attacks?traffic_source=rss",
+      "published": "Sun, 26 Apr 2026 10:50:12 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "What we know about the suspected ‘assassination attempt’ on Donald Trump",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/26/what-we-know-about-the-suspected-assassination-attempt-on-donald-trump?traffic_source=rss",
+      "published": "Sun, 26 Apr 2026 10:50:04 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "At least four people killed in Israeli attacks in Gaza despite ‘ceasefire’",
       "link": "https://www.aljazeera.com/news/2026/4/26/israeli-attacks-kill-at-least-four-palestinians-in-gaza?traffic_source=rss",
       "published": "Sun, 26 Apr 2026 10:20:31 +0000"
@@ -126,20 +140,6 @@
       "title": "Yemen’s landmine crisis endures despite truce and de-mining efforts",
       "link": "https://www.aljazeera.com/features/2026/4/26/yemens-landmine-crisis-endures-despite-truce-and-de-mining-efforts?traffic_source=rss",
       "published": "Sun, 26 Apr 2026 09:43:42 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Raghu Rai, legendary Indian photographer, dies at 83",
-      "link": "https://www.aljazeera.com/news/2026/4/26/raghu-rai-legendary-indian-photographer-dies-at-83?traffic_source=rss",
-      "published": "Sun, 26 Apr 2026 09:37:04 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "What to know about Cole Allen, alleged WH correspondents’ dinner shooter",
-      "link": "https://www.aljazeera.com/news/2026/4/26/who-is-the-suspected-correspondent-dinner-shooter-cole-tomas-allen?traffic_source=rss",
-      "published": "Sun, 26 Apr 2026 09:08:56 +0000"
     }
   ]
 }
