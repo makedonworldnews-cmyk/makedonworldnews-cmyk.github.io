@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-26T20:51:10Z",
+  "updatedAt": "2026-04-26T21:38:40Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Нула во дербито меѓу Милан и Јувентус",
+          "link": "https://makfax.com.mk/sport/nula-vo-derbito-megu-milan-i-juventus/",
+          "published": "Sun, 26 Apr 2026 21:00:59 +0000"
         },
         {
           "source": "Makfax",
@@ -35,10 +41,10 @@
           "published": "Sun, 26 Apr 2026 19:25:56 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Реал не е заинтересиран за легендата на Манчестер Сити",
-          "link": "https://makfax.com.mk/sport/real-ne-e-zainteresiran-za-legendata-na-manchester-siti/",
-          "published": "Sun, 26 Apr 2026 18:46:00 +0000"
+          "source": "NetPress",
+          "title": "Серија А: Без голови во дербито на Милан и Јувентус",
+          "link": "https://netpress.com.mk/serija-a-bez-golovi-vo-derbito-na-milan-i-juventus/",
+          "published": "Sun, 26 Apr 2026 21:11:16 +0000"
         },
         {
           "source": "NetPress",
@@ -63,12 +69,6 @@
           "title": "Трамп вели дека разговара со Путин и Зеленски",
           "link": "https://netpress.com.mk/tramp-veli-deka-razgovara-so-putin-i-zelenski/",
           "published": "Sun, 26 Apr 2026 19:11:58 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Бундеслига: Борусија Д. обезбеди пласман во Лига на шампионите",
-          "link": "https://netpress.com.mk/bundesliga-borusija-d-obezbedi-plasman-vo-liga-na-shampionite/",
-          "published": "Sun, 26 Apr 2026 19:04:54 +0000"
         }
       ]
     },
@@ -97,13 +97,19 @@
           "source": "BBC",
           "title": "Mali defence minister killed as country hit by wave of rebel attacks",
           "link": "https://www.bbc.com/news/articles/c5yvy7v66ndo?at_medium=RSS&at_campaign=rss",
-          "published": "Sun, 26 Apr 2026 20:36:07 GMT"
+          "published": "Sun, 26 Apr 2026 20:56:26 GMT"
         },
         {
           "source": "BBC",
           "title": "Netanyahu orders army to 'vigorously attack' Hezbollah in Lebanon",
           "link": "https://www.bbc.com/news/articles/c5yv1nvd4gjo?at_medium=RSS&at_campaign=rss",
           "published": "Sun, 26 Apr 2026 00:34:21 GMT"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Iran’s foreign minister leaves Pakistan, heads to Russia for more talks",
+          "link": "https://www.aljazeera.com/news/2026/4/26/irans-foreign-minister-leaves-pakistan-en-route-to-russia-for-more-talks?traffic_source=rss",
+          "published": "Sun, 26 Apr 2026 20:47:44 +0000"
         },
         {
           "source": "Al Jazeera",
@@ -128,12 +134,6 @@
           "title": "Former Israeli PMs Bennett, Lapid unite to challenge Netanyahu in elections",
           "link": "https://www.aljazeera.com/news/2026/4/26/former-israeli-pms-bennett-lapid-unite-to-challenge-netanyahu-in-elections?traffic_source=rss",
           "published": "Sun, 26 Apr 2026 20:05:50 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Has Iran exposed the limits of what US can achieve by force?",
-          "link": "https://www.aljazeera.com/video/the-bottom-line/2026/4/26/has-iran-exposed-the-limits-of-what-us-can-achieve-by-force?traffic_source=rss",
-          "published": "Sun, 26 Apr 2026 19:55:35 +0000"
         }
       ]
     }
