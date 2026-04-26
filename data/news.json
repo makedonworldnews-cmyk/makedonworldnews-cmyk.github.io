@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-26T14:09:16Z",
+  "updatedAt": "2026-04-26T15:01:28Z",
   "groups": [
     {
       "region": "Македонија",
@@ -42,6 +42,24 @@
         },
         {
           "source": "NetPress",
+          "title": "Македонските ракометарки изборија полуфинале на Светското училишно првенство",
+          "link": "https://netpress.com.mk/makedonskite-rakometarki-izborija-polufinale-na-svetskoto-uchilishno-prvenstvo/",
+          "published": "Sun, 26 Apr 2026 14:35:38 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Гореле автомобили со гевгелиски таблички рано утрово во Карпош",
+          "link": "https://netpress.com.mk/gorele-avtomobili-so-gevgeliski-tablichki-rano-utrovo-vo-karposh/",
+          "published": "Sun, 26 Apr 2026 14:26:59 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Возачот нагло закочил, постара скопјанка паднала во „9“-ка",
+          "link": "https://netpress.com.mk/vozachot-naglo-zakochil-postara-skopjanka-padnala-vo-9-ka/",
+          "published": "Sun, 26 Apr 2026 14:13:53 +0000"
+        },
+        {
+          "source": "NetPress",
           "title": "Бланч: Цел на напаѓачот биле Трамп и членови на неговата администрација",
           "link": "https://netpress.com.mk/blanch-czel-na-napagachot-bile-tramp-i-chlenovi-na-negovata-administraczija/",
           "published": "Sun, 26 Apr 2026 14:03:49 +0000"
@@ -51,24 +69,6 @@
           "title": "Мотоциклист удрен од автобус во Бутел",
           "link": "https://netpress.com.mk/motocziklist-udren-od-avtobus-vo-butel/",
           "published": "Sun, 26 Apr 2026 13:37:02 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Лондон: Кениецот Саве првиот што истрча маратон за помалку од два часа",
-          "link": "https://netpress.com.mk/london-kenieczot-save-prviot-shto-istrcha-maraton-za-pomalku-od-dva-chasa/",
-          "published": "Sun, 26 Apr 2026 12:19:51 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Уапсен кичевец – удрил пешак со автомобилот",
-          "link": "https://netpress.com.mk/uapsen-kichevecz-udril-peshak-so-avtomobilot/",
-          "published": "Sun, 26 Apr 2026 12:10:18 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Војната на Блискиот исток го истакна невоедначеното снабдување со керозин во Европа",
-          "link": "https://netpress.com.mk/vojnata-na-bliskiot-istok-go-istakna-nevoednachenoto-snabduvane-so-kerozin-vo-evropa/",
-          "published": "Sun, 26 Apr 2026 12:08:08 +0000"
         }
       ]
     },
@@ -107,6 +107,12 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "US-Iran conflict: What’s the latest as the Islamabad talks stall?",
+          "link": "https://www.aljazeera.com/news/2026/4/26/us-iran-conflict-whats-the-latest-as-the-islamabad-talks-stall?traffic_source=rss",
+          "published": "Sun, 26 Apr 2026 14:01:47 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Mali rattled by ongoing armed attacks: What to know",
           "link": "https://www.aljazeera.com/news/2026/4/26/mali-rattled-by-ongoing-armed-attacks-what-to-know?traffic_source=rss",
           "published": "Sun, 26 Apr 2026 13:46:40 +0000"
@@ -128,12 +134,6 @@
           "title": "Mali defence minister killed after coordinated attacks",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/4/26/mali-defence-minister-killed-after-coordinated-attacks?traffic_source=rss",
           "published": "Sun, 26 Apr 2026 13:42:28 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "What lies ahead for Gaza after ceasefires in Iran and Lebanon?",
-          "link": "https://www.aljazeera.com/news/2026/4/26/what-lies-ahead-for-gaza-after-ceasefires-in-iran-and-lebanon?traffic_source=rss",
-          "published": "Sun, 26 Apr 2026 13:20:08 +0000"
         }
       ]
     }
