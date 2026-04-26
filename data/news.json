@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-26T19:58:24Z",
+  "updatedAt": "2026-04-26T20:51:10Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,24 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Динамо ја освои титулата во Хрватска",
+          "link": "https://makfax.com.mk/sport/dinamo-ja-osvoi-titulata-vo-hrvatska/",
+          "published": "Sun, 26 Apr 2026 20:27:56 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) Голманот на Сарагоса брутално нокаутира противнички играч",
+          "link": "https://makfax.com.mk/sport/video-golmanot-na-saragosa-brutalno-nokautira-protivnichki-igrach/",
+          "published": "Sun, 26 Apr 2026 20:20:56 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) Избегната трагедија во Охрид: параглајдер слета меѓу луѓе на Куба Либре",
+          "link": "https://makfax.com.mk/makedonija/video-izbegnata-tragedija-vo-ohrid-paraglajder-sleta-megu-luge-na-kuba-libre/",
+          "published": "Sun, 26 Apr 2026 20:01:27 +0000"
         },
         {
           "source": "Makfax",
@@ -23,22 +41,16 @@
           "published": "Sun, 26 Apr 2026 18:46:00 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Јане Ченто утре ќе поднесе кривична против Вилма Рускоска",
-          "link": "https://makfax.com.mk/makedonija/jane-chento-utre-ke-podnese-krivichna-protiv-vilma-ruskoska/",
-          "published": "Sun, 26 Apr 2026 18:41:12 +0000"
+          "source": "NetPress",
+          "title": "НБА: Торонто израмни во серијата со Кливленд",
+          "link": "https://netpress.com.mk/nba-toronto-izramni-vo-serijata-so-klivlend/",
+          "published": "Sun, 26 Apr 2026 20:41:07 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "(Видео) Интер испушти предност од два гола во Торино, Ди Марко влезе во историјата на Серија А",
-          "link": "https://makfax.com.mk/sport/video-inter-ispushti-prednost-od-dva-gola-vo-torino-di-marko-vleze-vo-istorijata-na-serija-a/",
-          "published": "Sun, 26 Apr 2026 18:34:22 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "(Видео) Црвена звезда во дербито против Партизан ја одбрани титулата",
-          "link": "https://makfax.com.mk/sport/video-crvena-zvezda-vo-derbito-protiv-partizan-ja-odbrani-titulata/",
-          "published": "Sun, 26 Apr 2026 18:24:07 +0000"
+          "source": "NetPress",
+          "title": "Кралот Чарлс патува во САД и покрај атентатот во Вашингтон",
+          "link": "https://netpress.com.mk/kralot-charls-patuva-vo-sad-i-pokraj-atentatot-vo-vashington/",
+          "published": "Sun, 26 Apr 2026 20:11:52 +0000"
         },
         {
           "source": "NetPress",
@@ -57,18 +69,6 @@
           "title": "Бундеслига: Борусија Д. обезбеди пласман во Лига на шампионите",
           "link": "https://netpress.com.mk/bundesliga-borusija-d-obezbedi-plasman-vo-liga-na-shampionite/",
           "published": "Sun, 26 Apr 2026 19:04:54 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Иран може да се јави ако сака да разговара, порача Трамп",
-          "link": "https://netpress.com.mk/iran-mozhe-da-se-javi-ako-saka-da-razgovara-poracha-tramp/",
-          "published": "Sun, 26 Apr 2026 18:44:15 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Кочанскиот хотел-ресторан „Але – Дар“ го демантира МВР: Се поставува застаклена тераса",
-          "link": "https://netpress.com.mk/kochanskiot-hotel-restoran-ale-dar-go-demantira-mvr-se-postavuva-zastaklena-terasa/",
-          "published": "Sun, 26 Apr 2026 18:33:40 +0000"
         }
       ]
     },
@@ -95,45 +95,45 @@
         },
         {
           "source": "BBC",
+          "title": "Mali defence minister killed as country hit by wave of rebel attacks",
+          "link": "https://www.bbc.com/news/articles/c5yvy7v66ndo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 26 Apr 2026 20:36:07 GMT"
+        },
+        {
+          "source": "BBC",
           "title": "Netanyahu orders army to 'vigorously attack' Hezbollah in Lebanon",
           "link": "https://www.bbc.com/news/articles/c5yv1nvd4gjo?at_medium=RSS&at_campaign=rss",
           "published": "Sun, 26 Apr 2026 00:34:21 GMT"
         },
         {
-          "source": "BBC",
-          "title": "Armed groups launch coordinated attacks across Mali",
-          "link": "https://www.bbc.com/news/articles/clyx7nnrkqdo?at_medium=RSS&at_campaign=rss",
-          "published": "Sun, 26 Apr 2026 08:56:02 GMT"
+          "source": "Al Jazeera",
+          "title": "Israeli settler attacks Hebron activist’s home as soldier looks on",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/26/israeli-settler-attacks-hebron-activists-home-as-soldier-looks-on?traffic_source=rss",
+          "published": "Sun, 26 Apr 2026 20:27:04 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Israel issues forced evacuation orders for southern Lebanon in escalation",
-          "link": "https://www.aljazeera.com/news/2026/4/26/israel-issues-forced-evacuation-orders-for-southern-lebanon-in-escalation?traffic_source=rss",
-          "published": "Sun, 26 Apr 2026 19:09:56 +0000"
+          "title": "What’s driving attacks against gov’t and Russian forces in Mali?",
+          "link": "https://www.aljazeera.com/video/inside-story/2026/4/26/whats-driving-attacks-against-govt-and-russian-forces-in-mali?traffic_source=rss",
+          "published": "Sun, 26 Apr 2026 20:26:47 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Kenya’s Sawe shatters two-hour marathon barrier",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/26/kenyas-sawe-shatters-two-hour-marathon-barrier?traffic_source=rss",
-          "published": "Sun, 26 Apr 2026 18:43:05 +0000"
+          "title": "Bomb attack on Colombia highway kills 19 ahead of election",
+          "link": "https://www.aljazeera.com/gallery/2026/4/26/bomb-attack-on-colombia-highway-kills-19-ahead-of-election?traffic_source=rss",
+          "published": "Sun, 26 Apr 2026 20:15:29 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Accused shooter was targeting Trump and US officials, authorities say",
-          "link": "https://www.aljazeera.com/news/2026/4/26/trump-his-administration-likely-targets-at-media-dinner-us-official?traffic_source=rss",
-          "published": "Sun, 26 Apr 2026 18:03:11 +0000"
+          "title": "Former Israeli PMs Bennett, Lapid unite to challenge Netanyahu in elections",
+          "link": "https://www.aljazeera.com/news/2026/4/26/former-israeli-pms-bennett-lapid-unite-to-challenge-netanyahu-in-elections?traffic_source=rss",
+          "published": "Sun, 26 Apr 2026 20:05:50 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "First trial of Assad-era Syrian official starts in Damascus",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/26/first-trial-of-assad-era-syrian-official-starts-in-damascus?traffic_source=rss",
-          "published": "Sun, 26 Apr 2026 17:49:30 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Thai police arrest Indonesian wanted for $10m cyberfraud",
-          "link": "https://www.aljazeera.com/news/2026/4/26/thai-police-arrest-indonesian-wanted-for-10m-cyberfraud?traffic_source=rss",
-          "published": "Sun, 26 Apr 2026 17:38:00 +0000"
+          "title": "Has Iran exposed the limits of what US can achieve by force?",
+          "link": "https://www.aljazeera.com/video/the-bottom-line/2026/4/26/has-iran-exposed-the-limits-of-what-us-can-achieve-by-force?traffic_source=rss",
+          "published": "Sun, 26 Apr 2026 19:55:35 +0000"
         }
       ]
     }
