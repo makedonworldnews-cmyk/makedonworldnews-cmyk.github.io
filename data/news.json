@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-26T15:01:28Z",
+  "updatedAt": "2026-04-26T15:54:49Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,24 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Шест пријави за семејно насилство во последното деноноќие",
+          "link": "https://makfax.com.mk/crna-hronika/shest-prijavi-za-semejno-nasilstvo-vo-poslednoto-denonokie/",
+          "published": "Sun, 26 Apr 2026 15:25:32 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Додека ние трчаме по пари, тие трчаат по среќа, на овој остров секој „втор“ човек има 100 години",
+          "link": "https://makfax.com.mk/svet/dodeka-nie-trchame-po-pari-tie-trchaat-po-sreka-na-ovoj-ostrov-sekoj-vtor-chovek-ima-100-godini/",
+          "published": "Sun, 26 Apr 2026 15:22:13 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Планинар ја оставил девојката да умре на највисоката планина во Австрија",
+          "link": "https://makfax.com.mk/makedonija/planinar-ja-ostavil-devojkata-da-umre-na-najvisokata-planina-vo-avstrija/",
+          "published": "Sun, 26 Apr 2026 15:05:49 +0000"
         },
         {
           "source": "Makfax",
@@ -23,22 +41,22 @@
           "published": "Sun, 26 Apr 2026 13:16:35 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Возач починал откако излетал од патот кај Кичево",
-          "link": "https://makfax.com.mk/crna-hronika/vozach-pochinal-otkako-izletal-od-patot-kaj-kichevo/",
-          "published": "Sun, 26 Apr 2026 13:10:54 +0000"
+          "source": "NetPress",
+          "title": "Пожар во сендвичарница на охридскиот кеј, двајца вработени задобиле изгореници",
+          "link": "https://netpress.com.mk/pozhar-vo-sendvicharnicza-na-ohridskiot-kej-dvajcza-vraboteni-zadobile-izgoreniczi/",
+          "published": "Sun, 26 Apr 2026 15:50:24 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Пешак тешко повреден во сообраќајка во Валандово",
-          "link": "https://makfax.com.mk/crna-hronika/peshak-teshko-povreden-vo-soobrakajka-vo-valandovo/",
-          "published": "Sun, 26 Apr 2026 13:04:04 +0000"
+          "source": "NetPress",
+          "title": "Автомобил излетал од патот, возачот е мртов – се пожалил на болки во градите",
+          "link": "https://netpress.com.mk/avtomobil-izletal-od-patot-vozachot-e-mrtov-se-pozhalil-na-bolki-vo-gradite/",
+          "published": "Sun, 26 Apr 2026 15:47:58 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Патничка тешко повредена по нагло кочење на автобус во Скопје",
-          "link": "https://makfax.com.mk/crna-hronika/patnichka-teshko-povredena-po-naglo-kochenje-na-avtobus-vo-skopje/",
-          "published": "Sun, 26 Apr 2026 13:00:11 +0000"
+          "source": "NetPress",
+          "title": "Скопската полиција вчера казнила 105 мотоциклисти – 50 од нив не носеле кациги",
+          "link": "https://netpress.com.mk/skopskata-policzija-vchera-kaznila-105-motocziklisti-50-od-niv-ne-nosele-kaczigi/",
+          "published": "Sun, 26 Apr 2026 15:27:39 +0000"
         },
         {
           "source": "NetPress",
@@ -51,24 +69,6 @@
           "title": "Гореле автомобили со гевгелиски таблички рано утрово во Карпош",
           "link": "https://netpress.com.mk/gorele-avtomobili-so-gevgeliski-tablichki-rano-utrovo-vo-karposh/",
           "published": "Sun, 26 Apr 2026 14:26:59 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Возачот нагло закочил, постара скопјанка паднала во „9“-ка",
-          "link": "https://netpress.com.mk/vozachot-naglo-zakochil-postara-skopjanka-padnala-vo-9-ka/",
-          "published": "Sun, 26 Apr 2026 14:13:53 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Бланч: Цел на напаѓачот биле Трамп и членови на неговата администрација",
-          "link": "https://netpress.com.mk/blanch-czel-na-napagachot-bile-tramp-i-chlenovi-na-negovata-administraczija/",
-          "published": "Sun, 26 Apr 2026 14:03:49 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Мотоциклист удрен од автобус во Бутел",
-          "link": "https://netpress.com.mk/motocziklist-udren-od-avtobus-vo-butel/",
-          "published": "Sun, 26 Apr 2026 13:37:02 +0000"
         }
       ]
     },
@@ -107,33 +107,33 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "New footage shows moment of deadly bus bombing in Colombia",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/26/new-footage-shows-moment-of-deadly-bus-bombing-in-colombia?traffic_source=rss",
+          "published": "Sun, 26 Apr 2026 15:38:20 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "‘State of war’: Why Israel has escalated attacks in Gaza",
+          "link": "https://www.aljazeera.com/news/2026/4/26/state-of-war-why-israel-has-escalated-attacks-in-gaza?traffic_source=rss",
+          "published": "Sun, 26 Apr 2026 15:32:20 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Will Yamal, Salah and Ekitike miss the World Cup 2026 due to injury?",
+          "link": "https://www.aljazeera.com/sports/2026/4/26/will-yamal-salah-and-ekitike-miss-the-world-cup-2026-due-to-injury?traffic_source=rss",
+          "published": "Sun, 26 Apr 2026 15:19:35 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "War, the Gulf & Rethinking Money in Sport",
+          "link": "https://www.aljazeera.com/video/game-theory/2026/4/26/aje-onl-gulf-sport_v3-260426?traffic_source=rss",
+          "published": "Sun, 26 Apr 2026 15:06:12 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "US-Iran conflict: What’s the latest as the Islamabad talks stall?",
           "link": "https://www.aljazeera.com/news/2026/4/26/us-iran-conflict-whats-the-latest-as-the-islamabad-talks-stall?traffic_source=rss",
           "published": "Sun, 26 Apr 2026 14:01:47 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Mali rattled by ongoing armed attacks: What to know",
-          "link": "https://www.aljazeera.com/news/2026/4/26/mali-rattled-by-ongoing-armed-attacks-what-to-know?traffic_source=rss",
-          "published": "Sun, 26 Apr 2026 13:46:40 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "40 years since the world’s worst nuclear disaster in Ukraine",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/26/40-years-since-the-worlds-worst-nuclear-disaster-in-ukraine?traffic_source=rss",
-          "published": "Sun, 26 Apr 2026 13:45:49 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Israel feared Amal Khalil, just as it did Shireen Abu Akleh",
-          "link": "https://www.aljazeera.com/opinions/2026/4/26/israel-feared-amal-khalil-just-as-it-did-shireen-abu-akleh?traffic_source=rss",
-          "published": "Sun, 26 Apr 2026 13:45:14 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Mali defence minister killed after coordinated attacks",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/26/mali-defence-minister-killed-after-coordinated-attacks?traffic_source=rss",
-          "published": "Sun, 26 Apr 2026 13:42:28 +0000"
         }
       ]
     }
