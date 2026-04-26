@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-25T23:38:44Z",
+  "updatedAt": "2026-04-26T01:13:01Z",
   "groups": [
     {
       "region": "Македонија",
@@ -107,7 +107,25 @@
         },
         {
           "source": "Al Jazeera",
-          "title": "Explosion in southwest Colombia kills at least seven, state governor says",
+          "title": "Trump evacuated from the White House correspondents’ dinner",
+          "link": "https://www.aljazeera.com/news/2026/4/26/trump-evacuated-from-the-white-house-correspondents-dinner?traffic_source=rss",
+          "published": "Sun, 26 Apr 2026 00:47:41 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Iran war live: Tehran rejects talks under siege, Trump cancels envoys’ trip",
+          "link": "https://www.aljazeera.com/news/liveblog/2026/4/26/iran-war-live-tehran-rejects-talks-under-siege-trump-cancels-envoys-trip?traffic_source=rss",
+          "published": "Sun, 26 Apr 2026 00:00:00 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Protesters stage Epstein protest before White House Correspondents’ Dinner",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/25/protesters-stage-epstein-protest-before-white-house-correspondents-dinner?traffic_source=rss",
+          "published": "Sat, 25 Apr 2026 23:50:03 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Explosion in southwest Colombia kills at least 14, state governor says",
           "link": "https://www.aljazeera.com/news/2026/4/25/explosion-in-southwest-colombia-kills-at-leat-seven-state-governor-says?traffic_source=rss",
           "published": "Sat, 25 Apr 2026 21:03:51 +0000"
         },
@@ -116,24 +134,6 @@
           "title": "How serious is the rift in NATO?",
           "link": "https://www.aljazeera.com/video/inside-story/2026/4/25/how-serious-is-the-rift-in-nato?traffic_source=rss",
           "published": "Sat, 25 Apr 2026 20:55:54 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Family longest held in US immigration detention re-arrested after release",
-          "link": "https://www.aljazeera.com/news/2026/4/25/family-longest-held-in-us-immigration-detention-re-arrested-after-release?traffic_source=rss",
-          "published": "Sat, 25 Apr 2026 20:55:19 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Trump puts onus on Iran’s authorities as they project hardened stance",
-          "link": "https://www.aljazeera.com/news/2026/4/25/irans-authorities-project-hardened-stance-with-more-talks-on-horizon?traffic_source=rss",
-          "published": "Sat, 25 Apr 2026 19:54:57 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Police arrest demonstrators at pro-Palestine rally in Berlin",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/25/police-arrest-demonstrators-at-pro-palestine-rally-in-berlin?traffic_source=rss",
-          "published": "Sat, 25 Apr 2026 19:51:58 +0000"
         }
       ]
     }
