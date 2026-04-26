@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-26T16:43:19Z",
+  "updatedAt": "2026-04-26T17:26:47Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Без струја утре делови од Карпош и Петровец",
+          "link": "https://makfax.com.mk/makedonija/bez-struja-utre-delovi-od-karposh-i-petrovec/",
+          "published": "Sun, 26 Apr 2026 17:23:24 +0000"
         },
         {
           "source": "Makfax",
@@ -35,10 +41,22 @@
           "published": "Sun, 26 Apr 2026 15:05:49 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "(Видео) Алекс победи во Херез, Марк не ја заврши трката",
-          "link": "https://makfax.com.mk/sport/video-aleks-pobedi-vo-herez-mark-ne-ja-zavrshi-trkata/",
-          "published": "Sun, 26 Apr 2026 13:44:12 +0000"
+          "source": "NetPress",
+          "title": "Ноќен лов на полицијата во Скопје – еден пијан возач уапсен",
+          "link": "https://netpress.com.mk/noken-lov-na-policzijata-vo-skopje-eden-pijan-vozach-uapsen/",
+          "published": "Sun, 26 Apr 2026 17:14:25 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "„Експедиција низ срцето на Илинден 2026“ обедини стотици велосипедисти и планинари",
+          "link": "https://netpress.com.mk/ekspediczija-niz-srczeto-na-ilinden-2026-obedini-stoticzi-velosipedisti-i-planinari/",
+          "published": "Sun, 26 Apr 2026 17:02:45 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Малолетници краделе во ГТЦ, со себе имале нож и електрошокер",
+          "link": "https://netpress.com.mk/maloletniczi-kradele-vo-gtcz-so-sebe-imale-nozh-i-elektroshoker/",
+          "published": "Sun, 26 Apr 2026 16:50:39 +0000"
         },
         {
           "source": "NetPress",
@@ -51,24 +69,6 @@
           "title": "Стојаноски:  Измените на Законот за концесии и јавно-приватно партнерство не даваат можност за исклучоци или привилегии",
           "link": "https://netpress.com.mk/stojanoski-izmenite-na-zakonot-za-konczesii-i-javno-privatno-partnerstvo-ne-davaat-mozhnost-za-iskluchoczi-ili-privilegii/",
           "published": "Sun, 26 Apr 2026 16:29:39 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Битола меѓу топ 5 локации во Европа кои вреди да се посетат",
-          "link": "https://netpress.com.mk/bitola-megu-top-5-lokaczii-vo-evropa-koi-vredi-da-se-posetat/",
-          "published": "Sun, 26 Apr 2026 16:17:23 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Поранешните премиери Бенет и Лапид ќе се обидат заедно да го победат Нетанјаху на изборите",
-          "link": "https://netpress.com.mk/poraneshnite-premieri-benet-i-lapid-ke-se-obidat-zaedno-da-go-pobedat-netanjahu-na-izborite/",
-          "published": "Sun, 26 Apr 2026 16:14:56 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Без струја утре делови од едно село и една населба во Скопје",
-          "link": "https://netpress.com.mk/bez-struja-utre-delovi-od-edno-selo-i-edna-naselba-vo-skopje/",
-          "published": "Sun, 26 Apr 2026 16:03:25 +0000"
         }
       ]
     },
@@ -107,6 +107,18 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Iran shifts economic focus to essentials during war uncertainty",
+          "link": "https://www.aljazeera.com/news/2026/4/26/iran-shifts-economic-focus-to-essentials-amid-war-uncertainty?traffic_source=rss",
+          "published": "Sun, 26 Apr 2026 17:00:10 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Abbas loyalists sweep Palestinian elections, including some seats in Gaza",
+          "link": "https://www.aljazeera.com/news/2026/4/26/abbas-loyalists-sweep-palestine-elections-in-occupied-west-bank-gaza-city?traffic_source=rss",
+          "published": "Sun, 26 Apr 2026 16:50:27 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "New footage shows moment of deadly bus bombing in Colombia",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/4/26/new-footage-shows-moment-of-deadly-bus-bombing-in-colombia?traffic_source=rss",
           "published": "Sun, 26 Apr 2026 15:38:20 +0000"
@@ -122,18 +134,6 @@
           "title": "Will Yamal, Salah and Ekitike miss the World Cup 2026 due to injury?",
           "link": "https://www.aljazeera.com/sports/2026/4/26/will-yamal-salah-and-ekitike-miss-the-world-cup-2026-due-to-injury?traffic_source=rss",
           "published": "Sun, 26 Apr 2026 15:19:35 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "War, the Gulf & Rethinking Money in Sport",
-          "link": "https://www.aljazeera.com/video/game-theory/2026/4/26/aje-onl-gulf-sport_v3-260426?traffic_source=rss",
-          "published": "Sun, 26 Apr 2026 15:06:12 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "US-Iran conflict: What’s the latest as the Islamabad talks stall?",
-          "link": "https://www.aljazeera.com/news/2026/4/26/us-iran-conflict-whats-the-latest-as-the-islamabad-talks-stall?traffic_source=rss",
-          "published": "Sun, 26 Apr 2026 14:01:47 +0000"
         }
       ]
     }
