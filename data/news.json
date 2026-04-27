@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-27T22:28:32Z",
+  "updatedAt": "2026-04-27T23:29:17Z",
   "groups": [
     {
       "region": "Македонија",
@@ -107,6 +107,12 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "US Supreme Court reinstates Republican-favoured Texas electoral map",
+          "link": "https://www.aljazeera.com/news/2026/4/27/us-supreme-court-reinstates-republican-favoured-texas-electoral-map?traffic_source=rss",
+          "published": "Mon, 27 Apr 2026 22:48:22 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Bahrain strips 69 people of citizenship over Iran support",
           "link": "https://www.aljazeera.com/news/2026/4/27/bahrain-strips-69-people-of-citizenship-over-iran-support?traffic_source=rss",
           "published": "Mon, 27 Apr 2026 21:51:37 +0000"
@@ -128,12 +134,6 @@
           "title": "Who holds the cards in Iran-US talks?",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/4/27/who-holds-the-cards-in-iran-us-talks?traffic_source=rss",
           "published": "Mon, 27 Apr 2026 21:00:18 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Iran FM in Russia says US has offered new round of talks",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/27/iran-fm-in-russia-says-us-has-offered-new-round-of-talks?traffic_source=rss",
-          "published": "Mon, 27 Apr 2026 20:59:56 +0000"
         }
       ]
     }
