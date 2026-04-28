@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-28T20:38:03Z",
+  "updatedAt": "2026-04-28T21:41:47Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,24 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Шок во Мадрид – Сабаленка испадна од Баптист",
+          "link": "https://makfax.com.mk/sport/shok-vo-madrid-sabalenka-ispadna-od-baptist/",
+          "published": "Tue, 28 Apr 2026 21:22:00 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Апсолутен спектакл во Париз: ПСЖ-Баерн 5:4",
+          "link": "https://makfax.com.mk/sport/apsoluten-spektakl-vo-pariz-pszh-baern-54/",
+          "published": "Tue, 28 Apr 2026 21:09:00 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Дебакл на Вардар 1961 во Монпелје",
+          "link": "https://makfax.com.mk/sport/debakl-na-vardar-1961-vo-monpelje/",
+          "published": "Tue, 28 Apr 2026 20:48:57 +0000"
         },
         {
           "source": "Makfax",
@@ -23,58 +41,46 @@
           "published": "Tue, 28 Apr 2026 20:07:53 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "(Фото) Таа денес го прослави својот 45-ти роденден, сè уште прекрасна",
-          "link": "https://makfax.com.mk/zanimlivosti/tri-znaka-izleguvaat-od-mrachniot-period-po-28-april-tie-poveke-nema-da-bidat-sami/",
-          "published": "Tue, 28 Apr 2026 20:06:17 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Мурињо се враќа во Мадрид?",
-          "link": "https://makfax.com.mk/sport/murinjo-se-vraka-vo-madrid/",
-          "published": "Tue, 28 Apr 2026 19:54:00 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "(Фото) Се соблече Ана Ивановиќ и покажа „убиствено“ тело: подготвена е за новата летна сезона",
-          "link": "https://makfax.com.mk/zanimlivosti/foto-se-sobleche-ana-ivanovik-i-pokazha-ubistveno-telo-podgotvena-e-za-novata-letna-sezona/",
-          "published": "Tue, 28 Apr 2026 19:38:04 +0000"
+          "source": "NetPress",
+          "title": "ЛШ: Спектакл на „Паркот на принцовите“, девет голови во пресметката на ПСЖ и Баерн",
+          "link": "https://netpress.com.mk/lsh-spektakl-na-parkot-na-princzovite-devet-golovi-vo-presmetkata-na-pszh-i-baern/",
+          "published": "Tue, 28 Apr 2026 21:31:10 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Лука Зидан има скршеница на вилицата, неизвесен за Светското првенство",
-          "link": "https://netpress.com.mk/luka-zidan-ima-skrshenicza-na-viliczata-neizvesen-za-svetskoto-prvenstvo/",
-          "published": "Tue, 28 Apr 2026 20:33:41 +0000"
+          "title": "Филипче доби шлаканица од Вајц, европратеникот вели Македонија има напредок на патот кон ЕУ",
+          "link": "https://netpress.com.mk/filipche-dobi-shlakanicza-od-vajcz-evropratenikot-veli-makedonija-ima-napredok-na-patot-kon-eu/",
+          "published": "Tue, 28 Apr 2026 21:07:19 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Трамп констатира, Американците немаат поблиски сојузници од Британците",
-          "link": "https://netpress.com.mk/tramp-konstatira-amerikanczite-nemaat-pobliski-sojuzniczi-od-britanczite/",
-          "published": "Tue, 28 Apr 2026 19:40:19 +0000"
+          "title": "Вајц за Канал 5: Интервјуто за бугарската телевизија е старо, Македонија забележува напредок",
+          "link": "https://netpress.com.mk/vajcz-za-kanal-5-intervjuto-za-bugarskata-televizija-e-staro-makedonija-zabelezhuva-napredok/",
+          "published": "Tue, 28 Apr 2026 21:04:08 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Владата посветено работи на реформите, целта е да бидеме лидери во регионот",
-          "link": "https://netpress.com.mk/vladata-posveteno-raboti-na-reformite-czelta-e-da-bideme-lideri-vo-regionot/",
-          "published": "Tue, 28 Apr 2026 19:36:21 +0000"
+          "title": "Помалите европски аеродроми во ризик поради кризата со гориво",
+          "link": "https://netpress.com.mk/pomalite-evropski-aerodromi-vo-rizik-poradi-krizata-so-gorivo/",
+          "published": "Tue, 28 Apr 2026 20:43:12 +0000"
         },
         {
           "source": "NetPress",
-          "title": "ЕП бара дефиницијата за силување да се темели на принципот „само да значи да“",
-          "link": "https://netpress.com.mk/ep-bara-definiczijata-za-siluvane-da-se-temeli-na-princzipot-samo-da-znachi-da/",
-          "published": "Tue, 28 Apr 2026 19:12:20 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Силувал малолетничка, ја снимал и се заканувал, Обвинителството бара притвор",
-          "link": "https://netpress.com.mk/siluval-maloletnichka-ja-snimal-i-se-zakanuval-obvinitelstvoto-bara-pritvor/",
-          "published": "Tue, 28 Apr 2026 19:10:45 +0000"
+          "title": "Уставните измени може да се стават на маса кога ќе се изгради доверба преку јасни гаранции",
+          "link": "https://netpress.com.mk/ustavnite-izmeni-mozhe-da-se-stavat-na-masa-koga-ke-se-izgradi-doverba-preku-jasni-garanczii/",
+          "published": "Tue, 28 Apr 2026 20:39:20 +0000"
         }
       ]
     },
     {
       "region": "Свет",
       "items": [
+        {
+          "source": "BBC",
+          "title": "Former FBI director James Comey charged with threatening Trump's life",
+          "link": "https://www.bbc.com/news/articles/cvgz4rvlem5o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 28 Apr 2026 21:12:36 GMT"
+        },
         {
           "source": "BBC",
           "title": "United Arab Emirates to quit oil cartel Opec",
@@ -95,15 +101,21 @@
         },
         {
           "source": "BBC",
-          "title": "Former FBI director James Comey indicted for second time",
-          "link": "https://www.bbc.com/news/articles/cvgz4rvlem5o?at_medium=RSS&at_campaign=rss",
-          "published": "Tue, 28 Apr 2026 19:54:14 GMT"
-        },
-        {
-          "source": "BBC",
           "title": "US regulator to review Disney broadcast licences after Jimmy Kimmel joke about Melania Trump",
           "link": "https://www.bbc.com/news/articles/c4g0zwxl3k0o?at_medium=RSS&at_campaign=rss",
           "published": "Tue, 28 Apr 2026 19:48:49 GMT"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Mountaineer climbs Everest for Palestinian children",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/28/mountaineer-climbs-everest-for-palestinian-children?traffic_source=rss",
+          "published": "Tue, 28 Apr 2026 21:11:45 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Armed group announces siege on Mali capital",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/28/armed-group-announces-siege-on-mali-capital?traffic_source=rss",
+          "published": "Tue, 28 Apr 2026 21:08:01 +0000"
         },
         {
           "source": "Al Jazeera",
@@ -122,18 +134,6 @@
           "title": "Congress cheers King Charles for underlining ‘checks and balances’",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/4/28/congress-cheers-king-charles-for-underlining-checks-and?traffic_source=rss",
           "published": "Tue, 28 Apr 2026 20:28:08 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Nearly eight million people in South Sudan at risk of acute hunger: NGOs",
-          "link": "https://www.aljazeera.com/news/2026/4/28/nearly-eight-million-people-in-south-sudan-at-risk-of-acute-hunger-ngos?traffic_source=rss",
-          "published": "Tue, 28 Apr 2026 20:03:35 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Trump scolds Germany’s Merz for criticism of Iran war",
-          "link": "https://www.aljazeera.com/news/2026/4/28/trump-scolds-germanys-merz-for-criticism-of-iran-war?traffic_source=rss",
-          "published": "Tue, 28 Apr 2026 19:59:29 +0000"
         }
       ]
     }
