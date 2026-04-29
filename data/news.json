@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-29T20:03:22Z",
+  "updatedAt": "2026-04-29T21:16:10Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) Пенали за реми во Мадрид, одлуката за финалистот паѓа во Лондон",
+          "link": "https://makfax.com.mk/sport/video-penali-za-remi-vo-madrid-odlukata-za-finalistot-paga-vo-london/",
+          "published": "Wed, 29 Apr 2026 21:11:56 +0000"
         },
         {
           "source": "Makfax",
@@ -35,15 +41,21 @@
           "published": "Wed, 29 Apr 2026 18:47:08 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Маѓар по средбата со фон дер Лајен: Разговорите за замрзнатите милијарди беа крајно успешни",
-          "link": "https://makfax.com.mk/svet/magar-po-sredbata-so-fon-der-lajen-razgovorite-za-zamrznatite-milijardi-bea-krajno-uspeshni/",
-          "published": "Wed, 29 Apr 2026 18:42:28 +0000"
+          "source": "NetPress",
+          "title": "Италија бара отштета од Швајцарија за пожарот во ски-центарот Кран-Монтана",
+          "link": "https://netpress.com.mk/italija-bara-otshteta-od-shvajczarija-za-pozharot-vo-ski-czentarot-kran-montana/",
+          "published": "Wed, 29 Apr 2026 20:51:38 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Словенија: Усвоени измени на Законот за влада, се надѕира нова коалиција",
-          "link": "https://netpress.com.mk/slovenija-usvoeni-izmeni-na-zakonot-za-vlada-se-nadzira-nova-koaliczija/",
+          "title": "Од утре во употреба клучката Требениште на автопатот Охрид – Кичево",
+          "link": "https://netpress.com.mk/od-utre-vo-upotreba-kluchkata-trebenishte-na-avtopatot-ohrid-kichevo/",
+          "published": "Wed, 29 Apr 2026 20:37:45 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Словенија: Усвоени измени на Законот за влада, се наѕира нова коалиција",
+          "link": "https://netpress.com.mk/slovenija-usvoeni-izmeni-na-zakonot-za-vlada-se-nazira-nova-koaliczija/",
           "published": "Wed, 29 Apr 2026 19:51:50 +0000"
         },
         {
@@ -57,18 +69,6 @@
           "title": "Државата има институционален капацитет за фер и демократски избори, техничката влада ги покажа слабостите, време е за укинување",
           "link": "https://netpress.com.mk/drzhavata-ima-instituczionalen-kapaczitet-za-fer-i-demokratski-izbori-tehnichkata-vlada-gi-pokazha-slabostite-vreme-e-za-ukinuvane/",
           "published": "Wed, 29 Apr 2026 19:14:14 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Иранците се повлекоа од Конгресот на ФИФА поради однесувањето на имиграцискиот персонал",
-          "link": "https://netpress.com.mk/iranczite-se-povlekoa-od-kongresot-na-fifa-poradi-odnesuvaneto-na-imigracziskiot-personal/",
-          "published": "Wed, 29 Apr 2026 19:07:48 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Техничката влада замина во историјата",
-          "link": "https://netpress.com.mk/tehnichkata-vlada-zamina-vo-istorijata/",
-          "published": "Wed, 29 Apr 2026 18:21:07 +0000"
         }
       ]
     },
@@ -77,15 +77,15 @@
       "items": [
         {
           "source": "BBC",
-          "title": "Oil price soars above $118 after reports of 'extended' Iran blockade",
+          "title": "Oil price briefly hits $120 after reports of 'extended' Iran blockade",
           "link": "https://www.bbc.com/news/articles/cj4pxr0gr02o?at_medium=RSS&at_campaign=rss",
-          "published": "Wed, 29 Apr 2026 19:06:06 GMT"
+          "published": "Wed, 29 Apr 2026 20:24:29 GMT"
         },
         {
           "source": "BBC",
           "title": "Comey surrenders over charge of threatening Trump's life in Instagram post",
           "link": "https://www.bbc.com/news/articles/c70vzj1nrddo?at_medium=RSS&at_campaign=rss",
-          "published": "Wed, 29 Apr 2026 18:40:39 GMT"
+          "published": "Wed, 29 Apr 2026 20:24:48 GMT"
         },
         {
           "source": "BBC",
@@ -107,33 +107,33 @@
         },
         {
           "source": "Al Jazeera",
-          "title": "US lawmakers question Pete Hegseth over budget for war on Iran",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/29/us-lawmakers-question-pete-hegseth-over-budget-for-war-on-iran?traffic_source=rss",
-          "published": "Wed, 29 Apr 2026 19:39:22 +0000"
+          "title": "New Florida map boosts Republican seats amid national redistricting fight",
+          "link": "https://www.aljazeera.com/news/2026/4/29/new-florida-map-boosts-republican-seats-amid-national-redistricting-fight?traffic_source=rss",
+          "published": "Wed, 29 Apr 2026 20:56:32 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Pentagon chief Hegseth first public hearing on Iran war: Key takeaways",
-          "link": "https://www.aljazeera.com/news/2026/4/29/pentagon-chief-hegseth-first-public-hearing-on-iran-war-key-takeaways?traffic_source=rss",
-          "published": "Wed, 29 Apr 2026 19:38:54 +0000"
+          "title": "Trump: Putin offered to help settle Iranian nuclear enrichment impasse",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/29/trump-putin-offered-to-help-settle-iranian-nuclear-enrichment-impasse?traffic_source=rss",
+          "published": "Wed, 29 Apr 2026 20:52:47 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Two Jewish men stabbed in London ‘terrorist attack’",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/29/two-jewish-men-stabbed-in-london-terrorist?traffic_source=rss",
-          "published": "Wed, 29 Apr 2026 19:32:49 +0000"
+          "title": "Why is the UAE quitting OPEC – and what’s the impact?",
+          "link": "https://www.aljazeera.com/video/inside-story/2026/4/29/why-is-the-uae-quitting-opec-and-whats-the-impact?traffic_source=rss",
+          "published": "Wed, 29 Apr 2026 20:51:25 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Indonesian soldiers on trial after acid attack on activist",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/29/indonesian-soldiers-on-trial-after-acid-attack-on-activist?traffic_source=rss",
-          "published": "Wed, 29 Apr 2026 19:24:08 +0000"
+          "title": "What’s behind Israel’s plan to move the Bnei Menashe?",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/29/whats-behind-israels-plan-to-move-the-bnei-menashe?traffic_source=rss",
+          "published": "Wed, 29 Apr 2026 20:36:46 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "‘Trump’s Justice Department is on a revenge tour’",
-          "link": "https://www.aljazeera.com/video/quotable/2026/4/29/trumps-justice-department-is-on-a-revenge-tour?traffic_source=rss",
-          "published": "Wed, 29 Apr 2026 19:22:21 +0000"
+          "title": "Ukraine asks Israel to seize ship carrying grain ‘stolen’ by Russia",
+          "link": "https://www.aljazeera.com/news/2026/4/29/ukraine-asks-israel-to-seize-ship-carrying-stolen-russian-grain?traffic_source=rss",
+          "published": "Wed, 29 Apr 2026 20:23:46 +0000"
         }
       ]
     }
