@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-28T23:11:20Z",
+  "generated_at": "2026-04-29T00:08:53Z",
   "items": [
     {
       "region": "Македонија",
@@ -109,6 +109,13 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "Iran war live: Trump says Tehran wants end to blockade; Israel kills medics",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/4/29/iran-war-live-trump-says-tehran-wants-end-to-blockade-israel-kills-medics?traffic_source=rss",
+      "published": "Wed, 29 Apr 2026 00:00:00 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "Israeli soldier shows Gaza’s Beit Hanoon completely flattened",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/4/28/israeli-soldier-shows-gazas-beit-hanoon-completely-flattened?traffic_source=rss",
       "published": "Tue, 28 Apr 2026 22:50:30 +0000"
@@ -133,13 +140,6 @@
       "title": "Former FBI director Comey again indicted by US Justice Department",
       "link": "https://www.aljazeera.com/news/2026/4/28/former-fbi-director-comey-again-indicted-by-us-justice-department?traffic_source=rss",
       "published": "Tue, 28 Apr 2026 21:57:40 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "The biggest military spenders",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/28/the-biggest-military-spenders?traffic_source=rss",
-      "published": "Tue, 28 Apr 2026 21:49:54 +0000"
     }
   ]
 }
