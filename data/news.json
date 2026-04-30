@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-30T20:15:41Z",
+  "updatedAt": "2026-04-30T21:17:15Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) Вучиќ понуди два можни датуми за изборите",
+          "link": "https://makfax.com.mk/svet/region/video-vuchik-ponudi-dva-mozhni-datumi-za-izborite/",
+          "published": "Thu, 30 Apr 2026 20:18:58 +0000"
         },
         {
           "source": "Makfax",
@@ -35,10 +41,22 @@
           "published": "Thu, 30 Apr 2026 19:41:43 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "(Видео) По седум години, авион од САД полета за Венецуела",
-          "link": "https://makfax.com.mk/svet/video-po-sedum-godini-avion-od-sad-poleta-za-venecuela/",
-          "published": "Thu, 30 Apr 2026 18:52:45 +0000"
+          "source": "NetPress",
+          "title": "Загреб: Малолетникот кој испраќал лажни дојави за бомби осомничен за тероризам и ставен во притвор",
+          "link": "https://netpress.com.mk/zagreb-maloletnikot-koj-isprakal-lazhni-dojavi-za-bombi-osomnichen-za-terorizam-i-staven-vo-pritvor/",
+          "published": "Thu, 30 Apr 2026 21:01:43 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "НБА: Диабате ја освои наградата „Хасл“",
+          "link": "https://netpress.com.mk/nba-diabate-ja-osvoi-nagradata-hasl/",
+          "published": "Thu, 30 Apr 2026 20:40:58 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "АТП Мадрид: Зверев протатне до полуфиналето",
+          "link": "https://netpress.com.mk/atp-madrid-zverev-protatne-do-polufinaleto/",
+          "published": "Thu, 30 Apr 2026 20:20:57 +0000"
         },
         {
           "source": "NetPress",
@@ -51,24 +69,6 @@
           "title": "Од 1 до 3 мај ЈСП ќе сообраќа по неделен возен ред",
           "link": "https://netpress.com.mk/od-1-do-3-maj-jsp-ke-soobraka-po-nedelen-vozen-red/",
           "published": "Thu, 30 Apr 2026 19:25:47 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Окта го продолжува попустот на горивата до 18 мај",
-          "link": "https://netpress.com.mk/okta-go-prodolzhuva-popustot-na-gorivata-do-18-maj/",
-          "published": "Thu, 30 Apr 2026 19:21:11 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Жирито на Венециското биенале поднесе оставка поради учеството на Израел и Русија",
-          "link": "https://netpress.com.mk/zhirito-na-venecziskoto-bienale-podnese-ostavka-poradi-uchestvoto-na-izrael-i-rusija/",
-          "published": "Thu, 30 Apr 2026 19:17:03 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Бугарската партија Преродба бара раскинување на договорите со Украина",
-          "link": "https://netpress.com.mk/bugarskata-partija-prerodba-bara-raskinuvane-na-dogovorite-so-ukraina/",
-          "published": "Thu, 30 Apr 2026 19:03:04 +0000"
         }
       ]
     },
@@ -91,7 +91,13 @@
           "source": "BBC",
           "title": "US House votes to end government shutdown over immigration operations",
           "link": "https://www.bbc.com/news/articles/ce3pw5x3z54o?at_medium=RSS&at_campaign=rss",
-          "published": "Thu, 30 Apr 2026 20:03:36 GMT"
+          "published": "Thu, 30 Apr 2026 20:53:36 GMT"
+        },
+        {
+          "source": "BBC",
+          "title": "Deadly Israeli strikes on southern Lebanon despite ceasefire",
+          "link": "https://www.bbc.com/news/articles/cq5pepj21g8o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 30 Apr 2026 20:14:48 GMT"
         },
         {
           "source": "BBC",
@@ -100,40 +106,34 @@
           "published": "Thu, 30 Apr 2026 20:15:20 GMT"
         },
         {
-          "source": "BBC",
-          "title": "Belgium plans to nationalise nuclear power plants",
-          "link": "https://www.bbc.com/news/articles/c4g05jg87wko?at_medium=RSS&at_campaign=rss",
-          "published": "Thu, 30 Apr 2026 19:50:29 GMT"
+          "source": "Al Jazeera",
+          "title": "How is Israel replicating its Gaza tactics in Lebanon?",
+          "link": "https://www.aljazeera.com/video/inside-story/2026/4/30/how-is-israel-replicating-its-gaza-tactics-in-lebanon?traffic_source=rss",
+          "published": "Thu, 30 Apr 2026 20:49:18 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Trump says Tennessee next to redistrict after US Voting Rights Act ruling",
-          "link": "https://www.aljazeera.com/news/2026/4/30/trump-says-tennessee-next-to-redistrict-after-us-voting-rights-act-ruling?traffic_source=rss",
-          "published": "Thu, 30 Apr 2026 19:39:26 +0000"
+          "title": "Trumps says Iran can play at World Cup in US after FIFA confirmation",
+          "link": "https://www.aljazeera.com/sports/2026/4/30/trumps-says-iran-can-play-at-world-cup-in-us-after-fifa-confirmation?traffic_source=rss",
+          "published": "Thu, 30 Apr 2026 20:48:59 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Mexico’s Sheinbaum questions US claims of drug ties to Sinaloa governor",
-          "link": "https://www.aljazeera.com/news/2026/4/30/mexico-sheinbaum?traffic_source=rss",
-          "published": "Thu, 30 Apr 2026 19:31:44 +0000"
+          "title": "US-Venezuela direct flights resume after seven-year suspension",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/30/us-venezuela-direct-flights-resume-after-seven-year-suspension?traffic_source=rss",
+          "published": "Thu, 30 Apr 2026 20:35:04 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Iran confirmed to play at World Cup according to FIFA chief Infantino",
-          "link": "https://www.aljazeera.com/sports/2026/4/30/iran-confirmed-to-play-at-world-cup-according-by-fifa-chief-infantino?traffic_source=rss",
-          "published": "Thu, 30 Apr 2026 19:10:47 +0000"
+          "title": "RSF condemns ‘kidnapping’ of three journalists on board Gaza aid flotilla",
+          "link": "https://www.aljazeera.com/news/2026/4/30/rsf-condemns-kidnapping-of-three-journalists-on-board-gaza-aid-flotilla?traffic_source=rss",
+          "published": "Thu, 30 Apr 2026 20:26:08 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Piracy rises off Somalia as US-Israeli war on Iran diverts naval forces",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/30/piracy-rises-off-somalia-as-us-israeli-war-on-iran-diverts-naval-forces?traffic_source=rss",
-          "published": "Thu, 30 Apr 2026 18:59:13 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Lebanese girl mourns paramedic father killed in Israeli strike",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/30/lebanese-girl-mourns-paramedic-father-killed-in-israeli-strike?traffic_source=rss",
-          "published": "Thu, 30 Apr 2026 18:38:56 +0000"
+          "title": "US passes law to resume DHS funding and end partial government shutdown",
+          "link": "https://www.aljazeera.com/news/2026/4/30/us-congress-passes-bill-to-resume-funding-for-dhs-and-end-partial-shutdown?traffic_source=rss",
+          "published": "Thu, 30 Apr 2026 20:12:34 +0000"
         }
       ]
     }
