@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-01T20:36:34Z",
+  "updatedAt": "2026-05-01T21:35:21Z",
   "groups": [
     {
       "region": "Македонија",
@@ -42,6 +42,24 @@
         },
         {
           "source": "NetPress",
+          "title": "Серија А: Пиза и математички испаѓа, Лече до важни бодови во борбата за опстанок",
+          "link": "https://netpress.com.mk/serija-a-piza-i-matematichki-ispaga-leche-do-vazhni-bodovi-vo-borbata-za-opstanok/",
+          "published": "Fri, 01 May 2026 21:28:11 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Трамп нема да бара одобрение од Конгресот за војната со Иран",
+          "link": "https://netpress.com.mk/tramp-nema-da-bara-odobrenie-od-kongresot-za-vojnata-so-iran/",
+          "published": "Fri, 01 May 2026 21:05:10 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "АТП Мадрид: Синер и Зверев во борба за трофејот",
+          "link": "https://netpress.com.mk/atp-madrid-siner-i-zverev-vo-borba-za-trofejot/",
+          "published": "Fri, 01 May 2026 20:49:46 +0000"
+        },
+        {
+          "source": "NetPress",
           "title": "Брисел: Царините на Трамп за автомобили од ЕУ покажуваат дека САД се несигурни",
           "link": "https://netpress.com.mk/brisel-czarinite-na-tramp-za-avtomobili-od-eu-pokazhuvaat-deka-sad-se-nesigurni/",
           "published": "Fri, 01 May 2026 20:29:57 +0000"
@@ -51,24 +69,6 @@
           "title": "Построги правила: 400 евра казна за несоодветно шетање и забрана за чување ако го напуштите кучето",
           "link": "https://netpress.com.mk/postrogi-pravila-400-evra-kazna-za-nesoodvetno-shetane-i-zabrana-za-chuvane-ako-go-napushtite-kucheto/",
           "published": "Fri, 01 May 2026 19:54:13 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "ВИДЕО| Повеќе приведени на првомајскиот марш на истанбулскиот плоштад Таксим",
-          "link": "https://netpress.com.mk/video-poveke-privedeni-na-prvomajskiot-marsh-na-istanbulskiot-ploshtad-taksim/",
-          "published": "Fri, 01 May 2026 19:47:04 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Трамп не е задоволен од новиот ирански предлог",
-          "link": "https://netpress.com.mk/tramp-ne-e-zadovolen-od-noviot-iranski-predlog/",
-          "published": "Fri, 01 May 2026 19:21:29 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "САД ги проширија санкциите против кубанската влада",
-          "link": "https://netpress.com.mk/sad-gi-proshirija-sankcziite-protiv-kubanskata-vlada/",
-          "published": "Fri, 01 May 2026 19:12:30 +0000"
         }
       ]
     },
@@ -79,7 +79,7 @@
           "source": "BBC",
           "title": "Trump tells Congress ceasefire means he does not need their approval for Iran war",
           "link": "https://www.bbc.com/news/articles/c4g4xexy4w7o?at_medium=RSS&at_campaign=rss",
-          "published": "Fri, 01 May 2026 20:07:30 GMT"
+          "published": "Fri, 01 May 2026 21:05:43 GMT"
         },
         {
           "source": "BBC",
@@ -107,33 +107,33 @@
         },
         {
           "source": "Al Jazeera",
-          "title": "Cuban man is 18th person to die in US ICE custody this year: Monitor",
-          "link": "https://www.aljazeera.com/news/2026/5/1/cuban-man-is-18th-person-to-die-in-us-ice-custody-this-year-monitor?traffic_source=rss",
-          "published": "Fri, 01 May 2026 20:23:24 +0000"
+          "title": "Trump expands red snapper fishing as critics warn of overfishing",
+          "link": "https://www.aljazeera.com/news/2026/5/1/trump-expands-red-snapper-fishing-as-critics-warn-of-overfishing?traffic_source=rss",
+          "published": "Fri, 01 May 2026 21:12:02 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Somali piracy resurfaces in the lightly-protected waters",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/5/1/somali-piracy-resurfaces-in-the-lightly-protected-waters?traffic_source=rss",
-          "published": "Fri, 01 May 2026 20:16:03 +0000"
+          "title": "At least 12 killed in latest Israeli attacks on Lebanon",
+          "link": "https://www.aljazeera.com/news/2026/5/1/at-least-12-killed-in-latest-israeli-attacks-on-lebanon?traffic_source=rss",
+          "published": "Fri, 01 May 2026 21:10:15 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Barcelona in sight of La Liga title a week before El Clasico with Real",
-          "link": "https://www.aljazeera.com/sports/2026/5/1/how-can-barcelona-beat-real-madrid-to-la-liga-title-this-weekend?traffic_source=rss",
-          "published": "Fri, 01 May 2026 20:13:59 +0000"
+          "title": "Iranian Nobel laureate Narges Mohammadi hospitalised as health deteriorates",
+          "link": "https://www.aljazeera.com/news/2026/5/1/iranian-nobel-laureate-narges-mohammadi-hospitalised-as-health-deteriorates?traffic_source=rss",
+          "published": "Fri, 01 May 2026 20:59:55 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "US judge bars Trump from ending protected status for Yemeni nationals",
-          "link": "https://www.aljazeera.com/news/2026/5/1/us-judge-bars-trump-from-ending-protected-status-for-yemeni-nationals?traffic_source=rss",
-          "published": "Fri, 01 May 2026 20:05:24 +0000"
+          "title": "May Day rallies sweep US, demanding reforms for working-class rights",
+          "link": "https://www.aljazeera.com/economy/2026/5/1/may-day-rallies-sweep-us-demanding-reforms-for-working-class-rights?traffic_source=rss",
+          "published": "Fri, 01 May 2026 20:57:11 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Rebel checkpoints reported around Mali’s capital, northern town seized",
-          "link": "https://www.aljazeera.com/news/2026/5/1/rebel-checkpoints-reported-mali-capital-town-seized?traffic_source=rss",
-          "published": "Fri, 01 May 2026 19:38:44 +0000"
+          "title": "Palestinian football boss refuses Israeli handshake at FIFA event",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/5/1/palestinian-football-boss-refuses-israeli-handshake-at-fifa-event?traffic_source=rss",
+          "published": "Fri, 01 May 2026 20:40:04 +0000"
         }
       ]
     }
