@@ -1,6 +1,13 @@
 {
-  "generated_at": "2026-05-01T01:24:13Z",
+  "generated_at": "2026-05-01T05:02:05Z",
   "items": [
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "До недела променливо облачно и посвежо време со повремени локални врнежи од дожд",
+      "link": "https://makfax.com.mk/makedonija/do-nedela-promenlivo-oblachno-i-posvezho-vreme-so-povremeni-lokalni-vrnezhi-od-dozhd/",
+      "published": "Fri, 01 May 2026 05:00:43 +0000"
+    },
     {
       "region": "Македонија",
       "source": "Makfax",
@@ -31,10 +38,17 @@
     },
     {
       "region": "Македонија",
-      "source": "Makfax",
-      "title": "САД: Русија ги поткопува американските напори во Иран",
-      "link": "https://makfax.com.mk/svet/sad-rusija-gi-potkopuva-amerikanskite-napori-vo-iran/",
-      "published": "Thu, 30 Apr 2026 19:41:43 +0000"
+      "source": "NetPress",
+      "title": "Дневен хороскоп за петок, 1-ви мај 2026-та",
+      "link": "https://netpress.com.mk/dneven-horoskop-za-petok-1-vi-maj-2026-ta/",
+      "published": "Fri, 01 May 2026 04:57:15 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "NetPress",
+      "title": "Облачно и свежо a на југот повремен дожд, и викендов дождливо со утрински температури под нулата",
+      "link": "https://netpress.com.mk/oblachno-i-svezho-a-na-jugot-povremen-dozhd-i-vikendov-dozhdlivo-so-utrinski-temperaturi-pod-nulata/",
+      "published": "Fri, 01 May 2026 04:37:00 +0000"
     },
     {
       "region": "Македонија",
@@ -58,32 +72,18 @@
       "published": "Thu, 30 Apr 2026 21:21:51 +0000"
     },
     {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Загреб: Малолетникот кој испраќал лажни дојави за бомби осомничен за тероризам и ставен во притвор",
-      "link": "https://netpress.com.mk/zagreb-maloletnikot-koj-isprakal-lazhni-dojavi-za-bombi-osomnichen-za-terorizam-i-staven-vo-pritvor/",
-      "published": "Thu, 30 Apr 2026 21:01:43 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "НБА: Диабате ја освои наградата „Хасл“",
-      "link": "https://netpress.com.mk/nba-diabate-ja-osvoi-nagradata-hasl/",
-      "published": "Thu, 30 Apr 2026 20:40:58 +0000"
-    },
-    {
       "region": "Свет",
       "source": "BBC",
       "title": "Violence in Australian town after arrest of man over girl's murder",
       "link": "https://www.bbc.com/news/articles/cddp4j7p8pzo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 30 Apr 2026 22:46:34 GMT"
+      "published": "Fri, 01 May 2026 04:08:19 GMT"
     },
     {
       "region": "Свет",
       "source": "BBC",
       "title": "Myanmar ex-leader Aung San Suu Kyi moved to house arrest, military says",
       "link": "https://www.bbc.com/news/articles/cz72j8eex4eo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 30 Apr 2026 16:38:58 GMT"
+      "published": "Fri, 01 May 2026 04:11:53 GMT"
     },
     {
       "region": "Свет",
@@ -109,6 +109,20 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "New Banksy sculpture appears to show politician blinded by his own flag",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/1/new-banksy-sculpture-appears-to-show-politician-blinded-by-his-own-flag?traffic_source=rss",
+      "published": "Fri, 01 May 2026 04:08:11 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Condemnation and protests against Israel’s raid of Gaza aid flotilla",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/1/condemnation-and-protests-against-israels-raid-of-gaza-aid-flotilla?traffic_source=rss",
+      "published": "Fri, 01 May 2026 02:31:12 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "Iran war live: Tehran says US ports siege ‘intolerable’; Trump mulls action",
       "link": "https://www.aljazeera.com/news/liveblog/2026/5/1/iran-war-live-tehran-says-us-ports-siege-intolerable-trump-mulls-action?traffic_source=rss",
       "published": "Fri, 01 May 2026 00:00:00 +0000"
@@ -126,20 +140,6 @@
       "title": "Palestine FA chief hits out at Israel federation VP at FIFA Congress",
       "link": "https://www.aljazeera.com/sports/2026/4/30/palestine-fa-chief-hits-out-at-israel-federation-vp-at-fifa-congress?traffic_source=rss",
       "published": "Thu, 30 Apr 2026 21:53:27 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "First US-Venezuela flight lands in Caracas after seven-year suspension",
-      "link": "https://www.aljazeera.com/economy/2026/4/30/first-us-venezuela-flight-lands-in-caracas-after-seven-year-suspension?traffic_source=rss",
-      "published": "Thu, 30 Apr 2026 21:34:25 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "US gas reaches $4.30 per gallon; Trump says prices will drop after Iran war",
-      "link": "https://www.aljazeera.com/news/2026/4/30/us-gas-reaches-4-30-per-gallon-trump-says-prices-will-drop-after-iran-war?traffic_source=rss",
-      "published": "Thu, 30 Apr 2026 21:31:00 +0000"
     }
   ]
 }
