@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-01T19:42:58Z",
+  "updatedAt": "2026-05-01T20:36:34Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Тие живеат за нови искуства: Овие хороскопски знаци се сложуваат одлично со секој партнер",
+          "link": "https://makfax.com.mk/zanimlivosti/tie-zhiveat-za-novi-iskustva-ovie-horoskopski-znaci-se-slozhuvaat-odlichno-so-sekoj-partner/",
+          "published": "Fri, 01 May 2026 20:00:02 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Пристигна одговорот на Европската Унија на новиот удар на Трамп",
+          "link": "https://makfax.com.mk/svet/pristigna-odgovorot-na-evropskata-unija-na-noviot-udar-na-tramp/",
+          "published": "Fri, 01 May 2026 19:53:15 +0000"
         },
         {
           "source": "Makfax",
@@ -29,16 +41,22 @@
           "published": "Fri, 01 May 2026 17:30:33 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Белата куќа одбива да коментира за новиот ирански предлог",
-          "link": "https://makfax.com.mk/svet/belata-kuka-odbiva-da-komentira-za-noviot-iranski-predlog/",
-          "published": "Fri, 01 May 2026 17:22:46 +0000"
+          "source": "NetPress",
+          "title": "Брисел: Царините на Трамп за автомобили од ЕУ покажуваат дека САД се несигурни",
+          "link": "https://netpress.com.mk/brisel-czarinite-na-tramp-za-avtomobili-od-eu-pokazhuvaat-deka-sad-se-nesigurni/",
+          "published": "Fri, 01 May 2026 20:29:57 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "САД бараат директни преговори меѓу Либан и Израел",
-          "link": "https://makfax.com.mk/svet/sad-baraat-direktni-pregovori-megu-liban-i-izrael/",
-          "published": "Fri, 01 May 2026 17:00:53 +0000"
+          "source": "NetPress",
+          "title": "Построги правила: 400 евра казна за несоодветно шетање и забрана за чување ако го напуштите кучето",
+          "link": "https://netpress.com.mk/postrogi-pravila-400-evra-kazna-za-nesoodvetno-shetane-i-zabrana-za-chuvane-ako-go-napushtite-kucheto/",
+          "published": "Fri, 01 May 2026 19:54:13 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "ВИДЕО| Повеќе приведени на првомајскиот марш на истанбулскиот плоштад Таксим",
+          "link": "https://netpress.com.mk/video-poveke-privedeni-na-prvomajskiot-marsh-na-istanbulskiot-ploshtad-taksim/",
+          "published": "Fri, 01 May 2026 19:47:04 +0000"
         },
         {
           "source": "NetPress",
@@ -51,24 +69,6 @@
           "title": "САД ги проширија санкциите против кубанската влада",
           "link": "https://netpress.com.mk/sad-gi-proshirija-sankcziite-protiv-kubanskata-vlada/",
           "published": "Fri, 01 May 2026 19:12:30 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Компаниите за генеративна ВИ во Италија подготвени за ублажување на ризикот од „халуцинации“",
-          "link": "https://netpress.com.mk/kompaniite-za-generativna-vi-vo-italija-podgotveni-za-ublazhuvane-na-rizikot-od-haluczinaczii/",
-          "published": "Fri, 01 May 2026 18:52:03 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "ВИДЕО| Уште еден инцидент во скопската ЗОО, девојка се качи на оградата кај мајмуните",
-          "link": "https://netpress.com.mk/video-ushte-eden-inczident-vo-skopskata-zoo-devojka-se-kachi-na-ogradata-kaj-majmunite/",
-          "published": "Fri, 01 May 2026 18:24:12 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Папата Лав XIV назначи поранешен нелегален имигрант за епископ во САД",
-          "link": "https://netpress.com.mk/papata-lav-xiv-naznachi-poraneshen-nelegalen-imigrant-za-episkop-vo-sad/",
-          "published": "Fri, 01 May 2026 18:06:33 +0000"
         }
       ]
     },
@@ -79,7 +79,7 @@
           "source": "BBC",
           "title": "Trump tells Congress ceasefire means he does not need their approval for Iran war",
           "link": "https://www.bbc.com/news/articles/c4g4xexy4w7o?at_medium=RSS&at_campaign=rss",
-          "published": "Fri, 01 May 2026 19:29:06 GMT"
+          "published": "Fri, 01 May 2026 20:07:30 GMT"
         },
         {
           "source": "BBC",
@@ -107,33 +107,33 @@
         },
         {
           "source": "Al Jazeera",
-          "title": "Photos: Cuba holds May Day celebrations amid US threats",
-          "link": "https://www.aljazeera.com/gallery/2026/5/1/photos-cuba-holds-may-day-celebrations-amid-us-threats?traffic_source=rss",
-          "published": "Fri, 01 May 2026 19:07:51 +0000"
+          "title": "Cuban man is 18th person to die in US ICE custody this year: Monitor",
+          "link": "https://www.aljazeera.com/news/2026/5/1/cuban-man-is-18th-person-to-die-in-us-ice-custody-this-year-monitor?traffic_source=rss",
+          "published": "Fri, 01 May 2026 20:23:24 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Trump says Iran seeks terms he ‘can’t agree to’ in latest peace proposal",
-          "link": "https://www.aljazeera.com/news/2026/5/1/us-president-trump-not-satisfied-with-irans-latest-peace-proposal?traffic_source=rss",
-          "published": "Fri, 01 May 2026 18:46:50 +0000"
+          "title": "Somali piracy resurfaces in the lightly-protected waters",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/5/1/somali-piracy-resurfaces-in-the-lightly-protected-waters?traffic_source=rss",
+          "published": "Fri, 01 May 2026 20:16:03 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Trump announces 25 percent tariffs on European Union cars, trucks",
-          "link": "https://www.aljazeera.com/news/2026/5/1/trump-announces-25-percent-tariffs-on-european-union-cars-trucks?traffic_source=rss",
-          "published": "Fri, 01 May 2026 18:10:43 +0000"
+          "title": "Barcelona in sight of La Liga title a week before El Clasico with Real",
+          "link": "https://www.aljazeera.com/sports/2026/5/1/how-can-barcelona-beat-real-madrid-to-la-liga-title-this-weekend?traffic_source=rss",
+          "published": "Fri, 01 May 2026 20:13:59 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Poll finds 61 percent of Americans believe attacking Iran was a mistake",
-          "link": "https://www.aljazeera.com/news/2026/5/1/poll-finds-61-percent-of-americans-believe-attacking-iran-was-a-mistake?traffic_source=rss",
-          "published": "Fri, 01 May 2026 17:51:54 +0000"
+          "title": "US judge bars Trump from ending protected status for Yemeni nationals",
+          "link": "https://www.aljazeera.com/news/2026/5/1/us-judge-bars-trump-from-ending-protected-status-for-yemeni-nationals?traffic_source=rss",
+          "published": "Fri, 01 May 2026 20:05:24 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "US warns shippers against paying Strait of Hormuz tolls, ‘donations’",
-          "link": "https://www.aljazeera.com/news/2026/5/1/us-warns-shippers-against-paying-strait-of-hormuz-tolls-donations?traffic_source=rss",
-          "published": "Fri, 01 May 2026 17:18:43 +0000"
+          "title": "Rebel checkpoints reported around Mali’s capital, northern town seized",
+          "link": "https://www.aljazeera.com/news/2026/5/1/rebel-checkpoints-reported-mali-capital-town-seized?traffic_source=rss",
+          "published": "Fri, 01 May 2026 19:38:44 +0000"
         }
       ]
     }
