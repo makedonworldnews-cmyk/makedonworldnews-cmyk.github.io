@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-01T16:13:31Z",
+  "updatedAt": "2026-05-01T17:17:19Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "САД бараат директни преговори меѓу Либан и Израел",
+          "link": "https://makfax.com.mk/svet/sad-baraat-direktni-pregovori-megu-liban-i-izrael/",
+          "published": "Fri, 01 May 2026 17:00:53 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) Кејт Хадсон призна што ја одвраќа кај мажите: „Тоа е знак за предупредување за мене“",
+          "link": "https://makfax.com.mk/zanimlivosti/video-kejt-hadson-priznava-shto-ja-odvraka-kaj-mazhite-toa-e-neposreden-znak-za-predupreduvanje-za-mene/",
+          "published": "Fri, 01 May 2026 17:00:15 +0000"
         },
         {
           "source": "Makfax",
@@ -29,21 +41,27 @@
           "published": "Fri, 01 May 2026 15:26:08 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Кога е идеалното време за вежбање? Не е исто за секого",
-          "link": "https://makfax.com.mk/zanimlivosti/koga-e-idealnoto-vreme-za-vezhbanje-ne-e-isto-za-sekogo/",
-          "published": "Fri, 01 May 2026 15:06:18 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Пентагон потпиша договори со седум AI гиганти",
-          "link": "https://makfax.com.mk/svet/pentagon-potpisha-dogovori-so-sedum-ai-giganti/",
-          "published": "Fri, 01 May 2026 15:00:24 +0000"
+          "source": "NetPress",
+          "title": "ВИДЕО| Потера во Сараево по вооружен маж кој смртно застрела жена и рани уште едно лице",
+          "link": "https://netpress.com.mk/video-potera-vo-saraevo-po-vooruzhen-mazh-koj-smrtno-zastrela-zhena-i-rani-ushte-edno-licze/",
+          "published": "Fri, 01 May 2026 17:00:20 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Пентагон постигна договори со водечки компании за вештачка интелигенција",
-          "link": "https://netpress.com.mk/pentagon-postigna-dogovori-so-vodechki-kompanii-za-veshtachka-inteligenczija/",
+          "title": "Тројца уапсени за семејно насилство во едно деноноќие",
+          "link": "https://netpress.com.mk/trojcza-uapseni-za-semejno-nasilstvo-vo-edno-denonokie/",
+          "published": "Fri, 01 May 2026 16:49:19 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Први мај нека биде потсетник дека начинот на кој се однесуваме кон трудот – кажува каква држава градиме",
+          "link": "https://netpress.com.mk/prvi-maj-neka-bide-potsetnik-deka-nachinot-na-koj-se-odnesuvame-kon-trudot-kazhuva-kakva-drzhava-gradime/",
+          "published": "Fri, 01 May 2026 16:29:14 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Пентагон постигна договори со водечките компании за вештачка интелигенција",
+          "link": "https://netpress.com.mk/pentagon-postigna-dogovori-so-vodechkite-kompanii-za-veshtachka-inteligenczija/",
           "published": "Fri, 01 May 2026 16:08:28 +0000"
         },
         {
@@ -51,24 +69,6 @@
           "title": "Седуммина приведен за безобѕирно возење",
           "link": "https://netpress.com.mk/sedummina-priveden-za-bezobzirno-vozene/",
           "published": "Fri, 01 May 2026 15:55:44 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "ВИДЕО| Лето со суша во централна Европа и дождови на југот и на Балканот",
-          "link": "https://netpress.com.mk/video-leto-so-susha-vo-czentralna-evropa-i-dozhdovi-na-jugot/",
-          "published": "Fri, 01 May 2026 15:29:46 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Јамал ќе биде подготвен за Светското првенство, оцени Флик",
-          "link": "https://netpress.com.mk/jamal-ke-bide-podgotven-za-svetskoto-prvenstvo-oczeni-flik/",
-          "published": "Fri, 01 May 2026 15:24:24 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "ФИФА ќе ја преиспита својата стратегија за продажба на билетите за Мундијалот во 2030-та",
-          "link": "https://netpress.com.mk/fifa-ke-ja-preispita-svojata-strategija-za-prodazhba-na-biletite-za-mundijalot-vo-2030-ta/",
-          "published": "Fri, 01 May 2026 15:05:54 +0000"
         }
       ]
     },
@@ -77,33 +77,51 @@
       "items": [
         {
           "source": "BBC",
+          "title": "Hegseth says clock paused on deadline to seek approval for Iran war",
+          "link": "https://www.bbc.com/news/articles/cvgz7l5v03po?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 01 May 2026 16:54:21 GMT"
+        },
+        {
+          "source": "BBC",
           "title": "Billions of meals at risk due to Iran war, says fertiliser boss",
           "link": "https://www.bbc.com/news/articles/cpwp50v4ye7o?at_medium=RSS&at_campaign=rss",
           "published": "Fri, 01 May 2026 13:12:10 GMT"
         },
         {
           "source": "BBC",
-          "title": "Hegseth says clock paused on deadline to seek approval for Iran war",
-          "link": "https://www.bbc.com/news/articles/cvgz7l5v03po?at_medium=RSS&at_campaign=rss",
-          "published": "Fri, 01 May 2026 14:42:59 GMT"
+          "title": "War criminal Mladic close to death, say lawyers asking judge for jail release",
+          "link": "https://www.bbc.com/news/articles/c3e283g80n4o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 01 May 2026 15:12:14 GMT"
         },
         {
           "source": "BBC",
-          "title": "Violence in Australian town after arrest of man over girl's murder",
-          "link": "https://www.bbc.com/news/articles/cddp4j7p8pzo?at_medium=RSS&at_campaign=rss",
-          "published": "Fri, 01 May 2026 04:08:19 GMT"
-        },
-        {
-          "source": "BBC",
-          "title": "British couple jailed in Iran: 'We're likely to be here for a long time'",
-          "link": "https://www.bbc.com/news/articles/c202pl60kv9o?at_medium=RSS&at_campaign=rss",
-          "published": "Fri, 01 May 2026 05:04:08 GMT"
+          "title": "Turkish police arrest more than 500 people at May Day rallies",
+          "link": "https://www.bbc.com/news/articles/cwy2x7rq3nqo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 01 May 2026 16:14:58 GMT"
         },
         {
           "source": "BBC",
           "title": "Israel releases all but two activists in Greece after intercepting Gaza aid flotilla",
           "link": "https://www.bbc.com/news/articles/c0m2z0k1gngo?at_medium=RSS&at_campaign=rss",
           "published": "Fri, 01 May 2026 10:12:57 GMT"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "UAE exit from OPEC signals closer alignment with US interests, experts say",
+          "link": "https://www.aljazeera.com/economy/2026/5/1/uae-exit-from-opec-signals-closer-alignment-with-us-interests-experts-say?traffic_source=rss",
+          "published": "Fri, 01 May 2026 16:32:01 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "EU trade deal with South America’s Mercosur bloc takes provisional effect",
+          "link": "https://www.aljazeera.com/news/2026/5/1/eu-trade-deal-with-south-americas-mercosur-bloc-takes-provisional-effect?traffic_source=rss",
+          "published": "Fri, 01 May 2026 16:03:27 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Pentagon announces deal with seven AI companies for classified systems",
+          "link": "https://www.aljazeera.com/news/2026/5/1/pentagon-announces-deal-with-seven-ai-companies-for-classified-systems?traffic_source=rss",
+          "published": "Fri, 01 May 2026 15:57:09 +0000"
         },
         {
           "source": "Al Jazeera",
@@ -116,24 +134,6 @@
           "title": "Italian firefighters respond to Tuscany wildfires",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/5/1/italian-firefighters-respond-to-tuscany-wildfires?traffic_source=rss",
           "published": "Fri, 01 May 2026 15:11:25 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Cricket club bans social media comments to protect players’ mental health",
-          "link": "https://www.aljazeera.com/sports/2026/5/1/cricket-club-bans-social-media-comments-to-protect-players-mental-health?traffic_source=rss",
-          "published": "Fri, 01 May 2026 15:01:23 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Benfica’s Mourinho says no contact with Real Madrid about manager’s job",
-          "link": "https://www.aljazeera.com/sports/2026/5/1/benficas-mourinho-says-no-contact-with-real-madrid-about-managers-job?traffic_source=rss",
-          "published": "Fri, 01 May 2026 14:00:38 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Howe says Saudi owners’ desire for success at Newcastle remains unchanged",
-          "link": "https://www.aljazeera.com/sports/2026/5/1/howe-says-saudi-owners-desire-for-success-at-newcastle-remains-unchanged?traffic_source=rss",
-          "published": "Fri, 01 May 2026 13:36:24 +0000"
         }
       ]
     }
