@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-01T22:25:31Z",
+  "generated_at": "2026-05-01T23:13:00Z",
   "items": [
     {
       "region": "Македонија",
@@ -39,6 +39,13 @@
     {
       "region": "Македонија",
       "source": "NetPress",
+      "title": "Евролига: Реал Мадрид на чекор до уште еден „Фајнал Фор“",
+      "link": "https://netpress.com.mk/evroliga-real-madrid-na-chekor-do-ushte-eden-fajnal-for/",
+      "published": "Fri, 01 May 2026 22:27:23 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "NetPress",
       "title": "Ла Лига: Гостинска победа на Мајорка кај Жирона",
       "link": "https://netpress.com.mk/la-liga-gostinska-pobeda-na-majorka-kaj-zhirona/",
       "published": "Fri, 01 May 2026 22:18:46 +0000"
@@ -65,18 +72,11 @@
       "published": "Fri, 01 May 2026 21:28:11 +0000"
     },
     {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Трамп нема да бара одобрение од Конгресот за војната со Иран",
-      "link": "https://netpress.com.mk/tramp-nema-da-bara-odobrenie-od-kongresot-za-vojnata-so-iran/",
-      "published": "Fri, 01 May 2026 21:05:10 +0000"
-    },
-    {
       "region": "Свет",
       "source": "BBC",
       "title": "US to cut troop levels in Germany by 5,000 amid Trump spat with Merz",
       "link": "https://www.bbc.com/news/articles/c0729d374mxo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 01 May 2026 22:06:05 GMT"
+      "published": "Fri, 01 May 2026 22:35:07 GMT"
     },
     {
       "region": "Свет",
@@ -109,6 +109,20 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "US said to be withdrawing 5,000 troops from Germany over Iran war spat",
+      "link": "https://www.aljazeera.com/news/2026/5/1/us-said-to-be-withdrawing-5000-troops-from-germany-over-iran-war-spat?traffic_source=rss",
+      "published": "Fri, 01 May 2026 22:54:30 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Trump considering option to ‘blast the hell out of’ Iran",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/1/trump-considering-option-to-blast-the-hell-out-of-iran?traffic_source=rss",
+      "published": "Fri, 01 May 2026 22:27:26 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "Trump expands red snapper fishing as critics warn of overfishing",
       "link": "https://www.aljazeera.com/news/2026/5/1/trump-expands-red-snapper-fishing-as-critics-warn-of-overfishing?traffic_source=rss",
       "published": "Fri, 01 May 2026 21:12:02 +0000"
@@ -126,20 +140,6 @@
       "title": "Iranian Nobel laureate Narges Mohammadi hospitalised as health deteriorates",
       "link": "https://www.aljazeera.com/news/2026/5/1/iranian-nobel-laureate-narges-mohammadi-hospitalised-as-health-deteriorates?traffic_source=rss",
       "published": "Fri, 01 May 2026 20:59:55 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "May Day rallies sweep US, demanding reforms for working-class rights",
-      "link": "https://www.aljazeera.com/economy/2026/5/1/may-day-rallies-sweep-us-demanding-reforms-for-working-class-rights?traffic_source=rss",
-      "published": "Fri, 01 May 2026 20:57:11 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Palestinian football boss refuses Israeli handshake at FIFA event",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/1/palestinian-football-boss-refuses-israeli-handshake-at-fifa-event?traffic_source=rss",
-      "published": "Fri, 01 May 2026 20:40:04 +0000"
     }
   ]
 }
