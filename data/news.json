@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-01T00:09:34Z",
+  "updatedAt": "2026-05-01T04:16:55Z",
   "groups": [
     {
       "region": "Македонија",
@@ -77,33 +77,45 @@
       "items": [
         {
           "source": "BBC",
+          "title": "Violence in Australian town after arrest of man over girl's murder",
+          "link": "https://www.bbc.com/news/articles/cddp4j7p8pzo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 01 May 2026 04:08:19 GMT"
+        },
+        {
+          "source": "BBC",
           "title": "Myanmar ex-leader Aung San Suu Kyi moved to house arrest, military says",
           "link": "https://www.bbc.com/news/articles/cz72j8eex4eo?at_medium=RSS&at_campaign=rss",
-          "published": "Thu, 30 Apr 2026 16:38:58 GMT"
+          "published": "Fri, 01 May 2026 04:11:53 GMT"
         },
         {
           "source": "BBC",
-          "title": "Oil price hits highest since 2022 after report Trump to be briefed on new Iran options",
-          "link": "https://www.bbc.com/news/articles/cx21m88rd14o?at_medium=RSS&at_campaign=rss",
-          "published": "Thu, 30 Apr 2026 18:05:26 GMT"
+          "title": "Venice Biennale jury resigns days before start of exhibition",
+          "link": "https://www.bbc.com/news/articles/c78qdg4g80eo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 30 Apr 2026 23:44:00 GMT"
         },
         {
           "source": "BBC",
-          "title": "US House votes to end record shutdown over immigration enforcement",
-          "link": "https://www.bbc.com/news/articles/ce3pw5x3z54o?at_medium=RSS&at_campaign=rss",
-          "published": "Thu, 30 Apr 2026 20:53:36 GMT"
+          "title": "Britney Spears charged in California with driving under influence",
+          "link": "https://www.bbc.com/news/articles/clyp6r9dzedo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 30 Apr 2026 21:46:18 GMT"
         },
         {
           "source": "BBC",
-          "title": "Deadly Israeli strikes on southern Lebanon despite ceasefire",
-          "link": "https://www.bbc.com/news/articles/cq5pepj21g8o?at_medium=RSS&at_campaign=rss",
-          "published": "Thu, 30 Apr 2026 20:14:48 GMT"
+          "title": "China scraps tariffs for all but one African nation",
+          "link": "https://www.bbc.com/news/articles/cwy2v509217o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 01 May 2026 00:02:57 GMT"
         },
         {
-          "source": "BBC",
-          "title": "Trump says US studying troop cuts in Germany, as spat with Merz intensifies",
-          "link": "https://www.bbc.com/news/articles/clyplg23l30o?at_medium=RSS&at_campaign=rss",
-          "published": "Thu, 30 Apr 2026 20:15:20 GMT"
+          "source": "Al Jazeera",
+          "title": "Condemnation and protests against Israel’s raid of Gaza aid flotilla",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/5/1/condemnation-and-protests-against-israels-raid-of-gaza-aid-flotilla?traffic_source=rss",
+          "published": "Fri, 01 May 2026 02:31:12 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Iran war live: Tehran says US ports siege ‘intolerable’; Trump mulls action",
+          "link": "https://www.aljazeera.com/news/liveblog/2026/5/1/iran-war-live-tehran-says-us-ports-siege-intolerable-trump-mulls-action?traffic_source=rss",
+          "published": "Fri, 01 May 2026 00:00:00 +0000"
         },
         {
           "source": "Al Jazeera",
@@ -122,18 +134,6 @@
           "title": "First US-Venezuela flight lands in Caracas after seven-year suspension",
           "link": "https://www.aljazeera.com/economy/2026/4/30/first-us-venezuela-flight-lands-in-caracas-after-seven-year-suspension?traffic_source=rss",
           "published": "Thu, 30 Apr 2026 21:34:25 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "US gas reaches $4.30 per gallon; Trump says prices will drop after Iran war",
-          "link": "https://www.aljazeera.com/news/2026/4/30/us-gas-reaches-4-30-per-gallon-trump-says-prices-will-drop-after-iran-war?traffic_source=rss",
-          "published": "Thu, 30 Apr 2026 21:31:00 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Palestinians mourn football loving teenager killed by Israeli army",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/30/palestinians-mourn-football-loving-teenager-killed-by-israeli-army?traffic_source=rss",
-          "published": "Thu, 30 Apr 2026 21:24:23 +0000"
         }
       ]
     }
