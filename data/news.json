@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-02T14:36:50Z",
+  "updatedAt": "2026-05-02T15:29:37Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,24 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Вучиќ: Изборите може да бидат во јули, но и до крајот на ноември",
+          "link": "https://makfax.com.mk/svet/region/vuchik-izborite-mozhe-da-bidat-vo-juli-no-i-do-krajot-na-noemvri/",
+          "published": "Sat, 02 May 2026 15:03:31 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) Зеленски предупреди на необична активност на границата со Белорусија",
+          "link": "https://makfax.com.mk/svet/video-zelenski-predupredi-na-neobichna-aktivnost-na-granicata-so-belorusija/",
+          "published": "Sat, 02 May 2026 15:02:24 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Туск предупреди: НАТО се урива, ова е катастрофа",
+          "link": "https://makfax.com.mk/svet/tusk-predupredi-nato-se-uriva-ova-e-katastrofa/",
+          "published": "Sat, 02 May 2026 14:57:00 +0000"
         },
         {
           "source": "Makfax",
@@ -23,22 +41,10 @@
           "published": "Sat, 02 May 2026 13:55:56 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "„Жешка“ роденденска честитка: Викторија го објави Бекам во црвен костим за капење",
-          "link": "https://makfax.com.mk/zanimlivosti/zheshka-rodendenska-chestitka-viktorija-go-objavi-bekam-vo-crven-kostim-za-kapenje/",
-          "published": "Sat, 02 May 2026 12:52:17 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Пожарот во Тоскана се смирува: Евакуираните се враќаат дома",
-          "link": "https://makfax.com.mk/svet/pozharot-vo-toskana-se-smiruva-evakuiranite-se-vrakaat-doma/",
-          "published": "Sat, 02 May 2026 12:46:51 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Драма на патот кај Велес: Пијан возач следел друг автомобил, удрил во возилото, па се заканувал",
-          "link": "https://makfax.com.mk/crna-hronika/drama-na-patot-kaj-veles-pijan-vozach-sledel-drug-avtomobil-udril-vo-voziloto-pa-se-zakanuval/",
-          "published": "Sat, 02 May 2026 12:27:25 +0000"
+          "source": "NetPress",
+          "title": "Нема демократија без слободни медиуми",
+          "link": "https://netpress.com.mk/nema-demokratija-bez-slobodni-mediumi/",
+          "published": "Sat, 02 May 2026 15:01:58 +0000"
         },
         {
           "source": "NetPress",
@@ -63,12 +69,6 @@
           "title": "Цените на нафтата сега се одредуваат според расположението на Трамп",
           "link": "https://netpress.com.mk/czenite-na-naftata-sega-se-odreduvaat-spored-raspolozhenieto-na-tramp/",
           "published": "Sat, 02 May 2026 13:01:39 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "„ВМРО ДПМНЕ Албанија“ бара формирање на две нови општини – Голо Брдо и Гора",
-          "link": "https://netpress.com.mk/vmro-dpmne-albanija-bara-formirane-na-dve-novi-opshtini-golo-brdo-i-gora/",
-          "published": "Sat, 02 May 2026 12:50:04 +0000"
         }
       ]
     },
