@@ -1,6 +1,13 @@
 {
-  "generated_at": "2026-05-02T21:21:50Z",
+  "generated_at": "2026-05-02T22:04:03Z",
   "items": [
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "Антонели пред Макс и Леклер на пол позицијата во Мајами",
+      "link": "https://makfax.com.mk/sport/antoneli-pred-maks-i-lekler-na-pol-pozicijata-vo-majami/",
+      "published": "Sat, 02 May 2026 21:32:01 +0000"
+    },
     {
       "region": "Македонија",
       "source": "Makfax",
@@ -31,10 +38,17 @@
     },
     {
       "region": "Македонија",
-      "source": "Makfax",
-      "title": "Малкумина знаат зошто дрвената лажица има дупка, причината е многу практична",
-      "link": "https://makfax.com.mk/zanimlivosti/malkumina-znaat-zoshto-drvenata-lazhica-ima-dupka-prichinata-e-mnogu-praktichna/",
-      "published": "Sat, 02 May 2026 18:48:33 +0000"
+      "source": "NetPress",
+      "title": "Ла Лига: Барса „на милиметар“ до титулата, победи на Атлетик и Атлетико",
+      "link": "https://netpress.com.mk/la-liga-barsa-na-milimetar-do-titulata-pobedi-na-atletik-i-atletiko/",
+      "published": "Sat, 02 May 2026 21:46:33 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "NetPress",
+      "title": "Серија А: Без голови во дуелите Аталанта – Џенова и Комо – Наполи",
+      "link": "https://netpress.com.mk/serija-a-bez-golovi-vo-duelite-atalanta-dhenova-i-komo-napoli/",
+      "published": "Sat, 02 May 2026 21:26:35 +0000"
     },
     {
       "region": "Македонија",
@@ -56,20 +70,6 @@
       "title": "Бундеслига: Баер преку Лајпциг на четвртото место, Баерн се извади дома против фенерџијата",
       "link": "https://netpress.com.mk/bundesliga-baer-preku-lajpczig-na-chetvrtoto-mesto-baern-se-izvadi-doma-protiv-fenerdhijata/",
       "published": "Sat, 02 May 2026 19:09:29 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Ф1: Светскиот шампион Норис победник на спринтот во Мајами",
-      "link": "https://netpress.com.mk/f1-svetskiot-shampion-noris-pobednik-na-sprintot-vo-majami/",
-      "published": "Sat, 02 May 2026 18:42:26 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Австриската полиција уапси маж во случајот со труење на бебешка храна",
-      "link": "https://netpress.com.mk/avstriskata-policzija-uapsi-mazh-vo-sluchajot-so-truene-na-bebeshka-hrana/",
-      "published": "Sat, 02 May 2026 18:34:09 +0000"
     },
     {
       "region": "Свет",
@@ -109,6 +109,20 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "The rise of political violence under Trump",
+      "link": "https://www.aljazeera.com/video/upfront/2026/5/2/the-rise-of-political-violence-under-trump?traffic_source=rss",
+      "published": "Sat, 02 May 2026 21:25:34 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Why are maritime laws failing to secure the seas?",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/5/2/why-are-maritime-laws-failing-to-secure-the-seas?traffic_source=rss",
+      "published": "Sat, 02 May 2026 21:04:01 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "Timmy the humpback whale escapes to the North Sea",
       "link": "https://www.aljazeera.com/news/2026/5/2/timmy-the-humpback-whale-escapes-to-the-north-sea?traffic_source=rss",
       "published": "Sat, 02 May 2026 20:50:39 +0000"
@@ -126,20 +140,6 @@
       "title": "At least six dead in heavy rains in northeast Brazil, thousands displaced",
       "link": "https://www.aljazeera.com/news/2026/5/2/at-least-six-dead-in-heavy-rains-in-northeast-brazil-thousands-displaced?traffic_source=rss",
       "published": "Sat, 02 May 2026 19:59:25 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Khartoum drone strike kills five Sudan NGO reports",
-      "link": "https://www.aljazeera.com/news/2026/5/2/khartoum-drone-strike-kills-five-sudan-ngo-reports?traffic_source=rss",
-      "published": "Sat, 02 May 2026 19:59:16 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Ukraine eyes Belarus border activities as Russian strikes persist",
-      "link": "https://www.aljazeera.com/news/2026/5/2/ukraine-eyes-belarus-border-activities-as-russian-strikes-persist?traffic_source=rss",
-      "published": "Sat, 02 May 2026 19:54:30 +0000"
     }
   ]
 }
