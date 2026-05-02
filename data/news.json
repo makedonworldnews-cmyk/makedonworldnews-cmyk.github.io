@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-02T01:15:42Z",
+  "updatedAt": "2026-05-02T04:29:24Z",
   "groups": [
     {
       "region": "Македонија",
@@ -42,9 +42,33 @@
         },
         {
           "source": "NetPress",
-          "title": "⚠️ Не може да се вчита (извор/timeout)",
-          "link": "https://netpress.com.mk/feed/",
-          "published": ""
+          "title": "Евролига: Реал Мадрид на чекор до уште еден „Фајнал Фор“",
+          "link": "https://netpress.com.mk/evroliga-real-madrid-na-chekor-do-ushte-eden-fajnal-for/",
+          "published": "Fri, 01 May 2026 22:27:23 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Ла Лига: Гостинска победа на Мајорка кај Жирона",
+          "link": "https://netpress.com.mk/la-liga-gostinska-pobeda-na-majorka-kaj-zhirona/",
+          "published": "Fri, 01 May 2026 22:18:46 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Премиер лига: Лидс победи за помирнa завршница",
+          "link": "https://netpress.com.mk/premier-liga-lids-pobedi-za-pomirna-zavrshnicza/",
+          "published": "Fri, 01 May 2026 22:09:54 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Tрамп објави крај на конфликтот со Иран",
+          "link": "https://netpress.com.mk/tramp-objavi-kraj-na-konfliktot-so-iran/",
+          "published": "Fri, 01 May 2026 21:56:25 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Серија А: Пиза и математички испаѓа, Лече до важни бодови во борбата за опстанок",
+          "link": "https://netpress.com.mk/serija-a-piza-i-matematichki-ispaga-leche-do-vazhni-bodovi-vo-borbata-za-opstanok/",
+          "published": "Fri, 01 May 2026 21:28:11 +0000"
         }
       ]
     },
@@ -65,6 +89,12 @@
         },
         {
           "source": "BBC",
+          "title": "Trump claims other presidents flouted war powers law. It's a mixed record",
+          "link": "https://www.bbc.com/news/articles/c794zlx5lx8o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 02 May 2026 02:43:48 GMT"
+        },
+        {
+          "source": "BBC",
           "title": "Billions of meals at risk due to Iran war, says fertiliser boss",
           "link": "https://www.bbc.com/news/articles/cpwp50v4ye7o?at_medium=RSS&at_campaign=rss",
           "published": "Fri, 01 May 2026 13:12:10 GMT"
@@ -76,10 +106,16 @@
           "published": "Fri, 01 May 2026 19:30:36 GMT"
         },
         {
-          "source": "BBC",
-          "title": "Who shot a Secret Service officer at the Trump press dinner?",
-          "link": "https://www.bbc.com/news/articles/cm2pmk0r3pjo?at_medium=RSS&at_campaign=rss",
-          "published": "Fri, 01 May 2026 21:44:05 GMT"
+          "source": "Al Jazeera",
+          "title": "Peru probes trafficking of citizens to fight for Russia in Ukraine",
+          "link": "https://www.aljazeera.com/news/2026/5/2/peru-probes-trafficking-of-citizens-to-fight-for-russia-in-ukraine?traffic_source=rss",
+          "published": "Sat, 02 May 2026 03:14:46 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "K-pop’s BTS comeback tour rallies South Korea’s global ‘soft power’ drive",
+          "link": "https://www.aljazeera.com/economy/2026/5/2/k-pops-bts-comeback-tour-rallies-south-koreas-global-soft-power-drive?traffic_source=rss",
+          "published": "Sat, 02 May 2026 02:25:22 +0000"
         },
         {
           "source": "Al Jazeera",
@@ -98,18 +134,6 @@
           "title": "Trump considering option to ‘blast the hell out of’ Iran",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/5/1/trump-considering-option-to-blast-the-hell-out-of-iran?traffic_source=rss",
           "published": "Fri, 01 May 2026 22:27:26 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Trump expands red snapper fishing as critics warn of overfishing",
-          "link": "https://www.aljazeera.com/news/2026/5/1/trump-expands-red-snapper-fishing-as-critics-warn-of-overfishing?traffic_source=rss",
-          "published": "Fri, 01 May 2026 21:12:02 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "At least 12 killed in latest Israeli attacks on Lebanon",
-          "link": "https://www.aljazeera.com/news/2026/5/1/at-least-12-killed-in-latest-israeli-attacks-on-lebanon?traffic_source=rss",
-          "published": "Fri, 01 May 2026 21:10:15 +0000"
         }
       ]
     }
