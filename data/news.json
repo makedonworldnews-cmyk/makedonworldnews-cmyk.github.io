@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-02T04:29:24Z",
+  "updatedAt": "2026-05-02T06:26:46Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,24 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Дванаесет загинати во израелски напади на југот на Либан",
+          "link": "https://makfax.com.mk/svet/dvanaeset-zaginati-vo-izraelski-napadi-na-jugot-na-liban/",
+          "published": "Sat, 02 May 2026 06:25:21 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Трамп воведе нови санкции против Куба, Хавана возврати: Нема да нѐ заплашите",
+          "link": "https://makfax.com.mk/svet/tramp-vovede-novi-sankcii-protiv-kuba-havana-vozvrati-nema-da-n%d1%90-zaplashite/",
+          "published": "Sat, 02 May 2026 06:23:49 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Кина ѝ упати најостра трговска закана досега на ЕУ",
+          "link": "https://makfax.com.mk/svet/kina-%d1%9d-upati-najostra-trgovska-zakana-dosega-na-eu/",
+          "published": "Sat, 02 May 2026 06:21:32 +0000"
         },
         {
           "source": "Makfax",
@@ -23,22 +41,16 @@
           "published": "Fri, 01 May 2026 19:53:15 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Шефот на ОН: Законот за смртна казна во Израел ја продлабочува расната дискриминација",
-          "link": "https://makfax.com.mk/svet/shefot-na-on-zakonot-za-smrtna-kazna-vo-izrael-ja-prodlabochuva-rasnata-diskriminacija/",
-          "published": "Fri, 01 May 2026 19:36:47 +0000"
+          "source": "NetPress",
+          "title": "Дневен хороскоп за сабота, 2-ри мај 2026-та",
+          "link": "https://netpress.com.mk/dneven-horoskop-za-sabota-2-ri-maj-2026-ta/",
+          "published": "Sat, 02 May 2026 06:07:12 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Трамп објави нов удар за ЕУ",
-          "link": "https://makfax.com.mk/svet/tramp-objavi-nov-udar-vrz-eu/",
-          "published": "Fri, 01 May 2026 18:34:42 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Овие знаци започнуваат „нов живот“: Сè се менува за нив – од корен",
-          "link": "https://makfax.com.mk/zanimlivosti/ovie-znaci-zapochnuvaat-nov-zhivot-se-se-menuva-za-niv-od-koren/",
-          "published": "Fri, 01 May 2026 17:30:33 +0000"
+          "source": "NetPress",
+          "title": "Променливо облачно време со повремени локални дождови",
+          "link": "https://netpress.com.mk/promenlivo-oblachno-vreme-so-povremeni-lokalni-dozhdovi/",
+          "published": "Sat, 02 May 2026 05:47:23 +0000"
         },
         {
           "source": "NetPress",
@@ -57,18 +69,6 @@
           "title": "Премиер лига: Лидс победи за помирнa завршница",
           "link": "https://netpress.com.mk/premier-liga-lids-pobedi-za-pomirna-zavrshnicza/",
           "published": "Fri, 01 May 2026 22:09:54 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Tрамп објави крај на конфликтот со Иран",
-          "link": "https://netpress.com.mk/tramp-objavi-kraj-na-konfliktot-so-iran/",
-          "published": "Fri, 01 May 2026 21:56:25 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Серија А: Пиза и математички испаѓа, Лече до важни бодови во борбата за опстанок",
-          "link": "https://netpress.com.mk/serija-a-piza-i-matematichki-ispaga-leche-do-vazhni-bodovi-vo-borbata-za-opstanok/",
-          "published": "Fri, 01 May 2026 21:28:11 +0000"
         }
       ]
     },
@@ -89,6 +89,12 @@
         },
         {
           "source": "BBC",
+          "title": "'If we sleep they bite': Rats and weasels infest camps for displaced Gazans",
+          "link": "https://www.bbc.com/news/articles/c202m54xp0mo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 02 May 2026 05:02:14 GMT"
+        },
+        {
+          "source": "BBC",
           "title": "Trump claims other presidents flouted war powers law. It's a mixed record",
           "link": "https://www.bbc.com/news/articles/c794zlx5lx8o?at_medium=RSS&at_campaign=rss",
           "published": "Sat, 02 May 2026 02:43:48 GMT"
@@ -100,10 +106,22 @@
           "published": "Fri, 01 May 2026 13:12:10 GMT"
         },
         {
-          "source": "BBC",
-          "title": "Australia wants to become the first country to eliminate a cancer - can it?",
-          "link": "https://www.bbc.com/news/articles/cd6w15vgp7lo?at_medium=RSS&at_campaign=rss",
-          "published": "Fri, 01 May 2026 19:30:36 GMT"
+          "source": "Al Jazeera",
+          "title": "Trump says US forces are ‘like pirates’ taking Iranian oil",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/5/2/trump-says-us-forces-are-like-pirates-taking-iranian-oil?traffic_source=rss",
+          "published": "Sat, 02 May 2026 04:35:54 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Iran war protester speaks to Al Jazeera from top of Washington bridge",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/5/2/iran-war-protester-speaks-to-al-jazeera-from-top-of-washington-bridge?traffic_source=rss",
+          "published": "Sat, 02 May 2026 04:17:09 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Havana slams new Trump sanctions as ‘collective punishment’ of Cuban people",
+          "link": "https://www.aljazeera.com/economy/2026/5/2/havana-slams-new-trump-sanctions-as-collective-punishment-of-cuban-people?traffic_source=rss",
+          "published": "Sat, 02 May 2026 04:06:01 +0000"
         },
         {
           "source": "Al Jazeera",
@@ -116,24 +134,6 @@
           "title": "K-pop’s BTS comeback tour rallies South Korea’s global ‘soft power’ drive",
           "link": "https://www.aljazeera.com/economy/2026/5/2/k-pops-bts-comeback-tour-rallies-south-koreas-global-soft-power-drive?traffic_source=rss",
           "published": "Sat, 02 May 2026 02:25:22 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Iran war live: Trump says no ‘early’ end to war, unhappy with Tehran offer",
-          "link": "https://www.aljazeera.com/news/liveblog/2026/5/2/iran-war-live-trump-says-no-early-end-to-war-unhappy-with-tehran-offer?traffic_source=rss",
-          "published": "Sat, 02 May 2026 00:00:00 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "US said to be withdrawing 5,000 troops from Germany over Iran war spat",
-          "link": "https://www.aljazeera.com/news/2026/5/1/us-said-to-be-withdrawing-5000-troops-from-germany-over-iran-war-spat?traffic_source=rss",
-          "published": "Fri, 01 May 2026 22:54:30 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Trump considering option to ‘blast the hell out of’ Iran",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/5/1/trump-considering-option-to-blast-the-hell-out-of-iran?traffic_source=rss",
-          "published": "Fri, 01 May 2026 22:27:26 +0000"
         }
       ]
     }
