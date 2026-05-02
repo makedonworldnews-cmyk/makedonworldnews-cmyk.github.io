@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-01T23:33:05Z",
+  "updatedAt": "2026-05-02T01:15:42Z",
   "groups": [
     {
       "region": "Македонија",
@@ -42,33 +42,9 @@
         },
         {
           "source": "NetPress",
-          "title": "Евролига: Реал Мадрид на чекор до уште еден „Фајнал Фор“",
-          "link": "https://netpress.com.mk/evroliga-real-madrid-na-chekor-do-ushte-eden-fajnal-for/",
-          "published": "Fri, 01 May 2026 22:27:23 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Ла Лига: Гостинска победа на Мајорка кај Жирона",
-          "link": "https://netpress.com.mk/la-liga-gostinska-pobeda-na-majorka-kaj-zhirona/",
-          "published": "Fri, 01 May 2026 22:18:46 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Премиер лига: Лидс победи за помирнa завршница",
-          "link": "https://netpress.com.mk/premier-liga-lids-pobedi-za-pomirna-zavrshnicza/",
-          "published": "Fri, 01 May 2026 22:09:54 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Tрамп објави крај на конфликтот со Иран",
-          "link": "https://netpress.com.mk/tramp-objavi-kraj-na-konfliktot-so-iran/",
-          "published": "Fri, 01 May 2026 21:56:25 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Серија А: Пиза и математички испаѓа, Лече до важни бодови во борбата за опстанок",
-          "link": "https://netpress.com.mk/serija-a-piza-i-matematichki-ispaga-leche-do-vazhni-bodovi-vo-borbata-za-opstanok/",
-          "published": "Fri, 01 May 2026 21:28:11 +0000"
+          "title": "⚠️ Не може да се вчита (извор/timeout)",
+          "link": "https://netpress.com.mk/feed/",
+          "published": ""
         }
       ]
     },
@@ -85,7 +61,7 @@
           "source": "BBC",
           "title": "Trump tells Congress ceasefire means he does not need their approval for Iran war",
           "link": "https://www.bbc.com/news/articles/c4g4xexy4w7o?at_medium=RSS&at_campaign=rss",
-          "published": "Fri, 01 May 2026 21:05:43 GMT"
+          "published": "Sat, 02 May 2026 00:41:43 GMT"
         },
         {
           "source": "BBC",
@@ -95,7 +71,7 @@
         },
         {
           "source": "BBC",
-          "title": "Australia wants to be first nation in the world to eliminate a cancer - can it?",
+          "title": "Australia wants to become the first country to eliminate a cancer - can it?",
           "link": "https://www.bbc.com/news/articles/cd6w15vgp7lo?at_medium=RSS&at_campaign=rss",
           "published": "Fri, 01 May 2026 19:30:36 GMT"
         },
@@ -104,6 +80,12 @@
           "title": "Who shot a Secret Service officer at the Trump press dinner?",
           "link": "https://www.bbc.com/news/articles/cm2pmk0r3pjo?at_medium=RSS&at_campaign=rss",
           "published": "Fri, 01 May 2026 21:44:05 GMT"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Iran war live: Trump says no ‘early’ end to war, unhappy with Tehran offer",
+          "link": "https://www.aljazeera.com/news/liveblog/2026/5/2/iran-war-live-trump-says-no-early-end-to-war-unhappy-with-tehran-offer?traffic_source=rss",
+          "published": "Sat, 02 May 2026 00:00:00 +0000"
         },
         {
           "source": "Al Jazeera",
@@ -128,12 +110,6 @@
           "title": "At least 12 killed in latest Israeli attacks on Lebanon",
           "link": "https://www.aljazeera.com/news/2026/5/1/at-least-12-killed-in-latest-israeli-attacks-on-lebanon?traffic_source=rss",
           "published": "Fri, 01 May 2026 21:10:15 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Iranian Nobel laureate Narges Mohammadi hospitalised as health deteriorates",
-          "link": "https://www.aljazeera.com/news/2026/5/1/iranian-nobel-laureate-narges-mohammadi-hospitalised-as-health-deteriorates?traffic_source=rss",
-          "published": "Fri, 01 May 2026 20:59:55 +0000"
         }
       ]
     }
