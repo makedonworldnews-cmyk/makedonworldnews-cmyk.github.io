@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-02T20:33:16Z",
+  "generated_at": "2026-05-02T21:21:50Z",
   "items": [
     {
       "region": "Македонија",
@@ -39,6 +39,13 @@
     {
       "region": "Македонија",
       "source": "NetPress",
+      "title": "Зеленски го санкционира поранешниот шеф на неговиот кабинет",
+      "link": "https://netpress.com.mk/zelenski-go-sankczionira-poraneshniot-shef-na-negoviot-kabinet/",
+      "published": "Sat, 02 May 2026 20:59:22 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "NetPress",
       "title": "Премиер лига: Арсенал се одлепи на бода предност пред Манчестер Сити",
       "link": "https://netpress.com.mk/premier-liga-arsenal-se-odlepi-na-boda-prednost-pred-manchester-siti/",
       "published": "Sat, 02 May 2026 19:45:39 +0000"
@@ -63,13 +70,6 @@
       "title": "Австриската полиција уапси маж во случајот со труење на бебешка храна",
       "link": "https://netpress.com.mk/avstriskata-policzija-uapsi-mazh-vo-sluchajot-so-truene-na-bebeshka-hrana/",
       "published": "Sat, 02 May 2026 18:34:09 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "ВИДЕО| Борова шума пропадна по катастрофално лизгање на земјиште во Бугарија",
-      "link": "https://netpress.com.mk/video-borova-shuma-propadna-po-katastrofalno-lizgane-na-zemjishte-vo-bugarija/",
-      "published": "Sat, 02 May 2026 17:03:01 +0000"
     },
     {
       "region": "Свет",
@@ -109,6 +109,20 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "Timmy the humpback whale escapes to the North Sea",
+      "link": "https://www.aljazeera.com/news/2026/5/2/timmy-the-humpback-whale-escapes-to-the-north-sea?traffic_source=rss",
+      "published": "Sat, 02 May 2026 20:50:39 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Spirit Airlines collapses amid rising fuel costs from war on Iran",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/2/spirit-airlines-collapses-amid-rising-fuel-costs-from-war-on-iran?traffic_source=rss",
+      "published": "Sat, 02 May 2026 20:28:12 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "At least six dead in heavy rains in northeast Brazil, thousands displaced",
       "link": "https://www.aljazeera.com/news/2026/5/2/at-least-six-dead-in-heavy-rains-in-northeast-brazil-thousands-displaced?traffic_source=rss",
       "published": "Sat, 02 May 2026 19:59:25 +0000"
@@ -126,20 +140,6 @@
       "title": "Ukraine eyes Belarus border activities as Russian strikes persist",
       "link": "https://www.aljazeera.com/news/2026/5/2/ukraine-eyes-belarus-border-activities-as-russian-strikes-persist?traffic_source=rss",
       "published": "Sat, 02 May 2026 19:54:30 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Syria becomes alternative energy corridor for oil as Hormuz effectively blo",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/2/syria-becomes-alternative-energy-corridor-for-oil-as-hormuz-effectively-blo?traffic_source=rss",
-      "published": "Sat, 02 May 2026 19:45:20 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Israel’s expanding ‘orange line’ tightens deadly no-go zones in Gaza",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/2/israels-expanding-orange-line-tightens-deadly-no-go-zones-in-gaza?traffic_source=rss",
-      "published": "Sat, 02 May 2026 19:11:33 +0000"
     }
   ]
 }
