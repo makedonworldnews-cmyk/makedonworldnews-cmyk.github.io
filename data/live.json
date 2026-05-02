@@ -1,6 +1,20 @@
 {
-  "generated_at": "2026-05-02T13:43:41Z",
+  "generated_at": "2026-05-02T14:35:01Z",
   "items": [
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "Независниот синдикат на професионални војници: Министерство за одбрана си формираше „свој синдикат“",
+      "link": "https://makfax.com.mk/makedonija/nezavisniot-sindikat-na-profesionalni-vojnici-ministerstvo-za-odbrana-si-formirashe-svoj-sindikat/",
+      "published": "Sat, 02 May 2026 14:26:06 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "Бран апсења за семејно насилство: Приведени пет лица во Куманово, Охрид, Струмица и Велес",
+      "link": "https://makfax.com.mk/crna-hronika/bran-apsenja-za-semejno-nasilstvo-privedeni-pet-lica-vo-kumanovo-ohrid-strumica-i-veles/",
+      "published": "Sat, 02 May 2026 13:55:56 +0000"
+    },
     {
       "region": "Македонија",
       "source": "Makfax",
@@ -24,17 +38,17 @@
     },
     {
       "region": "Македонија",
-      "source": "Makfax",
-      "title": "Трамп: Запленуваме бродови и товар, ние сме како пирати",
-      "link": "https://makfax.com.mk/svet/tramp-zaplenuvame-brodovi-i-tovar-nie-sme-kako-pirati/",
-      "published": "Sat, 02 May 2026 12:20:48 +0000"
+      "source": "NetPress",
+      "title": "Рускиот амбасадор за ТАСС: Ставот на Скопје за украинската криза не е одраз на интересите на македонскиот народ",
+      "link": "https://netpress.com.mk/ruskiot-ambasador-za-tass-stavot-na-skopje-za-ukrainskata-kriza-ne-e-odraz-na-interesite-na-makedonskiot-narod/",
+      "published": "Sat, 02 May 2026 14:04:48 +0000"
     },
     {
       "region": "Македонија",
-      "source": "Makfax",
-      "title": "Иран: Американците треба да ја повикаат својата влада на одговорност за војната",
-      "link": "https://makfax.com.mk/svet/iran-amerikancite-treba-da-ja-povikaat-svojata-vlada-na-odgovornost-za-vojnata/",
-      "published": "Sat, 02 May 2026 11:39:03 +0000"
+      "source": "NetPress",
+      "title": "ДУИ брани проект што нивни директори бараа да се раскине",
+      "link": "https://netpress.com.mk/dui-brani-proekt-shto-nivni-direktori-baraa-da-se-raskine/",
+      "published": "Sat, 02 May 2026 13:48:16 +0000"
     },
     {
       "region": "Македонија",
@@ -58,20 +72,6 @@
       "published": "Sat, 02 May 2026 12:50:04 +0000"
     },
     {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Колку долго може да трае војната со Иран без одобрение од Конгресот?",
-      "link": "https://netpress.com.mk/kolku-dolgo-mozhe-da-trae-vojnata-so-iran-bez-odobrenie-od-kongresot/",
-      "published": "Sat, 02 May 2026 12:14:27 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Двајца нападнати со нож пред кафеана во Кичево",
-      "link": "https://netpress.com.mk/dvajcza-napadnati-so-nozh-pred-kafeana-vo-kichevo/",
-      "published": "Sat, 02 May 2026 11:32:38 +0000"
-    },
-    {
       "region": "Свет",
       "source": "BBC",
       "title": "US to cut troop levels in Germany by 5,000 amid Trump spat with Merz",
@@ -81,16 +81,16 @@
     {
       "region": "Свет",
       "source": "BBC",
-      "title": "Trump tells Congress ceasefire means he does not need their approval for Iran war",
-      "link": "https://www.bbc.com/news/articles/c4g4xexy4w7o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 02 May 2026 00:41:43 GMT"
+      "title": "US threatens shipping firms with sanctions if they pay Iran tolls",
+      "link": "https://www.bbc.com/news/articles/c3v2l2qq9qlo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 02 May 2026 14:18:14 GMT"
     },
     {
       "region": "Свет",
       "source": "BBC",
       "title": "Thirteen killed in Israeli strikes on southern Lebanon, health ministry says",
       "link": "https://www.bbc.com/news/articles/cd7pn0zywggo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 02 May 2026 11:03:40 GMT"
+      "published": "Sat, 02 May 2026 14:28:13 GMT"
     },
     {
       "region": "Свет",
@@ -102,9 +102,23 @@
     {
       "region": "Свет",
       "source": "BBC",
-      "title": "Ex-F1 driver and Paralympic champion Zanardi dies",
-      "link": "https://www.bbc.com/sport/formula1/articles/cvgz0kpxjpgo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 02 May 2026 09:08:43 GMT"
+      "title": "Trump tells Congress ceasefire means he does not need their approval for Iran war",
+      "link": "https://www.bbc.com/news/articles/c4g4xexy4w7o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 02 May 2026 00:41:43 GMT"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "LIVE: Arsenal vs Fulham – Premier League",
+      "link": "https://www.aljazeera.com/sports/liveblog/2026/5/2/live-arsenal-vs-fulham-premier-league?traffic_source=rss",
+      "published": "Sat, 02 May 2026 13:32:09 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "The United States of Conspiracy",
+      "link": "https://www.aljazeera.com/video/the-listening-post/2026/5/2/the-united-states-of-conspiracy?traffic_source=rss",
+      "published": "Sat, 02 May 2026 13:29:35 +0000"
     },
     {
       "region": "Свет",
@@ -126,20 +140,6 @@
       "title": "Israeli air strikes kill 10 people in southern Lebanon",
       "link": "https://www.aljazeera.com/news/2026/5/2/israeli-air-strikes-kill-10-people-in-southern-lebanon?traffic_source=rss",
       "published": "Sat, 02 May 2026 12:55:34 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Flotilla activists return to Istanbul after Israel detains them at sea",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/2/flotilla-activists-return-to-istanbul-after-israel-detains-them-at-sea?traffic_source=rss",
-      "published": "Sat, 02 May 2026 12:46:01 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Rallies under way as workers gather for International Labour Day",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/2/rallies-under-way-as-workers-gather-for-international-labour-day-2?traffic_source=rss",
-      "published": "Sat, 02 May 2026 12:39:15 +0000"
     }
   ]
 }
