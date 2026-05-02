@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-02T19:17:42Z",
+  "updatedAt": "2026-05-02T20:01:26Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Карвахал повторно се повреди – Се враќа во последното коло да се збогува со клубот",
+          "link": "https://makfax.com.mk/sport/karvahal-povtorno-se-povredi-se-vraka-vo-poslednoto-kolo-da-se-zboguva-so-klubot/",
+          "published": "Sat, 02 May 2026 19:50:03 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Марта Костјук го освои Мастерсот во Мадрид",
+          "link": "https://makfax.com.mk/sport/marta-kostjuk-go-osvoi-mastersot-vo-madrid/",
+          "published": "Sat, 02 May 2026 19:39:56 +0000"
         },
         {
           "source": "Makfax",
@@ -29,16 +41,10 @@
           "published": "Sat, 02 May 2026 18:48:33 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "(Видео) Под обична куќа во Босна се криела најчуваната југословенска тајна – бункерот на Тито",
-          "link": "https://makfax.com.mk/zanimlivosti/video-pod-obichna-kuka-vo-bosna-se-kriela-najchuvanata-jugoslovenska-tajna-bunkerot-na-tito/",
-          "published": "Sat, 02 May 2026 18:37:12 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Сокот од домати носи бројни здравствени придобивки, но не е за секого",
-          "link": "https://makfax.com.mk/zanimlivosti/sokot-od-domati-nosi-brojni-zdravstveni-pridobivki-no-ne-e-za-sekogo/",
-          "published": "Sat, 02 May 2026 18:21:31 +0000"
+          "source": "NetPress",
+          "title": "Премиер лига: Арсенал се одлепи на бода предност пред Манчестер Сити",
+          "link": "https://netpress.com.mk/premier-liga-arsenal-se-odlepi-na-boda-prednost-pred-manchester-siti/",
+          "published": "Sat, 02 May 2026 19:45:39 +0000"
         },
         {
           "source": "NetPress",
@@ -63,12 +69,6 @@
           "title": "ВИДЕО| Борова шума пропадна по катастрофално лизгање на земјиште во Бугарија",
           "link": "https://netpress.com.mk/video-borova-shuma-propadna-po-katastrofalno-lizgane-na-zemjishte-vo-bugarija/",
           "published": "Sat, 02 May 2026 17:03:01 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Ќе се реконструира тетовската болница – инвестиција од 74 милиони евра",
-          "link": "https://netpress.com.mk/ke-se-rekonstruira-tetovskata-bolnicza-investiczija-od-74-milioni-evra/",
-          "published": "Sat, 02 May 2026 15:36:23 +0000"
         }
       ]
     },
@@ -107,6 +107,24 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Syria becomes alternative energy corridor for oil as Hormuz effectively blo",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/5/2/syria-becomes-alternative-energy-corridor-for-oil-as-hormuz-effectively-blo?traffic_source=rss",
+          "published": "Sat, 02 May 2026 19:45:20 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Israel’s expanding ‘orange line’ tightens deadly no-go zones in Gaza",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/5/2/israels-expanding-orange-line-tightens-deadly-no-go-zones-in-gaza?traffic_source=rss",
+          "published": "Sat, 02 May 2026 19:11:33 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Arsenal ease past Fulham to pull six points clear of Manchester City",
+          "link": "https://www.aljazeera.com/sports/2026/5/2/arsenal-thrash-fulham-to-pull-6-points-clear-of-manchester-city?traffic_source=rss",
+          "published": "Sat, 02 May 2026 19:00:36 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Spain demands Israel release arrested Gaza flotilla crew member",
           "link": "https://www.aljazeera.com/news/2026/5/2/spain-demands-israel-release-arrested-gaza-flotilla-crew-member?traffic_source=rss",
           "published": "Sat, 02 May 2026 18:12:35 +0000"
@@ -116,24 +134,6 @@
           "title": "Devastation of Southern Lebanon continues under ‘ceasefire’",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/5/2/devastation-of-southern-lebanon-continues-under?traffic_source=rss",
           "published": "Sat, 02 May 2026 18:05:05 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Yemen reports hijacked oil tanker headed for Somalia",
-          "link": "https://www.aljazeera.com/news/2026/5/2/yemen-reports-hijacked-oil-tanker-headed-for-somalia?traffic_source=rss",
-          "published": "Sat, 02 May 2026 17:10:29 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Spain’s Sanchez demands Netanyahu free Spaniard seized on aid flotilla",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/5/2/spains-sanchez-demands-netanyahu-free-spaniard-seized-on-aid-flotilla?traffic_source=rss",
-          "published": "Sat, 02 May 2026 17:06:22 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Prices surge, jobs disappear as war strains Iran’s economy",
-          "link": "https://www.aljazeera.com/economy/2026/5/2/prices-surge-jobs-disappear-as-war-strains-irans-economy?traffic_source=rss",
-          "published": "Sat, 02 May 2026 16:58:30 +0000"
         }
       ]
     }
