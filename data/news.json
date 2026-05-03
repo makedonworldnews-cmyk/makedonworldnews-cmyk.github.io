@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-03T20:24:09Z",
+  "updatedAt": "2026-05-03T21:09:38Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) Винисиус со два гола ја одложи прославата на Барселона",
+          "link": "https://makfax.com.mk/sport/video-vinisius-so-dva-gola-ja-odlozhi-proslavata-na-barselona/",
+          "published": "Sun, 03 May 2026 21:08:56 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Интер ја врати шампионската титула на „Џузепе Меаца“",
+          "link": "https://makfax.com.mk/sport/inter-ja-vrati-shampionskata-titula-na-dhuzepe-meaca/",
+          "published": "Sun, 03 May 2026 20:55:57 +0000"
         },
         {
           "source": "Makfax",
@@ -29,16 +41,16 @@
           "published": "Sun, 03 May 2026 19:36:52 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "(Видео) Влаховиќ спречи пораз на Јувентус од Верона",
-          "link": "https://makfax.com.mk/sport/video-vlahovik-sprechi-poraz-na-juventus-od-verona/",
-          "published": "Sun, 03 May 2026 19:12:57 +0000"
+          "source": "NetPress",
+          "title": "Иран го добил одговорот од САД на својата последната понуда за преговори",
+          "link": "https://netpress.com.mk/iran-go-dobil-odgovorot-od-sad-na-svojata-poslednata-ponuda-za-pregovori/",
+          "published": "Sun, 03 May 2026 20:41:23 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Трета победа по ред за Антонели – Италијанецот победи во Мајами",
-          "link": "https://makfax.com.mk/sport/treta-pobeda-po-red-za-antoneli-italijanecot-pobedi-vo-majami/",
-          "published": "Sun, 03 May 2026 19:03:02 +0000"
+          "source": "NetPress",
+          "title": "Премиер лига: Важна победа на Тотенхем за опстанок, Манчестер Ј. преку Ливерпул во Лига на шампионите",
+          "link": "https://netpress.com.mk/premier-liga-vazhna-pobeda-na-totenhem-za-opstanok-manchester-j-preku-liverpul-vo-liga-na-shampionite/",
+          "published": "Sun, 03 May 2026 20:24:31 +0000"
         },
         {
           "source": "NetPress",
@@ -57,18 +69,6 @@
           "title": "Средба Сиљановска-Давкова и Хачатурјан: Нови можности за соработка помеѓу Македонија и Ерменија",
           "link": "https://netpress.com.mk/sredba-silanovska-davkova-i-hachaturjan-novi-mozhnosti-za-sorabotka-pomegu-makedonija-i-ermenija/",
           "published": "Sun, 03 May 2026 18:44:43 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "АТП Мадрид: Синер лесно го победи Зверев во финалето",
-          "link": "https://netpress.com.mk/atp-madrid-siner-lesno-go-pobedi-zverev-vo-finaleto/",
-          "published": "Sun, 03 May 2026 18:30:44 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Доларот под притисок поради интервенцијата на Јапонија на пазарот",
-          "link": "https://netpress.com.mk/dolarot-pod-pritisok-poradi-intervenczijata-na-japonija-na-pazarot/",
-          "published": "Sun, 03 May 2026 18:11:13 +0000"
         }
       ]
     },
@@ -79,7 +79,7 @@
           "source": "BBC",
           "title": "Iran says US has responded to its latest peace proposal",
           "link": "https://www.bbc.com/news/articles/cn0px2x53k2o?at_medium=RSS&at_campaign=rss",
-          "published": "Sun, 03 May 2026 19:24:02 GMT"
+          "published": "Sun, 03 May 2026 20:25:25 GMT"
         },
         {
           "source": "BBC",
@@ -91,7 +91,7 @@
           "source": "BBC",
           "title": "Three dead in suspected virus outbreak on Atlantic cruise ship",
           "link": "https://www.bbc.com/news/articles/cy0294829ndo?at_medium=RSS&at_campaign=rss",
-          "published": "Sun, 03 May 2026 20:03:00 GMT"
+          "published": "Sun, 03 May 2026 20:36:34 GMT"
         },
         {
           "source": "BBC",
@@ -104,6 +104,18 @@
           "title": "Nigeria summons South African envoy over attacks on its nationals",
           "link": "https://www.bbc.com/news/articles/c78q6e98878o?at_medium=RSS&at_campaign=rss",
           "published": "Sun, 03 May 2026 10:16:01 GMT"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Kimi Antonelli wins Miami Grand Prix to extend F1 title lead",
+          "link": "https://www.aljazeera.com/sports/2026/5/3/kimi-antonelli-wins-miami-grand-prix-to-extend-f1-title-lead?traffic_source=rss",
+          "published": "Sun, 03 May 2026 20:28:51 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "World Press Freedom Day marked in Gaza as journalist death toll rises",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/5/3/world-press-freedom-day-marked-in-gaza-as-journalist-death-toll-rises?traffic_source=rss",
+          "published": "Sun, 03 May 2026 20:07:00 +0000"
         },
         {
           "source": "Al Jazeera",
@@ -122,18 +134,6 @@
           "title": "Israel’s strategy of ‘permanent war’: A race against time?",
           "link": "https://www.aljazeera.com/video/the-bottom-line/2026/5/3/israels-strategy-of-permanent-war-a-race-against-time?traffic_source=rss",
           "published": "Sun, 03 May 2026 19:36:54 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Israeli forces kill Palestinian man in raid on Nablus in occupied West Ban",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/5/3/israeli-forces-kill-palestinian-man-in-raid-on-nablus-in-occupied-west-ban?traffic_source=rss",
-          "published": "Sun, 03 May 2026 17:52:00 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Investigators say Trump assassination suspect shot officer at press gala",
-          "link": "https://www.aljazeera.com/news/2026/5/3/investigators-say-trump-assassination-suspect-shot-officer-at-press-gala?traffic_source=rss",
-          "published": "Sun, 03 May 2026 17:25:50 +0000"
         }
       ]
     }
