@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-03T10:40:25Z",
+  "updatedAt": "2026-05-03T11:30:47Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,24 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Навивач падна од трибина на натпревар во Гостивар, пренесен во Ургентен центар",
+          "link": "https://makfax.com.mk/crna-hronika/navivach-padna-od-tribina-na-natprevar-vo-gostivar-prenesen-vo-urgenten-centar/",
+          "published": "Sun, 03 May 2026 11:05:45 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Маж претепан во Кисела Вода по расправија, нападнат и со кундак од пиштол",
+          "link": "https://makfax.com.mk/crna-hronika/mazh-pretepan-vo-kisela-voda-po-raspravija-napadnat-i-so-kundak-od-pishtol/",
+          "published": "Sun, 03 May 2026 10:57:03 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Трамп зад затворени врати жестоко ја критикувал Меган Маркл: „Што му направи на тој човек“",
+          "link": "https://makfax.com.mk/zanimlivosti/tramp-zad-zatvoreni-vrati-zhestoko-ja-kritikuval-megan-markl-shto-mu-napravi-na-toj-chovek/",
+          "published": "Sun, 03 May 2026 10:48:29 +0000"
         },
         {
           "source": "Makfax",
@@ -23,22 +41,16 @@
           "published": "Sun, 03 May 2026 10:02:14 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "(Видео) Украина погоди два руски танкери од „флотата во сенка“, објави Зеленски",
-          "link": "https://makfax.com.mk/svet/video-ukraina-pogodi-dva-ruski-tankeri-od-flotata-vo-senka-objavi-zelenski/",
-          "published": "Sun, 03 May 2026 09:25:45 +0000"
+          "source": "NetPress",
+          "title": "Гран при за македонскиот фолклорен ансамбл „Илинден“ на меѓународниот фестивал „Wawelskie Skarby“ во Краков",
+          "link": "https://netpress.com.mk/gran-pri-za-makedonskiot-folkloren-ansambl-ilinden-na-megunarodniot-festival-wawelskie-skarby-vo-krakov/",
+          "published": "Sun, 03 May 2026 10:59:53 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "САД го разгледуваат новиот предлог од Техеран, Трамп вели: Тешко дека ќе го прифатиме",
-          "link": "https://makfax.com.mk/svet/sad-go-razgleduvaat-noviot-predlog-od-teheran-tramp-veli-teshko-deka-ke-go-prifatime/",
-          "published": "Sun, 03 May 2026 09:15:02 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "ВЛЕН ќе се обедини во една партија на 9 мај:  „Стануваме единствена сила, со едно име, насока и мисија – oд Липково до Струга“",
-          "link": "https://makfax.com.mk/makedonija/vlen-ke-se-obedini-vo-edna-partija-na-9-maj-stanuvame-edinstvena-sila-so-edno-ime-nasoka-i-misija-od-lipkovo-do-struga/",
-          "published": "Sun, 03 May 2026 09:08:11 +0000"
+          "source": "NetPress",
+          "title": "Волш постави нов светски рекорд на 100 метри пеперутка",
+          "link": "https://netpress.com.mk/volsh-postavi-nov-svetski-rekord-na-100-metri-peperutka/",
+          "published": "Sun, 03 May 2026 10:50:55 +0000"
         },
         {
           "source": "NetPress",
@@ -57,18 +69,6 @@
           "title": "СДСМ: 700 милиони евра нов долг за три месеци, Владата ја турка државата во финансиска бездна",
           "link": "https://netpress.com.mk/sdsm-700-milioni-evra-nov-dolg-za-tri-meseczi-vladata-ja-turka-drzhavata-vo-finansiska-bezdna/",
           "published": "Sun, 03 May 2026 10:21:36 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Светски ден на слободата на медиумите",
-          "link": "https://netpress.com.mk/svetski-den-na-slobodata-na-mediumite-2/",
-          "published": "Sun, 03 May 2026 10:15:57 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "ФОТО| Далечниот Источен Нирнберг: Како се судени јапонските воени злосторници",
-          "link": "https://netpress.com.mk/foto-dalechniot-istochen-nirnberg-kako-se-sudeni-japonskite-voeni-zlostorniczi/",
-          "published": "Sun, 03 May 2026 10:03:44 +0000"
         }
       ]
     },
@@ -107,33 +107,33 @@
         },
         {
           "source": "Al Jazeera",
-          "title": "Ukraine drone attack hits Russian Baltic port, governor says",
-          "link": "https://www.aljazeera.com/news/2026/5/3/ukraine-drone-attack-hits-russian-baltic-port-governor-says?traffic_source=rss",
-          "published": "Sun, 03 May 2026 09:57:31 +0000"
+          "title": "What’s Iran’s 14-point proposal to end the war? And will Trump accept it?",
+          "link": "https://www.aljazeera.com/news/2026/5/3/whats-irans-14-point-proposal-to-end-the-war-and-will-trump-accept-it?traffic_source=rss",
+          "published": "Sun, 03 May 2026 11:10:48 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Are Somali pirates on a comeback in 2026?",
-          "link": "https://www.aljazeera.com/video/by-the-numbers-3/2026/5/3/are-somali-pirates-on-a-comeback-in-2026?traffic_source=rss",
-          "published": "Sun, 03 May 2026 09:38:23 +0000"
+          "title": "Strait of Hormuz blockade and other major naval sieges in modern times",
+          "link": "https://www.aljazeera.com/news/2026/5/3/strait-of-hormuz-blockade-and-other-major-naval-sieges-in-modern-times?traffic_source=rss",
+          "published": "Sun, 03 May 2026 10:36:49 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Israel issues new forced displacement orders in southern Lebanon",
-          "link": "https://www.aljazeera.com/news/2026/5/3/israel-issues-new-forced-displacement-orders-in-southern-lebanon?traffic_source=rss",
-          "published": "Sun, 03 May 2026 08:35:43 +0000"
+          "title": "Hospitals in Lebanon overwhelmed with patients injured by Israeli attacks",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/5/3/hospitals-in-lebanon-overwhelmed-with-patients-injured-by-israeli-attacks?traffic_source=rss",
+          "published": "Sun, 03 May 2026 10:35:13 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Gretchen Walsh lowers own 100m butterfly world record for fourth time",
-          "link": "https://www.aljazeera.com/sports/2026/5/3/gretchen-walsh-lowers-own-100m-butterfly-world-record-for-fourth-time?traffic_source=rss",
-          "published": "Sun, 03 May 2026 08:24:28 +0000"
+          "title": "After Maduro",
+          "link": "https://www.aljazeera.com/video/people-power/2026/5/3/after-maduro?traffic_source=rss",
+          "published": "Sun, 03 May 2026 10:33:01 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "The World Cup & Passport privilege",
-          "link": "https://www.aljazeera.com/video/game-theory/2026/5/3/aje-onl-wcpassport_v5-030526?traffic_source=rss",
-          "published": "Sun, 03 May 2026 08:04:51 +0000"
+          "title": "Ben-Gvir celebrates birthday with cake decorated with death penalty noose",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/5/3/ben-gvir-celebrates-birthday-with-cake-decorated-with-death-penalty-noose?traffic_source=rss",
+          "published": "Sun, 03 May 2026 10:29:07 +0000"
         }
       ]
     }
