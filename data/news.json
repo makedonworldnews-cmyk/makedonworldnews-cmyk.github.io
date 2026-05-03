@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-03T22:00:23Z",
+  "updatedAt": "2026-05-03T23:00:52Z",
   "groups": [
     {
       "region": "Македонија",
@@ -91,7 +91,7 @@
           "source": "BBC",
           "title": "Three dead in suspected virus outbreak on Atlantic cruise ship",
           "link": "https://www.bbc.com/news/articles/cy0294829ndo?at_medium=RSS&at_campaign=rss",
-          "published": "Sun, 03 May 2026 20:36:34 GMT"
+          "published": "Sun, 03 May 2026 22:13:36 GMT"
         },
         {
           "source": "BBC",
@@ -104,6 +104,12 @@
           "title": "Nigeria summons South African envoy over attacks on its nationals",
           "link": "https://www.bbc.com/news/articles/c78q6e98878o?at_medium=RSS&at_campaign=rss",
           "published": "Sun, 03 May 2026 10:16:01 GMT"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Three dead in suspected hantavirus outbreak on Atlantic cruise ship",
+          "link": "https://www.aljazeera.com/news/2026/5/3/three-dead-in-suspected-hantavirus-outbreak-on-atlantic-cruise-ship?traffic_source=rss",
+          "published": "Sun, 03 May 2026 21:59:20 +0000"
         },
         {
           "source": "Al Jazeera",
@@ -128,12 +134,6 @@
           "title": "Trump says US will ‘help free up’ ships stuck in Hormuz Strait",
           "link": "https://www.aljazeera.com/news/2026/5/3/trump-says-us-will-help-free-up-ships-stuck-in-hormuz-strait?traffic_source=rss",
           "published": "Sun, 03 May 2026 20:47:14 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Is Mali’s military government losing control?",
-          "link": "https://www.aljazeera.com/video/inside-story/2026/5/3/is-malis-military-government-losing-control?traffic_source=rss",
-          "published": "Sun, 03 May 2026 20:30:59 +0000"
         }
       ]
     }
