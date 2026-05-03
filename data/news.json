@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-03T19:39:12Z",
+  "updatedAt": "2026-05-03T20:24:09Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Тотенхем избега од опасната зона",
+          "link": "https://makfax.com.mk/sport/totenhem-izbega-od-opasnata-zona/",
+          "published": "Sun, 03 May 2026 20:23:02 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Мерц: Повлекувањето на американските трупи од Германија не е поврзано со спорот со Трамп",
+          "link": "https://makfax.com.mk/svet/merc-povlekuvanjeto-na-amerikanskite-trupi-od-germanija-ne-e-povrzano-so-sporot-so-tramp/",
+          "published": "Sun, 03 May 2026 19:42:04 +0000"
         },
         {
           "source": "Makfax",
@@ -29,16 +41,10 @@
           "published": "Sun, 03 May 2026 19:03:02 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Сиљановска-Давкова и Хачатурјан најавија ново поглавје во односите меѓу Македонија и Ерменија",
-          "link": "https://makfax.com.mk/makedonija/siljanovska-davkova-i-hachaturjan-najavija-novo-poglavje-vo-odnosite-megu-makedonija-i-ermenija/",
-          "published": "Sun, 03 May 2026 18:52:10 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Ретко остануваат без пари: Три хороскопски знаци имаат најмногу среќа со финансиите",
-          "link": "https://makfax.com.mk/zanimlivosti/retko-ostanuvaat-bez-pari-tri-horoskopski-znaci-imaat-najmnogu-sreka-so-finansiite/",
-          "published": "Sun, 03 May 2026 18:47:13 +0000"
+          "source": "NetPress",
+          "title": "Бундеслига: По бод за Фрајбург и Волфсбург, Борусија М. победи во финишот",
+          "link": "https://netpress.com.mk/bundesliga-po-bod-za-frajburg-i-volfsburg-borusija-m-pobedi-vo-finishot/",
+          "published": "Sun, 03 May 2026 19:49:38 +0000"
         },
         {
           "source": "NetPress",
@@ -63,12 +69,6 @@
           "title": "Доларот под притисок поради интервенцијата на Јапонија на пазарот",
           "link": "https://netpress.com.mk/dolarot-pod-pritisok-poradi-intervenczijata-na-japonija-na-pazarot/",
           "published": "Sun, 03 May 2026 18:11:13 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "На Волстрит, S&P 500 и Nasdaq индексите пораснаа шеста седмица по ред",
-          "link": "https://netpress.com.mk/na-volstrit-sp-500-i-nasdaq-indeksite-porasnaa-shesta-sedmicza-po-red/",
-          "published": "Sun, 03 May 2026 17:41:23 +0000"
         }
       ]
     },
@@ -91,7 +91,7 @@
           "source": "BBC",
           "title": "Three dead in suspected virus outbreak on Atlantic cruise ship",
           "link": "https://www.bbc.com/news/articles/cy0294829ndo?at_medium=RSS&at_campaign=rss",
-          "published": "Sun, 03 May 2026 19:09:02 GMT"
+          "published": "Sun, 03 May 2026 20:03:00 GMT"
         },
         {
           "source": "BBC",
@@ -107,6 +107,24 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Is Israel expanding into Gaza despite ceasefire?",
+          "link": "https://www.aljazeera.com/video/upfront/2026/5/3/is-israel-expanding-into-gaza-despite-ceasefire?traffic_source=rss",
+          "published": "Sun, 03 May 2026 19:55:02 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Germany’s Merz downplays rift with Washington despite US troop drawdown",
+          "link": "https://www.aljazeera.com/economy/2026/5/3/germanys-merz-downplays-rift-with-washington-despite-us-troop-drawdown?traffic_source=rss",
+          "published": "Sun, 03 May 2026 19:42:55 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Israel’s strategy of ‘permanent war’: A race against time?",
+          "link": "https://www.aljazeera.com/video/the-bottom-line/2026/5/3/israels-strategy-of-permanent-war-a-race-against-time?traffic_source=rss",
+          "published": "Sun, 03 May 2026 19:36:54 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Israeli forces kill Palestinian man in raid on Nablus in occupied West Ban",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/5/3/israeli-forces-kill-palestinian-man-in-raid-on-nablus-in-occupied-west-ban?traffic_source=rss",
           "published": "Sun, 03 May 2026 17:52:00 +0000"
@@ -116,24 +134,6 @@
           "title": "Investigators say Trump assassination suspect shot officer at press gala",
           "link": "https://www.aljazeera.com/news/2026/5/3/investigators-say-trump-assassination-suspect-shot-officer-at-press-gala?traffic_source=rss",
           "published": "Sun, 03 May 2026 17:25:50 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Floods and landslides kill at least 18 in Kenya",
-          "link": "https://www.aljazeera.com/news/2026/5/3/floods-and-landslides-kill-at-least-18-in-kenya?traffic_source=rss",
-          "published": "Sun, 03 May 2026 17:04:33 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Man United beat Liverpool 3-2 to secure Champions League qualification",
-          "link": "https://www.aljazeera.com/sports/2026/5/3/man-united-beat-liverpool-3-2-to-secure-champions-league-qualification?traffic_source=rss",
-          "published": "Sun, 03 May 2026 16:54:08 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Bulk carrier attacked by multiple small craft off Iran, UKMTO says",
-          "link": "https://www.aljazeera.com/news/2026/5/3/bulk-carrier-attacked-by-multiple-small-craft-off-iran-ukmto-says?traffic_source=rss",
-          "published": "Sun, 03 May 2026 16:47:24 +0000"
         }
       ]
     }
