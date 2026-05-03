@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-03T00:10:27Z",
+  "updatedAt": "2026-05-03T04:13:40Z",
   "groups": [
     {
       "region": "Македонија",
@@ -77,9 +77,9 @@
       "items": [
         {
           "source": "BBC",
-          "title": "Germany says US troop withdrawal 'foreseeable' as Nato seeks clarification",
+          "title": "Germany says US troop withdrawal 'foreseeable' as Trump warns of more 'cuts'",
           "link": "https://www.bbc.com/news/articles/cd9pn541jjlo?at_medium=RSS&at_campaign=rss",
-          "published": "Sat, 02 May 2026 23:13:55 GMT"
+          "published": "Sun, 03 May 2026 04:09:34 GMT"
         },
         {
           "source": "BBC",
@@ -107,6 +107,24 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "UAE lifts all air traffic restrictions introduced since Iran war",
+          "link": "https://www.aljazeera.com/news/2026/5/3/uae-lifts-all-air-traffic-restrictions-introduced-since-iran-war?traffic_source=rss",
+          "published": "Sun, 03 May 2026 03:29:44 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Trump reviews Iran’s peace proposal, expresses doubts it’s ‘acceptable’",
+          "link": "https://www.aljazeera.com/news/2026/5/3/trump-reviews-iranian-peace-proposal-warns-strikes-could-resume?traffic_source=rss",
+          "published": "Sun, 03 May 2026 02:37:38 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Iran war live: Trump to review 14-point plan; Israel pounds Lebanon",
+          "link": "https://www.aljazeera.com/news/liveblog/2026/5/3/iran-war-live-trump-says-reviewing-14-point-plan-israel-pounds-lebanon?traffic_source=rss",
+          "published": "Sun, 03 May 2026 00:00:00 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Philippines volcano erupts, blanketing ash across the sky",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/5/2/philippines-volcano-erupts-blanketing-ash-across-the-sky?traffic_source=rss",
           "published": "Sat, 02 May 2026 23:16:50 +0000"
@@ -116,24 +134,6 @@
           "title": "The rise of political violence under Trump",
           "link": "https://www.aljazeera.com/video/upfront/2026/5/2/the-rise-of-political-violence-under-trump?traffic_source=rss",
           "published": "Sat, 02 May 2026 21:25:34 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Why are maritime laws failing to secure the seas?",
-          "link": "https://www.aljazeera.com/video/inside-story/2026/5/2/why-are-maritime-laws-failing-to-secure-the-seas?traffic_source=rss",
-          "published": "Sat, 02 May 2026 21:04:01 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Timmy the humpback whale escapes to the North Sea",
-          "link": "https://www.aljazeera.com/news/2026/5/2/timmy-the-humpback-whale-escapes-to-the-north-sea?traffic_source=rss",
-          "published": "Sat, 02 May 2026 20:50:39 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Spirit Airlines collapses amid rising fuel costs from war on Iran",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/5/2/spirit-airlines-collapses-amid-rising-fuel-costs-from-war-on-iran?traffic_source=rss",
-          "published": "Sat, 02 May 2026 20:28:12 +0000"
         }
       ]
     }
