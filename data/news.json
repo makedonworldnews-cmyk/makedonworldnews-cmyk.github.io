@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-02T23:29:22Z",
+  "updatedAt": "2026-05-03T00:10:27Z",
   "groups": [
     {
       "region": "Македонија",
@@ -83,27 +83,33 @@
         },
         {
           "source": "BBC",
+          "title": "The Iran war has strengthened Ukraine in surprising ways. Could a ceasefire with Russia be closer?",
+          "link": "https://www.bbc.com/news/articles/cgjp7vpee03o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 02 May 2026 23:19:27 GMT"
+        },
+        {
+          "source": "BBC",
+          "title": "The clandestine network smuggling Starlink tech into Iran to beat internet blackout",
+          "link": "https://www.bbc.com/news/articles/cvgzk91leweo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 02 May 2026 23:17:17 GMT"
+        },
+        {
+          "source": "BBC",
+          "title": "Concern for jailed Iranian Nobel laureate as family say health deteriorating",
+          "link": "https://www.bbc.com/news/articles/c362pd8epw9o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 02 May 2026 17:55:06 GMT"
+        },
+        {
+          "source": "BBC",
           "title": "US threatens shipping firms with sanctions if they pay Iran tolls",
           "link": "https://www.bbc.com/news/articles/c3v2l2qq9qlo?at_medium=RSS&at_campaign=rss",
           "published": "Sat, 02 May 2026 14:18:14 GMT"
         },
         {
-          "source": "BBC",
-          "title": "Thirteen killed in Israeli strikes on southern Lebanon, health ministry says",
-          "link": "https://www.bbc.com/news/articles/cd7pn0zywggo?at_medium=RSS&at_campaign=rss",
-          "published": "Sat, 02 May 2026 16:51:18 GMT"
-        },
-        {
-          "source": "BBC",
-          "title": "Oil tanker hijacked off coast of Yemen and taken towards Somalia",
-          "link": "https://www.bbc.com/news/articles/cpwprl0v2npo?at_medium=RSS&at_campaign=rss",
-          "published": "Sat, 02 May 2026 17:53:07 GMT"
-        },
-        {
-          "source": "BBC",
-          "title": "'If we sleep, they bite': Rats and weasels infest camps for displaced Gazans",
-          "link": "https://www.bbc.com/news/articles/c202m54xp0mo?at_medium=RSS&at_campaign=rss",
-          "published": "Sat, 02 May 2026 05:02:14 GMT"
+          "source": "Al Jazeera",
+          "title": "Philippines volcano erupts, blanketing ash across the sky",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/5/2/philippines-volcano-erupts-blanketing-ash-across-the-sky?traffic_source=rss",
+          "published": "Sat, 02 May 2026 23:16:50 +0000"
         },
         {
           "source": "Al Jazeera",
@@ -128,12 +134,6 @@
           "title": "Spirit Airlines collapses amid rising fuel costs from war on Iran",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/5/2/spirit-airlines-collapses-amid-rising-fuel-costs-from-war-on-iran?traffic_source=rss",
           "published": "Sat, 02 May 2026 20:28:12 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "At least six dead in heavy rains in northeast Brazil, thousands displaced",
-          "link": "https://www.aljazeera.com/news/2026/5/2/at-least-six-dead-in-heavy-rains-in-northeast-brazil-thousands-displaced?traffic_source=rss",
-          "published": "Sat, 02 May 2026 19:59:25 +0000"
         }
       ]
     }
