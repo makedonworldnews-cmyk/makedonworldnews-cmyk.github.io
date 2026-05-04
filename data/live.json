@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-04T22:11:55Z",
+  "generated_at": "2026-05-04T23:11:07Z",
   "items": [
     {
       "region": "Македонија",
@@ -74,6 +74,13 @@
     {
       "region": "Свет",
       "source": "BBC",
+      "title": "US strikes Iranian fast boats as Iran attacks UAE oil facility",
+      "link": "https://www.bbc.com/news/articles/cjwp432d0v5o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 04 May 2026 22:44:07 GMT"
+    },
+    {
+      "region": "Свет",
+      "source": "BBC",
       "title": "Two killed and many injured after car driven into crowd in German city of Leipzig",
       "link": "https://www.bbc.com/news/articles/ckgpzgxgz58o?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 04 May 2026 21:33:17 GMT"
@@ -81,9 +88,9 @@
     {
       "region": "Свет",
       "source": "BBC",
-      "title": "Three dead in suspected virus outbreak on Atlantic cruise ship",
+      "title": "Three dead in suspected hantavirus outbreak on Atlantic cruise ship",
       "link": "https://www.bbc.com/news/articles/cy0294829ndo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 04 May 2026 16:07:57 GMT"
+      "published": "Mon, 04 May 2026 22:18:41 GMT"
     },
     {
       "region": "Свет",
@@ -101,10 +108,10 @@
     },
     {
       "region": "Свет",
-      "source": "BBC",
-      "title": "Britney Spears pleads guilty to reckless driving after arrest",
-      "link": "https://www.bbc.com/news/articles/ce9p09e5vnro?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 04 May 2026 17:11:56 GMT"
+      "source": "Al Jazeera",
+      "title": "For Christians in Israel and Jerusalem, intolerance is becoming normal",
+      "link": "https://www.aljazeera.com/news/2026/5/4/for-christians-israel-jerusalem-intolerance-becoming-normal?traffic_source=rss",
+      "published": "Mon, 04 May 2026 22:14:02 +0000"
     },
     {
       "region": "Свет",
@@ -133,13 +140,6 @@
       "title": "Video: Modi’s BJP poised to take control in India’s West Bengal",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/5/4/video-modis-bjp-poised-to-take-control-in-indias-west-bengal?traffic_source=rss",
       "published": "Mon, 04 May 2026 20:51:48 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Russia and Ukraine declare competing ceasefires",
-      "link": "https://www.aljazeera.com/news/2026/5/4/russia-and-ukraine-declare-competing-ceasefires?traffic_source=rss",
-      "published": "Mon, 04 May 2026 20:44:46 +0000"
     }
   ]
 }
