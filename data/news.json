@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-05T17:48:37Z",
+  "updatedAt": "2026-05-05T18:58:52Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,24 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Бугарската претседателка му го даде мандатот за формирање влада на Радев",
+          "link": "https://makfax.com.mk/svet/region/bugarskiot-pretsedatel-mu-go-dava-mandatot-za-formiranje-vlada-na-poraneshniot-pretsedatel-radev/",
+          "published": "Tue, 05 May 2026 18:26:42 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "ВЛЕН: Во завршна фаза е обединувањето во единствен политички субјект",
+          "link": "https://makfax.com.mk/makedonija/vlen-vo-zavrshna-faza-e-obedinuvanjeto-vo-edinstven-politichki-subjekt/",
+          "published": "Tue, 05 May 2026 18:08:36 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Трамп: Иран треба да го крене белото знаме",
+          "link": "https://makfax.com.mk/svet/tramp-iran-treba-da-go-krene-beloto-zname/",
+          "published": "Tue, 05 May 2026 17:53:10 +0000"
         },
         {
           "source": "Makfax",
@@ -23,52 +41,34 @@
           "published": "Tue, 05 May 2026 17:32:35 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Димитровски од Ереван: Меѓународното право не секогаш се почитувало во однос на нашата држава",
-          "link": "https://makfax.com.mk/makedonija/dimitrovski-od-erevan-megunarodnoto-pravo-ne-sekogash-se-pochituvalo-vo-odnos-na-nashata-drzhava/",
-          "published": "Tue, 05 May 2026 17:30:12 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "По години застој, мостот што ќе ги поврзува општините Аеродром и Гази Баба наскоро во функција",
-          "link": "https://makfax.com.mk/makedonija/po-godini-zastoj-mostot-shto-ke-gi-povrzuva-opshtinite-aerodrom-i-gazi-baba-naskoro-vo-funkcija/",
-          "published": "Tue, 05 May 2026 17:25:48 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Средба Хоџа – Јумакли: Зајакнување на билатералната соработка со Турција",
-          "link": "https://makfax.com.mk/makedonija/sredba-hodha-jumakli-zajaknuvanje-na-bilateralnata-sorabotka-so-turcija/",
-          "published": "Tue, 05 May 2026 17:00:11 +0000"
+          "source": "NetPress",
+          "title": "Уапсен велешанец што крадел во подрум",
+          "link": "https://netpress.com.mk/uapsen-veleshanecz-shto-kradel-vo-podrum/",
+          "published": "Tue, 05 May 2026 18:54:03 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Трамп смета дека Иран треба да крене „бело знаме“",
-          "link": "https://netpress.com.mk/tramp-smeta-deka-iran-treba-da-krene-belo-zname/",
-          "published": "Tue, 05 May 2026 17:42:31 +0000"
+          "title": "Трамп повторно го нападна папата, вели дека „загрозува многу католици“",
+          "link": "https://netpress.com.mk/tramp-povtorno-go-napadna-papata-veli-deka-zagrozuva-mnogu-katoliczi/",
+          "published": "Tue, 05 May 2026 18:48:06 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Донарума голман со најмногу жолти картони во најсилните европски лиги",
-          "link": "https://netpress.com.mk/donaruma-golman-so-najmnogu-zholti-kartoni-vo-najsilnite-evropski-ligi/",
-          "published": "Tue, 05 May 2026 17:27:46 +0000"
+          "title": "Индијци и Непалци во Кавадарци фатени како одгледуваат марихуана",
+          "link": "https://netpress.com.mk/indijczi-i-nepalczi-vo-kavadarczi-fateni-kako-odgleduvaat-marihuana/",
+          "published": "Tue, 05 May 2026 18:30:26 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Кривична пријава за дрвокрадецот што јурна со камион да гази полицајци",
-          "link": "https://netpress.com.mk/krivichna-prijava-za-drvokradeczot-shto-jurna-so-kamion-da-gazi-policzajczi/",
-          "published": "Tue, 05 May 2026 17:24:34 +0000"
+          "title": "Двајца разбојници од Велешта ограбиле обложувалница во Струга",
+          "link": "https://netpress.com.mk/dvajcza-razbojniczi-od-veleshta-ograbile-oblozhuvalnicza-vo-struga/",
+          "published": "Tue, 05 May 2026 18:05:40 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Мостот „Генерал Михајло Апостолски“ за најдоцна два месеца во функција",
-          "link": "https://netpress.com.mk/mostot-general-mihajlo-apostolski-za-najdoczna-dva-mesecza-vo-funkczija/",
-          "published": "Tue, 05 May 2026 17:07:32 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Емиратите пријавија ирански напад втор ден по ред",
-          "link": "https://netpress.com.mk/emiratite-prijavija-iranski-napad-vtor-den-po-red/",
-          "published": "Tue, 05 May 2026 17:00:10 +0000"
+          "title": "Стојаноски: За бугарската негација на Македонија, Филипче нема јасен и сериозен став",
+          "link": "https://netpress.com.mk/stojanoski-za-bugarskata-negaczija-na-makedonija-filipche-nema-jasen-i-seriozen-stav/",
+          "published": "Tue, 05 May 2026 17:53:42 +0000"
         }
       ]
     },
@@ -107,13 +107,25 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "US push for Lebanon and Israel leaders to meet could inflame tensions",
+          "link": "https://www.aljazeera.com/features/2026/5/5/us-push-for-lebanon-and-israel-leaders-to-meet-could-inflame-tensions?traffic_source=rss",
+          "published": "Tue, 05 May 2026 18:38:54 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "UK convicts four Palestine Action activists over break-in at Israeli firm",
+          "link": "https://www.aljazeera.com/news/2026/5/5/uk-convicts-four-palestine-action-activists-over-break-in-at-israeli-firm?traffic_source=rss",
+          "published": "Tue, 05 May 2026 17:36:42 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Microsoft, Google, xAI give US access to AI models for security testing",
           "link": "https://www.aljazeera.com/economy/2026/5/5/microsoft-google-xai-give-us-access-to-ai-models-for-security-testing?traffic_source=rss",
           "published": "Tue, 05 May 2026 16:53:09 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "UAE comes under Iranian attacks for second consecutive day",
+          "title": "UAE comes under Iranian attacks for second consecutive day: Ministry",
           "link": "https://www.aljazeera.com/news/2026/5/5/uae-intercepts-missiles-and-drones-for-second-day?traffic_source=rss",
           "published": "Tue, 05 May 2026 16:50:48 +0000"
         },
@@ -122,18 +134,6 @@
           "title": "Ukraine, Russia exchange drone strikes ahead of V-Day ‘ceasefire’",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/5/5/ukraine-russia-exchange-drone-strikes-ahead-of-v-day?traffic_source=rss",
           "published": "Tue, 05 May 2026 16:50:32 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "West Bengal Chief refuses to resign after ‘dirty’ election",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/5/5/west-bengal-chief-refuses-to-resign-after-dirty-election?traffic_source=rss",
-          "published": "Tue, 05 May 2026 16:39:05 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Iran’s judiciary vows action against ‘enemy’s mercenaries’ amid executions",
-          "link": "https://www.aljazeera.com/news/2026/5/5/irans-judiciary-vows-action-against-enemys-mercenaries-amid-executions?traffic_source=rss",
-          "published": "Tue, 05 May 2026 16:25:40 +0000"
         }
       ]
     }
