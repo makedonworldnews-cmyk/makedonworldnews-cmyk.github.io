@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-05T20:13:15Z",
+  "updatedAt": "2026-05-05T21:16:48Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Вардар 1961 со победа ја заврши сезоната во Лига Европа",
+          "link": "https://makfax.com.mk/sport/vardar-1961-so-pobeda-ja-zavrshi-sezonata-vo-liga-evropa/",
+          "published": "Tue, 05 May 2026 21:13:00 +0000"
         },
         {
           "source": "Makfax",
@@ -35,40 +41,34 @@
           "published": "Tue, 05 May 2026 18:08:36 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Трамп: Иран треба да го крене белото знаме",
-          "link": "https://makfax.com.mk/svet/tramp-iran-treba-da-go-krene-beloto-zname/",
-          "published": "Tue, 05 May 2026 17:53:10 +0000"
+          "source": "NetPress",
+          "title": "Евролига: Олимпијакос прв избори Фајнал Фор, Хапоел се избори за четврт натпревар со Реал",
+          "link": "https://netpress.com.mk/evroliga-olimpijakos-prv-izbori-fajnal-for-hapoel-se-izbori-za-chetvrt-natprevar-so-real/",
+          "published": "Tue, 05 May 2026 21:12:07 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Возејќи електричен тротинет, малолетник паднал и тешко се повредил",
-          "link": "https://netpress.com.mk/vozejki-elektrichen-trotinet-maloletnik-padnal-i-teshko-se-povredil/",
-          "published": "Tue, 05 May 2026 20:11:50 +0000"
+          "title": "Рубио: Се обидуваме да разбереме што сака Иран",
+          "link": "https://netpress.com.mk/rubio-se-obiduvame-da-razbereme-shto-saka-iran/",
+          "published": "Tue, 05 May 2026 20:55:04 +0000"
         },
         {
           "source": "NetPress",
-          "title": "„Боко Харам“ уби 23 војници во Чад",
-          "link": "https://netpress.com.mk/boko-haram-ubi-23-vojniczi-vo-chad/",
-          "published": "Tue, 05 May 2026 19:57:36 +0000"
+          "title": "Рано утрово горела напуштена куќа во Скопје",
+          "link": "https://netpress.com.mk/rano-utrovo-gorela-napushtena-kuka-vo-skopje/",
+          "published": "Tue, 05 May 2026 20:44:28 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Иран негира дека ги нападнал Обединетите Арапски Емирати",
-          "link": "https://netpress.com.mk/iran-negira-deka-gi-napadnal-obedinetite-arapski-emirati/",
-          "published": "Tue, 05 May 2026 19:49:42 +0000"
+          "title": "Сиљановска-Давкова: Македонскиот јазик е траен сведок на историскиот континуитет",
+          "link": "https://netpress.com.mk/silanovska-davkova-makedonskiot-jazik-e-traen-svedok-na-istoriskiot-kontinuitet/",
+          "published": "Tue, 05 May 2026 20:39:51 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Најмалку тројца загинати во израелските напади врз Појасот Газа",
-          "link": "https://netpress.com.mk/najmalku-trojcza-zaginati-vo-izraelskite-napadi-vrz-pojasot-gaza/",
-          "published": "Tue, 05 May 2026 19:44:16 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Раст на трговскиот дефицит на САД во март",
-          "link": "https://netpress.com.mk/rast-na-trgovskiot-deficzit-na-sad-vo-mart/",
-          "published": "Tue, 05 May 2026 19:40:59 +0000"
+          "title": "Маск барал 80 милијарди долари за колонизација на Марс, изјави Брокман",
+          "link": "https://netpress.com.mk/mask-baral-80-milijardi-dolari-za-kolonizaczija-na-mars-izjavi-brokman/",
+          "published": "Tue, 05 May 2026 20:35:07 +0000"
         }
       ]
     },
@@ -107,33 +107,33 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Before Vatican trip, Rubio defends Trump remarks on Pope Leo over Iran",
+          "link": "https://www.aljazeera.com/news/2026/5/5/before-vatican-trip-rubio-defends-trump-remarks-on-pope-leo-over-iran?traffic_source=rss",
+          "published": "Tue, 05 May 2026 20:53:35 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Israel kills one boy, injures officers in strike on Gaza police station",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/5/5/israel-kills-one-boy-injures-officers-in-strike-on-gaza-police-station?traffic_source=rss",
+          "published": "Tue, 05 May 2026 20:45:25 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "US Army says ‘Project Freedom’ in blockaded Hormuz has ‘just begun’",
+          "link": "https://www.aljazeera.com/news/2026/5/5/centcom-says-project-freedom-has-just-2?traffic_source=rss",
+          "published": "Tue, 05 May 2026 20:42:39 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Could OPEC break lead to era of energy volatility?",
+          "link": "https://www.aljazeera.com/video/the-take-2/2026/5/5/aje-onl-tt_uae_opec_video_v1-050526?traffic_source=rss",
+          "published": "Tue, 05 May 2026 20:23:16 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Mauritania’s plan to close private schools sparks backlash",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/5/5/mauritanias-plan-to-close-private-schools-sparks-backlash?traffic_source=rss",
           "published": "Tue, 05 May 2026 20:02:26 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "US plans to hike tariffs on EU cars to 25% will hit luxury market the most",
-          "link": "https://www.aljazeera.com/economy/2026/5/5/us-plans-to-hike-tariffs-on-eu-cars-to-25-will-hit-luxury-market-the-most?traffic_source=rss",
-          "published": "Tue, 05 May 2026 19:50:02 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Miscalculation over Strait of Hormuz could ‘bring an all-out war’",
-          "link": "https://www.aljazeera.com/video/quotable/2026/5/5/miscalculation-over-strait-of-hormuz-could-bring-an-all-out?traffic_source=rss",
-          "published": "Tue, 05 May 2026 19:45:10 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Sudan recalls Ethiopia ambassador after strikes on Khartoum",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/5/5/sudan-recalls-ethiopia-ambassador-after-strikes-on-khartoum?traffic_source=rss",
-          "published": "Tue, 05 May 2026 18:57:58 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Video: Trump says Iran should ‘wave the white flag’",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/5/5/video-trump-says-iran-should-wave-the-white-flag?traffic_source=rss",
-          "published": "Tue, 05 May 2026 18:48:10 +0000"
         }
       ]
     }
