@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-05-05T06:35:54Z",
+  "generated_at": "2026-05-05T08:24:04Z",
   "errors": [
     {
       "source": "МИА",
       "url": "https://mia.mk/rss",
-      "error": "404 Client Error: Not Found for url: https://mia.mk/rss"
+      "error": "500 Server Error: Internal Server Error for url: https://mia.mk/rss"
     }
   ]
 }
