@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-05T01:15:47Z",
+  "updatedAt": "2026-05-05T04:29:06Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) Експлозија во фабрика за пиротехника во Кина, 21 лице загина",
+          "link": "https://makfax.com.mk/top/video-eksplozija-vo-fabrika-za-pirotehnika-vo-kina-21-lice-zagina/",
+          "published": "Tue, 05 May 2026 04:26:36 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Сончево и топло, температурата денеска до 28 степени",
+          "link": "https://makfax.com.mk/makedonija/sonchevo-i-toplo-temperaturata-deneska-do-28-stepeni/",
+          "published": "Tue, 05 May 2026 04:15:28 +0000"
         },
         {
           "source": "Makfax",
@@ -27,18 +39,6 @@
           "title": "Наместо ученици, во училишните ходници и дворови ќе дежураат наставници, најави Јаневска по случајот во Ѓорче Петров",
           "link": "https://makfax.com.mk/makedonija/namesto-uchenici-vo-uchilishnite-hodnici-i-dvorovi-ke-dezhuraat-nastavnici-najavi-janevska-po-sluchajot-vo-gorche-petrov/",
           "published": "Mon, 04 May 2026 19:16:25 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Трамп: Иранските сили ќе бидат „избришани од лицето на земјата“ ако нападнат американски бродови",
-          "link": "https://makfax.com.mk/svet/tramp-iranskite-sili-ke-bidat-izbrishani-od-liceto-na-zemjata-ako-napadnat-amerikanski-brodovi/",
-          "published": "Mon, 04 May 2026 19:09:47 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Руте: Европејците ја разбраа пораката од Трамп",
-          "link": "https://makfax.com.mk/svet/rute-evropejcite-ja-razbraa-porakata-od-tramp/",
-          "published": "Mon, 04 May 2026 18:44:28 +0000"
         },
         {
           "source": "NetPress",
@@ -79,13 +79,13 @@
           "source": "BBC",
           "title": "US strikes Iranian fast boats as Iran attacks UAE oil facility",
           "link": "https://www.bbc.com/news/articles/cjwp432d0v5o?at_medium=RSS&at_campaign=rss",
-          "published": "Mon, 04 May 2026 23:42:27 GMT"
+          "published": "Tue, 05 May 2026 04:09:40 GMT"
         },
         {
           "source": "BBC",
           "title": "Two killed and many injured after car driven into crowd in German city of Leipzig",
           "link": "https://www.bbc.com/news/articles/ckgpzgxgz58o?at_medium=RSS&at_campaign=rss",
-          "published": "Mon, 04 May 2026 21:33:17 GMT"
+          "published": "Tue, 05 May 2026 04:27:00 GMT"
         },
         {
           "source": "BBC",
@@ -107,33 +107,33 @@
         },
         {
           "source": "Al Jazeera",
-          "title": "Newborn born in Nablus a day after his father was killed in Israeli raid",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/5/5/newborn-born-in-nablus-a-day-after-his-father-was-killed-in-israeli-raid?traffic_source=rss",
-          "published": "Tue, 05 May 2026 00:11:43 +0000"
+          "title": "An explosion at a fireworks plant in China has killed at least 21 people",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/5/5/an-explosion-at-a-fireworks-plant-in-china-has-killed-at-least-21-people?traffic_source=rss",
+          "published": "Tue, 05 May 2026 03:49:53 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Iran war live: Washington, Tehran trade threats over Strait of Hormuz",
-          "link": "https://www.aljazeera.com/news/liveblog/2026/5/5/iran-war-live-washington-tehran-trade-threats-over-strait-of-hormuz?traffic_source=rss",
-          "published": "Tue, 05 May 2026 00:00:00 +0000"
+          "title": "‘Dangerous escalation’: World condemns Iran after attacks on UAE",
+          "link": "https://www.aljazeera.com/news/2026/5/5/dangerous-escalation-world-condemns-iran-after-attacks-on-uae?traffic_source=rss",
+          "published": "Tue, 05 May 2026 03:38:53 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "‘Extensive brutality’: Rebel attacks reap hell on Congolese civilians",
-          "link": "https://www.aljazeera.com/news/2026/5/4/extensive-brutality-rebel-attacks-reap-hell-on-congolese-civilians?traffic_source=rss",
-          "published": "Mon, 04 May 2026 23:37:54 +0000"
+          "title": "Oil prices surge as violence flares in Strait of Hormuz",
+          "link": "https://www.aljazeera.com/economy/2026/5/5/oil-prices-surge-as-violence-flares-in-strait-of-hormuz?traffic_source=rss",
+          "published": "Tue, 05 May 2026 03:23:35 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "For Christians in Israel and Jerusalem, intolerance is becoming normal",
-          "link": "https://www.aljazeera.com/news/2026/5/4/for-christians-israel-jerusalem-intolerance-becoming-normal?traffic_source=rss",
-          "published": "Mon, 04 May 2026 22:14:02 +0000"
+          "title": "Strong security presence in Mexico’s Sinaloa state amid cartel violence",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/5/5/strong-security-presence-in-mexicos-sinaloa-state-amid-cartel-violence?traffic_source=rss",
+          "published": "Tue, 05 May 2026 03:10:20 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Brazil’s Lula to travel to US to meet with Trump later this week",
-          "link": "https://www.aljazeera.com/news/2026/5/4/brazils-lula-to-travel-to-us-to-meet-with-trump-later-this-week?traffic_source=rss",
-          "published": "Mon, 04 May 2026 21:21:46 +0000"
+          "title": "Israeli strike sparks fire in northern Gaza City",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/5/5/israeli-strike-sparks-fire-in-northern-gaza-city?traffic_source=rss",
+          "published": "Tue, 05 May 2026 01:57:59 +0000"
         }
       ]
     }
