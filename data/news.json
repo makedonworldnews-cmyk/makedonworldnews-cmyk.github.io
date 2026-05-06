@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-06T22:35:27Z",
+  "updatedAt": "2026-05-06T23:32:34Z",
   "groups": [
     {
       "region": "Македонија",
@@ -83,6 +83,18 @@
         },
         {
           "source": "BBC",
+          "title": "Trump's hopes for an Iran peace deal come with caveats",
+          "link": "https://www.bbc.com/news/articles/cvgzp74rvj5o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 06 May 2026 17:32:04 GMT"
+        },
+        {
+          "source": "BBC",
+          "title": "Israel strikes Beirut for first time since Hezbollah ceasefire",
+          "link": "https://www.bbc.com/news/articles/crmpjjl02l2o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 06 May 2026 19:58:04 GMT"
+        },
+        {
+          "source": "BBC",
           "title": "Hantavirus-hit cruise ship leaves Cape Verde after three evacuated",
           "link": "https://www.bbc.com/news/articles/c5y093d5n9ko?at_medium=RSS&at_campaign=rss",
           "published": "Wed, 06 May 2026 22:10:40 GMT"
@@ -94,16 +106,10 @@
           "published": "Wed, 06 May 2026 16:11:44 GMT"
         },
         {
-          "source": "BBC",
-          "title": "Ted Turner, media mogul who revolutionised TV news by launching CNN, dies at 87",
-          "link": "https://www.bbc.com/news/articles/c1k2jnx8gmlo?at_medium=RSS&at_campaign=rss",
-          "published": "Wed, 06 May 2026 15:46:06 GMT"
-        },
-        {
-          "source": "BBC",
-          "title": "Massive Alaska megatsunami was second largest ever recorded",
-          "link": "https://www.bbc.com/news/articles/c1m253033m4o?at_medium=RSS&at_campaign=rss",
-          "published": "Wed, 06 May 2026 12:00:25 GMT"
+          "source": "Al Jazeera",
+          "title": "Israeli strikes kill five Palestinians across Gaza in one day",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/5/6/israeli-strikes-kill-five-palestinians-across-gaza-in-one-day?traffic_source=rss",
+          "published": "Wed, 06 May 2026 23:20:32 +0000"
         },
         {
           "source": "Al Jazeera",
@@ -128,12 +134,6 @@
           "title": "SpaceX backs Anthropic with data centre deal amidst Musk’s OpenAI lawsuit",
           "link": "https://www.aljazeera.com/economy/2026/5/6/spacex-backs-anthropic-with-data-centre-deal-amidst-musks-openai-lawsuit?traffic_source=rss",
           "published": "Wed, 06 May 2026 21:26:12 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Trump says had ‘very good talks’ with Iran as Tehran reviews US proposal",
-          "link": "https://www.aljazeera.com/news/2026/5/6/trump-says-had-very-good-talks-with-iran-as-tehran-reviews-us-proposal?traffic_source=rss",
-          "published": "Wed, 06 May 2026 21:17:47 +0000"
         }
       ]
     }
