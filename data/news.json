@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-06T21:47:06Z",
+  "updatedAt": "2026-05-06T22:35:27Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) Исправна е одлуката на Пињеиро да не досуди пенал за Баерн",
+          "link": "https://makfax.com.mk/sport/video-ispravna-e-odlukata-na-pinjeiro-da-ne-dosudi-penal-za-baern/",
+          "published": "Wed, 06 May 2026 22:03:57 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Нојер: „Убијци“ играат за ПСЖ",
+          "link": "https://makfax.com.mk/sport/nojer-ubijci-igraat-za-pszh/",
+          "published": "Wed, 06 May 2026 21:49:56 +0000"
         },
         {
           "source": "Makfax",
@@ -27,18 +39,6 @@
           "title": "Силекс и Шкендија ќе се борат за трофејот во Купот на Македонија",
           "link": "https://makfax.com.mk/sport/sileks-i-shkendija-ke-se-borat-za-trofejot-vo-kupot-na-makedonija/",
           "published": "Wed, 06 May 2026 19:52:56 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "ВЛЕН предлага резолуција: Младите во центарот на политичкото одлучување",
-          "link": "https://makfax.com.mk/makedonija/vlen-predlaga-rezolucija-mladite-vo-centarot-na-politichkoto-odluchuvanje/",
-          "published": "Wed, 06 May 2026 19:44:06 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Тепачка на тренингот на Реал пред дуелот со Барселона",
-          "link": "https://makfax.com.mk/sport/tepachka-na-treningot-na-real-pred-duelot-so-barselona/",
-          "published": "Wed, 06 May 2026 19:40:56 +0000"
         },
         {
           "source": "NetPress",
@@ -77,9 +77,15 @@
       "items": [
         {
           "source": "BBC",
+          "title": "Iran considering US proposal to end war, official says",
+          "link": "https://www.bbc.com/news/articles/cj0pq2q8221o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 06 May 2026 21:27:59 GMT"
+        },
+        {
+          "source": "BBC",
           "title": "Hantavirus-hit cruise ship leaves Cape Verde after three evacuated",
           "link": "https://www.bbc.com/news/articles/c5y093d5n9ko?at_medium=RSS&at_campaign=rss",
-          "published": "Wed, 06 May 2026 19:49:12 GMT"
+          "published": "Wed, 06 May 2026 22:10:40 GMT"
         },
         {
           "source": "BBC",
@@ -100,10 +106,16 @@
           "published": "Wed, 06 May 2026 12:00:25 GMT"
         },
         {
-          "source": "BBC",
-          "title": "German police raid neo-Nazi criminal youth groups",
-          "link": "https://www.bbc.com/news/articles/cgkpmy6l2deo?at_medium=RSS&at_campaign=rss",
-          "published": "Wed, 06 May 2026 11:34:56 GMT"
+          "source": "Al Jazeera",
+          "title": "Argentina investigates link to deadly hantavirus outbreak on cruise ship",
+          "link": "https://www.aljazeera.com/news/2026/5/6/argentina-investigates-link-to-deadly-hantavirus-outbreak-on-cruise-ship?traffic_source=rss",
+          "published": "Wed, 06 May 2026 22:12:05 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "In rare push, US lawmakers demand transparency on Israel nuclear capability",
+          "link": "https://www.aljazeera.com/news/2026/5/6/in-rare-push-us-lawmakers-demand-transparency-on-israel-nuclear-capability?traffic_source=rss",
+          "published": "Wed, 06 May 2026 22:05:28 +0000"
         },
         {
           "source": "Al Jazeera",
@@ -122,18 +134,6 @@
           "title": "Trump says had ‘very good talks’ with Iran as Tehran reviews US proposal",
           "link": "https://www.aljazeera.com/news/2026/5/6/trump-says-had-very-good-talks-with-iran-as-tehran-reviews-us-proposal?traffic_source=rss",
           "published": "Wed, 06 May 2026 21:17:47 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Holders PSG beat Bayern Munich to reach Champions League final with Arsenal",
-          "link": "https://www.aljazeera.com/sports/2026/5/6/holders-psg-beat-bayern-munich-to-reach-champions-league-final-with-arsenal?traffic_source=rss",
-          "published": "Wed, 06 May 2026 21:14:05 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "What’s behind the secessionist movement in the Canadian province Alberta?",
-          "link": "https://www.aljazeera.com/news/2026/5/6/whats-behind-the-secessionist-movement-in-the-canadian-province-alberta?traffic_source=rss",
-          "published": "Wed, 06 May 2026 21:05:29 +0000"
         }
       ]
     }
