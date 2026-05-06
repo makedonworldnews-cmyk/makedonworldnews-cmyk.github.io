@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-06T20:43:59Z",
+  "updatedAt": "2026-05-06T21:47:06Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) Баерн немоќен – ПСЖ ќе ја брани европската титула против Арсенал",
+          "link": "https://makfax.com.mk/sport/video-baern-nemoken-pszh-ke-ja-brani-evropskata-titula-protiv-arsenal/",
+          "published": "Wed, 06 May 2026 21:19:56 +0000"
         },
         {
           "source": "Makfax",
@@ -35,10 +41,22 @@
           "published": "Wed, 06 May 2026 19:40:56 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Милосављев и Гидсел го однесоа Берлин на завршниот турнир",
-          "link": "https://makfax.com.mk/sport/milosavljev-i-gidsel-go-odnesoa-berlin-na-zavrshniot-turnir/",
-          "published": "Wed, 06 May 2026 19:29:57 +0000"
+          "source": "NetPress",
+          "title": "ПСЖ се пласираше во финалето на Лигата на шампионите против Арсенал",
+          "link": "https://netpress.com.mk/pszh-se-plasirashe-vo-finaleto-na-ligata-na-shampionite-protiv-arsenal/",
+          "published": "Wed, 06 May 2026 21:34:03 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Евролига: Валенсија и Жалгирис ги продолжија надежите",
+          "link": "https://netpress.com.mk/evroliga-valensija-i-zhalgiris-gi-prodolzhija-nadezhite/",
+          "published": "Wed, 06 May 2026 21:02:57 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Русија ги повикa странските земји да ги евакуираат дипломатите од Киев",
+          "link": "https://netpress.com.mk/rusija-gi-povika-stranskite-zemji-da-gi-evakuiraat-diplomatite-od-kiev/",
+          "published": "Wed, 06 May 2026 20:44:26 +0000"
         },
         {
           "source": "NetPress",
@@ -51,30 +69,18 @@
           "title": "Трамп тврди дека САД ќе го добијат од Иран збогатениот ураниум",
           "link": "https://netpress.com.mk/tramp-tvrdi-deka-sad-ke-go-dobijat-od-iran-zbogateniot-uranium/",
           "published": "Wed, 06 May 2026 19:44:51 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Иран го проучува предлог-меморандумот од САД за завршување на војната",
-          "link": "https://netpress.com.mk/iran-go-prouchuva-predlog-memorandumot-od-sad-za-zavrshuvane-na-vojnata/",
-          "published": "Wed, 06 May 2026 19:14:53 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "ВИДЕО| Граѓанин физички нападнат во полициска станица!?",
-          "link": "https://netpress.com.mk/video-graganin-fizichki-napadnat-vo-policziska-stanicza/",
-          "published": "Wed, 06 May 2026 18:19:01 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Над 16 милиони навивачи потпишаа петиција против Мбапе",
-          "link": "https://netpress.com.mk/nad-16-milioni-navivachi-potpishaa-peticzija-protiv-mbape/",
-          "published": "Wed, 06 May 2026 17:54:00 +0000"
         }
       ]
     },
     {
       "region": "Свет",
       "items": [
+        {
+          "source": "BBC",
+          "title": "Hantavirus-hit cruise ship leaves Cape Verde after three evacuated",
+          "link": "https://www.bbc.com/news/articles/c5y093d5n9ko?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 06 May 2026 19:49:12 GMT"
+        },
         {
           "source": "BBC",
           "title": "Oil prices drop and stock markets rise after reports of deal to end Iran war",
@@ -100,40 +106,34 @@
           "published": "Wed, 06 May 2026 11:34:56 GMT"
         },
         {
-          "source": "BBC",
-          "title": "Russia ignores Ukraine's unilateral ceasefire and attacks kindergarten",
-          "link": "https://www.bbc.com/news/articles/cpdpxdd5n6yo?at_medium=RSS&at_campaign=rss",
-          "published": "Wed, 06 May 2026 11:53:20 GMT"
+          "source": "Al Jazeera",
+          "title": "Russia tells diplomats to leave Kyiv in case Moscow launches mass strikes",
+          "link": "https://www.aljazeera.com/news/2026/5/6/russia-tells-diplomats-to-leave-kyiv-in-case-moscow-launches-mass-strikes?traffic_source=rss",
+          "published": "Wed, 06 May 2026 21:30:05 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Russia cuts mobile internet in Moscow citing drone security concerns",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/5/6/russia-cuts-mobile-internet-in-moscow-citing-drone-security-concerns?traffic_source=rss",
-          "published": "Wed, 06 May 2026 20:28:57 +0000"
+          "title": "SpaceX backs Anthropic with data centre deal amidst Musk’s OpenAI lawsuit",
+          "link": "https://www.aljazeera.com/economy/2026/5/6/spacex-backs-anthropic-with-data-centre-deal-amidst-musks-openai-lawsuit?traffic_source=rss",
+          "published": "Wed, 06 May 2026 21:26:12 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Al-Qaeda-linked fighters storm Mali prison, block food supplies to Bamako",
-          "link": "https://www.aljazeera.com/news/2026/5/6/al-qaeda-linked-fighters-storm-mali-prison-block-food-supplies-to-bamako?traffic_source=rss",
-          "published": "Wed, 06 May 2026 19:43:05 +0000"
+          "title": "Trump says had ‘very good talks’ with Iran as Tehran reviews US proposal",
+          "link": "https://www.aljazeera.com/news/2026/5/6/trump-says-had-very-good-talks-with-iran-as-tehran-reviews-us-proposal?traffic_source=rss",
+          "published": "Wed, 06 May 2026 21:17:47 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Infected passengers evacuated from hantavirus cruise ship",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/5/6/infected-passengers-evacuated-from-hantavirus-cruise-ship?traffic_source=rss",
-          "published": "Wed, 06 May 2026 19:42:41 +0000"
+          "title": "Holders PSG beat Bayern Munich to reach Champions League final with Arsenal",
+          "link": "https://www.aljazeera.com/sports/2026/5/6/holders-psg-beat-bayern-munich-to-reach-champions-league-final-with-arsenal?traffic_source=rss",
+          "published": "Wed, 06 May 2026 21:14:05 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "What does the BJP’s victory in West Bengal mean for India’s democracy?",
-          "link": "https://www.aljazeera.com/video/inside-story/2026/5/6/what-does-the-bjps-victory-in-west-bengal-mean-for-indias-democracy?traffic_source=rss",
-          "published": "Wed, 06 May 2026 19:34:35 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Israeli strike kills colonel in Gaza police force, say Palestinian medics",
-          "link": "https://www.aljazeera.com/news/2026/5/6/israeli-strike-kills-colonel-in-gaza-police-force-say-palestinian-medics?traffic_source=rss",
-          "published": "Wed, 06 May 2026 19:31:42 +0000"
+          "title": "What’s behind the secessionist movement in the Canadian province Alberta?",
+          "link": "https://www.aljazeera.com/news/2026/5/6/whats-behind-the-secessionist-movement-in-the-canadian-province-alberta?traffic_source=rss",
+          "published": "Wed, 06 May 2026 21:05:29 +0000"
         }
       ]
     }
