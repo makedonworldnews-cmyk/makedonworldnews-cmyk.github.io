@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-06T00:07:14Z",
+  "updatedAt": "2026-05-06T04:02:18Z",
   "groups": [
     {
       "region": "Македонија",
@@ -77,15 +77,21 @@
       "items": [
         {
           "source": "BBC",
-          "title": "Trump says 'Project Freedom' to be paused 'for a short period of time'",
+          "title": "Trump says US to pause operation to guide vessels through Strait of Hormuz",
           "link": "https://www.bbc.com/news/articles/clypekl71gdo?at_medium=RSS&at_campaign=rss",
-          "published": "Tue, 05 May 2026 23:44:18 GMT"
+          "published": "Wed, 06 May 2026 02:18:45 GMT"
         },
         {
           "source": "BBC",
           "title": "Hantavirus may have spread between passengers on cruise ship, WHO says",
           "link": "https://www.bbc.com/news/articles/cm2p186gyp2o?at_medium=RSS&at_campaign=rss",
           "published": "Tue, 05 May 2026 16:38:50 GMT"
+        },
+        {
+          "source": "BBC",
+          "title": "Vivek Ramaswamy wins Republican nomination for Ohio governor",
+          "link": "https://www.bbc.com/news/articles/c4g0xe4qlzxo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 06 May 2026 01:55:26 GMT"
         },
         {
           "source": "BBC",
@@ -100,10 +106,22 @@
           "published": "Tue, 05 May 2026 10:09:23 GMT"
         },
         {
-          "source": "BBC",
-          "title": "Two killed and many injured after car driven into crowd in German city of Leipzig",
-          "link": "https://www.bbc.com/news/articles/ckgpzgxgz58o?at_medium=RSS&at_campaign=rss",
-          "published": "Tue, 05 May 2026 10:56:53 GMT"
+          "source": "Al Jazeera",
+          "title": "Spain agrees to let hantavirus-hit cruise ship dock in Canary Islands",
+          "link": "https://www.aljazeera.com/news/2026/5/6/spain-agrees-to-let-hantavirus-hit-cruise-ship-dock-in-canary-islands?traffic_source=rss",
+          "published": "Wed, 06 May 2026 03:19:12 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Protesters rally in Louisiana and Tennessee against redistricting",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/5/6/protesters-rally-in-louisiana-and-tennessee-against-redistricting?traffic_source=rss",
+          "published": "Wed, 06 May 2026 02:25:51 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Iran war live: Trump says Hormuz operation paused amid US, Tehran talks",
+          "link": "https://www.aljazeera.com/news/liveblog/2026/5/6/iran-war-live-trump-says-hormuz-operation-paused-amid-us-tehran-talks?traffic_source=rss",
+          "published": "Wed, 06 May 2026 00:00:00 +0000"
         },
         {
           "source": "Al Jazeera",
@@ -116,24 +134,6 @@
           "title": "Buses block off roads in Bolivia as transport workers strike over fuel",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/5/5/buses-block-off-roads-in-bolivia-as-transport-workers-strike-over-fuel?traffic_source=rss",
           "published": "Tue, 05 May 2026 23:44:03 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Trump announces pause on US operation to reopen Strait of Hormuz",
-          "link": "https://www.aljazeera.com/news/2026/5/5/trump-announces-pause-on-us-operation-to-unblock-strait-of-hormuz?traffic_source=rss",
-          "published": "Tue, 05 May 2026 23:40:09 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "CENTCOM: ‘Safe path’ through Hormuz is US priority in ‘Project Freedom’",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/5/5/centcom-safe-path-through-hormuz-is-us-priority-in-project?traffic_source=rss",
-          "published": "Tue, 05 May 2026 21:07:59 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Arsenal beat Atletico to reach first Champions League final in 20 years",
-          "link": "https://www.aljazeera.com/sports/2026/5/5/arsenal-beat-atletico-to-reach-first-champions-league-final-in-20-years?traffic_source=rss",
-          "published": "Tue, 05 May 2026 21:05:20 +0000"
         }
       ]
     }
