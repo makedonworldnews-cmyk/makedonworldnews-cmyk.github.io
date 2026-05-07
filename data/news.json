@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-07T21:04:52Z",
+  "updatedAt": "2026-05-07T22:13:25Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) Астон Вила ги растури „Шумарите“, Брага со играч помалку не издржа против Фрајбург",
+          "link": "https://makfax.com.mk/sport/video-aston-vila-gi-rasturi-shumarite-braga-so-igrach-pomalku-ne-izdrzha-protiv-frajburg/",
+          "published": "Thu, 07 May 2026 21:34:58 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Кристал Палас и Рајо Ваљекано во финалето на Конференциската лига",
+          "link": "https://makfax.com.mk/sport/kristal-palas-i-rajo-valjekano-vo-finaleto-na-konferenciskata-liga/",
+          "published": "Thu, 07 May 2026 21:19:17 +0000"
         },
         {
           "source": "Makfax",
@@ -29,46 +41,34 @@
           "published": "Thu, 07 May 2026 19:33:10 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Менди ќе отсуствува една година",
-          "link": "https://makfax.com.mk/sport/mendi-ke-otsustvuva-edna-godina/",
-          "published": "Thu, 07 May 2026 19:12:53 +0000"
+          "source": "NetPress",
+          "title": "Лига Европа: Астон Вила и Фрајбург во потрага по својот први трофеј",
+          "link": "https://netpress.com.mk/liga-evropa-aston-vila-i-frajburg-vo-potraga-po-svojot-prvi-trofej/",
+          "published": "Thu, 07 May 2026 22:13:19 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Хороскопски знаци кои секогаш мислат дека луѓето ќе се променат, а тоа ги чини многу",
-          "link": "https://makfax.com.mk/zanimlivosti/horoskopski-znaci-koi-sekogash-mislat-deka-lugeto-ke-se-promenat-a-toa-gi-chini-mnogu/",
-          "published": "Thu, 07 May 2026 19:09:27 +0000"
+          "source": "NetPress",
+          "title": "Експлозија во седиштето на холандската партија D66, осомничениот приведен",
+          "link": "https://netpress.com.mk/eksplozija-vo-sedishteto-na-holandskata-partija-d66-osomnicheniot-priveden/",
+          "published": "Thu, 07 May 2026 21:55:33 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Конференциска лига: Кристал Палас и Рајо Ваљекано во финалето",
+          "link": "https://netpress.com.mk/konferencziska-liga-kristal-palas-i-rajo-valekano-vo-finaleto/",
+          "published": "Thu, 07 May 2026 21:29:55 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "ЕУ се подготвува за потенцијални разговори со Путин",
+          "link": "https://netpress.com.mk/eu-se-podgotvuva-za-potenczijalni-razgovori-so-putin/",
+          "published": "Thu, 07 May 2026 21:09:22 +0000"
         },
         {
           "source": "NetPress",
           "title": "ВИДЕО| Ако Украина нападне за 9 мај, Киев ќе биде цел без ограничување",
           "link": "https://netpress.com.mk/video-ako-ukraina-napadne-za-9-maj-kiev-ke-bide-czel-bez-ogranichuvane/",
           "published": "Thu, 07 May 2026 21:04:19 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Транспаренси Интернешнл: Зголемена транспарентност и голем процент решени предмети во Кривичен суд",
-          "link": "https://netpress.com.mk/transparensi-interneshnl-zgolemena-transparentnost-i-golem-proczent-resheni-predmeti-vo-krivichen-sud/",
-          "published": "Thu, 07 May 2026 20:55:43 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Филипче: Одложувањето на промените во МВР е победа на СДСМ против партизацијата на полицијата",
-          "link": "https://netpress.com.mk/filipche-odlozhuvaneto-na-promenite-vo-mvr-e-pobeda-na-sdsm-protiv-partizaczijata-na-policzijata/",
-          "published": "Thu, 07 May 2026 20:50:00 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Евролига: Реал Мадрид се пласираше на завршниот турнир",
-          "link": "https://netpress.com.mk/evroliga-real-madrid-se-plasirashe-na-zavrshniot-turnir/",
-          "published": "Thu, 07 May 2026 20:49:34 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Трамп и Лула разговараа за трговијата и царините",
-          "link": "https://netpress.com.mk/tramp-i-lula-razgovaraa-za-trgovijata-i-czarinite/",
-          "published": "Thu, 07 May 2026 20:44:51 +0000"
         }
       ]
     },
@@ -107,33 +107,33 @@
         },
         {
           "source": "Al Jazeera",
-          "title": "Palestinians expose torture and sexual violence in Israeli detention",
-          "link": "https://www.aljazeera.com/news/2026/5/7/palestinians-expose-torture-and-sexual-violence-in-israeli-detention?traffic_source=rss",
-          "published": "Thu, 07 May 2026 20:37:46 +0000"
+          "title": "US trade court rules against Trump’s 10 percent global tariffs",
+          "link": "https://www.aljazeera.com/economy/2026/5/7/us-trade-court-rules-against-trumps-10-percent-global-tariffs?traffic_source=rss",
+          "published": "Thu, 07 May 2026 21:34:37 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Kenyan villagers sue BP over pollution from 1980s oil exploration",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/5/7/kenyan-villagers-sue-bp-over-pollution-from-1980s-oil-exploration?traffic_source=rss",
-          "published": "Thu, 07 May 2026 20:22:54 +0000"
+          "title": "Tenerife resort town awaits hantavirus-hit cruise ship",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/5/7/tenerife-resort-town-awaits-hantavirus-hit-cruise-ship?traffic_source=rss",
+          "published": "Thu, 07 May 2026 21:25:07 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Palestinian boy mourns father killed in Israeli strike on security post",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/5/7/palestinian-boy-mourns-father-killed-in-israeli-strike-on-security-post?traffic_source=rss",
-          "published": "Thu, 07 May 2026 20:10:54 +0000"
+          "title": "Tennessee approves new congressional map in latest redistricting flurry",
+          "link": "https://www.aljazeera.com/news/2026/5/7/tennessee-approves-new-congressional-map-in-latest-redistricting-flurry?traffic_source=rss",
+          "published": "Thu, 07 May 2026 21:19:01 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "US issues new Cuba sanctions as UN experts warn of ‘energy starvation’",
-          "link": "https://www.aljazeera.com/news/2026/5/7/us-issues-new-cuba-sanctions-as-un-experts-warn-of-energy-starvation?traffic_source=rss",
-          "published": "Thu, 07 May 2026 20:10:44 +0000"
+          "title": "Iran says it attacked US Navy ships after they targeted Iranian tanker",
+          "link": "https://www.aljazeera.com/news/2026/5/7/explosions-heard-in-iran-as-state-media-reports-clashes-with-us-navy?traffic_source=rss",
+          "published": "Thu, 07 May 2026 21:11:00 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "‘This is my last voice note’: how piracy returned to Somalia and Yemen",
-          "link": "https://www.aljazeera.com/video/the-take-2/2026/5/7/aje-onl-aj_tt_som_waratsea_full-060526?traffic_source=rss",
-          "published": "Thu, 07 May 2026 19:51:14 +0000"
+          "title": "Trump sets July 4 deadline for EU tariff hike decision",
+          "link": "https://www.aljazeera.com/economy/2026/5/7/trump-sets-july-4-deadline-for-eu-tariff-hike-decision?traffic_source=rss",
+          "published": "Thu, 07 May 2026 20:58:55 +0000"
         }
       ]
     }
