@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-08T00:09:56Z",
+  "updatedAt": "2026-05-08T03:53:27Z",
   "groups": [
     {
       "region": "Македонија",
@@ -77,6 +77,12 @@
       "items": [
         {
           "source": "BBC",
+          "title": "Trump says US-Iran ceasefire still in place after exchange of fire in Strait of Hormuz",
+          "link": "https://www.bbc.com/news/articles/c626zyywxjno?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 08 May 2026 02:07:54 GMT"
+        },
+        {
+          "source": "BBC",
           "title": "Hantavirus outbreak on cruise ship not start of pandemic, UN health agency says",
           "link": "https://www.bbc.com/news/articles/cnvpzgn26edo?at_medium=RSS&at_campaign=rss",
           "published": "Thu, 07 May 2026 17:55:08 GMT"
@@ -100,40 +106,34 @@
           "published": "Thu, 07 May 2026 23:11:35 GMT"
         },
         {
-          "source": "BBC",
-          "title": "Two Islamic-State linked Australian women charged with crimes against humanity",
-          "link": "https://www.bbc.com/news/articles/cdrpx8pl36vo?at_medium=RSS&at_campaign=rss",
-          "published": "Thu, 07 May 2026 23:49:32 GMT"
+          "source": "Al Jazeera",
+          "title": "Oil prices jump as US, Iran trade fire in Strait of Hormuz",
+          "link": "https://www.aljazeera.com/economy/2026/5/8/oil-prices-jump-as-us-iran-trade-fire-in-strait-of-hormuz?traffic_source=rss",
+          "published": "Fri, 08 May 2026 03:03:36 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Huge fire at Mexican fair kills five people",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/5/7/huge-fire-at-mexican-fair-kills-five-people?traffic_source=rss",
-          "published": "Thu, 07 May 2026 23:23:48 +0000"
+          "title": "The Palestinian shot dead hours before his son was born",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/5/8/the-palestinian-shot-dead-hours-before-his-son-was-born?traffic_source=rss",
+          "published": "Fri, 08 May 2026 02:34:49 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Barcelona vs Real Madrid: El Clasico – La Liga, history, Valverde, Mbappe",
-          "link": "https://www.aljazeera.com/sports/2026/5/7/barcelona-vs-real-madrid-el-clasico-la-liga-history-head-to-head?traffic_source=rss",
-          "published": "Thu, 07 May 2026 22:37:33 +0000"
+          "title": "Tennessee approves map dismantling majority-Black district",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/5/8/tennessee-approves-map-dismantling-majority-black-district?traffic_source=rss",
+          "published": "Fri, 08 May 2026 02:20:28 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Videos show interceptions over the skies of Tehran",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/5/7/videos-show-interceptions-over-the-skies-of-tehran?traffic_source=rss",
-          "published": "Thu, 07 May 2026 22:20:34 +0000"
+          "title": "As US and Iran weigh peace deal, stranded seafarers wait in limbo",
+          "link": "https://www.aljazeera.com/news/2026/5/8/as-us-and-iran-weigh-peace-deal-stranded-seafarers-wait-in-limbo?traffic_source=rss",
+          "published": "Fri, 08 May 2026 01:45:17 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Real Madrid’s Valverde hospitalised with head injury after Tchouameni fight",
-          "link": "https://www.aljazeera.com/sports/2026/5/7/real-madrids-valverde-hospitalised-with-head-injury-after-tchouameni-clash?traffic_source=rss",
-          "published": "Thu, 07 May 2026 22:13:13 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "US trade court rules against Trump’s 10 percent global tariffs",
-          "link": "https://www.aljazeera.com/economy/2026/5/7/us-trade-court-rules-against-trumps-10-percent-global-tariffs?traffic_source=rss",
-          "published": "Thu, 07 May 2026 21:34:37 +0000"
+          "title": "Iran war live: Trump says ceasefire still ‘in effect’ as Iran, US clash",
+          "link": "https://www.aljazeera.com/news/liveblog/2026/5/8/iran-war-live-trump-says-ceasefire-still-in-effect-as-iran-us-clash?traffic_source=rss",
+          "published": "Fri, 08 May 2026 00:00:00 +0000"
         }
       ]
     }
