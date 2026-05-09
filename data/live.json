@@ -1,6 +1,13 @@
 {
-  "generated_at": "2026-05-09T16:03:45Z",
+  "generated_at": "2026-05-09T17:07:11Z",
   "items": [
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "„Валверде го удри и Модриќ, опасен тип, неспособен да живее во општеството“",
+      "link": "https://makfax.com.mk/sport/valverde-go-udri-i-modrik-opasen-tip-nesposoben-da-zhivee-vo-opshtestvoto/",
+      "published": "Sat, 09 May 2026 16:59:07 +0000"
+    },
     {
       "region": "Македонија",
       "source": "Makfax",
@@ -31,10 +38,10 @@
     },
     {
       "region": "Македонија",
-      "source": "Makfax",
-      "title": "Петер Маѓар и официјално нов премиер на Унгарија",
-      "link": "https://makfax.com.mk/svet/evropa/peter-magar-i-oficijalno-nov-premier-na-ungarija/",
-      "published": "Sat, 09 May 2026 14:13:56 +0000"
+      "source": "NetPress",
+      "title": "Марк Маркез доживеа сериозен пад во Франција, оди на операција",
+      "link": "https://netpress.com.mk/mark-markez-dozhivea-seriozen-pad-vo-franczija-odi-na-operaczija/",
+      "published": "Sat, 09 May 2026 16:37:59 +0000"
     },
     {
       "region": "Македонија",
@@ -65,13 +72,6 @@
       "published": "Sat, 09 May 2026 14:18:44 +0000"
     },
     {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Москва: Украина го прекрши примирјето на Денот на победата",
-      "link": "https://netpress.com.mk/moskva-ukraina-go-prekrshi-primirjeto-na-denot-na-pobedata/",
-      "published": "Sat, 09 May 2026 14:14:49 +0000"
-    },
-    {
       "region": "Свет",
       "source": "BBC",
       "title": "Putin denounces Nato at scaled back Victory Day parade",
@@ -88,23 +88,30 @@
     {
       "region": "Свет",
       "source": "BBC",
-      "title": "Anger and resignation in Tenerife as hantavirus ship approaches",
-      "link": "https://www.bbc.com/news/articles/c5y0gkg038yo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 09 May 2026 00:15:58 GMT"
-    },
-    {
-      "region": "Свет",
-      "source": "BBC",
-      "title": "Hovering objects and flashing lights: what we learned from UFO documents released by the Pentagon",
-      "link": "https://www.bbc.com/news/articles/c1m2epkey44o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 08 May 2026 22:04:55 GMT"
-    },
-    {
-      "region": "Свет",
-      "source": "BBC",
       "title": "I will serve - not rule over Hungary, says new PM",
       "link": "https://www.bbc.com/news/articles/ce3pqvvzgnko?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 09 May 2026 15:12:04 GMT"
+    },
+    {
+      "region": "Свет",
+      "source": "BBC",
+      "title": "WHO chief reassures Tenerife residents ahead of arrival of virus-hit cruise ship",
+      "link": "https://www.bbc.com/news/articles/czr2vjmnlmpo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 09 May 2026 14:31:24 GMT"
+    },
+    {
+      "region": "Свет",
+      "source": "BBC",
+      "title": "Australia's right-wing One Nation party scores historic parliamentary win",
+      "link": "https://www.bbc.com/news/articles/cwy2e4z4npro?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 09 May 2026 14:36:21 GMT"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "‘On level of atomic bomb’: Iran highlights Hormuz importance amid US talks",
+      "link": "https://www.aljazeera.com/news/2026/5/9/on-level-of-atomic-bomb-iran-highlights-hormuz-importance-amid-us-talks?traffic_source=rss",
+      "published": "Sat, 09 May 2026 16:35:01 +0000"
     },
     {
       "region": "Свет",
@@ -133,13 +140,6 @@
       "title": "Israel to release two detained Gaza flotilla activists",
       "link": "https://www.aljazeera.com/news/2026/5/9/israel-to-release-two-detained-gaza-flotilla-activists?traffic_source=rss",
       "published": "Sat, 09 May 2026 14:06:55 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Bahrain rounds up dozens over alleged links to Iran’s IRGC",
-      "link": "https://www.aljazeera.com/news/2026/5/9/bahrain-rounds-up-dozens-over-alleged-links-to-irans-irgc?traffic_source=rss",
-      "published": "Sat, 09 May 2026 13:53:00 +0000"
     }
   ]
 }
