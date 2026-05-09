@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-09T16:10:42Z",
+  "updatedAt": "2026-05-09T17:14:56Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Ветеранката Кирстеа ја победи Сабаленка на Мастерсот во Рим",
+          "link": "https://makfax.com.mk/sport/veterankata-kirstea-ja-pobedi-sabalenka-na-mastersot-vo-rim/",
+          "published": "Sat, 09 May 2026 17:09:59 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "„Валверде го удри и Модриќ, опасен тип, неспособен да живее во општеството“",
+          "link": "https://makfax.com.mk/sport/valverde-go-udri-i-modrik-opasen-tip-nesposoben-da-zhivee-vo-opshtestvoto/",
+          "published": "Sat, 09 May 2026 16:59:07 +0000"
         },
         {
           "source": "Makfax",
@@ -29,16 +41,10 @@
           "published": "Sat, 09 May 2026 14:23:37 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Британскиот разурнувач „HMS Dragon“ се префрла кон Блискиот Исток поради зголемени тензии околу Ормутскиот теснец",
-          "link": "https://makfax.com.mk/svet/britanskiot-razurnuvach-hms-dragon-se-prefrla-kon-bliskiot-istok-poradi-zgolemeni-tenzii-okolu-ormutskiot-tesnec/",
-          "published": "Sat, 09 May 2026 14:19:06 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Петер Маѓар и официјално нов премиер на Унгарија",
-          "link": "https://makfax.com.mk/svet/evropa/peter-magar-i-oficijalno-nov-premier-na-ungarija/",
-          "published": "Sat, 09 May 2026 14:13:56 +0000"
+          "source": "NetPress",
+          "title": "Марк Маркез доживеа сериозен пад во Франција, оди на операција",
+          "link": "https://netpress.com.mk/mark-markez-dozhivea-seriozen-pad-vo-franczija-odi-na-operaczija/",
+          "published": "Sat, 09 May 2026 16:37:59 +0000"
         },
         {
           "source": "NetPress",
@@ -63,12 +69,6 @@
           "title": "Поради високите трошоци „Ryanair“ ќе ја затвори базата во Солун",
           "link": "https://netpress.com.mk/poradi-visokite-troshoczi-ryanair-ke-ja-zatvori-bazata-vo-solun/",
           "published": "Sat, 09 May 2026 14:18:44 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Москва: Украина го прекрши примирјето на Денот на победата",
-          "link": "https://netpress.com.mk/moskva-ukraina-go-prekrshi-primirjeto-na-denot-na-pobedata/",
-          "published": "Sat, 09 May 2026 14:14:49 +0000"
         }
       ]
     },
@@ -89,21 +89,33 @@
         },
         {
           "source": "BBC",
-          "title": "Anger and resignation in Tenerife as hantavirus ship approaches",
-          "link": "https://www.bbc.com/news/articles/c5y0gkg038yo?at_medium=RSS&at_campaign=rss",
-          "published": "Sat, 09 May 2026 00:15:58 GMT"
-        },
-        {
-          "source": "BBC",
-          "title": "Hovering objects and flashing lights: what we learned from UFO documents released by the Pentagon",
-          "link": "https://www.bbc.com/news/articles/c1m2epkey44o?at_medium=RSS&at_campaign=rss",
-          "published": "Fri, 08 May 2026 22:04:55 GMT"
-        },
-        {
-          "source": "BBC",
           "title": "I will serve - not rule over Hungary, says new PM",
           "link": "https://www.bbc.com/news/articles/ce3pqvvzgnko?at_medium=RSS&at_campaign=rss",
           "published": "Sat, 09 May 2026 15:12:04 GMT"
+        },
+        {
+          "source": "BBC",
+          "title": "WHO chief reassures Tenerife residents ahead of arrival of virus-hit cruise ship",
+          "link": "https://www.bbc.com/news/articles/czr2vjmnlmpo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 09 May 2026 14:31:24 GMT"
+        },
+        {
+          "source": "BBC",
+          "title": "Australia's right-wing One Nation party scores historic parliamentary win",
+          "link": "https://www.bbc.com/news/articles/cwy2e4z4npro?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 09 May 2026 14:36:21 GMT"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Péter Magyar Takes Office, Marking the Official End of the Orbán Era",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/5/9/peter-magyar-takes-office-marking-the-official-end-of-the-orban-era-2?traffic_source=rss",
+          "published": "Sat, 09 May 2026 16:49:21 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "‘On level of atomic bomb’: Iran highlights Hormuz importance amid US talks",
+          "link": "https://www.aljazeera.com/news/2026/5/9/on-level-of-atomic-bomb-iran-highlights-hormuz-importance-amid-us-talks?traffic_source=rss",
+          "published": "Sat, 09 May 2026 16:35:01 +0000"
         },
         {
           "source": "Al Jazeera",
@@ -122,18 +134,6 @@
           "title": "One dead in US after being struck by taking off Frontier Airlines plane",
           "link": "https://www.aljazeera.com/news/2026/5/9/one-dead-in-us-after-being-struck-by-taking-off-frontier-airlines-plane?traffic_source=rss",
           "published": "Sat, 09 May 2026 14:37:27 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Israel to release two detained Gaza flotilla activists",
-          "link": "https://www.aljazeera.com/news/2026/5/9/israel-to-release-two-detained-gaza-flotilla-activists?traffic_source=rss",
-          "published": "Sat, 09 May 2026 14:06:55 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Bahrain rounds up dozens over alleged links to Iran’s IRGC",
-          "link": "https://www.aljazeera.com/news/2026/5/9/bahrain-rounds-up-dozens-over-alleged-links-to-irans-irgc?traffic_source=rss",
-          "published": "Sat, 09 May 2026 13:53:00 +0000"
         }
       ]
     }
