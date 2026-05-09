@@ -1,6 +1,13 @@
 {
-  "generated_at": "2026-05-09T20:02:54Z",
+  "generated_at": "2026-05-09T20:57:50Z",
   "items": [
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "Рубио тврди дека Куба ја одбила американската хуманитарна помош од 100 милиони долари",
+      "link": "https://makfax.com.mk/svet/rubio-tvrdi-deka-kuba-ja-odbila-amerikanskata-humanitarna-pomosh-od-100-milioni-dolari/",
+      "published": "Sat, 09 May 2026 20:20:23 +0000"
+    },
     {
       "region": "Македонија",
       "source": "Makfax",
@@ -31,10 +38,10 @@
     },
     {
       "region": "Македонија",
-      "source": "Makfax",
-      "title": "(Видео) НЛО летало на мала висина над Егејското Море со брзина од 130 км/ч, според документи на Пентагон",
-      "link": "https://makfax.com.mk/svet/video-nlo-letalo-na-mala-visina-nad-egejskoto-more-so-brzina-od-130-km-ch-spored-dokumenti-na-pentagon/",
-      "published": "Sat, 09 May 2026 18:02:04 +0000"
+      "source": "NetPress",
+      "title": "Премиер лига: Сити се приближи на Арсенал на два бода, Борнмут ги задржа шансите за ЛШ",
+      "link": "https://netpress.com.mk/premier-liga-siti-se-priblizhi-na-arsenal-na-dva-boda-bornmut-gi-zadrzha-shansite-za-lsh/",
+      "published": "Sat, 09 May 2026 20:18:30 +0000"
     },
     {
       "region": "Македонија",
@@ -65,11 +72,11 @@
       "published": "Sat, 09 May 2026 18:07:25 +0000"
     },
     {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Марк Маркез доживеа сериозен пад во Франција, оди на операција",
-      "link": "https://netpress.com.mk/mark-markez-dozhivea-seriozen-pad-vo-franczija-odi-na-operaczija/",
-      "published": "Sat, 09 May 2026 16:37:59 +0000"
+      "region": "Свет",
+      "source": "BBC",
+      "title": "Lebanon says Israeli strikes killed 39",
+      "link": "https://www.bbc.com/news/articles/cn4pjegk358o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 09 May 2026 19:49:49 GMT"
     },
     {
       "region": "Свет",
@@ -101,10 +108,17 @@
     },
     {
       "region": "Свет",
-      "source": "BBC",
-      "title": "Australia's right-wing One Nation party scores historic parliamentary win",
-      "link": "https://www.bbc.com/news/articles/cwy2e4z4npro?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 09 May 2026 14:36:21 GMT"
+      "source": "Al Jazeera",
+      "title": "Should we be worried about the hantavirus outbreak?",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/5/9/should-we-be-worried-about-the-hantavirus-outbreak?traffic_source=rss",
+      "published": "Sat, 09 May 2026 20:13:07 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Venezuela’s Delcy Rodriguez heads to The Hague for land dispute case",
+      "link": "https://www.aljazeera.com/news/2026/5/9/venezuelas-delcy-rodriguez-heads-to-the-hague-for-land-dispute-case?traffic_source=rss",
+      "published": "Sat, 09 May 2026 19:48:38 +0000"
     },
     {
       "region": "Свет",
@@ -126,20 +140,6 @@
       "title": "Man City beat Brentford to close gap to Arsenal to two points in title race",
       "link": "https://www.aljazeera.com/sports/2026/5/9/man-city-beat-brentford-to-close-gap-to-arsenal-to-two-points-in-title-race?traffic_source=rss",
       "published": "Sat, 09 May 2026 18:40:25 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Tucker Carlson’s pivot",
-      "link": "https://www.aljazeera.com/video/the-listening-post/2026/5/9/tucker-carlsons-pivot?traffic_source=rss",
-      "published": "Sat, 09 May 2026 18:01:28 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Syria and Lebanon make ‘significant progress’ at talks on joint interests",
-      "link": "https://www.aljazeera.com/news/2026/5/9/syria-and-lebanon-make-significant-progress-at-talks-on-joint-interests?traffic_source=rss",
-      "published": "Sat, 09 May 2026 17:50:18 +0000"
     }
   ]
 }
