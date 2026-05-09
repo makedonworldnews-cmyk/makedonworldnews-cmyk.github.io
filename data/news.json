@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-09T15:12:12Z",
+  "updatedAt": "2026-05-09T16:10:42Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "(Фото+видео) Путин вети победа на скромната и строго обезбедувана Парада на победата во Москва",
+          "link": "https://makfax.com.mk/svet/foto-video-putin-veti-pobeda-na-skromnata-i-strogo-obezbeduvana-parada-na-pobedata-vo-moskva/",
+          "published": "Sat, 09 May 2026 15:18:21 +0000"
         },
         {
           "source": "Makfax",
@@ -33,12 +39,6 @@
           "title": "Петер Маѓар и официјално нов премиер на Унгарија",
           "link": "https://makfax.com.mk/svet/evropa/peter-magar-i-oficijalno-nov-premier-na-ungarija/",
           "published": "Sat, 09 May 2026 14:13:56 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "По 12 години, знамето на ЕУ повторно ќе се вее над унгарскиот парламент",
-          "link": "https://makfax.com.mk/svet/evropa/po-12-godini-znameto-na-eu-povtorno-ke-se-vee-nad-ungarskiot-parlament/",
-          "published": "Sat, 09 May 2026 14:11:01 +0000"
         },
         {
           "source": "NetPress",
@@ -101,9 +101,21 @@
         },
         {
           "source": "BBC",
-          "title": "Hungary's new PM sworn in after landslide victory over Orbán",
+          "title": "I will serve - not rule over Hungary, says new PM",
           "link": "https://www.bbc.com/news/articles/ce3pqvvzgnko?at_medium=RSS&at_campaign=rss",
-          "published": "Sat, 09 May 2026 13:58:01 GMT"
+          "published": "Sat, 09 May 2026 15:12:04 GMT"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Niger suspends nine French media bodies: Watchdog slams ‘abusive’ decision",
+          "link": "https://www.aljazeera.com/news/2026/5/9/niger-suspends-nine-french-media-bodies-watchdog-slams-abusive-decision?traffic_source=rss",
+          "published": "Sat, 09 May 2026 15:53:27 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Palestinians run West Bank freedom marathon along separation wall",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/5/9/palestinians-run-west-bank-freedom-marathon-along-separation-wall?traffic_source=rss",
+          "published": "Sat, 09 May 2026 14:53:02 +0000"
         },
         {
           "source": "Al Jazeera",
@@ -122,18 +134,6 @@
           "title": "Bahrain rounds up dozens over alleged links to Iran’s IRGC",
           "link": "https://www.aljazeera.com/news/2026/5/9/bahrain-rounds-up-dozens-over-alleged-links-to-irans-irgc?traffic_source=rss",
           "published": "Sat, 09 May 2026 13:53:00 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Peter Magyar sworn in as Hungary’s PM, ending Orban’s 16 years in power",
-          "link": "https://www.aljazeera.com/news/2026/5/9/peter-magyar-sworn-in-as-hungarys-pm-ending-orbans-16-years-in-power?traffic_source=rss",
-          "published": "Sat, 09 May 2026 13:38:10 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "LIVE: Manchester City vs Brentford – Premier League",
-          "link": "https://www.aljazeera.com/sports/liveblog/2026/5/9/live-manchester-city-vs-brentford-premier-league?traffic_source=rss",
-          "published": "Sat, 09 May 2026 13:31:36 +0000"
         }
       ]
     }
