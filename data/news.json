@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-09T19:31:42Z",
+  "updatedAt": "2026-05-09T20:23:56Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,24 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Рубио тврди дека Куба ја одбила американската хуманитарна помош од 100 милиони долари",
+          "link": "https://makfax.com.mk/svet/rubio-tvrdi-deka-kuba-ja-odbila-amerikanskata-humanitarna-pomosh-od-100-milioni-dolari/",
+          "published": "Sat, 09 May 2026 20:20:23 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Хакими ќе биде подготвен за финалето против Арсенал",
+          "link": "https://makfax.com.mk/sport/hakimi-ke-bide-podgotven-za-finaleto-protiv-arsenal/",
+          "published": "Sat, 09 May 2026 19:44:57 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Осимен за пресврт и 27-ма титула на Галатасарај",
+          "link": "https://makfax.com.mk/sport/osimen-za-presvrt-i-27-ma-titula-na-galatasaraj/",
+          "published": "Sat, 09 May 2026 19:34:56 +0000"
         },
         {
           "source": "Makfax",
@@ -23,27 +41,21 @@
           "published": "Sat, 09 May 2026 19:22:56 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "(Видео) НЛО летало на мала висина над Егејското Море со брзина од 130 км/ч, според документи на Пентагон",
-          "link": "https://makfax.com.mk/svet/video-nlo-letalo-na-mala-visina-nad-egejskoto-more-so-brzina-od-130-km-ch-spored-dokumenti-na-pentagon/",
-          "published": "Sat, 09 May 2026 18:02:04 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Хантавирусот се шири во Аргентина: експертите го поврзуваат со климатските промени",
-          "link": "https://makfax.com.mk/svet/hantavirusot-se-shiri-vo-argentina-ekspertite-go-povrzuvaat-so-klimatskite-promeni/",
-          "published": "Sat, 09 May 2026 17:37:27 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "(Видео) Маркез нема да вози во Ле Ман, ќе оди на операција",
-          "link": "https://makfax.com.mk/sport/video-markez-nema-da-vozi-vo-le-man-ke-odi-na-operacija/",
-          "published": "Sat, 09 May 2026 17:19:58 +0000"
+          "source": "NetPress",
+          "title": "Премиер лига: Сити се приближи на Арсенал на два бода, Борнмут ги задржа шансите за ЛШ",
+          "link": "https://netpress.com.mk/premier-liga-siti-se-priblizhi-na-arsenal-na-dva-boda-bornmut-gi-zadrzha-shansite-za-lsh/",
+          "published": "Sat, 09 May 2026 20:18:30 +0000"
         },
         {
           "source": "NetPress",
-          "title": "ВРЕДИ прерасна во единествен политички субјекти",
-          "link": "https://netpress.com.mk/vredi-prerasna-vo-edinestven-politichki-subjekti/",
+          "title": "Британскиот премиер Стармер соочен со предизвикот од поранешна министерка",
+          "link": "https://netpress.com.mk/britanskiot-premier-starmer-soochen-so-predizvikot-od-poraneshna-ministerka/",
+          "published": "Sat, 09 May 2026 19:50:18 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "ВРЕДИ прерасна во единствен политички субјекти",
+          "link": "https://netpress.com.mk/vredi-prerasna-vo-edinstven-politichki-subjekti/",
           "published": "Sat, 09 May 2026 19:16:03 +0000"
         },
         {
@@ -57,24 +69,18 @@
           "title": "ВТА Рим: Кирстеа ја изненади Сабаленка",
           "link": "https://netpress.com.mk/vta-rim-kirstea-ja-iznenadi-sabalenka/",
           "published": "Sat, 09 May 2026 18:07:25 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Марк Маркез доживеа сериозен пад во Франција, оди на операција",
-          "link": "https://netpress.com.mk/mark-markez-dozhivea-seriozen-pad-vo-franczija-odi-na-operaczija/",
-          "published": "Sat, 09 May 2026 16:37:59 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Британија испраќа воен брод на Блискиот исток за мисијата во Хормуз",
-          "link": "https://netpress.com.mk/britanija-ispraka-voen-brod-na-bliskiot-istok-za-misijata-vo-hormuz/",
-          "published": "Sat, 09 May 2026 15:07:59 +0000"
         }
       ]
     },
     {
       "region": "Свет",
       "items": [
+        {
+          "source": "BBC",
+          "title": "Lebanon says Israeli strikes killed 39",
+          "link": "https://www.bbc.com/news/articles/cn4pjegk358o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 09 May 2026 19:49:49 GMT"
+        },
         {
           "source": "BBC",
           "title": "Putin denounces Nato at scaled-back Victory Day parade",
@@ -100,10 +106,22 @@
           "published": "Sat, 09 May 2026 14:31:24 GMT"
         },
         {
-          "source": "BBC",
-          "title": "Australia's right-wing One Nation party scores historic parliamentary win",
-          "link": "https://www.bbc.com/news/articles/cwy2e4z4npro?at_medium=RSS&at_campaign=rss",
-          "published": "Sat, 09 May 2026 14:36:21 GMT"
+          "source": "Al Jazeera",
+          "title": "Venezuela’s Delcy Rodriguez heads to The Hague for land dispute case",
+          "link": "https://www.aljazeera.com/news/2026/5/9/venezuelas-delcy-rodriguez-heads-to-the-hague-for-land-dispute-case?traffic_source=rss",
+          "published": "Sat, 09 May 2026 19:48:38 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Israeli settlers force Palestinian family to exhume and rebury their father",
+          "link": "https://www.aljazeera.com/news/2026/5/9/israeli-settlers-force-palestinian-family-to-exhume-and-rebury-their-father?traffic_source=rss",
+          "published": "Sat, 09 May 2026 19:16:19 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Missing Singaporeans Located Near Mt. Dukono Crater Rim",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/5/9/missing-singaporeans-located-near-mt-dukono-crater-rim?traffic_source=rss",
+          "published": "Sat, 09 May 2026 19:02:30 +0000"
         },
         {
           "source": "Al Jazeera",
@@ -116,24 +134,6 @@
           "title": "Tucker Carlson’s pivot",
           "link": "https://www.aljazeera.com/video/the-listening-post/2026/5/9/tucker-carlsons-pivot?traffic_source=rss",
           "published": "Sat, 09 May 2026 18:01:28 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Syria and Lebanon make ‘significant progress’ at talks on joint interests",
-          "link": "https://www.aljazeera.com/news/2026/5/9/syria-and-lebanon-make-significant-progress-at-talks-on-joint-interests?traffic_source=rss",
-          "published": "Sat, 09 May 2026 17:50:18 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Parent company of Trump’s Truth Social site reports $400m loss this year",
-          "link": "https://www.aljazeera.com/news/2026/5/9/parent-company-of-trumps-truth-social-site-reports-400m-loss-this-year?traffic_source=rss",
-          "published": "Sat, 09 May 2026 17:47:11 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "“Nowhere left to go”: Gaza residents return to rubble after Israeli strike",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/5/9/nowhere-left-to-go-gaza-residents-return-to-rubble-after-israeli-strike?traffic_source=rss",
-          "published": "Sat, 09 May 2026 17:21:33 +0000"
         }
       ]
     }
