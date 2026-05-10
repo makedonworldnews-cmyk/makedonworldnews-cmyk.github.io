@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-10T15:55:02Z",
+  "updatedAt": "2026-05-10T16:56:40Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Иран им се заканува на Велика Британија и Франција",
+          "link": "https://makfax.com.mk/svet/iran-im-se-zakanuva-na-velika-britanija-i-francija/",
+          "published": "Sun, 10 May 2026 16:55:27 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Француски патник од крузерот развил симптоми на хантавирус за време на летот кон Франција",
+          "link": "https://makfax.com.mk/svet/francuski-patnik-od-kruzerot-razvil-simptomi-na-hantavirus-za-vreme-na-letot-kon-francija/",
+          "published": "Sun, 10 May 2026 16:49:35 +0000"
         },
         {
           "source": "Makfax",
@@ -29,46 +41,34 @@
           "published": "Sun, 10 May 2026 15:02:27 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Врховниот лидер издаде нови директиви за продолжување на операциите, известуваат иранските медиуми",
-          "link": "https://makfax.com.mk/svet/vrhovniot-lider-izdade-novi-direktivi-za-prodolzhuvanje-na-operaciite-izvestuvaat-iranskite-mediumi/",
-          "published": "Sun, 10 May 2026 14:59:38 +0000"
+          "source": "NetPress",
+          "title": "Иран го испратил одговорот на американскиот предлог за преговори за крај на војната",
+          "link": "https://netpress.com.mk/iran-go-ispratil-odgovorot-na-amerikanskiot-predlog-za-pregovori-za-kraj-na-vojnata/",
+          "published": "Sun, 10 May 2026 16:34:25 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "(Фото) Идентификуван „нултиот пациент“ на хантавирусот: се заразил на депонија пред да се качи на крузерот",
-          "link": "https://makfax.com.mk/svet/identifikuvan-nultiot-pacient-na-hantavirusot-se-zarazil-na-deponija-pred-da-se-kachi-na-kruzerot/",
-          "published": "Sun, 10 May 2026 14:36:13 +0000"
+          "source": "NetPress",
+          "title": "ВИДЕО| Објавени пробите за настапите на „Евровизија“",
+          "link": "https://netpress.com.mk/video-objaveni-probite-za-nastapite-na-evrovizija/",
+          "published": "Sun, 10 May 2026 16:11:25 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Ги слуша ли Филипче реакциите од народот или е премногу зафатен со фантазирање за премиерска фотелја?",
+          "link": "https://netpress.com.mk/gi-slusha-li-filipche-reakcziite-od-narodot-ili-e-premnogu-zafaten-so-fantazirane-za-premierska-fotelja/",
+          "published": "Sun, 10 May 2026 15:58:28 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Возач на електричен тротинет избегал откако удрил во пешак",
+          "link": "https://netpress.com.mk/vozach-na-elektrichen-trotinet-izbegal-otkako-udril-vo-peshak/",
+          "published": "Sun, 10 May 2026 15:55:54 +0000"
         },
         {
           "source": "NetPress",
           "title": "Скопјанец со автомобилот повредил двајца пешаци",
           "link": "https://netpress.com.mk/skopjanecz-so-avtomobilot-povredil-dvajcza-peshaczi/",
           "published": "Sun, 10 May 2026 15:49:48 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Стармер ги отфрла повиците за оставка: Мојата влада е „десетгодишен проект“",
-          "link": "https://netpress.com.mk/starmer-gi-otfrla-poviczite-za-ostavka-mojata-vlada-e-desetgodishen-proekt/",
-          "published": "Sun, 10 May 2026 15:23:14 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Германија скептична кон понудата на Путин, Шредер да посредува во преговорите",
-          "link": "https://netpress.com.mk/germanija-skeptichna-kon-ponudata-na-putin-shreder-da-posreduva-vo-pregovorite/",
-          "published": "Sun, 10 May 2026 14:46:34 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Началникот на иранската армијата се сретна со ајатолахот Хамнеи",
-          "link": "https://netpress.com.mk/nachalnikot-na-iranskata-armijata-se-sretna-so-ajatolahot-hamnei/",
-          "published": "Sun, 10 May 2026 14:23:10 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Неопходно е обединување, порача Мицкоски на откривање на споменикот на хероите од Туминец, Преспа и Мала Преспа",
-          "link": "https://netpress.com.mk/neophodno-e-obedinuvane-poracha-miczkoski-na-otkrivane-na-spomenikot-na-heroite-od-tuminecz-prespa-i-mala-prespa/",
-          "published": "Sun, 10 May 2026 13:59:40 +0000"
         }
       ]
     },
@@ -77,9 +77,9 @@
       "items": [
         {
           "source": "BBC",
-          "title": "Countries airlift nationals evacuated from from virus-hit cruise ship",
+          "title": "Countries airlift nationals evacuated from virus-hit cruise ship",
           "link": "https://www.bbc.com/news/articles/cn7pzmg8zeno?at_medium=RSS&at_campaign=rss",
-          "published": "Sun, 10 May 2026 15:20:11 GMT"
+          "published": "Sun, 10 May 2026 16:44:25 GMT"
         },
         {
           "source": "BBC",
@@ -91,7 +91,7 @@
           "source": "BBC",
           "title": "Iran sends response to US proposals to end war",
           "link": "https://www.bbc.com/news/articles/clypgz9e5pmo?at_medium=RSS&at_campaign=rss",
-          "published": "Sun, 10 May 2026 14:21:07 GMT"
+          "published": "Sun, 10 May 2026 16:46:09 GMT"
         },
         {
           "source": "BBC",
@@ -107,33 +107,33 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "LIVE: Barcelona vs Real Madrid – El Clasico La Liga",
+          "link": "https://www.aljazeera.com/sports/liveblog/2026/5/10/live-barcelona-vs-real-madrid-el-clasico-la-liga?traffic_source=rss",
+          "published": "Sun, 10 May 2026 16:00:00 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Russia kills three Ukrainians in 24 hours, accuses Kyiv of violating truce",
+          "link": "https://www.aljazeera.com/news/2026/5/10/russia-kills-three-ukrainians-in-24-hours-accuses-kyiv-of-violating-truce?traffic_source=rss",
+          "published": "Sun, 10 May 2026 15:56:02 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Putin hints at ending Russia’s war in Ukraine, but why now?",
+          "link": "https://www.aljazeera.com/news/2026/5/10/putin-hints-at-ending-russias-war-in-ukraine-but-why-now?traffic_source=rss",
+          "published": "Sun, 10 May 2026 15:53:13 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "With food benefit cuts looming in the US, Californians eye billionaire tax",
+          "link": "https://www.aljazeera.com/economy/2026/5/10/with-food-benefit-cuts-looming-in-the-us-californians-eye-billionaire?traffic_source=rss",
+          "published": "Sun, 10 May 2026 15:45:09 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Iran sends response to US ceasefire proposal via Pakistan",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/5/10/iran-sends-response-to-us-ceasefire-proposal-via-pakistan?traffic_source=rss",
           "published": "Sun, 10 May 2026 15:39:50 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Football on ruins: Gaza’s orphans find refuge on the pitch",
-          "link": "https://www.aljazeera.com/features/2026/5/10/football-on-ruins-gazas-orphans-find-refuge-on-the-pitch?traffic_source=rss",
-          "published": "Sun, 10 May 2026 13:52:58 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Stories of those killed in a single day of Israeli strikes on Lebanon",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/5/10/stories-of-those-killed-in-a-single-day-of-israeli-strikes-on-lebanon?traffic_source=rss",
-          "published": "Sun, 10 May 2026 13:52:07 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Jorge Martin wins his first Aprilia Grand Prix at French MotoGP",
-          "link": "https://www.aljazeera.com/sports/2026/5/10/jorge-martin-wins-his-first-aprilia-grand-prix-at-french-motogp?traffic_source=rss",
-          "published": "Sun, 10 May 2026 13:44:37 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "‘Ukraine has momentum in war with Russia’",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/5/10/ukraine-has-momentum-in-war-with?traffic_source=rss",
-          "published": "Sun, 10 May 2026 13:27:14 +0000"
         }
       ]
     }
