@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-10T13:52:23Z",
+  "updatedAt": "2026-05-10T14:53:33Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "(Фото) Идентификуван „нултиот пациент“ на хантавирусот: се заразил на депонија пред да се качи на крузерот",
+          "link": "https://makfax.com.mk/svet/identifikuvan-nultiot-pacient-na-hantavirusot-se-zarazil-na-deponija-pred-da-se-kachi-na-kruzerot/",
+          "published": "Sun, 10 May 2026 14:36:13 +0000"
         },
         {
           "source": "Makfax",
@@ -35,10 +41,22 @@
           "published": "Sun, 10 May 2026 13:18:16 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Фицо: Ако Зеленски сака средба со Путин, треба директно да му се јави",
-          "link": "https://makfax.com.mk/svet/fico-ako-zelenski-saka-sredba-so-putin-treba-direktno-da-mu-se-javi/",
-          "published": "Sun, 10 May 2026 13:14:04 +0000"
+          "source": "NetPress",
+          "title": "Германија скептична кон понудата на Путин, Шредер да посредува во преговорите",
+          "link": "https://netpress.com.mk/germanija-skeptichna-kon-ponudata-na-putin-shreder-da-posreduva-vo-pregovorite/",
+          "published": "Sun, 10 May 2026 14:46:34 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Началникот на иранската армијата се сретна со ајатолахот Хамнеи",
+          "link": "https://netpress.com.mk/nachalnikot-na-iranskata-armijata-se-sretna-so-ajatolahot-hamnei/",
+          "published": "Sun, 10 May 2026 14:23:10 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Неопходно е обединување, порача Мицкоски на откривање на споменикот на хероите од Туминец, Преспа и Мала Преспа",
+          "link": "https://netpress.com.mk/neophodno-e-obedinuvane-poracha-miczkoski-na-otkrivane-na-spomenikot-na-heroite-od-tuminecz-prespa-i-mala-prespa/",
+          "published": "Sun, 10 May 2026 13:59:40 +0000"
         },
         {
           "source": "NetPress",
@@ -51,24 +69,6 @@
           "title": "Тошковски: Никогаш нема да ја заборавиме жртвата на загинатите припадници на полицијата во Диво Насеље",
           "link": "https://netpress.com.mk/toshkovski-nikogash-nema-da-ja-zaboravime-zhrtvata-na-zaginatite-pripadniczi-na-policzijata-vo-divo-nasele/",
           "published": "Sun, 10 May 2026 13:31:00 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Автопатите се градат со одлична динамика",
-          "link": "https://netpress.com.mk/avtopatite-se-gradat-so-odlichna-dinamika/",
-          "published": "Sun, 10 May 2026 12:54:58 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Зајакнување на човечките ресурси во јавните здравствени установи",
-          "link": "https://netpress.com.mk/zajaknuvane-na-chovechkite-resursi-vo-javnite-zdravstveni-ustanovi/",
-          "published": "Sun, 10 May 2026 12:33:29 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "ВИДЕО| Украински поморски дрон со експлозивно полнење откриен крај грчки остров",
-          "link": "https://netpress.com.mk/video-ukrainski-pomorski-dron-so-eksplozivno-polnene-otkrien-kraj-grchki-ostrov/",
-          "published": "Sun, 10 May 2026 12:18:19 +0000"
         }
       ]
     },
@@ -89,15 +89,15 @@
         },
         {
           "source": "BBC",
-          "title": "Iran warns against complying with US sanctions as Gulf attacks reported",
+          "title": "Iran sends response to US proposals to end war",
           "link": "https://www.bbc.com/news/articles/clypgz9e5pmo?at_medium=RSS&at_campaign=rss",
-          "published": "Sun, 10 May 2026 12:22:06 GMT"
+          "published": "Sun, 10 May 2026 14:21:07 GMT"
         },
         {
           "source": "BBC",
           "title": "Putin says he thinks Ukraine conflict 'coming to an end'",
           "link": "https://www.bbc.com/news/articles/cn8p4j2jzwwo?at_medium=RSS&at_campaign=rss",
-          "published": "Sun, 10 May 2026 00:46:07 GMT"
+          "published": "Sun, 10 May 2026 13:56:43 GMT"
         },
         {
           "source": "BBC",
@@ -107,33 +107,33 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Football on ruins: Gaza’s orphans find refuge on the pitch",
+          "link": "https://www.aljazeera.com/features/2026/5/10/football-on-ruins-gazas-orphans-find-refuge-on-the-pitch?traffic_source=rss",
+          "published": "Sun, 10 May 2026 13:52:58 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Stories of those killed in a single day of Israeli strikes on Lebanon",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/5/10/stories-of-those-killed-in-a-single-day-of-israeli-strikes-on-lebanon?traffic_source=rss",
+          "published": "Sun, 10 May 2026 13:52:07 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Jorge Martin wins his first Aprilia Grand Prix at French MotoGP",
+          "link": "https://www.aljazeera.com/sports/2026/5/10/jorge-martin-wins-his-first-aprilia-grand-prix-at-french-motogp?traffic_source=rss",
+          "published": "Sun, 10 May 2026 13:44:37 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "‘Ukraine has momentum in war with Russia’",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/5/10/ukraine-has-momentum-in-war-with?traffic_source=rss",
+          "published": "Sun, 10 May 2026 13:27:14 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Passengers from Hantavirus-hit cruise begin disembarking ship",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/5/10/passengers-from-hantavirus-hit-cruise-begin-disembarking-ship?traffic_source=rss",
           "published": "Sun, 10 May 2026 13:11:37 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Can Asian economies cope with the fallout from the Iran war?",
-          "link": "https://www.aljazeera.com/video/counting-the-cost/2026/5/10/can-asian-economies-cope-with-the-fallout-from-the-iran-war?traffic_source=rss",
-          "published": "Sun, 10 May 2026 13:11:10 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Atef Najib faces at least 10 charges in landmark Syria trial",
-          "link": "https://www.aljazeera.com/news/2026/5/10/atef-najib-faces-at-least-10-charges-in-landmark-syria-trial?traffic_source=rss",
-          "published": "Sun, 10 May 2026 12:45:42 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Iran sends response to US proposal to end war via mediator Pakistan",
-          "link": "https://www.aljazeera.com/news/2026/5/10/iran-sends-response-to-us-proposal-to-end-war-via-mediator-pakistan?traffic_source=rss",
-          "published": "Sun, 10 May 2026 12:40:50 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Can central banks curb inflation as energy costs rise?",
-          "link": "https://www.aljazeera.com/video/counting-the-cost/2026/5/10/can-central-banks-curb-inflation-as-energy-costs-rise?traffic_source=rss",
-          "published": "Sun, 10 May 2026 12:21:18 +0000"
         }
       ]
     }
