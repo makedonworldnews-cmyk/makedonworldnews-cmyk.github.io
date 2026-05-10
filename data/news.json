@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-09T23:01:42Z",
+  "updatedAt": "2026-05-10T00:00:08Z",
   "groups": [
     {
       "region": "Македонија",
@@ -107,6 +107,12 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "WHO chief says Hantavirus outbreak ‘is not COVID’",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/5/9/who-chief-says-hantavirus-outbreak-is-not?traffic_source=rss",
+          "published": "Sat, 09 May 2026 23:17:31 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Brazil judge bars law that could reduce Bolsonaro’s 27-year prison sentence",
           "link": "https://www.aljazeera.com/news/2026/5/9/brazil-judge-bars-law-that-could-reduce-bolsonaros-27-year-prison-sentence?traffic_source=rss",
           "published": "Sat, 09 May 2026 21:34:53 +0000"
@@ -128,12 +134,6 @@
           "title": "Palestinian family says settlers forced them to exhume father’s body",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/5/9/palestinian-family-says-settlers-forced-them-to-exhume-fathers-body?traffic_source=rss",
           "published": "Sat, 09 May 2026 20:32:43 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Three police officers killed in car bomb attack in northwest Pakistan",
-          "link": "https://www.aljazeera.com/news/2026/5/9/three-police-officers-killed-in-car-bomb-attack-in-northwest-pakistan?traffic_source=rss",
-          "published": "Sat, 09 May 2026 20:29:37 +0000"
         }
       ]
     }
