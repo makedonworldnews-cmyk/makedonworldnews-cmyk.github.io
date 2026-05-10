@@ -1,6 +1,13 @@
 {
-  "generated_at": "2026-05-10T21:29:00Z",
+  "generated_at": "2026-05-10T22:10:21Z",
   "items": [
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "(Видео) Милан е во длабока криза, загуби дома од Аталанта",
+      "link": "https://makfax.com.mk/sport/video-milan-e-vo-dlaboka-kriza-zagubi-doma-od-atalanta/",
+      "published": "Sun, 10 May 2026 21:30:57 +0000"
+    },
     {
       "region": "Македонија",
       "source": "Makfax",
@@ -31,10 +38,10 @@
     },
     {
       "region": "Македонија",
-      "source": "Makfax",
-      "title": "Нетанјаху: Војната со Иран не е завршена, мора да се отстрани збогатениот ураниум",
-      "link": "https://makfax.com.mk/svet/netanjahu-vojnata-so-iran-ne-e-zavrshena-mora-da-se-otstrani-zbogateniot-uranium/",
-      "published": "Sun, 10 May 2026 18:30:39 +0000"
+      "source": "NetPress",
+      "title": "Ла Лига: Барселона ја потврди титулата со победа во „Ел класико“",
+      "link": "https://netpress.com.mk/la-liga-barselona-ja-potvrdi-titulata-so-pobeda-vo-el-klasiko/",
+      "published": "Sun, 10 May 2026 21:39:28 +0000"
     },
     {
       "region": "Македонија",
@@ -63,13 +70,6 @@
       "title": "Латвискиот министер за одбрана принуден да поднесе оставка по падот на украинските дронови",
       "link": "https://netpress.com.mk/latviskiot-minister-za-odbrana-prinuden-da-podnese-ostavka-po-padot-na-ukrainskite-dronovi/",
       "published": "Sun, 10 May 2026 19:57:47 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Седум странски државјанки приведени од охридски ноќен-клуб",
-      "link": "https://netpress.com.mk/sedum-stranski-drzhavjanki-privedeni-od-ohridski-noken-klub/",
-      "published": "Sun, 10 May 2026 19:36:49 +0000"
     },
     {
       "region": "Свет",
@@ -109,6 +109,27 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "Barcelona beat Real Madrid 2-0 in El Clasico to retain La Liga title",
+      "link": "https://www.aljazeera.com/sports/2026/5/10/barcelona-beat-real-madrid-2-0-in-el-clasico-to-retain-la-liga-title?traffic_source=rss",
+      "published": "Sun, 10 May 2026 21:35:48 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Trump to discuss Iran with Xi Jinping during China visit: Officials",
+      "link": "https://www.aljazeera.com/news/2026/5/10/trump-to-discuss-iran-with-xi-jinping-during-china-visit-officials?traffic_source=rss",
+      "published": "Sun, 10 May 2026 21:12:50 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Israeli weapon fires tiny metal cubes into people in Lebanon, like Gaza",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/10/israeli-weapon-fires-tiny-metal-cubes-into-people-in-lebanon-like-gaza?traffic_source=rss",
+      "published": "Sun, 10 May 2026 21:10:46 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "US Jewish leader, Israel advocate Abe Foxman dies at 86",
       "link": "https://www.aljazeera.com/news/2026/5/10/us-jewish-leader-israel-advocate-abe-foxman-dies-at-86?traffic_source=rss",
       "published": "Sun, 10 May 2026 20:52:48 +0000"
@@ -119,27 +140,6 @@
       "title": "Indian film star Vijay becomes chief minister of Tamil Nadu",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/5/10/indian-film-star-vijay-becomes-chief-minister-of-tamil-nadu-2?traffic_source=rss",
       "published": "Sun, 10 May 2026 20:34:41 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "South Korea says ship was struck by ‘unidentified flying objects’ in Hormuz",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/10/south-korea-says-ship-was-struck-by-unidentified-flying-objects-in-hormuz?traffic_source=rss",
-      "published": "Sun, 10 May 2026 19:12:52 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Trossard scores late as Arsenal beats West Ham, moves closer to title",
-      "link": "https://www.aljazeera.com/sports/2026/5/10/trossard-scores-late-as-arsenal-beats-west-ham-moves-closer-to-title?traffic_source=rss",
-      "published": "Sun, 10 May 2026 19:09:39 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Gaza volunteers plant olive trees at devastated al-Shifa Hospital",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/10/gaza-volunteers-plant-olive-trees-at-devastated-al-shifa-hospital?traffic_source=rss",
-      "published": "Sun, 10 May 2026 19:01:20 +0000"
     }
   ]
 }
