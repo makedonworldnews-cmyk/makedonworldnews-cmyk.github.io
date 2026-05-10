@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-10T20:03:01Z",
+  "updatedAt": "2026-05-10T21:02:04Z",
   "groups": [
     {
       "region": "Македонија",
@@ -42,6 +42,18 @@
         },
         {
           "source": "NetPress",
+          "title": "Девет пријави за семејно насилство, седуммина приведени",
+          "link": "https://netpress.com.mk/devet-prijavi-za-semejno-nasilstvo-sedummina-priveden/",
+          "published": "Sun, 10 May 2026 20:49:59 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Уапсени 10 возачи: 6 возеле без дозвола, од нив 3 малолетници, 2 со активна забрана и 2 под дејство на алкохол",
+          "link": "https://netpress.com.mk/uapseni-10-vozachi-6-vozele-bez-dozvola-od-niv-3-maloletniczi-2-so-aktivna-zabrana-i-2-pod-dejstvo-na-alkohol/",
+          "published": "Sun, 10 May 2026 20:03:34 +0000"
+        },
+        {
+          "source": "NetPress",
           "title": "Латвискиот министер за одбрана принуден да поднесе оставка по падот на украинските дронови",
           "link": "https://netpress.com.mk/latviskiot-minister-za-odbrana-prinuden-da-podnese-ostavka-po-padot-na-ukrainskite-dronovi/",
           "published": "Sun, 10 May 2026 19:57:47 +0000"
@@ -57,18 +69,6 @@
           "title": "Франција никогаш не размислувала за распоредување поморски сили во Хормуз",
           "link": "https://netpress.com.mk/franczija-nikogash-ne-razmisluvala-za-rasporeduvane-pomorski-sili-vo-hormuz/",
           "published": "Sun, 10 May 2026 19:28:16 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Хантавирус: Еден од петте Французи евакуирани покажува симптоми",
-          "link": "https://netpress.com.mk/hantavirus-eden-od-pette-franczuzi-evakuirani-pokazhuva-simptomi/",
-          "published": "Sun, 10 May 2026 19:09:42 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Додека бил на викенд-отсуство од затвор се шетал низ Велес со марихуана",
-          "link": "https://netpress.com.mk/dodeka-bil-na-vikend-otsustvo-od-zatvor-se-shetal-niz-veles-so-marihuana/",
-          "published": "Sun, 10 May 2026 18:42:01 +0000"
         }
       ]
     },
@@ -77,21 +77,21 @@
       "items": [
         {
           "source": "BBC",
-          "title": "Countries airlift nationals evacuated from virus-hit cruise ship",
-          "link": "https://www.bbc.com/news/articles/cn7pzmg8zeno?at_medium=RSS&at_campaign=rss",
-          "published": "Sun, 10 May 2026 18:07:48 GMT"
-        },
-        {
-          "source": "BBC",
-          "title": "Army parachutes onto remote island to help Briton with suspected hantavirus",
-          "link": "https://www.bbc.com/news/articles/cvgzv77ldpdo?at_medium=RSS&at_campaign=rss",
-          "published": "Sun, 10 May 2026 15:02:51 GMT"
-        },
-        {
-          "source": "BBC",
-          "title": "Iran sends response to US proposals to end war",
+          "title": "Trump calls Iran response to US proposal to end war 'totally unacceptable'",
           "link": "https://www.bbc.com/news/articles/clypgz9e5pmo?at_medium=RSS&at_campaign=rss",
-          "published": "Sun, 10 May 2026 17:20:52 GMT"
+          "published": "Sun, 10 May 2026 20:57:22 GMT"
+        },
+        {
+          "source": "BBC",
+          "title": "His father had just been buried. Then West Bank settlers forced him to dig up the body",
+          "link": "https://www.bbc.com/news/articles/cjrpnjpl39po?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 10 May 2026 19:56:45 GMT"
+        },
+        {
+          "source": "BBC",
+          "title": "French national shows symptoms on return from hantavirus-hit ship",
+          "link": "https://www.bbc.com/news/articles/c3r2p70jdy7o?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 10 May 2026 19:43:57 GMT"
         },
         {
           "source": "BBC",
@@ -104,6 +104,12 @@
           "title": "Lebanon says Israeli strikes killed 39",
           "link": "https://www.bbc.com/news/articles/cn4pjegk358o?at_medium=RSS&at_campaign=rss",
           "published": "Sat, 09 May 2026 21:23:14 GMT"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Indian film star Vijay becomes chief minister of Tamil Nadu",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/5/10/indian-film-star-vijay-becomes-chief-minister-of-tamil-nadu-2?traffic_source=rss",
+          "published": "Sun, 10 May 2026 20:34:41 +0000"
         },
         {
           "source": "Al Jazeera",
@@ -128,12 +134,6 @@
           "title": "Medics among 51 killed in Israeli attacks on Lebanon in past 24 hours",
           "link": "https://www.aljazeera.com/news/2026/5/10/medics-among-51-killed-in-israeli-attacks-on-lebanon-in-past-24-hours?traffic_source=rss",
           "published": "Sun, 10 May 2026 19:01:09 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Iran may ‘give assurances on the use of nuclear facilities’",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/5/10/iran-may-give-assurances-on-the-use-of-nuclear?traffic_source=rss",
-          "published": "Sun, 10 May 2026 17:29:35 +0000"
         }
       ]
     }
