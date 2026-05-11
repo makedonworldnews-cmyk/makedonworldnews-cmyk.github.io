@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-11T18:27:32Z",
+  "updatedAt": "2026-05-11T20:17:57Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "СДСМ: До кога народот ќе чека одговор дали се испратени документите за екстрадиција на Никола Груевски?",
+          "link": "https://makfax.com.mk/makedonija/sdsm-do-koga-narodot-ke-cheka-odgovor-dali-se-isprateni-dokumentite-za-ekstradicija-na-nikola-gruevski/",
+          "published": "Mon, 11 May 2026 19:15:40 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Си-ен-ен: Путин навестува крај на војната во Украина, зошто сега?",
+          "link": "https://makfax.com.mk/svet/si-en-en-putin-navestuva-kraj-na-vojnata-vo-ukraina-zoshto-sega/",
+          "published": "Mon, 11 May 2026 18:43:29 +0000"
         },
         {
           "source": "Makfax",
@@ -29,46 +41,34 @@
           "published": "Mon, 11 May 2026 17:08:25 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Левица: Изборот на Зајкова за член на Антикорупциска е скандалозен",
-          "link": "https://makfax.com.mk/makedonija/levica-izborot-na-zajkova-za-chlen-na-antikorupciska-e-skandalozen/",
-          "published": "Mon, 11 May 2026 16:50:22 +0000"
+          "source": "NetPress",
+          "title": "Калас залудно се надева дека ќе посредува во разговорите Русија-ЕУ",
+          "link": "https://netpress.com.mk/kalas-zaludno-se-nadeva-deka-ke-posreduva-vo-razgovorite-rusija-eu/",
+          "published": "Mon, 11 May 2026 20:13:54 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Муцунски во Брисел ја реафирмираше поддршката за Украина: Земјата се соочува со неоправдана агресија од Русија",
-          "link": "https://makfax.com.mk/makedonija/mucunski-vo-brisel-ja-reafirmirashe-poddrshkata-za-ukraina-zemjata-se-soochuva-so-neopravdana-agresija-od-rusija/",
-          "published": "Mon, 11 May 2026 16:45:53 +0000"
+          "source": "NetPress",
+          "title": "Кинескиот извоз скокна во април, трговскиот суфицит зголемен пред посетата на Трамп",
+          "link": "https://netpress.com.mk/kineskiot-izvoz-skokna-vo-april-trgovskiot-suficzit-zgolemen-pred-posetata-na-tramp/",
+          "published": "Mon, 11 May 2026 19:38:06 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Македонската држава има насушна потреба од соработка со дијаспората",
+          "link": "https://netpress.com.mk/makedonskata-drzhava-ima-nasushna-potreba-od-sorabotka-so-dijasporata/",
+          "published": "Mon, 11 May 2026 19:33:13 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Германските гиганти „Rheinmetall“ и „Deutsche Telekom“ се здужуваат во развој на одбрана од дронови",
+          "link": "https://netpress.com.mk/germanskite-giganti-rheinmetall-i-deutsche-telekom-se-zduzhuvaat-vo-razvon-na-odbrana-od-dronovi/",
+          "published": "Mon, 11 May 2026 18:57:15 +0000"
         },
         {
           "source": "NetPress",
           "title": "Катерина Зајковска е предлог одлуката на собраниската Комисија за избор и именување",
           "link": "https://netpress.com.mk/katerina-zajkovska-e-predlog-odlukata-na-sobraniskata-komisija-za-izbor-i-imenuvane/",
           "published": "Mon, 11 May 2026 18:10:13 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Муцунски наспроти колешката од Бугарија: Имавме кратка размена на зборови, не средба",
-          "link": "https://netpress.com.mk/muczunski-nasproti-koleshkata-od-bugarija-imavme-kratka-razmena-na-zborovi-ne-sredba/",
-          "published": "Mon, 11 May 2026 17:57:17 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Отворени центри за лицата со церебрална парализа и со дијабетес во Кисела Вода",
-          "link": "https://netpress.com.mk/otvoreni-czentri-za-liczata-so-czerebralna-paraliza-i-so-dijabetes-vo-kisela-voda/",
-          "published": "Mon, 11 May 2026 17:38:51 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Анимираниот цртан филм „Кликни безбедно“ за побезбеден интернет е достапен на Јутјуб",
-          "link": "https://netpress.com.mk/animiraniot-czrtan-film-klikni-bezbedno-za-pobezbeden-internet-e-dostapen-na-jutjub/",
-          "published": "Mon, 11 May 2026 17:22:56 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Трамп е за привремено укинување на данокот на гориво, но не и за олеснување за авиокомпаниите",
-          "link": "https://netpress.com.mk/tramp-e-za-privremeno-ukinuvane-na-danokot-na-gorivo-no-ne-i-za-olesnuvane-za-aviokompaniite/",
-          "published": "Mon, 11 May 2026 17:06:55 +0000"
         }
       ]
     },
@@ -83,9 +83,15 @@
         },
         {
           "source": "BBC",
-          "title": "US passengers from ship quarantined as officials say public risk 'very low'",
+          "title": "US passengers quarantining in Nebraska as officials say public hantavirus risk 'very low'",
           "link": "https://www.bbc.com/news/articles/cwy2e9e1g0wo?at_medium=RSS&at_campaign=rss",
           "published": "Mon, 11 May 2026 17:17:25 GMT"
+        },
+        {
+          "source": "BBC",
+          "title": "Trump says Iran ceasefire is on 'massive life support'",
+          "link": "https://www.bbc.com/news/articles/cvgznxn18zgo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 11 May 2026 18:17:34 GMT"
         },
         {
           "source": "BBC",
@@ -97,43 +103,37 @@
           "source": "BBC",
           "title": "Portrait looted by Nazis found in home of Dutch SS leader's descendants",
           "link": "https://www.bbc.com/news/articles/cgmpj0p9k08o?at_medium=RSS&at_campaign=rss",
-          "published": "Mon, 11 May 2026 10:00:31 GMT"
-        },
-        {
-          "source": "BBC",
-          "title": "Washington dinner shooting suspect pleads not guilty",
-          "link": "https://www.bbc.com/news/articles/c4g48ewgz8mo?at_medium=RSS&at_campaign=rss",
-          "published": "Mon, 11 May 2026 14:52:12 GMT"
+          "published": "Mon, 11 May 2026 18:27:21 GMT"
         },
         {
           "source": "Al Jazeera",
-          "title": "How impunity in Shireen Abu Akleh’s case fuels Israeli attacks on the press",
-          "link": "https://www.aljazeera.com/news/2026/5/11/how-impunity-in-shireen-abu-aklehs-case-fuels-israeli-attacks-on-the-press?traffic_source=rss",
-          "published": "Mon, 11 May 2026 18:12:55 +0000"
+          "title": "Could the latest violence in DR Congo undermine truce efforts?",
+          "link": "https://www.aljazeera.com/video/inside-story/2026/5/11/could-the-latest-violence-in-dr-congo-undermine-truce-efforts?traffic_source=rss",
+          "published": "Mon, 11 May 2026 19:18:52 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Trump says ceasefire is on ‘life support’ after rejecting Iran’s proposal",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/5/11/trump-says-ceasefire-is-on-life-support-after-rejecting-irans-proposal?traffic_source=rss",
-          "published": "Mon, 11 May 2026 17:44:36 +0000"
+          "title": "South Africa plans presidential impeachment probe over ‘Farmgate’ scandal",
+          "link": "https://www.aljazeera.com/news/2026/5/11/south-africa-plans-presidential-impeachment-probe-over-farmgate-scandal?traffic_source=rss",
+          "published": "Mon, 11 May 2026 19:15:15 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Tragedy at sea: MV Hondius captain praises unity amid hantavirus outbreak.",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/5/11/tragedy-at-sea-mv-hondius-captain-praises-unity-amid-hantavirus-outbreak-2?traffic_source=rss",
-          "published": "Mon, 11 May 2026 17:35:31 +0000"
+          "title": "Trump says he will discuss arms sales to Taiwan in meeting with China’s Xi",
+          "link": "https://www.aljazeera.com/news/2026/5/11/trump-says-he-will-discuss-arms-sales-to-taiwan-in-meeting-with-chinas-xi?traffic_source=rss",
+          "published": "Mon, 11 May 2026 19:11:17 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "US and French evacuees from Hantavirus-hit ship test positive",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/5/11/us-and-french-evacuees-from-hantavirus-hit-ship-test-positive?traffic_source=rss",
-          "published": "Mon, 11 May 2026 17:26:53 +0000"
+          "title": "EU agrees sanctions on Israeli West Bank settlers, Hamas leaders",
+          "link": "https://www.aljazeera.com/news/2026/5/11/eu-agrees-sanctions-on-israeli-west-bank-settlers-hamas-leaders?traffic_source=rss",
+          "published": "Mon, 11 May 2026 19:10:18 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Trump says ceasefire on ‘life support’, slams Iran response to US proposal",
-          "link": "https://www.aljazeera.com/news/2026/5/11/trump-says-ceasefire-on-life-support-slams-iran-response-to-us-proposal?traffic_source=rss",
-          "published": "Mon, 11 May 2026 17:22:09 +0000"
+          "title": "UK sanctions network accused of planning attacks for Iran",
+          "link": "https://www.aljazeera.com/news/2026/5/11/uk-sanctions-network-accused-of-planning-attacks-for-iran?traffic_source=rss",
+          "published": "Mon, 11 May 2026 18:25:10 +0000"
         }
       ]
     }
