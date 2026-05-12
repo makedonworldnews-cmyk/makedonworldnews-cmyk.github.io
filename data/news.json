@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-11T23:42:17Z",
+  "updatedAt": "2026-05-12T01:26:06Z",
   "groups": [
     {
       "region": "Македонија",
@@ -77,37 +77,43 @@
       "items": [
         {
           "source": "BBC",
+          "title": "Trump says Iran ceasefire is on 'massive life support'",
+          "link": "https://www.bbc.com/news/articles/cvgznxn18zgo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 12 May 2026 00:59:12 GMT"
+        },
+        {
+          "source": "BBC",
+          "title": "How the Trump-Xi summit could set superpower relations for many years to come",
+          "link": "https://www.bbc.com/news/articles/ceqprgen1nyo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 11 May 2026 23:20:53 GMT"
+        },
+        {
+          "source": "BBC",
           "title": "Last passengers leave virus-hit cruise ship as three more test positive",
           "link": "https://www.bbc.com/news/articles/cjep78l5835o?at_medium=RSS&at_campaign=rss",
           "published": "Mon, 11 May 2026 20:49:14 GMT"
         },
         {
           "source": "BBC",
-          "title": "US passengers quarantining in Nebraska as officials say public hantavirus risk 'very low'",
-          "link": "https://www.bbc.com/news/articles/cwy2e9e1g0wo?at_medium=RSS&at_campaign=rss",
-          "published": "Mon, 11 May 2026 23:31:37 GMT"
+          "title": "US in closely-guarded talks to open new bases in Greenland",
+          "link": "https://www.bbc.com/news/articles/cx21669452lo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 11 May 2026 23:56:11 GMT"
         },
         {
           "source": "BBC",
-          "title": "South African president says he will not step down after impeachment call",
-          "link": "https://www.bbc.com/news/articles/c9369q3g7w7o?at_medium=RSS&at_campaign=rss",
-          "published": "Mon, 11 May 2026 21:44:20 GMT"
-        },
-        {
-          "source": "BBC",
-          "title": "Watch: Alaska town sees its last sunset until August",
-          "link": "https://www.bbc.com/news/videos/cgjpg20xgy5o?at_medium=RSS&at_campaign=rss",
-          "published": "Mon, 11 May 2026 21:05:29 GMT"
-        },
-        {
-          "source": "BBC",
-          "title": "Trump says Iran ceasefire is on 'massive life support'",
-          "link": "https://www.bbc.com/news/articles/cvgznxn18zgo?at_medium=RSS&at_campaign=rss",
-          "published": "Mon, 11 May 2026 18:17:34 GMT"
+          "title": "EU agrees sanctions on Israeli settlers over West Bank violence",
+          "link": "https://www.bbc.com/news/articles/c202wp2rl09o?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 11 May 2026 19:37:17 GMT"
         },
         {
           "source": "Al Jazeera",
-          "title": "Hundreds displaced, medical services suspended amid gang violence in Haiti",
+          "title": "Iran war live: Trump slams Iranian proposal as ceasefire hangs by a thread",
+          "link": "https://www.aljazeera.com/news/liveblog/2026/5/12/iran-war-live-trump-slams-iranian-proposal-as-ceasefire-hangs-by-a-thread?traffic_source=rss",
+          "published": "Tue, 12 May 2026 00:00:00 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Haiti’s PM casts doubt on presidential vote by August as gang clashes grow",
           "link": "https://www.aljazeera.com/news/2026/5/11/hundreds-displaced-medical-services-suspended-amid-gang-violence-in-haiti?traffic_source=rss",
           "published": "Mon, 11 May 2026 21:08:06 +0000"
         },
@@ -128,12 +134,6 @@
           "title": "Lamine Yamal waves Palestine flag as Barcelona celebrate La Liga win",
           "link": "https://www.aljazeera.com/news/2026/5/11/lamine-yamal-waves-palestine-flag-as-barcelona-celebrate-la-liga-win?traffic_source=rss",
           "published": "Mon, 11 May 2026 20:44:41 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "EU sanctions violent Israeli settlers after months of deadlock",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/5/11/eu-sanctions-violent-israeli-settlers-after-months-of-deadlock?traffic_source=rss",
-          "published": "Mon, 11 May 2026 20:31:54 +0000"
         }
       ]
     }
