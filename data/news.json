@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-12T19:20:14Z",
+  "updatedAt": "2026-05-12T20:55:00Z",
   "groups": [
     {
       "region": "Македонија",
@@ -12,39 +12,63 @@
         },
         {
           "source": "Makfax",
-          "title": "⚠️ Не може да се вчита (извор/timeout)",
-          "link": "https://makfax.com.mk/feed/",
-          "published": ""
+          "title": "Почина големa шампионка (35), доживеа колапс на тренинг",
+          "link": "https://makfax.com.mk/sport/pochina-golema-shampionka-35-dozhivea-kolaps-na-trening/",
+          "published": "Tue, 12 May 2026 20:08:56 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Барселона размислува за тужба против Флорентино Перез поради сериозни обвинувања",
+          "link": "https://makfax.com.mk/sport/barselona-razmisluva-za-tuzhba-protiv-florentino-perez-poradi-seriozni-obvinuvanja/",
+          "published": "Tue, 12 May 2026 19:56:57 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Познати се полуфиналните двојки на Ф4 на Лигата на шампионите",
+          "link": "https://makfax.com.mk/sport/poznati-se-polufinalnite-dvojki-na-f4-na-ligata-na-shampionite/",
+          "published": "Tue, 12 May 2026 19:47:57 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Флорентино Перез „удри“ по новинарите: Сите сте грди",
+          "link": "https://makfax.com.mk/sport/florentino-perez-udri-po-novinarite-site-ste-grdi/",
+          "published": "Tue, 12 May 2026 19:35:23 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) Трамп до новинарка: Ја дуплирав големината на балската сала, глупава личност",
+          "link": "https://makfax.com.mk/svet/video-tramp-do-novinarka-ja-duplirav-goleminata-na-balskata-sala-glupava-lichnost/",
+          "published": "Tue, 12 May 2026 19:32:16 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Шмит потврди повлекување во ОН, САД објавиja крај на меѓународната супервизија над БиХ",
-          "link": "https://netpress.com.mk/shmit-potvrdi-povlekuvane-vo-on-sad-objavija-kraj-na-megunarodnata-supervizija-nad-bih/",
-          "published": "Tue, 12 May 2026 19:13:10 +0000"
+          "title": "УЕФА ги казни Шахтјор и АЕК за дискриминација",
+          "link": "https://netpress.com.mk/uefa-gi-kazni-shahtjor-i-aek-za-diskriminaczija/",
+          "published": "Tue, 12 May 2026 20:40:36 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Италијански суд призна дека дете има три родителa",
-          "link": "https://netpress.com.mk/italijanski-sud-prizna-deka-dete-ima-tri-roditela/",
-          "published": "Tue, 12 May 2026 18:35:57 +0000"
+          "title": "Инфлацијата во САД повторно забрза во април, најсилно во три години",
+          "link": "https://netpress.com.mk/inflaczijata-vo-sad-povtorno-zabrza-vo-april-najsilno-vo-tri-godini/",
+          "published": "Tue, 12 May 2026 20:24:12 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Цените на нафтата скокнаа поради застојот во мировниот процес меѓу САД и Иран",
-          "link": "https://netpress.com.mk/czenite-na-naftata-skoknaa-poradi-zastojot-vo-mirovniot-proczes-megu-sad-i-iran/",
-          "published": "Tue, 12 May 2026 17:43:43 +0000"
+          "title": "Матијас Фернандез-Пардо ја избра Белгија пред Шпанија и Италија",
+          "link": "https://netpress.com.mk/matijas-fernandez-pardo-ja-izbra-belgija-pred-shpanija-i-italija/",
+          "published": "Tue, 12 May 2026 20:07:05 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Демарш од МНР за бугарскиот амбасадор поради  употребата на „северномакедонски“",
-          "link": "https://netpress.com.mk/demarsh-od-mnr-za-bugarskiot-ambasador-poradi-upotrebata-na-severnomakedonski/",
-          "published": "Tue, 12 May 2026 17:32:05 +0000"
+          "title": "Директор на училиште во Штип допирал по тело ученички",
+          "link": "https://netpress.com.mk/direktor-na-uchilishte-vo-shtip-dopiral-po-telo-uchenichki/",
+          "published": "Tue, 12 May 2026 19:48:14 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Писториус: Украина има моментум против Русија",
-          "link": "https://netpress.com.mk/pistorius-ukraina-ima-momentum-protiv-rusija/",
-          "published": "Tue, 12 May 2026 17:22:30 +0000"
+          "title": "Трамп вели дека не му е потребна помош од Кси со Иран",
+          "link": "https://netpress.com.mk/tramp-veli-deka-ne-mu-e-potrebna-pomosh-od-ksi-so-iran/",
+          "published": "Tue, 12 May 2026 19:45:56 +0000"
         }
       ]
     },
@@ -65,9 +89,9 @@
         },
         {
           "source": "BBC",
-          "title": "Lebanon says two paramedics among 10 killed in Israeli strikes",
+          "title": "Lebanon says two paramedics among 13 killed in Israeli strikes",
           "link": "https://www.bbc.com/news/articles/cx21j3xl72zo?at_medium=RSS&at_campaign=rss",
-          "published": "Tue, 12 May 2026 17:17:54 GMT"
+          "published": "Tue, 12 May 2026 20:00:05 GMT"
         },
         {
           "source": "BBC",
@@ -83,33 +107,33 @@
         },
         {
           "source": "Al Jazeera",
-          "title": "‘Cotton picking’: US lawmaker condemned for racist comment about Jeffries",
-          "link": "https://www.aljazeera.com/news/2026/5/12/cotton-picking-us-lawmaker-condemned-for-racist-comment-about-jeffries?traffic_source=rss",
-          "published": "Tue, 12 May 2026 18:23:06 +0000"
+          "title": "Trump backs Pakistan as Iran mediator after criticism from Lindsey Graham",
+          "link": "https://www.aljazeera.com/news/2026/5/12/trump-backs-pakistan-as-iran-mediator-after-criticism-from-lindsey-graham?traffic_source=rss",
+          "published": "Tue, 12 May 2026 20:24:30 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Kevin Warsh confirmed to US Federal Reserve board in close Senate vote",
-          "link": "https://www.aljazeera.com/economy/2026/5/12/kevin-warsh-confirmed-to-us-federal-reserve-board-in-close-senate-vote?traffic_source=rss",
-          "published": "Tue, 12 May 2026 18:13:39 +0000"
+          "title": "Why have peace efforts failed to end conflict in Sudan?",
+          "link": "https://www.aljazeera.com/video/inside-story/2026/5/12/why-have-peace-efforts-failed-to-end-conflict-in-sudan?traffic_source=rss",
+          "published": "Tue, 12 May 2026 19:54:05 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Serbia hosts first joint military exercise with NATO",
-          "link": "https://www.aljazeera.com/news/2026/5/12/serbia-hosts-first-joint-military-exercise-with-nato?traffic_source=rss",
-          "published": "Tue, 12 May 2026 18:02:35 +0000"
+          "title": "Red Cross says people displaced by conflict in Colombia doubled last year",
+          "link": "https://www.aljazeera.com/news/2026/5/12/red-cross-says-people-displaced-by-conflict-in-colombia-doubled-last-year?traffic_source=rss",
+          "published": "Tue, 12 May 2026 19:52:10 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Voters head to the polls in the Bahamas for high-stakes snap election",
-          "link": "https://www.aljazeera.com/news/2026/5/12/voters-head-to-the-polls-in-the-bahamas-for-high-stakes-snap-election?traffic_source=rss",
-          "published": "Tue, 12 May 2026 18:00:09 +0000"
+          "title": "Why is Iran increasingly targeting the UAE in its war messaging?",
+          "link": "https://www.aljazeera.com/news/2026/5/12/why-is-iran-increasingly-targeting-the-uae-in-its-war-messaging?traffic_source=rss",
+          "published": "Tue, 12 May 2026 19:37:09 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Israel sent Iron Dome anti-missile batteries and personnel to UAE: US envoy",
-          "link": "https://www.aljazeera.com/news/2026/5/12/israel-sent-iron-dome-anti-missile-batteries-and-personnel-to-uae-us-envoy?traffic_source=rss",
-          "published": "Tue, 12 May 2026 17:49:22 +0000"
+          "title": "Ukraine hits Russia’s distant gas facilities after Moscow’s attacks kill 6",
+          "link": "https://www.aljazeera.com/news/2026/5/12/russia-ukraine-latest?traffic_source=rss",
+          "published": "Tue, 12 May 2026 19:36:36 +0000"
         }
       ]
     }
