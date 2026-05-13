@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-12T23:14:15Z",
+  "generated_at": "2026-05-13T00:13:50Z",
   "items": [
     {
       "region": "Македонија",
@@ -109,6 +109,20 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "Chinese firm unveils ‘transformer’ style manned robot",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/12/chinese-firm-unveils-transformer-style-manned-robot?traffic_source=rss",
+      "published": "Tue, 12 May 2026 23:42:47 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Honduras mayor arrested for masterminding environmentalist’s killing",
+      "link": "https://www.aljazeera.com/news/2026/5/12/honduras-mayor-arrested-for-masterminding-environmentalists-killing?traffic_source=rss",
+      "published": "Tue, 12 May 2026 23:19:53 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "Sam Altman says Elon Musk wanted 90 percent of OpenAI in high-stakes trial",
       "link": "https://www.aljazeera.com/news/2026/5/12/sam-altman-says-elon-musk-wanted-90-percent-of-openai-in-high-stakes-trial?traffic_source=rss",
       "published": "Tue, 12 May 2026 22:09:35 +0000"
@@ -126,20 +140,6 @@
       "title": "Trump downplays US-Iran differences as he heads to Beijing to meet with Xi",
       "link": "https://www.aljazeera.com/news/2026/5/12/trump-downplays-us-iran-differences-as-he-heads-to-beijing-to-meet-with-xi?traffic_source=rss",
       "published": "Tue, 12 May 2026 21:02:19 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "US court pauses decision blocking Trump’s 10 percent global tariff",
-      "link": "https://www.aljazeera.com/economy/2026/5/12/us-court-pauses-decision-blocking-trumps-10-percent-global-tariff?traffic_source=rss",
-      "published": "Tue, 12 May 2026 21:00:53 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Cannes juror denounces Hollywood boycott of actors for Gaza war views",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/12/cannes-juror-denounces-hollywood-boycott-of-actors-for-gaza-war-views?traffic_source=rss",
-      "published": "Tue, 12 May 2026 20:55:57 +0000"
     }
   ]
 }
