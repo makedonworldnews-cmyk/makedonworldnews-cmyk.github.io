@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-13T21:26:57Z",
+  "updatedAt": "2026-05-13T22:46:17Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) Интер го освои Купот на Италија",
+          "link": "https://makfax.com.mk/sport/video-inter-go-osvoi-kupot-na-italija/",
+          "published": "Wed, 13 May 2026 21:33:01 +0000"
         },
         {
           "source": "Makfax",
@@ -35,40 +41,34 @@
           "published": "Wed, 13 May 2026 20:10:42 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Лондон: 4.000 полицајци на улиците поради најавени масовни протести",
-          "link": "https://makfax.com.mk/svet/london-4-000-policajci-na-ulicite-poradi-najaveni-masovni-protesti/",
-          "published": "Wed, 13 May 2026 20:09:47 +0000"
+          "source": "NetPress",
+          "title": "Ла Лига: Алавес ја победи Барселона и ја напушти зоната на испаѓање",
+          "link": "https://netpress.com.mk/la-liga-alaves-ja-pobedi-barselona-i-ja-napushti-zonata-na-ispagane/",
+          "published": "Wed, 13 May 2026 22:17:07 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Сиљановска-Давкова за судството: Не може веднаш да ставите крај на нешто што се развивало до степен ненормалното да стане нормално",
-          "link": "https://netpress.com.mk/silanovska-davkova-za-sudstvoto-ne-mozhe-vednash-da-stavite-kraj-na-neshto-shto-se-razvivalo-do-stepen-nenormalnoto-da-stane-normalno/",
-          "published": "Wed, 13 May 2026 21:19:07 +0000"
+          "title": "Интер го освои Купот на Италија по десетти пат",
+          "link": "https://netpress.com.mk/inter-go-osvoi-kupot-na-italija-po-desetti-pat/",
+          "published": "Wed, 13 May 2026 22:01:32 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Снабдувачот на Метју Пери со кетамин осуден на две години затвор",
-          "link": "https://netpress.com.mk/snabduvachot-na-metju-peri-so-ketamin-osuden-na-dve-godini-zatvor/",
-          "published": "Wed, 13 May 2026 21:05:56 +0000"
+          "title": "Премиер лига: Сити победи и му се доближи на Арсенал",
+          "link": "https://netpress.com.mk/premier-liga-siti-pobedi-i-mu-se-doblizhi-na-arsenal/",
+          "published": "Wed, 13 May 2026 21:52:44 +0000"
         },
         {
           "source": "NetPress",
-          "title": "„Пановиот лавиринт“ се враќа во Кан 20 години по рекордните стоечки овации",
-          "link": "https://netpress.com.mk/panoviot-lavirint-se-vraka-vo-kan-20-godini-po-rekordnite-stoechki-ovaczii/",
-          "published": "Wed, 13 May 2026 20:45:49 +0000"
+          "title": "Јаневска: Студентскиот дом „Гоце Делчев“ има директор, ќе се изврши дератизација и дезинфекција",
+          "link": "https://netpress.com.mk/janevska-studentskiot-dom-gocze-delchev-ima-direktor-ke-se-izvrshi-deratizaczija-i-dezinfekczija/",
+          "published": "Wed, 13 May 2026 21:39:15 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Германскиот автомобилски сектор ќе изгуби 225.000 работни места",
-          "link": "https://netpress.com.mk/germanskiot-avtomobilski-sektor-ke-izgubi-225-000-rabotni-mesta/",
-          "published": "Wed, 13 May 2026 20:22:54 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "На Јужна Кореја ѝ се заканува голем штрајк откако „Samsung“ и синдикатот не постигнаа договор",
-          "link": "https://netpress.com.mk/na-juzhna-koreja-%d1%9d-se-zakanuva-golem-shtrajk-otkako-samsung-i-sindikatot-ne-postignaa-dogovor/",
-          "published": "Wed, 13 May 2026 20:07:02 +0000"
+          "title": "Потребни ни се правни и политички гаранции од ЕУ, бугарските позиции беа познати уште во 2018.",
+          "link": "https://netpress.com.mk/potrebni-ni-se-pravni-i-politichki-garanczii-od-eu-bugarskite-poziczii-bea-poznati-ushte-vo-2018/",
+          "published": "Wed, 13 May 2026 21:34:19 +0000"
         }
       ]
     },
@@ -107,6 +107,24 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Man City beat Palace to close gap with Arsenal to 2, with two games to play",
+          "link": "https://www.aljazeera.com/sports/2026/5/13/man-city-beat-palace-to-close-the-gap-to-arsenal-to-two-with-two-to-play?traffic_source=rss",
+          "published": "Wed, 13 May 2026 21:58:39 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Trump taps David Venturella, former private prison executive, to lead ICE",
+          "link": "https://www.aljazeera.com/news/2026/5/13/trump-taps-david-venturella-former-private-prison-executive-to-lead-ice?traffic_source=rss",
+          "published": "Wed, 13 May 2026 21:48:11 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Funeral held for two Lebanese paramedics killed in Israeli attack",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/5/13/funeral-held-for-two-lebanese-paramedics-killed-in-israeli-attack?traffic_source=rss",
+          "published": "Wed, 13 May 2026 21:15:59 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "As Trump readies to meet Xi, experts say he is ‘desperate for a win’",
           "link": "https://www.aljazeera.com/economy/2026/5/13/as-trump-readies-to-meet-xi-experts-say-he-is-desperate-for-a-win?traffic_source=rss",
           "published": "Wed, 13 May 2026 21:12:41 +0000"
@@ -116,24 +134,6 @@
           "title": "Philip Davis and Progressive Liberal Party win general election in Bahamas",
           "link": "https://www.aljazeera.com/news/2026/5/13/philip-davis-and-progressive-liberal-party-win-general-election-in-bahamas?traffic_source=rss",
           "published": "Wed, 13 May 2026 21:07:45 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Why Louisiana paused its US House primary election amid redistricting push",
-          "link": "https://www.aljazeera.com/news/2026/5/13/why-louisiana-paused-its-us-house-primary-election-amid-redistricting-push?traffic_source=rss",
-          "published": "Wed, 13 May 2026 21:00:28 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Crowds gather in Tehran to send off Iran’s World Cup team",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/5/13/crowds-gather-in-tehran-to-send-off-irans-world-cup-team?traffic_source=rss",
-          "published": "Wed, 13 May 2026 20:54:04 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "US waives visa bonds of up to $15,000 for FIFA World Cup ticket holders",
-          "link": "https://www.aljazeera.com/sports/2026/5/13/us-waives-visa-bonds-of-up-to-15000-for-fifa-world-cup-ticket-holders?traffic_source=rss",
-          "published": "Wed, 13 May 2026 20:48:42 +0000"
         }
       ]
     }
