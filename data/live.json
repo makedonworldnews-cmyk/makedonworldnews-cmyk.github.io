@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-14T21:53:55Z",
+  "generated_at": "2026-05-14T22:50:06Z",
   "items": [
     {
       "region": "Македонија",
@@ -39,6 +39,13 @@
     {
       "region": "Македонија",
       "source": "NetPress",
+      "title": "Ла Лига: Победа на Реал, навивачите го исвиркаа Мбапе",
+      "link": "https://netpress.com.mk/la-liga-pobeda-na-real-navivachite-go-isvirkaa-mbape/",
+      "published": "Thu, 14 May 2026 22:06:59 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "NetPress",
       "title": "Дерби дела Капитале сепак в недела напладне",
       "link": "https://netpress.com.mk/derbi-dela-kapitale-sepak-v-nedela-napladne/",
       "published": "Thu, 14 May 2026 21:47:16 +0000"
@@ -63,13 +70,6 @@
       "title": "АТП Рим: Медведев во полуфиналето",
       "link": "https://netpress.com.mk/atp-rim-medvedev-vo-polufinaleto/",
       "published": "Thu, 14 May 2026 20:42:01 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Уапсени 10 возачи, половината од нив возеле без дозвола – двајца се малолетници",
-      "link": "https://netpress.com.mk/uapseni-10-vozachi-polovinata-od-niv-vozele-bez-dozvola-dvajcza-se-maloletniczi/",
-      "published": "Thu, 14 May 2026 20:23:17 +0000"
     },
     {
       "region": "Свет",
@@ -109,6 +109,20 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "Cuba’s Diaz-Canel open to US aid amid worsening fuel crisis, blackouts",
+      "link": "https://www.aljazeera.com/news/2026/5/14/cubas-diaz-canel-open-to-us-aid-amid-worsening-fuel-crisis-blackouts?traffic_source=rss",
+      "published": "Thu, 14 May 2026 22:30:06 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Closing arguments begin in Elon Musk’s landmark lawsuit against OpenAI",
+      "link": "https://www.aljazeera.com/economy/2026/5/14/closing-arguments-begin-in-elon-musks-landmark-lawsuit-against-openai?traffic_source=rss",
+      "published": "Thu, 14 May 2026 22:12:47 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "Could Iran war trigger a hunger crisis?",
       "link": "https://www.aljazeera.com/video/counting-the-cost/2026/5/14/could-iran-war-trigger-a-hunger-crisis?traffic_source=rss",
       "published": "Thu, 14 May 2026 21:00:00 +0000"
@@ -126,20 +140,6 @@
       "title": "Border Patrol chief Mike Banks resigns in latest Trump immigration shakeup",
       "link": "https://www.aljazeera.com/news/2026/5/14/border-patrol-chief-mike-banks-resigns-in-latest-trump-immigration-shakeup?traffic_source=rss",
       "published": "Thu, 14 May 2026 20:55:16 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Cautious optimism in Lebanon as direct talks with Israel progress",
-      "link": "https://www.aljazeera.com/news/2026/5/14/cautious-optimism-in-lebanon-as-direct-talks-with-israel-progress?traffic_source=rss",
-      "published": "Thu, 14 May 2026 20:25:19 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Iran’s FM urges BRICS states to condemn US-Israeli aggression",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/14/irans-fm-urges-brics-states-to-condemn-us-israeli-aggression?traffic_source=rss",
-      "published": "Thu, 14 May 2026 20:20:48 +0000"
     }
   ]
 }
