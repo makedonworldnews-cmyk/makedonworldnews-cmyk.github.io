@@ -1,6 +1,13 @@
 {
-  "generated_at": "2026-05-16T17:42:42Z",
+  "generated_at": "2026-05-16T18:40:54Z",
   "items": [
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "Сент Паули и Ханденхајм испаднаа, Волфсбург ќе игра бараж за опстанок, Лајпциг и Штутгарт се пласираа во ЛШ",
+      "link": "https://makfax.com.mk/sport/sent-pauli-i-handenhajm-ispadnaa-volfsburg-ke-igra-barazh-za-opstanok-lajpcig-i-shtutgart-se-plasiraa-vo-lsh/",
+      "published": "Sat, 16 May 2026 17:51:59 +0000"
+    },
     {
       "region": "Македонија",
       "source": "Makfax",
@@ -31,10 +38,24 @@
     },
     {
       "region": "Македонија",
-      "source": "Makfax",
-      "title": "(Видео) Магијата на Семењо – Сити го освои ФА купот",
-      "link": "https://makfax.com.mk/sport/video-magijata-na-semenjo-siti-go-osvoi-fa-kupot/",
-      "published": "Sat, 16 May 2026 16:15:00 +0000"
+      "source": "NetPress",
+      "title": "Манчестер Сити го освои ФА Купот",
+      "link": "https://netpress.com.mk/manchester-siti-go-osvoi-fa-kupot/",
+      "published": "Sat, 16 May 2026 18:36:00 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "NetPress",
+      "title": "Со автомобил се забил во пешаци во Модена, седум повредени",
+      "link": "https://netpress.com.mk/so-avtomobil-se-zabil-vo-peshaczi-vo-modena-sedum-povredeni/",
+      "published": "Sat, 16 May 2026 18:23:26 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "NetPress",
+      "title": "СДСМ: Како изгледа „бизнисот“ на Максо и неговиот кум",
+      "link": "https://netpress.com.mk/sdsm-kako-izgleda-biznisot-na-makso-i-negoviot-kum/",
+      "published": "Sat, 16 May 2026 18:10:06 +0000"
     },
     {
       "region": "Македонија",
@@ -49,27 +70,6 @@
       "title": "Намалените акцизи и ДДВ-то за горивата ќе важат до 1 јуни",
       "link": "https://netpress.com.mk/namalenite-akczizi-i-ddv-to-za-gorivata-ke-vazhat-do-1-juni/",
       "published": "Sat, 16 May 2026 17:04:10 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Фатен возачот кој прегази две жени во Радишани и избега",
-      "link": "https://netpress.com.mk/faten-vozachot-koj-pregazi-dve-zheni-vo-radishani-i-izbega/",
-      "published": "Sat, 16 May 2026 16:55:14 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Извештајот на странските експерти отвори прашања за дијагностиката, а не потврди „непотребни операции“",
-      "link": "https://netpress.com.mk/izveshtajot-na-stranskite-eksperti-otvori-prashana-za-dijagnostikata-a-ne-potvrdi-nepotrebni-operaczii/",
-      "published": "Sat, 16 May 2026 16:10:46 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "ВИДЕО| Делчево доби нов парк во чест на 150 години Разловечко востание",
-      "link": "https://netpress.com.mk/video-delchevo-dobi-nov-park-vo-chest-na-150-godini-razlovechko-vostanie/",
-      "published": "Sat, 16 May 2026 16:05:02 +0000"
     },
     {
       "region": "Свет",
@@ -109,6 +109,13 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "UK ex-health minister says will run to replace Prime Minister Keir Starmer",
+      "link": "https://www.aljazeera.com/news/2026/5/16/uk-ex-health-minister-says-will-run-to-replace-prime-minister-keir-starmer?traffic_source=rss",
+      "published": "Sat, 16 May 2026 17:32:31 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "Al Jazeera’s exclusive report from the Strait of Hormuz",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/5/16/al-jazeeras-exclusive-report-from-the-strait-of-hormuz?traffic_source=rss",
       "published": "Sat, 16 May 2026 16:59:26 +0000"
@@ -133,13 +140,6 @@
       "title": "Hamas confirms killing of Qassam Brigades leader in Israeli attack",
       "link": "https://www.aljazeera.com/news/2026/5/16/hamas-confirms-killing-of-top-hamas-leader-in-israeli-attack?traffic_source=rss",
       "published": "Sat, 16 May 2026 16:02:33 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Abu-Bilal al-Minuki: ISIL’s shadow commander in West Africa",
-      "link": "https://www.aljazeera.com/news/2026/5/16/abu-bilal-al-minuki-isils-shadow-commander-in-west-africa?traffic_source=rss",
-      "published": "Sat, 16 May 2026 15:58:15 +0000"
     }
   ]
 }
