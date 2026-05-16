@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-16T15:29:30Z",
+  "updatedAt": "2026-05-16T16:30:32Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,24 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "ЗНАМ: Истите тие што ја распродаваа Македонија парче по парче денес држат пресови за наводна корупција",
+          "link": "https://makfax.com.mk/makedonija/znam-istite-tie-shto-ja-rasprodavaa-makedonija-parche-po-parche-denes-drzhat-presovi-za-navodna-korupcija/",
+          "published": "Sat, 16 May 2026 16:23:25 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) Магијата на Семењо – Сити го освои ФА купот",
+          "link": "https://makfax.com.mk/sport/video-magijata-na-semenjo-siti-go-osvoi-fa-kupot/",
+          "published": "Sat, 16 May 2026 16:15:00 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "ОЈО бара притвор за маж кој со шлаканици ја претепал жената",
+          "link": "https://makfax.com.mk/makedonija/ojo-bara-pritvor-za-mazh-koj-so-shlakanici-ja-pretepal-zhenata/",
+          "published": "Sat, 16 May 2026 15:31:34 +0000"
         },
         {
           "source": "Makfax",
@@ -23,52 +41,34 @@
           "published": "Sat, 16 May 2026 14:11:29 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "(Видео) Маеда му пресуди на Хартс во 88-та минута – Селтик ја одбрани титулата",
-          "link": "https://makfax.com.mk/sport/video-maeda-mu-presudi-na-harts-vo-88-ta-minuta-seltik-ja-odbrani-titulata/",
-          "published": "Sat, 16 May 2026 14:02:57 +0000"
+          "source": "NetPress",
+          "title": "Извештајот на странските експерти отвори прашања за дијагностиката, а не потврди „непотребни операции“",
+          "link": "https://netpress.com.mk/izveshtajot-na-stranskite-eksperti-otvori-prashana-za-dijagnostikata-a-ne-potvrdi-nepotrebni-operaczii/",
+          "published": "Sat, 16 May 2026 16:10:46 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Утре затворени улици низ Скопје",
-          "link": "https://makfax.com.mk/makedonija/utre-zatvoreni-ulici-niz-skopje/",
-          "published": "Sat, 16 May 2026 13:56:13 +0000"
+          "source": "NetPress",
+          "title": "ВИДЕО| Делчево доби нов парк во чест на 150 години Разловечко востание",
+          "link": "https://netpress.com.mk/video-delchevo-dobi-nov-park-vo-chest-na-150-godini-razlovechko-vostanie/",
+          "published": "Sat, 16 May 2026 16:05:02 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Спринтот во Каталуња за Алекс Маркез, Мартин повотрно падна",
-          "link": "https://makfax.com.mk/sport/sprintot-vo-katalunja-za-aleks-markez-martin-povotrno-padna/",
-          "published": "Sat, 16 May 2026 13:50:59 +0000"
+          "source": "NetPress",
+          "title": "Прегазил две жени, па избегал",
+          "link": "https://netpress.com.mk/pregazil-dve-zheni-pa-izbegal/",
+          "published": "Sat, 16 May 2026 15:57:34 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Булеварот „Борис Трајковски“ ќе биде готов предвреме",
+          "link": "https://netpress.com.mk/bulevarot-boris-trajkovski-ke-bide-gotov-predvreme/",
+          "published": "Sat, 16 May 2026 15:34:28 +0000"
         },
         {
           "source": "NetPress",
           "title": "Ја удирал со клоци, шлаканици и мобилен телефон поранешната партнерка, Обвинителството бара притвор",
           "link": "https://netpress.com.mk/ja-udiral-so-kloczi-shlakaniczi-i-mobilen-telefon-poraneshnata-partnerka-obvinitelstvoto-bara-pritvor/",
           "published": "Sat, 16 May 2026 15:27:35 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "ВИДЕО| Aвион со 132 патници се излизга на пистата во Сплит, нема повредени патници",
-          "link": "https://netpress.com.mk/video-avion-so-132-patniczi-se-izlizga-na-pistata-vo-split-nema-povredeni-patniczi/",
-          "published": "Sat, 16 May 2026 15:22:41 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "ВИДЕО| Се запали автобус на автопатот Велес-Скопје",
-          "link": "https://netpress.com.mk/video-se-zapali-avtobus-na-avtopatot-veles-skopje/",
-          "published": "Sat, 16 May 2026 15:11:40 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "АТП Рим: Во продолжението на мечот Синер го победи Медведев и се пласираше во финалето",
-          "link": "https://netpress.com.mk/atp-rim-vo-prodolzhenieto-na-mechot-siner-go-pobedi-medvedev-i-se-plasirashe-vo-finaleto/",
-          "published": "Sat, 16 May 2026 15:05:17 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Машина за балирање сено му ја отсекло ракта, ја земал со себе и отишол во болница",
-          "link": "https://netpress.com.mk/mashina-za-balirane-seno-mu-ja-otseklo-rakta-ja-zemal-so-sebe-i-otishol-vo-bolnicza/",
-          "published": "Sat, 16 May 2026 15:02:37 +0000"
         }
       ]
     },
@@ -97,7 +97,7 @@
           "source": "BBC",
           "title": "Toddlers among more than 50 schoolchildren kidnapped in Nigeria",
           "link": "https://www.bbc.com/news/articles/c202vrxlwqgo?at_medium=RSS&at_campaign=rss",
-          "published": "Sat, 16 May 2026 13:55:14 GMT"
+          "published": "Sat, 16 May 2026 15:50:09 GMT"
         },
         {
           "source": "BBC",
@@ -107,33 +107,33 @@
         },
         {
           "source": "Al Jazeera",
-          "title": "Tens of thousands march in London in far-right and pro-Palestine protests",
-          "link": "https://www.aljazeera.com/news/2026/5/16/tens-of-thousands-march-in-london-in-far-right-and-pro-palestine-protests?traffic_source=rss",
-          "published": "Sat, 16 May 2026 13:59:39 +0000"
+          "title": "Hamas confirms killing of Qassam Brigades leader in Israeli attack",
+          "link": "https://www.aljazeera.com/news/2026/5/16/hamas-confirms-killing-of-top-hamas-leader-in-israeli-attack?traffic_source=rss",
+          "published": "Sat, 16 May 2026 16:02:33 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Zimbabwe’s diaspora reshapes real estate and farming investment trends",
-          "link": "https://www.aljazeera.com/features/2026/5/16/zimbabwes-diaspora-reshapes-real-estate-and-farming-investment-trends?traffic_source=rss",
-          "published": "Sat, 16 May 2026 13:09:50 +0000"
+          "title": "Abu-Bilal al-Minuki: ISIL’s shadow commander in West Africa",
+          "link": "https://www.aljazeera.com/news/2026/5/16/abu-bilal-al-minuki-isils-shadow-commander-in-west-africa?traffic_source=rss",
+          "published": "Sat, 16 May 2026 15:58:15 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Mexico teachers threaten World Cup disruption over pay",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/5/16/mexico-teachers-threaten-world-cup-disruption-over-pay?traffic_source=rss",
-          "published": "Sat, 16 May 2026 13:01:16 +0000"
+          "title": "Iran warns of readiness for war and economic costs as US talks falter",
+          "link": "https://www.aljazeera.com/news/2026/5/16/iran_warns_of_readiness_for_war_and_economic_costs_as_us_talks_falter?traffic_source=rss",
+          "published": "Sat, 16 May 2026 15:33:13 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Moment of deadly train crash in Bangkok",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/5/16/moment-of-deadly-train-crash-in-bangkok?traffic_source=rss",
-          "published": "Sat, 16 May 2026 12:21:55 +0000"
+          "title": "How Thomas Massie came to represent Republican dissent in age of Trump",
+          "link": "https://www.aljazeera.com/news/2026/5/16/how-thomas-massie-came-to-represent-republican-dissent-in-age-of-trump?traffic_source=rss",
+          "published": "Sat, 16 May 2026 15:21:57 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Ultra-Orthodox conscription dispute pushes Israeli government to brink",
-          "link": "https://www.aljazeera.com/news/2026/5/16/how-ultra-orthodox_recruitment_could_unseat_netanyahu_in_israeli_elections?traffic_source=rss",
-          "published": "Sat, 16 May 2026 12:06:33 +0000"
+          "title": "Israeli army kills Palestinian man, raids homes in occupied West Bank",
+          "link": "https://www.aljazeera.com/news/2026/5/16/israeli-army-kills-palestinian-man-raids-homes-in-occupied-west-bank?traffic_source=rss",
+          "published": "Sat, 16 May 2026 15:16:14 +0000"
         }
       ]
     }
