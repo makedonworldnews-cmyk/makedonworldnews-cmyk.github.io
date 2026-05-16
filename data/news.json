@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-16T11:34:29Z",
+  "updatedAt": "2026-05-16T12:42:05Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Хигиеничар во основно училиште во беровско село снимал ученици со мобилен телефон",
+          "link": "https://makfax.com.mk/crna-hronika/higienichar-vo-osnovno-uchilishte-vo-berovsko-selo-snimal-uchenici-so-mobilen-telefon/",
+          "published": "Sat, 16 May 2026 11:48:17 +0000"
         },
         {
           "source": "Makfax",
@@ -35,40 +41,34 @@
           "published": "Sat, 16 May 2026 10:28:56 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Во Чешка уапсен маж кој од црква украл череп стар речиси 800 години",
-          "link": "https://makfax.com.mk/svet/vo-cheshka-uapsen-mazh-koj-od-crkva-ukral-cherep-star-rechisi-800-godini/",
-          "published": "Sat, 16 May 2026 10:25:58 +0000"
+          "source": "NetPress",
+          "title": "ИДФ наредија евакуација на девет села во јужен Либан пред воздушните напади",
+          "link": "https://netpress.com.mk/idf-naredija-evakuaczija-na-devet-sela-vo-juzhen-liban-pred-vozdushnite-napadi/",
+          "published": "Sat, 16 May 2026 12:31:24 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Путин во официјална посета на Кина од 19 до 20 мај",
-          "link": "https://netpress.com.mk/putin-vo-oficzijalna-poseta-na-kina-od-19-do-20-maj/",
-          "published": "Sat, 16 May 2026 11:06:54 +0000"
+          "title": "Утре посебен режим на сообраќај во Скопје",
+          "link": "https://netpress.com.mk/utre-poseben-rezhim-na-soobrakaj-vo-skopje-4/",
+          "published": "Sat, 16 May 2026 12:29:23 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Договорот за продажба на оружје на Тајван е многу добра преговарачка алатка со Кина",
-          "link": "https://netpress.com.mk/dogovorot-za-prodazhba-na-oruzhje-na-tajvan-e-mnogu-dobra-pregovarachka-alatka-so-kina/",
-          "published": "Sat, 16 May 2026 10:42:52 +0000"
+          "title": "Министерството за спорт ја најостро ја осудува непримерната прослава на ФК Вардар",
+          "link": "https://netpress.com.mk/ministerstvoto-za-sport-ja-najostro-ja-osuduva-neprimernata-proslava-na-fk-vardar/",
+          "published": "Sat, 16 May 2026 12:26:40 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Кривична пријава за обид за разбојништво во Битола",
-          "link": "https://netpress.com.mk/krivichna-prijava-za-obid-za-razbojnishtvo-vo-bitola/",
-          "published": "Sat, 16 May 2026 10:19:01 +0000"
+          "title": "Три дена молк на СДСМ за деловните релации на Венко и Заеви во Бугарија",
+          "link": "https://netpress.com.mk/tri-dena-molk-na-sdsm-za-delovnite-relaczii-na-venko-i-zaevi-vo-bugarija/",
+          "published": "Sat, 16 May 2026 12:23:30 +0000"
         },
         {
           "source": "NetPress",
-          "title": "САД се подготвуваат за интензивно бомбардирање на Иран",
-          "link": "https://netpress.com.mk/sad-se-podgotvuvaat-za-intenzivno-bombardirane-na-iran/",
-          "published": "Sat, 16 May 2026 09:58:12 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Владата на Тајван го прогласи островот за независна нација по предупредувањето од Трамп",
-          "link": "https://netpress.com.mk/vladata-na-tajvan-go-proglasi-ostrovot-za-nezavisna-naczija-po-predupreduvaneto-od-tramp/",
-          "published": "Sat, 16 May 2026 09:23:00 +0000"
+          "title": "ФФМ го осуди навредливото и недолично однесување на ФК Вардар",
+          "link": "https://netpress.com.mk/ffm-go-osudi-navredlivoto-i-nedolichno-odnesuvane-na-fk-vardar/",
+          "published": "Sat, 16 May 2026 12:20:47 +0000"
         }
       ]
     },
@@ -79,7 +79,7 @@
           "source": "BBC",
           "title": "Senior IS leader killed in joint operation, US and Nigeria say",
           "link": "https://www.bbc.com/news/articles/cy72p2kpd03o?at_medium=RSS&at_campaign=rss",
-          "published": "Sat, 16 May 2026 11:04:36 GMT"
+          "published": "Sat, 16 May 2026 11:44:54 GMT"
         },
         {
           "source": "BBC",
@@ -107,33 +107,33 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Ultra-Orthodox conscription dispute pushes Israeli government to brink",
+          "link": "https://www.aljazeera.com/news/2026/5/16/how-ultra-orthodox_recruitment_could_unseat_netanyahu_in_israeli_elections?traffic_source=rss",
+          "published": "Sat, 16 May 2026 12:06:33 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Amid the fertiliser crisis, Africa has a chemical-free option: Agroecology",
+          "link": "https://www.aljazeera.com/opinions/2026/5/16/amid-the-fertiliser-crisis-africa-has-a-chemical-free-option?traffic_source=rss",
+          "published": "Sat, 16 May 2026 12:05:26 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Robert Lewandowski to leave Barcelona with his ‘mission complete’",
+          "link": "https://www.aljazeera.com/sports/2026/5/16/robert-lewandowski-to-leave-barcelona-with-his-mission-complete?traffic_source=rss",
+          "published": "Sat, 16 May 2026 12:02:02 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Israel’s Image Crisis: Becoming Too Big to Spin?",
+          "link": "https://www.aljazeera.com/video/the-listening-post/2026/5/16/israels-image-crisis-becoming-too-big-to-spin?traffic_source=rss",
+          "published": "Sat, 16 May 2026 11:24:43 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "LIVE: Chelsea vs Manchester City – FA Cup final",
           "link": "https://www.aljazeera.com/sports/liveblog/2026/5/16/live-chelsea-vs-manchester-city-fa-cup-final?traffic_source=rss",
           "published": "Sat, 16 May 2026 11:03:08 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "At least eight killed, 25 injured as train hits bus in Bangkok",
-          "link": "https://www.aljazeera.com/news/2026/5/16/at-least-eight-killed-25-injured-as-train-hits-bus-in-bangkok?traffic_source=rss",
-          "published": "Sat, 16 May 2026 10:43:06 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "How Kansas City became unlikely 2026 World Cup hosts for the US",
-          "link": "https://www.aljazeera.com/sports/2026/5/16/how-kansas-city-became-unlikely-2026-world-cup-hosts-for-the-us?traffic_source=rss",
-          "published": "Sat, 16 May 2026 10:41:17 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Israeli strikes on southern Lebanon continue despite ‘ceasefire’ extension",
-          "link": "https://www.aljazeera.com/news/2026/5/16/israeli-strikes-on-southern-lebanon-continue-despite-ceasefire-extension?traffic_source=rss",
-          "published": "Sat, 16 May 2026 10:34:53 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Israeli settler blindfolds and detains Palestinian in occupied West Bank",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/5/16/israeli-settler-blindfolds-and-detains-palestinian-in-occupied-west-bank?traffic_source=rss",
-          "published": "Sat, 16 May 2026 09:37:13 +0000"
         }
       ]
     }
