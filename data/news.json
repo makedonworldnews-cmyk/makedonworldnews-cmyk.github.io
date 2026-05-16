@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-16T21:30:58Z",
+  "updatedAt": "2026-05-16T22:27:10Z",
   "groups": [
     {
       "region": "Македонија",
@@ -107,6 +107,12 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Two presidential campaign staffers killed in Colombia as elections near",
+          "link": "https://www.aljazeera.com/news/2026/5/16/two-presidential-campaign-staffers-killed-in-colombia-as-elections-near?traffic_source=rss",
+          "published": "Sat, 16 May 2026 21:42:04 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Poll shows Lula and Bolsonaro tied before Brazil’s presidential election",
           "link": "https://www.aljazeera.com/news/2026/5/16/poll-shows-lula-and-bolsonaro-tied-before-brazils-presidential-election?traffic_source=rss",
           "published": "Sat, 16 May 2026 21:05:10 +0000"
@@ -128,12 +134,6 @@
           "title": "Thousands protest at Eurovision final as five countries boycott over Israel",
           "link": "https://www.aljazeera.com/news/2026/5/16/thousands-protest-at-eurovision-final-as-five-countries-boycott-over-israel?traffic_source=rss",
           "published": "Sat, 16 May 2026 20:31:57 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Can new Pakistan-Afghanistan tensions lead to another border clash?",
-          "link": "https://www.aljazeera.com/video/inside-story/2026/5/16/can-new-pakistan-afghanistan-tensions-lead-to-another-border-clash?traffic_source=rss",
-          "published": "Sat, 16 May 2026 20:00:48 +0000"
         }
       ]
     }
