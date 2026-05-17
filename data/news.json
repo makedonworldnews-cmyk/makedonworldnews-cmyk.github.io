@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-16T23:29:04Z",
+  "updatedAt": "2026-05-17T01:25:54Z",
   "groups": [
     {
       "region": "Македонија",
@@ -77,6 +77,12 @@
       "items": [
         {
           "source": "BBC",
+          "title": "Hezbollah drone strike videos show evolving tactics against Israel",
+          "link": "https://www.bbc.com/news/articles/c1j2zwe9g5no?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 16 May 2026 23:10:19 GMT"
+        },
+        {
+          "source": "BBC",
           "title": "Taiwan insists it is independent after Trump warning",
           "link": "https://www.bbc.com/news/articles/cx2132w81jqo?at_medium=RSS&at_campaign=rss",
           "published": "Sat, 16 May 2026 17:01:53 GMT"
@@ -100,40 +106,34 @@
           "published": "Sat, 16 May 2026 15:01:40 GMT"
         },
         {
-          "source": "BBC",
-          "title": "Whale found dead near Danish island after German rescue operation",
-          "link": "https://www.bbc.com/news/articles/c1l28lql137o?at_medium=RSS&at_campaign=rss",
-          "published": "Sat, 16 May 2026 17:01:28 GMT"
+          "source": "Al Jazeera",
+          "title": "Iraq’s new PM Ali al-Zaidi formally takes over",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/5/17/aje-onl-nf_clip-iraqs-new-pm-al-zaidi-formally-takes-over-160526?traffic_source=rss",
+          "published": "Sun, 17 May 2026 00:14:03 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Iran war live: Tehran plans tolls in Hormuz; Trump warns of ‘very bad time’",
+          "link": "https://www.aljazeera.com/news/liveblog/2026/5/17/iran-war-live-tehran-eyes-tolls-in-hormuz-trump-warns-of-very-bad-time?traffic_source=rss",
+          "published": "Sun, 17 May 2026 00:00:00 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Bolivia launches early-morning crackdown on roadblocks outside La Paz",
+          "link": "https://www.aljazeera.com/gallery/2026/5/16/bolivia-launches-early-morning-crackdown-on-roadblocks-outside-la-paz?traffic_source=rss",
+          "published": "Sat, 16 May 2026 23:24:54 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "German police assault protesters at Nakba anniversary rally",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/5/16/german-police-assault-protesters-at-nakba-anniversary-rally?traffic_source=rss",
+          "published": "Sat, 16 May 2026 22:59:59 +0000"
         },
         {
           "source": "Al Jazeera",
           "title": "Two presidential campaign staffers killed in Colombia as elections near",
           "link": "https://www.aljazeera.com/news/2026/5/16/two-presidential-campaign-staffers-killed-in-colombia-as-elections-near?traffic_source=rss",
           "published": "Sat, 16 May 2026 21:42:04 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Poll shows Lula and Bolsonaro tied before Brazil’s presidential election",
-          "link": "https://www.aljazeera.com/news/2026/5/16/poll-shows-lula-and-bolsonaro-tied-before-brazils-presidential-election?traffic_source=rss",
-          "published": "Sat, 16 May 2026 21:05:10 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Taiwan says it is an independent nation after Trump arms sale remarks",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/5/16/taiwan-says-it-is-an-independent-nation-after-trump-arms-sale-remarks?traffic_source=rss",
-          "published": "Sat, 16 May 2026 20:58:38 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Bolivian army attempts to clear roads after 11 days of protests",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/5/16/bolivian-army-attempts-to-clear-roads-after-11-days-of-protests?traffic_source=rss",
-          "published": "Sat, 16 May 2026 20:44:15 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Thousands protest at Eurovision final as five countries boycott over Israel",
-          "link": "https://www.aljazeera.com/news/2026/5/16/thousands-protest-at-eurovision-final-as-five-countries-boycott-over-israel?traffic_source=rss",
-          "published": "Sat, 16 May 2026 20:31:57 +0000"
         }
       ]
     }
