@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-17T14:57:05Z",
+  "updatedAt": "2026-05-17T16:01:49Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Црвена лента за пуштање во употреба на нов модерен затворен пазар во Виница",
+          "link": "https://makfax.com.mk/makedonija/crvena-lenta-za-pushtanje-vo-upotreba-na-nov-moderen-zatvoren-pazar-vo-vinica/",
+          "published": "Sun, 17 May 2026 15:03:17 +0000"
         },
         {
           "source": "Makfax",
@@ -35,40 +41,34 @@
           "published": "Sun, 17 May 2026 13:50:56 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Ограбен домот на Дел Потро, украдени трофеи, медали и семеен прстен",
-          "link": "https://makfax.com.mk/sport/ograben-domot-na-del-potro-ukradeni-trofei-medali-i-semeen-prsten/",
-          "published": "Sun, 17 May 2026 13:10:58 +0000"
+          "source": "NetPress",
+          "title": "Индиски работник меѓу загинатите во нападот со беспилотно летало во Подмосковје",
+          "link": "https://netpress.com.mk/indiski-rabotnik-megu-zaginatite-vo-napadot-so-bespilotno-letalo-vo-podmoskovje/",
+          "published": "Sun, 17 May 2026 15:51:49 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Тајван нема да биде жртвуван, му порача претседателот на Трамп",
-          "link": "https://netpress.com.mk/tajvan-nema-da-bide-zhrtvuvan-mu-poracha-pretsedatelot-na-tramp/",
-          "published": "Sun, 17 May 2026 14:32:13 +0000"
+          "title": "Дури 84 отсто од Германците се многу загрижени за состојбата на земјата",
+          "link": "https://netpress.com.mk/duri-84-otsto-od-germanczite-se-mnogu-zagrizheni-za-sostojbata-na-zemjata/",
+          "published": "Sun, 17 May 2026 15:22:29 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Дрон погоди нуклеарна централа во Обединетите Арапски Емирати, нема радиолошки последици",
-          "link": "https://netpress.com.mk/dron-pogodi-nuklearna-czentrala-vo-obedinetite-arapski-emirati-nema-radioloshki-poslediczi/",
-          "published": "Sun, 17 May 2026 14:21:25 +0000"
+          "title": "Филипче наместо да предлага „фронт за правда“, нека побара одговорност од поранешните функционери на СДСМ",
+          "link": "https://netpress.com.mk/filipche-namesto-da-predlaga-front-za-pravda-neka-pobara-odgovornost-od-poraneshnite-funkczioneri-na-sdsm/",
+          "published": "Sun, 17 May 2026 15:08:38 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Регулативата во Македонија за игрите на среќа ​е една од најстрогите во регионот и пошироко",
-          "link": "https://netpress.com.mk/regulativata-vo-makedonija-za-igrite-na-sreka-e-edna-od-najstrogite-vo-regionot-i-poshiroko/",
-          "published": "Sun, 17 May 2026 14:15:16 +0000"
+          "title": "Лазаров со две промени во составот за реваншот со Словачка",
+          "link": "https://netpress.com.mk/lazarov-so-dve-promeni-vo-sostavot-za-revanshot-so-slovachka/",
+          "published": "Sun, 17 May 2026 15:04:07 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Серија А: Победи на Наполи, Милан, Рома, Фиорентина и Комо победија",
-          "link": "https://netpress.com.mk/serija-a-pobedi-na-napoli-milan-roma-fiorentina-i-komo-pobedija/",
-          "published": "Sun, 17 May 2026 14:12:09 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Априлската плата Поштата на СМ ќе ја исплати утре",
-          "link": "https://netpress.com.mk/aprilskata-plata-poshtata-na-sm-ke-ja-isplati-utre/",
-          "published": "Sun, 17 May 2026 14:05:28 +0000"
+          "title": "САД ги вратија санкциите врз руската нафта",
+          "link": "https://netpress.com.mk/sad-gi-vratija-sankcziite-vrz-ruskata-nafta/",
+          "published": "Sun, 17 May 2026 15:01:59 +0000"
         }
       ]
     },
@@ -107,6 +107,24 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "US college graduates face harsh job market amid economic uncertainty",
+          "link": "https://www.aljazeera.com/economy/2026/5/17/us-college-graduates-face-harsh-job-market-amid-economic-uncertainty?traffic_source=rss",
+          "published": "Sun, 17 May 2026 15:41:27 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Taiwan not to give up ‘free way of life under pressure’: President",
+          "link": "https://www.aljazeera.com/news/2026/5/17/taiwan-not-to-give-up-free-way-of-life-under-pressure-president?traffic_source=rss",
+          "published": "Sun, 17 May 2026 15:37:59 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "What to know about Panama at the FIFA World Cup 2026",
+          "link": "https://www.aljazeera.com/sports/2026/5/17/what-to-know-about-panama-at-the-fifa-world-cup-2026?traffic_source=rss",
+          "published": "Sun, 17 May 2026 15:10:51 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "What to know about Georgia’s primary as Republicans set sights on Senate",
           "link": "https://www.aljazeera.com/news/2026/5/17/what-to-know-about-georgias-primary-as-republicans-set-sights-on-senate?traffic_source=rss",
           "published": "Sun, 17 May 2026 14:42:52 +0000"
@@ -116,24 +134,6 @@
           "title": "Is Christian Zionism in the US on a decline?",
           "link": "https://www.aljazeera.com/features/2026/5/17/is-christian-zionism-in-the-us-on-a-decline?traffic_source=rss",
           "published": "Sun, 17 May 2026 14:32:26 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Fabio Di Giannantonio wins shortened Catalan MotoGP after Marquez crash",
-          "link": "https://www.aljazeera.com/sports/2026/5/17/fabio-di-giannantonio-wins-shortened-catalan-motogp-after-marquez-crash?traffic_source=rss",
-          "published": "Sun, 17 May 2026 14:24:42 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Drone strike sparks fire on perimeter of UAE’s Barakah nuclear power plant",
-          "link": "https://www.aljazeera.com/news/2026/5/17/drone-strike-sparks-fire-at-uaes-barakah-nuclear-power-plant?traffic_source=rss",
-          "published": "Sun, 17 May 2026 14:07:07 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Son of Palestinian President Mahmoud Abbas elected to top Fatah body",
-          "link": "https://www.aljazeera.com/news/2026/5/17/son-of-palestinian-president-mahmoud-abbas-elected-to-top-fatah-body?traffic_source=rss",
-          "published": "Sun, 17 May 2026 14:03:43 +0000"
         }
       ]
     }
