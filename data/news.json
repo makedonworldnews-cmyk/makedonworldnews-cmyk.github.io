@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-17T20:30:46Z",
+  "updatedAt": "2026-05-17T21:33:06Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) Гризман со солзи во очите се збогува со навивачите на „Метрополитано“",
+          "link": "https://makfax.com.mk/sport/video-grizman-so-solzi-vo-ochite-se-zboguva-so-navivachite-na-metropolitano/",
+          "published": "Sun, 17 May 2026 20:34:00 +0000"
         },
         {
           "source": "Makfax",
@@ -35,10 +41,10 @@
           "published": "Sun, 17 May 2026 18:54:00 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Ракометарите го потврдија настапот на Светското првенство",
-          "link": "https://makfax.com.mk/sport/rakometarite-go-potvrdija-nastapot-na-svetskoto-prvenstvo/",
-          "published": "Sun, 17 May 2026 18:42:58 +0000"
+          "source": "NetPress",
+          "title": "Се судрија автомобил и мотоцикл кај Стара рампа, сообраќајот е блокиран",
+          "link": "https://netpress.com.mk/se-sudrija-avtomobil-i-motoczikl-kaj-stara-rampa-soobrakajot-e-blokiran/",
+          "published": "Sun, 17 May 2026 20:42:41 +0000"
         },
         {
           "source": "NetPress",
@@ -63,12 +69,6 @@
           "title": "Петмина убиени во израелски напади во Газа",
           "link": "https://netpress.com.mk/petmina-ubieni-vo-izraelski-napadi-vo-gaza/",
           "published": "Sun, 17 May 2026 19:48:18 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Вознемирувачко видео| Снимка од бруталното прегазување на пешаците во Модена",
-          "link": "https://netpress.com.mk/voznemiruvachko-video-snimka-od-brutalnoto-pregazuvane-na-peshaczite-vo-modena/",
-          "published": "Sun, 17 May 2026 19:20:50 +0000"
         }
       ]
     },
@@ -79,7 +79,7 @@
           "source": "BBC",
           "title": "WHO declares Ebola outbreak in DR Congo an international emergency",
           "link": "https://www.bbc.com/news/articles/c2l2p0wwzzdo?at_medium=RSS&at_campaign=rss",
-          "published": "Sun, 17 May 2026 13:00:26 GMT"
+          "published": "Sun, 17 May 2026 21:14:27 GMT"
         },
         {
           "source": "BBC",
@@ -97,7 +97,7 @@
           "source": "BBC",
           "title": "UAE reports strike near Abu Dhabi nuclear power plant",
           "link": "https://www.bbc.com/news/articles/cwy27pkj1l1o?at_medium=RSS&at_campaign=rss",
-          "published": "Sun, 17 May 2026 16:25:38 GMT"
+          "published": "Sun, 17 May 2026 20:53:45 GMT"
         },
         {
           "source": "BBC",
@@ -107,7 +107,19 @@
         },
         {
           "source": "Al Jazeera",
-          "title": "DRC struggling to contain ebola outbreak as cases spread",
+          "title": "‘Won’t be anything left’: Trump issues threat to Iran amid stalled talks",
+          "link": "https://www.aljazeera.com/news/2026/5/17/wont-be-anything-left-trump-issues-threat-to-iran-amid-stalled-talks?traffic_source=rss",
+          "published": "Sun, 17 May 2026 20:16:35 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Israel kills at least five in Lebanon after ‘ceasefire’ extended",
+          "link": "https://www.aljazeera.com/news/2026/5/17/israel-kills-five-in-lebanon-after-ceasefire-with-hezbollah-extended?traffic_source=rss",
+          "published": "Sun, 17 May 2026 20:16:14 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "DRC struggling to contain Ebola outbreak as cases spread",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/5/17/drc-struggling-to-contain-ebola-outbreak-as-cases-spread?traffic_source=rss",
           "published": "Sun, 17 May 2026 20:09:29 +0000"
         },
@@ -122,18 +134,6 @@
           "title": "Mexican officials announce 10 dead in early-morning shooting in Tehuitzingo",
           "link": "https://www.aljazeera.com/news/2026/5/17/mexican-officials-announce-10-dead-in-early-morning-shooting-in-tehuitzingo?traffic_source=rss",
           "published": "Sun, 17 May 2026 19:22:28 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Israel kills three Palestinians in strike on an aid kitchen in Gaza",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/5/17/israel-kills-three-palestinians-in-strike-on-an-aid-kitchen-in-gaza?traffic_source=rss",
-          "published": "Sun, 17 May 2026 19:15:21 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Peruvian authorities confirm Fujimori and Sanchez advance to runoff",
-          "link": "https://www.aljazeera.com/news/2026/5/17/peruvian-authorities-confirm-fujimori-and-sanchez-advance-to-runoff?traffic_source=rss",
-          "published": "Sun, 17 May 2026 18:29:29 +0000"
         }
       ]
     }
