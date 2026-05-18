@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-17T23:12:51Z",
+  "generated_at": "2026-05-18T00:11:40Z",
   "items": [
     {
       "region": "Македонија",
@@ -74,6 +74,13 @@
     {
       "region": "Свет",
       "source": "BBC",
+      "title": "Trump warns 'clock is ticking' for Iran as peace progress stalls",
+      "link": "https://www.bbc.com/news/articles/cd0p4y9y48xo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 17 May 2026 19:23:20 GMT"
+    },
+    {
+      "region": "Свет",
+      "source": "BBC",
       "title": "WHO declares Ebola outbreak in DR Congo an international emergency",
       "link": "https://www.bbc.com/news/articles/c2l2p0wwzzdo?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 17 May 2026 21:14:27 GMT"
@@ -88,23 +95,30 @@
     {
       "region": "Свет",
       "source": "BBC",
+      "title": "'This may be the last time you hear my voice': Political executions surge in Iran since start of war",
+      "link": "https://www.bbc.com/news/articles/cn8p392nl7yo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 17 May 2026 23:02:56 GMT"
+    },
+    {
+      "region": "Свет",
+      "source": "BBC",
       "title": "Large-scale Ukrainian drone attack kills three in Moscow region, says Russia",
       "link": "https://www.bbc.com/news/articles/c5ye480kxpmo?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 17 May 2026 14:18:23 GMT"
     },
     {
       "region": "Свет",
-      "source": "BBC",
-      "title": "UAE reports strike near Abu Dhabi nuclear power plant",
-      "link": "https://www.bbc.com/news/articles/cwy27pkj1l1o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 17 May 2026 20:53:45 GMT"
+      "source": "Al Jazeera",
+      "title": "Pakistan interior minister holds talks with Iranian president in Tehran",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/17/pakistan-interior-minister-holds-talks-with-iranian-president-in-tehran?traffic_source=rss",
+      "published": "Sun, 17 May 2026 23:28:25 +0000"
     },
     {
       "region": "Свет",
-      "source": "BBC",
-      "title": "Man drives car into pedestrians in Italy, injuring eight",
-      "link": "https://www.bbc.com/news/articles/cyv28pd4n22o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 17 May 2026 13:57:56 GMT"
+      "source": "Al Jazeera",
+      "title": "Trump holds prayer rally to ‘rededicate’ US as ‘one nation under God’",
+      "link": "https://www.aljazeera.com/gallery/2026/5/17/trump-holds-prayer-rally-to-rededicate-us-as-one-nation-under-god?traffic_source=rss",
+      "published": "Sun, 17 May 2026 22:54:49 +0000"
     },
     {
       "region": "Свет",
@@ -126,20 +140,6 @@
       "title": "DRC struggling to contain Ebola outbreak as cases spread",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/5/17/drc-struggling-to-contain-ebola-outbreak-as-cases-spread?traffic_source=rss",
       "published": "Sun, 17 May 2026 20:09:29 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Will the latest Ebola outbreak in DR Congo and Uganda spread further?",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/5/17/will-the-latest-ebola-outbreak-in-dr-congo-and-uganda-spread-further?traffic_source=rss",
-      "published": "Sun, 17 May 2026 19:52:09 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Mexican officials announce 10 dead in early-morning shooting in Tehuitzingo",
-      "link": "https://www.aljazeera.com/news/2026/5/17/mexican-officials-announce-10-dead-in-early-morning-shooting-in-tehuitzingo?traffic_source=rss",
-      "published": "Sun, 17 May 2026 19:22:28 +0000"
     }
   ]
 }
