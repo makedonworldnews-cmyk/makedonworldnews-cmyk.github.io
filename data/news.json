@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-21T19:20:44Z",
+  "updatedAt": "2026-05-21T21:12:03Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Трамп: САД на крајот ќе го преземат збогатениот ураниум на Иран",
+          "link": "https://makfax.com.mk/svet/tramp-sad-na-krajot-ke-go-prezemat-zbogateniot-uranium-na-iran/",
+          "published": "Thu, 21 May 2026 19:51:08 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Путин: Сите задачи на нуклеарните вежби се исполнети",
+          "link": "https://makfax.com.mk/svet/putin-nuklearnoto-oruzhje-e-poslednoto-sredstvo/",
+          "published": "Thu, 21 May 2026 19:41:05 +0000"
         },
         {
           "source": "Makfax",
@@ -29,16 +41,22 @@
           "published": "Thu, 21 May 2026 18:19:42 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Маѓар: Правата на Унгарците во Украина се услов за преговори со ЕУ",
-          "link": "https://makfax.com.mk/svet/magar-pravata-na-ungarcite-vo-ukraina-se-uslov-za-pregovori-so-eu/",
-          "published": "Thu, 21 May 2026 18:01:24 +0000"
+          "source": "NetPress",
+          "title": "Вучиќ за убиството и скандалот во врвот на полицијата: Ќе се справиме со „валканите полицајци“",
+          "link": "https://netpress.com.mk/vuchik-za-ubistvoto-i-skandalot-vo-vrvot-na-policzijata-ke-se-spravime-so-valkanite-policzajczi/",
+          "published": "Thu, 21 May 2026 20:57:23 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Еден месец нема одговор од Мицкоски и Филков зошто не се испратени документите за Груевски, велат од СДСМ",
-          "link": "https://makfax.com.mk/makedonija/eden-mesec-nema-odgovor-od-mickoski-i-filkov-zoshto-ne-se-isprateni-dokumentite-za-gruevski-velat-od-sdsm/",
-          "published": "Thu, 21 May 2026 17:45:19 +0000"
+          "source": "NetPress",
+          "title": "ВИДЕО| Најмалку девет жртви во уривање на зграда во Мароко",
+          "link": "https://netpress.com.mk/video-najmalku-devet-zhrtvi-vo-urivane-na-zgrada-vo-maroko/",
+          "published": "Thu, 21 May 2026 20:19:59 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Трамп го сака иранскиот ураниум и укинување на таксите за превоз низ Хормуз",
+          "link": "https://netpress.com.mk/tramp-go-saka-iranskiot-uranium-i-ukinuvane-na-taksite-za-prevoz-niz-hormuz/",
+          "published": "Thu, 21 May 2026 19:47:48 +0000"
         },
         {
           "source": "NetPress",
@@ -51,24 +69,6 @@
           "title": "Рубио го критикува НАТО затоа што „не прави ништо“ за да им помогне на САД со Иран",
           "link": "https://netpress.com.mk/rubio-go-kritikuva-nato-zatoa-shto-ne-pravi-nishto-za-da-im-pomogne-na-sad-so-iran/",
           "published": "Thu, 21 May 2026 19:07:44 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Остар пад на деловната активност во еврозоната во мај",
-          "link": "https://netpress.com.mk/ostar-pad-na-delovnata-aktivnost-vo-evrozonata-vo-maj/",
-          "published": "Thu, 21 May 2026 18:59:45 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "ВИДЕО| Кај Белград најдено буре со човечки останки, во истрагата за аферата во која беше уапсен шефот на белградската полиција",
-          "link": "https://netpress.com.mk/video-kaj-belgrad-najdeno-bure-so-chovechki-ostanki-vo-istragata-za-aferata-vo-koja-beshe-uapsen-shefot-na-belgradskata-policzija/",
-          "published": "Thu, 21 May 2026 18:15:55 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Двајца приведени од четири пријави за семејно насилство последното деноноќие",
-          "link": "https://netpress.com.mk/dvajcza-provedeni-od-chetiri-prijavi-za-semejno-nasilstvo-poslednoto-denonokie/",
-          "published": "Thu, 21 May 2026 17:54:36 +0000"
         }
       ]
     },
@@ -107,33 +107,33 @@
         },
         {
           "source": "Al Jazeera",
-          "title": "Five key takeaways from Democrats’ autopsy report on Kamala Harris’s loss",
-          "link": "https://www.aljazeera.com/news/2026/5/21/five-key-takeaways-from-democrats-autopsy-report-on-kamala-harriss-loss?traffic_source=rss",
-          "published": "Thu, 21 May 2026 19:14:34 +0000"
+          "title": "NYC launches lottery for $50 World Cup football tickets",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/5/21/nyc-launches-lottery-for-50-world-cup-football-tickets?traffic_source=rss",
+          "published": "Thu, 21 May 2026 20:40:14 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Trump shifts between diplomacy and threats in Iran standoff",
-          "link": "https://www.aljazeera.com/news/2026/5/21/trump-shifts-between-diplomacy-and-threats-in-iran-standoff?traffic_source=rss",
-          "published": "Thu, 21 May 2026 19:11:17 +0000"
+          "title": "Flotilla activists recount Israeli violence as they arrive in Turkiye",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/5/21/flotilla-activists-recount-israeli-violence-as-they-arrive-in-turkiye?traffic_source=rss",
+          "published": "Thu, 21 May 2026 20:39:09 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Do aid flotillas make a difference for Palestinians under Israeli blockade?",
-          "link": "https://www.aljazeera.com/video/inside-story/2026/5/21/do-aid-flotillas-make-a-difference-for-palestinians-under-israeli-blockade?traffic_source=rss",
-          "published": "Thu, 21 May 2026 19:01:24 +0000"
+          "title": "US sanctions elected Hezbollah MPs and Lebanese security officials",
+          "link": "https://www.aljazeera.com/news/2026/5/21/us-sanctions-elected-hezbollah-mps-and-lebanese-security-officials?traffic_source=rss",
+          "published": "Thu, 21 May 2026 20:09:10 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Is Islamophobia being re-packaged as feminism?",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/5/21/is-islamophobia-being-re-packaged-as-feminism?traffic_source=rss",
-          "published": "Thu, 21 May 2026 18:35:40 +0000"
+          "title": "Fans create AI-generated team songs ahead of World Cup",
+          "link": "https://www.aljazeera.com/sports/2026/5/21/fans-create-ai-generated-team-songs-ahead-of-world-cup-2026?traffic_source=rss",
+          "published": "Thu, 21 May 2026 20:00:47 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "UK launches ‘Great British Summer Savings’ to ease family costs",
-          "link": "https://www.aljazeera.com/news/2026/5/21/uk-launches-great-british-summer-savings-to-ease-family-costs?traffic_source=rss",
-          "published": "Thu, 21 May 2026 18:29:47 +0000"
+          "title": "Ebola tensions rise as treatment centre torched in DR Congo’s Ituri",
+          "link": "https://www.aljazeera.com/gallery/2026/5/21/ebola-tensions-rise-as-treatment-center-torched-in-congos-ituri?traffic_source=rss",
+          "published": "Thu, 21 May 2026 19:46:37 +0000"
         }
       ]
     }
