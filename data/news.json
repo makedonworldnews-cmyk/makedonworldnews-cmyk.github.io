@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-23T20:54:01Z",
+  "updatedAt": "2026-05-23T21:55:54Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Расел трета година по ред ја освои пол-позицијата во Канада",
+          "link": "https://makfax.com.mk/sport/rasel-treta-godina-po-red-ja-osvoi-pol-pozicijata-vo-kanada/",
+          "published": "Sat, 23 May 2026 21:37:01 +0000"
         },
         {
           "source": "Makfax",
@@ -35,10 +41,10 @@
           "published": "Sat, 23 May 2026 19:44:21 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Американци го купуваат Наполи за две милијарди евра",
-          "link": "https://makfax.com.mk/sport/amerikanci-go-kupuvaat-napoli-za-dve-milijardi-evra/",
-          "published": "Sat, 23 May 2026 17:57:56 +0000"
+          "source": "NetPress",
+          "title": "Ла Лига: Жирона и Мајорка испаднаа, Хетафе во Европа",
+          "link": "https://netpress.com.mk/la-liga-zhirona-i-majorka-ispadnaa-hetafe-vo-evropa/",
+          "published": "Sat, 23 May 2026 21:43:42 +0000"
         },
         {
           "source": "NetPress",
@@ -63,12 +69,6 @@
           "title": "ФОТО| Успешна спасувачка акција на Кораб",
           "link": "https://netpress.com.mk/foto-uspeshna-spasuvachka-akczija-na-korab/",
           "published": "Sat, 23 May 2026 19:13:36 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Притвор од 30 дена за косовскиот камионџија што ја предизвика трагичната сообраќајка на скопската обиколница",
-          "link": "https://netpress.com.mk/pritvor-od-30-dena-za-kosovskiot-kamiondhija-shto-ja-predizvika-tragichnata-soobrakajka-na-skopskata-obikolnicza/",
-          "published": "Sat, 23 May 2026 19:01:15 +0000"
         }
       ]
     },
@@ -77,9 +77,9 @@
       "items": [
         {
           "source": "BBC",
-          "title": "Iran 'getting a lot closer' to agreement with US, Trump says",
+          "title": "Trump says Iran deal 'largely negotiated' including reopening Strait of Hormuz",
           "link": "https://www.bbc.com/news/articles/crmp121z3z8o?at_medium=RSS&at_campaign=rss",
-          "published": "Sat, 23 May 2026 19:46:54 GMT"
+          "published": "Sat, 23 May 2026 21:14:57 GMT"
         },
         {
           "source": "BBC",
@@ -107,6 +107,18 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Funerals for medics killed in Israeli air strikes in southern Lebanon",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/5/23/funerals-for-medics-killed-in-israeli-air-strikes-in-southern-lebanon?traffic_source=rss",
+          "published": "Sat, 23 May 2026 21:14:39 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Trump says Iran agreement ‘largely negotiated’, awaiting finalisation",
+          "link": "https://www.aljazeera.com/news/2026/5/23/trump-says-iran-agreement-largely-negotiated-still-awaiting-finalisation?traffic_source=rss",
+          "published": "Sat, 23 May 2026 21:09:42 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Violence and overcrowding hampers Ebola response in DRC",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/5/23/violence-and-overcrowding-hampers-ebola-response-in-drc?traffic_source=rss",
           "published": "Sat, 23 May 2026 20:43:04 +0000"
@@ -122,18 +134,6 @@
           "title": "‘Fjord’ by Romania’s Cristian Mungiu wins Cannes top film prize",
           "link": "https://www.aljazeera.com/news/2026/5/23/fjord-by-romanias-cristian-mungiu-wins-cannes-top-film-prize?traffic_source=rss",
           "published": "Sat, 23 May 2026 20:35:17 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "More than 1.5 million pilgrims brave fierce Mecca heat ahead of Hajj",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/5/23/more-than-1-5-million-pilgrims-brave-fierce-mecca-heat-ahead-of-hajj?traffic_source=rss",
-          "published": "Sat, 23 May 2026 20:21:48 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Is pragmatism replacing ideology in international affairs?",
-          "link": "https://www.aljazeera.com/video/inside-story/2026/5/23/is-pragmatism-replacing-ideology-in-international?traffic_source=rss",
-          "published": "Sat, 23 May 2026 19:56:50 +0000"
         }
       ]
     }
