@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-23T19:55:21Z",
+  "updatedAt": "2026-05-23T20:54:01Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Вардар го крена шампионскиот пехар",
+          "link": "https://makfax.com.mk/sport/vardar-go-krena-shampionskiot-pehar/",
+          "published": "Sat, 23 May 2026 20:22:12 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) Хет-трик на Кејн, Баерн го освои Купот",
+          "link": "https://makfax.com.mk/sport/video-het-trik-na-kejn-baern-go-osvoi-kupot/",
+          "published": "Sat, 23 May 2026 20:13:01 +0000"
         },
         {
           "source": "Makfax",
@@ -29,16 +41,10 @@
           "published": "Sat, 23 May 2026 17:57:56 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Автомобил удри во велосипедист кај Мавровка",
-          "link": "https://makfax.com.mk/crna-hronika/avtomobil-udri-vo-velosipedist-kaj-mavrovka/",
-          "published": "Sat, 23 May 2026 17:36:07 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Бернардо Силва пред траснфер во Атлетико",
-          "link": "https://makfax.com.mk/sport/bernardo-silva-pred-trasnfer-vo-atletiko/",
-          "published": "Sat, 23 May 2026 17:32:57 +0000"
+          "source": "NetPress",
+          "title": "Баерн го освои и Купот на Германија",
+          "link": "https://netpress.com.mk/baern-go-osvoi-i-kupot-na-germanija/",
+          "published": "Sat, 23 May 2026 20:25:13 +0000"
         },
         {
           "source": "NetPress",
@@ -48,8 +54,8 @@
         },
         {
           "source": "NetPress",
-          "title": "Русија подготвува напад со хиперсонична ракета „Орешник“, паничи Зеленски по нападот врз ученичкиот дом во Луганск",
-          "link": "https://netpress.com.mk/rusija-podgotvuva-napad-so-hipersonichna-raketa-oreshnik-panichi-zelenski-po-napadot-vrz-uchenichkiot-dom-vo-lugansk/",
+          "title": "Русија подготвува напад со „Орешник“, паничи Зеленски по нападот врз ученичкиот дом во Луганск",
+          "link": "https://netpress.com.mk/rusija-podgotvuva-napad-so-oreshnik-panichi-zelenski-po-napadot-vrz-uchenichkiot-dom-vo-lugansk/",
           "published": "Sat, 23 May 2026 19:33:10 +0000"
         },
         {
@@ -63,12 +69,6 @@
           "title": "Притвор од 30 дена за косовскиот камионџија што ја предизвика трагичната сообраќајка на скопската обиколница",
           "link": "https://netpress.com.mk/pritvor-od-30-dena-za-kosovskiot-kamiondhija-shto-ja-predizvika-tragichnata-soobrakajka-na-skopskata-obikolnicza/",
           "published": "Sat, 23 May 2026 19:01:15 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "САД и Иран известуваат за напредок во преговорите за завршување на војната",
-          "link": "https://netpress.com.mk/sad-i-iran-izvestuvaat-za-napredok-vo-pregovorite-za-zavrshuvane-na-vojnata/",
-          "published": "Sat, 23 May 2026 18:05:03 +0000"
         }
       ]
     },
@@ -91,7 +91,7 @@
           "source": "BBC",
           "title": "Red Cross volunteers die from suspected Ebola in DR Congo",
           "link": "https://www.bbc.com/news/articles/c759knxln0wo?at_medium=RSS&at_campaign=rss",
-          "published": "Sat, 23 May 2026 17:15:09 GMT"
+          "published": "Sat, 23 May 2026 19:55:16 GMT"
         },
         {
           "source": "BBC",
@@ -107,33 +107,33 @@
         },
         {
           "source": "Al Jazeera",
-          "title": "Iran move World Cup base from US to Mexico with FIFA approval",
-          "link": "https://www.aljazeera.com/sports/2026/5/23/iran-move-world-cup-base-from-us-to-mexico-with-fifa-approval?traffic_source=rss",
-          "published": "Sat, 23 May 2026 19:18:02 +0000"
+          "title": "Violence and overcrowding hampers Ebola response in DRC",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/5/23/violence-and-overcrowding-hampers-ebola-response-in-drc?traffic_source=rss",
+          "published": "Sat, 23 May 2026 20:43:04 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Tens of thousands rally in Serbia for antigovernment demonstrations",
-          "link": "https://www.aljazeera.com/news/2026/5/23/tens-of-thousands-rally-in-serbia-for-antigovernment-demonstrations?traffic_source=rss",
-          "published": "Sat, 23 May 2026 18:58:01 +0000"
+          "title": "India’s Gen Z ‘Cockroach Party’ is going viral",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/5/23/indias-gen-z-cockroach-party-is-going-viral?traffic_source=rss",
+          "published": "Sat, 23 May 2026 20:36:40 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Pakistan army chief visits Tehran to push for end to US-Israeli war on Iran",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/5/23/pakistan-army-chief-visits-tehran-to-push-for-end-to-us-israeli-war-on-iran-2?traffic_source=rss",
-          "published": "Sat, 23 May 2026 18:37:37 +0000"
+          "title": "‘Fjord’ by Romania’s Cristian Mungiu wins Cannes top film prize",
+          "link": "https://www.aljazeera.com/news/2026/5/23/fjord-by-romanias-cristian-mungiu-wins-cannes-top-film-prize?traffic_source=rss",
+          "published": "Sat, 23 May 2026 20:35:17 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Police beat and detain Gaza flotilla activists at airport",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/5/23/police-beat-and-detain-gaza-flotilla-activists-at-airport?traffic_source=rss",
-          "published": "Sat, 23 May 2026 18:30:42 +0000"
+          "title": "More than 1.5 million pilgrims brave fierce Mecca heat ahead of Hajj",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/5/23/more-than-1-5-million-pilgrims-brave-fierce-mecca-heat-ahead-of-hajj?traffic_source=rss",
+          "published": "Sat, 23 May 2026 20:21:48 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Barcelona beat Lyon 4-0 to win Women’s Champions League",
-          "link": "https://www.aljazeera.com/sports/2026/5/23/barcelona-beat-lyon-to-claim-womens-champions-league-final?traffic_source=rss",
-          "published": "Sat, 23 May 2026 18:10:34 +0000"
+          "title": "Is pragmatism replacing ideology in international affairs?",
+          "link": "https://www.aljazeera.com/video/inside-story/2026/5/23/is-pragmatism-replacing-ideology-in-international?traffic_source=rss",
+          "published": "Sat, 23 May 2026 19:56:50 +0000"
         }
       ]
     }
