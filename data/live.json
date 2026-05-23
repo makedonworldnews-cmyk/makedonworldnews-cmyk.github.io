@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-23T22:31:17Z",
+  "generated_at": "2026-05-23T23:36:11Z",
   "items": [
     {
       "region": "Македонија",
@@ -109,6 +109,13 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "US police responding to reports of shots fired near White House",
+      "link": "https://www.aljazeera.com/news/2026/5/23/us-police-responding-to-reports-of-shots-fired-near-white-house?traffic_source=rss",
+      "published": "Sat, 23 May 2026 22:52:43 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "Funerals for medics killed in Israeli air strikes in southern Lebanon",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/5/23/funerals-for-medics-killed-in-israeli-air-strikes-in-southern-lebanon?traffic_source=rss",
       "published": "Sat, 23 May 2026 21:14:39 +0000"
@@ -133,13 +140,6 @@
       "title": "India’s Gen Z ‘Cockroach Party’ is going viral",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/5/23/indias-gen-z-cockroach-party-is-going-viral?traffic_source=rss",
       "published": "Sat, 23 May 2026 20:36:40 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "‘Fjord’ by Romania’s Cristian Mungiu wins Cannes top film prize",
-      "link": "https://www.aljazeera.com/news/2026/5/23/fjord-by-romanias-cristian-mungiu-wins-cannes-top-film-prize?traffic_source=rss",
-      "published": "Sat, 23 May 2026 20:35:17 +0000"
     }
   ]
 }
