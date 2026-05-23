@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-22T23:42:17Z",
+  "generated_at": "2026-05-23T01:27:36Z",
   "items": [
     {
       "region": "Македонија",
@@ -109,6 +109,20 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "Ebola outbreak disrupts life along the DRC-Uganda border",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/23/ebola-outbreak-disrupts-life-along-the-drc-uganda-border?traffic_source=rss",
+      "published": "Sat, 23 May 2026 00:46:34 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Iran war live: Tehran says diplomacy continues but no deal yet with US",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/5/23/iran-war-live-tehran-says-diplomacy-continues-but-no-deal-yet-with-us?traffic_source=rss",
+      "published": "Sat, 23 May 2026 00:00:00 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "Israeli blockade traps would-be Hajj pilgrim in Gaza",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/5/22/israeli-blockade-traps-would-be-hajj-pilgrim-in-gaza?traffic_source=rss",
       "published": "Fri, 22 May 2026 22:23:44 +0000"
@@ -126,20 +140,6 @@
       "title": "‘Everest Man’ breaks his own record after historic 32nd climb",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/5/22/everest-man-breaks-his-own-record-after-historic-32nd-climb?traffic_source=rss",
       "published": "Fri, 22 May 2026 21:45:26 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Mahmoud Khalil to appeal US deportation case to Supreme Court",
-      "link": "https://www.aljazeera.com/news/2026/5/22/mahmoud-khalil-to-appeal-us-deportation-case-to-supreme-court?traffic_source=rss",
-      "published": "Fri, 22 May 2026 21:08:03 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "US judge dismisses indictment against Kilmar Abrego Garcia",
-      "link": "https://www.aljazeera.com/news/2026/5/22/us-judge-dismisses-indictment-against-kilmar-abrego-garcia?traffic_source=rss",
-      "published": "Fri, 22 May 2026 20:43:09 +0000"
     }
   ]
 }
