@@ -1,6 +1,27 @@
 {
-  "generated_at": "2026-05-23T21:31:41Z",
+  "generated_at": "2026-05-23T22:31:17Z",
   "items": [
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "„Кејн останува во Баерн, Барселона и онака нема пари“",
+      "link": "https://makfax.com.mk/sport/kejn-ostanuva-vo-baern-barselona-i-onaka-nema-pari/",
+      "published": "Sat, 23 May 2026 22:07:00 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "(Видео) Мајорка и Џирона испаднаа од Ла Лига, Столе со Валенсија ја победи Барселона",
+      "link": "https://makfax.com.mk/sport/video-majorka-i-dhirona-ispadnaa-od-la-liga-stole-so-valensija-ja-pobedi-barselona/",
+      "published": "Sat, 23 May 2026 21:55:57 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "Расел трета година по ред ја освои пол-позицијата во Канада",
+      "link": "https://makfax.com.mk/sport/rasel-treta-godina-po-red-ja-osvoi-pol-pozicijata-vo-kanada/",
+      "published": "Sat, 23 May 2026 21:37:01 +0000"
+    },
     {
       "region": "Македонија",
       "source": "Makfax",
@@ -17,24 +38,17 @@
     },
     {
       "region": "Македонија",
-      "source": "Makfax",
-      "title": "Успешна акција на Кораб, спасен е планинар",
-      "link": "https://makfax.com.mk/makedonija/uspeshna-akcija-na-korab-spasen-e-planinar/",
-      "published": "Sat, 23 May 2026 19:50:40 +0000"
+      "source": "NetPress",
+      "title": "Гран при Канада: Расел најбрз во квалификациите, Антонели втор",
+      "link": "https://netpress.com.mk/gran-pri-kanada-rasel-najbrz-vo-kvalifikacziite-antoneli-vtor/",
+      "published": "Sat, 23 May 2026 21:58:05 +0000"
     },
     {
       "region": "Македонија",
-      "source": "Makfax",
-      "title": "(Видео) Полицијата се пресметува со демонстрантите, во Белград одекнуваат експлозии",
-      "link": "https://makfax.com.mk/svet/video-policijata-se-presmetuva-so-demonstrantite-vo-belgrad-odeknuvaat-eksplozii/",
-      "published": "Sat, 23 May 2026 19:44:21 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "Makfax",
-      "title": "Американци го купуваат Наполи за две милијарди евра",
-      "link": "https://makfax.com.mk/sport/amerikanci-go-kupuvaat-napoli-za-dve-milijardi-evra/",
-      "published": "Sat, 23 May 2026 17:57:56 +0000"
+      "source": "NetPress",
+      "title": "Ла Лига: Жирона и Мајорка испаднаа, Хетафе во Европа",
+      "link": "https://netpress.com.mk/la-liga-zhirona-i-majorka-ispadnaa-hetafe-vo-evropa/",
+      "published": "Sat, 23 May 2026 21:43:42 +0000"
     },
     {
       "region": "Македонија",
@@ -58,25 +72,11 @@
       "published": "Sat, 23 May 2026 19:33:10 +0000"
     },
     {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "ФОТО| Успешна спасувачка акција на Кораб",
-      "link": "https://netpress.com.mk/foto-uspeshna-spasuvachka-akczija-na-korab/",
-      "published": "Sat, 23 May 2026 19:13:36 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Притвор од 30 дена за косовскиот камионџија што ја предизвика трагичната сообраќајка на скопската обиколница",
-      "link": "https://netpress.com.mk/pritvor-od-30-dena-za-kosovskiot-kamiondhija-shto-ja-predizvika-tragichnata-soobrakajka-na-skopskata-obikolnicza/",
-      "published": "Sat, 23 May 2026 19:01:15 +0000"
-    },
-    {
       "region": "Свет",
       "source": "BBC",
       "title": "Trump says Iran deal 'largely negotiated' including reopening Strait of Hormuz",
       "link": "https://www.bbc.com/news/articles/crmp121z3z8o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 23 May 2026 21:14:57 GMT"
+      "published": "Sat, 23 May 2026 22:10:24 GMT"
     },
     {
       "region": "Свет",
@@ -116,7 +116,7 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
-      "title": "Trump says Iran agreement ‘largely negotiated’, still awaiting finalisation",
+      "title": "Trump says Iran agreement ‘largely negotiated’, awaiting finalisation",
       "link": "https://www.aljazeera.com/news/2026/5/23/trump-says-iran-agreement-largely-negotiated-still-awaiting-finalisation?traffic_source=rss",
       "published": "Sat, 23 May 2026 21:09:42 +0000"
     },
