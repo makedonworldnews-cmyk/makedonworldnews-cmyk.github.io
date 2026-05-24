@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-24T12:08:39Z",
+  "updatedAt": "2026-05-24T13:58:03Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Дрога пронајдена кај двајца 19-годишници и еден малолетник",
+          "link": "https://makfax.com.mk/crna-hronika/droga-pronajdena-kaj-dvajca-19-godishnici-i-eden-maloletnik/",
+          "published": "Sun, 24 May 2026 13:14:32 +0000"
         },
         {
           "source": "Makfax",
@@ -35,40 +41,34 @@
           "published": "Sun, 24 May 2026 10:44:20 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "(Фото+Видео) По децении запуштеност, започна чистењето на Железничката станица во Скопје",
-          "link": "https://makfax.com.mk/makedonija/foto-video-po-decenii-zapushtenost-zapochna-chistenjeto-na-zheleznichkata-stanica-vo-skopje/",
-          "published": "Sun, 24 May 2026 10:40:27 +0000"
+          "source": "NetPress",
+          "title": "Мотоциклист загубил контрола и удрил в ѕид",
+          "link": "https://netpress.com.mk/motocziklist-zagubil-kontrola-i-udril-v-zid/",
+          "published": "Sun, 24 May 2026 13:46:23 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Средовечен битолчанец киднапирал и тепал матурантка во Битола",
-          "link": "https://netpress.com.mk/sredovechen-bitolchanecz-kidnapiral-i-tepal-maturantka-vo-bitola/",
-          "published": "Sun, 24 May 2026 12:03:21 +0000"
+          "title": "Ајкула уби човек на австралискиот Голем корален гребен",
+          "link": "https://netpress.com.mk/ajkula-ubi-chovek-na-avstraliskiot-golem-koralen-greben/",
+          "published": "Sun, 24 May 2026 13:45:34 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Мицкоски: Народ кој не ја познава својата писменост лесно станува туѓ во сопствената историја",
-          "link": "https://netpress.com.mk/miczkoski-narod-koj-ne-ja-poznava-svojata-pismenost-lesno-stanuva-tug-vo-sopstvenata-istorija/",
-          "published": "Sun, 24 May 2026 11:49:32 +0000"
+          "title": "Раст на светските берзи, пад на цените на нафтата",
+          "link": "https://netpress.com.mk/rast-na-svetskite-berzi-pad-na-czenite-na-naftata/",
+          "published": "Sun, 24 May 2026 13:34:37 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Брегалница се враќа во Првата лига, Скопје и Шкендија Арачиново ќе играат баражи",
-          "link": "https://netpress.com.mk/bregalnicza-se-vraka-vo-prvata-liga-skopje-i-shkendija-arachinovo-ke-igraat-barazhi/",
-          "published": "Sun, 24 May 2026 11:37:55 +0000"
+          "title": "Во претрес на автомобил фатени дилери на марихуана во Велес – еден бил малолетник",
+          "link": "https://netpress.com.mk/vo-pretres-na-avtomobil-fateni-dileri-na-marihuana-vo-veles-eden-bil-maloletnik/",
+          "published": "Sun, 24 May 2026 13:28:24 +0000"
         },
         {
           "source": "NetPress",
-          "title": "САД на Балканот престануваат со политиката на интервенционизам, се охрабрува соработка",
-          "link": "https://netpress.com.mk/sad-na-balkanot-prestanuvaat-so-politikata-na-intervenczionizam-ohrabruva-sorabotka/",
-          "published": "Sun, 24 May 2026 11:33:48 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Подметнале пожар во продавница, полицајци гаснејќи го се надишале чад",
-          "link": "https://netpress.com.mk/podmetnale-pozhar-vo-prodavnicza-policzajczi-gasnejki-go-se-nadishale-chad/",
-          "published": "Sun, 24 May 2026 11:28:24 +0000"
+          "title": "Пожар од свеќа ноќеска во Гази Баба",
+          "link": "https://netpress.com.mk/pozhar-od-sveka-nokeska-vo-gazi-baba/",
+          "published": "Sun, 24 May 2026 13:07:12 +0000"
         }
       ]
     },
@@ -85,7 +85,7 @@
           "source": "BBC",
           "title": "Large-scale Russian attack on Ukraine leaves four dead and dozens injured",
           "link": "https://www.bbc.com/news/articles/clyp6831yp5o?at_medium=RSS&at_campaign=rss",
-          "published": "Sun, 24 May 2026 10:52:46 GMT"
+          "published": "Sun, 24 May 2026 13:02:02 GMT"
         },
         {
           "source": "BBC",
@@ -97,7 +97,7 @@
           "source": "BBC",
           "title": "Blast targeting train kills at least 20 in Pakistan",
           "link": "https://www.bbc.com/news/articles/cm2pkd58xldo?at_medium=RSS&at_campaign=rss",
-          "published": "Sun, 24 May 2026 09:08:31 GMT"
+          "published": "Sun, 24 May 2026 12:26:09 GMT"
         },
         {
           "source": "BBC",
@@ -107,33 +107,33 @@
         },
         {
           "source": "Al Jazeera",
-          "title": "Clashes in Belgrade as student-led protests demand elections",
-          "link": "https://www.aljazeera.com/gallery/2026/5/24/clashes-in-belgrade-as-student-led-protests-demand-elections?traffic_source=rss",
-          "published": "Sun, 24 May 2026 11:48:02 +0000"
+          "title": "‘We won’t know who won until final outcome of US-Iran ceasefire’",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/5/24/we-wont-know-who-won-until-final-outcome-of-us-iran?traffic_source=rss",
+          "published": "Sun, 24 May 2026 13:45:30 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Israeli attack on Gaza kills three family members, including infant",
-          "link": "https://www.aljazeera.com/news/2026/5/24/israeli-attack-on-gaza-kills-three-family-members-including-infant?traffic_source=rss",
-          "published": "Sun, 24 May 2026 11:41:58 +0000"
+          "title": "Will the Texas primary run-off give Democrats a chance to flip the state?",
+          "link": "https://www.aljazeera.com/news/2026/5/24/will-the-texas-primary-run-off-give-democrats-a-chance-to-flip-the-state?traffic_source=rss",
+          "published": "Sun, 24 May 2026 13:30:46 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "The GCC should insure itself against the next Strait of Hormuz crisis",
-          "link": "https://www.aljazeera.com/opinions/2026/5/24/the-gcc-should-insure-itself-against-the-next-strait-of-hormuz-crisis?traffic_source=rss",
-          "published": "Sun, 24 May 2026 11:07:26 +0000"
+          "title": "Iran hints US will end war in ‘Persian-style’ peace on Tehran’s terms",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/5/24/iran-hints-us-will-end-war-in-persian-style-peace-on-tehrans-terms?traffic_source=rss",
+          "published": "Sun, 24 May 2026 13:26:07 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "What to know about Cape Verde at World Cup 2026",
-          "link": "https://www.aljazeera.com/sports/2026/5/24/what-to-know-about-cape-verde-at-world-cup-2026?traffic_source=rss",
-          "published": "Sun, 24 May 2026 11:02:03 +0000"
+          "title": "Suicide car bombing attack on a train in Pakistan kills dozens",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/5/24/suicide-car-bombing-attack-on-a-train-in-pakistan-kills-dozens?traffic_source=rss",
+          "published": "Sun, 24 May 2026 12:35:51 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Iran war day 86: Trump announces potential deal amid ‘cloud of mistrust’",
-          "link": "https://www.aljazeera.com/news/2026/5/24/iran-war-day-86-trump-announces-potential-deal-amid-cloud-of-mistrust?traffic_source=rss",
-          "published": "Sun, 24 May 2026 10:25:43 +0000"
+          "title": "Blast hits train in Pakistan’s Balochistan, killing at least 24 people",
+          "link": "https://www.aljazeera.com/gallery/2026/5/24/blast-hits-train-in-pakistans-balochistan-killing-at-least-24-people?traffic_source=rss",
+          "published": "Sun, 24 May 2026 12:19:02 +0000"
         }
       ]
     }
