@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-23T23:58:11Z",
+  "updatedAt": "2026-05-24T04:21:50Z",
   "groups": [
     {
       "region": "Македонија",
@@ -42,6 +42,12 @@
         },
         {
           "source": "NetPress",
+          "title": "Времето нестабилно – се очекува пороен дожд со ветер и грмежи",
+          "link": "https://netpress.com.mk/vremeto-nestabilno-se-ochekuva-poroen-dozhd-so-veter-i-grmezhi/",
+          "published": "Sun, 24 May 2026 04:18:18 +0000"
+        },
+        {
+          "source": "NetPress",
           "title": "Тајната служба „неутрализираше“ маж кој отворил оган близу Белата куќа",
           "link": "https://netpress.com.mk/tajnata-sluzhba-neutralizirashe-mazh-koj-otvoril-ogan-blizu-belata-kuka/",
           "published": "Sat, 23 May 2026 23:39:02 +0000"
@@ -63,12 +69,6 @@
           "title": "Баерн го освои и Купот на Германија",
           "link": "https://netpress.com.mk/baern-go-osvoi-i-kupot-na-germanija/",
           "published": "Sat, 23 May 2026 20:25:13 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Филипче за повикот на Кочовска: Доаѓаме, но да дојдат и медиумите, пред граѓаните нека ни објасни",
-          "link": "https://netpress.com.mk/filipche-za-povikot-na-kochovska-doagame-no-da-dojdat-i-mediumite-pred-graganite-neka-ni-objasni/",
-          "published": "Sat, 23 May 2026 19:51:45 +0000"
         }
       ]
     },
@@ -77,37 +77,43 @@
       "items": [
         {
           "source": "BBC",
+          "title": "Suspect killed after opening fire on Secret Service near White House",
+          "link": "https://www.bbc.com/news/articles/cjwp82ye4y3o?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 24 May 2026 03:59:51 GMT"
+        },
+        {
+          "source": "BBC",
           "title": "Trump says Iran deal 'largely negotiated' including reopening Strait of Hormuz",
           "link": "https://www.bbc.com/news/articles/crmp121z3z8o?at_medium=RSS&at_campaign=rss",
-          "published": "Sat, 23 May 2026 22:10:24 GMT"
+          "published": "Sun, 24 May 2026 01:18:31 GMT"
+        },
+        {
+          "source": "BBC",
+          "title": "Rosenberg: Luhansk strike sparks Russian accusations and vow to retaliate",
+          "link": "https://www.bbc.com/news/articles/cvgz05jyrrpo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 23 May 2026 23:34:33 GMT"
+        },
+        {
+          "source": "BBC",
+          "title": "I survived a missile strike in the Strait of Hormuz, but my friend has not been found",
+          "link": "https://www.bbc.com/news/articles/ce8pn63q771o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 23 May 2026 23:24:03 GMT"
         },
         {
           "source": "BBC",
           "title": "At least 82 killed in Chinese coal mine explosion",
           "link": "https://www.bbc.com/news/articles/c5y0ve18qlko?at_medium=RSS&at_campaign=rss",
-          "published": "Sat, 23 May 2026 15:18:40 GMT"
-        },
-        {
-          "source": "BBC",
-          "title": "Red Cross volunteers die from suspected Ebola in DR Congo",
-          "link": "https://www.bbc.com/news/articles/c759knxln0wo?at_medium=RSS&at_campaign=rss",
-          "published": "Sat, 23 May 2026 19:55:16 GMT"
-        },
-        {
-          "source": "BBC",
-          "title": "French mum and partner held until trial after sons abandoned by road in Portugal",
-          "link": "https://www.bbc.com/news/articles/cq5p75l7n17o?at_medium=RSS&at_campaign=rss",
-          "published": "Sat, 23 May 2026 14:24:48 GMT"
-        },
-        {
-          "source": "BBC",
-          "title": "Putin vows retaliation after accusing Ukraine of hitting student dormitory",
-          "link": "https://www.bbc.com/news/articles/c5y74lwx395o?at_medium=RSS&at_campaign=rss",
-          "published": "Sat, 23 May 2026 14:06:12 GMT"
+          "published": "Sun, 24 May 2026 03:18:38 GMT"
         },
         {
           "source": "Al Jazeera",
-          "title": "US police responding to dozens of shots fired near White House",
+          "title": "Iranian sources lay out Iran-US deal details",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/5/24/iranian-sources-lay-out-iran-us-deal-details?traffic_source=rss",
+          "published": "Sun, 24 May 2026 02:16:42 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "US Secret Service fatally shoots gunman who fired at White House checkpoint",
           "link": "https://www.aljazeera.com/news/2026/5/23/us-police-responding-to-reports-of-shots-fired-near-white-house?traffic_source=rss",
           "published": "Sat, 23 May 2026 22:52:43 +0000"
         },
@@ -128,12 +134,6 @@
           "title": "Violence and overcrowding hampers Ebola response in DRC",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/5/23/violence-and-overcrowding-hampers-ebola-response-in-drc?traffic_source=rss",
           "published": "Sat, 23 May 2026 20:43:04 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "India’s Gen Z ‘Cockroach Party’ is going viral",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/5/23/indias-gen-z-cockroach-party-is-going-viral?traffic_source=rss",
-          "published": "Sat, 23 May 2026 20:36:40 +0000"
         }
       ]
     }
