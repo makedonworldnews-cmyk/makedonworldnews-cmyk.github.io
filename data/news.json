@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-24T15:12:39Z",
+  "updatedAt": "2026-05-24T16:15:42Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Матурантка по прослава киднапирана и тепана од 40-годишен маж со кого била во врска",
+          "link": "https://makfax.com.mk/makedonija/maturantka-po-proslava-kidnapirana-i-tepana-od-40-godishen-mazh-so-kogo-bila-vo-vrska/",
+          "published": "Sun, 24 May 2026 15:40:28 +0000"
         },
         {
           "source": "Makfax",
@@ -35,40 +41,28 @@
           "published": "Sun, 24 May 2026 14:10:57 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Хакими ќе го пропушти финалето против Арсенал",
-          "link": "https://makfax.com.mk/sport/hakimi-ke-go-propushti-finaleto-protiv-arsenal/",
-          "published": "Sun, 24 May 2026 14:02:56 +0000"
+          "source": "NetPress",
+          "title": "ВИДЕО| Турскaта полиција интервенираше во седиштето на опозициската партија",
+          "link": "https://netpress.com.mk/video-turskata-policzija-intervenirashe-vo-sedishteto-na-opozicziskata-partija/",
+          "published": "Sun, 24 May 2026 15:53:03 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Премиерот повика на народно и интелектуално обединување: Ова е последната шанса за Македонија",
+          "link": "https://netpress.com.mk/premierot-povika-na-narodno-i-intelektualno-obedinuvane-ova-e-poslednata-shansa-za-makedonija/",
+          "published": "Sun, 24 May 2026 15:43:49 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Го пцуел, па го удирал со шлаканици и тупаници – татко се нафрлил на малолетeн противник на неговиот син",
+          "link": "https://netpress.com.mk/go-pczuel-pa-go-udiral-so-shlakaniczi-i-tupaniczi-tatko-se-nafrlil-na-maloleten-protivnik-na-negoviot-sin/",
+          "published": "Sun, 24 May 2026 15:29:46 +0000"
         },
         {
           "source": "NetPress",
           "title": "Уапсени 14 возачи, осум биле без возачка дозвола",
           "link": "https://netpress.com.mk/uapseni-14-vozachi-osum-bile-bez-vozachka-dozvola/",
           "published": "Sun, 24 May 2026 14:58:29 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Велосипедист тешко повреден на бул. „Гоце Делчев“ во Скопје",
-          "link": "https://netpress.com.mk/velosipedist-teshko-povreden-na-bul-gocze-delchev-vo-skopje/",
-          "published": "Sun, 24 May 2026 14:54:02 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "„И Здравје и Работа“: Македонија мора одговорно да ги користи своите потенцијали за економски развој",
-          "link": "https://netpress.com.mk/i-zdravje-i-rabota-makedonija-mora-odgovorno-da-gi-koristi-svoite-potenczijali-za-ekonomski-razvoj/",
-          "published": "Sun, 24 May 2026 14:42:02 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Малолетник изгубил контрола врз мотоцикл и задобил тешки повреди",
-          "link": "https://netpress.com.mk/maloletnik-izgubil-kontrola-vrz-motoczikl-i-zadobil-teshki-povredi/",
-          "published": "Sun, 24 May 2026 14:39:21 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Паланчанец нападнал жена и ѝ се заканувал",
-          "link": "https://netpress.com.mk/palanchanecz-napadnal-zhena-i-%d1%9d-se-zakanuval/",
-          "published": "Sun, 24 May 2026 14:38:40 +0000"
         }
       ]
     },
@@ -79,7 +73,7 @@
           "source": "BBC",
           "title": "Suspect killed after opening fire on Secret Service near White House",
           "link": "https://www.bbc.com/news/articles/cjwp82ye4y3o?at_medium=RSS&at_campaign=rss",
-          "published": "Sun, 24 May 2026 06:15:32 GMT"
+          "published": "Sun, 24 May 2026 15:24:11 GMT"
         },
         {
           "source": "BBC",
@@ -101,9 +95,21 @@
         },
         {
           "source": "BBC",
-          "title": "Man killed in shark attack off Australia's north-east coast",
-          "link": "https://www.bbc.com/news/articles/cn9pq5l2d14o?at_medium=RSS&at_campaign=rss",
-          "published": "Sun, 24 May 2026 07:12:37 GMT"
+          "title": "Turkish police storm opposition offices after leaders ousted",
+          "link": "https://www.bbc.com/news/articles/c87qwrqre83o?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 24 May 2026 15:20:35 GMT"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "‘A paper city’: New York ‘library’ hosts 3.5 million pages of Epstein files",
+          "link": "https://www.aljazeera.com/features/2026/5/24/a-paper-city-new-york-library-hosts-3-5-million-pages-of-epstein-files?traffic_source=rss",
+          "published": "Sun, 24 May 2026 15:15:26 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "China sends aid to Cuba amid a harsh US blockade",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/5/24/china-sends-aid-to-cuba-amid-a-harsh-us-blockade?traffic_source=rss",
+          "published": "Sun, 24 May 2026 15:14:10 +0000"
         },
         {
           "source": "Al Jazeera",
@@ -122,18 +128,6 @@
           "title": "For third year in a row, Israel blocks Hajj pilgrimage for Gaza Muslims",
           "link": "https://www.aljazeera.com/news/2026/5/24/for-third-year-in-a-row-israel-blocks-hajj-pilgrimage-for-gaza-muslims?traffic_source=rss",
           "published": "Sun, 24 May 2026 14:00:23 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Syria cannot heal without a rebuilt health system",
-          "link": "https://www.aljazeera.com/opinions/2026/5/24/syria-cannot-heal-without-a-rebuilt-health?traffic_source=rss",
-          "published": "Sun, 24 May 2026 13:53:31 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "‘We won’t know who won until final outcome of US-Iran ceasefire’",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/5/24/we-wont-know-who-won-until-final-outcome-of-us-iran?traffic_source=rss",
-          "published": "Sun, 24 May 2026 13:45:30 +0000"
         }
       ]
     }
