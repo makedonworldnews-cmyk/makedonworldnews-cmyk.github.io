@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-24T20:56:22Z",
+  "updatedAt": "2026-05-24T21:58:22Z",
   "groups": [
     {
       "region": "Македонија",
@@ -42,6 +42,18 @@
         },
         {
           "source": "NetPress",
+          "title": "Серија А: Милан и Јувентус без Лигата на шампионите, каде одат Рома и Комо",
+          "link": "https://netpress.com.mk/serija-a-milan-i-juventus-bez-ligata-na-shampionite-kade-odat-roma-i-komo/",
+          "published": "Sun, 24 May 2026 21:35:28 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Олимпијакос по 13 години ја освои Евролигата",
+          "link": "https://netpress.com.mk/olimpijakos-po-13-godini-ja-osvoi-evroligata/",
+          "published": "Sun, 24 May 2026 21:11:27 +0000"
+        },
+        {
+          "source": "NetPress",
           "title": "Новиот филм на „Ѕвездените војни“ отвори со околу 165 милиони долари",
           "link": "https://netpress.com.mk/noviot-film-na-zvezdenite-vojni-otvori-so-okolu-165-milioni-dolari/",
           "published": "Sun, 24 May 2026 20:50:51 +0000"
@@ -57,18 +69,6 @@
           "title": "Витилигото погодува еден од 100 луѓе – сепак, оваа состојба на кожата останува погрешно разбрана",
           "link": "https://netpress.com.mk/vitiligoto-pogoduva-eden-od-100-luge-sepak-ovaa-sostojba-na-kozhata-ostanuva-pogreshno-razbrana/",
           "published": "Sun, 24 May 2026 20:07:44 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "ГРК Охрид со минимална победа над Татабања во првиот финален меч",
-          "link": "https://netpress.com.mk/grk-ohrid-so-minimalna-pobeda-nad-tatabana-vo-prviot-finalen-mech/",
-          "published": "Sun, 24 May 2026 19:45:10 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "ВИДЕО| Одложено дербито во Торино поради навивачки судири",
-          "link": "https://netpress.com.mk/video-odlozheno-derbito-vo-torino-poradi-navivachki-sudiri/",
-          "published": "Sun, 24 May 2026 19:35:24 +0000"
         }
       ]
     },
@@ -95,15 +95,27 @@
         },
         {
           "source": "BBC",
+          "title": "She was told to marry in a country which bans girls' education. So she got in a taxi and fled",
+          "link": "https://www.bbc.com/news/articles/ce3pgn48wnqo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 24 May 2026 21:02:08 GMT"
+        },
+        {
+          "source": "BBC",
           "title": "BBC at the site of China's worst mining disaster in more than a decade",
           "link": "https://www.bbc.com/news/videos/c809m33yjz7o?at_medium=RSS&at_campaign=rss",
           "published": "Sun, 24 May 2026 10:34:52 GMT"
         },
         {
-          "source": "BBC",
-          "title": "Blast targeting train kills at least 20 in Pakistan",
-          "link": "https://www.bbc.com/news/articles/cm2pkd58xldo?at_medium=RSS&at_campaign=rss",
-          "published": "Sun, 24 May 2026 12:26:09 GMT"
+          "source": "Al Jazeera",
+          "title": "After San Diego shooting, Muslim Americans aim to turn grief into action",
+          "link": "https://www.aljazeera.com/news/2026/5/24/after-san-diego-shooting-muslim-americans-want-to-turn-grief-into-action?traffic_source=rss",
+          "published": "Sun, 24 May 2026 21:25:53 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Pakistan’s Eid livestock traders losing as war on Iran pushes up prices",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/5/24/pakistans-eid-livestock-traders-losing-as-war-on-iran-pushes-up-prices?traffic_source=rss",
+          "published": "Sun, 24 May 2026 21:03:51 +0000"
         },
         {
           "source": "Al Jazeera",
@@ -122,18 +134,6 @@
           "title": "Ebola spreads in the DRC as authorities struggle to contain outbreak",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/5/24/ebola-spreads-in-the-drc-as-authorities-struggle-to-contain-outbreak?traffic_source=rss",
           "published": "Sun, 24 May 2026 19:57:56 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "How will Iran war fallout impact upcoming US elections?",
-          "link": "https://www.aljazeera.com/video/the-bottom-line/2026/5/24/how-will-iran-war-fallout-impact-upcoming-us-elections?traffic_source=rss",
-          "published": "Sun, 24 May 2026 19:30:00 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Israeli strikes kill six in southern Lebanon amid fresh evacuation orders",
-          "link": "https://www.aljazeera.com/news/2026/5/24/israeli-strikes-kill-six-in-southern-lebanon-amid-fresh-evacuation-orders?traffic_source=rss",
-          "published": "Sun, 24 May 2026 19:09:33 +0000"
         }
       ]
     }
