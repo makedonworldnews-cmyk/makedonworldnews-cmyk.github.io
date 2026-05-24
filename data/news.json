@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-24T16:15:42Z",
+  "updatedAt": "2026-05-24T17:27:59Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,24 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) Тотенхем се спаси, Вест Хем испадна од Премиер лигата",
+          "link": "https://makfax.com.mk/sport/video-totenhem-se-spasi-vest-hem-ispadna-od-premier-ligata/",
+          "published": "Sun, 24 May 2026 17:20:00 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "ГРК Охрид победи кај Татабања, еден меч го дели од триумфален крај на европската сезона",
+          "link": "https://makfax.com.mk/sport/grk-ohrid-pobedi-kaj-tatabanja-eden-mech-go-deli-od-triumfalen-kraj-na-evropskata-sezona/",
+          "published": "Sun, 24 May 2026 17:05:57 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Маж нападнал дете во училиште во Илинден",
+          "link": "https://makfax.com.mk/crna-hronika/mazh-napadnal-dete-vo-uchilishte-vo-ilinden/",
+          "published": "Sun, 24 May 2026 16:53:53 +0000"
         },
         {
           "source": "Makfax",
@@ -23,46 +41,34 @@
           "published": "Sun, 24 May 2026 14:55:54 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Бомба разнесе воз со воен персонал во Пакистан",
-          "link": "https://makfax.com.mk/svet/bomba-raznese-voz-so-voen-personal-vo-pakistan/",
-          "published": "Sun, 24 May 2026 14:41:26 +0000"
+          "source": "NetPress",
+          "title": "Уапсени петмина скопјани во Аеродром оти „атресивно се однесувале“ кон полицајци",
+          "link": "https://netpress.com.mk/uapseni-petmina-skopjani-vo-aerodrom-oti-atresivno-se-odnesuvale-kon-policzajczi/",
+          "published": "Sun, 24 May 2026 17:18:59 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Мицкоцки: Jас не влегов во политиката за смислување изговори, туку за ставање ред",
-          "link": "https://makfax.com.mk/makedonija/mickocki-jas-ne-vlegov-vo-politikata-za-smisluvanje-izgovori-tuku-za-stavanje-red/",
-          "published": "Sun, 24 May 2026 14:29:14 +0000"
+          "source": "NetPress",
+          "title": "Трамп вели дека нема брзање за договор со Иран и дека американската блокада останува",
+          "link": "https://netpress.com.mk/tramp-veli-deka-nema-brzane-za-dogovor-so-iran-i-deka-amerikanskata-blokada-ostanuva/",
+          "published": "Sun, 24 May 2026 16:52:06 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Алисон ги договори личните услови, Ливерпул ја одреди цената",
-          "link": "https://makfax.com.mk/sport/alison-gi-dogovori-lichnite-uslovi-liverpul-ja-odredi-cenata/",
-          "published": "Sun, 24 May 2026 14:10:57 +0000"
+          "source": "NetPress",
+          "title": "Петмина уапсени за семејно насилство во само едно деноноќие",
+          "link": "https://netpress.com.mk/petmina-uapseni-za-semejno-nasilstvo-vo-samo-edno-denonokie/",
+          "published": "Sun, 24 May 2026 16:44:30 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Мицкоски: Македонија се соочува со неправедна блокада на патот кон ЕУ",
+          "link": "https://netpress.com.mk/mickoski-nepravedna-blokada-eu-ohrid-svechena-akademija/",
+          "published": "Sun, 24 May 2026 16:18:18 +0000"
         },
         {
           "source": "NetPress",
           "title": "ВИДЕО| Турскaта полиција интервенираше во седиштето на опозициската партија",
           "link": "https://netpress.com.mk/video-turskata-policzija-intervenirashe-vo-sedishteto-na-opozicziskata-partija/",
           "published": "Sun, 24 May 2026 15:53:03 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Премиерот повика на народно и интелектуално обединување: Ова е последната шанса за Македонија",
-          "link": "https://netpress.com.mk/premierot-povika-na-narodno-i-intelektualno-obedinuvane-ova-e-poslednata-shansa-za-makedonija/",
-          "published": "Sun, 24 May 2026 15:43:49 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Го пцуел, па го удирал со шлаканици и тупаници – татко се нафрлил на малолетeн противник на неговиот син",
-          "link": "https://netpress.com.mk/go-pczuel-pa-go-udiral-so-shlakaniczi-i-tupaniczi-tatko-se-nafrlil-na-maloleten-protivnik-na-negoviot-sin/",
-          "published": "Sun, 24 May 2026 15:29:46 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Уапсени 14 возачи, осум биле без возачка дозвола",
-          "link": "https://netpress.com.mk/uapseni-14-vozachi-osum-bile-bez-vozachka-dozvola/",
-          "published": "Sun, 24 May 2026 14:58:29 +0000"
         }
       ]
     },
@@ -79,7 +85,7 @@
           "source": "BBC",
           "title": "Large-scale Russian attack on Ukraine leaves four dead and dozens injured",
           "link": "https://www.bbc.com/news/articles/clyp6831yp5o?at_medium=RSS&at_campaign=rss",
-          "published": "Sun, 24 May 2026 13:02:02 GMT"
+          "published": "Sun, 24 May 2026 16:50:46 GMT"
         },
         {
           "source": "BBC",
@@ -95,39 +101,39 @@
         },
         {
           "source": "BBC",
-          "title": "Turkish police storm opposition offices after leaders ousted",
+          "title": "Turkish riot police storm opposition offices after leaders ousted",
           "link": "https://www.bbc.com/news/articles/c87qwrqre83o?at_medium=RSS&at_campaign=rss",
-          "published": "Sun, 24 May 2026 15:20:35 GMT"
+          "published": "Sun, 24 May 2026 16:30:50 GMT"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Iran team trains through World Cup uncertainty",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/5/24/iran-team-trains-through-world-cup-uncertainty?traffic_source=rss",
+          "published": "Sun, 24 May 2026 16:40:39 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Turkish police storm main opposition CHP’s party headquarters",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/5/24/turkish-police-storm-main-opposition-chps-party-headquarters?traffic_source=rss",
+          "published": "Sun, 24 May 2026 16:28:19 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "China’s Shenzhou-23 astronauts blast off on space station mission",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/5/24/chinas-shenzhou-23-astronauts-blast-off-on-space-station-mission?traffic_source=rss",
+          "published": "Sun, 24 May 2026 16:26:09 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Iran recounts historic battles in response to Trump’s talk of agreement",
+          "link": "https://www.aljazeera.com/news/2026/5/24/iran-recounts-historic-battles-in-response-to-trumps-talk-of-agreement?traffic_source=rss",
+          "published": "Sun, 24 May 2026 16:18:19 +0000"
         },
         {
           "source": "Al Jazeera",
           "title": "‘A paper city’: New York ‘library’ hosts 3.5 million pages of Epstein files",
           "link": "https://www.aljazeera.com/features/2026/5/24/a-paper-city-new-york-library-hosts-3-5-million-pages-of-epstein-files?traffic_source=rss",
           "published": "Sun, 24 May 2026 15:15:26 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "China sends aid to Cuba amid a harsh US blockade",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/5/24/china-sends-aid-to-cuba-amid-a-harsh-us-blockade?traffic_source=rss",
-          "published": "Sun, 24 May 2026 15:14:10 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Bahrain jails nine defendants for life for ‘cooperating’ with Iran’s IRGC",
-          "link": "https://www.aljazeera.com/news/2026/5/24/bahrain-jails-nine-defendants-for-life-for-cooperating-with-irans-irgc?traffic_source=rss",
-          "published": "Sun, 24 May 2026 14:16:50 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "France bans Ben-Gvir: Which other Israeli leaders have been penalised?",
-          "link": "https://www.aljazeera.com/news/2026/5/24/france-bans-ben-gvir-which-other-israeli-leaders-have-been-penalised?traffic_source=rss",
-          "published": "Sun, 24 May 2026 14:01:27 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "For third year in a row, Israel blocks Hajj pilgrimage for Gaza Muslims",
-          "link": "https://www.aljazeera.com/news/2026/5/24/for-third-year-in-a-row-israel-blocks-hajj-pilgrimage-for-gaza-muslims?traffic_source=rss",
-          "published": "Sun, 24 May 2026 14:00:23 +0000"
         }
       ]
     }
