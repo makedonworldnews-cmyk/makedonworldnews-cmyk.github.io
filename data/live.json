@@ -1,6 +1,27 @@
 {
-  "generated_at": "2026-05-24T23:41:30Z",
+  "generated_at": "2026-05-25T01:53:46Z",
   "items": [
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "(Видео) Милан и Јувентус останаа без ЛШ",
+      "link": "https://makfax.com.mk/sport/video-milan-i-juventus-ostanaa-bez-lsh/",
+      "published": "Mon, 25 May 2026 00:47:57 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "Спектакл во Канада и нова победа на Антонели",
+      "link": "https://makfax.com.mk/sport/spektakl-vo-kanada-i-nova-pobeda-na-antoneli/",
+      "published": "Mon, 25 May 2026 00:30:00 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "Олимпијакос преку Реал до европската титула",
+      "link": "https://makfax.com.mk/sport/olimpijakos-preku-real-do-evropskata-titula/",
+      "published": "Mon, 25 May 2026 00:19:56 +0000"
+    },
     {
       "region": "Македонија",
       "source": "Makfax",
@@ -14,27 +35,6 @@
       "title": "Во автобус што сообраќал од Германија кон Македонија откриени непријавени 34.965 евра кај патник од Теарце",
       "link": "https://makfax.com.mk/crna-hronika/vo-avtobus-shto-soobrakal-od-germanija-kon-makedonija-otkrieni-neprijaveni-34-965-evra-kaj-patnik-od-tearce/",
       "published": "Sun, 24 May 2026 18:18:32 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "Makfax",
-      "title": "МВР и Шумската полиција одземаат украдени огревни дрва",
-      "link": "https://makfax.com.mk/crna-hronika/mvr-i-shumskata-policija-odzemaat-ukradeni-ogrevni-drva/",
-      "published": "Sun, 24 May 2026 18:14:54 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "Makfax",
-      "title": "Најмалку 11 лица загинаа во израелски напад врз Либан",
-      "link": "https://makfax.com.mk/svet/najmalku-11-lica-zaginaa-vo-izraelski-napad-vrz-liban/",
-      "published": "Sun, 24 May 2026 18:01:28 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "Makfax",
-      "title": "(Видео) Крајот на Премиер лигата никогаш не бил поемотивен",
-      "link": "https://makfax.com.mk/sport/video-krajot-na-premier-ligata-nikogash-ne-bil-poemotiven/",
-      "published": "Sun, 24 May 2026 17:31:00 +0000"
     },
     {
       "region": "Македонија",
@@ -76,7 +76,7 @@
       "source": "BBC",
       "title": "Trump tells US negotiators 'not to rush' into deal with Iran",
       "link": "https://www.bbc.com/news/articles/clyp0040x7po?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 24 May 2026 20:26:26 GMT"
+      "published": "Mon, 25 May 2026 01:07:15 GMT"
     },
     {
       "region": "Свет",
@@ -109,6 +109,13 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "LIVE: Trump says Iran deal not ‘fully negotiated yet’",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/5/24/live-trump-says-iran-deal-not-fully-negotiated-yet?traffic_source=rss",
+      "published": "Sun, 24 May 2026 23:58:02 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "Ecuador’s Noboa pledges to extradite criminals in State of the Union speech",
       "link": "https://www.aljazeera.com/news/2026/5/24/ecuadors-noboa-pledges-to-extradite-criminals-in-state-of-the-union-speech?traffic_source=rss",
       "published": "Sun, 24 May 2026 22:04:28 +0000"
@@ -133,13 +140,6 @@
       "title": "After San Diego shooting, Muslim Americans aim to turn grief into action",
       "link": "https://www.aljazeera.com/news/2026/5/24/after-san-diego-shooting-muslim-americans-want-to-turn-grief-into-action?traffic_source=rss",
       "published": "Sun, 24 May 2026 21:25:53 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Pakistan’s Eid livestock traders losing as war on Iran pushes up prices",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/24/pakistans-eid-livestock-traders-losing-as-war-on-iran-pushes-up-prices?traffic_source=rss",
-      "published": "Sun, 24 May 2026 21:03:51 +0000"
     }
   ]
 }
