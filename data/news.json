@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-25T00:11:16Z",
+  "updatedAt": "2026-05-25T04:55:31Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,24 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) Милан и Јувентус останаа без ЛШ",
+          "link": "https://makfax.com.mk/sport/video-milan-i-juventus-ostanaa-bez-lsh/",
+          "published": "Mon, 25 May 2026 00:47:57 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Спектакл во Канада и нова победа на Антонели",
+          "link": "https://makfax.com.mk/sport/spektakl-vo-kanada-i-nova-pobeda-na-antoneli/",
+          "published": "Mon, 25 May 2026 00:30:00 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Олимпијакос преку Реал до европската титула",
+          "link": "https://makfax.com.mk/sport/olimpijakos-preku-real-do-evropskata-titula/",
+          "published": "Mon, 25 May 2026 00:19:56 +0000"
         },
         {
           "source": "Makfax",
@@ -23,22 +41,10 @@
           "published": "Sun, 24 May 2026 18:18:32 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "МВР и Шумската полиција одземаат украдени огревни дрва",
-          "link": "https://makfax.com.mk/crna-hronika/mvr-i-shumskata-policija-odzemaat-ukradeni-ogrevni-drva/",
-          "published": "Sun, 24 May 2026 18:14:54 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Најмалку 11 лица загинаа во израелски напад врз Либан",
-          "link": "https://makfax.com.mk/svet/najmalku-11-lica-zaginaa-vo-izraelski-napad-vrz-liban/",
-          "published": "Sun, 24 May 2026 18:01:28 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "(Видео) Крајот на Премиер лигата никогаш не бил поемотивен",
-          "link": "https://makfax.com.mk/sport/video-krajot-na-premier-ligata-nikogash-ne-bil-poemotiven/",
-          "published": "Sun, 24 May 2026 17:31:00 +0000"
+          "source": "NetPress",
+          "title": "Времето сончево и топло, попладне можен дожд",
+          "link": "https://netpress.com.mk/vremeto-sonchevo-i-toplo-popladne-mozhen-dozhd/",
+          "published": "Mon, 25 May 2026 04:37:26 +0000"
         },
         {
           "source": "NetPress",
@@ -63,12 +69,6 @@
           "title": "Екстремната десница и инфлуенсерите постигнаа успех на кипарските избори",
           "link": "https://netpress.com.mk/ekstremnata-desnicza-i-influenserite-postignaa-uspeh-na-kiparskite-izbori/",
           "published": "Sun, 24 May 2026 20:14:08 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Витилигото погодува еден од 100 луѓе – сепак, оваа состојба на кожата останува погрешно разбрана",
-          "link": "https://netpress.com.mk/vitiligoto-pogoduva-eden-od-100-luge-sepak-ovaa-sostojba-na-kozhata-ostanuva-pogreshno-razbrana/",
-          "published": "Sun, 24 May 2026 20:07:44 +0000"
         }
       ]
     },
@@ -79,19 +79,7 @@
           "source": "BBC",
           "title": "Trump tells US negotiators 'not to rush' into deal with Iran",
           "link": "https://www.bbc.com/news/articles/clyp0040x7po?at_medium=RSS&at_campaign=rss",
-          "published": "Sun, 24 May 2026 20:26:26 GMT"
-        },
-        {
-          "source": "BBC",
-          "title": "Large-scale Russian attack on Ukraine leaves four dead and dozens injured",
-          "link": "https://www.bbc.com/news/articles/clyp6831yp5o?at_medium=RSS&at_campaign=rss",
-          "published": "Sun, 24 May 2026 16:50:46 GMT"
-        },
-        {
-          "source": "BBC",
-          "title": "Turkish riot police storm opposition offices after leaders ousted",
-          "link": "https://www.bbc.com/news/articles/c87qwrqre83o?at_medium=RSS&at_campaign=rss",
-          "published": "Sun, 24 May 2026 19:49:39 GMT"
+          "published": "Mon, 25 May 2026 04:16:33 GMT"
         },
         {
           "source": "BBC",
@@ -101,39 +89,51 @@
         },
         {
           "source": "BBC",
-          "title": "BBC at the site of China's worst mining disaster in more than a decade",
-          "link": "https://www.bbc.com/news/videos/c809m33yjz7o?at_medium=RSS&at_campaign=rss",
-          "published": "Sun, 24 May 2026 10:34:52 GMT"
+          "title": "Large-scale Russian attack on Ukraine leaves four dead and dozens injured",
+          "link": "https://www.bbc.com/news/articles/clyp6831yp5o?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 25 May 2026 04:45:13 GMT"
+        },
+        {
+          "source": "BBC",
+          "title": "Turkish riot police storm opposition offices after leaders ousted",
+          "link": "https://www.bbc.com/news/articles/c87qwrqre83o?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 24 May 2026 19:49:39 GMT"
+        },
+        {
+          "source": "BBC",
+          "title": "Blast targeting train kills at least 20 in Pakistan",
+          "link": "https://www.bbc.com/news/articles/cm2pkd58xldo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 24 May 2026 22:11:51 GMT"
         },
         {
           "source": "Al Jazeera",
-          "title": "LIVE: Trump says Iran deal not ‘fully negotiated yet’",
-          "link": "https://www.aljazeera.com/news/liveblog/2026/5/24/live-trump-says-iran-deal-not-fully-negotiated-yet?traffic_source=rss",
-          "published": "Sun, 24 May 2026 23:58:02 +0000"
+          "title": "Africa Day 2026: Has the continent achieved true liberation?",
+          "link": "https://www.aljazeera.com/news/2026/5/25/africa-day-2026-has-the-continent-achieved-true-liberation?traffic_source=rss",
+          "published": "Mon, 25 May 2026 03:51:13 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Ecuador’s Noboa pledges to extradite criminals in State of the Union speech",
-          "link": "https://www.aljazeera.com/news/2026/5/24/ecuadors-noboa-pledges-to-extradite-criminals-in-state-of-the-union-speech?traffic_source=rss",
-          "published": "Sun, 24 May 2026 22:04:28 +0000"
+          "title": "Mexico City paints record-breaking football mural ahead of World Cup",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/5/25/aje-onl-nf_mexico-city-unveils-record-breaking-mural-240526?traffic_source=rss",
+          "published": "Mon, 25 May 2026 03:51:04 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Cuba thanks China for rice shipment amid worsening humanitarian conditions",
-          "link": "https://www.aljazeera.com/news/2026/5/24/cuba-thanks-china-for-rice-shipment-amid-worsening-humanitarian-conditions?traffic_source=rss",
-          "published": "Sun, 24 May 2026 21:53:15 +0000"
+          "title": "Russia invites media to view deadly strike on college in Luhansk",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/5/25/russia-invites-media-to-view-deadly-strike-on-college-in-luhansk?traffic_source=rss",
+          "published": "Mon, 25 May 2026 03:40:25 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Inside a Beirut barbershop shaped by war and crisis",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/5/24/inside-a-beirut-barbershop-shaped-by-war-and-crisis?traffic_source=rss",
-          "published": "Sun, 24 May 2026 21:40:40 +0000"
+          "title": "Building collapse in Philippines leaves 3 dead, 17 missing",
+          "link": "https://www.aljazeera.com/news/2026/5/25/building-collapse-in-philippines-leaves-3-dead-17-missing?traffic_source=rss",
+          "published": "Mon, 25 May 2026 02:57:23 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "After San Diego shooting, Muslim Americans aim to turn grief into action",
-          "link": "https://www.aljazeera.com/news/2026/5/24/after-san-diego-shooting-muslim-americans-want-to-turn-grief-into-action?traffic_source=rss",
-          "published": "Sun, 24 May 2026 21:25:53 +0000"
+          "title": "Oil prices fall amid mixed signals on US-Iran peace deal",
+          "link": "https://www.aljazeera.com/economy/2026/5/25/oil-prices-fall-amid-mixed-signals-on-us-iran-peace-deal?traffic_source=rss",
+          "published": "Mon, 25 May 2026 01:55:21 +0000"
         }
       ]
     }
