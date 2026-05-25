@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-25T17:24:55Z",
+  "updatedAt": "2026-05-25T19:02:15Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,24 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Советникот на врховниот лидер на Иран до САД: Ако продолжите со војната, ќе им го загорчиме животот на американскиот народ",
+          "link": "https://makfax.com.mk/svet/sovetnikot-na-vrhovniot-lider-na-iran-do-sad-ako-prodolzhite-so-vojnata-ke-im-go-zagorchime-zhivotot-na-amerikanskiot-narod/",
+          "published": "Mon, 25 May 2026 18:43:58 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Герасимовски за свлечиштето во Центар: Обезбеден просторот и санкциониран инвеститорот, итна реакција на општината",
+          "link": "https://makfax.com.mk/makedonija/gerasimovski-za-svlechishteto-vo-centar-obezbeden-prostorot-i-sankcioniran-investitorot-itna-reakcija-na-opshtinata/",
+          "published": "Mon, 25 May 2026 18:16:27 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Трамп: Договорот со Иран ќе биде одличен, или нема да го има",
+          "link": "https://makfax.com.mk/svet/tramp-dogovorot-so-iran-ke-bide-odlichen-ili-nema-da-go-ima/",
+          "published": "Mon, 25 May 2026 17:43:18 +0000"
         },
         {
           "source": "Makfax",
@@ -23,52 +41,34 @@
           "published": "Mon, 25 May 2026 17:09:21 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "(Видео) Свлечиште на градилиште во Скопје: оштетена инфраструктура, кабли за струја",
-          "link": "https://makfax.com.mk/makedonija/video-svlechishte-na-gradilishte-vo-skopje-oshtetena-infrastruktura-kabli-za-struja/",
-          "published": "Mon, 25 May 2026 17:01:12 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Алегри е пред отказ, навивачите вербално се пресметаа со Ибрахимовиќ",
-          "link": "https://makfax.com.mk/sport/alegri-e-pred-otkaz-navivachite-verbalno-se-presmetaa-so-ibrahimovik/",
-          "published": "Mon, 25 May 2026 16:58:01 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Вучиќ одликуван со орден во Кина: „Ова е една од најважните посети во мојата кариера“",
-          "link": "https://makfax.com.mk/svet/region/vuchik-odlikuvan-so-orden-vo-kina-ova-e-edna-od-najvazhnite-poseti-vo-mojata-kariera/",
-          "published": "Mon, 25 May 2026 16:37:10 +0000"
+          "source": "NetPress",
+          "title": "Топлотен бран ја погоди Европа, Британија забележа рекордна мајска температура",
+          "link": "https://netpress.com.mk/toploten-bran-ja-pogodi-evropa-britanija-zabelezha-rekordna-majska-temperatura/",
+          "published": "Mon, 25 May 2026 18:55:37 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Итна реакција на Општина Центар – обезбеден просторот и санкциониран инвеститорот",
-          "link": "https://netpress.com.mk/itna-reakczija-na-opshtina-czentar-obezbeden-prostorot-i-sankczioniran-investitorot/",
-          "published": "Mon, 25 May 2026 17:24:00 +0000"
+          "title": "Либанскиoт претседател: Повлекувањето на Израел од југот останува приоритетно барање",
+          "link": "https://netpress.com.mk/libanskiot-pretsedatel-povlekuvaneto-na-izrael-od-jugot-ostanuva-prioritetno-barane/",
+          "published": "Mon, 25 May 2026 18:46:30 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Казахстанскиот цевковод транспортирал значително помалку нафта во првиот квартал",
-          "link": "https://netpress.com.mk/kazahstanskiot-czevkovod-transportiral-znachitelno-pomalku-nafta-vo-prviot-kvartal/",
-          "published": "Mon, 25 May 2026 17:12:22 +0000"
+          "title": "Технолошките гиганти во Британија заработуваат до 194.000 фунти по корисник од податоци",
+          "link": "https://netpress.com.mk/tehnoloshkite-giganti-vo-britanija-zarabotuvaat-do-194-000-funti-po-korisnik-od-podatoczi/",
+          "published": "Mon, 25 May 2026 18:40:46 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Чистка на Сан Сиро, отпуштени Алегри и директорите",
-          "link": "https://netpress.com.mk/chistka-na-san-siro-otpushteni-alegri-i-direktorite/",
-          "published": "Mon, 25 May 2026 16:59:56 +0000"
+          "title": "За влакно избегната трагедија во Општина Центар – багер затрупан, багеристот успеал навреме да излезе",
+          "link": "https://netpress.com.mk/za-vlakno-izbegnata-tragedija-vo-opshtina-czentar-bager-zatrupan-bageristot-uspeal-navreme-da-izleze/",
+          "published": "Mon, 25 May 2026 18:24:58 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Дебатата за керозинот ги вознемири Германците",
-          "link": "https://netpress.com.mk/debatata-za-kerozinot-gi-voznemiri-germanczite/",
-          "published": "Mon, 25 May 2026 16:43:09 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Тотенхем не е на продажба",
-          "link": "https://netpress.com.mk/totenhem-ne-e-na-prodazhba/",
-          "published": "Mon, 25 May 2026 16:19:11 +0000"
+          "title": "Конте веќе не е тренер на Наполи",
+          "link": "https://netpress.com.mk/konte-veke-ne-e-trener-na-napoli/",
+          "published": "Mon, 25 May 2026 18:18:20 +0000"
         }
       ]
     },
@@ -91,7 +91,7 @@
           "source": "BBC",
           "title": "Russia threatens more Kyiv strikes and tells foreign nationals to leave",
           "link": "https://www.bbc.com/news/articles/c1e22n55zn4o?at_medium=RSS&at_campaign=rss",
-          "published": "Mon, 25 May 2026 17:11:50 GMT"
+          "published": "Mon, 25 May 2026 17:42:26 GMT"
         },
         {
           "source": "BBC",
@@ -107,33 +107,33 @@
         },
         {
           "source": "Al Jazeera",
-          "title": "Over 1.5 million pilgrims begin Hajj amid regional tensions",
-          "link": "https://www.aljazeera.com/gallery/2026/5/25/over-1-5-million-pilgrims-begin-hajj-amid-regional-tensions?traffic_source=rss",
-          "published": "Mon, 25 May 2026 17:05:49 +0000"
+          "title": "Bolivia’s embattled president says will take a 50 percent salary cut",
+          "link": "https://www.aljazeera.com/economy/2026/5/25/bolivias-embattled-president-says-will-take-a-50-percent-salary-cut?traffic_source=rss",
+          "published": "Mon, 25 May 2026 18:31:09 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "How technology is shaping Hajj",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/5/25/how-technology-is-shaping-hajj?traffic_source=rss",
-          "published": "Mon, 25 May 2026 16:30:50 +0000"
+          "title": "Mexico says it will host Iranian team during 2026 FIFA World Cup",
+          "link": "https://www.aljazeera.com/news/2026/5/25/mexico-says-it-will-host-iranian-team-during-2026-fifa-world-cup?traffic_source=rss",
+          "published": "Mon, 25 May 2026 18:11:02 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Pope says AI must be ‘disarmed’ to prevent domination, exclusion, and death",
-          "link": "https://www.aljazeera.com/news/2026/5/25/pope-says-ai-must-be-disarmed-to-prevent-domination-exclusion-and-death?traffic_source=rss",
-          "published": "Mon, 25 May 2026 16:26:46 +0000"
+          "title": "Israel escalates Gaza attacks as Netanyahu stalls ceasefire for polls",
+          "link": "https://www.aljazeera.com/news/2026/5/25/israel-escalates-gaza-attacks-as-netanyahu-stalls-ceasefire-for-polls?traffic_source=rss",
+          "published": "Mon, 25 May 2026 17:46:09 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Rescuers search for survivors after hotel collapse in Philippines",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/5/25/rescuers-search-for-survivors-after-hotel-collapse-in-philippines?traffic_source=rss",
-          "published": "Mon, 25 May 2026 16:26:12 +0000"
+          "title": "Subdued Lebanon Liberation Day celebrations under new Israeli occupation",
+          "link": "https://www.aljazeera.com/features/2026/5/25/subdued-lebanon-liberation-day-celebrations-under-new-israeli-occupation?traffic_source=rss",
+          "published": "Mon, 25 May 2026 17:39:54 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Russia warns foreigners to leave Kyiv as it prepares ‘systematic strikes’",
-          "link": "https://www.aljazeera.com/news/2026/5/25/russia-warns-foreigners-to-leave-kyiv-as-it-prepares-systematic-strikes?traffic_source=rss",
-          "published": "Mon, 25 May 2026 16:12:52 +0000"
+          "title": "Tunisian court hands presidential critic Sonia Dahmani new jail term",
+          "link": "https://www.aljazeera.com/news/2026/5/25/tunisian-court-hands-presidential-critic-sonia-dahmani-new-jail-term?traffic_source=rss",
+          "published": "Mon, 25 May 2026 17:39:48 +0000"
         }
       ]
     }
