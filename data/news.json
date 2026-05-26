@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-26T19:47:56Z",
+  "updatedAt": "2026-05-26T21:22:05Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Не им приоѓајте на овие хороскопски знаци пред да го испијат првото кафе",
+          "link": "https://makfax.com.mk/zanimlivosti/ne-im-priogajte-na-ovie-horoskopski-znaci-pred-da-go-ispijat-prvoto-kafe/",
+          "published": "Tue, 26 May 2026 19:51:22 +0000"
         },
         {
           "source": "Makfax",
@@ -35,10 +41,16 @@
           "published": "Tue, 26 May 2026 17:58:14 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Русија им ги простува долговите на новите војници за војната во Украина",
-          "link": "https://makfax.com.mk/svet/rusija-im-gi-prostuva-dolgovite-na-novite-vojnici-za-vojnata-vo-ukraina/",
-          "published": "Tue, 26 May 2026 17:50:56 +0000"
+          "source": "NetPress",
+          "title": "СП 2026: Мароко без Ен-Несири и Зиеш на мундијалот",
+          "link": "https://netpress.com.mk/sp-2026-maroko-bez-en-nesiri-i-ziesh-na-mundijalot/",
+          "published": "Tue, 26 May 2026 21:01:50 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Трамп вели дека е во „совршена“ здравствена состојба по лекарскиот преглед",
+          "link": "https://netpress.com.mk/tramp-veli-deka-e-vo-sovrshena-zdravstvena-sostojba-po-lekarskiot-pregled/",
+          "published": "Tue, 26 May 2026 20:21:11 +0000"
         },
         {
           "source": "NetPress",
@@ -57,18 +69,6 @@
           "title": "Израел ја проширува копнената операција во јужен Либан надвор од жолтата линија",
           "link": "https://netpress.com.mk/izrael-ja-proshiruva-kopnenata-operaczija-vo-juzhen-liban-nadvor-od-zholtata-linija/",
           "published": "Tue, 26 May 2026 18:42:20 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Минибусот во кој беа фатени 500.000 евра на ГП Табановце, од Германија требало да стигне во Албанија",
-          "link": "https://netpress.com.mk/minibusot-vo-koj-bea-fateni-500-000-evra-na-gp-tabanovcze-od-germanija-trebalo-da-stigne-vo-albanija/",
-          "published": "Tue, 26 May 2026 18:28:33 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Новиот американски напад врз Иран ги крена цените на нафтата над 100 долари",
-          "link": "https://netpress.com.mk/noviot-amerikanski-napad-vrz-iran-gi-krena-czenite-na-naftata-nad-100-dolari/",
-          "published": "Tue, 26 May 2026 18:07:53 +0000"
         }
       ]
     },
@@ -107,33 +107,33 @@
         },
         {
           "source": "Al Jazeera",
-          "title": "Russia slams US for not granting visa to diplomat for UN meeting",
-          "link": "https://www.aljazeera.com/news/2026/5/26/russia-slams-us-for-not-granting-visa-to-diplomat-for-un-meeting?traffic_source=rss",
-          "published": "Tue, 26 May 2026 18:54:24 +0000"
+          "title": "US picks potential partners for using Cold War-era plutonium as fuel",
+          "link": "https://www.aljazeera.com/economy/2026/5/26/us-picks-potential-partners-for-using-cold-war-era-plutonium-as-fuel?traffic_source=rss",
+          "published": "Tue, 26 May 2026 20:33:56 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Former Arsenal midfielder Partey named in Ghana squad ahead of World Cup",
-          "link": "https://www.aljazeera.com/sports/2026/5/26/former-arsenal-midfielder-partey-named-in-ghana-squad-ahead-of-world-cup?traffic_source=rss",
-          "published": "Tue, 26 May 2026 17:45:39 +0000"
+          "title": "Trump-led push to redraw Congress maps faces setbacks in Southern states",
+          "link": "https://www.aljazeera.com/news/2026/5/26/trump-led-push-to-redraw-congress-maps-faces-setbacks-in-southern-states?traffic_source=rss",
+          "published": "Tue, 26 May 2026 20:33:10 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Armenia signs strategic partnership deal with US as election approaches",
-          "link": "https://www.aljazeera.com/news/2026/5/26/armenia-signs-strategic-partnership-deal-with-us-as-election-approaches?traffic_source=rss",
-          "published": "Tue, 26 May 2026 17:27:32 +0000"
+          "title": "US Senate confirms veteran naval officer Frank Garcia as top Africa envoy",
+          "link": "https://www.aljazeera.com/news/2026/5/26/us-senate-confirms-veteran-naval-officer-frank-garcia-as-top-africa-envoy?traffic_source=rss",
+          "published": "Tue, 26 May 2026 20:22:32 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "World Cup broadcast hopes boosted in India as Zee Entertainment in talks",
-          "link": "https://www.aljazeera.com/sports/2026/5/26/world-cup-broadcast-hopes-boosted-in-india-as-zee-entertainment-in-talks?traffic_source=rss",
-          "published": "Tue, 26 May 2026 17:11:39 +0000"
+          "title": "Did Trump oversell a broken Iran ceasefire deal?",
+          "link": "https://www.aljazeera.com/video/the-take-2/2026/5/26/aje-onl-irn_mou_av_v3-260526?traffic_source=rss",
+          "published": "Tue, 26 May 2026 19:50:51 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Lebanon latest: Netanyahu vows escalation against Hezbollah",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/5/26/lebanon-latest-netanyahu-vows-escalation-against-hezbollah?traffic_source=rss",
-          "published": "Tue, 26 May 2026 17:08:31 +0000"
+          "title": "Children perform ‘mini Hajj’ in Gaza as Israel blocks pilgrims",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/5/26/children-perform-mini-hajj-in-gaza-as-israel-blocks-pilgrims?traffic_source=rss",
+          "published": "Tue, 26 May 2026 19:47:18 +0000"
         }
       ]
     }
