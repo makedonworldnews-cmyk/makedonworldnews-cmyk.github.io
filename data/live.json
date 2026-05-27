@@ -1,6 +1,13 @@
 {
-  "generated_at": "2026-05-27T21:23:27Z",
+  "generated_at": "2026-05-27T22:54:29Z",
   "items": [
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "Ентони Гордон се сели во Барселона",
+      "link": "https://makfax.com.mk/sport/entoni-gordon-se-seli-vo-barselona/",
+      "published": "Wed, 27 May 2026 21:31:56 +0000"
+    },
     {
       "region": "Македонија",
       "source": "Makfax",
@@ -31,10 +38,17 @@
     },
     {
       "region": "Македонија",
-      "source": "Makfax",
-      "title": "Хегсет: Разузнавачките информации покажуваат дека блокадата на САД му нанесува голема штета на Иран",
-      "link": "https://makfax.com.mk/svet/hegset-razuznavachkite-informacii-pokazhuvaat-deka-blokadata-na-sad-mu-nanesuva-golema-shteta-na-iran/",
-      "published": "Wed, 27 May 2026 19:50:35 +0000"
+      "source": "NetPress",
+      "title": "Трамп сè уште незадоволен од иранските предлози",
+      "link": "https://netpress.com.mk/tramp-se-ushte-nezadovolen-od-iranskite-predlozi/",
+      "published": "Wed, 27 May 2026 21:43:22 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "NetPress",
+      "title": "Кристал Палас ја освои Конференциската лига",
+      "link": "https://netpress.com.mk/kristal-palas-ja-osvoi-konferencziskata-liga/",
+      "published": "Wed, 27 May 2026 21:30:08 +0000"
     },
     {
       "region": "Македонија",
@@ -53,23 +67,9 @@
     {
       "region": "Македонија",
       "source": "NetPress",
-      "title": "Културната дипломатија е незаменлив дијалог, и во мир, и во криза",
+      "title": "Културната дипломатија е незаменлив дијалог, и во мир и во криза",
       "link": "https://netpress.com.mk/kulturnata-diplomatija-e-nezamenliv-dijalog-i-vo-mir-i-vo-kriza/",
       "published": "Wed, 27 May 2026 20:33:23 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "МВР воведува Кодекс за облекување за вработените и странките во објектите на Одделот за граѓански работи",
-      "link": "https://netpress.com.mk/mvr-voveduva-kodeks-za-oblekuvane-za-vrabotenite-i-strankite-vo-objektite-na-oddelot-za-graganski-raboti/",
-      "published": "Wed, 27 May 2026 20:23:55 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "САД имаат фаворит за висок претставник во БиХ, Додик вели дека го избркале Шмит",
-      "link": "https://netpress.com.mk/sad-imaat-favorit-za-visok-pretstavnik-vo-bih-dodik-veli-deka-go-izbrkale-shmit/",
-      "published": "Wed, 27 May 2026 20:01:00 +0000"
     },
     {
       "region": "Свет",
@@ -109,6 +109,13 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "Markets rally amid hopes of US-Iran deal",
+      "link": "https://www.aljazeera.com/news/2026/5/27/markets-rally-amid-hopes-of-us-iran-deal?traffic_source=rss",
+      "published": "Wed, 27 May 2026 21:14:12 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "Former assistant to TV star Matthew Perry sentenced to 41 months in prison",
       "link": "https://www.aljazeera.com/news/2026/5/27/former-assistant-to-tv-star-matthew-perry-sentenced-to-41-months-in-prison?traffic_source=rss",
       "published": "Wed, 27 May 2026 20:57:06 +0000"
@@ -133,13 +140,6 @@
       "title": "Ghana welcomes first group fleeing South African anti-immigration protests",
       "link": "https://www.aljazeera.com/news/2026/5/27/ghana-welcomes-first-group-escaping-south-african-anti-immigrant-protests?traffic_source=rss",
       "published": "Wed, 27 May 2026 20:55:59 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Alabama pushes US Supreme Court to approve congressional map for midterms",
-      "link": "https://www.aljazeera.com/news/2026/5/27/alabama-pushes-us-supreme-court-to-approve-congressional-map-for-midterms?traffic_source=rss",
-      "published": "Wed, 27 May 2026 20:40:05 +0000"
     }
   ]
 }
