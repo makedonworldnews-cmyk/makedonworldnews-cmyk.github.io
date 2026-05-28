@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-28T19:28:36Z",
+  "updatedAt": "2026-05-28T21:32:10Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Мафијата сакала да го киднапира Ван Бастен, се откажале за да не му помогнат на Интер против Милан",
+          "link": "https://makfax.com.mk/sport/mafijata-sakala-da-go-kidnapira-van-basten-se-otkazhale-za-da-ne-mu-pomognat-na-inter-protiv-milan/",
+          "published": "Thu, 28 May 2026 20:11:56 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Алегри ќе го наследи Конте во Наполи",
+          "link": "https://makfax.com.mk/sport/alegri-ke-go-nasledi-konte-vo-napoli/",
+          "published": "Thu, 28 May 2026 20:01:01 +0000"
         },
         {
           "source": "Makfax",
@@ -29,46 +41,34 @@
           "published": "Thu, 28 May 2026 18:06:56 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Муцунски: Не е точно дека од државата се бараат само уставни измени",
-          "link": "https://makfax.com.mk/makedonija/mucunski-ne-e-tochno-deka-od-drzhavata-se-baraat-samo-ustavni-izmeni/",
-          "published": "Thu, 28 May 2026 18:02:00 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Поради оваа грешка, садовите остануваат валкани во машината",
-          "link": "https://makfax.com.mk/zanimlivosti/poradi-ovaa-greshka-sadovite-ostanuvaat-valkani-vo-mashinata/",
-          "published": "Thu, 28 May 2026 17:35:02 +0000"
+          "source": "NetPress",
+          "title": "Скопје 2028 ќе биде креативен момент во кој нашиот главен град ја претвора културата во најсилен дипломатски јазик",
+          "link": "https://netpress.com.mk/skopje-2028-ke-bide-kreativen-moment-vo-koj-nashiot-glaven-grad-ja-pretvora-kulturata-vo-najsilen-diplomatski-jazik/",
+          "published": "Thu, 28 May 2026 20:46:08 +0000"
         },
         {
           "source": "NetPress",
-          "title": "„Безбеден град“ исфрлен од колосек, поради дефект блокирани камерите и семафорите",
-          "link": "https://netpress.com.mk/bezbeden-grad-isfrlen-od-kolosek-poradi-defekt-blokirani-kamerite-i-semaforite/",
-          "published": "Thu, 28 May 2026 19:05:44 +0000"
+          "title": "САД ќе отстрани 76 физички и правни лица од списокот за санкции",
+          "link": "https://netpress.com.mk/sad-ke-otstrani-76-fizichki-i-pravni-licza-od-spisokot-za-sankczii/",
+          "published": "Thu, 28 May 2026 20:41:14 +0000"
         },
         {
           "source": "NetPress",
-          "title": "„Нема повеќе отстапки и попустливост што не вродуваат со резултати“",
-          "link": "https://netpress.com.mk/nema-poveke-otstapki-i-popustlivost-shto-ne-vroduvaat-so-rezultati/",
-          "published": "Thu, 28 May 2026 18:57:33 +0000"
+          "title": "Карни повикува на ново партнерство меѓу САД и Канада",
+          "link": "https://netpress.com.mk/karni-povikuva-na-novo-partnerstvo-megu-sad-i-kanada/",
+          "published": "Thu, 28 May 2026 20:34:04 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Петровски повторно е назначен за селектор на женската кошаркарска јуниорска репрезентација",
-          "link": "https://netpress.com.mk/petrovski-povtorno-e-naznachen-za-selektor-na-zhenskata-kosharkarska-juniorska-reprezentaczija/",
-          "published": "Thu, 28 May 2026 18:45:49 +0000"
+          "title": "Нетанјаху нареди проширување на офанзивата во Газа на 70 отсто",
+          "link": "https://netpress.com.mk/netanjahu-naredi-proshiruvane-na-ofanzivata-vo-gaza-na-70-otsto/",
+          "published": "Thu, 28 May 2026 20:15:39 +0000"
         },
         {
           "source": "NetPress",
-          "title": "ВИДЕО| Се струполи на теренот откако славеше по речиси пет часа игра на Ролан Гарос",
-          "link": "https://netpress.com.mk/video-se-strupoli-na-terenot-otkako-slaveshe-po-rechisi-pet-chasa-igra-na-rolan-garos/",
-          "published": "Thu, 28 May 2026 17:59:34 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Во последните две години се лекуваат повеќе пациенти, а болнички буџет пораснал за 24 отсто",
-          "link": "https://netpress.com.mk/vo-poslednite-dve-godini-se-lekuvaat-poveke-paczienti-a-bolnichki-budhet-porasnal-za-24-otsto/",
-          "published": "Thu, 28 May 2026 17:45:35 +0000"
+          "title": "Италија заплени сопственост на мафијашки шеф во износ над 200 милиони евра",
+          "link": "https://netpress.com.mk/italija-zapleni-sopstvenost-na-mafijashki-shef-vo-iznos-nad-200-milioni-evra/",
+          "published": "Thu, 28 May 2026 19:51:55 +0000"
         }
       ]
     },
@@ -77,9 +77,9 @@
       "items": [
         {
           "source": "BBC",
-          "title": "Gaza City hospitals say several killed in strike, as Israel targets Hamas leaders",
-          "link": "https://www.bbc.com/news/articles/cn9p40en4ngo?at_medium=RSS&at_campaign=rss",
-          "published": "Thu, 28 May 2026 16:20:50 GMT"
+          "title": "US and Iran reach tentative deal to extend ceasefire, US officials say",
+          "link": "https://www.bbc.com/news/articles/c87qng40wz9o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 28 May 2026 20:28:12 GMT"
         },
         {
           "source": "BBC",
@@ -89,9 +89,9 @@
         },
         {
           "source": "BBC",
-          "title": "Iran says it targeted American base after fresh US strikes",
-          "link": "https://www.bbc.com/news/articles/c98r2qy5809o?at_medium=RSS&at_campaign=rss",
-          "published": "Thu, 28 May 2026 15:53:05 GMT"
+          "title": "Gaza City hospitals say several killed in strike, as Israel targets Hamas leaders",
+          "link": "https://www.bbc.com/news/articles/cn9p40en4ngo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 28 May 2026 16:20:50 GMT"
         },
         {
           "source": "BBC",
@@ -101,39 +101,39 @@
         },
         {
           "source": "BBC",
-          "title": "Villas, cars and cash: Italy seizes dead Mafia mobster's millions",
-          "link": "https://www.bbc.com/news/articles/ceqpd4gqgveo?at_medium=RSS&at_campaign=rss",
-          "published": "Thu, 28 May 2026 14:47:05 GMT"
+          "title": "Man jailed for 15 years over plot to attack Taylor Swift concert in Vienna",
+          "link": "https://www.bbc.com/news/articles/cgrp7y05l9do?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 28 May 2026 21:07:46 GMT"
         },
         {
           "source": "Al Jazeera",
-          "title": "Israel’s Netanyahu directs army to seize 70 percent of Gaza Strip",
-          "link": "https://www.aljazeera.com/news/2026/5/28/israels-netanyahu-directs-army-to-seize-70-percent-of-gaza-strip?traffic_source=rss",
-          "published": "Thu, 28 May 2026 19:03:50 +0000"
+          "title": "Europe hit by record-breaking heatwave",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/5/28/europe-hit-by-record-breaking-heatwave?traffic_source=rss",
+          "published": "Thu, 28 May 2026 20:57:10 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Rebuilding US weapons stockpile may ‘take years’ post-Iran war",
-          "link": "https://www.aljazeera.com/news/2026/5/28/us-weapon-stockpile-rebuilding-to-take-years-post-iran-war-says-report?traffic_source=rss",
-          "published": "Thu, 28 May 2026 18:36:50 +0000"
+          "title": "Demands grow for closure of US detention centre over inhumane conditions",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/5/28/demands-grow-for-closure-of-us-detention-centre-over-inhumane-conditions?traffic_source=rss",
+          "published": "Thu, 28 May 2026 20:49:52 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "US, Iran reach MoU on 60-day truce, Trump’s approval pending",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/5/28/us-iran-reach-mou-on-60-day-truce-trumps-approval-pending?traffic_source=rss",
-          "published": "Thu, 28 May 2026 18:25:32 +0000"
+          "title": "EU sanctions ‘extremist’ Israeli settlers in occupied West Bank",
+          "link": "https://www.aljazeera.com/news/2026/5/28/eu-imposes-sanctions-on-extremist-israeli-settlers-in-occupied-west-bank?traffic_source=rss",
+          "published": "Thu, 28 May 2026 20:31:05 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "US and Iran reach tentative deal for 60-day truce extension, officials say",
-          "link": "https://www.aljazeera.com/news/2026/5/28/us-and-iran-reach-tentative-deal-for-60-day-truce-extension-officials-say?traffic_source=rss",
-          "published": "Thu, 28 May 2026 18:21:14 +0000"
+          "title": "Trump administration sues states for denying ICE agents undercover plates",
+          "link": "https://www.aljazeera.com/news/2026/5/28/trump-administration-sues-states-for-denying-ice-agents-undercover-plates?traffic_source=rss",
+          "published": "Thu, 28 May 2026 20:03:31 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "CNN sues Perplexity, alleging unlawful distribution of copyrighted content",
-          "link": "https://www.aljazeera.com/economy/2026/5/28/cnn-sues-perplexity-alleging-unlawful-distribution-of-copyrighted-content?traffic_source=rss",
-          "published": "Thu, 28 May 2026 17:45:08 +0000"
+          "title": "Three wounded in Swiss train station stabbing labelled ‘act of terror’",
+          "link": "https://www.aljazeera.com/news/2026/5/28/three-wounded-in-swiss-train-station-stabbing-labelled-act-of-terror?traffic_source=rss",
+          "published": "Thu, 28 May 2026 20:00:17 +0000"
         }
       ]
     }
