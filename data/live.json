@@ -1,6 +1,20 @@
 {
-  "generated_at": "2026-05-29T22:09:24Z",
+  "generated_at": "2026-05-29T23:40:12Z",
   "items": [
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "Македонија ремизираше со БиХ",
+      "link": "https://makfax.com.mk/sport/makedonija-remizirashe-so-bih/",
+      "published": "Fri, 29 May 2026 23:37:56 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "Фонсека го елиминира Ѓоковиќ: Не верував дека можам да победам",
+      "link": "https://makfax.com.mk/sport/fonseka-go-eliminira-gokovik-ne-veruvav-deka-mozham-da-pobedam/",
+      "published": "Fri, 29 May 2026 23:25:24 +0000"
+    },
     {
       "region": "Македонија",
       "source": "Makfax",
@@ -21,20 +35,6 @@
       "title": "Зеленски: Русија подготвува нов голем напад врз Украина",
       "link": "https://makfax.com.mk/svet/zelenski-rusija-podgotvuva-nov-golem-napad-vrz-ukraina/",
       "published": "Fri, 29 May 2026 18:52:38 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "Makfax",
-      "title": "Захарова по падот на дронот во Романија: „Не покажавте никакви докази“",
-      "link": "https://makfax.com.mk/svet/zaharova-po-padot-na-dronot-vo-romanija-ne-pokazhavte-nikakvi-dokazi/",
-      "published": "Fri, 29 May 2026 18:12:58 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "Makfax",
-      "title": "Романскиот претседател: Беспилотното летало било погодено над Украина и ја сменило траекторијата",
-      "link": "https://makfax.com.mk/svet/romanskiot-pretsedatel-bespilotnoto-letalo-bilo-pogodeno-nad-ukraina-i-ja-smenilo-traektorijata/",
-      "published": "Fri, 29 May 2026 18:07:31 +0000"
     },
     {
       "region": "Македонија",
@@ -88,9 +88,16 @@
     {
       "region": "Свет",
       "source": "BBC",
-      "title": "Trump holds meeting to make 'final determination' on Iran deal",
+      "title": "No deal announced after Trump meeting to make 'final determination' on Iran",
       "link": "https://www.bbc.com/news/articles/c0r2d40r91qo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 29 May 2026 19:32:24 GMT"
+      "published": "Fri, 29 May 2026 23:30:33 GMT"
+    },
+    {
+      "region": "Свет",
+      "source": "BBC",
+      "title": "First of five men found alive in flooded Laos cave rescued",
+      "link": "https://www.bbc.com/news/articles/cvgzxjrkvn8o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 29 May 2026 18:21:11 GMT"
     },
     {
       "region": "Свет",
@@ -101,10 +108,10 @@
     },
     {
       "region": "Свет",
-      "source": "BBC",
-      "title": "Former US attorney general Pam Bondi defends her handling of Epstein files in congressional probe",
-      "link": "https://www.bbc.com/news/articles/czj2ldllgwgo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 29 May 2026 17:45:06 GMT"
+      "source": "Al Jazeera",
+      "title": "ICE agent arrested over shooting of Venezuelan man in US immigration raid",
+      "link": "https://www.aljazeera.com/news/2026/5/29/ice-agent-arrested-over-shooting-of-venezuelan-man-in-us-immigration-raid?traffic_source=rss",
+      "published": "Fri, 29 May 2026 22:52:50 +0000"
     },
     {
       "region": "Свет",
@@ -133,13 +140,6 @@
       "title": "Iran denies ceasefire deal with US is “finalised”",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/5/29/iran-denies-ceasefire-deal-with-us-is?traffic_source=rss",
       "published": "Fri, 29 May 2026 21:10:54 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "How realistic is Trump’s Iran framework?",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/29/how-realistic-is-trumps-iran-framework?traffic_source=rss",
-      "published": "Fri, 29 May 2026 21:10:34 +0000"
     }
   ]
 }
