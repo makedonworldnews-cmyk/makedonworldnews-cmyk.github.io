@@ -1,6 +1,20 @@
 {
-  "generated_at": "2026-05-30T16:44:17Z",
+  "generated_at": "2026-05-30T17:46:21Z",
   "items": [
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "(Видео) Мицкоски на прославата „80 години Македонци во Војводина“: Народот што го чува својот јазик и своите корени, секогаш има иднина",
+      "link": "https://makfax.com.mk/makedonija/video-mickoski-od-novi-sad-narodot-koj-gi-chuva-jazikot-korenite-i-kulturata-sekogash-ke-ima-idnina/",
+      "published": "Sat, 30 May 2026 17:25:43 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "Остатоци од ирански балистички проектил погодија воена база во Кувајт, оштетени американски беспилотни летала",
+      "link": "https://makfax.com.mk/svet/ostatoci-od-iranski-balistichki-proektil-pogodija-voena-baza-vo-kuvajt-oshteteni-amerikanski-bespilotni-letala/",
+      "published": "Sat, 30 May 2026 17:20:55 +0000"
+    },
     {
       "region": "Македонија",
       "source": "Makfax",
@@ -24,17 +38,10 @@
     },
     {
       "region": "Македонија",
-      "source": "Makfax",
-      "title": "Заштита на каблите од Русија и Кина: САД, Британија и Австралија развиваат воени подводни дронови",
-      "link": "https://makfax.com.mk/svet/zashtita-na-kablite-od-rusija-i-kina-sad-britanija-i-avstralija-razvivaat-voeni-podvodni-dronovi/",
-      "published": "Sat, 30 May 2026 16:00:30 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "Makfax",
-      "title": "Ливерпул го отпушти Слот, Ираола ќе биде новиот тренер",
-      "link": "https://makfax.com.mk/sport/liverpul-go-otpushti-slot-iraola-ke-bide-noviot-trener/",
-      "published": "Sat, 30 May 2026 15:55:56 +0000"
+      "source": "NetPress",
+      "title": "Јубилејот за Македонците во Војводина има историско и културно значење",
+      "link": "https://netpress.com.mk/jubilejot-za-makedonczite-vo-vojvodina-ima-istorisko-i-kulturno-znachene/",
+      "published": "Sat, 30 May 2026 17:34:19 +0000"
     },
     {
       "region": "Македонија",
@@ -65,13 +72,6 @@
       "published": "Sat, 30 May 2026 14:20:06 +0000"
     },
     {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Групацијата за производство на цигари поддржува балансирани регулаторни решенија",
-      "link": "https://netpress.com.mk/grupaczijata-za-proizvodstvo-na-czigari-poddrzhuva-balansirani-regulatorni-reshenija/",
-      "published": "Sat, 30 May 2026 13:55:51 +0000"
-    },
-    {
       "region": "Свет",
       "source": "BBC",
       "title": "No deal announced after Trump meeting to make 'final determination' on Iran",
@@ -95,16 +95,44 @@
     {
       "region": "Свет",
       "source": "BBC",
+      "title": "'No-one feels safe now': Residents of Romanian city hit by drone share fears",
+      "link": "https://www.bbc.com/news/articles/cvgzyp93jq1o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 30 May 2026 17:34:30 GMT"
+    },
+    {
+      "region": "Свет",
+      "source": "BBC",
       "title": "Four more men freed from flooded Laos cave after 10 days",
       "link": "https://www.bbc.com/news/articles/cn4pn4ex0ymo?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 30 May 2026 09:50:56 GMT"
     },
     {
       "region": "Свет",
-      "source": "BBC",
-      "title": "Ebola spread in DR Congo 'alarming', charity warns, as WHO chief visits worst-hit area",
-      "link": "https://www.bbc.com/news/articles/c99ldxykz4zo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 30 May 2026 16:43:32 GMT"
+      "source": "Al Jazeera",
+      "title": "Voters in Malta head to polls for early elections",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/30/voters-in-malta-head-to-polls-for-early-elections?traffic_source=rss",
+      "published": "Sat, 30 May 2026 17:20:17 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Palestinian doctor killed, three people injured in Israeli attack on Gaza",
+      "link": "https://www.aljazeera.com/news/2026/5/30/palestinian-doctor-killed-three-people-injured-in-israeli-attack-on-gaza?traffic_source=rss",
+      "published": "Sat, 30 May 2026 17:04:03 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Liverpool sack Arne Slot after disastrous Premier League title defence",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/30/liverpool-sack-arne-slot-after-disastrous-premier-league-title-defence?traffic_source=rss",
+      "published": "Sat, 30 May 2026 17:01:12 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Confirmed Ebola cases nearly double in days as WHO chief visits DR Congo",
+      "link": "https://www.aljazeera.com/news/2026/5/30/confirmed-ebola-cases-nearly-double-in-days-as-who-chief-visits-dr-congo?traffic_source=rss",
+      "published": "Sat, 30 May 2026 16:44:46 +0000"
     },
     {
       "region": "Свет",
@@ -112,34 +140,6 @@
       "title": "‘Opposite visions’: What to know about Colombia’s presidential election",
       "link": "https://www.aljazeera.com/news/2026/5/30/opposite-visions-what-to-know-about-colombias-presidential-election?traffic_source=rss",
       "published": "Sat, 30 May 2026 16:21:52 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Indonesia’s Mount Merapi volcano erupts, spewing ash into the sky",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/30/indonesias-mount-merapi-volcano-erupts-spewing-ash-into-the-sky?traffic_source=rss",
-      "published": "Sat, 30 May 2026 16:06:00 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Senior Sri Lankan monk suspended over child sex abuse allegation",
-      "link": "https://www.aljazeera.com/news/2026/5/30/senior-sri-lankan-monk-suspended-over-child-sex-abuse-allegation?traffic_source=rss",
-      "published": "Sat, 30 May 2026 15:26:35 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Rescuers free four more men from flooded Laos cave, two still missing",
-      "link": "https://www.aljazeera.com/news/2026/5/30/rescuers-free-four-more-men-from-flooded-laos-cave-two-still-missing?traffic_source=rss",
-      "published": "Sat, 30 May 2026 14:53:35 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Truck carrying Afghan returnees from Pakistan flips on highway, killing 18",
-      "link": "https://www.aljazeera.com/news/2026/5/30/truck-carrying-afghan-returnees-from-pakistan-flips-on-highway-killing-18?traffic_source=rss",
-      "published": "Sat, 30 May 2026 14:11:35 +0000"
     }
   ]
 }
