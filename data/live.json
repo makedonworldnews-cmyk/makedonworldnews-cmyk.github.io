@@ -1,6 +1,27 @@
 {
-  "generated_at": "2026-05-29T23:40:12Z",
+  "generated_at": "2026-05-30T01:29:46Z",
   "items": [
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "Мурињо потпиша за Реал",
+      "link": "https://makfax.com.mk/sport/murinjo-potpisha-za-real/",
+      "published": "Sat, 30 May 2026 00:03:42 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "Гордон до 2031 година во Барселона",
+      "link": "https://makfax.com.mk/sport/gordon-do-2031-godina-vo-barselona/",
+      "published": "Fri, 29 May 2026 23:57:33 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "Атлетико: 3 во 1 – Ги носиме Јамал, Педри и Рафиња",
+      "link": "https://makfax.com.mk/sport/atletiko-3-vo-1-gi-nosime-jamal-pedri-i-rafinja/",
+      "published": "Fri, 29 May 2026 23:51:59 +0000"
+    },
     {
       "region": "Македонија",
       "source": "Makfax",
@@ -14,27 +35,6 @@
       "title": "Фонсека го елиминира Ѓоковиќ: Не верував дека можам да победам",
       "link": "https://makfax.com.mk/sport/fonseka-go-eliminira-gokovik-ne-veruvav-deka-mozham-da-pobedam/",
       "published": "Fri, 29 May 2026 23:25:24 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "Makfax",
-      "title": "Путин: Ерменија треба да одржи референдум за ЕУ што е можно поскоро",
-      "link": "https://makfax.com.mk/svet/putin-ermenija-treba-da-odrzhi-referendum-za-eu-shto-e-mozhno-poskoro/",
-      "published": "Fri, 29 May 2026 19:40:36 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "Makfax",
-      "title": "Иран: Сè уште немаме договор со САД",
-      "link": "https://makfax.com.mk/svet/iran-se-ushte-nemame-dogovor-so-sad/",
-      "published": "Fri, 29 May 2026 19:15:29 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "Makfax",
-      "title": "Зеленски: Русија подготвува нов голем напад врз Украина",
-      "link": "https://makfax.com.mk/svet/zelenski-rusija-podgotvuva-nov-golem-napad-vrz-ukraina/",
-      "published": "Fri, 29 May 2026 18:52:38 +0000"
     },
     {
       "region": "Македонија",
@@ -102,9 +102,37 @@
     {
       "region": "Свет",
       "source": "BBC",
-      "title": "'Controversial' North Korean invasion setting for next Call of Duty game",
-      "link": "https://www.bbc.com/news/articles/c9q391y5088o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 29 May 2026 13:55:04 GMT"
+      "title": "Ghana parliament passes anti-LGBTQ+ bill",
+      "link": "https://www.bbc.com/news/articles/c5yedendprko?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 30 May 2026 00:51:49 GMT"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Louisiana lawmakers pass congressional map favouring Republicans",
+      "link": "https://www.aljazeera.com/news/2026/5/30/louisiana-lawmakers-pass-congressional-map-favouring-republicans?traffic_source=rss",
+      "published": "Sat, 30 May 2026 00:27:54 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "First survivor rescued from flooded cave in Laos",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/30/aje-onl-nf_clip_first-survivor-rescued-from-cave-in-laos-290526?traffic_source=rss",
+      "published": "Sat, 30 May 2026 00:04:15 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Iran war live: Trump due to make ‘final determination’ on deal with Tehran",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/5/30/iran-war-live-trump-due-to-make-final-determination-on-deal-with-tehran?traffic_source=rss",
+      "published": "Sat, 30 May 2026 00:00:00 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Trump pledges to withdraw from Kennedy Center after court strikes his name",
+      "link": "https://www.aljazeera.com/news/2026/5/29/trump-pledges-to-withdraw-from-kennedy-center-after-court-strikes-his-name?traffic_source=rss",
+      "published": "Fri, 29 May 2026 23:41:25 +0000"
     },
     {
       "region": "Свет",
@@ -112,34 +140,6 @@
       "title": "ICE agent arrested over shooting of Venezuelan man in US immigration raid",
       "link": "https://www.aljazeera.com/news/2026/5/29/ice-agent-arrested-over-shooting-of-venezuelan-man-in-us-immigration-raid?traffic_source=rss",
       "published": "Fri, 29 May 2026 22:52:50 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "‘Arbitrary measures’: Lula slams US ‘terror’ designation for Brazil gangs",
-      "link": "https://www.aljazeera.com/news/2026/5/29/arbitrary-measures-lula-slams-us-terror-designation-for-brazil-gangs?traffic_source=rss",
-      "published": "Fri, 29 May 2026 21:54:36 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Ebola treatment centre rebuilt after being torched by protesters in DRC",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/29/ebola-treatment-centre-rebuilt-after-being-torched-by-protesters-in-drc?traffic_source=rss",
-      "published": "Fri, 29 May 2026 21:52:24 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "UN: “100% of Gaza” should be for Palestinians",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/29/un-100-of-gaza-should-be-for-palestinians?traffic_source=rss",
-      "published": "Fri, 29 May 2026 21:49:33 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Iran denies ceasefire deal with US is “finalised”",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/29/iran-denies-ceasefire-deal-with-us-is?traffic_source=rss",
-      "published": "Fri, 29 May 2026 21:10:54 +0000"
     }
   ]
 }
