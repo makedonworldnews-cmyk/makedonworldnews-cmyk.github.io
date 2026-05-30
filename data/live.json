@@ -1,6 +1,27 @@
 {
-  "generated_at": "2026-05-30T17:46:21Z",
+  "generated_at": "2026-05-30T18:48:50Z",
   "items": [
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "Украински дрон ја погодил нуклеарната централа „Запорожје“, пробиена дупка во ѕидот на машинската сала",
+      "link": "https://makfax.com.mk/svet/ukrainski-dron-ja-pogodil-nuklearnata-centrala-zaporozhje-probiena-dupka-vo-zidot-na-mashinskata-sala/",
+      "published": "Sat, 30 May 2026 18:28:47 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "Средба Мицкоски – Мацут: унапредување на билатералната соработка, регионалната стабилност и можностите за продлабочување на економските и институционалните врски",
+      "link": "https://makfax.com.mk/makedonija/sredba-mickoski-macut-unapreduvanje-na-bilateralnata-sorabotka-regionalnata-stabilnost-i-mozhnostite-za-prodlabochuvanje-na-ekonomskite-i-institucionalnite-vrski/",
+      "published": "Sat, 30 May 2026 17:53:58 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "Залутано зрно од огнено оружје заврши во двор на куќа во Бутел",
+      "link": "https://makfax.com.mk/crna-hronika/zalutano-zrno-od-ogneno-oruzhje-zavrshi-vo-dvor-na-kuka-vo-butel/",
+      "published": "Sat, 30 May 2026 17:47:35 +0000"
+    },
     {
       "region": "Македонија",
       "source": "Makfax",
@@ -14,27 +35,6 @@
       "title": "Остатоци од ирански балистички проектил погодија воена база во Кувајт, оштетени американски беспилотни летала",
       "link": "https://makfax.com.mk/svet/ostatoci-od-iranski-balistichki-proektil-pogodija-voena-baza-vo-kuvajt-oshteteni-amerikanski-bespilotni-letala/",
       "published": "Sat, 30 May 2026 17:20:55 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "Makfax",
-      "title": "САД истражуваат дали Кина му испорачала на Иран ракети и напреден радар за соборување на американскиот авион Ф-15",
-      "link": "https://makfax.com.mk/svet/sad-istrazhuvaat-dali-kina-mu-isporachala-na-iran-raketi-i-napreden-radar-za-soboruvanje-na-amerikanskiot-avion-f-15/",
-      "published": "Sat, 30 May 2026 16:41:25 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "Makfax",
-      "title": "Случај „Мазут“: ТЕЦ Неготино и ЕСМ оствариле милионски профити",
-      "link": "https://makfax.com.mk/soopstenija/sluchaj-%e2%80%9emazut%e2%80%9c-tec-negotino-i-esm-ostvarile-milionski-profiti/",
-      "published": "Sat, 30 May 2026 16:31:39 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "Makfax",
-      "title": "Британски „Телеграф“: Додека светот гледа кон војната во Иран, Ердоган брутално ја збриша опозицијата",
-      "link": "https://makfax.com.mk/svet/britanski-telegraf-dodeka-svetot-gleda-kon-vojnata-vo-iran-erdogan-brutalno-ja-zbrisha-opozicijata/",
-      "published": "Sat, 30 May 2026 16:16:40 +0000"
     },
     {
       "region": "Македонија",
@@ -74,16 +74,16 @@
     {
       "region": "Свет",
       "source": "BBC",
-      "title": "No deal announced after Trump meeting to make 'final determination' on Iran",
-      "link": "https://www.bbc.com/news/articles/c0r2d40r91qo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 30 May 2026 11:39:32 GMT"
+      "title": "US, UK and Australia to develop underwater drone technology",
+      "link": "https://www.bbc.com/news/articles/c5y8wjvd1ypo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 30 May 2026 12:16:26 GMT"
     },
     {
       "region": "Свет",
       "source": "BBC",
-      "title": "US, UK and Australia to develop underwater drone technology",
-      "link": "https://www.bbc.com/news/articles/c5y8wjvd1ypo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 30 May 2026 12:16:26 GMT"
+      "title": "No deal announced after Trump meeting to make 'final determination' on Iran",
+      "link": "https://www.bbc.com/news/articles/c0r2d40r91qo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 30 May 2026 11:39:32 GMT"
     },
     {
       "region": "Свет",
@@ -102,9 +102,16 @@
     {
       "region": "Свет",
       "source": "BBC",
-      "title": "Four more men freed from flooded Laos cave after 10 days",
-      "link": "https://www.bbc.com/news/articles/cn4pn4ex0ymo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 30 May 2026 09:50:56 GMT"
+      "title": "Oscar-winning Star Wars editor Marcia Lucas dies aged 80",
+      "link": "https://www.bbc.com/news/articles/cvgzy64j9l1o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 30 May 2026 18:03:40 GMT"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "22 killed as truck carrying refugees overturns in Afghanistan",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/30/22-killed-as-truck-carrying-refugees-overturns-in-afghanistan?traffic_source=rss",
+      "published": "Sat, 30 May 2026 18:06:29 +0000"
     },
     {
       "region": "Свет",
@@ -133,13 +140,6 @@
       "title": "Confirmed Ebola cases nearly double in days as WHO chief visits DR Congo",
       "link": "https://www.aljazeera.com/news/2026/5/30/confirmed-ebola-cases-nearly-double-in-days-as-who-chief-visits-dr-congo?traffic_source=rss",
       "published": "Sat, 30 May 2026 16:44:46 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "‘Opposite visions’: What to know about Colombia’s presidential election",
-      "link": "https://www.aljazeera.com/news/2026/5/30/opposite-visions-what-to-know-about-colombias-presidential-election?traffic_source=rss",
-      "published": "Sat, 30 May 2026 16:21:52 +0000"
     }
   ]
 }
