@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-30T19:43:41Z",
+  "updatedAt": "2026-05-30T20:39:15Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Приведен радовишанец во струмичко: се барал со потерница за затворска казна од 10 месеци",
+          "link": "https://makfax.com.mk/crna-hronika/priveden-radovishanec-vo-strumichko-se-baral-so-poternica-za-zatvorska-kazna-od-10-meseci/",
+          "published": "Sat, 30 May 2026 20:34:38 +0000"
         },
         {
           "source": "Makfax",
@@ -35,10 +41,10 @@
           "published": "Sat, 30 May 2026 17:53:58 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Залутано зрно од огнено оружје заврши во двор на куќа во Бутел",
-          "link": "https://makfax.com.mk/crna-hronika/zalutano-zrno-od-ogneno-oruzhje-zavrshi-vo-dvor-na-kuka-vo-butel/",
-          "published": "Sat, 30 May 2026 17:47:35 +0000"
+          "source": "NetPress",
+          "title": "Возачот кој усмрти мотоциклист на Пластичарска бил дрогиран",
+          "link": "https://netpress.com.mk/vozachot-koj-usmrti-motocziklist-na-plasticharska-bil-drogiran/",
+          "published": "Sat, 30 May 2026 20:15:25 +0000"
         },
         {
           "source": "NetPress",
@@ -63,12 +69,6 @@
           "title": "Македонско-албанското пријателство го градиме со векови, заедно ќе го продолжиме и во ЕУ",
           "link": "https://netpress.com.mk/makedonsko-albanskoto-prijatelstvo-go-gradime-so-vekovi-zaedno-ke-go-prodolzhime-i-vo-eu/",
           "published": "Sat, 30 May 2026 15:47:12 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Руските сили ги нападнаа украинските воени аеродроми",
-          "link": "https://netpress.com.mk/ruskite-sili-gi-napadnaa-ukrainskite-voeni-aerodromi/",
-          "published": "Sat, 30 May 2026 14:20:06 +0000"
         }
       ]
     },
@@ -107,6 +107,12 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Iran reasserts control over Hormuz Strait as deal with US remains elusive",
+          "link": "https://www.aljazeera.com/news/2026/5/30/iran-reasserts-control-over-hormuz-strait-as-deal-with-us-remains-elusive?traffic_source=rss",
+          "published": "Sat, 30 May 2026 19:48:13 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Qatar says temporary charges ‘negotiable’",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/5/30/qatar-says-temporary-charges-negotiable?traffic_source=rss",
           "published": "Sat, 30 May 2026 18:42:26 +0000"
@@ -128,12 +134,6 @@
           "title": "Voters in Malta head to polls for early elections",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/5/30/voters-in-malta-head-to-polls-for-early-elections?traffic_source=rss",
           "published": "Sat, 30 May 2026 17:20:17 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Palestinian doctor killed, three people injured in Israeli attack on Gaza",
-          "link": "https://www.aljazeera.com/news/2026/5/30/palestinian-doctor-killed-three-people-injured-in-israeli-attack-on-gaza?traffic_source=rss",
-          "published": "Sat, 30 May 2026 17:04:03 +0000"
         }
       ]
     }
