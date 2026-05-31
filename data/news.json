@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-31T14:45:02Z",
+  "updatedAt": "2026-05-31T15:55:48Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Сопственик на локал во Центар физички нападнал поранешен вработен поради неисплатени дневници",
+          "link": "https://makfax.com.mk/crna-hronika/sopstvenik-na-lokal-vo-centar-fizichki-napadnal-poraneshen-vraboten-poradi-neisplateni-dnevnici/",
+          "published": "Sun, 31 May 2026 15:41:43 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "(Фото) Торнадо во Полска: силен вртлог со 200 км/ч рушеше куќи на југот од земјата",
+          "link": "https://makfax.com.mk/svet/foto-tornado-vo-polska-silen-vrtlog-so-200-km-ch-rusheshe-kuki-na-jugot-od-zemjata/",
+          "published": "Sun, 31 May 2026 15:32:41 +0000"
         },
         {
           "source": "Makfax",
@@ -27,18 +39,6 @@
           "title": "САД погодија трговски брод во Оманскиот Залив: пробиена блокадата на иранските пристаништа, тензиите ескалираат",
           "link": "https://makfax.com.mk/svet/sad-pogodija-trgovski-brod-vo-omanskiot-zaliv-probiena-blokadata-na-iranskite-pristanishta-tenziite-eskaliraat/",
           "published": "Sun, 31 May 2026 13:25:25 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Лукашенко за Зеленски: Можеби пушел или си вбризгал нешто, па затоа дава такви изјави",
-          "link": "https://makfax.com.mk/svet/lukashenko-za-zelenski-mozhebi-pushel-ili-si-vbrizgal-neshto-pa-zatoa-dava-takvi-izjavi/",
-          "published": "Sun, 31 May 2026 12:24:09 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Иран: Нема договор со САД додека целосно не се гарантираат нашите права",
-          "link": "https://makfax.com.mk/svet/iran-nema-dogovor-so-sad-dodeka-celosno-ne-se-garantiraat-nashite-prava/",
-          "published": "Sun, 31 May 2026 12:18:05 +0000"
         },
         {
           "source": "NetPress",
@@ -97,43 +97,43 @@
           "source": "BBC",
           "title": "Laos cave survivors help with plan to find last two missing men",
           "link": "https://www.bbc.com/news/articles/c8094jdpzv3o?at_medium=RSS&at_campaign=rss",
-          "published": "Sun, 31 May 2026 11:38:19 GMT"
+          "published": "Sun, 31 May 2026 15:52:42 GMT"
         },
         {
           "source": "BBC",
           "title": "Colombia votes in presidential election that could redefine relations with US",
           "link": "https://www.bbc.com/news/articles/c2027g423glo?at_medium=RSS&at_campaign=rss",
-          "published": "Sun, 31 May 2026 14:03:43 GMT"
+          "published": "Sun, 31 May 2026 15:08:38 GMT"
         },
         {
           "source": "Al Jazeera",
-          "title": "World Health Organization hails recovery of five Ebola patients",
-          "link": "https://www.aljazeera.com/news/2026/5/31/world-health-organization-hails-recovery-of-five-ebola-patients?traffic_source=rss",
-          "published": "Sun, 31 May 2026 13:57:32 +0000"
+          "title": "Rescuers race to save two people still trapped in cave in Laos",
+          "link": "https://www.aljazeera.com/news/2026/5/31/rescuers-race-to-save-two-people-still-trapped-in-cave-in-laos?traffic_source=rss",
+          "published": "Sun, 31 May 2026 15:21:50 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Protesters want to send ‘fascists to Mars’ aboard mock rocket",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/5/31/protesters-want-to-send-fascists-to-mars-aboard-mock-rocket?traffic_source=rss",
-          "published": "Sun, 31 May 2026 13:41:35 +0000"
+          "title": "Could Democrats be shut out of the California governor’s race?",
+          "link": "https://www.aljazeera.com/news/longform/2026/5/31/could-democrats-be-shut-out-of-the-california-governors-race?traffic_source=rss",
+          "published": "Sun, 31 May 2026 15:19:33 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Israeli forces push past Lebanon’s Litani River: How significant is it?",
-          "link": "https://www.aljazeera.com/news/2026/5/31/israeli-forces-push-past-lebanons-litani-river-how-significant-is-it?traffic_source=rss",
-          "published": "Sun, 31 May 2026 13:39:54 +0000"
+          "title": "Iran reinstates some internet access but restrictions remain for most",
+          "link": "https://www.aljazeera.com/news/2026/5/31/iran-reinstates-some-internet-access-but-restrictions-remain-for-most?traffic_source=rss",
+          "published": "Sun, 31 May 2026 15:09:43 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Satellite imagery shows erasure of southern Gaza as Israel expands control",
-          "link": "https://www.aljazeera.com/news/2026/5/31/satellite-imagery-shows-erasure-of-southern-gaza-as-israel-expands-control?traffic_source=rss",
-          "published": "Sun, 31 May 2026 13:28:26 +0000"
+          "title": "What are the chances for the Iran-US ‘Declaration of Principles’?",
+          "link": "https://www.aljazeera.com/video/the-bottom-line/2026/5/31/what-are-the-chances-for-the-iran-us-declaration-of?traffic_source=rss",
+          "published": "Sun, 31 May 2026 15:02:49 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Japan rejects ‘new militarism’, says China is rapidly arming",
-          "link": "https://www.aljazeera.com/news/2026/5/31/japan-rejects-new-militarism-says-china-is-rapidly-arming?traffic_source=rss",
-          "published": "Sun, 31 May 2026 12:51:25 +0000"
+          "title": "Not just the US: How 51 countries armed Israel during Gaza war",
+          "link": "https://www.aljazeera.com/video/2026/5/31/not-just-the-us-how-51-countries-armed-israel-during-gaza-war?traffic_source=rss",
+          "published": "Sun, 31 May 2026 14:41:14 +0000"
         }
       ]
     }
