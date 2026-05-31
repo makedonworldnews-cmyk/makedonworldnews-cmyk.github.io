@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-31T20:42:39Z",
+  "updatedAt": "2026-05-31T21:42:53Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Рафа Леао го напушта Милан",
+          "link": "https://makfax.com.mk/sport/rafa-leao-go-napushta-milan/",
+          "published": "Sun, 31 May 2026 20:42:59 +0000"
         },
         {
           "source": "Makfax",
@@ -35,40 +41,34 @@
           "published": "Sun, 31 May 2026 19:00:54 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "(Видео) Зеленортските острови ја декласираа Србија во пријателски натпревар",
-          "link": "https://makfax.com.mk/sport/video-zelenortskite-ostrovi-ja-deklasiraa-srbija-vo-prijatelski-natprevar/",
-          "published": "Sun, 31 May 2026 18:01:56 +0000"
+          "source": "NetPress",
+          "title": "Дуа Липа и Калум Тарнер се венчаа во Лондон",
+          "link": "https://netpress.com.mk/dua-lipa-i-kalum-tarner-se-venchaa-vo-london/",
+          "published": "Sun, 31 May 2026 21:38:54 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Германски стопанственици по четири години ќе присуствуваат на економскиот форум во Санкт Петербург",
+          "link": "https://netpress.com.mk/germanski-stopanstveniczi-po-chetiri-godini-ke-prisustvuvaat-na-ekonomskiot-forum-vo-sankt-peterburg/",
+          "published": "Sun, 31 May 2026 21:19:55 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Македонската поезија достојно претставена на меѓународната книжевна сцена во Бугарија",
+          "link": "https://netpress.com.mk/makedonskata-poezija-dostojno-pretstavena-na-megunarodnata-knizhevna-sczena-vo-bugarija/",
+          "published": "Sun, 31 May 2026 21:12:08 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Парламентарната дипломатија е моќен демократски и мировен инструмент",
+          "link": "https://netpress.com.mk/parlamentarnata-diplomatija-e-moken-demokratski-i-miroven-instrument/",
+          "published": "Sun, 31 May 2026 20:56:19 +0000"
         },
         {
           "source": "NetPress",
           "title": "САД планираат да го забрзаат повлекувањето на трупите од Европа",
           "link": "https://netpress.com.mk/sad-planiraat-da-go-zabrzaat-povlekuvaneto-na-trupite-od-evropa/",
           "published": "Sun, 31 May 2026 20:41:45 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "ГРК Охрид го освои ЕХФ Европскиот куп, втор трофеј по ред за македонски клуб",
-          "link": "https://netpress.com.mk/grk-ohrid-go-osvoi-ehf-evropskiot-kup-vtor-po-red-za-makedonski-klub/",
-          "published": "Sun, 31 May 2026 20:31:05 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Трамп: Концертите по повод 250-годишнината може да бидат откажани откако уметниците се повлекоа",
-          "link": "https://netpress.com.mk/tramp-konczertite-po-povod-250-godishninata-mozhe-da-bidat-otkazhani-otkako-umetniczite-se-povlekoa/",
-          "published": "Sun, 31 May 2026 20:07:27 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Светските берзански индекси на рекордни нивоа додека остро паѓаат цените на нафтата",
-          "link": "https://netpress.com.mk/svetskite-berzanski-indeksi-na-rekordni-nivoa-dodeka-ostro-pagaat-czenite-na-naftata/",
-          "published": "Sun, 31 May 2026 19:46:09 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Пелистер и Брера испаднаа во Втората лига, нови прволигаши Скопје и Шкендија Арачиново",
-          "link": "https://netpress.com.mk/pelister-i-brera-ispadnaa-vo-vtorata-liga-novi-prvoligashi-skopje-i-shkendija-arachinovo/",
-          "published": "Sun, 31 May 2026 19:35:09 +0000"
         }
       ]
     },
@@ -101,39 +101,39 @@
         },
         {
           "source": "BBC",
-          "title": "Colombia votes in presidential election that could redefine relations with US",
+          "title": "Polls close in Colombia presidential election that may reshape relations with US",
           "link": "https://www.bbc.com/news/articles/c2027g423glo?at_medium=RSS&at_campaign=rss",
-          "published": "Sun, 31 May 2026 15:08:38 GMT"
+          "published": "Sun, 31 May 2026 21:08:21 GMT"
         },
         {
           "source": "Al Jazeera",
-          "title": "Newark mayor imposes curfew at Delaney Hall immigration detention centre",
-          "link": "https://www.aljazeera.com/news/2026/5/31/newark-mayor-imposes-curfew-at-delaney-hall-immigration-detention-centre?traffic_source=rss",
-          "published": "Sun, 31 May 2026 20:12:58 +0000"
+          "title": "Can AI cure loneliness? South Korea’s robot companions for seniors",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/5/31/can-ai-cure-loneliness-south-koreas-robot-companions-for-seniors?traffic_source=rss",
+          "published": "Sun, 31 May 2026 21:07:25 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "What’s at stake in Ethiopia’s elections?",
-          "link": "https://www.aljazeera.com/video/inside-story/2026/5/31/whats-at-stake-in-ethiopias-elections?traffic_source=rss",
-          "published": "Sun, 31 May 2026 19:38:00 +0000"
+          "title": "New Jersey orders curfew after immigration protests escalate",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/5/31/new-jersey-orders-curfew-after-immigration-protests-escalate?traffic_source=rss",
+          "published": "Sun, 31 May 2026 21:03:00 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Explosives store blast kills dozens in Myanmar village",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/5/31/explosives-store-blast-kills-dozens-in-myanmar-village?traffic_source=rss",
-          "published": "Sun, 31 May 2026 19:35:03 +0000"
+          "title": "Ethiopia to vote in first elections since Tigray peace deal",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/5/31/ethiopia-to-vote-in-first-elections-since-tigray-peace-deal?traffic_source=rss",
+          "published": "Sun, 31 May 2026 20:57:10 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Building collapses in New Delhi, some people rescued, more feared trapped",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/5/31/building-collapses-in-new-delhi-some-people-rescued-more-feared-trapped?traffic_source=rss",
-          "published": "Sun, 31 May 2026 18:59:54 +0000"
+          "title": "Kohli powers Bengaluru to ‘stuff of dreams’ back-to-back IPL titles",
+          "link": "https://www.aljazeera.com/sports/2026/5/31/kohli-powers-bengaluru-to-stuff-of-dreams-back-to-back-ipl-titles?traffic_source=rss",
+          "published": "Sun, 31 May 2026 20:49:37 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "US measure to deepen Israel military cooperation faces bipartisan pushback",
-          "link": "https://www.aljazeera.com/news/2026/5/31/us-measure-to-deepen-israel-military-cooperation-faces-bipartisan-pushback?traffic_source=rss",
-          "published": "Sun, 31 May 2026 18:52:24 +0000"
+          "title": "As Ethiopia votes, its deepening human rights crisis must be addressed",
+          "link": "https://www.aljazeera.com/opinions/2026/5/31/as-ethiopia-votes-its-deepening-human-rights-crisis-must-be-addressed?traffic_source=rss",
+          "published": "Sun, 31 May 2026 20:28:50 +0000"
         }
       ]
     }
