@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-31T15:55:48Z",
+  "updatedAt": "2026-05-31T17:08:50Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Сомнеж за ебола во Италија",
+          "link": "https://makfax.com.mk/svet/somnezh-za-ebola-vo-italija/",
+          "published": "Sun, 31 May 2026 16:59:07 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Со лажен профил на 14-годишно девојче мамеле мажи, па ги снимале и ги терале да кажат дека се „педофили“",
+          "link": "https://makfax.com.mk/crna-hronika/so-lazhen-profil-na-14-godishno-devojche-mamele-mazhi-pa-gi-snimale-i-gi-terale-da-kazhat-deka-se-pedofili/",
+          "published": "Sun, 31 May 2026 16:03:02 +0000"
         },
         {
           "source": "Makfax",
@@ -27,18 +39,6 @@
           "title": "(Видео) Сателитски снимки откриваат дека Иран експресно обнови 50 ракетни бази: „Имаат 1.000 проектили длабоко под земја“",
           "link": "https://makfax.com.mk/svet/video-satelitski-snimki-otkrivaat-deka-iran-ekspresno-obnovi-50-raketni-bazi-imaat-1-000-proektili-dlaboko-pod-zemja/",
           "published": "Sun, 31 May 2026 13:47:38 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Трамп ги заостри условите: вратен предлогот за ставање крај на војната во Иран",
-          "link": "https://makfax.com.mk/svet/tramp-gi-zaostri-uslovite-vraten-predlogot-za-stavanje-kraj-na-vojnata-vo-iran/",
-          "published": "Sun, 31 May 2026 13:30:00 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "САД погодија трговски брод во Оманскиот Залив: пробиена блокадата на иранските пристаништа, тензиите ескалираат",
-          "link": "https://makfax.com.mk/svet/sad-pogodija-trgovski-brod-vo-omanskiot-zaliv-probiena-blokadata-na-iranskite-pristanishta-tenziite-eskaliraat/",
-          "published": "Sun, 31 May 2026 13:25:25 +0000"
         },
         {
           "source": "NetPress",
@@ -77,9 +77,15 @@
       "items": [
         {
           "source": "BBC",
+          "title": "Israel seizes castle in Lebanon as it expands ground offensive",
+          "link": "https://www.bbc.com/news/articles/cdep04kzz5wo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 31 May 2026 16:08:57 GMT"
+        },
+        {
+          "source": "BBC",
           "title": "Hundreds arrested and dozens of police injured after Champions League riots in France",
           "link": "https://www.bbc.com/news/articles/c0r2ejg1w9xo?at_medium=RSS&at_campaign=rss",
-          "published": "Sun, 31 May 2026 11:26:08 GMT"
+          "published": "Sun, 31 May 2026 16:24:56 GMT"
         },
         {
           "source": "BBC",
@@ -89,15 +95,9 @@
         },
         {
           "source": "BBC",
-          "title": "Ebola spread in DR Congo 'deeply alarming', MSF warns",
-          "link": "https://www.bbc.com/news/articles/c99ldxykz4zo?at_medium=RSS&at_campaign=rss",
-          "published": "Sun, 31 May 2026 06:47:05 GMT"
-        },
-        {
-          "source": "BBC",
-          "title": "Laos cave survivors help with plan to find last two missing men",
-          "link": "https://www.bbc.com/news/articles/c8094jdpzv3o?at_medium=RSS&at_campaign=rss",
-          "published": "Sun, 31 May 2026 15:52:42 GMT"
+          "title": "Huge blast kills dozens in rebel-held village in Myanmar",
+          "link": "https://www.bbc.com/news/articles/cglp7p787njo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 31 May 2026 16:59:55 GMT"
         },
         {
           "source": "BBC",
@@ -107,33 +107,33 @@
         },
         {
           "source": "Al Jazeera",
-          "title": "Rescuers race to save two people still trapped in cave in Laos",
-          "link": "https://www.aljazeera.com/news/2026/5/31/rescuers-race-to-save-two-people-still-trapped-in-cave-in-laos?traffic_source=rss",
-          "published": "Sun, 31 May 2026 15:21:50 +0000"
+          "title": "Ethiopia’s election: Parties, coalitions and candidates explained",
+          "link": "https://www.aljazeera.com/news/2026/5/31/ethiopias-election-parties-coalitions-and-candidates-explained?traffic_source=rss",
+          "published": "Sun, 31 May 2026 16:40:22 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Could Democrats be shut out of the California governor’s race?",
-          "link": "https://www.aljazeera.com/news/longform/2026/5/31/could-democrats-be-shut-out-of-the-california-governors-race?traffic_source=rss",
-          "published": "Sun, 31 May 2026 15:19:33 +0000"
+          "title": "Iran ⁠restores some gas production at South Pars facility",
+          "link": "https://www.aljazeera.com/news/2026/5/31/iran-%e2%81%a0says-some-gas-production-restored-at-south-pars-facility?traffic_source=rss",
+          "published": "Sun, 31 May 2026 16:38:31 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Iran reinstates some internet access but restrictions remain for most",
-          "link": "https://www.aljazeera.com/news/2026/5/31/iran-reinstates-some-internet-access-but-restrictions-remain-for-most?traffic_source=rss",
-          "published": "Sun, 31 May 2026 15:09:43 +0000"
+          "title": "Colombians head to the polls to choose President Gustavo Petro’s successor",
+          "link": "https://www.aljazeera.com/news/2026/5/31/colombians-head-to-the-polls-to-choose-president-gustavo-petros-successor?traffic_source=rss",
+          "published": "Sun, 31 May 2026 15:58:50 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "What are the chances for the Iran-US ‘Declaration of Principles’?",
-          "link": "https://www.aljazeera.com/video/the-bottom-line/2026/5/31/what-are-the-chances-for-the-iran-us-declaration-of?traffic_source=rss",
-          "published": "Sun, 31 May 2026 15:02:49 +0000"
+          "title": "Juan Manuel Santos on Colombia’s peace process, 10 years on",
+          "link": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/5/31/juan-manuel-santos-on-colombias-peace-process-10-years-on?traffic_source=rss",
+          "published": "Sun, 31 May 2026 15:44:21 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Not just the US: How 51 countries armed Israel during Gaza war",
-          "link": "https://www.aljazeera.com/video/2026/5/31/not-just-the-us-how-51-countries-armed-israel-during-gaza-war?traffic_source=rss",
-          "published": "Sun, 31 May 2026 14:41:14 +0000"
+          "title": "Germany World Cup 2026 team preview: Players to watch, group and squad list",
+          "link": "https://www.aljazeera.com/sports/2026/5/31/germany-world-cup-2026-team-preview-players-to-watch-group-and-squad-list?traffic_source=rss",
+          "published": "Sun, 31 May 2026 15:28:43 +0000"
         }
       ]
     }
