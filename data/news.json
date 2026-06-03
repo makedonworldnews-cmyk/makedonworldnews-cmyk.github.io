@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-03T20:36:39Z",
+  "updatedAt": "2026-06-03T22:51:16Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Почина Един Авдиќ",
+          "link": "https://makfax.com.mk/sport/pochina-edin-avdik/",
+          "published": "Wed, 03 Jun 2026 20:56:56 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Мурињо отпишал шестмина, меѓу нив е и Родриго",
+          "link": "https://makfax.com.mk/sport/murinjo-otpishal-shestmina-megu-niv-e-i-rodrigo/",
+          "published": "Wed, 03 Jun 2026 20:50:58 +0000"
         },
         {
           "source": "Makfax",
@@ -29,46 +41,34 @@
           "published": "Wed, 03 Jun 2026 18:43:41 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "(Видео) Кувајт објави снимки од последиците: голема штета по иранскиот напад",
-          "link": "https://makfax.com.mk/svet/video-kuvajt-objavi-snimki-od-posledicite-golema-shteta-po-iranskiot-napad/",
-          "published": "Wed, 03 Jun 2026 18:39:30 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Норвешки тинејџер уапсен во Велика Британија: Планирал убиство за банда поврзана со Иран",
-          "link": "https://makfax.com.mk/svet/norveshki-tinejdher-uapsen-vo-velika-britanija-planiral-ubistvo-za-banda-povrzana-so-iran/",
-          "published": "Wed, 03 Jun 2026 18:02:30 +0000"
+          "source": "NetPress",
+          "title": "Пријателски натпревари: Алжир ја изненади Холандија, победа на Италија",
+          "link": "https://netpress.com.mk/prijatelski-natprevari-alzhir-ja-iznenadi-holandija-pobeda-na-italija/",
+          "published": "Wed, 03 Jun 2026 21:43:30 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Тошковски: Со „Безбеден град“ е намален бројот на жртви како последица на непочитување на сообраќајни правила",
-          "link": "https://netpress.com.mk/toshkovski-so-bezbeden-grad-e-namalen-brojot-na-zhrtvi-kako-posledicza-na-nepochituvane-na-soobrakajni-pravila/",
-          "published": "Wed, 03 Jun 2026 20:33:42 +0000"
+          "title": "Ролан Гарос: Италијанците Коболи и Арналди во полуфиналето",
+          "link": "https://netpress.com.mk/rolan-garos-italijanczite-koboli-i-arnaldi-vo-polufinaleto/",
+          "published": "Wed, 03 Jun 2026 21:18:18 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Вучиќ го пречека Кошта во Белград со оптимизам за натамошно јакнење на односите на Србија со ЕУ",
-          "link": "https://netpress.com.mk/vuchik-go-precheka-koshta-vo-belgrad-so-optimizam-za-natamoshno-jaknene-na-odnosite-na-srbija-so-eu/",
-          "published": "Wed, 03 Jun 2026 20:17:09 +0000"
+          "title": "Триесетдневен притвор одреден за Богоев",
+          "link": "https://netpress.com.mk/triesetdneven-pritvor-odreden-za-bogoev/",
+          "published": "Wed, 03 Jun 2026 21:11:43 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Во завршна фаза консултациите со државните институции за ребаланс на Буџетот",
-          "link": "https://netpress.com.mk/vo-zavrshna-faza-konsultacziite-so-drzhavnite-instituczii-za-rebalans-na-budhetot/",
-          "published": "Wed, 03 Jun 2026 19:51:25 +0000"
+          "title": "Унгарија и Украина до договор за правата на унгарското малцинство, отворајќи го патот за преговори со ЕУ",
+          "link": "https://netpress.com.mk/ungarija-i-ukraina-do-dogovor-za-pravata-na-ungarskoto-malczinstvo-otvorajki-go-patot-za-pregovori-so-eu/",
+          "published": "Wed, 03 Jun 2026 21:07:32 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Почина Един Авдиќ еден од водечките спортски коментатор во регионот",
-          "link": "https://netpress.com.mk/pochina-edin-avdchi-eden-od-vodechkite-sportski-komentator-vo-regionot/",
-          "published": "Wed, 03 Jun 2026 19:43:15 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Силните докази не дозволуваат затворање на случајот „Мазут“",
-          "link": "https://netpress.com.mk/silnite-dokazi-ne-dozvoluvaat-zatvorane-na-sluchajot-mazut/",
-          "published": "Wed, 03 Jun 2026 19:23:46 +0000"
+          "title": "Србија возвраќа – не им дозволува на Црногорците влез на нејзина територија?",
+          "link": "https://netpress.com.mk/srbija-vozvraka-ne-im-dozvoluva-na-czrnogorczite-vlez-na-nejzina-teritorija/",
+          "published": "Wed, 03 Jun 2026 20:49:55 +0000"
         }
       ]
     },
@@ -79,7 +79,13 @@
           "source": "BBC",
           "title": "Israeli strikes kill nine in Lebanon as Hezbollah fires rockets over border",
           "link": "https://www.bbc.com/news/articles/c5y01pdqvkgo?at_medium=RSS&at_campaign=rss",
-          "published": "Wed, 03 Jun 2026 19:10:01 GMT"
+          "published": "Wed, 03 Jun 2026 21:19:19 GMT"
+        },
+        {
+          "source": "BBC",
+          "title": "US House votes to halt Iran war, in rebuke to Trump",
+          "link": "https://www.bbc.com/news/articles/cj6pldg39deo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 03 Jun 2026 22:37:44 GMT"
         },
         {
           "source": "BBC",
@@ -95,45 +101,39 @@
         },
         {
           "source": "BBC",
-          "title": "Ukrainian drones hit St Petersburg as Putin's flagship economic forum opens",
-          "link": "https://www.bbc.com/news/articles/c0e2vqd3j1vo?at_medium=RSS&at_campaign=rss",
-          "published": "Wed, 03 Jun 2026 11:34:07 GMT"
-        },
-        {
-          "source": "BBC",
-          "title": "Foreign nationals among at least 21 killed in Delhi fire",
-          "link": "https://www.bbc.com/news/articles/czd29327qzvo?at_medium=RSS&at_campaign=rss",
-          "published": "Wed, 03 Jun 2026 11:54:25 GMT"
+          "title": "Grab what you can while you can: The  new reality in the South China Sea",
+          "link": "https://www.bbc.com/news/articles/cy823n3ln29o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 03 Jun 2026 22:00:21 GMT"
         },
         {
           "source": "Al Jazeera",
-          "title": "Ten years on, world remembers Muhammad Ali ‘the Greatest’",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/6/3/ten-years-on-world-remembers-muhammad-ali-the-greatest?traffic_source=rss",
-          "published": "Wed, 03 Jun 2026 20:13:54 +0000"
+          "title": "Real Madrid will bring Mourinho back if Perez is re-elected",
+          "link": "https://www.aljazeera.com/sports/2026/6/3/real-madrid-will-bring-mourinho-back-if-perez-is-re-elected?traffic_source=rss",
+          "published": "Wed, 03 Jun 2026 22:13:10 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Israel’s decades-long history of invading Lebanon",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/6/3/israels-decades-long-history-of-invading-lebanon?traffic_source=rss",
-          "published": "Wed, 03 Jun 2026 19:55:03 +0000"
+          "title": "US House of Representatives passes war powers resolution in rebuke to Trump",
+          "link": "https://www.aljazeera.com/news/2026/6/3/us-house-of-representatives-passes-war-powers-resolution-in-rebuke-to-trump?traffic_source=rss",
+          "published": "Wed, 03 Jun 2026 22:10:58 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Israeli strikes near Tyre hospital put youngest patient at risk",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/6/3/israeli-strikes-near-tyre-hospital-put-youngest-patient-at-risk?traffic_source=rss",
-          "published": "Wed, 03 Jun 2026 19:37:54 +0000"
+          "title": "Who is Adam Hamawy? Doctor who served in Gaza is on the path to US Congress",
+          "link": "https://www.aljazeera.com/news/2026/6/3/who-is-adam-hamawy-doctor-who-served-in-gaza-is-on-the-path-to-us-congress?traffic_source=rss",
+          "published": "Wed, 03 Jun 2026 21:56:47 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Dalai Lama receives Grammy award for spoken-word album",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/6/3/dalai-lama-receives-grammy-award-for-spoken-word-album?traffic_source=rss",
-          "published": "Wed, 03 Jun 2026 19:23:46 +0000"
+          "title": "Kuwait labels Iran attack ‘heinous aggression’",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/6/3/kuwait-labels-iran-attack-heinous?traffic_source=rss",
+          "published": "Wed, 03 Jun 2026 21:16:41 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Gunfire erupts in Mogadishu before protests against Somali president’s rule",
-          "link": "https://www.aljazeera.com/news/2026/6/3/heavy-gunfire-erupts-in-mogadishu-amid-protests-against-presidents-rule?traffic_source=rss",
-          "published": "Wed, 03 Jun 2026 18:45:32 +0000"
+          "title": "Ukraine attacks St Petersburg as Russia hosts its own ‘Davos’",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/6/3/ukraine-attacks-st-petersburg-as-russia-hosts-its-own-davos?traffic_source=rss",
+          "published": "Wed, 03 Jun 2026 21:15:45 +0000"
         }
       ]
     }
