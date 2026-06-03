@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-02T23:45:21Z",
+  "updatedAt": "2026-06-03T02:13:06Z",
   "groups": [
     {
       "region": "Македонија",
@@ -83,6 +83,18 @@
         },
         {
           "source": "BBC",
+          "title": "US and Iran launch new strikes as ceasefire negotiations stall",
+          "link": "https://www.bbc.com/news/articles/c5yx135yg53o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 03 Jun 2026 01:18:19 GMT"
+        },
+        {
+          "source": "BBC",
+          "title": "Putin remains uncompromising on Ukraine, but is public discourse on war changing in Russia?",
+          "link": "https://www.bbc.com/news/articles/cy82339793go?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 02 Jun 2026 23:33:34 GMT"
+        },
+        {
+          "source": "BBC",
           "title": "'They'll fix the building, but not our souls': Sleepy Kyiv neighbourhood hit in Russian strike",
           "link": "https://www.bbc.com/news/articles/c5y9nyvg9z2o?at_medium=RSS&at_campaign=rss",
           "published": "Tue, 02 Jun 2026 19:13:21 GMT"
@@ -94,46 +106,34 @@
           "published": "Tue, 02 Jun 2026 16:04:18 GMT"
         },
         {
-          "source": "BBC",
-          "title": "US says it fired missile at Iran-bound oil tanker",
-          "link": "https://www.bbc.com/news/articles/c5yx135yg53o?at_medium=RSS&at_campaign=rss",
-          "published": "Tue, 02 Jun 2026 21:49:00 GMT"
-        },
-        {
-          "source": "BBC",
-          "title": "Microsoft says new quantum chip 1,000 times more reliable than predecessor",
-          "link": "https://www.bbc.com/news/articles/cj4p7gyvp52o?at_medium=RSS&at_campaign=rss",
-          "published": "Tue, 02 Jun 2026 19:24:31 GMT"
+          "source": "Al Jazeera",
+          "title": "US says it attacked Iran’s Qeshm Island; Tehran targets Kuwait, Bahrain",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/6/3/us-says-it-attacked-irans-qeshm-island-tehran-targets-kuwait-bahrain?traffic_source=rss",
+          "published": "Wed, 03 Jun 2026 01:26:30 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Italy celebrates 80 years of democracy",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/6/2/italy-celebrates-80-years-of-democracy?traffic_source=rss",
-          "published": "Tue, 02 Jun 2026 23:19:09 +0000"
+          "title": "Zimbabwe’s e-tricycle crackdown puts rural women’s livelihoods at risk",
+          "link": "https://www.aljazeera.com/news/2026/6/3/zimbabwes-e-tricycle-crackdown-puts-rural-womens-livelihoods-at-risk?traffic_source=rss",
+          "published": "Wed, 03 Jun 2026 01:23:03 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Actor Idris Elba knighted by King Charles at Windsor Castle",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/6/2/actor-idris-elba-knighted-by-king-charles-at-windsor-castle?traffic_source=rss",
-          "published": "Tue, 02 Jun 2026 23:14:24 +0000"
+          "title": "Why women go to war",
+          "link": "https://www.aljazeera.com/video/all-hail/2026/6/3/why-women-go-to-war?traffic_source=rss",
+          "published": "Wed, 03 Jun 2026 00:26:07 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Protesters use ‘Ebola coffin’ to rally against US quarantine centre",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/6/2/protesters-use-ebola-coffin-to-rally-against-us-quarantine-centre?traffic_source=rss",
-          "published": "Tue, 02 Jun 2026 23:14:18 +0000"
+          "title": "Trump to attend delayed White House Correspondents’ Dinner after shooting",
+          "link": "https://www.aljazeera.com/news/2026/6/3/trump-to-attend-delayed-white-house-correspondents-dinner-after-shooting?traffic_source=rss",
+          "published": "Wed, 03 Jun 2026 00:11:17 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "European election monitor dismisses rumours of fraud in Colombia’s election",
-          "link": "https://www.aljazeera.com/news/2026/6/2/european-election-monitor-dismisses-rumours-of-fraud-in-colombias-election?traffic_source=rss",
-          "published": "Tue, 02 Jun 2026 23:11:37 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Trump berated Netanyahu? Analysts question US-Israel feud rumours",
-          "link": "https://www.aljazeera.com/news/2026/6/2/trump-berated-netanyahu-scepticism-abounds-about-us-israel-feud-rumour?traffic_source=rss",
-          "published": "Tue, 02 Jun 2026 21:59:47 +0000"
+          "title": "Thailand cracks down on foreign companies using fig leaf of local ownership",
+          "link": "https://www.aljazeera.com/economy/2026/6/3/thailand-cracks-down-on-foreign-companies-using-fig-leaf-of-local-ownership?traffic_source=rss",
+          "published": "Wed, 03 Jun 2026 00:06:57 +0000"
         }
       ]
     }
