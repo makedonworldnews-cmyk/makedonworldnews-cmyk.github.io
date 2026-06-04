@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-04T21:01:38Z",
+  "updatedAt": "2026-06-04T22:41:31Z",
   "groups": [
     {
       "region": "Македонија",
@@ -42,6 +42,12 @@
         },
         {
           "source": "NetPress",
+          "title": "Пријателски натпревари: БСК ја победи Франција, Шпанија и Ирак ремизираа",
+          "link": "https://netpress.com.mk/prijatelski-natprevari-bsk-ja-pobedi-franczija-shpanija-i-irak-remiziraa/",
+          "published": "Thu, 04 Jun 2026 21:49:02 +0000"
+        },
+        {
+          "source": "NetPress",
           "title": "Шкендија бара преиначување на казната или ќе излезе од македонскиот фудбал",
           "link": "https://netpress.com.mk/shkendija-bara-preinachuvane-na-kaznata-ili-ke-izleze-od-makedonskiot-fudbal/",
           "published": "Thu, 04 Jun 2026 21:00:56 +0000"
@@ -63,18 +69,18 @@
           "title": "Русија е подготвена за компромис доколку истото го направи и Украина",
           "link": "https://netpress.com.mk/rusija-e-podgotvena-za-kompromis-dokolku-istoto-go-napravi-i-ukraina/",
           "published": "Thu, 04 Jun 2026 20:10:28 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Дијалогот е најсилната алатка за одржливи решенија на пазарот на трудот, порача Дурмиши во Женева",
-          "link": "https://netpress.com.mk/dijalogot-e-najsilnata-alatka-za-odrzhlivi-reshenija-na-pazarot-na-trudot-poracha-durmishi-vo-zheneva/",
-          "published": "Thu, 04 Jun 2026 19:42:18 +0000"
         }
       ]
     },
     {
       "region": "Свет",
       "items": [
+        {
+          "source": "BBC",
+          "title": "Zelensky proposes face-to-face talks in open letter to Putin",
+          "link": "https://www.bbc.com/news/articles/cwy2ypyp4x4o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 04 Jun 2026 21:34:14 GMT"
+        },
         {
           "source": "BBC",
           "title": "Hezbollah rejects renewed ceasefire agreed by Israel and Lebanon",
@@ -89,15 +95,9 @@
         },
         {
           "source": "BBC",
-          "title": "Ex-wife of Dubai ruler's nephew missing, says lawyer",
-          "link": "https://www.bbc.com/news/articles/c362618d9e8o?at_medium=RSS&at_campaign=rss",
-          "published": "Thu, 04 Jun 2026 18:01:54 GMT"
-        },
-        {
-          "source": "BBC",
-          "title": "Israeli strikes kill 11 people in Gaza City, medics say",
-          "link": "https://www.bbc.com/news/articles/cg5prr9gr1ro?at_medium=RSS&at_campaign=rss",
-          "published": "Thu, 04 Jun 2026 17:50:20 GMT"
+          "title": "Ex-wife of Dubai ruler's nephew in custody, prosecutors say",
+          "link": "https://www.bbc.com/news/articles/cx2124zylxno?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 04 Jun 2026 21:34:49 GMT"
         },
         {
           "source": "BBC",
@@ -107,33 +107,33 @@
         },
         {
           "source": "Al Jazeera",
-          "title": "Lufthansa employees injured after Boeing 787 collapses in Frankfurt",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/6/4/lufthansa-employees-injured-after-boeing-787-collapses-in-frankfurt?traffic_source=rss",
-          "published": "Thu, 04 Jun 2026 20:29:00 +0000"
+          "title": "Why is the US so invested in Colombia’s election?",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/6/4/why-is-the-us-so-invested-in-colombias-election?traffic_source=rss",
+          "published": "Thu, 04 Jun 2026 22:05:23 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Block the bombs: Support grows for US bill to restrict arms for Israel",
-          "link": "https://www.aljazeera.com/news/2026/6/4/block-the-bombs-support-grows-for-us-bill-to-restrict-arms-for-israel?traffic_source=rss",
-          "published": "Thu, 04 Jun 2026 19:43:14 +0000"
+          "title": "Lebanon latest: Hezbollah rejects US plan as Israel continues attacks",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/6/4/lebanon-latest-hezbollah-rejects-us-plan-as-israel-continues-attacks?traffic_source=rss",
+          "published": "Thu, 04 Jun 2026 21:40:08 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "History-making qualifier Chwalinska sets up Andreeva French Open final",
-          "link": "https://www.aljazeera.com/sports/2026/6/4/qualifier-chwalinska-sets-up-andreeva-french-open-final?traffic_source=rss",
-          "published": "Thu, 04 Jun 2026 19:16:54 +0000"
+          "title": "Hezbollah rejects US-brokered ceasefire deal between Israel and Lebanon",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/6/4/hezbollah-rejects-us-brokered-ceasefire-deal-between-israel-and-lebanon?traffic_source=rss",
+          "published": "Thu, 04 Jun 2026 21:07:18 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Liverpool appoint Spaniard Iraola as new manager in place of Slot",
-          "link": "https://www.aljazeera.com/sports/2026/6/4/liverpool-appoint-spaniard-iraola-as-new-manager-in-place-of-slot?traffic_source=rss",
-          "published": "Thu, 04 Jun 2026 19:01:41 +0000"
+          "title": "US defence secretary compares Bolivia protests to government ‘overthrow’",
+          "link": "https://www.aljazeera.com/news/2026/6/4/us-defence-secretary-compares-bolivia-protests-to-government-overthrow?traffic_source=rss",
+          "published": "Thu, 04 Jun 2026 21:01:12 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Russia kills 12 in Ukraine as Kyiv mourns 707 children killed since 2022",
-          "link": "https://www.aljazeera.com/news/2026/6/4/twelve-people-killed-scores-wounded-in-russian-attacks-on-ukraine?traffic_source=rss",
-          "published": "Thu, 04 Jun 2026 18:59:43 +0000"
+          "title": "What is the UK’s ‘two-tier policing’ debate?",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/6/4/what-is-the-uks-two-tier-policing-debate?traffic_source=rss",
+          "published": "Thu, 04 Jun 2026 20:59:33 +0000"
         }
       ]
     }
