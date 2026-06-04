@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-04T10:34:10Z",
+  "updatedAt": "2026-06-04T13:39:00Z",
   "errors": [
     {
       "source": "МИА",
@@ -9,7 +9,7 @@
     {
       "source": "NetPress",
       "url": "https://netpress.com.mk/feed/",
-      "error": "HTTPSConnectionPool(host='netpress.com.mk', port=443): Max retries exceeded with url: /feed/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='netpress.com.mk', port=443) at 0x7f8299f52250>, 'Connection to netpress.com.mk timed out. (connect timeout=12)'))"
+      "error": "HTTPSConnectionPool(host='netpress.com.mk', port=443): Max retries exceeded with url: /feed/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='netpress.com.mk', port=443) at 0x7f11b8ad7390>, 'Connection to netpress.com.mk timed out. (connect timeout=12)'))"
     }
   ]
 }
