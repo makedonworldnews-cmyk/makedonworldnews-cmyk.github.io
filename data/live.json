@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-05T21:02:50Z",
+  "generated_at": "2026-06-05T22:21:49Z",
   "items": [
     {
       "region": "Македонија",
@@ -39,6 +39,20 @@
     {
       "region": "Македонија",
       "source": "NetPress",
+      "title": "СП 2026: Иранците сè уште ги чекаат американските визи",
+      "link": "https://netpress.com.mk/sp-2026-iranczite-se-ushte-gi-chekaat-amerikanskite-vizi/",
+      "published": "Fri, 05 Jun 2026 22:01:18 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "NetPress",
+      "title": "Пријателски натпревари: Унгарија подобра од Финска, реми меѓу Словаците и Црногорците",
+      "link": "https://netpress.com.mk/prijatelski-natprevari-ungarija-podobra-od-finska-remi-megu-slovaczite-i-czrnogorczite/",
+      "published": "Fri, 05 Jun 2026 21:49:46 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "NetPress",
       "title": "Мерц: Србија мора да избере меѓу ЕУ, Русија и Кина",
       "link": "https://netpress.com.mk/mercz-srbija-mora-da-izbere-megu-eu-rusija-i-kina/",
       "published": "Fri, 05 Jun 2026 20:47:09 +0000"
@@ -56,20 +70,6 @@
       "title": "Анчелоти најави можен настап на Нејмар на првиот натпревар на Мундијалот",
       "link": "https://netpress.com.mk/ancheloti-najavi-mozhen-nastap-na-nejmar-na-prviot-natprevar-na-mundijalot/",
       "published": "Fri, 05 Jun 2026 19:43:24 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Украинците го изгубија разумот кога ја нападнаа нуклеарната централа Запорожје",
-      "link": "https://netpress.com.mk/ukrainczite-go-izgubija-razumot-koga-ja-napadnaa-nuklearnata-czentrala-zaporozhje/",
-      "published": "Fri, 05 Jun 2026 18:58:47 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Путин за правото на самоопределување на ДНР и ЛНР, се осврна и на Косово",
-      "link": "https://netpress.com.mk/putin-za-pravoto-na-samoopredeluvane-na-dnr-i-lnr-se-osvrna-i-na-kosovo/",
-      "published": "Fri, 05 Jun 2026 18:38:52 +0000"
     },
     {
       "region": "Свет",
@@ -90,7 +90,7 @@
       "source": "BBC",
       "title": "Astronauts return to ISS after sheltering during air leak repair attempt",
       "link": "https://www.bbc.com/news/articles/c5y7yryg01mo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 05 Jun 2026 16:14:36 GMT"
+      "published": "Fri, 05 Jun 2026 21:35:55 GMT"
     },
     {
       "region": "Свет",
@@ -105,6 +105,20 @@
       "title": "Nearly 50 people die of thirst in Sahara desert after lorry breaks down",
       "link": "https://www.bbc.com/news/articles/c62r2ldyejro?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 05 Jun 2026 16:00:47 GMT"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Trump makes pitch to farmers hard-hit by tariffs, high prices in Wisconsin",
+      "link": "https://www.aljazeera.com/news/2026/6/5/trump-makes-pitch-to-farmers-hard-hit-by-tariffs-high-prices-in-wisconsin?traffic_source=rss",
+      "published": "Fri, 05 Jun 2026 21:02:52 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Iran footballers issued US visas for World Cup, says White House",
+      "link": "https://www.aljazeera.com/sports/2026/6/5/iran-footballers-issued-us-visas-for-world-cup-says-white-house?traffic_source=rss",
+      "published": "Fri, 05 Jun 2026 20:49:40 +0000"
     },
     {
       "region": "Свет",
@@ -126,20 +140,6 @@
       "title": "Cobolli into final as virus-struck Arnaldi pulls out of French Open",
       "link": "https://www.aljazeera.com/sports/2026/6/5/cobolli-into-final-as-virus-struck-arnaldi-pulls-out-of-french-open?traffic_source=rss",
       "published": "Fri, 05 Jun 2026 20:32:10 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "‘Pervasive fear’ grips Gaza as Israeli attacks persist despite ceasefire",
-      "link": "https://www.aljazeera.com/news/2026/6/5/pervasive-fear-grips-gaza-as-israeli-attacks-persist-despite-ceasefire?traffic_source=rss",
-      "published": "Fri, 05 Jun 2026 20:17:35 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "France opens ‘war crimes’ probe into Israel’s treatment of Gaza activists",
-      "link": "https://www.aljazeera.com/news/2026/6/5/france-opens-war-crimes-probe-into-israels-treatment-of-gaza-activists?traffic_source=rss",
-      "published": "Fri, 05 Jun 2026 19:51:23 +0000"
     }
   ]
 }
