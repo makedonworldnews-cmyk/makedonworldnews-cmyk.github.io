@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-05T21:58:02Z",
+  "updatedAt": "2026-06-05T23:17:51Z",
   "groups": [
     {
       "region": "Македонија",
@@ -42,9 +42,33 @@
         },
         {
           "source": "NetPress",
-          "title": "⚠️ Не може да се вчита (извор/timeout)",
-          "link": "https://netpress.com.mk/feed/",
-          "published": ""
+          "title": "СП 2026: Иранците сè уште ги чекаат американските визи",
+          "link": "https://netpress.com.mk/sp-2026-iranczite-se-ushte-gi-chekaat-amerikanskite-vizi/",
+          "published": "Fri, 05 Jun 2026 22:01:18 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Пријателски натпревари: Унгарија подобра од Финска, реми меѓу Словаците и Црногорците",
+          "link": "https://netpress.com.mk/prijatelski-natprevari-ungarija-podobra-od-finska-remi-megu-slovaczite-i-czrnogorczite/",
+          "published": "Fri, 05 Jun 2026 21:49:46 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Мерц: Србија мора да избере меѓу ЕУ, Русија и Кина",
+          "link": "https://netpress.com.mk/mercz-srbija-mora-da-izbere-megu-eu-rusija-i-kina/",
+          "published": "Fri, 05 Jun 2026 20:47:09 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Меркел одби да биде преговарач на ЕУ со Русија",
+          "link": "https://netpress.com.mk/merkel-odbi-da-bide-pregovarach-na-eu-so-rusija/",
+          "published": "Fri, 05 Jun 2026 20:43:50 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Анчелоти најави можен настап на Нејмар на првиот натпревар на Мундијалот",
+          "link": "https://netpress.com.mk/ancheloti-najavi-mozhen-nastap-na-nejmar-na-prviot-natprevar-na-mundijalot/",
+          "published": "Fri, 05 Jun 2026 19:43:24 +0000"
         }
       ]
     },
