@@ -1,6 +1,13 @@
 {
-  "generated_at": "2026-06-06T15:49:09Z",
+  "generated_at": "2026-06-06T16:52:36Z",
   "items": [
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "Папата Лав во Шпанија: Светот повикува на мир",
+      "link": "https://makfax.com.mk/svet/papata-lav-vo-shpanija-svetot-povikuva-na-mir/",
+      "published": "Sat, 06 Jun 2026 16:20:02 +0000"
+    },
     {
       "region": "Македонија",
       "source": "Makfax",
@@ -31,10 +38,10 @@
     },
     {
       "region": "Македонија",
-      "source": "Makfax",
-      "title": "Пожар зафати две возила во скопски Аеродром, едно целосно опожарено",
-      "link": "https://makfax.com.mk/crna-hronika/pozhar-zafati-dve-vozila-vo-skopski-aerodrom-edno-celosno-opozhareno/",
-      "published": "Sat, 06 Jun 2026 12:51:25 +0000"
+      "source": "NetPress",
+      "title": "Белград потврди дека во нападот врз мировниците на ОН во Либан е убиен српски војник",
+      "link": "https://netpress.com.mk/belgrad-potvrdi-deka-vo-napadot-vrz-mirovniczite-na-on-vo-liban-e-ubien-srpski-vojnik/",
+      "published": "Sat, 06 Jun 2026 16:05:43 +0000"
     },
     {
       "region": "Македонија",
@@ -63,13 +70,6 @@
       "title": "Алкохолизиран правел хаос во велешка болница",
       "link": "https://netpress.com.mk/alkoholiziran-pravel-haos-vo-veleshka-bolnicza/",
       "published": "Sat, 06 Jun 2026 15:02:58 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Мицкоски: Акцискиот план за малцинства е готов и неофицијално е усогласен со дваесет и шест земји-членки, освен со една",
-      "link": "https://netpress.com.mk/miczkoski-akcziskiot-plan-za-malczinstva-e-gotov-i-neoficzijalno-e-usoglasen-so-dvaeset-i-shest-zemji-chlenki-osven-so-edna/",
-      "published": "Sat, 06 Jun 2026 14:00:12 +0000"
     },
     {
       "region": "Свет",
@@ -102,9 +102,9 @@
     {
       "region": "Свет",
       "source": "BBC",
-      "title": "Iran says staff blocked from entering US after players given World Cup visas",
-      "link": "https://www.bbc.com/news/articles/cy8286nqz87o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 06 Jun 2026 11:56:25 GMT"
+      "title": "Andreeva wins French Open as Chwalinska fairytale ends",
+      "link": "https://www.bbc.com/sport/tennis/articles/c1dy7grv4y3o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 06 Jun 2026 15:44:24 GMT"
     },
     {
       "region": "Свет",
@@ -137,7 +137,7 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
-      "title": "Israeli strike kills at least six people at wedding in Gaza",
+      "title": "Israeli attack on Gaza City tent camp kills at least six",
       "link": "https://www.aljazeera.com/news/2026/6/6/israeli-strike-kills-at-least-five-people-at-wedding-in-gaza?traffic_source=rss",
       "published": "Sat, 06 Jun 2026 14:38:50 +0000"
     }
