@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-06T12:58:43Z",
+  "updatedAt": "2026-06-06T14:49:34Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Израел нареди евакуација на пет населени места во јужен Либан",
+          "link": "https://makfax.com.mk/svet/izrael-naredi-evakuacija-na-pet-naseleni-mesta-vo-juzhen-liban/",
+          "published": "Sat, 06 Jun 2026 13:50:57 +0000"
         },
         {
           "source": "Makfax",
@@ -35,40 +41,34 @@
           "published": "Sat, 06 Jun 2026 12:51:25 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Приведен велешанец со 1,59 промили алкохол по нарушување на јавниот ред и мир во здравствена установа",
-          "link": "https://makfax.com.mk/crna-hronika/priveden-veleshanec-so-159-promili-alkohol-po-narushuvanje-na-javniot-red-i-mir-vo-zdravstvena-ustanova/",
-          "published": "Sat, 06 Jun 2026 12:49:41 +0000"
+          "source": "NetPress",
+          "title": "Мицкоски: Акцискиот план за малцинства е готов и неофицијално е усогласен со дваесет и шест земји-членки, освен со една",
+          "link": "https://netpress.com.mk/miczkoski-akcziskiot-plan-za-malczinstva-e-gotov-i-neoficzijalno-e-usoglasen-so-dvaeset-i-shest-zemji-chlenki-osven-so-edna/",
+          "published": "Sat, 06 Jun 2026 14:00:12 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Првото психолошко советувалиште за деца и адолесценти отвора нов пристап кон менталното здравје",
-          "link": "https://netpress.com.mk/prvoto-psiholoshko-sovetuvalishte-za-decza-i-adolesczenti-otvora-nov-pristap-kon-mentalnoto-zdravje/",
-          "published": "Sat, 06 Jun 2026 12:57:23 +0000"
+          "title": "Малолетник на електричен тротинет тешко повреде жена",
+          "link": "https://netpress.com.mk/maloletnik-na-elektrichen-trotinet-teshko-povrede-zhena/",
+          "published": "Sat, 06 Jun 2026 13:55:43 +0000"
         },
         {
           "source": "NetPress",
-          "title": "МотоГП: Маркез стартува од пол-позицијата во Унгарија",
-          "link": "https://netpress.com.mk/motogp-markez-startuva-od-pol-poziczijata-vo-ungarija/",
-          "published": "Sat, 06 Jun 2026 12:50:38 +0000"
+          "title": "Антонели најбрз на последниот слободен тренинг во Монако",
+          "link": "https://netpress.com.mk/antoneli-najbrz-na-posledniot-sloboden-trening-vo-monako/",
+          "published": "Sat, 06 Jun 2026 13:38:11 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Пијан жител на Зајас приведен откако возел и покрај забраната",
-          "link": "https://netpress.com.mk/pijan-zhitel-na-zajas-priveden-otkako-vozel-i-pokraj-zabranata/",
-          "published": "Sat, 06 Jun 2026 12:31:51 +0000"
+          "title": "Возрасна скопјанка тешко повредена во налет на автомобил",
+          "link": "https://netpress.com.mk/vozrasna-skopjanka-teshko-povredena-vo-nalet-na-avtomobil/",
+          "published": "Sat, 06 Jun 2026 13:22:48 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Балканот мора да стане енергетски коридор на Европа а не периферија на транзицијата",
-          "link": "https://netpress.com.mk/balkanot-mora-da-stane-energetski-koridor-na-evropa-a-ne-periferija-na-tranziczijata/",
-          "published": "Sat, 06 Jun 2026 12:26:10 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Мицковски оптимист за забрзување на евроинтеграцијата по средбите со Макрон и Шолц",
-          "link": "https://netpress.com.mk/miczkovski-optimist-za-zabrzuvane-na-evrointegraczijata-po-sredbite-so-makron-i-sholcz/",
-          "published": "Sat, 06 Jun 2026 12:20:54 +0000"
+          "title": "Мицкоски: Од институција што тонеше во долгови, ИЈЗ денес инвестира во опрема и инфраструктура",
+          "link": "https://netpress.com.mk/miczkoski-od-instituczija-shto-toneshe-vo-dolgovi-ijz-denes-investira-vo-oprema-i-infrastruktura/",
+          "published": "Sat, 06 Jun 2026 13:05:08 +0000"
         }
       ]
     },
@@ -79,13 +79,13 @@
           "source": "BBC",
           "title": "Ukrainian drones target St Petersburg in attack Russia calls 'unprecedented'",
           "link": "https://www.bbc.com/news/articles/cg7498kz808o?at_medium=RSS&at_campaign=rss",
-          "published": "Sat, 06 Jun 2026 11:37:19 GMT"
+          "published": "Sat, 06 Jun 2026 13:38:07 GMT"
         },
         {
           "source": "BBC",
           "title": "US and Iran exchange strikes in Gulf in latest test of ceasefire",
           "link": "https://www.bbc.com/news/articles/cvgzgyjk2weo?at_medium=RSS&at_campaign=rss",
-          "published": "Sat, 06 Jun 2026 06:16:28 GMT"
+          "published": "Sat, 06 Jun 2026 14:46:20 GMT"
         },
         {
           "source": "BBC",
@@ -107,33 +107,33 @@
         },
         {
           "source": "Al Jazeera",
-          "title": "Hundreds brave freezing weather in La Paz to line up for affordable food",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/6/6/hundreds-brave-freezing-weather-in-la-paz-to-line-up-for-affordable-food?traffic_source=rss",
-          "published": "Sat, 06 Jun 2026 12:07:39 +0000"
+          "title": "What Afghanistan’s rotten apples tell us about its non-profit sector",
+          "link": "https://www.aljazeera.com/opinions/2026/6/6/what-afghanistans-rotten-apples-tell-us-about-its-non-profit-sector?traffic_source=rss",
+          "published": "Sat, 06 Jun 2026 14:16:56 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Spain’s World Cup 2026 team preview: Players to watch, group matches, squad",
-          "link": "https://www.aljazeera.com/sports/2026/6/6/spains-world-cup-2026-team-preview-players-to-watch-group-matches-squad?traffic_source=rss",
-          "published": "Sat, 06 Jun 2026 12:07:24 +0000"
+          "title": "Lebanon and Israel’s perpetual war machine",
+          "link": "https://www.aljazeera.com/video/the-listening-post/2026/6/6/lebanon-and-israels-perpetual-war-machine?traffic_source=rss",
+          "published": "Sat, 06 Jun 2026 13:31:49 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Iran 2026 World Cup squad heads to Mexico as US visa dispute erupts",
-          "link": "https://www.aljazeera.com/sports/2026/6/6/iran-2026-world-cup-squad-heads-to-mexico-as-us-visa-dispute-erupts?traffic_source=rss",
-          "published": "Sat, 06 Jun 2026 12:01:32 +0000"
+          "title": "Pope calls for end to polarisation during visit to Spain",
+          "link": "https://www.aljazeera.com/news/2026/6/6/pope-calls-for-end-to-polarisation-during-visit-to-spain?traffic_source=rss",
+          "published": "Sat, 06 Jun 2026 13:26:59 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Russia says hundreds of Ukrainian drones downed as economic forum ends",
-          "link": "https://www.aljazeera.com/news/2026/6/6/russia-says-hundreds-of-ukrainian-drones-downed-as-economic-forum-ends?traffic_source=rss",
-          "published": "Sat, 06 Jun 2026 11:59:15 +0000"
+          "title": "‘Elections campaigned on who can be more brutal to Palestinians’",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/6/6/elections-campaigned-on-who-can-be-more-brutal-to?traffic_source=rss",
+          "published": "Sat, 06 Jun 2026 13:23:02 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "‘Cockroach Party’ leader returns to India for first New Delhi protest",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/6/6/cockroach-party-leader-returns-to-india-for-first-new-delhi-protest?traffic_source=rss",
-          "published": "Sat, 06 Jun 2026 11:47:45 +0000"
+          "title": "Argentina’s ‘Madman’: Inside the world of Javier Milei",
+          "link": "https://www.aljazeera.com/features/longform/2026/6/6/argentinas-madman-inside-the-world-of-javier-milei?traffic_source=rss",
+          "published": "Sat, 06 Jun 2026 13:21:31 +0000"
         }
       ]
     }
