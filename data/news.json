@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-06T15:58:46Z",
+  "updatedAt": "2026-06-06T17:22:10Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Митови и факти за „Мазут“- што покажуваат официјалните податоци",
+          "link": "https://makfax.com.mk/soopstenija/mitovi-i-fakti-za-%e2%80%9emazut%e2%80%9c-shto-pokazhuvaat-oficijalnite-podatoci/",
+          "published": "Sat, 06 Jun 2026 17:05:38 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Папата Лав во Шпанија: Светот повикува на мир",
+          "link": "https://makfax.com.mk/svet/papata-lav-vo-shpanija-svetot-povikuva-na-mir/",
+          "published": "Sat, 06 Jun 2026 16:20:02 +0000"
         },
         {
           "source": "Makfax",
@@ -29,16 +41,22 @@
           "published": "Sat, 06 Jun 2026 12:55:18 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Битолчанец тешко повреден по пад од мопед во демирхисарско село",
-          "link": "https://makfax.com.mk/crna-hronika/bitolchanec-teshko-povreden-po-pad-od-moped-vo-demirhisarsko-selo/",
-          "published": "Sat, 06 Jun 2026 12:52:34 +0000"
+          "source": "NetPress",
+          "title": "Европа се соочува со инвазија од опасни идеологии, предупреди Хегсет",
+          "link": "https://netpress.com.mk/evropa-se-soochuva-so-invazija-od-opasni-ideologii-predupredi-hegset/",
+          "published": "Sat, 06 Jun 2026 17:13:06 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Пожар зафати две возила во скопски Аеродром, едно целосно опожарено",
-          "link": "https://makfax.com.mk/crna-hronika/pozhar-zafati-dve-vozila-vo-skopski-aerodrom-edno-celosno-opozhareno/",
-          "published": "Sat, 06 Jun 2026 12:51:25 +0000"
+          "source": "NetPress",
+          "title": "Обид за убиство во скопско",
+          "link": "https://netpress.com.mk/obid-za-ubistvo-vo-skopsko/",
+          "published": "Sat, 06 Jun 2026 17:02:18 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Белград потврди дека во нападот врз мировниците на ОН во Либан е убиен српски војник",
+          "link": "https://netpress.com.mk/belgrad-potvrdi-deka-vo-napadot-vrz-mirovniczite-na-on-vo-liban-e-ubien-srpski-vojnik/",
+          "published": "Sat, 06 Jun 2026 16:05:43 +0000"
         },
         {
           "source": "NetPress",
@@ -51,24 +69,6 @@
           "title": "Пет пријави за семејно насилство во последното деноноќие: Снаа нападната од свекорот, зет ја нападнал мајката на сопругата",
           "link": "https://netpress.com.mk/pet-prijavi-za-semejno-nasilstvo-vo-poslednoto-denonokie-snaa-napadnata-od-svekorot-zet-ja-napadnal-majkata-na-soprugata/",
           "published": "Sat, 06 Jun 2026 15:26:30 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Русинката Андреева го освои Ролан Гарос",
-          "link": "https://netpress.com.mk/rusinkata-andreeva-go-osvoi-rolan-garos/",
-          "published": "Sat, 06 Jun 2026 15:17:20 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Алкохолизиран правел хаос во велешка болница",
-          "link": "https://netpress.com.mk/alkoholiziran-pravel-haos-vo-veleshka-bolnicza/",
-          "published": "Sat, 06 Jun 2026 15:02:58 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Мицкоски: Акцискиот план за малцинства е готов и неофицијално е усогласен со дваесет и шест земји-членки, освен со една",
-          "link": "https://netpress.com.mk/miczkoski-akcziskiot-plan-za-malczinstva-e-gotov-i-neoficzijalno-e-usoglasen-so-dvaeset-i-shest-zemji-chlenki-osven-so-edna/",
-          "published": "Sat, 06 Jun 2026 14:00:12 +0000"
         }
       ]
     },
@@ -79,7 +79,7 @@
           "source": "BBC",
           "title": "Ukrainian drones target St Petersburg in attack Russia calls 'unprecedented'",
           "link": "https://www.bbc.com/news/articles/cg7498kz808o?at_medium=RSS&at_campaign=rss",
-          "published": "Sat, 06 Jun 2026 13:38:07 GMT"
+          "published": "Sat, 06 Jun 2026 17:14:03 GMT"
         },
         {
           "source": "BBC",
@@ -95,15 +95,33 @@
         },
         {
           "source": "BBC",
-          "title": "Lebanon says three soldiers killed in Israeli attack on car",
+          "title": "Lebanese general among three soldiers killed in Israeli attack on car",
           "link": "https://www.bbc.com/news/articles/cj0g8jymg92o?at_medium=RSS&at_campaign=rss",
-          "published": "Sat, 06 Jun 2026 10:57:28 GMT"
+          "published": "Sat, 06 Jun 2026 17:12:39 GMT"
         },
         {
           "source": "BBC",
           "title": "Andreeva wins French Open as Chwalinska fairytale ends",
           "link": "https://www.bbc.com/sport/tennis/articles/c1dy7grv4y3o?at_medium=RSS&at_campaign=rss",
           "published": "Sat, 06 Jun 2026 15:44:24 GMT"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "100 days into the war on Iran, Trump fails to rally US support",
+          "link": "https://www.aljazeera.com/news/2026/6/6/100-days-into-the-war-on-iran-trump-fails-to-rally-us-support?traffic_source=rss",
+          "published": "Sat, 06 Jun 2026 17:04:38 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "World Cup 2026: Can sub-Saharan Africa outdo noisy neighbours from north?",
+          "link": "https://www.aljazeera.com/sports/2026/6/6/world-cup-2026-can-sub-saharan-africa-outdo-noisy-neighbours-from-north?traffic_source=rss",
+          "published": "Sat, 06 Jun 2026 16:38:29 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Russian teenager Mirra Andreeva wins French Open to claim first Grand Slam",
+          "link": "https://www.aljazeera.com/sports/2026/6/6/russian-teenager-mirra-andreeva-wins-french-open-to-claim-first-grand-slam?traffic_source=rss",
+          "published": "Sat, 06 Jun 2026 16:35:01 +0000"
         },
         {
           "source": "Al Jazeera",
@@ -116,24 +134,6 @@
           "title": "Israeli attacks in Lebanon kill 10 people, including high-ranking soldiers",
           "link": "https://www.aljazeera.com/news/2026/6/6/israeli-attacks-in-lebanon-kill-10-people-including-high-ranking-soldiers?traffic_source=rss",
           "published": "Sat, 06 Jun 2026 15:30:53 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "‘I’m a cockroach’: Gen Z protest movement lands in Indian capital",
-          "link": "https://www.aljazeera.com/features/2026/6/6/im-a-cockroach-gen-z-protest-movement-lands-in-indian-capital?traffic_source=rss",
-          "published": "Sat, 06 Jun 2026 15:27:47 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Videos show Kuwait intercepting ballistic missiles from Iran",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/6/6/videos-show-kuwait-intercepting-ballistic-missiles-from-iran?traffic_source=rss",
-          "published": "Sat, 06 Jun 2026 15:09:56 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Israeli strike kills at least six people at wedding in Gaza",
-          "link": "https://www.aljazeera.com/news/2026/6/6/israeli-strike-kills-at-least-five-people-at-wedding-in-gaza?traffic_source=rss",
-          "published": "Sat, 06 Jun 2026 14:38:50 +0000"
         }
       ]
     }
