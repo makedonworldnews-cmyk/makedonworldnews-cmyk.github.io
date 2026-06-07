@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-07T22:34:17Z",
+  "generated_at": "2026-06-07T23:40:39Z",
   "items": [
     {
       "region": "Македонија",
@@ -95,16 +95,23 @@
     {
       "region": "Свет",
       "source": "BBC",
+      "title": "'A World Cup for them not us': Fans' anger at US travel bans and visa restrictions",
+      "link": "https://www.bbc.com/news/articles/cx212p8r28eo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 07 Jun 2026 23:00:27 GMT"
+    },
+    {
+      "region": "Свет",
+      "source": "BBC",
       "title": "Trump abruptly ends NBC interview after clash over 'rigged election' claim",
       "link": "https://www.bbc.com/news/articles/ce8k1xx6yzjo?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 07 Jun 2026 19:55:49 GMT"
     },
     {
       "region": "Свет",
-      "source": "BBC",
-      "title": "Armenia votes as Russia piles pressure on pro-West government",
-      "link": "https://www.bbc.com/news/articles/c3626n1epd5o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 07 Jun 2026 17:11:54 GMT"
+      "source": "Al Jazeera",
+      "title": "North Korea’s Kim Jong Un inspects munitions at weapons factory",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/7/north-koreas-kim-jong-un-inspects-munitions-at-weapons-factory-2?traffic_source=rss",
+      "published": "Sun, 07 Jun 2026 22:38:05 +0000"
     },
     {
       "region": "Свет",
@@ -133,13 +140,6 @@
       "title": "Iran fires missiles at Israel after Beirut attack ‘crossed all red lines’",
       "link": "https://www.aljazeera.com/news/2026/6/7/iran-fires-missiles-at-israel-after-beirut-attack-crossed-all-red-lines?traffic_source=rss",
       "published": "Sun, 07 Jun 2026 21:08:59 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Iran fires missiles at Israel after it attacked Beirut",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/7/iran-fires-missiles-at-israel-after-it-attacked-beirut?traffic_source=rss",
-      "published": "Sun, 07 Jun 2026 20:12:55 +0000"
     }
   ]
 }

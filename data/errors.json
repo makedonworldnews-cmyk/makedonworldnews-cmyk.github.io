@@ -1,15 +1,10 @@
 {
-  "updatedAt": "2026-06-07T22:48:05Z",
+  "generated_at": "2026-06-07T23:40:39Z",
   "errors": [
     {
       "source": "МИА",
       "url": "https://mia.mk/rss",
       "error": "404 Client Error: Not Found for url: https://mia.mk/rss"
-    },
-    {
-      "source": "NetPress",
-      "url": "https://netpress.com.mk/feed/",
-      "error": "HTTPSConnectionPool(host='netpress.com.mk', port=443): Max retries exceeded with url: /feed/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='netpress.com.mk', port=443) at 0x7fce519c1990>, 'Connection to netpress.com.mk timed out. (connect timeout=12)'))"
     }
   ]
 }
