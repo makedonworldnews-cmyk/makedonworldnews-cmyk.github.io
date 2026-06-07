@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-07T01:58:43Z",
+  "updatedAt": "2026-06-07T06:38:25Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) Рекордни 2.700 учесници од над 30 држави на „Охрид трчат“",
+          "link": "https://makfax.com.mk/makedonija/video-rekordni-2-700-uchesnici-od-nad-30-drzhavi-na-ohrid-trchat/",
+          "published": "Sun, 07 Jun 2026 06:23:59 +0000"
         },
         {
           "source": "Makfax",
@@ -35,10 +41,16 @@
           "published": "Sat, 06 Jun 2026 19:56:56 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "19-годишната Мира Андреева го освои Ролан Гарос",
-          "link": "https://makfax.com.mk/sport/19-godishnata-mira-andreeva-go-osvoi-rolan-garos/",
-          "published": "Sat, 06 Jun 2026 19:44:00 +0000"
+          "source": "NetPress",
+          "title": "Дневен хоросоп за недела, 7-ми јуни 2026-та",
+          "link": "https://netpress.com.mk/dneven-horosop-za-nedela-7-mi-juni-2026-ta/",
+          "published": "Sun, 07 Jun 2026 06:27:49 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Сончево и топло, попладне локална облачност со дожд",
+          "link": "https://netpress.com.mk/sonchevo-i-toplo-popladne-lokalna-oblachnost-so-dozhd/",
+          "published": "Sun, 07 Jun 2026 06:07:50 +0000"
         },
         {
           "source": "NetPress",
@@ -57,18 +69,6 @@
           "title": "За убиството на актерот Џејмс Хенди обвинет синот на неговата партнерка",
           "link": "https://netpress.com.mk/za-ubistvoto-na-akterot-dhejms-hendi-obvinet-sinot-na-negovata-partnerka/",
           "published": "Sat, 06 Jun 2026 20:48:04 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "По фудбалерите, и кошаркарите на Реал ја завршија сезоната без трофеј",
-          "link": "https://netpress.com.mk/po-fudbalerite-i-kosharkarite-na-real-ja-zavrshija-sezonata-bez-trofej/",
-          "published": "Sat, 06 Jun 2026 20:28:01 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Иран пак ги предупредува своите соседи да не помагаат во нападите на САД од нивните територии",
-          "link": "https://netpress.com.mk/iran-pak-gi-predupreduva-svoite-sosedi-da-ne-pomagaat-vo-napadite-na-sad-od-nivnite-teritorii/",
-          "published": "Sat, 06 Jun 2026 19:55:05 +0000"
         }
       ]
     },
@@ -77,21 +77,27 @@
       "items": [
         {
           "source": "BBC",
+          "title": "Hegseth attacks Europe over migration with beach 'invasion' D-Day speech",
+          "link": "https://www.bbc.com/news/articles/c802e7jk458o?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 07 Jun 2026 05:47:28 GMT"
+        },
+        {
+          "source": "BBC",
           "title": "Ukrainian drones target St Petersburg in attack Russia calls 'unprecedented'",
           "link": "https://www.bbc.com/news/articles/cg7498kz808o?at_medium=RSS&at_campaign=rss",
           "published": "Sat, 06 Jun 2026 20:50:40 GMT"
         },
         {
           "source": "BBC",
-          "title": "US and Iran exchange strikes in Gulf in latest test of ceasefire",
-          "link": "https://www.bbc.com/news/articles/cvgzgyjk2weo?at_medium=RSS&at_campaign=rss",
-          "published": "Sat, 06 Jun 2026 14:46:20 GMT"
+          "title": "Iran says staff blocked from entering US after players given World Cup visas",
+          "link": "https://www.bbc.com/news/articles/cy8286nqz87o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 06 Jun 2026 22:38:36 GMT"
         },
         {
           "source": "BBC",
-          "title": "Hegseth attacks Europe over migration with beach 'invasion' D-Day speech",
-          "link": "https://www.bbc.com/news/articles/c802e7jk458o?at_medium=RSS&at_campaign=rss",
-          "published": "Sat, 06 Jun 2026 23:52:07 GMT"
+          "title": "Insecurity and instability drive voters in Peru's tight presidential race",
+          "link": "https://www.bbc.com/news/articles/c9d21184e7yo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 06 Jun 2026 23:17:43 GMT"
         },
         {
           "source": "BBC",
@@ -100,40 +106,34 @@
           "published": "Sat, 06 Jun 2026 19:57:42 GMT"
         },
         {
-          "source": "BBC",
-          "title": "Pope begins Spain visit with praise for country's opposition to war and support for migrants",
-          "link": "https://www.bbc.com/news/articles/c8d2pgjy4qgo?at_medium=RSS&at_campaign=rss",
-          "published": "Sat, 06 Jun 2026 18:34:26 GMT"
+          "source": "Al Jazeera",
+          "title": "Outrage over Palestinian ‘dog rape’ joke at Tribeca Film Festival",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/6/7/aje-onl-nf_outrage-over-palestinian-dog-rape-joke-at-tribeca-070626?traffic_source=rss",
+          "published": "Sun, 07 Jun 2026 06:01:48 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Iran war live: Israel kills Lebanon general, Pakistan urges end to war",
-          "link": "https://www.aljazeera.com/news/liveblog/2026/6/7/iran-war-live-israel-kills-lebanon-general-pakistan-urges-end-to-war?traffic_source=rss",
-          "published": "Sun, 07 Jun 2026 00:00:00 +0000"
+          "title": "Why are players being issued visas just days before the World Cup?",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/6/7/why-are-players-being-issued-visas-just-days-before-the-world-cup?traffic_source=rss",
+          "published": "Sun, 07 Jun 2026 05:48:49 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Trump pardons former US Congress member accused of insider trading",
-          "link": "https://www.aljazeera.com/news/2026/6/6/trump-pardons-former-us-congress-member-accused-of-insider-trading?traffic_source=rss",
-          "published": "Sat, 06 Jun 2026 23:58:08 +0000"
+          "title": "By the numbers: 100 days of the US-Israel war on Iran",
+          "link": "https://www.aljazeera.com/news/2026/6/7/by-the-numbers-100-days-of-the-us-israel-war-on-iran?traffic_source=rss",
+          "published": "Sun, 07 Jun 2026 05:30:52 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Pentagon said to raise threat level on Israel spying to ‘critical’",
-          "link": "https://www.aljazeera.com/news/2026/6/6/pentagon-said-to-raise-threat-level-on-israel-spying-to-critical?traffic_source=rss",
-          "published": "Sat, 06 Jun 2026 21:10:36 +0000"
+          "title": "How many times were the US and Iran on the verge of a deal?",
+          "link": "https://www.aljazeera.com/news/2026/6/7/how-many-times-were-the-us-and-iran-on-the-verge-of-a-deal?traffic_source=rss",
+          "published": "Sun, 07 Jun 2026 04:51:02 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Tunisians protest for press freedom and release of political prisoners",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/6/6/tunisians-protest-for-press-freedom-and-release-of-political-prisoners?traffic_source=rss",
-          "published": "Sat, 06 Jun 2026 21:07:19 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Cuba’s Raul Castro makes first public appearance since US charges",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/6/6/cubas-raul-castro-makes-first-public-appearance-since-us-charges?traffic_source=rss",
-          "published": "Sat, 06 Jun 2026 20:55:31 +0000"
+          "title": "Why is Chinese President Xi Jinping visiting North Korea now?",
+          "link": "https://www.aljazeera.com/news/2026/6/7/why-is-chinese-president-xi-jinping-visiting-north-korea-now?traffic_source=rss",
+          "published": "Sun, 07 Jun 2026 04:30:44 +0000"
         }
       ]
     }
