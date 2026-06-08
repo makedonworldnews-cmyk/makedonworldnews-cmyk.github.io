@@ -1,10 +1,15 @@
 {
-  "generated_at": "2026-06-08T06:57:43Z",
+  "updatedAt": "2026-06-08T09:01:22Z",
   "errors": [
     {
       "source": "МИА",
       "url": "https://mia.mk/rss",
       "error": "404 Client Error: Not Found for url: https://mia.mk/rss"
+    },
+    {
+      "source": "BBC",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "error": "HTTPSConnectionPool(host='feeds.bbci.co.uk', port=443): Max retries exceeded with url: /news/world/rss.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='feeds.bbci.co.uk', port=443) at 0x7fbb46b12950>, 'Connection to feeds.bbci.co.uk timed out. (connect timeout=12)'))"
     }
   ]
 }
