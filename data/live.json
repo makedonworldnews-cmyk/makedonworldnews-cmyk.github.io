@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-09T22:44:26Z",
+  "generated_at": "2026-06-09T23:59:41Z",
   "items": [
     {
       "region": "Македонија",
@@ -88,6 +88,13 @@
     {
       "region": "Свет",
       "source": "BBC",
+      "title": "World's largest chipmaker does not rule out price rises as costs increase",
+      "link": "https://www.bbc.com/news/articles/ce3ez4zzzlvo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 09 Jun 2026 22:00:24 GMT"
+    },
+    {
+      "region": "Свет",
+      "source": "BBC",
       "title": "Israeli air strikes hit Lebanese city of Tyre despite Iranian warning to stop attacks",
       "link": "https://www.bbc.com/news/articles/c36y16nkr5no?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 09 Jun 2026 17:47:41 GMT"
@@ -101,10 +108,10 @@
     },
     {
       "region": "Свет",
-      "source": "BBC",
-      "title": "Murder of Lyhanna, 11, enrages France and turns up heat on government",
-      "link": "https://www.bbc.com/news/articles/c4gyd1w3e20o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 09 Jun 2026 14:27:37 GMT"
+      "source": "Al Jazeera",
+      "title": "US judge halts execution by nitrogen gas, ruling it unconstitutional",
+      "link": "https://www.aljazeera.com/news/2026/6/9/us-judge-halts-execution-by-nitrogen-gas-ruling-it-unconstitutional?traffic_source=rss",
+      "published": "Tue, 09 Jun 2026 23:06:39 +0000"
     },
     {
       "region": "Свет",
@@ -133,13 +140,6 @@
       "title": "Israeli forces kill nine in Tyre after issuing forced displacement orders",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/6/9/israeli-forces-kill-nine-in-tyre-after-issuing-forced-displacement-orders?traffic_source=rss",
       "published": "Tue, 09 Jun 2026 21:01:22 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Canada confirms opening of Gordie Howe Bridge, despite Trump’s threats",
-      "link": "https://www.aljazeera.com/news/2026/6/9/canada-confirms-opening-of-gordie-howe-bridge-despite-trumps-threats?traffic_source=rss",
-      "published": "Tue, 09 Jun 2026 21:01:01 +0000"
     }
   ]
 }
