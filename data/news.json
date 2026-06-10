@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-10T21:11:38Z",
+  "updatedAt": "2026-06-10T22:58:36Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Најважните рекорди на Светските првенства на едно место",
+          "link": "https://makfax.com.mk/sport/najvazhnite-rekordi-na-svetskite-prvenstva-na-edno-mesto/",
+          "published": "Wed, 10 Jun 2026 21:44:56 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) Спасовски: Трипуновски манипулираше со земјоделците во опозиција, а ги заборави како министер",
+          "link": "https://makfax.com.mk/makedonija/video-spasovski-tripunovski-manipulirashe-so-zemjodelcite-vo-opozicija-a-gi-zaboravi-kako-minister/",
+          "published": "Wed, 10 Jun 2026 21:11:44 +0000"
         },
         {
           "source": "Makfax",
@@ -29,22 +41,34 @@
           "published": "Wed, 10 Jun 2026 20:15:35 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Трипуновски: Ниту една интерпелација и напад од СДС, нема да ме поколеби да ги испорачам реформите што ги ветив на земјоделците",
-          "link": "https://makfax.com.mk/makedonija/tripunovski-nitu-edna-interpelacija-i-napad-od-sds-nema-da-me-pokolebi-da-gi-isporacham-reformite-shto-gi-vetiv-na-zemjodelcite/",
-          "published": "Wed, 10 Jun 2026 20:14:14 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Британец паднал во каналот во Венеција и се удавил: бил на одмор со својата партнерка",
-          "link": "https://makfax.com.mk/svet/britanec-padnal-vo-kanalot-vo-venecija-i-se-udavil-bil-na-odmor-so-svojata-partnerka/",
-          "published": "Wed, 10 Jun 2026 20:08:31 +0000"
+          "source": "NetPress",
+          "title": "САД ќе бомбардираат „клучни објекти“ во Иран денеска, објави Хегсет",
+          "link": "https://netpress.com.mk/sad-ke-bombardiraat-kluchni-objekti-vo-iran-deneska-objavi-hegset/",
+          "published": "Wed, 10 Jun 2026 22:12:22 +0000"
         },
         {
           "source": "NetPress",
-          "title": "⚠️ Не може да се вчита (извор/timeout)",
-          "link": "https://netpress.com.mk/feed/",
-          "published": ""
+          "title": "ВИДЕО| Тројца индиски морнари исчезнати по американски напад врз танкер кај Оман",
+          "link": "https://netpress.com.mk/video-trojcza-indiski-mornari-ischeznati-po-amerikanski-napad-vrz-tanker-kaj-oman/",
+          "published": "Wed, 10 Jun 2026 21:02:16 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Јотова по средбата со Сиљановска Давкова со порака дека мора да се спроведат уставните измени",
+          "link": "https://netpress.com.mk/jotova-po-sredbata-so-silanovska-davkova-mora-da-se-sprovedat-ustavnite-izmeni/",
+          "published": "Wed, 10 Jun 2026 20:50:13 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Голем пожар беснее над Штип – видливи се големи огнени јазици",
+          "link": "https://netpress.com.mk/golem-pozhar-besnee-nad-shtip-vidlivi-se-golemi-ogneni-jaziczi/",
+          "published": "Wed, 10 Jun 2026 20:43:39 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Трамп за Иран: Ќе ги нападнеме многу жестоко",
+          "link": "https://netpress.com.mk/tramp-za-iran-ke-gi-napadneme-mnogu-zhestoko/",
+          "published": "Wed, 10 Jun 2026 20:12:37 +0000"
         }
       ]
     },
@@ -55,7 +79,7 @@
           "source": "BBC",
           "title": "Trump says US will hit Iran 'hard' again today",
           "link": "https://www.bbc.com/news/articles/ce371kw2ex2o?at_medium=RSS&at_campaign=rss",
-          "published": "Wed, 10 Jun 2026 17:33:22 GMT"
+          "published": "Wed, 10 Jun 2026 21:49:57 GMT"
         },
         {
           "source": "BBC",
@@ -65,21 +89,39 @@
         },
         {
           "source": "BBC",
+          "title": "Fireworks illuminate Barcelona's Sagrada Família during Pope visit",
+          "link": "https://www.bbc.com/news/videos/ce95gmdlp98o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 10 Jun 2026 21:52:09 GMT"
+        },
+        {
+          "source": "BBC",
+          "title": "Whale graveyard dating back five million years discovered",
+          "link": "https://www.bbc.com/news/articles/c75ylx4xn10o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 10 Jun 2026 18:24:09 GMT"
+        },
+        {
+          "source": "BBC",
           "title": "Bill Gates says Epstein wanted personal relationship, but he 'never reciprocated'",
           "link": "https://www.bbc.com/news/articles/c0jy8v0ge66o?at_medium=RSS&at_campaign=rss",
           "published": "Wed, 10 Jun 2026 19:31:24 GMT"
         },
         {
-          "source": "BBC",
-          "title": "Israeli strikes in southern Lebanon kill 17, reports say",
-          "link": "https://www.bbc.com/news/articles/cpq3d44l907o?at_medium=RSS&at_campaign=rss",
-          "published": "Wed, 10 Jun 2026 14:44:49 GMT"
+          "source": "Al Jazeera",
+          "title": "Ronaldo misses big chances in Portugal’s World Cup warmup win over Nigeria",
+          "link": "https://www.aljazeera.com/sports/2026/6/10/ronaldo-misses-big-chances-in-portugals-world-cup-warmup-win-over-nigeria?traffic_source=rss",
+          "published": "Wed, 10 Jun 2026 22:18:22 +0000"
         },
         {
-          "source": "BBC",
-          "title": "Norway crown princess's son to stay in custody before rape verdict, says court",
-          "link": "https://www.bbc.com/news/articles/c621lnee131o?at_medium=RSS&at_campaign=rss",
-          "published": "Wed, 10 Jun 2026 15:00:45 GMT"
+          "source": "Al Jazeera",
+          "title": "‘Negotiate with bombs’: US resumes attacks on Iran for second night in row",
+          "link": "https://www.aljazeera.com/news/2026/6/10/us-defence-secretary-hegseth-pledges-strikes-on-key-facilities-in-iran?traffic_source=rss",
+          "published": "Wed, 10 Jun 2026 21:51:57 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Trump directs interim US intelligence chief Bill Pulte to downsize agency",
+          "link": "https://www.aljazeera.com/news/2026/6/10/trump-directs-interim-us-intelligence-chief-bill-pulte-to-downsize-agency?traffic_source=rss",
+          "published": "Wed, 10 Jun 2026 21:09:14 +0000"
         },
         {
           "source": "Al Jazeera",
@@ -92,24 +134,6 @@
           "title": "Hero’s welcome for Omar Artan after Somali’s World Cup dreams dashed",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/6/10/heros-welcome-for-omar-artan-after-somalis-world-cup-dreams-dashed?traffic_source=rss",
           "published": "Wed, 10 Jun 2026 20:46:33 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Gwyneth Paltrow’s Israeli real estate ad goes viral",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/6/10/gwyneth-paltrows-israeli-real-estate-ad-goes-viral?traffic_source=rss",
-          "published": "Wed, 10 Jun 2026 20:41:29 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "First image in months emerges of Dr. Hussam Abu Safia",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/6/10/first-image-in-months-emerges-of-dr-hussam-abu-safia?traffic_source=rss",
-          "published": "Wed, 10 Jun 2026 20:34:50 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "‘I love the inflation’ US President Trump dismisses price concerns",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/6/10/i-love-the-inflation-us-president-trump-dismisses-price-concerns?traffic_source=rss",
-          "published": "Wed, 10 Jun 2026 20:31:49 +0000"
         }
       ]
     }
