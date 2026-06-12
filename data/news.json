@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-12T20:54:41Z",
+  "updatedAt": "2026-06-12T22:24:37Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) БиХ освои бод против Канада",
+          "link": "https://makfax.com.mk/sport/video-bih-osvoi-bod-protiv-kanada/",
+          "published": "Fri, 12 Jun 2026 21:08:58 +0000"
         },
         {
           "source": "Makfax",
@@ -35,40 +41,10 @@
           "published": "Fri, 12 Jun 2026 19:19:14 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Русија развива сателитски систем за управување со борбени дронови",
-          "link": "https://makfax.com.mk/svet/rusija-razviva-satelitski-sistem-za-upravuvanje-so-borbeni-dronovi/",
-          "published": "Fri, 12 Jun 2026 19:18:04 +0000"
-        },
-        {
           "source": "NetPress",
-          "title": "Дубаи победник на АБА лигата",
-          "link": "https://netpress.com.mk/dubai-pobednik-na-aba-ligata/",
-          "published": "Fri, 12 Jun 2026 20:34:08 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Паметните телефони би можеле да бидат причина за падот на стапките на фертилитетот",
-          "link": "https://netpress.com.mk/pametnite-telefoni-bi-mozhele-da-bidat-prichina-za-padot-na-stapkite-na-fertilitetot/",
-          "published": "Fri, 12 Jun 2026 20:07:19 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Украина и Молдавија ги отвораат пристапните преговори со ЕУ, Црна Гора затвора две поглавја",
-          "link": "https://netpress.com.mk/ukraina-i-moldavija-gi-otvoraat-pristapnite-pregovori-so-eu-czrna-gora-zatvora-dve-poglavja/",
-          "published": "Fri, 12 Jun 2026 19:41:05 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "И САД и Иран сигнализираа дека е близу договорот за крај на војната",
-          "link": "https://netpress.com.mk/i-sad-i-iran-signaliziraa-deka-e-blizu-dogovorot-za-kraj-na-vojnata/",
-          "published": "Fri, 12 Jun 2026 19:25:21 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "САД планираат драстично намалување на борбените сили за операциите на НАТО во Европа",
-          "link": "https://netpress.com.mk/sad-planiraat-drastichno-namaluvane-na-borbenite-sili-za-operacziite-na-nato-vo-evropa/",
-          "published": "Fri, 12 Jun 2026 19:10:47 +0000"
+          "title": "⚠️ Не може да се вчита (извор/timeout)",
+          "link": "https://netpress.com.mk/feed/",
+          "published": ""
         }
       ]
     },
@@ -77,9 +53,15 @@
       "items": [
         {
           "source": "BBC",
-          "title": "Iran says deal to end fighting with US has 'never been closer'",
+          "title": "Deal to end fighting would lead to Hormuz reopening, Iran says",
           "link": "https://www.bbc.com/news/articles/c39y02x98k8o?at_medium=RSS&at_campaign=rss",
-          "published": "Fri, 12 Jun 2026 18:20:51 GMT"
+          "published": "Fri, 12 Jun 2026 21:04:05 GMT"
+        },
+        {
+          "source": "BBC",
+          "title": "Elon Musk becomes world's first trillionaire as SpaceX soars in stock market debut",
+          "link": "https://www.bbc.com/news/articles/c4gypy3wwl7o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 12 Jun 2026 22:00:52 GMT"
         },
         {
           "source": "BBC",
@@ -95,45 +77,39 @@
         },
         {
           "source": "BBC",
-          "title": "King leads tributes to 'giant of the art world' David Hockney",
-          "link": "https://www.bbc.com/news/articles/cvgjxdr27z4o?at_medium=RSS&at_campaign=rss",
-          "published": "Fri, 12 Jun 2026 19:10:14 GMT"
-        },
-        {
-          "source": "BBC",
-          "title": "Taylor Swift makes tearful 21-minute speech as she joins Songwriters Hall of Fame",
-          "link": "https://www.bbc.com/news/articles/c5yzxd0g833o?at_medium=RSS&at_campaign=rss",
-          "published": "Fri, 12 Jun 2026 11:12:11 GMT"
+          "title": "Fans on concourses instead of in seats, claims Fifa",
+          "link": "https://www.bbc.com/sport/football/articles/c14y0dp6vrdo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 12 Jun 2026 20:26:23 GMT"
         },
         {
           "source": "Al Jazeera",
-          "title": "Will there be a deal to end the Iran war this time?",
-          "link": "https://www.aljazeera.com/video/inside-story/2026/6/12/will-there-be-a-deal-to-end-the-iran-war-this-time?traffic_source=rss",
-          "published": "Fri, 12 Jun 2026 20:44:04 +0000"
+          "title": "Bosnia, Canada share points in hard-fought draw at World Cup",
+          "link": "https://www.aljazeera.com/sports/2026/6/12/bosnia-canada-share-points-in-hard-fought-draw-at-world-cup?traffic_source=rss",
+          "published": "Fri, 12 Jun 2026 22:06:22 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Pope warns people smugglers they face God’s wrath",
-          "link": "https://www.aljazeera.com/news/2026/6/12/pope-warns-people-smugglers-they-face-gods-wrath?traffic_source=rss",
-          "published": "Fri, 12 Jun 2026 20:17:22 +0000"
+          "title": "Mother sues OpenAI in US after daughter’s death linked to ChatGPT use",
+          "link": "https://www.aljazeera.com/economy/2026/6/12/mother-sues-openai-in-us-after-daughters-death-linked-to-chatgpt-use?traffic_source=rss",
+          "published": "Fri, 12 Jun 2026 21:38:03 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "New York City catches World Cup fever amid transit chaos, high costs",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/6/12/new-york-city-catches-world-cup-fever-amid-transit-chaos-high-costs?traffic_source=rss",
-          "published": "Fri, 12 Jun 2026 20:15:51 +0000"
+          "title": "Judge keeps order in place to remove Trump’s name from Kennedy Center",
+          "link": "https://www.aljazeera.com/news/2026/6/12/judge-keeps-order-in-place-to-remove-trumps-name-from-kennedy-center?traffic_source=rss",
+          "published": "Fri, 12 Jun 2026 21:32:08 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "USA vs Paraguay live: World Cup 2026",
-          "link": "https://www.aljazeera.com/sports/liveblog/2026/6/12/usa-vs-paraguay-live-world-cup-2026?traffic_source=rss",
-          "published": "Fri, 12 Jun 2026 20:00:51 +0000"
+          "title": "UAE to unlock frozen Iranian funds amid US ceasefire push",
+          "link": "https://www.aljazeera.com/news/2026/6/12/uae-to-unlock-frozen-iranian-funds-amid-us-ceasefire-push?traffic_source=rss",
+          "published": "Fri, 12 Jun 2026 20:58:41 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "US Congressman says Trump won’t send loads of money to Iran",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/6/12/us-congressman-says-trump-wont-send-loads-of-money-to-iran?traffic_source=rss",
-          "published": "Fri, 12 Jun 2026 19:53:19 +0000"
+          "title": "EU agrees launch of accession process for Ukraine and Moldova",
+          "link": "https://www.aljazeera.com/news/2026/6/12/eu-agrees-launch-of-accession-process-for-ukraine-and-moldova?traffic_source=rss",
+          "published": "Fri, 12 Jun 2026 20:58:19 +0000"
         }
       ]
     }
