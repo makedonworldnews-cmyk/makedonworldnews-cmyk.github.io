@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-11T23:11:17Z",
+  "updatedAt": "2026-06-12T01:40:36Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) Повеќе црвени картони од постигнати голови",
+          "link": "https://makfax.com.mk/sport/video-poveke-crveni-kartoni-od-postignati-golovi/",
+          "published": "Thu, 11 Jun 2026 23:48:14 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) Мексико ја победи Јужна Африка",
+          "link": "https://makfax.com.mk/sport/video-meksiko-ja-pobedi-juzhna-afrika/",
+          "published": "Thu, 11 Jun 2026 23:38:00 +0000"
         },
         {
           "source": "Makfax",
@@ -27,18 +39,6 @@
           "title": "Герасимовски во Капиштец: Секој граѓанин ќе може  онлајн да ја следи бучавата на клучните точки во општината",
           "link": "https://makfax.com.mk/makedonija/gerasimovski-vo-kapishtec-sekoj-graganin-ke-mozhe-onlajn-da-ja-sledi-buchavata-na-kluchnite-tochki-vo-opshtinata/",
           "published": "Thu, 11 Jun 2026 20:00:13 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Жителите на Капиштец на протест: Секој викенд  сме изложени на  прегласна музика, сериозен  проблем е и паркингот",
-          "link": "https://makfax.com.mk/makedonija/zhitelite-na-kapishtec-na-protest-sekoj-vikend-sme-izlozheni-na-preglasna-muzika-seriozen-problem-e-i-parkingot/",
-          "published": "Thu, 11 Jun 2026 19:52:29 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Сè повеќе бездомници во Европa, трошоците за домување и цените на куќите значително зголемени",
-          "link": "https://makfax.com.mk/svet/s%c3%a8-poveke-bezdomnici-vo-evropa-troshocite-za-domuvanje-i-cenite-na-kukite-znachitelno-zgolemeni/",
-          "published": "Thu, 11 Jun 2026 19:26:13 +0000"
         },
         {
           "source": "NetPress",
@@ -89,9 +89,9 @@
         },
         {
           "source": "BBC",
-          "title": "World Cup kicks off in Mexico with Shakira, vibrant fans, and protests",
+          "title": "World Cup kicks off in Mexico with Shakira, dancing, and protests",
           "link": "https://www.bbc.com/news/articles/c2ly928xz8go?at_medium=RSS&at_campaign=rss",
-          "published": "Thu, 11 Jun 2026 23:08:31 GMT"
+          "published": "Thu, 11 Jun 2026 23:41:14 GMT"
         },
         {
           "source": "BBC",
@@ -107,33 +107,33 @@
         },
         {
           "source": "Al Jazeera",
-          "title": "US lawmakers press Israel to let cancer patients out of Gaza for treatment",
-          "link": "https://www.aljazeera.com/news/2026/6/11/us-lawmakers-press-israel-to-let-cancer-patients-out-of-gaza-for-treatment?traffic_source=rss",
-          "published": "Thu, 11 Jun 2026 21:49:27 +0000"
+          "title": "DR Congo arrive in the US for the World Cup after Ebola quarantine",
+          "link": "https://www.aljazeera.com/sports/2026/6/12/dr-congo-arrive-in-the-us-for-the-world-cup-after-ebola-quarantine?traffic_source=rss",
+          "published": "Fri, 12 Jun 2026 00:36:57 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Man pleads guilty to slaying top Democrat and her husband in Minnesota",
-          "link": "https://www.aljazeera.com/news/2026/6/11/man-pleads-guilty-to-slaying-top-democrat-and-her-husband-in-minnesota?traffic_source=rss",
-          "published": "Thu, 11 Jun 2026 21:37:21 +0000"
+          "title": "Japan’s Wataru Endo retires after injury ends World Cup 2026 dream",
+          "link": "https://www.aljazeera.com/sports/2026/6/12/japans-wataru-endo-retires-after-injury-ends-world-cup-2026-dream?traffic_source=rss",
+          "published": "Fri, 12 Jun 2026 00:24:51 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Jimenez and Quinones net as Mexico beat South Africa in World Cup opener",
-          "link": "https://www.aljazeera.com/sports/2026/6/11/jimenez-and-quinones-net-as-mexico-beat-south-africa-in-world-cup-opener?traffic_source=rss",
-          "published": "Thu, 11 Jun 2026 21:22:49 +0000"
+          "title": "Iran war live: Trump claims Tehran deal ‘approved’, cancels new strikes",
+          "link": "https://www.aljazeera.com/news/liveblog/2026/6/12/iran-war-live-trump-claims-tehran-deal-approved-cancels-new-strikes?traffic_source=rss",
+          "published": "Fri, 12 Jun 2026 00:00:00 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "World Cup mania at Mexico’s Zocalo Square",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/6/11/world-cup-mania-at-mexicos-zocalo-square?traffic_source=rss",
-          "published": "Thu, 11 Jun 2026 21:04:41 +0000"
+          "title": "Who are Julian Quinones and Raul Jimenez, Mexico’s World Cup goal scorers?",
+          "link": "https://www.aljazeera.com/sports/2026/6/11/who-are-julian-quinones-and-raul-jimenez-mexicos-opening-match-scorers?traffic_source=rss",
+          "published": "Thu, 11 Jun 2026 23:54:19 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "What happened, and who performed at the World Cup 2026 opening ceremony?",
-          "link": "https://www.aljazeera.com/sports/2026/6/11/what-happened-and-who-performed-at-the-world-cup-2026-opening-ceremony?traffic_source=rss",
-          "published": "Thu, 11 Jun 2026 21:02:54 +0000"
+          "title": "Trump says US and Iran have reached a ‘great settlement’",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/6/11/trump-says-us-and-iran-have-reached-a-great?traffic_source=rss",
+          "published": "Thu, 11 Jun 2026 23:29:01 +0000"
         }
       ]
     }
