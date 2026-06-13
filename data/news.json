@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-12T22:24:37Z",
+  "updatedAt": "2026-06-13T00:00:03Z",
   "groups": [
     {
       "region": "Македонија",
@@ -42,9 +42,33 @@
         },
         {
           "source": "NetPress",
-          "title": "⚠️ Не може да се вчита (извор/timeout)",
-          "link": "https://netpress.com.mk/feed/",
-          "published": ""
+          "title": "Зеленски најави повисоки плати за војниците на фронтот и нови договори за странските платeници",
+          "link": "https://netpress.com.mk/zelenski-najavi-povisoki-plati-za-vojniczite-na-frontot-i-novi-dogovori-za-stranskite-platniczi/",
+          "published": "Fri, 12 Jun 2026 21:52:50 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "По Париз и Мадрид, и Брисел ги укинува електричните тротинети за изнајмување",
+          "link": "https://netpress.com.mk/po-pariz-i-madrid-i-brisel-gi-ukinuva-elektrichnite-trotineti-za-iznajmuvane/",
+          "published": "Fri, 12 Jun 2026 21:36:00 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "СП 2026: Со по еден гол Канада и БиХ ги поделија бодовите",
+          "link": "https://netpress.com.mk/sp-2026-so-po-eden-gol-kanada-i-bih-gi-podelija-bodovite/",
+          "published": "Fri, 12 Jun 2026 21:18:11 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Дубаи победник на АБА лигата",
+          "link": "https://netpress.com.mk/dubai-pobednik-na-aba-ligata/",
+          "published": "Fri, 12 Jun 2026 20:34:08 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Паметните телефони би можеле да бидат причина за падот на стапките на фертилитетот",
+          "link": "https://netpress.com.mk/pametnite-telefoni-bi-mozhele-da-bidat-prichina-za-padot-na-stapkite-na-fertilitetot/",
+          "published": "Fri, 12 Jun 2026 20:07:19 +0000"
         }
       ]
     },
@@ -83,6 +107,12 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Palestine football chief says he wasn’t granted US visa to attend World Cup",
+          "link": "https://www.aljazeera.com/sports/2026/6/12/palestine-football-chief-says-he-wasnt-granted-us-visa-to-attend-world-cup?traffic_source=rss",
+          "published": "Fri, 12 Jun 2026 22:32:49 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Bosnia, Canada share points in hard-fought draw at World Cup",
           "link": "https://www.aljazeera.com/sports/2026/6/12/bosnia-canada-share-points-in-hard-fought-draw-at-world-cup?traffic_source=rss",
           "published": "Fri, 12 Jun 2026 22:06:22 +0000"
@@ -101,15 +131,9 @@
         },
         {
           "source": "Al Jazeera",
-          "title": "UAE to unlock frozen Iranian funds amid US ceasefire push",
+          "title": "UAE to unlock frozen Iranian funds amid US ceasefire push: Sources",
           "link": "https://www.aljazeera.com/news/2026/6/12/uae-to-unlock-frozen-iranian-funds-amid-us-ceasefire-push?traffic_source=rss",
           "published": "Fri, 12 Jun 2026 20:58:41 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "EU agrees launch of accession process for Ukraine and Moldova",
-          "link": "https://www.aljazeera.com/news/2026/6/12/eu-agrees-launch-of-accession-process-for-ukraine-and-moldova?traffic_source=rss",
-          "published": "Fri, 12 Jun 2026 20:58:19 +0000"
         }
       ]
     }
