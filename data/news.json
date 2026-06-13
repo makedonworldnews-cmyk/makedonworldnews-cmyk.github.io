@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-13T20:22:23Z",
+  "updatedAt": "2026-06-13T21:45:21Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) Катарецот Куки во 95-та минута ја шокира Швајцарија",
+          "link": "https://makfax.com.mk/sport/video-katarecot-kuki-vo-95-ta-minuta-ja-shokira-shvajcarija/",
+          "published": "Sat, 13 Jun 2026 21:24:00 +0000"
         },
         {
           "source": "Makfax",
@@ -35,10 +41,16 @@
           "published": "Sat, 13 Jun 2026 18:45:03 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "„Никогаш нема да се откажам“ – по изборното фијаско, Орбан доби нов мандат во Фидес",
-          "link": "https://makfax.com.mk/svet/nikogash-nema-da-se-otkazham-po-izbornoto-fijasko-orban-dobi-nov-mandat-vo-fides/",
-          "published": "Sat, 13 Jun 2026 17:59:01 +0000"
+          "source": "NetPress",
+          "title": "Крајната десница на протест во Рим бара „ремиграција“",
+          "link": "https://netpress.com.mk/krajnata-desnicza-na-protest-vo-rim-bara-remigraczija/",
+          "published": "Sat, 13 Jun 2026 21:00:49 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Стармер го поздрави напредокот на Трамп во мировниот процес со Иран",
+          "link": "https://netpress.com.mk/starmer-go-pozdravi-napredokot-na-tramp-vo-mirovniot-proczes-so-iran/",
+          "published": "Sat, 13 Jun 2026 20:24:12 +0000"
         },
         {
           "source": "NetPress",
@@ -57,18 +69,6 @@
           "title": "САД финансирале стотина био-лаборатории во 30 земји, вклучително и во Украина",
           "link": "https://netpress.com.mk/sad-finansirale-stotina-bio-laboratorii-vo-30-zemji-vkluchitelno-i-vo-ukraina/",
           "published": "Sat, 13 Jun 2026 19:47:49 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Трамп: Договорот со Иран е закажан да биде потпишан утре",
-          "link": "https://netpress.com.mk/tramp-dogovorot-so-iran-e-zakazhan-da-bide-potpishan-utre/",
-          "published": "Sat, 13 Jun 2026 19:32:09 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Македонските одбојкари во три сета го совладаа Исланд во Европската лига",
-          "link": "https://netpress.com.mk/makedonskite-odbojkari-vo-tri-seta-go-sovladaa-island-vo-evropskata-liga/",
-          "published": "Sat, 13 Jun 2026 19:22:42 +0000"
         }
       ]
     },
@@ -107,33 +107,33 @@
         },
         {
           "source": "Al Jazeera",
-          "title": "Will the new EU migration rules work?",
-          "link": "https://www.aljazeera.com/video/inside-story/2026/6/13/will-the-new-eu-migration-rules-work?traffic_source=rss",
-          "published": "Sat, 13 Jun 2026 20:05:19 +0000"
+          "title": "Thousands mourn Thai princess as body taken to lie in state in Bangkok",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/6/13/thousands-mourn-thai-princess-as-body-taken-to-lie-in-state-in-bangkok?traffic_source=rss",
+          "published": "Sat, 13 Jun 2026 21:20:58 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "‘A global rupture’: Carney calls for Canada-EU unity before G7 summit",
-          "link": "https://www.aljazeera.com/news/2026/6/13/a-global-rupture-carney-calls-for-canada-eu-unity-before-g7-summit?traffic_source=rss",
-          "published": "Sat, 13 Jun 2026 19:54:46 +0000"
+          "title": "Dashcam shows US cop accidentally shooting colleague during ‘horseplay’",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/6/13/dashcam-shows-us-cop-accidentally-shooting-colleague-during?traffic_source=rss",
+          "published": "Sat, 13 Jun 2026 21:05:12 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Thousands attend anti-racism rally in Belfast",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/6/13/thousands-attend-anti-racism-rally-in-belfast?traffic_source=rss",
-          "published": "Sat, 13 Jun 2026 19:45:19 +0000"
+          "title": "Thousands rally in Rome, Italy for rival pro- and anti-migration marches",
+          "link": "https://www.aljazeera.com/news/2026/6/13/thousands-rally-in-rome-italy-for-rival-pro-and-anti-migration-marches?traffic_source=rss",
+          "published": "Sat, 13 Jun 2026 20:46:23 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "‘Not in my name’: The Jewish diaspora fighting the consensus on Israel",
-          "link": "https://www.aljazeera.com/news/2026/6/13/not-in-my-name-the-jewish-diaspora-fighting-the-consensus-on-israel?traffic_source=rss",
-          "published": "Sat, 13 Jun 2026 19:08:35 +0000"
+          "title": "Ten observations after attending a World Cup match in the US",
+          "link": "https://www.aljazeera.com/news/2026/6/13/ten-observations-after-attending-a-world-cup-match-in-the-us?traffic_source=rss",
+          "published": "Sat, 13 Jun 2026 20:44:11 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Hungary’s former PM Orban re-elected party leader despite election loss",
-          "link": "https://www.aljazeera.com/news/2026/6/13/hungarys-former-pm-orban-re-elected-party-leader-despite-election-loss?traffic_source=rss",
-          "published": "Sat, 13 Jun 2026 18:54:09 +0000"
+          "title": "Israel attacks Lebanon as US says Iran deal to be signed on Sunday",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/6/13/israel-attacks-lebanon-as-us-says-iran-deal-to-be-signed-on-sunday?traffic_source=rss",
+          "published": "Sat, 13 Jun 2026 20:40:06 +0000"
         }
       ]
     }
