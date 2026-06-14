@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-13T23:52:38Z",
+  "updatedAt": "2026-06-14T04:09:19Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) Бразил и Мароко одиграа без победник",
+          "link": "https://makfax.com.mk/sport/video-brazil-i-maroko-odigraa-bez-pobednik/",
+          "published": "Sun, 14 Jun 2026 00:26:00 +0000"
         },
         {
           "source": "Makfax",
@@ -35,10 +41,10 @@
           "published": "Sat, 13 Jun 2026 19:03:56 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Германски генерал предупредува: Русија можеби развива технологија за поставување нуклеарно оружје во орбитата",
-          "link": "https://makfax.com.mk/svet/germanski-general-predupreduva-rusija-mozhebi-razviva-tehnologija-za-postavuvanje-nuklearno-oruzhje-vo-orbitata/",
-          "published": "Sat, 13 Jun 2026 18:45:03 +0000"
+          "source": "NetPress",
+          "title": "СП 2026: Квалитетен напнат натпревар и реми меѓу Бразил и Мароко",
+          "link": "https://netpress.com.mk/sp-2026-kvaliteten-napnat-natprevar-i-remi-megu-brazil-i-maroko/",
+          "published": "Sun, 14 Jun 2026 00:47:54 +0000"
         },
         {
           "source": "NetPress",
@@ -63,12 +69,6 @@
           "title": "13-годишно момче ги откорна канделабрите во Карпош, во полиција повикан татко му",
           "link": "https://netpress.com.mk/13-godishno-momche-gi-otkorna-kandelabrite-vo-karposh-vo-policzija-povikan-tatko-mu/",
           "published": "Sat, 13 Jun 2026 20:21:49 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Вооружени напаѓачи во Нигерија убија 17 земјоделци кои работеле на полињата",
-          "link": "https://netpress.com.mk/vooruzheni-napagachi-vo-nigerija-ubija-17-zemjodelczi-koi-rabotele-na-polinata/",
-          "published": "Sat, 13 Jun 2026 19:52:29 +0000"
         }
       ]
     },
@@ -89,6 +89,12 @@
         },
         {
           "source": "BBC",
+          "title": "Nigerian author accuses hospital of stalling review into her son's death",
+          "link": "https://www.bbc.com/news/articles/cgk6jzkr0xvo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 14 Jun 2026 01:08:20 GMT"
+        },
+        {
+          "source": "BBC",
           "title": "Ticketmaster says Knicks fans won't be locked out of game after last-minute panic",
           "link": "https://www.bbc.com/news/articles/c5yz7gj4x3yo?at_medium=RSS&at_campaign=rss",
           "published": "Sat, 13 Jun 2026 22:17:08 GMT"
@@ -100,40 +106,34 @@
           "published": "Sat, 13 Jun 2026 22:05:24 GMT"
         },
         {
-          "source": "BBC",
-          "title": "Married at First Sight Australia stars not told partners had drug and violence convictions",
-          "link": "https://www.bbc.com/news/articles/clypy0ndvjlo?at_medium=RSS&at_campaign=rss",
-          "published": "Sat, 13 Jun 2026 05:00:04 GMT"
+          "source": "Al Jazeera",
+          "title": "Knicks clinch first NBA title in 53 years with win over Spurs in Game 5",
+          "link": "https://www.aljazeera.com/sports/2026/6/14/knicks-vs-spurs-new-york-san-antonio-nba-finals-game-5?traffic_source=rss",
+          "published": "Sun, 14 Jun 2026 03:37:55 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Brazil and Morocco kickoff amid electric atmosphere",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/6/13/aje-onl-nf_brazil-and-morocco-kickoff-amid-electric-atmosphere-130626?traffic_source=rss",
-          "published": "Sat, 13 Jun 2026 23:17:23 +0000"
+          "title": "‘Lion of Mesopotamia’: How Aymen Hussein beat tragedy to reach World Cup",
+          "link": "https://www.aljazeera.com/features/2026/6/14/lion-of-mesopotamia-how-aymen-hussein-beat-tragedy-to-reach-world-cup?traffic_source=rss",
+          "published": "Sun, 14 Jun 2026 03:28:30 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Qatar net late against Switzerland to secure historic first World Cup point",
-          "link": "https://www.aljazeera.com/sports/2026/6/13/qatar-net-dramatic-late-goal-to-draw-world-cup-opener-against-switzerland?traffic_source=rss",
-          "published": "Sat, 13 Jun 2026 21:29:10 +0000"
+          "title": "Scotland beat Haiti 1-0 to mark a winning return to the World Cup",
+          "link": "https://www.aljazeera.com/sports/2026/6/14/scotland-beat-haiti-1-0-to-mark-a-winning-return-to-the-world?traffic_source=rss",
+          "published": "Sun, 14 Jun 2026 03:23:14 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Thousands mourn Thai princess as body taken to lie in state in Bangkok",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/6/13/thousands-mourn-thai-princess-as-body-taken-to-lie-in-state-in-bangkok?traffic_source=rss",
-          "published": "Sat, 13 Jun 2026 21:20:58 +0000"
+          "title": "Two killed in Israeli strike on Gaza",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/6/14/aje-onl-nf_two-killed-in-gaza-in-deadly-israeli-strike-130626?traffic_source=rss",
+          "published": "Sun, 14 Jun 2026 01:11:06 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Dashcam shows US cop accidentally shooting colleague during ‘horseplay’",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/6/13/dashcam-shows-us-cop-accidentally-shooting-colleague-during?traffic_source=rss",
-          "published": "Sat, 13 Jun 2026 21:05:12 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Thousands rally in Rome, Italy for rival pro- and anti-migration marches",
-          "link": "https://www.aljazeera.com/news/2026/6/13/thousands-rally-in-rome-italy-for-rival-pro-and-anti-migration-marches?traffic_source=rss",
-          "published": "Sat, 13 Jun 2026 20:46:23 +0000"
+          "title": "After battling armed attacks, Mauritania attempts to revive tourism",
+          "link": "https://www.aljazeera.com/features/2026/6/14/after-battling-armed-attacks-mauritania-attempts-to-revive-tourism?traffic_source=rss",
+          "published": "Sun, 14 Jun 2026 01:08:42 +0000"
         }
       ]
     }
