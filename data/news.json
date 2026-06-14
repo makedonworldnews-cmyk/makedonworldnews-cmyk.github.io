@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-14T21:12:50Z",
+  "updatedAt": "2026-06-14T22:36:12Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) Холандија и Јапонија ремизираа во дербито на една од најсилните групи на СП",
+          "link": "https://makfax.com.mk/sport/video-holandija-i-japonija-remiziraa-vo-derbito-na-edna-od-najsilnite-grupi-na-sp/",
+          "published": "Sun, 14 Jun 2026 22:16:59 +0000"
         },
         {
           "source": "Makfax",
@@ -35,10 +41,16 @@
           "published": "Sun, 14 Jun 2026 19:22:57 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Кремљ: Доналд Трамп му порача на Владимир Путин дека е подготвен да помогне за крај на војната во Украина",
-          "link": "https://makfax.com.mk/svet/kremlj-donald-tramp-mu-poracha-na-vladimir-putin-deka-e-podgotven-da-pomogne-za-kraj-na-vojnata-vo-ukraina/",
-          "published": "Sun, 14 Jun 2026 19:15:38 +0000"
+          "source": "NetPress",
+          "title": "Хезболах ги обнови нападите врз северен Израел по нападот врз Бејрут",
+          "link": "https://netpress.com.mk/hezbolah-gi-obnovi-napadite-vrz-severen-izrael-po-napadot-vrz-bejrut/",
+          "published": "Sun, 14 Jun 2026 22:07:02 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Зеленски разговарал со Трамп за мировниот процес",
+          "link": "https://netpress.com.mk/zelenski-razgovaral-so-tramp-za-mirovniot-proczes/",
+          "published": "Sun, 14 Jun 2026 21:51:09 +0000"
         },
         {
           "source": "NetPress",
@@ -57,30 +69,12 @@
           "title": "Хегсет: Веќе го правиме тоа што е потребно за отворање на Хормуз",
           "link": "https://netpress.com.mk/hegset-veke-go-pravime-toa-shto-e-potrebno-za-otvorane-na-ormuskata-tesnina/",
           "published": "Sun, 14 Jun 2026 20:13:26 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Центарот за одговор на кибер инциденти стана полноправна членка на FIRST",
-          "link": "https://netpress.com.mk/czentarot-za-odgovor-na-kiber-inczidenti-stana-polnopravna-chlenka-na-first/",
-          "published": "Sun, 14 Jun 2026 20:07:45 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "СП 2026: Германија против Курасao го повтори резултатот против Бразил во 2014-та",
-          "link": "https://netpress.com.mk/sp-2026-germanija-protiv-kurasao-go-povtori-rezultatot-protiv-brazil-vo-2014-ta/",
-          "published": "Sun, 14 Jun 2026 19:59:55 +0000"
         }
       ]
     },
     {
       "region": "Свет",
       "items": [
-        {
-          "source": "BBC",
-          "title": "Israeli military says Hezbollah targets struck in Beirut",
-          "link": "https://www.bbc.com/news/articles/czj83zlx1vjo?at_medium=RSS&at_campaign=rss",
-          "published": "Sun, 14 Jun 2026 17:52:36 GMT"
-        },
         {
           "source": "BBC",
           "title": "Swiss voters reject 10 million population cap",
@@ -106,6 +100,24 @@
           "published": "Sun, 14 Jun 2026 12:04:54 GMT"
         },
         {
+          "source": "BBC",
+          "title": "UK and Japan agree £18bn investment deal",
+          "link": "https://www.bbc.com/news/articles/cx2kjwgwxwlo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 14 Jun 2026 20:29:15 GMT"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "India beat Pakistan by 64 runs to open Women’s T20 World Cup campaign",
+          "link": "https://www.aljazeera.com/sports/2026/6/14/india-beat-pakistan-by-64-runs-to-open-womens-t20-world-cup-campaign?traffic_source=rss",
+          "published": "Sun, 14 Jun 2026 21:34:29 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "LIVE: Ilia Topuria vs Justin Gaethje title fight at UFC Freedom 250",
+          "link": "https://www.aljazeera.com/sports/liveblog/2026/6/14/live-ilia-topuria-vs-justin-gaethje-title-fight-at-ufc-freedom-250?traffic_source=rss",
+          "published": "Sun, 14 Jun 2026 21:21:43 +0000"
+        },
+        {
           "source": "Al Jazeera",
           "title": "Gaza mourns four killed in Israeli strike",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/6/14/gaza-mourns-four-killed-in-israeli-strike?traffic_source=rss",
@@ -122,18 +134,6 @@
           "title": "Swiss right-wing plan to cap population rejected by narrow margins",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/6/14/swiss-right-wing-plan-to-cap-population-rejected-by-narrow-margins?traffic_source=rss",
           "published": "Sun, 14 Jun 2026 20:30:29 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Medical teams in Goma face mistrust from relatives of Ebola victims",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/6/14/medical-teams-in-goma-face-mistrust-from-relatives-of-ebola-victims?traffic_source=rss",
-          "published": "Sun, 14 Jun 2026 20:23:29 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Six people killed as helicopters collide over Brazil’s Rio de Janeiro",
-          "link": "https://www.aljazeera.com/news/2026/6/14/six-people-killed-as-helicopters-collide-over-brazils-rio-de-janeiro?traffic_source=rss",
-          "published": "Sun, 14 Jun 2026 20:10:50 +0000"
         }
       ]
     }
