@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-14T22:54:40Z",
+  "generated_at": "2026-06-15T00:02:38Z",
   "items": [
     {
       "region": "Македонија",
@@ -39,6 +39,13 @@
     {
       "region": "Македонија",
       "source": "NetPress",
+      "title": "САД и Иран постигнаа договор за ставање крај на војната",
+      "link": "https://netpress.com.mk/sad-i-iran-postignaa-dogovor-za-stavane-kraj-na-vojnata/",
+      "published": "Sun, 14 Jun 2026 23:29:45 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "NetPress",
       "title": "СП 2026: Јапонците ги избришаа двете водства на Холанѓаните",
       "link": "https://netpress.com.mk/sp-2026-japonczite-gi-izbrishaa-dvete-vodstva-na-holanganite/",
       "published": "Sun, 14 Jun 2026 22:50:13 +0000"
@@ -63,13 +70,6 @@
       "title": "ВИДЕО| Американскиот пејач Оливер Три загина во судир на хеликоптери во Бразил",
       "link": "https://netpress.com.mk/video-amerikanskiot-pejach-oliver-tri-zagina-vo-sudir-na-helikopteri-vo-brazil/",
       "published": "Sun, 14 Jun 2026 20:54:38 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "ВИДЕО| Се урна авион со 12 лица во Мисури, нема преживеани",
-      "link": "https://netpress.com.mk/video-se-urna-avion-so-12-licza-vo-misuri-nema-prezhiveani/",
-      "published": "Sun, 14 Jun 2026 20:47:42 +0000"
     },
     {
       "region": "Свет",
@@ -109,6 +109,27 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "World Cup nations slam UEFA chief for ‘disappointing’ 48-team criticism",
+      "link": "https://www.aljazeera.com/sports/2026/6/14/world-cup-nations-slam-uefa-chief-for-disappointing-48-team-criticism?traffic_source=rss",
+      "published": "Sun, 14 Jun 2026 23:04:26 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "BREAKING: US, Iran announce ceasefire agreement",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/14/breaking-us-iran-announce-ceasefire-agreement?traffic_source=rss",
+      "published": "Sun, 14 Jun 2026 22:54:36 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "US-Iran ‘peace deal’ announced, Trump says Strait of Hormuz reopening",
+      "link": "https://www.aljazeera.com/news/2026/6/14/us-iran-ceasefire-deal-announced-trump-says-strait-of-hormuz-reopening?traffic_source=rss",
+      "published": "Sun, 14 Jun 2026 22:43:19 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "Japan deny Netherlands by fighting back twice in World Cup opener",
       "link": "https://www.aljazeera.com/sports/2026/6/14/japan-deny-netherlands-by-fighting-back-twice-in-world-cup-opener?traffic_source=rss",
       "published": "Sun, 14 Jun 2026 22:16:14 +0000"
@@ -119,27 +140,6 @@
       "title": "Lamine Yamal fit to start on bench for Spain vs Cape Verde at World Cup",
       "link": "https://www.aljazeera.com/sports/2026/6/14/lamine-yamal-fit-to-start-on-bench-for-spain-vs-cape-verde-at-world-cup?traffic_source=rss",
       "published": "Sun, 14 Jun 2026 22:15:48 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "India beat Pakistan by 64 runs to open Women’s T20 World Cup campaign",
-      "link": "https://www.aljazeera.com/sports/2026/6/14/india-beat-pakistan-by-64-runs-to-open-womens-t20-world-cup-campaign?traffic_source=rss",
-      "published": "Sun, 14 Jun 2026 21:34:29 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "LIVE: Ilia Topuria vs Justin Gaethje title fight at UFC Freedom 250",
-      "link": "https://www.aljazeera.com/sports/liveblog/2026/6/14/live-ilia-topuria-vs-justin-gaethje-title-fight-at-ufc-freedom-250?traffic_source=rss",
-      "published": "Sun, 14 Jun 2026 21:21:43 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Gaza mourns four killed in Israeli strike",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/14/gaza-mourns-four-killed-in-israeli-strike?traffic_source=rss",
-      "published": "Sun, 14 Jun 2026 20:57:12 +0000"
     }
   ]
 }
