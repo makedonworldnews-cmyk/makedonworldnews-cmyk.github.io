@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-17T19:24:58Z",
+  "updatedAt": "2026-06-17T21:28:47Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Навивачите лути на Роналдо",
+          "link": "https://makfax.com.mk/sport/navivachite-luti-na-ronaldo/",
+          "published": "Wed, 17 Jun 2026 20:00:56 +0000"
         },
         {
           "source": "Makfax",
@@ -35,40 +41,34 @@
           "published": "Wed, 17 Jun 2026 18:24:59 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Вахи игра на Светското првенство, а бил уапсен за местење натпревари",
-          "link": "https://makfax.com.mk/sport/vahi-igra-na-svetskoto-prvenstvo-a-bil-uapsen-za-mestenje-natprevari/",
-          "published": "Wed, 17 Jun 2026 18:18:00 +0000"
+          "source": "NetPress",
+          "title": "Јапонија купи повеќе од 300.000 барели руска нафта во мај",
+          "link": "https://netpress.com.mk/japonija-kupi-poveke-od-300-000-bareli-ruska-nafta-vo-maj/",
+          "published": "Wed, 17 Jun 2026 21:26:42 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Полска и Германија потпишаа договор за одбраната",
-          "link": "https://netpress.com.mk/polska-i-germanija-potpishaa-dogovor-za-odbranata/",
-          "published": "Wed, 17 Jun 2026 19:09:51 +0000"
+          "title": "Трамп се фали со „одлично партнерство“ Нетанјаху ден откако го критикуваше, им се заблагодари на Кси и Путин",
+          "link": "https://netpress.com.mk/tramp-se-fali-so-odlichno-partnerstvo-netanjahu-den-otkako-go-kritikuvashe-im-se-zablagodari-na-ksi-i-putin/",
+          "published": "Wed, 17 Jun 2026 20:44:55 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Г7 планира да ја намали зависноста од критични минерали од Кина",
-          "link": "https://netpress.com.mk/g7-planira-da-ja-namali-zavisnosta-od-kritichni-minerali-od-kina/",
-          "published": "Wed, 17 Jun 2026 18:55:59 +0000"
+          "title": "Меморандумот вклучува нормализација на сообраќајот преку Хормуз и 300 милијарди долари за обнова на Иран",
+          "link": "https://netpress.com.mk/memorandumot-vkluchuva-normalizaczija-na-soobrakajot-preku-hormuz-i-300-milijardi-dolari-za-obnova-na-iran/",
+          "published": "Wed, 17 Jun 2026 20:03:37 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Разбиена терористичка мрежа во Скопје поврзана со Исламска држава",
-          "link": "https://netpress.com.mk/razbiena-teroristichka-mrezha-vo-skopje-povrzana-so-islamska-drzhava/",
-          "published": "Wed, 17 Jun 2026 18:40:58 +0000"
+          "title": "ВИДЕО| Секогаш кога сакаа да ја уништат, ВМРО се враќаше посилна",
+          "link": "https://netpress.com.mk/video-sekogash-koga-sakaa-da-ja-unishtat-vmro-se-vrakashe-posilna/",
+          "published": "Wed, 17 Jun 2026 20:01:39 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Британскиот рафиодифузер ќе отпушти 550 вработени",
-          "link": "https://netpress.com.mk/britanskiot-rafiodifuzer-ke-otpushti-550-vraboteni/",
-          "published": "Wed, 17 Jun 2026 18:36:11 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Ја браниме македонската вистина, ќе се пристапи кон рационално решение со Бугарија",
-          "link": "https://netpress.com.mk/ja-branime-makedonskata-vistina-ke-se-pristapi-kon-raczionalno-reshenie-so-bugarija/",
-          "published": "Wed, 17 Jun 2026 18:14:58 +0000"
+          "title": "СП 2026: Конго ги запре Португалците на Роналдо",
+          "link": "https://netpress.com.mk/sp-2026-kongo-gi-zapre-portugalczite-na-ronaldo/",
+          "published": "Wed, 17 Jun 2026 19:47:30 +0000"
         }
       ]
     },
@@ -95,9 +95,9 @@
         },
         {
           "source": "BBC",
-          "title": "Israel launches fresh strikes on Lebanon despite Trump criticism",
-          "link": "https://www.bbc.com/news/articles/c7vyn17g832o?at_medium=RSS&at_campaign=rss",
-          "published": "Wed, 17 Jun 2026 10:01:42 GMT"
+          "title": "Ex-Nigeria oil minister cleared in UK bribery trial",
+          "link": "https://www.bbc.com/news/articles/c872pwx4x2vo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 17 Jun 2026 19:03:10 GMT"
         },
         {
           "source": "BBC",
@@ -107,33 +107,33 @@
         },
         {
           "source": "Al Jazeera",
-          "title": "Tehran says considering plan for Iran, US presidents to sign deal",
-          "link": "https://www.aljazeera.com/news/2026/6/17/tehran-says-considering-plan-for-iran-us-presidents-to-sign-deal?traffic_source=rss",
-          "published": "Wed, 17 Jun 2026 18:53:38 +0000"
+          "title": "Thieves with bulldozer carry out ATM heist in 4 minutes",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/6/17/thieves-with-bulldozer-carry-out-atm-heist-in-4-minutes?traffic_source=rss",
+          "published": "Wed, 17 Jun 2026 21:11:38 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Will Ukraine become an EU member?",
-          "link": "https://www.aljazeera.com/video/inside-story/2026/6/17/will-ukraine-become-an-eu-member?traffic_source=rss",
-          "published": "Wed, 17 Jun 2026 18:53:27 +0000"
+          "title": "Meet Yoane Wissa, who scored DR Congo’s first-ever goal at a World Cup",
+          "link": "https://www.aljazeera.com/sports/2026/6/17/meet-yoane-wissa-who-scored-dr-congos-first-ever-goal-at-a-world-cup?traffic_source=rss",
+          "published": "Wed, 17 Jun 2026 21:10:46 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Police clash with Malawian protesters demanding deportation in South Africa",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/6/17/police-clash-with-malawian-protesters-demanding-deportation-in-south-africa?traffic_source=rss",
-          "published": "Wed, 17 Jun 2026 18:52:49 +0000"
+          "title": "Gilgo Beach killer sentenced to life without parole",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/6/17/gilgo-beach-killer-sentenced-to-life-without-parole?traffic_source=rss",
+          "published": "Wed, 17 Jun 2026 21:07:26 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Trump: World will ‘find out pretty soon’ if Iran MOU signing will happen",
-          "link": "https://www.aljazeera.com/news/2026/6/17/trump-world-will-find-out-pretty-soon-if-iran-mou-signing-will-happen?traffic_source=rss",
-          "published": "Wed, 17 Jun 2026 18:08:12 +0000"
+          "title": "Croatia fans rock cowboy style in Dallas parade ahead of match with England",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/6/17/aje-onl-nf_croatia-fans-parade-dallas-ahead-of-england-match-170626?traffic_source=rss",
+          "published": "Wed, 17 Jun 2026 20:56:29 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "US Federal Reserve holds rates steady under new chair Warsh",
-          "link": "https://www.aljazeera.com/economy/2026/6/17/us-federal-reserve-holds-rates-steady-under-new-chair-warsh?traffic_source=rss",
-          "published": "Wed, 17 Jun 2026 18:07:19 +0000"
+          "title": "‘Don’t meddle’: Lula calls on Trump to stay out of Brazil’s elections",
+          "link": "https://www.aljazeera.com/news/2026/6/17/dont-meddle-lula-calls-on-trump-to-stay-out-of-brazils-elections?traffic_source=rss",
+          "published": "Wed, 17 Jun 2026 20:14:52 +0000"
         }
       ]
     }
