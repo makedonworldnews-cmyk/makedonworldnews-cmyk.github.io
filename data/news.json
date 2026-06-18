@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-18T21:51:38Z",
+  "updatedAt": "2026-06-18T23:45:34Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) Тежок пораз на БиХ од Швајцарија",
+          "link": "https://makfax.com.mk/sport/video-tezhok-poraz-na-bih-od-shvajcarija/",
+          "published": "Thu, 18 Jun 2026 23:07:54 +0000"
         },
         {
           "source": "Makfax",
@@ -33,12 +39,6 @@
           "title": "(Видео) Реми што никому не му одговара – Чешка и Јужна Африка освоија по еден бод",
           "link": "https://makfax.com.mk/sport/video-remi-shto-nikomu-ne-mu-odgovara-cheshka-i-juzhna-afrika-osvoija-po-eden-bod/",
           "published": "Thu, 18 Jun 2026 18:16:56 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Нафтата поевтини, се очекува нормализација на сообраќајот низ Ормускиот Теснец",
-          "link": "https://makfax.com.mk/ekonomija/naftata-poevtini-se-ochekuva-normalizacija-na-soobrakajot-niz-ormuskiot-tesnec/",
-          "published": "Thu, 18 Jun 2026 18:15:04 +0000"
         },
         {
           "source": "NetPress",
@@ -107,6 +107,24 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "US judge orders release of Palestinian rights advocate detained by ICE",
+          "link": "https://www.aljazeera.com/news/2026/6/18/us-judge-orders-release-of-palestinian-rights-advocate-detained-by-ice?traffic_source=rss",
+          "published": "Thu, 18 Jun 2026 23:01:26 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Switzerland beat Bosnia and Herzegovina 4-1, top Group B in World Cup",
+          "link": "https://www.aljazeera.com/sports/2026/6/18/switzerland-beat-bosnia-and-herzegovina-4-1-top-group-b-in-world-cup?traffic_source=rss",
+          "published": "Thu, 18 Jun 2026 22:17:43 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Mamdani gives New York Knicks keys to city after NBA title",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/6/18/mamdani-gives-new-york-knicks-keys-to-city-after-nba-title?traffic_source=rss",
+          "published": "Thu, 18 Jun 2026 22:01:17 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Are prices really dropping in the US, as Trump claims?",
           "link": "https://www.aljazeera.com/economy/2026/6/18/are-prices-really-dropping-as-trump-claims?traffic_source=rss",
           "published": "Thu, 18 Jun 2026 21:30:41 +0000"
@@ -116,24 +134,6 @@
           "title": "Cuba’s Communist Party approves opening economy in unprecedented move",
           "link": "https://www.aljazeera.com/news/2026/6/18/cubas-communist-party-approves-opening-economy-in-unprecedented-move?traffic_source=rss",
           "published": "Thu, 18 Jun 2026 21:28:00 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Myanmar military airstrike kills seven civilians in Rakhine state",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/6/18/aje-onl-nf_myanmar-military-airstrike-kills-seven-civilians-180626?traffic_source=rss",
-          "published": "Thu, 18 Jun 2026 21:15:13 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Brazil executes warrant against Lula ally in widening financial scandal",
-          "link": "https://www.aljazeera.com/news/2026/6/18/brazil-executes-warrant-against-lula-ally-in-widening-financial-scandal?traffic_source=rss",
-          "published": "Thu, 18 Jun 2026 21:13:00 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Conjoined twins separated after surgery in Saudi Arabia",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/6/18/conjoined-twins-separated-after-surgery-in-saudi-arabia?traffic_source=rss",
-          "published": "Thu, 18 Jun 2026 21:02:34 +0000"
         }
       ]
     }
