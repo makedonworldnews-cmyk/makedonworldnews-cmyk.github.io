@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-20T17:46:45Z",
+  "updatedAt": "2026-06-20T19:02:07Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) Силно невреме со град ги погоди Австрија и Словенија",
+          "link": "https://makfax.com.mk/svet/video-silno-nevreme-so-grad-gi-pogodi-avstrija-i-slovenija/",
+          "published": "Sat, 20 Jun 2026 18:24:50 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Полска: Одземањето на орденот на Зеленски беше промислена одлука",
+          "link": "https://makfax.com.mk/svet/polska-odzemanjeto-na-ordenot-na-zelenski-beshe-promislena-odluka/",
+          "published": "Sat, 20 Jun 2026 17:52:05 +0000"
         },
         {
           "source": "Makfax",
@@ -29,16 +41,22 @@
           "published": "Sat, 20 Jun 2026 17:11:56 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Висока иранска делегација отпатува во Швајцарија на преговори со САД",
-          "link": "https://makfax.com.mk/svet/visoka-iranska-delegacija-otpatuva-vo-shvajcarija-na-pregovori-so-sad/",
-          "published": "Sat, 20 Jun 2026 16:31:48 +0000"
+          "source": "NetPress",
+          "title": "СП 2026: Рафиња веројатно нема да игра против Шкотска",
+          "link": "https://netpress.com.mk/sp-2026-rafina-verojatno-nema-da-igra-protiv-shkotska/",
+          "published": "Sat, 20 Jun 2026 18:52:56 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Судир на два воза во Англија: Загина машиновозач, над 100 повредени",
-          "link": "https://makfax.com.mk/svet/sudir-na-dva-voza-vo-anglija-zagina-mashinovozach-nad-100-povredeni/",
-          "published": "Sat, 20 Jun 2026 16:03:59 +0000"
+          "source": "NetPress",
+          "title": "ЦУК: Активен пожарот во Општина Арачиново, каде гори ѓубре и ниска вегетација, девет изгаснати",
+          "link": "https://netpress.com.mk/czuk-aktiven-pozharot-vo-opshtina-arachinovo-kade-gori-gubre-i-niska-vegetaczija-devet-izgasnati/",
+          "published": "Sat, 20 Jun 2026 18:33:51 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Митески објави видео на кое неколкумина млади вандализираат во Аеродром",
+          "link": "https://netpress.com.mk/video-miteski-objavi-video-na-koe-nekolkumina-mladi-vandaliziraat-vo-aerodrom/",
+          "published": "Sat, 20 Jun 2026 18:23:36 +0000"
         },
         {
           "source": "NetPress",
@@ -48,27 +66,9 @@
         },
         {
           "source": "NetPress",
-          "title": "Приведен тинејџерот кој вчера прегази тригодишно девојче на велосипед во Визбегово",
-          "link": "https://netpress.com.mk/priveden-tinejdherot-koj-vchera-pregazi-trigodishno-devojche-na-velosiped-vo-vizbegovo/",
+          "title": "Уапсен тинејџерот кој вчера прегази тригодишно девојче на велосипед во Визбегово",
+          "link": "https://netpress.com.mk/uapsen-tinejdherot-koj-vchera-pregazi-trigodishno-devojche-na-velosiped-vo-vizbegovo/",
           "published": "Sat, 20 Jun 2026 17:24:32 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Иран повторно го затвора Хормуз по новите израелски напади во Либан",
-          "link": "https://netpress.com.mk/iran-povtorno-go-zatvora-homruz-po-novite-izraelski-napadi-vo-liban/",
-          "published": "Sat, 20 Jun 2026 16:49:04 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "ВИДЕО| Судар на возови во Минхен, вагони паднаа од надвозникот на булевар",
-          "link": "https://netpress.com.mk/sudar-na-vozovi-vo-minhen-vagoni-padnaa-od-nadvoznikot-na-bulevar/",
-          "published": "Sat, 20 Jun 2026 16:47:55 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Уште утре возови за Битола и Гевгелија",
-          "link": "https://netpress.com.mk/ushte-utre-vozovi-za-bitola-i-gevgelija/",
-          "published": "Sat, 20 Jun 2026 16:30:12 +0000"
         }
       ]
     },
@@ -79,13 +79,13 @@
           "source": "BBC",
           "title": "Iran says Strait of Hormuz will be closed over Israel attacks on Lebanon",
           "link": "https://www.bbc.com/news/articles/cwyekkwm1mmo?at_medium=RSS&at_campaign=rss",
-          "published": "Sat, 20 Jun 2026 16:07:44 GMT"
+          "published": "Sat, 20 Jun 2026 18:39:55 GMT"
         },
         {
           "source": "BBC",
-          "title": "Israel and Hezbollah continue strikes despite ceasefire agreement",
-          "link": "https://www.bbc.com/news/articles/cx240k9l112o?at_medium=RSS&at_campaign=rss",
-          "published": "Sat, 20 Jun 2026 13:23:40 GMT"
+          "title": "Lebanese turtle conservationist Mona Khalil killed by Israeli strike",
+          "link": "https://www.bbc.com/news/articles/cwylx1vq18zo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 20 Jun 2026 17:40:43 GMT"
         },
         {
           "source": "BBC",
@@ -107,33 +107,33 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Al Jazeera cameraman Ahmed Wishah killed in Israeli attack in Gaza",
+          "link": "https://www.aljazeera.com/news/2026/6/20/al-jazeera-cameraman-ahmad-wishah-killed-in-israeli-attack-in-gaza?traffic_source=rss",
+          "published": "Sat, 20 Jun 2026 18:07:09 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "US-Iran talks to kick off Sunday in Switzerland, says Pakistan",
+          "link": "https://www.aljazeera.com/news/2026/6/20/us-iran-talks-to-kick-off-sunday-in-switzerland-says?traffic_source=rss",
+          "published": "Sat, 20 Jun 2026 17:39:08 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "As ILO convention turns 30, India’s home-based workers demand equal rights",
+          "link": "https://www.aljazeera.com/news/2026/6/20/as-ilo-convention-turns-30-indias-home-based-workers-demand-equal-rights?traffic_source=rss",
+          "published": "Sat, 20 Jun 2026 17:31:45 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "World cup wrap day 9",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/6/20/world-cup-wrap-day-9?traffic_source=rss",
+          "published": "Sat, 20 Jun 2026 17:27:59 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Iran shuts Strait of Hormuz as Israel tests MOU with Lebanon strikes",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/6/20/iran-shuts-strait-of-hormuz-as-israel-tests-mou-with-lebanon-strikes?traffic_source=rss",
           "published": "Sat, 20 Jun 2026 17:05:37 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Bolivia declares state of emergency amid blockade crisis",
-          "link": "https://www.aljazeera.com/news/2026/6/20/bolivia-declares-state-of-emergency-amid-blockade-crisis?traffic_source=rss",
-          "published": "Sat, 20 Jun 2026 16:41:34 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Israeli strike kills children in Gaza despite ceasefire claims",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/6/20/israeli-strike-kills-children-in-gaza-despite-ceasefire-claims?traffic_source=rss",
-          "published": "Sat, 20 Jun 2026 16:39:03 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "‘You could’ve been the greatest’: Trump faces Israeli anger over Iran deal",
-          "link": "https://www.aljazeera.com/news/2026/6/20/you-could-have-been-the-greatest-trump-faces-israeli-anger-over-iran-deal?traffic_source=rss",
-          "published": "Sat, 20 Jun 2026 16:38:26 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "How Ivan Cepeda emerged a frontrunner in Colombia’s presidential election",
-          "link": "https://www.aljazeera.com/news/longform/2026/6/20/how-ivan-cepeda-emerged-a-frontrunner-in-colombias-presidential-election?traffic_source=rss",
-          "published": "Sat, 20 Jun 2026 16:04:37 +0000"
         }
       ]
     }
