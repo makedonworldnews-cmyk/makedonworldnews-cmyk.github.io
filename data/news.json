@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-20T04:44:50Z",
+  "updatedAt": "2026-06-20T08:15:10Z",
   "groups": [
     {
       "region": "Македонија",
@@ -12,39 +12,63 @@
         },
         {
           "source": "Makfax",
-          "title": "Прв случај на Зика вирус во Македонија, заболениот се вратил од Малдиви",
-          "link": "https://makfax.com.mk/makedonija/prv-sluchaj-na-zika-virus-vo-makedonija-zaboleniot-se-vratil-od-maldivi/",
-          "published": "Fri, 19 Jun 2026 19:13:41 +0000"
+          "title": "Алжир испрати официјална жалба до ФИФА: Каде е црвениот картон за Меси?",
+          "link": "https://makfax.com.mk/sport/alzhir-isprati-oficijalna-zhalba-do-fifa-kade-e-crveniot-karton-za-mesi/",
+          "published": "Sat, 20 Jun 2026 08:00:25 +0000"
         },
         {
           "source": "Makfax",
-          "title": "Трамп: Мора да го вразумиме Нетанјаху",
-          "link": "https://makfax.com.mk/svet/tramp-mora-da-go-vrazumime-netanjahu/",
-          "published": "Fri, 19 Jun 2026 18:34:22 +0000"
+          "title": "(Фото) Гужви на „Богородица“ и „Дојран“: се чека околу 40 минути за излез од државава",
+          "link": "https://makfax.com.mk/makedonija/foto-guzhvi-na-bogorodica-i-dojran-se-cheka-okolu-40-minuti-za-izlez-od-drzhavava/",
+          "published": "Sat, 20 Jun 2026 07:58:53 +0000"
         },
         {
           "source": "Makfax",
-          "title": "ДОМ: Пред било какви законски измени за дата центрите потребна е целосна транспарентност и јавна дебата",
-          "link": "https://makfax.com.mk/makedonija/dom-pred-bilo-kakvi-zakonski-izmeni-za-data-centrite-potrebna-e-celosna-transparentnost-i-javna-debata/",
-          "published": "Fri, 19 Jun 2026 18:09:19 +0000"
+          "title": "Австралија и Парагвај со реми во меѓусебниот дуел одат во нокат фазата",
+          "link": "https://makfax.com.mk/sport/avstralija-i-paragvaj-so-remi-vo-megusebniot-duel-odat-vo-nokat-fazata/",
+          "published": "Sat, 20 Jun 2026 07:48:00 +0000"
         },
         {
           "source": "Makfax",
-          "title": "ЕУ ѝ исплати на Ерменија 34 милиони евра поради руските мерки",
-          "link": "https://makfax.com.mk/svet/eu-%d1%9d-isplati-na-ermenija-34-milioni-evra-poradi-ruskite-merki/",
-          "published": "Fri, 19 Jun 2026 17:51:10 +0000"
+          "title": "Бизарен црвен картон на СП – Прв пат во историјата применето новото правило",
+          "link": "https://makfax.com.mk/sport/bizaren-crven-karton-na-sp-prv-pat-vo-istorijata-primeneto-novoto-pravilo/",
+          "published": "Sat, 20 Jun 2026 07:37:57 +0000"
         },
         {
           "source": "Makfax",
-          "title": "Зеленски: Украина практично ја има втората најголема армија во НАТО",
-          "link": "https://makfax.com.mk/svet/zelenski-ukraina-praktichno-ja-ima-vtorata-najgolema-armija-vo-nato/",
-          "published": "Fri, 19 Jun 2026 17:24:49 +0000"
+          "title": "Монтела: Во фудбалот сум 35 години, ова се случува еднаш на 50 години",
+          "link": "https://makfax.com.mk/sport/montela-vo-fudbalot-sum-35-godini-ova-se-sluchuva-ednash-na-50-godini/",
+          "published": "Sat, 20 Jun 2026 07:30:57 +0000"
         },
         {
           "source": "NetPress",
-          "title": "⚠️ Не може да се вчита (извор/timeout)",
-          "link": "https://netpress.com.mk/feed/",
-          "published": ""
+          "title": "Метеоаларм за високи температури!",
+          "link": "https://netpress.com.mk/meteoalarm-za-visoki-temperaturi/",
+          "published": "Sat, 20 Jun 2026 08:14:54 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "ОН: Конфликт меѓу израелскиот амбасадор и известителката за деца",
+          "link": "https://netpress.com.mk/on-konflikt-megu-izraelskiot-ambasador-i-izvestitelkata-za-decza/",
+          "published": "Sat, 20 Jun 2026 06:37:16 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Без струја улици во Кисела Вода",
+          "link": "https://netpress.com.mk/bez-struja-uliczi-vo-kisela-voda/",
+          "published": "Sat, 20 Jun 2026 06:30:53 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Попладнево централно Скопје со блокирани улици поради ЛГБТ парада",
+          "link": "https://netpress.com.mk/popladnevo-czentralno-skopje-so-blokirani-uliczi-poradi-lgbt-parada/",
+          "published": "Sat, 20 Jun 2026 06:20:50 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "БиХ официјално на „сивата листа“ земји кои не ги контролираат финансиските трансакции",
+          "link": "https://netpress.com.mk/bih-oficzijalno-na-sivata-lista-zemji-koi-ne-gi-kontroliraat-finansiskite-transakczii/",
+          "published": "Sat, 20 Jun 2026 06:17:29 +0000"
         }
       ]
     },
@@ -83,33 +107,33 @@
         },
         {
           "source": "Al Jazeera",
-          "title": "Mexico City looks to rein in street drinking after massive World Cup party",
-          "link": "https://www.aljazeera.com/sports/2026/6/20/mexico-city-looks-to-rein-in-street-drinking-after-massive-world-cup-party?traffic_source=rss",
-          "published": "Sat, 20 Jun 2026 03:43:21 +0000"
+          "title": "Mona Khalil, Lebanon’s turtle advocate, dies after Israeli attack",
+          "link": "https://www.aljazeera.com/news/2026/6/20/mona-khalil-lebanons-turtle-advocate-dies-after-israeli-attack?traffic_source=rss",
+          "published": "Sat, 20 Jun 2026 07:42:26 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Hydration break boos: How FIFA united players, fans, coaches at World Cup",
-          "link": "https://www.aljazeera.com/sports/2026/6/20/hydration-break-boos-how-fifa-united-players-fans-coaches-at-world-cup?traffic_source=rss",
-          "published": "Sat, 20 Jun 2026 03:36:27 +0000"
+          "title": "Australia pledges action on H5N1 after bird flu case confirmed",
+          "link": "https://www.aljazeera.com/news/2026/6/20/australia-pledges-action-on-h5n1-after-bird-flu-case-confirmed?traffic_source=rss",
+          "published": "Sat, 20 Jun 2026 07:24:39 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "One dead and 89 injured following train collision in Bedford, UK",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/6/20/one-dead-and-89-injured-following-train-collision-in-bedford-uk?traffic_source=rss",
-          "published": "Sat, 20 Jun 2026 03:04:21 +0000"
+          "title": "US envoy headed for Switzerland, Israeli strikes on Lebanon threaten talks",
+          "link": "https://www.aljazeera.com/news/2026/6/20/us-envoy-headed-for-switzerland-israeli-strikes-on-lebanon-threaten-talks?traffic_source=rss",
+          "published": "Sat, 20 Jun 2026 07:02:41 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Cunha hits Brazil double against Haiti to seal first World Cup 2026 win",
-          "link": "https://www.aljazeera.com/sports/2026/6/20/cunha-hits-brazil-double-against-haiti-to-seal-first-world-cup-2026-win?traffic_source=rss",
-          "published": "Sat, 20 Jun 2026 02:42:34 +0000"
+          "title": "‘We tasted the horrors of war’: Stories of refugees who returned home",
+          "link": "https://www.aljazeera.com/features/longform/2026/6/20/we-tasted-the-horrors-of-war-stories-of-refugees-who-returned-home?traffic_source=rss",
+          "published": "Sat, 20 Jun 2026 06:24:56 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Lebanese influencer organises World Cup event amid Israel’s attack on Leban",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/6/20/lebanese-influencer-organises-world-cup-event-amid-israels-attack-on-leban?traffic_source=rss",
-          "published": "Sat, 20 Jun 2026 01:05:45 +0000"
+          "title": "Iran war day 113: Tehran presses US over Lebanon ceasefire",
+          "link": "https://www.aljazeera.com/news/2026/6/20/iran-war-day-113-tehran-presses-us-over-lebanon-ceasefire?traffic_source=rss",
+          "published": "Sat, 20 Jun 2026 05:58:49 +0000"
         }
       ]
     }
