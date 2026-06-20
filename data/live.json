@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-20T19:51:50Z",
+  "generated_at": "2026-06-20T21:06:38Z",
   "items": [
     {
       "region": "Македонија",
@@ -39,6 +39,27 @@
     {
       "region": "Македонија",
       "source": "NetPress",
+      "title": "Боливискиот претседател прогласи вонредна состојба по речиси двомесечните протести",
+      "link": "https://netpress.com.mk/boliviskiot-pretsedatel-proglasi-vonredna-sostojba-po-rechisi-dvomesechnite-protesti/",
+      "published": "Sat, 20 Jun 2026 20:49:43 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "NetPress",
+      "title": "ВИДЕО| Грција се бори со првиот голем шумски пожар годинава",
+      "link": "https://netpress.com.mk/video-grczija-se-bori-so-prviot-golem-shumski-pozhar-godinava/",
+      "published": "Sat, 20 Jun 2026 20:19:40 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "NetPress",
+      "title": "Јован Стојоски постави нов национален рекорд на 400 метри со пречки",
+      "link": "https://netpress.com.mk/jovan-stojoski-volos-grcija-1085533-2/",
+      "published": "Sat, 20 Jun 2026 20:13:11 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "NetPress",
       "title": "Загина д-р Емилија Аврамчева, еден од столбовите на македонската заедница во Полска",
       "link": "https://netpress.com.mk/zagina-d-r-emilija-avramcheva-eden-od-stolbovi-na-makedonskata-zaednicza-vo-polska/",
       "published": "Sat, 20 Jun 2026 19:34:38 +0000"
@@ -51,32 +72,11 @@
       "published": "Sat, 20 Jun 2026 19:34:15 +0000"
     },
     {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Зеленски ѝ го враќа на Полска државното признание „Орден на белиот орел“",
-      "link": "https://netpress.com.mk/zelenski-%d1%9d-go-vraka-na-polska-drzhavnoto-priznanie-orden-na-beliot-orel/",
-      "published": "Sat, 20 Jun 2026 19:25:32 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "СП 2026: Рафиња веројатно нема да игра против Шкотска",
-      "link": "https://netpress.com.mk/sp-2026-rafina-verojatno-nema-da-igra-protiv-shkotska/",
-      "published": "Sat, 20 Jun 2026 18:52:56 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "ЦУК: Активен пожарот во Општина Арачиново, каде гори ѓубре и ниска вегетација, девет изгаснати",
-      "link": "https://netpress.com.mk/czuk-aktiven-pozharot-vo-opshtina-arachinovo-kade-gori-gubre-i-niska-vegetaczija-devet-izgasnati/",
-      "published": "Sat, 20 Jun 2026 18:33:51 +0000"
-    },
-    {
       "region": "Свет",
       "source": "BBC",
-      "title": "Iran says Strait of Hormuz will be closed over Israel attacks on Lebanon",
+      "title": "Iran says it has closed Strait of Hormuz over Israel attacks on Lebanon",
       "link": "https://www.bbc.com/news/articles/cwyekkwm1mmo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 20 Jun 2026 18:39:55 GMT"
+      "published": "Sat, 20 Jun 2026 20:49:03 GMT"
     },
     {
       "region": "Свет",
@@ -109,37 +109,37 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "Bolivia declares state of emergency to clear protest blockades",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/20/bolivia-declares-state-of-emergency-to-clear-protest-blockades?traffic_source=rss",
+      "published": "Sat, 20 Jun 2026 20:42:42 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Overplaying Strait of Hormuz card will turn Iran into a pariah state",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/20/overplaying-strait-of-hormuz-card-will-turn-iran-into-a-pariah-state?traffic_source=rss",
+      "published": "Sat, 20 Jun 2026 19:43:47 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Netherlands vs Sweden: Gakpo, Brobbey doubles give Dutch 5–1 World Cup win",
+      "link": "https://www.aljazeera.com/sports/2026/6/20/netherlands-vs-sweden-gakpo-brobbey-doubles-give-dutch-5-1-world-cup?traffic_source=rss",
+      "published": "Sat, 20 Jun 2026 19:42:47 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Ukraine says Russian attack kills five people in Zaporizhzhia",
+      "link": "https://www.aljazeera.com/news/2026/6/20/ukraine-says-russian-attack-kills-five-people-in-zaporizhzhia?traffic_source=rss",
+      "published": "Sat, 20 Jun 2026 19:31:55 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "Are UK Prime Minister Keir Starmer’s political days numbered?",
       "link": "https://www.aljazeera.com/video/inside-story/2026/6/20/are-uk-prime-minister-keir-starmers-political-days-numbered?traffic_source=rss",
       "published": "Sat, 20 Jun 2026 18:50:14 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Al Jazeera cameraman Ahmed Wishah killed in Israeli attack in Gaza",
-      "link": "https://www.aljazeera.com/news/2026/6/20/al-jazeera-cameraman-ahmad-wishah-killed-in-israeli-attack-in-gaza?traffic_source=rss",
-      "published": "Sat, 20 Jun 2026 18:07:09 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "US-Iran talks to kick off Sunday in Switzerland, says Pakistan",
-      "link": "https://www.aljazeera.com/news/2026/6/20/us-iran-talks-to-kick-off-sunday-in-switzerland-says?traffic_source=rss",
-      "published": "Sat, 20 Jun 2026 17:39:08 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "As ILO convention turns 30, India’s home-based workers demand equal rights",
-      "link": "https://www.aljazeera.com/news/2026/6/20/as-ilo-convention-turns-30-indias-home-based-workers-demand-equal-rights?traffic_source=rss",
-      "published": "Sat, 20 Jun 2026 17:31:45 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "World cup wrap day 9",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/20/world-cup-wrap-day-9?traffic_source=rss",
-      "published": "Sat, 20 Jun 2026 17:27:59 +0000"
     }
   ]
 }
