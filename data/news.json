@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-20T20:38:54Z",
+  "updatedAt": "2026-06-20T21:52:15Z",
   "groups": [
     {
       "region": "Македонија",
@@ -42,6 +42,12 @@
         },
         {
           "source": "NetPress",
+          "title": "Боливискиот претседател прогласи вонредна состојба по речиси двомесечните протести",
+          "link": "https://netpress.com.mk/boliviskiot-pretsedatel-proglasi-vonredna-sostojba-po-rechisi-dvomesechnite-protesti/",
+          "published": "Sat, 20 Jun 2026 20:49:43 +0000"
+        },
+        {
+          "source": "NetPress",
           "title": "ВИДЕО| Грција се бори со првиот голем шумски пожар годинава",
           "link": "https://netpress.com.mk/video-grczija-se-bori-so-prviot-golem-shumski-pozhar-godinava/",
           "published": "Sat, 20 Jun 2026 20:19:40 +0000"
@@ -63,12 +69,6 @@
           "title": "СП 2026: Холанѓаните ги „спуштија“ Швеѓаните",
           "link": "https://netpress.com.mk/sp-2026-holanganite-gi-spushtija-shveganite/",
           "published": "Sat, 20 Jun 2026 19:34:15 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Зеленски ѝ го враќа на Полска државното признание „Орден на белиот орел“",
-          "link": "https://netpress.com.mk/zelenski-%d1%9d-go-vraka-na-polska-drzhavnoto-priznanie-orden-na-beliot-orel/",
-          "published": "Sat, 20 Jun 2026 19:25:32 +0000"
         }
       ]
     },
@@ -77,9 +77,9 @@
       "items": [
         {
           "source": "BBC",
-          "title": "Iran says Strait of Hormuz will be closed over Israel attacks on Lebanon",
+          "title": "Iran says it has closed Strait of Hormuz over Israel attacks on Lebanon",
           "link": "https://www.bbc.com/news/articles/cwyekkwm1mmo?at_medium=RSS&at_campaign=rss",
-          "published": "Sat, 20 Jun 2026 18:39:55 GMT"
+          "published": "Sat, 20 Jun 2026 21:11:57 GMT"
         },
         {
           "source": "BBC",
@@ -107,6 +107,12 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Bolivia declares state of emergency to clear protest blockades",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/6/20/bolivia-declares-state-of-emergency-to-clear-protest-blockades?traffic_source=rss",
+          "published": "Sat, 20 Jun 2026 20:42:42 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Overplaying Strait of Hormuz card will turn Iran into a pariah state",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/6/20/overplaying-strait-of-hormuz-card-will-turn-iran-into-a-pariah-state?traffic_source=rss",
           "published": "Sat, 20 Jun 2026 19:43:47 +0000"
@@ -128,12 +134,6 @@
           "title": "Are UK Prime Minister Keir Starmer’s political days numbered?",
           "link": "https://www.aljazeera.com/video/inside-story/2026/6/20/are-uk-prime-minister-keir-starmers-political-days-numbered?traffic_source=rss",
           "published": "Sat, 20 Jun 2026 18:50:14 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Al Jazeera cameraman Ahmed Wishah killed in Israeli attack in Gaza",
-          "link": "https://www.aljazeera.com/news/2026/6/20/al-jazeera-cameraman-ahmad-wishah-killed-in-israeli-attack-in-gaza?traffic_source=rss",
-          "published": "Sat, 20 Jun 2026 18:07:09 +0000"
         }
       ]
     }
