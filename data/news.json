@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-21T20:59:45Z",
+  "updatedAt": "2026-06-21T22:20:52Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) Шпанија без мака против Саудиска Арабија",
+          "link": "https://makfax.com.mk/sport/video-shpanija-bez-maka-protiv-saudiska-arabija/",
+          "published": "Sun, 21 Jun 2026 22:19:13 +0000"
         },
         {
           "source": "Makfax",
@@ -35,40 +41,10 @@
           "published": "Sun, 21 Jun 2026 18:09:46 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Лишени од слобода 20 возачи за безобѕирно управување, дел без возачка, дел под дејство на алкохол",
-          "link": "https://makfax.com.mk/crna-hronika/lisheni-od-sloboda-20-vozachi-za-bezobzirno-upravuvanje-del-bez-vozachka-del-pod-dejstvo-na-alkohol/",
-          "published": "Sun, 21 Jun 2026 17:30:11 +0000"
-        },
-        {
           "source": "NetPress",
-          "title": "Повеќето Британци разочарани од Брегзитот, покажува анкетата на ECFR",
-          "link": "https://netpress.com.mk/poveketo-britanczi-razocharani-od-bregzitot-pokazhuva-anketata-na-ecfr/",
-          "published": "Sun, 21 Jun 2026 20:59:46 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Нетанјаху: Ќе ја задржиме „безбедната зона“ во Либан сè додека е потребно",
-          "link": "https://netpress.com.mk/netanjahu-ke-ja-zadrzhime-bezbednata-zona-vo-liban-se-dodeka-e-potrebno/",
-          "published": "Sun, 21 Jun 2026 20:45:27 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "СП 2026: Многу автоголови на почетокот на првенството",
-          "link": "https://netpress.com.mk/sp-2026-mnogu-avtogolovi-na-pochetokot-na-prvenstvoto/",
-          "published": "Sun, 21 Jun 2026 20:33:24 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Кралот Чарлс ќе биде првиот монарх што ќе ја открие личната даночна пријава",
-          "link": "https://netpress.com.mk/kralot-charls-ke-bide-prviot-monarh-shto-ke-ja-otkrie-lichnata-danochna-prijava/",
-          "published": "Sun, 21 Jun 2026 19:57:21 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Четиримина уапсени за семејно насилство – меѓу нив и жена",
-          "link": "https://netpress.com.mk/chetirimina-uapseni-za-semejno-nasilstvo-megu-niv-i-zhena/",
-          "published": "Sun, 21 Jun 2026 19:23:10 +0000"
+          "title": "⚠️ Не може да се вчита (извор/timeout)",
+          "link": "https://netpress.com.mk/feed/",
+          "published": ""
         }
       ]
     },
@@ -107,6 +83,18 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Belgium see red in goalless World Cup draw with Iran in Los Angeles",
+          "link": "https://www.aljazeera.com/sports/2026/6/21/iran-belgium-wc-mehdi-taremi-score-los-angeles-draw?traffic_source=rss",
+          "published": "Sun, 21 Jun 2026 21:45:02 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "What are the end goals of Iran-US negotiations?",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/6/21/what-are-the-end-goals-of-iran-us-negotiations?traffic_source=rss",
+          "published": "Sun, 21 Jun 2026 20:59:22 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Mourners gather to remember Lebanese conservationist killed by Israel",
           "link": "https://www.aljazeera.com/news/2026/6/21/mourners-gather-to-remember-lebanese-conservationist-killed-by-israel?traffic_source=rss",
           "published": "Sun, 21 Jun 2026 20:21:59 +0000"
@@ -122,18 +110,6 @@
           "title": "Serena Williams to play women’s singles at Wimbledon as wildcard entrant",
           "link": "https://www.aljazeera.com/sports/2026/6/21/serena-williams-to-play-womens-singles-at-wimbledon-as-wildcard-entrant?traffic_source=rss",
           "published": "Sun, 21 Jun 2026 20:05:19 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Displaced Lebanese inspect shattered Nabatieh after Israel halts attacks",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/6/21/displaced-lebanese-inspect-shattered-nabatieh-after-israel-halts-attacks?traffic_source=rss",
-          "published": "Sun, 21 Jun 2026 20:04:40 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Colombia elections take place as Abelardo de la Espriella leads polls",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/6/21/colombia-elections-take-place-as-abelardo-de-la-espriella-leads-polls?traffic_source=rss",
-          "published": "Sun, 21 Jun 2026 19:58:00 +0000"
         }
       ]
     }
