@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-20T23:09:11Z",
+  "updatedAt": "2026-06-21T00:20:55Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Њукасл одби 90 милиони за Тонали",
+          "link": "https://makfax.com.mk/sport/njukasl-odbi-90-milioni-za-tonali/",
+          "published": "Sun, 21 Jun 2026 00:03:56 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) Дениз Ундав ги скроти „Слоновите“",
+          "link": "https://makfax.com.mk/sport/video-deniz-undav-gi-skroti-slonovite/",
+          "published": "Sat, 20 Jun 2026 23:57:56 +0000"
         },
         {
           "source": "Makfax",
@@ -27,18 +39,6 @@
           "title": "(Видео) Холандија со петарда ја декласира Шведска",
           "link": "https://makfax.com.mk/sport/video-holandija-so-petarda-ja-deklasira-shvedska/",
           "published": "Sat, 20 Jun 2026 19:05:00 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "(Видео) Силно невреме со град ги погоди Австрија и Словенија",
-          "link": "https://makfax.com.mk/svet/video-silno-nevreme-so-grad-gi-pogodi-avstrija-i-slovenija/",
-          "published": "Sat, 20 Jun 2026 18:24:50 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Полска: Одземањето на орденот на Зеленски беше промислена одлука",
-          "link": "https://makfax.com.mk/svet/polska-odzemanjeto-na-ordenot-na-zelenski-beshe-promislena-odluka/",
-          "published": "Sat, 20 Jun 2026 17:52:05 +0000"
         },
         {
           "source": "NetPress",
@@ -107,6 +107,18 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "US refuses to ease Iran World Cup travel restrictions for Belgium match",
+          "link": "https://www.aljazeera.com/sports/2026/6/20/us-refuses-to-ease-iran-world-cup-travel-restrictions-for-belgium-match?traffic_source=rss",
+          "published": "Sat, 20 Jun 2026 23:45:36 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Iranian delegation arrives in Switzerland for US peace talks",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/6/20/iranian-delegation-arrives-in-switzerland-for-us-peace-talks?traffic_source=rss",
+          "published": "Sat, 20 Jun 2026 23:39:45 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Undav injury-time goal sees Germany beat Ivory Coast to top World Cup group",
           "link": "https://www.aljazeera.com/sports/2026/6/20/amiri-injury-time-goal-sees-germany-beat-ivory-coast-to-top-world-cup-group?traffic_source=rss",
           "published": "Sat, 20 Jun 2026 22:40:55 +0000"
@@ -122,18 +134,6 @@
           "title": "Uncertain World Cup for Paraguay’s Almiron, sent off for covering his mouth",
           "link": "https://www.aljazeera.com/sports/2026/6/20/uncertain-world-cup-for-paraguays-almiron-sent-off-for-covering-his-mouth?traffic_source=rss",
           "published": "Sat, 20 Jun 2026 21:52:28 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Bolivia declares state of emergency to clear protest blockades",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/6/20/bolivia-declares-state-of-emergency-to-clear-protest-blockades?traffic_source=rss",
-          "published": "Sat, 20 Jun 2026 20:42:42 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Overplaying Strait of Hormuz card will turn Iran into a pariah state",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/6/20/overplaying-strait-of-hormuz-card-will-turn-iran-into-a-pariah-state?traffic_source=rss",
-          "published": "Sat, 20 Jun 2026 19:43:47 +0000"
         }
       ]
     }
