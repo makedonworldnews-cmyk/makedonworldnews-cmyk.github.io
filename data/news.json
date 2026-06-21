@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-21T00:20:55Z",
+  "updatedAt": "2026-06-21T05:24:48Z",
   "groups": [
     {
       "region": "Македонија",
@@ -42,6 +42,24 @@
         },
         {
           "source": "NetPress",
+          "title": "Трамп се заканува со наплаќање за премин низ Хормуз ако пропадне договорот со Иран",
+          "link": "https://netpress.com.mk/tramp-se-zakanuva-so-naplakane-za-premin-niz-hormuz-ako-propadne-dogovorot-so-iran/",
+          "published": "Sun, 21 Jun 2026 05:07:03 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Дневен хороскоп за недела, 21-ви јуни 2026-та",
+          "link": "https://netpress.com.mk/dneven-horoskop-za-nedela-21-vi-juni-2026-ta/",
+          "published": "Sun, 21 Jun 2026 04:47:19 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Претпладнево сончево, попладне грмежи во северозападна Македонија",
+          "link": "https://netpress.com.mk/pretpladnevo-sonchevo-popladne-grmezhi-vo-severozapadna-makedonija/",
+          "published": "Sun, 21 Jun 2026 04:29:25 +0000"
+        },
+        {
+          "source": "NetPress",
           "title": "СП 2026: Пресврт на Германија и победа против Брегот на Слоновата Коска",
           "link": "https://netpress.com.mk/sp-2026-presvrt-na-germanija-i-pobeda-protiv-bregot-na-slonovata-koska/",
           "published": "Sat, 20 Jun 2026 22:37:24 +0000"
@@ -51,24 +69,6 @@
           "title": "Боливискиот претседател прогласи вонредна состојба по речиси двомесечните протести",
           "link": "https://netpress.com.mk/boliviskiot-pretsedatel-proglasi-vonredna-sostojba-po-rechisi-dvomesechnite-protesti/",
           "published": "Sat, 20 Jun 2026 20:49:43 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "ВИДЕО| Грција се бори со првиот голем шумски пожар годинава",
-          "link": "https://netpress.com.mk/video-grczija-se-bori-so-prviot-golem-shumski-pozhar-godinava/",
-          "published": "Sat, 20 Jun 2026 20:19:40 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Јован Стојоски постави нов национален рекорд на 400 метри со пречки",
-          "link": "https://netpress.com.mk/jovan-stojoski-volos-grcija-1085533-2/",
-          "published": "Sat, 20 Jun 2026 20:13:11 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Загина д-р Емилија Аврамчева, еден од столбовите на македонската заедница во Полска",
-          "link": "https://netpress.com.mk/zagina-d-r-emilija-avramcheva-eden-od-stolbovi-na-makedonskata-zaednicza-vo-polska/",
-          "published": "Sat, 20 Jun 2026 19:34:38 +0000"
         }
       ]
     },
@@ -77,9 +77,15 @@
       "items": [
         {
           "source": "BBC",
-          "title": "Iran says it has closed Strait of Hormuz over Israeli attacks in Lebanon",
+          "title": "US-Iran talks to begin in Switzerland as Tehran says it closed Strait of Hormuz",
           "link": "https://www.bbc.com/news/articles/cwyekkwm1mmo?at_medium=RSS&at_campaign=rss",
-          "published": "Sat, 20 Jun 2026 21:11:57 GMT"
+          "published": "Sun, 21 Jun 2026 04:34:00 GMT"
+        },
+        {
+          "source": "BBC",
+          "title": "BBC sees destroyed villages in Israeli-occupied southern Lebanon",
+          "link": "https://www.bbc.com/news/videos/c8r2pyv3e2po?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 20 Jun 2026 16:37:03 GMT"
         },
         {
           "source": "BBC",
@@ -89,51 +95,45 @@
         },
         {
           "source": "BBC",
+          "title": "Colombia's escalating, brutal internal conflict is defining its presidential election",
+          "link": "https://www.bbc.com/news/articles/cvgqv8q1ndpo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 20 Jun 2026 23:17:51 GMT"
+        },
+        {
+          "source": "BBC",
           "title": "Meloni tells Trump to 'focus on your own popularity' as row escalates",
           "link": "https://www.bbc.com/news/articles/cgqj77909jpo?at_medium=RSS&at_campaign=rss",
           "published": "Sat, 20 Jun 2026 15:31:12 GMT"
         },
         {
-          "source": "BBC",
-          "title": "Israeli strikes kill six people in Gaza including Al Jazeera cameraman, officials say",
-          "link": "https://www.bbc.com/news/articles/c4gy26p6pwzo?at_medium=RSS&at_campaign=rss",
-          "published": "Sat, 20 Jun 2026 21:57:36 GMT"
-        },
-        {
-          "source": "BBC",
-          "title": "Bolivian president declares state of emergency",
-          "link": "https://www.bbc.com/news/articles/cr47wn92zdgo?at_medium=RSS&at_campaign=rss",
-          "published": "Sat, 20 Jun 2026 15:27:09 GMT"
+          "source": "Al Jazeera",
+          "title": "Which teams have qualified for the World Cup 2026 knockouts, round of 32?",
+          "link": "https://www.aljazeera.com/sports/2026/6/21/which-teams-have-qualified-for-the-world-cup-2026-knockouts-round-of-32?traffic_source=rss",
+          "published": "Sun, 21 Jun 2026 03:00:22 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "US refuses to ease Iran World Cup travel restrictions for Belgium match",
-          "link": "https://www.aljazeera.com/sports/2026/6/20/us-refuses-to-ease-iran-world-cup-travel-restrictions-for-belgium-match?traffic_source=rss",
-          "published": "Sat, 20 Jun 2026 23:45:36 +0000"
+          "title": "Egypt coach denies Salah rift before World Cup match against New Zealand",
+          "link": "https://www.aljazeera.com/sports/2026/6/21/egypt-coach-denies-salah-rift-before-world-cup-match-against-new-zealand?traffic_source=rss",
+          "published": "Sun, 21 Jun 2026 02:43:53 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Iranian delegation arrives in Switzerland for US peace talks",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/6/20/iranian-delegation-arrives-in-switzerland-for-us-peace-talks?traffic_source=rss",
-          "published": "Sat, 20 Jun 2026 23:39:45 +0000"
+          "title": "Room the hero as tiny Curacao earn first World Cup point against Ecuador",
+          "link": "https://www.aljazeera.com/sports/2026/6/21/room-the-hero-as-tiny-curacao-earn-first-world-cup-point-against-ecuador?traffic_source=rss",
+          "published": "Sun, 21 Jun 2026 02:41:05 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Undav injury-time goal sees Germany beat Ivory Coast to top World Cup group",
-          "link": "https://www.aljazeera.com/sports/2026/6/20/amiri-injury-time-goal-sees-germany-beat-ivory-coast-to-top-world-cup-group?traffic_source=rss",
-          "published": "Sat, 20 Jun 2026 22:40:55 +0000"
+          "title": "Suspect arrested after anti-Muslim stabbing rampage in Scotland",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/6/21/aje-onl-nf_suspect-arrested-anti-muslim-stabbing-in-scotland-200626?traffic_source=rss",
+          "published": "Sun, 21 Jun 2026 02:37:17 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Trump vows Iran will not charge Strait of Hormuz tolls, but says US might",
-          "link": "https://www.aljazeera.com/news/2026/6/20/trump-vows-iran-will-not-charge-strait-of-hormuz-tolls-but-says-us-might?traffic_source=rss",
-          "published": "Sat, 20 Jun 2026 21:54:39 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Uncertain World Cup for Paraguay’s Almiron, sent off for covering his mouth",
-          "link": "https://www.aljazeera.com/sports/2026/6/20/uncertain-world-cup-for-paraguays-almiron-sent-off-for-covering-his-mouth?traffic_source=rss",
-          "published": "Sat, 20 Jun 2026 21:52:28 +0000"
+          "title": "Iran war live: US, Tehran set to hold high-level talks in Switzerland",
+          "link": "https://www.aljazeera.com/news/liveblog/2026/6/21/iran-war-live-vance-heads-to-switzerland-israel-kills-16-in-lebanon?traffic_source=rss",
+          "published": "Sun, 21 Jun 2026 00:00:00 +0000"
         }
       ]
     }
