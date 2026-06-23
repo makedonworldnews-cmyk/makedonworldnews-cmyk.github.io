@@ -1,6 +1,13 @@
 {
-  "generated_at": "2026-06-23T21:54:16Z",
+  "generated_at": "2026-06-23T23:01:09Z",
   "items": [
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "(Видео) Здодевен меч – Ремизираа Англија и Гана",
+      "link": "https://makfax.com.mk/sport/video-zdodeven-mech-remiziraa-anglija-i-gana/",
+      "published": "Tue, 23 Jun 2026 22:15:00 +0000"
+    },
     {
       "region": "Македонија",
       "source": "Makfax",
@@ -31,10 +38,10 @@
     },
     {
       "region": "Македонија",
-      "source": "Makfax",
-      "title": "Лина Ѓорческа: Не се оптеретувам, одам меч по меч",
-      "link": "https://makfax.com.mk/sport/lina-gorcheska-ne-se-opteretuvam-odam-mech-po-mech/",
-      "published": "Tue, 23 Jun 2026 18:53:00 +0000"
+      "source": "NetPress",
+      "title": "СП 2026: Англија не најде начин да ја пробие одбраната на Гана",
+      "link": "https://netpress.com.mk/sp-2026-anglija-ne-najde-nachin-da-ja-probie-odbranata-na-gana/",
+      "published": "Tue, 23 Jun 2026 22:50:27 +0000"
     },
     {
       "region": "Македонија",
@@ -65,13 +72,6 @@
       "published": "Tue, 23 Jun 2026 20:29:12 +0000"
     },
     {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Инфантино објави дека заедно со Трамп ќе му го доделат трофејот на новиот светски фудбалски шампион.",
-      "link": "https://netpress.com.mk/infantino-objavi-deka-zaedno-so-tramp-ke-mu-go-dodelat-trofejot-na-noviot-svetski-fudbalski-shampion/",
-      "published": "Tue, 23 Jun 2026 20:09:52 +0000"
-    },
-    {
       "region": "Свет",
       "source": "BBC",
       "title": "Drowning deaths soar in France as Europe buckles in peak of heatwave",
@@ -95,16 +95,30 @@
     {
       "region": "Свет",
       "source": "BBC",
+      "title": "Germany rail network comes to complete halt nationwide due to IT malfunction",
+      "link": "https://www.bbc.co.uk/news/articles/crm0ek4z7ggo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 23 Jun 2026 22:44:57 GMT"
+    },
+    {
+      "region": "Свет",
+      "source": "BBC",
       "title": "Dozens of ships head through Strait of Hormuz after US-Iran deal",
       "link": "https://www.bbc.co.uk/news/articles/cx23rnzdgl8o?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 23 Jun 2026 14:55:31 GMT"
     },
     {
       "region": "Свет",
-      "source": "BBC",
-      "title": "UN commission of inquiry says Israel committing genocide in Gaza by deliberately targeting children",
-      "link": "https://www.bbc.co.uk/news/articles/c0jy96w6pw2o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 23 Jun 2026 11:10:06 GMT"
+      "source": "Al Jazeera",
+      "title": "Israel’s deliberate targeting of Palestinian children",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/23/aje-onl-nf_israels-targeting-of-palestinian-children-230626?traffic_source=rss",
+      "published": "Tue, 23 Jun 2026 22:50:00 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "England held by Ghana at World Cup as pair close on last-32 passage",
+      "link": "https://www.aljazeera.com/sports/2026/6/23/england-held-by-ghana-at-world-cup-as-pair-seal-last-32-passage?traffic_source=rss",
+      "published": "Tue, 23 Jun 2026 22:22:57 +0000"
     },
     {
       "region": "Свет",
@@ -126,20 +140,6 @@
       "title": "Paraguay’s Almiron suspended for one game after red card for covering mouth",
       "link": "https://www.aljazeera.com/sports/2026/6/23/paraguays-almiron-suspended-for-one-game-after-red-card-for-covering-mouth?traffic_source=rss",
       "published": "Tue, 23 Jun 2026 21:36:12 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Trump allies reassure Israelis amid tensions on US-Iran deal",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/23/trump-allies-reassure-israelis-amid-tensions-on-us-iran-deal?traffic_source=rss",
-      "published": "Tue, 23 Jun 2026 21:19:35 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Massive fire rips through Indonesia sandal factory",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/23/massive-fire-rips-through-indonesia-sandal-factory?traffic_source=rss",
-      "published": "Tue, 23 Jun 2026 21:14:16 +0000"
     }
   ]
 }
