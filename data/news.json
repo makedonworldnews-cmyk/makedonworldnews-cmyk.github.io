@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-23T16:38:19Z",
+  "updatedAt": "2026-06-23T18:30:17Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,24 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) Пожар во облакодер во Мадрид",
+          "link": "https://makfax.com.mk/svet/video-pozhar-vo-oblakoder-vo-madrid/",
+          "published": "Tue, 23 Jun 2026 17:49:22 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Филков до опозицијата: Во првите две години носиме повеќе од 30 реформски закони со кои ги исправаме долгогодишните слабости во системот",
+          "link": "https://makfax.com.mk/makedonija/filkov-do-opozicijata-vo-prvite-dve-godini-nosime-poveke-od-30-reformski-zakoni-so-koi-gi-ispravame-dolgogodishnite-slabosti-vo-sistemot/",
+          "published": "Tue, 23 Jun 2026 17:45:27 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Силно невреме ги зафати Кочани и Виница, нов бран се приближува кон Гевгелија",
+          "link": "https://makfax.com.mk/makedonija/silno-nevreme-gi-zafati-kochani-i-vinica-nov-bran-se-priblizhuva-kon-gevgelija/",
+          "published": "Tue, 23 Jun 2026 17:42:43 +0000"
         },
         {
           "source": "Makfax",
@@ -23,28 +41,34 @@
           "published": "Tue, 23 Jun 2026 16:08:03 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Невреме со пороен дожд, грмежи и град во регионите на Штип и Гевгелија",
-          "link": "https://makfax.com.mk/makedonija/nevreme-so-poroen-dozhd-grmezhi-i-grad-vo-regionite-na-shtip-i-gevgelija/",
-          "published": "Tue, 23 Jun 2026 16:02:53 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Уставно-судската пракса ја потврдува посебната улога на државата во организирањето на игрите на среќа",
-          "link": "https://makfax.com.mk/ekonomija/ustavno-sudskata-praktika-ja-potvrduva-posebnata-uloga-na-drzhavata-vo-organiziranjeto-na-igrite-na-sreka/",
-          "published": "Tue, 23 Jun 2026 15:59:26 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Почина градоначалникот на Брвеница, Јовица Илиевски",
-          "link": "https://makfax.com.mk/makedonija/pochina-gradonachalnikot-na-brvenica-jovica-ilievski/",
-          "published": "Tue, 23 Jun 2026 14:45:51 +0000"
+          "source": "NetPress",
+          "title": "СП 2026: На парагвајскиот коментатор одземена акредитацијата поради навреда на судијата и ФИФА",
+          "link": "https://netpress.com.mk/sp-2026-na-paragvajskiot-komentator-odzemena-akreditaczijata-poradi-navreda-na-sudijata-i-fifa/",
+          "published": "Tue, 23 Jun 2026 17:57:03 +0000"
         },
         {
           "source": "NetPress",
-          "title": "⚠️ Не може да се вчита (извор/timeout)",
-          "link": "https://netpress.com.mk/feed/",
-          "published": ""
+          "title": "Јапонија се изместила неколку милиметри источно во земјотресот во 2011-та",
+          "link": "https://netpress.com.mk/japonija-se-izmestila-nekolku-milimetri-istochno-vo-zemjotresot-vo-2011-ta/",
+          "published": "Tue, 23 Jun 2026 17:31:50 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Државна лотарија: Уставниот суд ја потврдува улогата на државата во игрите на среќа",
+          "link": "https://netpress.com.mk/drzhavna-lotarija-ustavniot-sud-ja-potvrduva-ulogata-na-drzhavata-vo-igrite-na-sreka/",
+          "published": "Tue, 23 Jun 2026 17:31:39 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Кој е Енди Барнам, кандидатот за премиер на Велика Британија?",
+          "link": "https://netpress.com.mk/koj-e-endi-barnam-kandidatot-za-premier-na-velika-britanija-2/",
+          "published": "Tue, 23 Jun 2026 17:27:53 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Шпекулациите за транзитот низ Хормуз ги спуштија цените на нафтата под 77 долари",
+          "link": "https://netpress.com.mk/shpekulacziite-za-tranzitot-niz-hormuz-gi-spushtija-czenite-na-naftata-pod-77-dolari/",
+          "published": "Tue, 23 Jun 2026 17:02:08 +0000"
         }
       ]
     },
@@ -59,15 +83,15 @@
         },
         {
           "source": "BBC",
-          "title": "Dozens of ships head through Strait of Hormuz after US-Iran deal",
-          "link": "https://www.bbc.co.uk/news/articles/cx23rnzdgl8o?at_medium=RSS&at_campaign=rss",
-          "published": "Tue, 23 Jun 2026 14:55:31 GMT"
+          "title": "Israeli troops kill two in south Lebanon after lull in fighting, authorities say",
+          "link": "https://www.bbc.co.uk/news/articles/c36ykpw0yego?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 23 Jun 2026 16:47:45 GMT"
         },
         {
           "source": "BBC",
-          "title": "Iran says no new commitments on nuclear sites after Vance says inspectors to be invited back",
-          "link": "https://www.bbc.co.uk/news/articles/c3vy3nr63gxo?at_medium=RSS&at_campaign=rss",
-          "published": "Tue, 23 Jun 2026 12:14:58 GMT"
+          "title": "Dozens of ships head through Strait of Hormuz after US-Iran deal",
+          "link": "https://www.bbc.co.uk/news/articles/cx23rnzdgl8o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 23 Jun 2026 14:55:31 GMT"
         },
         {
           "source": "BBC",
@@ -79,37 +103,37 @@
           "source": "BBC",
           "title": "Zambia ex-president's family wins latest legal battle over what should happen to his body",
           "link": "https://www.bbc.co.uk/news/articles/c8r2yryr5mvo?at_medium=RSS&at_campaign=rss",
-          "published": "Tue, 23 Jun 2026 12:02:29 GMT"
+          "published": "Tue, 23 Jun 2026 17:30:44 GMT"
         },
         {
           "source": "Al Jazeera",
-          "title": "Missile strike kills three in Ukraine as Russia feels war’s economic strain",
-          "link": "https://www.aljazeera.com/news/2026/6/23/missile-strike-kills-three-in-ukraine-as-russia-feels-wars-economic-strain?traffic_source=rss",
-          "published": "Tue, 23 Jun 2026 16:29:28 +0000"
+          "title": "Why do the UK’s prime ministers keep resigning?",
+          "link": "https://www.aljazeera.com/video/inside-story/2026/6/23/why-do-the-uks-prime-ministers-keep-resigning?traffic_source=rss",
+          "published": "Tue, 23 Jun 2026 17:36:04 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Israeli police clash with anti-draft ultra-Orthodox protesters",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/6/23/israeli-police-clash-with-anti-draft-ultra-orthodox-protesters?traffic_source=rss",
-          "published": "Tue, 23 Jun 2026 16:22:00 +0000"
+          "title": "Israeli forces set olive trees on fire in occupied West Bank",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/6/23/israeli-forces-set-olive-trees-on-fire-in-occupied-west-bank?traffic_source=rss",
+          "published": "Tue, 23 Jun 2026 17:35:30 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "LIVE: England vs Ghana – World Cup 2026",
-          "link": "https://www.aljazeera.com/sports/liveblog/2026/6/23/england-vs-ghana-live-world-cup-2026?traffic_source=rss",
-          "published": "Tue, 23 Jun 2026 16:01:19 +0000"
+          "title": "EU hosts Taliban officials for the first time in talks on deportations",
+          "link": "https://www.aljazeera.com/news/2026/6/23/eu-hosts-taliban-officials-for-the-first-time-in-talks-on-deportations?traffic_source=rss",
+          "published": "Tue, 23 Jun 2026 17:26:47 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "The $3.7bn man: Inside one of US’s biggest Medicare frauds",
-          "link": "https://www.aljazeera.com/economy/2026/6/23/the-3-7bn-man-inside-one-of-americas-biggest-medicare-frauds?traffic_source=rss",
-          "published": "Tue, 23 Jun 2026 15:45:24 +0000"
+          "title": "US appeals court says Trump can proceed with fast-track deportation efforts",
+          "link": "https://www.aljazeera.com/news/2026/6/23/us-appeals-court-says-trump-can-proceed-with-fast-track-deportation-efforts?traffic_source=rss",
+          "published": "Tue, 23 Jun 2026 17:19:57 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "South African police investigate murder amid rise in anti-migrant attacks",
-          "link": "https://www.aljazeera.com/news/2026/6/23/south-african-police-investigate-murder-amid-rise-in-anti-migrant-attacks?traffic_source=rss",
-          "published": "Tue, 23 Jun 2026 15:27:21 +0000"
+          "title": "The weight of the Three Lions: Football, colonialism, diaspora",
+          "link": "https://www.aljazeera.com/opinions/2026/6/23/the-weight-of-the-three-lions-football-colonialism-diaspora?traffic_source=rss",
+          "published": "Tue, 23 Jun 2026 16:50:49 +0000"
         }
       ]
     }
