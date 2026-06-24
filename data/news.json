@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-24T21:42:13Z",
+  "updatedAt": "2026-06-24T22:54:58Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Валенсија ја освои титулата во Шпанија",
+          "link": "https://makfax.com.mk/sport/valensija-ja-osvoi-titulata-vo-shpanija/",
+          "published": "Wed, 24 Jun 2026 22:08:00 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) Босна на чекор до нокаут фазата – Швајцарија ја освои Б групата",
+          "link": "https://makfax.com.mk/sport/video-bosna-na-chekor-do-nokaut-fazata-shvajcarija-ja-osvoi-b-grupata/",
+          "published": "Wed, 24 Jun 2026 22:00:00 +0000"
         },
         {
           "source": "Makfax",
@@ -29,16 +41,16 @@
           "published": "Wed, 24 Jun 2026 19:40:24 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Таравари не бара функции или политички пазарења кога бара гаранции за почеток на преговорите со ЕУ, велат од Алијанса за Албанците",
-          "link": "https://makfax.com.mk/makedonija/taravari-ne-bara-funkcii-ili-politichki-pazarenja-koga-bara-garancii-za-pochetok-na-pregovorite-so-eu-velat-od-alijansa-za-albancite/",
-          "published": "Wed, 24 Jun 2026 19:19:32 +0000"
+          "source": "NetPress",
+          "title": "СП 2026: Швајцарија ја совлада Канада, но и двете селекции одат натаму",
+          "link": "https://netpress.com.mk/sp-2026-shvajczarija-ja-sovlada-kanada-no-i-dvete-selekczii-odat-natamu/",
+          "published": "Wed, 24 Jun 2026 22:19:56 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Трамп: Иран прави многу големи отстапки, ќе видиме што ќе се случи",
-          "link": "https://makfax.com.mk/svet/tramp-iran-pravi-mnogu-golemi-otstapki-ke-vidime-shto-ke-se-sluchi/",
-          "published": "Wed, 24 Jun 2026 19:00:29 +0000"
+          "source": "NetPress",
+          "title": "СП 2026: Босна и Херцеговина најверојатно обезбеди шестнаесетфинале",
+          "link": "https://netpress.com.mk/sp-2026-bosna-i-herczegovina-najverojatno-obezbedi-shestnaesetfinale/",
+          "published": "Wed, 24 Jun 2026 21:58:15 +0000"
         },
         {
           "source": "NetPress",
@@ -57,18 +69,6 @@
           "title": "Манасиевски: Филипче соработува со луѓе кои го негираат македонскиот идентитет – за јазикот, идентитетот и историјата не смее да се преговара",
           "link": "https://netpress.com.mk/manasievski-filipche-sorabotuva-so-luge-koi-go-negiraat-makedonskiot-identitet-za-jazikot-identitetot-i-istorijata-ne-smee-da-se-pregovara/",
           "published": "Wed, 24 Jun 2026 20:33:37 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Нафтениот шок само ќе ја „зачеша“ американската економија",
-          "link": "https://netpress.com.mk/nafteniot-shok-samo-ke-ja-zachesha-amerikanskata-ekonomija/",
-          "published": "Wed, 24 Jun 2026 20:14:18 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "„Бунга-бунга“ вилата на Берлускони продадена на катарското кралско семејство",
-          "link": "https://netpress.com.mk/bunga-bunga-vilata-na-berluskoni-prodadena-na-katarskoto-kralsko-semejstvo/",
-          "published": "Wed, 24 Jun 2026 19:47:42 +0000"
         }
       ]
     },
@@ -107,33 +107,33 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Ronaldinho makes surprise return to football at 46",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/6/24/ronaldinho-makes-surprise-return-to-football-at-46?traffic_source=rss",
+          "published": "Wed, 24 Jun 2026 22:15:59 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Bosnia win 3-2, knock out Qatar to keep alive hopes of World Cup round of 32",
+          "link": "https://www.aljazeera.com/sports/2026/6/24/bosnia-win-3-2-knock-out-qatar-to-keep-alive-hopes-of-world-cup-round-of-32?traffic_source=rss",
+          "published": "Wed, 24 Jun 2026 21:47:28 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Qatar’s Madibo banned for 5 games after breaking leg of Canada’s Kone",
+          "link": "https://www.aljazeera.com/sports/2026/6/24/qatars-madibo-banned-for-5-games-after-breaking-leg-of-canadas-kone?traffic_source=rss",
+          "published": "Wed, 24 Jun 2026 21:38:11 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Katz: Israel will not withdraw from Lebanon even if US demands it",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/6/24/aje-onl-nf_israel-will-not-withdraw-from-lebanon-us-demands-240626?traffic_source=rss",
+          "published": "Wed, 24 Jun 2026 21:35:35 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Scotland fans take over Miami ahead of Brazil World Cup clash",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/6/24/scotland-fans-take-over-miami-ahead-of-brazil-world-cup-clash?traffic_source=rss",
           "published": "Wed, 24 Jun 2026 21:30:22 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Mehdi Taremi, assistant coach, held up at airport by US officials, Iran says",
-          "link": "https://www.aljazeera.com/sports/2026/6/24/mehdi-taremi-assistant-coach-held-up-at-airport-by-us-officials-iran-says?traffic_source=rss",
-          "published": "Wed, 24 Jun 2026 21:01:44 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Palestinian activist faints after his release from Israeli prison",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/6/24/palestinian-activist-faints-after-his-release-from-israeli-prison?traffic_source=rss",
-          "published": "Wed, 24 Jun 2026 20:57:55 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Family sues Tesla for wrongful death in Autopilot crash in Texas, US",
-          "link": "https://www.aljazeera.com/economy/2026/6/24/family-sues-tesla-for-wrongful-death-in-autopilot-crash-in-texas-us?traffic_source=rss",
-          "published": "Wed, 24 Jun 2026 20:44:37 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Zimbabwe’s Senate approves amendment extending presidential term",
-          "link": "https://www.aljazeera.com/news/2026/6/24/zimbabwes-senate-approves-amendment-extending-presidential-term?traffic_source=rss",
-          "published": "Wed, 24 Jun 2026 20:43:33 +0000"
         }
       ]
     }
