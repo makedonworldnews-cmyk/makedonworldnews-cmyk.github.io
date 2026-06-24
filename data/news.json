@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-24T20:02:48Z",
+  "updatedAt": "2026-06-24T21:42:13Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Лина Ѓорческа: Утре ќе играм како да сум во Скопје, а не на Вимблдон",
+          "link": "https://makfax.com.mk/sport/lina-gorcheska-utre-ke-igram-kako-da-sum-vo-skopje-a-ne-na-vimbldon/",
+          "published": "Wed, 24 Jun 2026 20:13:29 +0000"
         },
         {
           "source": "Makfax",
@@ -35,40 +41,34 @@
           "published": "Wed, 24 Jun 2026 19:00:29 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Италијанскиот министер за одбрана: Руте ја замајува светската јавност со тоа што кажува лаги за „Епски бес“",
-          "link": "https://makfax.com.mk/svet/italijanskiot-minister-za-odbrana-rute-ja-zamajuva-svetskata-javnost-so-toa-shto-kazhuva-lagi-za-%e2%80%9eepski-bes%e2%80%9c/",
-          "published": "Wed, 24 Jun 2026 18:38:25 +0000"
+          "source": "NetPress",
+          "title": "Мисајловски: Ќе помагаме на Украина колку што можеме, но приоритет е македонската Армија",
+          "link": "https://netpress.com.mk/misajlovski-ke-pomagame-na-ukraina-kolku-shto-mozheme-no-prioritet-e-makedonskata-armija/",
+          "published": "Wed, 24 Jun 2026 21:06:09 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Челниците на петте водечки европски земји ветуваат единство пред самитот на НАТО по неодамнешните тензии",
+          "link": "https://netpress.com.mk/chelniczite-na-pette-vodechki-evropski-zemji-vetuvaat-edinstvo-pred-samitot-na-nato-po-neodamneshnite-tenzii/",
+          "published": "Wed, 24 Jun 2026 20:54:04 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Манасиевски: Филипче соработува со луѓе кои го негираат македонскиот идентитет – за јазикот, идентитетот и историјата не смее да се преговара",
+          "link": "https://netpress.com.mk/manasievski-filipche-sorabotuva-so-luge-koi-go-negiraat-makedonskiot-identitet-za-jazikot-identitetot-i-istorijata-ne-smee-da-se-pregovara/",
+          "published": "Wed, 24 Jun 2026 20:33:37 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Нафтениот шок само ќе ја „зачеша“ американската економија",
+          "link": "https://netpress.com.mk/nafteniot-shok-samo-ke-ja-zachesha-amerikanskata-ekonomija/",
+          "published": "Wed, 24 Jun 2026 20:14:18 +0000"
         },
         {
           "source": "NetPress",
           "title": "„Бунга-бунга“ вилата на Берлускони продадена на катарското кралско семејство",
           "link": "https://netpress.com.mk/bunga-bunga-vilata-na-berluskoni-prodadena-na-katarskoto-kralsko-semejstvo/",
           "published": "Wed, 24 Jun 2026 19:47:42 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Еден пожар активен, еден ставен под контрола и седум изгаснати",
-          "link": "https://netpress.com.mk/eden-pozhar-aktiven-eden-staven-pod-kontrola-i-sedum-izgasnati/",
-          "published": "Wed, 24 Jun 2026 19:23:58 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "САД нема да сторат ништо што би можело да ја загрози безбедноста на Персискиот залив, уверува Рубио",
-          "link": "https://netpress.com.mk/sad-nema-da-storat-nishto-shto-bi-mozhelo-da-ja-zagrozi-bezbednosta-na-persiskiot-zaliv-uveruva-rubio/",
-          "published": "Wed, 24 Jun 2026 19:13:43 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Ѓорческа пред пласман на главниот турнир на Вимблдон",
-          "link": "https://netpress.com.mk/gorcheska-pred-plasman-na-glavniot-turnir-na-vimbldon/",
-          "published": "Wed, 24 Jun 2026 18:55:37 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Дваесет милиони барели нафта минале низ Хормуз во последните 24 часа",
-          "link": "https://netpress.com.mk/dvaeset-milioni-bareli-nafta-minale-niz-hormuz-vo-poslednite-24-chasa/",
-          "published": "Wed, 24 Jun 2026 18:38:03 +0000"
         }
       ]
     },
@@ -77,9 +77,9 @@
       "items": [
         {
           "source": "BBC",
-          "title": "Power outages hit France as it records hottest day since measurements began",
+          "title": "France, UK and Spain see record temperatures as heatwave grips western Europe",
           "link": "https://www.bbc.co.uk/news/articles/c78y4102n1zo?at_medium=RSS&at_campaign=rss",
-          "published": "Wed, 24 Jun 2026 17:29:55 GMT"
+          "published": "Wed, 24 Jun 2026 21:39:18 GMT"
         },
         {
           "source": "BBC",
@@ -107,33 +107,33 @@
         },
         {
           "source": "Al Jazeera",
-          "title": "UN nuclear chief says Iran inspections will happen, Tehran says after deal",
-          "link": "https://www.aljazeera.com/news/2026/6/24/un-nuclear-chief-says-iran-inspections-will-happen-tehran-says-after-deal?traffic_source=rss",
-          "published": "Wed, 24 Jun 2026 19:33:17 +0000"
+          "title": "Scotland fans take over Miami ahead of Brazil World Cup clash",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/6/24/scotland-fans-take-over-miami-ahead-of-brazil-world-cup-clash?traffic_source=rss",
+          "published": "Wed, 24 Jun 2026 21:30:22 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Wins by Mamdani-backed candidates deal blow to pro-Israel camp in US",
-          "link": "https://www.aljazeera.com/news/2026/6/24/wins-by-mamdani-backed-candidates-deal-blow-to-pro-israel-camp-in-us?traffic_source=rss",
-          "published": "Wed, 24 Jun 2026 19:33:12 +0000"
+          "title": "Mehdi Taremi, assistant coach, held up at airport by US officials, Iran says",
+          "link": "https://www.aljazeera.com/sports/2026/6/24/mehdi-taremi-assistant-coach-held-up-at-airport-by-us-officials-iran-says?traffic_source=rss",
+          "published": "Wed, 24 Jun 2026 21:01:44 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Why does Israel want to be less dependent on US weapons?",
-          "link": "https://www.aljazeera.com/video/inside-story/2026/6/24/why-does-israel-want-to-be-less-dependent-on-us-weapons?traffic_source=rss",
-          "published": "Wed, 24 Jun 2026 19:27:46 +0000"
+          "title": "Palestinian activist faints after his release from Israeli prison",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/6/24/palestinian-activist-faints-after-his-release-from-israeli-prison?traffic_source=rss",
+          "published": "Wed, 24 Jun 2026 20:57:55 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Dutch PM unveils Moluccan monument marking dark colonial chapter",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/6/24/aje-onl-nf_dutch-pm-unveils-moluccan-monument-after-apology-240626?traffic_source=rss",
-          "published": "Wed, 24 Jun 2026 19:19:12 +0000"
+          "title": "Family sues Tesla for wrongful death in Autopilot crash in Texas, US",
+          "link": "https://www.aljazeera.com/economy/2026/6/24/family-sues-tesla-for-wrongful-death-in-autopilot-crash-in-texas-us?traffic_source=rss",
+          "published": "Wed, 24 Jun 2026 20:44:37 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Our life stops’: West Bank childhood shattered by Israeli military raids",
-          "link": "https://www.aljazeera.com/features/2026/6/24/our-life-stops-west-bank-childhood-shattered-by-israeli-military-raids?traffic_source=rss",
-          "published": "Wed, 24 Jun 2026 18:20:11 +0000"
+          "title": "Zimbabwe’s Senate approves amendment extending presidential term",
+          "link": "https://www.aljazeera.com/news/2026/6/24/zimbabwes-senate-approves-amendment-extending-presidential-term?traffic_source=rss",
+          "published": "Wed, 24 Jun 2026 20:43:33 +0000"
         }
       ]
     }
