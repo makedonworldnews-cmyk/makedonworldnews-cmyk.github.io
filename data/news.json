@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-23T23:19:23Z",
+  "updatedAt": "2026-06-24T00:15:29Z",
   "groups": [
     {
       "region": "Македонија",
@@ -95,15 +95,33 @@
         },
         {
           "source": "BBC",
-          "title": "Germany rail network comes to complete halt nationwide due to IT malfunction",
+          "title": "Germany rail network briefly halted nationwide due to IT malfunction",
           "link": "https://www.bbc.co.uk/news/articles/crm0ek4z7ggo?at_medium=RSS&at_campaign=rss",
-          "published": "Tue, 23 Jun 2026 22:44:57 GMT"
+          "published": "Tue, 23 Jun 2026 23:46:01 GMT"
         },
         {
           "source": "BBC",
           "title": "Dozens of ships head through Strait of Hormuz after US-Iran deal",
           "link": "https://www.bbc.co.uk/news/articles/cx23rnzdgl8o?at_medium=RSS&at_campaign=rss",
           "published": "Tue, 23 Jun 2026 14:55:31 GMT"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "UN begins evacuation of 11,000 sailors stranded in Strait of Hormuz",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/6/23/un-begins-evacuation-of-11000-sailors-stranded-in-strait-of-hormuz?traffic_source=rss",
+          "published": "Tue, 23 Jun 2026 23:49:00 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Ronaldo late to World Cup party but still able to steal the show",
+          "link": "https://www.aljazeera.com/sports/2026/6/23/ronaldo-late-to-world-cup-party-but-still-able-to-steal-the-show?traffic_source=rss",
+          "published": "Tue, 23 Jun 2026 23:46:08 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Protesters sentenced to decades in US prison over alleged antifa ties",
+          "link": "https://www.aljazeera.com/news/2026/6/23/protesters-sentenced-to-decades-in-us-prison-over-alleged-antifa-ties?traffic_source=rss",
+          "published": "Tue, 23 Jun 2026 23:22:37 +0000"
         },
         {
           "source": "Al Jazeera",
@@ -116,24 +134,6 @@
           "title": "Israel’s deliberate targeting of Palestinian children",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/6/23/aje-onl-nf_israels-targeting-of-palestinian-children-230626?traffic_source=rss",
           "published": "Tue, 23 Jun 2026 22:50:00 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "England held by Ghana at World Cup as pair close on last-32 passage",
-          "link": "https://www.aljazeera.com/sports/2026/6/23/england-held-by-ghana-at-world-cup-as-pair-seal-last-32-passage?traffic_source=rss",
-          "published": "Tue, 23 Jun 2026 22:22:57 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Donald Trump to attend World Cup final, present trophy: Infantino",
-          "link": "https://www.aljazeera.com/sports/2026/6/23/donald-trump-to-attend-world-cup-final-present-trophy-infantino?traffic_source=rss",
-          "published": "Tue, 23 Jun 2026 21:44:47 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "UN: Israel committed genocide by targeting Gaza children",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/6/23/un-israel-committed-genocide-by-targeting-gaza-children?traffic_source=rss",
-          "published": "Tue, 23 Jun 2026 21:38:23 +0000"
         }
       ]
     }
