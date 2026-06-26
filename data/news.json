@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-26T20:51:59Z",
+  "updatedAt": "2026-06-26T22:13:41Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Мојзес Рајт ќе добие македонско државјанство",
+          "link": "https://makfax.com.mk/sport/mojzes-rajt-ke-dobie-makedonsko-drzhavjanstvo/",
+          "published": "Fri, 26 Jun 2026 21:44:06 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) Шоу на Дембеле во победата на Франција – Сенегал пукна петарда против Ирак",
+          "link": "https://makfax.com.mk/sport/video-shou-na-dembele-vo-pobedata-na-francija-senegal-pukna-petarda-protiv-irak/",
+          "published": "Fri, 26 Jun 2026 21:32:06 +0000"
         },
         {
           "source": "Makfax",
@@ -29,16 +41,16 @@
           "published": "Fri, 26 Jun 2026 19:06:11 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "(Видео) Александар Усик се откажа од сите шампионски појаси",
-          "link": "https://makfax.com.mk/sport/video-aleksandar-usik-se-otkazha-od-site-shampionski-pojasi/",
-          "published": "Fri, 26 Jun 2026 19:04:00 +0000"
+          "source": "NetPress",
+          "title": "САД извеле удар врз Иран по нападот на товарен брод",
+          "link": "https://netpress.com.mk/sad-izvele-udar-vrz-iran-po-napadot-na-tovaren-brod/",
+          "published": "Fri, 26 Jun 2026 21:43:11 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "(Видео) Жена во Венецуела се породи под урнатините",
-          "link": "https://makfax.com.mk/svet/video-zhena-vo-venecuela-se-porodi-pod-urnatinite/",
-          "published": "Fri, 26 Jun 2026 18:33:17 +0000"
+          "source": "NetPress",
+          "title": "ЕУ „брзо и решително“ ќе реагира ако Трамп воведе 100-отстотни царини",
+          "link": "https://netpress.com.mk/eu-brzo-i-reshitelno-ke-reagira-ako-tramp-vovede-100-otstotni-czarini/",
+          "published": "Fri, 26 Jun 2026 20:52:07 +0000"
         },
         {
           "source": "NetPress",
@@ -57,18 +69,6 @@
           "title": "Градоначалникот по „излетот“ на Али Ахмети: Бутел не е на продажба!",
           "link": "https://netpress.com.mk/gradonachalnikot-po-%e2%80%9eizletot%e2%80%9c-na-ali-ahmeti-butel-ne-e-na-prodazhba/",
           "published": "Fri, 26 Jun 2026 19:30:14 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "ОН: Над 50.000 исчезнати во земјотресите во Венецуела",
-          "link": "https://netpress.com.mk/on-nad-50-000-ischeznati-vo-zemjotresite-vo-veneczuela/",
-          "published": "Fri, 26 Jun 2026 19:09:33 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Во целосен прекин сообраќајот на патот Прилеп–Градско",
-          "link": "https://netpress.com.mk/vo-czelosen-prekin-soobrakajot-na-patot-prilep-gradsko/",
-          "published": "Fri, 26 Jun 2026 19:09:00 +0000"
         }
       ]
     },
@@ -77,21 +77,21 @@
       "items": [
         {
           "source": "BBC",
+          "title": "Venezuela earthquakes kill 920 people as families desperate for news",
+          "link": "https://www.bbc.co.uk/news/articles/c39y79g7gzko?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 26 Jun 2026 21:15:37 GMT"
+        },
+        {
+          "source": "BBC",
           "title": "Mother dies saving daughter in Venezuela earthquakes",
           "link": "https://www.bbc.co.uk/news/articles/c0jydyz8z6jo?at_medium=RSS&at_campaign=rss",
           "published": "Fri, 26 Jun 2026 18:36:32 GMT"
         },
         {
           "source": "BBC",
-          "title": "Trump accuses Iran of ceasefire breach after Strait of Hormuz attack",
-          "link": "https://www.bbc.co.uk/news/articles/ckg54g0ry0vo?at_medium=RSS&at_campaign=rss",
-          "published": "Fri, 26 Jun 2026 18:03:32 GMT"
-        },
-        {
-          "source": "BBC",
-          "title": "DR Congo takes Rwanda to international court over decades of conflict",
-          "link": "https://www.bbc.co.uk/news/articles/c8724zn3491o?at_medium=RSS&at_campaign=rss",
-          "published": "Fri, 26 Jun 2026 17:05:22 GMT"
+          "title": "US conducts strikes on Iran after attack on cargo ship",
+          "link": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 26 Jun 2026 21:30:59 GMT"
         },
         {
           "source": "BBC",
@@ -101,39 +101,39 @@
         },
         {
           "source": "BBC",
-          "title": "Ex-Trump adviser John Bolton pleads guilty to mishandling classified documents",
-          "link": "https://www.bbc.co.uk/news/articles/czxqwg4nrvlo?at_medium=RSS&at_campaign=rss",
-          "published": "Fri, 26 Jun 2026 16:45:21 GMT"
+          "title": "DR Congo takes Rwanda to international court over decades of conflict",
+          "link": "https://www.bbc.co.uk/news/articles/c8724zn3491o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 26 Jun 2026 17:05:22 GMT"
         },
         {
           "source": "Al Jazeera",
-          "title": "After progressive US primary wins, Trump takes aim at ‘godless communists’",
-          "link": "https://www.aljazeera.com/news/2026/6/26/after-progressive-us-primary-wins-trump-takes-aim-at-godless-communists?traffic_source=rss",
-          "published": "Fri, 26 Jun 2026 20:29:50 +0000"
+          "title": "Senegal score 5-0 win over 10-man Iraq, keep World Cup knockout hopes alive",
+          "link": "https://www.aljazeera.com/sports/2026/6/26/senegal-score-5-0-win-over-10-man-iraq-keep-world-cup-knockout-hopes-alive?traffic_source=rss",
+          "published": "Fri, 26 Jun 2026 22:05:09 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Uruguay vs Spain LIVE: World Cup 2026",
-          "link": "https://www.aljazeera.com/sports/liveblog/2026/6/26/uruguay-vs-spain-live-world-cup-2026?traffic_source=rss",
-          "published": "Fri, 26 Jun 2026 20:03:03 +0000"
+          "title": "Dembele scores hat-trick as France beat Norway 4-1 at World Cup 2026",
+          "link": "https://www.aljazeera.com/sports/2026/6/26/dembele-scores-hat-trick-as-france-beat-norway-4-1-at-world-cup-2026?traffic_source=rss",
+          "published": "Fri, 26 Jun 2026 21:25:31 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "US federal judge questions DOJ decision to drop Adani charges",
-          "link": "https://www.aljazeera.com/economy/2026/6/26/us-federal-judge-questions-doj-decision-to-drop-adani-charges?traffic_source=rss",
-          "published": "Fri, 26 Jun 2026 20:02:04 +0000"
+          "title": "Thousands of migrants flee South Africa ahead of anti-immigrant protests",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/6/26/thousands-of-migrants-flee-south-africa-ahead-of-anti-immigrant-protests?traffic_source=rss",
+          "published": "Fri, 26 Jun 2026 21:21:33 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Israeli attack on car in central Gaza kills three Palestinians",
-          "link": "https://www.aljazeera.com/news/2026/6/26/israeli-attack-on-car-in-central-gaza-kills-three-palestinians?traffic_source=rss",
-          "published": "Fri, 26 Jun 2026 19:49:32 +0000"
+          "title": "Burkina Faso cuts diplomatic ties with former colonial ruler France",
+          "link": "https://www.aljazeera.com/news/2026/6/26/burkina-faso-cuts-diplomatic-ties-with-former-colonial-ruler-france?traffic_source=rss",
+          "published": "Fri, 26 Jun 2026 21:10:10 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "How much disaster aid will the US provide to Venezuela?",
-          "link": "https://www.aljazeera.com/video/inside-story/2026/6/26/how-much-disaster-aid-will-the-u-s-provide-to-venezuela?traffic_source=rss",
-          "published": "Fri, 26 Jun 2026 19:41:23 +0000"
+          "title": "US strikes Iran in response to drone strike on commercial ship",
+          "link": "https://www.aljazeera.com/news/2026/6/26/us-strikes-iran-in-response-to-drone-strike-on-commercial-ship?traffic_source=rss",
+          "published": "Fri, 26 Jun 2026 21:08:01 +0000"
         }
       ]
     }
