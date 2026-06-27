@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-27T05:36:24Z",
+  "generated_at": "2026-06-27T06:17:14Z",
   "errors": [
     {
       "source": "МИА",
@@ -9,7 +9,7 @@
     {
       "source": "NetPress",
       "url": "https://netpress.com.mk/feed/",
-      "error": "HTTPSConnectionPool(host='netpress.com.mk', port=443): Max retries exceeded with url: /feed/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='netpress.com.mk', port=443) at 0x7f7af7342410>, 'Connection to netpress.com.mk timed out. (connect timeout=12)'))"
+      "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
     }
   ]
 }
