@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-27T22:32:21Z",
+  "updatedAt": "2026-06-27T23:38:35Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Англија ја победи Панама, Хрватска славеше против Гана",
+          "link": "https://makfax.com.mk/sport/anglija-ja-pobedi-panama-hrvatska-slaveshe-protiv-gana/",
+          "published": "Sat, 27 Jun 2026 23:15:56 +0000"
         },
         {
           "source": "Makfax",
@@ -33,12 +39,6 @@
           "title": "Ибрахимовиќ е лут поради Иран: Поради ова луѓето ја губат довербата во ВАР",
           "link": "https://makfax.com.mk/sport/ibrahimovik-e-lut-poradi-iran-poradi-ova-lugeto-ja-gubat-doverbata-vo-var/",
           "published": "Sat, 27 Jun 2026 22:07:58 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "До 18 часот регистрирани 10 пожари на отворено, два сè уште се активни",
-          "link": "https://makfax.com.mk/makedonija/do-18-chasot-registrirani-10-pozhari-na-otvoreno-dva-se-ushte-se-aktivni/",
-          "published": "Sat, 27 Jun 2026 19:17:24 +0000"
         },
         {
           "source": "NetPress",
@@ -107,7 +107,7 @@
         },
         {
           "source": "Al Jazeera",
-          "title": "US launches second night of strikes against Iran after ship struck by drone",
+          "title": "US launches second night of strikes on Iran after ship hit by drone",
           "link": "https://www.aljazeera.com/news/2026/6/27/us-launches-second-night-of-strikes-against-iran-after-ship-struck-by-drone?traffic_source=rss",
           "published": "Sat, 27 Jun 2026 22:07:03 +0000"
         },
