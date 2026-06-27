@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-27T01:32:24Z",
+  "updatedAt": "2026-06-27T05:36:24Z",
   "groups": [
     {
       "region": "Македонија",
@@ -42,33 +42,9 @@
         },
         {
           "source": "NetPress",
-          "title": "СП 2026: Сенегал ја поправаше гол-разликата против Ирак",
-          "link": "https://netpress.com.mk/sp-2026-senegal-ja-popravashe-gol-razlikata-protiv-irak/",
-          "published": "Fri, 26 Jun 2026 22:55:26 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "СП 2026: Хет-трик на Дембеле за француска победа над норвешките резервисти",
-          "link": "https://netpress.com.mk/sp-2026-het-trik-na-dembele-za-franczuska-pobeda-nad-norveshkite-rezervisti/",
-          "published": "Fri, 26 Jun 2026 22:19:36 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "САД извеле удар врз Иран по нападот на товарен брод",
-          "link": "https://netpress.com.mk/sad-izvele-udar-vrz-iran-po-napadot-na-tovaren-brod/",
-          "published": "Fri, 26 Jun 2026 21:43:11 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "ЕУ „брзо и решително“ ќе реагира ако Трамп воведе 100-отстотни царини",
-          "link": "https://netpress.com.mk/eu-brzo-i-reshitelno-ke-reagira-ako-tramp-vovede-100-otstotni-czarini/",
-          "published": "Fri, 26 Jun 2026 20:52:07 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Израел и Либан потпишаа рамковен договор со посредство на САД",
-          "link": "https://netpress.com.mk/izrael-i-liban-potpishaa-ramkoven-dogovor-so-posredstvo-na-sad/",
-          "published": "Fri, 26 Jun 2026 20:19:33 +0000"
+          "title": "⚠️ Не може да се вчита (извор/timeout)",
+          "link": "https://netpress.com.mk/feed/",
+          "published": ""
         }
       ]
     },
@@ -77,9 +53,15 @@
       "items": [
         {
           "source": "BBC",
-          "title": "Venezuela earthquakes kill 920 people as families desperate for news",
+          "title": "US strikes on Iran after attack on cargo ship",
+          "link": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 27 Jun 2026 02:48:12 GMT"
+        },
+        {
+          "source": "BBC",
+          "title": "Venezuela earthquakes kill 920 people as international rescue teams arrive",
           "link": "https://www.bbc.co.uk/news/articles/c39y79g7gzko?at_medium=RSS&at_campaign=rss",
-          "published": "Fri, 26 Jun 2026 21:15:37 GMT"
+          "published": "Sat, 27 Jun 2026 04:09:24 GMT"
         },
         {
           "source": "BBC",
@@ -89,9 +71,9 @@
         },
         {
           "source": "BBC",
-          "title": "US conducts strikes on Iran after attack on cargo ship",
-          "link": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss",
-          "published": "Sat, 27 Jun 2026 00:34:08 GMT"
+          "title": "Meloni and Trump: A very public fall-out that is proving very hard to fix",
+          "link": "https://www.bbc.co.uk/news/articles/cze962pgk27o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 26 Jun 2026 23:01:50 GMT"
         },
         {
           "source": "BBC",
@@ -100,40 +82,34 @@
           "published": "Fri, 26 Jun 2026 18:14:36 GMT"
         },
         {
-          "source": "BBC",
-          "title": "DR Congo takes Rwanda to international court over decades of conflict",
-          "link": "https://www.bbc.co.uk/news/articles/c8724zn3491o?at_medium=RSS&at_campaign=rss",
-          "published": "Fri, 26 Jun 2026 17:05:22 GMT"
+          "source": "Al Jazeera",
+          "title": "Cape Verde becomes tiniest nation to make World Cup knockouts",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/6/27/cape-verde-becomes-tiniest-nation-to-make-world-cup-knockouts?traffic_source=rss",
+          "published": "Sat, 27 Jun 2026 04:59:41 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Trump justifies strikes on Iran amid ceasefire",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/6/27/trump-justifies-strikes-on-iran-amid-ceasefire?traffic_source=rss",
-          "published": "Sat, 27 Jun 2026 00:16:58 +0000"
+          "title": "US strikes on Iran test fragile ceasefire",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/6/27/us-strikes-on-iran-test-fragile-ceasefire?traffic_source=rss",
+          "published": "Sat, 27 Jun 2026 04:13:53 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Iran war live: US strikes Iran after attack on vessel in Strait of Hormuz",
-          "link": "https://www.aljazeera.com/news/liveblog/2026/6/27/iran-war-live-us-strikes-iran-after-fire-on-vessel-in-strait-of-hormuz?traffic_source=rss",
-          "published": "Sat, 27 Jun 2026 00:00:04 +0000"
+          "title": "Rescue efforts turn to recovery as aftershocks shake Venezuela",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/6/27/rescue-efforts-turn-to-recovery-as-aftershocks-shake-venezuela?traffic_source=rss",
+          "published": "Sat, 27 Jun 2026 03:05:50 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Paris Diamond League to go ahead with safety measures amid heatwave",
-          "link": "https://www.aljazeera.com/sports/2026/6/26/paris-diamond-league-to-go-ahead-with-safety-measures-amid-heatwave?traffic_source=rss",
-          "published": "Fri, 26 Jun 2026 23:49:37 +0000"
+          "title": "Spain beat Uruguay 1-0 to clinch World Cup Group H top spot",
+          "link": "https://www.aljazeera.com/sports/2026/6/27/spain-beat-uruguay-1-0-to-clinch-world-cup-group-h-top-spot?traffic_source=rss",
+          "published": "Sat, 27 Jun 2026 02:56:16 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "US judge holds prosecutor in contempt in Charlie Kirk murder case",
-          "link": "https://www.aljazeera.com/news/2026/6/26/us-judge-holds-prosecutor-in-contempt-in-charlie-kirk-murder-case?traffic_source=rss",
-          "published": "Fri, 26 Jun 2026 23:14:22 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Venezuela shaken by magnitude 4.9 tremor days after major earthquakes",
-          "link": "https://www.aljazeera.com/news/2026/6/26/4-9-earthquake-detected-in-venezuela-just-days-after-major-quakes?traffic_source=rss",
-          "published": "Fri, 26 Jun 2026 23:13:03 +0000"
+          "title": "Cape Verde qualify for World Cup Round of 32, set up date with Argentina",
+          "link": "https://www.aljazeera.com/sports/2026/6/27/cape-verde-qualify-for-world-cup-round-of-32-set-up-date-with-argentina?traffic_source=rss",
+          "published": "Sat, 27 Jun 2026 02:28:37 +0000"
         }
       ]
     }
