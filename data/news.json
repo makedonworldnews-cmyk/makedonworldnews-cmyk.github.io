@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-27T15:05:28Z",
+  "updatedAt": "2026-06-27T16:17:38Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) Бебе спасено од урнатините по земјотресот во Венецуела",
+          "link": "https://makfax.com.mk/svet/video-bebe-spaseno-od-urnatinite-po-zemjotresot-vo-venecuela/",
+          "published": "Sat, 27 Jun 2026 15:10:50 +0000"
         },
         {
           "source": "Makfax",
@@ -35,10 +41,10 @@
           "published": "Sat, 27 Jun 2026 14:28:17 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Ѓоковиќ откри за „Макфакс“ за кого навива на СП, кој ќе биде првак и дали е за Меси или Роналдо",
-          "link": "https://makfax.com.mk/sport/gokovik-otkri-za-makfaks-za-kogo-naviva-na-sp-koj-ke-bide-prvak-i-dali-e-za-mesi-ili-ronaldo/",
-          "published": "Sat, 27 Jun 2026 14:26:33 +0000"
+          "source": "NetPress",
+          "title": "Културно лето во Кисела Вода: Вечерва во Расадник – Лозано, Влатко Миладиновски и Таско!",
+          "link": "https://netpress.com.mk/kulturno-leto-vo-kisela-voda-vecherva-vo-rasadnik-lozano-vlatko-miladinovski-i-tasko/",
+          "published": "Sat, 27 Jun 2026 15:25:24 +0000"
         },
         {
           "source": "NetPress",
@@ -63,12 +69,6 @@
           "title": "Дигиталната трансформација не е апстрактен концепт, туку конкретна промена во секојдневието на граѓаните",
           "link": "https://netpress.com.mk/digitalnata-transformaczija-ne-e-apstrakten-konczept-tuku-konkretna-promena-vo-sekojdnevieto-na-graganite/",
           "published": "Sat, 27 Jun 2026 12:04:04 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Кога треба да се критикуваат бугарските власти, Филипче исчезнува од јавноста",
-          "link": "https://netpress.com.mk/koga-treba-da-se-kritikuvaat-bugarskite-vlasti-filipche-ischeznuva-od-javnosta/",
-          "published": "Sat, 27 Jun 2026 11:49:44 +0000"
         }
       ]
     },
@@ -107,33 +107,33 @@
         },
         {
           "source": "Al Jazeera",
-          "title": "Bodycam shows driver offering armed police a lift mid-chase",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/6/27/bodycam-shows-driver-offering-armed-police-a-lift-mid-chase?traffic_source=rss",
-          "published": "Sat, 27 Jun 2026 14:40:11 +0000"
+          "title": "Israeli drone attack kills young girl in Gaza safe zone",
+          "link": "https://www.aljazeera.com/news/2026/6/27/israeli-drone-attack-kills-young-girl-in-gaza-safe-zone?traffic_source=rss",
+          "published": "Sat, 27 Jun 2026 15:53:41 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Toxic Bielsa leaves ‘nothing good’ behind as Uruguay suffer World Cup shock",
-          "link": "https://www.aljazeera.com/sports/2026/6/27/toxic-bielsa-leaves-nothing-good-behind-in-uruguay-shock-world-cup-exit?traffic_source=rss",
-          "published": "Sat, 27 Jun 2026 14:38:59 +0000"
+          "title": "Bosnia: The lilies and dragons of the World Cup",
+          "link": "https://www.aljazeera.com/opinions/2026/6/27/bosnia-the-lilies-and-dragons-of-the-world?traffic_source=rss",
+          "published": "Sat, 27 Jun 2026 15:49:16 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Cape Verde break record as smallest nation to reach World Cup knockouts",
-          "link": "https://www.aljazeera.com/sports/2026/6/27/cape-verde-break-record-as-smallest-nation-to-reach-world-cup-knockouts?traffic_source=rss",
-          "published": "Sat, 27 Jun 2026 14:07:12 +0000"
+          "title": "Hezbollah rejects Israel-Lebanon agreement as Israeli attacks hit south",
+          "link": "https://www.aljazeera.com/news/2026/6/27/hezbollah-rejects-israel-lebanon-agreement-as-israeli-attacks-hit-south?traffic_source=rss",
+          "published": "Sat, 27 Jun 2026 15:40:47 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Israel-Lebanon deal ties ceasefire to Hezbollah disarmament: Will it work?",
-          "link": "https://www.aljazeera.com/features/2026/6/27/israel-lebanon-deal-ties-ceasefire-to-hezbollah-disarmament-will-it-work?traffic_source=rss",
-          "published": "Sat, 27 Jun 2026 13:54:14 +0000"
+          "title": "With water cuts looming in Arizona in US, locals fight data centres",
+          "link": "https://www.aljazeera.com/economy/2026/6/27/with-water-cuts-looming-in-arizona-in-us-locals-fight-data-centres?traffic_source=rss",
+          "published": "Sat, 27 Jun 2026 15:11:37 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Venezuela leader jeered as rescue efforts hampered",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/6/27/venezuela-leader-jeered-as-rescue-efforts-hampered?traffic_source=rss",
-          "published": "Sat, 27 Jun 2026 13:43:37 +0000"
+          "title": "Sabalenka defends Wimbledon prize protest, says it’s for struggling players",
+          "link": "https://www.aljazeera.com/sports/2026/6/27/sabalenka-defends-wimbledon-protest-says-its-for-struggling-players?traffic_source=rss",
+          "published": "Sat, 27 Jun 2026 15:05:58 +0000"
         }
       ]
     }
