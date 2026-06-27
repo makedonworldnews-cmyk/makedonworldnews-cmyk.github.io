@@ -1,6 +1,27 @@
 {
-  "generated_at": "2026-06-27T22:17:17Z",
+  "generated_at": "2026-06-27T23:29:54Z",
   "items": [
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "Англија ја победи Панама, Хрватска славеше против Гана",
+      "link": "https://makfax.com.mk/sport/anglija-ja-pobedi-panama-hrvatska-slaveshe-protiv-gana/",
+      "published": "Sat, 27 Jun 2026 23:15:56 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "Ужасни вести за Коди Гакпо",
+      "link": "https://makfax.com.mk/sport/uzhasni-vesti-za-kodi-gakpo/",
+      "published": "Sat, 27 Jun 2026 22:24:00 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "Скандал на Мундијалот – Капитенот на Зелено’ртските Острови обвинет за силување",
+      "link": "https://makfax.com.mk/sport/skandal-na-mundijalot-kapitenot-na-zelenortskite-ostrovi-obvinet-za-siluvanje/",
+      "published": "Sat, 27 Jun 2026 22:18:56 +0000"
+    },
     {
       "region": "Македонија",
       "source": "Makfax",
@@ -14,27 +35,6 @@
       "title": "Ибрахимовиќ е лут поради Иран: Поради ова луѓето ја губат довербата во ВАР",
       "link": "https://makfax.com.mk/sport/ibrahimovik-e-lut-poradi-iran-poradi-ova-lugeto-ja-gubat-doverbata-vo-var/",
       "published": "Sat, 27 Jun 2026 22:07:58 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "Makfax",
-      "title": "До 18 часот регистрирани 10 пожари на отворено, два сè уште се активни",
-      "link": "https://makfax.com.mk/makedonija/do-18-chasot-registrirani-10-pozhari-na-otvoreno-dva-se-ushte-se-aktivni/",
-      "published": "Sat, 27 Jun 2026 19:17:24 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "Makfax",
-      "title": "Цела Европа е зафатена од топлотен бран",
-      "link": "https://makfax.com.mk/svet/cela-evropa-e-zafatena-od-toploten-bran/",
-      "published": "Sat, 27 Jun 2026 18:31:07 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "Makfax",
-      "title": "Вучиќ: Ова се моите последни недели како претседател на Србија",
-      "link": "https://makfax.com.mk/svet/vuchik-ova-se-moite-posledni-nedeli-kako-pretsedatel-na-srbija/",
-      "published": "Sat, 27 Jun 2026 18:24:05 +0000"
     },
     {
       "region": "Македонија",
@@ -109,6 +109,13 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "US launches second night of strikes on Iran after ship hit by drone",
+      "link": "https://www.aljazeera.com/news/2026/6/27/us-launches-second-night-of-strikes-against-iran-after-ship-struck-by-drone?traffic_source=rss",
+      "published": "Sat, 27 Jun 2026 22:07:03 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "Videos show Israeli settlers trying to seize house in occupied West Bank",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/6/27/videos-show-israeli-settlers-trying-to-seize-house-in-occupied-west-bank?traffic_source=rss",
       "published": "Sat, 27 Jun 2026 21:13:12 +0000"
@@ -133,13 +140,6 @@
       "title": "Serbia’s President Aleksandar Vucic says will resign within ‘weeks’",
       "link": "https://www.aljazeera.com/news/2026/6/27/serbias-president-aleksandar-vucic-says-will-resign-within-weeks?traffic_source=rss",
       "published": "Sat, 27 Jun 2026 20:23:44 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Another powerful magnitude 4.8 earthquake hits near Venezuela",
-      "link": "https://www.aljazeera.com/news/2026/6/27/another-powerful-4-8-magnitude-earthquake-hits-near-venezuela?traffic_source=rss",
-      "published": "Sat, 27 Jun 2026 19:38:14 +0000"
     }
   ]
 }
