@@ -1,6 +1,20 @@
 {
-  "generated_at": "2026-06-27T21:16:06Z",
+  "generated_at": "2026-06-27T22:17:17Z",
   "items": [
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "Џака пред трансфер во Челзи",
+      "link": "https://makfax.com.mk/sport/dhaka-pred-transfer-vo-chelzi/",
+      "published": "Sat, 27 Jun 2026 22:12:00 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "Ибрахимовиќ е лут поради Иран: Поради ова луѓето ја губат довербата во ВАР",
+      "link": "https://makfax.com.mk/sport/ibrahimovik-e-lut-poradi-iran-poradi-ova-lugeto-ja-gubat-doverbata-vo-var/",
+      "published": "Sat, 27 Jun 2026 22:07:58 +0000"
+    },
     {
       "region": "Македонија",
       "source": "Makfax",
@@ -21,20 +35,6 @@
       "title": "Вучиќ: Ова се моите последни недели како претседател на Србија",
       "link": "https://makfax.com.mk/svet/vuchik-ova-se-moite-posledni-nedeli-kako-pretsedatel-na-srbija/",
       "published": "Sat, 27 Jun 2026 18:24:05 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "Makfax",
-      "title": "Случај на Денга треска е потврден кај 42-годишен маж од Бангладеш кој пристигнал во Македонија",
-      "link": "https://makfax.com.mk/makedonija/sluchaj-na-denga-treska-e-potvrden-kaj-42-godishen-mazh-od-bangladesh-koj-pristignal-vo-makedonija/",
-      "published": "Sat, 27 Jun 2026 18:20:33 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "Makfax",
-      "title": "Луис Суарез: Хари Кејн е најдобрата „деветка“ во светот",
-      "link": "https://makfax.com.mk/sport/luis-suarez-hari-kejn-e-najdobrata-devetka-vo-svetot/",
-      "published": "Sat, 27 Jun 2026 17:22:00 +0000"
     },
     {
       "region": "Македонија",
@@ -88,14 +88,14 @@
     {
       "region": "Свет",
       "source": "BBC",
-      "title": "US strikes Iran after attack on cargo ship",
-      "link": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 27 Jun 2026 10:40:38 GMT"
+      "title": "Israel strikes southern Lebanon as Hezbollah condemns new deal",
+      "link": "https://www.bbc.co.uk/news/articles/cx2kpn0eeweo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 27 Jun 2026 21:35:40 GMT"
     },
     {
       "region": "Свет",
       "source": "BBC",
-      "title": "Heatwave breaks more records in northern and central Europe",
+      "title": "Heatwave breaks records in Germany, Denmark and Czech Republic",
       "link": "https://www.bbc.co.uk/news/articles/cx2vdydz31no?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 27 Jun 2026 20:48:16 GMT"
     },
@@ -109,7 +109,14 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
-      "title": "Donald Trump nominates Lance Schroyer to serve as ICE director",
+      "title": "Videos show Israeli settlers trying to seize house in occupied West Bank",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/27/videos-show-israeli-settlers-trying-to-seize-house-in-occupied-west-bank?traffic_source=rss",
+      "published": "Sat, 27 Jun 2026 21:13:12 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Donald Trump nominates ex-state trooper Lance Schroyer as ICE director",
       "link": "https://www.aljazeera.com/news/2026/6/27/donald-trump-nominates-lance-schroyer-to-serve-as-ice-director?traffic_source=rss",
       "published": "Sat, 27 Jun 2026 20:34:57 +0000"
     },
@@ -130,16 +137,9 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
-      "title": "Another powerful 4.8 magnitude earthquake hits near Venezuela",
+      "title": "Another powerful magnitude 4.8 earthquake hits near Venezuela",
       "link": "https://www.aljazeera.com/news/2026/6/27/another-powerful-4-8-magnitude-earthquake-hits-near-venezuela?traffic_source=rss",
       "published": "Sat, 27 Jun 2026 19:38:14 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "DR Congo superfan denied US visa to support team at World Cup",
-      "link": "https://www.aljazeera.com/sports/2026/6/27/dr-congo-superfan-denied-us-visa-to-support-team-at-world-cup?traffic_source=rss",
-      "published": "Sat, 27 Jun 2026 19:35:22 +0000"
     }
   ]
 }
