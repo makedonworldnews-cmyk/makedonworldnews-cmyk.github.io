@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-27T17:34:08Z",
+  "updatedAt": "2026-06-27T18:48:34Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,24 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Цела Европа е зафатена од топлотен бран",
+          "link": "https://makfax.com.mk/svet/cela-evropa-e-zafatena-od-toploten-bran/",
+          "published": "Sat, 27 Jun 2026 18:31:07 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Вучиќ: Ова се моите последни недели како претседател на Србија",
+          "link": "https://makfax.com.mk/svet/vuchik-ova-se-moite-posledni-nedeli-kako-pretsedatel-na-srbija/",
+          "published": "Sat, 27 Jun 2026 18:24:05 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Случај на Денга треска е потврден кај 42-годишен маж од Бангладеш кој пристигнал во Македонија",
+          "link": "https://makfax.com.mk/makedonija/sluchaj-na-denga-treska-e-potvrden-kaj-42-godishen-mazh-od-bangladesh-koj-pristignal-vo-makedonija/",
+          "published": "Sat, 27 Jun 2026 18:20:33 +0000"
         },
         {
           "source": "Makfax",
@@ -23,22 +41,16 @@
           "published": "Sat, 27 Jun 2026 17:12:58 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "(Видео) Расел ја освои пол позицијата во последниот круг",
-          "link": "https://makfax.com.mk/sport/video-rasel-ja-osvoi-pol-pozicijata-vo-posledniot-krug/",
-          "published": "Sat, 27 Jun 2026 17:05:04 +0000"
+          "source": "NetPress",
+          "title": "Вучиќ најави дека ќе поднесе оставка наредните седмици",
+          "link": "https://netpress.com.mk/vuchik-najavi-deka-ke-podnese-ostavka-narednite-sedmiczi/",
+          "published": "Sat, 27 Jun 2026 18:11:19 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Катастрофа во Венецуела: Речиси 920 загинати, милиони луѓе погодени",
-          "link": "https://makfax.com.mk/svet/katastrofa-vo-venecuela-rechisi-920-zaginati-milioni-luge-pogodeni/",
-          "published": "Sat, 27 Jun 2026 16:47:22 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "(Видео) Бебе спасено од урнатините по земјотресот во Венецуела",
-          "link": "https://makfax.com.mk/svet/video-bebe-spaseno-od-urnatinite-po-zemjotresot-vo-venecuela/",
-          "published": "Sat, 27 Jun 2026 15:10:50 +0000"
+          "source": "NetPress",
+          "title": "Заеднички гранични контроли ќе има и помеѓу Македонија и Албанија",
+          "link": "https://netpress.com.mk/zaednichki-granichni-kontroli-ke-ima-i-pomegu-makedonija-i-albanija/",
+          "published": "Sat, 27 Jun 2026 17:47:05 +0000"
         },
         {
           "source": "NetPress",
@@ -57,18 +69,6 @@
           "title": "Се разгоруваат соништата за обединување на Романија со Молдавија",
           "link": "https://netpress.com.mk/se-razgoruvaat-sonishtata-za-obedinuvane-na-romanija-so-moldavija/",
           "published": "Sat, 27 Jun 2026 14:41:52 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Суспедниран командант на украинска единица поради смртни случаи во камп за обука",
-          "link": "https://netpress.com.mk/suspedniran-komandant-na-ukrainska-edinicza-poradi-smrtni-sluchai-vo-kamp-za-obuka/",
-          "published": "Sat, 27 Jun 2026 14:11:42 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Два активни пожари до 14 часот",
-          "link": "https://netpress.com.mk/dva-aktivni-pozhari-do-14-chasot/",
-          "published": "Sat, 27 Jun 2026 13:52:20 +0000"
         }
       ]
     },
@@ -107,13 +107,25 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Australia to double fines on Big Tech as children bypass social media ban",
+          "link": "https://www.aljazeera.com/news/2026/6/27/australia-to-double-fines-on-big-tech-as-children-bypass-social-media-ban?traffic_source=rss",
+          "published": "Sat, 27 Jun 2026 17:29:34 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "How is framework agreement with Lebanon viewed in Israel?",
+          "link": "https://www.aljazeera.com/news/2026/6/27/how-is-framework-agreement-with-lebanon-viewed-in-israel?traffic_source=rss",
+          "published": "Sat, 27 Jun 2026 17:21:31 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Tropical Storm Mekkhala leaves Taiwan underwater",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/6/27/tropical-storm-mekkhala-leaves-taiwan-underwater?traffic_source=rss",
           "published": "Sat, 27 Jun 2026 17:05:48 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Explosion and gunfire reported in Pakistan’s Karachi",
+          "title": "Three security personnel killed in attack in Pakistan’s Karachi",
           "link": "https://www.aljazeera.com/news/2026/6/27/explosion-and-gunfire-reported-in-pakistans-karachi?traffic_source=rss",
           "published": "Sat, 27 Jun 2026 17:04:34 +0000"
         },
@@ -122,18 +134,6 @@
           "title": "Lebanon divided over framework agreement signed in Washington",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/6/27/lebanon-divided-over-framework-agreement-signed-in-washington?traffic_source=rss",
           "published": "Sat, 27 Jun 2026 16:31:12 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Israeli drone attack kills young girl in Gaza safe zone",
-          "link": "https://www.aljazeera.com/news/2026/6/27/israeli-drone-attack-kills-young-girl-in-gaza-safe-zone?traffic_source=rss",
-          "published": "Sat, 27 Jun 2026 15:53:41 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Bosnia: The lilies and dragons of the World Cup",
-          "link": "https://www.aljazeera.com/opinions/2026/6/27/bosnia-the-lilies-and-dragons-of-the-world?traffic_source=rss",
-          "published": "Sat, 27 Jun 2026 15:49:16 +0000"
         }
       ]
     }
