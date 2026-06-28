@@ -1,10 +1,17 @@
 {
-  "generated_at": "2026-06-28T17:52:57Z",
+  "generated_at": "2026-06-28T19:05:03Z",
   "items": [
     {
       "region": "Македонија",
       "source": "Makfax",
-      "title": "Прв протест против владата на Румен Радев",
+      "title": "Преку езера и океани, конечно дома: Наградата „Мето Јовановски“ за Тони Наумовски",
+      "link": "https://makfax.com.mk/kultura/preku-ezera-i-okeani-konechno-doma-nagradata-meto-jovanovski-za-toni-naumovski/",
+      "published": "Sun, 28 Jun 2026 18:13:36 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "Прв протест против Владата на Румен Радев",
       "link": "https://makfax.com.mk/svet/prv-protest-protiv-vladata-na-rumen-radev/",
       "published": "Sun, 28 Jun 2026 17:48:04 +0000"
     },
@@ -31,10 +38,17 @@
     },
     {
       "region": "Македонија",
-      "source": "Makfax",
-      "title": "Димитриевски: СДСМ е партија во политички стечај, ликвидатор е Венко Филипче",
-      "link": "https://makfax.com.mk/makedonija/dimitrievski-sdsm-e-partija-vo-politichki-stechaj-likvidator-e-venko-filipche/",
-      "published": "Sun, 28 Jun 2026 15:48:18 +0000"
+      "source": "NetPress",
+      "title": "Современиот патриотизам се докажува со инвестиции, реформи и силни институции",
+      "link": "https://netpress.com.mk/sovremeniot-patriotizam-se-dokazhuva-so-investiczii-reformi-i-silni-instituczii/",
+      "published": "Sun, 28 Jun 2026 18:44:21 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "NetPress",
+      "title": "Европа погодена од рекорден топлотен бран, бројот смртни случаи се зголемува",
+      "link": "https://netpress.com.mk/evropa-pogodena-od-rekorden-toploten-bran-brojot-smrtni-sluchai-se-zgolemuva/",
+      "published": "Sun, 28 Jun 2026 18:33:53 +0000"
     },
     {
       "region": "Македонија",
@@ -56,20 +70,6 @@
       "title": "Иран објави дека повторно ја преземал целосната контрола врз Хормуз",
       "link": "https://netpress.com.mk/iran-objavi-deka-povtorno-ja-prezemal-czelosnata-kontrola-vrz-hormuz/",
       "published": "Sun, 28 Jun 2026 14:38:50 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Авионска несреќа во североисточна Франција, 11 загинати",
-      "link": "https://netpress.com.mk/avionska-nesreka-vo-severoistochna-franczija-11-zaginati/",
-      "published": "Sun, 28 Jun 2026 14:05:06 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Доларот зајакна втора седмица по ред, се очекува зголемување на каматните стапки во САД",
-      "link": "https://netpress.com.mk/dolarot-zajakna-vtora-sedmicza-po-red-se-ochekuva-zgolemuvane-na-kamatnite-stapki-vo-sad/",
-      "published": "Sun, 28 Jun 2026 13:46:53 +0000"
     },
     {
       "region": "Свет",
@@ -97,7 +97,7 @@
       "source": "BBC",
       "title": "Eleven killed after plane carrying skydivers crashes in eastern France",
       "link": "https://www.bbc.co.uk/news/articles/c5yz9yj9x74o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 28 Jun 2026 15:51:19 GMT"
+      "published": "Sun, 28 Jun 2026 18:34:07 GMT"
     },
     {
       "region": "Свет",
@@ -109,37 +109,37 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
-      "title": "The match that changed the World Cup forever",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/28/the-match-that-changed-the-world-cup-forever?traffic_source=rss",
-      "published": "Sun, 28 Jun 2026 17:14:07 +0000"
+      "title": "US and Iran trade strikes days after peace agreement",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/28/us-and-iran-trade-strikes-days-after-peace-agreement?traffic_source=rss",
+      "published": "Sun, 28 Jun 2026 18:55:53 +0000"
     },
     {
       "region": "Свет",
       "source": "Al Jazeera",
-      "title": "Drone captures ongoing rescue efforts after Venezuela earthquakes",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/28/drone-captures-ongoing-rescue-efforts-after-venezuela-earthquakes?traffic_source=rss",
-      "published": "Sun, 28 Jun 2026 16:38:04 +0000"
+      "title": "Serbia’s protesters press on even after Vucic promises to step aside",
+      "link": "https://www.aljazeera.com/news/2026/6/28/serbias-protesters-press-on-even-after-vucic-promises-to-step-aside?traffic_source=rss",
+      "published": "Sun, 28 Jun 2026 18:53:49 +0000"
     },
     {
       "region": "Свет",
       "source": "Al Jazeera",
-      "title": "Russell beats Verstappen at Austrian Grand Prix to boost F1 title hopes",
-      "link": "https://www.aljazeera.com/sports/2026/6/28/russell-beats-verstappen-at-austrian-grand-prix-to-boost-f1-title-hopes?traffic_source=rss",
-      "published": "Sun, 28 Jun 2026 16:12:13 +0000"
+      "title": "Why do reports of domestic abuse increase during World Cups?",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/28/why-do-reports-of-domestic-abuse-increase-during-world-cups?traffic_source=rss",
+      "published": "Sun, 28 Jun 2026 18:23:20 +0000"
     },
     {
       "region": "Свет",
       "source": "Al Jazeera",
-      "title": "Israel strikes Lebanon, testing days-old peace deal",
-      "link": "https://www.aljazeera.com/news/2026/6/28/israel-strikes-lebanon-testing-days-old-peace-deal?traffic_source=rss",
-      "published": "Sun, 28 Jun 2026 15:53:07 +0000"
+      "title": "In Lebanon, framework agreement signed with Israel spurs protest, criticism",
+      "link": "https://www.aljazeera.com/features/2026/6/28/in-lebanon-framework-agreement-signed-with-israel-spurs-protest-criticism?traffic_source=rss",
+      "published": "Sun, 28 Jun 2026 18:05:18 +0000"
     },
     {
       "region": "Свет",
       "source": "Al Jazeera",
-      "title": "South Africa vs Canada LIVE: FIFA World Cup 2026",
-      "link": "https://www.aljazeera.com/sports/liveblog/2026/6/28/south-africa-vs-canada-live-fifa-world-cup-2026?traffic_source=rss",
-      "published": "Sun, 28 Jun 2026 15:51:20 +0000"
+      "title": "The aftermath of Venezuela’s deadly earthquake",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/28/the-aftermath-of-venezuelas-deadly-earthquake?traffic_source=rss",
+      "published": "Sun, 28 Jun 2026 17:50:38 +0000"
     }
   ]
 }
