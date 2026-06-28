@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-28T01:51:12Z",
+  "updatedAt": "2026-06-28T06:18:34Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,24 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Нова ескалација на Блискиот Исток: САД повторно го нападнаа Иран, Техеран возврати со ракети и дронови",
+          "link": "https://makfax.com.mk/svet/nova-eskalacija-na-bliskiot-istok-sad-povtorno-go-napadnaa-iran-teheran-vozvrati-so-raketi-i-dronovi/",
+          "published": "Sun, 28 Jun 2026 05:24:20 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Родителите на загинатите во „Пулс“ со порака: Ќе се бориме до последен момент за вистината",
+          "link": "https://makfax.com.mk/makedonija/roditelite-na-zaginatite-vo-puls-so-poraka-ke-se-borime-do-posleden-moment-za-vistinata/",
+          "published": "Sun, 28 Jun 2026 05:16:19 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Топло време со температури до 38 степени",
+          "link": "https://makfax.com.mk/makedonija/toplo-vreme-so-temperaturi-do-38-stepeni/",
+          "published": "Sun, 28 Jun 2026 05:06:04 +0000"
         },
         {
           "source": "Makfax",
@@ -23,52 +41,34 @@
           "published": "Sat, 27 Jun 2026 22:24:00 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Скандал на Мундијалот – Капитенот на Зелено’ртските Острови обвинет за силување",
-          "link": "https://makfax.com.mk/sport/skandal-na-mundijalot-kapitenot-na-zelenortskite-ostrovi-obvinet-za-siluvanje/",
-          "published": "Sat, 27 Jun 2026 22:18:56 +0000"
+          "source": "NetPress",
+          "title": "СП 2026: ДР Конго со пресврт го победи Узбекистан со 3:1 и оди во нокаут фазата",
+          "link": "https://netpress.com.mk/sp-2026-dr-kongo-so-presvrt-go-pobedi-uzbekistan-so-31-i-odi-vo-nokaut-fazata/",
+          "published": "Sun, 28 Jun 2026 06:07:28 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Џака пред трансфер во Челзи",
-          "link": "https://makfax.com.mk/sport/dhaka-pred-transfer-vo-chelzi/",
-          "published": "Sat, 27 Jun 2026 22:12:00 +0000"
+          "source": "NetPress",
+          "title": "СП 2026: Португалија ремизираше со Колумбија и во 16-финалето оди на Хрватска",
+          "link": "https://netpress.com.mk/sp-2026-portugalija-remizirashe-so-kolumbija-i-vo-16-finaleto-odi-na-hrvatska/",
+          "published": "Sun, 28 Jun 2026 05:47:48 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Ибрахимовиќ е лут поради Иран: Поради ова луѓето ја губат довербата во ВАР",
-          "link": "https://makfax.com.mk/sport/ibrahimovik-e-lut-poradi-iran-poradi-ova-lugeto-ja-gubat-doverbata-vo-var/",
-          "published": "Sat, 27 Jun 2026 22:07:58 +0000"
+          "source": "NetPress",
+          "title": "Дневен хороскоп за недела, 28-ми јуни 2026-та",
+          "link": "https://netpress.com.mk/dneven-horoskop-za-nedela-28-mi-juni-2026-ta/",
+          "published": "Sun, 28 Jun 2026 05:27:09 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "И денеска многу топло со тропски температури, така ќе остане до среда",
+          "link": "https://netpress.com.mk/i-deneska-mnogu-toplo-so-tropski-temperaturi-taka-ke-ostane-do-sreda/",
+          "published": "Sun, 28 Jun 2026 05:07:24 +0000"
         },
         {
           "source": "NetPress",
           "title": "СП 2026: Белингам и Кејн за англиска победа над Панама",
           "link": "https://netpress.com.mk/sp-2026-belingam-i-kejn-za-angliska-pobeda-nad-panama/",
           "published": "Sun, 28 Jun 2026 00:03:29 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "СП 2026: Хрватска со победата над Гана заврши втора во групата",
-          "link": "https://netpress.com.mk/sp-2026-hrvatska-so-pobedata-nad-gana-zavrshi-vtora-vo-grupata/",
-          "published": "Sat, 27 Jun 2026 23:39:06 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Бројот на жртвите во земјотресот во Венецуела се искачи над 1.400",
-          "link": "https://netpress.com.mk/brojot-na-zhrtvite-vo-zemjotresot-vo-veneczuela-se-iskachi-nad-1-400/",
-          "published": "Sat, 27 Jun 2026 21:14:47 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Уругвајската федерација им се налути на фудбалерите, им го откажа чартер летот за дома",
-          "link": "https://netpress.com.mk/urugvajskata-federaczija-im-se-naluti-na-fudbalerite-im-go-otkazha-charter-letot-za-doma/",
-          "published": "Sat, 27 Jun 2026 20:20:36 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Германија повторно го собори температурниот рекорд, поради оштетувања на коловозите затворени автопати",
-          "link": "https://netpress.com.mk/germanija-povtorno-go-sobori-temperaturniot-rekord-poradi-oshtetuvane-na-kolovozite-zatvoreni-avtopati/",
-          "published": "Sat, 27 Jun 2026 20:15:48 +0000"
         }
       ]
     },
@@ -77,15 +77,21 @@
       "items": [
         {
           "source": "BBC",
-          "title": "Venezuela earthquakes kill 920 people as international rescue teams arrive",
-          "link": "https://www.bbc.co.uk/news/articles/c39y79g7gzko?at_medium=RSS&at_campaign=rss",
-          "published": "Sat, 27 Jun 2026 08:56:30 GMT"
-        },
-        {
-          "source": "BBC",
           "title": "'Every person saved is a miracle': Families call to trapped loved ones in region devastated by Venezuela quakes",
           "link": "https://www.bbc.co.uk/news/articles/cp8l451420zo?at_medium=RSS&at_campaign=rss",
           "published": "Sat, 27 Jun 2026 21:12:51 GMT"
+        },
+        {
+          "source": "BBC",
+          "title": "In Caracas, this feels like the hardest moment in Venezuela's modern history",
+          "link": "https://www.bbc.co.uk/news/articles/cdjk8zwe7z3o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 27 Jun 2026 14:22:37 GMT"
+        },
+        {
+          "source": "BBC",
+          "title": "US and Iran exchange strikes and accuse each other of violating ceasefire",
+          "link": "https://www.bbc.co.uk/news/articles/cdxdwkgqgq0o?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 28 Jun 2026 04:54:50 GMT"
         },
         {
           "source": "BBC",
@@ -95,45 +101,39 @@
         },
         {
           "source": "BBC",
-          "title": "Heatwave breaks records in Germany, Denmark and Czech Republic",
-          "link": "https://www.bbc.co.uk/news/articles/cx2vdydz31no?at_medium=RSS&at_campaign=rss",
-          "published": "Sat, 27 Jun 2026 20:48:16 GMT"
-        },
-        {
-          "source": "BBC",
-          "title": "Trump's face is added to select US passports for America's 250th birthday",
-          "link": "https://www.bbc.co.uk/news/articles/ce3ewkdgw9ro?at_medium=RSS&at_campaign=rss",
-          "published": "Sat, 27 Jun 2026 20:03:26 GMT"
+          "title": "Why Kim Jong Un never talks about his mother - or her controversial bloodline",
+          "link": "https://www.bbc.co.uk/news/articles/cpvp3xn489no?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 27 Jun 2026 23:10:39 GMT"
         },
         {
           "source": "Al Jazeera",
-          "title": "Anger grows in Venezuela as citizens blocked from aiding earthquake rescue",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/6/28/anger-grows-in-venezuela-as-citizens-blocked-from-aiding-earthquake-rescue?traffic_source=rss",
-          "published": "Sun, 28 Jun 2026 00:09:46 +0000"
+          "title": "Venezuelan earthquake death toll rises amid increasingly dire search",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/6/28/venezuelan-earthquake-death-toll-rises-amid-increasingly-dire-search?traffic_source=rss",
+          "published": "Sun, 28 Jun 2026 05:51:38 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Iran war live: Air raid sirens in Bahrain, Kuwait as US bombs Sirik, Qeshm",
-          "link": "https://www.aljazeera.com/news/liveblog/2026/6/28/iran-war-live-trump-threatens-tehran-as-us-bombs-sirik-qeshm-for-2nd-day?traffic_source=rss",
-          "published": "Sun, 28 Jun 2026 00:00:00 +0000"
+          "title": "Between English and mother tongue: Kenya’s education language dilemma",
+          "link": "https://www.aljazeera.com/news/2026/6/28/between-english-and-mother-tongue-kenyas-education-language-dilemma?traffic_source=rss",
+          "published": "Sun, 28 Jun 2026 05:24:21 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "US launches second night of strikes on Iran after ship hit by drone",
-          "link": "https://www.aljazeera.com/news/2026/6/27/us-launches-second-night-of-strikes-against-iran-after-ship-struck-by-drone?traffic_source=rss",
-          "published": "Sat, 27 Jun 2026 22:07:03 +0000"
+          "title": "World Cup: Messi sends Argentina to top, England to face DR Congo, Iran out",
+          "link": "https://www.aljazeera.com/sports/2026/6/28/messi-argentina-fifa-world-cup-2026-england-dr-congo-portugal-iran?traffic_source=rss",
+          "published": "Sun, 28 Jun 2026 05:09:04 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Videos show Israeli settlers trying to seize house in occupied West Bank",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/6/27/videos-show-israeli-settlers-trying-to-seize-house-in-occupied-west-bank?traffic_source=rss",
-          "published": "Sat, 27 Jun 2026 21:13:12 +0000"
+          "title": "Gulf countries attacked after US launches second round of strikes on Iran",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/6/28/gulf-countries-attacked-after-us-launches-second-round-of-strikes-on-iran?traffic_source=rss",
+          "published": "Sun, 28 Jun 2026 03:40:58 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Donald Trump nominates ex-state trooper Lance Schroyer as ICE director",
-          "link": "https://www.aljazeera.com/news/2026/6/27/donald-trump-nominates-lance-schroyer-to-serve-as-ice-director?traffic_source=rss",
-          "published": "Sat, 27 Jun 2026 20:34:57 +0000"
+          "title": "Colombia top World Cup 2026 group after breathless 0-0 draw with Portugal",
+          "link": "https://www.aljazeera.com/sports/2026/6/28/colombia-wins-world-cup-2026-group-after-breathless-0-0-draw-with-portugal?traffic_source=rss",
+          "published": "Sun, 28 Jun 2026 01:52:39 +0000"
         }
       ]
     }
