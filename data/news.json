@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-29T20:24:18Z",
+  "updatedAt": "2026-06-29T21:51:36Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Мемфис го испрати во Портланд Џа Морент",
+          "link": "https://makfax.com.mk/sport/memfis-go-isprati-vo-portland-dha-morent/",
+          "published": "Mon, 29 Jun 2026 21:16:57 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) Мартинели во 95-та минута им ги скрши срцата на Јапонците",
+          "link": "https://makfax.com.mk/sport/video-martineli-vo-95-ta-minuta-im-gi-skrshi-srcata-na-japoncite/",
+          "published": "Mon, 29 Jun 2026 21:05:58 +0000"
         },
         {
           "source": "Makfax",
@@ -29,22 +41,34 @@
           "published": "Mon, 29 Jun 2026 19:47:30 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Превозниците ја предупредуваат ЕУ: Возачите на камиони не се туристи, тие бараат промена на правилата",
-          "link": "https://makfax.com.mk/svet/region/prevoznicite-ja-predupreduvaat-eu-vozachite-na-kamioni-ne-se-turisti-tie-baraat-promena-na-pravilata/",
-          "published": "Mon, 29 Jun 2026 18:56:35 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "(Видео) Крмов: Коалицијата повторно проработи, ДУИ и ДПМНЕ го прошверцуваа Изборниот законик во собраниска процедура",
-          "link": "https://makfax.com.mk/makedonija/video-krmov-koalicijata-povtorno-proraboti-dui-i-dpmne-go-proshvercuvaa-izborniot-zakonik-vo-sobraniska-procedura/",
-          "published": "Mon, 29 Jun 2026 18:35:42 +0000"
+          "source": "NetPress",
+          "title": "Левандовски во Чикаго Фајер",
+          "link": "https://netpress.com.mk/levandovski-vo-chikago-fajer/",
+          "published": "Mon, 29 Jun 2026 21:42:55 +0000"
         },
         {
           "source": "NetPress",
-          "title": "⚠️ Не може да се вчита (извор/timeout)",
-          "link": "https://netpress.com.mk/feed/",
-          "published": ""
+          "title": "Tројца Палестинци, меѓу кои и едно дете, убиени во израелски напад во Газа",
+          "link": "https://netpress.com.mk/trojcza-palestinczi-megu-koi-i-edno-dete-ubieni-vo-izraelski-napad-vo-gaza/",
+          "published": "Mon, 29 Jun 2026 21:13:30 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Бројот жртви во земјотресите во Венецуела се искачи на 1.700",
+          "link": "https://netpress.com.mk/brojot-zhrtvi-vo-zemjotresite-vo-veneczuela-se-iskachi-na-1-700/",
+          "published": "Mon, 29 Jun 2026 20:46:35 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Го блокираат Изборниот законик кој со месеци го договараа и за кој им прифативме сѐ што предложија",
+          "link": "https://netpress.com.mk/go-blokiraat-izborniot-zakonik-koj-so-meseczi-go-dogovaraa-i-za-koj-im-prifativme-s%d1%90-shto-predlozhija/",
+          "published": "Mon, 29 Jun 2026 20:29:09 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "СП 2026: Бразил ја победи Јапонија со гол во 95. минута и се пласираше во осминафиналето",
+          "link": "https://netpress.com.mk/sp-2026-brazil-ja-pobedi-japonija-so-gol-vo-95-minuta-i-se-plasirashe-vo-osminafinaleto/",
+          "published": "Mon, 29 Jun 2026 20:28:13 +0000"
         }
       ]
     },
@@ -59,9 +83,9 @@
         },
         {
           "source": "BBC",
-          "title": "Mum rescued from Venezuela rubble with newborn baby tells BBC how he helped her survive",
-          "link": "https://www.bbc.co.uk/news/articles/clyw3rkj2p7o?at_medium=RSS&at_campaign=rss",
-          "published": "Mon, 29 Jun 2026 07:51:05 GMT"
+          "title": "'No one move!': The agonising silence as Venezuela rescuers listen for survivors",
+          "link": "https://www.bbc.co.uk/news/articles/c78yvq72dg7o?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 29 Jun 2026 21:19:28 GMT"
         },
         {
           "source": "BBC",
@@ -83,6 +107,18 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Israel’s Smotrich calls for settlements, ‘conquest’ of Gaza Strip",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/6/29/israels-smotrich-calls-for-settlements-conquest-of-gaza-strip?traffic_source=rss",
+          "published": "Mon, 29 Jun 2026 21:01:38 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "What’s behind the anti-corruption crackdown in Iraq?",
+          "link": "https://www.aljazeera.com/video/inside-story/2026/6/29/whats-behind-the-anti-corruption-crackdown-in-iraq?traffic_source=rss",
+          "published": "Mon, 29 Jun 2026 20:24:15 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Martinelli scores late as Brazil beat Japan 2-1, into World Cup last 16",
           "link": "https://www.aljazeera.com/sports/2026/6/29/martinelli-scores-late-as-brazil-beat-japan-2-1-enter-world-cup-last-16?traffic_source=rss",
           "published": "Mon, 29 Jun 2026 19:33:59 +0000"
@@ -95,21 +131,9 @@
         },
         {
           "source": "Al Jazeera",
-          "title": "Israeli attacks kill four men and a boy in Gaza and a teenager in West Bank",
+          "title": "Israeli attacks kill eight people in Gaza and a teenager in the West Bank",
           "link": "https://www.aljazeera.com/news/2026/6/29/israeli-attacks-kill-four-men-and-a-boy-in-gaza-and-a-teenager-in-west-bank?traffic_source=rss",
           "published": "Mon, 29 Jun 2026 19:08:43 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Pakistani strikes kill dozens of Afghan villagers",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/6/29/pakistani-strikes-kill-dozens-of-afghan-villagers?traffic_source=rss",
-          "published": "Mon, 29 Jun 2026 18:44:34 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Israel launches attacks and incursions inside southern Syria",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/6/29/israel-launches-attacks-and-incursions-inside-southern-syria?traffic_source=rss",
-          "published": "Mon, 29 Jun 2026 18:43:15 +0000"
         }
       ]
     }
