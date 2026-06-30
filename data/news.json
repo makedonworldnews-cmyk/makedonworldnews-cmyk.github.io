@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-30T00:13:16Z",
+  "updatedAt": "2026-06-30T04:37:03Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,24 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) Зеленски: Ја враќаме војната во Русија",
+          "link": "https://makfax.com.mk/svet/evropa/video-zelenski-ja-vrakame-vojnata-vo-rusija/",
+          "published": "Tue, 30 Jun 2026 04:31:07 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Сончево и топло со мала до умерена облачност: попладне услови за појава на краткотрајно невреме со пороен дожд",
+          "link": "https://makfax.com.mk/makedonija/sonchevo-i-toplo-so-mala-do-umerena-oblachnost-popladne-uslovi-za-pojava-na-kratkotrajno-nevreme-so-poroen-dozhd/",
+          "published": "Tue, 30 Jun 2026 04:19:35 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Делови од Скопје денеска без вода",
+          "link": "https://makfax.com.mk/makedonija/delovi-od-skopje-deneska-bez-voda/",
+          "published": "Tue, 30 Jun 2026 04:14:28 +0000"
         },
         {
           "source": "Makfax",
@@ -23,22 +41,10 @@
           "published": "Mon, 29 Jun 2026 21:16:57 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "(Видео) Мартинели во 95-та минута им ги скрши срцата на Јапонците",
-          "link": "https://makfax.com.mk/sport/video-martineli-vo-95-ta-minuta-im-gi-skrshi-srcata-na-japoncite/",
-          "published": "Mon, 29 Jun 2026 21:05:58 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "(Видео) Хаос во Лајпциг: трамваите запреа по топење на асфалтот",
-          "link": "https://makfax.com.mk/svet/haos-vo-lajpcig-tramvaite-zaprea-po-topenje-na-asfaltot/",
-          "published": "Mon, 29 Jun 2026 20:03:57 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Мицкоски: Нашата дијаспора има право да учествува по електронски пат на следните претседателски избори,  СДСМ имаат шанса и суштински да бидат за европска иднина на Македонија",
-          "link": "https://makfax.com.mk/makedonija/mickoski-nashata-dijaspora-ima-pravo-da-uchestvuva-po-elektronski-pat-na-slednite-pretsedatelski-izbori-sdsm-imaat-shansa-i-sushtinski-da-bidat-za-evropska-idnina-na-makedonija/",
-          "published": "Mon, 29 Jun 2026 19:53:11 +0000"
+          "source": "NetPress",
+          "title": "И денеска жешко, од приквечер почнува период со повремени летни невремиња",
+          "link": "https://netpress.com.mk/i-deneska-zheshko-od-prikvecher-pochnuva-period-so-povremeni-letni-nevremina/",
+          "published": "Tue, 30 Jun 2026 04:24:43 +0000"
         },
         {
           "source": "NetPress",
@@ -63,12 +69,6 @@
           "title": "Го блокираат Изборниот законик кој со месеци го договараа и за кој им прифативме сѐ што предложија",
           "link": "https://netpress.com.mk/go-blokiraat-izborniot-zakonik-koj-so-meseczi-go-dogovaraa-i-za-koj-im-prifativme-s%d1%90-shto-predlozhija/",
           "published": "Mon, 29 Jun 2026 20:29:09 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "СП 2026: Бразил ја победи Јапонија со гол во 95. минута и се пласираше во осминафиналето",
-          "link": "https://netpress.com.mk/sp-2026-brazil-ja-pobedi-japonija-so-gol-vo-95-minuta-i-se-plasirashe-vo-osminafinaleto/",
-          "published": "Mon, 29 Jun 2026 20:28:13 +0000"
         }
       ]
     },
@@ -79,7 +79,7 @@
           "source": "BBC",
           "title": "Aftershock frays nerves as many Venezuelans left to fend for themselves",
           "link": "https://www.bbc.co.uk/news/articles/cqj1210rj0yo?at_medium=RSS&at_campaign=rss",
-          "published": "Mon, 29 Jun 2026 20:00:44 GMT"
+          "published": "Tue, 30 Jun 2026 04:21:58 GMT"
         },
         {
           "source": "BBC",
@@ -95,9 +95,9 @@
         },
         {
           "source": "BBC",
-          "title": "Trump's final appeal of E Jean Carroll sex abuse case rejected",
-          "link": "https://www.bbc.co.uk/news/articles/cn8q2z5wpn2o?at_medium=RSS&at_campaign=rss",
-          "published": "Mon, 29 Jun 2026 15:30:35 GMT"
+          "title": "One big win and three defeats for Trump in dramatic day at Supreme Court",
+          "link": "https://www.bbc.co.uk/news/articles/ceqdzd7zx24o?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 29 Jun 2026 20:34:52 GMT"
         },
         {
           "source": "BBC",
@@ -107,33 +107,33 @@
         },
         {
           "source": "Al Jazeera",
-          "title": "Migrants in South Africa fear violence ahead of June 30 deadline",
-          "link": "https://www.aljazeera.com/news/2026/6/30/migrants-in-south-africa-fear-violence-ahead-of-june-30-deadline?traffic_source=rss",
-          "published": "Tue, 30 Jun 2026 00:02:08 +0000"
+          "title": "Nerves and tears as Germany exits World Cup on penalties",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/6/30/nerves-and-tears-as-germany-exits-world-cup-on-penalties?traffic_source=rss",
+          "published": "Tue, 30 Jun 2026 04:16:48 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Iran war live: Tehran denies Trump’s claims of meeting in Doha",
-          "link": "https://www.aljazeera.com/news/liveblog/2026/6/30/iran-war-live-tehran-denies-trumps-claims-of-meeting-in-doha?traffic_source=rss",
-          "published": "Tue, 30 Jun 2026 00:00:00 +0000"
+          "title": "Trump tells US petrol retailers to reduce prices ‘immediately’",
+          "link": "https://www.aljazeera.com/economy/2026/6/30/trump-tells-us-petrol-retailers-to-reduce-prices-immediately?traffic_source=rss",
+          "published": "Tue, 30 Jun 2026 04:11:09 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Sixty-six years on: The promise of DRC independence remains unfulfilled",
-          "link": "https://www.aljazeera.com/news/2026/6/29/sixty-six-years-on-the-promise-of-drc-independence-remains-unfulfilled?traffic_source=rss",
-          "published": "Mon, 29 Jun 2026 23:57:22 +0000"
+          "title": "Morocco through to World Cup round of 16 with shootout win over Netherlands",
+          "link": "https://www.aljazeera.com/sports/2026/6/30/morocco-netherlands-world-cup-knockout-penalty-shootout-saibari-diop-gakpo?traffic_source=rss",
+          "published": "Tue, 30 Jun 2026 03:57:58 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Anxiety turns to joy as Brazil qualifies for the Final 16",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/6/29/anxiety-turns-to-joy-as-brazil-qualifies-for-the-final-16?traffic_source=rss",
-          "published": "Mon, 29 Jun 2026 23:56:18 +0000"
+          "title": "How Germany were handed a World Cup humbling and what it means to Paraguay",
+          "link": "https://www.aljazeera.com/sports/2026/6/30/how-germany-were-handed-a-world-cup-humbling-and-what-it-means-to-paraguay?traffic_source=rss",
+          "published": "Tue, 30 Jun 2026 03:51:58 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Israeli strike kills two, setting tents ablaze in Gaza humanitarian zone",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/6/29/israeli-strike-kills-two-setting-tents-ablaze-in-gaza-humanitarian-zone?traffic_source=rss",
-          "published": "Mon, 29 Jun 2026 23:29:41 +0000"
+          "title": "US education faces ‘a crisis for low-wealth students’",
+          "link": "https://www.aljazeera.com/video/quotable/2026/6/30/us-education-faces-a-crisis-for-low-wealth?traffic_source=rss",
+          "published": "Tue, 30 Jun 2026 03:51:12 +0000"
         }
       ]
     }
