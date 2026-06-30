@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-30T21:49:50Z",
+  "updatedAt": "2026-06-30T22:59:45Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) Франција ја прегази Шведска",
+          "link": "https://makfax.com.mk/sport/video-francija-ja-pregazi-shvedska/",
+          "published": "Tue, 30 Jun 2026 22:57:56 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Куман поднесе оставка по елиминацијата од Мароко",
+          "link": "https://makfax.com.mk/sport/kuman-podnese-ostavka-po-eliminacijata-od-maroko/",
+          "published": "Tue, 30 Jun 2026 22:40:00 +0000"
         },
         {
           "source": "Makfax",
@@ -29,16 +41,10 @@
           "published": "Tue, 30 Jun 2026 19:51:14 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Три општински комитети, Унијата на млади сили и Унијата на жени на ВМРО-ДПМНЕ добија нови претседатели",
-          "link": "https://makfax.com.mk/makedonija/tri-opshtinski-komiteti-unijata-na-mladi-sili-i-unijata-na-zheni-na-vmro-dpmne-dobija-novi-pretsedateli/",
-          "published": "Tue, 30 Jun 2026 19:35:17 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Леброн ги напушти Лејкерси",
-          "link": "https://makfax.com.mk/sport/lebron-gi-napushti-lejkersi/",
-          "published": "Tue, 30 Jun 2026 19:33:00 +0000"
+          "source": "NetPress",
+          "title": "ВИДЕО| Спасувачите во Венецуела извлекоа живо дете од под урнатините шест дена по земјотресот",
+          "link": "https://netpress.com.mk/video-spasuvachite-vo-veneczuela-izvlekoa-zhivo-dete-od-pod-urnatinite-shest-dena-po-zemjotresot/",
+          "published": "Tue, 30 Jun 2026 21:56:23 +0000"
         },
         {
           "source": "NetPress",
@@ -63,12 +69,6 @@
           "title": "Стотици илјади Либанци се враќаат дома по затишјето во конфликтот",
           "link": "https://netpress.com.mk/stoticzi-iljadi-libanczi-se-vrakaat-doma-po-zatishjeto-vo-konfliktot/",
           "published": "Tue, 30 Jun 2026 20:36:05 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "СП 2026: Норвешка стана првата европска селекција што се пласираше во осминафиналето",
-          "link": "https://netpress.com.mk/sp-2026-norveshka-stana-prvata-evropska-selekczija-shto-se-plasirashe-vo-osminafinaleto/",
-          "published": "Tue, 30 Jun 2026 20:09:52 +0000"
         }
       ]
     },
@@ -77,9 +77,15 @@
       "items": [
         {
           "source": "BBC",
-          "title": "Americans react to Supreme Court upholding birthright citizenship",
-          "link": "https://www.bbc.co.uk/news/videos/c621d53wqw0o?at_medium=RSS&at_campaign=rss",
-          "published": "Tue, 30 Jun 2026 19:36:51 GMT"
+          "title": "US Supreme Court upholds birthright citizenship in blow to Trump",
+          "link": "https://www.bbc.co.uk/news/articles/cgmepnx1wzzo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 30 Jun 2026 18:28:41 GMT"
+        },
+        {
+          "source": "BBC",
+          "title": "US Supreme Court has dealt heavy defeats to Trump, while expanding his power",
+          "link": "https://www.bbc.co.uk/news/articles/c4gyqeqe8xyo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 30 Jun 2026 22:29:47 GMT"
         },
         {
           "source": "BBC",
@@ -100,40 +106,34 @@
           "published": "Tue, 30 Jun 2026 18:37:59 GMT"
         },
         {
-          "source": "BBC",
-          "title": "'Absolute madness': Row over plan to demolish Nazi bunker under Berlin",
-          "link": "https://www.bbc.co.uk/news/articles/cwy09753nq3o?at_medium=RSS&at_campaign=rss",
-          "published": "Tue, 30 Jun 2026 19:19:42 GMT"
+          "source": "Al Jazeera",
+          "title": "“WhatsApp Privacy Changes”",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/6/30/whatsapp-privacy?traffic_source=rss",
+          "published": "Tue, 30 Jun 2026 22:33:26 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Emergency crews search rubble after Athens building collapse",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/6/30/emergency-crews-search-rubble-after-athens-building-collapse?traffic_source=rss",
-          "published": "Tue, 30 Jun 2026 21:07:43 +0000"
+          "title": "Mexico fans blast horns outside Ecuador hotel the night before World Cup clash",
+          "link": "https://www.aljazeera.com/sports/2026/6/30/mexico-fans-blast-horns-outside-ecuador-hotel-the-night-before-world-cup-clash?traffic_source=rss",
+          "published": "Tue, 30 Jun 2026 22:15:31 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "More than 30 students remain missing after Nigeria school attack",
-          "link": "https://www.aljazeera.com/news/2026/6/30/more-than-30-students-remain-missing-after-nigeria-school-attack?traffic_source=rss",
-          "published": "Tue, 30 Jun 2026 20:55:38 +0000"
+          "title": "Why India’s viral youth party is still protesting",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/6/30/why-indias-viral-youth-party-is-still-protesting?traffic_source=rss",
+          "published": "Tue, 30 Jun 2026 22:14:33 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Rescuers find more bodies under rubble as Venezuela death toll rises",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/6/30/rescuers-find-more-bodies-under-rubble-as-venezuela-death-toll-rises?traffic_source=rss",
-          "published": "Tue, 30 Jun 2026 20:50:00 +0000"
+          "title": "Valiant Serena beaten on Wimbledon return, Swiatek survives scare",
+          "link": "https://www.aljazeera.com/sports/2026/6/30/valiant-serena-beaten-on-wimbledon-return-swiatek-survives-scare?traffic_source=rss",
+          "published": "Tue, 30 Jun 2026 22:12:07 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Five humanitarian workers killed in convoy ambush in South Sudan",
-          "link": "https://www.aljazeera.com/news/2026/6/30/five-humanitarian-workers-killed-in-convoy-ambush-in-south-sudan?traffic_source=rss",
-          "published": "Tue, 30 Jun 2026 20:03:13 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Norway edge Ivory Coast 2–1 to enter World Cup Round of 16",
-          "link": "https://www.aljazeera.com/sports/2026/6/30/norway-edge-ivory-coast-2-1-to-enter-world-cup-round-of?traffic_source=rss",
-          "published": "Tue, 30 Jun 2026 20:03:10 +0000"
+          "title": "What is birthright citizenship, and what does the Supreme Court ruling say?",
+          "link": "https://www.aljazeera.com/news/2026/6/30/what-is-birthright-citizenship-and-what-does-the-supreme-court-ruling-say?traffic_source=rss",
+          "published": "Tue, 30 Jun 2026 21:30:43 +0000"
         }
       ]
     }
