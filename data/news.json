@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-01T22:23:22Z",
+  "updatedAt": "2026-07-01T23:51:04Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) Сенегал се самоуништи во Сиетл – Тилеманс ја однесе Белгија во осминафиналето",
+          "link": "https://makfax.com.mk/sport/video-senegal-se-samounishti-vo-sietl-tilemans-ja-odnese-belgija-vo-osminafinaleto/",
+          "published": "Wed, 01 Jul 2026 22:57:00 +0000"
         },
         {
           "source": "Makfax",
@@ -33,12 +39,6 @@
           "title": "(Видео) Кејн од срам ја спаси Англија – „Гордиот Албион“ по пресврт го победи Конго",
           "link": "https://makfax.com.mk/sport/video-kejn-od-sram-ja-spasi-anglija-gordiot-albion-po-presvrt-go-pobedi-kongo/",
           "published": "Wed, 01 Jul 2026 18:11:57 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "(Видео) Посебно признание за младата пијанистка Ана Кузманоска: Нејзината изведба стана дел од музичката архива на професорот Димитрије Бужаровски",
-          "link": "https://makfax.com.mk/kultura/video-posebno-priznanie-za-mladata-pijanistka-ana-kuzmanoska-nejzinata-izvedba-stana-del-od-muzichkata-arhiva-na-profesorot-dimitrije-buzharovski/",
-          "published": "Wed, 01 Jul 2026 17:48:37 +0000"
         },
         {
           "source": "NetPress",
@@ -83,9 +83,21 @@
         },
         {
           "source": "BBC",
+          "title": "From Truman's pension to Trump's billions - a White House windfall unmatched by any president",
+          "link": "https://www.bbc.co.uk/news/articles/c70yk07vq0po?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 01 Jul 2026 22:36:43 GMT"
+        },
+        {
+          "source": "BBC",
           "title": "Ukrainian charged in Germany over Nord Stream blasts",
           "link": "https://www.bbc.co.uk/news/articles/c33yjk0ldkdo?at_medium=RSS&at_campaign=rss",
           "published": "Wed, 01 Jul 2026 18:19:32 GMT"
+        },
+        {
+          "source": "BBC",
+          "title": "Turkish police beat us with iron rods before we lost limbs to frostbite, Afghans say",
+          "link": "https://www.bbc.co.uk/news/articles/ce8k4pz91n5o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 01 Jul 2026 22:13:03 GMT"
         },
         {
           "source": "BBC",
@@ -94,16 +106,22 @@
           "published": "Wed, 01 Jul 2026 18:56:36 GMT"
         },
         {
-          "source": "BBC",
-          "title": "Nigeria to seek compensation for property abandoned by citizens fleeing South Africa",
-          "link": "https://www.bbc.co.uk/news/articles/c9d2n8elwdlo?at_medium=RSS&at_campaign=rss",
-          "published": "Wed, 01 Jul 2026 17:40:29 GMT"
+          "source": "Al Jazeera",
+          "title": "Couple arrested after daring Empire State marriage proposal stunt",
+          "link": "https://www.aljazeera.com/news/2026/7/1/couple-arrested-after-daring-empire-state-marriage-proposal-stunt?traffic_source=rss",
+          "published": "Wed, 01 Jul 2026 23:03:58 +0000"
         },
         {
-          "source": "BBC",
-          "title": "Watch: Two people climb to highest point of Empire State Building",
-          "link": "https://www.bbc.co.uk/news/videos/cz75gz79pl2o?at_medium=RSS&at_campaign=rss",
-          "published": "Wed, 01 Jul 2026 17:08:56 GMT"
+          "source": "Al Jazeera",
+          "title": "US judge sides with NAACP over proposed mail-in ballot restrictions",
+          "link": "https://www.aljazeera.com/news/2026/7/1/us-judge-sides-with-naacp-over-proposed-mail-in-ballot-restrictions?traffic_source=rss",
+          "published": "Wed, 01 Jul 2026 22:53:50 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Iran football team welcomed home after World Cup exit",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/1/iran-football-team-welcomed-home-after-world-cup-exit?traffic_source=rss",
+          "published": "Wed, 01 Jul 2026 22:41:59 +0000"
         },
         {
           "source": "Al Jazeera",
@@ -116,24 +134,6 @@
           "title": "US signs $1 lease with Israel to build permanent embassy in West Jerusalem",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/7/1/us-signs-1-lease-with-israel-to-build-permanent-embassy-in-west-jerusalem?traffic_source=rss",
           "published": "Wed, 01 Jul 2026 21:09:15 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "US Supreme Court hands wealthy donors more sway with latest decision",
-          "link": "https://www.aljazeera.com/news/2026/7/1/us-supreme-court-hands-wealthy-donors-more-sway-with-latest-decision?traffic_source=rss",
-          "published": "Wed, 01 Jul 2026 21:04:19 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "LIVE: USA vs Bosnia and Herzegovina – FIFA World Cup 2026",
-          "link": "https://www.aljazeera.com/sports/liveblog/2026/7/1/live-usa-vs-bosnia-and-herzegovina-fifa-world-cup-2026?traffic_source=rss",
-          "published": "Wed, 01 Jul 2026 21:03:01 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Iran to open ‘communication channel’ on MoU with US after talks in Qatar",
-          "link": "https://www.aljazeera.com/news/2026/7/1/iran-to-open-communication-channel-on-mou-with-us-after-talks-in-qatar?traffic_source=rss",
-          "published": "Wed, 01 Jul 2026 20:55:04 +0000"
         }
       ]
     }
