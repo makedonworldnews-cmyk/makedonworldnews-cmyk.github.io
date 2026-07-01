@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-01T19:17:23Z",
+  "updatedAt": "2026-07-01T20:59:04Z",
   "groups": [
     {
       "region": "Македонија",
@@ -42,6 +42,18 @@
         },
         {
           "source": "NetPress",
+          "title": "САД одбија да го продолжат трговскиот договор со Канада и Мексико",
+          "link": "https://netpress.com.mk/sad-odbija-da-go-prodolzhat-trgovskiot-dogovor-so-kanada-i-meksiko/",
+          "published": "Wed, 01 Jul 2026 19:59:34 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Трамп по состаноците во Доха: САД и Иран се сложуваат многу добро",
+          "link": "https://netpress.com.mk/tramp-po-sostanoczite-vo-doha-sad-i-iran-se-slozhuvaat-mnogu-dobro/",
+          "published": "Wed, 01 Jul 2026 19:19:47 +0000"
+        },
+        {
+          "source": "NetPress",
           "title": "Германските обвинители обвинија Украинец за саботажа на гасоводот Северен тек",
           "link": "https://netpress.com.mk/germanskite-obviniteli-obvinija-ukrainecz-za-sabotazha-na-gasovodot-severen-tek/",
           "published": "Wed, 01 Jul 2026 19:02:38 +0000"
@@ -57,18 +69,6 @@
           "title": "СП 2026: Кејн во завршницата ја спаси Англија",
           "link": "https://netpress.com.mk/sp-2026-kejn-vo-zavrshniczata-ja-spasi-anglija/",
           "published": "Wed, 01 Jul 2026 18:44:16 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Цените на нафтата под 72 долари, инвеститорите очекуваат нормализација во Хормуз",
-          "link": "https://netpress.com.mk/czenite-na-naftata-pod-72-dolari-investitorite-ochekuvaat-normalizaczija-vo-hormuz/",
-          "published": "Wed, 01 Jul 2026 17:59:35 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Нема веќе бесплатен градски превоз во Куманово, билетите чинат од 30 до 120 денари",
-          "link": "https://netpress.com.mk/nema-veke-besplaten-gradski-prevoz-vo-kumanovo-biletite-chinat-od-30-do-120-denari/",
-          "published": "Wed, 01 Jul 2026 17:33:04 +0000"
         }
       ]
     },
@@ -77,15 +77,21 @@
       "items": [
         {
           "source": "BBC",
-          "title": "'Time for him to pay' - Carroll calls on Trump to pay $5m after president's appeal fails",
-          "link": "https://www.bbc.co.uk/news/articles/cn4r8n3ek80o?at_medium=RSS&at_campaign=rss",
-          "published": "Wed, 01 Jul 2026 15:48:02 GMT"
-        },
-        {
-          "source": "BBC",
           "title": "Ukrainian charged in Germany over Nord Stream blasts",
           "link": "https://www.bbc.co.uk/news/articles/c33yjk0ldkdo?at_medium=RSS&at_campaign=rss",
           "published": "Wed, 01 Jul 2026 18:19:32 GMT"
+        },
+        {
+          "source": "BBC",
+          "title": "US blocks long-term renewal of North American trade deal",
+          "link": "https://www.bbc.co.uk/news/articles/ce8j2lmrvrdo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 01 Jul 2026 18:56:36 GMT"
+        },
+        {
+          "source": "BBC",
+          "title": "Nigeria to seek compensation for property abandoned by citizens fleeing South Africa",
+          "link": "https://www.bbc.co.uk/news/articles/c9d2n8elwdlo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 01 Jul 2026 17:40:29 GMT"
         },
         {
           "source": "BBC",
@@ -95,45 +101,39 @@
         },
         {
           "source": "BBC",
-          "title": "Three die in Mexico City World Cup celebrations",
+          "title": "Four die in Mexico City World Cup celebrations",
           "link": "https://www.bbc.co.uk/news/articles/cx2xjwj8p39o?at_medium=RSS&at_campaign=rss",
-          "published": "Wed, 01 Jul 2026 11:01:12 GMT"
+          "published": "Wed, 01 Jul 2026 20:15:59 GMT"
         },
         {
-          "source": "BBC",
-          "title": "Businessman goes on trial over murder of Maltese journalist",
-          "link": "https://www.bbc.co.uk/news/articles/c1ey95gl5j5o?at_medium=RSS&at_campaign=rss",
-          "published": "Wed, 01 Jul 2026 17:15:47 GMT"
+          "source": "Al Jazeera",
+          "title": "Despite marquee losses, Supreme Court term grows Trump’s presidential power",
+          "link": "https://www.aljazeera.com/news/2026/7/1/despite-marquee-losses-supreme-court-term-grows-trumps-presidential-power?traffic_source=rss",
+          "published": "Wed, 01 Jul 2026 20:26:33 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Israeli opposition signal foreign policy change in style, but not substance",
+          "link": "https://www.aljazeera.com/news/2026/7/1/israeli-opposition-signal-foreign-policy-change-in-style-but-not-substance?traffic_source=rss",
+          "published": "Wed, 01 Jul 2026 20:14:30 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Seven more sentenced over Texas ICE detention centre shooting",
+          "link": "https://www.aljazeera.com/news/2026/7/1/seven-more-sentenced-over-texas-ice-detention-centre-shooting?traffic_source=rss",
+          "published": "Wed, 01 Jul 2026 19:41:18 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Israel kills three Palestinians in Gaza despite ‘ceasefire’",
+          "link": "https://www.aljazeera.com/news/2026/7/1/israel-kills-three-palestinians-in-gaza-despite-ceasefire?traffic_source=rss",
+          "published": "Wed, 01 Jul 2026 19:29:52 +0000"
         },
         {
           "source": "Al Jazeera",
           "title": "As Venezuela responds to earthquake devastation, volunteers take charge",
           "link": "https://www.aljazeera.com/features/longform/2026/7/1/as-venezuela-responds-to-earthquake-devastation-volunteers-take-charge?traffic_source=rss",
           "published": "Wed, 01 Jul 2026 18:42:31 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "One week on from Venezuela’s deadly earthquakes",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/1/one-week-on-from-venezuelas-deadly-earthquakes?traffic_source=rss",
-          "published": "Wed, 01 Jul 2026 18:35:39 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Kane double fires England to comeback win over DR Congo at World Cup 2026",
-          "link": "https://www.aljazeera.com/sports/2026/7/1/kane-double-fires-england-to-comeback-win-over-dr-congo-at-world-cup-2026?traffic_source=rss",
-          "published": "Wed, 01 Jul 2026 18:23:52 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "How AI is being weaponised against India’s Muslim women",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/1/how-ai-is-being-weaponised-against-indias-muslim-women?traffic_source=rss",
-          "published": "Wed, 01 Jul 2026 18:06:32 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "US says it won’t agree to renew USMCA",
-          "link": "https://www.aljazeera.com/economy/2026/7/1/us-says-it-wont-agree-to-renew-usmca?traffic_source=rss",
-          "published": "Wed, 01 Jul 2026 17:59:05 +0000"
         }
       ]
     }
