@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-01T20:59:04Z",
+  "updatedAt": "2026-07-01T22:23:22Z",
   "groups": [
     {
       "region": "Македонија",
@@ -42,6 +42,18 @@
         },
         {
           "source": "NetPress",
+          "title": "Вимблдон: Ѓоковиќ во лесни три сета го победи Циципас",
+          "link": "https://netpress.com.mk/vimbldon-gokovik-vo-lesni-tri-seta-go-pobedi-cziczipas/",
+          "published": "Wed, 01 Jul 2026 22:07:45 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Бројот на жртвите од земјотресот во Венецуела се движи кон три илјади",
+          "link": "https://netpress.com.mk/brojot-na-zhrtvite-od-zemjotresot-vo-veneczuela-se-dvizhi-kon-tri-iljadi/",
+          "published": "Wed, 01 Jul 2026 21:58:58 +0000"
+        },
+        {
+          "source": "NetPress",
           "title": "САД одбија да го продолжат трговскиот договор со Канада и Мексико",
           "link": "https://netpress.com.mk/sad-odbija-da-go-prodolzhat-trgovskiot-dogovor-so-kanada-i-meksiko/",
           "published": "Wed, 01 Jul 2026 19:59:34 +0000"
@@ -57,24 +69,18 @@
           "title": "Германските обвинители обвинија Украинец за саботажа на гасоводот Северен тек",
           "link": "https://netpress.com.mk/germanskite-obviniteli-obvinija-ukrainecz-za-sabotazha-na-gasovodot-severen-tek/",
           "published": "Wed, 01 Jul 2026 19:02:38 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Неизвесен Самитот на НАТО во Албанија",
-          "link": "https://netpress.com.mk/neizvesen-samitot-na-nato-vo-albanija/",
-          "published": "Wed, 01 Jul 2026 18:53:03 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "СП 2026: Кејн во завршницата ја спаси Англија",
-          "link": "https://netpress.com.mk/sp-2026-kejn-vo-zavrshniczata-ja-spasi-anglija/",
-          "published": "Wed, 01 Jul 2026 18:44:16 +0000"
         }
       ]
     },
     {
       "region": "Свет",
       "items": [
+        {
+          "source": "BBC",
+          "title": "Aunt of Venezuelan boy pulled from rubble tells BBC she will give him 'mother's warmth'",
+          "link": "https://www.bbc.co.uk/news/articles/c05yv34qlnlo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 01 Jul 2026 21:27:04 GMT"
+        },
         {
           "source": "BBC",
           "title": "Ukrainian charged in Germany over Nord Stream blasts",
@@ -95,45 +101,39 @@
         },
         {
           "source": "BBC",
-          "title": "Controversial bishops ordained as Pope warns of 'schism' in Catholic Church",
-          "link": "https://www.bbc.co.uk/news/articles/c74y7k8wyz8o?at_medium=RSS&at_campaign=rss",
-          "published": "Wed, 01 Jul 2026 16:10:38 GMT"
-        },
-        {
-          "source": "BBC",
-          "title": "Four die in Mexico City World Cup celebrations",
-          "link": "https://www.bbc.co.uk/news/articles/cx2xjwj8p39o?at_medium=RSS&at_campaign=rss",
-          "published": "Wed, 01 Jul 2026 20:15:59 GMT"
+          "title": "Watch: Two people climb to highest point of Empire State Building",
+          "link": "https://www.bbc.co.uk/news/videos/cz75gz79pl2o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 01 Jul 2026 17:08:56 GMT"
         },
         {
           "source": "Al Jazeera",
-          "title": "Despite marquee losses, Supreme Court term grows Trump’s presidential power",
-          "link": "https://www.aljazeera.com/news/2026/7/1/despite-marquee-losses-supreme-court-term-grows-trumps-presidential-power?traffic_source=rss",
-          "published": "Wed, 01 Jul 2026 20:26:33 +0000"
+          "title": "E Jean Carroll demands Donald Trump pay $5.8m in damages from 2019 case",
+          "link": "https://www.aljazeera.com/news/2026/7/1/e-jean-carroll-demands-donald-trump-pay-5-8m-in-damages-from-2019-case?traffic_source=rss",
+          "published": "Wed, 01 Jul 2026 21:45:58 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Israeli opposition signal foreign policy change in style, but not substance",
-          "link": "https://www.aljazeera.com/news/2026/7/1/israeli-opposition-signal-foreign-policy-change-in-style-but-not-substance?traffic_source=rss",
-          "published": "Wed, 01 Jul 2026 20:14:30 +0000"
+          "title": "US signs $1 lease with Israel to build permanent embassy in West Jerusalem",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/1/us-signs-1-lease-with-israel-to-build-permanent-embassy-in-west-jerusalem?traffic_source=rss",
+          "published": "Wed, 01 Jul 2026 21:09:15 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Seven more sentenced over Texas ICE detention centre shooting",
-          "link": "https://www.aljazeera.com/news/2026/7/1/seven-more-sentenced-over-texas-ice-detention-centre-shooting?traffic_source=rss",
-          "published": "Wed, 01 Jul 2026 19:41:18 +0000"
+          "title": "US Supreme Court hands wealthy donors more sway with latest decision",
+          "link": "https://www.aljazeera.com/news/2026/7/1/us-supreme-court-hands-wealthy-donors-more-sway-with-latest-decision?traffic_source=rss",
+          "published": "Wed, 01 Jul 2026 21:04:19 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Israel kills three Palestinians in Gaza despite ‘ceasefire’",
-          "link": "https://www.aljazeera.com/news/2026/7/1/israel-kills-three-palestinians-in-gaza-despite-ceasefire?traffic_source=rss",
-          "published": "Wed, 01 Jul 2026 19:29:52 +0000"
+          "title": "LIVE: USA vs Bosnia and Herzegovina – FIFA World Cup 2026",
+          "link": "https://www.aljazeera.com/sports/liveblog/2026/7/1/live-usa-vs-bosnia-and-herzegovina-fifa-world-cup-2026?traffic_source=rss",
+          "published": "Wed, 01 Jul 2026 21:03:01 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "As Venezuela responds to earthquake devastation, volunteers take charge",
-          "link": "https://www.aljazeera.com/features/longform/2026/7/1/as-venezuela-responds-to-earthquake-devastation-volunteers-take-charge?traffic_source=rss",
-          "published": "Wed, 01 Jul 2026 18:42:31 +0000"
+          "title": "Iran to open ‘communication channel’ on MoU with US after talks in Qatar",
+          "link": "https://www.aljazeera.com/news/2026/7/1/iran-to-open-communication-channel-on-mou-with-us-after-talks-in-qatar?traffic_source=rss",
+          "published": "Wed, 01 Jul 2026 20:55:04 +0000"
         }
       ]
     }
