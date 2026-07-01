@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-01T00:16:39Z",
+  "updatedAt": "2026-07-01T04:56:50Z",
   "groups": [
     {
       "region": "Македонија",
@@ -12,33 +12,39 @@
         },
         {
           "source": "Makfax",
+          "title": "(Видео) Чудо во Венецуела: Момче пронајдено живо по шест дена под урнатините",
+          "link": "https://makfax.com.mk/svet/video-chudo-vo-venecuela-momche-pronajdeno-zhivo-po-shest-dena-pod-urnatinite/",
+          "published": "Wed, 01 Jul 2026 04:43:24 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Делови од Центар, Карпош, Ѓорче Петров и Петровец денеска без струја",
+          "link": "https://makfax.com.mk/makedonija/delovi-od-centar-karposh-gorche-petrov-i-petrovec-deneska-bez-struja/",
+          "published": "Wed, 01 Jul 2026 04:33:25 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Сончево и топло со мала до умерена облачност: попладне пороен дожд, грмежи и засилен ветер",
+          "link": "https://makfax.com.mk/makedonija/sonchevo-i-toplo-so-mala-do-umerena-oblachnost-popladne-poroen-dozhd-grmezhi-i-zasilen-veter/",
+          "published": "Wed, 01 Jul 2026 04:31:20 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Без вода дел од Карпош",
+          "link": "https://makfax.com.mk/makedonija/bez-voda-del-od-karposh/",
+          "published": "Wed, 01 Jul 2026 04:25:09 +0000"
+        },
+        {
+          "source": "Makfax",
           "title": "(Видео) Франција ја прегази Шведска",
           "link": "https://makfax.com.mk/sport/video-francija-ja-pregazi-shvedska/",
           "published": "Tue, 30 Jun 2026 22:57:56 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Куман поднесе оставка по елиминацијата од Мароко",
-          "link": "https://makfax.com.mk/sport/kuman-podnese-ostavka-po-eliminacijata-od-maroko/",
-          "published": "Tue, 30 Jun 2026 22:40:00 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Марија Митева нова претседателка на Унијата на жени на ВМРО-ДПМНЕ",
-          "link": "https://makfax.com.mk/makedonija/marija-miteva-nova-pretsedatelka-na-unijata-na-zheni-na-vmro-dpmne/",
-          "published": "Tue, 30 Jun 2026 20:16:04 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "(Фото) „Легендите не заминуваат“: Фанови од сите генерации му оддадоа почит на Владо Јаневски",
-          "link": "https://makfax.com.mk/kultura/foto-legendite-ne-zaminuvaat-fanovi-od-site-generacii-mu-oddadoa-pochit-na-vlado-janevski/",
-          "published": "Tue, 30 Jun 2026 20:05:50 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "(Видео) Кинез возел џет-ски под популарна карпа на Малта, се урнала врз него и загинал",
-          "link": "https://makfax.com.mk/svet/kinez-vozel-dhet-ski-pod-popularna-na-malta-karpa-se-urnala-vrz-nego-i-zaginal/",
-          "published": "Tue, 30 Jun 2026 19:51:14 +0000"
+          "source": "NetPress",
+          "title": "Сончево и топло, попладне нестабилност со поројни врнежи и грмежи",
+          "link": "https://netpress.com.mk/sonchevo-i-toplo-popladne-nestabilnost-so-porojni-vrnezhi-grme/",
+          "published": "Wed, 01 Jul 2026 04:37:37 +0000"
         },
         {
           "source": "NetPress",
@@ -63,18 +69,24 @@
           "title": "Леброн Џејмс ги напушта Лејкерси",
           "link": "https://netpress.com.mk/lebron-dhejms-gi-napushta-lejkersi/",
           "published": "Tue, 30 Jun 2026 20:54:54 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Индија се соочува со историска суша",
-          "link": "https://netpress.com.mk/indija-se-soochuva-so-istoriska-susha/",
-          "published": "Tue, 30 Jun 2026 20:49:39 +0000"
         }
       ]
     },
     {
       "region": "Свет",
       "items": [
+        {
+          "source": "BBC",
+          "title": "Trump made more than $1bn from crypto in first year back in office",
+          "link": "https://www.bbc.co.uk/news/articles/cvgmv98ez3zo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 01 Jul 2026 03:31:08 GMT"
+        },
+        {
+          "source": "BBC",
+          "title": "Three-year-old rescued and taken to hospital six days after Venezuela quake",
+          "link": "https://www.bbc.co.uk/news/articles/c1jykwk8n18o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 30 Jun 2026 21:30:52 GMT"
+        },
         {
           "source": "BBC",
           "title": "US Supreme Court upholds birthright citizenship in blow to Trump",
@@ -89,51 +101,39 @@
         },
         {
           "source": "BBC",
-          "title": "Three-year-old rescued and taken to hospital six days after Venezuela quake",
-          "link": "https://www.bbc.co.uk/news/articles/c1jykwk8n18o?at_medium=RSS&at_campaign=rss",
-          "published": "Tue, 30 Jun 2026 21:30:52 GMT"
-        },
-        {
-          "source": "BBC",
-          "title": "Roof collapse kills 14 children at Pakistan tuition centre",
-          "link": "https://www.bbc.co.uk/news/articles/cr7x38lle1jo?at_medium=RSS&at_campaign=rss",
-          "published": "Tue, 30 Jun 2026 19:36:48 GMT"
-        },
-        {
-          "source": "BBC",
-          "title": "What are US and Japanese soldiers doing in the middle of the Australian bush?",
-          "link": "https://www.bbc.co.uk/news/videos/cyv09p2vy87o?at_medium=RSS&at_campaign=rss",
-          "published": "Tue, 30 Jun 2026 18:37:59 GMT"
+          "title": "A plane crashed into a tower in Beijing but China is not saying what happened",
+          "link": "https://www.bbc.co.uk/news/articles/crlwe28dz44o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 30 Jun 2026 23:24:05 GMT"
         },
         {
           "source": "Al Jazeera",
-          "title": "Iran war live: Qatar’s PM meets US envoys, Tehran holds firm on conditions",
-          "link": "https://www.aljazeera.com/news/liveblog/2026/7/1/iran-war-live-qatars-pm-meets-us-envoys-tehran-holds-firm-on-conditions?traffic_source=rss",
-          "published": "Wed, 01 Jul 2026 00:00:09 +0000"
+          "title": "World Cup cohosts Mexico beat Ecuador 2-0 to reach round of 16",
+          "link": "https://www.aljazeera.com/news/2026/7/1/mexico-ecuador-fifa-world-cup-2026-score-jimenez-quinones-hincapie?traffic_source=rss",
+          "published": "Wed, 01 Jul 2026 04:02:34 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "‘A rally like none other’: Trump unveils 2026 Republican midterm convention",
-          "link": "https://www.aljazeera.com/news/2026/6/30/a-rally-like-no-other-trump-announces-2026-midterm-convention?traffic_source=rss",
-          "published": "Tue, 30 Jun 2026 23:20:38 +0000"
+          "title": "NASA astronauts spacewalk to fix robotic arm",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/1/nasa-astronauts-spacewalk-to-fix-robotic-arm-2?traffic_source=rss",
+          "published": "Wed, 01 Jul 2026 03:43:50 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Donald Trump reports $1.4bn in cryptocurrency income in government filing",
-          "link": "https://www.aljazeera.com/news/2026/6/30/donald-trump-reports-1-4bn-in-cryptocurrency-income-in-government-filing?traffic_source=rss",
-          "published": "Tue, 30 Jun 2026 23:14:58 +0000"
+          "title": "USA face Bosnia in World Cup knockouts, with pride, credentials on the line",
+          "link": "https://www.aljazeera.com/sports/2026/7/1/usa-face-bosnia-in-world-cup-knockouts-with-pride-credentials-on-the-line?traffic_source=rss",
+          "published": "Wed, 01 Jul 2026 03:17:40 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Venezuelans the US deported hours before earthquakes still missing",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/6/30/venezuelans-the-us-deported-hours-before-earthquakes-still-missing?traffic_source=rss",
-          "published": "Tue, 30 Jun 2026 23:06:51 +0000"
+          "title": "Mercury’s Thomas says received online abuse following WNBA suspension",
+          "link": "https://www.aljazeera.com/sports/2026/7/1/mercurys-thomas-says-received-online-abuse-following-wnba-suspension?traffic_source=rss",
+          "published": "Wed, 01 Jul 2026 03:09:23 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "France beat Sweden as Mbappe draws level with Messi in World Cup goal chart",
-          "link": "https://www.aljazeera.com/sports/2026/6/30/mbappe-and-barcola-score-as-france-shine-in-2-0-world-cup-defeat-of-sweden?traffic_source=rss",
-          "published": "Tue, 30 Jun 2026 23:01:52 +0000"
+          "title": "UN chief fears for ‘millions’ of Palestinians amid UNRWA funding shortfall",
+          "link": "https://www.aljazeera.com/news/2026/7/1/un-chief-fears-for-millions-of-palestinians-amid-unrwa-funding-shortfall?traffic_source=rss",
+          "published": "Wed, 01 Jul 2026 02:56:49 +0000"
         }
       ]
     }
