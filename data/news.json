@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-02T16:27:05Z",
+  "updatedAt": "2026-07-02T18:15:08Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,24 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Зошто децата престануваат да зборуваат со родителите? Овие грешки ја нарушуваат довербата",
+          "link": "https://makfax.com.mk/zanimlivosti/zoshto-decata-prestanuvaat-da-zboruvaat-so-roditelite-ovie-greshki-ja-narushuvaat-doverbata/",
+          "published": "Thu, 02 Jul 2026 18:13:21 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Мадона во нова песна го прозва поранешниот сопруг Шон Пен",
+          "link": "https://makfax.com.mk/zanimlivosti/madona-vo-nova-pesna-go-prozva-poraneshniot-soprug-shon-pen/",
+          "published": "Thu, 02 Jul 2026 17:44:29 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Силна експлозија во кафуле во центарот на Дамаск, најмалку петмина загинати",
+          "link": "https://makfax.com.mk/svet/silna-eksplozija-vo-kafule-vo-centarot-na-damask-najmalku-petmina-zaginati/",
+          "published": "Thu, 02 Jul 2026 16:46:12 +0000"
         },
         {
           "source": "Makfax",
@@ -23,52 +41,34 @@
           "published": "Thu, 02 Jul 2026 16:20:56 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Започнува реконструкцијата на улиците „Бутелска“ и „Радишанска“",
-          "link": "https://makfax.com.mk/makedonija/zapochnuva-rekonstrukcijata-na-ulicite-butelska-i-radishanska/",
-          "published": "Thu, 02 Jul 2026 16:20:05 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Метео предупредување: Утре локално невреме со пороен дожд и грмежи",
-          "link": "https://makfax.com.mk/makedonija/meteo-predupreduvanje-utre-lokalno-nevreme-so-poroen-dozhd-i-grmezhi/",
-          "published": "Thu, 02 Jul 2026 16:00:16 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Елиот Андерсон е најскапиот Англичанец во историјата",
-          "link": "https://makfax.com.mk/sport/eliot-anderson-e-najskapiot-anglichanec-vo-istorijata/",
-          "published": "Thu, 02 Jul 2026 15:50:00 +0000"
+          "source": "NetPress",
+          "title": "Топлoтниот бран предизвика околу 480 дополнителни смртни случаи во Холандија",
+          "link": "https://netpress.com.mk/toplotniot-bran-predizvika-okolu-480-dopolnitelni-smrtni-sluchai-vo-holandija/",
+          "published": "Thu, 02 Jul 2026 17:46:41 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Конкуренцијата во Заливот ги турна цените на нафтата под 71 долар",
-          "link": "https://netpress.com.mk/konkurenczijata-vo-zalivot-gi-turna-czenite-na-naftata-pod-71-dolar/",
-          "published": "Thu, 02 Jul 2026 16:23:25 +0000"
+          "title": "Тројца уапсени поради подметнат пожар во Чаир",
+          "link": "https://netpress.com.mk/1088435-2/",
+          "published": "Thu, 02 Jul 2026 17:19:16 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Без ангажман на родителите нема ефикасна борба против врсничкото насилство",
-          "link": "https://netpress.com.mk/bez-angazhman-na-roditelite-nema-efikasna-borba-protiv-vrsnichkoto-nasilstvo/",
-          "published": "Thu, 02 Jul 2026 16:09:50 +0000"
+          "title": "Јаз меѓу инвестициските потреби на германските компании и нивната реализација",
+          "link": "https://netpress.com.mk/jaz-megu-investicziskite-potrebi-na-germanskite-kompanii-i-nivnata-realizaczija/",
+          "published": "Thu, 02 Jul 2026 16:56:03 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Албанската полиција со солзавец ги растера демонстрантите пред парламентот",
-          "link": "https://netpress.com.mk/albanskata-policzija-so-solzavecz-gi-rastera-demonstrantite-pred-parlamentot/",
-          "published": "Thu, 02 Jul 2026 15:56:03 +0000"
+          "title": "Студенти од Пиза поставија нов светски рекорд со најголем хартиен авион",
+          "link": "https://netpress.com.mk/studenti-od-piza-postavija-nov-svetski-rekord-so-najgolem-hartien-avion/",
+          "published": "Thu, 02 Jul 2026 16:44:19 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Во тек е испорака на лекот еритропоетин во здравствените установи",
-          "link": "https://netpress.com.mk/vo-tek-e-isporaka-na-lekot-eritropoetin-vo-zdravstvenite-ustanovi/",
-          "published": "Thu, 02 Jul 2026 15:35:23 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Топлотниот бран не ги погодува само граѓаните – под притисок е и инфраструктурата",
-          "link": "https://netpress.com.mk/toplotniot-bran-ne-gi-pogoduva-samo-graganite-pod-pritisok-e-i-infrastrukturata/",
-          "published": "Thu, 02 Jul 2026 15:15:57 +0000"
+          "title": "Германија обвини Украинец за соучесништово во воено злосторство поради саботажата на Северен тек",
+          "link": "https://netpress.com.mk/germanija-obvini-ukrainecz-za-souchesnishtovo-vo-voeno-zlostorstvo-poradi-sabotazhata-na-severen-tek/",
+          "published": "Thu, 02 Jul 2026 16:28:05 +0000"
         }
       ]
     },
@@ -83,9 +83,9 @@
         },
         {
           "source": "BBC",
-          "title": "'Most massive' Russian attack on Kyiv kills at least 21",
+          "title": "'Most massive' Russian attack on Kyiv kills at least 22",
           "link": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&at_campaign=rss",
-          "published": "Thu, 02 Jul 2026 16:15:31 GMT"
+          "published": "Thu, 02 Jul 2026 17:49:48 GMT"
         },
         {
           "source": "BBC",
@@ -95,9 +95,9 @@
         },
         {
           "source": "BBC",
-          "title": "Vatican excommunicates hundreds of thousands of splinter sect followers",
+          "title": "Vatican excommunicates followers of global Catholic sect",
           "link": "https://www.bbc.co.uk/news/articles/c5yz95188jjo?at_medium=RSS&at_campaign=rss",
-          "published": "Thu, 02 Jul 2026 15:44:45 GMT"
+          "published": "Thu, 02 Jul 2026 17:27:36 GMT"
         },
         {
           "source": "BBC",
@@ -107,33 +107,33 @@
         },
         {
           "source": "Al Jazeera",
-          "title": "Why is Prada facing pro-Israeli backlash?",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/2/why-is-prada-facing-pro-israeli-backlash?traffic_source=rss",
-          "published": "Thu, 02 Jul 2026 16:14:24 +0000"
+          "title": "How the North American heatwave could impact the FIFA World Cup",
+          "link": "https://www.aljazeera.com/news/2026/7/2/how-the-north-american-heatwave-could-impact-the-fifa-world-cup?traffic_source=rss",
+          "published": "Thu, 02 Jul 2026 17:55:42 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "What is the Society of St Pius X? Why Pope Leo excommunicated its bishops",
-          "link": "https://www.aljazeera.com/news/2026/7/2/what-is-the-society-of-st-pius-x-why-pope-leo-excommunicated-its-bishops?traffic_source=rss",
-          "published": "Thu, 02 Jul 2026 15:54:48 +0000"
+          "title": "Deadly blast at Damascus cafe leaves 6 dead, 22 injured",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/2/deadly-blast-at-damascus-cafe-leaves-6-dead-22-injured?traffic_source=rss",
+          "published": "Thu, 02 Jul 2026 17:36:49 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Spain vs Austria LIVE: FIFA World Cup 2026",
-          "link": "https://www.aljazeera.com/sports/liveblog/2026/7/2/spain-vs-austria-live-fifa-world-cup-2026?traffic_source=rss",
-          "published": "Thu, 02 Jul 2026 15:41:05 +0000"
+          "title": "Rally for Luxembourg teacher fired over pro-Gaza posts",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/2/rally-for-luxembourg-teacher-fired-over-pro-gaza-posts?traffic_source=rss",
+          "published": "Thu, 02 Jul 2026 17:35:37 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Into the Darkness",
-          "link": "https://www.aljazeera.com/video/fault-lines/2026/7/2/into-the-darkness?traffic_source=rss",
-          "published": "Thu, 02 Jul 2026 15:30:00 +0000"
+          "title": "Amid the World Cup, the new pan-Africanism is conditional",
+          "link": "https://www.aljazeera.com/opinions/2026/7/2/amid-the-world-cup-the-new-pan-africanism-is-conditional?traffic_source=rss",
+          "published": "Thu, 02 Jul 2026 17:35:14 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "US job growth slows in June; hospitality sheds roles despite World Cup",
-          "link": "https://www.aljazeera.com/economy/2026/7/2/us-job-growth-slows-in-june-hospitality-sheds-roles-despite-world-cup?traffic_source=rss",
-          "published": "Thu, 02 Jul 2026 15:23:50 +0000"
+          "title": "How US-Iran war may push Gulf countries to ‘diversify’ security alliances",
+          "link": "https://www.aljazeera.com/news/2026/7/2/how-us-iran-war-may-push-gulf-countries-to-diversify-security-alliances?traffic_source=rss",
+          "published": "Thu, 02 Jul 2026 17:34:42 +0000"
         }
       ]
     }
