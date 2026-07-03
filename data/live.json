@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-03T22:38:02Z",
+  "generated_at": "2026-07-03T23:39:21Z",
   "items": [
     {
       "region": "Македонија",
@@ -109,6 +109,13 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "Egypt say Dallas police officer pushed player, team director at World Cup",
+      "link": "https://www.aljazeera.com/sports/2026/7/3/egypt-say-dallas-police-officer-pushed-player-team-director-at-world-cup?traffic_source=rss",
+      "published": "Fri, 03 Jul 2026 22:20:04 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "Venezuela’s Rodriguez blames ‘propaganda’ for quake response backlash",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/7/3/venezuelas-rodriguez-blames-propaganda-for-quake-response-backlash-2?traffic_source=rss",
       "published": "Fri, 03 Jul 2026 21:49:17 +0000"
@@ -133,13 +140,6 @@
       "title": "‘A nightmare’: Strugging with the aftermath of Venezuela’s earthquakes",
       "link": "https://www.aljazeera.com/news/longform/2026/7/3/a-nightmare-strugging-with-the-aftermath-of-venezuelas-earthquakes?traffic_source=rss",
       "published": "Fri, 03 Jul 2026 21:17:40 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "NASA launches robotic mission to save telescope falling back to Earth",
-      "link": "https://www.aljazeera.com/news/2026/7/3/nasa-launches-robotic-mission-to-save-telescope-falling-back-to-earth?traffic_source=rss",
-      "published": "Fri, 03 Jul 2026 21:05:39 +0000"
     }
   ]
 }
