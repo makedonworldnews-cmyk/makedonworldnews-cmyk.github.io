@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-04T18:43:50Z",
+  "updatedAt": "2026-07-04T19:58:38Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,24 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Пожарот што избувна во близина на Неа Каликратија, на Халкидики е локализиран",
+          "link": "https://makfax.com.mk/svet/pozharot-shto-izbuvna-vo-blizina-na-nea-kalikratija-na-halkidiki-e-lokaliziran/",
+          "published": "Sat, 04 Jul 2026 19:06:37 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) Унахи го однесе Мароко во четвртфиналето на СП",
+          "link": "https://makfax.com.mk/sport/video-unahi-go-odnese-maroko-vo-chetvrtfinaleto-na-sp/",
+          "published": "Sat, 04 Jul 2026 19:04:00 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Пороен дожд предизвика поплави во европскиот дел на Истанбул",
+          "link": "https://makfax.com.mk/svet/poroen-dozhd-predizvika-poplavi-vo-evropskiot-del-na-istanbul/",
+          "published": "Sat, 04 Jul 2026 19:02:19 +0000"
         },
         {
           "source": "Makfax",
@@ -23,52 +41,34 @@
           "published": "Sat, 04 Jul 2026 18:16:56 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "(Видео) Новинарката Роксана е пронајдена мртва речиси еден месец откако беше киднапирана",
-          "link": "https://makfax.com.mk/svet/video-novinarkata-roksana-e-pronajdena-mrtva-rechisi-eden-mesec-otkako-beshe-kidnapirana/",
-          "published": "Sat, 04 Jul 2026 17:54:08 +0000"
+          "source": "NetPress",
+          "title": "СП 2026: Мароко во второто полувреме ја скрши Канада",
+          "link": "https://netpress.com.mk/sp-2026-maroko-vo-vtoroto-poluvreme-ja-skrshi-kanada/",
+          "published": "Sat, 04 Jul 2026 19:55:23 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Регистрирани 11 пожари на отворен простор, активен е пожарот кај Белица во Македонски Брод",
-          "link": "https://makfax.com.mk/makedonija/registrirani-11-pozhari-na-otvoren-prostor-aktiven-e-pozharot-kaj-belica-vo-makedonski-brod/",
-          "published": "Sat, 04 Jul 2026 16:53:45 +0000"
+          "source": "NetPress",
+          "title": "Трамп обвинет дека ќе ја одбележи 250-годишнината од независноста во кампањски стил",
+          "link": "https://netpress.com.mk/tramp-obvinet-deka-ke-ja-odbelezhi-250-godishninata-od-nezavisnosta-vo-kampanski-stil/",
+          "published": "Sat, 04 Jul 2026 19:28:21 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Анчелоти: Само Алекс Фергусон може да ми даде совети",
-          "link": "https://makfax.com.mk/sport/ancheloti-samo-aleks-ferguson-mozhe-da-mi-dade-soveti/",
-          "published": "Sat, 04 Jul 2026 16:39:06 +0000"
+          "source": "NetPress",
+          "title": "Женска тепачка пореди недоразбирање во сообраќајот",
+          "link": "https://netpress.com.mk/zhenska-tepachka-poredi-nedorazbirane-vo-soobrakajot/",
+          "published": "Sat, 04 Jul 2026 18:48:57 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Турција внимателно ги следи израелските провокации за попречување на американско-иранскиот договор",
+          "link": "https://netpress.com.mk/turczija-vnimatelno-gi-sledi-izraelskite-provokaczii-za-poprechuvane-na-amerikansko-iranskiot-dogovor/",
+          "published": "Sat, 04 Jul 2026 18:44:12 +0000"
         },
         {
           "source": "NetPress",
           "title": "Принцот Хари се враќа во Лондон сепак без сопругата и деца",
           "link": "https://netpress.com.mk/princzot-hari-se-vraka-vo-london-sepak-bez-soprugata-i-decza/",
           "published": "Sat, 04 Jul 2026 18:20:45 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Среде улица со пушка застрелал куче",
-          "link": "https://netpress.com.mk/srede-ulicza-so-pushka-zastrelal-kuche/",
-          "published": "Sat, 04 Jul 2026 18:02:42 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Алкохолизиран охриѓанец удрил во 15-годишен велосипедист и избегал",
-          "link": "https://netpress.com.mk/alkoholiziran-ohriganecz-udril-vo-15-godishen-velosipedist-i-izbegal/",
-          "published": "Sat, 04 Jul 2026 17:51:10 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Пожар избувна во борова шума над филтер станицата во Штип, на терен интервенираат пожарникари и доброволци",
-          "link": "https://netpress.com.mk/pozhar-izbuvna-vo-borova-shuma-nad-filter-staniczata-vo-shtip-na-teren-interveniraat-pozharnikari-i-dobrovolczi/",
-          "published": "Sat, 04 Jul 2026 17:42:01 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Пожарот кај Белица на тешко пристепен терен, во гаснењето ќе биде ангажирана и поддршка од воздух“",
-          "link": "https://netpress.com.mk/pozharot-kaj-belicza-na-teshko-pristepen-teren-vo-gasneneto-ke-bide-angazhirana-i-poddrshka-od-vozduh/",
-          "published": "Sat, 04 Jul 2026 17:20:57 +0000"
         }
       ]
     },
@@ -107,33 +107,33 @@
         },
         {
           "source": "Al Jazeera",
-          "title": "Trump hints Israel’s Benjamin Netanyahu may visit US as early as next week",
-          "link": "https://www.aljazeera.com/news/2026/7/4/trump-hints-israels-benjamin-netanyahu-may-visit-us-as-early-as-next-week?traffic_source=rss",
-          "published": "Sat, 04 Jul 2026 18:17:58 +0000"
+          "title": "A politically charged holiday: The US celebrates its 250th anniversary",
+          "link": "https://www.aljazeera.com/gallery/2026/7/4/a-politically-charged-holiday-the-us-celebrates-its-250th-anniversary?traffic_source=rss",
+          "published": "Sat, 04 Jul 2026 19:43:18 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Turkiye’s Erdogan says Israel must not be able to ‘dynamite’ US-Iran deal",
-          "link": "https://www.aljazeera.com/news/2026/7/4/turkiyes-erdogan-says-israel-must-not-be-able-to-dynamite-us-iran-deal?traffic_source=rss",
-          "published": "Sat, 04 Jul 2026 18:09:20 +0000"
+          "title": "America’s Indigenous Legacy",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/4/americas-indigenous-legacy?traffic_source=rss",
+          "published": "Sat, 04 Jul 2026 19:32:43 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "France vs Paraguay LIVE: FIFA World Cup 2026 last 16",
-          "link": "https://www.aljazeera.com/sports/liveblog/2026/7/4/france-vs-paraguay-live-fifa-world-cup-2026?traffic_source=rss",
-          "published": "Sat, 04 Jul 2026 17:51:21 +0000"
+          "title": "Has the US reckoned with its own history?",
+          "link": "https://www.aljazeera.com/video/upfront/2026/7/4/has-the-us-reckoned-with-its-own-history?traffic_source=rss",
+          "published": "Sat, 04 Jul 2026 19:30:00 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Police clash with protesters outside AfD meeting",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/4/police-clash-with-protesters-outside-afd-meeting?traffic_source=rss",
-          "published": "Sat, 04 Jul 2026 17:13:01 +0000"
+          "title": "Will economic pressure move the Kremlin towards talks with Kyiv?",
+          "link": "https://www.aljazeera.com/video/inside-story/2026/7/4/will-economic-pressure-move-the-kremlin-towards-talks-with-kyiv?traffic_source=rss",
+          "published": "Sat, 04 Jul 2026 19:19:18 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "FIFA World Cup 2026: Best Round of 16 knockout matches to watch",
-          "link": "https://www.aljazeera.com/sports/2026/7/4/biggest-fifa-world-cup-matches-to-watch-in-round-of-16-knockout-stage?traffic_source=rss",
-          "published": "Sat, 04 Jul 2026 16:51:20 +0000"
+          "title": "At least 20 drown as boat carrying students after exams sinks in DR Congo",
+          "link": "https://www.aljazeera.com/news/2026/7/4/at-least-20-drown-as-boat-carrying-students-after-exams-sinks-in-dr-congo?traffic_source=rss",
+          "published": "Sat, 04 Jul 2026 19:16:17 +0000"
         }
       ]
     }
