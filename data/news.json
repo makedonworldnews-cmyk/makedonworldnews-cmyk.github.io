@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-04T22:09:36Z",
+  "updatedAt": "2026-07-04T23:12:45Z",
   "groups": [
     {
       "region": "Македонија",
@@ -42,33 +42,9 @@
         },
         {
           "source": "NetPress",
-          "title": "Ренар по само 18 дена се повлече од селектор на Тунис",
-          "link": "https://netpress.com.mk/renar-po-samo-18-dena-se-povleche-od-selektor-na-tunis/",
-          "published": "Sat, 04 Jul 2026 21:42:34 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Бројот на жртвите од земјотресите во Венецуела се искачи на 2.954",
-          "link": "https://netpress.com.mk/brojot-na-zhrtvite-od-zemjotresite-vo-veneczuela-se-iskachi-na-2-954/",
-          "published": "Sat, 04 Jul 2026 21:30:45 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Британија ја изневерија нејзините челници, смета Венс",
-          "link": "https://netpress.com.mk/britanija-ja-izneverija-nejzinite-chelniczi-smeta-vens/",
-          "published": "Sat, 04 Jul 2026 21:06:59 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Вандали дивееле во скопско основно училиште",
-          "link": "https://netpress.com.mk/vandali-diveele-vo-skopsko-osnovno-uchilishte/",
-          "published": "Sat, 04 Jul 2026 20:12:00 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "СП 2026: Мароко во второто полувреме ја скрши Канада",
-          "link": "https://netpress.com.mk/sp-2026-maroko-vo-vtoroto-poluvreme-ja-skrshi-kanada/",
-          "published": "Sat, 04 Jul 2026 19:55:23 +0000"
+          "title": "⚠️ Не може да се вчита (извор/timeout)",
+          "link": "https://netpress.com.mk/feed/",
+          "published": ""
         }
       ]
     },
@@ -107,6 +83,12 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "US influence challenged by changing global order: Paolo von Schirach",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/4/us-influence-challenged-by-changing-global-order-paolo-von-schirach?traffic_source=rss",
+          "published": "Sat, 04 Jul 2026 22:10:39 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Masses of Iranians defy heatwave on second day of Khamenei’s funeral",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/7/4/masses-of-iranians-defy-heatwave-on-second-day-of-khameneis-funeral?traffic_source=rss",
           "published": "Sat, 04 Jul 2026 21:08:18 +0000"
@@ -128,12 +110,6 @@
           "title": "A politically charged holiday: The US celebrates its 250th anniversary",
           "link": "https://www.aljazeera.com/gallery/2026/7/4/a-politically-charged-holiday-the-us-celebrates-its-250th-anniversary?traffic_source=rss",
           "published": "Sat, 04 Jul 2026 19:43:18 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "America’s Indigenous Legacy",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/4/americas-indigenous-legacy?traffic_source=rss",
-          "published": "Sat, 04 Jul 2026 19:32:43 +0000"
         }
       ]
     }

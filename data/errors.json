@@ -1,10 +1,15 @@
 {
-  "generated_at": "2026-07-04T22:33:56Z",
+  "updatedAt": "2026-07-04T23:12:45Z",
   "errors": [
     {
       "source": "МИА",
       "url": "https://mia.mk/rss",
       "error": "404 Client Error: Not Found for url: https://mia.mk/rss"
+    },
+    {
+      "source": "NetPress",
+      "url": "https://netpress.com.mk/feed/",
+      "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
     }
   ]
 }
