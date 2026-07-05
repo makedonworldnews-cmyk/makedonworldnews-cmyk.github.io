@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-05T01:21:07Z",
+  "generated_at": "2026-07-05T05:30:32Z",
   "items": [
     {
       "region": "Македонија",
@@ -74,9 +74,9 @@
     {
       "region": "Свет",
       "source": "BBC",
-      "title": "Brutal heat cancels Fourth of July events, from DC to Philadelphia",
-      "link": "https://www.bbc.co.uk/news/articles/cevlkzer7vdo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 04 Jul 2026 02:57:48 GMT"
+      "title": "US marks its 250th birthday with fireworks, flyovers and extreme weather",
+      "link": "https://www.bbc.co.uk/news/articles/cp9lppvkmz5o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 05 Jul 2026 04:38:09 GMT"
     },
     {
       "region": "Свет",
@@ -84,6 +84,13 @@
       "title": "Ukraine hits major oil terminal in Russia's St Petersburg",
       "link": "https://www.bbc.co.uk/news/articles/c8j2vmzxezro?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 04 Jul 2026 18:41:25 GMT"
+    },
+    {
+      "region": "Свет",
+      "source": "BBC",
+      "title": "Moment of destiny for France's Le Pen in verdict to decide her future in presidential race",
+      "link": "https://www.bbc.co.uk/news/articles/c5yzlwz34p7o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 04 Jul 2026 23:17:24 GMT"
     },
     {
       "region": "Свет",
@@ -101,10 +108,31 @@
     },
     {
       "region": "Свет",
-      "source": "BBC",
-      "title": "Injury ends Williams' Wimbledon comeback",
-      "link": "https://www.bbc.co.uk/sport/tennis/articles/ce95mxn1rlmo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 04 Jul 2026 17:22:46 GMT"
+      "source": "Al Jazeera",
+      "title": "Trump lauds Americans in storm-delayed 250th anniversary speech",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/5/aje-onl-nf_trump-lauds-americans-in-250th-anniversary-speech-050726?traffic_source=rss",
+      "published": "Sun, 05 Jul 2026 05:18:14 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "A name, a document, a future: Cameroon’s fight to register every child",
+      "link": "https://www.aljazeera.com/news/2026/7/5/a-name-a-document-a-future-cameroons-fight-to-register-every-child?traffic_source=rss",
+      "published": "Sun, 05 Jul 2026 03:55:54 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Fireworks light up New York City to mark 250 years of US independence",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/5/aje-onl-nf_fireworks-light-up-new-york-city-to-mark-250-years-040726?traffic_source=rss",
+      "published": "Sun, 05 Jul 2026 02:55:06 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Severe weather disrupts US’s 250th celebrations",
+      "link": "https://www.aljazeera.com/news/2026/7/5/severe-weather-disrupts-uss-250th-celebrations?traffic_source=rss",
+      "published": "Sun, 05 Jul 2026 02:54:05 +0000"
     },
     {
       "region": "Свет",
@@ -112,34 +140,6 @@
       "title": "This immigrant served in the US military. Now he faces deportation",
       "link": "https://www.aljazeera.com/news/longform/2026/7/5/this-immigrant-served-in-the-us-military-now-he-faces-deportation?traffic_source=rss",
       "published": "Sun, 05 Jul 2026 00:49:14 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "White nationalists march on Washington DC ahead of Freedom 250 celebrations",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/5/aje-onl-nf_white-nationalists-march-ahead-of-freedom-250-040726?traffic_source=rss",
-      "published": "Sun, 05 Jul 2026 00:08:47 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Iran war live: Huge crowds mourn Khamenei, Trump vows calm during funeral",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/7/5/iran-war-live-huge-crowds-mourn-khamenei-trump-vows-calm-during-funeral?traffic_source=rss",
-      "published": "Sun, 05 Jul 2026 00:00:00 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "White nationalists march in Washington, DC, area during July 4 festivities",
-      "link": "https://www.aljazeera.com/news/2026/7/4/white-nationalists-march-in-washington-dc-area-during-july-4-festivities?traffic_source=rss",
-      "published": "Sat, 04 Jul 2026 23:57:52 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Ticket prices plunge for USA-Belgium World Cup last-16 match",
-      "link": "https://www.aljazeera.com/sports/2026/7/4/ticket-prices-plunge-for-us-belgium-world-cup-last-16-match?traffic_source=rss",
-      "published": "Sat, 04 Jul 2026 23:36:37 +0000"
     }
   ]
 }
