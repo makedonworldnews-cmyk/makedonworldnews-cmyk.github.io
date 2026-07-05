@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-05T18:31:12Z",
+  "updatedAt": "2026-07-05T19:54:36Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Пијан тинејџер вознемирувал случајни минувачи",
+          "link": "https://makfax.com.mk/crna-hronika/pijan-tinejdher-voznemiruval-sluchajni-minuvachi/",
+          "published": "Sun, 05 Jul 2026 19:34:06 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Пожарникар е повреден во пожарот во Кисела Вода",
+          "link": "https://makfax.com.mk/makedonija/pozharnikar-e-povreden-vo-pozharot-vo-kisela-voda/",
+          "published": "Sun, 05 Jul 2026 18:55:56 +0000"
         },
         {
           "source": "Makfax",
@@ -29,16 +41,22 @@
           "published": "Sun, 05 Jul 2026 16:22:59 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Ѓорѓиевски: Пожарот кај „Рампа“ е ставен под контрола",
-          "link": "https://makfax.com.mk/makedonija/gorgievski-pozharot-kaj-rampa-e-staven-pod-kontrola/",
-          "published": "Sun, 05 Jul 2026 16:20:13 +0000"
+          "source": "NetPress",
+          "title": "ВИДЕО| Египет го отвори најголемиот воен комплекс во светот",
+          "link": "https://netpress.com.mk/video-egipet-go-otvori-najgolemiot-voen-kompleks-vo-svetot/",
+          "published": "Sun, 05 Jul 2026 19:32:01 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Ферстапен го скори подиумот во Силверстон – Леклер победи пред Расел и Хамилтон",
-          "link": "https://makfax.com.mk/sport/ferstapen-go-skori-podiumot-vo-silverston-lekler-pobedi-pred-rasel-i-hamilton/",
-          "published": "Sun, 05 Jul 2026 16:12:00 +0000"
+          "source": "NetPress",
+          "title": "СП 2026: Поништен црвениот картон на Американецот Балогун, може да игра против Белгија",
+          "link": "https://netpress.com.mk/sp-2026-ponishten-czrveniot-karton-na-amerikaneczot-balogun-mozhe-da-igra-protiv-belgija/",
+          "published": "Sun, 05 Jul 2026 19:10:15 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Во израелски напад убиени две лица во Газа",
+          "link": "https://netpress.com.mk/vo-izraelski-napad-ubieni-dve-licza-vo-gaza/",
+          "published": "Sun, 05 Jul 2026 18:50:44 +0000"
         },
         {
           "source": "NetPress",
@@ -51,24 +69,6 @@
           "title": "Македонските кошаркари со максимални шест победи ги завршија претквалификациите за Евробаскетот",
           "link": "https://netpress.com.mk/makedonskite-kosharkari-so-maksimalni-shest-pobedi-gi-zavrshija-pretkvalifikacziite-za-evrobasketot/",
           "published": "Sun, 05 Jul 2026 18:18:47 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Денеска регистрирани 17 пожари, сѐ уште се активни два",
-          "link": "https://netpress.com.mk/deneska-registrirani-17-pozhari-s%d1%90-ushte-se-aktivni-dva/",
-          "published": "Sun, 05 Jul 2026 18:12:56 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Женска кафеанска тепачка, скопјанка нападнала кумановка",
-          "link": "https://netpress.com.mk/zhenska-kafeanska-tepachka-skopjanka-napadnala-kumanovka/",
-          "published": "Sun, 05 Jul 2026 18:04:01 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Украина одби да ги преземе телата на загинатите борци од Константиновка, објави Москва",
-          "link": "https://netpress.com.mk/ukraina-odbi-da-gi-prezeme-telata-na-zaginatite-borczi-od-konstantinovka-objavi-moskva/",
-          "published": "Sun, 05 Jul 2026 17:48:56 +0000"
         }
       ]
     },
@@ -83,9 +83,9 @@
         },
         {
           "source": "BBC",
-          "title": "US marks 250th birthday with fireworks, flyovers and extreme weather",
-          "link": "https://www.bbc.co.uk/news/articles/cp9lppvkmz5o?at_medium=RSS&at_campaign=rss",
-          "published": "Sun, 05 Jul 2026 08:24:32 GMT"
+          "title": "Watch: Lyse Doucet on emotion and politics at Tehran funeral of former supreme leader",
+          "link": "https://www.bbc.co.uk/news/videos/c4gyye3rplno?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 05 Jul 2026 17:54:47 GMT"
         },
         {
           "source": "BBC",
@@ -95,9 +95,9 @@
         },
         {
           "source": "BBC",
-          "title": "Evacuations in Guam as super typhoon Bavi approaches",
-          "link": "https://www.bbc.co.uk/news/articles/cr7xpgx50jxo?at_medium=RSS&at_campaign=rss",
-          "published": "Sun, 05 Jul 2026 09:26:56 GMT"
+          "title": "Moment of destiny for France's Le Pen in verdict to decide her future in presidential race",
+          "link": "https://www.bbc.co.uk/news/articles/c5yzlwz34p7o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 04 Jul 2026 23:17:24 GMT"
         },
         {
           "source": "BBC",
@@ -107,33 +107,33 @@
         },
         {
           "source": "Al Jazeera",
-          "title": "US Congressman denies existence of Palestinians in interview",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/5/us-congressman-denies-existence-of-palestinians-in-interview-2?traffic_source=rss",
-          "published": "Sun, 05 Jul 2026 17:37:26 +0000"
+          "title": "America at 250: Democracy’s greatest experiment?",
+          "link": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/7/5/america-at-250-democracys-greatest-experiment?traffic_source=rss",
+          "published": "Sun, 05 Jul 2026 19:15:00 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "50 Houthi fighters killed in renewed clashes in Yemen",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/5/50-houthi-fighters-killed-in-renewed-clashes-in-yemen?traffic_source=rss",
-          "published": "Sun, 05 Jul 2026 16:59:34 +0000"
+          "title": "Russia says Ukraine rejects local ceasefire in dispute over Kostiantynivka",
+          "link": "https://www.aljazeera.com/news/2026/7/5/russia-says-ukraine-rejects-local-ceasefire-in-dispute-over-kostiantynivka?traffic_source=rss",
+          "published": "Sun, 05 Jul 2026 19:06:39 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Super Typhoon Bavi threatens Guam with catastrophic winds and flooding",
-          "link": "https://www.aljazeera.com/news/2026/7/5/super-typhoon-bavi-threatens-guam-with-catastrophic-winds-and-flooding?traffic_source=rss",
-          "published": "Sun, 05 Jul 2026 16:54:26 +0000"
+          "title": "Sons of Iran’s leader Ali Khamenei attend funeral, but Mojtaba is absent",
+          "link": "https://www.aljazeera.com/news/2026/7/5/sons-of-irans-leader-ali-khamenei-attend-funeral-but-mojtaba-is-absent?traffic_source=rss",
+          "published": "Sun, 05 Jul 2026 18:55:37 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "What is the religious and political messaging behind Khamenei’s funeral?",
-          "link": "https://www.aljazeera.com/news/2026/7/5/what-is-the-religious-and-political-messaging-behind-khameneis-funeral?traffic_source=rss",
-          "published": "Sun, 05 Jul 2026 16:42:03 +0000"
+          "title": "Osaka knocks out top-seeded Sabalenka to reach Wimbledon quarterfinals",
+          "link": "https://www.aljazeera.com/sports/2026/7/5/osaka-knocks-out-top-seeded-sabalenka-to-reach-wimbledon-quarterfinals?traffic_source=rss",
+          "published": "Sun, 05 Jul 2026 18:45:55 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Brazil vs Norway LIVE: FIFA World Cup 2026 – last 16",
-          "link": "https://www.aljazeera.com/sports/liveblog/2026/7/5/brazil-vs-norway-live-fifa-world-cup-2026-last-16?traffic_source=rss",
-          "published": "Sun, 05 Jul 2026 16:40:00 +0000"
+          "title": "Palestinians rally outside Al-Shifa hospital, demanding medical evacuation",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/5/palestinians-rally-outside-al-shifa-hospital-demanding-medical-evacuation?traffic_source=rss",
+          "published": "Sun, 05 Jul 2026 18:40:43 +0000"
         }
       ]
     }
