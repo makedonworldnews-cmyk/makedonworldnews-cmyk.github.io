@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-05T22:10:53Z",
+  "updatedAt": "2026-07-05T23:31:00Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Бразилски медиуми: Бразил се претвори во чудовиште",
+          "link": "https://makfax.com.mk/sport/brazilski-mediumi-brazil-se-pretvori-vo-chudovishte/",
+          "published": "Sun, 05 Jul 2026 22:55:00 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) Ниланд и Халанд го испратија Бразил од Мундијалот",
+          "link": "https://makfax.com.mk/sport/video-niland-i-haland-go-ispratija-brazil-od-mundijalot/",
+          "published": "Sun, 05 Jul 2026 22:26:00 +0000"
         },
         {
           "source": "Makfax",
@@ -29,16 +41,10 @@
           "published": "Sun, 05 Jul 2026 19:34:06 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Пожарникар е повреден во пожарот во Кисела Вода",
-          "link": "https://makfax.com.mk/makedonija/pozharnikar-e-povreden-vo-pozharot-vo-kisela-voda/",
-          "published": "Sun, 05 Jul 2026 18:55:56 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Две лица повредни во голем шумски пожар во јужна Франција",
-          "link": "https://makfax.com.mk/svet/dve-lica-povredni-vo-golem-shumski-pozhar-vo-juzhna-francija/",
-          "published": "Sun, 05 Jul 2026 18:07:03 +0000"
+          "source": "NetPress",
+          "title": "СП 2026: Двата гола на Халанд го разбија безидејниот Бразил",
+          "link": "https://netpress.com.mk/sp-2026-dvata-gola-na-haland-go-razbija-bezidejniot-brazil/",
+          "published": "Sun, 05 Jul 2026 22:47:07 +0000"
         },
         {
           "source": "NetPress",
@@ -63,12 +69,6 @@
           "title": "На самитот на НАТО, Трамп ќе се сретне со украинскиот и со сирискиот лидер",
           "link": "https://netpress.com.mk/na-samitot-na-nato-tramp-ke-se-sretne-so-ukrainskiot-i-so-siriskiot-lider/",
           "published": "Sun, 05 Jul 2026 20:27:44 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "ВИДЕО| Египет го отвори најголемиот воен комплекс во светот",
-          "link": "https://netpress.com.mk/video-egipet-go-otvori-najgolemiot-voen-kompleks-vo-svetot/",
-          "published": "Sun, 05 Jul 2026 19:32:01 +0000"
         }
       ]
     },
@@ -107,33 +107,33 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Venezuelan leader marks Independence Day with message of ‘no social unrest’",
+          "link": "https://www.aljazeera.com/news/2026/7/5/venezuelan-leader-marks-independence-day-with-message-of-no-social-unrest?traffic_source=rss",
+          "published": "Sun, 05 Jul 2026 22:48:13 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "How a son rescued his father from the rubble of Venezuela’s earthquakes",
+          "link": "https://www.aljazeera.com/news/longform/2026/7/5/how-a-son-rescued-his-father-from-the-rubble-of-venezuelas-earthquakes?traffic_source=rss",
+          "published": "Sun, 05 Jul 2026 22:41:40 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Haaland scores twice as Norway stun Brazil 2-1 in World Cup 2026 last 16",
+          "link": "https://www.aljazeera.com/sports/2026/7/5/haaland-scores-twice-as-norway-stun-brazil-2-1-in-world-cup-2026-last-16?traffic_source=rss",
+          "published": "Sun, 05 Jul 2026 22:26:49 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Palestinian baby dies in West Bank after Israel blocks urgent medical care",
+          "link": "https://www.aljazeera.com/news/2026/7/5/palestinian-baby-dies-in-west-bank-after-israel-blocks-urgent-medical-care?traffic_source=rss",
+          "published": "Sun, 05 Jul 2026 22:03:52 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Turkiye gears up for its first NATO summit in 22 years",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/7/5/turkiye-gears-up-for-its-first-nato-summit-in-22-years?traffic_source=rss",
           "published": "Sun, 05 Jul 2026 21:42:48 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Albanian court frees protesters who rallied against Kushner-linked resort",
-          "link": "https://www.aljazeera.com/news/2026/7/5/albanian-court-frees-protesters-who-rallied-against-kushner-linked-resort?traffic_source=rss",
-          "published": "Sun, 05 Jul 2026 20:50:58 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Mexico vs England LIVE: FIFA World Cup 2026 – last 16",
-          "link": "https://www.aljazeera.com/sports/liveblog/2026/7/5/mexico-vs-england-live-fifa-world-cup-2026-last-16?traffic_source=rss",
-          "published": "Sun, 05 Jul 2026 20:46:14 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "FIFA World Cup: All to know as Ronaldo’s Portugal play Spain in the last 16",
-          "link": "https://www.aljazeera.com/sports/2026/7/5/world-cup-portugal-vs-spain-key-talking-points-ronaldo-yamal-prediction?traffic_source=rss",
-          "published": "Sun, 05 Jul 2026 20:41:02 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "10,000 people evacuated as wildfire tears through southern France",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/5/10000-people-evacuated-as-wildfire-tears-through-southern-france?traffic_source=rss",
-          "published": "Sun, 05 Jul 2026 20:38:57 +0000"
         }
       ]
     }
