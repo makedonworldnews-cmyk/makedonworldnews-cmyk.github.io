@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-04T23:12:45Z",
+  "updatedAt": "2026-07-05T00:15:40Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) Парагвај скапо ја продаде кожата – Франција со гол од пенал се пласира во четвртфиналето",
+          "link": "https://makfax.com.mk/sport/video-paragvaj-skapo-ja-prodade-kozhata-francija-so-gol-od-penal-se-plasira-vo-chetvrtfinaleto/",
+          "published": "Sat, 04 Jul 2026 23:20:00 +0000"
         },
         {
           "source": "Makfax",
@@ -35,16 +41,34 @@
           "published": "Sat, 04 Jul 2026 18:36:58 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Ангелов: Изби пожар во борова шума над филтер станицата во Штип",
-          "link": "https://makfax.com.mk/makedonija/angelov-izbi-pozhar-vo-borova-shuma-nad-filter-stanicata-vo-shtip/",
-          "published": "Sat, 04 Jul 2026 18:16:56 +0000"
+          "source": "NetPress",
+          "title": "СП 2026: Франција од пенал ја проби парагвајската одбрана",
+          "link": "https://netpress.com.mk/sp-2026-franczija-od-penal-ja-probi-paragvajskata-odbrana/",
+          "published": "Sat, 04 Jul 2026 23:32:05 +0000"
         },
         {
           "source": "NetPress",
-          "title": "⚠️ Не може да се вчита (извор/timeout)",
-          "link": "https://netpress.com.mk/feed/",
-          "published": ""
+          "title": "Ренар по само 18 дена се повлече од селектор на Тунис",
+          "link": "https://netpress.com.mk/renar-po-samo-18-dena-se-povleche-od-selektor-na-tunis/",
+          "published": "Sat, 04 Jul 2026 21:42:34 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Бројот на жртвите од земјотресите во Венецуела се искачи на 2.954",
+          "link": "https://netpress.com.mk/brojot-na-zhrtvite-od-zemjotresite-vo-veneczuela-se-iskachi-na-2-954/",
+          "published": "Sat, 04 Jul 2026 21:30:45 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Британија ја изневерија нејзините челници, смета Венс",
+          "link": "https://netpress.com.mk/britanija-ja-izneverija-nejzinite-chelniczi-smeta-vens/",
+          "published": "Sat, 04 Jul 2026 21:06:59 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Вандали дивееле во скопско основно училиште",
+          "link": "https://netpress.com.mk/vandali-diveele-vo-skopsko-osnovno-uchilishte/",
+          "published": "Sat, 04 Jul 2026 20:12:00 +0000"
         }
       ]
     },
@@ -83,6 +107,18 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Ticket prices plunge for USA-Belgium World Cup last-16 match",
+          "link": "https://www.aljazeera.com/sports/2026/7/4/ticket-prices-plunge-for-us-belgium-world-cup-last-16-match?traffic_source=rss",
+          "published": "Sat, 04 Jul 2026 23:36:37 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Mbappe draws level with Messi as France beat Paraguay to set up Morocco tie",
+          "link": "https://www.aljazeera.com/sports/2026/7/4/mbappe-draws-level-with-messi-as-france-beat-paraguay-to-set-up-morocco-tie?traffic_source=rss",
+          "published": "Sat, 04 Jul 2026 23:25:33 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "US influence challenged by changing global order: Paolo von Schirach",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/7/4/us-influence-challenged-by-changing-global-order-paolo-von-schirach?traffic_source=rss",
           "published": "Sat, 04 Jul 2026 22:10:39 +0000"
@@ -98,18 +134,6 @@
           "title": "Lebanon’s Aoun calls on US to keep ‘always standing beside’ his country",
           "link": "https://www.aljazeera.com/news/2026/7/4/lebanons-aoun-calls-on-us-to-keep-always-standing-beside-his-country?traffic_source=rss",
           "published": "Sat, 04 Jul 2026 20:06:41 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Ounahi fires Morocco into World Cup quarterfinals with 3-0 win over Canada",
-          "link": "https://www.aljazeera.com/sports/2026/7/4/ounahi-fires-morocco-into-world-cup-quarterfinals-with-3-0-win-over-canada?traffic_source=rss",
-          "published": "Sat, 04 Jul 2026 20:03:15 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "A politically charged holiday: The US celebrates its 250th anniversary",
-          "link": "https://www.aljazeera.com/gallery/2026/7/4/a-politically-charged-holiday-the-us-celebrates-its-250th-anniversary?traffic_source=rss",
-          "published": "Sat, 04 Jul 2026 19:43:18 +0000"
         }
       ]
     }
