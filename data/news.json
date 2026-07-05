@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-05T14:45:48Z",
+  "updatedAt": "2026-07-05T15:54:25Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) Голем пожар во Кисела Вода",
+          "link": "https://makfax.com.mk/makedonija/video-golem-pozhar-vo-kisela-voda/",
+          "published": "Sun, 05 Jul 2026 15:16:03 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "По пет месеци Иран и Катар ја обновуваат поморската трговија",
+          "link": "https://makfax.com.mk/svet/po-pet-meseci-iran-i-katar-ja-obnovuvaat-pomorskata-trgovija/",
+          "published": "Sun, 05 Jul 2026 14:54:31 +0000"
         },
         {
           "source": "Makfax",
@@ -29,16 +41,22 @@
           "published": "Sun, 05 Jul 2026 12:51:38 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Приведени 18 возачи за безобѕирно возење, 11 биле без возачка дозвола",
-          "link": "https://makfax.com.mk/crna-hronika/privedeni-18-vozachi-za-bezobzirno-vozenje-11-bile-bez-vozachka-dozvola/",
-          "published": "Sun, 05 Jul 2026 12:35:08 +0000"
+          "source": "NetPress",
+          "title": "Скопјанец приведен во Градски парк, бил агресивен кон полицајци",
+          "link": "https://netpress.com.mk/skopjanecz-priveden-vo-gradski-park-bil-agresiven-kon-policzajczi/",
+          "published": "Sun, 05 Jul 2026 15:22:15 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Пак тепани жени, мајки, снаи, браќа и партнерки",
-          "link": "https://makfax.com.mk/makedonija/pak-tepani-zheni-majki-snai-braka-i-partnerki/",
-          "published": "Sun, 05 Jul 2026 12:30:24 +0000"
+          "source": "NetPress",
+          "title": "ВИДЕО| Штипска фирма ѝ дава нов живот на старата спортска опрема и се најде во фокусот на Ројтерс",
+          "link": "https://netpress.com.mk/video-shtipska-firma-%d1%9d-dava-nov-zhivot-na-starata-sportska-oprema-i-e-najde-vo-fokusot-na-rojters/",
+          "published": "Sun, 05 Jul 2026 14:58:03 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Млад скопјанец починал во својот дом",
+          "link": "https://netpress.com.mk/mlad-skopjanecz-pochinal-vo-svojot-dom/",
+          "published": "Sun, 05 Jul 2026 14:47:00 +0000"
         },
         {
           "source": "NetPress",
@@ -51,24 +69,6 @@
           "title": "Граната од Втората светска војна пронајдена на градилиште во Скопје",
           "link": "https://netpress.com.mk/granata-od-vtorata-svetska-vojna-pronajdena-na-gradilishte-vo-skopje/",
           "published": "Sun, 05 Jul 2026 14:22:30 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Маж почина по пад од покрив на куќа во изградба во Охрид",
-          "link": "https://netpress.com.mk/mazh-pochina-po-pad-od-pokriv-na-kuka-vo-izgradba-vo-ohrid/",
-          "published": "Sun, 05 Jul 2026 13:50:29 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Големиот пожар во близина на Солун ставен под контрола, уапсено едно лице",
-          "link": "https://netpress.com.mk/golemiot-pozhar-vo-blizina-na-solun-staven-pod-kontrola-uapseno-edno-licze/",
-          "published": "Sun, 05 Jul 2026 13:38:13 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Потврдена заедничката определба за продлабочување на политичката и економската соработка меѓу Македонија и Катар",
-          "link": "https://netpress.com.mk/potvrdena-zaednichkata-opredelba-za-prodlabochuvane-na-politichkata-i-ekonomskata-sorabotka-megu-makedonija-i-katar-objavi-skopje1-mk/",
-          "published": "Sun, 05 Jul 2026 13:00:46 +0000"
         }
       ]
     },
@@ -79,7 +79,7 @@
           "source": "BBC",
           "title": "Iran's supreme leader absent as senior officials attend ayatollah's funeral",
           "link": "https://www.bbc.co.uk/news/articles/cevllyj9vv3o?at_medium=RSS&at_campaign=rss",
-          "published": "Sun, 05 Jul 2026 12:29:18 GMT"
+          "published": "Sun, 05 Jul 2026 15:48:55 GMT"
         },
         {
           "source": "BBC",
@@ -107,6 +107,12 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Cape Verde celebrates team’s return after historic World Cup",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/5/cape-verde-celebrates-teams-return-after-historic-world-cup?traffic_source=rss",
+          "published": "Sun, 05 Jul 2026 14:48:26 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Extreme weather disrupts US’s 250th anniversary celebrations",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/7/5/extreme-weather-disrupts-uss-250th-anniversary-celebrations?traffic_source=rss",
           "published": "Sun, 05 Jul 2026 14:10:34 +0000"
@@ -119,7 +125,7 @@
         },
         {
           "source": "Al Jazeera",
-          "title": "At least 15 Yemeni government troops killed in Hodeidah fighting",
+          "title": "Houthi rebels kill 16 Yemeni government troops in fiercest clashes in years",
           "link": "https://www.aljazeera.com/news/2026/7/5/at-least-15-yemeni-government-troops-killed-in-hodeidah-fighting?traffic_source=rss",
           "published": "Sun, 05 Jul 2026 13:46:32 +0000"
         },
@@ -128,12 +134,6 @@
           "title": "Dr Hussam Abu Safia’s life in ‘grave danger’",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/7/5/dr-hussam-abu-safias-life-in-grave?traffic_source=rss",
           "published": "Sun, 05 Jul 2026 13:40:44 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "What to know about the renewed coordinated attacks across Mali",
-          "link": "https://www.aljazeera.com/news/2026/7/5/what-to-know-about-the-renewed-coordinated-attacks-across-mali?traffic_source=rss",
-          "published": "Sun, 05 Jul 2026 12:27:15 +0000"
         }
       ]
     }
