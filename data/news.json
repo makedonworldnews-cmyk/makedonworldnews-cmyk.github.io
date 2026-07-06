@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-06T21:00:54Z",
+  "updatedAt": "2026-07-06T22:33:11Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) Неславен крај на Кристијано Роналдо, замина со солзи во очите",
+          "link": "https://makfax.com.mk/sport/video-neslaven-kraj-na-kristijano-ronaldo-zamina-so-solzi-vo-ochite/",
+          "published": "Mon, 06 Jul 2026 21:41:57 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) Микел Мерино во 91-та минута ја нокаутира Португалија",
+          "link": "https://makfax.com.mk/sport/video-mikel-merino-vo-91-ta-minuta-ja-nokautira-portugalija/",
+          "published": "Mon, 06 Jul 2026 21:19:00 +0000"
         },
         {
           "source": "Makfax",
@@ -29,16 +41,16 @@
           "published": "Mon, 06 Jul 2026 18:08:28 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Руте: Членките на НАТО ги зголемија издвојувањата за одбрана на околу четири отсто од БДП",
-          "link": "https://makfax.com.mk/svet/rute-chlenkite-na-nato-gi-zgolemija-izdvojuvanjata-za-odbrana-na-okolu-chetiri-otsto-od-bdp/",
-          "published": "Mon, 06 Jul 2026 18:06:53 +0000"
+          "source": "NetPress",
+          "title": "СП 2026: Шпанските резервисти ја пробија португалската одбрана за пласман во четвртфиналето",
+          "link": "https://netpress.com.mk/sp-2026-shpanskite-rezervisti-ja-probija-portugalskata-odbrana-za-plasman-vo-chetvrtfinaleto/",
+          "published": "Mon, 06 Jul 2026 22:07:50 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Роналдо: Двајца се виновни за елиминацијата на Бразил",
-          "link": "https://makfax.com.mk/sport/ronaldo-dvajca-se-vinovni-za-eliminacijata-na-brazil/",
-          "published": "Mon, 06 Jul 2026 17:57:45 +0000"
+          "source": "NetPress",
+          "title": "Запрени летовите на аеродромот Катанија поради пепел од вулканот Етна",
+          "link": "https://netpress.com.mk/zapreni-letovite-na-aerodromot-katanija-poradi-pepel-od-vulkanot-etna/",
+          "published": "Mon, 06 Jul 2026 21:02:00 +0000"
         },
         {
           "source": "NetPress",
@@ -57,18 +69,6 @@
           "title": "Зеленски бара НАТО да дејствува по рускиот напад врз Киев",
           "link": "https://netpress.com.mk/zelenski-bara-nato-da-dejstvuva-po-ruskiot-napad-vrz-kiev/",
           "published": "Mon, 06 Jul 2026 20:20:27 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Макрон во посета на Дамаск како прв челник на земја од ЕУ откако поранешните џихадисти ја преземаа власта",
-          "link": "https://netpress.com.mk/makron-vo-poseta-na-damask-kako-prv-chelnik-na-zemja-od-eu-otkako-poraneshnite-dhihadisti-ja-prezemaa-vlasta/",
-          "published": "Mon, 06 Jul 2026 19:59:05 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Ѓорѓиевски: За десетина дена започнува поврзувањето на тунелот под „Лимак“ со булеварот „Македонија“",
-          "link": "https://netpress.com.mk/gorgievski-za-desetina-dena-zapochnuva-povrzuvaneto-na-tunelot-pod-limak-so-bulevarot-makedonija/",
-          "published": "Mon, 06 Jul 2026 19:51:18 +0000"
         }
       ]
     },
@@ -85,7 +85,7 @@
           "source": "BBC",
           "title": "Ukraine warns of interceptor missile shortage as 23 killed in Kyiv region",
           "link": "https://www.bbc.co.uk/news/articles/cewqqnd7zdwo?at_medium=RSS&at_campaign=rss",
-          "published": "Mon, 06 Jul 2026 15:09:57 GMT"
+          "published": "Mon, 06 Jul 2026 21:02:37 GMT"
         },
         {
           "source": "BBC",
@@ -107,33 +107,33 @@
         },
         {
           "source": "Al Jazeera",
-          "title": "US judge tosses out Musk’s bid to void Twitter fraud verdict",
-          "link": "https://www.aljazeera.com/economy/2026/7/6/us-judge-tosses-out-musks-bid-to-void-twitter-fraud-verdict?traffic_source=rss",
-          "published": "Mon, 06 Jul 2026 20:37:33 +0000"
+          "title": "Late Spain goal eliminates Portugal, ends Ronaldo’s international career?",
+          "link": "https://www.aljazeera.com/sports/2026/7/6/late-spain-goal-eliminates-portugal-ends-ronaldos-international-career?traffic_source=rss",
+          "published": "Mon, 06 Jul 2026 22:20:29 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Crowds hold ‘destroy Israel’ banner at Spain’s Pamplona bull run",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/6/crowds-hold-destroy-israel-banner-at-spains-pamplona-bull-run?traffic_source=rss",
-          "published": "Mon, 06 Jul 2026 20:33:30 +0000"
+          "title": "Canada picks Germany’s TKMS for new submarines",
+          "link": "https://www.aljazeera.com/economy/2026/7/6/canada-picks-germanys-tkms-for-new-submarines?traffic_source=rss",
+          "published": "Mon, 06 Jul 2026 22:13:46 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Prosecutors in US lay out case against alleged killer of Charlie Kirk",
-          "link": "https://www.aljazeera.com/news/2026/7/6/prosecutors-in-us-lay-out-case-against-alleged-killer-of-charlie-kirk?traffic_source=rss",
-          "published": "Mon, 06 Jul 2026 20:19:00 +0000"
+          "title": "USA fans, Mamdani, experts react to FIFA-Trump-Balogun red card controversy",
+          "link": "https://www.aljazeera.com/sports/2026/7/6/usa-fans-mamdani-experts-react-to-fifa-trump-balogun-red-card-controversy?traffic_source=rss",
+          "published": "Mon, 06 Jul 2026 22:11:32 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "What is the fallout of the increasing violence in Mali?",
-          "link": "https://www.aljazeera.com/video/inside-story/2026/7/6/what-is-the-fallout-of-the-increasing-violence-in-mali?traffic_source=rss",
-          "published": "Mon, 06 Jul 2026 20:11:31 +0000"
+          "title": "One Phone Call, One Vanishing Red Card — The Balogun Scandal",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/6/aje-onl-nf_the-balogun-scandal-060726?traffic_source=rss",
+          "published": "Mon, 06 Jul 2026 22:00:08 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "US Supreme Court clears path for Texas to enforce app age verification law",
-          "link": "https://www.aljazeera.com/news/2026/7/6/us-supreme-court-clears-path-for-texas-to-enforce-app-age-verification-law?traffic_source=rss",
-          "published": "Mon, 06 Jul 2026 20:06:22 +0000"
+          "title": "Morocco says it has dismantled ISIL-linked cell planning attack",
+          "link": "https://www.aljazeera.com/news/2026/7/6/morocco-says-it-has-dismantled-isil-linked-cell-planning-attack?traffic_source=rss",
+          "published": "Mon, 06 Jul 2026 21:51:23 +0000"
         }
       ]
     }
