@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-06T23:41:42Z",
+  "updatedAt": "2026-07-07T01:26:53Z",
   "groups": [
     {
       "region": "Македонија",
@@ -83,9 +83,21 @@
         },
         {
           "source": "BBC",
+          "title": "Jailers and officials at Russia's 'torture prisons' in Ukraine exposed by BBC",
+          "link": "https://www.bbc.co.uk/news/articles/cx2kkrx8jeno?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 06 Jul 2026 23:55:53 GMT"
+        },
+        {
+          "source": "BBC",
           "title": "Ukraine warns of interceptor missile shortage as 23 killed in Kyiv region",
           "link": "https://www.bbc.co.uk/news/articles/cewqqnd7zdwo?at_medium=RSS&at_campaign=rss",
           "published": "Mon, 06 Jul 2026 21:02:37 GMT"
+        },
+        {
+          "source": "BBC",
+          "title": "Resistance and revenge - Iran wanted to send a message with its farewell to Khamenei",
+          "link": "https://www.bbc.co.uk/news/articles/c07yy3j3nljo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 07 Jul 2026 00:46:03 GMT"
         },
         {
           "source": "BBC",
@@ -94,46 +106,34 @@
           "published": "Mon, 06 Jul 2026 19:06:26 GMT"
         },
         {
-          "source": "BBC",
-          "title": "Ex-Syrian intelligence chief found guilty of torture and sexual abuse by Austrian court",
-          "link": "https://www.bbc.co.uk/news/articles/cy8ddd1m3mpo?at_medium=RSS&at_campaign=rss",
-          "published": "Mon, 06 Jul 2026 17:22:38 GMT"
-        },
-        {
-          "source": "BBC",
-          "title": "Huge crowds fill Tehran streets for Khamenei's funeral procession",
-          "link": "https://www.bbc.co.uk/news/articles/cdejj44kl70o?at_medium=RSS&at_campaign=rss",
-          "published": "Mon, 06 Jul 2026 18:50:44 GMT"
+          "source": "Al Jazeera",
+          "title": "Why el-Obeid matters as Sudan’s war enters a new phase",
+          "link": "https://www.aljazeera.com/news/2026/7/7/why-el-obeid-matters-as-sudans-war-enters-a-new-phase?traffic_source=rss",
+          "published": "Tue, 07 Jul 2026 00:34:41 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Leading US Democrats withdraw support for Platner after assault allegations",
-          "link": "https://www.aljazeera.com/news/2026/7/6/leading-us-democrats-withdraw-support-for-platner-after-assault-allegations?traffic_source=rss",
-          "published": "Mon, 06 Jul 2026 23:10:41 +0000"
+          "title": "Gambian mothers fear for their daughters as court weighs FGM ban",
+          "link": "https://www.aljazeera.com/news/2026/7/7/gambian-mothers-fear-for-their-daughters-as-court-weighs-fgm-ban?traffic_source=rss",
+          "published": "Tue, 07 Jul 2026 00:20:34 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "All to know about Ronaldo’s World Cup career as it ends in Spain loss",
-          "link": "https://www.aljazeera.com/sports/2026/7/6/all-to-know-about-ronaldos-world-cup-career-as-it-ends-in-spain-loss?traffic_source=rss",
-          "published": "Mon, 06 Jul 2026 23:08:13 +0000"
+          "title": "Trevor Noah mocks Trump-FIFA World Cup red card controversy",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/7/trevor-noah-mocks-trump-fifa-world-cup-red-card-controversy?traffic_source=rss",
+          "published": "Tue, 07 Jul 2026 00:07:07 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Late Spain goal eliminates Portugal, ends Ronaldo’s international career?",
-          "link": "https://www.aljazeera.com/sports/2026/7/6/late-spain-goal-eliminates-portugal-ends-ronaldos-international-career?traffic_source=rss",
-          "published": "Mon, 06 Jul 2026 22:20:29 +0000"
+          "title": "Iran war live: Khamenei’s body arrives in Qom; Hamas cedes Gaza governance",
+          "link": "https://www.aljazeera.com/news/liveblog/2026/7/7/iran-war-live-khameneis-body-arrives-in-qom-hamas-cedes-gaza-governance?traffic_source=rss",
+          "published": "Tue, 07 Jul 2026 00:00:00 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Canada picks Germany’s TKMS for new submarines",
-          "link": "https://www.aljazeera.com/economy/2026/7/6/canada-picks-germanys-tkms-for-new-submarines?traffic_source=rss",
-          "published": "Mon, 06 Jul 2026 22:13:46 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "‘If you win, it’s a stain’: Americans react to FIFA-Balogun controversy",
-          "link": "https://www.aljazeera.com/sports/2026/7/6/usa-fans-mamdani-experts-react-to-fifa-trump-balogun-red-card-controversy?traffic_source=rss",
-          "published": "Mon, 06 Jul 2026 22:11:32 +0000"
+          "title": "Ronaldo says his last World Cup is over but Portugal decision can wait",
+          "link": "https://www.aljazeera.com/sports/2026/7/6/ronaldo-says-his-last-world-cup-is-over-but-portugal-decision-can-wait?traffic_source=rss",
+          "published": "Mon, 06 Jul 2026 23:41:50 +0000"
         }
       ]
     }
