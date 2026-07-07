@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-07T20:56:24Z",
+  "updatedAt": "2026-07-07T22:12:23Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Супер Ѓоковиќ во супер тај-брејкот го скрши Оже Алијасим",
+          "link": "https://makfax.com.mk/sport/super-gokovik-vo-super-taj-brejkot-go-skrshi-ozhe-alijasim/",
+          "published": "Tue, 07 Jul 2026 22:07:46 +0000"
         },
         {
           "source": "Makfax",
@@ -35,10 +41,10 @@
           "published": "Tue, 07 Jul 2026 19:42:39 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Украина ја предупредува Полска: Последните што се обидоа да ни постават ултиматум беа Русите",
-          "link": "https://makfax.com.mk/svet/ukraina-ja-predupreduva-polska-poslednite-shto-se-obidoa-da-ni-postavat-ultimatum-bea-rusite/",
-          "published": "Tue, 07 Jul 2026 19:27:29 +0000"
+          "source": "NetPress",
+          "title": "Вимблдон: Мухова преку Осака до полуфиналето",
+          "link": "https://netpress.com.mk/vimbldon-muhova-preku-osaka-do-polufinaleto/",
+          "published": "Tue, 07 Jul 2026 21:16:47 +0000"
         },
         {
           "source": "NetPress",
@@ -63,18 +69,18 @@
           "title": "Фредериксен: Гренланд не е на продажба",
           "link": "https://netpress.com.mk/frederiksen-grenland-ne-e-na-prodazhba/",
           "published": "Tue, 07 Jul 2026 20:22:10 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Ковчегот со посмртните останки на иранскиот ајатолах Али Хамнеи пристигна во ирачкиот град Наџаф",
-          "link": "https://netpress.com.mk/kovchegot-so-posmrtnite-ostanki-na-iranskiot-ajatolah-ali-hamnei-pristigna-vo-irachkiot-grad-nadhaf/",
-          "published": "Tue, 07 Jul 2026 20:02:10 +0000"
         }
       ]
     },
     {
       "region": "Свет",
       "items": [
+        {
+          "source": "BBC",
+          "title": "US launches strikes on Iran after tankers hit in Strait of Hormuz",
+          "link": "https://www.bbc.co.uk/news/articles/cwykq59jwpvo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 07 Jul 2026 21:56:47 GMT"
+        },
         {
           "source": "BBC",
           "title": "Marine Le Pen to run for French presidency and appeal conviction in top court",
@@ -100,10 +106,22 @@
           "published": "Tue, 07 Jul 2026 16:10:14 GMT"
         },
         {
-          "source": "BBC",
-          "title": "New footage shown at Kirk hearing shows man on rooftop near shooting scene",
-          "link": "https://www.bbc.co.uk/news/articles/cr5j983p046o?at_medium=RSS&at_campaign=rss",
-          "published": "Tue, 07 Jul 2026 20:00:57 GMT"
+          "source": "Al Jazeera",
+          "title": "US says strikes launched as explosions heard in southern Iran",
+          "link": "https://www.aljazeera.com/news/2026/7/7/us-says-strikes-launched-as-explosions-heard-in-southern-iran?traffic_source=rss",
+          "published": "Tue, 07 Jul 2026 21:21:16 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Nasdaq vs Dow: How are the key indices different as SpaceX joins one?",
+          "link": "https://www.aljazeera.com/economy/2026/7/7/nasdaq-vs-dow-how-are-the-key-indices-different-as-spacex-joins-one?traffic_source=rss",
+          "published": "Tue, 07 Jul 2026 20:50:34 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Venezuela buries earthquake victims as death toll reaches 3,535",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/7/venezuela-buries-earthquake-victims-as-death-toll-reaches-3535?traffic_source=rss",
+          "published": "Tue, 07 Jul 2026 20:30:06 +0000"
         },
         {
           "source": "Al Jazeera",
@@ -116,24 +134,6 @@
           "title": "Prolonged hospitalisation of US Republican Mitch McConnell raises questions",
           "link": "https://www.aljazeera.com/news/2026/7/7/prolonged-hospitalisation-of-us-republican-mitch-mcconnell-raises-questions?traffic_source=rss",
           "published": "Tue, 07 Jul 2026 20:26:16 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Canadian province sues OpenAI over alleged ChatGPT-linked shooting warnings",
-          "link": "https://www.aljazeera.com/news/2026/7/7/canadian-province-sues-openai-over-alleged-chatgpt-linked-shooting-warnings?traffic_source=rss",
-          "published": "Tue, 07 Jul 2026 20:14:53 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Trump lashes out at NATO as first day of summit wraps in Turkiye",
-          "link": "https://www.aljazeera.com/news/2026/7/7/trump-lashes-out-at-nato-as-first-day-of-summit-wraps-in-turkiye?traffic_source=rss",
-          "published": "Tue, 07 Jul 2026 20:08:40 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Deadly  landslide buries tunnel construction site in India",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/7/deadly-landslide-buries-tunnel-construction-site-in-india?traffic_source=rss",
-          "published": "Tue, 07 Jul 2026 19:55:37 +0000"
         }
       ]
     }
