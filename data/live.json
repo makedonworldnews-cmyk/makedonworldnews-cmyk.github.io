@@ -1,6 +1,13 @@
 {
-  "generated_at": "2026-07-07T22:19:30Z",
+  "generated_at": "2026-07-07T23:17:04Z",
   "items": [
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "Швајцарија на пенали ја победи Колумбија",
+      "link": "https://makfax.com.mk/sport/shvajcarija-na-penali-ja-pobedi-kolumbija/",
+      "published": "Tue, 07 Jul 2026 23:02:00 +0000"
+    },
     {
       "region": "Македонија",
       "source": "Makfax",
@@ -31,10 +38,17 @@
     },
     {
       "region": "Македонија",
-      "source": "Makfax",
-      "title": "Конго: Бројот на потврдени случаи на ебола се зголеми на 1.624",
-      "link": "https://makfax.com.mk/svet/kongo-brojot-na-potvrdeni-sluchai-na-ebola-se-zgolemi-na-1-624/",
-      "published": "Tue, 07 Jul 2026 19:42:39 +0000"
+      "source": "NetPress",
+      "title": "САД изведоа низа напади врз Иран",
+      "link": "https://netpress.com.mk/sad-izvedoa-niza-napadi-vrz-iran/",
+      "published": "Tue, 07 Jul 2026 23:06:58 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "NetPress",
+      "title": "Вимблдон: По повеќе од пет часа, Ѓоковиќ го победи Оже-Алијасиме",
+      "link": "https://netpress.com.mk/vimbldon-po-poveke-od-pet-chasa-gokovik-go-pobedi-ozhe-alijasime/",
+      "published": "Tue, 07 Jul 2026 22:42:48 +0000"
     },
     {
       "region": "Македонија",
@@ -58,25 +72,11 @@
       "published": "Tue, 07 Jul 2026 20:43:47 +0000"
     },
     {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Инфантино се пофали: СП 2026 постигна неверојатен успех",
-      "link": "https://netpress.com.mk/infantino-se-pofali-sp-2026-postigna-neverojaten-uspeh/",
-      "published": "Tue, 07 Jul 2026 20:26:30 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Фредериксен: Гренланд не е на продажба",
-      "link": "https://netpress.com.mk/frederiksen-grenland-ne-e-na-prodazhba/",
-      "published": "Tue, 07 Jul 2026 20:22:10 +0000"
-    },
-    {
       "region": "Свет",
       "source": "BBC",
       "title": "US launches strikes on Iran after tankers hit in Strait of Hormuz",
       "link": "https://www.bbc.co.uk/news/articles/cwykq59jwpvo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 07 Jul 2026 21:56:47 GMT"
+      "published": "Tue, 07 Jul 2026 22:48:45 GMT"
     },
     {
       "region": "Свет",
@@ -109,6 +109,13 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "Egypt buoyed by praise for World Cup heroics despite controversial exit",
+      "link": "https://www.aljazeera.com/sports/2026/7/7/egypt-buoyed-by-praise-for-world-cup-heroics-despite-controversial-exit?traffic_source=rss",
+      "published": "Tue, 07 Jul 2026 22:46:10 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "Egypt were ‘cheated’ in World Cup loss to Argentina, coach Hassan says",
       "link": "https://www.aljazeera.com/sports/2026/7/7/egypt-were-cheated-in-world-cup-loss-to-argentina-coach-hassan-says?traffic_source=rss",
       "published": "Tue, 07 Jul 2026 22:04:54 +0000"
@@ -133,13 +140,6 @@
       "title": "Venezuela buries earthquake victims as death toll reaches 3,535",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/7/7/venezuela-buries-earthquake-victims-as-death-toll-reaches-3535?traffic_source=rss",
       "published": "Tue, 07 Jul 2026 20:30:06 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Pro-Palestine MEP Rima Hassan arrives at trial for ‘glorifying terrorism’",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/7/pro-palestine-mep-rima-hassan-arrives-at-trial-for-glorifying?traffic_source=rss",
-      "published": "Tue, 07 Jul 2026 20:27:41 +0000"
     }
   ]
 }
