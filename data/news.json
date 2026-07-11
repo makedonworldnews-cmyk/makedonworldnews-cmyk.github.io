@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-10T23:11:15Z",
+  "updatedAt": "2026-07-11T00:12:42Z",
   "groups": [
     {
       "region": "Македонија",
@@ -83,9 +83,21 @@
         },
         {
           "source": "BBC",
+          "title": "Meet the crypto billionaires building a world where money buys you a vote",
+          "link": "https://www.bbc.co.uk/news/articles/cly8eqyj8e2o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 10 Jul 2026 23:03:11 GMT"
+        },
+        {
+          "source": "BBC",
           "title": "East Asia braces for destructive typhoon as landslides kill 15 in Philippines",
           "link": "https://www.bbc.co.uk/news/articles/c04y6wr03gxo?at_medium=RSS&at_campaign=rss",
           "published": "Fri, 10 Jul 2026 13:53:11 GMT"
+        },
+        {
+          "source": "BBC",
+          "title": "Forced to wait his turn, Marine Le Pen's deputy Bardella returns to the shadows",
+          "link": "https://www.bbc.co.uk/news/articles/cn7558gdvjro?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 10 Jul 2026 23:02:59 GMT"
         },
         {
           "source": "BBC",
@@ -94,16 +106,22 @@
           "published": "Fri, 10 Jul 2026 16:42:11 GMT"
         },
         {
-          "source": "BBC",
-          "title": "Man fatally shot by ICE in Houston was not intended target, DHS says",
-          "link": "https://www.bbc.co.uk/news/articles/cm2rm66xd17o?at_medium=RSS&at_campaign=rss",
-          "published": "Fri, 10 Jul 2026 22:38:03 GMT"
+          "source": "Al Jazeera",
+          "title": "Nicaragua strips lawyers of certification in latest crackdown on dissent",
+          "link": "https://www.aljazeera.com/news/2026/7/10/nicaragua-strips-lawyers-of-certification-in-latest-crackdown-on-dissent?traffic_source=rss",
+          "published": "Fri, 10 Jul 2026 23:31:22 +0000"
         },
         {
-          "source": "BBC",
-          "title": "Man nearly sucked out of window mid-air on Ryanair plane, passengers say",
-          "link": "https://www.bbc.co.uk/news/articles/cgk65knkyzdo?at_medium=RSS&at_campaign=rss",
-          "published": "Fri, 10 Jul 2026 16:42:24 GMT"
+          "source": "Al Jazeera",
+          "title": "Cuba suffers second island-wide blackout in a week amid Trump fuel blockade",
+          "link": "https://www.aljazeera.com/news/2026/7/10/cuba-suffers-second-island-wide-blackout-in-a-week-amid-trump-fuel-blockade?traffic_source=rss",
+          "published": "Fri, 10 Jul 2026 23:18:08 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Apple files lawsuit accusing ChatGPT maker OpenAI of stealing trade secrets",
+          "link": "https://www.aljazeera.com/economy/2026/7/10/apple-files-lawsuit-accusing-chatgpt-maker-openai-of-stealing-trade-secrets?traffic_source=rss",
+          "published": "Fri, 10 Jul 2026 23:00:11 +0000"
         },
         {
           "source": "Al Jazeera",
@@ -116,24 +134,6 @@
           "title": "Under Lula, Amazon deforestation falls to lowest level in a decade",
           "link": "https://www.aljazeera.com/news/2026/7/10/under-lula-amazon-deforestation-falls-to-lowest-level-in-a-decade?traffic_source=rss",
           "published": "Fri, 10 Jul 2026 22:36:18 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Canada’s Bill C-36 tackles AI privacy. Is it enough?",
-          "link": "https://www.aljazeera.com/economy/2026/7/10/canadas-bill-c-36-tackles-ai-privacy-is-it-enough?traffic_source=rss",
-          "published": "Fri, 10 Jul 2026 22:12:38 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Spain leave it late to book semifinal date with France",
-          "link": "https://www.aljazeera.com/sports/2026/7/10/spain-leave-it-late-to-book-semifinal-date-with-france?traffic_source=rss",
-          "published": "Fri, 10 Jul 2026 21:39:56 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Dozens of abducted schoolchildren and teachers rescued in Nigeria",
-          "link": "https://www.aljazeera.com/news/2026/7/10/dozens-of-abducted-schoolchildren-and-teachers-rescued-in-nigeria?traffic_source=rss",
-          "published": "Fri, 10 Jul 2026 21:01:27 +0000"
         }
       ]
     }
