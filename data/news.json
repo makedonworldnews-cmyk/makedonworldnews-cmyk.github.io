@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-11T14:41:22Z",
+  "updatedAt": "2026-07-11T15:39:11Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Европа повторно под топлотен удар: Франција и Холандија воведоа вонредни мерки, температурите до 40 степени",
+          "link": "https://makfax.com.mk/svet/evropa/evropa-povtorno-pod-toploten-udar-francija-i-holandija-vovedoa-vonredni-merki-temperaturite-do-40-stepeni/",
+          "published": "Sat, 11 Jul 2026 15:30:11 +0000"
         },
         {
           "source": "Makfax",
@@ -35,10 +41,22 @@
           "published": "Sat, 11 Jul 2026 14:20:27 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "ЕУ ги менува правилата за патниците во авионскиот сообраќај",
-          "link": "https://makfax.com.mk/svet/evropa/eu-gi-menuva-pravilata-za-patnicite-vo-avionskiot-soobrakaj/",
-          "published": "Sat, 11 Jul 2026 13:59:32 +0000"
+          "source": "NetPress",
+          "title": "Маж прободен во лице за време на трката со бикови во Памплона",
+          "link": "https://netpress.com.mk/mazh-proboden-vo-licze-za-vreme-na-trkata-so-bikovi-vo-pamplona/",
+          "published": "Sat, 11 Jul 2026 15:38:15 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Марк Маркез најдобар на спринтот во Германија",
+          "link": "https://netpress.com.mk/mark-markez-najdobar-na-sprintot-vo-germanija/",
+          "published": "Sat, 11 Jul 2026 15:35:38 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Четири лица загинаа, едно e дете, во руски напад врз Суми",
+          "link": "https://netpress.com.mk/chetiri-licza-zaginaa-edno-e-dete-vo-ruski-napad-vrz-sumi/",
+          "published": "Sat, 11 Jul 2026 15:07:43 +0000"
         },
         {
           "source": "NetPress",
@@ -51,24 +69,6 @@
           "title": "СП 2026: ФИФА веќе го продава тревникот од финалето",
           "link": "https://netpress.com.mk/sp-2026-fifa-veke-go-prodava-trevnikot-od-finaleto/",
           "published": "Sat, 11 Jul 2026 14:38:02 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Се градат бројни капитални проекти во Охрид, потенцира Николоски",
-          "link": "https://netpress.com.mk/se-gradat-brojni-kapitalni-proekti-vo-ohrid-potenczira-nikoloski/",
-          "published": "Sat, 11 Jul 2026 14:35:50 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Серафимовски: Надминат е проблемот со откупот на млекото, сточарит добиваат сигурен пласман",
-          "link": "https://netpress.com.mk/serafimovski-nadminat-e-problemot-so-otkupot-na-mlekoto-stocharit-dobivaat-siguren-plasman/",
-          "published": "Sat, 11 Jul 2026 14:31:38 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Загина работник од Куманово на градилиште во Скопје",
-          "link": "https://netpress.com.mk/zagina-rabotnik-od-kumanovo-na-gradilishte-vo-skopje/",
-          "published": "Sat, 11 Jul 2026 14:28:14 +0000"
         }
       ]
     },
@@ -85,7 +85,7 @@
           "source": "BBC",
           "title": "Spain battles to contain one of its deadliest wildfires as at least 12 killed",
           "link": "https://www.bbc.co.uk/news/articles/c1wyv383j2xo?at_medium=RSS&at_campaign=rss",
-          "published": "Sat, 11 Jul 2026 09:01:15 GMT"
+          "published": "Sat, 11 Jul 2026 15:03:45 GMT"
         },
         {
           "source": "BBC",
