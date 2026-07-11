@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-11T00:55:25Z",
+  "generated_at": "2026-07-11T04:07:23Z",
   "items": [
     {
       "region": "Македонија",
@@ -74,6 +74,13 @@
     {
       "region": "Свет",
       "source": "BBC",
+      "title": "US wants Iran to pledge to stop shooting at ships in Strait of Hormuz",
+      "link": "https://www.bbc.co.uk/news/articles/crelyq79x71o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 11 Jul 2026 01:24:49 GMT"
+    },
+    {
+      "region": "Свет",
+      "source": "BBC",
       "title": "Wildfire in southern Spain leaves at least 12 dead and 23 missing",
       "link": "https://www.bbc.co.uk/news/articles/c8e2382jk7jo?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 10 Jul 2026 14:08:26 GMT"
@@ -101,10 +108,17 @@
     },
     {
       "region": "Свет",
-      "source": "BBC",
-      "title": "Zulu king expresses regret after video captures tirade against his wife",
-      "link": "https://www.bbc.co.uk/news/articles/cy8dl9n1v3vo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 10 Jul 2026 16:42:11 GMT"
+      "source": "Al Jazeera",
+      "title": "Yamal does not mind lack of goals if Spain win World Cup 2026",
+      "link": "https://www.aljazeera.com/sports/2026/7/11/yamal-does-not-mind-lack-of-goals-if-spain-win-world-cup-2026?traffic_source=rss",
+      "published": "Sat, 11 Jul 2026 02:26:40 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Zaporizhzhia’s mayor says Russian advance reaches city’s outskirts",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/11/zaporizhzhias-mayor-says-russian-advance-reaches-citys-outskirts?traffic_source=rss",
+      "published": "Sat, 11 Jul 2026 01:12:46 +0000"
     },
     {
       "region": "Свет",
@@ -116,7 +130,7 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
-      "title": "Iran war live: US demands Iran publicly state Strait of Hormuz open for all",
+      "title": "Iran war live: Trump says missiles aimed at Iran if it tries to kill him",
       "link": "https://www.aljazeera.com/news/liveblog/2026/7/11/iran-war-live-us-demands-iran-publicly-state-strait-of-hormuz-open-for-all?traffic_source=rss",
       "published": "Sat, 11 Jul 2026 00:00:00 +0000"
     },
@@ -126,20 +140,6 @@
       "title": "Nicaragua strips lawyers of certification in latest crackdown on dissent",
       "link": "https://www.aljazeera.com/news/2026/7/10/nicaragua-strips-lawyers-of-certification-in-latest-crackdown-on-dissent?traffic_source=rss",
       "published": "Fri, 10 Jul 2026 23:31:22 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Cuba suffers second island-wide blackout in a week amid Trump fuel blockade",
-      "link": "https://www.aljazeera.com/news/2026/7/10/cuba-suffers-second-island-wide-blackout-in-a-week-amid-trump-fuel-blockade?traffic_source=rss",
-      "published": "Fri, 10 Jul 2026 23:18:08 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Apple files lawsuit accusing ChatGPT maker OpenAI of stealing trade secrets",
-      "link": "https://www.aljazeera.com/economy/2026/7/10/apple-files-lawsuit-accusing-chatgpt-maker-openai-of-stealing-trade-secrets?traffic_source=rss",
-      "published": "Fri, 10 Jul 2026 23:00:11 +0000"
     }
   ]
 }
