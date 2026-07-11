@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-11T19:49:00Z",
+  "updatedAt": "2026-07-11T20:34:09Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Белата куќа ги зајакнува безбедносните системи",
+          "link": "https://makfax.com.mk/svet/belata-kuka-gi-zajaknuva-bezbednosnite-sistemi/",
+          "published": "Sat, 11 Jul 2026 19:58:13 +0000"
         },
         {
           "source": "Makfax",
@@ -35,10 +41,22 @@
           "published": "Sat, 11 Jul 2026 17:50:09 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Линда Носкова сензационална победничка на Вимблдон",
-          "link": "https://makfax.com.mk/sport/linda-noskova-senzacionalna-pobednichka-na-vimbldon/",
-          "published": "Sat, 11 Jul 2026 17:45:56 +0000"
+          "source": "NetPress",
+          "title": "Во Франција приведени 32 лица осомничени за подметнување шумски пожари",
+          "link": "https://netpress.com.mk/vo-franczija-privedeni-32-licza-osomnicheni-za-podmetnuvane-shumski-pozhari/",
+          "published": "Sat, 11 Jul 2026 20:30:31 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Локализиран е пожарот кај месноста Пирин Чешма во Општина Валандово",
+          "link": "https://netpress.com.mk/lokaliziran-e-pozharot-kaj-mesnosta-pirin-cheshma-vo-opshtina-valandovo/",
+          "published": "Sat, 11 Jul 2026 19:59:02 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Швајцарија против Меси и моќната Аргентина на СП",
+          "link": "https://netpress.com.mk/shvajczarija-protiv-mesi-i-moknata-argentina-na-sp/",
+          "published": "Sat, 11 Jul 2026 19:50:02 +0000"
         },
         {
           "source": "NetPress",
@@ -51,24 +69,6 @@
           "title": "Крозето: Европската одбрана треба да се прошири надвор од границите на ЕУ",
           "link": "https://netpress.com.mk/krozeto-evropskata-odbrana-treba-da-se-proshiri-nadvor-od-graniczite-na-eu/",
           "published": "Sat, 11 Jul 2026 19:04:50 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Албанија ако стане членка на ЕУ нема да стави вето на Македонија",
-          "link": "https://netpress.com.mk/albanija-ako-stane-chlenka-na-eu-nema-da-stavi-veto-na-makedonija/",
-          "published": "Sat, 11 Jul 2026 18:43:38 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Бројот на жртви во Газа достигна 73 221 лице",
-          "link": "https://netpress.com.mk/brojot-na-zhrtvi-vo-gaza-dostigna-73-221-licze/",
-          "published": "Sat, 11 Jul 2026 18:40:48 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Активиран планот за горештини во Холандија, температури до 34 степени",
-          "link": "https://netpress.com.mk/aktiviran-planot-za-goreshtini-vo-holandija-temperaturi-do-34-stepeni/",
-          "published": "Sat, 11 Jul 2026 18:38:25 +0000"
         }
       ]
     },
@@ -83,7 +83,7 @@
         },
         {
           "source": "BBC",
-          "title": "Iran supreme leader calls for revenge after father's burial",
+          "title": "Iran supreme leader calls for revenge for father's killing",
           "link": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss",
           "published": "Sat, 11 Jul 2026 19:30:36 GMT"
         },
@@ -104,6 +104,12 @@
           "title": "Polish PM pledges memorial to victims of WW2 'genocide by Ukrainian nationalists'",
           "link": "https://www.bbc.co.uk/news/articles/cze94x4361po?at_medium=RSS&at_campaign=rss",
           "published": "Sat, 11 Jul 2026 19:32:07 GMT"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Thousands gather in Srebrenica to mark 31 years since genocide",
+          "link": "https://www.aljazeera.com/news/2026/7/11/thousands-gather-in-srebrenica-to-mark-31-years-since-genocide?traffic_source=rss",
+          "published": "Sat, 11 Jul 2026 19:25:59 +0000"
         },
         {
           "source": "Al Jazeera",
@@ -128,12 +134,6 @@
           "title": "South Africa’s Jayden Adams, 25, dies after playing in FIFA World Cup",
           "link": "https://www.aljazeera.com/sports/2026/7/11/south-africas-jayden-adams-25-dies-after-playing-in-fifa-world-cup?traffic_source=rss",
           "published": "Sat, 11 Jul 2026 18:38:50 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "US, Lebanese delegations meet to discuss Israeli ‘pilot zones’ withdrawal",
-          "link": "https://www.aljazeera.com/news/2026/7/11/us-lebanese-delegations-meet-to-discuss-israeli-pilot-zones-withdrawal?traffic_source=rss",
-          "published": "Sat, 11 Jul 2026 18:20:24 +0000"
         }
       ]
     }
