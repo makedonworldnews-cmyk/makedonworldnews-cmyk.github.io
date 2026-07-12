@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-11T23:31:47Z",
+  "updatedAt": "2026-07-12T01:10:39Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Англиски медиуми: Имавме среќа и се провлековме",
+          "link": "https://makfax.com.mk/sport/angliski-mediumi-imavme-sreka-i-se-provlekovme/",
+          "published": "Sun, 12 Jul 2026 00:36:56 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) Крај на норвешката бајка: Голманот и судијата ги честеа Англичаните",
+          "link": "https://makfax.com.mk/sport/video-kraj-na-norveshkata-bajka-golmanot-i-sudijata-gi-chestea-anglichanite/",
+          "published": "Sun, 12 Jul 2026 00:10:56 +0000"
         },
         {
           "source": "Makfax",
@@ -29,16 +41,10 @@
           "published": "Sat, 11 Jul 2026 18:34:08 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Невреме ја погоди Франција: Околу 20.000 домаќинства останаа без струја",
-          "link": "https://makfax.com.mk/svet/nevreme-ja-pogodi-francija-okolu-20-000-domakinstva-ostanaa-bez-struja/",
-          "published": "Sat, 11 Jul 2026 18:12:54 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Почина репрезентативец на Јужна Африка, играше на СП",
-          "link": "https://makfax.com.mk/sport/pochina-reprezentativec-na-juzhna-afrika-igrashe-na-sp/",
-          "published": "Sat, 11 Jul 2026 17:50:09 +0000"
+          "source": "NetPress",
+          "title": "СП 2026: Англија во полуфиналето по продолженијата со Норвешка",
+          "link": "https://netpress.com.mk/sp-2026-anglija-vo-polufinaleto-po-prodolzhenijata-so-norveshka/",
+          "published": "Sun, 12 Jul 2026 00:05:28 +0000"
         },
         {
           "source": "NetPress",
@@ -63,12 +69,6 @@
           "title": "Во Франција приведени 32 лица осомничени за подметнување шумски пожари",
           "link": "https://netpress.com.mk/vo-franczija-privedeni-32-licza-osomnicheni-za-podmetnuvane-shumski-pozhari/",
           "published": "Sat, 11 Jul 2026 20:30:31 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Локализиран е пожарот кај месноста Пирин Чешма во Општина Валандово",
-          "link": "https://netpress.com.mk/lokaliziran-e-pozharot-kaj-mesnosta-pirin-cheshma-vo-opshtina-valandovo/",
-          "published": "Sat, 11 Jul 2026 19:59:02 +0000"
         }
       ]
     },
@@ -77,21 +77,21 @@
       "items": [
         {
           "source": "BBC",
+          "title": "US launches fresh strikes as Iran closes Strait of Hormuz",
+          "link": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 12 Jul 2026 00:15:22 GMT"
+        },
+        {
+          "source": "BBC",
           "title": "China's second typhoon in a week makes landfall",
           "link": "https://www.bbc.co.uk/news/articles/cdxd3wkp2rzo?at_medium=RSS&at_campaign=rss",
           "published": "Sat, 11 Jul 2026 17:41:56 GMT"
         },
         {
           "source": "BBC",
-          "title": "Iran says Strait of Hormuz closed 'until further notice'",
-          "link": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss",
-          "published": "Sat, 11 Jul 2026 23:14:18 GMT"
-        },
-        {
-          "source": "BBC",
-          "title": "Spain battles to contain one of its deadliest wildfires as at least 12 killed",
-          "link": "https://www.bbc.co.uk/news/articles/c1wyv383j2xo?at_medium=RSS&at_campaign=rss",
-          "published": "Sat, 11 Jul 2026 15:03:45 GMT"
+          "title": "T. rex could become most expensive fossil ever - but it's a ​problem for scientists",
+          "link": "https://www.bbc.co.uk/news/articles/c4gykgyn1r4o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 11 Jul 2026 23:58:40 GMT"
         },
         {
           "source": "BBC",
@@ -101,39 +101,39 @@
         },
         {
           "source": "BBC",
-          "title": "Polish PM pledges memorial to victims of WW2 'genocide by Ukrainian nationalists'",
-          "link": "https://www.bbc.co.uk/news/articles/cze94x4361po?at_medium=RSS&at_campaign=rss",
-          "published": "Sat, 11 Jul 2026 21:56:52 GMT"
+          "title": "Spain battles to contain one of its deadliest wildfires as at least 12 killed",
+          "link": "https://www.bbc.co.uk/news/articles/c1wyv383j2xo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 11 Jul 2026 15:03:45 GMT"
         },
         {
           "source": "Al Jazeera",
-          "title": "FIFA to sell pieces of World Cup final stadium pitch, could earn millions",
-          "link": "https://www.aljazeera.com/sports/2026/7/11/fifa-to-sell-pieces-of-world-cup-final-stadium-pitch-could-earn-millions?traffic_source=rss",
-          "published": "Sat, 11 Jul 2026 22:58:10 +0000"
+          "title": "Mediators push US-Iran talks in Qatar and Oman to avert escalation",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/12/mediators-push-us-iran-talks-in-qatar-and-oman-to-avert-escalation?traffic_source=rss",
+          "published": "Sun, 12 Jul 2026 00:22:21 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "US judge dismisses January 6 case against Proud Boys after Trump order",
-          "link": "https://www.aljazeera.com/news/2026/7/11/us-judge-dismisses-january-6-case-against-proud-boys-after-trump-order?traffic_source=rss",
-          "published": "Sat, 11 Jul 2026 21:53:40 +0000"
+          "title": "Bellingham scores twice as England beat Norway 2-1 to reach World Cup semis",
+          "link": "https://www.aljazeera.com/sports/2026/7/12/bellingham-scores-twice-as-england-beat-norway-2-1-to-reach-world-cup-semis?traffic_source=rss",
+          "published": "Sun, 12 Jul 2026 00:11:57 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Argentina vs Switzerland LIVE: FIFA World Cup 2026",
-          "link": "https://www.aljazeera.com/sports/liveblog/2026/7/11/argentina-vs-switzerland-live-fifa-world-cup-2026?traffic_source=rss",
-          "published": "Sat, 11 Jul 2026 21:31:40 +0000"
+          "title": "Iran war live: US bombs Iranian port cities as IRGC closes Strait of Hormuz",
+          "link": "https://www.aljazeera.com/news/liveblog/2026/7/12/iran-war-live-irgc-declares-strait-of-hormuz-closed-over-us-interference?traffic_source=rss",
+          "published": "Sun, 12 Jul 2026 00:00:00 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "UK police investigate murder of politician Ann Widdecombe",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/11/uk-police-investigate-murder-of-politician-ann-widdecombe?traffic_source=rss",
-          "published": "Sat, 11 Jul 2026 20:29:40 +0000"
+          "title": "Indian tourists killed after speedboat capsizes in Vietnam",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/11/indian-tourists-killed-after-speedboat-capsizes-in-vietnam?traffic_source=rss",
+          "published": "Sat, 11 Jul 2026 23:35:23 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "What’s behind Pakistan’s mass deportation of Afghans?",
-          "link": "https://www.aljazeera.com/video/inside-story/2026/7/11/whats-behind-pakistans-mass-deportation-of-afghans?traffic_source=rss",
-          "published": "Sat, 11 Jul 2026 20:11:55 +0000"
+          "title": "Whistleblower claims Kennedy Center ‘rushed’ renovations to please Trump",
+          "link": "https://www.aljazeera.com/news/2026/7/11/whistleblower-claims-kennedy-center-rushed-renovations-to-please-trump?traffic_source=rss",
+          "published": "Sat, 11 Jul 2026 23:31:23 +0000"
         }
       ]
     }
