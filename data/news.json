@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-12T20:50:06Z",
+  "updatedAt": "2026-07-12T21:36:12Z",
   "groups": [
     {
       "region": "Македонија",
@@ -42,6 +42,18 @@
         },
         {
           "source": "NetPress",
+          "title": "ВИДЕО| Пожар во паб во Бангкок, најмалку 27 мртви",
+          "link": "https://netpress.com.mk/video-pozhar-vo-pab-vo-bangkok-najmalku-27-mrtvi/",
+          "published": "Sun, 12 Jul 2026 21:05:25 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Ле Пен: Не е реално да се очекува дека одлуката на Касациониот суд би можела да ја загрози кандидатурата",
+          "link": "https://netpress.com.mk/le-pen-ne-e-realno-da-se-ochekuva-deka-odlukata-na-kasaczioniot-sud-bi-mozhela-da-ja-zagrozi-kandidaturata/",
+          "published": "Sun, 12 Jul 2026 20:50:57 +0000"
+        },
+        {
+          "source": "NetPress",
           "title": "Проверките покажале разни недостатоци кај 18 институти кои ги затвори МОН",
           "link": "https://netpress.com.mk/proverkite-pokazhale-razni-nedostatoczi-kaj-18-instituti-koi-gi-zatvori-mon/",
           "published": "Sun, 12 Jul 2026 20:38:32 +0000"
@@ -57,18 +69,6 @@
           "title": "Откако ја раскажа семејната агонија на Инстаграм, надлежните презедоа мерки, агресивниот татко ќе биде хоспитализиран во „Демир Хисар“",
           "link": "https://netpress.com.mk/otkako-ja-raskazha-semejnata-agonija-na-instagram-nadlezhnite-prezedoa-merki-agresivniot-tatko-ke-bide-hospitaliziran-vo-demir-hisar/",
           "published": "Sun, 12 Jul 2026 20:05:58 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "„Пежо“ излетало кај полигонот под Калето, возачот е тешко повреден",
-          "link": "https://netpress.com.mk/pezho-izletalo-kaj-poligonot-pod-kaloto-vozachot-e-teshko-povreden/",
-          "published": "Sun, 12 Jul 2026 20:00:04 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Јаник Синер е старо-новиот шампион на Вимблдон",
-          "link": "https://netpress.com.mk/janik-siner-e-staro-noviot-shampion-na-vimbldon/",
-          "published": "Sun, 12 Jul 2026 19:34:35 +0000"
         }
       ]
     },
@@ -77,7 +77,7 @@
       "items": [
         {
           "source": "BBC",
-          "title": "At least 27 killed in Bangkok bar fire, Thai authorities say",
+          "title": "At least 27 killed in Bangkok bar fire",
           "link": "https://www.bbc.co.uk/news/articles/c24yev53q06o?at_medium=RSS&at_campaign=rss",
           "published": "Sun, 12 Jul 2026 20:13:14 GMT"
         },
@@ -107,33 +107,33 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Lindsey Graham, hardline backer of US-Israeli wars, dies aged 71",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/12/lindsey-graham-hardline-backer-of-us-israeli-wars-dies-aged-71?traffic_source=rss",
+          "published": "Sun, 12 Jul 2026 21:12:54 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "The man who changed the Arab world",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/12/the-man-who-changed-the-arab-world?traffic_source=rss",
+          "published": "Sun, 12 Jul 2026 21:09:03 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Fire engulfs popular Bangkok pub, killing 27 people and injuring 63",
+          "link": "https://www.aljazeera.com/news/2026/7/12/fire-engulfs-popular-bangkok-pub-killing-27-people-and-injuring-63?traffic_source=rss",
+          "published": "Sun, 12 Jul 2026 20:48:37 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Sinner beats Zverev to defend Wimbledon men’s singles tennis title",
+          "link": "https://www.aljazeera.com/sports/2026/7/12/sinner-beats-zverev-to-defend-wimbledon-mens-singles-tennis-title?traffic_source=rss",
+          "published": "Sun, 12 Jul 2026 20:20:37 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Qatar’s former emir remembered as ‘a man of vision and courage’",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/7/12/qatars-former-emir-remembered-as-a-man-of-vision-and?traffic_source=rss",
           "published": "Sun, 12 Jul 2026 20:14:43 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "How will Qatar’s Father Emir be remembered?",
-          "link": "https://www.aljazeera.com/video/inside-story/2026/7/12/how-will-qatars-father-emir-be-remembered?traffic_source=rss",
-          "published": "Sun, 12 Jul 2026 20:14:13 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Former Spain PM criticised for ‘xenophobic’ remark on French World Cup team",
-          "link": "https://www.aljazeera.com/sports/2026/7/12/spain-ex-pm-criticised-for-xenophobic-remark-on-french-world-cup-team?traffic_source=rss",
-          "published": "Sun, 12 Jul 2026 20:09:58 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Iran says almost a dozen ‘enemy projectiles’ targeted Qeshm Island",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/12/iran-says-almost-a-dozen-enemy-projectiles-targeted-qeshm-island?traffic_source=rss",
-          "published": "Sun, 12 Jul 2026 19:56:26 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Nine dead as Russia and Ukraine trade drone and missile salvos",
-          "link": "https://www.aljazeera.com/news/2026/7/12/nine-dead-as-russia-and-ukraine-trade-drone-and-missile-salvos?traffic_source=rss",
-          "published": "Sun, 12 Jul 2026 19:53:03 +0000"
         }
       ]
     }
