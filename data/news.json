@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-12T14:43:46Z",
+  "updatedAt": "2026-07-12T15:42:46Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Трамп тврди дека Иран го прекршил договорот за само еден час: „Болни луѓе се“",
+          "link": "https://makfax.com.mk/svet/tramp-tvrdi-deka-iran-go-prekrshil-dogovorot-za-samo-eden-chas-bolni-luge-se/",
+          "published": "Sun, 12 Jul 2026 15:22:43 +0000"
         },
         {
           "source": "Makfax",
@@ -35,40 +41,34 @@
           "published": "Sun, 12 Jul 2026 13:05:31 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "(Фото) Ѓорѓиевски: Трајно се санира големиот дефект на булеварот „Борис Трајковски“, по три години привремени решенија",
-          "link": "https://makfax.com.mk/makedonija/foto-gorgievski-trajno-se-sanira-golemiot-defekt-na-bulevarot-boris-trajkovski-po-tri-godini-privremeni-reshenija/",
-          "published": "Sun, 12 Jul 2026 12:33:13 +0000"
+          "source": "NetPress",
+          "title": "Протестот на ДУИ во Тетово е политичка паника, а не борба за граѓаните",
+          "link": "https://netpress.com.mk/protestot-na-dui-vo-tetovo-e-politichka-panika-a-ne-borba-za-graganite/",
+          "published": "Sun, 12 Jul 2026 15:40:41 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Марк Маркез победи во Германија",
-          "link": "https://netpress.com.mk/mark-markez-pobedi-vo-germanija/",
-          "published": "Sun, 12 Jul 2026 14:31:49 +0000"
+          "title": "Зеленски oбјави разрешување на премиерката Свириденко",
+          "link": "https://netpress.com.mk/zelenski-objavi-razreshuvane-na-premierkata-sviridenko/",
+          "published": "Sun, 12 Jul 2026 15:38:53 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Германија: Најголем број смртни случаи од давење во јуни во 23 години",
-          "link": "https://netpress.com.mk/germanija-najgolem-broj-smrtni-sluchai-od-davene-vo-juni-vo-23-godini/",
-          "published": "Sun, 12 Jul 2026 14:31:15 +0000"
+          "title": "Хотмискиот теснец е отворен за пловидба",
+          "link": "https://netpress.com.mk/hotmiskiot-tesnecz-e-otvoren-za-plovidba/",
+          "published": "Sun, 12 Jul 2026 15:03:04 +0000"
         },
         {
           "source": "NetPress",
-          "title": "ЗНАМ во Битола – силна држава, сигурни граѓани, европска иднина",
-          "link": "https://netpress.com.mk/znam-vo-bitola-silna-drzhava-sigurni-gragani-evropska-idnina/",
-          "published": "Sun, 12 Jul 2026 14:28:45 +0000"
+          "title": "Пороен дожд во Скопје, невремето се движи кон Кавадарци, Неготино, Свети Николе и Велес",
+          "link": "https://netpress.com.mk/poroen-dozhd-vo-skopje-nevremeto-se-dvizhi-kon-kavadarczi-negotino-sveti-nikole-i-veles/",
+          "published": "Sun, 12 Jul 2026 15:00:36 +0000"
         },
         {
           "source": "NetPress",
-          "title": "40-годишен скопјанец пронајден мртов во стан во Аеродром",
-          "link": "https://netpress.com.mk/40-godishen-skopjanecz-pronajden-mrtov-vo-stan-vo-aerodrom/",
-          "published": "Sun, 12 Jul 2026 14:17:27 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Пукотници од автомобил во движење во центарот на Скопје",
-          "link": "https://netpress.com.mk/pukotniczi-od-avtomobil-vo-dvizhene-vo-czentarot-na-skopje/",
-          "published": "Sun, 12 Jul 2026 14:10:53 +0000"
+          "title": "Претседателката Сиљановска Давкова им подари традиционална галичка пафта на младенците на „Галичка свадба“",
+          "link": "https://netpress.com.mk/pretsedatelkata-silanovska-davkova-im-podari-tradiczionalna-galichka-pafta-na-mladenczite-na-galichka-svadba/",
+          "published": "Sun, 12 Jul 2026 14:58:45 +0000"
         }
       ]
     },
@@ -77,15 +77,15 @@
       "items": [
         {
           "source": "BBC",
-          "title": "US launches fresh strikes as Iran closes Strait of Hormuz",
+          "title": "US insists Strait of Hormuz is open as it exchanges strikes with Iran",
           "link": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss",
-          "published": "Sun, 12 Jul 2026 06:49:46 GMT"
+          "published": "Sun, 12 Jul 2026 15:35:38 GMT"
         },
         {
           "source": "BBC",
           "title": "US senator and close Trump ally Lindsey Graham dies after 'brief and sudden illness'",
           "link": "https://www.bbc.co.uk/news/articles/cvgj25j6nmeo?at_medium=RSS&at_campaign=rss",
-          "published": "Sun, 12 Jul 2026 14:18:45 GMT"
+          "published": "Sun, 12 Jul 2026 15:34:45 GMT"
         },
         {
           "source": "BBC",
@@ -101,39 +101,39 @@
         },
         {
           "source": "BBC",
-          "title": "At least two killed in Toronto street festival shooting",
-          "link": "https://www.bbc.co.uk/news/articles/ce3e66e1x3go?at_medium=RSS&at_campaign=rss",
-          "published": "Sun, 12 Jul 2026 03:56:02 GMT"
+          "title": "T. rex could become most expensive fossil ever - but it's a ​problem for scientists",
+          "link": "https://www.bbc.co.uk/news/articles/c4gykgyn1r4o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 11 Jul 2026 23:58:40 GMT"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Israeli forces kill five Palestinians in latest attacks on Gaza",
+          "link": "https://www.aljazeera.com/news/2026/7/12/israeli-forces-kill-five-palestinians-in-latest-attacks-on-gaza?traffic_source=rss",
+          "published": "Sun, 12 Jul 2026 15:16:44 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "What made US Republican Senator Lindsey Graham a controversial figure",
+          "link": "https://www.aljazeera.com/news/2026/7/12/what-made-us-republican-senator-lindsey-graham-a-controversial-figure?traffic_source=rss",
+          "published": "Sun, 12 Jul 2026 15:03:49 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "FIFA, Infantino, to examine 64-team World Cup for 2030 tournament",
+          "link": "https://www.aljazeera.com/sports/2026/7/12/fifa-infantino-to-examine-64-team-world-cup-for-2030-tournament?traffic_source=rss",
+          "published": "Sun, 12 Jul 2026 14:47:15 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "The architect of Qatari autonomy",
+          "link": "https://www.aljazeera.com/opinions/2026/7/12/the-architect-of-qatari-autonomy?traffic_source=rss",
+          "published": "Sun, 12 Jul 2026 14:42:27 +0000"
         },
         {
           "source": "Al Jazeera",
           "title": "Driven by desperation: Yemenis resort to dangerous energy alternatives",
           "link": "https://www.aljazeera.com/news/2026/7/12/driven-by-desperation-yemenis-resort-to-dangerous-energy-alternatives?traffic_source=rss",
           "published": "Sun, 12 Jul 2026 14:12:45 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Friends turned foes: The split reshaping Senegal",
-          "link": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/7/12/friends-turned-foes-the-split-reshaping-senegal?traffic_source=rss",
-          "published": "Sun, 12 Jul 2026 13:51:28 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Marc Marquez dominates Germany MotoGP to close in on championship lead",
-          "link": "https://www.aljazeera.com/sports/2026/7/12/marc-marquez-dominates-germany-motogp-to-close-in-on-championship-lead?traffic_source=rss",
-          "published": "Sun, 12 Jul 2026 13:45:32 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Ukraine’s Zelenskyy announces cabinet reshuffle, replaces PM Svyrydenko",
-          "link": "https://www.aljazeera.com/news/2026/7/12/ukraines-zelenskyy-announces-cabinet-reshuffle-replaces-pm-svyrydenko?traffic_source=rss",
-          "published": "Sun, 12 Jul 2026 13:28:53 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Pape Thiaw fired as Senegal coach after disappointing FIFA World Cup",
-          "link": "https://www.aljazeera.com/sports/2026/7/12/pape-thiaw-fired-as-senegal-coach-after-disappointing-fifa-world-cup?traffic_source=rss",
-          "published": "Sun, 12 Jul 2026 13:23:21 +0000"
         }
       ]
     }
