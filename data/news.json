@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-12T18:40:22Z",
+  "updatedAt": "2026-07-12T19:55:22Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Синер по пресврт го победи Зверев и го освои Вимблдон",
+          "link": "https://makfax.com.mk/sport/siner-po-presvrt-go-pobedi-zverev-i-go-osvoi-vimbldon/",
+          "published": "Sun, 12 Jul 2026 19:10:57 +0000"
         },
         {
           "source": "Makfax",
@@ -35,46 +41,46 @@
           "published": "Sun, 12 Jul 2026 17:01:54 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "(Видео) Нови експлозии во Иран: нападнат остров во близина на Ормутскиот Теснец",
-          "link": "https://makfax.com.mk/top/video-novi-eksplozii-vo-iran-napadnat-ostrov-vo-blizina-na-ormutskiot-tesnec/",
-          "published": "Sun, 12 Jul 2026 16:50:22 +0000"
+          "source": "NetPress",
+          "title": "Јаник Синер е старо-новиот шампион на Вимблдон",
+          "link": "https://netpress.com.mk/janik-siner-e-staro-noviot-shampion-na-vimbldon/",
+          "published": "Sun, 12 Jul 2026 19:34:35 +0000"
         },
         {
           "source": "NetPress",
-          "title": "САД и Иран постигнаа договор вчера, вели Трамп, Техеран го прекрши со нов напад",
-          "link": "https://netpress.com.mk/sad-i-iran-postignaa-dogovor-vchera-veli-tramp-teheran-go-prekrshi-so-nov-napad/",
-          "published": "Sun, 12 Jul 2026 18:38:43 +0000"
+          "title": "Девет семејни инциденти за 24 часа",
+          "link": "https://netpress.com.mk/devet-semejni-inczidenti-za-24-chasa/",
+          "published": "Sun, 12 Jul 2026 19:28:43 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Француски и шпански политичари ги осудуваат „расистичките изјави за Триколорите“",
-          "link": "https://netpress.com.mk/franczuski-i-shpanski-politichari-gi-osuduvaat-rasistichkite-izjavi-za-trikolorite/",
-          "published": "Sun, 12 Jul 2026 18:02:14 +0000"
+          "title": "ФОТО| По три години привремени решенија трајно се санира големиот дефект на булеварот Борис Трајковски",
+          "link": "https://netpress.com.mk/foto-po-tri-godini-privremeni-reshenija-trajno-se-sanira-golemiot-defekt-na-bulevarot-boris-trajkovski/",
+          "published": "Sun, 12 Jul 2026 19:22:25 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Се преврте минбус кај Котор, еден загинат и 16 повредени",
-          "link": "https://netpress.com.mk/se-pevrte-minbus-kaj-kotor-eden-zaginat-i-16-povredeni/",
-          "published": "Sun, 12 Jul 2026 17:28:56 +0000"
+          "title": "СДСМ нема да учествува на средбата на опозициските партии иницирана од Левица",
+          "link": "https://netpress.com.mk/sdsm-nema-da-uchestvuva-na-sredbata-na-opozicziskite-partii-iniczirana-od-levicza/",
+          "published": "Sun, 12 Jul 2026 19:16:22 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Свириденко поднесе оставка, Зеленски ќе прави реконструкција на владата",
-          "link": "https://netpress.com.mk/sviridenko-podnese-ostavka-zelenski-ke-pravi-rekonstrukczija-na-vladata/",
-          "published": "Sun, 12 Jul 2026 17:21:24 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Палестински функционери тврдат дека пет лица се убиени во напади на израелската војска врз Појасот Газа",
-          "link": "https://netpress.com.mk/palestinski-funkczioneri-tvrdat-deka-pet-licza-se-ubieni-vo-napadi-na-izraelskata-vojska-vrz-pojasot-gaza/",
-          "published": "Sun, 12 Jul 2026 17:18:38 +0000"
+          "title": "Катар советува привремен прекин на поморските активности по нападите на Иран",
+          "link": "https://netpress.com.mk/katar-sovetuva-privremen-prekin-na-pomorskite-aktivnosti-po-napadite-na-iran/",
+          "published": "Sun, 12 Jul 2026 19:07:58 +0000"
         }
       ]
     },
     {
       "region": "Свет",
       "items": [
+        {
+          "source": "BBC",
+          "title": "At least 27 killed in Bangkok bar fire, Thai media report",
+          "link": "https://www.bbc.co.uk/news/articles/c24yev53q06o?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 12 Jul 2026 19:54:45 GMT"
+        },
         {
           "source": "BBC",
           "title": "US insists Strait of Hormuz is open as it exchanges strikes with Iran",
@@ -100,40 +106,34 @@
           "published": "Sun, 12 Jul 2026 07:39:45 GMT"
         },
         {
-          "source": "BBC",
-          "title": "Former Emir of Qatar Sheikh Hamad bin Khalifa Al Thani dies aged 74",
-          "link": "https://www.bbc.co.uk/news/articles/cql1qdq14xro?at_medium=RSS&at_campaign=rss",
-          "published": "Sun, 12 Jul 2026 16:35:50 GMT"
+          "source": "Al Jazeera",
+          "title": "England vs Argentina: Greatest moments before FIFA World Cup semifinal",
+          "link": "https://www.aljazeera.com/sports/2026/7/12/fifa-world-cup-england-vs-argentina-historic-rivalry-greatest-moments-semifinal?traffic_source=rss",
+          "published": "Sun, 12 Jul 2026 19:31:20 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Thousands gather to bid farewell to Qatar’s Father Emir Sheikh Hamad",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/12/thousands-gather-to-bid-farewell-to-qatars-father-emir-sheikh-hamad?traffic_source=rss",
-          "published": "Sun, 12 Jul 2026 18:24:30 +0000"
+          "title": "Why the Iran-US ceasefire is falling apart",
+          "link": "https://www.aljazeera.com/video/the-bottom-line/2026/7/12/why-the-iran-us-ceasefire-is-falling-apart?traffic_source=rss",
+          "published": "Sun, 12 Jul 2026 19:27:34 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Who will replace Trump ally Lindsey Graham in the US Senate?",
-          "link": "https://www.aljazeera.com/news/2026/7/12/who-will-replace-trump-ally-lindsey-graham-in-the-us-senate?traffic_source=rss",
-          "published": "Sun, 12 Jul 2026 17:51:54 +0000"
+          "title": "Anti-migrant display set alight in Northern Ireland bonfire",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/12/anti-migrant-display-set-alight-in-northern-ireland-bonfire?traffic_source=rss",
+          "published": "Sun, 12 Jul 2026 19:21:17 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Concern for renewed war in Iran as US attacks military, civilian targets",
-          "link": "https://www.aljazeera.com/news/2026/7/12/concern-for-renewed-war-in-iran-as-us-attacks-military-civilian-targets?traffic_source=rss",
-          "published": "Sun, 12 Jul 2026 17:50:27 +0000"
+          "title": "Friends turned foes: The split reshaping Senegal",
+          "link": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/7/12/friends-turned-foes-the-split-reshaping-senegal?traffic_source=rss",
+          "published": "Sun, 12 Jul 2026 19:21:00 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Funeral prayers held for Qatar’s Father Emir Sheikh Hamad in Doha",
-          "link": "https://www.aljazeera.com/news/2026/7/12/funeral-prayers-held-for-qatars-father-emir-sheikh-hamad-in-doha?traffic_source=rss",
-          "published": "Sun, 12 Jul 2026 16:58:11 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "UK Christians protest for Church of England to recognise genocide in Gaza",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/12/uk-christians-protest-for-church-of-england-to-recognise-genocide-in-gaza?traffic_source=rss",
-          "published": "Sun, 12 Jul 2026 16:54:49 +0000"
+          "title": "Some 30 Malian soldiers killed during Anefis retaking, says army chief",
+          "link": "https://www.aljazeera.com/news/2026/7/12/some-30-malian-soldiers-killed-during-anefis-retaking-says-army-chief?traffic_source=rss",
+          "published": "Sun, 12 Jul 2026 19:01:40 +0000"
         }
       ]
     }
