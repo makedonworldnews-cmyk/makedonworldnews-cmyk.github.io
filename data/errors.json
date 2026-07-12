@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-07-12T18:40:22Z",
+  "generated_at": "2026-07-12T19:32:32Z",
   "errors": [
     {
       "source": "МИА",
       "url": "https://mia.mk/rss",
-      "error": "404 Client Error: Not Found for url: https://mia.mk/rss"
+      "error": "503 Server Error: Service Temporarily Unavailable for url: https://mia.mk/rss"
     }
   ]
 }
