@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-14T21:34:06Z",
+  "updatedAt": "2026-07-14T22:35:59Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Селекторот на Шпанија: Франција се соочи со најдобрата репрезентација на светот",
+          "link": "https://makfax.com.mk/sport/selektorot-na-shpanija-francija-se-soochi-so-najdobrata-reprezentacija-na-svetot/",
+          "published": "Tue, 14 Jul 2026 21:43:57 +0000"
         },
         {
           "source": "Makfax",
@@ -35,10 +41,10 @@
           "published": "Tue, 14 Jul 2026 20:13:13 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Иран се закани: Ниту капка нафта нема да помине низ Ормускиот теснец",
-          "link": "https://makfax.com.mk/svet/iran-se-zakani-nitu-kapka-nafta-nema-da-pomine-niz-ormuskiot-tesnec/",
-          "published": "Tue, 14 Jul 2026 20:08:29 +0000"
+          "source": "NetPress",
+          "title": "СП 2026: Шпанија ја надигра немоќната Франција",
+          "link": "https://netpress.com.mk/sp-2026-shpanija-ja-nadigra-nemoknata-franczija/",
+          "published": "Tue, 14 Jul 2026 21:36:57 +0000"
         },
         {
           "source": "NetPress",
@@ -63,12 +69,6 @@
           "title": "Епидемијата на ебола може да биде два до четири пати поголема од официјалните проценки",
           "link": "https://netpress.com.mk/epidemijata-na-ebola-mozhe-da-bide-dva-do-chetiri-pati-pogolema-od-oficzijalnite-proczenki/",
           "published": "Tue, 14 Jul 2026 20:01:37 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Италијанскиот парламент ја отфрли изборната реформа на Мелони",
-          "link": "https://netpress.com.mk/italijanskiot-parlament-ja-otfrli-izbornata-reforma-na-meloni/",
-          "published": "Tue, 14 Jul 2026 20:01:27 +0000"
         }
       ]
     },
@@ -107,33 +107,33 @@
         },
         {
           "source": "Al Jazeera",
-          "title": "US-Russian crew launches on mission to space station",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/14/us-russian-crew-launches-on-mission-to-space-station?traffic_source=rss",
-          "published": "Tue, 14 Jul 2026 20:36:57 +0000"
+          "title": "Outspoken Moroccan rapper Mehdi El Youbi arrested in Casablanca",
+          "link": "https://www.aljazeera.com/news/2026/7/14/outspoken-moroccan-rapper-mehdi-el-youbi-arrested-in-casablanca?traffic_source=rss",
+          "published": "Tue, 14 Jul 2026 22:11:33 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "What is Iran’s Pickaxe Mountain?",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/14/what-is-irans-pickaxe-mountain-2?traffic_source=rss",
-          "published": "Tue, 14 Jul 2026 20:27:40 +0000"
+          "title": "Colombian father identified in deadly ICE shooting",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/14/colombian-father-identified-in-deadly-ice-shooting?traffic_source=rss",
+          "published": "Tue, 14 Jul 2026 21:51:14 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Worker killed in furnace explosion fire at Indian recycling plant",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/14/worker-killed-in-furnace-explosion-fire-at-indian-recycling-plant?traffic_source=rss",
-          "published": "Tue, 14 Jul 2026 20:18:36 +0000"
+          "title": "Spain deliver masterclass to beat France 2-0 and reach World Cup final",
+          "link": "https://www.aljazeera.com/sports/2026/7/14/spain-deliver-masterclass-to-beat-france-2-0-and-reach-world-cup-final?traffic_source=rss",
+          "published": "Tue, 14 Jul 2026 21:39:16 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Why Yemen’s long ‘no war, no peace’ deadlock may be ending",
-          "link": "https://www.aljazeera.com/features/2026/7/14/why-yemens-long-no-war-no-peace-deadlock-may-be-ending?traffic_source=rss",
-          "published": "Tue, 14 Jul 2026 20:17:56 +0000"
+          "title": "Are countries prepared to cope with extreme weather?",
+          "link": "https://www.aljazeera.com/video/inside-story/2026/7/14/are-countries-prepared-to-cope-with-extreme-weather?traffic_source=rss",
+          "published": "Tue, 14 Jul 2026 21:26:07 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Mahmoud Khalil alleges conspiracy in lawsuit against Trump officials",
-          "link": "https://www.aljazeera.com/news/2026/7/14/mahmoud-khalil-alleges-conspiracy-in-lawsuit-against-trump-officials?traffic_source=rss",
-          "published": "Tue, 14 Jul 2026 20:16:52 +0000"
+          "title": "World Cup semifinal: Key players to watch in England vs Argentina clash",
+          "link": "https://www.aljazeera.com/sports/2026/7/14/fifa-world-cup-key-players-to-watch-as-england-and-argentina-clash-in-semifinal?traffic_source=rss",
+          "published": "Tue, 14 Jul 2026 21:10:42 +0000"
         }
       ]
     }
