@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-14T20:33:26Z",
+  "updatedAt": "2026-07-14T21:34:06Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) Шпански час по фудбал за Франција – Шпанија ќе се бори за титулата на СП",
+          "link": "https://makfax.com.mk/sport/video-shpanski-chas-po-fudbal-za-francija-shpanija-ke-se-bori-za-titulata-na-sp/",
+          "published": "Tue, 14 Jul 2026 21:08:58 +0000"
         },
         {
           "source": "Makfax",
@@ -33,12 +39,6 @@
           "title": "Иран се закани: Ниту капка нафта нема да помине низ Ормускиот теснец",
           "link": "https://makfax.com.mk/svet/iran-se-zakani-nitu-kapka-nafta-nema-da-pomine-niz-ormuskiot-tesnec/",
           "published": "Tue, 14 Jul 2026 20:08:29 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Меџити присуствуваше на премиерата на претставата „Татко“ на „Охридско лето“",
-          "link": "https://makfax.com.mk/kultura/medhiti-prisustvuvashe-na-premierata-na-pretstavata-tatko-na-ohridsko-leto/",
-          "published": "Tue, 14 Jul 2026 19:55:33 +0000"
         },
         {
           "source": "NetPress",
@@ -107,6 +107,12 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "US-Russian crew launches on mission to space station",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/14/us-russian-crew-launches-on-mission-to-space-station?traffic_source=rss",
+          "published": "Tue, 14 Jul 2026 20:36:57 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "What is Iran’s Pickaxe Mountain?",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/7/14/what-is-irans-pickaxe-mountain-2?traffic_source=rss",
           "published": "Tue, 14 Jul 2026 20:27:40 +0000"
@@ -128,12 +134,6 @@
           "title": "Mahmoud Khalil alleges conspiracy in lawsuit against Trump officials",
           "link": "https://www.aljazeera.com/news/2026/7/14/mahmoud-khalil-alleges-conspiracy-in-lawsuit-against-trump-officials?traffic_source=rss",
           "published": "Tue, 14 Jul 2026 20:16:52 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "New York imposes landmark one-year ban on large data centres",
-          "link": "https://www.aljazeera.com/economy/2026/7/14/new-york-imposes-landmark-one-year-ban-on-large-data-centres?traffic_source=rss",
-          "published": "Tue, 14 Jul 2026 20:13:32 +0000"
         }
       ]
     }
