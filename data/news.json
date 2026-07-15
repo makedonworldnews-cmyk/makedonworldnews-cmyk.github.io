@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-15T19:39:09Z",
+  "updatedAt": "2026-07-15T20:41:09Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Трамп: Не сакам преговори",
+          "link": "https://makfax.com.mk/svet/tramp-ne-sakam-pregovori/",
+          "published": "Wed, 15 Jul 2026 19:46:04 +0000"
         },
         {
           "source": "Makfax",
@@ -35,10 +41,16 @@
           "published": "Wed, 15 Jul 2026 17:53:22 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Сто години живот: градоначалникот на Крива Паланка  ја посети највозрасната сограѓанка",
-          "link": "https://makfax.com.mk/makedonija/sto-godini-zhivot-gradonachalnikot-na-kriva-palanka-ja-poseti-najvozrasnata-sograganka/",
-          "published": "Wed, 15 Jul 2026 17:36:12 +0000"
+          "source": "NetPress",
+          "title": "Француските пратеници ја одобрија евтаназијата",
+          "link": "https://netpress.com.mk/franczuskite-prateniczi-ja-odobrija-evtanazijata/",
+          "published": "Wed, 15 Jul 2026 20:16:52 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Убиен главниот инженер на нуклеарната централа Запорожје",
+          "link": "https://netpress.com.mk/ubien-glavniot-inzhener-na-nuklearnata-czentrala-zaporozhje/",
+          "published": "Wed, 15 Jul 2026 19:45:13 +0000"
         },
         {
           "source": "NetPress",
@@ -57,18 +69,6 @@
           "title": "Москва предупредува: Војниците од „коалицијата на волните“ во Украина ќе бидат легитимни цели",
           "link": "https://netpress.com.mk/moskva-predupreduva-vojniczite-od-koaliczijata-na-volnite-vo-ukraina-ke-bidat-legitimni-czeli-2/",
           "published": "Wed, 15 Jul 2026 19:15:47 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Мерц во очај им се обрати на гласачите на AfD пред клучните регионални избори во Германија",
-          "link": "https://netpress.com.mk/mercz-vo-ochaj-im-se-obrati-na-glasachite-na-afd-pred-kluchnite-regionalni-izbori-vo-germanija/",
-          "published": "Wed, 15 Jul 2026 17:47:37 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Војната со Иран го прекина 23-годишното американско воено присуство во Ирак",
-          "link": "https://netpress.com.mk/vojnata-so-iran-go-prekina-23-godishnoto-amerikansko-voeno-prisustvo-vo-irak/",
-          "published": "Wed, 15 Jul 2026 17:27:55 +0000"
         }
       ]
     },
@@ -107,33 +107,33 @@
         },
         {
           "source": "Al Jazeera",
-          "title": "Fourteen-year-old boy charged over alleged plot targeting London mosques",
-          "link": "https://www.aljazeera.com/news/2026/7/15/fourteen-year-old-boy-charged-over-alleged-plot-targeting-london-mosques?traffic_source=rss",
-          "published": "Wed, 15 Jul 2026 19:09:32 +0000"
+          "title": "Russia pounds Ukraine with missile, drone strikes",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/15/russia-pounds-ukraine-with-missile-drone-strikes?traffic_source=rss",
+          "published": "Wed, 15 Jul 2026 19:59:48 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Argentina fans flood Atlanta ahead of England World Cup match",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/15/argentina-fans-flood-atlanta-ahead-of-england-world-cup-match?traffic_source=rss",
-          "published": "Wed, 15 Jul 2026 19:08:24 +0000"
+          "title": "French Parliament approves landmark assisted-dying bill",
+          "link": "https://www.aljazeera.com/news/2026/7/15/french-parliament-approves-landmark-assisted-dying-bill?traffic_source=rss",
+          "published": "Wed, 15 Jul 2026 19:58:53 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Syrian authorities arrest ex-officer accused of chemical weapons crimes",
-          "link": "https://www.aljazeera.com/news/2026/7/15/syrian-authorities-arrest-ex-officer-accused-of-chemical-weapons-crimes?traffic_source=rss",
-          "published": "Wed, 15 Jul 2026 18:58:58 +0000"
+          "title": "Ukraine strikes 20 Russian vessels",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/15/ukraine-strikes-20-russian-vessels?traffic_source=rss",
+          "published": "Wed, 15 Jul 2026 19:58:08 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "European Athletics moves to curb on-screen sexualisation of female athletes",
-          "link": "https://www.aljazeera.com/sports/2026/7/15/european-athletics-moves-to-curb-on-screen-sexualisation-of-female-athletes?traffic_source=rss",
-          "published": "Wed, 15 Jul 2026 18:51:59 +0000"
+          "title": "The history of the US and Iraq’s complicated relationship",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/15/the-history-of-the-us-and-iraqs-complicated-relationship?traffic_source=rss",
+          "published": "Wed, 15 Jul 2026 19:54:50 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Palestinian homes sealed off by Israeli military restrictions",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/15/palestinian-homes-sealed-off-by-israeli-military-restrictions?traffic_source=rss",
-          "published": "Wed, 15 Jul 2026 18:49:42 +0000"
+          "title": "Protests in Paris, Gaza for release of Hussam Abu Safia",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/15/protests-in-paris-gaza-for-release-of-hussam-abu-safia?traffic_source=rss",
+          "published": "Wed, 15 Jul 2026 19:48:50 +0000"
         }
       ]
     }
