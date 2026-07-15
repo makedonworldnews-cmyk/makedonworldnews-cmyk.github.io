@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-15T20:41:09Z",
+  "updatedAt": "2026-07-15T21:41:53Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Англиски медиуми: Тухел и ја подари победата на Аргентина",
+          "link": "https://makfax.com.mk/sport/angliski-mediumi-tuhel-i-ja-podari-pobedata-na-argentina/",
+          "published": "Wed, 15 Jul 2026 21:40:57 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) Спектакуларен пресврт на Аргентина против Англија за пласман во финалето на СП",
+          "link": "https://makfax.com.mk/sport/video-spektakularen-presvrt-na-argentina-protiv-anglija-za-plasman-vo-finaleto-na-sp/",
+          "published": "Wed, 15 Jul 2026 21:19:59 +0000"
         },
         {
           "source": "Makfax",
@@ -29,16 +41,10 @@
           "published": "Wed, 15 Jul 2026 18:51:35 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Пукање пред супермаркет во Германија: полицијата го совладала вооружениот маж",
-          "link": "https://makfax.com.mk/svet/pukanje-pred-supermarket-vo-germanija-policijata-go-sovladala-vooruzheniot-mazh/",
-          "published": "Wed, 15 Jul 2026 18:17:36 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Трагедија на Халкидики: мајка и бебе загинаа во судир, сопругот и второто дете се борат за живот",
-          "link": "https://makfax.com.mk/svet/region/tragedija-na-halkidiki-majka-i-bebe-zaginaa-vo-sudir-soprugot-i-vtoroto-dete-se-borat-za-zhivot/",
-          "published": "Wed, 15 Jul 2026 17:53:22 +0000"
+          "source": "NetPress",
+          "title": "Затвореници чистат ѓубре покрај патишта",
+          "link": "https://netpress.com.mk/zatvoreniczi-chistat-gubre-pokraj-patishta/",
+          "published": "Wed, 15 Jul 2026 20:54:20 +0000"
         },
         {
           "source": "NetPress",
@@ -63,12 +69,6 @@
           "title": "ЕУ 13 години нема примено нова членка, а даваше ветување",
           "link": "https://netpress.com.mk/eu-13-godini-nema-primeno-nova-chlenka-a-davashe-vetuvane/",
           "published": "Wed, 15 Jul 2026 19:26:26 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Москва предупредува: Војниците од „коалицијата на волните“ во Украина ќе бидат легитимни цели",
-          "link": "https://netpress.com.mk/moskva-predupreduva-vojniczite-od-koaliczijata-na-volnite-vo-ukraina-ke-bidat-legitimni-czeli-2/",
-          "published": "Wed, 15 Jul 2026 19:15:47 +0000"
         }
       ]
     },
@@ -101,39 +101,39 @@
         },
         {
           "source": "BBC",
-          "title": "Russian attacks kill eight as Ukraine hits Black Sea oil tankers",
+          "title": "Russian attacks kill 14 as Ukraine hits Black Sea oil tankers",
           "link": "https://www.bbc.co.uk/news/articles/c8929jv8kdzo?at_medium=RSS&at_campaign=rss",
-          "published": "Wed, 15 Jul 2026 13:32:05 GMT"
+          "published": "Wed, 15 Jul 2026 21:21:19 GMT"
         },
         {
           "source": "Al Jazeera",
-          "title": "Russia pounds Ukraine with missile, drone strikes",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/15/russia-pounds-ukraine-with-missile-drone-strikes?traffic_source=rss",
-          "published": "Wed, 15 Jul 2026 19:59:48 +0000"
+          "title": "Sheinbaum rejects US claim that Mexico’s government is linked to cartels",
+          "link": "https://www.aljazeera.com/news/2026/7/15/sheinbaum-rejects-us-claim-that-mexicos-government-is-linked-to-cartels?traffic_source=rss",
+          "published": "Wed, 15 Jul 2026 20:52:12 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "French Parliament approves landmark assisted-dying bill",
-          "link": "https://www.aljazeera.com/news/2026/7/15/french-parliament-approves-landmark-assisted-dying-bill?traffic_source=rss",
-          "published": "Wed, 15 Jul 2026 19:58:53 +0000"
+          "title": "What are the obstacles to peace between Israel and Lebanon?",
+          "link": "https://www.aljazeera.com/video/inside-story/2026/7/15/what-are-the-obstacles-to-peace-between-israel-and-lebanon?traffic_source=rss",
+          "published": "Wed, 15 Jul 2026 20:46:03 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Ukraine strikes 20 Russian vessels",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/15/ukraine-strikes-20-russian-vessels?traffic_source=rss",
-          "published": "Wed, 15 Jul 2026 19:58:08 +0000"
+          "title": "What happened in the first half of the England vs Argentina semifinal?",
+          "link": "https://www.aljazeera.com/sports/2026/7/15/what-happened-in-the-first-half-of-the-england-vs-argentina-semifinal?traffic_source=rss",
+          "published": "Wed, 15 Jul 2026 20:35:34 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "The history of the US and Iraq’s complicated relationship",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/15/the-history-of-the-us-and-iraqs-complicated-relationship?traffic_source=rss",
-          "published": "Wed, 15 Jul 2026 19:54:50 +0000"
+          "title": "10 years on from Turkiye’s failed coup attempt on Erdogan",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/15/10-years-on-from-turkiyes-failed-coup-attempt-on-erdogan?traffic_source=rss",
+          "published": "Wed, 15 Jul 2026 20:35:09 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Protests in Paris, Gaza for release of Hussam Abu Safia",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/15/protests-in-paris-gaza-for-release-of-hussam-abu-safia?traffic_source=rss",
-          "published": "Wed, 15 Jul 2026 19:48:50 +0000"
+          "title": "Pezeshkian vows Iran will defend ‘every inch’ of its territory",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/15/pezeshkian-vows-iran-will-defend-every-inch-of-its-territory?traffic_source=rss",
+          "published": "Wed, 15 Jul 2026 20:34:39 +0000"
         }
       ]
     }
