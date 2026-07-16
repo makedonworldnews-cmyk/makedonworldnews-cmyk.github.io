@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-16T21:26:58Z",
+  "updatedAt": "2026-07-16T22:29:47Z",
   "groups": [
     {
       "region": "Македонија",
@@ -42,6 +42,12 @@
         },
         {
           "source": "NetPress",
+          "title": "Некои американски телевизии размислуваат дали да го пренесуваат говорот на Трамп",
+          "link": "https://netpress.com.mk/nekoi-amerikanski-televizii-razmisluvaat-dali-da-go-prenesuvaat-govorot-na-tramp/",
+          "published": "Thu, 16 Jul 2026 21:31:56 +0000"
+        },
+        {
+          "source": "NetPress",
           "title": "Се движиме добро и државата е пофункционална во многу области за разлика пред две години",
           "link": "https://netpress.com.mk/se-dvizhime-dobro-i-drzhavata-e-pofunkczionalna-vo-mnogu-oblasti-za-razlika-pred-dve-godini/",
           "published": "Thu, 16 Jul 2026 21:11:55 +0000"
@@ -63,18 +69,18 @@
           "title": "Шкендија победи и во реваншот против гибралтарски ФК Европа во Конференциската лига",
           "link": "https://netpress.com.mk/shkendija-pobedi-i-vo-revanshot-protiv-gibraltarski-fk-evropa-vo-konferencziskata-liga/",
           "published": "Thu, 16 Jul 2026 20:57:06 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Сиљановска-Давкова: Една изборна единица е добро решение, во Изборниот законик имаме чудно решение, кое ја дискриминира дијаспората",
-          "link": "https://netpress.com.mk/silanovska-davkova-edna-izborna-edinicza-e-dobro-reshenie-vo-izborniot-zakonik-imame-chudno-reshenie-koe-ja-diskriminira-dijasporata/",
-          "published": "Thu, 16 Jul 2026 20:49:27 +0000"
         }
       ]
     },
     {
       "region": "Свет",
       "items": [
+        {
+          "source": "BBC",
+          "title": "Blasts reported in Iran as US launches new wave of strikes",
+          "link": "https://www.bbc.co.uk/news/articles/c151gdjwd10o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 16 Jul 2026 21:44:37 GMT"
+        },
         {
           "source": "BBC",
           "title": "Zelensky's removal of popular defence minister sparks protests in Ukraine",
@@ -86,12 +92,6 @@
           "title": "Teenager accused of carrying out sabotage actions in Poland for Russia",
           "link": "https://www.bbc.co.uk/news/articles/cp305dx493do?at_medium=RSS&at_campaign=rss",
           "published": "Thu, 16 Jul 2026 13:08:28 GMT"
-        },
-        {
-          "source": "BBC",
-          "title": "Iran targets military bases as US launches wave of strikes",
-          "link": "https://www.bbc.co.uk/news/articles/c2lq1ed28jxo?at_medium=RSS&at_campaign=rss",
-          "published": "Thu, 16 Jul 2026 11:48:49 GMT"
         },
         {
           "source": "BBC",
@@ -107,33 +107,33 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Former Italian motorway chief sentenced over bridge collapse",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/16/former-italian-motorway-chief-sentenced-over-bridge-collapse?traffic_source=rss",
+          "published": "Thu, 16 Jul 2026 22:04:06 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Ilhan Omar renews push for US to join ICC amid Trump pressure",
+          "link": "https://www.aljazeera.com/news/2026/7/16/ilhan-omar-renews-push-for-us-to-join-icc-amid-trump-pressure?traffic_source=rss",
+          "published": "Thu, 16 Jul 2026 21:57:21 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Grand Mosque of Paris celebrates 100-year anniversary",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/16/grand-mosque-of-paris-celebrates-100-year-anniversary?traffic_source=rss",
+          "published": "Thu, 16 Jul 2026 21:28:03 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "FIFA to probe Argentina’s Falklands banner display at World Cup semifinal",
+          "link": "https://www.aljazeera.com/sports/2026/7/16/fifa-to-probe-argentinas-falklands-banner-display-at-world-cup-semifinal?traffic_source=rss",
+          "published": "Thu, 16 Jul 2026 21:23:05 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "US mounts sixth straight night of attacks as Iran warns of wider war",
           "link": "https://www.aljazeera.com/news/2026/7/16/us-mounts-sixth-straight-night-of-attacks-as-iran-warns-of-wider-war?traffic_source=rss",
           "published": "Thu, 16 Jul 2026 21:02:11 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Donald Trump live: US president to deliver primetime address on elections",
-          "link": "https://www.aljazeera.com/news/liveblog/2026/7/16/donald-trump-live-us-president-to-deliver-primetime-address-on-elections?traffic_source=rss",
-          "published": "Thu, 16 Jul 2026 20:59:18 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "The hardest party to manage in the Iran talks isn’t Iran",
-          "link": "https://www.aljazeera.com/opinions/2026/7/16/the-hardest-party-to-manage-in-the-iran-talks-isnt-iran?traffic_source=rss",
-          "published": "Thu, 16 Jul 2026 20:40:53 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Palestinians injured in Israeli settler attacks across West Bank",
-          "link": "https://www.aljazeera.com/news/2026/7/16/palestinians-injured-in-israeli-settler-attacks-across-west-bank?traffic_source=rss",
-          "published": "Thu, 16 Jul 2026 20:37:23 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Syria says it foiled Hezbollah weapons shipment",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/16/syria-says-it-foiled-hezbollah-weapons-shipment?traffic_source=rss",
-          "published": "Thu, 16 Jul 2026 20:30:29 +0000"
         }
       ]
     }
