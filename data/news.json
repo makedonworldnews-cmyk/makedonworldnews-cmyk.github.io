@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-17T19:51:45Z",
+  "updatedAt": "2026-07-17T20:55:33Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Трамп до американските телевизиски станици кои не го емитуваа неговото обраќање: Треба да им бидат одземени лиценците",
+          "link": "https://makfax.com.mk/svet/tramp-do-amerikanskite-televiziski-stanici-koi-ne-go-emituvaa-negovoto-obrakanje-treba-da-im-bidat-odzemeni-licencite/",
+          "published": "Fri, 17 Jul 2026 19:57:27 +0000"
         },
         {
           "source": "Makfax",
@@ -35,40 +41,34 @@
           "published": "Fri, 17 Jul 2026 18:52:23 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Загина 54-годишен маж од Прилепско: се превртел со тракторот",
-          "link": "https://makfax.com.mk/crna-hronika/zagina-54-godishen-mazh-od-prilepsko-se-prevrtel-so-traktorot/",
-          "published": "Fri, 17 Jul 2026 18:44:58 +0000"
+          "source": "NetPress",
+          "title": "Изгореа над 50 куќи во страотен пожар во Норвешка",
+          "link": "https://netpress.com.mk/izgorea-nad-50-kuki-vo-straoten-pozhar-vo-norveshka/",
+          "published": "Fri, 17 Jul 2026 20:42:36 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Илјадници протестираат во Киев против разрешувањето на министерот за одбрана",
+          "link": "https://netpress.com.mk/iljadniczi-protestiraat-vo-kiev-protiv-razreshuvaneto-na-ministerot-za-odbrana/",
+          "published": "Fri, 17 Jul 2026 20:15:18 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Украина тврди дека уништила руски стратешки бомбардер Ту-95",
+          "link": "https://netpress.com.mk/ukraina-tvrdi-deka-unishtila-ruski-strateshki-bombarder-tu-95/",
+          "published": "Fri, 17 Jul 2026 20:09:53 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Турција отвори специјализирани клиники за одвикнување од пушење кај младите",
+          "link": "https://netpress.com.mk/turczija-otvori-speczijalizirani-kliniki-za-odviknuvane-od-pushene-kaj-mladite/",
+          "published": "Fri, 17 Jul 2026 20:00:14 +0000"
         },
         {
           "source": "NetPress",
           "title": "Трамп бара да им се одземат лиценците на две национални телевизии оти не го пренесувале неговиот говор",
           "link": "https://netpress.com.mk/tramp-bara-da-im-se-odzemat-liczenczite-na-dve-naczionalni-televizii-oti-ne-go-prenesuvale-negoviot-govor/",
           "published": "Fri, 17 Jul 2026 19:22:34 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Превозот на тела на жртви од ебола го зголемува ризикот од ширење на заразата во ДР Конго",
-          "link": "https://netpress.com.mk/prevozot-na-tela-na-zhrtvi-od-ebola-go-zgolemuva-rizikot-od-shirene-na-zarazata-vo-dr-kongo/",
-          "published": "Fri, 17 Jul 2026 19:07:51 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Рубио го отвори стратешкиот дијалог меѓу САД и Србија, Белград го смета за „историски“",
-          "link": "https://netpress.com.mk/rubio-go-otvori-strateshkiot-dijalog-megu-sad-i-srbija-belgrad-go-smeta-za-istoriski/",
-          "published": "Fri, 17 Jul 2026 18:50:18 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Исламската револуционерна гарда се заканува дека ќе изврши напади кои ќе се запомнат во историјата",
-          "link": "https://netpress.com.mk/islamskata-revoluczionerna-garda-se-zakanuva-deka-ke-izvrshi-napadi-koi-ke-se-zapomnat-vo-istorijata/",
-          "published": "Fri, 17 Jul 2026 18:27:19 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Силен земјотрес од 7,3 степени го погоди Мексико – можни се цунами-бранови",
-          "link": "https://netpress.com.mk/silen-zemjotres-od-73-stepeni-go-pogodi-meksiko-mozhni-se-czunami-branovi/",
-          "published": "Fri, 17 Jul 2026 18:06:37 +0000"
         }
       ]
     },
@@ -83,9 +83,15 @@
         },
         {
           "source": "BBC",
-          "title": "Trump alleges China meddled in 2020 election and questions voting security ahead of midterms",
-          "link": "https://www.bbc.co.uk/news/articles/cx2k9wvv5wyo?at_medium=RSS&at_campaign=rss",
-          "published": "Fri, 17 Jul 2026 11:37:00 GMT"
+          "title": "Many Ukrainian soldiers outraged over removal of defence minister, troops tell BBC",
+          "link": "https://www.bbc.co.uk/news/articles/cvg8w4dpjkwo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 17 Jul 2026 19:04:09 GMT"
+        },
+        {
+          "source": "BBC",
+          "title": "One anti-war critic fined, another held as Russia clamps down on opponents",
+          "link": "https://www.bbc.co.uk/news/articles/cn0n3y6ewn4o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 17 Jul 2026 20:00:54 GMT"
         },
         {
           "source": "BBC",
@@ -95,15 +101,21 @@
         },
         {
           "source": "BBC",
-          "title": "Air conditioner sparked deadly blaze at children's orphanage - police",
-          "link": "https://www.bbc.co.uk/news/articles/c9d8ylw60e9o?at_medium=RSS&at_campaign=rss",
-          "published": "Fri, 17 Jul 2026 16:20:45 GMT"
+          "title": "Magnitude 7.3 earthquake quake strikes off Mexico coast",
+          "link": "https://www.bbc.co.uk/news/articles/cwyjv3815yxo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 17 Jul 2026 18:12:54 GMT"
         },
         {
-          "source": "BBC",
-          "title": "China hits out at British Steel nationalisation",
-          "link": "https://www.bbc.co.uk/news/articles/cjd4kvxpd3do?at_medium=RSS&at_campaign=rss",
-          "published": "Fri, 17 Jul 2026 16:44:22 GMT"
+          "source": "Al Jazeera",
+          "title": "How an Italian sculptor created the iconic World Cup trophy",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/17/how-an-italian-sculptor-created-the-iconic-world-cup-trophy?traffic_source=rss",
+          "published": "Fri, 17 Jul 2026 20:13:18 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "At least two dead as heavy rains, floods strike central Texas",
+          "link": "https://www.aljazeera.com/gallery/2026/7/17/at-least-two-dead-as-heavy-rains-floods-strike-central-texas?traffic_source=rss",
+          "published": "Fri, 17 Jul 2026 20:09:03 +0000"
         },
         {
           "source": "Al Jazeera",
@@ -122,18 +134,6 @@
           "title": "All-time West Indies cricket great Garfield Sobers dies aged 89",
           "link": "https://www.aljazeera.com/sports/2026/7/17/all-time-west-indies-cricket-great-garfield-sobers-dies-aged-89?traffic_source=rss",
           "published": "Fri, 17 Jul 2026 18:40:44 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Germany’s Merz hails nuclear deterrence cooperation with France",
-          "link": "https://www.aljazeera.com/news/2026/7/17/germanys-merz-hails-nuclear-deterrence-cooperation-with-france?traffic_source=rss",
-          "published": "Fri, 17 Jul 2026 18:31:27 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Beyond LNG: Berlin’s red-carpet diplomacy signals a bigger bet on Algeria",
-          "link": "https://www.aljazeera.com/economy/2026/7/17/beyond-lng-berlins-red-carpet-diplomacy-signals-a-bigger-bet-on-algeria?traffic_source=rss",
-          "published": "Fri, 17 Jul 2026 18:28:34 +0000"
         }
       ]
     }
