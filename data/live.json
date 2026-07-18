@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-17T23:00:51Z",
+  "generated_at": "2026-07-18T00:02:23Z",
   "items": [
     {
       "region": "Македонија",
@@ -74,6 +74,13 @@
     {
       "region": "Свет",
       "source": "BBC",
+      "title": "Trump threatens new Canada tariffs over fires sending 'filthy' air into US cities",
+      "link": "https://www.bbc.co.uk/news/articles/cwyq93j34lgo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 17 Jul 2026 23:15:10 GMT"
+    },
+    {
+      "region": "Свет",
+      "source": "BBC",
       "title": "US denies Iranian claims it hit civilian infrastructure in latest strikes",
       "link": "https://www.bbc.co.uk/news/articles/c151gdjwd10o?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 17 Jul 2026 18:33:12 GMT"
@@ -88,13 +95,6 @@
     {
       "region": "Свет",
       "source": "BBC",
-      "title": "Trump threatens to tariff Canada over wildfire smoke choking northern US cities",
-      "link": "https://www.bbc.co.uk/news/articles/cwyq93j34lgo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 17 Jul 2026 21:14:02 GMT"
-    },
-    {
-      "region": "Свет",
-      "source": "BBC",
       "title": "White House defends Argentina team over Falklands banner",
       "link": "https://www.bbc.co.uk/news/articles/cx2rmjk0740o?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 17 Jul 2026 22:12:54 GMT"
@@ -105,6 +105,20 @@
       "title": "One anti-war critic fined, another held as Russia clamps down on opponents",
       "link": "https://www.bbc.co.uk/news/articles/cn0n3y6ewn4o?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 17 Jul 2026 20:00:54 GMT"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Iran war live: US and Iran exchange attacks for 7th consecutive night",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/7/18/iran-war-live-us-and-iran-exchange-attacks-for-7th-consecutive-night?traffic_source=rss",
+      "published": "Sat, 18 Jul 2026 00:00:00 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "EU urges Israel to halt settlement expansion as settlers attack children",
+      "link": "https://www.aljazeera.com/news/2026/7/17/eu-urges-israel-to-halt-settlement-expansion-as-settlers-attack-children?traffic_source=rss",
+      "published": "Fri, 17 Jul 2026 22:54:04 +0000"
     },
     {
       "region": "Свет",
@@ -126,20 +140,6 @@
       "title": "US launches seventh straight night of strikes on Iran",
       "link": "https://www.aljazeera.com/news/2026/7/17/us-launches-seventh-straight-night-of-strikes-on-iran?traffic_source=rss",
       "published": "Fri, 17 Jul 2026 22:11:12 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Tackling Messi ‘huge challenge’ for Spain in World Cup final: Merino",
-      "link": "https://www.aljazeera.com/sports/2026/7/17/tackling-messi-huge-challenge-for-spain-in-world-cup-final-merino?traffic_source=rss",
-      "published": "Fri, 17 Jul 2026 21:39:01 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Herbert leads British Open golf, equals record lowest score at a major",
-      "link": "https://www.aljazeera.com/sports/2026/7/17/herbert-leads-british-open-golf-equals-record-lowest-score-at-a-major?traffic_source=rss",
-      "published": "Fri, 17 Jul 2026 21:35:56 +0000"
     }
   ]
 }
