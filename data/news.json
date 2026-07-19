@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-19T10:52:44Z",
+  "updatedAt": "2026-07-19T11:58:10Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Во Гостивар за едно деноноќие над 350 прегледи поради гастроентероколит, тројца хоспитализирани",
+          "link": "https://makfax.com.mk/makedonija/vo-gostivar-za-edno-denonokie-nad-350-pregledi-poradi-gastroenterokolit-trojca-hospitalizirani/",
+          "published": "Sun, 19 Jul 2026 11:42:49 +0000"
         },
         {
           "source": "Makfax",
@@ -35,10 +41,22 @@
           "published": "Sun, 19 Jul 2026 09:53:16 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "СДСМ: Извештајот на ЕК покажува дека нема реформи и дека правосудството е под политички притисок",
-          "link": "https://makfax.com.mk/makedonija/sdsm-izveshtajot-na-ek-pokazhuva-deka-nema-reformi-i-deka-pravosudstvoto-e-pod-politichki-pritisok/",
-          "published": "Sun, 19 Jul 2026 09:41:06 +0000"
+          "source": "NetPress",
+          "title": "За 24 часа во Гостивар 353 прегледи на лица со симптоми",
+          "link": "https://netpress.com.mk/za-24-chasa-vo-gostivar-353-pregledi-na-licza-so-simptomi/",
+          "published": "Sun, 19 Jul 2026 11:53:27 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Пијан стружанец предизвикал сообраќајка",
+          "link": "https://netpress.com.mk/pijan-struzhanecz-predizvikal-soobrakajka/",
+          "published": "Sun, 19 Jul 2026 11:22:29 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Анализите на водата во Гостивар се очекуваат утре",
+          "link": "https://netpress.com.mk/analizite-na-vodata-vo-gostivar-se-ochekuvaat-utre/",
+          "published": "Sun, 19 Jul 2026 11:03:04 +0000"
         },
         {
           "source": "NetPress",
@@ -51,24 +69,6 @@
           "title": "Шпанија и Аргентина вечерва ќе се борат за титулата светски шампион",
           "link": "https://netpress.com.mk/shpanija-i-argentina-vecherva-ke-se-borat-za-titulata-svetski-shampion/",
           "published": "Sun, 19 Jul 2026 10:11:47 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Фејсбук и Инстаграм и по два и пол часа од падот не функционираат",
-          "link": "https://netpress.com.mk/fejsbuk-i-instagram-i-po-dva-i-pol-chasa-od-padot-ne-funkczioniraat/",
-          "published": "Sun, 19 Jul 2026 09:54:13 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Големо невреме низ Словенија, десетици интервенции на пожарникарите",
-          "link": "https://netpress.com.mk/golemo-nevreme-niz-slovenija-deseticzi-intervenczii-na-pozharnikarite/",
-          "published": "Sun, 19 Jul 2026 09:51:03 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Демократскиот сојуз: Судиите да почнат да испорачуваат правда",
-          "link": "https://netpress.com.mk/demokratskiot-sojuz-sudiite-da-pochnat-da-isporachuvaat-pravda/",
-          "published": "Sun, 19 Jul 2026 09:27:49 +0000"
         }
       ]
     },
@@ -79,19 +79,19 @@
           "source": "BBC",
           "title": "US and Iran exchange strikes after two US soldiers killed in Jordan",
           "link": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&at_campaign=rss",
-          "published": "Sun, 19 Jul 2026 10:44:11 GMT"
+          "published": "Sun, 19 Jul 2026 11:57:10 GMT"
         },
         {
           "source": "BBC",
           "title": "Tate brothers arrested in US as further UK charges take total to 59",
           "link": "https://www.bbc.co.uk/news/articles/cwymly9yd33o?at_medium=RSS&at_campaign=rss",
-          "published": "Sun, 19 Jul 2026 10:22:35 GMT"
+          "published": "Sun, 19 Jul 2026 11:04:50 GMT"
         },
         {
           "source": "BBC",
-          "title": "Russia launches major ballistic missile attack on Kyiv",
+          "title": "Russia launches major ballistic missile attack on Ukrainian cities",
           "link": "https://www.bbc.co.uk/news/articles/c2el7xpnzrpo?at_medium=RSS&at_campaign=rss",
-          "published": "Sun, 19 Jul 2026 09:54:50 GMT"
+          "published": "Sun, 19 Jul 2026 11:28:24 GMT"
         },
         {
           "source": "BBC",
@@ -107,33 +107,33 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "FIFA World Cup: Tobin Heath on record goals, France and Lamine Yamal",
+          "link": "https://www.aljazeera.com/sports/2026/7/19/tobin-heath-fifa-world-cup-2026-football-analysis-players-teams-tournament?traffic_source=rss",
+          "published": "Sun, 19 Jul 2026 11:21:52 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Guyana ferry with 116 people on board capsizes; more than 50 rescued",
+          "link": "https://www.aljazeera.com/news/2026/7/19/guyana-ferry-with-116-people-aboard-capsizes?traffic_source=rss",
+          "published": "Sun, 19 Jul 2026 11:18:17 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Iranians suffer from power blackouts during war and heatwave",
+          "link": "https://www.aljazeera.com/news/2026/7/19/iranians-suffer-from-power-blackouts-during-war-and-heatwave?traffic_source=rss",
+          "published": "Sun, 19 Jul 2026 11:16:20 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Why is India vetting books in Kashmir in search of ‘anti-national’ content?",
+          "link": "https://www.aljazeera.com/news/2026/7/19/why-is-india-vetting-books-in-kashmir-in-search-of-anti-national-content?traffic_source=rss",
+          "published": "Sun, 19 Jul 2026 10:43:27 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Gaza cheers for Spain as World Cup final anticipation mounts",
           "link": "https://www.aljazeera.com/news/2026/7/19/gaza-cheers-for-spain-as-world-cup-final-anticipation-mounts?traffic_source=rss",
           "published": "Sun, 19 Jul 2026 10:09:25 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Du Plessis makes winning return to UFC with dominant decision over Usman",
-          "link": "https://www.aljazeera.com/sports/2026/7/19/dricus-du-plessis-mma-ufc-unanimous-decision-kamaru-usman?traffic_source=rss",
-          "published": "Sun, 19 Jul 2026 09:46:35 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "World Cup 2026 final: Closing ceremony and half-time show – what to know",
-          "link": "https://www.aljazeera.com/sports/2026/7/19/world-cup-2026-final-closing-ceremony-and-half-time-show-what-to-know?traffic_source=rss",
-          "published": "Sun, 19 Jul 2026 09:35:52 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Five people rescued after Indonesia boat sinks, at least 20 still missing",
-          "link": "https://www.aljazeera.com/news/2026/7/19/five-people-rescued-after-indonesia-boat-sinks-at-least-20-still-missing?traffic_source=rss",
-          "published": "Sun, 19 Jul 2026 09:08:55 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "US launches new Iran strikes after two soldiers killed: What’s the latest?",
-          "link": "https://www.aljazeera.com/news/2026/7/19/us-launches-new-iran-strikes-after-two-soldiers-killed-whats-the-latest?traffic_source=rss",
-          "published": "Sun, 19 Jul 2026 08:49:56 +0000"
         }
       ]
     }
