@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-07-19T03:44:16Z",
+  "updatedAt": "2026-07-19T04:31:50Z",
   "errors": [
     {
       "source": "МИА",
       "url": "https://mia.mk/rss",
-      "error": "HTTPSConnectionPool(host='mia.mk', port=443): Max retries exceeded with url: /rss (Caused by NameResolutionError(\"HTTPSConnection(host='mia.mk', port=443): Failed to resolve 'mia.mk' ([Errno -3] Temporary failure in name resolution)\"))"
+      "error": "404 Client Error: Not Found for url: https://mia.mk/rss"
     }
   ]
 }
