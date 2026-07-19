@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-19T18:38:23Z",
+  "updatedAt": "2026-07-19T19:51:27Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Маж од Струмица им подлегна на повредите по пожарот во неговата куќа",
+          "link": "https://makfax.com.mk/crna-hronika/mazh-od-strumica-im-podlegna-na-povredite-po-pozharot-vo-negovata-kuka/",
+          "published": "Sun, 19 Jul 2026 19:00:48 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "САД испраќа дополнителни борбени авиони на Блискиот Исток",
+          "link": "https://makfax.com.mk/svet/sad-ispraka-dopolnitelni-borbeni-avioni-na-bliskiot-istok/",
+          "published": "Sun, 19 Jul 2026 18:52:55 +0000"
         },
         {
           "source": "Makfax",
@@ -29,46 +41,34 @@
           "published": "Sun, 19 Jul 2026 17:34:00 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Во Скопје претепан и ограбен таксист од Гевгелија",
-          "link": "https://makfax.com.mk/crna-hronika/vo-skopje-pretepan-i-ograben-taksist-od-gevgelija/",
-          "published": "Sun, 19 Jul 2026 17:30:07 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "(Видео) Долги редици пред финалето Шпанија – Аргентина: навивачите чекаат и по два и пол часа за влез поради протоколи",
-          "link": "https://makfax.com.mk/sport/video-dolgi-redici-pred-finaleto-shpanija-argentina-navivachite-chekaat-i-po-dva-i-pol-chasa-za-vlez-poradi-protokoli/",
-          "published": "Sun, 19 Jul 2026 17:15:19 +0000"
+          "source": "NetPress",
+          "title": "Започна дистрибуција на пакувана вода за пиење во Гостивар",
+          "link": "https://netpress.com.mk/zapochna-distribuczija-na-pakuvana-voda-za-piene-vo-gostivar/",
+          "published": "Sun, 19 Jul 2026 19:50:22 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Ирански напади ширум Заливот, 20-ина американски хеликоптери погодени во Јордан",
-          "link": "https://netpress.com.mk/iranski-napadi-shirum-zalivot-20-ina-amerikanski-helikopteri-pogodeni-vo-jordan/",
-          "published": "Sun, 19 Jul 2026 17:58:51 +0000"
+          "title": "Во ЕУ од денеска забрането фрлање непродадени обувки и oблека",
+          "link": "https://netpress.com.mk/vo-eu-od-deneska-zabraneto-frlane-neprodadeni-obuvki-i-obleka/",
+          "published": "Sun, 19 Jul 2026 19:37:50 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Казахстан остро го осуди украинскиот удар врз Каспискиот цевковод",
-          "link": "https://netpress.com.mk/kazahstan-ostro-go-osudi-ukrainskiot-udar-vrz-kaspiskiot-czevkovod/",
-          "published": "Sun, 19 Jul 2026 17:39:17 +0000"
+          "title": "Најмалку шест лица загинаа во земјотресите во Перу, 21 лице е повредено",
+          "link": "https://netpress.com.mk/najmalku-shest-licza-zaginaa-vo-zemjotresite-vo-peru-21-licze-e-povredeno/",
+          "published": "Sun, 19 Jul 2026 19:35:43 +0000"
         },
         {
           "source": "NetPress",
-          "title": "УКИМ го објави конкурсот за запишување студенти во учебната 2026/2027 година",
-          "link": "https://netpress.com.mk/ukim-go-objavi-konkursot-za-zapishuvane-studenti-vo-uchebnata-2026-2027-godina/",
-          "published": "Sun, 19 Jul 2026 17:28:25 +0000"
+          "title": "Клековски: Во Гостивар дневно до 300 новопријавени со стомачни тегоби",
+          "link": "https://netpress.com.mk/klekovski-vo-gostivar-dnevno-do-300-novoprijaveni-so-stomachni-tegobi/",
+          "published": "Sun, 19 Jul 2026 19:22:21 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Фрлиле тегла во прозорец на градски автобус – повреден е патник",
-          "link": "https://netpress.com.mk/frlile-tegla-vo-prozorecz-na-gradski-avtobus-povreden-e-patnik/",
-          "published": "Sun, 19 Jul 2026 17:14:16 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Кршел покуќнина и се заканувал на родителите – уапсен маж во Струмичко",
-          "link": "https://netpress.com.mk/krshel-pokuknina-i-se-zakanuval-na-roditelite-uapsen-mazh-vo-strumichko/",
-          "published": "Sun, 19 Jul 2026 17:11:00 +0000"
+          "title": "САД распоредуваат дополнителни борбени авиони на Блискиот исток",
+          "link": "https://netpress.com.mk/sad-rasporeduvaat-dopolnitelni-borbeni-avioni-na-bliskiot-istok/",
+          "published": "Sun, 19 Jul 2026 19:07:10 +0000"
         }
       ]
     },
@@ -77,9 +77,9 @@
       "items": [
         {
           "source": "BBC",
-          "title": "US and Iran trade fire after two US soldiers killed in Jordan",
+          "title": "US soldier killed and one injured after Iranian attack in Iraq",
           "link": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&at_campaign=rss",
-          "published": "Sun, 19 Jul 2026 17:22:23 GMT"
+          "published": "Sun, 19 Jul 2026 19:45:12 GMT"
         },
         {
           "source": "BBC",
@@ -107,33 +107,33 @@
         },
         {
           "source": "Al Jazeera",
-          "title": "At least 50 Malian soldiers killed in attack on military convoy",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/19/at-least-50-malian-soldiers-killed-in-attack-on-military-convoy?traffic_source=rss",
-          "published": "Sun, 19 Jul 2026 18:27:58 +0000"
+          "title": "Fans light up NYC’s Little Argentina ahead of Spain World Cup final clash",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/19/fans-light-up-nycs-little-argentina-ahead-of-spain-world-cup-final-clash?traffic_source=rss",
+          "published": "Sun, 19 Jul 2026 19:18:59 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Lebanon’s President Joseph Aoun meets Rubio ahead of Trump talks",
-          "link": "https://www.aljazeera.com/news/2026/7/19/lebanons-president-joseph-aoun-meets-rubio-ahead-of-trump-talks?traffic_source=rss",
-          "published": "Sun, 19 Jul 2026 18:24:33 +0000"
+          "title": "Trump visit causes logistical delays at World Cup final",
+          "link": "https://www.aljazeera.com/sports/2026/7/19/trump-visit-causes-logistical-delays-at-world-cup-final?traffic_source=rss",
+          "published": "Sun, 19 Jul 2026 19:05:41 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "NYC swells with Spanish, Argentinian fans anticipating World Cup glory",
-          "link": "https://www.aljazeera.com/sports/2026/7/19/nyc-swells-with-spanish-argentinian-fans-anticipating-world-cup-glory?traffic_source=rss",
-          "published": "Sun, 19 Jul 2026 18:10:20 +0000"
+          "title": "The story behind Gaza’s #TheyLiedToYou campaign",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/19/the-story-behind-gazas-theyliedtoyou-campaign?traffic_source=rss",
+          "published": "Sun, 19 Jul 2026 18:54:54 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "What happened to the Jewish left?",
-          "link": "https://www.aljazeera.com/video/upfront/2026/7/19/what-happened-to-the-jewish-left?traffic_source=rss",
-          "published": "Sun, 19 Jul 2026 17:56:56 +0000"
+          "title": "Lebanese food influencer sentenced to life for drug smuggling",
+          "link": "https://www.aljazeera.com/news/2026/7/19/lebanese-food-influencer-sentenced-to-life-for-drug-smuggling?traffic_source=rss",
+          "published": "Sun, 19 Jul 2026 18:40:14 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Iraqi-born singer Emmanuel Kelly among World Cup half-time show headliners",
-          "link": "https://www.aljazeera.com/sports/2026/7/19/iraqi-born-singer-emmanuel-kelly-among-world-cup-half-time-show-headliners?traffic_source=rss",
-          "published": "Sun, 19 Jul 2026 17:24:27 +0000"
+          "title": "‘Sacred unity’: Iran’s supreme leader calls for calm amid political divides",
+          "link": "https://www.aljazeera.com/news/2026/7/19/sacred-unity-irans-supreme-leader-calls-for-calm-amid-political-divides?traffic_source=rss",
+          "published": "Sun, 19 Jul 2026 18:29:47 +0000"
         }
       ]
     }
