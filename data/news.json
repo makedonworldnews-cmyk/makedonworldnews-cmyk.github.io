@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-19T14:42:04Z",
+  "updatedAt": "2026-07-19T15:40:34Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,24 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Тинејџер и 15-годишна сопатничка тешко повредени во судир на мопед и автомобил кај Охрид",
+          "link": "https://makfax.com.mk/crna-hronika/tinejdher-i-15-godishna-sopatnichka-teshko-povredeni-vo-sudir-na-moped-i-avtomobil-kaj-ohrid/",
+          "published": "Sun, 19 Jul 2026 15:30:01 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Отстранет билбордoт на влезот на Скопје по реакциите во јавноста",
+          "link": "https://makfax.com.mk/makedonija/otstranet-bilbordot-dobredojdovte-vo-skopje-po-reakciite-vo-javnosta/",
+          "published": "Sun, 19 Jul 2026 14:43:51 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Антонели победи во Спа Франкошамп",
+          "link": "https://makfax.com.mk/sport/antoneli-pobedi-vo-spa-frankoshamp/",
+          "published": "Sun, 19 Jul 2026 14:43:24 +0000"
         },
         {
           "source": "Makfax",
@@ -23,52 +41,34 @@
           "published": "Sun, 19 Jul 2026 14:20:04 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Тринаесетгодишно девојче ја нападнало својата 72-годишна баба во Куманово",
-          "link": "https://makfax.com.mk/crna-hronika/trinaesetgodishno-devojche-ja-napadnalo-svojata-72-godishna-baba-vo-kumanovo/",
-          "published": "Sun, 19 Jul 2026 13:44:00 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "„Југо“ и два електрични тротинети учествувале во сообраќајка во Скопје",
-          "link": "https://makfax.com.mk/crna-hronika/jugo-i-dva-elektrichni-trotineti-uchestvuvale-vo-soobrakajka-vo-skopje/",
-          "published": "Sun, 19 Jul 2026 13:40:59 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Сите рекорди на Меси на светските првенства",
-          "link": "https://makfax.com.mk/sport/site-rekordi-na-mesi-na-svetskite-prvenstva/",
-          "published": "Sun, 19 Jul 2026 13:34:07 +0000"
+          "source": "NetPress",
+          "title": "Тешко повредени малолетници, во нивниот мотоцикл удрил пијан соселанец",
+          "link": "https://netpress.com.mk/teshko-povredeni-maloletniczi-vo-nivniot-motoczikl-udril-pijan-soselanecz/",
+          "published": "Sun, 19 Jul 2026 15:30:24 +0000"
         },
         {
           "source": "NetPress",
-          "title": "За излез кон Грција на ГП „Дојран”се чека до 30 минути, на грчка страна до еден час",
-          "link": "https://netpress.com.mk/za-izlez-kon-grczija-na-gp-dojranse-cheka-do-30-minuti-na-grchka-strana-do-eden-chas/",
-          "published": "Sun, 19 Jul 2026 14:16:48 +0000"
+          "title": "Ф1: Антонели победник за Големата награда на Белгија",
+          "link": "https://netpress.com.mk/f1-antoneli-pobednik-za-golemata-nagrada-na-belgija/",
+          "published": "Sun, 19 Jul 2026 15:27:44 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Падот во технолошкиот сектор влијаеше врз светските берзи",
-          "link": "https://netpress.com.mk/padot-vo-tehnoloshkiot-sektor-vlijaeshe-vrz-svetskite-berzi/",
-          "published": "Sun, 19 Jul 2026 14:12:28 +0000"
+          "title": "Малолетничка (13) ја тепала баба си и се заканувала со нож",
+          "link": "https://netpress.com.mk/maloletnichka-13-ja-tepala-baba-si-i-se-zakanuvala-so-nozh/",
+          "published": "Sun, 19 Jul 2026 15:24:51 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Андоновски: Блокадата на измените на Изборниот законик го оневозможи олеснувањето на гласањето на дијаспората",
-          "link": "https://netpress.com.mk/andonovski-blokadata-na-izmenite-na-izborniot-zakonik-go-onevozmozhi-olesnuvaneto-na-glasaneto-na-dijasporata/",
-          "published": "Sun, 19 Jul 2026 14:08:24 +0000"
+          "title": "ВИДЕО| Украина нападна магацини за нафта на југот на Русија, избувнаа големи пожари",
+          "link": "https://netpress.com.mk/video-ukraina-napadna-magaczini-za-nafta-na-jugot-na-rusija-izbuvnaa-golemi-pozhari/",
+          "published": "Sun, 19 Jul 2026 15:17:30 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Македонија има повеќе судии од просекот на ЕУ, но нивниот број опаѓа",
-          "link": "https://netpress.com.mk/makedonija-ima-poveke-sudii-od-prosekot-na-eu-no-nivniot-broj-opaga/",
-          "published": "Sun, 19 Jul 2026 13:49:44 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "До вторник жешко време, од среда заладување",
-          "link": "https://netpress.com.mk/do-vtornik-zheshko-vreme-od-sreda-zaladuvane/",
-          "published": "Sun, 19 Jul 2026 13:40:11 +0000"
+          "title": "Доларот благо ослабе во однос на кошничката со валути",
+          "link": "https://netpress.com.mk/dolarot-blago-oslabe-vo-odnos-na-koshnichkata-so-valuti/",
+          "published": "Sun, 19 Jul 2026 15:08:50 +0000"
         }
       ]
     },
@@ -79,7 +79,7 @@
           "source": "BBC",
           "title": "US and Iran trade fire after two US soldiers killed in Jordan",
           "link": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&at_campaign=rss",
-          "published": "Sun, 19 Jul 2026 13:10:57 GMT"
+          "published": "Sun, 19 Jul 2026 15:35:18 GMT"
         },
         {
           "source": "BBC",
@@ -101,39 +101,39 @@
         },
         {
           "source": "BBC",
-          "title": "Cuban dissident Luis Manuel Otero Alcántara goes into exile in US",
-          "link": "https://www.bbc.co.uk/news/articles/cx2k77p2r1xo?at_medium=RSS&at_campaign=rss",
-          "published": "Sun, 19 Jul 2026 07:47:02 GMT"
+          "title": "The 1975's Matty Healy marries model Gabbriette Bechtel in Los Angeles",
+          "link": "https://www.bbc.co.uk/news/articles/c5ywxp2d826o?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 19 Jul 2026 14:50:11 GMT"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Kimi Antonelli wins Belgian Grand Prix to extend F1 championship lead",
+          "link": "https://www.aljazeera.com/sports/2026/7/19/kimi-antonelli-wins-belgian-grand-prix-to-extend-f1-championship-lead?traffic_source=rss",
+          "published": "Sun, 19 Jul 2026 15:26:45 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Designing cities for a hotter future",
+          "link": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/7/19/designing-cities-for-a-hotter-future?traffic_source=rss",
+          "published": "Sun, 19 Jul 2026 15:25:01 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Tate brothers arrested in the US",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/19/tate-brothers-arrested-in-the-us?traffic_source=rss",
+          "published": "Sun, 19 Jul 2026 15:23:49 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Spain vs Argentina LIVE: FIFA World Cup 2026 final",
+          "link": "https://www.aljazeera.com/sports/liveblog/2026/7/19/spain-vs-argentina-live-2026-fifa-world-cup-final?traffic_source=rss",
+          "published": "Sun, 19 Jul 2026 15:00:00 +0000"
         },
         {
           "source": "Al Jazeera",
           "title": "Why is Argentina’s football team so white?",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/7/19/why-is-argentinas-football-team-so-white?traffic_source=rss",
           "published": "Sun, 19 Jul 2026 14:34:15 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Kuwaiti power plant ablaze as Iran hits US Gulf allies",
-          "link": "https://www.aljazeera.com/news/2026/7/19/kuwaiti-power-plant-ablaze-as-iran-hits-us-gulf-allies?traffic_source=rss",
-          "published": "Sun, 19 Jul 2026 14:27:53 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Who controls football in Palestine?",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/19/who-controls-football-in-palestine?traffic_source=rss",
-          "published": "Sun, 19 Jul 2026 14:27:02 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "The story behind football stars Messi and Yamal’s viral photo",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/19/the-story-behind-football-stars-messi-and-yamals-viral-photo?traffic_source=rss",
-          "published": "Sun, 19 Jul 2026 14:17:39 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Why is China protesting about the nationalisation of British Steel?",
-          "link": "https://www.aljazeera.com/news/2026/7/19/why-is-a-chinese-company-protesting-over-uk-nationalising-a-steel-plant?traffic_source=rss",
-          "published": "Sun, 19 Jul 2026 14:12:10 +0000"
         }
       ]
     }
