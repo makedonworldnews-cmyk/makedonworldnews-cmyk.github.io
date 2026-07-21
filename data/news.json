@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-21T19:47:13Z",
+  "updatedAt": "2026-07-21T20:52:51Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) Градот кршеше шофершајбни, ветерот рушеше делови од фасади: силна бура беснееше низ северниот дел на Црна Гора",
+          "link": "https://makfax.com.mk/svet/region/video-gradot-krsheshe-shofershajbni-veterot-rusheshe-delovi-od-fasadi-silna-bura-besneeshe-niz-severniot-del-na-crna-gora/",
+          "published": "Tue, 21 Jul 2026 19:56:10 +0000"
         },
         {
           "source": "Makfax",
@@ -35,10 +41,10 @@
           "published": "Tue, 21 Jul 2026 18:33:49 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Општина Кисела Вода: По силното невреме активиран кризниот штаб",
-          "link": "https://makfax.com.mk/makedonija/opshtina-kisela-voda-po-silnoto-nevreme-aktiviran-krizniot-shtab/",
-          "published": "Tue, 21 Jul 2026 18:12:43 +0000"
+          "source": "NetPress",
+          "title": "Во Њу Џерси поради „софтверска грешка“ во избирачкиот список завршиле 6.600 недржавјани на САД",
+          "link": "https://netpress.com.mk/vo-nu-dhersi-poradi-softverska-greshka-vo-izbirchakiot-spisok-zavrshile-6-600-nedrzhavjani-na-sad/",
+          "published": "Tue, 21 Jul 2026 20:31:14 +0000"
         },
         {
           "source": "NetPress",
@@ -63,18 +69,18 @@
           "title": "Активирани кризни штабови во повеќе општини во Скопје",
           "link": "https://netpress.com.mk/aktivirani-krizni-shtabovi-vo-poveke-opshtini-vo-skopje/",
           "published": "Tue, 21 Jul 2026 18:20:45 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Информациите укажуваат дека во Баку се одржал таен германско-руски состанок, вели Алиев",
-          "link": "https://netpress.com.mk/informacziite-ukazhuvaat-deka-vo-baku-se-odrzhal-taen-germansko-ruski-sostanok-veli-aliev/",
-          "published": "Tue, 21 Jul 2026 18:15:01 +0000"
         }
       ]
     },
     {
       "region": "Свет",
       "items": [
+        {
+          "source": "BBC",
+          "title": "Zelensky sacks Ukraine's top army commander after days of protests",
+          "link": "https://www.bbc.co.uk/news/articles/cyvl35z3917o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 21 Jul 2026 19:57:38 GMT"
+        },
         {
           "source": "BBC",
           "title": "Lebanese army says troops deploying in 'pilot zone' after Israeli withdrawal",
@@ -95,45 +101,39 @@
         },
         {
           "source": "BBC",
-          "title": "Row escalates in Ukraine over army chief's future",
-          "link": "https://www.bbc.co.uk/news/articles/c7vgel8374yo?at_medium=RSS&at_campaign=rss",
-          "published": "Tue, 21 Jul 2026 18:49:19 GMT"
-        },
-        {
-          "source": "BBC",
           "title": "US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers",
           "link": "https://www.bbc.co.uk/news/articles/cx25wg2x26do?at_medium=RSS&at_campaign=rss",
           "published": "Tue, 21 Jul 2026 16:10:56 GMT"
         },
         {
           "source": "Al Jazeera",
-          "title": "India tunnel collapse kills 10 as toxic gases hamper rescue",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/21/india-tunnel-collapse-kills-10-as-toxic-gases-hamper-rescue?traffic_source=rss",
-          "published": "Tue, 21 Jul 2026 19:41:38 +0000"
+          "title": "Deposed Turkish opposition leader plans new party",
+          "link": "https://www.aljazeera.com/news/2026/7/21/deposed-turkish-opposition-leader-plans-new-party?traffic_source=rss",
+          "published": "Tue, 21 Jul 2026 20:23:45 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "US agency proposes ending racial and gender workforce data collection",
-          "link": "https://www.aljazeera.com/economy/2026/7/21/us-agency-proposes-ending-racial-and-gender-workforce-data-collection?traffic_source=rss",
-          "published": "Tue, 21 Jul 2026 19:34:06 +0000"
+          "title": "Carney says he and Trump have agreed to ‘intensify’ trade negotiations",
+          "link": "https://www.aljazeera.com/economy/2026/7/21/carney-says-he-and-trump-have-agreed-to-intensify-trade-negotiations?traffic_source=rss",
+          "published": "Tue, 21 Jul 2026 20:17:08 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Can mediators broker a truce between the US and Iran?",
-          "link": "https://www.aljazeera.com/news/2026/7/21/can-mediators-broker-a-truce-between-the-us-and-iran?traffic_source=rss",
-          "published": "Tue, 21 Jul 2026 19:27:26 +0000"
+          "title": "Spain battles latest in series of major wildfires near Madrid",
+          "link": "https://www.aljazeera.com/news/2026/7/21/spain-battles-latest-in-series-of-major-wildfires-near-madrid?traffic_source=rss",
+          "published": "Tue, 21 Jul 2026 20:17:04 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Rescuers search for flood survivors in Afghanistan",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/21/rescuers-search-for-flood-survivors-in-afghanistan?traffic_source=rss",
-          "published": "Tue, 21 Jul 2026 19:21:15 +0000"
+          "title": "Kuwaitis ration electricity after Iranian strikes hit power grid",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/21/kuwaitis-ration-electricity-after-iranian-strikes-hit-power-grid?traffic_source=rss",
+          "published": "Tue, 21 Jul 2026 20:06:57 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Trump says he’s open to talks with Hezbollah, vows to help Lebanon",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/21/trump-says-hes-open-to-talks-with-hezbollah-vows-to-help-lebanon?traffic_source=rss",
-          "published": "Tue, 21 Jul 2026 19:16:08 +0000"
+          "title": "US judge blocks Trump bid to strip work permits from immigrants",
+          "link": "https://www.aljazeera.com/news/2026/7/21/us-judge-blocks-trump-bid-to-strip-work-permits-from-immigrants?traffic_source=rss",
+          "published": "Tue, 21 Jul 2026 19:44:16 +0000"
         }
       ]
     }
