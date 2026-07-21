@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T21:33:26Z",
+  "generated_at": "2026-07-21T22:29:51Z",
   "items": [
     {
       "region": "Македонија",
@@ -39,6 +39,13 @@
     {
       "region": "Македонија",
       "source": "NetPress",
+      "title": "ФОТО+ВИДЕО| Се расчистуваат последиците од невремето, полицијата ја обезбедува безбедноста на граѓаните",
+      "link": "https://netpress.com.mk/foto-video-se-raschistuvaat-poslediczite-od-nevremeto-policzijata-ja-obezbeduva-bezbednosta-na-graganite/",
+      "published": "Tue, 21 Jul 2026 21:44:11 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "NetPress",
       "title": "ВИДЕО| Ѓорѓиевски покажа како се расчистува Скопје по силното невреме",
       "link": "https://netpress.com.mk/video-gorgievski-pokazha-kako-se-raschistuva-skopje-po-silnoto-nevreme/",
       "published": "Tue, 21 Jul 2026 21:12:23 +0000"
@@ -63,13 +70,6 @@
       "title": "Се очекува ново невреме со поројни дождови и град",
       "link": "https://netpress.com.mk/se-ochekuva-novo-nevreme-so-porojni-dozhdovi-i-grad/",
       "published": "Tue, 21 Jul 2026 19:24:03 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "ФОТО+ВИДЕО| Гром усмрти стадо овци, силно невреме низ БиХ",
-      "link": "https://netpress.com.mk/foto-video-grom-usmrti-stado-ovczi-silno-nevreme-niz-bih/",
-      "published": "Tue, 21 Jul 2026 19:20:13 +0000"
     },
     {
       "region": "Свет",
@@ -109,6 +109,27 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "Zelenskyy replaces Ukraine military chief after protests",
+      "link": "https://www.aljazeera.com/news/2026/7/21/zelenskyy-replaces-ukraine-military-chief-after-protests?traffic_source=rss",
+      "published": "Tue, 21 Jul 2026 21:58:32 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Drone shows scorched landscape after Spain wildfire",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/21/drone-shows-scorched-landscape-after-spain-wildfire?traffic_source=rss",
+      "published": "Tue, 21 Jul 2026 21:21:12 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "US defence chief Hegseth puts Iran war cost at $37.5bn so far",
+      "link": "https://www.aljazeera.com/news/2026/7/21/hegseth-says-iran-war-has-cost-37-5bn-in-latest-official-us-account?traffic_source=rss",
+      "published": "Tue, 21 Jul 2026 21:17:06 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "Iran holds funerals for children killed in Minab school strike",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/7/21/iran-holds-funerals-for-children-killed-in-minab-school-strike?traffic_source=rss",
       "published": "Tue, 21 Jul 2026 21:13:02 +0000"
@@ -119,27 +140,6 @@
       "title": "How will Khalil al-Hayya’s leadership shape Hamas?",
       "link": "https://www.aljazeera.com/video/inside-story/2026/7/21/how-will-khalil-al-hayyas-leadership-shape-hamas?traffic_source=rss",
       "published": "Tue, 21 Jul 2026 21:03:58 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Guyana reports ferry disaster death toll rises to 41",
-      "link": "https://www.aljazeera.com/news/2026/7/21/guyana-reports-ferry-disaster-death-toll-rises-to-41?traffic_source=rss",
-      "published": "Tue, 21 Jul 2026 20:54:41 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Daytime Russian strike kills three in Zaporizhzhia",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/21/daytime-russian-strike-kills-three-in-zaporizhzhia?traffic_source=rss",
-      "published": "Tue, 21 Jul 2026 20:48:18 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "French parliament passes social media ban for under-15s",
-      "link": "https://www.aljazeera.com/news/2026/7/21/french-parliament-passes-social-media-ban-for-under-15s?traffic_source=rss",
-      "published": "Tue, 21 Jul 2026 20:44:48 +0000"
     }
   ]
 }
