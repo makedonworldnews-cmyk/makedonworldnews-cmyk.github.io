@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-22T18:46:41Z",
+  "updatedAt": "2026-07-22T20:01:07Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Грција го блокира новиот пакет санкции против Русија",
+          "link": "https://makfax.com.mk/svet/region/grcija-go-blokira-noviot-paket-sankcii-protiv-rusija/",
+          "published": "Wed, 22 Jul 2026 19:36:56 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Адвокатот на Србинот кој речиси излета од прозорот од авион: „Ќе добие голема отштета“",
+          "link": "https://makfax.com.mk/svet/region/advokatot-na-srbinot-koj-rechisi-izleta-od-prozorot-od-avion-ke-dobie-golema-otshteta/",
+          "published": "Wed, 22 Jul 2026 19:05:09 +0000"
         },
         {
           "source": "Makfax",
@@ -29,46 +41,34 @@
           "published": "Wed, 22 Jul 2026 17:48:08 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Левица: Клековски наместо да се извини, им држи лекции на докторите и ги обвинува дека зборуваат за лајкови",
-          "link": "https://makfax.com.mk/makedonija/levica-klekovski-namesto-da-se-izvini-im-drzhi-lekcii-na-doktorite-i-gi-obvinuva-deka-zboruvaat-za-lajkovi/",
-          "published": "Wed, 22 Jul 2026 17:42:19 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "(Видео) Халанд славеше роденден на Азурниот брег со најблиските",
-          "link": "https://makfax.com.mk/zanimlivosti/video-haland-slaveshe-rodenden-na-azurniot-breg-so-najbliskite/",
-          "published": "Wed, 22 Jul 2026 17:29:48 +0000"
+          "source": "NetPress",
+          "title": "Скопјанец уапсен за возење без дозвола",
+          "link": "https://netpress.com.mk/skopjanecz-uapsen-za-vozene-bez-dozvola/",
+          "published": "Wed, 22 Jul 2026 19:59:44 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Мисијата на ЕУ бара од Косово да го запре уривањето на куќи на Србите на северот",
-          "link": "https://netpress.com.mk/misijata-na-eu-bara-od-kosovo-da-go-zapre-urivaneto-na-kuki-na-srbite-na-severot/",
-          "published": "Wed, 22 Jul 2026 18:42:40 +0000"
+          "title": "Германски државјанин нападнал полицаец во Штип",
+          "link": "https://netpress.com.mk/germanski-drzhavjanin-napadnal-policzaecz-vo-shtip/",
+          "published": "Wed, 22 Jul 2026 19:55:45 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Предизвикал голем пожар на отворено – лисици на рацете добил маж од Чепигово",
-          "link": "https://netpress.com.mk/predizvikal-golem-pozhar-na-otvoreno-lisiczi-na-raczete-dobil-mazh-od-chepigovo/",
-          "published": "Wed, 22 Jul 2026 18:19:10 +0000"
+          "title": "Берлин ги отфрли обвинувањата на Русија за германска нуклеарна програма како пропаганда",
+          "link": "https://netpress.com.mk/berlin-gi-otfrli-obvinuvanata-na-rusija-za-germanska-nuklearna-programa-kako-propaganda/",
+          "published": "Wed, 22 Jul 2026 19:50:02 +0000"
         },
         {
           "source": "NetPress",
-          "title": "„Циркус“ во Велешта – почнал расправија, па за одмазда на полицајците им ја предале неговата дрога",
-          "link": "https://netpress.com.mk/diler-razotkrien-otkako-se-skaral-so-rodnina/",
-          "published": "Wed, 22 Jul 2026 18:09:45 +0000"
+          "title": "Фатен малолетник без дозвола зад волан",
+          "link": "https://netpress.com.mk/faten-maloletnik-bez-dozvola-zad-volan/",
+          "published": "Wed, 22 Jul 2026 19:40:27 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Без струја утре улици во една скопска населба и во едно село",
-          "link": "https://netpress.com.mk/bez-struja-utre-uliczi-vo-edna-skopska-naselba-i-vo-edno-selo/",
-          "published": "Wed, 22 Jul 2026 17:42:18 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "ВИДЕО| Унгарскиот премиер Маѓар плукнат од постар маж",
-          "link": "https://netpress.com.mk/video-ungarskiot-premier-magar-pluknat-od-postar-mazh/",
-          "published": "Wed, 22 Jul 2026 17:32:42 +0000"
+          "title": "Истакнати претставници на ромската заедница дел од свечената вечера во чест на претседателката на Индија",
+          "link": "https://netpress.com.mk/istaknati-pretstavniczi-na-romskata-zaednicza-del-od-svechenata-vechera-vo-chest-na-pretsedatelkata-na-indija/",
+          "published": "Wed, 22 Jul 2026 19:33:08 +0000"
         }
       ]
     },
@@ -85,7 +85,7 @@
           "source": "BBC",
           "title": "Trump threatens to target Iran's bridges and power plants if Hormuz attacks persist",
           "link": "https://www.bbc.co.uk/news/articles/cdrv0p37k8jo?at_medium=RSS&at_campaign=rss",
-          "published": "Wed, 22 Jul 2026 10:15:03 GMT"
+          "published": "Wed, 22 Jul 2026 18:57:46 GMT"
         },
         {
           "source": "BBC",
@@ -107,33 +107,33 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Water cannon deployed at India education system protests",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/22/water-cannon-deployed-at-india-education-system-protests?traffic_source=rss",
+          "published": "Wed, 22 Jul 2026 18:57:06 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Key takeaways from Khalil al-Hayya’s first speech as Hamas leader",
+          "link": "https://www.aljazeera.com/news/2026/7/22/key-takeaways-from-khalil-al-hayyas-first-speech-as-hamas-leader?traffic_source=rss",
+          "published": "Wed, 22 Jul 2026 18:43:51 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Death toll from blast at Indian hydroelectric project rises to 20 people",
+          "link": "https://www.aljazeera.com/news/2026/7/22/death-toll-from-blast-at-indian-hydroelectric-project-rises-to-20-people?traffic_source=rss",
+          "published": "Wed, 22 Jul 2026 18:40:49 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Why the US may stop collecting workplace race and gender data",
+          "link": "https://www.aljazeera.com/economy/2026/7/22/why-the-us-may-stop-collecting-workplace-race-and-gender-data?traffic_source=rss",
+          "published": "Wed, 22 Jul 2026 18:36:39 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "US judge sets 2027 trial date for Venezuela’s Maduro and wife",
           "link": "https://www.aljazeera.com/news/2026/7/22/us-judge-sets-2027-trial-date-for-venezuelas-maduro-and-wife?traffic_source=rss",
           "published": "Wed, 22 Jul 2026 18:00:52 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Anonymous food donations reach Indian student protesters",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/22/anonymous-food-donations-reach-indian-student-protesters?traffic_source=rss",
-          "published": "Wed, 22 Jul 2026 17:35:37 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Trump push for Syrian intervention against Hezbollah ‘short-sighted’",
-          "link": "https://www.aljazeera.com/features/2026/7/22/trump-push-for-syrian-intervention-against-hezbollah-short-sighted?traffic_source=rss",
-          "published": "Wed, 22 Jul 2026 17:18:14 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Hamas’s new leader calls for permanent Gaza ceasefire",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/22/hamass-new-leader-calls-for-permanent-gaza-ceasefire?traffic_source=rss",
-          "published": "Wed, 22 Jul 2026 17:02:50 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Iran’s judiciary warns against ‘infiltrators’, announces new executions",
-          "link": "https://www.aljazeera.com/news/2026/7/22/irans-judiciary-warns-against-infiltrators-announces-new-executions?traffic_source=rss",
-          "published": "Wed, 22 Jul 2026 16:35:33 +0000"
         }
       ]
     }
