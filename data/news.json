@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-22T21:19:11Z",
+  "updatedAt": "2026-07-22T22:29:07Z",
   "groups": [
     {
       "region": "Македонија",
@@ -42,6 +42,12 @@
         },
         {
           "source": "NetPress",
+          "title": "ЕУ и натаму без договор за 21-от пакет санкции против Русија, нов состанок в четврток",
+          "link": "https://netpress.com.mk/eu-i-natamu-bez-dogovor-za-21-ot-paket-sankczii-protiv-rusija-nov-sostanok-v-chetvrtok/",
+          "published": "Wed, 22 Jul 2026 21:32:45 +0000"
+        },
+        {
+          "source": "NetPress",
           "title": "Судењето на Мадуро ќе започне на 1 јуни 2027 во Њујорк",
           "link": "https://netpress.com.mk/sudeneto-na-maduro-ke-zapochne-na-1-juni-2027-vo-nujork/",
           "published": "Wed, 22 Jul 2026 20:53:46 +0000"
@@ -63,12 +69,6 @@
           "title": "Малолетник (16) без дозвола се истумбал со „голф“",
           "link": "https://netpress.com.mk/maloletnik-16-bez-dozvola-se-istumbal-so-golf/",
           "published": "Wed, 22 Jul 2026 20:23:08 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Скопјанка се заканувала преку телефон и во чат",
-          "link": "https://netpress.com.mk/skopjanka-se-zakanuvala-preku-telefon-i-vo-chat/",
-          "published": "Wed, 22 Jul 2026 20:18:18 +0000"
         }
       ]
     },
@@ -77,15 +77,15 @@
       "items": [
         {
           "source": "BBC",
-          "title": "US to announce deal allowing Saudi Arabia a nuclear programme",
+          "title": "US signs landmark nuclear deal with Saudi Arabia",
           "link": "https://www.bbc.co.uk/news/articles/cj03r59z73po?at_medium=RSS&at_campaign=rss",
-          "published": "Wed, 22 Jul 2026 20:05:31 GMT"
+          "published": "Wed, 22 Jul 2026 21:31:25 GMT"
         },
         {
           "source": "BBC",
           "title": "Trump threatens to target Iran's bridges and power plants if Hormuz attacks persist",
           "link": "https://www.bbc.co.uk/news/articles/cdrv0p37k8jo?at_medium=RSS&at_campaign=rss",
-          "published": "Wed, 22 Jul 2026 18:57:46 GMT"
+          "published": "Wed, 22 Jul 2026 22:17:54 GMT"
         },
         {
           "source": "BBC",
@@ -107,6 +107,24 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Iran warns of regional turmoil if US threats and attacks do not stop",
+          "link": "https://www.aljazeera.com/news/2026/7/22/iran-warns-of-regional-turmoil-if-us-threats-and-attacks-do-not?traffic_source=rss",
+          "published": "Wed, 22 Jul 2026 21:41:32 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Wounded Gaza journalists call for urgent medical evacuation",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/22/wounded-gaza-journalists-call-for-urgent-medical-evacuation?traffic_source=rss",
+          "published": "Wed, 22 Jul 2026 21:36:37 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "US and Saudi Arabia announce nuclear cooperation deal",
+          "link": "https://www.aljazeera.com/news/2026/7/22/us-and-saudi-arabia-announce-nuclear-cooperation-deal?traffic_source=rss",
+          "published": "Wed, 22 Jul 2026 21:30:25 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "India’s Rahul Gandhi speaks out after release",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/7/22/indias-rahul-gandhi-speaks-out-after-release?traffic_source=rss",
           "published": "Wed, 22 Jul 2026 20:59:28 +0000"
@@ -116,24 +134,6 @@
           "title": "US regulators to weigh controversial peptides backed by RFK Jr",
           "link": "https://www.aljazeera.com/news/2026/7/22/us-regulators-to-weigh-controversial-peptides-backed-by-rfk-jr?traffic_source=rss",
           "published": "Wed, 22 Jul 2026 20:39:14 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Ukraine’s new military chief pledges to escalate retaliation against Russia",
-          "link": "https://www.aljazeera.com/news/2026/7/22/ukraines-new-military-chief-pledges-to-escalate-retaliation-against-russia?traffic_source=rss",
-          "published": "Wed, 22 Jul 2026 20:34:56 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Griffiths: Diplomacy requires US and Iran to accept they have ‘lost‘",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/22/griffiths-diplomacy-requires-us-and-iran-to-accept-they-have?traffic_source=rss",
-          "published": "Wed, 22 Jul 2026 20:20:57 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "UN rights chief condemns Nicaragua’s decision to abolish elections",
-          "link": "https://www.aljazeera.com/news/2026/7/22/un-rights-chief-condemns-nicaraguas-decision-to-abolish-elections?traffic_source=rss",
-          "published": "Wed, 22 Jul 2026 20:07:35 +0000"
         }
       ]
     }
