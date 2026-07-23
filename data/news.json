@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-23T01:08:23Z",
+  "updatedAt": "2026-07-23T04:31:52Z",
   "groups": [
     {
       "region": "Македонија",
@@ -42,6 +42,12 @@
         },
         {
           "source": "NetPress",
+          "title": "Сончево и топло време денеска",
+          "link": "https://netpress.com.mk/sonchevo-i-toplo-vreme-deneska-2/",
+          "published": "Thu, 23 Jul 2026 04:20:45 +0000"
+        },
+        {
+          "source": "NetPress",
           "title": "ЕУ и натаму без договор за 21-от пакет санкции против Русија, нов состанок в четврток",
           "link": "https://netpress.com.mk/eu-i-natamu-bez-dogovor-za-21-ot-paket-sankczii-protiv-rusija-nov-sostanok-v-chetvrtok/",
           "published": "Wed, 22 Jul 2026 21:32:45 +0000"
@@ -63,12 +69,6 @@
           "title": "Тетовец се заканувал на сопругата во продавница и во домот на татко ѝ",
           "link": "https://netpress.com.mk/tetovecz-se-zakanuval-na-soprugata-vo-prodavnicza-i-vo-domot-na-tatko-%d1%9d/",
           "published": "Wed, 22 Jul 2026 20:32:46 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Малолетник (16) без дозвола се истумбал со „голф“",
-          "link": "https://netpress.com.mk/maloletnik-16-bez-dozvola-se-istumbal-so-golf/",
-          "published": "Wed, 22 Jul 2026 20:23:08 +0000"
         }
       ]
     },
@@ -83,9 +83,9 @@
         },
         {
           "source": "BBC",
-          "title": "Trump threatens to target Iran's bridges and power plants if Hormuz attacks persist",
-          "link": "https://www.bbc.co.uk/news/articles/cdrv0p37k8jo?at_medium=RSS&at_campaign=rss",
-          "published": "Wed, 22 Jul 2026 22:17:54 GMT"
+          "title": "Houthis claim attack on oil tankers as US launches more strikes on Iran",
+          "link": "https://www.bbc.co.uk/news/articles/cpw9xzx9r4ko?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 23 Jul 2026 03:48:27 GMT"
         },
         {
           "source": "BBC",
@@ -107,33 +107,33 @@
         },
         {
           "source": "Al Jazeera",
-          "title": "US House passes $1.15 trillion military bill expanding Israel cooperation",
-          "link": "https://www.aljazeera.com/news/2026/7/23/us-house-passes-1-15-trillion-military-bill-expanding-israel-cooperation?traffic_source=rss",
-          "published": "Thu, 23 Jul 2026 00:29:52 +0000"
+          "title": "Guyana ferry disaster: families demand answers as around 100 feared dead",
+          "link": "https://www.aljazeera.com/news/2026/7/23/guyana-ferry-disaster-families-demand-answers-as-around-100-feared-dead?traffic_source=rss",
+          "published": "Thu, 23 Jul 2026 04:17:22 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "AI, China, ‘dark factories’ and the future of the US auto industry",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/23/ai-china-dark-factories-and-the-future-of-the-us-auto-industry?traffic_source=rss",
-          "published": "Thu, 23 Jul 2026 00:25:49 +0000"
+          "title": "Jailed opposition leader Ghannouchi faints in Tunisian prison due to heat",
+          "link": "https://www.aljazeera.com/news/2026/7/23/jailed-opposition-leader-ghannouchi-faints-in-tunisian-prison-due-to-heat?traffic_source=rss",
+          "published": "Thu, 23 Jul 2026 03:53:36 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Iran war live: US launches new attacks; Houthis attack 2 Saudi oil tankers",
-          "link": "https://www.aljazeera.com/news/liveblog/2026/7/23/iran-war-live-us-launches-new-attacks-houthis-attack-2-saudi-oil-tankers?traffic_source=rss",
-          "published": "Thu, 23 Jul 2026 00:00:00 +0000"
+          "title": "Five soldiers killed in southern Thailand checkpoint attack",
+          "link": "https://www.aljazeera.com/news/2026/7/23/five-soldiers-killed-in-southern-thailand-checkpoint-attack?traffic_source=rss",
+          "published": "Thu, 23 Jul 2026 03:53:05 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Austrian home where Hitler was born reopened as police station",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/22/austrian-home-where-hitler-was-born-reopened-as-police-station?traffic_source=rss",
-          "published": "Wed, 22 Jul 2026 22:30:44 +0000"
+          "title": "Calls for Moroccan rapper’s release outside a Casablanca court",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/23/calls-for-moroccan-rappers-release-outside-a-casablanca-court?traffic_source=rss",
+          "published": "Thu, 23 Jul 2026 03:42:41 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Yemen’s Houthis claim attack on two Saudi oil tankers",
-          "link": "https://www.aljazeera.com/news/2026/7/22/yemens-houthis-claim-attack-on-two-saudi-oil-tankers?traffic_source=rss",
-          "published": "Wed, 22 Jul 2026 22:26:14 +0000"
+          "title": "Armed attackers kill more than 20 in northwest Nigeria",
+          "link": "https://www.aljazeera.com/news/2026/7/23/armed-attackers-kill-more-than-20-in-northwest-nigeria?traffic_source=rss",
+          "published": "Thu, 23 Jul 2026 03:21:00 +0000"
         }
       ]
     }
