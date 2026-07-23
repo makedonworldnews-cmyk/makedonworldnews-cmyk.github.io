@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-23T16:59:06Z",
+  "updatedAt": "2026-07-23T18:18:06Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,24 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Модриќ не заминува во пензија – потпиша нов договор со Милан",
+          "link": "https://makfax.com.mk/sport/modrik-ne-zaminuva-vo-penzija-potpisha-nov-dogovor-so-milan/",
+          "published": "Thu, 23 Jul 2026 17:56:10 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Трамп најави можност за нов голем напад врз Иран: „Поголем од кога било“",
+          "link": "https://makfax.com.mk/svet/tramp-najavi-mozhnost-za-nov-golem-napad-vrz-iran-pogolem-od-koga-bilo/",
+          "published": "Thu, 23 Jul 2026 17:48:26 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Распоредени цистерни со вода во Гостивар, во текот на денот пристигнуваат уште девет",
+          "link": "https://makfax.com.mk/makedonija/rasporedeni-cisterni-so-voda-vo-gostivar-vo-tekot-na-denot-pristignuvaat-ushte-devet/",
+          "published": "Thu, 23 Jul 2026 17:42:01 +0000"
         },
         {
           "source": "Makfax",
@@ -23,52 +41,34 @@
           "published": "Thu, 23 Jul 2026 16:22:26 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Светскиот шампион ја подари златната медала на својот дедо: „Ова е гордост“",
-          "link": "https://makfax.com.mk/sport/svetskiot-shampion-ja-podari-zlatnata-medala-na-svojot-dedo-ova-e-gordost/",
-          "published": "Thu, 23 Jul 2026 15:54:51 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Утре пороен дожд, грмежи и температури до 27 степени",
-          "link": "https://makfax.com.mk/makedonija/utre-poroen-dozhd-grmezhi-i-temperaturi-do-27-stepeni/",
-          "published": "Thu, 23 Jul 2026 15:42:19 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Меџити ги пречека делегациите на „Фолк Фест“ во Општина Чаир",
-          "link": "https://makfax.com.mk/makedonija/medhiti-gi-precheka-delegaciite-na-folk-fest-vo-opshtina-chair/",
-          "published": "Thu, 23 Jul 2026 15:36:39 +0000"
+          "source": "NetPress",
+          "title": "Клоп ги презема „Елфовите“ в петок, Зидан „Триколорите“ на 28-ми јули",
+          "link": "https://netpress.com.mk/klop-gi-prezema-elfovite-v-petok-zidan-trikolorite-na-28-mi-juli/",
+          "published": "Thu, 23 Jul 2026 18:09:33 +0000"
         },
         {
           "source": "NetPress",
-          "title": "„Нека ги претворат во конзерви за грав“ – Шефот на „Емирејтс“ нема да ги прими нарачаните авиони од „Боинг“",
-          "link": "https://netpress.com.mk/%e2%80%9eneka-gi-pretvorat-vo-konzervi-za-grav%e2%80%9c-shefot-na-%e2%80%9eemirejts%e2%80%9c-nema-da-gi-primi-narachanite-avioni-od-%e2%80%9eboing%e2%80%9c/",
-          "published": "Thu, 23 Jul 2026 16:58:18 +0000"
+          "title": "Возач-почетник возел 211 км/ч на автопатот Скопје – Тетово",
+          "link": "https://netpress.com.mk/vozach-pochetnik-vozel-211-kmch-na-avtopatot-skopje-tetovo/",
+          "published": "Thu, 23 Jul 2026 18:02:41 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Група од 120 британски милионери бара повисоки даноци за најбогатите",
-          "link": "https://netpress.com.mk/grupa-od-120-britanski-milioneri-bara-povisoki-danoczi-za-najbogatite/",
-          "published": "Thu, 23 Jul 2026 16:47:00 +0000"
+          "title": "Тошковски: Се врши промивање и хиперхлорирање на гостиварскиот водовод",
+          "link": "https://netpress.com.mk/toshkovski-vo-gostivarskiot-vodovod-se-vrshi-promivane-i-hiperhlorirane/",
+          "published": "Thu, 23 Jul 2026 17:56:51 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Полицијата ги фатила како се тепаат во глуво доба – кај едниот имало марихуана",
-          "link": "https://netpress.com.mk/policzijata-gi-fatila-kako-se-tepaat-vo-gluvo-doba-kaj-edniot-imalo-marihuana/",
-          "published": "Thu, 23 Jul 2026 16:38:58 +0000"
+          "title": "Андерсон во вториот најголем британски трансфер се сели во Манчестер Сити",
+          "link": "https://netpress.com.mk/anderson-vo-vtoriot-najgolem-britanski-transfer-se-seli-vo-manchester-siti/",
+          "published": "Thu, 23 Jul 2026 17:54:58 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Четири републиканци се свртеа против Трамп – Конгресот пак бара прекин на операциите во Иран",
-          "link": "https://netpress.com.mk/chetiri-republikanczi-se-svrtea-protiv-tramp-kongresot-pak-bara-prekin-na-operacziite-vo-iran/",
-          "published": "Thu, 23 Jul 2026 16:27:35 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Пронашле хероин кај затвореник во прилепскиот затвор",
-          "link": "https://netpress.com.mk/pronashle-heroin-kaj-zatvorenik-vo-prilepskiot-zatvor/",
-          "published": "Thu, 23 Jul 2026 16:18:49 +0000"
+          "title": "„Magna Mater“ на Синиша Кашавелски во њујоршкиот „Сотби“",
+          "link": "https://netpress.com.mk/magna-mater-na-sinisha-kashavelski-vo-nujorshkiot-sotbi/",
+          "published": "Thu, 23 Jul 2026 17:22:46 +0000"
         }
       ]
     },
@@ -85,7 +85,13 @@
           "source": "BBC",
           "title": "Saudis must recognise Israel for nuclear deal, says Trump",
           "link": "https://www.bbc.co.uk/news/articles/cwye71yq8wwo?at_medium=RSS&at_campaign=rss",
-          "published": "Thu, 23 Jul 2026 16:17:44 GMT"
+          "published": "Thu, 23 Jul 2026 17:58:02 GMT"
+        },
+        {
+          "source": "BBC",
+          "title": "Ukraine's ousted defence minister insists on being reinstated",
+          "link": "https://www.bbc.co.uk/news/articles/ce97nm53pgxo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 23 Jul 2026 17:37:59 GMT"
         },
         {
           "source": "BBC",
@@ -100,40 +106,34 @@
           "published": "Thu, 23 Jul 2026 16:50:59 GMT"
         },
         {
-          "source": "BBC",
-          "title": "'I am still alive': Indian activist on hunger strike for 26 days loses 11kg",
-          "link": "https://www.bbc.co.uk/news/articles/ce34n7kqr5ko?at_medium=RSS&at_campaign=rss",
-          "published": "Thu, 23 Jul 2026 15:22:06 GMT"
+          "source": "Al Jazeera",
+          "title": "Bordeaux wildfire burns 3,100 hectares, 20,000 evacuated",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/23/bordeaux-wildfire-burns-3100-hectares-20000-evacuated?traffic_source=rss",
+          "published": "Thu, 23 Jul 2026 18:14:16 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Lebanon Latest: President Aoun visits White House to discuss Hezbollah",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/23/lebanon-latest-president-aoun-visits-white-house-to-discuss-hezbollah-2?traffic_source=rss",
-          "published": "Thu, 23 Jul 2026 16:48:55 +0000"
+          "title": "UK’s Burnham tells Scotland new independence vote is off limits",
+          "link": "https://www.aljazeera.com/news/2026/7/23/uks-burnham-tells-scotland-new-independence-vote-is-off-limits?traffic_source=rss",
+          "published": "Thu, 23 Jul 2026 18:07:09 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Yemen faces a new challenge amid prospects of confrontation",
-          "link": "https://www.aljazeera.com/news/2026/7/23/yemen-faces-a-new-challenge-amid-prospects-of-confrontation?traffic_source=rss",
-          "published": "Thu, 23 Jul 2026 16:17:44 +0000"
+          "title": "What are the security implications of the US-Saudi nuclear deal?",
+          "link": "https://www.aljazeera.com/news/2026/7/23/what-are-the-security-implications-of-the-us-saudi-nuclear-deal?traffic_source=rss",
+          "published": "Thu, 23 Jul 2026 17:27:57 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "US House votes to limit Iran war for first time since ceasefire breakdown",
-          "link": "https://www.aljazeera.com/news/2026/7/23/us-house-votes-to-limit-iran-war-for-first-time-since-ceasefire-breakdown?traffic_source=rss",
-          "published": "Thu, 23 Jul 2026 16:12:43 +0000"
+          "title": "Far-right Israeli incursion heightens tensions at Al-Aqsa ahead of election",
+          "link": "https://www.aljazeera.com/news/2026/7/23/far-right-israeli-incursion-heightens-tensions-at-al-aqsa-ahead-of-election?traffic_source=rss",
+          "published": "Thu, 23 Jul 2026 17:25:05 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "The missing half of mediation",
-          "link": "https://www.aljazeera.com/opinions/2026/7/23/the-missing-half-of-mediation?traffic_source=rss",
-          "published": "Thu, 23 Jul 2026 16:08:54 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Norway Viking Row gets ‘resign’ twist in ‘Cockroach’ protest",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/23/norway-viking-row-gets-resign-twist-in-cockroach-protest?traffic_source=rss",
-          "published": "Thu, 23 Jul 2026 15:53:45 +0000"
+          "title": "Oil surges past $100 in a first since May as Middle East conflicts rage",
+          "link": "https://www.aljazeera.com/news/2026/7/23/oil-surges-past-100-in-a-first-since-may-as-middle-east-conflicts-rage?traffic_source=rss",
+          "published": "Thu, 23 Jul 2026 17:05:18 +0000"
         }
       ]
     }
