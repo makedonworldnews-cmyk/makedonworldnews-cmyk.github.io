@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T23:34:03Z",
+  "generated_at": "2026-07-24T01:01:45Z",
   "items": [
     {
       "region": "Македонија",
@@ -74,9 +74,23 @@
     {
       "region": "Свет",
       "source": "BBC",
+      "title": "US imposes tariffs on dozens of trade partners over 'forced labour' imports",
+      "link": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 24 Jul 2026 00:40:26 GMT"
+    },
+    {
+      "region": "Свет",
+      "source": "BBC",
       "title": "Oil prices hit $100 for the first time since May",
       "link": "https://www.bbc.co.uk/news/articles/cx2djnzrqk2o?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 23 Jul 2026 15:31:00 GMT"
+    },
+    {
+      "region": "Свет",
+      "source": "BBC",
+      "title": "Indonesian babies were trafficked to Singapore. What happens to them now?",
+      "link": "https://www.bbc.co.uk/news/articles/c7vgeredvlgo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 23 Jul 2026 23:19:58 GMT"
     },
     {
       "region": "Свет",
@@ -94,17 +108,31 @@
     },
     {
       "region": "Свет",
-      "source": "BBC",
-      "title": "India activist ends hunger strike after 26 days",
-      "link": "https://www.bbc.co.uk/news/articles/cjwx4x04yqzo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 23 Jul 2026 21:27:04 GMT"
+      "source": "Al Jazeera",
+      "title": "UN envoy for Yemen ‘alarmed’ by Houthis’ Red Sea attacks, calls for talks",
+      "link": "https://www.aljazeera.com/news/2026/7/24/un-envoy-for-yemen-alarmed-by-houthis-red-sea-attacks-calls-for-talks?traffic_source=rss",
+      "published": "Fri, 24 Jul 2026 00:03:25 +0000"
     },
     {
       "region": "Свет",
-      "source": "BBC",
-      "title": "Ukraine's ousted defence minister insists on being reinstated",
-      "link": "https://www.bbc.co.uk/news/articles/ce97nm53pgxo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 23 Jul 2026 17:37:59 GMT"
+      "source": "Al Jazeera",
+      "title": "Iran war live: Trump weighs ‘massive attack’ on Iran",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/7/24/iran-war-live-trump-weighs-massive-attack-on-iran?traffic_source=rss",
+      "published": "Fri, 24 Jul 2026 00:00:00 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Trump expands voluntary pledge to blunt AI-driven utility bill surges",
+      "link": "https://www.aljazeera.com/news/2026/7/23/trump-expands-voluntary-pledge-to-blunt-ai-driven-utility-bill-surges?traffic_source=rss",
+      "published": "Thu, 23 Jul 2026 23:55:58 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Two Palestinians killed as Israel intensifies strikes on Gaza City",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/23/two-palestinians-killed-as-israel-intensifies-strikes-on-gaza-city?traffic_source=rss",
+      "published": "Thu, 23 Jul 2026 23:53:13 +0000"
     },
     {
       "region": "Свет",
@@ -112,34 +140,6 @@
       "title": "How the Houthi Red Sea blockade will impact the world",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/7/23/how-the-houthi-red-sea-blockade-will-impact-the-world?traffic_source=rss",
       "published": "Thu, 23 Jul 2026 23:10:04 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Arab and Muslim countries condemn Israeli storming of Al-Aqsa Mosque",
-      "link": "https://www.aljazeera.com/news/2026/7/23/arab-and-muslim-countries-condemn-israeli-escalation-at-al-aqsa-mosque?traffic_source=rss",
-      "published": "Thu, 23 Jul 2026 22:51:20 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Is this Italy’s ‘George Floyd moment’?",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/23/is-this-italys-george-floyd?traffic_source=rss",
-      "published": "Thu, 23 Jul 2026 22:07:52 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "US war on Iran: The $110 billion price tag",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/23/us-war-on-iran-the-110-billion-price-tag?traffic_source=rss",
-      "published": "Thu, 23 Jul 2026 22:04:23 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Trump warns of largest strikes on Iran yet as Tehran lashes out across Gulf",
-      "link": "https://www.aljazeera.com/news/2026/7/23/trump-warns-of-biggest-strikes-yet-on-iran-as-tehran-lashes-out-across-gulf?traffic_source=rss",
-      "published": "Thu, 23 Jul 2026 21:43:28 +0000"
     }
   ]
 }
