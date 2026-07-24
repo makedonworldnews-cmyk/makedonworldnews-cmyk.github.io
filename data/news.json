@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-24T21:18:15Z",
+  "updatedAt": "2026-07-24T22:31:45Z",
   "groups": [
     {
       "region": "Македонија",
@@ -77,6 +77,12 @@
       "items": [
         {
           "source": "BBC",
+          "title": "Firefighters struggle to contain Madrid wildfires, as more than 140,000 evacuated in France and Spain",
+          "link": "https://www.bbc.co.uk/news/articles/czjlenp0xk8o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 24 Jul 2026 21:47:16 GMT"
+        },
+        {
+          "source": "BBC",
           "title": "Ten killed in Russian attack on drone exhibition near Kyiv",
           "link": "https://www.bbc.co.uk/news/articles/cj637zd1k1ko?at_medium=RSS&at_campaign=rss",
           "published": "Fri, 24 Jul 2026 18:51:17 GMT"
@@ -100,40 +106,34 @@
           "published": "Fri, 24 Jul 2026 21:02:30 GMT"
         },
         {
-          "source": "BBC",
-          "title": "Indonesian babies were trafficked to Singapore. What happens to them now?",
-          "link": "https://www.bbc.co.uk/news/articles/c7vgeredvlgo?at_medium=RSS&at_campaign=rss",
-          "published": "Fri, 24 Jul 2026 13:33:06 GMT"
+          "source": "Al Jazeera",
+          "title": "China, Philippine coastguard vessels clash in South China Sea",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/24/china-philippine-coastguard-vessels-clash-in-south-china-sea?traffic_source=rss",
+          "published": "Fri, 24 Jul 2026 21:29:10 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Paramount agrees to pause Warner Bros deal while court case plays out",
+          "link": "https://www.aljazeera.com/economy/2026/7/24/paramount-agrees-to-pause-warner-bros-deal-while-court-case-plays-out?traffic_source=rss",
+          "published": "Fri, 24 Jul 2026 21:27:45 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Iran’s Abbas Araghchi vows ‘we fear no one’",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/24/irans-abbas-araghchi-vows-we-fear-no-one?traffic_source=rss",
+          "published": "Fri, 24 Jul 2026 21:24:38 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Fury dominates Wach in Thailand boxing bout ahead of Joshua showdown",
+          "link": "https://www.aljazeera.com/sports/2026/7/24/fury-dominates-wach-in-thailand-boxing-bout-ahead-of-joshua-showdown?traffic_source=rss",
+          "published": "Fri, 24 Jul 2026 21:19:49 +0000"
         },
         {
           "source": "Al Jazeera",
           "title": "Spanish police accuse tractor driver of sparking wildfire as blazes spread",
           "link": "https://www.aljazeera.com/news/2026/7/24/spanish-police-accuse-tractor-driver-of-sparking-wildfire-as-blazes-spread?traffic_source=rss",
           "published": "Fri, 24 Jul 2026 20:51:52 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "UNESCO places occupied West Bank, Lebanon sites on endangered heritage list",
-          "link": "https://www.aljazeera.com/news/2026/7/24/unesco-places-occupied-west-bank-lebanon-sites-on-endangered-heritage-list?traffic_source=rss",
-          "published": "Fri, 24 Jul 2026 20:51:13 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "US small businesses challenge Trump’s new ‘forced labor’ tariffs",
-          "link": "https://www.aljazeera.com/economy/2026/7/24/us-small-businesses-challenge-trumps-new-forced-labor-tariffs?traffic_source=rss",
-          "published": "Fri, 24 Jul 2026 20:49:17 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Israeli settlers escalate attacks on Palestinians near Nablus",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/24/israeli-settlers-escalate-attacks-on-palestinians-near-nablus?traffic_source=rss",
-          "published": "Fri, 24 Jul 2026 20:40:27 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Venezuela to exit International Criminal Court, accusing it of ‘bias’",
-          "link": "https://www.aljazeera.com/news/2026/7/24/venezuela-to-exit-international-criminal-court-accusing-it-of-bias?traffic_source=rss",
-          "published": "Fri, 24 Jul 2026 20:32:12 +0000"
         }
       ]
     }
