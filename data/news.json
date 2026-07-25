@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-25T16:34:30Z",
+  "updatedAt": "2026-07-25T17:37:50Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Жестока порака од Орбан: Унгарија е како Венецуела, но без нафтеното богатство",
+          "link": "https://makfax.com.mk/svet/zhestoka-poraka-od-orban-ungarija-e-kako-venecuela-no-bez-naftenoto-bogatstvo/",
+          "published": "Sat, 25 Jul 2026 16:59:03 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Крадци ја опустошија електровлечната подстаница во Драчево, штетата достигнува пет милиони евра",
+          "link": "https://makfax.com.mk/makedonija/kradci-ja-opustoshija-elektrovlechnata-podstanica-vo-drachevo-shtetata-dostignuva-pet-milioni-evra/",
+          "published": "Sat, 25 Jul 2026 16:40:19 +0000"
         },
         {
           "source": "Makfax",
@@ -29,16 +41,22 @@
           "published": "Sat, 25 Jul 2026 13:57:02 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Пожар беснее во централниот дел на Крф",
-          "link": "https://makfax.com.mk/svet/pozhar-besnee-vo-centralniot-del-na-krf/",
-          "published": "Sat, 25 Jul 2026 13:53:55 +0000"
+          "source": "NetPress",
+          "title": "Превртеле два трансформатори тешки по 30 тони и го украле бакарот – направена штета од 5 милиони евра",
+          "link": "https://netpress.com.mk/prevrtele-dva-transformatori-teshki-po-30-toni-i-go-ukrale-bakarot-napravena-shteta-od-5-milioni-evra/",
+          "published": "Sat, 25 Jul 2026 17:22:32 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "И се заканувал на 71-годишната мајка, па ја нападнал со остри предмети",
-          "link": "https://makfax.com.mk/crna-hronika/i-se-zakanuval-na-71-godishnata-majka-pa-ja-napadnal-so-ostri-predmeti/",
-          "published": "Sat, 25 Jul 2026 13:47:46 +0000"
+          "source": "NetPress",
+          "title": "ВИДЕО| Најмалку 12 убиени, меѓу кои и деца, во украински напад врз туристички камп во Запорожје",
+          "link": "https://netpress.com.mk/video-najmalku-12-ubieni-megu-koi-i-decza-vo-ukrainski-napad-vrz-turistichki-kamp-vo-zaporozhje/",
+          "published": "Sat, 25 Jul 2026 17:09:56 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Ф1: Норис стартува од пол-позицијата во Унгарија",
+          "link": "https://netpress.com.mk/f1-noris-startuva-od-pol-poziczijata-vo-ungarija/",
+          "published": "Sat, 25 Jul 2026 16:53:45 +0000"
         },
         {
           "source": "NetPress",
@@ -51,24 +69,6 @@
           "title": "ВИДЕО| Франција: Илјадници евакуирани поради пожар што беснее на 30 км од Бордо",
           "link": "https://netpress.com.mk/video-franczija-iljadniczi-evakuirani-poradi-pozhar-shto-besnee-na-30-km-od-bordo/",
           "published": "Sat, 25 Jul 2026 15:34:11 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Над 40 отсто од Германците под 39 години не се подготвени да одат во војна",
-          "link": "https://netpress.com.mk/nad-40-otsto-od-germanczite-pod-39-godini-ne-se-podgotveni-da-odat-vo-vojna/",
-          "published": "Sat, 25 Jul 2026 15:12:09 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Вработен во прилепскиот Центар за вработување земал мито за да не укине социјална помош",
-          "link": "https://netpress.com.mk/vraboten-vo-prilepskiot-czentar-za-vrabotuvane-zemal-mito-za-da-ne-ukine-soczijalna-pomosh/",
-          "published": "Sat, 25 Jul 2026 15:11:06 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Индискиот министер за образование поднесе оставка по протестите на младите",
-          "link": "https://netpress.com.mk/indiskiot-minister-za-obrazovanie-podnese-ostavka-po-protestite-na-mladite/",
-          "published": "Sat, 25 Jul 2026 14:37:04 +0000"
         }
       ]
     },
@@ -77,9 +77,21 @@
       "items": [
         {
           "source": "BBC",
+          "title": "More than 250,000 flee wildfires in France and Spain",
+          "link": "https://www.bbc.co.uk/news/articles/cd7le0d53y2o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 25 Jul 2026 17:13:40 GMT"
+        },
+        {
+          "source": "BBC",
           "title": "Trump takes swipes at press during White House Correspondents' Dinner",
           "link": "https://www.bbc.co.uk/news/articles/cd7le4ylev2o?at_medium=RSS&at_campaign=rss",
           "published": "Sat, 25 Jul 2026 13:51:07 GMT"
+        },
+        {
+          "source": "BBC",
+          "title": "India's 'cockroach' protest called off after education minister quits",
+          "link": "https://www.bbc.co.uk/news/articles/cdx828gj5xko?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 25 Jul 2026 17:25:11 GMT"
         },
         {
           "source": "BBC",
@@ -94,16 +106,16 @@
           "published": "Sat, 25 Jul 2026 00:06:53 GMT"
         },
         {
-          "source": "BBC",
-          "title": "Zelensky tries to fix crisis over removal of defence minister and counts the cost",
-          "link": "https://www.bbc.co.uk/news/articles/c1d1gz3n99ro?at_medium=RSS&at_campaign=rss",
-          "published": "Fri, 24 Jul 2026 23:01:06 GMT"
+          "source": "Al Jazeera",
+          "title": "Iran’s government spars with state TV as mediators push talks with US",
+          "link": "https://www.aljazeera.com/news/2026/7/25/irans-government-spars-with-state-tv-as-mediators-push-talks-with-us?traffic_source=rss",
+          "published": "Sat, 25 Jul 2026 16:39:16 +0000"
         },
         {
-          "source": "BBC",
-          "title": "Four Palestinians and two Israelis killed in West Bank shooting",
-          "link": "https://www.bbc.co.uk/news/articles/cx2rxmye4k3o?at_medium=RSS&at_campaign=rss",
-          "published": "Fri, 24 Jul 2026 22:49:59 GMT"
+          "source": "Al Jazeera",
+          "title": "Worker dies during reconstruction of Barcelona’s Camp Nou Stadium",
+          "link": "https://www.aljazeera.com/sports/2026/7/25/construction-worker-dies-in-accident-at-barcelonas-camp-nou-stadium?traffic_source=rss",
+          "published": "Sat, 25 Jul 2026 16:36:48 +0000"
         },
         {
           "source": "Al Jazeera",
@@ -122,18 +134,6 @@
           "title": "Syrian FM calls for Israeli withdrawal in meeting with UN chief",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/7/25/syrian-fm-calls-for-israeli-withdrawal-in-meeting-with-un-chief?traffic_source=rss",
           "published": "Sat, 25 Jul 2026 15:52:19 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "The Battle Over Al-Aqsa",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/25/the-battle-over-al-aqsa?traffic_source=rss",
-          "published": "Sat, 25 Jul 2026 15:49:53 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "The Global South is being forced to choose creditors over children",
-          "link": "https://www.aljazeera.com/opinions/2026/7/25/the-global-south-is-being-forced-to-choose-creditors-over-children?traffic_source=rss",
-          "published": "Sat, 25 Jul 2026 14:33:23 +0000"
         }
       ]
     }
