@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-25T20:53:03Z",
+  "updatedAt": "2026-07-25T21:55:50Z",
   "groups": [
     {
       "region": "Македонија",
@@ -83,6 +83,12 @@
         },
         {
           "source": "BBC",
+          "title": "Several injured at Berlin Pride after reports vehicle drove into crowd, police say",
+          "link": "https://www.bbc.co.uk/news/articles/clyqzylz3zno?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 25 Jul 2026 21:33:00 GMT"
+        },
+        {
+          "source": "BBC",
           "title": "Trump takes swipes at press during White House Correspondents' Dinner",
           "link": "https://www.bbc.co.uk/news/articles/cd7le4ylev2o?at_medium=RSS&at_campaign=rss",
           "published": "Sat, 25 Jul 2026 13:51:07 GMT"
@@ -100,10 +106,16 @@
           "published": "Sat, 25 Jul 2026 06:34:40 GMT"
         },
         {
-          "source": "BBC",
-          "title": "Ten killed in Russian attack on drone exhibition near Kyiv",
-          "link": "https://www.bbc.co.uk/news/articles/cj637zd1k1ko?at_medium=RSS&at_campaign=rss",
-          "published": "Sat, 25 Jul 2026 00:06:53 GMT"
+          "source": "Al Jazeera",
+          "title": "Israeli forces tear gas journalists reporting Nablus shootout",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/25/israeli-forces-tear-gas-journalists-reporting-nablus-shootout?traffic_source=rss",
+          "published": "Sat, 25 Jul 2026 21:08:24 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "How India’s ‘Cockroach’ protesters shook the Modi government",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/25/how-indias-cockroach-protesters-shook-the-modi-government?traffic_source=rss",
+          "published": "Sat, 25 Jul 2026 20:57:45 +0000"
         },
         {
           "source": "Al Jazeera",
@@ -122,18 +134,6 @@
           "title": "Ebola deaths in DRC surge past 1,300 as virus ‘spreading like a wildfire’",
           "link": "https://www.aljazeera.com/news/2026/7/25/ebola-deaths-in-drc-surge-past-1300-as-virus-spreading-like-a-wildfire?traffic_source=rss",
           "published": "Sat, 25 Jul 2026 18:28:09 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "How Netanyahu gov’t media reforms risk deepening Israeli press bias",
-          "link": "https://www.aljazeera.com/news/2026/7/25/how-netanyahu-govt-media-reforms-risk-deepening-israeli-press-bias?traffic_source=rss",
-          "published": "Sat, 25 Jul 2026 18:14:54 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Why Epstein’s survivors are still fighting",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/25/why-epsteins-survivors-are-still-fighting?traffic_source=rss",
-          "published": "Sat, 25 Jul 2026 18:06:09 +0000"
         }
       ]
     }
