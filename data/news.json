@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-25T12:47:27Z",
+  "updatedAt": "2026-07-25T14:21:47Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,24 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Околу еден милион денари е штетата по невремето",
+          "link": "https://makfax.com.mk/makedonija/okolu-eden-milion-denari-e-shtetata-po-nevremeto/",
+          "published": "Sat, 25 Jul 2026 13:57:02 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Пожар беснее во централниот дел на Крф",
+          "link": "https://makfax.com.mk/svet/pozhar-besnee-vo-centralniot-del-na-krf/",
+          "published": "Sat, 25 Jul 2026 13:53:55 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "И се заканувал на 71-годишната мајка, па ја нападнал со остри предмети",
+          "link": "https://makfax.com.mk/crna-hronika/i-se-zakanuval-na-71-godishnata-majka-pa-ja-napadnal-so-ostri-predmeti/",
+          "published": "Sat, 25 Jul 2026 13:47:46 +0000"
         },
         {
           "source": "Makfax",
@@ -23,52 +41,34 @@
           "published": "Sat, 25 Jul 2026 11:51:02 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "(Видео) 19-годишниот гимнастичар Габриел Лангтон падна од вратило, финалето во Глазгов прекинато",
-          "link": "https://makfax.com.mk/sport/video-19-godishniot-gimnastichar-gabriel-langton-padna-od-vratilo-finaleto-vo-glazgov-prekinato/",
-          "published": "Sat, 25 Jul 2026 11:50:56 +0000"
+          "source": "NetPress",
+          "title": "Србија без американски царини, опозицијата тврди дека тоа не е резултат на стратешкиот дијалог САД-Србија",
+          "link": "https://netpress.com.mk/srbija-bez-amerikanski-czarini-opoziczijata-tvrdi-deka-toa-ne-e-rezultat-na-strateshkiot-dijalog-sad-srbija/",
+          "published": "Sat, 25 Jul 2026 14:05:38 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Американец најден починат во хотелска соба во Скопје",
-          "link": "https://makfax.com.mk/crna-hronika/amerikanec-najden-pochinat-vo-hotelska-soba-vo-skopje/",
-          "published": "Sat, 25 Jul 2026 11:47:25 +0000"
+          "source": "NetPress",
+          "title": "На поранешниот украински министер за одбрана му понудиле функција во италијаното Министерство за одбрана",
+          "link": "https://netpress.com.mk/na-poraneshniot-ukrainski-minister-za-odbrana-mu-ponudile-funkczija-vo-italijanoto-ministerstvo-za-odbrana/",
+          "published": "Sat, 25 Jul 2026 13:48:16 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "(Видео) Страшна несреќа во Турција: Автобус се преврте на автопат",
-          "link": "https://makfax.com.mk/svet/video-strashna-nesreka-vo-turcija-avtobus-se-prevrte-na-avtopat/",
-          "published": "Sat, 25 Jul 2026 11:44:25 +0000"
+          "source": "NetPress",
+          "title": "Казахстанскиот претседател предложи замрзнување на конфликтот во Украина",
+          "link": "https://netpress.com.mk/kazahstanskiot-pretsedatel-predlozhi-zamrznuvane-na-konfliktot-vo-ukraina/",
+          "published": "Sat, 25 Jul 2026 13:34:31 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Османи последен има право да држи лекции за преговорите",
+          "link": "https://netpress.com.mk/osmani-posleden-ima-pravo-da-drzhi-lekczii-za-pregovorite/",
+          "published": "Sat, 25 Jul 2026 12:52:45 +0000"
         },
         {
           "source": "NetPress",
           "title": "Извозот на земјоделски производи лани достигнал 417 милиони евра",
           "link": "https://netpress.com.mk/izvozot-na-zemjodelski-proizvodi-lani-dostignal-417-milioni-evra/",
           "published": "Sat, 25 Jul 2026 12:38:56 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Завршени две галерии на автопатот Охрид – Кичево, третата се гради",
-          "link": "https://netpress.com.mk/zavrsheni-dve-galerii-na-avtopatot-ohrid-kichevo-tretata-se-gradi/",
-          "published": "Sat, 25 Jul 2026 12:20:41 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Австриja се спротивставува на „забрзаното пристапување“ на Украина во ЕУ",
-          "link": "https://netpress.com.mk/avstrija-se-sprotivstavuva-na-zabrzanoto-pristapuvane-na-ukraina-vo-eu/",
-          "published": "Sat, 25 Jul 2026 12:07:10 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Почина режисерот Чак Расел",
-          "link": "https://netpress.com.mk/pochina-rezhiserot-chak-rasel/",
-          "published": "Sat, 25 Jul 2026 11:51:05 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Трамп поради иранската закана го замени „Air Force One“ на самитот во Анкара",
-          "link": "https://netpress.com.mk/tramp-poradi-iranskata-zakana-go-zameni-air-force-one-na-samitot-vo-ankara/",
-          "published": "Sat, 25 Jul 2026 11:30:30 +0000"
         }
       ]
     },
@@ -79,7 +79,7 @@
           "source": "BBC",
           "title": "Trump takes swipes at press during White House Correspondents' Dinner",
           "link": "https://www.bbc.co.uk/news/articles/cd7le4ylev2o?at_medium=RSS&at_campaign=rss",
-          "published": "Sat, 25 Jul 2026 06:41:42 GMT"
+          "published": "Sat, 25 Jul 2026 13:51:07 GMT"
         },
         {
           "source": "BBC",
@@ -107,33 +107,33 @@
         },
         {
           "source": "Al Jazeera",
-          "title": "Trump faces backlash for using ‘Palestinian’ as an insult",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/25/trump-faces-backlash-for-using-palestinian-as-an-insult?traffic_source=rss",
-          "published": "Sat, 25 Jul 2026 12:11:33 +0000"
+          "title": "War on Iran: Phase II: Day 14",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/25/war-on-iran-phase-ii-day-14?traffic_source=rss",
+          "published": "Sat, 25 Jul 2026 13:49:12 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Scrutiny of WNBA intensifies as disarray looms over All-Star festivities",
-          "link": "https://www.aljazeera.com/sports/2026/7/25/scrutiny-of-wnba-intensifies-as-disarray-looms-over-all-star-festivities?traffic_source=rss",
-          "published": "Sat, 25 Jul 2026 12:11:30 +0000"
+          "title": "F1 needs better balance between business and sport, says Norris",
+          "link": "https://www.aljazeera.com/sports/2026/7/25/f1-needs-better-balance-between-business-and-sport-says-norris?traffic_source=rss",
+          "published": "Sat, 25 Jul 2026 13:03:52 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Tuberculosis: How drones are transforming care in the Philippines",
-          "link": "https://www.aljazeera.com/video/101-east/2026/7/25/tuberculosis-how-drones-are-transforming-care-in-the-philippines?traffic_source=rss",
-          "published": "Sat, 25 Jul 2026 11:30:00 +0000"
+          "title": "What’s behind the ICC investigation into Karim Khan?",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/25/whats-behind-the-icc-investigation-into-karim-khan?traffic_source=rss",
+          "published": "Sat, 25 Jul 2026 12:53:41 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Two buses collide in Syria, killing at least 35 people",
-          "link": "https://www.aljazeera.com/news/2026/7/25/two-buses-collide-in-syria-killing-at-least-35-people?traffic_source=rss",
-          "published": "Sat, 25 Jul 2026 11:14:14 +0000"
+          "title": "Iran blames US for Hormuz dispute as both sides confirm ongoing talks",
+          "link": "https://www.aljazeera.com/news/2026/7/25/iran-blames-us-for-hormuz-dispute-as-both-sides-confirm-ongoing-talks?traffic_source=rss",
+          "published": "Sat, 25 Jul 2026 12:49:06 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "India’s youth protesters are fighting Modi with irreverent humour and memes",
-          "link": "https://www.aljazeera.com/news/2026/7/25/indias-youth-protesters-are-fighting-modi-with-irreverent-humour-and-memes?traffic_source=rss",
-          "published": "Sat, 25 Jul 2026 11:09:05 +0000"
+          "title": "Baby rescued after Israeli settlers set home on fire amid raids",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/25/baby-rescued-after-israeli-settlers-set-home-on-fire-amid-raids?traffic_source=rss",
+          "published": "Sat, 25 Jul 2026 12:41:14 +0000"
         }
       ]
     }
