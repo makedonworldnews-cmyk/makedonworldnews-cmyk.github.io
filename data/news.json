@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-26T15:49:16Z",
+  "updatedAt": "2026-07-26T16:40:31Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,24 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Трагедија на Елбрус: Двајца планинари од БиХ загинаа, спасувачите трагаат по уште тројца",
+          "link": "https://makfax.com.mk/svet/tragedija-na-elbrus-dvajca-planinari-od-bih-zaginaa-spasuvachite-tragaat-po-ushte-trojca/",
+          "published": "Sun, 26 Jul 2026 16:17:50 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Трамп ги стопира нападите врз Иран, остава простор за преговори",
+          "link": "https://makfax.com.mk/svet/tramp-gi-stopira-napadite-vrz-iran-ostava-prostor-za-pregovori/",
+          "published": "Sun, 26 Jul 2026 16:14:14 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Млади штркови паднале од гнездата во невреме, ги згрижија вработени во Општина Чешиново-Облешево",
+          "link": "https://makfax.com.mk/makedonija/mladi-shtrkovi-padnale-od-gnezdata-vo-nevreme-gi-zgrizhija-vraboteni-vo-opshtina-cheshinovo-obleshevo/",
+          "published": "Sun, 26 Jul 2026 16:06:39 +0000"
         },
         {
           "source": "Makfax",
@@ -23,22 +41,10 @@
           "published": "Sun, 26 Jul 2026 14:36:41 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Израелски доселеници запалија две џамии на Западниот Брег",
-          "link": "https://makfax.com.mk/svet/izraelski-doselenici-zapalija-dve-dhamii-na-zapadniot-breg/",
-          "published": "Sun, 26 Jul 2026 14:27:34 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Се самоуби мажот што ја уби сопругата пред очите на ќерката во Сараево",
-          "link": "https://makfax.com.mk/svet/se-samoubi-mazhot-shto-ja-ubi-soprugata-pred-ochite-na-kerkata-vo-saraevo/",
-          "published": "Sun, 26 Jul 2026 14:20:46 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Пожар зафати куќа во Скопје, изгоре дел од покривот",
-          "link": "https://makfax.com.mk/crna-hronika/pozhar-zafati-kuka-vo-skopje-izgore-del-od-pokrivot/",
-          "published": "Sun, 26 Jul 2026 14:17:52 +0000"
+          "source": "NetPress",
+          "title": "Унгарско Гран при: Норис ја оствари првата победа како светски шампион",
+          "link": "https://netpress.com.mk/ungarsko-gran-pri-noris-ja-ostvari-prvata-pobeda-kako-svetski-shampion/",
+          "published": "Sun, 26 Jul 2026 16:17:03 +0000"
         },
         {
           "source": "NetPress",
@@ -63,12 +69,6 @@
           "title": "Назначувањето на Пирло загрозено поради руска обложувалница",
           "link": "https://netpress.com.mk/naznachuvaneto-na-pirlo-zagrozeno-poradi-ruska-oblozhuvalnicza/",
           "published": "Sun, 26 Jul 2026 14:59:05 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Вучиќ вели дека нема да избега од земјата ако СНС ги изгуби изборите",
-          "link": "https://netpress.com.mk/vuchik-veli-deka-nema-da-izbega-od-zemjata-ako-sns-gi-izgubi-izborite/",
-          "published": "Sun, 26 Jul 2026 14:44:32 +0000"
         }
       ]
     },
@@ -91,7 +91,7 @@
           "source": "BBC",
           "title": "Firefighters battle wildfire as tens of thousands evacuated near Bordeaux",
           "link": "https://www.bbc.co.uk/news/articles/clyj8k4nn5jo?at_medium=RSS&at_campaign=rss",
-          "published": "Sun, 26 Jul 2026 11:29:07 GMT"
+          "published": "Sun, 26 Jul 2026 16:30:22 GMT"
         },
         {
           "source": "BBC",
@@ -107,33 +107,33 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Darfur: Weaponising Identity",
+          "link": "https://www.aljazeera.com/video/aljazeerauntangles/2026/7/26/darfur-weaponising-identity?traffic_source=rss",
+          "published": "Sun, 26 Jul 2026 16:20:27 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Typhoon Noul batters Southeast China",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/26/typhoon-noul-batters-southeast-china?traffic_source=rss",
+          "published": "Sun, 26 Jul 2026 16:19:07 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Who is India’s new education minister Pralhad Joshi?",
+          "link": "https://www.aljazeera.com/news/2026/7/26/who-is-indias-new-education-minister-pralhad-joshi?traffic_source=rss",
+          "published": "Sun, 26 Jul 2026 16:18:03 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Senator Whitehouse: Netanyahu a ‘walking provocation’ for Americans",
+          "link": "https://www.aljazeera.com/video/the-bottom-line/2026/7/26/senator-whitehouse-netanyahu-a-walking-provocation-for-americans?traffic_source=rss",
+          "published": "Sun, 26 Jul 2026 15:26:57 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Lando Norris wins Hungarian Grand Prix for first F1 triumph in 2026",
           "link": "https://www.aljazeera.com/sports/2026/7/26/lando-norris-wins-hungarian-grand-prix-for-first-f1-triumph-in-2026?traffic_source=rss",
           "published": "Sun, 26 Jul 2026 15:04:12 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "More than 360,000 evacuated as wildfires rage in France and Spain",
-          "link": "https://www.aljazeera.com/news/2026/7/26/more-than-360000-evacuated-as-wildfires-rage-in-france-and-spain?traffic_source=rss",
-          "published": "Sun, 26 Jul 2026 14:49:41 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Israel carries out double tap strike in central Gaza",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/26/israel-carries-out-double-tap-strike-in-central-gaza?traffic_source=rss",
-          "published": "Sun, 26 Jul 2026 14:47:02 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Tunisia grapples with five years of crisis since Saied’s power grab",
-          "link": "https://www.aljazeera.com/economy/2026/7/26/tunisia-grapples-with-five-years-of-crisis-since-saieds-power-grab?traffic_source=rss",
-          "published": "Sun, 26 Jul 2026 14:39:30 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Senegal’s Faye launches a new party, formalising his split with Sonko",
-          "link": "https://www.aljazeera.com/news/2026/7/26/senegals-faye-launches-a-new-party-formalising-his-split-with-sonko?traffic_source=rss",
-          "published": "Sun, 26 Jul 2026 14:22:03 +0000"
         }
       ]
     }
