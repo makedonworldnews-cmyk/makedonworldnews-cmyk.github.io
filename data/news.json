@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-26T17:46:40Z",
+  "updatedAt": "2026-07-26T18:45:45Z",
   "groups": [
     {
       "region": "Македонија",
@@ -42,6 +42,18 @@
         },
         {
           "source": "NetPress",
+          "title": "ВИДЕО| Над 400 евакуирани по море поради пожар во Италија",
+          "link": "https://netpress.com.mk/video-nad-400-evakuirani-po-more-poradi-pozhar-vo-italija/",
+          "published": "Sun, 26 Jul 2026 18:22:04 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Напаѓачот од Берлин убиен во судир со полицијата",
+          "link": "https://netpress.com.mk/napagachot-od-berlin-ubien-vo-sudir-so-policzijata/",
+          "published": "Sun, 26 Jul 2026 18:00:38 +0000"
+        },
+        {
+          "source": "NetPress",
           "title": "Имаше само еден гарант за територијалниот интегритет на Украина, а тоа беше Русија",
           "link": "https://netpress.com.mk/imashe-samo-eden-garant-za-teritorijalniot-integritet-na-ukraina-a-toa-beshe-rusija/",
           "published": "Sun, 26 Jul 2026 16:57:08 +0000"
@@ -57,18 +69,6 @@
           "title": "Унгарско Гран при: Норис ја оствари првата победа како светски шампион",
           "link": "https://netpress.com.mk/ungarsko-gran-pri-noris-ja-ostvari-prvata-pobeda-kako-svetski-shampion/",
           "published": "Sun, 26 Jul 2026 16:17:03 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Курсот на доларот во однос на јенот на највисоко ниво во последните 40 години",
-          "link": "https://netpress.com.mk/kursot-na-dolarot-vo-odnos-na-jenot-na-najvisoko-nivo-vo-poslednite-40-godini/",
-          "published": "Sun, 26 Jul 2026 15:49:03 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Бокс: Џошуа победи откако беше двапати во нокдаун",
-          "link": "https://netpress.com.mk/boks-dhoshua-pobedi-otkako-beshe-dvapati-vo-nokdaun/",
-          "published": "Sun, 26 Jul 2026 15:22:21 +0000"
         }
       ]
     },
@@ -91,7 +91,7 @@
           "source": "BBC",
           "title": "Firefighters battle wildfire as tens of thousands evacuated near Bordeaux",
           "link": "https://www.bbc.co.uk/news/articles/clyj8k4nn5jo?at_medium=RSS&at_campaign=rss",
-          "published": "Sun, 26 Jul 2026 16:48:16 GMT"
+          "published": "Sun, 26 Jul 2026 18:40:08 GMT"
         },
         {
           "source": "BBC",
@@ -104,6 +104,12 @@
           "title": "India's 'cockroach' protest called off after education minister quits",
           "link": "https://www.bbc.co.uk/news/articles/cdx828gj5xko?at_medium=RSS&at_campaign=rss",
           "published": "Sat, 25 Jul 2026 17:44:46 GMT"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Berlin police shoot dead suspect in car ramming attack on Pride event",
+          "link": "https://www.aljazeera.com/news/2026/7/26/berlin-police-shoot-dead-suspect-in-car-ramming-attack-on-pride-event?traffic_source=rss",
+          "published": "Sun, 26 Jul 2026 17:51:37 +0000"
         },
         {
           "source": "Al Jazeera",
@@ -128,12 +134,6 @@
           "title": "Heatwave drives major wildfires across North Africa",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/7/26/heatwave-drives-major-wildfires-across-north-africa?traffic_source=rss",
           "published": "Sun, 26 Jul 2026 16:39:06 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Darfur: Weaponising Identity",
-          "link": "https://www.aljazeera.com/video/aljazeerauntangles/2026/7/26/darfur-weaponising-identity?traffic_source=rss",
-          "published": "Sun, 26 Jul 2026 16:20:27 +0000"
         }
       ]
     }
