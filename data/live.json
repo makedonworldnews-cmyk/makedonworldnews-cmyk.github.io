@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T23:29:06Z",
+  "generated_at": "2026-07-26T01:07:29Z",
   "items": [
     {
       "region": "Македонија",
@@ -74,9 +74,9 @@
     {
       "region": "Свет",
       "source": "BBC",
-      "title": "More than 250,000 flee wildfires in France and Spain",
+      "title": "More than 300,000 flee wildfires in France and Spain",
       "link": "https://www.bbc.co.uk/news/articles/cd7le0d53y2o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 25 Jul 2026 17:13:40 GMT"
+      "published": "Sun, 26 Jul 2026 00:54:06 GMT"
     },
     {
       "region": "Свет",
@@ -109,6 +109,27 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "Bolsonaro’s son begins Brazil presidential bid with Netanyahu, Milei kudos",
+      "link": "https://www.aljazeera.com/news/2026/7/26/bolsonaros-son-begins-brazil-presidential-bid-with-netanyahu-milei-kudos?traffic_source=rss",
+      "published": "Sun, 26 Jul 2026 00:08:16 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Iran war live: Tehran summons Ukraine diplomats over Caspian Sea attack",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/7/26/iran-war-live-tehran-summons-ukraine-diplomats-over-caspian-sea-attack?traffic_source=rss",
+      "published": "Sun, 26 Jul 2026 00:00:25 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "What’s behind the Israeli crackdown in the occupied West Bank?",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/7/25/whats-behind-the-israeli-crackdown-in-the-occupied-west-bank?traffic_source=rss",
+      "published": "Sat, 25 Jul 2026 23:30:45 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "Iran accuses Ukraine of deadly attack on Caspian commercial vessel",
       "link": "https://www.aljazeera.com/news/2026/7/25/iran-accuses-ukraine-of-deadly-attack-on-caspian-commercial-vessel?traffic_source=rss",
       "published": "Sat, 25 Jul 2026 23:16:45 +0000"
@@ -119,27 +140,6 @@
       "title": "Fire tears through Indonesian village in West Java",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/7/25/fire-tears-through-indonesian-village-in-west-java?traffic_source=rss",
       "published": "Sat, 25 Jul 2026 23:11:44 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "One dead, 17 injured as car reportedly strikes crowd at Berlin LGBTQ event",
-      "link": "https://www.aljazeera.com/news/2026/7/25/one-dead-14-injured-as-car-reportedly-strikes-crowd-at-berlin-lgbtq-event?traffic_source=rss",
-      "published": "Sat, 25 Jul 2026 22:31:19 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Israeli forces target Gaza’s Al-Aqsa hospital",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/25/israeli-forces-target-gazas-al-aqsa-hospital?traffic_source=rss",
-      "published": "Sat, 25 Jul 2026 22:07:36 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "What’s next for Venezuela’s path to recovery from devastating earthquakes?",
-      "link": "https://www.aljazeera.com/news/2026/7/25/whats-next-for-venezuelas-path-to-recovery-from-devastating-earthquakes?traffic_source=rss",
-      "published": "Sat, 25 Jul 2026 21:59:39 +0000"
     }
   ]
 }
