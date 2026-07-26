@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-26T18:45:45Z",
+  "updatedAt": "2026-07-26T19:58:19Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Рама: Нема да поднесам оставка, договор имам со 800 илјади албански граѓани",
+          "link": "https://makfax.com.mk/svet/rama-nema-da-podnesam-ostavka-dogovor-imam-so-800-iljadi-albanski-gragani/",
+          "published": "Sun, 26 Jul 2026 18:52:02 +0000"
         },
         {
           "source": "Makfax",
@@ -35,10 +41,16 @@
           "published": "Sun, 26 Jul 2026 16:06:39 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Во Старата скопска чаршија откриена спомен-плоча во чест на Адолф Циборовски",
-          "link": "https://makfax.com.mk/makedonija/vo-starata-skopska-charshija-otkriena-spomen-plocha-vo-chest-na-adolf-ciborovski/",
-          "published": "Sun, 26 Jul 2026 14:41:03 +0000"
+          "source": "NetPress",
+          "title": "Два гола и дрска прослава на Нејмар",
+          "link": "https://netpress.com.mk/dva-gola-i-drska-proslava-na-nejmar/",
+          "published": "Sun, 26 Jul 2026 19:43:30 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Арагчи предупреди на „одговор“ по украинскиот напад врз иранскиот брод",
+          "link": "https://netpress.com.mk/aragchi-predupredi-na-odgovor-po-ukrainskiot-napad-vrz-iranskiot-brod/",
+          "published": "Sun, 26 Jul 2026 18:57:40 +0000"
         },
         {
           "source": "NetPress",
@@ -57,24 +69,18 @@
           "title": "Имаше само еден гарант за територијалниот интегритет на Украина, а тоа беше Русија",
           "link": "https://netpress.com.mk/imashe-samo-eden-garant-za-teritorijalniot-integritet-na-ukraina-a-toa-beshe-rusija/",
           "published": "Sun, 26 Jul 2026 16:57:08 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Пронајден човечки череп во Лабуништа",
-          "link": "https://netpress.com.mk/pronajden-chovechki-cherep-vo-labunishta/",
-          "published": "Sun, 26 Jul 2026 16:45:49 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Унгарско Гран при: Норис ја оствари првата победа како светски шампион",
-          "link": "https://netpress.com.mk/ungarsko-gran-pri-noris-ja-ostvari-prvata-pobeda-kako-svetski-shampion/",
-          "published": "Sun, 26 Jul 2026 16:17:03 +0000"
         }
       ]
     },
     {
       "region": "Свет",
       "items": [
+        {
+          "source": "BBC",
+          "title": "Berlin Pride attack suspect shot and killed during police operation",
+          "link": "https://www.bbc.co.uk/news/articles/c62eg899l99o?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 26 Jul 2026 19:21:26 GMT"
+        },
         {
           "source": "BBC",
           "title": "What we know so far about the Berlin Pride ramming attack",
@@ -100,40 +106,34 @@
           "published": "Sat, 25 Jul 2026 13:51:07 GMT"
         },
         {
-          "source": "BBC",
-          "title": "India's 'cockroach' protest called off after education minister quits",
-          "link": "https://www.bbc.co.uk/news/articles/cdx828gj5xko?at_medium=RSS&at_campaign=rss",
-          "published": "Sat, 25 Jul 2026 17:44:46 GMT"
+          "source": "Al Jazeera",
+          "title": "What lies ahead for Iran’s economy as scope of US war grows beyond Hormuz?",
+          "link": "https://www.aljazeera.com/news/2026/7/26/what-lies-ahead-for-iran-as-scope-of-us-war-grows-beyond-hormuz?traffic_source=rss",
+          "published": "Sun, 26 Jul 2026 19:31:58 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Berlin police shoot dead suspect in car ramming attack on Pride event",
-          "link": "https://www.aljazeera.com/news/2026/7/26/berlin-police-shoot-dead-suspect-in-car-ramming-attack-on-pride-event?traffic_source=rss",
-          "published": "Sun, 26 Jul 2026 17:51:37 +0000"
+          "title": "Al-Sharaa outlines Syria’s approach to security with Israel and Lebanon",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/26/al-sharaa-outlines-syrias-approach-to-security-with-israel-and-lebanon?traffic_source=rss",
+          "published": "Sun, 26 Jul 2026 19:27:57 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Israel launches military incursion into Syria amid UN condemnation",
-          "link": "https://www.aljazeera.com/news/2026/7/26/israel-launches-military-incursion-into-syria-amid-un-condemnation?traffic_source=rss",
-          "published": "Sun, 26 Jul 2026 17:40:15 +0000"
+          "title": "46 people rescued from sunken ship in South China Sea",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/26/46-people-rescued-from-sunken-ship-in-south-china-sea?traffic_source=rss",
+          "published": "Sun, 26 Jul 2026 19:22:45 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "‘Freeze the conflict’: Drones slow Kazakh oil flow amid Russia-Ukraine war",
-          "link": "https://www.aljazeera.com/news/2026/7/26/freeze-the-conflict-drones-slow-kazakh-oil-flow-amid-russia-ukraine-war?traffic_source=rss",
-          "published": "Sun, 26 Jul 2026 17:13:55 +0000"
+          "title": "Cuban president accuses US of genocide, seeking takeover",
+          "link": "https://www.aljazeera.com/news/2026/7/26/cuban-president-accuses-us-of-genocide-seeking-takeover?traffic_source=rss",
+          "published": "Sun, 26 Jul 2026 19:16:29 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Israel obstructing takeover of pilot zones in Lebanon’s south: Military",
-          "link": "https://www.aljazeera.com/news/2026/7/26/israel-obstructing-takeover-of-pilot-zones-in-lebanons-south-military?traffic_source=rss",
-          "published": "Sun, 26 Jul 2026 16:49:59 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Heatwave drives major wildfires across North Africa",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/26/heatwave-drives-major-wildfires-across-north-africa?traffic_source=rss",
-          "published": "Sun, 26 Jul 2026 16:39:06 +0000"
+          "title": "Netanyahu vows to go to New York City despite ICC arrest warrant, Mamdani",
+          "link": "https://www.aljazeera.com/news/2026/7/26/netanyahu-vows-to-go-to-new-york-city-despite-icc-arrest-warrant-mamdani?traffic_source=rss",
+          "published": "Sun, 26 Jul 2026 19:13:02 +0000"
         }
       ]
     }
