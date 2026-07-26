@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-26T16:40:31Z",
+  "updatedAt": "2026-07-26T17:46:40Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Шпанија од пожарите изгуби 20.000 хектари за 24 часа",
+          "link": "https://makfax.com.mk/svet/shpanija-od-pozharite-izgubi-20-000-hektari-za-24-chasa/",
+          "published": "Sun, 26 Jul 2026 17:11:03 +0000"
         },
         {
           "source": "Makfax",
@@ -35,10 +41,16 @@
           "published": "Sun, 26 Jul 2026 14:41:03 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Николоски со порака: Ние градиме, тие уништуваат, но Македонија ќе оди напред",
-          "link": "https://makfax.com.mk/makedonija/nikoloski-so-poraka-nie-gradime-tie-unishtuvaat-no-makedonija-ke-odi-napred/",
-          "published": "Sun, 26 Jul 2026 14:36:41 +0000"
+          "source": "NetPress",
+          "title": "Имаше само еден гарант за територијалниот интегритет на Украина, а тоа беше Русија",
+          "link": "https://netpress.com.mk/imashe-samo-eden-garant-za-teritorijalniot-integritet-na-ukraina-a-toa-beshe-rusija/",
+          "published": "Sun, 26 Jul 2026 16:57:08 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Пронајден човечки череп во Лабуништа",
+          "link": "https://netpress.com.mk/pronajden-chovechki-cherep-vo-labunishta/",
+          "published": "Sun, 26 Jul 2026 16:45:49 +0000"
         },
         {
           "source": "NetPress",
@@ -57,18 +69,6 @@
           "title": "Бокс: Џошуа победи откако беше двапати во нокдаун",
           "link": "https://netpress.com.mk/boks-dhoshua-pobedi-otkako-beshe-dvapati-vo-nokdaun/",
           "published": "Sun, 26 Jul 2026 15:22:21 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Трамп ги запре нападите врз Иран за да „даде простор“ за дипломатијата",
-          "link": "https://netpress.com.mk/tramp-gi-zapre-napadite-vrz-iran-za-da-dade-prostor-za-diplomatijata/",
-          "published": "Sun, 26 Jul 2026 15:09:28 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Назначувањето на Пирло загрозено поради руска обложувалница",
-          "link": "https://netpress.com.mk/naznachuvaneto-na-pirlo-zagrozeno-poradi-ruska-oblozhuvalnicza/",
-          "published": "Sun, 26 Jul 2026 14:59:05 +0000"
         }
       ]
     },
@@ -79,7 +79,7 @@
           "source": "BBC",
           "title": "What we know so far about the Berlin Pride ramming attack",
           "link": "https://www.bbc.co.uk/news/articles/cevmdxz4872o?at_medium=RSS&at_campaign=rss",
-          "published": "Sun, 26 Jul 2026 13:40:29 GMT"
+          "published": "Sun, 26 Jul 2026 17:45:30 GMT"
         },
         {
           "source": "BBC",
@@ -91,7 +91,7 @@
           "source": "BBC",
           "title": "Firefighters battle wildfire as tens of thousands evacuated near Bordeaux",
           "link": "https://www.bbc.co.uk/news/articles/clyj8k4nn5jo?at_medium=RSS&at_campaign=rss",
-          "published": "Sun, 26 Jul 2026 16:30:22 GMT"
+          "published": "Sun, 26 Jul 2026 16:48:16 GMT"
         },
         {
           "source": "BBC",
@@ -107,33 +107,33 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Israel launches military incursion into Syria amid UN condemnation",
+          "link": "https://www.aljazeera.com/news/2026/7/26/israel-launches-military-incursion-into-syria-amid-un-condemnation?traffic_source=rss",
+          "published": "Sun, 26 Jul 2026 17:40:15 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "‘Freeze the conflict’: Drones slow Kazakh oil flow amid Russia-Ukraine war",
+          "link": "https://www.aljazeera.com/news/2026/7/26/freeze-the-conflict-drones-slow-kazakh-oil-flow-amid-russia-ukraine-war?traffic_source=rss",
+          "published": "Sun, 26 Jul 2026 17:13:55 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Israel obstructing takeover of pilot zones in Lebanon’s south: Military",
+          "link": "https://www.aljazeera.com/news/2026/7/26/israel-obstructing-takeover-of-pilot-zones-in-lebanons-south-military?traffic_source=rss",
+          "published": "Sun, 26 Jul 2026 16:49:59 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Heatwave drives major wildfires across North Africa",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/26/heatwave-drives-major-wildfires-across-north-africa?traffic_source=rss",
+          "published": "Sun, 26 Jul 2026 16:39:06 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Darfur: Weaponising Identity",
           "link": "https://www.aljazeera.com/video/aljazeerauntangles/2026/7/26/darfur-weaponising-identity?traffic_source=rss",
           "published": "Sun, 26 Jul 2026 16:20:27 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Typhoon Noul batters Southeast China",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/26/typhoon-noul-batters-southeast-china?traffic_source=rss",
-          "published": "Sun, 26 Jul 2026 16:19:07 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Who is India’s new education minister Pralhad Joshi?",
-          "link": "https://www.aljazeera.com/news/2026/7/26/who-is-indias-new-education-minister-pralhad-joshi?traffic_source=rss",
-          "published": "Sun, 26 Jul 2026 16:18:03 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Senator Whitehouse: Netanyahu a ‘walking provocation’ for Americans",
-          "link": "https://www.aljazeera.com/video/the-bottom-line/2026/7/26/senator-whitehouse-netanyahu-a-walking-provocation-for-americans?traffic_source=rss",
-          "published": "Sun, 26 Jul 2026 15:26:57 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Lando Norris wins Hungarian Grand Prix for first F1 triumph in 2026",
-          "link": "https://www.aljazeera.com/sports/2026/7/26/lando-norris-wins-hungarian-grand-prix-for-first-f1-triumph-in-2026?traffic_source=rss",
-          "published": "Sun, 26 Jul 2026 15:04:12 +0000"
         }
       ]
     }
