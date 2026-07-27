@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26T23:12:56Z",
+  "generated_at": "2026-07-27T00:13:02Z",
   "items": [
     {
       "region": "Македонија",
@@ -109,6 +109,13 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "Khamenei ties US-Iran peace deal to Israel ending attacks on Lebanon",
+      "link": "https://www.aljazeera.com/news/2026/7/26/us-iran-peace-deal-depends-on-israel-leaving-lebanon-says-khamenei?traffic_source=rss",
+      "published": "Sun, 26 Jul 2026 23:44:29 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "Trump’s border czar probes possible vetting failures after ICE shooting",
       "link": "https://www.aljazeera.com/news/2026/7/26/trumps-border-czar-suggests-vetting-failures-after-deadly-ice-shooting?traffic_source=rss",
       "published": "Sun, 26 Jul 2026 21:59:53 +0000"
@@ -133,13 +140,6 @@
       "title": "Palestinians hope international peace force can rebuild Gaza",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/7/26/palestinians-hope-international-peace-force-can-rebuild-gaza?traffic_source=rss",
       "published": "Sun, 26 Jul 2026 21:01:18 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "US and Iran hit pause on strikes for second day",
-      "link": "https://www.aljazeera.com/news/2026/7/26/us-and-iran-hit-pause-on-strikes-for-second-day?traffic_source=rss",
-      "published": "Sun, 26 Jul 2026 20:55:52 +0000"
     }
   ]
 }
