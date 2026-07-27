@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-26T23:11:04Z",
+  "updatedAt": "2026-07-27T00:15:35Z",
   "groups": [
     {
       "region": "Македонија",
@@ -107,6 +107,18 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Iran war live: Iran halts retaliatory strikes after pause in US attacks",
+          "link": "https://www.aljazeera.com/news/liveblog/2026/7/27/iran-war-live-iran-halts-retaliatory-strikes-after-pause-in-us-attacks?traffic_source=rss",
+          "published": "Mon, 27 Jul 2026 00:00:00 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Khamenei ties US-Iran peace deal to Israel ending attacks on Lebanon",
+          "link": "https://www.aljazeera.com/news/2026/7/26/us-iran-peace-deal-depends-on-israel-leaving-lebanon-says-khamenei?traffic_source=rss",
+          "published": "Sun, 26 Jul 2026 23:44:29 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Trump’s border czar probes possible vetting failures after ICE shooting",
           "link": "https://www.aljazeera.com/news/2026/7/26/trumps-border-czar-suggests-vetting-failures-after-deadly-ice-shooting?traffic_source=rss",
           "published": "Sun, 26 Jul 2026 21:59:53 +0000"
@@ -122,18 +134,6 @@
           "title": "Israeli government nods to international stabilisation force in Gaza",
           "link": "https://www.aljazeera.com/news/2026/7/26/israeli-government-nods-to-international-stabilisation-force-in-gaza?traffic_source=rss",
           "published": "Sun, 26 Jul 2026 21:10:07 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Palestinians hope international peace force can rebuild Gaza",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/26/palestinians-hope-international-peace-force-can-rebuild-gaza?traffic_source=rss",
-          "published": "Sun, 26 Jul 2026 21:01:18 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "US and Iran hit pause on strikes for second day",
-          "link": "https://www.aljazeera.com/news/2026/7/26/us-and-iran-hit-pause-on-strikes-for-second-day?traffic_source=rss",
-          "published": "Sun, 26 Jul 2026 20:55:52 +0000"
         }
       ]
     }
