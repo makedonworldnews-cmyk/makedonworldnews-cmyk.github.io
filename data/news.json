@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-27T22:07:11Z",
+  "updatedAt": "2026-07-27T23:18:07Z",
   "groups": [
     {
       "region": "Македонија",
@@ -54,8 +54,8 @@
         },
         {
           "source": "NetPress",
-          "title": "Малдини и Леонардо поднесоа оставка од италијанскиот фудбалск сојуз",
-          "link": "https://netpress.com.mk/maldini-i-leonardo-podnesoa-ostavka-od-italijanskiot-fudbalsk-sojuz/",
+          "title": "Малдини и Леонардо поднесоа оставки од италијанскиот фудбалск сојуз",
+          "link": "https://netpress.com.mk/maldini-i-leonardo-podnesoa-ostavki-od-italijanskiot-fudbalsk-sojuz/",
           "published": "Mon, 27 Jul 2026 19:19:48 +0000"
         },
         {
@@ -95,15 +95,27 @@
         },
         {
           "source": "BBC",
+          "title": "A Japanese town wrestles with identity after protests over its first mosque",
+          "link": "https://www.bbc.co.uk/news/articles/c36d79nd5w8o?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 27 Jul 2026 22:08:21 GMT"
+        },
+        {
+          "source": "BBC",
           "title": "Anger as Berlin Pride attacker revealed to have been freed weeks earlier",
           "link": "https://www.bbc.co.uk/news/articles/cy9wv74qje9o?at_medium=RSS&at_campaign=rss",
           "published": "Mon, 27 Jul 2026 12:33:31 GMT"
         },
         {
-          "source": "BBC",
-          "title": "US singer D4vd to go on trial for murder in death of teen",
-          "link": "https://www.bbc.co.uk/news/articles/c70gkg62w0ro?at_medium=RSS&at_campaign=rss",
-          "published": "Mon, 27 Jul 2026 21:37:59 GMT"
+          "source": "Al Jazeera",
+          "title": "US diplomats walk out as France addresses UN Security Council",
+          "link": "https://www.aljazeera.com/news/2026/7/27/us-diplomats-walk-out-as-france-addresses-un-security-council?traffic_source=rss",
+          "published": "Mon, 27 Jul 2026 23:07:55 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Shot fired outside US consulate in Canada for second time this year",
+          "link": "https://www.aljazeera.com/news/2026/7/27/shot-fired-outside-us-consulate-in-canada-for-second-time-this-year?traffic_source=rss",
+          "published": "Mon, 27 Jul 2026 22:34:38 +0000"
         },
         {
           "source": "Al Jazeera",
@@ -122,18 +134,6 @@
           "title": "UN slams Israel’s expansion of illegal settlements in occupied West Bank",
           "link": "https://www.aljazeera.com/news/2026/7/27/un-slams-israels-expansion-of-illegal-settlements-in-occupied-west-bank?traffic_source=rss",
           "published": "Mon, 27 Jul 2026 21:17:15 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Nvidia plans $250bn push to bolster OpenAI’s infrastructure ambitions",
-          "link": "https://www.aljazeera.com/economy/2026/7/27/nvidia-plans-250bn-push-to-bolster-openais-infrastructure-ambitions?traffic_source=rss",
-          "published": "Mon, 27 Jul 2026 21:08:21 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Hopes of return to diplomacy as US-Iran hold fire for third day",
-          "link": "https://www.aljazeera.com/news/2026/7/27/hopes-of-return-to-diplomacy-as-us-iran-hold-fire-for-third-day?traffic_source=rss",
-          "published": "Mon, 27 Jul 2026 21:04:09 +0000"
         }
       ]
     }
