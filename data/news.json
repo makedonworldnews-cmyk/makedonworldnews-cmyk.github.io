@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-28T18:42:22Z",
+  "updatedAt": "2026-07-28T20:07:51Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,24 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Гвардиол „граѓанин“ до 2031 година",
+          "link": "https://makfax.com.mk/sport/gvardiol-graganin-do-2031-godina/",
+          "published": "Tue, 28 Jul 2026 19:14:56 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "„Нуклеарна бомба за фудбалот“ – Инфантино го продава Мундијалот",
+          "link": "https://makfax.com.mk/sport/nuklearna-bomba-za-fudbalot-infantino-go-prodava-mundijalot/",
+          "published": "Tue, 28 Jul 2026 19:09:10 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Телевизорот падна врз мене, огледалото се скрши, патиштата се оштетени, сведочи жена по разорниот земјотрес во Јапонија",
+          "link": "https://makfax.com.mk/svet/televizorot-padna-vrz-mene-ogledaloto-se-skrshi-patishtata-se-oshteteni-svedochi-zhena-po-razorniot-zemjotres-vo-japonija/",
+          "published": "Tue, 28 Jul 2026 19:03:42 +0000"
         },
         {
           "source": "Makfax",
@@ -23,22 +41,22 @@
           "published": "Tue, 28 Jul 2026 17:25:54 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Пожарот кај Велес се прошири кон патот за Штип, МВР го регулира сообраќајот поради густиот чад",
-          "link": "https://makfax.com.mk/makedonija/pozharot-kaj-veles-se-proshiri-kon-patot-za-shtip-mvr-go-regulira-soobrakajot-poradi-gustiot-chad/",
-          "published": "Tue, 28 Jul 2026 17:18:59 +0000"
+          "source": "NetPress",
+          "title": "Укинат притворот на напаѓачот со нож во Париз поради психијатриски причини",
+          "link": "https://netpress.com.mk/ukinat-pritvorot-na-napagachot-so-nozh-vo-pariz-poradi-psihijatriski-prichini/",
+          "published": "Tue, 28 Jul 2026 20:03:29 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Трамп и Зеленски се сретнаа во Белата куќа: „Имавме добар состанок“",
-          "link": "https://makfax.com.mk/svet/tramp-i-zelenski-se-sretnaa-vo-belata-kuka-imavme-dobar-sostanok/",
-          "published": "Tue, 28 Jul 2026 16:45:16 +0000"
+          "source": "NetPress",
+          "title": "Кина и САД го закочија пазарот на електрични автомобили",
+          "link": "https://netpress.com.mk/kina-i-sad-go-zakochija-pazarot-na-elektrichni-avtomobili/",
+          "published": "Tue, 28 Jul 2026 19:11:42 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Следува топлотен бран: Првата половина од август носи температури до 40 степени",
-          "link": "https://makfax.com.mk/makedonija/sleduva-toploten-bran-prvata-polovina-od-avgust-nosi-temperaturi-do-40-stepeni/",
-          "published": "Tue, 28 Jul 2026 15:50:17 +0000"
+          "source": "NetPress",
+          "title": "Реал Мадрид во сезоната без трофеи оствари рекордни приходи",
+          "link": "https://netpress.com.mk/real-madrid-vo-sezonata-bez-trofei-ostvari-rekordni-prihodi/",
+          "published": "Tue, 28 Jul 2026 18:52:32 +0000"
         },
         {
           "source": "NetPress",
@@ -51,24 +69,6 @@
           "title": "Жителите на Карпош ќе можат да поднесат барање за обесштетување од невремето",
           "link": "https://netpress.com.mk/zhitelite-na-karposh-ke-mozhat-da-podnesat-barane-za-obesshtetuvane-od-nevremeto/",
           "published": "Tue, 28 Jul 2026 17:54:46 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "ФИФА ги продава комерцијалните права за Светските првенства за 3,5 милијарди евра",
-          "link": "https://netpress.com.mk/fifa-gi-prodava-komerczijalnite-prava-za-svetskite-prvenstva-za-35-milijardi-evra/",
-          "published": "Tue, 28 Jul 2026 17:42:02 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Австралија повторно ќе гради рафинерии по 60-годишна пауза",
-          "link": "https://netpress.com.mk/avstralija-povtorno-ke-gradi-rafinerii-po-60-godishna-pauza/",
-          "published": "Tue, 28 Jul 2026 17:28:02 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "ФОТО| Пожарот во велешко проширен кон патот Велес-Штип, побарана поддршка за регулирање на сообраќајот",
-          "link": "https://netpress.com.mk/foto-pozharot-vo-veleshko-proshiren-kon-patot-veles-shtip-pobarana-poddrshka-za-regulirane-na-soobrakajot/",
-          "published": "Tue, 28 Jul 2026 17:15:23 +0000"
         }
       ]
     },
@@ -83,7 +83,7 @@
         },
         {
           "source": "BBC",
-          "title": "Uefa reacts with fury to Infantino World Cup plan",
+          "title": "Uefa & Burnham criticise Infantino World Cup plan",
           "link": "https://www.bbc.co.uk/sport/football/articles/c8xng9894z0o?at_medium=RSS&at_campaign=rss",
           "published": "Tue, 28 Jul 2026 15:36:29 GMT"
         },
@@ -107,33 +107,33 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "New poll shows confusion over Democratic Socialists of America ideals",
+          "link": "https://www.aljazeera.com/news/2026/7/28/new-poll-shows-confusion-over-democratic-socialists-of-america-ideals?traffic_source=rss",
+          "published": "Tue, 28 Jul 2026 19:56:07 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "What will it take to stop the conflict in Sudan?",
+          "link": "https://www.aljazeera.com/video/inside-story/2026/7/28/what-will-it-take-to-stop-the-conflict-in-sudan?traffic_source=rss",
+          "published": "Tue, 28 Jul 2026 19:36:55 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "West Bank quarry owner appeals to Trump after settler raid",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/28/west-bank-quarry-owner-appeals-to-trump-after-settler-raid?traffic_source=rss",
+          "published": "Tue, 28 Jul 2026 19:23:29 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "‘The dream I carried is gone’: Miscarriages rise amid trauma of Gaza’s war",
+          "link": "https://www.aljazeera.com/features/2026/7/28/the-dream-i-carried-is-gone-miscarriages-rise-amid-trauma-of-gazas-war?traffic_source=rss",
+          "published": "Tue, 28 Jul 2026 18:46:57 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Malaysian foreign minister calls for review of UNHCR’s presence",
           "link": "https://www.aljazeera.com/news/2026/7/28/malaysian-foreign-minister-calls-for-review-of-unhcrs-presence?traffic_source=rss",
           "published": "Tue, 28 Jul 2026 18:25:13 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "‘No freedom at all’: Israeli closures leave West Bank patients trapped",
-          "link": "https://www.aljazeera.com/news/2026/7/28/no-freedom-at-all-israeli-closures-leave-west-bank-patients-trapped?traffic_source=rss",
-          "published": "Tue, 28 Jul 2026 18:24:26 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Uganda declares end to Ebola outbreak",
-          "link": "https://www.aljazeera.com/news/2026/7/28/uganda-declares-end-to-ebola-outbreak?traffic_source=rss",
-          "published": "Tue, 28 Jul 2026 18:02:03 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Lindsey Graham ‘almost cried’ tears of joy over war on Iran, footage shows",
-          "link": "https://www.aljazeera.com/news/2026/7/28/lindsey-graham-almost-cried-tears-of-joy-over-war-on-iran-footage-shows?traffic_source=rss",
-          "published": "Tue, 28 Jul 2026 18:01:03 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Wildfire leaves Biscarrosse commercial district in ruins",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/28/wildfire-leaves-biscarrosse-commercial-district-in-ruins?traffic_source=rss",
-          "published": "Tue, 28 Jul 2026 17:59:16 +0000"
         }
       ]
     }
