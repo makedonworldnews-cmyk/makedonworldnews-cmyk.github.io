@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-28T20:07:51Z",
+  "updatedAt": "2026-07-28T21:21:05Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,24 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) Кукуреља го исполни ветувањето, го истетовира ликот на селекторот",
+          "link": "https://makfax.com.mk/sport/video-kukurelja-go-ispolni-vetuvanjeto-go-istetovira-likot-na-selektorot/",
+          "published": "Tue, 28 Jul 2026 20:35:59 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Вардар не издржа во Рига, падна во продолженијата",
+          "link": "https://makfax.com.mk/sport/vardar-ne-izdrzha-vo-riga-padna-vo-prodolzhenijata/",
+          "published": "Tue, 28 Jul 2026 20:18:02 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Иран: Ормускиот Теснец ќе остане затворен ако Оман не го прифати нашиот предлог",
+          "link": "https://makfax.com.mk/svet/iran-ormuskiot-tesnec-ke-ostane-zatvoren-ako-oman-ne-go-prifati-nashiot-predlog/",
+          "published": "Tue, 28 Jul 2026 20:13:13 +0000"
         },
         {
           "source": "Makfax",
@@ -23,22 +41,22 @@
           "published": "Tue, 28 Jul 2026 19:09:10 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Телевизорот падна врз мене, огледалото се скрши, патиштата се оштетени, сведочи жена по разорниот земјотрес во Јапонија",
-          "link": "https://makfax.com.mk/svet/televizorot-padna-vrz-mene-ogledaloto-se-skrshi-patishtata-se-oshteteni-svedochi-zhena-po-razorniot-zemjotres-vo-japonija/",
-          "published": "Tue, 28 Jul 2026 19:03:42 +0000"
+          "source": "NetPress",
+          "title": "„Позитивни и продуктивни“ разговори на Трамп со Зеленски и Нетанјаху",
+          "link": "https://netpress.com.mk/pozitivni-i-produktivni-razgovori-na-tramp-so-zelenski-i-netanjahu/",
+          "published": "Tue, 28 Jul 2026 21:07:04 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "ОН бараат ембарго за оружје и прекин на трговската размена со Израел",
-          "link": "https://makfax.com.mk/svet/on-baraat-embargo-za-oruzhje-i-prekin-na-trgovskata-razmena-so-izrael/",
-          "published": "Tue, 28 Jul 2026 18:01:26 +0000"
+          "source": "NetPress",
+          "title": "ОН пронајде речиси четири тони амониум нитрат во јужен Либан",
+          "link": "https://netpress.com.mk/on-pronajde-rechisi-chetiri-toni-amonium-nitrat-vo-juzhen-liban/",
+          "published": "Tue, 28 Jul 2026 20:26:37 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Кој е најинтелигентниот хороскопски знак? Астрологијата има јасен фаворит",
-          "link": "https://makfax.com.mk/zanimlivosti/koj-e-najinteligentniot-horoskopski-znak-astrologijata-ima-jasen-favorit/",
-          "published": "Tue, 28 Jul 2026 17:25:54 +0000"
+          "source": "NetPress",
+          "title": "Отстранет тумор поголем од кошаркарска топка кај четириесет и четиригодишна пациентка",
+          "link": "https://netpress.com.mk/otstranet-tumor-pogolem-od-kosharkarska-topka-kaj-chetirieset-i-chetirigodishna-paczientka/",
+          "published": "Tue, 28 Jul 2026 20:11:50 +0000"
         },
         {
           "source": "NetPress",
@@ -51,24 +69,6 @@
           "title": "Кина и САД го закочија пазарот на електрични автомобили",
           "link": "https://netpress.com.mk/kina-i-sad-go-zakochija-pazarot-na-elektrichni-avtomobili/",
           "published": "Tue, 28 Jul 2026 19:11:42 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Реал Мадрид во сезоната без трофеи оствари рекордни приходи",
-          "link": "https://netpress.com.mk/real-madrid-vo-sezonata-bez-trofei-ostvari-rekordni-prihodi/",
-          "published": "Tue, 28 Jul 2026 18:52:32 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Трамп и Зеленски разговарале за зајакнување на противвоздушната одбрана на Украина",
-          "link": "https://netpress.com.mk/tramp-i-zelenski-razgovarale-za-zajaknuvane-na-protivvozdushnata-odbrana-na-ukraina/",
-          "published": "Tue, 28 Jul 2026 18:17:51 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Жителите на Карпош ќе можат да поднесат барање за обесштетување од невремето",
-          "link": "https://netpress.com.mk/zhitelite-na-karposh-ke-mozhat-da-podnesat-barane-za-obesshtetuvane-od-nevremeto/",
-          "published": "Tue, 28 Jul 2026 17:54:46 +0000"
         }
       ]
     },
@@ -83,7 +83,7 @@
         },
         {
           "source": "BBC",
-          "title": "Uefa & Burnham criticise Infantino World Cup plan",
+          "title": "Uefa and PM criticise Infantino World Cup plan",
           "link": "https://www.bbc.co.uk/sport/football/articles/c8xng9894z0o?at_medium=RSS&at_campaign=rss",
           "published": "Tue, 28 Jul 2026 15:36:29 GMT"
         },
@@ -107,33 +107,33 @@
         },
         {
           "source": "Al Jazeera",
-          "title": "New poll shows confusion over Democratic Socialists of America ideals",
-          "link": "https://www.aljazeera.com/news/2026/7/28/new-poll-shows-confusion-over-democratic-socialists-of-america-ideals?traffic_source=rss",
-          "published": "Tue, 28 Jul 2026 19:56:07 +0000"
+          "title": "Donald Trump and world leaders attend Lindsey Graham’s funeral",
+          "link": "https://www.aljazeera.com/gallery/2026/7/28/donald-trump-and-world-leaders-attend-lindsey-grahams-funeral?traffic_source=rss",
+          "published": "Tue, 28 Jul 2026 21:07:39 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "What will it take to stop the conflict in Sudan?",
-          "link": "https://www.aljazeera.com/video/inside-story/2026/7/28/what-will-it-take-to-stop-the-conflict-in-sudan?traffic_source=rss",
-          "published": "Tue, 28 Jul 2026 19:36:55 +0000"
+          "title": "Iran and Oman exchange proposals to manage Strait of Hormuz",
+          "link": "https://www.aljazeera.com/news/2026/7/28/iran-and-oman-exchange-proposals-to-manage-strait-of-hormuz?traffic_source=rss",
+          "published": "Tue, 28 Jul 2026 21:01:19 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "West Bank quarry owner appeals to Trump after settler raid",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/28/west-bank-quarry-owner-appeals-to-trump-after-settler-raid?traffic_source=rss",
-          "published": "Tue, 28 Jul 2026 19:23:29 +0000"
+          "title": "Rome’s viral graffiti cleaner is taking on an ancient problem",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/28/romes-viral-graffiti-cleaner-is-taking-on-an-ancient-problem?traffic_source=rss",
+          "published": "Tue, 28 Jul 2026 20:41:18 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "‘The dream I carried is gone’: Miscarriages rise amid trauma of Gaza’s war",
-          "link": "https://www.aljazeera.com/features/2026/7/28/the-dream-i-carried-is-gone-miscarriages-rise-amid-trauma-of-gazas-war?traffic_source=rss",
-          "published": "Tue, 28 Jul 2026 18:46:57 +0000"
+          "title": "Many feared dead from 7.1-magnitude quake in Kumamoto, Japan",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/28/aje-onl-nf_many-feared-dead-from-7-280726?traffic_source=rss",
+          "published": "Tue, 28 Jul 2026 20:36:48 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Malaysian foreign minister calls for review of UNHCR’s presence",
-          "link": "https://www.aljazeera.com/news/2026/7/28/malaysian-foreign-minister-calls-for-review-of-unhcrs-presence?traffic_source=rss",
-          "published": "Tue, 28 Jul 2026 18:25:13 +0000"
+          "title": "Kyiv warns Iran against escalation after Ukraine’s Caspian Sea attack",
+          "link": "https://www.aljazeera.com/news/2026/7/28/kyiv-warns-iran-against-escalation-after-ukraines-caspian-sea-attack?traffic_source=rss",
+          "published": "Tue, 28 Jul 2026 20:29:42 +0000"
         }
       ]
     }
