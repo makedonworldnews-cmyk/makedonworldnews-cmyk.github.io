@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T22:13:53Z",
+  "generated_at": "2026-07-28T23:16:18Z",
   "items": [
     {
       "region": "Македонија",
@@ -109,6 +109,13 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "Japan Kumamoto earthquake: What happened, damage, victims, latest updates",
+      "link": "https://www.aljazeera.com/news/2026/7/28/japan-kumamoto-earthquake-what-happened-damage-victims-latest-updates?traffic_source=rss",
+      "published": "Tue, 28 Jul 2026 21:59:40 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "Israeli airstrike destroys Gaza City mosque near displacement camp",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/7/28/israeli-airstrike-destroys-gaza-city-mosque-near-displacement-camp?traffic_source=rss",
       "published": "Tue, 28 Jul 2026 21:24:20 +0000"
@@ -133,13 +140,6 @@
       "title": "Rome’s viral graffiti cleaner is taking on an ancient problem",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/7/28/romes-viral-graffiti-cleaner-is-taking-on-an-ancient-problem?traffic_source=rss",
       "published": "Tue, 28 Jul 2026 20:41:18 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Many feared dead from 7.1-magnitude quake in Kumamoto, Japan",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/28/aje-onl-nf_many-feared-dead-from-7-280726?traffic_source=rss",
-      "published": "Tue, 28 Jul 2026 20:36:48 +0000"
     }
   ]
 }
