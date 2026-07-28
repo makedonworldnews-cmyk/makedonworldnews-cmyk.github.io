@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-28T15:37:09Z",
+  "updatedAt": "2026-07-28T17:07:19Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Трамп и Зеленски се сретнаа во Белата куќа: „Имавме добар состанок“",
+          "link": "https://makfax.com.mk/svet/tramp-i-zelenski-se-sretnaa-vo-belata-kuka-imavme-dobar-sostanok/",
+          "published": "Tue, 28 Jul 2026 16:45:16 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Следува топлотен бран: Првата половина од август носи температури до 40 степени",
+          "link": "https://makfax.com.mk/makedonija/sleduva-toploten-bran-prvata-polovina-od-avgust-nosi-temperaturi-do-40-stepeni/",
+          "published": "Tue, 28 Jul 2026 15:50:17 +0000"
         },
         {
           "source": "Makfax",
@@ -29,16 +41,22 @@
           "published": "Tue, 28 Jul 2026 15:07:23 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Додека ДПМНЕ се фали со „историски“ капитални инвестиции, Гостивар го разоткри колапсот на нивното управување, велат од Левица",
-          "link": "https://makfax.com.mk/makedonija/dodeka-dpmne-se-fali-so-istoriski-kapitalni-investicii-gostivar-go-razotkri-kolapsot-na-nivnoto-upravuvanje-velat-od-levica/",
-          "published": "Tue, 28 Jul 2026 14:17:35 +0000"
+          "source": "NetPress",
+          "title": "Полјак oсомничен за вандализам во светилиштето на Богородица во Меѓугорје",
+          "link": "https://netpress.com.mk/poljak-osomnichen-za-vandalizam-vo-svetilishteto-na-bogorodicza-vo-megugorje/",
+          "published": "Tue, 28 Jul 2026 16:56:08 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Граѓаните да не отвораат лажни пораки, наводно испратени од „Безбеден град“ и да не споделуваат лични податоци, порачува МВР",
-          "link": "https://makfax.com.mk/makedonija/graganite-da-ne-otvoraat-lazhni-poraki-navodno-isprateni-od-bezbeden-grad-i-da-ne-spodeluvaat-lichni-podatoci-porachuva-mvr/",
-          "published": "Tue, 28 Jul 2026 13:56:54 +0000"
+          "source": "NetPress",
+          "title": "Германија првпат депортираше неосуден Авганистанец без право на азил",
+          "link": "https://netpress.com.mk/germanija-prvpat-deportirashe-neosuden-avganistanecz-bez-pravo-na-azil/",
+          "published": "Tue, 28 Jul 2026 15:51:51 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Манчини повторно ја презема Италија",
+          "link": "https://netpress.com.mk/manchini-povtorno-ja-prezema-italija/",
+          "published": "Tue, 28 Jul 2026 15:47:08 +0000"
         },
         {
           "source": "NetPress",
@@ -51,24 +69,6 @@
           "title": "Цените на нафтата паднаа на 86 долари, под впечатокот за смирување на тензиите во Хормуз",
           "link": "https://netpress.com.mk/czenite-na-naftata-padnaa-na-86-dolari-pod-vpechatokot-za-smiruvane-na-tenziite-vo-hormuz/",
           "published": "Tue, 28 Jul 2026 15:25:50 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "ФЗО исплати рекордни 560,9 милиони денари за боледувања, најмногу за породилни отсуства",
-          "link": "https://netpress.com.mk/fzo-isplati-rekordni-5609-milioni-denari-za-boleduvana-najmnogu-za-porodilni-otsustva/",
-          "published": "Tue, 28 Jul 2026 15:05:26 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "ВИДЕО| Остварен рекордниот 24-часовен пробен лет од Австралија до Франција",
-          "link": "https://netpress.com.mk/video-ostvaren-rekordniot-24-chasoven-proben-let-od-avstralija-do-franczija/",
-          "published": "Tue, 28 Jul 2026 14:54:24 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Игор Џамбазов добитник на наградата „Васил Иљоски“ за 2026-та",
-          "link": "https://netpress.com.mk/igor-dhambazov-dobitnik-na-nagradata-vasil-iloski-za-2026-ta/",
-          "published": "Tue, 28 Jul 2026 14:29:41 +0000"
         }
       ]
     },
@@ -77,9 +77,21 @@
       "items": [
         {
           "source": "BBC",
-          "title": "Gironde wildfires pick up as French region braces for new 40C heatwave",
+          "title": "Wildfires in south-west France flare up as region braces for new 40C heatwave",
           "link": "https://www.bbc.co.uk/news/articles/c5yd8gly1ydo?at_medium=RSS&at_campaign=rss",
-          "published": "Tue, 28 Jul 2026 13:25:13 GMT"
+          "published": "Tue, 28 Jul 2026 16:14:03 GMT"
+        },
+        {
+          "source": "BBC",
+          "title": "Uefa reacts with fury to Infantino World Cup plan",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c8xng9894z0o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 28 Jul 2026 15:36:29 GMT"
+        },
+        {
+          "source": "BBC",
+          "title": "Mysterious deaths of 14 elephants in Kenya prompts urgent inquiry",
+          "link": "https://www.bbc.co.uk/news/articles/c3w0d7yeqlxo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 28 Jul 2026 16:37:02 GMT"
         },
         {
           "source": "BBC",
@@ -94,46 +106,34 @@
           "published": "Tue, 28 Jul 2026 09:32:25 GMT"
         },
         {
-          "source": "BBC",
-          "title": "'A lover of life' - Seattle pays tribute to food festival shooting victims",
-          "link": "https://www.bbc.co.uk/news/articles/cvgv7m5z4n0o?at_medium=RSS&at_campaign=rss",
-          "published": "Tue, 28 Jul 2026 11:50:59 GMT"
-        },
-        {
-          "source": "BBC",
-          "title": "Mancini reappointed Italy boss after Pirlo controversy",
-          "link": "https://www.bbc.co.uk/sport/football/articles/c0ly412r412o?at_medium=RSS&at_campaign=rss",
-          "published": "Tue, 28 Jul 2026 13:54:00 GMT"
+          "source": "Al Jazeera",
+          "title": "What are Trump’s military options?",
+          "link": "https://www.aljazeera.com/opinions/2026/7/28/what-are-trumps-military-options?traffic_source=rss",
+          "published": "Tue, 28 Jul 2026 16:46:38 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "FIFA World Cup: For India, qualification is still just a distant dream",
-          "link": "https://www.aljazeera.com/sports/2026/7/28/fifa-world-cup-for-india-football-qualification-is-still-just-a-distant-dream?traffic_source=rss",
-          "published": "Tue, 28 Jul 2026 14:45:14 +0000"
+          "title": "Is Netanyahu’s Trump card losing its power in Israel?",
+          "link": "https://www.aljazeera.com/news/2026/7/28/is-netanyahus-trump-card-losing-its-power-in-israel?traffic_source=rss",
+          "published": "Tue, 28 Jul 2026 15:39:42 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Iraqi PM visits Turkiye to boost ties despite complex challenges",
-          "link": "https://www.aljazeera.com/economy/2026/7/28/iraqi-pm-visits-turkiye-to-boost-ties-despite-complex-challenges?traffic_source=rss",
-          "published": "Tue, 28 Jul 2026 13:55:52 +0000"
+          "title": "Iran rejects Trump frozen funds plan, warns ships of Hormuz transit ban",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/28/iran-rejects-trump-frozen-funds-plan-warns-ships-of-hormuz-transit-ban?traffic_source=rss",
+          "published": "Tue, 28 Jul 2026 15:28:33 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "France and Spain brace for heatwave that could worsen raging wildfires",
-          "link": "https://www.aljazeera.com/news/2026/7/28/france-and-spain-brace-for-heatwave-that-could-worsen-raging-wildfires?traffic_source=rss",
-          "published": "Tue, 28 Jul 2026 13:39:23 +0000"
+          "title": "Trump expresses frustration with Netanyahu before White House meeting",
+          "link": "https://www.aljazeera.com/news/2026/7/28/trump-expresses-frustration-with-netanyahu-before-white-house-meeting?traffic_source=rss",
+          "published": "Tue, 28 Jul 2026 15:21:43 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Roberto Mancini named Italy head coach for second time",
-          "link": "https://www.aljazeera.com/sports/2026/7/28/mancini-to-become-italy-head-coach-for-second-time-source-says?traffic_source=rss",
-          "published": "Tue, 28 Jul 2026 13:19:48 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Israeli soldier runs marathon around Gaza outpost",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/28/israeli-soldier-runs-marathon-around-gaza-outpost?traffic_source=rss",
-          "published": "Tue, 28 Jul 2026 13:18:48 +0000"
+          "title": "German investigators find apparent motive after Berlin Pride attack",
+          "link": "https://www.aljazeera.com/news/2026/7/28/german-investigators-find-apparent-motive-after-berlin-pride-attack?traffic_source=rss",
+          "published": "Tue, 28 Jul 2026 15:20:43 +0000"
         }
       ]
     }
