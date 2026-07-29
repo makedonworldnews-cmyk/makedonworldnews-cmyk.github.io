@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-29T22:09:53Z",
+  "updatedAt": "2026-07-29T23:13:12Z",
   "groups": [
     {
       "region": "Македонија",
@@ -101,13 +101,19 @@
         },
         {
           "source": "BBC",
-          "title": "Four women accuse Jared Leto of criminal sexual conduct",
-          "link": "https://www.bbc.co.uk/news/articles/cd7lg2nz2x2o?at_medium=RSS&at_campaign=rss",
-          "published": "Wed, 29 Jul 2026 21:36:06 GMT"
+          "title": "Salman Rushdie attacker convicted of terror offenses",
+          "link": "https://www.bbc.co.uk/news/articles/c86ng1g5wy4o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 29 Jul 2026 22:15:33 GMT"
         },
         {
           "source": "Al Jazeera",
-          "title": "Is Fifa selling parts of the World Cup to private investors?",
+          "title": "Sam Altman meets lawmakers on back of OpenAI agents hacking companies",
+          "link": "https://www.aljazeera.com/economy/2026/7/29/sam-altman-meets-lawmakers-on-back-of-openai-agents-hacking-companies?traffic_source=rss",
+          "published": "Wed, 29 Jul 2026 22:27:35 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Is FIFA selling parts of the World Cup to private investors?",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/7/29/is-fifa-selling-parts-of-the-world-cup-to-private-investors?traffic_source=rss",
           "published": "Wed, 29 Jul 2026 21:46:22 +0000"
         },
@@ -128,12 +134,6 @@
           "title": "Trump threatens Iran strikes after attack on US base in Jordan",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/7/29/trump-threatens-iran-strikes-after-attack-on-us-base-in-jordan?traffic_source=rss",
           "published": "Wed, 29 Jul 2026 21:18:24 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Videos show aftermath of US-Saudi strikes on Iraq PMF bases",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/29/videos-show-aftermath-of-us-saudi-strikes-on-iraq-pmf-bases?traffic_source=rss",
-          "published": "Wed, 29 Jul 2026 20:31:10 +0000"
         }
       ]
     }
