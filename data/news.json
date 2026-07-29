@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-28T23:35:51Z",
+  "updatedAt": "2026-07-29T01:05:34Z",
   "groups": [
     {
       "region": "Македонија",
@@ -77,33 +77,45 @@
       "items": [
         {
           "source": "BBC",
+          "title": "Watch: The moment quake hit Japan",
+          "link": "https://www.bbc.co.uk/news/videos/cvg7v55gxnqo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 28 Jul 2026 15:32:37 GMT"
+        },
+        {
+          "source": "BBC",
+          "title": "Iran and US trade strikes, shattering brief lull in fighting",
+          "link": "https://www.bbc.co.uk/news/articles/c70g6y24d76o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 29 Jul 2026 00:51:45 GMT"
+        },
+        {
+          "source": "BBC",
+          "title": "How Mexican drug cartels have outsourced meth labs to Nigeria",
+          "link": "https://www.bbc.co.uk/news/articles/crmrnxp4nllo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 28 Jul 2026 23:25:53 GMT"
+        },
+        {
+          "source": "BBC",
+          "title": "Trump administration bans new Chinese humanoid robots",
+          "link": "https://www.bbc.co.uk/news/articles/cp9e2ex3ekyo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 29 Jul 2026 00:50:33 GMT"
+        },
+        {
+          "source": "BBC",
           "title": "Wildfires in south-west France flare up as region braces for new 40C heatwave",
           "link": "https://www.bbc.co.uk/news/articles/c5yd8gly1ydo?at_medium=RSS&at_campaign=rss",
           "published": "Tue, 28 Jul 2026 16:14:03 GMT"
         },
         {
-          "source": "BBC",
-          "title": "Uefa and PM criticise Infantino World Cup plan",
-          "link": "https://www.bbc.co.uk/sport/football/articles/c8xng9894z0o?at_medium=RSS&at_campaign=rss",
-          "published": "Tue, 28 Jul 2026 15:36:29 GMT"
+          "source": "Al Jazeera",
+          "title": "FIFA proposes plan to sell stakes in the World Cup, angering UEFA",
+          "link": "https://www.aljazeera.com/sports/2026/7/29/fifa-proposes-plan-to-sell-stakes-in-the-world-cup-angering-uefa?traffic_source=rss",
+          "published": "Wed, 29 Jul 2026 00:25:29 +0000"
         },
         {
-          "source": "BBC",
-          "title": "Ghana mourns its tallest man - a 'generous and popular giant'",
-          "link": "https://www.bbc.co.uk/news/articles/crk52jk0131o?at_medium=RSS&at_campaign=rss",
-          "published": "Tue, 28 Jul 2026 18:19:57 GMT"
-        },
-        {
-          "source": "BBC",
-          "title": "Mysterious deaths of 14 elephants in Kenya prompts urgent inquiry",
-          "link": "https://www.bbc.co.uk/news/articles/c3w0d7yeqlxo?at_medium=RSS&at_campaign=rss",
-          "published": "Tue, 28 Jul 2026 16:37:02 GMT"
-        },
-        {
-          "source": "BBC",
-          "title": "Odyssey translator writes scathing review of Nolan film adaptation",
-          "link": "https://www.bbc.co.uk/news/articles/cd692n215ndo?at_medium=RSS&at_campaign=rss",
-          "published": "Tue, 28 Jul 2026 15:11:28 GMT"
+          "source": "Al Jazeera",
+          "title": "Iran war live: US accuses IRGC of ‘surprise’ ballistic missile attacks",
+          "link": "https://www.aljazeera.com/news/liveblog/2026/7/29/iran-war-live-us-accuses-irgc-of-surprise-ballistic-missile-attacks?traffic_source=rss",
+          "published": "Wed, 29 Jul 2026 00:00:00 +0000"
         },
         {
           "source": "Al Jazeera",
@@ -122,18 +134,6 @@
           "title": "Israeli airstrike destroys Gaza City mosque near displacement camp",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/7/28/israeli-airstrike-destroys-gaza-city-mosque-near-displacement-camp?traffic_source=rss",
           "published": "Tue, 28 Jul 2026 21:24:20 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Donald Trump and world leaders attend Lindsey Graham’s funeral",
-          "link": "https://www.aljazeera.com/gallery/2026/7/28/donald-trump-and-world-leaders-attend-lindsey-grahams-funeral?traffic_source=rss",
-          "published": "Tue, 28 Jul 2026 21:07:39 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Iran and Oman exchange proposals to manage Strait of Hormuz",
-          "link": "https://www.aljazeera.com/news/2026/7/28/iran-and-oman-exchange-proposals-to-manage-strait-of-hormuz?traffic_source=rss",
-          "published": "Tue, 28 Jul 2026 21:01:19 +0000"
         }
       ]
     }
