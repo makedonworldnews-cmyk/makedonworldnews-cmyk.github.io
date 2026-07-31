@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-31T19:56:01Z",
+  "updatedAt": "2026-07-31T21:07:44Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Поради зголемениот ризик од пожари, Владата прогласи 30-дневна кризна состојба",
+          "link": "https://makfax.com.mk/makedonija/poradi-zgolemeniot-rizik-od-pozhari-vladata-proglasi-30-dnevna-krizna-sostojba/",
+          "published": "Fri, 31 Jul 2026 19:58:08 +0000"
         },
         {
           "source": "Makfax",
@@ -35,10 +41,16 @@
           "published": "Fri, 31 Jul 2026 18:24:46 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Италија привремено го суспендираше Шенген со Шпанија поради мигрантите, Тајани вели дека мерката е неопходна за безбедноста на граѓаните",
-          "link": "https://makfax.com.mk/svet/italija-privremeno-go-suspendirashe-shengen-so-shpanija-poradi-migrantite-tajani-veli-deka-merkata-e-neophodna-za-bezbednosta-na-graganite/",
-          "published": "Fri, 31 Jul 2026 17:44:00 +0000"
+          "source": "NetPress",
+          "title": "Прогласена кризна состојба на целата територија поради опасност од пожари",
+          "link": "https://netpress.com.mk/proglasena-krizna-sostojba-na-czelata-teritorija-poradi-opasnost-od-pozhari/",
+          "published": "Fri, 31 Jul 2026 20:15:52 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "САД ја продолжија лиценцата на српски NIS до 28-ми август",
+          "link": "https://netpress.com.mk/sad-ja-prodolzhija-liczenczata-na-srpski-nis-do-28-mi-avgust/",
+          "published": "Fri, 31 Jul 2026 20:12:43 +0000"
         },
         {
           "source": "NetPress",
@@ -57,18 +69,6 @@
           "title": "МЗТ Скопје Аеродром потпиша договор со Лесни Ворнер",
           "link": "https://netpress.com.mk/mzt-skopje-aerodrom-potpisha-dogovor-so-lesni-vorner/",
           "published": "Fri, 31 Jul 2026 19:14:04 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Трамп вели дека САД не ѝ одобриле на Украина производство на ракетите „Patriot“",
-          "link": "https://netpress.com.mk/tramp-veli-deka-sad-ne-%d1%9d-odobrile-na-ukraina-proizvodstvo-na-raketite-patriot/",
-          "published": "Fri, 31 Jul 2026 18:57:03 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "ВИДЕО| Белград: Русинка пронајдена распарчена во куфер, Турчин уапсен на аеродром",
-          "link": "https://netpress.com.mk/video-belgrad-rusinka-pronajdena-rasparchena-vo-kufer-turchin-uapsen-na-aerodrom/",
-          "published": "Fri, 31 Jul 2026 18:29:06 +0000"
         }
       ]
     },
@@ -89,9 +89,9 @@
         },
         {
           "source": "BBC",
-          "title": "Two bodies located and search ongoing after avalanche hits Nirmal Purja's team",
+          "title": "Body of US climber the latest recovered after Pakistan avalanche",
           "link": "https://www.bbc.co.uk/news/articles/cddjz1r01l8o?at_medium=RSS&at_campaign=rss",
-          "published": "Fri, 31 Jul 2026 16:41:59 GMT"
+          "published": "Fri, 31 Jul 2026 20:22:46 GMT"
         },
         {
           "source": "BBC",
@@ -107,33 +107,33 @@
         },
         {
           "source": "Al Jazeera",
-          "title": "Trump says US has ‘understanding’ with Israel on Hamas disarmament deal",
-          "link": "https://www.aljazeera.com/news/2026/7/31/trump-says-us-has-understanding-with-israel-on-hamas-disarmament-deal?traffic_source=rss",
-          "published": "Fri, 31 Jul 2026 19:18:54 +0000"
+          "title": "Powerful El Nino to intensify heat on ‘a planet already on fire’: UN",
+          "link": "https://www.aljazeera.com/news/2026/7/31/powerful-el-nino-to-intensify-heat-on-a-planet-already-on-fire-un?traffic_source=rss",
+          "published": "Fri, 31 Jul 2026 20:38:56 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "World reacts with cautious optimism to Hamas disarmament agreement",
-          "link": "https://www.aljazeera.com/news/2026/7/31/world-reacts-with-cautious-optimism-to-hamas-disarmament-agreement?traffic_source=rss",
-          "published": "Fri, 31 Jul 2026 18:51:50 +0000"
+          "title": "Venezuela gov’t and opposition to hold talks aimed at path to elections",
+          "link": "https://www.aljazeera.com/news/2026/7/31/venezuela-govt-and-opposition-to-hold-talks-aimed-at-path-to-elections?traffic_source=rss",
+          "published": "Fri, 31 Jul 2026 20:28:39 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Trump says Hamas disarmament deal will be complex to deliver",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/31/trump-says-hamas-disarmament-deal-will-be-complex-to-deliver?traffic_source=rss",
-          "published": "Fri, 31 Jul 2026 18:44:33 +0000"
+          "title": "At least 25 people killed, dozens injured in Algeria bus crash",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/31/at-least-25-people-killed-dozens-injured-in-algeria-bus-crash?traffic_source=rss",
+          "published": "Fri, 31 Jul 2026 20:12:32 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Syrian lawyer takes on ex-Assad official in landmark trial",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/31/syrian-lawyer-takes-on-ex-assad-official-in-landmark-trial?traffic_source=rss",
-          "published": "Fri, 31 Jul 2026 18:11:15 +0000"
+          "title": "Does FIFA need private investment?",
+          "link": "https://www.aljazeera.com/video/inside-story/2026/7/31/does-fifa-need-private-investment?traffic_source=rss",
+          "published": "Fri, 31 Jul 2026 20:07:00 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Why is Israel arming illegal settlers?",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/31/why-is-israel-arming-illegal-settlers?traffic_source=rss",
-          "published": "Fri, 31 Jul 2026 18:02:14 +0000"
+          "title": "Algerian bus plunges into ravine killing at least 27",
+          "link": "https://www.aljazeera.com/news/2026/7/31/algerian-bus-plunges-into-ravine-killing-at-least-27?traffic_source=rss",
+          "published": "Fri, 31 Jul 2026 20:06:26 +0000"
         }
       ]
     }
