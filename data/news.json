@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-01T22:07:48Z",
+  "updatedAt": "2026-08-01T23:09:18Z",
   "groups": [
     {
       "region": "Македонија",
@@ -91,7 +91,13 @@
           "source": "BBC",
           "title": "Tourist plane crashes in Peru, killing 13",
           "link": "https://www.bbc.co.uk/news/articles/c70g132erlko?at_medium=RSS&at_campaign=rss",
-          "published": "Sat, 01 Aug 2026 20:51:09 GMT"
+          "published": "Sat, 01 Aug 2026 22:34:20 GMT"
+        },
+        {
+          "source": "BBC",
+          "title": "The Sopranos star Vincent Pastore dies aged 80",
+          "link": "https://www.bbc.co.uk/news/articles/cm2gz0epljgo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 01 Aug 2026 22:57:55 GMT"
         },
         {
           "source": "BBC",
@@ -100,10 +106,16 @@
           "published": "Sat, 01 Aug 2026 05:01:56 GMT"
         },
         {
-          "source": "BBC",
-          "title": "Italy putting nearly all major cities on highest heat alert",
-          "link": "https://www.bbc.co.uk/news/articles/cr7k4gdrgljo?at_medium=RSS&at_campaign=rss",
-          "published": "Sat, 01 Aug 2026 17:51:46 GMT"
+          "source": "Al Jazeera",
+          "title": "Michigan joins Minnesota in reporting cyberattacks, with FBI investigating",
+          "link": "https://www.aljazeera.com/news/2026/8/1/michigan-joins-minnesota-in-reporting-cyber-attacks-with-fbi-investigating?traffic_source=rss",
+          "published": "Sat, 01 Aug 2026 22:34:36 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "US Arabs eye ‘historic’ Senate win for Abdul El-Sayed despite AIPAC attacks",
+          "link": "https://www.aljazeera.com/news/2026/8/1/us-arabs-eye-historic-senate-win-for-abdul-el-sayed-despite-aipac-attacks?traffic_source=rss",
+          "published": "Sat, 01 Aug 2026 22:31:52 +0000"
         },
         {
           "source": "Al Jazeera",
@@ -122,18 +134,6 @@
           "title": "Police say 13 killed as small plane viewing Nazca Lines in Peru crashes",
           "link": "https://www.aljazeera.com/news/2026/8/1/police-say-13-killed-as-small-plane-viewing-nazca-lines-in-peru-crashes?traffic_source=rss",
           "published": "Sat, 01 Aug 2026 20:57:04 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Fighting breaks out in western Tigray as Ethiopia and TPLF trade blame",
-          "link": "https://www.aljazeera.com/news/2026/8/1/fighting-breaks-out-in-western-tigray-as-ethiopia-and-tplf-trade-blame?traffic_source=rss",
-          "published": "Sat, 01 Aug 2026 20:38:41 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Greece battles raging wildfires as flames appear to ease in France",
-          "link": "https://www.aljazeera.com/news/2026/8/1/greece-battles-raging-wildfires-as-flames-appear-to-ease-in-france?traffic_source=rss",
-          "published": "Sat, 01 Aug 2026 20:24:19 +0000"
         }
       ]
     }
