@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-01T18:43:44Z",
+  "updatedAt": "2026-08-01T19:59:20Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,24 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Американската морнарица на граница на капацитетите: нема доволно разурнувачи за одбрана на Израел",
+          "link": "https://makfax.com.mk/svet/amerikanskata-mornarica-na-granica-na-kapacitetite-nema-dovolno-razurnuvachi-za-odbrana-na-izrael/",
+          "published": "Sat, 01 Aug 2026 19:30:15 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Клима-уредите веќе не се доволни: Научниците бараат „попаметни“ начини за борба против горештините",
+          "link": "https://makfax.com.mk/zanimlivosti/nauka/klima-uredite-veke-ne-se-dovolni-nauchnicite-baraat-popametni-nachini-za-borba-protiv-goreshtinite/",
+          "published": "Sat, 01 Aug 2026 19:00:19 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Црвен аларм во Италија: температурите ќе достигнат до 39 степени, речиси целата земја под предупредување",
+          "link": "https://makfax.com.mk/svet/crven-alarm-vo-italija-temperaturite-ke-dostignat-do-39-stepeni-rechisi-celata-zemja-pod-predupreduvanje/",
+          "published": "Sat, 01 Aug 2026 18:45:10 +0000"
         },
         {
           "source": "Makfax",
@@ -23,22 +41,16 @@
           "published": "Sat, 01 Aug 2026 18:15:22 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Зеленски бара помош од Трамп за користење на „Старлинк“ за украински напади врз цели во Русија",
-          "link": "https://makfax.com.mk/svet/zelenski-bara-pomosh-od-tramp-za-koristenje-na-starlink-za-ukrainski-napadi-vrz-celi-vo-rusija/",
-          "published": "Sat, 01 Aug 2026 18:00:04 +0000"
+          "source": "NetPress",
+          "title": "Иднината на Иран ќе ја обликува неговиот народ, порача претседателот Пезешкијан",
+          "link": "https://netpress.com.mk/idninata-na-iran-ke-ja-oblikuva-negoviot-narod-poracha-pretsedatelo-pezeshkijan/",
+          "published": "Sat, 01 Aug 2026 19:38:49 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Трамп почна да наплаќа брз пристап до неговите објави: Волстрит ќе плаќа 100.000 долари месечно",
-          "link": "https://makfax.com.mk/svet/tramp-pochna-da-naplaka-brz-pristap-do-negovite-objavi-volstrit-ke-plaka-100-000-dolari-mesechno/",
-          "published": "Sat, 01 Aug 2026 17:45:02 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Санчез ги обвини европските влади за политизирање на мигрантската криза во Сеута",
-          "link": "https://makfax.com.mk/svet/sanchez-gi-obvini-evropskite-vladi-za-politiziranje-na-migrantskata-kriza-vo-seuta/",
-          "published": "Sat, 01 Aug 2026 17:30:36 +0000"
+          "source": "NetPress",
+          "title": "Контроверзниот Галијано добива ретроспективна изложба во музејот Метрополитен",
+          "link": "https://netpress.com.mk/kontroverzniot-galijano-dobiva-retrospektivna-izlozhba-vo-muzejot-metropoliten/",
+          "published": "Sat, 01 Aug 2026 19:19:16 +0000"
         },
         {
           "source": "NetPress",
@@ -57,18 +69,6 @@
           "title": "Монако исфрлен од француската кошаркарска Прва лига",
           "link": "https://netpress.com.mk/monako-isfrlen-od-franczuskata-kosharkarska-prva-liga/",
           "published": "Sat, 01 Aug 2026 17:16:48 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Втора победа за македонските јуниори на Евробаскетот",
-          "link": "https://netpress.com.mk/vtora-pobeda-za-makedonskite-juniori-na-evrobasketot/",
-          "published": "Sat, 01 Aug 2026 16:59:33 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Ракометните јуниори со нов пораз на ЕП во Белград",
-          "link": "https://netpress.com.mk/rakometnite-juniori-so-nov-poraz-na-ep-vo-belgrad/",
-          "published": "Sat, 01 Aug 2026 16:55:29 +0000"
         }
       ]
     },
@@ -107,6 +107,18 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Trump denounces Justice Department decision to drop Reflecting Pool charges",
+          "link": "https://www.aljazeera.com/news/2026/8/1/trump-denounces-justice-department-decision-to-drop-reflecting-pool-charges?traffic_source=rss",
+          "published": "Sat, 01 Aug 2026 19:08:12 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Palestinian children among those detained in Israeli West Bank raids",
+          "link": "https://www.aljazeera.com/news/2026/8/1/palestinian-children-among-those-detained-in-israeli-west-bank-raids?traffic_source=rss",
+          "published": "Sat, 01 Aug 2026 18:51:14 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "At least three killed in explosion near cafe in Russia’s Moscow",
           "link": "https://www.aljazeera.com/news/2026/8/1/russia-says-explosion-near-cafe-in-moscow-kills-three?traffic_source=rss",
           "published": "Sat, 01 Aug 2026 18:22:35 +0000"
@@ -122,18 +134,6 @@
           "title": "Trump pledges to pursue ‘anti-weaponisation’ fund amid Blanche standoff",
           "link": "https://www.aljazeera.com/news/2026/8/1/trump-pledges-to-pursue-anti-weaponisation-fund-amid-blanche-standoff?traffic_source=rss",
           "published": "Sat, 01 Aug 2026 17:48:41 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "At least 9 people killed in Russian missile attacks on Kyiv",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/1/at-least-9-people-killed-in-russian-missile-attacks-on-kyiv?traffic_source=rss",
-          "published": "Sat, 01 Aug 2026 17:45:26 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Care for a dirty soda? How this drink trend became a US obsession",
-          "link": "https://www.aljazeera.com/features/longform/2026/8/1/care-for-a-dirty-soda-how-this-drink-trend-became-a-us-obsession?traffic_source=rss",
-          "published": "Sat, 01 Aug 2026 17:37:34 +0000"
         }
       ]
     }
