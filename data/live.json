@@ -1,6 +1,13 @@
 {
-  "generated_at": "2026-08-01T19:47:55Z",
+  "generated_at": "2026-08-01T20:35:12Z",
   "items": [
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "Израел во највисока борбена готовност поради страв од ирански ракетен напад",
+      "link": "https://makfax.com.mk/svet/izrael-vo-najvisoka-borbena-gotovnost-poradi-strav-od-iranski-raketen-napad/",
+      "published": "Sat, 01 Aug 2026 20:00:17 +0000"
+    },
     {
       "region": "Македонија",
       "source": "Makfax",
@@ -31,10 +38,24 @@
     },
     {
       "region": "Македонија",
-      "source": "Makfax",
-      "title": "Рубио: Иран никогаш не се соочил со претседател како Трамп, наскоро нова иницијатива за Украина",
-      "link": "https://makfax.com.mk/svet/rubio-iran-nikogash-ne-se-soochil-so-pretsedatel-kako-tramp-naskoro-nova-inicijativa-za-ukraina/",
-      "published": "Sat, 01 Aug 2026 18:15:22 +0000"
+      "source": "NetPress",
+      "title": "ВИДЕО| Најмалку три жртви во експлозија во ресторан во Москва",
+      "link": "https://netpress.com.mk/video-najmalku-tri-zhrtvi-vo-eksplozija-vo-restoran-vo-moskva/",
+      "published": "Sat, 01 Aug 2026 20:30:23 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "NetPress",
+      "title": "Сервисираниот „ер трактор“ повторно ставен во функција",
+      "link": "https://netpress.com.mk/servisiraniot-er-traktor-povtorno-staven-vo-funkczija/",
+      "published": "Sat, 01 Aug 2026 20:11:41 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "NetPress",
+      "title": "Шестмина приведени во гостиварско, пронајдени пиштоли, пушка и муниција",
+      "link": "https://netpress.com.mk/shestmina-privedeni-vo-gostivarsko-pronajdeni-pishtoli-pushka-i-municzija/",
+      "published": "Sat, 01 Aug 2026 20:08:03 +0000"
     },
     {
       "region": "Македонија",
@@ -49,27 +70,6 @@
       "title": "Контроверзниот Галијано добива ретроспективна изложба во музејот Метрополитен",
       "link": "https://netpress.com.mk/kontroverzniot-galijano-dobiva-retrospektivna-izlozhba-vo-muzejot-metropoliten/",
       "published": "Sat, 01 Aug 2026 19:19:16 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Мнозинството Полјаци не би се пријавиле доброволно да ја бранат земјата",
-      "link": "https://netpress.com.mk/mnozinstvoto-poljaczi-ne-bi-se-prijavile-dobrovolno-da-ja-branat-zemjata/",
-      "published": "Sat, 01 Aug 2026 18:33:36 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Русија ги нападна украинските пристаништа Одеса и Николаев и погони во Киев",
-      "link": "https://netpress.com.mk/rusija-gi-napadna-ukrainskite-pristanishat-odesa-i-nikolaev-i-pogoni-vo-kiev/",
-      "published": "Sat, 01 Aug 2026 17:51:31 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Монако исфрлен од француската кошаркарска Прва лига",
-      "link": "https://netpress.com.mk/monako-isfrlen-od-franczuskata-kosharkarska-prva-liga/",
-      "published": "Sat, 01 Aug 2026 17:16:48 +0000"
     },
     {
       "region": "Свет",
@@ -88,6 +88,13 @@
     {
       "region": "Свет",
       "source": "BBC",
+      "title": "Tourist plane crashes in Peru, killing 13",
+      "link": "https://www.bbc.co.uk/news/articles/c70g132erlko?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 01 Aug 2026 20:22:29 GMT"
+    },
+    {
+      "region": "Свет",
+      "source": "BBC",
       "title": "Israeli West Bank settler tells BBC attacks on Palestinians are justified as revenge",
       "link": "https://www.bbc.co.uk/news/articles/c4g4djgdyk2o?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 01 Aug 2026 05:01:56 GMT"
@@ -101,10 +108,10 @@
     },
     {
       "region": "Свет",
-      "source": "BBC",
-      "title": "Mountaineer Nirmal Purja killed in Pakistan avalanche, his company says",
-      "link": "https://www.bbc.co.uk/news/articles/clyljq79kdko?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 01 Aug 2026 15:25:30 GMT"
+      "source": "Al Jazeera",
+      "title": "Record-breaking climber Nirmal Purja among those killed in avalanche",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/1/record-record-breaking-climber-nirmal-purja-among-those-killed-in-avalanche?traffic_source=rss",
+      "published": "Sat, 01 Aug 2026 20:10:01 +0000"
     },
     {
       "region": "Свет",
@@ -133,13 +140,6 @@
       "title": "‘Marathon’ shines light on Gaza’s orphaned children and humanitarian crisis",
       "link": "https://www.aljazeera.com/news/2026/8/1/marathon-shines-light-on-gazas-orphaned-children-and-humanitarian-crisis?traffic_source=rss",
       "published": "Sat, 01 Aug 2026 17:57:18 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Trump pledges to pursue ‘anti-weaponisation’ fund amid Blanche standoff",
-      "link": "https://www.aljazeera.com/news/2026/8/1/trump-pledges-to-pursue-anti-weaponisation-fund-amid-blanche-standoff?traffic_source=rss",
-      "published": "Sat, 01 Aug 2026 17:48:41 +0000"
     }
   ]
 }
