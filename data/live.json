@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T21:29:44Z",
+  "generated_at": "2026-08-01T22:27:32Z",
   "items": [
     {
       "region": "Македонија",
@@ -39,6 +39,13 @@
     {
       "region": "Македонија",
       "source": "NetPress",
+      "title": "Епидемијата на ебола во Конго се влошува и е најлошата досега",
+      "link": "https://netpress.com.mk/epidemijata-na-ebola-vo-kongo-se-vloshuva-i-e-najloshata-dosega/",
+      "published": "Sat, 01 Aug 2026 21:58:34 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "NetPress",
       "title": "Тринаесет загинати во пад на туристички авион над Перу",
       "link": "https://netpress.com.mk/trinaeset-zaginati-vo-pad-na-turistichki-avion-nad-peru/",
       "published": "Sat, 01 Aug 2026 21:17:48 +0000"
@@ -63,13 +70,6 @@
       "title": "Сервисираниот „ер трактор“ повторно ставен во функција",
       "link": "https://netpress.com.mk/servisiraniot-er-traktor-povtorno-staven-vo-funkczija/",
       "published": "Sat, 01 Aug 2026 20:11:41 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Шестмина приведени во гостиварско, пронајдени пиштоли, пушка и муниција",
-      "link": "https://netpress.com.mk/shestmina-privedeni-vo-gostivarsko-pronajdeni-pishtoli-pushka-i-municzija/",
-      "published": "Sat, 01 Aug 2026 20:08:03 +0000"
     },
     {
       "region": "Свет",
@@ -109,6 +109,27 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "Why did Ceuta migrant mayhem chill already frosty Israel-Spain relations?",
+      "link": "https://www.aljazeera.com/news/2026/8/1/why-did-ceuta-migrant-mayhem-chill-already-frosty-israel-spain-relations?traffic_source=rss",
+      "published": "Sat, 01 Aug 2026 21:42:26 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Al Jazeera reports from Ceuta as migrants leave the enclave",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/1/al-jazeera-reports-from-ceuta-as-migrants-leave-the-enclave?traffic_source=rss",
+      "published": "Sat, 01 Aug 2026 21:15:50 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Police say 13 killed as small plane viewing Nazca Lines in Peru crashes",
+      "link": "https://www.aljazeera.com/news/2026/8/1/police-say-13-killed-as-small-plane-viewing-nazca-lines-in-peru-crashes?traffic_source=rss",
+      "published": "Sat, 01 Aug 2026 20:57:04 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "Fighting breaks out in western Tigray as Ethiopia and TPLF trade blame",
       "link": "https://www.aljazeera.com/news/2026/8/1/fighting-breaks-out-in-western-tigray-as-ethiopia-and-tplf-trade-blame?traffic_source=rss",
       "published": "Sat, 01 Aug 2026 20:38:41 +0000"
@@ -119,27 +140,6 @@
       "title": "Greece battles raging wildfires as flames appear to ease in France",
       "link": "https://www.aljazeera.com/news/2026/8/1/greece-battles-raging-wildfires-as-flames-appear-to-ease-in-france?traffic_source=rss",
       "published": "Sat, 01 Aug 2026 20:24:19 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Record-breaking climber Nirmal Purja among those killed in avalanche",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/1/record-record-breaking-climber-nirmal-purja-among-those-killed-in-avalanche?traffic_source=rss",
-      "published": "Sat, 01 Aug 2026 20:10:01 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Trump denounces Justice Department decision to drop Reflecting Pool charges",
-      "link": "https://www.aljazeera.com/news/2026/8/1/trump-denounces-justice-department-decision-to-drop-reflecting-pool-charges?traffic_source=rss",
-      "published": "Sat, 01 Aug 2026 19:08:12 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Palestinian children among those detained by Israel in West Bank raids",
-      "link": "https://www.aljazeera.com/news/2026/8/1/palestinian-children-among-those-detained-in-israeli-west-bank-raids?traffic_source=rss",
-      "published": "Sat, 01 Aug 2026 18:51:14 +0000"
     }
   ]
 }
