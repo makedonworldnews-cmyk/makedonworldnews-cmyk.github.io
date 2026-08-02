@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-02T12:44:24Z",
+  "updatedAt": "2026-08-02T14:17:07Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,24 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Претрес во Куманово, пронајдени марихуана и дробилка, приведен 42-годишник",
+          "link": "https://makfax.com.mk/crna-hronika/pretres-vo-kumanovo-pronajdeni-marihuana-i-drobilka-priveden-42-godishnik/",
+          "published": "Sun, 02 Aug 2026 14:00:56 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Нетанјаху го блокирал испраќањето на израелскиот систем „Железна купола“ во Украина поради страв од Иран",
+          "link": "https://makfax.com.mk/svet/netanjahu-go-blokiral-isprakanjeto-na-izraelskiot-sistem-zhelezna-kupola-vo-ukraina-poradi-strav-od-iran/",
+          "published": "Sun, 02 Aug 2026 13:30:56 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) Грчките пожарникари се борат со големите шумски пожари кај Атина, евакуирани населени места",
+          "link": "https://makfax.com.mk/svet/video-grchkite-pozharnikari-se-borat-so-golemite-shumski-pozhari-kaj-atina-evakuirani-naseleni-mesta/",
+          "published": "Sun, 02 Aug 2026 13:00:22 +0000"
         },
         {
           "source": "Makfax",
@@ -23,52 +41,34 @@
           "published": "Sun, 02 Aug 2026 12:42:38 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Земја на високи плати и скапи квадрати: повеќе од половина Швајцарци живеат во изнајмени станови",
-          "link": "https://makfax.com.mk/svet/zemja-na-visoki-plati-i-skapi-kvadrati-poveke-od-polovina-shvajcarci-zhiveat-vo-iznajmeni-stanovi/",
-          "published": "Sun, 02 Aug 2026 12:30:09 +0000"
+          "source": "NetPress",
+          "title": "ВРЕДИ: Илинден е потсетник на стремежите за слобода, еднаквост и правда, вредности врз кои се темели нашата Република",
+          "link": "https://netpress.com.mk/vredi-ilinden-e-potsetnik-na-stremezhite-za-sloboda-ednakvost-i-pravda-vrednosti-vrz-koi-se-temeli-nashata-republika/",
+          "published": "Sun, 02 Aug 2026 13:32:15 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Македонски државјанин приведен во Хрватска, осомничен дека предизвикал пожар кај Дрниш",
-          "link": "https://makfax.com.mk/svet/makedonski-drzhavjanin-priveden-vo-hrvatska-osomnichen-deka-predizvikal-pozhar-kaj-drnish/",
-          "published": "Sun, 02 Aug 2026 12:20:46 +0000"
+          "source": "NetPress",
+          "title": "Зголемена фреквенција на граничните премини Табановце и Богородица, сообраќајот се одвива непречено",
+          "link": "https://netpress.com.mk/zgolemena-frekvenczija-na-granichnite-premini-tabanovcze-i-bogorodicza-soobrakajot-se-odviva-neprecheno/",
+          "published": "Sun, 02 Aug 2026 13:25:05 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Галатасарај занитересиран за Де Брујне",
-          "link": "https://makfax.com.mk/sport/galatasaraj-zaniteresiran-za-de-brujne/",
-          "published": "Sun, 02 Aug 2026 12:01:56 +0000"
+          "source": "NetPress",
+          "title": "Во Пакистан пронајдено телото на планинарот Нирмал Пурџа",
+          "link": "https://netpress.com.mk/vo-pakistan-pronajdeno-teloto-na-planinarot-nirmal-purdha/",
+          "published": "Sun, 02 Aug 2026 13:22:16 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Светските берзи пораснаа благодарение на закрепнувањето на дел од технолошките акции",
+          "link": "https://netpress.com.mk/svetskite-berzi-porasnaa-blagodarenie-na-zakrepnuvaneto-na-del-od-tehnoloshkite-akczii/",
+          "published": "Sun, 02 Aug 2026 12:52:34 +0000"
         },
         {
           "source": "NetPress",
           "title": "Унгарскиот премиер најави „критични“ денови поради затворањето на нуклеарната централа",
           "link": "https://netpress.com.mk/ungarskiot-premier-najavi-kritichni-denovi-poradi-zatvoraneto-na-nuklearnata-czentrala/",
           "published": "Sun, 02 Aug 2026 12:33:58 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Почина Винсент Пасторе, актер од серијата „Сопранови“",
-          "link": "https://netpress.com.mk/pochina-vinsent-pastore-akter-od-serijata-sopranovi/",
-          "published": "Sun, 02 Aug 2026 12:15:41 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Демографијата е нашата нова борба за Македонија",
-          "link": "https://netpress.com.mk/demografijata-e-nashata-nova-borba-za-makedonija/",
-          "published": "Sun, 02 Aug 2026 11:53:04 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Тошковски: Празникот да биде потсетник на заедништвото, истрајноста и одговорноста кон татковината",
-          "link": "https://netpress.com.mk/toshkovski-praznikot-da-bide-potsetnik-na-zaednishtvoto-istrajnosta-i-odgovornosta-kon-tatkovinata/",
-          "published": "Sun, 02 Aug 2026 11:49:06 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Сиљановска-Давкова: Државата се чува со младите, мудра политика и национално помирување",
-          "link": "https://netpress.com.mk/silanovska-davkova-drzhavata-se-chuva-so-mladite-mudra-politika-i-naczionalno-pomiruvane/",
-          "published": "Sun, 02 Aug 2026 11:36:11 +0000"
         }
       ]
     },
@@ -107,33 +107,33 @@
         },
         {
           "source": "Al Jazeera",
-          "title": "Spanish Ceuta witnesses a deadly ‘game’ for Moroccan migrants",
-          "link": "https://www.aljazeera.com/features/2026/8/2/spanish-ceuta-witnesses-a-deadly-game-for-moroccan-migrants?traffic_source=rss",
-          "published": "Sun, 02 Aug 2026 12:07:11 +0000"
+          "title": "Communal violence between Hindus and Muslims grips southern Nepal",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/communal-violence-between-hindus-and-muslims-grips-southern-nepal?traffic_source=rss",
+          "published": "Sun, 02 Aug 2026 13:55:07 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "The Board of Peace is a failed body and should be abandoned",
-          "link": "https://www.aljazeera.com/opinions/2026/8/2/the-board-of-peace-is-a-failed-body-and-should-be-abandoned?traffic_source=rss",
-          "published": "Sun, 02 Aug 2026 12:06:31 +0000"
+          "title": "Hundreds mourn Moroccan footballer who died trying to reach Ceuta",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/hundreds-mourn-moroccan-footballer-who-died-trying-to-reach-ceuta?traffic_source=rss",
+          "published": "Sun, 02 Aug 2026 13:46:23 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Israel’s influence industry in the US",
-          "link": "https://www.aljazeera.com/video/the-listening-post/2026/8/2/israels-influence-industry-in-the-us?traffic_source=rss",
-          "published": "Sun, 02 Aug 2026 12:02:04 +0000"
+          "title": "Pakistan-administered Kashmir election boycott follows deadly crackdown",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/02-08-reported-kamal-hyder-pak-pk?traffic_source=rss",
+          "published": "Sun, 02 Aug 2026 13:40:55 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Indigenous groups oppose Milei plan to open Argentina to foreign buyers",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/08-02-argentina-indigenous-protest-sv?traffic_source=rss",
-          "published": "Sun, 02 Aug 2026 11:09:25 +0000"
+          "title": "Yemen’s crumbling roads mean an arduous quest for water for Taiz villagers",
+          "link": "https://www.aljazeera.com/features/2026/8/2/yemens-crumbling-roads-means-an-arduous-quest-for-water-for-taiz-villagers?traffic_source=rss",
+          "published": "Sun, 02 Aug 2026 13:08:25 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Ben-Gvir mocks Palestinian detainee over prison conditions",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/ben-gvir-mocks-palestinian-detainee-over-prison-conditions?traffic_source=rss",
-          "published": "Sun, 02 Aug 2026 11:09:03 +0000"
+          "title": "South Korea has hottest day on record amid extreme weather globally",
+          "link": "https://www.aljazeera.com/news/2026/8/2/south-korea-has-hottest-day-on-record-amid-extreme-weather-globally?traffic_source=rss",
+          "published": "Sun, 02 Aug 2026 12:34:35 +0000"
         }
       ]
     }
