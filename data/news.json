@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-02T16:33:04Z",
+  "updatedAt": "2026-08-02T17:40:51Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Србија ги повика граѓаните да штедат струја поради топлотниот бран и рекордно нискиот водостој на Дунав",
+          "link": "https://makfax.com.mk/svet/region/srbija-gi-povika-graganite-da-shtedat-struja-poradi-toplotniot-bran-i-rekordno-niskiot-vodostoj-na-dunav/",
+          "published": "Sun, 02 Aug 2026 17:04:04 +0000"
         },
         {
           "source": "Makfax",
@@ -35,40 +41,34 @@
           "published": "Sun, 02 Aug 2026 14:34:30 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "(Видео) Најмалку пет загинати и 41 исчезнат во пожар на траект кај индонезискиот остров Мадура",
-          "link": "https://makfax.com.mk/svet/video-najmalku-pet-zaginati-i-41-ischeznat-vo-pozhar-na-traekt-kaj-indoneziskiot-ostrov-madura/",
-          "published": "Sun, 02 Aug 2026 14:30:37 +0000"
+          "source": "NetPress",
+          "title": "Најмалку 14 мртви во напад врз полициска станица во Пакистан",
+          "link": "https://netpress.com.mk/najmalku-14-mrtvi-vo-napad-vrz-policziska-stanicza-vo-pakistan/",
+          "published": "Sun, 02 Aug 2026 17:24:49 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Мицкоски: Илинден е трајна обврска да ја чуваме, развиваме и сакаме нашата татковина",
+          "link": "https://netpress.com.mk/miczkoski-ilinden-e-trajna-obvrska-da-ja-chuvame-razvivame-i-sakame-nashata-tatkovina/",
+          "published": "Sun, 02 Aug 2026 17:06:04 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "„Паднаа“ тројца велешки дилери на дроги",
+          "link": "https://netpress.com.mk/padnaa-trojcza-veleshki-dileri-na-drogi/",
+          "published": "Sun, 02 Aug 2026 16:57:55 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Жените се позависни од козметички процедури отколку од коцкање",
+          "link": "https://netpress.com.mk/zhenite-se-pozavisni-od-kozmetichki-proczeduri-otkolku-od-koczkane/",
+          "published": "Sun, 02 Aug 2026 16:50:17 +0000"
         },
         {
           "source": "NetPress",
           "title": "Се запали гиро-сендвичарница во Лептокарија",
           "link": "https://netpress.com.mk/se-zapali-giro-sendvicharnicza-vo-leptokarija/",
           "published": "Sun, 02 Aug 2026 16:13:40 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "ВИДЕО| Два хеликоптера се судрија при гаснење пожар во Грција",
-          "link": "https://netpress.com.mk/video-dva-helikoptera-se-sudrija-pri-gasnene-pozhar-vo-grczija/",
-          "published": "Sun, 02 Aug 2026 15:39:57 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Можната координирана интервенција за зајакнување на јенот значително го ослабна доларот",
-          "link": "https://netpress.com.mk/mozhnata-koordinirana-intervenczija-za-zajaknuvane-na-jenot-znachitelno-go-oslabna-dolarot/",
-          "published": "Sun, 02 Aug 2026 15:20:56 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Пситранс фестивалот во Унгарија прекинат по два смртни случаи",
-          "link": "https://netpress.com.mk/psitrans-festivalot-vo-ungarija-prekinat-po-dva-smrtni-sluchai/",
-          "published": "Sun, 02 Aug 2026 14:57:12 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Кошаркарските јуниори на Евробаскетот поразен од Британците",
-          "link": "https://netpress.com.mk/kosharkarskite-juniori-na-evrobasketot-porazen-od-britanczite/",
-          "published": "Sun, 02 Aug 2026 14:41:52 +0000"
         }
       ]
     },
@@ -77,9 +77,9 @@
       "items": [
         {
           "source": "BBC",
-          "title": "Helicopters fighting Greece wildfires collide in mid-air",
+          "title": "Two crew killed as British pilot survives after firefighting helicopters collide in Greece",
           "link": "https://www.bbc.co.uk/news/articles/c1417713ve6o?at_medium=RSS&at_campaign=rss",
-          "published": "Sun, 02 Aug 2026 15:21:56 GMT"
+          "published": "Sun, 02 Aug 2026 17:30:03 GMT"
         },
         {
           "source": "BBC",
@@ -107,6 +107,24 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "‘Iran war participation trophy’ mocking Trump appears in New York",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/iran-war-participation-trophy-mocking-trump-appears-in-new-york?traffic_source=rss",
+          "published": "Sun, 02 Aug 2026 17:06:30 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Deadly floods and landslide hit India’s Kerala",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/deadly-floods-and-landslide-hit-indias-kerala?traffic_source=rss",
+          "published": "Sun, 02 Aug 2026 16:55:39 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Suicide bomber kills 14 outside police station in Pakistan’s Swat",
+          "link": "https://www.aljazeera.com/news/2026/8/2/suicide-bomber-kills-14-outside-police-station-in-pakistans-swat?traffic_source=rss",
+          "published": "Sun, 02 Aug 2026 16:40:44 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Capital One cites anti-money laundering concerns in Trump Organization case",
           "link": "https://www.aljazeera.com/economy/2026/8/2/capital-one-cites-anti-money-laundering-concerns-in-trump-organization-case?traffic_source=rss",
           "published": "Sun, 02 Aug 2026 16:27:58 +0000"
@@ -116,24 +134,6 @@
           "title": "Saudi Crown Prince MBS urges Trump to ‘prioritise dialogue’ in US-Iran war",
           "link": "https://www.aljazeera.com/news/2026/8/2/saudi-crown-prince-mbs-urges-trump-to-prioritise-dialogue-in-us-iran-war?traffic_source=rss",
           "published": "Sun, 02 Aug 2026 16:10:32 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Israeli settlers shoot Palestinian child during farm raid",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/israeli-settlers-shoot-palestinian-child-during-farm-raid?traffic_source=rss",
-          "published": "Sun, 02 Aug 2026 15:36:28 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "How to end the ‘Hormuz war’",
-          "link": "https://www.aljazeera.com/opinions/2026/8/2/how-to-end-the-hormuz?traffic_source=rss",
-          "published": "Sun, 02 Aug 2026 15:33:20 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Ukrainian farmers use temporary storage to revive grain exports",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/ukrainian-farmers-use-temporary-storage-to-revive-grain-exports?traffic_source=rss",
-          "published": "Sun, 02 Aug 2026 15:14:26 +0000"
         }
       ]
     }
