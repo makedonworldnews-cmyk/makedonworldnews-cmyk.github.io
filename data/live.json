@@ -1,6 +1,13 @@
 {
-  "generated_at": "2026-08-02T19:56:09Z",
+  "generated_at": "2026-08-02T20:47:15Z",
   "items": [
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "Рубио предлага заобиколување на Ормутскиот теснец",
+      "link": "https://makfax.com.mk/svet/rubio-predlaga-zaobikoluvanje-na-ormutskiot-tesnec/",
+      "published": "Sun, 02 Aug 2026 20:00:15 +0000"
+    },
     {
       "region": "Македонија",
       "source": "Makfax",
@@ -31,10 +38,24 @@
     },
     {
       "region": "Македонија",
-      "source": "Makfax",
-      "title": "Србија ги повика граѓаните да штедат струја поради топлотниот бран и рекордно нискиот водостој на Дунав",
-      "link": "https://makfax.com.mk/svet/region/srbija-gi-povika-graganite-da-shtedat-struja-poradi-toplotniot-bran-i-rekordno-niskiot-vodostoj-na-dunav/",
-      "published": "Sun, 02 Aug 2026 17:04:04 +0000"
+      "source": "NetPress",
+      "title": "Руската тинејџерка Љутова го освои ВТА турнирот во Мемфис",
+      "link": "https://netpress.com.mk/ruskata-tinejdherka-lutova-go-osvoi-vta-turnirot-vo-memfis/",
+      "published": "Sun, 02 Aug 2026 20:32:34 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "NetPress",
+      "title": "Земјотрес го стресе Скопје",
+      "link": "https://netpress.com.mk/zemjotres-go-strese-skopje-3/",
+      "published": "Sun, 02 Aug 2026 20:16:52 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "NetPress",
+      "title": "Украински дронови убија десетина цивили во Русија, меѓу кои и дете",
+      "link": "https://netpress.com.mk/ukrainski-dronovi-ubija-desetina-czivili-vo-rusija-megu-koi-i-dete/",
+      "published": "Sun, 02 Aug 2026 20:03:21 +0000"
     },
     {
       "region": "Македонија",
@@ -51,32 +72,11 @@
       "published": "Sun, 02 Aug 2026 18:55:51 +0000"
     },
     {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Струмичката „Орлеанка“ Јованка Тренчевска (2)",
-      "link": "https://netpress.com.mk/strumichkata-orleanka-jovanka-trenchevska-2/",
-      "published": "Sun, 02 Aug 2026 18:34:44 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "ФОТО| Државниот архив објави историски фотографии и документи поврзани со Илинден",
-      "link": "https://netpress.com.mk/foto-drzhavniot-arhiv-objavi-istoriski-fotografii-i-dokumenti-povrzani-so-ilinden/",
-      "published": "Sun, 02 Aug 2026 18:04:57 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Српската влада повика на штедење на струјата, производството во Ѓердап на најниско ниво",
-      "link": "https://netpress.com.mk/srpskata-vlada-povika-na-shtedene-na-strujata-proizvodstvoto-vo-gerdap-na-najnisko-nivo/",
-      "published": "Sun, 02 Aug 2026 17:53:18 +0000"
-    },
-    {
       "region": "Свет",
       "source": "BBC",
-      "title": "Two crew killed as British pilot survives after firefighting helicopters collide in Greece",
+      "title": "Two crew killed after firefighting helicopters collide in Greece, as British pilot survives",
       "link": "https://www.bbc.co.uk/news/articles/c1417713ve6o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 02 Aug 2026 19:15:57 GMT"
+      "published": "Sun, 02 Aug 2026 20:36:37 GMT"
     },
     {
       "region": "Свет",
@@ -109,37 +109,37 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "Venezuela and the Dominican Republic say they will work to restore ties",
+      "link": "https://www.aljazeera.com/news/2026/8/2/venezuela-and-the-dominican-republic-say-they-will-work-to-restore-ties?traffic_source=rss",
+      "published": "Sun, 02 Aug 2026 20:29:32 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Is Washington dictating the agenda for talks in Venezuela?",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/8/2/is-washington-dictating-the-agenda-for-talks-in-venezuela?traffic_source=rss",
+      "published": "Sun, 02 Aug 2026 20:01:21 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "How much has AIPAC spent against Michigan’s Abdul El-Sayed? And why?",
+      "link": "https://www.aljazeera.com/news/2026/8/2/how-much-has-aipac-spent-against-michigans-abdul-el-sayed-and-why?traffic_source=rss",
+      "published": "Sun, 02 Aug 2026 20:00:45 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Israelis attack Armenian monastery in Jerusalem’s Old City",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/israelis-attack-armenian-monastery-in-jerusalems-old-city?traffic_source=rss",
+      "published": "Sun, 02 Aug 2026 19:39:32 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "Body of climber Nirmal Purja, six others recovered after Pakistan avalanche",
       "link": "https://www.aljazeera.com/news/2026/8/2/body-of-climber-nirmal-purja-six-others-recovered-after-pakistan-avalanche?traffic_source=rss",
       "published": "Sun, 02 Aug 2026 19:30:25 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Most Americans say Trump has gone too far on US immigration: Poll",
-      "link": "https://www.aljazeera.com/news/2026/8/2/most-americans-say-trump-has-gone-too-far-on-us-immigration-poll?traffic_source=rss",
-      "published": "Sun, 02 Aug 2026 19:26:05 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Iran says negotiations with Oman over Strait of Hormuz in final stages",
-      "link": "https://www.aljazeera.com/news/2026/8/2/iran-says-negotiations-with-oman-over-strait-of-hormuz-in-final-stages?traffic_source=rss",
-      "published": "Sun, 02 Aug 2026 19:08:06 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Two helicopters collide mid-air while tackling wildfires in Greece",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/aje-onl-nf_two-helicopters-crash-mid-air-wildfires-in-greece-020826?traffic_source=rss",
-      "published": "Sun, 02 Aug 2026 18:38:47 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Ukrainian drone attacks kill eight in response to Russian missiles",
-      "link": "https://www.aljazeera.com/news/2026/8/2/ukrainian-drone-attacks-kill-eight-in-response-to-russian-missiles?traffic_source=rss",
-      "published": "Sun, 02 Aug 2026 18:37:23 +0000"
     }
   ]
 }
