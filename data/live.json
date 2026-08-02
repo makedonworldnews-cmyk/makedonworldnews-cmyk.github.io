@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T23:27:36Z",
+  "generated_at": "2026-08-02T01:05:33Z",
   "items": [
     {
       "region": "Македонија",
@@ -74,6 +74,13 @@
     {
       "region": "Свет",
       "source": "BBC",
+      "title": "How Spain's migrant crisis created a political storm - whipped up by social media",
+      "link": "https://www.bbc.co.uk/news/articles/c62vl925dqdo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 02 Aug 2026 00:55:16 GMT"
+    },
+    {
+      "region": "Свет",
+      "source": "BBC",
       "title": "EU calls emergency meeting to discuss Ceuta migrant crossings",
       "link": "https://www.bbc.co.uk/news/articles/cz7d17r455go?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 01 Aug 2026 20:09:27 GMT"
@@ -90,7 +97,7 @@
       "source": "BBC",
       "title": "Tourist plane crashes in Peru, killing 13",
       "link": "https://www.bbc.co.uk/news/articles/c70g132erlko?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 01 Aug 2026 22:34:20 GMT"
+      "published": "Sun, 02 Aug 2026 00:29:55 GMT"
     },
     {
       "region": "Свет",
@@ -101,10 +108,24 @@
     },
     {
       "region": "Свет",
-      "source": "BBC",
-      "title": "The Sopranos star Vincent Pastore dies aged 80",
-      "link": "https://www.bbc.co.uk/news/articles/cm2gz0epljgo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 01 Aug 2026 22:57:55 GMT"
+      "source": "Al Jazeera",
+      "title": "Iran war live: Tehran warns of ‘decisive’ response to any US ‘aggression’",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/8/2/iran-war-live-tehran-warns-of-decisive-response-to-any-us-aggression?traffic_source=rss",
+      "published": "Sun, 02 Aug 2026 00:00:00 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Singapore bans UK band Massive Attack over Palestinian flag",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/1/singapore-bans-uk-band-massive-attack-over-palestinian-flag?traffic_source=rss",
+      "published": "Sat, 01 Aug 2026 23:57:30 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "New York Times reveals Trump administration subpoena over North Korea story",
+      "link": "https://www.aljazeera.com/news/2026/8/1/new-york-times-reveals-trump-administration-subpoena-over-north-korea-story?traffic_source=rss",
+      "published": "Sat, 01 Aug 2026 23:42:44 +0000"
     },
     {
       "region": "Свет",
@@ -119,27 +140,6 @@
       "title": "Michigan joins Minnesota in reporting cyberattacks, with FBI investigating",
       "link": "https://www.aljazeera.com/news/2026/8/1/michigan-joins-minnesota-in-reporting-cyber-attacks-with-fbi-investigating?traffic_source=rss",
       "published": "Sat, 01 Aug 2026 22:34:36 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "US Arabs eye ‘historic’ Senate win for Abdul El-Sayed despite AIPAC attacks",
-      "link": "https://www.aljazeera.com/news/2026/8/1/us-arabs-eye-historic-senate-win-for-abdul-el-sayed-despite-aipac-attacks?traffic_source=rss",
-      "published": "Sat, 01 Aug 2026 22:31:52 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Why did Ceuta migrant mayhem chill already frosty Israel-Spain relations?",
-      "link": "https://www.aljazeera.com/news/2026/8/1/why-did-ceuta-migrant-mayhem-chill-already-frosty-israel-spain-relations?traffic_source=rss",
-      "published": "Sat, 01 Aug 2026 21:42:26 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Al Jazeera reports from Ceuta as migrants leave the enclave",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/1/al-jazeera-reports-from-ceuta-as-migrants-leave-the-enclave?traffic_source=rss",
-      "published": "Sat, 01 Aug 2026 21:15:50 +0000"
     }
   ]
 }
