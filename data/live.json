@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T20:47:15Z",
+  "generated_at": "2026-08-02T21:39:04Z",
   "items": [
     {
       "region": "Македонија",
@@ -39,6 +39,20 @@
     {
       "region": "Македонија",
       "source": "NetPress",
+      "title": "Израелските сили убија 18 Палестинци во Газа, договорот за прекин на огнот заглавен",
+      "link": "https://netpress.com.mk/izraelskite-sili-ubija-18-palestinczi-vo-gaza-dogovorot-za-prekin-na-ognot-zaglaven/",
+      "published": "Sun, 02 Aug 2026 21:36:40 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "NetPress",
+      "title": "Барко седум години во Челзи",
+      "link": "https://netpress.com.mk/barko-sedum-godini-vo-chelzi/",
+      "published": "Sun, 02 Aug 2026 21:15:21 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "NetPress",
       "title": "Руската тинејџерка Љутова го освои ВТА турнирот во Мемфис",
       "link": "https://netpress.com.mk/ruskata-tinejdherka-lutova-go-osvoi-vta-turnirot-vo-memfis/",
       "published": "Sun, 02 Aug 2026 20:32:34 +0000"
@@ -56,20 +70,6 @@
       "title": "Украински дронови убија десетина цивили во Русија, меѓу кои и дете",
       "link": "https://netpress.com.mk/ukrainski-dronovi-ubija-desetina-czivili-vo-rusija-megu-koi-i-dete/",
       "published": "Sun, 02 Aug 2026 20:03:21 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Магнетна бура започна на Земјата",
-      "link": "https://netpress.com.mk/magnetna-bura-zapochna-na-zemjata-2/",
-      "published": "Sun, 02 Aug 2026 19:40:45 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "„Спајдермен“ ја оствари втората најголема премиера досега во САД",
-      "link": "https://netpress.com.mk/spajdermen-ja-ostvari-vtorata-najgolema-premiera-dosega-vo-sad/",
-      "published": "Sun, 02 Aug 2026 18:55:51 +0000"
     },
     {
       "region": "Свет",
@@ -109,6 +109,13 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "UK PM Burnham vows to be ‘relentless’ on Channel migrant crossings",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/uk-pm-burnham-vows-to-be-relentless-on-channel-migrant-crossings?traffic_source=rss",
+      "published": "Sun, 02 Aug 2026 20:45:01 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "Venezuela and the Dominican Republic say they will work to restore ties",
       "link": "https://www.aljazeera.com/news/2026/8/2/venezuela-and-the-dominican-republic-say-they-will-work-to-restore-ties?traffic_source=rss",
       "published": "Sun, 02 Aug 2026 20:29:32 +0000"
@@ -133,13 +140,6 @@
       "title": "Israelis attack Armenian monastery in Jerusalem’s Old City",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/israelis-attack-armenian-monastery-in-jerusalems-old-city?traffic_source=rss",
       "published": "Sun, 02 Aug 2026 19:39:32 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Body of climber Nirmal Purja, six others recovered after Pakistan avalanche",
-      "link": "https://www.aljazeera.com/news/2026/8/2/body-of-climber-nirmal-purja-six-others-recovered-after-pakistan-avalanche?traffic_source=rss",
-      "published": "Sun, 02 Aug 2026 19:30:25 +0000"
     }
   ]
 }
