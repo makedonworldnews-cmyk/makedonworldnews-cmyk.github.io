@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-03T19:53:03Z",
+  "updatedAt": "2026-08-03T21:02:13Z",
   "groups": [
     {
       "region": "Македонија",
@@ -42,6 +42,18 @@
         },
         {
           "source": "NetPress",
+          "title": "Одборот за мир: Нема повлекување на Израел од Газа пред разоружување на Хамас",
+          "link": "https://netpress.com.mk/odborot-za-mir-nema-povlekuvane-na-izrael-od-gaza-pred-razoruzhuvane-na-hamas/",
+          "published": "Mon, 03 Aug 2026 20:42:06 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Додека други нарачуваат анкети, ЗНАМ разговара со народот",
+          "link": "https://netpress.com.mk/dodeka-drugi-narachuvaat-anketi-znam-razgovara-so-narodot/",
+          "published": "Mon, 03 Aug 2026 20:41:16 +0000"
+        },
+        {
+          "source": "NetPress",
           "title": "Зеленски ја разреши амбасадорката на Украина во САД",
           "link": "https://netpress.com.mk/zelenski-ja-razreshi-ambasadorkata-na-ukraina-vo-sad/",
           "published": "Mon, 03 Aug 2026 19:52:45 +0000"
@@ -57,18 +69,6 @@
           "title": "Регистрирани 15 пожари – пет се активни, а кај Прилеп состојбата е алармантна",
           "link": "https://netpress.com.mk/registrirani-15-pozhari-pet-se-aktivni-a-kaj-prilep-sostojabata-e-alarmantna/",
           "published": "Mon, 03 Aug 2026 19:29:38 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Тешко повредено четиригодишно дете од Скопје кое било удрено со автомобил во Гостивар",
-          "link": "https://netpress.com.mk/teshko-povredeno-chetirigodishno-dete-od-skopje-koe-bilo-udreno-so-avtomobil-vo-gostivar/",
-          "published": "Mon, 03 Aug 2026 18:58:19 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "ВИДЕО| Индустриска зона близу Атина евакуирана поради пожар",
-          "link": "https://netpress.com.mk/video-industriska-zona-blizu-atina-evakuirana-poradi-pozhar/",
-          "published": "Mon, 03 Aug 2026 18:56:40 +0000"
         }
       ]
     },
@@ -80,12 +80,6 @@
           "title": "Russia says seven killed and 40 injured by Ukrainian drone hitting busy beach",
           "link": "https://www.bbc.co.uk/news/articles/cr7kmnyrdn7o?at_medium=RSS&at_campaign=rss",
           "published": "Mon, 03 Aug 2026 18:04:30 GMT"
-        },
-        {
-          "source": "BBC",
-          "title": "Rhine falls to record low levels as drought strains Europe's rivers",
-          "link": "https://www.bbc.co.uk/news/articles/c78gn8zvrx4o?at_medium=RSS&at_campaign=rss",
-          "published": "Mon, 03 Aug 2026 16:27:43 GMT"
         },
         {
           "source": "BBC",
@@ -101,39 +95,45 @@
         },
         {
           "source": "BBC",
-          "title": "'My only son was shot standing up for justice' - inside city gripped by deadly protests in Pakistan-administered Kashmir",
-          "link": "https://www.bbc.co.uk/news/articles/c5yvqk69enko?at_medium=RSS&at_campaign=rss",
-          "published": "Mon, 03 Aug 2026 03:32:21 GMT"
+          "title": "Rhine falls to record low levels as drought strains Europe's rivers",
+          "link": "https://www.bbc.co.uk/news/articles/c78gn8zvrx4o?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 03 Aug 2026 16:27:43 GMT"
+        },
+        {
+          "source": "BBC",
+          "title": "US reports first two deaths linked to  'explosive diarrhoea' outbreak",
+          "link": "https://www.bbc.co.uk/news/articles/c2k7px317eeo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 03 Aug 2026 20:05:46 GMT"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Hundreds of migrant minors stranded in Ceuta after border crisis",
+          "link": "https://www.aljazeera.com/news/2026/8/3/hundreds-of-migrant-minors-stranded-in-ceuta-after-border-crisis?traffic_source=rss",
+          "published": "Mon, 03 Aug 2026 20:24:02 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Survivors reach port after deadly Indonesia ferry fire",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/3/survivors-reach-port-after-deadly-indonesia-ferry-fire?traffic_source=rss",
+          "published": "Mon, 03 Aug 2026 19:55:36 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Clergy members arrested while protesting at Senate office",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/3/clergy-members-arrested-while-protesting-at-senate-office?traffic_source=rss",
+          "published": "Mon, 03 Aug 2026 19:53:59 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Trump says talks with Iran are ‘last chance’ to forge a deal",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/3/trump-says-talks-with-iran-are-last-chance-to-forge-a-deal?traffic_source=rss",
+          "published": "Mon, 03 Aug 2026 19:45:30 +0000"
         },
         {
           "source": "Al Jazeera",
           "title": "Bomb disposal underway in Le Porge after wildfires unearth WWII shells",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/8/3/aje-onl-nf_wildfire-reveals-wwii-shells-in-le-porge-france-030826?traffic_source=rss",
           "published": "Mon, 03 Aug 2026 18:55:25 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "US announces first two deaths from cyclospora outbreak",
-          "link": "https://www.aljazeera.com/news/2026/8/3/us-announces-first-two-deaths-from-cyclospora-outbreak?traffic_source=rss",
-          "published": "Mon, 03 Aug 2026 18:35:09 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Can Netanyahu survive Israel’s most consequential election?",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/3/can-netanyahu-survive-israels-most-consequential-election?traffic_source=rss",
-          "published": "Mon, 03 Aug 2026 18:16:00 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Israel top court hears challenge to UNRWA ban",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/3/israel-top-court-hears-challenge-to-unrwa-ban?traffic_source=rss",
-          "published": "Mon, 03 Aug 2026 18:13:43 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Drone slams into Russian beach, killing at least 7 people",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/3/drone-slams-into-russian-beach-killing-at-least-7-people?traffic_source=rss",
-          "published": "Mon, 03 Aug 2026 18:05:23 +0000"
         }
       ]
     }
