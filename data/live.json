@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T20:42:09Z",
+  "generated_at": "2026-08-04T21:57:00Z",
   "items": [
     {
       "region": "Македонија",
@@ -39,6 +39,13 @@
     {
       "region": "Македонија",
       "source": "NetPress",
+      "title": "Дел од ракетата на SpaceX ќе се урнe на Месечината в среда",
+      "link": "https://netpress.com.mk/del-od-raketata-na-spacex-ke-se-urne-na-mesechinata-v-sreda/",
+      "published": "Tue, 04 Aug 2026 21:21:10 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "NetPress",
       "title": "Катар тврди дека е постигнат напредок во мировните преговори меѓу САД и Иран",
       "link": "https://netpress.com.mk/katar-tvrdi-deka-e-postignat-napredok-vo-mirovnite-pregovori-megu-sad-i-iran/",
       "published": "Tue, 04 Aug 2026 20:12:33 +0000"
@@ -53,8 +60,8 @@
     {
       "region": "Македонија",
       "source": "NetPress",
-      "title": "Србија: Помалку електрична енергија поради водостојот на Дунав, ХЕЦ Ѓердап работи со четвртина капацитетот",
-      "link": "https://netpress.com.mk/srbija-pomalku-elektrichna-energija-poradi-vodostojot-na-dunav-hecz-gerdap-raboti-so-chetvrtina-kapaczitetot/",
+      "title": "Србија: Помалку електрична енергија поради водостојот на Дунав, ХЕЦ Ѓердап работи со четвртина капацитет",
+      "link": "https://netpress.com.mk/srbija-pomalku-elektrichna-energija-poradi-vodostojot-na-dunav-hecz-gerdap-raboti-so-chetvrtina-kapaczitet/",
       "published": "Tue, 04 Aug 2026 19:21:26 +0000"
     },
     {
@@ -63,13 +70,6 @@
       "title": "САД ги потрошиле речиси сите прецизни ракети со долг дострел во војната со Иран",
       "link": "https://netpress.com.mk/sad-gi-potroshile-rechisi-site-preczizni-raketi-so-dolg-dostrel-vo-vojnata-so-iran/",
       "published": "Tue, 04 Aug 2026 18:17:37 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Тензиите во Сеута се смируваат: Околу 70.000 мигранти се вратија во Мароко",
-      "link": "https://netpress.com.mk/tenziite-vo-seuta-se-smiruvaat-okolu-70-000-migranti-se-vratija-vo-maroko/",
-      "published": "Tue, 04 Aug 2026 18:10:41 +0000"
     },
     {
       "region": "Свет",
@@ -90,7 +90,7 @@
       "source": "BBC",
       "title": "EU commends Spain's 'swift response' to Ceuta migrant crisis",
       "link": "https://www.bbc.co.uk/news/articles/c80n3j55g0do?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 04 Aug 2026 19:30:43 GMT"
+      "published": "Tue, 04 Aug 2026 21:45:20 GMT"
     },
     {
       "region": "Свет",
@@ -109,37 +109,37 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
-      "title": "Evacuations ordered as Guatemala volcano erupts",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/4/evacuations-ordered-as-guatemala-volcano-erupts?traffic_source=rss",
-      "published": "Tue, 04 Aug 2026 19:41:17 +0000"
+      "title": "How the far right weaponised the Ceuta crisis",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/4/how-the-far-right-weaponised-the-ceuta-crisis?traffic_source=rss",
+      "published": "Tue, 04 Aug 2026 21:32:41 +0000"
     },
     {
       "region": "Свет",
       "source": "Al Jazeera",
-      "title": "Red Cross urges international aid as Sudan crisis deepens",
-      "link": "https://www.aljazeera.com/news/2026/8/4/red-cross-urges-international-aid-as-sudan-crisis-deepens?traffic_source=rss",
-      "published": "Tue, 04 Aug 2026 19:39:58 +0000"
+      "title": "Funeral for family killed in US strike on Iran’s Qeshm Island",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/4/funeral-for-family-killed-in-us-strike-on-irans-qeshm-island?traffic_source=rss",
+      "published": "Tue, 04 Aug 2026 21:11:50 +0000"
     },
     {
       "region": "Свет",
       "source": "Al Jazeera",
-      "title": "Telegram says Apple suspension followed content norms violation by one user",
-      "link": "https://www.aljazeera.com/economy/2026/8/4/telegram-says-apple-suspension-followed-content-norms-violation-by-one-user?traffic_source=rss",
-      "published": "Tue, 04 Aug 2026 19:35:12 +0000"
+      "title": "Death toll rises to 87 in India’s flood-stricken Assam",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/4/aje-onl-nf_death-toll-rises-to-87-in-assam-040826?traffic_source=rss",
+      "published": "Tue, 04 Aug 2026 21:03:17 +0000"
     },
     {
       "region": "Свет",
       "source": "Al Jazeera",
-      "title": "Kazakhstan releases first tiger to restore extinct species",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/4/kazakhstan-releases-first-tiger-to-restore-extinct-species?traffic_source=rss",
-      "published": "Tue, 04 Aug 2026 19:21:16 +0000"
+      "title": "Six years on, Beirut blast families still await justice",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/4/six-years-on-beirut-blast-families-still-await-justice?traffic_source=rss",
+      "published": "Tue, 04 Aug 2026 21:03:15 +0000"
     },
     {
       "region": "Свет",
       "source": "Al Jazeera",
-      "title": "White House to meet AI firms on advanced model safety",
-      "link": "https://www.aljazeera.com/economy/2026/8/4/white-house-to-meet-ai-firms-on-advanced-model-safety?traffic_source=rss",
-      "published": "Tue, 04 Aug 2026 19:04:18 +0000"
+      "title": "National Guard deployment to Washington, DC will cost US roughly $1.4bn",
+      "link": "https://www.aljazeera.com/news/2026/8/4/national-guard-deployment-to-washington-dc-will-cost-us-roughly-1-4bn?traffic_source=rss",
+      "published": "Tue, 04 Aug 2026 20:59:33 +0000"
     }
   ]
 }
