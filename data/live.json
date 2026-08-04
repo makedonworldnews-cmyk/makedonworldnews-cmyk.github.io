@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T21:57:00Z",
+  "generated_at": "2026-08-04T22:59:40Z",
   "items": [
     {
       "region": "Македонија",
@@ -109,6 +109,13 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "Elon Musk’s SpaceX reports losses but less than expected",
+      "link": "https://www.aljazeera.com/economy/2026/8/4/elon-musks-spacex-reports-reports-losses-but-less-than-expected?traffic_source=rss",
+      "published": "Tue, 04 Aug 2026 22:02:09 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "How the far right weaponised the Ceuta crisis",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/8/4/how-the-far-right-weaponised-the-ceuta-crisis?traffic_source=rss",
       "published": "Tue, 04 Aug 2026 21:32:41 +0000"
@@ -133,13 +140,6 @@
       "title": "Six years on, Beirut blast families still await justice",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/8/4/six-years-on-beirut-blast-families-still-await-justice?traffic_source=rss",
       "published": "Tue, 04 Aug 2026 21:03:15 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "National Guard deployment to Washington, DC will cost US roughly $1.4bn",
-      "link": "https://www.aljazeera.com/news/2026/8/4/national-guard-deployment-to-washington-dc-will-cost-us-roughly-1-4bn?traffic_source=rss",
-      "published": "Tue, 04 Aug 2026 20:59:33 +0000"
     }
   ]
 }
