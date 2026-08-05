@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T22:16:59Z",
+  "generated_at": "2026-08-05T23:25:16Z",
   "items": [
     {
       "region": "Македонија",
@@ -102,9 +102,23 @@
     {
       "region": "Свет",
       "source": "BBC",
-      "title": "Fifa admits mistakes but Infantino remains president",
+      "title": "Infantino sorry for errors but stays Fifa president",
       "link": "https://www.bbc.co.uk/sport/football/articles/clyq3el5gkqo?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 05 Aug 2026 21:37:08 GMT"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "FIFA pledges to defend Infantino after World Cup rights plan collapses",
+      "link": "https://www.aljazeera.com/news/2026/8/5/fifa-pledges-to-defend-infantino-after-world-cup-rights-plan-collapses?traffic_source=rss",
+      "published": "Wed, 05 Aug 2026 22:59:28 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Erica Schwartz confirmed as new CDC chief amid US agency turmoil",
+      "link": "https://www.aljazeera.com/news/2026/8/5/erica-schwartz-confirmed-as-new-cdc-chief-amid-us-agency-turmoil?traffic_source=rss",
+      "published": "Wed, 05 Aug 2026 22:46:03 +0000"
     },
     {
       "region": "Свет",
@@ -126,20 +140,6 @@
       "title": "US man arrested at Trump’s golf course charged with multiple felonies",
       "link": "https://www.aljazeera.com/news/2026/8/5/us-man-arrested-at-trumps-golf-course-charged-with-multiple-felonies?traffic_source=rss",
       "published": "Wed, 05 Aug 2026 21:35:13 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Israeli forces raid camp in occupied West Bank",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/israeli-forces-raid-camp-in-occupied-west-bank-2?traffic_source=rss",
-      "published": "Wed, 05 Aug 2026 21:31:55 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Clashes on anniversary of Imran Khan imprisonment",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/5-8-clip-teargas-ik-protests-pk?traffic_source=rss",
-      "published": "Wed, 05 Aug 2026 21:28:14 +0000"
     }
   ]
 }
