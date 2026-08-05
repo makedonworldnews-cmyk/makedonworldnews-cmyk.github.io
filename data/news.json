@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-05T01:08:50Z",
+  "updatedAt": "2026-08-05T04:27:54Z",
   "groups": [
     {
       "region": "Македонија",
@@ -54,8 +54,8 @@
         },
         {
           "source": "NetPress",
-          "title": "Ракета потона индиски брод близу Јемен",
-          "link": "https://netpress.com.mk/raketa-potona-indiski-brod-blizu-jemen/",
+          "title": "Ракета потoпи индиски брод близу Јемен",
+          "link": "https://netpress.com.mk/raketa-potopi-indiski-brod-blizu-jemen/",
           "published": "Tue, 04 Aug 2026 19:37:04 +0000"
         },
         {
@@ -83,9 +83,15 @@
         },
         {
           "source": "BBC",
-          "title": "Oil prices fall on hopes Strait of Hormuz could reopen",
+          "title": "Trump says Iran will be 'hit very hard' if Hormuz Strait not open soon as oil prices fall",
           "link": "https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&at_campaign=rss",
-          "published": "Wed, 05 Aug 2026 01:05:21 GMT"
+          "published": "Wed, 05 Aug 2026 03:44:30 GMT"
+        },
+        {
+          "source": "BBC",
+          "title": "Russian ballistic missile strike on Kyiv kills two and injures others, officials say",
+          "link": "https://www.bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 05 Aug 2026 03:37:50 GMT"
         },
         {
           "source": "BBC",
@@ -100,40 +106,34 @@
           "published": "Wed, 05 Aug 2026 00:19:04 GMT"
         },
         {
-          "source": "BBC",
-          "title": "Ukraine hits more Wildberries sites as strike kills five in Moscow region",
-          "link": "https://www.bbc.co.uk/news/articles/c151pkww79zo?at_medium=RSS&at_campaign=rss",
-          "published": "Tue, 04 Aug 2026 11:19:01 GMT"
+          "source": "Al Jazeera",
+          "title": "Bolivia sends troops to stop Brazilian gang violence along border",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/bolivia-sends-troops-to-stop-brazilian-gang-violence-along-border?traffic_source=rss",
+          "published": "Wed, 05 Aug 2026 03:58:12 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Ukrainian man chased by exploding drone recounts his terror",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/ukrainian-man-chased-by-exploding-drone-recounts-his-terror?traffic_source=rss",
-          "published": "Wed, 05 Aug 2026 00:56:23 +0000"
+          "title": "North Korea’s Kim Yo Jong issues military threat over Japan missile test",
+          "link": "https://www.aljazeera.com/news/2026/8/5/north-koreas-kim-yo-jong-issues-military-threat-over-japan-missile-test?traffic_source=rss",
+          "published": "Wed, 05 Aug 2026 03:48:21 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Iran war live: Tehran-Oman talks on Hormuz ‘positive’; ship hit in Red Sea",
-          "link": "https://www.aljazeera.com/news/liveblog/2026/8/5/iran-war-live-tehran-oman-talks-on-hormuz-positive-ship-hit-in-red-sea?traffic_source=rss",
-          "published": "Wed, 05 Aug 2026 00:00:00 +0000"
+          "title": "Protesters demand answers from ICE after second man dies at Delaney Hall",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/protesters-demand-answers-from-ice-after-second-man-dies-at-delaney-hall?traffic_source=rss",
+          "published": "Wed, 05 Aug 2026 03:33:21 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "US revokes visa of Brazilian ambassador amid deepening diplomatic spat",
-          "link": "https://www.aljazeera.com/news/2026/8/4/us-revokes-visa-of-brazilian-ambassador-amid-deepening-diplomatic-spat?traffic_source=rss",
-          "published": "Tue, 04 Aug 2026 23:41:27 +0000"
+          "title": "Israel approves $37m to seize more than 70 occupied West Bank sites",
+          "link": "https://www.aljazeera.com/news/2026/8/5/israel-approves-37m-to-seize-more-than-70-occupied-west-bank-sites?traffic_source=rss",
+          "published": "Wed, 05 Aug 2026 03:19:59 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Sri Lanka shuts schools as floods and mudslides kill 7",
-          "link": "https://www.aljazeera.com/news/2026/8/4/sri-lanka-shuts-schools-as-floods-and-mudslides-kill-7?traffic_source=rss",
-          "published": "Tue, 04 Aug 2026 23:27:13 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "One killed, five injured in Russian ballistic missile attack on Kyiv",
-          "link": "https://www.aljazeera.com/news/2026/8/4/russia-strikes-ukrainian-capital-kyiv-with-ballistic-missiles?traffic_source=rss",
-          "published": "Tue, 04 Aug 2026 23:24:43 +0000"
+          "title": "US stock market hits record high amid hopes for Strait of Hormuz reopening",
+          "link": "https://www.aljazeera.com/economy/2026/8/5/us-stock-market-hits-record-high-amid-hopes-for-strait-of-hormuz-reopening?traffic_source=rss",
+          "published": "Wed, 05 Aug 2026 02:09:06 +0000"
         }
       ]
     }
