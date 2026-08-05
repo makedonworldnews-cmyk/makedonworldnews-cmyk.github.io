@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T22:59:40Z",
+  "generated_at": "2026-08-05T00:06:38Z",
   "items": [
     {
       "region": "Македонија",
@@ -95,16 +95,30 @@
     {
       "region": "Свет",
       "source": "BBC",
+      "title": "Armed man arrested near Trump's golf course ahead of president's visit",
+      "link": "https://www.bbc.co.uk/news/articles/c20jp3mp7lyo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 04 Aug 2026 23:58:16 GMT"
+    },
+    {
+      "region": "Свет",
+      "source": "BBC",
       "title": "Ukraine hits more Wildberries sites as strike kills five in Moscow region",
       "link": "https://www.bbc.co.uk/news/articles/c151pkww79zo?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 04 Aug 2026 11:19:01 GMT"
     },
     {
       "region": "Свет",
-      "source": "BBC",
-      "title": "Arrests in Egypt after people allegedly impersonate judges",
-      "link": "https://www.bbc.co.uk/news/articles/cn0n9wpvlwpo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 04 Aug 2026 19:25:00 GMT"
+      "source": "Al Jazeera",
+      "title": "Sri Lanka shuts schools as floods and mudslides kill 7",
+      "link": "https://www.aljazeera.com/news/2026/8/4/sri-lanka-shuts-schools-as-floods-and-mudslides-kill-7?traffic_source=rss",
+      "published": "Tue, 04 Aug 2026 23:27:13 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Russia strikes Ukrainian capital Kyiv with ballistic missiles",
+      "link": "https://www.aljazeera.com/news/2026/8/4/russia-strikes-ukrainian-capital-kyiv-with-ballistic-missiles?traffic_source=rss",
+      "published": "Tue, 04 Aug 2026 23:24:43 +0000"
     },
     {
       "region": "Свет",
@@ -126,20 +140,6 @@
       "title": "Funeral for family killed in US strike on Iran’s Qeshm Island",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/8/4/funeral-for-family-killed-in-us-strike-on-irans-qeshm-island?traffic_source=rss",
       "published": "Tue, 04 Aug 2026 21:11:50 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Death toll rises to 87 in India’s flood-stricken Assam",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/4/aje-onl-nf_death-toll-rises-to-87-in-assam-040826?traffic_source=rss",
-      "published": "Tue, 04 Aug 2026 21:03:17 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Six years on, Beirut blast families still await justice",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/4/six-years-on-beirut-blast-families-still-await-justice?traffic_source=rss",
-      "published": "Tue, 04 Aug 2026 21:03:15 +0000"
     }
   ]
 }
