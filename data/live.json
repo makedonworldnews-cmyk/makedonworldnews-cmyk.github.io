@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T00:06:38Z",
+  "generated_at": "2026-08-05T03:27:14Z",
   "items": [
     {
       "region": "Македонија",
@@ -53,8 +53,8 @@
     {
       "region": "Македонија",
       "source": "NetPress",
-      "title": "Ракета потона индиски брод близу Јемен",
-      "link": "https://netpress.com.mk/raketa-potona-indiski-brod-blizu-jemen/",
+      "title": "Ракета потoпи индиски брод близу Јемен",
+      "link": "https://netpress.com.mk/raketa-potopi-indiski-brod-blizu-jemen/",
       "published": "Tue, 04 Aug 2026 19:37:04 +0000"
     },
     {
@@ -83,7 +83,14 @@
       "source": "BBC",
       "title": "Oil prices fall on hopes Strait of Hormuz could reopen",
       "link": "https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 04 Aug 2026 19:00:43 GMT"
+      "published": "Wed, 05 Aug 2026 01:05:21 GMT"
+    },
+    {
+      "region": "Свет",
+      "source": "BBC",
+      "title": "Russian ballistic missile strike on Kyiv kills two and injures others, officials say",
+      "link": "https://www.bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 05 Aug 2026 02:55:58 GMT"
     },
     {
       "region": "Свет",
@@ -97,49 +104,42 @@
       "source": "BBC",
       "title": "Armed man arrested near Trump's golf course ahead of president's visit",
       "link": "https://www.bbc.co.uk/news/articles/c20jp3mp7lyo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 04 Aug 2026 23:58:16 GMT"
-    },
-    {
-      "region": "Свет",
-      "source": "BBC",
-      "title": "Ukraine hits more Wildberries sites as strike kills five in Moscow region",
-      "link": "https://www.bbc.co.uk/news/articles/c151pkww79zo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 04 Aug 2026 11:19:01 GMT"
+      "published": "Wed, 05 Aug 2026 00:19:04 GMT"
     },
     {
       "region": "Свет",
       "source": "Al Jazeera",
-      "title": "Sri Lanka shuts schools as floods and mudslides kill 7",
-      "link": "https://www.aljazeera.com/news/2026/8/4/sri-lanka-shuts-schools-as-floods-and-mudslides-kill-7?traffic_source=rss",
-      "published": "Tue, 04 Aug 2026 23:27:13 +0000"
+      "title": "Israel approves $37m to seize more than 70 occupied West Bank sites",
+      "link": "https://www.aljazeera.com/news/2026/8/5/israel-approves-37m-to-seize-more-than-70-occupied-west-bank-sites?traffic_source=rss",
+      "published": "Wed, 05 Aug 2026 03:19:59 +0000"
     },
     {
       "region": "Свет",
       "source": "Al Jazeera",
-      "title": "Russia strikes Ukrainian capital Kyiv with ballistic missiles",
-      "link": "https://www.aljazeera.com/news/2026/8/4/russia-strikes-ukrainian-capital-kyiv-with-ballistic-missiles?traffic_source=rss",
-      "published": "Tue, 04 Aug 2026 23:24:43 +0000"
+      "title": "US stock market hits record high amid hopes for Strait of Hormuz reopening",
+      "link": "https://www.aljazeera.com/economy/2026/8/5/us-stock-market-hits-record-high-amid-hopes-for-strait-of-hormuz-reopening?traffic_source=rss",
+      "published": "Wed, 05 Aug 2026 02:09:06 +0000"
     },
     {
       "region": "Свет",
       "source": "Al Jazeera",
-      "title": "Elon Musk’s SpaceX reports losses but less than expected",
-      "link": "https://www.aljazeera.com/economy/2026/8/4/elon-musks-spacex-reports-reports-losses-but-less-than-expected?traffic_source=rss",
-      "published": "Tue, 04 Aug 2026 22:02:09 +0000"
+      "title": "Armed man arrested at Trump’s LA golf course ahead of president’s visit",
+      "link": "https://www.aljazeera.com/news/2026/8/5/armed-man-arrested-at-trumps-la-golf-course-ahead-of-presidents-visit?traffic_source=rss",
+      "published": "Wed, 05 Aug 2026 01:29:01 +0000"
     },
     {
       "region": "Свет",
       "source": "Al Jazeera",
-      "title": "How the far right weaponised the Ceuta crisis",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/4/how-the-far-right-weaponised-the-ceuta-crisis?traffic_source=rss",
-      "published": "Tue, 04 Aug 2026 21:32:41 +0000"
+      "title": "Ceuta and Melilla: Why Europe’s African border remains a flashpoint",
+      "link": "https://www.aljazeera.com/news/2026/8/5/ceuta-and-melilla-why-europes-african-border-remains-a-flashpoint?traffic_source=rss",
+      "published": "Wed, 05 Aug 2026 01:21:16 +0000"
     },
     {
       "region": "Свет",
       "source": "Al Jazeera",
-      "title": "Funeral for family killed in US strike on Iran’s Qeshm Island",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/4/funeral-for-family-killed-in-us-strike-on-irans-qeshm-island?traffic_source=rss",
-      "published": "Tue, 04 Aug 2026 21:11:50 +0000"
+      "title": "Ukrainian man chased by exploding drone recounts his terror",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/ukrainian-man-chased-by-exploding-drone-recounts-his-terror?traffic_source=rss",
+      "published": "Wed, 05 Aug 2026 00:56:23 +0000"
     }
   ]
 }
