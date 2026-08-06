@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-05T23:11:11Z",
+  "updatedAt": "2026-08-06T00:12:29Z",
   "groups": [
     {
       "region": "Македонија",
@@ -107,6 +107,18 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Nigeria announces rescue of 308 kidnapped citizens",
+          "link": "https://www.aljazeera.com/news/2026/8/5/nigeria-announces-rescue-of-308-kidnapped-citizens?traffic_source=rss",
+          "published": "Wed, 05 Aug 2026 23:34:47 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "FIFA pledges to defend Infantino after World Cup rights plan collapses",
+          "link": "https://www.aljazeera.com/news/2026/8/5/fifa-pledges-to-defend-infantino-after-world-cup-rights-plan-collapses?traffic_source=rss",
+          "published": "Wed, 05 Aug 2026 22:59:28 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Erica Schwartz confirmed as new CDC chief amid US agency turmoil",
           "link": "https://www.aljazeera.com/news/2026/8/5/erica-schwartz-confirmed-as-new-cdc-chief-amid-us-agency-turmoil?traffic_source=rss",
           "published": "Wed, 05 Aug 2026 22:46:03 +0000"
@@ -122,18 +134,6 @@
           "title": "US officials push back on reports of dangerously low munitions supplies",
           "link": "https://www.aljazeera.com/news/2026/8/5/us-officials-push-back-on-reports-of-dangerously-low-munitions-supplies?traffic_source=rss",
           "published": "Wed, 05 Aug 2026 22:00:00 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "US man arrested at Trump’s golf course charged with multiple felonies",
-          "link": "https://www.aljazeera.com/news/2026/8/5/us-man-arrested-at-trumps-golf-course-charged-with-multiple-felonies?traffic_source=rss",
-          "published": "Wed, 05 Aug 2026 21:35:13 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Israeli forces raid camp in occupied West Bank",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/israeli-forces-raid-camp-in-occupied-west-bank-2?traffic_source=rss",
-          "published": "Wed, 05 Aug 2026 21:31:55 +0000"
         }
       ]
     }
