@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07T19:29:00Z",
+  "updatedAt": "2026-08-07T20:08:28Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "10 години од поплавите, на комеморација прочитани имињата на загинатите: „Времето не ги избриша спомените, ниту пак ја намали тагата“",
+          "link": "https://makfax.com.mk/makedonija/10-godini-od-poplavite-na-komemoracija-prochitani-iminjata-na-zaginatite-vremeto-ne-gi-izbrisha-spomenite-nitu-pak-ja-namali-tagata/",
+          "published": "Fri, 07 Aug 2026 19:30:16 +0000"
         },
         {
           "source": "Makfax",
@@ -35,15 +41,15 @@
           "published": "Fri, 07 Aug 2026 17:11:08 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Побарувачката за „Патриот“ експлодира, Американците имаат помалку од 850 преостанати пресретнувачи",
-          "link": "https://makfax.com.mk/svet/pobaruvachkata-za-patriot-eksplodira-amerikancite-imaat-pomalku-od-850-preostanati-presretnuvachi/",
-          "published": "Fri, 07 Aug 2026 16:46:38 +0000"
+          "source": "NetPress",
+          "title": "Американскиот Сенат одобри воведување нови санкции против Русија",
+          "link": "https://netpress.com.mk/amerikanskiot-senat-odobri-voveduvane-novi-sankczii-protiv-rusija/",
+          "published": "Fri, 07 Aug 2026 19:50:33 +0000"
         },
         {
           "source": "NetPress",
           "title": "ВИДЕО| За две седмици на аукција топката со која Марадона го постигна голот „Божјата рака“",
-          "link": "https://netpress.com.mk/video-3/",
+          "link": "https://netpress.com.mk/video-za-dve-sedmiczi-na-aukczija-topkata-so-koja-maradona-go-postigna-golot-bozhjata-raka/",
           "published": "Fri, 07 Aug 2026 19:16:39 +0000"
         },
         {
@@ -63,12 +69,6 @@
           "title": "Зеленски пристигна во прва посета на Србија, традиционалниот сојузник на Русија",
           "link": "https://netpress.com.mk/zelenski-pristigna-vo-prva-poseta-na-srbija-tradiczionalniot-sojuznik-na-rusija/",
           "published": "Fri, 07 Aug 2026 18:35:53 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Националниот дата-центар ќе ја обедини државната ИТ инфраструктура – помалку трошоци и повисока безбедност",
-          "link": "https://netpress.com.mk/naczionalniot-data-czentar-ke-ja-obedini-drzhavnata-it-infrastruktura-pomalku-troshoczi-i-povisoka-bezbednost/",
-          "published": "Fri, 07 Aug 2026 18:20:18 +0000"
         }
       ]
     },
@@ -83,9 +83,9 @@
         },
         {
           "source": "BBC",
-          "title": "Spain threatens retaliation if Italy fails to lift border controls after Ceuta crossings",
+          "title": "Spain to impose border controls against Italy as row over Ceuta migrant influx intensifies",
           "link": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss",
-          "published": "Fri, 07 Aug 2026 18:56:33 GMT"
+          "published": "Fri, 07 Aug 2026 19:51:16 GMT"
         },
         {
           "source": "BBC",
@@ -104,6 +104,12 @@
           "title": "Spanish police arrest 78 people in bust of 'one of largest' smuggling networks",
           "link": "https://www.bbc.co.uk/news/articles/clylejzkkx4o?at_medium=RSS&at_campaign=rss",
           "published": "Fri, 07 Aug 2026 16:13:45 GMT"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "DR Congo releases 15 prisoners to M23 rebels as part of Doha peace process",
+          "link": "https://www.aljazeera.com/news/2026/8/7/dr-congo-releases-15-prisoners-to-m23-rebels-as-part-of-doha-peace-process?traffic_source=rss",
+          "published": "Fri, 07 Aug 2026 19:21:01 +0000"
         },
         {
           "source": "Al Jazeera",
@@ -128,12 +134,6 @@
           "title": "Mediterranean smuggling network ‘dismantled’ in Spain-led raid, 78 arrested",
           "link": "https://www.aljazeera.com/news/2026/8/7/mediterranean-smuggling-network-dismantled-in-spain-led-raid-78-arrested?traffic_source=rss",
           "published": "Fri, 07 Aug 2026 17:07:29 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Hun Manet is refining Cambodia’s authoritarian model",
-          "link": "https://www.aljazeera.com/opinions/2026/8/7/hun-manet-is-refining-cambodias-authoritarian-model?traffic_source=rss",
-          "published": "Fri, 07 Aug 2026 16:47:33 +0000"
         }
       ]
     }
