@@ -1,6 +1,13 @@
 {
-  "generated_at": "2026-08-07T19:09:41Z",
+  "generated_at": "2026-08-07T19:56:48Z",
   "items": [
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "10 години од поплавите, на комеморација прочитани имињата на загинатите: „Времето не ги избриша спомените, ниту пак ја намали тагата“",
+      "link": "https://makfax.com.mk/makedonija/10-godini-od-poplavite-na-komemoracija-prochitani-iminjata-na-zaginatite-vremeto-ne-gi-izbrisha-spomenite-nitu-pak-ja-namali-tagata/",
+      "published": "Fri, 07 Aug 2026 19:30:16 +0000"
+    },
     {
       "region": "Македонија",
       "source": "Makfax",
@@ -31,10 +38,17 @@
     },
     {
       "region": "Македонија",
-      "source": "Makfax",
-      "title": "Побарувачката за „Патриот“ експлодира, Американците имаат помалку од 850 преостанати пресретнувачи",
-      "link": "https://makfax.com.mk/svet/pobaruvachkata-za-patriot-eksplodira-amerikancite-imaat-pomalku-od-850-preostanati-presretnuvachi/",
-      "published": "Fri, 07 Aug 2026 16:46:38 +0000"
+      "source": "NetPress",
+      "title": "Американскиот Сенат одобри воведување нови санкции против Русија",
+      "link": "https://netpress.com.mk/amerikanskiot-senat-odobri-voveduvane-novi-sankczii-protiv-rusija/",
+      "published": "Fri, 07 Aug 2026 19:50:33 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "NetPress",
+      "title": "ВИДЕО| За две седмици на аукција топката со која Марадона го постигна голот „Божјата рака“",
+      "link": "https://netpress.com.mk/video-3/",
+      "published": "Fri, 07 Aug 2026 19:16:39 +0000"
     },
     {
       "region": "Македонија",
@@ -58,20 +72,6 @@
       "published": "Fri, 07 Aug 2026 18:35:53 +0000"
     },
     {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Националниот дата-центар ќе ја обедини државната ИТ инфраструктура – помалку трошоци и повисока безбедност",
-      "link": "https://netpress.com.mk/naczionalniot-data-czentar-ke-ja-obedini-drzhavnata-it-infrastruktura-pomalku-troshoczi-i-povisoka-bezbednost/",
-      "published": "Fri, 07 Aug 2026 18:20:18 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "ВИДЕО| Шпанија: Уапсени 78 осомничени за криумчарење мигранти",
-      "link": "https://netpress.com.mk/video-shpanija-uapseni-78-osomnicheni-za-kriumcharene-migranti/",
-      "published": "Fri, 07 Aug 2026 18:14:25 +0000"
-    },
-    {
       "region": "Свет",
       "source": "BBC",
       "title": "Seven killed after Thai student opens fire at home and school",
@@ -81,9 +81,9 @@
     {
       "region": "Свет",
       "source": "BBC",
-      "title": "Spain threatens retaliation if Italy fails to lift border controls after Ceuta crossings",
+      "title": "Spain to impose border controls against Italy as row over Ceuta migrant influx intensifies",
       "link": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 07 Aug 2026 18:56:33 GMT"
+      "published": "Fri, 07 Aug 2026 19:51:16 GMT"
     },
     {
       "region": "Свет",
@@ -109,6 +109,20 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "DR Congo releases 15 prisoners to M23 rebels as part of Doha peace process",
+      "link": "https://www.aljazeera.com/news/2026/8/7/dr-congo-releases-15-prisoners-to-m23-rebels-as-part-of-doha-peace-process?traffic_source=rss",
+      "published": "Fri, 07 Aug 2026 19:21:01 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Several killed in attacks on Ukraine as Kyiv hits Russian e-commerce giant",
+      "link": "https://www.aljazeera.com/news/2026/8/7/several-killed-in-attacks-on-ukraine-as-kyiv-hits-russian-e-commerce-giant?traffic_source=rss",
+      "published": "Fri, 07 Aug 2026 18:54:55 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "Inside the results: How redistricting shaped Tennessee’s primary election",
       "link": "https://www.aljazeera.com/news/2026/8/7/inside-the-results-how-redistricting-shaped-tennessees-primary-election?traffic_source=rss",
       "published": "Fri, 07 Aug 2026 18:00:05 +0000"
@@ -126,20 +140,6 @@
       "title": "Mediterranean smuggling network ‘dismantled’ in Spain-led raid, 78 arrested",
       "link": "https://www.aljazeera.com/news/2026/8/7/mediterranean-smuggling-network-dismantled-in-spain-led-raid-78-arrested?traffic_source=rss",
       "published": "Fri, 07 Aug 2026 17:07:29 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Hun Manet is refining Cambodia’s authoritarian model",
-      "link": "https://www.aljazeera.com/opinions/2026/8/7/hun-manet-is-refining-cambodias-authoritarian-model?traffic_source=rss",
-      "published": "Fri, 07 Aug 2026 16:47:33 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "War on Iran: Saudi Arabia, Turkiye and Pakistan sign defence pact",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/7/war-on-iran-saudi-arabia-turkiye-and-pakistan-sign-defence-pact?traffic_source=rss",
-      "published": "Fri, 07 Aug 2026 16:42:35 +0000"
     }
   ]
 }
