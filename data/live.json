@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T20:36:03Z",
+  "generated_at": "2026-08-07T21:19:01Z",
   "items": [
     {
       "region": "Македонија",
@@ -39,6 +39,13 @@
     {
       "region": "Македонија",
       "source": "NetPress",
+      "title": "Апелацискиот суд ја запре изградбата на балската сала во Белата куќа",
+      "link": "https://netpress.com.mk/apelacziskiot-sud-ja-zapre-izgradbata-na-balskata-sala-vo-belata-kuka/",
+      "published": "Fri, 07 Aug 2026 20:45:19 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "NetPress",
       "title": "На Табановце за влез во државата се чека околу 45 минути",
       "link": "https://netpress.com.mk/na-tabanovcze-za-vlez-vo-drzhavata-se-cheka-okolu-45-minuti/",
       "published": "Fri, 07 Aug 2026 20:30:23 +0000"
@@ -65,13 +72,6 @@
       "published": "Fri, 07 Aug 2026 19:16:39 +0000"
     },
     {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "ДР Конго повторно го забрани извозот на концентрати од бакар и кобалт",
-      "link": "https://netpress.com.mk/dr-kongo-povtorno-go-zabrani-izvozot-na-konczentrati-od-bakar-i-kobalt/",
-      "published": "Fri, 07 Aug 2026 18:48:56 +0000"
-    },
-    {
       "region": "Свет",
       "source": "BBC",
       "title": "Seven killed after Thai student opens fire at home and school",
@@ -95,16 +95,30 @@
     {
       "region": "Свет",
       "source": "BBC",
-      "title": "Meta fined $567m in largest child safety ruling against social media giant",
-      "link": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 07 Aug 2026 09:22:03 GMT"
+      "title": "Spanish police arrest 78 people in bust of 'one of largest' smuggling networks",
+      "link": "https://www.bbc.co.uk/news/articles/clylejzkkx4o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 07 Aug 2026 16:13:45 GMT"
     },
     {
       "region": "Свет",
       "source": "BBC",
-      "title": "Spanish police arrest 78 people in bust of 'one of largest' smuggling networks",
-      "link": "https://www.bbc.co.uk/news/articles/clylejzkkx4o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 07 Aug 2026 16:13:45 GMT"
+      "title": "Kidnapped rare Serbian eagle freed into wild after rescue",
+      "link": "https://www.bbc.co.uk/news/articles/cdewxgw69exo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 07 Aug 2026 20:40:56 GMT"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Ebola cases top 4,000 in DRC as WHO urges Ervebo vaccine trial",
+      "link": "https://www.aljazeera.com/news/2026/8/7/ebola-cases-top-4000-in-drc-as-who-urges-ervebo-vaccine-trial?traffic_source=rss",
+      "published": "Fri, 07 Aug 2026 20:41:46 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Can diplomacy end the conflict in Libya?",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/8/7/can-diplomacy-end-the-conflict-in-libya?traffic_source=rss",
+      "published": "Fri, 07 Aug 2026 20:39:26 +0000"
     },
     {
       "region": "Свет",
@@ -126,20 +140,6 @@
       "title": "DR Congo releases 15 prisoners to M23 rebels as part of Doha peace process",
       "link": "https://www.aljazeera.com/news/2026/8/7/dr-congo-releases-15-prisoners-to-m23-rebels-as-part-of-doha-peace-process?traffic_source=rss",
       "published": "Fri, 07 Aug 2026 19:21:01 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Several killed in attacks on Ukraine as Kyiv hits Russian e-commerce giant",
-      "link": "https://www.aljazeera.com/news/2026/8/7/several-killed-in-attacks-on-ukraine-as-kyiv-hits-russian-e-commerce-giant?traffic_source=rss",
-      "published": "Fri, 07 Aug 2026 18:54:55 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Inside the results: How redistricting shaped Tennessee’s primary election",
-      "link": "https://www.aljazeera.com/news/2026/8/7/inside-the-results-how-redistricting-shaped-tennessees-primary-election?traffic_source=rss",
-      "published": "Fri, 07 Aug 2026 18:00:05 +0000"
     }
   ]
 }
