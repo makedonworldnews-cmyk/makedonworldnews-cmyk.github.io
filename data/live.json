@@ -1,6 +1,13 @@
 {
-  "generated_at": "2026-08-08T17:00:05Z",
+  "generated_at": "2026-08-08T17:34:34Z",
   "items": [
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "Нов инцидент во Германија, дронови прелетаа над воена база",
+      "link": "https://makfax.com.mk/svet/nov-incident-vo-germanija-dronovi-preletaa-nad-voena-baza/",
+      "published": "Sat, 08 Aug 2026 17:09:28 +0000"
+    },
     {
       "region": "Македонија",
       "source": "Makfax",
@@ -31,10 +38,17 @@
     },
     {
       "region": "Македонија",
-      "source": "Makfax",
-      "title": "Гимараеш официјално е играч на Арсенал",
-      "link": "https://makfax.com.mk/sport/gimaraesh-oficijalno-e-igrach-na-arsenal/",
-      "published": "Sat, 08 Aug 2026 15:54:59 +0000"
+      "source": "NetPress",
+      "title": "Сребрен медал за Катерина Ацевска Светското првенство во џиу џицу за сениори",
+      "link": "https://netpress.com.mk/srebren-medal-za-katerina-aczevska-svetskoto-prvenstvo-vo-dhiu-dhiczu-za-seniori/",
+      "published": "Sat, 08 Aug 2026 17:30:45 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "NetPress",
+      "title": "До 18 часот 11 пожари на отворен простор, три се активни – изгаснат пожарот кај село Чифлик",
+      "link": "https://netpress.com.mk/do-18-chasot-11-pozhari-na-otvoren-prostor-tri-se-aktivni-izgasnat-pozharot-kaj-selo-chiflik/",
+      "published": "Sat, 08 Aug 2026 17:27:37 +0000"
     },
     {
       "region": "Македонија",
@@ -53,23 +67,9 @@
     {
       "region": "Македонија",
       "source": "NetPress",
-      "title": "Вучиќ и Зеленски на патот кон ЕУ, воена соработка не беше спомената",
-      "link": "https://netpress.com.mk/vuchik-i-zelenski-na-patot-kon-eu-voena-sorabotka-ne-beshe-spomenata/",
+      "title": "Вучиќ и Зеленски за патот кон ЕУ, воена соработка не беше спомената",
+      "link": "https://netpress.com.mk/vuchik-i-zelenski-za-patot-kon-eu-voena-sorabotka-ne-beshe-spomenata/",
       "published": "Sat, 08 Aug 2026 15:39:42 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Прилеп одбележа 25 години од Карпалак – нивната жртва е темел на нашата одговорност",
-      "link": "https://netpress.com.mk/prilep-odbelezha-25-godini-od-karpalak-nivnata-zhrtva-e-temel-na-nashata-odgovornost/",
-      "published": "Sat, 08 Aug 2026 15:37:27 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Голем протест против масовниот туризам во Мајорка",
-      "link": "https://netpress.com.mk/golem-protest-protiv-masovniot-turizam-vo-majorka/",
-      "published": "Sat, 08 Aug 2026 15:31:23 +0000"
     },
     {
       "region": "Свет",
@@ -104,7 +104,21 @@
       "source": "BBC",
       "title": "Madonna pays tribute to 'genius, otherworldly' producer William Orbit",
       "link": "https://www.bbc.co.uk/news/articles/cewr8wel4z8o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 08 Aug 2026 15:44:08 GMT"
+      "published": "Sat, 08 Aug 2026 17:23:31 GMT"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "British Columbia issues evacuation orders ahead of fast-moving wildfires",
+      "link": "https://www.aljazeera.com/news/2026/8/8/british-columbia-issues-evacuation-orders-ahead-of-fast-moving-wildfires?traffic_source=rss",
+      "published": "Sat, 08 Aug 2026 17:14:09 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Serbia and Ukraine pledge closer economic ties, eye free trade deal",
+      "link": "https://www.aljazeera.com/news/2026/8/8/serbia-and-ukraine-pledge-closer-economic-ties-eye-free-trade-deal?traffic_source=rss",
+      "published": "Sat, 08 Aug 2026 17:05:17 +0000"
     },
     {
       "region": "Свет",
@@ -126,20 +140,6 @@
       "title": "Opposition MP hurls eggs at Kosovo Prime Minister",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/opposition-mp-hurls-eggs-at-kosovo-prime-minister?traffic_source=rss",
       "published": "Sat, 08 Aug 2026 16:09:06 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "UNRWA has been with me since birth, I cannot imagine a future without it",
-      "link": "https://www.aljazeera.com/features/2026/8/8/unrwa-has-been-with-me-since-birth-i-cannot-imagine-a-future-without-it?traffic_source=rss",
-      "published": "Sat, 08 Aug 2026 15:52:49 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Lebanon ‘detains’ former al-Assad-era general, weighs handing him to Syria",
-      "link": "https://www.aljazeera.com/news/2026/8/8/lebanon-detains-former-al-assad-era-general-weighs-handing-him-to-syria?traffic_source=rss",
-      "published": "Sat, 08 Aug 2026 15:42:03 +0000"
     }
   ]
 }
