@@ -1,6 +1,13 @@
 {
-  "generated_at": "2026-08-08T11:37:27Z",
+  "generated_at": "2026-08-08T11:58:43Z",
   "items": [
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "(Видео) СДСМ бара мораториум за нови комерцијални дата центри, ВМРО-ДПМНЕ возвраќа дека Националниот дата центар е во корист на граѓаните",
+      "link": "https://makfax.com.mk/makedonija/video-sdsm-bara-moratorium-za-novi-komercijalni-data-centri-vmro-dpmne-vozvraka-deka-nacionalniot-data-centar-e-vo-korist-na-graganite/",
+      "published": "Sat, 08 Aug 2026 11:57:09 +0000"
+    },
     {
       "region": "Македонија",
       "source": "Makfax",
@@ -28,13 +35,6 @@
       "title": "Вучиќ и Зеленски во Белград: Србија го поддржува територијалниот интегритет на Украина",
       "link": "https://makfax.com.mk/svet/region/vuchik-i-zelenski-vo-belgrad-srbija-go-poddrzhuva-teritorijalniot-integritet-na-ukraina/",
       "published": "Sat, 08 Aug 2026 11:18:21 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "Makfax",
-      "title": "Арсенал го насочи вниманието кон Кенан Јилдиз",
-      "link": "https://makfax.com.mk/sport/arsenal-go-nasochi-vnimanieto-kon-kenan-jildiz/",
-      "published": "Sat, 08 Aug 2026 10:55:58 +0000"
     },
     {
       "region": "Македонија",
@@ -109,6 +109,20 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "The post-American Middle East is beginning to take shape",
+      "link": "https://www.aljazeera.com/opinions/2026/8/8/the-post-american-middle-east-is-beginning-to-take-shape?traffic_source=rss",
+      "published": "Sat, 08 Aug 2026 11:34:38 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Families retrieve bodies after deadly shooting rampage outside Bangkok",
+      "link": "https://www.aljazeera.com/news/2026/8/8/families-retrieve-bodies-after-deadly-shooting-rampage-outside-bangkok?traffic_source=rss",
+      "published": "Sat, 08 Aug 2026 11:31:57 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "Woman screams for her man as Ukraine war recruiters pounce",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/woman-screams-for-her-man-as-ukraine-war-recruiters-pounce?traffic_source=rss",
       "published": "Sat, 08 Aug 2026 11:29:44 +0000"
@@ -126,20 +140,6 @@
       "title": "How Israel’s occupation fuels resistance",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/how-israels-occupation-fuels-resistance?traffic_source=rss",
       "published": "Sat, 08 Aug 2026 10:40:11 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Trump’s former personal lawyer narrowly confirmed as US attorney general",
-      "link": "https://www.aljazeera.com/news/2026/8/8/trumps-former-personal-lawyer-narrowly-confirmed-as-us-attorney-general?traffic_source=rss",
-      "published": "Sat, 08 Aug 2026 10:36:10 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Fiji rugby player dies in Japan of suspected heatstroke as high of 35C hit",
-      "link": "https://www.aljazeera.com/sports/2026/8/8/fiji-rugby-player-dies-in-japan-of-suspected-heatstroke-as-high-of-35c-hit?traffic_source=rss",
-      "published": "Sat, 08 Aug 2026 10:13:30 +0000"
     }
   ]
 }
