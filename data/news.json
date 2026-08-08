@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T18:16:13Z",
+  "updatedAt": "2026-08-08T19:03:14Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,24 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Пет животни лекции што повеќето луѓе ги учат предоцна",
+          "link": "https://makfax.com.mk/zanimlivosti/pet-zhivotni-lekcii-shto-poveketo-luge-gi-uchat-predocna/",
+          "published": "Sat, 08 Aug 2026 18:45:10 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Протести на Мајорка против масовниот туризам",
+          "link": "https://makfax.com.mk/svet/protesti-na-majorka-protiv-masovniot-turizam/",
+          "published": "Sat, 08 Aug 2026 18:40:03 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Девет необични симптоми на бременоста за кои можеби не сте знаеле",
+          "link": "https://makfax.com.mk/zanimlivosti/devet-neobichni-simptomi-na-bremenosta-za-koi-mozhebi-ne-ste-znaele/",
+          "published": "Sat, 08 Aug 2026 18:19:37 +0000"
         },
         {
           "source": "Makfax",
@@ -23,22 +41,22 @@
           "published": "Sat, 08 Aug 2026 17:35:10 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Нов инцидент во Германија, дронови прелетаа над воена база",
-          "link": "https://makfax.com.mk/svet/nov-incident-vo-germanija-dronovi-preletaa-nad-voena-baza/",
-          "published": "Sat, 08 Aug 2026 17:09:28 +0000"
+          "source": "NetPress",
+          "title": "Алмада стана најскапиот играч во аргентинската лига",
+          "link": "https://netpress.com.mk/almada-stana-najskapiot-igrach-vo-argentinskata-liga/",
+          "published": "Sat, 08 Aug 2026 18:58:37 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "(Фото) Стотици луѓе се собраа пред катедрала затоа што мислеа дека Роналдо се жени, неговата сестра се огласи",
-          "link": "https://makfax.com.mk/zanimlivosti/foto-stotici-luge-se-sobraa-pred-katedrala-zatoa-shto-mislea-deka-ronaldo-se-zheni-negovata-sestra-se-oglasi/",
-          "published": "Sat, 08 Aug 2026 16:27:38 +0000"
+          "source": "NetPress",
+          "title": "Џеј Ди Венс: Иран вети непречен проток на нафта низ Ормуската теснина",
+          "link": "https://netpress.com.mk/dhej-di-vens-iran-veti-neprechen-protok-na-nafta-niz-ormuskata-tesnina/",
+          "published": "Sat, 08 Aug 2026 18:49:34 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Алмада пристигна во Ривер Плата",
-          "link": "https://makfax.com.mk/sport/almada-pristigna-vo-river-plata/",
-          "published": "Sat, 08 Aug 2026 16:20:57 +0000"
+          "source": "NetPress",
+          "title": "Софија ја повика украинскaтa амбасадорка по падот на дронот во Бугарија",
+          "link": "https://netpress.com.mk/sofija-ja-povika-ukrainskata-ambasadorka-po-padot-na-dronot-vo-bugarija/",
+          "published": "Sat, 08 Aug 2026 18:40:40 +0000"
         },
         {
           "source": "NetPress",
@@ -51,24 +69,6 @@
           "title": "Над 178.000 мигранти ја напуштија Јужна Африка во последните неколку месеци",
           "link": "https://netpress.com.mk/nad-178-000-migranti-ja-napushtija-juzhna-afrika-vo-poslednite-nekolku-meseczi/",
           "published": "Sat, 08 Aug 2026 17:42:36 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Сребрен медал за Катерина Ацевска Светското првенство во џиу џицу за сениори",
-          "link": "https://netpress.com.mk/srebren-medal-za-katerina-aczevska-svetskoto-prvenstvo-vo-dhiu-dhiczu-za-seniori/",
-          "published": "Sat, 08 Aug 2026 17:30:45 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "До 18 часот 11 пожари на отворен простор, три се активни – изгаснат пожарот кај село Чифлик",
-          "link": "https://netpress.com.mk/do-18-chasot-11-pozhari-na-otvoren-prostor-tri-se-aktivni-izgasnat-pozharot-kaj-selo-chiflik/",
-          "published": "Sat, 08 Aug 2026 17:27:37 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "ВИДЕО| Илјадници демонстрираа против германскиот канцелар Мерц",
-          "link": "https://netpress.com.mk/video-iljadniczi-demonstriraa-protiv-germanskiot-kanczelar-mercz/",
-          "published": "Sat, 08 Aug 2026 16:27:11 +0000"
         }
       ]
     },
@@ -107,6 +107,12 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Yemen’s government forces attack Houthis amid renewed shelling of Marib",
+          "link": "https://www.aljazeera.com/news/2026/8/8/yemens-government-forces-attack-houthis-amid-renewed-shelling-of-marib?traffic_source=rss",
+          "published": "Sat, 08 Aug 2026 18:43:20 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "The influencers taking on far-right leader Nigel Farage",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/the-influencers-taking-on-far-right-leader-nigel-farage?traffic_source=rss",
           "published": "Sat, 08 Aug 2026 18:05:44 +0000"
@@ -128,12 +134,6 @@
           "title": "Serbia and Ukraine pledge closer economic ties, eye free trade deal",
           "link": "https://www.aljazeera.com/news/2026/8/8/serbia-and-ukraine-pledge-closer-economic-ties-eye-free-trade-deal?traffic_source=rss",
           "published": "Sat, 08 Aug 2026 17:05:17 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Saudi-Pakistan-Turkiye pact: A new shield or strategic signal?",
-          "link": "https://www.aljazeera.com/news/2026/8/8/saudi-pakistan-turkiye-pact-a-new-shield-or-strategic-signal?traffic_source=rss",
-          "published": "Sat, 08 Aug 2026 16:52:11 +0000"
         }
       ]
     }
