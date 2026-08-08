@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T14:18:36Z",
+  "updatedAt": "2026-08-08T14:53:30Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Иран постави шест услови за САД за да го отворат Ормутскиот теснец",
+          "link": "https://makfax.com.mk/svet/iran-postavi-shest-uslovi-za-sad-za-da-go-otvorat-ormutskiot-tesnec/",
+          "published": "Sat, 08 Aug 2026 14:46:51 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Србија ќе отвори фабрика за дронови, најави Вучиќ",
+          "link": "https://makfax.com.mk/svet/region/srbija-ke-otvori-fabrika-za-dronovi-najavi-vuchik/",
+          "published": "Sat, 08 Aug 2026 14:22:09 +0000"
         },
         {
           "source": "Makfax",
@@ -29,46 +41,34 @@
           "published": "Sat, 08 Aug 2026 13:26:15 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Филипче: Карпалак не смее да биде само датум во календарот",
-          "link": "https://makfax.com.mk/makedonija/filipche-karpalak-ne-smee-da-bide-samo-datum-vo-kalendarot/",
-          "published": "Sat, 08 Aug 2026 13:19:23 +0000"
+          "source": "NetPress",
+          "title": "Со владиниот авион успешно е транспортиран во Скопје пациент повреден на одмор во Турција",
+          "link": "https://netpress.com.mk/so-vladiniot-avion-uspeshno-e-transportiran-vo-skopje-paczient-povreden-na-odmor-vo-turczija/",
+          "published": "Sat, 08 Aug 2026 14:47:35 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Мицкоски: Карпалак е наша заедничка рана, но и наша обврска да паметиме",
-          "link": "https://makfax.com.mk/makedonija/mickoski-karpalak-e-nasha-zaednichka-rana-no-i-nasha-obvrska-da-pametime/",
-          "published": "Sat, 08 Aug 2026 13:16:56 +0000"
+          "source": "NetPress",
+          "title": "Тројца тинејџери повредени по судир на два мопеди во Ченто",
+          "link": "https://netpress.com.mk/trojcza-tinejdheri-povredeni-po-sudir-na-dva-mopedi-vo-chento/",
+          "published": "Sat, 08 Aug 2026 14:43:44 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Над 200 луѓе евакуирани поради голем шумски пожар во близина на езерото Гарда во северна Италија",
+          "link": "https://netpress.com.mk/nad-200-luge-evakuirani-poradi-golem-shumski-pozhar-vo-blizina-na-ezeroto-garda-vo-severna-italija/",
+          "published": "Sat, 08 Aug 2026 14:41:18 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Татјана Бошков е нова претседателка на Надзорниот одбор на М-НАВ",
+          "link": "https://netpress.com.mk/tatjana-boshkov-e-nova-pretsedatelka-na-nadzorniot-odbor-na-m-nav/",
+          "published": "Sat, 08 Aug 2026 14:38:09 +0000"
         },
         {
           "source": "NetPress",
           "title": "При масовниот влез во Сеута и во Малиља загинаа над 140 луѓе",
           "link": "https://netpress.com.mk/pri-masovniot-vlez-vo-seuta-i-vo-malila-zaginaa-nad-140-luge/",
           "published": "Sat, 08 Aug 2026 13:55:38 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Експлодира дрон натоварен со експлозив близу гасовод во Бугарија",
-          "link": "https://netpress.com.mk/eksplodira-dron-natovaren-so-eksploziv-blizu-gasovod-vo-bugarija/",
-          "published": "Sat, 08 Aug 2026 13:43:05 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "ВИДЕО| Се судрија два воза во Хрватска, има повредени",
-          "link": "https://netpress.com.mk/video-se-sudrija-dva-voza-vo-hrvatska-ima-povredeni/",
-          "published": "Sat, 08 Aug 2026 13:35:21 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Две лица се упасени за подметнување пожари во Македонски Брод и во Долнени",
-          "link": "https://netpress.com.mk/dve-licza-se-upaseni-za-podmetnuvane-pozhari-vo-makedonski-brod-i-vo-dolneni/",
-          "published": "Sat, 08 Aug 2026 13:20:08 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Мицкоски за Карпалак: 8 aвгуст е ден кога Македонија се сеќава на своите загинати синови",
-          "link": "https://netpress.com.mk/miczkoski-za-karpalak-8-avgust-e-den-koga-makedonija-se-sekava-na-svoite-zaginati-sinovi/",
-          "published": "Sat, 08 Aug 2026 13:09:31 +0000"
         }
       ]
     },
@@ -89,6 +89,12 @@
         },
         {
           "source": "BBC",
+          "title": "US gifts $1bn to Colombia on new right-wing president's first day of office",
+          "link": "https://www.bbc.co.uk/news/articles/cy9wy3y0e5wo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 08 Aug 2026 13:49:09 GMT"
+        },
+        {
+          "source": "BBC",
           "title": "The phone book that led us to Assad's spy chief in hiding",
           "link": "https://www.bbc.co.uk/news/articles/c4gyrzn8p94o?at_medium=RSS&at_campaign=rss",
           "published": "Fri, 07 Aug 2026 23:23:12 GMT"
@@ -97,43 +103,37 @@
           "source": "BBC",
           "title": "Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies",
           "link": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss",
-          "published": "Fri, 07 Aug 2026 22:13:55 GMT"
+          "published": "Sat, 08 Aug 2026 14:25:19 GMT"
         },
         {
-          "source": "BBC",
-          "title": "US gifts $1bn to Colombia on new right-wing president's first day of office",
-          "link": "https://www.bbc.co.uk/news/articles/cy9wy3y0e5wo?at_medium=RSS&at_campaign=rss",
-          "published": "Sat, 08 Aug 2026 13:49:09 GMT"
+          "source": "Al Jazeera",
+          "title": "Lionel Messi’s father dies aged 68 after a long illness",
+          "link": "https://www.aljazeera.com/sports/2026/8/8/lionel-messis-father-dies-aged-68-after-a-long-illness?traffic_source=rss",
+          "published": "Sat, 08 Aug 2026 14:25:38 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "War on Iran: Phase II: Day 28",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/war-on-iran-phase-ii-day-28?traffic_source=rss",
+          "published": "Sat, 08 Aug 2026 14:09:02 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "FIFA President Gianni Infantino denies claims UEFA paid off alleged lover",
+          "link": "https://www.aljazeera.com/sports/2026/8/8/fifa-president-gianni-infantino-denies-claims-uefa-paid-off-alleged-lover?traffic_source=rss",
+          "published": "Sat, 08 Aug 2026 13:59:21 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Iran deliberates Hormuz arrangement amid uncertain prospects with US",
+          "link": "https://www.aljazeera.com/news/2026/8/8/iran-deliberates-hormuz-arrangement-amid-uncertain-prospects-with-us?traffic_source=rss",
+          "published": "Sat, 08 Aug 2026 13:52:40 +0000"
         },
         {
           "source": "Al Jazeera",
           "title": "Netanyahu mulls Saudi, Turkiye, Pakistan pact as Israeli elections loom",
           "link": "https://www.aljazeera.com/news/2026/8/8/netanyahu-mulls-saudi-turkiye-pakistan-pact-as-israeli-elections-loom?traffic_source=rss",
           "published": "Sat, 08 Aug 2026 13:42:06 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Ivory Coast’s ‘talking drum’ returns to home village after 110 years",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/ivory-coasts-talking-drum-returns-to-home-village-after-110-years?traffic_source=rss",
-          "published": "Sat, 08 Aug 2026 12:52:04 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Drones spotted in Bulgaria and Germany raise concerns of Russian escalation",
-          "link": "https://www.aljazeera.com/news/2026/8/8/drones-spotted-in-bulgaria-and-germany-raise-concerns-of-russian-escalation?traffic_source=rss",
-          "published": "Sat, 08 Aug 2026 12:30:52 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Police bodycam and CCTV catches Idaho mall shooting as it unfolds",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/police-bodycam-and-cctv-catches-idaho-mall-shooting-as-it-unfolds?traffic_source=rss",
-          "published": "Sat, 08 Aug 2026 12:07:23 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Atletico Madrid will not sell Alvarez amid Barcelona interest, says Simeone",
-          "link": "https://www.aljazeera.com/sports/2026/8/8/atletico-madrid-will-not-sell-alvarez-amid-barcelona-interest-says-simeone?traffic_source=rss",
-          "published": "Sat, 08 Aug 2026 12:01:17 +0000"
         }
       ]
     }
