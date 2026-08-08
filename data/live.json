@@ -1,6 +1,13 @@
 {
-  "generated_at": "2026-08-08T16:21:45Z",
+  "generated_at": "2026-08-08T17:00:05Z",
   "items": [
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "(Фото) Стотици луѓе се собраа пред катедрала затоа што мислеа дека Роналдо се жени, неговата сестра се огласи",
+      "link": "https://makfax.com.mk/zanimlivosti/foto-stotici-luge-se-sobraa-pred-katedrala-zatoa-shto-mislea-deka-ronaldo-se-zheni-negovata-sestra-se-oglasi/",
+      "published": "Sat, 08 Aug 2026 16:27:38 +0000"
+    },
     {
       "region": "Македонија",
       "source": "Makfax",
@@ -31,10 +38,10 @@
     },
     {
       "region": "Македонија",
-      "source": "Makfax",
-      "title": "Доминантна победа на Мартин во спритнт трката во Велика Британија",
-      "link": "https://makfax.com.mk/sport/dominantna-pobeda-na-martin-vo-spritnt-trkata-vo-velika-britanija/",
-      "published": "Sat, 08 Aug 2026 15:46:58 +0000"
+      "source": "NetPress",
+      "title": "ВИДЕО| Илјадници демонстрираа против германскиот канцелар Мерц",
+      "link": "https://netpress.com.mk/video-iljadniczi-demonstriraa-protiv-germanskiot-kanczelar-mercz/",
+      "published": "Sat, 08 Aug 2026 16:27:11 +0000"
     },
     {
       "region": "Македонија",
@@ -65,13 +72,6 @@
       "published": "Sat, 08 Aug 2026 15:31:23 +0000"
     },
     {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Во недела од Охрид почнува музичкиот караван по повод 35 години од независноста на Македонија!",
-      "link": "https://netpress.com.mk/1097977-2/",
-      "published": "Sat, 08 Aug 2026 15:23:01 +0000"
-    },
-    {
       "region": "Свет",
       "source": "BBC",
       "title": "Trump's ex-lawyer Todd Blanche narrowly confirmed as US attorney general",
@@ -81,23 +81,16 @@
     {
       "region": "Свет",
       "source": "BBC",
-      "title": "Child among three killed in Russian missile attacks near Kyiv",
-      "link": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 08 Aug 2026 15:49:41 GMT"
-    },
-    {
-      "region": "Свет",
-      "source": "BBC",
       "title": "US offers $1bn to Colombia on new right-wing president's first day of office",
       "link": "https://www.bbc.co.uk/news/articles/cy9wy3y0e5wo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 08 Aug 2026 16:19:29 GMT"
+      "published": "Sat, 08 Aug 2026 16:34:18 GMT"
     },
     {
       "region": "Свет",
       "source": "BBC",
-      "title": "The phone book that led us to Assad's spy chief in hiding",
-      "link": "https://www.bbc.co.uk/news/articles/c4gyrzn8p94o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 07 Aug 2026 23:23:12 GMT"
+      "title": "Messi's father Jorge dies aged 68 after illness",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c70gn3w5ek5o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 08 Aug 2026 15:51:11 GMT"
     },
     {
       "region": "Свет",
@@ -105,6 +98,34 @@
       "title": "Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies",
       "link": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 08 Aug 2026 14:25:19 GMT"
+    },
+    {
+      "region": "Свет",
+      "source": "BBC",
+      "title": "Madonna pays tribute to 'genius, otherworldly' producer William Orbit",
+      "link": "https://www.bbc.co.uk/news/articles/cewr8wel4z8o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 08 Aug 2026 15:44:08 GMT"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Saudi-Pakistan-Turkiye pact: A new shield or strategic signal?",
+      "link": "https://www.aljazeera.com/news/2026/8/8/saudi-pakistan-turkiye-pact-a-new-shield-or-strategic-signal?traffic_source=rss",
+      "published": "Sat, 08 Aug 2026 16:52:11 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Which stars need to shine this season: Real Madrid, Barcelona, Man Utd, PSG",
+      "link": "https://www.aljazeera.com/sports/2026/8/8/which-stars-need-to-shine-this-season-real-madrid-barcelona-man-utd-psg?traffic_source=rss",
+      "published": "Sat, 08 Aug 2026 16:26:36 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Opposition MP hurls eggs at Kosovo Prime Minister",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/opposition-mp-hurls-eggs-at-kosovo-prime-minister?traffic_source=rss",
+      "published": "Sat, 08 Aug 2026 16:09:06 +0000"
     },
     {
       "region": "Свет",
@@ -119,27 +140,6 @@
       "title": "Lebanon ‘detains’ former al-Assad-era general, weighs handing him to Syria",
       "link": "https://www.aljazeera.com/news/2026/8/8/lebanon-detains-former-al-assad-era-general-weighs-handing-him-to-syria?traffic_source=rss",
       "published": "Sat, 08 Aug 2026 15:42:03 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "UAE says Iran targeted ADNOC tanker in Strait of Hormuz, no casualties",
-      "link": "https://www.aljazeera.com/news/2026/8/8/uae-says-iran-targeted-adnoc-tanker-in-hormuz-no-casualties-2?traffic_source=rss",
-      "published": "Sat, 08 Aug 2026 15:01:29 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Iraq’s Kurdish region wants to stay out of regional conflicts: PM Barzani",
-      "link": "https://www.aljazeera.com/news/2026/8/8/iraqs-kurdish-region-wants-to-stay-out-of-regional-conflicts-pm-barzani?traffic_source=rss",
-      "published": "Sat, 08 Aug 2026 14:58:42 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Lionel Messi’s father dies aged 68 after a long illness",
-      "link": "https://www.aljazeera.com/sports/2026/8/8/lionel-messis-father-dies-aged-68-after-a-long-illness?traffic_source=rss",
-      "published": "Sat, 08 Aug 2026 14:25:38 +0000"
     }
   ]
 }
