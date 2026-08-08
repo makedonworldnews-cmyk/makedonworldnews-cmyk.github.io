@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T17:49:23Z",
+  "updatedAt": "2026-08-08T18:16:13Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Ако облеката мириса непријатно веднаш по перењето, исчистете го овој дел од машината",
+          "link": "https://makfax.com.mk/zanimlivosti/ako-oblekata-mirisa-neprijatno-vednash-po-perenjeto-ischistete-go-ovoj-del-od-mashinata/",
+          "published": "Sat, 08 Aug 2026 18:00:09 +0000"
         },
         {
           "source": "Makfax",
@@ -35,10 +41,10 @@
           "published": "Sat, 08 Aug 2026 16:20:57 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Утре сончево и многу топло време со температура до 39 степени",
-          "link": "https://makfax.com.mk/makedonija/utre-sonchevo-i-mnogu-toplo-vreme-so-temperatura-do-39-stepeni/",
-          "published": "Sat, 08 Aug 2026 16:16:32 +0000"
+          "source": "NetPress",
+          "title": "Бујар Османи „ноќе те убива, дење те оплакува“ – со ДУИ влијаат кој да се најде на „црната листа“ на Рама",
+          "link": "https://netpress.com.mk/bujar-osmani-noke-te-ubiva-dene-te-oplakuva-so-dui-vlijaat-koj-da-se-najde-na-czrnata-lista-na-rama/",
+          "published": "Sat, 08 Aug 2026 17:50:21 +0000"
         },
         {
           "source": "NetPress",
@@ -63,12 +69,6 @@
           "title": "ВИДЕО| Илјадници демонстрираа против германскиот канцелар Мерц",
           "link": "https://netpress.com.mk/video-iljadniczi-demonstriraa-protiv-germanskiot-kanczelar-mercz/",
           "published": "Sat, 08 Aug 2026 16:27:11 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "МЗ: Со институционална акција успешно транспортиран пациент со сериозна повреда од Турција",
-          "link": "https://netpress.com.mk/mz-so-instituczionalna-akczija-uspeshno-transportiran-paczient-so-seriozna-povreda-od-turczija/",
-          "published": "Sat, 08 Aug 2026 15:41:25 +0000"
         }
       ]
     },
@@ -85,7 +85,7 @@
           "source": "BBC",
           "title": "US offers $1bn to Colombia on new right-wing president's first day of office",
           "link": "https://www.bbc.co.uk/news/articles/cy9wy3y0e5wo?at_medium=RSS&at_campaign=rss",
-          "published": "Sat, 08 Aug 2026 16:34:18 GMT"
+          "published": "Sat, 08 Aug 2026 17:58:42 GMT"
         },
         {
           "source": "BBC",
@@ -104,6 +104,12 @@
           "title": "Madonna pays tribute to 'genius, otherworldly' producer William Orbit",
           "link": "https://www.bbc.co.uk/news/articles/cewr8wel4z8o?at_medium=RSS&at_campaign=rss",
           "published": "Sat, 08 Aug 2026 17:23:31 GMT"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "The influencers taking on far-right leader Nigel Farage",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/the-influencers-taking-on-far-right-leader-nigel-farage?traffic_source=rss",
+          "published": "Sat, 08 Aug 2026 18:05:44 +0000"
         },
         {
           "source": "Al Jazeera",
@@ -128,12 +134,6 @@
           "title": "Saudi-Pakistan-Turkiye pact: A new shield or strategic signal?",
           "link": "https://www.aljazeera.com/news/2026/8/8/saudi-pakistan-turkiye-pact-a-new-shield-or-strategic-signal?traffic_source=rss",
           "published": "Sat, 08 Aug 2026 16:52:11 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Which stars need to shine this season: Real Madrid, Barcelona, Man Utd, PSG",
-          "link": "https://www.aljazeera.com/sports/2026/8/8/which-stars-need-to-shine-this-season-real-madrid-barcelona-man-utd-psg?traffic_source=rss",
-          "published": "Sat, 08 Aug 2026 16:26:36 +0000"
         }
       ]
     }
