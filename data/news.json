@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T17:14:42Z",
+  "updatedAt": "2026-08-08T17:49:23Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Често се будите уморни: Овие навики може да бидат причина зошто немате доволно енергија",
+          "link": "https://makfax.com.mk/zanimlivosti/chesto-se-budite-umorni-ovie-naviki-mozhe-da-bidat-prichina-zoshto-nemate-dovolno-energija/",
+          "published": "Sat, 08 Aug 2026 17:35:10 +0000"
         },
         {
           "source": "Makfax",
@@ -35,10 +41,22 @@
           "published": "Sat, 08 Aug 2026 16:16:32 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Македонецот кој се здоби со тешка повреда на ’рбетниот мозок при пад од тобоган во Кушадаси безбедно е пренесен во Скопје",
-          "link": "https://makfax.com.mk/makedonija/makedonecot-koj-se-zdobi-so-teshka-povreda-na-rbetniot-mozok-pri-pad-od-tobogan-vo-kushadasi-bezbedno-e-prenesen-vo-skopje/",
-          "published": "Sat, 08 Aug 2026 16:11:50 +0000"
+          "source": "NetPress",
+          "title": "Над 178.000 мигранти ја напуштија Јужна Африка во последните неколку месеци",
+          "link": "https://netpress.com.mk/nad-178-000-migranti-ja-napushtija-juzhna-afrika-vo-poslednite-nekolku-meseczi/",
+          "published": "Sat, 08 Aug 2026 17:42:36 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Сребрен медал за Катерина Ацевска Светското првенство во џиу џицу за сениори",
+          "link": "https://netpress.com.mk/srebren-medal-za-katerina-aczevska-svetskoto-prvenstvo-vo-dhiu-dhiczu-za-seniori/",
+          "published": "Sat, 08 Aug 2026 17:30:45 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "До 18 часот 11 пожари на отворен простор, три се активни – изгаснат пожарот кај село Чифлик",
+          "link": "https://netpress.com.mk/do-18-chasot-11-pozhari-na-otvoren-prostor-tri-se-aktivni-izgasnat-pozharot-kaj-selo-chiflik/",
+          "published": "Sat, 08 Aug 2026 17:27:37 +0000"
         },
         {
           "source": "NetPress",
@@ -51,24 +69,6 @@
           "title": "МЗ: Со институционална акција успешно транспортиран пациент со сериозна повреда од Турција",
           "link": "https://netpress.com.mk/mz-so-instituczionalna-akczija-uspeshno-transportiran-paczient-so-seriozna-povreda-od-turczija/",
           "published": "Sat, 08 Aug 2026 15:41:25 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Вучиќ и Зеленски за патот кон ЕУ, воена соработка не беше спомената",
-          "link": "https://netpress.com.mk/vuchik-i-zelenski-za-patot-kon-eu-voena-sorabotka-ne-beshe-spomenata/",
-          "published": "Sat, 08 Aug 2026 15:39:42 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Прилеп одбележа 25 години од Карпалак – нивната жртва е темел на нашата одговорност",
-          "link": "https://netpress.com.mk/prilep-odbelezha-25-godini-od-karpalak-nivnata-zhrtva-e-temel-na-nashata-odgovornost/",
-          "published": "Sat, 08 Aug 2026 15:37:27 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Голем протест против масовниот туризам во Мајорка",
-          "link": "https://netpress.com.mk/golem-protest-protiv-masovniot-turizam-vo-majorka/",
-          "published": "Sat, 08 Aug 2026 15:31:23 +0000"
         }
       ]
     },
@@ -103,37 +103,37 @@
           "source": "BBC",
           "title": "Madonna pays tribute to 'genius, otherworldly' producer William Orbit",
           "link": "https://www.bbc.co.uk/news/articles/cewr8wel4z8o?at_medium=RSS&at_campaign=rss",
-          "published": "Sat, 08 Aug 2026 15:44:08 GMT"
+          "published": "Sat, 08 Aug 2026 17:23:31 GMT"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Gaza health chief urges action to ‘save’ Dr Abu Safia before it’s too late",
+          "link": "https://www.aljazeera.com/news/2026/8/8/gaza-health-chief-urges-action-to-save-dr-abu-safia-before-its-too-late?traffic_source=rss",
+          "published": "Sat, 08 Aug 2026 17:26:59 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "British Columbia issues evacuation orders ahead of fast-moving wildfires",
+          "link": "https://www.aljazeera.com/news/2026/8/8/british-columbia-issues-evacuation-orders-ahead-of-fast-moving-wildfires?traffic_source=rss",
+          "published": "Sat, 08 Aug 2026 17:14:09 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Serbia and Ukraine pledge closer economic ties, eye free trade deal",
+          "link": "https://www.aljazeera.com/news/2026/8/8/serbia-and-ukraine-pledge-closer-economic-ties-eye-free-trade-deal?traffic_source=rss",
+          "published": "Sat, 08 Aug 2026 17:05:17 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Saudi-Pakistan-Turkiye pact: A new shield or strategic signal?",
+          "link": "https://www.aljazeera.com/news/2026/8/8/saudi-pakistan-turkiye-pact-a-new-shield-or-strategic-signal?traffic_source=rss",
+          "published": "Sat, 08 Aug 2026 16:52:11 +0000"
         },
         {
           "source": "Al Jazeera",
           "title": "Which stars need to shine this season: Real Madrid, Barcelona, Man Utd, PSG",
           "link": "https://www.aljazeera.com/sports/2026/8/8/which-stars-need-to-shine-this-season-real-madrid-barcelona-man-utd-psg?traffic_source=rss",
           "published": "Sat, 08 Aug 2026 16:26:36 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Opposition MP hurls eggs at Kosovo Prime Minister",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/opposition-mp-hurls-eggs-at-kosovo-prime-minister?traffic_source=rss",
-          "published": "Sat, 08 Aug 2026 16:09:06 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "UNRWA has been with me since birth, I cannot imagine a future without it",
-          "link": "https://www.aljazeera.com/features/2026/8/8/unrwa-has-been-with-me-since-birth-i-cannot-imagine-a-future-without-it?traffic_source=rss",
-          "published": "Sat, 08 Aug 2026 15:52:49 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Lebanon ‘detains’ former al-Assad-era general, weighs handing him to Syria",
-          "link": "https://www.aljazeera.com/news/2026/8/8/lebanon-detains-former-al-assad-era-general-weighs-handing-him-to-syria?traffic_source=rss",
-          "published": "Sat, 08 Aug 2026 15:42:03 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "UAE says Iran targeted ADNOC tanker in Strait of Hormuz, no casualties",
-          "link": "https://www.aljazeera.com/news/2026/8/8/uae-says-iran-targeted-adnoc-tanker-in-hormuz-no-casualties-2?traffic_source=rss",
-          "published": "Sat, 08 Aug 2026 15:01:29 +0000"
         }
       ]
     }
