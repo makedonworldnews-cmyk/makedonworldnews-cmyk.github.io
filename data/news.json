@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T08:57:46Z",
+  "updatedAt": "2026-08-08T09:45:36Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) Тајфун со удари на ветрот до 216 километри на час ја погоди Јапонија, Кина се подготвува за невремето",
+          "link": "https://makfax.com.mk/svet/video-tajfun-so-udari-na-vetrot-do-216-kilometri-na-chas-ja-pogodi-japonija-kina-se-podgotvuva-za-nevremeto/",
+          "published": "Sat, 08 Aug 2026 09:12:50 +0000"
         },
         {
           "source": "Makfax",
@@ -35,40 +41,34 @@
           "published": "Sat, 08 Aug 2026 07:39:15 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Ако сте родени на овие датуми, според нумерологијата ве следи посебна среќа",
-          "link": "https://makfax.com.mk/zanimlivosti/ako-ste-rodeni-na-ovie-datumi-spored-numerologijata-ve-sledi-posebna-sreka/",
-          "published": "Sat, 08 Aug 2026 07:34:24 +0000"
+          "source": "NetPress",
+          "title": "Уапсено лицето кое вчевера учестуваше во сообрќајка во која загина 19-годишно момче",
+          "link": "https://netpress.com.mk/uapseno-liczeto-koe-vchevera-uchestuvashe-vo-soobrkajkata-vo-koja-zagina-19-godishno-momche/",
+          "published": "Sat, 08 Aug 2026 09:38:21 +0000"
         },
         {
           "source": "NetPress",
-          "title": "ВИДЕО| Загинаа три лица, меѓу кои е едно дете, во напад на руски дронови врз регионот на Киев",
-          "link": "https://netpress.com.mk/video-zaginaa-tri-licza-megu-koi-e-edno-dete-vo-napad-na-ruski-dronovi-vrz-regionot-na-kiev/",
-          "published": "Sat, 08 Aug 2026 08:17:17 +0000"
+          "title": "Пентагон предвремено го повлече командантот кој ја надгледуваше помошта за Украина",
+          "link": "https://netpress.com.mk/pentagon-predvremeno-go-povleche-komandantot-koj-ja-nadgleduvashe-pomoshta-za-ukraina/",
+          "published": "Sat, 08 Aug 2026 09:32:51 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Талогот од СДС несреќен поради успесите на државата, седум квартали раст на БДП над 3% и намален државен долг се показатели за економска стабилност",
-          "link": "https://netpress.com.mk/talogot-od-sds-nesreken-poradi-uspesite-na-drzhavata-sedum-kvartali-rast-na-bdp-nad-3-i-namalen-drzhaven-dolg-se-pokazateli-za-ekonomska-stabilnost-objavi-skopje1-mk/",
-          "published": "Sat, 08 Aug 2026 08:09:33 +0000"
+          "title": "Мајка заврши в затвор откако на синот му дала „забрането“ име",
+          "link": "https://netpress.com.mk/majka-zavrshi-v-zatvor-otkako-na-sinot-mu-dala-zabraneto-ime/",
+          "published": "Sat, 08 Aug 2026 09:18:43 +0000"
         },
         {
           "source": "NetPress",
-          "title": "25 години од заседата кај Карпалак во која беа убиени десет припадници на Армијата",
-          "link": "https://netpress.com.mk/25-godini-od-zasedata-kaj-karpalak-vo-koja-bea-ubieni-deset-pripadniczi-na-armijata/",
-          "published": "Sat, 08 Aug 2026 08:03:59 +0000"
+          "title": "Мисајловски: Вербата на бранителите во татковината е наша водилка, одлучно да продолжиме да ги чуваме националните интереси",
+          "link": "https://netpress.com.mk/misajlovski-verbata-na-branitelite-vo-tatkovinata-e-nasha-vodilka-odluchno-da-prodolzhime-da-gi-chuvame-naczionalnite-interesi/",
+          "published": "Sat, 08 Aug 2026 09:08:56 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Се повеќе случаи на западнонилска треска во делови на Европа",
-          "link": "https://netpress.com.mk/se-poveke-sluchai-na-zapadnonilska-treska-vo-delovi-na-evropa/",
-          "published": "Sat, 08 Aug 2026 08:00:19 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Инфантино најави кандидатура за нов мандат во ФИФА",
-          "link": "https://netpress.com.mk/infantino-najavi-kandidatura-za-nov-mandat-vo-fifa/",
-          "published": "Sat, 08 Aug 2026 07:31:36 +0000"
+          "title": "Ковачки: 10 прилепски бранители ја платија највисока цена, жртва како потсетник дека слободата и државата се бранат",
+          "link": "https://netpress.com.mk/kovachki-10-prilepski-braniteli-ja-platija-najvisoka-czena-zhrtva-kako-potsetnik-deka-slobodata-i-drzhavata-se-branat/",
+          "published": "Sat, 08 Aug 2026 09:03:47 +0000"
         }
       ]
     },
@@ -107,6 +107,18 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Messi will decide when he retires, says Argentina FA chief",
+          "link": "https://www.aljazeera.com/sports/2026/8/8/argentina-fa-chief-says-messi-is-the-only-one-to-decide-when-he-retires?traffic_source=rss",
+          "published": "Sat, 08 Aug 2026 08:59:28 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Typhoon Dolphin hits Japan, heads towards China",
+          "link": "https://www.aljazeera.com/news/2026/8/8/typhoon-dolphin-hits-japan-heads-towards-china?traffic_source=rss",
+          "published": "Sat, 08 Aug 2026 08:50:49 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Afghanistan’s Rashid takes six wickets in ODI thrashing of Ireland",
           "link": "https://www.aljazeera.com/sports/2026/8/8/afghanistans-rashid-takes-six-wickets-in-odi-thrashing-of-ireland?traffic_source=rss",
           "published": "Sat, 08 Aug 2026 08:06:35 +0000"
@@ -122,18 +134,6 @@
           "title": "NBA star Brandon Clarke died from heroin, cocaine effects, examiner rules",
           "link": "https://www.aljazeera.com/sports/2026/8/8/nba-star-brandon-clarke-died-from-heroin-cocaine-effects-examiner-rules?traffic_source=rss",
           "published": "Sat, 08 Aug 2026 06:03:42 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Hundreds camp on sweltering Rome street amid tussle over squatted building",
-          "link": "https://www.aljazeera.com/news/2026/8/8/hundreds-camp-on-sweltering-rome-street-amid-tussle-over-squatted-building?traffic_source=rss",
-          "published": "Sat, 08 Aug 2026 05:45:58 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Bangladesh say Shakib will not play cricket again after Hasina event",
-          "link": "https://www.aljazeera.com/sports/2026/8/8/bangladesh-say-shakib-will-not-play-cricket-again-after-hasina-event?traffic_source=rss",
-          "published": "Sat, 08 Aug 2026 05:30:53 +0000"
         }
       ]
     }
