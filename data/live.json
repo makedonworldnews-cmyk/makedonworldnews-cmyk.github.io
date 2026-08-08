@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T23:19:45Z",
+  "generated_at": "2026-08-08T23:48:10Z",
   "items": [
     {
       "region": "Македонија",
@@ -109,6 +109,13 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "Crews recover 19 bodies from rubble of destroyed Gaza building",
+      "link": "https://www.aljazeera.com/news/2026/8/8/crews-recover-19-bodies-from-rubble-of-destroyed-gaza-building?traffic_source=rss",
+      "published": "Sat, 08 Aug 2026 23:09:30 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "Car bomb attack rattles Colombia after inauguration of hardline president",
       "link": "https://www.aljazeera.com/news/2026/8/8/car-bomb-attack-rattles-colombia-after-inauguration-of-hardline-president?traffic_source=rss",
       "published": "Sat, 08 Aug 2026 22:22:36 +0000"
@@ -133,13 +140,6 @@
       "title": "What are the challenges facing the Mecca agreement?",
       "link": "https://www.aljazeera.com/video/inside-story/2026/8/8/challenges-facing-mecca-agreement?traffic_source=rss",
       "published": "Sat, 08 Aug 2026 20:25:43 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "At least 200 people evacuated as wildfire rages near Lake Garda",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/at-least-200-people-evacuated-as-wildfire-rages-near-lake-garda?traffic_source=rss",
-      "published": "Sat, 08 Aug 2026 19:13:03 +0000"
     }
   ]
 }
