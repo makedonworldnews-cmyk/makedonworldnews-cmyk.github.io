@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T14:53:30Z",
+  "updatedAt": "2026-08-08T15:28:48Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) „Ер трактори“ го гаснат пожарот кај Сопиште",
+          "link": "https://makfax.com.mk/makedonija/video-er-traktori-go-gasnat-pozharot-kaj-sopishte/",
+          "published": "Sat, 08 Aug 2026 15:24:23 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Дунав на рекордно ниско ниво во Унгарија, мотор од Втората светска војна излезе на површината",
+          "link": "https://makfax.com.mk/svet/dunav-na-rekordno-nisko-nivo-vo-ungarija-motor-od-vtorata-svetska-vojna-izleze-na-povrshinata/",
+          "published": "Sat, 08 Aug 2026 15:13:29 +0000"
         },
         {
           "source": "Makfax",
@@ -29,46 +41,34 @@
           "published": "Sat, 08 Aug 2026 14:11:33 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Холивудскиот актер ослабе 90 килограми, многумина не го препознаа на фотографијата",
-          "link": "https://makfax.com.mk/zanimlivosti/holivudskiot-akter-oslabe-90-kilogrami-mnogumina-ne-go-prepoznaa-na-fotografijata/",
-          "published": "Sat, 08 Aug 2026 13:35:18 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Луис Хамилтон објави фотографии со Ким Кардашијан и покажа како го поминуваат летото",
-          "link": "https://makfax.com.mk/zanimlivosti/luis-hamilton-objavi-fotografii-so-kim-kardashijan-i-pokazha-kako-go-pominuvaat-letoto/",
-          "published": "Sat, 08 Aug 2026 13:26:15 +0000"
+          "source": "NetPress",
+          "title": "Во недела од Охрид почнува музичкиот караван по повод 35 години од независноста на Македонија!",
+          "link": "https://netpress.com.mk/1097977-2/",
+          "published": "Sat, 08 Aug 2026 15:23:01 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Со владиниот авион успешно е транспортиран во Скопје пациент повреден на одмор во Турција",
-          "link": "https://netpress.com.mk/so-vladiniot-avion-uspeshno-e-transportiran-vo-skopje-paczient-povreden-na-odmor-vo-turczija/",
-          "published": "Sat, 08 Aug 2026 14:47:35 +0000"
+          "title": "Инфлацијата во јули падна на 2,3 отсто, пониска e од просекот во еврозоната",
+          "link": "https://netpress.com.mk/inflaczijata-vo-juli-padna-na-23-otsto-poniska-od-prosekot-vo-evrozonata/",
+          "published": "Sat, 08 Aug 2026 15:19:02 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Тројца тинејџери повредени по судир на два мопеди во Ченто",
-          "link": "https://netpress.com.mk/trojcza-tinejdheri-povredeni-po-sudir-na-dva-mopedi-vo-chento/",
-          "published": "Sat, 08 Aug 2026 14:43:44 +0000"
+          "title": "Почина таткото на Лионел Меси",
+          "link": "https://netpress.com.mk/pochina-tatkoto-na-lionel-mesi/",
+          "published": "Sat, 08 Aug 2026 15:18:51 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Над 200 луѓе евакуирани поради голем шумски пожар во близина на езерото Гарда во северна Италија",
-          "link": "https://netpress.com.mk/nad-200-luge-evakuirani-poradi-golem-shumski-pozhar-vo-blizina-na-ezeroto-garda-vo-severna-italija/",
-          "published": "Sat, 08 Aug 2026 14:41:18 +0000"
+          "title": "Три ер трактори ќе го гаснат пожарот во Сопиште",
+          "link": "https://netpress.com.mk/tri-er-traktori-ke-go-gasnat-pozharot-vo-sopishte/",
+          "published": "Sat, 08 Aug 2026 15:17:11 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Татјана Бошков е нова претседателка на Надзорниот одбор на М-НАВ",
-          "link": "https://netpress.com.mk/tatjana-boshkov-e-nova-pretsedatelka-na-nadzorniot-odbor-na-m-nav/",
-          "published": "Sat, 08 Aug 2026 14:38:09 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "При масовниот влез во Сеута и во Малиља загинаа над 140 луѓе",
-          "link": "https://netpress.com.mk/pri-masovniot-vlez-vo-seuta-i-vo-malila-zaginaa-nad-140-luge/",
-          "published": "Sat, 08 Aug 2026 13:55:38 +0000"
+          "title": "Њукасл одбива да го продаде Гимараеш",
+          "link": "https://netpress.com.mk/nukasl-odbiva-da-go-prodade-gimaraesh/",
+          "published": "Sat, 08 Aug 2026 14:53:42 +0000"
         }
       ]
     },
@@ -107,6 +107,18 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "UAE says Iran targeted ADNOC tanker in Strait of Hormuz, no casualties",
+          "link": "https://www.aljazeera.com/news/2026/8/8/uae-says-iran-targeted-adnoc-tanker-in-hormuz-no-casualties-2?traffic_source=rss",
+          "published": "Sat, 08 Aug 2026 15:01:29 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Iraq’s Kurdish region wants to stay out of regional conflicts: PM Barzani",
+          "link": "https://www.aljazeera.com/news/2026/8/8/iraqs-kurdish-region-wants-to-stay-out-of-regional-conflicts-pm-barzani?traffic_source=rss",
+          "published": "Sat, 08 Aug 2026 14:58:42 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Lionel Messi’s father dies aged 68 after a long illness",
           "link": "https://www.aljazeera.com/sports/2026/8/8/lionel-messis-father-dies-aged-68-after-a-long-illness?traffic_source=rss",
           "published": "Sat, 08 Aug 2026 14:25:38 +0000"
@@ -122,18 +134,6 @@
           "title": "FIFA President Gianni Infantino denies claims UEFA paid off alleged lover",
           "link": "https://www.aljazeera.com/sports/2026/8/8/fifa-president-gianni-infantino-denies-claims-uefa-paid-off-alleged-lover?traffic_source=rss",
           "published": "Sat, 08 Aug 2026 13:59:21 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Iran deliberates Hormuz arrangement amid uncertain prospects with US",
-          "link": "https://www.aljazeera.com/news/2026/8/8/iran-deliberates-hormuz-arrangement-amid-uncertain-prospects-with-us?traffic_source=rss",
-          "published": "Sat, 08 Aug 2026 13:52:40 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Netanyahu mulls Saudi, Turkiye, Pakistan pact as Israeli elections loom",
-          "link": "https://www.aljazeera.com/news/2026/8/8/netanyahu-mulls-saudi-turkiye-pakistan-pact-as-israeli-elections-loom?traffic_source=rss",
-          "published": "Sat, 08 Aug 2026 13:42:06 +0000"
         }
       ]
     }
