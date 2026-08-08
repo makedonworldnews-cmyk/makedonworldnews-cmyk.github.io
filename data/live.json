@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T18:52:26Z",
+  "generated_at": "2026-08-08T19:22:00Z",
   "items": [
     {
       "region": "Македонија",
@@ -39,7 +39,21 @@
     {
       "region": "Македонија",
       "source": "NetPress",
-      "title": "Џеј Ди Венс: Иран вети непречен проток на нафта низ Ормуската теснина",
+      "title": "Еден загинат и еден тешко повреден во судир на две возила на магистралата Гостивар-Кичево",
+      "link": "https://netpress.com.mk/eden-zaginat-i-eden-teshko-povreden-vo-sudir-na-dve-vozila-na-magistralata-gostivar-kichevo/",
+      "published": "Sat, 08 Aug 2026 19:17:53 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "NetPress",
+      "title": "Алмада стана најскапиот играч во аргентинската лига",
+      "link": "https://netpress.com.mk/almada-stana-najskapiot-igrach-vo-argentinskata-liga/",
+      "published": "Sat, 08 Aug 2026 18:58:37 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "NetPress",
+      "title": "ЏејДи Венс: Иран вети непречен проток на нафта низ Хормуз",
       "link": "https://netpress.com.mk/dhej-di-vens-iran-veti-neprechen-protok-na-nafta-niz-ormuskata-tesnina/",
       "published": "Sat, 08 Aug 2026 18:49:34 +0000"
     },
@@ -58,18 +72,11 @@
       "published": "Sat, 08 Aug 2026 17:50:21 +0000"
     },
     {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Над 178.000 мигранти ја напуштија Јужна Африка во последните неколку месеци",
-      "link": "https://netpress.com.mk/nad-178-000-migranti-ja-napushtija-juzhna-afrika-vo-poslednite-nekolku-meseczi/",
-      "published": "Sat, 08 Aug 2026 17:42:36 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Сребрен медал за Катерина Ацевска Светското првенство во џиу џицу за сениори",
-      "link": "https://netpress.com.mk/srebren-medal-za-katerina-aczevska-svetskoto-prvenstvo-vo-dhiu-dhiczu-za-seniori/",
-      "published": "Sat, 08 Aug 2026 17:30:45 +0000"
+      "region": "Свет",
+      "source": "BBC",
+      "title": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
+      "link": "https://www.bbc.co.uk/news/articles/c934j5y2lq9o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 08 Aug 2026 19:18:57 GMT"
     },
     {
       "region": "Свет",
@@ -101,10 +108,10 @@
     },
     {
       "region": "Свет",
-      "source": "BBC",
-      "title": "Madonna pays tribute to 'genius, otherworldly' producer William Orbit",
-      "link": "https://www.bbc.co.uk/news/articles/cewr8wel4z8o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 08 Aug 2026 17:23:31 GMT"
+      "source": "Al Jazeera",
+      "title": "Yemen’s government forces attack Houthis amid renewed shelling of Marib",
+      "link": "https://www.aljazeera.com/news/2026/8/8/yemens-government-forces-attack-houthis-amid-renewed-shelling-of-marib?traffic_source=rss",
+      "published": "Sat, 08 Aug 2026 18:43:20 +0000"
     },
     {
       "region": "Свет",
@@ -133,13 +140,6 @@
       "title": "Serbia and Ukraine pledge closer economic ties, eye free trade deal",
       "link": "https://www.aljazeera.com/news/2026/8/8/serbia-and-ukraine-pledge-closer-economic-ties-eye-free-trade-deal?traffic_source=rss",
       "published": "Sat, 08 Aug 2026 17:05:17 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Saudi-Pakistan-Turkiye pact: A new shield or strategic signal?",
-      "link": "https://www.aljazeera.com/news/2026/8/8/saudi-pakistan-turkiye-pact-a-new-shield-or-strategic-signal?traffic_source=rss",
-      "published": "Sat, 08 Aug 2026 16:52:11 +0000"
     }
   ]
 }
