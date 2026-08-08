@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T19:03:14Z",
+  "updatedAt": "2026-08-08T19:40:34Z",
   "groups": [
     {
       "region": "Македонија",
@@ -42,13 +42,19 @@
         },
         {
           "source": "NetPress",
+          "title": "Еден загинат и еден тешко повреден во судир на две возила на магистралата Гостивар-Кичево",
+          "link": "https://netpress.com.mk/eden-zaginat-i-eden-teshko-povreden-vo-sudir-na-dve-vozila-na-magistralata-gostivar-kichevo/",
+          "published": "Sat, 08 Aug 2026 19:17:53 +0000"
+        },
+        {
+          "source": "NetPress",
           "title": "Алмада стана најскапиот играч во аргентинската лига",
           "link": "https://netpress.com.mk/almada-stana-najskapiot-igrach-vo-argentinskata-liga/",
           "published": "Sat, 08 Aug 2026 18:58:37 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Џеј Ди Венс: Иран вети непречен проток на нафта низ Ормуската теснина",
+          "title": "ЏејДи Венс: Иран вети непречен проток на нафта низ Хормуз",
           "link": "https://netpress.com.mk/dhej-di-vens-iran-veti-neprechen-protok-na-nafta-niz-ormuskata-tesnina/",
           "published": "Sat, 08 Aug 2026 18:49:34 +0000"
         },
@@ -63,18 +69,18 @@
           "title": "Бујар Османи „ноќе те убива, дење те оплакува“ – со ДУИ влијаат кој да се најде на „црната листа“ на Рама",
           "link": "https://netpress.com.mk/bujar-osmani-noke-te-ubiva-dene-te-oplakuva-so-dui-vlijaat-koj-da-se-najde-na-czrnata-lista-na-rama/",
           "published": "Sat, 08 Aug 2026 17:50:21 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Над 178.000 мигранти ја напуштија Јужна Африка во последните неколку месеци",
-          "link": "https://netpress.com.mk/nad-178-000-migranti-ja-napushtija-juzhna-afrika-vo-poslednite-nekolku-meseczi/",
-          "published": "Sat, 08 Aug 2026 17:42:36 +0000"
         }
       ]
     },
     {
       "region": "Свет",
       "items": [
+        {
+          "source": "BBC",
+          "title": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
+          "link": "https://www.bbc.co.uk/news/articles/c934j5y2lq9o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 08 Aug 2026 19:18:57 GMT"
+        },
         {
           "source": "BBC",
           "title": "Trump's ex-lawyer Todd Blanche narrowly confirmed as US attorney general",
@@ -100,40 +106,34 @@
           "published": "Sat, 08 Aug 2026 14:25:19 GMT"
         },
         {
-          "source": "BBC",
-          "title": "Madonna pays tribute to 'genius, otherworldly' producer William Orbit",
-          "link": "https://www.bbc.co.uk/news/articles/cewr8wel4z8o?at_medium=RSS&at_campaign=rss",
-          "published": "Sat, 08 Aug 2026 17:23:31 GMT"
+          "source": "Al Jazeera",
+          "title": "At least 200 people evacuated as wildfire rages near Lake Garda",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/at-least-200-people-evacuated-as-wildfire-rages-near-lake-garda?traffic_source=rss",
+          "published": "Sat, 08 Aug 2026 19:13:03 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Lebanese soldiers injured while Israeli troops intrude on southern town",
+          "link": "https://www.aljazeera.com/news/2026/8/8/lebanese-soldiers-injured-while-israeli-troops-intrude-on-southern-town?traffic_source=rss",
+          "published": "Sat, 08 Aug 2026 19:00:43 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "US slams Chinese ‘nature reserve’ as effort to claim South China Sea",
+          "link": "https://www.aljazeera.com/news/2026/8/8/us-slams-chinese-nature-reserve-as-effort-to-claim-south-china-sea?traffic_source=rss",
+          "published": "Sat, 08 Aug 2026 18:57:53 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "‘Debilitating’: Hunter Biden speaks out about father Joe Biden’s cancer",
+          "link": "https://www.aljazeera.com/news/2026/8/8/debilitating-hunter-biden-speaks-out-about-father-joe-bidens-cancer?traffic_source=rss",
+          "published": "Sat, 08 Aug 2026 18:55:20 +0000"
         },
         {
           "source": "Al Jazeera",
           "title": "Yemen’s government forces attack Houthis amid renewed shelling of Marib",
           "link": "https://www.aljazeera.com/news/2026/8/8/yemens-government-forces-attack-houthis-amid-renewed-shelling-of-marib?traffic_source=rss",
           "published": "Sat, 08 Aug 2026 18:43:20 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "The influencers taking on far-right leader Nigel Farage",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/the-influencers-taking-on-far-right-leader-nigel-farage?traffic_source=rss",
-          "published": "Sat, 08 Aug 2026 18:05:44 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Gaza health chief urges action to ‘save’ Dr Abu Safia before it’s too late",
-          "link": "https://www.aljazeera.com/news/2026/8/8/gaza-health-chief-urges-action-to-save-dr-abu-safia-before-its-too-late?traffic_source=rss",
-          "published": "Sat, 08 Aug 2026 17:26:59 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "British Columbia issues evacuation orders ahead of fast-moving wildfires",
-          "link": "https://www.aljazeera.com/news/2026/8/8/british-columbia-issues-evacuation-orders-ahead-of-fast-moving-wildfires?traffic_source=rss",
-          "published": "Sat, 08 Aug 2026 17:14:09 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Serbia and Ukraine pledge closer economic ties, eye free trade deal",
-          "link": "https://www.aljazeera.com/news/2026/8/8/serbia-and-ukraine-pledge-closer-economic-ties-eye-free-trade-deal?traffic_source=rss",
-          "published": "Sat, 08 Aug 2026 17:05:17 +0000"
         }
       ]
     }
