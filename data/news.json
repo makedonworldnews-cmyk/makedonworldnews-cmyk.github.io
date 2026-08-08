@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T15:57:38Z",
+  "updatedAt": "2026-08-08T16:41:49Z",
   "groups": [
     {
       "region": "Македонија",
@@ -12,33 +12,39 @@
         },
         {
           "source": "Makfax",
+          "title": "(Фото) Стотици луѓе се собраа пред катедрала затоа што мислеа дека Роналдо се жени, неговата сестра се огласи",
+          "link": "https://makfax.com.mk/zanimlivosti/foto-stotici-luge-se-sobraa-pred-katedrala-zatoa-shto-mislea-deka-ronaldo-se-zheni-negovata-sestra-se-oglasi/",
+          "published": "Sat, 08 Aug 2026 16:27:38 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Алмада пристигна во Ривер Плата",
+          "link": "https://makfax.com.mk/sport/almada-pristigna-vo-river-plata/",
+          "published": "Sat, 08 Aug 2026 16:20:57 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Утре сончево и многу топло време со температура до 39 степени",
+          "link": "https://makfax.com.mk/makedonija/utre-sonchevo-i-mnogu-toplo-vreme-so-temperatura-do-39-stepeni/",
+          "published": "Sat, 08 Aug 2026 16:16:32 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Македонецот кој се здоби со тешка повреда на ’рбетниот мозок при пад од тобоган во Кушадаси безбедно е пренесен во Скопје",
+          "link": "https://makfax.com.mk/makedonija/makedonecot-koj-se-zdobi-so-teshka-povreda-na-rbetniot-mozok-pri-pad-od-tobogan-vo-kushadasi-bezbedno-e-prenesen-vo-skopje/",
+          "published": "Sat, 08 Aug 2026 16:11:50 +0000"
+        },
+        {
+          "source": "Makfax",
           "title": "Гимараеш официјално е играч на Арсенал",
           "link": "https://makfax.com.mk/sport/gimaraesh-oficijalno-e-igrach-na-arsenal/",
           "published": "Sat, 08 Aug 2026 15:54:59 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Доминантна победа на Мартин во спритнт трката во Велика Британија",
-          "link": "https://makfax.com.mk/sport/dominantna-pobeda-na-martin-vo-spritnt-trkata-vo-velika-britanija/",
-          "published": "Sat, 08 Aug 2026 15:46:58 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Почина таткото на Лионел Меси",
-          "link": "https://makfax.com.mk/sport/pochina-tatkoto-na-lionel-mesi/",
-          "published": "Sat, 08 Aug 2026 15:38:56 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "(Видео) „Ер трактори“ го гаснат пожарот кај Сопиште",
-          "link": "https://makfax.com.mk/makedonija/video-er-traktori-go-gasnat-pozharot-kaj-sopishte/",
-          "published": "Sat, 08 Aug 2026 15:24:23 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Дунав на рекордно ниско ниво во Унгарија, мотор од Втората светска војна излезе на површината",
-          "link": "https://makfax.com.mk/svet/dunav-na-rekordno-nisko-nivo-vo-ungarija-motor-od-vtorata-svetska-vojna-izleze-na-povrshinata/",
-          "published": "Sat, 08 Aug 2026 15:13:29 +0000"
+          "source": "NetPress",
+          "title": "ВИДЕО| Илјадници демонстрираа против германскиот канцелар Мерц",
+          "link": "https://netpress.com.mk/video-iljadniczi-demonstriraa-protiv-germanskiot-kanczelar-mercz/",
+          "published": "Sat, 08 Aug 2026 16:27:11 +0000"
         },
         {
           "source": "NetPress",
@@ -63,12 +69,6 @@
           "title": "Голем протест против масовниот туризам во Мајорка",
           "link": "https://netpress.com.mk/golem-protest-protiv-masovniot-turizam-vo-majorka/",
           "published": "Sat, 08 Aug 2026 15:31:23 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Во недела од Охрид почнува музичкиот караван по повод 35 години од независноста на Македонија!",
-          "link": "https://netpress.com.mk/1097977-2/",
-          "published": "Sat, 08 Aug 2026 15:23:01 +0000"
         }
       ]
     },
@@ -83,15 +83,9 @@
         },
         {
           "source": "BBC",
-          "title": "Child among three killed in Russian missile attacks near Kyiv",
-          "link": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&at_campaign=rss",
-          "published": "Sat, 08 Aug 2026 15:49:41 GMT"
-        },
-        {
-          "source": "BBC",
-          "title": "US gifts $1bn to Colombia on new right-wing president's first day of office",
+          "title": "US offers $1bn to Colombia on new right-wing president's first day of office",
           "link": "https://www.bbc.co.uk/news/articles/cy9wy3y0e5wo?at_medium=RSS&at_campaign=rss",
-          "published": "Sat, 08 Aug 2026 13:49:09 GMT"
+          "published": "Sat, 08 Aug 2026 16:34:18 GMT"
         },
         {
           "source": "BBC",
@@ -104,6 +98,24 @@
           "title": "Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies",
           "link": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss",
           "published": "Sat, 08 Aug 2026 14:25:19 GMT"
+        },
+        {
+          "source": "BBC",
+          "title": "Madonna pays tribute to 'genius, otherworldly' producer William Orbit",
+          "link": "https://www.bbc.co.uk/news/articles/cewr8wel4z8o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 08 Aug 2026 15:44:08 GMT"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Opposition MP hurls eggs at Kosovo Prime Minister",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/opposition-mp-hurls-eggs-at-kosovo-prime-minister?traffic_source=rss",
+          "published": "Sat, 08 Aug 2026 16:09:06 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "UNRWA has been with me since birth, I cannot imagine a future without it",
+          "link": "https://www.aljazeera.com/features/2026/8/8/unrwa-has-been-with-me-since-birth-i-cannot-imagine-a-future-without-it?traffic_source=rss",
+          "published": "Sat, 08 Aug 2026 15:52:49 +0000"
         },
         {
           "source": "Al Jazeera",
@@ -122,18 +134,6 @@
           "title": "Iraq’s Kurdish region wants to stay out of regional conflicts: PM Barzani",
           "link": "https://www.aljazeera.com/news/2026/8/8/iraqs-kurdish-region-wants-to-stay-out-of-regional-conflicts-pm-barzani?traffic_source=rss",
           "published": "Sat, 08 Aug 2026 14:58:42 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Lionel Messi’s father dies aged 68 after a long illness",
-          "link": "https://www.aljazeera.com/sports/2026/8/8/lionel-messis-father-dies-aged-68-after-a-long-illness?traffic_source=rss",
-          "published": "Sat, 08 Aug 2026 14:25:38 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "War on Iran: Phase II: Day 28",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/war-on-iran-phase-ii-day-28?traffic_source=rss",
-          "published": "Sat, 08 Aug 2026 14:09:02 +0000"
         }
       ]
     }
