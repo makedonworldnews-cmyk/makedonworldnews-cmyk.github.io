@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T23:45:07Z",
+  "generated_at": "2026-08-08T00:31:39Z",
   "items": [
     {
       "region": "Македонија",
@@ -109,6 +109,20 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "US Senate passes sweeping Russian energy sanctions bill amid Ukraine war",
+      "link": "https://www.aljazeera.com/economy/2026/8/8/us-senate-passes-sweeping-russian-energy-sanctions-bill-amid-ukraine-war?traffic_source=rss",
+      "published": "Sat, 08 Aug 2026 00:06:22 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Iran war live: Trilateral Mecca defence pact signed, as Hormuz deal looms",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/8/8/iran-war-live-trilateral-mecca-defence-pact-signed-as-hormuz-deal-looms?traffic_source=rss",
+      "published": "Sat, 08 Aug 2026 00:00:00 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "Donald Trump renews effort to fire Federal Reserve governor Lisa Cook",
       "link": "https://www.aljazeera.com/news/2026/8/7/donald-trump-renews-effort-to-fire-federal-reserve-governor-lisa-cook?traffic_source=rss",
       "published": "Fri, 07 Aug 2026 23:40:16 +0000"
@@ -126,20 +140,6 @@
       "title": "Will Pakistan-Saudi-Turkiye alliance actually create a new regional order?",
       "link": "https://www.aljazeera.com/news/2026/8/7/new-regional-order-pakistan-turkiye-saudi-arabia?traffic_source=rss",
       "published": "Fri, 07 Aug 2026 23:18:14 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Medics among six Palestinians injured in Israeli attacks across West Bank",
-      "link": "https://www.aljazeera.com/news/2026/8/7/medics-among-six-palestinians-injured-in-israeli-attacks-across-west-bank?traffic_source=rss",
-      "published": "Fri, 07 Aug 2026 23:15:01 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Democrats gain momentum in pivotal US Senate and governor’s races in Texas",
-      "link": "https://www.aljazeera.com/news/2026/8/7/democrats-gain-momentum-in-pivotal-us-senate-and-governors-races-in-texas?traffic_source=rss",
-      "published": "Fri, 07 Aug 2026 22:08:49 +0000"
     }
   ]
 }
