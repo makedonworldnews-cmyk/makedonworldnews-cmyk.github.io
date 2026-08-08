@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T08:07:40Z",
+  "updatedAt": "2026-08-08T08:57:46Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) Украински дронови погодија две големи руски рафинерии, петмина повредени",
+          "link": "https://makfax.com.mk/svet/video-ukrainski-dronovi-pogodija-dve-golemi-ruski-rafinerii-petmina-povredeni/",
+          "published": "Sat, 08 Aug 2026 08:27:06 +0000"
         },
         {
           "source": "Makfax",
@@ -35,10 +41,16 @@
           "published": "Sat, 08 Aug 2026 07:34:24 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Јанкоски: Итно поставување на М-ТАГ уреди на патарините за намалување на колоните по патиштата",
-          "link": "https://makfax.com.mk/makedonija/jankoski-itno-postavuvanje-na-m-tag-uredi-na-patarinite-za-namaluvanje-na-kolonite-po-patishtata/",
-          "published": "Sat, 08 Aug 2026 07:23:02 +0000"
+          "source": "NetPress",
+          "title": "ВИДЕО| Загинаа три лица, меѓу кои е едно дете, во напад на руски дронови врз регионот на Киев",
+          "link": "https://netpress.com.mk/video-zaginaa-tri-licza-megu-koi-e-edno-dete-vo-napad-na-ruski-dronovi-vrz-regionot-na-kiev/",
+          "published": "Sat, 08 Aug 2026 08:17:17 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Талогот од СДС несреќен поради успесите на државата, седум квартали раст на БДП над 3% и намален државен долг се показатели за економска стабилност",
+          "link": "https://netpress.com.mk/talogot-od-sds-nesreken-poradi-uspesite-na-drzhavata-sedum-kvartali-rast-na-bdp-nad-3-i-namalen-drzhaven-dolg-se-pokazateli-za-ekonomska-stabilnost-objavi-skopje1-mk/",
+          "published": "Sat, 08 Aug 2026 08:09:33 +0000"
         },
         {
           "source": "NetPress",
@@ -57,18 +69,6 @@
           "title": "Инфантино најави кандидатура за нов мандат во ФИФА",
           "link": "https://netpress.com.mk/infantino-najavi-kandidatura-za-nov-mandat-vo-fifa/",
           "published": "Sat, 08 Aug 2026 07:31:36 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Се чека по половина час на „Богородица“ и на „Табановце“",
-          "link": "https://netpress.com.mk/se-cheka-po-polovina-chas-na-bogorodicza-i-na-tabanovcze/",
-          "published": "Sat, 08 Aug 2026 07:28:07 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Шпанија воведува гранични контроли за патниците од Италија",
-          "link": "https://netpress.com.mk/shpanija-voveduva-granichni-kontroli-za-patniczite-od-italija/",
-          "published": "Sat, 08 Aug 2026 05:57:35 +0000"
         }
       ]
     },
@@ -80,6 +80,12 @@
           "title": "Child among three killed in Russian missile attacks near Kyiv",
           "link": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&at_campaign=rss",
           "published": "Sat, 08 Aug 2026 06:12:56 GMT"
+        },
+        {
+          "source": "BBC",
+          "title": "The phone book that led us to Assad's spy chief in hiding",
+          "link": "https://www.bbc.co.uk/news/articles/c4gyrzn8p94o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 07 Aug 2026 23:23:12 GMT"
         },
         {
           "source": "BBC",
@@ -100,10 +106,10 @@
           "published": "Fri, 07 Aug 2026 14:20:27 GMT"
         },
         {
-          "source": "BBC",
-          "title": "'I ran because I knew I would die': Russian drones target medics in Ukraine",
-          "link": "https://www.bbc.co.uk/news/articles/c3r073eqvrjo?at_medium=RSS&at_campaign=rss",
-          "published": "Sat, 08 Aug 2026 00:02:49 GMT"
+          "source": "Al Jazeera",
+          "title": "Afghanistan’s Rashid takes six wickets in ODI thrashing of Ireland",
+          "link": "https://www.aljazeera.com/sports/2026/8/8/afghanistans-rashid-takes-six-wickets-in-odi-thrashing-of-ireland?traffic_source=rss",
+          "published": "Sat, 08 Aug 2026 08:06:35 +0000"
         },
         {
           "source": "Al Jazeera",
@@ -128,12 +134,6 @@
           "title": "Bangladesh say Shakib will not play cricket again after Hasina event",
           "link": "https://www.aljazeera.com/sports/2026/8/8/bangladesh-say-shakib-will-not-play-cricket-again-after-hasina-event?traffic_source=rss",
           "published": "Sat, 08 Aug 2026 05:30:53 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Violence is driving Palestinian Christians out of their Holy Land",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/violence-is-driving-palestinian-christians-out-of-their-holy-land?traffic_source=rss",
-          "published": "Sat, 08 Aug 2026 05:28:45 +0000"
         }
       ]
     }
