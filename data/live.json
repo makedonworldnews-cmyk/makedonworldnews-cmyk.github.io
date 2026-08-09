@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T20:52:45Z",
+  "generated_at": "2026-08-09T21:22:37Z",
   "items": [
     {
       "region": "Македонија",
@@ -109,6 +109,13 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "Germany warns of ‘daily hybrid warfare’ after explosive-laden drone found",
+      "link": "https://www.aljazeera.com/news/2026/8/9/germany-warns-of-daily-hybrid-warfare-following-suspected-drone-attack?traffic_source=rss",
+      "published": "Sun, 09 Aug 2026 20:40:25 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "Palestinians say Netanyahu’s decision leaves ‘no clear path’ to peace",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/palestinians-say-netanyahus-decision-leaves-no-clear-path-to-peace?traffic_source=rss",
       "published": "Sun, 09 Aug 2026 20:02:57 +0000"
@@ -133,13 +140,6 @@
       "title": "Hundreds of anti-tourism Spanish protesters march in Mallorca’s Soller",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/hundreds-of-anti-tourism-spanish-protesters-march-in-mallorcas-soller?traffic_source=rss",
       "published": "Sun, 09 Aug 2026 18:59:33 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Where does Iran stand on Saudi-Pakistan-Turkiye pact?",
-      "link": "https://www.aljazeera.com/news/2026/8/9/where-does-iran-stand-on-saudi-pakistan-turkiye-pact?traffic_source=rss",
-      "published": "Sun, 09 Aug 2026 18:44:28 +0000"
     }
   ]
 }
