@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-09T02:48:30Z",
+  "updatedAt": "2026-08-09T04:04:50Z",
   "groups": [
     {
       "region": "Македонија",
@@ -107,6 +107,12 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Helicopter crash kills pilot and crew member amid Utah wildfire battle",
+          "link": "https://www.aljazeera.com/news/2026/8/9/helicopter-crash-kills-pilot-and-crew-member-amid-utah-wildfire-battle?traffic_source=rss",
+          "published": "Sun, 09 Aug 2026 03:09:27 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Israeli settler attacks rise as West Bank residents lose land",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/09-08-reported-nour-odeh-bethlehem?traffic_source=rss",
           "published": "Sun, 09 Aug 2026 01:43:04 +0000"
@@ -119,7 +125,7 @@
         },
         {
           "source": "Al Jazeera",
-          "title": "Iran war live: Tehran demands end to US blockade to reopen Strait of Hormuz",
+          "title": "Iran war live: Pezeshkian seeks end to ‘no war, no peace’ amid Hormuz talks",
           "link": "https://www.aljazeera.com/news/liveblog/2026/8/9/iran-war-live-tehran-demands-end-to-us-blockade-to-reopen-strait-of-hormuz?traffic_source=rss",
           "published": "Sun, 09 Aug 2026 00:00:00 +0000"
         },
@@ -128,12 +134,6 @@
           "title": "Turkiye says Mecca defence pact not aimed at Iran",
           "link": "https://www.aljazeera.com/news/2026/8/8/turkiye-says-mecca-defence-pact-not-aimed-at-iran?traffic_source=rss",
           "published": "Sat, 08 Aug 2026 23:59:15 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Vance says US ‘destroyed’ Iran’s nuclear programme",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/vance-says-us-destroyed-irans-nuclear-programme?traffic_source=rss",
-          "published": "Sat, 08 Aug 2026 23:27:55 +0000"
         }
       ]
     }
