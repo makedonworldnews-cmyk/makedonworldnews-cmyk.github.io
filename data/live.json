@@ -1,6 +1,27 @@
 {
-  "generated_at": "2026-08-09T06:57:37Z",
+  "generated_at": "2026-08-09T07:52:27Z",
   "items": [
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "Забрзува растот на туризмот, Македонија се позиционира како атрактивна туристичка дестинација, велат од ВМРО-ДПМНЕ",
+      "link": "https://makfax.com.mk/makedonija/zabrzuva-rastot-na-turizmot-makedonija-se-pozicionira-kako-atraktivna-turistichka-destinacija-velat-od-vmro-dpmne/",
+      "published": "Sun, 09 Aug 2026 07:23:11 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "(Фото) Шон Мендес во врска со поранешната на Нејмар: „Ми го промени животот“",
+      "link": "https://makfax.com.mk/zanimlivosti/foto-shon-mendes-vo-vrska-so-poraneshnata-na-nejmar-mi-go-promeni-zhivotot/",
+      "published": "Sun, 09 Aug 2026 07:18:44 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "ВМРО-ДПМНЕ: Случајот во Ново Село го извади на површина целиот талог на СДС",
+      "link": "https://makfax.com.mk/makedonija/vmro-dpmne-sluchajot-vo-novo-selo-go-izvadi-na-povrshina-celiot-talog-na-sds/",
+      "published": "Sun, 09 Aug 2026 07:09:10 +0000"
+    },
     {
       "region": "Македонија",
       "source": "Makfax",
@@ -17,24 +38,10 @@
     },
     {
       "region": "Македонија",
-      "source": "Makfax",
-      "title": "Повеќе од четири недели Гостивар е без чиста вода, обвинија СДСМ",
-      "link": "https://makfax.com.mk/makedonija/poveke-od-chetiri-nedeli-gostivar-e-bez-chista-voda-obvinija-sdsm/",
-      "published": "Sun, 09 Aug 2026 06:25:34 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "Makfax",
-      "title": "ЕУ вечерта на „Охридско лето“ го носи концертот „Последната роза на летото“",
-      "link": "https://makfax.com.mk/kultura/eu-vecherta-na-ohridsko-leto-go-nosi-koncertot-poslednata-roza-na-letoto/",
-      "published": "Sun, 09 Aug 2026 06:22:50 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "Makfax",
-      "title": "„Готик Војсис“ од Велика Британија настапија со средновековна музика на „Охридско лето“",
-      "link": "https://makfax.com.mk/kultura/gotik-vojsis-od-velika-britanija-nastapija-so-srednovekovna-muzika-na-ohridsko-leto/",
-      "published": "Sun, 09 Aug 2026 06:21:41 +0000"
+      "source": "NetPress",
+      "title": "ЕУ вечерта на Охридско лето го носи концертот „Последната роза на летото“",
+      "link": "https://netpress.com.mk/eu-vecherta-na-ohridsko-leto-go-nosi-konczertot-poslednata-roza-na-letoto/",
+      "published": "Sun, 09 Aug 2026 07:27:01 +0000"
     },
     {
       "region": "Македонија",
@@ -63,13 +70,6 @@
       "title": "Дневен хороскоп за недела, 9-ти август 2026-та",
       "link": "https://netpress.com.mk/dneven-horoskop-za-nedela-9-ti-avgust-2026-ta/",
       "published": "Sun, 09 Aug 2026 05:27:01 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Денеска многу топло , попладне локална нестабилност со слаби врнежи",
-      "link": "https://netpress.com.mk/deneska-mnogu-toplo-popladne-lokalna-nestabilnost-so-slabi-vrnezhi/",
-      "published": "Sun, 09 Aug 2026 05:07:39 +0000"
     },
     {
       "region": "Свет",
@@ -109,6 +109,20 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "World number one Sabalenka upset by Alexandrova at Canadian Open",
+      "link": "https://www.aljazeera.com/sports/2026/8/9/world-number-one-sabalenka-upset-by-alexandrova-at-canadian-open?traffic_source=rss",
+      "published": "Sun, 09 Aug 2026 07:10:56 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Israel announces tender for 627 settler units in occupied West Bank",
+      "link": "https://www.aljazeera.com/news/2026/8/9/israel-announces-tender-for-627-settler-units-in-occupied-west-bank?traffic_source=rss",
+      "published": "Sun, 09 Aug 2026 06:57:56 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "Wildfire forces thousands of evacuations in Western Canada",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/wildfire-forces-thousands-of-evacuations-in-western-canada?traffic_source=rss",
       "published": "Sun, 09 Aug 2026 06:10:08 +0000"
@@ -126,20 +140,6 @@
       "title": "Iran issues new demands as Pezeshkian seeks deal",
       "link": "https://www.aljazeera.com/news/2026/8/9/iran-issues-new-demands-as-pezeshkian-seeks-deal?traffic_source=rss",
       "published": "Sun, 09 Aug 2026 05:06:02 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "‘Very painful’: Joe Biden’s cancer has spread, son Hunter says",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/08-09-clip-biden-cancer-us?traffic_source=rss",
-      "published": "Sun, 09 Aug 2026 05:01:54 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Car bomb hits Colombia highway day after new president sworn in",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/08-09-2026-colombia-car-bomb-sv-mp4?traffic_source=rss",
-      "published": "Sun, 09 Aug 2026 04:32:32 +0000"
     }
   ]
 }
