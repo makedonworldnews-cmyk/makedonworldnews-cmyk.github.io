@@ -1,6 +1,13 @@
 {
-  "generated_at": "2026-08-09T11:13:35Z",
+  "generated_at": "2026-08-09T11:45:39Z",
   "items": [
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "Хрватска е поскапа од Грција, Италија, Турција и Шпанија, покажа холандска анализа",
+      "link": "https://makfax.com.mk/zanimlivosti/hrvatska-e-poskapa-od-grcija-italija-turcija-i-shpanija-pokazha-holandska-analiza/",
+      "published": "Sun, 09 Aug 2026 11:43:33 +0000"
+    },
     {
       "region": "Македонија",
       "source": "Makfax",
@@ -28,13 +35,6 @@
       "title": "(Видео) Ѓоковиќ се опушти на концерт на Владо Георгиев: „Дали сум единствениот што го гледа ова по 73-ти пат?“",
       "link": "https://makfax.com.mk/zanimlivosti/video-gokovik-se-opushti-na-koncert-na-vlado-georgiev-dali-sum-edinstveniot-shto-go-gleda-ova-po-73-ti-pat/",
       "published": "Sun, 09 Aug 2026 10:35:46 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "Makfax",
-      "title": "(Видео) Стојчевски: Во Штип се распродава земјата за бизнис интересите на ВМРО – бараме итно поништување на огласите",
-      "link": "https://makfax.com.mk/makedonija/video-stojchevski-vo-shtip-se-rasprodava-zemjata-za-biznis-interesite-na-vmro-barame-itno-ponishtuvanje-na-oglasite/",
-      "published": "Sun, 09 Aug 2026 10:30:14 +0000"
     },
     {
       "region": "Македонија",
@@ -109,6 +109,27 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "Israel rejects Trump’s 15-point plan for Gaza",
+      "link": "https://www.aljazeera.com/news/2026/8/9/israel-rejects-trumps-15-point-plan-for-gaza?traffic_source=rss",
+      "published": "Sun, 09 Aug 2026 11:31:18 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Russian forces kill several in Ukraine, launch ‘brutal’ attack in Odesa",
+      "link": "https://www.aljazeera.com/news/2026/8/9/russian-forces-kill-several-in-ukraine-launch-brutal-attack-in-odesa?traffic_source=rss",
+      "published": "Sun, 09 Aug 2026 10:55:06 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Yemeni army warns Houthis after attacks heighten escalation risk",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/yemeni-army-warns-houthis-after-attacks-heighten-escalation-risk?traffic_source=rss",
+      "published": "Sun, 09 Aug 2026 10:45:57 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "Palestinians in occupied West Bank hold firm on Indigenous Peoples’ Day",
       "link": "https://www.aljazeera.com/news/2026/8/9/palestinians-in-the-west-bank-hold-firm-on-indigenous-peoples-day?traffic_source=rss",
       "published": "Sun, 09 Aug 2026 10:35:00 +0000"
@@ -119,27 +140,6 @@
       "title": "FIFA decries ‘concerted’ effort to undermine Infantino as crisis deepens",
       "link": "https://www.aljazeera.com/sports/2026/8/9/fifa-decries-concerted-effort-to-undermine-infantino-as-crisis-deepens?traffic_source=rss",
       "published": "Sun, 09 Aug 2026 10:30:11 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Morocco, Algeria reach WAFCON semifinals and qualify for FIFA World Cup",
-      "link": "https://www.aljazeera.com/sports/2026/8/9/morocco-algeria-reach-wafcon-semifinals-and-qualify-for-fifa-world-cup?traffic_source=rss",
-      "published": "Sun, 09 Aug 2026 10:15:10 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Why is Pezeshkian urging an end to Iran’s ‘no war, no peace’ status?",
-      "link": "https://www.aljazeera.com/news/2026/8/9/why-is-pezeshkian-urging-an-end-to-irans-no-war-no-peace-status?traffic_source=rss",
-      "published": "Sun, 09 Aug 2026 10:02:59 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "It won’t be Trump who kills the ICC",
-      "link": "https://www.aljazeera.com/opinions/2026/8/9/it-wont-be-trump-who-kills-the-icc?traffic_source=rss",
-      "published": "Sun, 09 Aug 2026 09:05:47 +0000"
     }
   ]
 }
