@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-09T05:15:20Z",
+  "updatedAt": "2026-08-09T06:01:42Z",
   "groups": [
     {
       "region": "Македонија",
@@ -42,6 +42,18 @@
         },
         {
           "source": "NetPress",
+          "title": "Ракот на поранешниот американски претседател Џо Бајден се проширил, предизвикува силни болки",
+          "link": "https://netpress.com.mk/rakot-na-poraneshniot-amerikanski-pretsedatel-dho-bajden-se-proshiril-predizvikuva-silni-bolki/",
+          "published": "Sun, 09 Aug 2026 05:47:18 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Дневен хороскоп за недела, 9-ти август 2026-та",
+          "link": "https://netpress.com.mk/dneven-horoskop-za-nedela-9-ti-avgust-2026-ta/",
+          "published": "Sun, 09 Aug 2026 05:27:01 +0000"
+        },
+        {
+          "source": "NetPress",
           "title": "Денеска многу топло , попладне локална нестабилност со слаби врнежи",
           "link": "https://netpress.com.mk/deneska-mnogu-toplo-popladne-lokalna-nestabilnost-so-slabi-vrnezhi/",
           "published": "Sun, 09 Aug 2026 05:07:39 +0000"
@@ -57,18 +69,6 @@
           "title": "Фидан: Турција, Пакистан и Саудиска Арабија потпишаа одбранбен пакт сличен на членот 5 на НАТО",
           "link": "https://netpress.com.mk/fidan-turczija-pakistan-i-saudiska-arabija-potpishaa-odbranben-pakt-slichen-na-chlenot-5-na-nato/",
           "published": "Sat, 08 Aug 2026 20:30:29 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Пезешкијан: Сега е најдобро време за постигнување договор",
-          "link": "https://netpress.com.mk/pezeshkijan-sega-e-najdobro-vreme-za-postignuvane-dogovor/",
-          "published": "Sat, 08 Aug 2026 20:25:36 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Шпанија ќе воведе привремени гранични контроли за посетителите од Италија",
-          "link": "https://netpress.com.mk/shpanija-ke-vovede-privremeni-granichni-kontroli-za-posetitelite-od-italija/",
-          "published": "Sat, 08 Aug 2026 20:22:39 +0000"
         }
       ]
     },
@@ -95,7 +95,7 @@
         },
         {
           "source": "BBC",
-          "title": "Perez Hilton faces long recovery after self-harm livestream",
+          "title": "Perez Hilton faces long recovery after reports he self-harmed during livestream",
           "link": "https://www.bbc.co.uk/news/articles/cg5lnqjz497o?at_medium=RSS&at_campaign=rss",
           "published": "Sun, 09 Aug 2026 04:32:06 GMT"
         },
@@ -104,6 +104,24 @@
           "title": "Trump's ex-lawyer Todd Blanche narrowly confirmed as US attorney general",
           "link": "https://www.bbc.co.uk/news/articles/cewr898jy8go?at_medium=RSS&at_campaign=rss",
           "published": "Sat, 08 Aug 2026 15:56:39 GMT"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Lionel Messi returns to Argentina after father Jorge’s death",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/08-09-2026-messi-arrives-argentina-clip?traffic_source=rss",
+          "published": "Sun, 09 Aug 2026 05:18:37 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Iran issues new demands as Pezeshkian seeks deal",
+          "link": "https://www.aljazeera.com/news/2026/8/9/iran-issues-new-demands-as-pezeshkian-seeks-deal?traffic_source=rss",
+          "published": "Sun, 09 Aug 2026 05:06:02 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "‘Very painful’: Joe Biden’s cancer has spread, son Hunter says",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/08-09-clip-biden-cancer-us?traffic_source=rss",
+          "published": "Sun, 09 Aug 2026 05:01:54 +0000"
         },
         {
           "source": "Al Jazeera",
@@ -116,24 +134,6 @@
           "title": "Iran seeks way out of ‘neither war nor peace’ stalemate with US",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/08-08-clip-pezeshkian-iran-ir?traffic_source=rss",
           "published": "Sun, 09 Aug 2026 04:12:39 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Ghana’s cashew apples get a second life",
-          "link": "https://www.aljazeera.com/news/2026/8/9/ghanas-cashew-apples-get-a-second-life?traffic_source=rss",
-          "published": "Sun, 09 Aug 2026 04:07:39 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Helicopter crash kills pilot and crew member amid Utah wildfire battle",
-          "link": "https://www.aljazeera.com/news/2026/8/9/helicopter-crash-kills-pilot-and-crew-member-amid-utah-wildfire-battle?traffic_source=rss",
-          "published": "Sun, 09 Aug 2026 03:09:27 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Israeli settler attacks rise as West Bank residents lose land",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/09-08-reported-nour-odeh-bethlehem?traffic_source=rss",
-          "published": "Sun, 09 Aug 2026 01:43:04 +0000"
         }
       ]
     }
