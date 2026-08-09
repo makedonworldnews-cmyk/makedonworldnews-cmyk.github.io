@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-09T11:59:34Z",
+  "updatedAt": "2026-08-09T13:08:20Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Несреќа во Преспанското Езеро: Рибар скокнал од чамец и не излегол од водата, „тигрите“ во потрага по исчезнатиот",
+          "link": "https://makfax.com.mk/crna-hronika/nesreka-vo-prespanskoto-ezero-ribar-skoknal-od-chamec-i-ne-izlegol-od-vodata-tigrite-vo-potraga-po-ischeznatiot/",
+          "published": "Sun, 09 Aug 2026 12:28:56 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Загина возач од Скопје во сообраќајка на патот Гостивар – Кичево",
+          "link": "https://makfax.com.mk/crna-hronika/zagina-vozach-od-skopje-vo-soobrakajka-na-patot-gostivar-kichevo/",
+          "published": "Sun, 09 Aug 2026 12:23:26 +0000"
         },
         {
           "source": "Makfax",
@@ -29,52 +41,52 @@
           "published": "Sun, 09 Aug 2026 11:11:06 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Вечерва во Драчево продолжува киното на отворено со филмот „Трето полувреме“",
-          "link": "https://makfax.com.mk/kultura/vecherva-vo-drachevo-prodolzhuva-kinoto-na-otvoreno-so-filmot-treto-poluvreme/",
-          "published": "Sun, 09 Aug 2026 11:05:12 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Зеленски: Путин подготвува тајна мобилизација и носи десетици илјади Корејци",
-          "link": "https://makfax.com.mk/svet/zelenski-putin-podgotvuva-tajna-mobilizacija-i-nosi-desetici-iljadi-korejci/",
-          "published": "Sun, 09 Aug 2026 10:42:56 +0000"
+          "source": "NetPress",
+          "title": "Расчистено разбојништво од почетокот на јули во скопско",
+          "link": "https://netpress.com.mk/raschisteno-razbojnishtvo-od-pochetokot-na-juli-vo-skopsko/",
+          "published": "Sun, 09 Aug 2026 12:45:11 +0000"
         },
         {
           "source": "NetPress",
-          "title": "ВИДЕО| Мицковски: Силно светнал ден, 35 години независност!",
-          "link": "https://netpress.com.mk/video-miczkovski-silno-svetnal-den-35-godini-nezavisnost/",
-          "published": "Sun, 09 Aug 2026 11:58:44 +0000"
+          "title": "Путин би можел да го тестира НАТО со ограничен напад",
+          "link": "https://netpress.com.mk/putin-bi-mozhel-da-go-testira-nato-so-ogranichen-napad/",
+          "published": "Sun, 09 Aug 2026 12:25:56 +0000"
         },
         {
           "source": "NetPress",
-          "title": "ВИДЕО| Стотици древни амфори откриени крај Сицилија",
-          "link": "https://netpress.com.mk/video-stoticzi-drevni-amfori-otkrieni-kraj-siczilija/",
-          "published": "Sun, 09 Aug 2026 11:53:43 +0000"
+          "title": "На граничните премини Табановце, Пелинце и Богородица се чека и по повеќе од еден час",
+          "link": "https://netpress.com.mk/na-granichnite-premini-tabanovcze-pelincze-i-bogorodicza-se-cheka-i-po-poveke-od-eden-chas/",
+          "published": "Sun, 09 Aug 2026 12:24:38 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Јамалов истакнува дека Владата ја позиционира Македонија како се поатрактивна туристичка дестинација",
-          "link": "https://netpress.com.mk/jamalov-istaknuva-deka-vladata-ja-poziczionira-makedonija-kako-se-poatraktivna-turistichka-destinaczija/",
-          "published": "Sun, 09 Aug 2026 11:46:14 +0000"
+          "title": "35 години независност на Македонија – објавено видео пред вечерашниот музичко-сценски спектакл",
+          "link": "https://netpress.com.mk/35-godini-nezavisnost-na-makedonija-objaveno-video-pred-vecherashniot-muzichko-sczenski-spektakl/",
+          "published": "Sun, 09 Aug 2026 12:21:44 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Невработеноста во Русија најниска меѓу земјите од Г20",
-          "link": "https://netpress.com.mk/nevrabotenosta-vo-rusija-najniska-megu-zemjite-od-g20/",
-          "published": "Sun, 09 Aug 2026 11:11:47 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Барби ѝ оддава почит на Витни Хјустон со нова кукла",
-          "link": "https://netpress.com.mk/barbi-%d1%9d-oddava-pochit-na-vitni-hjuston-so-nova-kukla/",
-          "published": "Sun, 09 Aug 2026 10:54:01 +0000"
+          "title": "Девет пожари на отворено од кои пет се активни, јави ЦУК",
+          "link": "https://netpress.com.mk/devet-pozhari-na-otvoreno-od-koi-pet-se-aktivni-javi-czuk/",
+          "published": "Sun, 09 Aug 2026 12:14:15 +0000"
         }
       ]
     },
     {
       "region": "Свет",
       "items": [
+        {
+          "source": "BBC",
+          "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
+          "link": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 09 Aug 2026 12:12:10 GMT"
+        },
+        {
+          "source": "BBC",
+          "title": "Ancient Roman shipwreck discovered off Sicily coast",
+          "link": "https://www.bbc.co.uk/news/articles/cvgx1kpz17go?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 09 Aug 2026 12:27:26 GMT"
+        },
         {
           "source": "BBC",
           "title": "Fifa criticises campaign to oust president Infantino",
@@ -91,49 +103,37 @@
           "source": "BBC",
           "title": "Suspected crime boss Daniel Kinahan returning to Ireland in high-security operation",
           "link": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss",
-          "published": "Sun, 09 Aug 2026 10:02:52 GMT"
-        },
-        {
-          "source": "BBC",
-          "title": "State of emergency declared as fast-moving Canada wildfire doubles in size",
-          "link": "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o?at_medium=RSS&at_campaign=rss",
-          "published": "Sun, 09 Aug 2026 06:46:40 GMT"
-        },
-        {
-          "source": "BBC",
-          "title": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
-          "link": "https://www.bbc.co.uk/news/articles/c934j5y2lq9o?at_medium=RSS&at_campaign=rss",
-          "published": "Sat, 08 Aug 2026 19:18:57 GMT"
+          "published": "Sun, 09 Aug 2026 12:39:18 GMT"
         },
         {
           "source": "Al Jazeera",
-          "title": "Hundreds forced onto Rome streets amid crackdown on squatted building",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/hundreds-forced-onto-rome-streets-amid-crackdown-on-squatted-building?traffic_source=rss",
-          "published": "Sun, 09 Aug 2026 11:31:54 +0000"
+          "title": "Israel rejects Donald Trump’s Gaza Board of Peace plan",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/israel-rejects-donald-trumps-gaza-board-of-peace-plan?traffic_source=rss",
+          "published": "Sun, 09 Aug 2026 12:51:34 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Israel rejects Trump’s 15-point plan for Gaza",
-          "link": "https://www.aljazeera.com/news/2026/8/9/israel-rejects-trumps-15-point-plan-for-gaza?traffic_source=rss",
-          "published": "Sun, 09 Aug 2026 11:31:18 +0000"
+          "title": "La Liga: Five key talking points heading into the 2026-2027 season",
+          "link": "https://www.aljazeera.com/sports/2026/8/9/la-liga-five-key-talking-points-heading-into-the-2026-2027-season?traffic_source=rss",
+          "published": "Sun, 09 Aug 2026 12:42:48 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Russian forces kill several in Ukraine, launch ‘brutal’ attack in Odesa",
-          "link": "https://www.aljazeera.com/news/2026/8/9/russian-forces-kill-several-in-ukraine-launch-brutal-attack-in-odesa?traffic_source=rss",
-          "published": "Sun, 09 Aug 2026 10:55:06 +0000"
+          "title": "Nigeria mass weddings ease financial burden for couples",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/nigeria-mass-weddings-ease-financial-burden-for-couples?traffic_source=rss",
+          "published": "Sun, 09 Aug 2026 12:07:51 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Yemeni army warns Houthis after attacks heighten escalation risk",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/yemeni-army-warns-houthis-after-attacks-heighten-escalation-risk?traffic_source=rss",
-          "published": "Sun, 09 Aug 2026 10:45:57 +0000"
+          "title": "Which other countries could join the Turkiye-Saudi-Pakistan defence pact?",
+          "link": "https://www.aljazeera.com/news/2026/8/9/which-other-countries-could-join-the-turkiye-saudi-pakistan-defence-pact?traffic_source=rss",
+          "published": "Sun, 09 Aug 2026 11:59:59 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Palestinians in occupied West Bank hold firm on Indigenous Peoples’ Day",
-          "link": "https://www.aljazeera.com/news/2026/8/9/palestinians-in-the-west-bank-hold-firm-on-indigenous-peoples-day?traffic_source=rss",
-          "published": "Sun, 09 Aug 2026 10:35:00 +0000"
+          "title": "‘US and Iran are talking past each other’ in indirect negotiations",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/us-and-iran-are-talking-past-each-other-in-indirect-negotiations?traffic_source=rss",
+          "published": "Sun, 09 Aug 2026 11:53:03 +0000"
         }
       ]
     }
