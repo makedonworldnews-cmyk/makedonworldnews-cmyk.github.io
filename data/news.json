@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-09T17:38:27Z",
+  "updatedAt": "2026-08-09T18:03:51Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Хрватска е поскапа од Грција, Италија, Турција и Шпанија",
+          "link": "https://makfax.com.mk/svet/region/hrvatska-e-poskapa-od-grcija-italija-turcija-i-shpanija/",
+          "published": "Sun, 09 Aug 2026 17:52:52 +0000"
         },
         {
           "source": "Makfax",
@@ -35,10 +41,16 @@
           "published": "Sun, 09 Aug 2026 17:00:28 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Не поднесуваат лажна љубезност: хороскопски знаци кои не можат да скриат кога некој им оди на нерви",
-          "link": "https://makfax.com.mk/zanimlivosti/ne-podnesuvaat-lazhna-ljubeznost-horoskopski-znaci-koi-ne-mozhat-da-skriat-koga-nekoj-im-odi-na-nervi/",
-          "published": "Sun, 09 Aug 2026 16:45:25 +0000"
+          "source": "NetPress",
+          "title": "На ТОАРИЛУЦ примени поголем број пациенти повредени во сообраќајки",
+          "link": "https://netpress.com.mk/na-toarilucz-primeni-pogolem-broj-paczienti-povredeni-vo-soobrakajki/",
+          "published": "Sun, 09 Aug 2026 17:53:35 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Три обиди за убиство на Меси на Светското првенство, објави ФБИ истакнувајќи дека се подготвувал масакр за време на Мундијалот",
+          "link": "https://netpress.com.mk/tri-obidi-za-ubistvo-na-mesi-na-svetskoto-prvenstvo-objavi-fbi-istaknuvajki-deka-se-podgotvuval-masakr-za-vreme-na-mundijalot/",
+          "published": "Sun, 09 Aug 2026 17:50:05 +0000"
         },
         {
           "source": "NetPress",
@@ -57,18 +69,6 @@
           "title": "Почина Мила Камбовска поранешна судијка во Врховниот суд",
           "link": "https://netpress.com.mk/pochina-mila-kambovska-poraneshna-sudijka-vo-vrhovniot-sud/",
           "published": "Sun, 09 Aug 2026 16:21:04 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Македонските ракометни кадети се деветти на Еевропското првенство",
-          "link": "https://netpress.com.mk/makedonskite-rakometni-kadeti-se-devetti-na-eevropskoto-prvenstvo/",
-          "published": "Sun, 09 Aug 2026 15:55:05 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Седум бебиња родени за два дена во кочанската болница",
-          "link": "https://netpress.com.mk/sedum-bebina-rodeni-za-dva-dena-vo-kochanskata-bolnicza/",
-          "published": "Sun, 09 Aug 2026 15:45:08 +0000"
         }
       ]
     },
