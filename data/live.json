@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T22:57:04Z",
+  "generated_at": "2026-08-09T23:27:35Z",
   "items": [
     {
       "region": "Македонија",
@@ -109,6 +109,20 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "Union reports 108 attacks on Palestinian journalists in July",
+      "link": "https://www.aljazeera.com/news/2026/8/9/union-reports-108-attacks-on-palestinian-journalists-in-july?traffic_source=rss",
+      "published": "Sun, 09 Aug 2026 23:01:25 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "What’s driving unrest in Pakistan-administered Kashmir?",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/aje-onl-nf_dnrexp-260808-warrinera-pakistankashmir-100826?traffic_source=rss",
+      "published": "Sun, 09 Aug 2026 22:37:11 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "Germany warns of ‘daily hybrid warfare’ after explosive-laden drone found",
       "link": "https://www.aljazeera.com/news/2026/8/9/germany-warns-of-daily-hybrid-warfare-following-suspected-drone-attack?traffic_source=rss",
       "published": "Sun, 09 Aug 2026 20:40:25 +0000"
@@ -126,20 +140,6 @@
       "title": "Israel is ‘trying to make Palestine disappear’: The Elders",
       "link": "https://www.aljazeera.com/video/the-bottom-line/2026/8/9/israel-is-trying-to-make-palestine-disappear-the-elders?traffic_source=rss",
       "published": "Sun, 09 Aug 2026 19:30:00 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Can the Doha Framework end the conflict in eastern DRC?",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/8/9/can-the-doha-framework-end-the-conflict-in-eastern-drc?traffic_source=rss",
-      "published": "Sun, 09 Aug 2026 19:07:35 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Hundreds of anti-tourism Spanish protesters march in Mallorca’s Soller",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/hundreds-of-anti-tourism-spanish-protesters-march-in-mallorcas-soller?traffic_source=rss",
-      "published": "Sun, 09 Aug 2026 18:59:33 +0000"
     }
   ]
 }
