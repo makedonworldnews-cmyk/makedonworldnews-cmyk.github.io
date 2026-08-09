@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T00:35:13Z",
+  "generated_at": "2026-08-09T02:36:45Z",
   "items": [
     {
       "region": "Македонија",
@@ -109,6 +109,20 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "Israeli settler attacks rise as West Bank residents lose land",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/09-08-reported-nour-odeh-bethlehem?traffic_source=rss",
+      "published": "Sun, 09 Aug 2026 01:43:04 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Hungary nominates former Supreme Court chief Andras Baka for presidency",
+      "link": "https://www.aljazeera.com/news/2026/8/9/hungary-nominates-former-supreme-court-chief-andras-baka-for-presidency?traffic_source=rss",
+      "published": "Sun, 09 Aug 2026 00:41:01 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "Iran war live: Tehran demands end to US blockade to reopen Strait of Hormuz",
       "link": "https://www.aljazeera.com/news/liveblog/2026/8/9/iran-war-live-tehran-demands-end-to-us-blockade-to-reopen-strait-of-hormuz?traffic_source=rss",
       "published": "Sun, 09 Aug 2026 00:00:00 +0000"
@@ -126,20 +140,6 @@
       "title": "Vance says US ‘destroyed’ Iran’s nuclear programme",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/vance-says-us-destroyed-irans-nuclear-programme?traffic_source=rss",
       "published": "Sat, 08 Aug 2026 23:27:55 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Four killed in helicopter crash in Brazil’s Rio de Janeiro",
-      "link": "https://www.aljazeera.com/news/2026/8/8/four-killed-in-helicopter-crash-in-brazils-rio-de-janeiro?traffic_source=rss",
-      "published": "Sat, 08 Aug 2026 23:19:28 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Crews recover 19 bodies from rubble of destroyed Gaza building",
-      "link": "https://www.aljazeera.com/news/2026/8/8/crews-recover-19-bodies-from-rubble-of-destroyed-gaza-building?traffic_source=rss",
-      "published": "Sat, 08 Aug 2026 23:09:30 +0000"
     }
   ]
 }
