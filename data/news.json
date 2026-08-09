@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-09T09:48:15Z",
+  "updatedAt": "2026-08-09T10:17:40Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) Јамалов: Владата ја позиционира Македонија како сè поатрактивна туристичка дестинација",
+          "link": "https://makfax.com.mk/makedonija/video-jamalov-vladata-ja-pozicionira-makedonija-kako-se-poatraktivna-turistichka-destinacija/",
+          "published": "Sun, 09 Aug 2026 09:54:06 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) Манасиевски: Тепачи, трговци со дрога и роднини на Заев, тоа се децата на Филипче кои ги промoвира како иднина на Македонија",
+          "link": "https://makfax.com.mk/makedonija/video-manasievski-tepachi-trgovci-so-droga-i-rodnini-na-zaev-toa-se-decata-na-filipche-koi-gi-promovira-kako-idnina-na-makedonija/",
+          "published": "Sun, 09 Aug 2026 09:51:06 +0000"
         },
         {
           "source": "Makfax",
@@ -29,16 +41,16 @@
           "published": "Sun, 09 Aug 2026 09:39:51 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "(Видео) Повеќе од 15 часа борба со пожарот на депонија во Крива Паланка, градоначалникот очекува огнот до вечер да биде изгаснат",
-          "link": "https://makfax.com.mk/top/video-poveke-od-15-chasa-borba-so-pozharot-na-deponija-vo-kriva-palanka-gradonachalnikot-ochekuva-ognot-do-vecher-da-bide-izgasnat/",
-          "published": "Sun, 09 Aug 2026 09:13:06 +0000"
+          "source": "NetPress",
+          "title": "Скопјанец управувал возило со 2,13 промили алкохол и без возачка дозвола",
+          "link": "https://netpress.com.mk/skopjanecz-upravuval-vozilo-so-213-promili-alkohol-i-bez-vozachka-dozvola/",
+          "published": "Sun, 09 Aug 2026 09:56:00 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Овој мал плод прави чуда за здравјето: Влијае на срцето, варењето и мозокот",
-          "link": "https://makfax.com.mk/zanimlivosti/ovoj-mal-plod-pravi-chuda-za-zdravjeto-vlijae-na-srceto-varenjeto-i-mozokot/",
-          "published": "Sun, 09 Aug 2026 09:02:16 +0000"
+          "source": "NetPress",
+          "title": "СВР Скопје расчисти две кривични дела за убиство, сторителите се лишени од слобода",
+          "link": "https://netpress.com.mk/svr-skopje-raschisti-dve-krivichni-dela-za-ubistvo-storitelite-se-lisheni-od-sloboda/",
+          "published": "Sun, 09 Aug 2026 09:50:33 +0000"
         },
         {
           "source": "NetPress",
@@ -57,18 +69,6 @@
           "title": "Иран го условува отворањето на Хормуз со запирање на американските закани",
           "link": "https://netpress.com.mk/iran-go-uslovuva-otvoraneto-na-hormuz-so-zapirane-na-amerikanskite-zakani/",
           "published": "Sun, 09 Aug 2026 09:22:42 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Пентагон бара од одбранбената индустрија брзо да го зголеми производството и испораката на оружје",
-          "link": "https://netpress.com.mk/pentagon-bara-od-odbranbenata-industrija-brzo-da-go-zgolemi-proizvodstvoto-i-isporakata-na-oruzhje/",
-          "published": "Sun, 09 Aug 2026 09:09:57 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Зголемен ризик од појава и брзо ширење на пожари на отворен простор и шумски пожари поради многу висок FWI",
-          "link": "https://netpress.com.mk/zgolemen-rizik-od-pojava-i-brzo-shirene-na-pozhari-na-otvoren-prostor-i-shumski-pozhari-poradi-mnogu-visok-fwi/",
-          "published": "Sun, 09 Aug 2026 09:06:44 +0000"
         }
       ]
     },
@@ -83,27 +83,27 @@
         },
         {
           "source": "BBC",
-          "title": "Hundreds arrested over French wildfires, but who is to blame?",
-          "link": "https://www.bbc.co.uk/news/articles/cvgxjn92x9jo?at_medium=RSS&at_campaign=rss",
-          "published": "Sat, 08 Aug 2026 23:59:23 GMT"
+          "title": "Fifa criticises campaign to oust president Infantino",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cj03drn965do?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 08 Aug 2026 22:06:44 GMT"
+        },
+        {
+          "source": "BBC",
+          "title": "Suspected crime boss Daniel Kinahan returning to Ireland in high-security operation",
+          "link": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 09 Aug 2026 10:02:52 GMT"
+        },
+        {
+          "source": "BBC",
+          "title": "State of emergency declared as fast-moving Canada wildfire doubles in size",
+          "link": "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 09 Aug 2026 06:46:40 GMT"
         },
         {
           "source": "BBC",
           "title": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
           "link": "https://www.bbc.co.uk/news/articles/c934j5y2lq9o?at_medium=RSS&at_campaign=rss",
           "published": "Sat, 08 Aug 2026 19:18:57 GMT"
-        },
-        {
-          "source": "BBC",
-          "title": "Perez Hilton faces long recovery after reports he self-harmed during livestream",
-          "link": "https://www.bbc.co.uk/news/articles/cg5lnqjz497o?at_medium=RSS&at_campaign=rss",
-          "published": "Sun, 09 Aug 2026 04:32:06 GMT"
-        },
-        {
-          "source": "BBC",
-          "title": "Trump's ex-lawyer Todd Blanche narrowly confirmed as US attorney general",
-          "link": "https://www.bbc.co.uk/news/articles/cewr898jy8go?at_medium=RSS&at_campaign=rss",
-          "published": "Sat, 08 Aug 2026 15:56:39 GMT"
         },
         {
           "source": "Al Jazeera",
