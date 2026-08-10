@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-10T19:12:35Z",
+  "updatedAt": "2026-08-10T20:03:55Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Бројот на загинати во Колумбија надмина 100, претседателот потврди 111 жртви",
+          "link": "https://makfax.com.mk/svet/brojot-na-zaginati-vo-kolumbija-nadmina-100-pretsedatelot-potvrdi-111-zhrtvi/",
+          "published": "Mon, 10 Aug 2026 19:32:27 +0000"
         },
         {
           "source": "Makfax",
@@ -35,10 +41,22 @@
           "published": "Mon, 10 Aug 2026 17:41:56 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Колумбија прогласи состојба на „национална катастрофа“ по силниот земјотрес",
-          "link": "https://makfax.com.mk/svet/kolumbija-proglasi-sostojba-na-nacionalna-katastrofa-po-silniot-zemjotres/",
-          "published": "Mon, 10 Aug 2026 17:40:04 +0000"
+          "source": "NetPress",
+          "title": "Расте бројот на загинати по силниот земјотрес во Колумбија",
+          "link": "https://netpress.com.mk/raste-brojot-na-zaginati-po-silniot-zemjotres-vo-kolumbija/",
+          "published": "Mon, 10 Aug 2026 19:54:27 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Океаните со рекордно висока температура во јули",
+          "link": "https://netpress.com.mk/okeanite-so-rekordno-visoka-temperatura-vo-juli/",
+          "published": "Mon, 10 Aug 2026 19:20:47 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Николоски смета дека е безобразно опозицијата да напаѓа за одмори кога Филипче еден месец не го виделе",
+          "link": "https://netpress.com.mk/nikoloski-smeta-deka-e-bezobrazno-opoziczijata-da-napaga-za-odmori-koga-filipche-eden-mesecz-ne-go-videle/",
+          "published": "Mon, 10 Aug 2026 19:17:27 +0000"
         },
         {
           "source": "NetPress",
@@ -51,24 +69,6 @@
           "title": "Куче нападнало 18-месечно дете во Шуто Оризари, родителите бараат реакција од надлежните",
           "link": "https://netpress.com.mk/kuche-napadnalo-18-mesechno-dete-vo-shuto-orizari-roditelite-baraat-reakczija-od-nadlezhnite/",
           "published": "Mon, 10 Aug 2026 18:42:01 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Српски турист извлечен мртов кај Сарти, спасител се обидел да го реанимира",
-          "link": "https://netpress.com.mk/srpski-turist-izvlechen-mrtov-kaj-sarti-spasitel-se-obidel-da-go-reanimira/",
-          "published": "Mon, 10 Aug 2026 18:24:47 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Активни се пожарите на југот и во централна Шпанија",
-          "link": "https://netpress.com.mk/aktivni-se-pozharite-na-jugot-i-vo-czentralna-shpanija/",
-          "published": "Mon, 10 Aug 2026 17:47:32 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Кокаин вреден над 200 милиони фунти откриен меѓу банани во пристаништето Есекс",
-          "link": "https://netpress.com.mk/kokain-vreden-nad-200-milioni-funti-otkrien-megu-banani-vo-pristanishteto-eseks/",
-          "published": "Mon, 10 Aug 2026 17:45:05 +0000"
         }
       ]
     },
@@ -95,15 +95,27 @@
         },
         {
           "source": "BBC",
-          "title": "'Total incinerated destruction': Canada wildfire evacuees wonder if they still have homes",
+          "title": "'We've had a lot of close calls': Canada wildfire evacuees wonder if they still have homes",
           "link": "https://www.bbc.co.uk/news/articles/cx2lwv032j9o?at_medium=RSS&at_campaign=rss",
-          "published": "Mon, 10 Aug 2026 16:10:56 GMT"
+          "published": "Mon, 10 Aug 2026 19:17:11 GMT"
         },
         {
           "source": "BBC",
-          "title": "We are chasing Ebola virus - it is ahead of us, WHO warns",
-          "link": "https://www.bbc.co.uk/news/articles/c5ydx7m8gzeo?at_medium=RSS&at_campaign=rss",
-          "published": "Mon, 10 Aug 2026 17:50:29 GMT"
+          "title": "30 years later, a former gang member will stand trial for Tupac's murder",
+          "link": "https://www.bbc.co.uk/news/articles/cgmkl1j3dwvo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 10 Aug 2026 16:52:47 GMT"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "US Congresswoman Nancy Mace calls Muslim officials ‘threat’ to US",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/10/us-congresswoman-nancy-mace-calls-muslim-officials-threat-to-us?traffic_source=rss",
+          "published": "Mon, 10 Aug 2026 19:30:29 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Migrant children go days without food in Ceuta amid asylum crisis",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/10/migrant-children-go-days-without-food-in-ceuta-amid-asylum-crisis?traffic_source=rss",
+          "published": "Mon, 10 Aug 2026 19:08:08 +0000"
         },
         {
           "source": "Al Jazeera",
@@ -122,18 +134,6 @@
           "title": "Netanyahu’s veto and the limits of American power",
           "link": "https://www.aljazeera.com/opinions/2026/8/10/netanyahus-veto-and-the-limits-of-american-power?traffic_source=rss",
           "published": "Mon, 10 Aug 2026 18:35:31 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Iran hierarchy consolidation as IRGC veteran tapped for key security role",
-          "link": "https://www.aljazeera.com/news/2026/8/10/iran-hierarchy-consolidation-as-irgc-veteran-tapped-for-key-security-role?traffic_source=rss",
-          "published": "Mon, 10 Aug 2026 18:34:25 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Oman trying to contain extensive oil spill from stricken tanker",
-          "link": "https://www.aljazeera.com/news/2026/8/10/oman-trying-to-contain-extensive-oil-spill-from-stricken-tanker?traffic_source=rss",
-          "published": "Mon, 10 Aug 2026 18:15:23 +0000"
         }
       ]
     }
