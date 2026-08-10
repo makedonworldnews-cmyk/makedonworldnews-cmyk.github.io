@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-10T18:05:51Z",
+  "updatedAt": "2026-08-10T19:12:35Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Шакира испрати порака за поддршка до Колумбија по земјотресот",
+          "link": "https://makfax.com.mk/svet/shakira-isprati-poraka-za-poddrshka-do-kolumbija-po-zemjotresot/",
+          "published": "Mon, 10 Aug 2026 18:46:28 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) Пожарите повторно беснеат во Шпанија",
+          "link": "https://makfax.com.mk/svet/video-pozharite-povtorno-besneat-vo-shpanija/",
+          "published": "Mon, 10 Aug 2026 18:43:08 +0000"
         },
         {
           "source": "Makfax",
@@ -29,16 +41,22 @@
           "published": "Mon, 10 Aug 2026 17:40:04 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "(Видео) Кина не успеа да лансира сателит",
-          "link": "https://makfax.com.mk/svet/video-kina-ne-uspea-da-lansira-satelit/",
-          "published": "Mon, 10 Aug 2026 17:35:20 +0000"
+          "source": "NetPress",
+          "title": "УЕФА, КОНКАКАФ и АФЦ го обвинуваат Инфантино",
+          "link": "https://netpress.com.mk/uefa-konkakaf-i-afcz-go-obvinuvaat-infantino/",
+          "published": "Mon, 10 Aug 2026 18:52:46 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Расте бројот на загинатите во Колумбија: се пребаруваат урнатините по земјотресот",
-          "link": "https://makfax.com.mk/svet/raste-brojot-na-zaginatite-vo-kolumbija-se-prebaruvaat-urnatinite-po-zemjotresot/",
-          "published": "Mon, 10 Aug 2026 17:28:39 +0000"
+          "source": "NetPress",
+          "title": "Куче нападнало 18-месечно дете во Шуто Оризари, родителите бараат реакција од надлежните",
+          "link": "https://netpress.com.mk/kuche-napadnalo-18-mesechno-dete-vo-shuto-orizari-roditelite-baraat-reakczija-od-nadlezhnite/",
+          "published": "Mon, 10 Aug 2026 18:42:01 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Српски турист извлечен мртов кај Сарти, спасител се обидел да го реанимира",
+          "link": "https://netpress.com.mk/srpski-turist-izvlechen-mrtov-kaj-sarti-spasitel-se-obidel-da-go-reanimira/",
+          "published": "Mon, 10 Aug 2026 18:24:47 +0000"
         },
         {
           "source": "NetPress",
@@ -51,24 +69,6 @@
           "title": "Кокаин вреден над 200 милиони фунти откриен меѓу банани во пристаништето Есекс",
           "link": "https://netpress.com.mk/kokain-vreden-nad-200-milioni-funti-otkrien-megu-banani-vo-pristanishteto-eseks/",
           "published": "Mon, 10 Aug 2026 17:45:05 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Вкупно 15 пожари на отворено – седум се изгаснати, шест се активни, а два се под контрола",
-          "link": "https://netpress.com.mk/vkupno-15-pozhari-na-otvoreno-sedum-se-izgasnati-shest-se-aktivni-a-dva-se-pod-kontrola/",
-          "published": "Mon, 10 Aug 2026 17:44:48 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "113 години од поделбата на Македонија во Букурешт – Бугарите ги нуделе Штип и Кочани за Кавала",
-          "link": "https://netpress.com.mk/113-godini-od-podelbata-na-makedonija-vo-bukuresht-bugarite-gi-nudele-shtip-i-kochani-za-kavala/",
-          "published": "Mon, 10 Aug 2026 17:15:09 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Иран планира да наплаќа за минување низ Хормуз",
-          "link": "https://netpress.com.mk/iran-planira-da-naplaka-za-minuvane-niz-ormuskata-tesnina/",
-          "published": "Mon, 10 Aug 2026 16:50:14 +0000"
         }
       ]
     },
@@ -107,33 +107,33 @@
         },
         {
           "source": "Al Jazeera",
-          "title": "Zuckerberg’s yacht crew did not hear call for help, says spokesperson",
-          "link": "https://www.aljazeera.com/news/2026/8/10/zuckerbergs-yacht-crew-did-not-hear-call-for-help-says-spokesperson?traffic_source=rss",
-          "published": "Mon, 10 Aug 2026 17:51:18 +0000"
+          "title": "111 dead after Colombia quakes leave trail of destruction",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/10/111-dead-after-colombia-quakes-leave-trail-of-destruction?traffic_source=rss",
+          "published": "Mon, 10 Aug 2026 18:51:02 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Palestinian club football to restart in September after Gaza war suspension",
-          "link": "https://www.aljazeera.com/sports/2026/8/10/palestinian-club-football-to-restart-in-september-after-gaza-war-suspension?traffic_source=rss",
-          "published": "Mon, 10 Aug 2026 17:30:36 +0000"
+          "title": "Lebanon ‘files new lawsuit against’ ex-central bank chief Riad Salameh",
+          "link": "https://www.aljazeera.com/news/2026/8/10/lebanon-files-new-lawsuit-against-ex-central-bank-chief-riad-salameh?traffic_source=rss",
+          "published": "Mon, 10 Aug 2026 18:37:07 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Iran’s president says Khamenei is in ‘perfect health’",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/10/irans-president-says-khamenei-is-in-perfect?traffic_source=rss",
-          "published": "Mon, 10 Aug 2026 17:05:01 +0000"
+          "title": "Netanyahu’s veto and the limits of American power",
+          "link": "https://www.aljazeera.com/opinions/2026/8/10/netanyahus-veto-and-the-limits-of-american-power?traffic_source=rss",
+          "published": "Mon, 10 Aug 2026 18:35:31 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Colombia earthquake live: Magnitude 7.4 quake strikes near Bogota; 69 dead",
-          "link": "https://www.aljazeera.com/news/liveblog/2026/8/10/colombia-earthquake-live-magnitude-7-4-quake-strikes-near-bogota-47-dead?traffic_source=rss",
-          "published": "Mon, 10 Aug 2026 17:00:41 +0000"
+          "title": "Iran hierarchy consolidation as IRGC veteran tapped for key security role",
+          "link": "https://www.aljazeera.com/news/2026/8/10/iran-hierarchy-consolidation-as-irgc-veteran-tapped-for-key-security-role?traffic_source=rss",
+          "published": "Mon, 10 Aug 2026 18:34:25 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Photos: 7.4-magnitude earthquake rocks western Colombia",
-          "link": "https://www.aljazeera.com/gallery/2026/8/10/photos-7-4-magnitude-earthquake-rocks-western-colombia?traffic_source=rss",
-          "published": "Mon, 10 Aug 2026 16:48:50 +0000"
+          "title": "Oman trying to contain extensive oil spill from stricken tanker",
+          "link": "https://www.aljazeera.com/news/2026/8/10/oman-trying-to-contain-extensive-oil-spill-from-stricken-tanker?traffic_source=rss",
+          "published": "Mon, 10 Aug 2026 18:15:23 +0000"
         }
       ]
     }
