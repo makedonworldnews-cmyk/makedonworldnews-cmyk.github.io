@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T23:05:18Z",
+  "generated_at": "2026-08-10T23:46:09Z",
   "items": [
     {
       "region": "Македонија",
@@ -109,6 +109,13 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "Inside a secret launch site for Ukraine’s deep-strike drones",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/10/aje-onl-nf_secret-launch-site-for-ukraines-deep-strike-drone-100826?traffic_source=rss",
+      "published": "Mon, 10 Aug 2026 23:18:53 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "Moment of terror as powerful earthquake shakes airport in Colombia",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/8/10/moment-of-terror-as-powerful-earthquake-shakes-airport-in-colombia?traffic_source=rss",
       "published": "Mon, 10 Aug 2026 22:46:32 +0000"
@@ -133,13 +140,6 @@
       "title": "Colombia’s Espriella to lead emergency efforts following Bogota earthquake",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/8/10/colombias-espriella-to-lead-emergency-efforts-following-bogota-earthquake?traffic_source=rss",
       "published": "Mon, 10 Aug 2026 21:48:23 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Europe braces for another heatwave after record-breaking temperatures",
-      "link": "https://www.aljazeera.com/news/2026/8/10/europe-braces-for-another-heatwave-after-record-breaking-temperatures?traffic_source=rss",
-      "published": "Mon, 10 Aug 2026 21:29:32 +0000"
     }
   ]
 }
