@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-11T20:21:20Z",
+  "updatedAt": "2026-08-11T21:21:20Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) „Делиите“ ги избркаа играчите на Црвена звезда во соблекувалната",
+          "link": "https://makfax.com.mk/sport/video-deliite-gi-izbrkaa-igrachite-na-crvena-zvezda-vo-soblekuvalnata/",
+          "published": "Tue, 11 Aug 2026 21:20:56 +0000"
         },
         {
           "source": "Makfax",
@@ -33,12 +39,6 @@
           "title": "Надминат проблемот со здравственото осигурување на вработените во МВР",
           "link": "https://makfax.com.mk/makedonija/nadminat-problemot-so-zdravstvenoto-osiguruvanje-na-vrabotenite-vo-mvr/",
           "published": "Tue, 11 Aug 2026 18:20:27 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Грчкиот премиер Мицотакис примен во болница по пад од велосипед",
-          "link": "https://makfax.com.mk/svet/region/grchkiot-premier-micotakis-primen-vo-bolnica-po-pad-od-velosiped/",
-          "published": "Tue, 11 Aug 2026 17:31:22 +0000"
         },
         {
           "source": "NetPress",
@@ -83,9 +83,15 @@
         },
         {
           "source": "BBC",
-          "title": "Trump hid in catering truck in secret plane swap over Iran threat, reports say",
-          "link": "https://www.bbc.co.uk/news/articles/cm2g90vvy62o?at_medium=RSS&at_campaign=rss",
-          "published": "Tue, 11 Aug 2026 14:47:28 GMT"
+          "title": "US says helicopter fired missiles to disable ship breaking Iran blockade",
+          "link": "https://www.bbc.co.uk/news/articles/cvg8lyyyjedo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 11 Aug 2026 21:14:56 GMT"
+        },
+        {
+          "source": "BBC",
+          "title": "Inside the Secret Service 'shell game' to hide US presidents in plain sight",
+          "link": "https://www.bbc.co.uk/news/articles/c9d84874dzjo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 11 Aug 2026 20:39:42 GMT"
         },
         {
           "source": "BBC",
@@ -100,40 +106,34 @@
           "published": "Tue, 11 Aug 2026 17:02:22 GMT"
         },
         {
-          "source": "BBC",
-          "title": "Lebanon parliament votes to abolish death penalty",
-          "link": "https://www.bbc.co.uk/news/articles/c8enj8p1xwgo?at_medium=RSS&at_campaign=rss",
-          "published": "Tue, 11 Aug 2026 15:24:07 GMT"
+          "source": "Al Jazeera",
+          "title": "Pakistan interior minister in Tehran amid talks to reopen Hormuz",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/pakistan-interior-minister-in-tehran-amid-talks-to-reopen-hormuz?traffic_source=rss",
+          "published": "Tue, 11 Aug 2026 20:35:50 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "US military fires on cargo vessel it said sought to break Iran blockade",
-          "link": "https://www.aljazeera.com/news/2026/8/11/us-military-fires-on-cargo-vessel-it-said-sought-to-break-iran-blockade?traffic_source=rss",
-          "published": "Tue, 11 Aug 2026 19:58:12 +0000"
+          "title": "In Gaza’s tents, widows face war’s harshest realities alone",
+          "link": "https://www.aljazeera.com/news/2026/8/11/in-gazas-tents-widows-face-wars-harshest-realities-alone?traffic_source=rss",
+          "published": "Tue, 11 Aug 2026 20:30:11 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Truck crash in Egypt kills 18, many of them child labourers",
-          "link": "https://www.aljazeera.com/news/2026/8/11/truck-crash-in-egypt-kills-18-many-of-them-child-labourers?traffic_source=rss",
-          "published": "Tue, 11 Aug 2026 19:21:32 +0000"
+          "title": "Fishermen face deadly dangers as Yemen’s Red Sea becomes a warzone",
+          "link": "https://www.aljazeera.com/features/2026/8/11/yemen-red-sea-fishermen?traffic_source=rss",
+          "published": "Tue, 11 Aug 2026 20:29:34 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "UNESCO says 2.4 million Afghan girls denied access to further education",
-          "link": "https://www.aljazeera.com/news/2026/8/11/unesco-says-2-4-million-afghan-girls-denied-access-to-further-education?traffic_source=rss",
-          "published": "Tue, 11 Aug 2026 18:59:42 +0000"
+          "title": "Israel demolishes home of Palestinian killed during settler attack",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/israel-demolishes-home-of-palestinian-killed-during-settler-attack?traffic_source=rss",
+          "published": "Tue, 11 Aug 2026 20:18:51 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Venezuela and Israel restore consular ties as relations warm",
-          "link": "https://www.aljazeera.com/news/2026/8/11/venezuela-and-israel-restore-consular-ties-as-relations-warm?traffic_source=rss",
-          "published": "Tue, 11 Aug 2026 18:58:33 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Tightened blockade on Gaza causes prices to soar",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/tightened-blockade-on-gaza-causes-prices-to-soar?traffic_source=rss",
-          "published": "Tue, 11 Aug 2026 18:45:26 +0000"
+          "title": "DR Congo Ebola death toll surpasses 2,000",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/dr-congo-ebola-death-toll-surpasses-2000?traffic_source=rss",
+          "published": "Tue, 11 Aug 2026 20:15:26 +0000"
         }
       ]
     }
