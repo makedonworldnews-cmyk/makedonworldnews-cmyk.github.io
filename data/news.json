@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-11T21:21:20Z",
+  "updatedAt": "2026-08-11T22:11:29Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Ван Гал сака да биде селектор на Холандија",
+          "link": "https://makfax.com.mk/sport/van-gal-saka-da-bide-selektor-na-holandija/",
+          "published": "Tue, 11 Aug 2026 21:33:13 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Монако го раскина договорот со Погба",
+          "link": "https://makfax.com.mk/sport/monako-go-raskina-dogovorot-so-pogba/",
+          "published": "Tue, 11 Aug 2026 21:27:04 +0000"
         },
         {
           "source": "Makfax",
@@ -27,18 +39,6 @@
           "title": "Прашањето на германскиoт новинар до Зеленски предизвика бура од реакции",
           "link": "https://makfax.com.mk/svet/prashanjeto-na-germanskiot-novinar-do-zelenski-predizvika-bura-od-reakcii/",
           "published": "Tue, 11 Aug 2026 19:26:30 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "ОН: Авганистан е единствената земја во светот каде девојчињата не смеат во средно училиште",
-          "link": "https://makfax.com.mk/svet/on-avganistan-e-edinstvenata-zemja-vo-svetot-kade-devojchinjata-ne-smeat-vo-sredno-uchilishte/",
-          "published": "Tue, 11 Aug 2026 18:35:47 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Надминат проблемот со здравственото осигурување на вработените во МВР",
-          "link": "https://makfax.com.mk/makedonija/nadminat-problemot-so-zdravstvenoto-osiguruvanje-na-vrabotenite-vo-mvr/",
-          "published": "Tue, 11 Aug 2026 18:20:27 +0000"
         },
         {
           "source": "NetPress",
@@ -107,6 +107,18 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Father and sons forced to manually clear rubble in Gaza",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/father-and-sons-forced-to-manually-clear-rubble-in-gaza?traffic_source=rss",
+          "published": "Tue, 11 Aug 2026 21:24:34 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Relatives mourn victims of Pakistan avalanche",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/relatives-mourn-victims-of-pakistan-avalanche?traffic_source=rss",
+          "published": "Tue, 11 Aug 2026 20:56:30 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Pakistan interior minister in Tehran amid talks to reopen Hormuz",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/pakistan-interior-minister-in-tehran-amid-talks-to-reopen-hormuz?traffic_source=rss",
           "published": "Tue, 11 Aug 2026 20:35:50 +0000"
@@ -122,18 +134,6 @@
           "title": "Fishermen face deadly dangers as Yemen’s Red Sea becomes a warzone",
           "link": "https://www.aljazeera.com/features/2026/8/11/yemen-red-sea-fishermen?traffic_source=rss",
           "published": "Tue, 11 Aug 2026 20:29:34 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Israel demolishes home of Palestinian killed during settler attack",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/israel-demolishes-home-of-palestinian-killed-during-settler-attack?traffic_source=rss",
-          "published": "Tue, 11 Aug 2026 20:18:51 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "DR Congo Ebola death toll surpasses 2,000",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/dr-congo-ebola-death-toll-surpasses-2000?traffic_source=rss",
-          "published": "Tue, 11 Aug 2026 20:15:26 +0000"
         }
       ]
     }
