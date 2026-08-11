@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-11T23:06:21Z",
+  "updatedAt": "2026-08-11T23:55:59Z",
   "groups": [
     {
       "region": "Македонија",
@@ -95,15 +95,21 @@
         },
         {
           "source": "BBC",
+          "title": "These seaside apartments were a ghost city - then police say scammers moved in",
+          "link": "https://www.bbc.co.uk/news/articles/cx2kvlye1k5o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 11 Aug 2026 23:31:18 GMT"
+        },
+        {
+          "source": "BBC",
           "title": "Russia using North Korean missiles to strike Ukraine, Zelensky says",
           "link": "https://www.bbc.co.uk/news/articles/c151dpzwnvxo?at_medium=RSS&at_campaign=rss",
           "published": "Tue, 11 Aug 2026 16:19:44 GMT"
         },
         {
-          "source": "BBC",
-          "title": "Russia releases former US Marine reported in poor health",
-          "link": "https://www.bbc.co.uk/news/articles/cvgj4m8e1ryo?at_medium=RSS&at_campaign=rss",
-          "published": "Tue, 11 Aug 2026 17:02:22 GMT"
+          "source": "Al Jazeera",
+          "title": "Colombia scrambles to find survivors after deadly earthquake",
+          "link": "https://www.aljazeera.com/features/longform/2026/8/11/colombia-scrambles-to-find-survivors-after-deadly-earthquake?traffic_source=rss",
+          "published": "Tue, 11 Aug 2026 23:39:05 +0000"
         },
         {
           "source": "Al Jazeera",
@@ -128,12 +134,6 @@
           "title": "In Gaza’s tents, widows face war’s harshest realities alone",
           "link": "https://www.aljazeera.com/news/2026/8/11/in-gazas-tents-widows-face-wars-harshest-realities-alone?traffic_source=rss",
           "published": "Tue, 11 Aug 2026 20:30:11 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Fishermen face deadly dangers as Yemen’s Red Sea becomes a warzone",
-          "link": "https://www.aljazeera.com/features/2026/8/11/yemen-red-sea-fishermen?traffic_source=rss",
-          "published": "Tue, 11 Aug 2026 20:29:34 +0000"
         }
       ]
     }
