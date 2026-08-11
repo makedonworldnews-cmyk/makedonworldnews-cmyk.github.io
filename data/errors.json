@@ -1,10 +1,15 @@
 {
-  "generated_at": "2026-08-11T07:23:32Z",
+  "updatedAt": "2026-08-11T07:50:17Z",
   "errors": [
     {
       "source": "МИА",
       "url": "https://mia.mk/rss",
       "error": "404 Client Error: Not Found for url: https://mia.mk/rss"
+    },
+    {
+      "source": "NetPress",
+      "url": "https://netpress.com.mk/feed/",
+      "error": "HTTPSConnectionPool(host='netpress.com.mk', port=443): Read timed out. (read timeout=12)"
     }
   ]
 }
