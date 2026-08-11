@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-11T18:27:06Z",
+  "updatedAt": "2026-08-11T19:35:49Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Прашањето на германскиoт новинар до Зеленски предизвика бура од реакции",
+          "link": "https://makfax.com.mk/svet/prashanjeto-na-germanskiot-novinar-do-zelenski-predizvika-bura-od-reakcii/",
+          "published": "Tue, 11 Aug 2026 19:26:30 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "ОН: Авганистан е единствената земја во светот каде девојчињата не смеат во средно училиште",
+          "link": "https://makfax.com.mk/svet/on-avganistan-e-edinstvenata-zemja-vo-svetot-kade-devojchinjata-ne-smeat-vo-sredno-uchilishte/",
+          "published": "Tue, 11 Aug 2026 18:35:47 +0000"
         },
         {
           "source": "Makfax",
@@ -29,16 +41,16 @@
           "published": "Tue, 11 Aug 2026 17:24:09 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Путин ослободи американски маринец од руски затвор, Трамп: Немаше размена",
-          "link": "https://makfax.com.mk/svet/putin-oslobodi-amerikanski-marinec-od-ruski-zatvor-tramp-nemashe-razmena/",
-          "published": "Tue, 11 Aug 2026 17:21:32 +0000"
+          "source": "NetPress",
+          "title": "Пронашлe граната во градината, ја донеле во полициска станица во кофа",
+          "link": "https://netpress.com.mk/pronashle-granata-vo-gradinata-ja-donele-vo-policziska-stanicza-vo-kofa/",
+          "published": "Tue, 11 Aug 2026 19:21:34 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Пет хороскопски знаци што не се плашат од ризик во кариерата",
-          "link": "https://makfax.com.mk/zanimlivosti/pet-horoskopski-znaci-shto-ne-se-plashat-od-rizik-vo-karierata/",
-          "published": "Tue, 11 Aug 2026 17:00:32 +0000"
+          "source": "NetPress",
+          "title": "Факундо Медина од Марсеј во Баер Леверкузен",
+          "link": "https://netpress.com.mk/fakundo-medina-od-marsej-vo-baer-leverkuzen/",
+          "published": "Tue, 11 Aug 2026 18:58:51 +0000"
         },
         {
           "source": "NetPress",
@@ -57,24 +69,18 @@
           "title": "Цените на нафтата близу 88 долари, во фокусот иранско-оманските преговори",
           "link": "https://netpress.com.mk/czenite-na-naftata-blizu-88-dolari-vo-fokusot-iransko-omanskite-pregovori/",
           "published": "Tue, 11 Aug 2026 17:28:51 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Бугарската опозиција бара протерување на украинскиот амбасадор",
-          "link": "https://netpress.com.mk/bugarskata-opoziczija-bara-proteruvane-na-ukrainskiot-ambasador/",
-          "published": "Tue, 11 Aug 2026 17:12:13 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Црквите во Германија губат верници, но пари пристигнуваат",
-          "link": "https://netpress.com.mk/czrkvite-vo-germanija-gubat-verniczi-no-pari-pristignuvaat/",
-          "published": "Tue, 11 Aug 2026 16:44:37 +0000"
         }
       ]
     },
     {
       "region": "Свет",
       "items": [
+        {
+          "source": "BBC",
+          "title": "Rescuers scramble for survivors with 180 dead in Colombia earthquake",
+          "link": "https://www.bbc.co.uk/news/articles/c20dqd9qwq4o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 11 Aug 2026 19:09:52 GMT"
+        },
         {
           "source": "BBC",
           "title": "Trump hid in catering truck in secret plane swap over Iran threat, reports say",
@@ -89,51 +95,45 @@
         },
         {
           "source": "BBC",
-          "title": "Ousted Syrian dictator Bashar al-Assad sentenced to death in absentia",
-          "link": "https://www.bbc.co.uk/news/articles/ce34dkpnyg7o?at_medium=RSS&at_campaign=rss",
-          "published": "Tue, 11 Aug 2026 14:50:10 GMT"
-        },
-        {
-          "source": "BBC",
           "title": "Russia releases former US Marine reported in poor health",
           "link": "https://www.bbc.co.uk/news/articles/cvgj4m8e1ryo?at_medium=RSS&at_campaign=rss",
           "published": "Tue, 11 Aug 2026 17:02:22 GMT"
         },
         {
           "source": "BBC",
-          "title": "Watch: Family escapes home during Colombia earthquake",
-          "link": "https://www.bbc.co.uk/news/videos/cwyl3w1e6zxo?at_medium=RSS&at_campaign=rss",
-          "published": "Tue, 11 Aug 2026 10:12:21 GMT"
+          "title": "Lebanon parliament votes to abolish death penalty",
+          "link": "https://www.bbc.co.uk/news/articles/c8enj8p1xwgo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 11 Aug 2026 15:24:07 GMT"
         },
         {
           "source": "Al Jazeera",
-          "title": "US jury in Luigi Mangione murder trial to remain anonymous",
-          "link": "https://www.aljazeera.com/news/2026/8/11/us-jury-in-luigi-mangione-murder-trial-to-remain-anonymous?traffic_source=rss",
-          "published": "Tue, 11 Aug 2026 17:36:57 +0000"
+          "title": "UNESCO says 2.4 million Afghan girls denied access to further education",
+          "link": "https://www.aljazeera.com/news/2026/8/11/unesco-says-2-4-million-afghan-girls-denied-access-to-further-education?traffic_source=rss",
+          "published": "Tue, 11 Aug 2026 18:59:42 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Russia frees ex-US Marine Robert Gilman from detention",
-          "link": "https://www.aljazeera.com/news/2026/8/11/russia-frees-ex-us-marine-robert-gilman-from-detention?traffic_source=rss",
-          "published": "Tue, 11 Aug 2026 17:09:31 +0000"
+          "title": "Venezuela and Israel restore consular ties as relations warm",
+          "link": "https://www.aljazeera.com/news/2026/8/11/venezuela-and-israel-restore-consular-ties-as-relations-warm?traffic_source=rss",
+          "published": "Tue, 11 Aug 2026 18:58:33 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Poland says Women’s World Cup plan on course despite UEFA boycott of FIFA",
-          "link": "https://www.aljazeera.com/sports/2026/8/11/poland-says-womens-world-cup-plan-on-course-despite-uefa-boycott-of-fifa?traffic_source=rss",
-          "published": "Tue, 11 Aug 2026 17:04:52 +0000"
+          "title": "Tightened blockade on Gaza causes prices to soar",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/tightened-blockade-on-gaza-causes-prices-to-soar?traffic_source=rss",
+          "published": "Tue, 11 Aug 2026 18:45:26 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "PSG vs Aston Villa: UEFA Super Cup – prediction, lineups, teams",
-          "link": "https://www.aljazeera.com/sports/2026/8/11/psg-vs-aston-villa-uefa-super-cup-teams-start-lineups?traffic_source=rss",
-          "published": "Tue, 11 Aug 2026 16:55:34 +0000"
+          "title": "Paramount CEO may remove operations from California over stalled merger",
+          "link": "https://www.aljazeera.com/economy/2026/8/11/paramount-ceo-may-remove-operations-from-california-over-stalled-merger?traffic_source=rss",
+          "published": "Tue, 11 Aug 2026 18:34:31 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Trump faces lawsuit over push to limit birthright citizenship",
-          "link": "https://www.aljazeera.com/news/2026/8/11/trump-faces-lawsuit-over-push-to-limit-birthright-citizenship?traffic_source=rss",
-          "published": "Tue, 11 Aug 2026 16:53:39 +0000"
+          "title": "‘Justice at last’: Syrians react to Assad death sentence",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/justice-at-last-syrians-react-to-assad-death-sentence?traffic_source=rss",
+          "published": "Tue, 11 Aug 2026 18:32:42 +0000"
         }
       ]
     }
