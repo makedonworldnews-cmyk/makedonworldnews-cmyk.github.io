@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-11T19:35:49Z",
+  "updatedAt": "2026-08-11T20:21:20Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Кристијано Роналдо се ожени со долгогодишната партнерка Георгина Родригез",
+          "link": "https://makfax.com.mk/zanimlivosti/kristijano-ronaldo-se-ozheni-so-dolgogodishnata-partnerka-georgina-rodrigez/",
+          "published": "Tue, 11 Aug 2026 19:45:07 +0000"
         },
         {
           "source": "Makfax",
@@ -35,10 +41,10 @@
           "published": "Tue, 11 Aug 2026 17:31:22 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Либан ја укинува смртната казна",
-          "link": "https://makfax.com.mk/svet/liban-ja-ukinuva-smrtnata-kazna/",
-          "published": "Tue, 11 Aug 2026 17:24:09 +0000"
+          "source": "NetPress",
+          "title": "ВИДЕО| Романија уништила два дрона  во Црното Море близу гасно наоѓалиште",
+          "link": "https://netpress.com.mk/video-romanija-unishtila-dva-drona-vo-czrnoto-more-blizu-gasno-naogalishte/",
+          "published": "Tue, 11 Aug 2026 19:58:05 +0000"
         },
         {
           "source": "NetPress",
@@ -54,21 +60,15 @@
         },
         {
           "source": "NetPress",
+          "title": "Кражбата на железничката во Драчево не можела да се направи без луѓе од ЕВН и „Железници“, вели Николоски",
+          "link": "https://netpress.com.mk/krazhbata-na-zheleznichkata-vo-drachevo-ne-mozhela-da-se-napravi-bez-luge-od-evn-i-zhelezniczi-veli-nikoloski/",
+          "published": "Tue, 11 Aug 2026 18:00:42 +0000"
+        },
+        {
+          "source": "NetPress",
           "title": "Русија ослободи поранешен американски маринец од затвор",
           "link": "https://netpress.com.mk/rusija-oslobodi-poraneshen-amerikanski-marinecz-od-zatvor/",
           "published": "Tue, 11 Aug 2026 17:52:41 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Шефот на СЗО: Северна Етиопија е на работ на војна",
-          "link": "https://netpress.com.mk/shefot-na-szo-severna-etiopija-e-na-rabot-na-vojna/",
-          "published": "Tue, 11 Aug 2026 17:41:39 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Цените на нафтата близу 88 долари, во фокусот иранско-оманските преговори",
-          "link": "https://netpress.com.mk/czenite-na-naftata-blizu-88-dolari-vo-fokusot-iransko-omanskite-pregovori/",
-          "published": "Tue, 11 Aug 2026 17:28:51 +0000"
         }
       ]
     },
@@ -107,6 +107,18 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "US military fires on cargo vessel it said sought to break Iran blockade",
+          "link": "https://www.aljazeera.com/news/2026/8/11/us-military-fires-on-cargo-vessel-it-said-sought-to-break-iran-blockade?traffic_source=rss",
+          "published": "Tue, 11 Aug 2026 19:58:12 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Truck crash in Egypt kills 18, many of them child labourers",
+          "link": "https://www.aljazeera.com/news/2026/8/11/truck-crash-in-egypt-kills-18-many-of-them-child-labourers?traffic_source=rss",
+          "published": "Tue, 11 Aug 2026 19:21:32 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "UNESCO says 2.4 million Afghan girls denied access to further education",
           "link": "https://www.aljazeera.com/news/2026/8/11/unesco-says-2-4-million-afghan-girls-denied-access-to-further-education?traffic_source=rss",
           "published": "Tue, 11 Aug 2026 18:59:42 +0000"
@@ -122,18 +134,6 @@
           "title": "Tightened blockade on Gaza causes prices to soar",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/tightened-blockade-on-gaza-causes-prices-to-soar?traffic_source=rss",
           "published": "Tue, 11 Aug 2026 18:45:26 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Paramount CEO may remove operations from California over stalled merger",
-          "link": "https://www.aljazeera.com/economy/2026/8/11/paramount-ceo-may-remove-operations-from-california-over-stalled-merger?traffic_source=rss",
-          "published": "Tue, 11 Aug 2026 18:34:31 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "‘Justice at last’: Syrians react to Assad death sentence",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/justice-at-last-syrians-react-to-assad-death-sentence?traffic_source=rss",
-          "published": "Tue, 11 Aug 2026 18:32:42 +0000"
         }
       ]
     }
