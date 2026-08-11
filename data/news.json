@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-11T17:29:02Z",
+  "updatedAt": "2026-08-11T18:27:06Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Надминат проблемот со здравственото осигурување на вработените во МВР",
+          "link": "https://makfax.com.mk/makedonija/nadminat-problemot-so-zdravstvenoto-osiguruvanje-na-vrabotenite-vo-mvr/",
+          "published": "Tue, 11 Aug 2026 18:20:27 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Грчкиот премиер Мицотакис примен во болница по пад од велосипед",
+          "link": "https://makfax.com.mk/svet/region/grchkiot-premier-micotakis-primen-vo-bolnica-po-pad-od-velosiped/",
+          "published": "Tue, 11 Aug 2026 17:31:22 +0000"
         },
         {
           "source": "Makfax",
@@ -29,16 +41,16 @@
           "published": "Tue, 11 Aug 2026 17:00:32 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Концертот на Иван Наумовски и Елена Атанасовска-Ивановска, насловен „Ideale“, на „Бит Фест“",
-          "link": "https://makfax.com.mk/kultura/koncertot-na-ivan-naumovski-i-elena-atanasovska-ivanovska-nasloven-ideale-na-bit-fest/",
-          "published": "Tue, 11 Aug 2026 16:29:13 +0000"
+          "source": "NetPress",
+          "title": "Русија ослободи поранешен американски маринец од затвор",
+          "link": "https://netpress.com.mk/rusija-oslobodi-poraneshen-amerikanski-marinecz-od-zatvor/",
+          "published": "Tue, 11 Aug 2026 17:52:41 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Се судрија два туристички брода во близина на Крф во Грција",
-          "link": "https://makfax.com.mk/svet/region/se-sudrija-dva-turistichki-broda-vo-blizina-na-krf-vo-grcija/",
-          "published": "Tue, 11 Aug 2026 16:13:42 +0000"
+          "source": "NetPress",
+          "title": "Шефот на СЗО: Северна Етиопија е на работ на војна",
+          "link": "https://netpress.com.mk/shefot-na-szo-severna-etiopija-e-na-rabot-na-vojna/",
+          "published": "Tue, 11 Aug 2026 17:41:39 +0000"
         },
         {
           "source": "NetPress",
@@ -57,18 +69,6 @@
           "title": "Црквите во Германија губат верници, но пари пристигнуваат",
           "link": "https://netpress.com.mk/czrkvite-vo-germanija-gubat-verniczi-no-pari-pristignuvaat/",
           "published": "Tue, 11 Aug 2026 16:44:37 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Трамп: Европа може да ги префрли во Украина борбените авиони купени во САД",
-          "link": "https://netpress.com.mk/tramp-evropa-mozhe-da-gi-prefrli-vo-ukraina-borbenite-avioni-kupeni-vo-sad/",
-          "published": "Tue, 11 Aug 2026 16:24:03 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Ѓорѓиевски уверува: Водата од Рашче е безбедна, депонијата е на 30 километри од изворите",
-          "link": "https://netpress.com.mk/gorgievski-uveruva-vodata-od-rashche-e-bezbedna-deponijata-e-na-30-kilometri-od-izvorite/",
-          "published": "Tue, 11 Aug 2026 15:57:59 +0000"
         }
       ]
     },
@@ -107,6 +107,24 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "US jury in Luigi Mangione murder trial to remain anonymous",
+          "link": "https://www.aljazeera.com/news/2026/8/11/us-jury-in-luigi-mangione-murder-trial-to-remain-anonymous?traffic_source=rss",
+          "published": "Tue, 11 Aug 2026 17:36:57 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Russia frees ex-US Marine Robert Gilman from detention",
+          "link": "https://www.aljazeera.com/news/2026/8/11/russia-frees-ex-us-marine-robert-gilman-from-detention?traffic_source=rss",
+          "published": "Tue, 11 Aug 2026 17:09:31 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Poland says Women’s World Cup plan on course despite UEFA boycott of FIFA",
+          "link": "https://www.aljazeera.com/sports/2026/8/11/poland-says-womens-world-cup-plan-on-course-despite-uefa-boycott-of-fifa?traffic_source=rss",
+          "published": "Tue, 11 Aug 2026 17:04:52 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "PSG vs Aston Villa: UEFA Super Cup – prediction, lineups, teams",
           "link": "https://www.aljazeera.com/sports/2026/8/11/psg-vs-aston-villa-uefa-super-cup-teams-start-lineups?traffic_source=rss",
           "published": "Tue, 11 Aug 2026 16:55:34 +0000"
@@ -116,24 +134,6 @@
           "title": "Trump faces lawsuit over push to limit birthright citizenship",
           "link": "https://www.aljazeera.com/news/2026/8/11/trump-faces-lawsuit-over-push-to-limit-birthright-citizenship?traffic_source=rss",
           "published": "Tue, 11 Aug 2026 16:53:39 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Hungary elects supreme court judge ousted by Orban as new president",
-          "link": "https://www.aljazeera.com/news/2026/8/11/hungary-elects-supreme-court-judge-ousted-by-orban-as-new-president?traffic_source=rss",
-          "published": "Tue, 11 Aug 2026 15:50:51 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Rwanda: The genocide against the Tutsi",
-          "link": "https://www.aljazeera.com/video/aljazeerauntangles/2026/8/11/rwanda-the-genocide-against-the-tutsi?traffic_source=rss",
-          "published": "Tue, 11 Aug 2026 15:49:09 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Lebanon parliament votes to end death penalty, 1st in Middle East to do so",
-          "link": "https://www.aljazeera.com/news/2026/8/11/lebanons-parliament-votes-to-end-death-penalty-first-in-middle-east-to-so?traffic_source=rss",
-          "published": "Tue, 11 Aug 2026 15:20:38 +0000"
         }
       ]
     }
