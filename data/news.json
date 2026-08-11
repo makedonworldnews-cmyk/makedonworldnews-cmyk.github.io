@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-11T15:28:31Z",
+  "updatedAt": "2026-08-11T16:26:42Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Се судрија два туристички брода во близина на Крф во Грција",
+          "link": "https://makfax.com.mk/svet/region/se-sudrija-dva-turistichki-broda-vo-blizina-na-krf-vo-grcija/",
+          "published": "Tue, 11 Aug 2026 16:13:42 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "ВМРО-ДПМНЕ: Ако Филипче и Заев се главните кодоши и предавници, нивниот најдобар Коте од Руља е Жерновски",
+          "link": "https://makfax.com.mk/makedonija/vmro-dpmne-ako-filipche-i-zaev-se-glavnite-kodoshi-i-predavnici-nivniot-najdobar-kote-od-rulja-e-zhernovski/",
+          "published": "Tue, 11 Aug 2026 16:07:27 +0000"
         },
         {
           "source": "Makfax",
@@ -29,16 +41,16 @@
           "published": "Tue, 11 Aug 2026 14:55:06 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Николоски за проблемот со транспортерите: Имаме договори со Швајцарија, Хрватска и Романија, работиме со уште три земји",
-          "link": "https://makfax.com.mk/makedonija/nikoloski-za-problemot-so-transporterite-imame-dogovori-so-shvajcarija-hrvatska-i-romanija-rabotime-so-ushte-tri-zemji/",
-          "published": "Tue, 11 Aug 2026 14:51:09 +0000"
+          "source": "NetPress",
+          "title": "Трамп: Европа може да ги префрли во Украина борбените авиони купени во САД",
+          "link": "https://netpress.com.mk/tramp-evropa-mozhe-da-gi-prefrli-vo-ukraina-borbenite-avioni-kupeni-vo-sad/",
+          "published": "Tue, 11 Aug 2026 16:24:03 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Аркин Јахији кандидат за градоначалник на Брвеница од ДУИ",
-          "link": "https://makfax.com.mk/makedonija/arkin-jahiji-kandidat-za-gradonachalnik-na-brvenica-od-dui/",
-          "published": "Tue, 11 Aug 2026 14:15:06 +0000"
+          "source": "NetPress",
+          "title": "Ѓорѓиевски уверува: Водата од Рашче е безбедна, депонијата е на 30 километри од изворите",
+          "link": "https://netpress.com.mk/gorgievski-uveruva-vodata-od-rashche-e-bezbedna-deponijata-e-na-30-kilometri-od-izvorite/",
+          "published": "Tue, 11 Aug 2026 15:57:59 +0000"
         },
         {
           "source": "NetPress",
@@ -57,18 +69,6 @@
           "title": "Двајца повредени во излетување на товарно возило од патот",
           "link": "https://netpress.com.mk/dvajcza-povredeni-vo-izletuvane-na-tovarno-vozilo-od-patot/",
           "published": "Tue, 11 Aug 2026 13:43:37 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Зеленски тврди дека Русија користела севернокорејски ракети во нападот врз Запорожје",
-          "link": "https://netpress.com.mk/zelenski-tvrdi-deka-rusija-koristela-severnokorejski-raketi-vo-napadot-vrz-zaporozhje/",
-          "published": "Tue, 11 Aug 2026 13:36:14 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Кавадарчанец фатен пијан и без возачка",
-          "link": "https://netpress.com.mk/kavadarchanecz-faten-pijan-i-bez-vozachka/",
-          "published": "Tue, 11 Aug 2026 13:34:17 +0000"
         }
       ]
     },
@@ -85,7 +85,7 @@
           "source": "BBC",
           "title": "Russia using North Korean missiles to strike Ukraine, Zelensky says",
           "link": "https://www.bbc.co.uk/news/articles/c151dpzwnvxo?at_medium=RSS&at_campaign=rss",
-          "published": "Tue, 11 Aug 2026 09:39:58 GMT"
+          "published": "Tue, 11 Aug 2026 16:19:44 GMT"
         },
         {
           "source": "BBC",
@@ -95,19 +95,31 @@
         },
         {
           "source": "BBC",
-          "title": "At least 169 killed in Colombia's largest  earthquake in years",
-          "link": "https://www.bbc.co.uk/news/articles/c20e360lx0vo?at_medium=RSS&at_campaign=rss",
-          "published": "Tue, 11 Aug 2026 13:21:32 GMT"
+          "title": "Russia releases former US Marine reported in poor health",
+          "link": "https://www.bbc.co.uk/news/articles/cvgj4m8e1ryo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 11 Aug 2026 15:47:53 GMT"
         },
         {
           "source": "BBC",
-          "title": "Luigi Mangione back in court as key questions remain over case ahead of murder trial",
-          "link": "https://www.bbc.co.uk/news/articles/cgje05wd1v4o?at_medium=RSS&at_campaign=rss",
-          "published": "Tue, 11 Aug 2026 11:35:20 GMT"
+          "title": "Watch: Family escapes home during Colombia earthquake",
+          "link": "https://www.bbc.co.uk/news/videos/cwyl3w1e6zxo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 11 Aug 2026 10:12:21 GMT"
         },
         {
           "source": "Al Jazeera",
-          "title": "Lebanon’s parliament votes to end death penalty, first in Middle East to so",
+          "title": "Hungary elects supreme court judge ousted by Orban as new president",
+          "link": "https://www.aljazeera.com/news/2026/8/11/hungary-elects-supreme-court-judge-ousted-by-orban-as-new-president?traffic_source=rss",
+          "published": "Tue, 11 Aug 2026 15:50:51 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Rwanda: The genocide against the Tutsi",
+          "link": "https://www.aljazeera.com/video/aljazeerauntangles/2026/8/11/rwanda-the-genocide-against-the-tutsi?traffic_source=rss",
+          "published": "Tue, 11 Aug 2026 15:49:09 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Lebanon parliament votes to end death penalty, 1st in Middle East to do so",
           "link": "https://www.aljazeera.com/news/2026/8/11/lebanons-parliament-votes-to-end-death-penalty-first-in-middle-east-to-so?traffic_source=rss",
           "published": "Tue, 11 Aug 2026 15:20:38 +0000"
         },
@@ -122,18 +134,6 @@
           "title": "Total solar eclipse 2026: Where, when and how to watch on Wednesday?",
           "link": "https://www.aljazeera.com/news/2026/8/11/total-solar-eclipse-2026-where-when-and-how-to-watch-on-wednesday?traffic_source=rss",
           "published": "Tue, 11 Aug 2026 14:56:06 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Ten police and 17 “bandits” killed in firefight in northwestern Nigeria",
-          "link": "https://www.aljazeera.com/news/2026/8/11/dozens-killed-in-firefight-between-nigerian-armed-group-and-police?traffic_source=rss",
-          "published": "Tue, 11 Aug 2026 14:44:10 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "War on Iran: Mojtaba Khamenei is in ‘perfect health’, Iran says",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/war-on-iran-mojtaba-khamenei-is-in-perfect-health-iran-says?traffic_source=rss",
-          "published": "Tue, 11 Aug 2026 14:30:23 +0000"
         }
       ]
     }
