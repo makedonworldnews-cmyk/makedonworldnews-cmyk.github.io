@@ -1,6 +1,13 @@
 {
-  "generated_at": "2026-08-11T17:24:32Z",
+  "generated_at": "2026-08-11T18:13:01Z",
   "items": [
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "Грчкиот премиер Мицотакис примен во болница по пад од велосипед",
+      "link": "https://makfax.com.mk/svet/region/grchkiot-premier-micotakis-primen-vo-bolnica-po-pad-od-velosiped/",
+      "published": "Tue, 11 Aug 2026 17:31:22 +0000"
+    },
     {
       "region": "Македонија",
       "source": "Makfax",
@@ -31,10 +38,24 @@
     },
     {
       "region": "Македонија",
-      "source": "Makfax",
-      "title": "Се судрија два туристички брода во близина на Крф во Грција",
-      "link": "https://makfax.com.mk/svet/region/se-sudrija-dva-turistichki-broda-vo-blizina-na-krf-vo-grcija/",
-      "published": "Tue, 11 Aug 2026 16:13:42 +0000"
+      "source": "NetPress",
+      "title": "Русија ослободи поранешен американски маринец од затвор",
+      "link": "https://netpress.com.mk/rusija-oslobodi-poraneshen-amerikanski-marinecz-od-zatvor/",
+      "published": "Tue, 11 Aug 2026 17:52:41 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "NetPress",
+      "title": "Шефот на СЗО: Северна Етиопија е на работ на војна",
+      "link": "https://netpress.com.mk/shefot-na-szo-severna-etiopija-e-na-rabot-na-vojna/",
+      "published": "Tue, 11 Aug 2026 17:41:39 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "NetPress",
+      "title": "Цените на нафтата близу 88 долари, во фокусот иранско-оманските преговори",
+      "link": "https://netpress.com.mk/czenite-na-naftata-blizu-88-dolari-vo-fokusot-iransko-omanskite-pregovori/",
+      "published": "Tue, 11 Aug 2026 17:28:51 +0000"
     },
     {
       "region": "Македонија",
@@ -49,27 +70,6 @@
       "title": "Црквите во Германија губат верници, но пари пристигнуваат",
       "link": "https://netpress.com.mk/czrkvite-vo-germanija-gubat-verniczi-no-pari-pristignuvaat/",
       "published": "Tue, 11 Aug 2026 16:44:37 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Трамп: Европа може да ги префрли во Украина борбените авиони купени во САД",
-      "link": "https://netpress.com.mk/tramp-evropa-mozhe-da-gi-prefrli-vo-ukraina-borbenite-avioni-kupeni-vo-sad/",
-      "published": "Tue, 11 Aug 2026 16:24:03 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Ѓорѓиевски уверува: Водата од Рашче е безбедна, депонијата е на 30 километри од изворите",
-      "link": "https://netpress.com.mk/gorgievski-uveruva-vodata-od-rashche-e-bezbedna-deponijata-e-na-30-kilometri-od-izvorite/",
-      "published": "Tue, 11 Aug 2026 15:57:59 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Шпанија ќе изгуби 5 гигавати соларна енергија на врвот на затемнувањето на Сонцето",
-      "link": "https://netpress.com.mk/shpanija-ke-izgubi-5-gigavati-solarna-energija-na-vrvot-na-zatemnuvaneto-na-sonczeto/",
-      "published": "Tue, 11 Aug 2026 13:59:57 +0000"
     },
     {
       "region": "Свет",
@@ -109,6 +109,13 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "US jury in Luigi Mangione murder trial to remain anonymous",
+      "link": "https://www.aljazeera.com/news/2026/8/11/us-jury-in-luigi-mangione-murder-trial-to-remain-anonymous?traffic_source=rss",
+      "published": "Tue, 11 Aug 2026 17:36:57 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "Russia frees ex-US Marine Robert Gilman from detention",
       "link": "https://www.aljazeera.com/news/2026/8/11/russia-frees-ex-us-marine-robert-gilman-from-detention?traffic_source=rss",
       "published": "Tue, 11 Aug 2026 17:09:31 +0000"
@@ -133,13 +140,6 @@
       "title": "Trump faces lawsuit over push to limit birthright citizenship",
       "link": "https://www.aljazeera.com/news/2026/8/11/trump-faces-lawsuit-over-push-to-limit-birthright-citizenship?traffic_source=rss",
       "published": "Tue, 11 Aug 2026 16:53:39 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Hungary elects supreme court judge ousted by Orban as new president",
-      "link": "https://www.aljazeera.com/news/2026/8/11/hungary-elects-supreme-court-judge-ousted-by-orban-as-new-president?traffic_source=rss",
-      "published": "Tue, 11 Aug 2026 15:50:51 +0000"
     }
   ]
 }
