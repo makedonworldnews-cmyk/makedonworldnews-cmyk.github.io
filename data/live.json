@@ -1,6 +1,27 @@
 {
-  "generated_at": "2026-08-12T22:03:55Z",
+  "generated_at": "2026-08-12T22:54:34Z",
   "items": [
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "Чави стана селектор на Холандија",
+      "link": "https://makfax.com.mk/sport/chavi-stana-selektor-na-holandija/",
+      "published": "Wed, 12 Aug 2026 22:51:00 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "Ријера ќе ја преземе Црвена звезда",
+      "link": "https://makfax.com.mk/sport/rijera-ke-ja-prezeme-crvena-zvezda/",
+      "published": "Wed, 12 Aug 2026 22:42:33 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "(Видео) ПСЖ го одбрани трофејот од Суперкупот",
+      "link": "https://makfax.com.mk/sport/video-pszh-go-odbrani-trofejot-od-superkupot/",
+      "published": "Wed, 12 Aug 2026 22:35:33 +0000"
+    },
     {
       "region": "Македонија",
       "source": "Makfax",
@@ -14,27 +35,6 @@
       "title": "Продолжува потрагата по двајцата исчезнати кај Крк: „Веруваме дека се живи“",
       "link": "https://makfax.com.mk/svet/region/prodolzhuva-potragata-po-dvajcata-ischeznati-kaj-krk-veruvame-deka-se-zhivi/",
       "published": "Wed, 12 Aug 2026 19:02:21 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "Makfax",
-      "title": "Пожарот кај Студеничани сè уште активен – долга е линијата на огнот",
-      "link": "https://makfax.com.mk/makedonija/pozharot-kaj-studenichani-se-ushte-aktiven-dolga-e-linijata-na-ognot/",
-      "published": "Wed, 12 Aug 2026 18:55:35 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "Makfax",
-      "title": "„Можности без граници“ – Националната агенција го одбележа Меѓународниот ден на младите",
-      "link": "https://makfax.com.mk/makedonija/mozhnosti-bez-granici-nacionalnata-agencija-go-odbelezha-megunarodniot-den-na-mladite/",
-      "published": "Wed, 12 Aug 2026 18:38:01 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "Makfax",
-      "title": "(Видео) Небесен спектакл над Европа: почна затемнувањето на Сонцето",
-      "link": "https://makfax.com.mk/svet/video-nebesen-spektakl-nad-evropa-pochna-zatemnuvanjeto-na-sonceto/",
-      "published": "Wed, 12 Aug 2026 17:58:01 +0000"
     },
     {
       "region": "Македонија",
@@ -102,9 +102,37 @@
     {
       "region": "Свет",
       "source": "BBC",
-      "title": "Woman pulled alive from rubble 36 hours after Colombia quake",
-      "link": "https://www.bbc.co.uk/news/articles/cz7d2e5wlgno?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 12 Aug 2026 20:56:11 GMT"
+      "title": "Why are 'human fridges' being sold in Japan?",
+      "link": "https://www.bbc.co.uk/news/videos/cjej4y3gvzlo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 12 Aug 2026 22:07:47 GMT"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Trump administration plans to give ICE officers electric-shock gloves",
+      "link": "https://www.aljazeera.com/news/2026/8/12/trump-administration-plans-to-give-ice-officers-electric-shock-gloves?traffic_source=rss",
+      "published": "Wed, 12 Aug 2026 22:22:57 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "US strikes in Yemen killed 153 civilians in 2025, says Pentagon review",
+      "link": "https://www.aljazeera.com/news/2026/8/12/us-strikes-in-yemen-killed-153-civilians-in-2025-says-pentagon-review?traffic_source=rss",
+      "published": "Wed, 12 Aug 2026 21:53:17 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Hegseth cautions that ICC may investigate US boat strikes in Latin America",
+      "link": "https://www.aljazeera.com/news/2026/8/12/hegseth-cautions-that-icc-may-investigate-us-boat-strikes-in-latin-america?traffic_source=rss",
+      "published": "Wed, 12 Aug 2026 21:52:18 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "PSG win back-to-back UEFA Super Cups with victory over Aston Villa",
+      "link": "https://www.aljazeera.com/sports/2026/8/12/psg-win-back-to-back-uefa-super-cups-with-victory-over-aston-villa?traffic_source=rss",
+      "published": "Wed, 12 Aug 2026 21:50:27 +0000"
     },
     {
       "region": "Свет",
@@ -112,34 +140,6 @@
       "title": "Thousands missing after Colombia quake as rescue continues",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/thousands-missing-after-colombia-quake-as-rescue-continues?traffic_source=rss",
       "published": "Wed, 12 Aug 2026 21:25:08 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Morocco says working to prevent potential new Ceuta crossings surge",
-      "link": "https://www.aljazeera.com/news/2026/8/12/morocco-says-working-to-prevent-potential-new-ceuta-crossings-surge?traffic_source=rss",
-      "published": "Wed, 12 Aug 2026 21:07:12 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "11-year-old boy shot by Israeli forces in Gaza",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/11-year-old-boy-shot-by-israeli-forces-in-gaza?traffic_source=rss",
-      "published": "Wed, 12 Aug 2026 21:06:12 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Drone attacks on energy infrastructure deepen Libya’s energy crisis",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/drone-attacks-on-energy-infrastructure-deepen-libyas-energy-crisis?traffic_source=rss",
-      "published": "Wed, 12 Aug 2026 20:59:52 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Israeli air strike kills one in northern Gaza",
-      "link": "https://www.aljazeera.com/news/2026/8/12/israeli-air-strike-kills-one-in-northern-gaza?traffic_source=rss",
-      "published": "Wed, 12 Aug 2026 20:58:42 +0000"
     }
   ]
 }
