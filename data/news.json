@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-12T22:40:43Z",
+  "updatedAt": "2026-08-12T23:23:48Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Чави стана селектор на Холандија",
+          "link": "https://makfax.com.mk/sport/chavi-stana-selektor-na-holandija/",
+          "published": "Wed, 12 Aug 2026 22:51:00 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Ријера ќе ја преземе Црвена звезда",
+          "link": "https://makfax.com.mk/sport/rijera-ke-ja-prezeme-crvena-zvezda/",
+          "published": "Wed, 12 Aug 2026 22:42:33 +0000"
         },
         {
           "source": "Makfax",
@@ -27,18 +39,6 @@
           "title": "Продолжува потрагата по двајцата исчезнати кај Крк: „Веруваме дека се живи“",
           "link": "https://makfax.com.mk/svet/region/prodolzhuva-potragata-po-dvajcata-ischeznati-kaj-krk-veruvame-deka-se-zhivi/",
           "published": "Wed, 12 Aug 2026 19:02:21 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Пожарот кај Студеничани сè уште активен – долга е линијата на огнот",
-          "link": "https://makfax.com.mk/makedonija/pozharot-kaj-studenichani-se-ushte-aktiven-dolga-e-linijata-na-ognot/",
-          "published": "Wed, 12 Aug 2026 18:55:35 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "„Можности без граници“ – Националната агенција го одбележа Меѓународниот ден на младите",
-          "link": "https://makfax.com.mk/makedonija/mozhnosti-bez-granici-nacionalnata-agencija-go-odbelezha-megunarodniot-den-na-mladite/",
-          "published": "Wed, 12 Aug 2026 18:38:01 +0000"
         },
         {
           "source": "NetPress",
@@ -97,7 +97,7 @@
           "source": "BBC",
           "title": "Trump says White House press secretary Karoline Leavitt to leave post",
           "link": "https://www.bbc.co.uk/news/articles/cvglzrvyrz3o?at_medium=RSS&at_campaign=rss",
-          "published": "Wed, 12 Aug 2026 20:57:47 GMT"
+          "published": "Wed, 12 Aug 2026 22:58:45 GMT"
         },
         {
           "source": "BBC",
