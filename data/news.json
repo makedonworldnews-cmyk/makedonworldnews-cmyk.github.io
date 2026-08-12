@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-12T19:16:25Z",
+  "updatedAt": "2026-08-12T20:06:16Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Трамп: САД имаат целосна контрола над Ормускиот теснец",
+          "link": "https://makfax.com.mk/svet/tramp-sad-imaat-celosna-kontrola-nad-ormutskiot-tesnec/",
+          "published": "Wed, 12 Aug 2026 19:26:26 +0000"
         },
         {
           "source": "Makfax",
@@ -35,40 +41,34 @@
           "published": "Wed, 12 Aug 2026 17:58:01 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Украина тврди дека годинава ослободила 745 квадратни километри територија",
-          "link": "https://makfax.com.mk/svet/ukraina-tvrdi-deka-godinava-oslobodila-745-kvadratni-kilometri-teritorija/",
-          "published": "Wed, 12 Aug 2026 17:51:51 +0000"
+          "source": "NetPress",
+          "title": "ФОТО| „Можности без граници“ – Националната агенција го одбележа Меѓународниот ден на младите",
+          "link": "https://netpress.com.mk/foto-mozhnosti-bez-graniczi-naczionalnata-agenczija-go-odbelezha-megunarodniot-den-na-mladite/",
+          "published": "Wed, 12 Aug 2026 19:58:55 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Германската централна банка ги гаси бесплатните сметки на службениците",
+          "link": "https://netpress.com.mk/germanskata-czentralna-banka-gi-gasi-besplatnite-smetki-na-sluzhbeniczite/",
+          "published": "Wed, 12 Aug 2026 19:48:02 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Велковски: Кога ги слушаме младите создаваме подобри политики, кога вложуваме во нив, вложуваме во иднината на целото општество",
+          "link": "https://netpress.com.mk/velkovski-koga-gi-slushame-mladite-sozdavame-podobri-politiki-koga-vlozhuvame-vo-niv-vlozhuvame-vo-idninata-na-czeloto-opshtestvo/",
+          "published": "Wed, 12 Aug 2026 19:37:16 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Веруваме дека во рамките на нашите предлози може да се најде решение за почеток на преговори со ЕУ",
+          "link": "https://netpress.com.mk/veruvame-deka-vo-ramkite-na-nashite-predlozi-mozhe-da-se-najde-reshenie-za-pochetok-na-pregovori-so-eu/",
+          "published": "Wed, 12 Aug 2026 19:22:31 +0000"
         },
         {
           "source": "NetPress",
           "title": "Мароко предупредува на нови обиди за масовни премини на мигранти кон Сеута и Мелила",
           "link": "https://netpress.com.mk/maroko-predupreduva-na-novi-obidi-za-masovni-premini-na-migranti-kon-seuta-i-melila/",
           "published": "Wed, 12 Aug 2026 19:06:19 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Значително влошена состојбата со пожарите на отворен простор",
-          "link": "https://netpress.com.mk/znachitelno-vloshena-sostojbata-so-pozharite-na-otvoren-prostor/",
-          "published": "Wed, 12 Aug 2026 18:45:09 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Лејкерс ќе бидат продадени за рекордни 12,5 милијарди долари",
-          "link": "https://netpress.com.mk/lejkers-ke-bidat-prodadeni-za-rekordni-125-milijardi-dolari/",
-          "published": "Wed, 12 Aug 2026 18:41:01 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Победникот на Евросонгот нема да може да биде домаќин ако е вклучен во „вооружен конфликт“",
-          "link": "https://netpress.com.mk/pobednikot-na-evrosongot-nema-da-mozhe-da-bide-domakin-ako-e-vkluchen-vo-vooruzhen-konflikt/",
-          "published": "Wed, 12 Aug 2026 18:22:16 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Пронајден  четиригодишниот Богдан од Македонија кој исчезна во Албанија",
-          "link": "https://netpress.com.mk/pronajden-chetirigodishniot-bogdan-od-makedonija-koj-ischezna-vo-albanija/",
-          "published": "Wed, 12 Aug 2026 17:48:53 +0000"
         }
       ]
     },
@@ -89,9 +89,15 @@
         },
         {
           "source": "BBC",
-          "title": "Members of Trump's cabinet remained on decoy plane, after president's quiet exit",
-          "link": "https://www.bbc.co.uk/news/articles/c4g306eln8wo?at_medium=RSS&at_campaign=rss",
-          "published": "Wed, 12 Aug 2026 16:34:01 GMT"
+          "title": "US immigration officers to be equipped with gloves that deliver electric shocks",
+          "link": "https://www.bbc.co.uk/news/articles/c20d292gdp4o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 12 Aug 2026 19:21:22 GMT"
+        },
+        {
+          "source": "BBC",
+          "title": "Trump says White House press secretary Karoline Leavitt to leave post",
+          "link": "https://www.bbc.co.uk/news/articles/cvglzrvyrz3o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 12 Aug 2026 20:02:33 GMT"
         },
         {
           "source": "BBC",
@@ -100,40 +106,34 @@
           "published": "Wed, 12 Aug 2026 11:28:02 GMT"
         },
         {
-          "source": "BBC",
-          "title": "LA Lakers to be sold in record $12.5bn deal",
-          "link": "https://www.bbc.co.uk/sport/basketball/articles/c04k2dn422xo?at_medium=RSS&at_campaign=rss",
-          "published": "Wed, 12 Aug 2026 16:11:04 GMT"
+          "source": "Al Jazeera",
+          "title": "Iceland and Spain plunged into darkness during total solar eclipse",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/iceland-and-spain-plunged-into-darkness-during-total-solar-eclipse?traffic_source=rss",
+          "published": "Wed, 12 Aug 2026 19:29:15 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Brazil orders Discord to suspend livestreams after teen’s death",
+          "link": "https://www.aljazeera.com/news/2026/8/12/brazil-orders-discord-to-suspend-livestreams-after-teens-death?traffic_source=rss",
+          "published": "Wed, 12 Aug 2026 19:21:11 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Iraq says September 30 withdrawal deadline for US-led coalition ‘final’",
+          "link": "https://www.aljazeera.com/news/2026/8/12/iraq-says-sept-30-deadline-to-end-us-led-military-coalition-final?traffic_source=rss",
+          "published": "Wed, 12 Aug 2026 19:11:03 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Thousands flee drought in Somalia amid sharp aid decline",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/thousands-flee-drought-in-somalia-amid-sharp-aid-decline?traffic_source=rss",
+          "published": "Wed, 12 Aug 2026 19:06:23 +0000"
         },
         {
           "source": "Al Jazeera",
           "title": "Paramount Skydance mulls CNN sale amid antitrust merger challenge",
           "link": "https://www.aljazeera.com/economy/2026/8/12/paramount-skydance-mulls-cnn-sale-amid-antitrust-merger-challenge?traffic_source=rss",
           "published": "Wed, 12 Aug 2026 18:23:59 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "DR Congo Ebola outbreak set to become deadliest on record, WHO warns",
-          "link": "https://www.aljazeera.com/news/2026/8/12/dr-congo-ebola-outbreak-set-to-become-deadliest-on-record-who-warns?traffic_source=rss",
-          "published": "Wed, 12 Aug 2026 18:23:25 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Lebanese families demand release of detainees held by Israel",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/lebanese-families-demand-release-of-detainees-held-by-israel?traffic_source=rss",
-          "published": "Wed, 12 Aug 2026 18:15:03 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Mount Etna eruption disrupts travel at Italy’s Catania airport",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/mount-etna-eruption-disrupts-travel-at-italys-catania-airport?traffic_source=rss",
-          "published": "Wed, 12 Aug 2026 18:13:00 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "White House construction project to cost almost $1bn",
-          "link": "https://www.aljazeera.com/news/2026/8/12/white-house-construction-project-to-cost-almost-1bn?traffic_source=rss",
-          "published": "Wed, 12 Aug 2026 17:23:45 +0000"
         }
       ]
     }
