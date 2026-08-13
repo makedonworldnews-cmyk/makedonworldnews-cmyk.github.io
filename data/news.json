@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-13T18:39:50Z",
+  "updatedAt": "2026-08-13T19:43:49Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Пожарот на Халкидики ставен под контрола, изгореа неколку куќи",
+          "link": "https://makfax.com.mk/svet/region/pozharot-na-halkidiki-staven-pod-kontrola-izgorea-nekolku-kuki/",
+          "published": "Thu, 13 Aug 2026 19:41:56 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Ферати: 25 години по Охридскиот договор, наша задача е мирот да го претвориме во доверба, а довербата во подобра иднина",
+          "link": "https://makfax.com.mk/makedonija/ferati-25-godini-po-ohridskiot-dogovor-nasha-zadacha-e-mirot-da-go-pretvorime-vo-doverba-a-doverbata-vo-podobra-idnina/",
+          "published": "Thu, 13 Aug 2026 18:59:28 +0000"
         },
         {
           "source": "Makfax",
@@ -29,46 +41,34 @@
           "published": "Thu, 13 Aug 2026 17:55:42 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "МВР: 13 лица повикани во полиција за споделување информации за водата во Скопје, ниту еден од нив не кажал веродостоен извор",
-          "link": "https://makfax.com.mk/top/mvr-13-lica-povikani-vo-policija-za-spodeluvanje-lazhni-informacii-za-vodata-vo-skopje-nitu-eden-ne-kazhal-potvrden-izvor/",
-          "published": "Thu, 13 Aug 2026 17:48:35 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Унгарија итно гради брана на Дунав за ладење на нуклеарна централа",
-          "link": "https://makfax.com.mk/svet/ungarija-itno-gradi-brana-na-dunav-za-ladenje-na-nuklearna-centrala/",
-          "published": "Thu, 13 Aug 2026 17:20:16 +0000"
+          "source": "NetPress",
+          "title": "За Сиљановска-Давкова шокантен е предлогот „Струшки вечери на поезијата“ да се сведе на сектор во Центарот за култура",
+          "link": "https://netpress.com.mk/za-silanovska-davkova-shokanten-e-predlogot-strushki-vecheri-na-poezijata-da-se-svede-na-sektor-vo-czentarot-za-kultura/",
+          "published": "Thu, 13 Aug 2026 19:43:14 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Млада жена го тепала татка си",
-          "link": "https://netpress.com.mk/mlada-zhena-go-tepala-tatka-si/",
-          "published": "Thu, 13 Aug 2026 18:38:52 +0000"
+          "title": "Виљушкар самиот тргнал и прегазил работник",
+          "link": "https://netpress.com.mk/vilushkar-samiot-trgnal-i-pregazil-rabotnik/",
+          "published": "Thu, 13 Aug 2026 19:30:47 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Закани со нож, прегазување стапала – уапсени тројца зелениковци",
-          "link": "https://netpress.com.mk/zakani-so-nozh-pregazuvane-stapala-uapseni-trojcza-zelenikovczi/",
-          "published": "Thu, 13 Aug 2026 18:32:28 +0000"
+          "title": "Млади скопјани цел на тројца напаѓачи",
+          "link": "https://netpress.com.mk/mladi-skopjani-czel-na-trojcza-napagachi/",
+          "published": "Thu, 13 Aug 2026 19:24:51 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Во глуво доба фатени „ловци“ во НП Пелистер",
-          "link": "https://netpress.com.mk/vo-gluvo-doba-fateni-lovczi-vo-np-pelister/",
-          "published": "Thu, 13 Aug 2026 18:15:17 +0000"
+          "title": "Лестер Сити на продажба, сопствениците бараат над 200 милиони фунти",
+          "link": "https://netpress.com.mk/lester-siti-na-prodazhba-sopstveniczite-baraat-nad-200-milioni-funti/",
+          "published": "Thu, 13 Aug 2026 19:19:05 +0000"
         },
         {
           "source": "NetPress",
-          "title": "МВР испрашувало 13 лица поради ширење лажни информации за водата во Скопје",
-          "link": "https://netpress.com.mk/mvr-povikalo-13-licza-poradi-shirene-na-lazhni-informaczii-za-vodata-vo-skopje/",
-          "published": "Thu, 13 Aug 2026 17:54:06 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Дрво паднало на дрвосечач и го убило",
-          "link": "https://netpress.com.mk/drvo-padnalo-na-drvosechach-i-go-ubilo/",
-          "published": "Thu, 13 Aug 2026 17:47:41 +0000"
+          "title": "Унгарија поставува преграда во Дунав за да го олесни ладењето на нуклеарката „Пакш“",
+          "link": "https://netpress.com.mk/ungarija-postavuva-pregrada-vo-dunav-za-da-go-olesni-ladeneto-na-nuklearkata-%e2%80%9epaksh%e2%80%9c/",
+          "published": "Thu, 13 Aug 2026 19:14:43 +0000"
         }
       ]
     },
@@ -85,7 +85,7 @@
           "source": "BBC",
           "title": "Romania shuts only nuclear plant as heat causes huge drop in Danube River level",
           "link": "https://www.bbc.co.uk/news/articles/cqlxpq5q799o?at_medium=RSS&at_campaign=rss",
-          "published": "Thu, 13 Aug 2026 16:05:35 GMT"
+          "published": "Thu, 13 Aug 2026 19:20:58 GMT"
         },
         {
           "source": "BBC",
@@ -97,7 +97,7 @@
           "source": "BBC",
           "title": "Conditions on US aircraft carrier at sea for more than 250 days raise alarms",
           "link": "https://www.bbc.co.uk/news/articles/cyvl2d5j52lo?at_medium=RSS&at_campaign=rss",
-          "published": "Thu, 13 Aug 2026 18:36:02 GMT"
+          "published": "Thu, 13 Aug 2026 19:07:55 GMT"
         },
         {
           "source": "BBC",
@@ -107,33 +107,33 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Colombia earthquake: Hospitals adapt to save lives amid widespread damage",
+          "link": "https://www.aljazeera.com/news/2026/8/13/colombia-earthquake-hospitals-adapt-to-save-lives-amid-widespread-damage?traffic_source=rss",
+          "published": "Thu, 13 Aug 2026 19:23:35 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Europe swelters in latest wave of extreme heat",
+          "link": "https://www.aljazeera.com/news/2026/8/13/europe-swelters-in-latest-wave-of-extreme-heat?traffic_source=rss",
+          "published": "Thu, 13 Aug 2026 18:34:51 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Carrick urges Manchester United to sign more transfers to boost title bid",
+          "link": "https://www.aljazeera.com/sports/2026/8/13/carrick-urges-manchester-united-to-sign-more-transfers-to-boost-title-bid?traffic_source=rss",
+          "published": "Thu, 13 Aug 2026 18:33:28 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Judge nixes Trump lawsuit alleging Harvard did not protect Jewish students",
+          "link": "https://www.aljazeera.com/news/2026/8/13/judge-nixes-trump-lawsuit-alleging-harvard-did-not-protect-jewish-students?traffic_source=rss",
+          "published": "Thu, 13 Aug 2026 18:28:14 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Poland arrests man who allegedly tried to kill Ukrainian American",
           "link": "https://www.aljazeera.com/news/2026/8/13/poland-arrests-man-who-allegedly-tried-to-kill-ukrainian-american?traffic_source=rss",
           "published": "Thu, 13 Aug 2026 18:04:43 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Gaza mural for Burger King worker fired for shouting ‘Free Palestine’",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/13/gaza-mural-for-burger-king-worker-fired-for-shouting-free?traffic_source=rss",
-          "published": "Thu, 13 Aug 2026 17:57:21 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Trump administration ‘gutted’ federal civil rights enforcement, HRW says",
-          "link": "https://www.aljazeera.com/news/2026/8/13/trump-administration-gutted-federal-civil-rights-enforcement-hrw-says?traffic_source=rss",
-          "published": "Thu, 13 Aug 2026 17:46:18 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "DR Congo Ebola outbreak spreads to a sixth province",
-          "link": "https://www.aljazeera.com/news/2026/8/13/dr-congo-ebola-outbreak-spreads-to-a-sixth-province?traffic_source=rss",
-          "published": "Thu, 13 Aug 2026 17:18:01 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "China and Indonesia’s joint naval drills anger Taiwan",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/13/china-and-indonesias-joint-naval-drills-anger-taiwan?traffic_source=rss",
-          "published": "Thu, 13 Aug 2026 16:44:27 +0000"
         }
       ]
     }
