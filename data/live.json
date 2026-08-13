@@ -1,6 +1,13 @@
 {
-  "generated_at": "2026-08-13T19:38:50Z",
+  "generated_at": "2026-08-13T20:16:54Z",
   "items": [
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "Пожарот на Халкидики ставен под контрола, изгореа неколку куќи",
+      "link": "https://makfax.com.mk/svet/region/pozharot-na-halkidiki-staven-pod-kontrola-izgorea-nekolku-kuki/",
+      "published": "Thu, 13 Aug 2026 19:41:56 +0000"
+    },
     {
       "region": "Македонија",
       "source": "Makfax",
@@ -31,10 +38,10 @@
     },
     {
       "region": "Македонија",
-      "source": "Makfax",
-      "title": "МВР: 13 лица повикани во полиција за споделување информации за водата во Скопје, ниту еден од нив не кажал веродостоен извор",
-      "link": "https://makfax.com.mk/top/mvr-13-lica-povikani-vo-policija-za-spodeluvanje-lazhni-informacii-za-vodata-vo-skopje-nitu-eden-ne-kazhal-potvrden-izvor/",
-      "published": "Thu, 13 Aug 2026 17:48:35 +0000"
+      "source": "NetPress",
+      "title": "За Сиљановска-Давкова шокантен е предлогот „Струшки вечери на поезијата“ да се сведе на сектор во Центарот за култура",
+      "link": "https://netpress.com.mk/za-silanovska-davkova-shokanten-e-predlogot-strushki-vecheri-na-poezijata-da-se-svede-na-sektor-vo-czentarot-za-kultura/",
+      "published": "Thu, 13 Aug 2026 19:43:14 +0000"
     },
     {
       "region": "Македонија",
@@ -65,25 +72,18 @@
       "published": "Thu, 13 Aug 2026 19:14:43 +0000"
     },
     {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "САД можат неограничено долго да ги блокираат иранските пристаништа",
-      "link": "https://netpress.com.mk/sad-mozhat-neogranicheno-dolgo-da-gi-blokiraat-iranskite-pristanishta/",
-      "published": "Thu, 13 Aug 2026 19:05:32 +0000"
-    },
-    {
       "region": "Свет",
       "source": "BBC",
       "title": "Palestinians told to leave homes in village where Israeli settlers besieged houses",
       "link": "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 13 Aug 2026 16:20:41 GMT"
+      "published": "Thu, 13 Aug 2026 20:12:17 GMT"
     },
     {
       "region": "Свет",
       "source": "BBC",
       "title": "Romania shuts only nuclear plant as heat causes huge drop in Danube River level",
       "link": "https://www.bbc.co.uk/news/articles/cqlxpq5q799o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 13 Aug 2026 19:20:58 GMT"
+      "published": "Thu, 13 Aug 2026 19:46:27 GMT"
     },
     {
       "region": "Свет",
@@ -97,7 +97,7 @@
       "source": "BBC",
       "title": "Conditions on US aircraft carrier at sea for more than 250 days raise alarms",
       "link": "https://www.bbc.co.uk/news/articles/cyvl2d5j52lo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 13 Aug 2026 19:07:55 GMT"
+      "published": "Thu, 13 Aug 2026 20:01:30 GMT"
     },
     {
       "region": "Свет",
@@ -109,37 +109,37 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "Sudan army says RSF advance on key town bordering Ethiopia",
+      "link": "https://www.aljazeera.com/news/2026/8/13/sudan-army-says-rsf-advance-on-key-town-bordering-ethiopia?traffic_source=rss",
+      "published": "Thu, 13 Aug 2026 19:53:21 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Passenger train derails, injuring several in southern England",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/13/passenger-train-derails-injuring-several-in-southern-england?traffic_source=rss",
+      "published": "Thu, 13 Aug 2026 19:48:35 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Israeli forces order families to evacuate homes in Qusra",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/13/israeli-forces-order-families-to-evacuate-homes-in-qusra?traffic_source=rss",
+      "published": "Thu, 13 Aug 2026 19:36:15 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Colombia earthquake: Hospitals adapt to save lives amid widespread damage",
+      "link": "https://www.aljazeera.com/news/2026/8/13/colombia-earthquake-hospitals-adapt-to-save-lives-amid-widespread-damage?traffic_source=rss",
+      "published": "Thu, 13 Aug 2026 19:23:35 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "Europe swelters in latest wave of extreme heat",
       "link": "https://www.aljazeera.com/news/2026/8/13/europe-swelters-in-latest-wave-of-extreme-heat?traffic_source=rss",
       "published": "Thu, 13 Aug 2026 18:34:51 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Carrick urges Manchester United to sign more transfers to boost title bid",
-      "link": "https://www.aljazeera.com/sports/2026/8/13/carrick-urges-manchester-united-to-sign-more-transfers-to-boost-title-bid?traffic_source=rss",
-      "published": "Thu, 13 Aug 2026 18:33:28 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Judge nixes Trump lawsuit alleging Harvard did not protect Jewish students",
-      "link": "https://www.aljazeera.com/news/2026/8/13/judge-nixes-trump-lawsuit-alleging-harvard-did-not-protect-jewish-students?traffic_source=rss",
-      "published": "Thu, 13 Aug 2026 18:28:14 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Poland arrests man who allegedly tried to kill Ukrainian American",
-      "link": "https://www.aljazeera.com/news/2026/8/13/poland-arrests-man-who-allegedly-tried-to-kill-ukrainian-american?traffic_source=rss",
-      "published": "Thu, 13 Aug 2026 18:04:43 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Gaza mural for Burger King worker fired for shouting ‘Free Palestine’",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/13/gaza-mural-for-burger-king-worker-fired-for-shouting-free?traffic_source=rss",
-      "published": "Thu, 13 Aug 2026 17:57:21 +0000"
     }
   ]
 }
