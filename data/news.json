@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-13T21:20:29Z",
+  "updatedAt": "2026-08-13T22:10:37Z",
   "groups": [
     {
       "region": "Македонија",
@@ -42,6 +42,12 @@
         },
         {
           "source": "NetPress",
+          "title": "ЕЛ и КЛ: Резултати од реваншот од третото квалификациско коло",
+          "link": "https://netpress.com.mk/el-i-kl-rezultati-od-revanshot-od-tretoto-kvalifikaczisko-kolo/",
+          "published": "Thu, 13 Aug 2026 21:36:07 +0000"
+        },
+        {
+          "source": "NetPress",
           "title": "Стотици исчезнати во земјотресот во Колумбија, надежите исчезнуваат",
           "link": "https://netpress.com.mk/stoticzi-ischeznati-vo-zemjotresot-vo-kolumbija-nadezhite-ischeznuvaat/",
           "published": "Thu, 13 Aug 2026 20:47:31 +0000"
@@ -63,12 +69,6 @@
           "title": "Виљушкар самиот тргнал и прегазил работник",
           "link": "https://netpress.com.mk/vilushkar-samiot-trgnal-i-pregazil-rabotnik/",
           "published": "Thu, 13 Aug 2026 19:30:47 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Млади скопјани цел на тројца напаѓачи",
-          "link": "https://netpress.com.mk/mladi-skopjani-czel-na-trojcza-napagachi/",
-          "published": "Thu, 13 Aug 2026 19:24:51 +0000"
         }
       ]
     },
@@ -95,15 +95,21 @@
         },
         {
           "source": "BBC",
-          "title": "Conditions on US aircraft carrier at sea for more than 250 days raise alarms",
-          "link": "https://www.bbc.co.uk/news/articles/cyvl2d5j52lo?at_medium=RSS&at_campaign=rss",
-          "published": "Thu, 13 Aug 2026 20:01:30 GMT"
+          "title": "Engine parts smashed Ryanair window that man's head was sucked out of, report says",
+          "link": "https://www.bbc.co.uk/news/articles/cr59j4z3vl8o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 13 Aug 2026 21:43:47 GMT"
         },
         {
           "source": "BBC",
-          "title": "Person fined after using foghorn to wake sleeping polar bear",
-          "link": "https://www.bbc.co.uk/news/articles/cx2k1r97vx7o?at_medium=RSS&at_campaign=rss",
-          "published": "Thu, 13 Aug 2026 15:30:57 GMT"
+          "title": "Conditions on US aircraft carrier at sea for more than 250 days raise alarms",
+          "link": "https://www.bbc.co.uk/news/articles/cyvl2d5j52lo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 13 Aug 2026 22:02:54 GMT"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Tate supporters rally for brothers ahead of bail hearing in Miami",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/13/tate-supporters-rally-for-brothers-ahead-of-bail-hearing-in-miami?traffic_source=rss",
+          "published": "Thu, 13 Aug 2026 21:17:45 +0000"
         },
         {
           "source": "Al Jazeera",
@@ -128,12 +134,6 @@
           "title": "Kennedy Center votes to restore Trump’s name to venue, close for two years",
           "link": "https://www.aljazeera.com/news/2026/8/13/kennedy-center-votes-to-restore-trumps-name-to-venue-close-for-two-years?traffic_source=rss",
           "published": "Thu, 13 Aug 2026 21:00:31 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Multiple houses ablaze as wildfire sweeps into UK town",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/13/multiple-houses-ablaze-as-wildfire-sweeps-into-uk-town?traffic_source=rss",
-          "published": "Thu, 13 Aug 2026 20:57:01 +0000"
         }
       ]
     }
