@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-13T02:43:36Z",
+  "updatedAt": "2026-08-13T04:32:01Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Променливо облачно време со сончеви периоди: наместа нестабилно со пороен дожд, грмежи и засилен ветер",
+          "link": "https://makfax.com.mk/makedonija/promenlivo-oblachno-vreme-so-sonchevi-periodi-namesta-nestabilno-so-poroen-dozhd-grmezhi-i-zasilen-veter/",
+          "published": "Thu, 13 Aug 2026 04:29:58 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Дел од Центар денеска без вода",
+          "link": "https://makfax.com.mk/makedonija/del-od-centar-deneska-bez-voda-4/",
+          "published": "Thu, 13 Aug 2026 04:23:21 +0000"
         },
         {
           "source": "Makfax",
@@ -27,18 +39,6 @@
           "title": "(Видео) ПСЖ го одбрани трофејот од Суперкупот",
           "link": "https://makfax.com.mk/sport/video-pszh-go-odbrani-trofejot-od-superkupot/",
           "published": "Wed, 12 Aug 2026 22:35:33 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Трамп: САД имаат целосна контрола над Ормускиот теснец",
-          "link": "https://makfax.com.mk/svet/tramp-sad-imaat-celosna-kontrola-nad-ormutskiot-tesnec/",
-          "published": "Wed, 12 Aug 2026 19:26:26 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Продолжува потрагата по двајцата исчезнати кај Крк: „Веруваме дека се живи“",
-          "link": "https://makfax.com.mk/svet/region/prodolzhuva-potragata-po-dvajcata-ischeznati-kaj-krk-veruvame-deka-se-zhivi/",
-          "published": "Wed, 12 Aug 2026 19:02:21 +0000"
         },
         {
           "source": "NetPress",
@@ -79,7 +79,7 @@
           "source": "BBC",
           "title": "Major Russian grain export terminals hit in Ukraine Black Sea port attack",
           "link": "https://www.bbc.co.uk/news/articles/c5y49xp2wrno?at_medium=RSS&at_campaign=rss",
-          "published": "Wed, 12 Aug 2026 17:47:01 GMT"
+          "published": "Thu, 13 Aug 2026 03:28:56 GMT"
         },
         {
           "source": "BBC",
@@ -107,6 +107,18 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Israeli settlers besiege Palestinian families in West Bank’s Qusra",
+          "link": "https://www.aljazeera.com/news/2026/8/13/israeli-settlers-besiege-three-palestinian-families-in-occupied-west-bank?traffic_source=rss",
+          "published": "Thu, 13 Aug 2026 03:54:09 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Solar eclipse carves Eiffel Tower’s silhouette in Paris sky",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/13/solar-eclipse-carves-eiffel-towers-silhouette-in-paris-sky?traffic_source=rss",
+          "published": "Thu, 13 Aug 2026 02:42:24 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Olympic skateboarder times epic stunt with solar eclipse",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/8/13/aje-onl-nf_skateboarder-times-epic-stunt-with-solar-eclipse-120826?traffic_source=rss",
           "published": "Thu, 13 Aug 2026 01:56:11 +0000"
@@ -122,18 +134,6 @@
           "title": "Half a tonne of Erling Haaland branded cocaine seized in Ecuador",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/8/13/aje-onl-nf_erling-haaland-branded-cocaine-seized-in-ecuador-120826?traffic_source=rss",
           "published": "Thu, 13 Aug 2026 00:05:28 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Iran war live: US, Tehran exchange opposing claims over Hormuz control",
-          "link": "https://www.aljazeera.com/news/liveblog/2026/8/13/iran-war-live-us-and-iran-exchange-opposing-claims-over-hormuz-control?traffic_source=rss",
-          "published": "Thu, 13 Aug 2026 00:00:00 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Trump administration arrests Southern Poverty Law Center expert for fraud",
-          "link": "https://www.aljazeera.com/news/2026/8/12/trump-administration-arrests-southern-poverty-law-center-expert-for-fraud?traffic_source=rss",
-          "published": "Wed, 12 Aug 2026 23:23:14 +0000"
         }
       ]
     }
