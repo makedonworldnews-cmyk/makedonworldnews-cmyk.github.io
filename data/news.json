@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-14T22:57:06Z",
+  "updatedAt": "2026-08-14T23:26:05Z",
   "groups": [
     {
       "region": "Македонија",
@@ -77,9 +77,21 @@
       "items": [
         {
           "source": "BBC",
+          "title": "Mangione admits killing healthcare CEO and pleads guilty to federal charges",
+          "link": "https://www.bbc.co.uk/news/articles/cwy0nlq1l2wo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 14 Aug 2026 19:20:43 GMT"
+        },
+        {
+          "source": "BBC",
           "title": "Afghan women tell the BBC their lives are unrecognisable after five years of Taliban rule",
           "link": "https://www.bbc.co.uk/news/articles/clyje43dz4eo?at_medium=RSS&at_campaign=rss",
           "published": "Fri, 14 Aug 2026 18:25:38 GMT"
+        },
+        {
+          "source": "BBC",
+          "title": "US aircraft carrier on way to relieve USS Lincoln after issues reported on board",
+          "link": "https://www.bbc.co.uk/news/articles/c171yp5zdrxo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 14 Aug 2026 17:36:27 GMT"
         },
         {
           "source": "BBC",
@@ -94,16 +106,10 @@
           "published": "Fri, 14 Aug 2026 17:03:17 GMT"
         },
         {
-          "source": "BBC",
-          "title": "'Unprecedented' rain in Japan kills eight people",
-          "link": "https://www.bbc.co.uk/news/articles/cq561gpen8lo?at_medium=RSS&at_campaign=rss",
-          "published": "Fri, 14 Aug 2026 10:36:14 GMT"
-        },
-        {
-          "source": "BBC",
-          "title": "Builders unearth €9m gold stash sealed in walls of Belgian property",
-          "link": "https://www.bbc.co.uk/news/articles/c5ydzg0dnz7o?at_medium=RSS&at_campaign=rss",
-          "published": "Fri, 14 Aug 2026 13:18:08 GMT"
+          "source": "Al Jazeera",
+          "title": "Yemen’s government says Houthi attack on al-Makha kills at least four",
+          "link": "https://www.aljazeera.com/news/2026/8/14/yemens-government-says-houthi-attack-on-al-makha-kills-at-least-four?traffic_source=rss",
+          "published": "Fri, 14 Aug 2026 22:45:19 +0000"
         },
         {
           "source": "Al Jazeera",
@@ -128,12 +134,6 @@
           "title": "Trump dismisses mental health concerns on USS Lincoln aircraft carrier",
           "link": "https://www.aljazeera.com/news/2026/8/14/trump-dismisses-mental-health-concerns-on-uss-lincoln-aircraft-carrier?traffic_source=rss",
           "published": "Fri, 14 Aug 2026 21:17:15 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Mount Etna eruption and volcanic ash shut Sicily’s busiest airport",
-          "link": "https://www.aljazeera.com/news/2026/8/14/mount-etna-eruption-and-volcanic-ash-shut-sicilys-busiest-airport?traffic_source=rss",
-          "published": "Fri, 14 Aug 2026 21:03:07 +0000"
         }
       ]
     }
