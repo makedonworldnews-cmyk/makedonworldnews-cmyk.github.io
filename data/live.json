@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T23:20:55Z",
+  "generated_at": "2026-08-14T00:05:22Z",
   "items": [
     {
       "region": "Македонија",
@@ -109,6 +109,13 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "Gaza City police chief killed as Israel pushes on with deadly strikes",
+      "link": "https://www.aljazeera.com/news/2026/8/13/gaza-city-police-chief-killed-as-israel-pushes-on-with-deadly-strikes?traffic_source=rss",
+      "published": "Thu, 13 Aug 2026 23:09:15 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "Tate supporters rally for brothers ahead of bail hearing in Miami",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/8/13/tate-supporters-rally-for-brothers-ahead-of-bail-hearing-in-miami?traffic_source=rss",
       "published": "Thu, 13 Aug 2026 21:17:45 +0000"
@@ -133,13 +140,6 @@
       "title": "What’s at stake in Zambia’s elections?",
       "link": "https://www.aljazeera.com/video/inside-story/2026/8/13/whats-at-stake-in-zambias-elections?traffic_source=rss",
       "published": "Thu, 13 Aug 2026 21:04:22 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Kennedy Center votes to restore Trump’s name to venue, close for two years",
-      "link": "https://www.aljazeera.com/news/2026/8/13/kennedy-center-votes-to-restore-trumps-name-to-venue-close-for-two-years?traffic_source=rss",
-      "published": "Thu, 13 Aug 2026 21:00:31 +0000"
     }
   ]
 }
