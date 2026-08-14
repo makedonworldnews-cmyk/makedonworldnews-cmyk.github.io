@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-14T16:29:08Z",
+  "updatedAt": "2026-08-14T17:31:20Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Водата во Демир Капија е забранета за пиење и подготвување храна",
+          "link": "https://makfax.com.mk/makedonija/vodata-vo-demir-kapija-e-zabraneta-za-pienje-i-podgotvuvanje-hrana/",
+          "published": "Fri, 14 Aug 2026 17:13:27 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "„21 век –  Во Гостивар здравица за вода што цел месец беше фекална“, велат од СДСМ",
+          "link": "https://makfax.com.mk/makedonija/21-vek-vo-gostivar-zdravica-za-voda-shto-cel-mesec-beshe-fekalna-velat-od-sdsm/",
+          "published": "Fri, 14 Aug 2026 17:03:57 +0000"
         },
         {
           "source": "Makfax",
@@ -29,46 +41,34 @@
           "published": "Fri, 14 Aug 2026 16:00:19 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Учениците од Карпош со континуирана едукација во Природонаучниот музеј",
-          "link": "https://makfax.com.mk/makedonija/uchenicite-od-karposh-so-kontinuirana-edukacija-vo-prirodonauchniot-muzej/",
-          "published": "Fri, 14 Aug 2026 15:53:58 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Втор смртен случај од западнонилска треска во Македонија",
-          "link": "https://makfax.com.mk/makedonija/vtor-smrten-sluchaj-od-zapadnonilska-treska-vo-makedonija/",
-          "published": "Fri, 14 Aug 2026 15:28:58 +0000"
+          "source": "NetPress",
+          "title": "Трговски суфицит на еврозоната со светот во јуни",
+          "link": "https://netpress.com.mk/trgovski-suficzit-na-evrozonata-so-svetot-vo-juni/",
+          "published": "Fri, 14 Aug 2026 17:16:51 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Спасувањето маж заробен под урнатини четири дена дава надежи по земјотресот во Колумбија",
-          "link": "https://netpress.com.mk/spasuvaneto-mazh-zaroben-pod-urnatini-chetiri-dena-dava-nadezhi-po-zemjotresot-vo-kolumbija/",
-          "published": "Fri, 14 Aug 2026 16:27:51 +0000"
+          "title": "Авионите цел дел гаснат над Рамни Габер, активни пожари има на осум места",
+          "link": "https://netpress.com.mk/avionite-czel-del-gasnat-nad-ramni-gaber-aktivni-pozhari-ima-na-osum-mesta/",
+          "published": "Fri, 14 Aug 2026 17:06:54 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Пожарот кај Херцег Нови се шири на фронт од 15 километри",
-          "link": "https://netpress.com.mk/pozharot-kaj-herczeg-novi-se-shiri-na-front-od-15-kilometri/",
-          "published": "Fri, 14 Aug 2026 16:26:01 +0000"
+          "title": "Дури 1.576 прекршоци за пречекорување на дозволената брзина за една недела",
+          "link": "https://netpress.com.mk/duri-1-576-prekrshoczi-za-prechekoruvane-na-dozvolenata-brzina-za-edna-nedela/",
+          "published": "Fri, 14 Aug 2026 17:00:32 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Тинејџерка ќе одговара за лажно пријавување, во полиција рекла дека на непознато лице со нож и нанело убодни рани",
-          "link": "https://netpress.com.mk/tinejdherka-ke-odgovara-za-lazhno-prijavuvane-vo-policzija-rekla-deka-na-nepoznato-licze-so-nozh-i-nanelo-ubodni-rani/",
-          "published": "Fri, 14 Aug 2026 16:22:15 +0000"
+          "title": "За 5 часа полицијата казни 72 возачи на лесни електрични возила",
+          "link": "https://netpress.com.mk/za-5-chasa-policzijata-kazni-72-vozachi-na-lesni-elektrichni-vozila/",
+          "published": "Fri, 14 Aug 2026 16:56:55 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Цените на нафтата близу 87 долари",
-          "link": "https://netpress.com.mk/czenite-na-naftata-blizu-87-dolari/",
-          "published": "Fri, 14 Aug 2026 16:02:18 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Почесна артилериска стрелба по повод Денот на Армијата",
-          "link": "https://netpress.com.mk/pochesna-artileriska-strelba-po-povod-denot-na-armijata/",
-          "published": "Fri, 14 Aug 2026 15:59:38 +0000"
+          "title": "НЛБ предупредува на лажни СМС пораки – злоупотреба на името и брендот на банката",
+          "link": "https://netpress.com.mk/nlb-predupreduva-na-lazhni-sms-poraki-zloupotreba-na-imeto-i-brendot-na-bankata/",
+          "published": "Fri, 14 Aug 2026 16:52:22 +0000"
         }
       ]
     },
@@ -83,15 +83,15 @@
         },
         {
           "source": "BBC",
-          "title": "'Unprecedented' rain in Japan kills eight people",
-          "link": "https://www.bbc.co.uk/news/articles/cq561gpen8lo?at_medium=RSS&at_campaign=rss",
-          "published": "Fri, 14 Aug 2026 10:36:14 GMT"
+          "title": "Activists try to deliver aid to Palestinians in homes besieged by Israeli settlers",
+          "link": "https://www.bbc.co.uk/news/articles/c1w1ylw0p3no?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 14 Aug 2026 17:03:17 GMT"
         },
         {
           "source": "BBC",
-          "title": "Trump asks Supreme Court to allow ballroom work to continue",
-          "link": "https://www.bbc.co.uk/news/articles/c3v0yz2r4wlo?at_medium=RSS&at_campaign=rss",
-          "published": "Fri, 14 Aug 2026 15:10:41 GMT"
+          "title": "'Unprecedented' rain in Japan kills eight people",
+          "link": "https://www.bbc.co.uk/news/articles/cq561gpen8lo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 14 Aug 2026 10:36:14 GMT"
         },
         {
           "source": "BBC",
@@ -107,6 +107,24 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Liverpool to sell minority stake to consortium including Jeff Bezos",
+          "link": "https://www.aljazeera.com/sports/2026/8/14/liverpool-to-sell-minority-stake-to-consortium-including-jeff-bezos?traffic_source=rss",
+          "published": "Fri, 14 Aug 2026 16:59:41 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Analysis: Israel’s government can’t disown West Bank settler violence",
+          "link": "https://www.aljazeera.com/news/2026/8/14/analysis-israels-government-cant-disown-west-bank-settler-violence?traffic_source=rss",
+          "published": "Fri, 14 Aug 2026 16:46:30 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "What’s next for far-right Reform UK after Farage’s by-election win?",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/14/whats-next-for-far-right-reform-uk-after-farages-by-election-win?traffic_source=rss",
+          "published": "Fri, 14 Aug 2026 16:35:45 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Philippines drug war victims seek justice through truth commission",
           "link": "https://www.aljazeera.com/features/2026/8/14/philippines-drug-war-victims-seek-justice-through-truth-commission?traffic_source=rss",
           "published": "Fri, 14 Aug 2026 16:08:07 +0000"
@@ -116,24 +134,6 @@
           "title": "Top French court upholds assisted dying law, rejects teen social media ban",
           "link": "https://www.aljazeera.com/news/2026/8/14/top-french-court-upholds-assisted-dying-law-rejects-teen-social-media-ban?traffic_source=rss",
           "published": "Fri, 14 Aug 2026 15:52:57 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Mangione pleads guilty to federal charges in UnitedHealthcare CEO killing",
-          "link": "https://www.aljazeera.com/news/2026/8/14/mangione-pleads-guilty-to-federal-charges-in-unitedhealthcare-ceo-killing?traffic_source=rss",
-          "published": "Fri, 14 Aug 2026 15:43:15 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Zambia suspends vote counting in election citing violence",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/14/zambia-suspends-vote-counting-in-election-citing-violence?traffic_source=rss",
-          "published": "Fri, 14 Aug 2026 15:40:27 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Qatar challenges AFC over open letter attacking FIFA President Infantino",
-          "link": "https://www.aljazeera.com/sports/2026/8/14/qatar-challenges-afc-over-open-letter-attacking-fifa-president-infantino?traffic_source=rss",
-          "published": "Fri, 14 Aug 2026 15:36:58 +0000"
         }
       ]
     }
