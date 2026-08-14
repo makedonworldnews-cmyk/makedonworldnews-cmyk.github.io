@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-14T17:31:20Z",
+  "updatedAt": "2026-08-14T18:29:28Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,24 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Осум лица се борат за живот, хрватските пожарникари предупредуваат: Треба да бидеме внимателни",
+          "link": "https://makfax.com.mk/svet/region/osum-lica-se-borat-za-zhivot-hrvatskite-pozharnikari-predupreduvaat-treba-da-bideme-vnimatelni/",
+          "published": "Fri, 14 Aug 2026 18:10:30 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "34-годишната Драгана исчезнала за време на пожарот во Омиш, потрагата е во тек",
+          "link": "https://makfax.com.mk/svet/region/34-godishnata-dragana-ischeznala-za-vreme-na-pozharot-vo-omish-potragata-e-vo-tek/",
+          "published": "Fri, 14 Aug 2026 17:49:41 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "ВЛЕН: 25 години по Рамковниот договор од Охрид, еднаквоста станува закон, развојот зема замав, европскиот пат се зајакнува",
+          "link": "https://makfax.com.mk/makedonija/vlen-25-godini-po-ramkovniot-dogovor-od-ohrid-ednakvosta-stanuva-zakon-razvojot-zema-zamav-evropskiot-pat-se-zajaknuva/",
+          "published": "Fri, 14 Aug 2026 17:33:01 +0000"
         },
         {
           "source": "Makfax",
@@ -23,52 +41,34 @@
           "published": "Fri, 14 Aug 2026 17:03:57 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "(Видео) Ангелов: Вчера беа нападнати пожарникари, инцидентот е пријавен во полиција",
-          "link": "https://makfax.com.mk/makedonija/video-angelov-vchera-bea-napadnati-pozharnikari-incidentot-e-prijaven-vo-policija/",
-          "published": "Fri, 14 Aug 2026 16:27:16 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Времето утре – сончево со мала облачност, температурата до 35 степени",
-          "link": "https://makfax.com.mk/makedonija/vremeto-utre-sonchevo-so-mala-oblachnost-temperaturata-do-35-stepeni/",
-          "published": "Fri, 14 Aug 2026 16:12:27 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Агенцијата за филм ги „ѕирна“ анимираните „Лефти и Рајти“",
-          "link": "https://makfax.com.mk/kultura/agencijata-za-film-gi-%ea%9c%b1irna-animiranite-lefti-i-rajti/",
-          "published": "Fri, 14 Aug 2026 16:00:19 +0000"
+          "source": "NetPress",
+          "title": "Манџоне призна вина за убиството на шефот на најголемата осигурителна компанија во САД",
+          "link": "https://netpress.com.mk/mandhone-prizna-vina-za-ubistvoto-na-shefot-na-najgolemata-osiguritelna-kompanija-vo-sad/",
+          "published": "Fri, 14 Aug 2026 18:17:53 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Трговски суфицит на еврозоната со светот во јуни",
-          "link": "https://netpress.com.mk/trgovski-suficzit-na-evrozonata-so-svetot-vo-juni/",
-          "published": "Fri, 14 Aug 2026 17:16:51 +0000"
+          "title": "Трамп отвора пат за нови милијарди во рударството, Иловица и натаму чека реализација",
+          "link": "https://netpress.com.mk/tramp-otvora-pat-za-novi-milijardi-vo-rudarstvoto-ilovicza-i-natamu-cheka-realizaczija/",
+          "published": "Fri, 14 Aug 2026 17:58:26 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Авионите цел дел гаснат над Рамни Габер, активни пожари има на осум места",
-          "link": "https://netpress.com.mk/avionite-czel-del-gasnat-nad-ramni-gaber-aktivni-pozhari-ima-na-osum-mesta/",
-          "published": "Fri, 14 Aug 2026 17:06:54 +0000"
+          "title": "Најмалку три жртви во руските напади врз Украина, продолжуваат украинските удари врз руската инфраструктура",
+          "link": "https://netpress.com.mk/najmalku-tri-zhrtvi-vo-ruskite-napadi-vrz-ukraina-prodolzhuvaat-ukrainskite-udari-vrz-ruskata-infrastruktura/",
+          "published": "Fri, 14 Aug 2026 17:54:20 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Дури 1.576 прекршоци за пречекорување на дозволената брзина за една недела",
-          "link": "https://netpress.com.mk/duri-1-576-prekrshoczi-za-prechekoruvane-na-dozvolenata-brzina-za-edna-nedela/",
-          "published": "Fri, 14 Aug 2026 17:00:32 +0000"
+          "title": "Нападнал пожарникари кои дошле да го гасат огнот",
+          "link": "https://netpress.com.mk/napadnal-pozharnikari-koi-doshle-da-go-gasat-ognot/",
+          "published": "Fri, 14 Aug 2026 17:49:34 +0000"
         },
         {
           "source": "NetPress",
-          "title": "За 5 часа полицијата казни 72 возачи на лесни електрични возила",
-          "link": "https://netpress.com.mk/za-5-chasa-policzijata-kazni-72-vozachi-na-lesni-elektrichni-vozila/",
-          "published": "Fri, 14 Aug 2026 16:56:55 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "НЛБ предупредува на лажни СМС пораки – злоупотреба на името и брендот на банката",
-          "link": "https://netpress.com.mk/nlb-predupreduva-na-lazhni-sms-poraki-zloupotreba-na-imeto-i-brendot-na-bankata/",
-          "published": "Fri, 14 Aug 2026 16:52:22 +0000"
+          "title": "Забрането е да се пие водата во Демир Капија",
+          "link": "https://netpress.com.mk/zabraneto-e-da-se-pie-vodata-vo-demir-kapija/",
+          "published": "Fri, 14 Aug 2026 17:42:23 +0000"
         }
       ]
     },
