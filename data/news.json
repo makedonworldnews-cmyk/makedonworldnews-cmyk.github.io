@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T11:19:35Z",
+  "updatedAt": "2026-08-15T11:39:13Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Ја тепал ќерката и се заканувал дека ќе ги запали неа и сопругата, се бара притвор",
+          "link": "https://makfax.com.mk/makedonija/ja-tepal-kerkata-i-se-zakanuval-deka-ke-gi-zapali-nea-i-soprugata-se-bara-pritvor/",
+          "published": "Sat, 15 Aug 2026 11:37:58 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Мицкоски за лажната вест за водата: Се надевам дека со измените во кривичниот законик ќе има казни за лицата кои создаваа хистерија",
+          "link": "https://makfax.com.mk/makedonija/mickoski-za-lazhnata-vest-za-vodata-vo-skopje-se-nadevam-deka-so-izmenite-vo-krivichniot-zakonik-ke-ima-kazni-za-licata-koi-sozdavaa-histerija/",
+          "published": "Sat, 15 Aug 2026 11:21:52 +0000"
         },
         {
           "source": "Makfax",
@@ -29,16 +41,10 @@
           "published": "Sat, 15 Aug 2026 10:44:39 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "(Видео) Објавена најстрашната снимка од епицентарот на пожарот во Омиш",
-          "link": "https://makfax.com.mk/svet/video-objavena-najstrashnata-snimka-od-epicentarot-na-pozharot-vo-omish/",
-          "published": "Sat, 15 Aug 2026 10:40:34 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "14.440 евра без докажано потекло пронајдени во возило кај Бучим, 35-годишник заврши во притвор",
-          "link": "https://makfax.com.mk/crna-hronika/14-440-evra-bez-dokazhano-poteklo-pronajdeni-vo-vozilo-kaj-buchim-35-godishnik-zavrshi-vo-pritvor/",
-          "published": "Sat, 15 Aug 2026 09:59:58 +0000"
+          "source": "NetPress",
+          "title": "Иран ги повика САД да го признаат поразот, Трамп најави зголемување на цената на бензинот",
+          "link": "https://netpress.com.mk/iran-gi-povika-sad-da-go-priznaat-porazot-tramp-najavi-zgolemuvane-na-czenata-na-benzinot/",
+          "published": "Sat, 15 Aug 2026 11:28:33 +0000"
         },
         {
           "source": "NetPress",
@@ -63,12 +69,6 @@
           "title": "Димитриеска-Кочоска: Поддршката на домашните компании преку унгарскиот заем е инвестиција во економскиот раст",
           "link": "https://netpress.com.mk/dimitrieska-kochoska-poddrshkata-na-domashnite-kompanii-preku-ungarskiot-zaem-e-investiczija-vo-ekonomskiot-rast/",
           "published": "Sat, 15 Aug 2026 09:36:30 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Евидентирана зголемена наплата на давачки за пловила внесени со привремен увоз",
-          "link": "https://netpress.com.mk/evidentirana-zgolemena-naplata-na-davachki-za-plovila-vneseni-so-privremen-uvoz/",
-          "published": "Sat, 15 Aug 2026 08:57:08 +0000"
         }
       ]
     },
@@ -80,12 +80,6 @@
           "title": "Powerful 7.7-magnitude earthquake kills at least 38 in Indonesia",
           "link": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
           "published": "Sat, 15 Aug 2026 08:52:55 GMT"
-        },
-        {
-          "source": "BBC",
-          "title": "'I shot Mr Thompson'- What it was like inside court as Mangione pleaded guilty",
-          "link": "https://www.bbc.co.uk/news/articles/c4gkyez7195o?at_medium=RSS&at_campaign=rss",
-          "published": "Fri, 14 Aug 2026 18:54:58 GMT"
         },
         {
           "source": "BBC",
@@ -101,39 +95,45 @@
         },
         {
           "source": "BBC",
+          "title": "Seven killed in Israeli strike on southern Lebanon, country's PM says",
+          "link": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 15 Aug 2026 11:24:24 GMT"
+        },
+        {
+          "source": "BBC",
           "title": "South Korea proposes talks to officially end war with North",
           "link": "https://www.bbc.co.uk/news/articles/c8en2z9jp2xo?at_medium=RSS&at_campaign=rss",
           "published": "Sat, 15 Aug 2026 09:35:23 GMT"
         },
         {
           "source": "Al Jazeera",
-          "title": "World Cup winner Ferran Torres joins Paris Saint-Germain from Barcelona",
-          "link": "https://www.aljazeera.com/sports/2026/8/15/world-cup-winner-ferran-torres-joins-paris-saint-germain-from-barcelona?traffic_source=rss",
-          "published": "Sat, 15 Aug 2026 10:48:41 +0000"
+          "title": "Is China seeking to copy Iran’s Strait of Hormuz blockade around Taiwan?",
+          "link": "https://www.aljazeera.com/video/101-east/2026/8/15/is-china-seeking-to-copy-irans-strait-of-hormuz-blockade-around-taiwan?traffic_source=rss",
+          "published": "Sat, 15 Aug 2026 11:30:00 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Arsenal vs Manchester City: Community Shield – prediction, lineups, teams",
-          "link": "https://www.aljazeera.com/sports/2026/8/15/arsenal-vs-manchester-city-community-shield-prediction-lineups-teams?traffic_source=rss",
-          "published": "Sat, 15 Aug 2026 10:43:09 +0000"
+          "title": "Modi threatens to target ‘intellectual Naxals’ in Independence Day speech",
+          "link": "https://www.aljazeera.com/news/2026/8/15/modi-threatens-to-target-intellectual-naxals-in-independence-day-speech?traffic_source=rss",
+          "published": "Sat, 15 Aug 2026 11:27:11 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "At scene of deadly Israeli strike on Lebanon home",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/at-scene-of-deadly-israeli-strike-on-lebanon-home?traffic_source=rss",
-          "published": "Sat, 15 Aug 2026 10:18:40 +0000"
+          "title": "Aftermath of deadly Indonesia earthquake",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/aftermath-of-deadly-indonesia-earthquake?traffic_source=rss",
+          "published": "Sat, 15 Aug 2026 11:19:56 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Bangladesh rock Australia as historic Test win in sight",
-          "link": "https://www.aljazeera.com/sports/2026/8/15/bangladesh-rock-australia-as-historic-test-win-in-sight?traffic_source=rss",
-          "published": "Sat, 15 Aug 2026 08:50:56 +0000"
+          "title": "Japanese minister visits shrine to war dead, angering China, South Korea",
+          "link": "https://www.aljazeera.com/news/2026/8/15/japanese-minister-visits-shrine-to-war-dead-angering-china-south-korea?traffic_source=rss",
+          "published": "Sat, 15 Aug 2026 11:09:27 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "FIFA World Cup and Olympics cited as Coe warns of politicians near sport",
-          "link": "https://www.aljazeera.com/sports/2026/8/15/coe-cites-olympics-and-fifa-world-cup-in-warning-on-interference-in-sport?traffic_source=rss",
-          "published": "Sat, 15 Aug 2026 08:44:36 +0000"
+          "title": "What the Taliban achieved and failed to achieve in five years",
+          "link": "https://www.aljazeera.com/opinions/2026/8/15/what-the-taliban-achieved-and-failed-to-achieve-in-five-years?traffic_source=rss",
+          "published": "Sat, 15 Aug 2026 11:07:05 +0000"
         }
       ]
     }
