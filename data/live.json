@@ -1,6 +1,20 @@
 {
-  "generated_at": "2026-08-15T18:16:10Z",
+  "generated_at": "2026-08-15T18:48:27Z",
   "items": [
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "Скопјани од Карпош се скарале за куче, па се испотепале",
+      "link": "https://makfax.com.mk/crna-hronika/skopjani-od-karposh-se-skarale-za-kuche-pa-se-ispotepale/",
+      "published": "Sat, 15 Aug 2026 18:42:47 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "Најмалку 47 загинати во силниот земјотрес што ја погоди источна Индонезија",
+      "link": "https://makfax.com.mk/svet/najmalku-47-zaginati-vo-silniot-zemjotres-shto-ja-pogodi-istochna-indonezija/",
+      "published": "Sat, 15 Aug 2026 18:39:35 +0000"
+    },
     {
       "region": "Македонија",
       "source": "Makfax",
@@ -24,17 +38,17 @@
     },
     {
       "region": "Македонија",
-      "source": "Makfax",
-      "title": "Земјотрес попладнево во Македонија",
-      "link": "https://makfax.com.mk/makedonija/zemjotres-popladnevo-vo-makedonija/",
-      "published": "Sat, 15 Aug 2026 15:44:29 +0000"
+      "source": "NetPress",
+      "title": "Навредливи натписи во Куманово",
+      "link": "https://netpress.com.mk/navredlivi-natpisi-vo-kumanovo/",
+      "published": "Sat, 15 Aug 2026 18:29:48 +0000"
     },
     {
       "region": "Македонија",
-      "source": "Makfax",
-      "title": "Аморим не смета на Леао",
-      "link": "https://makfax.com.mk/sport/amorim-ne-smeta-na-leao/",
-      "published": "Sat, 15 Aug 2026 15:31:02 +0000"
+      "source": "NetPress",
+      "title": "Велосипедист тешко повреден – автомобил удрил во него во Трубарево",
+      "link": "https://netpress.com.mk/velosipedist-teshko-povreden-avtomobil-udril-vo-nego-vo-trubarevo/",
+      "published": "Sat, 15 Aug 2026 18:25:40 +0000"
     },
     {
       "region": "Македонија",
@@ -56,20 +70,6 @@
       "title": "Тетовец уапсен откако син му го пријавил за закана",
       "link": "https://netpress.com.mk/tetovecz-uapsen-otkako-sin-mu-go-prijavil-za-zakana/",
       "published": "Sat, 15 Aug 2026 17:43:56 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Земјотрес со магнитуда од 6,9 повторно ја погоди Индонезија",
-      "link": "https://netpress.com.mk/zemjotres-so-magnituda-od-69-povtorno-ja-pogodi-indonezija/",
-      "published": "Sat, 15 Aug 2026 17:34:21 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Најмалку пет лица се повредени во пукање на Државниот универзитет во Вирџинија",
-      "link": "https://netpress.com.mk/najmalku-pet-licza-se-povredeni-vo-pukane-na-drzhavniot-univerzitet-vo-virdhinija/",
-      "published": "Sat, 15 Aug 2026 17:13:51 +0000"
     },
     {
       "region": "Свет",
@@ -109,6 +109,27 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "Cleanup underway as Russian oil spill reaches Oman’s coastline",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/15-08-sv-oil-spill-oman-on?traffic_source=rss",
+      "published": "Sat, 15 Aug 2026 18:11:12 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "US aircraft carrier expected to relieve USS Lincoln in Middle East",
+      "link": "https://www.aljazeera.com/news/2026/8/15/us-aircraft-carrier-expected-to-relieve-uss-lincoln-in-middle-east?traffic_source=rss",
+      "published": "Sat, 15 Aug 2026 17:49:42 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Inter Milan sign England’s Djed Spence from Tottenham Hotspur",
+      "link": "https://www.aljazeera.com/sports/2026/8/15/inter-milan-sign-englands-djed-spence-from-tottenham-hotspur?traffic_source=rss",
+      "published": "Sat, 15 Aug 2026 17:48:32 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "Tropical Storm Lala expected to strengthen as it nears Hawaii",
       "link": "https://www.aljazeera.com/news/2026/8/15/tropical-storm-lala-expected-to-strengthen-as-it-nears-hawaii?traffic_source=rss",
       "published": "Sat, 15 Aug 2026 17:27:57 +0000"
@@ -119,27 +140,6 @@
       "title": "UK PM Burnham reacts to death of former Cambridge professor",
       "link": "https://www.aljazeera.com/news/2026/8/15/uk-pm-burnham-reacts-to-death-of-former-cambridge-professor?traffic_source=rss",
       "published": "Sat, 15 Aug 2026 17:19:12 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Erdogan says Egypt could join Turkiye-Saudi-Pakistan defence pact",
-      "link": "https://www.aljazeera.com/news/2026/8/15/erdogan-says-egypt-could-join-turkiye-saudi-pakistan-defence-pact?traffic_source=rss",
-      "published": "Sat, 15 Aug 2026 16:39:52 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "One killed, dozens injured after wildfire hits Croatian coast",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/one-killed-dozens-injured-after-wildfire-hits-croatian-coast?traffic_source=rss",
-      "published": "Sat, 15 Aug 2026 16:33:05 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Sudan’s al-Burhan pledges immunity for dialogue, rules out Hemedti return",
-      "link": "https://www.aljazeera.com/news/2026/8/15/sudans-al-burhan-pledges-immunity-for-dialogue-rules-out-hemedti-return?traffic_source=rss",
-      "published": "Sat, 15 Aug 2026 16:17:43 +0000"
     }
   ]
 }
