@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T11:39:13Z",
+  "updatedAt": "2026-08-15T11:55:32Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Татко пријавил дека ќерка му била нападната со пластично шише, па родителите на малолетниците го пријавиле него",
+          "link": "https://makfax.com.mk/crna-hronika/tatko-prijavil-deka-kerka-mu-bila-napadnata-so-plastichno-shishe-pa-roditelite-na-maloletnicite-go-prijavile-nego/",
+          "published": "Sat, 15 Aug 2026 11:51:56 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Шест пожари и натаму активни во Македонија, огнот се шири и кон Бојане",
+          "link": "https://makfax.com.mk/makedonija/shest-pozhari-i-natamu-aktivni-vo-makedonija-ognot-se-shiri-i-kon-bojane/",
+          "published": "Sat, 15 Aug 2026 11:42:42 +0000"
         },
         {
           "source": "Makfax",
@@ -27,18 +39,6 @@
           "title": "Со багер при градежни работи бил оштетен оптички кабел на МВР во Тетово",
           "link": "https://makfax.com.mk/makedonija/so-bager-pri-gradezhni-raboti-bil-oshteten-optichki-kabel-na-mvr-vo-tetovo/",
           "published": "Sat, 15 Aug 2026 11:19:10 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Водата од скопскиот водовод е безбедна за пиење",
-          "link": "https://makfax.com.mk/makedonija/vodata-od-skopskiot-vodovod-e-bezbedna-za-pienje/",
-          "published": "Sat, 15 Aug 2026 11:16:12 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Постигнат е договор и откупот на пиперката тече според очекувањата, тврди Мицкоски",
-          "link": "https://makfax.com.mk/makedonija/postignat-e-dogovor-i-otkupot-na-piperkata-teche-spored-ochekuvanjata-tvrdi-mickoski/",
-          "published": "Sat, 15 Aug 2026 10:44:39 +0000"
         },
         {
           "source": "NetPress",
@@ -79,7 +79,7 @@
           "source": "BBC",
           "title": "Powerful 7.7-magnitude earthquake kills at least 38 in Indonesia",
           "link": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
-          "published": "Sat, 15 Aug 2026 08:52:55 GMT"
+          "published": "Sat, 15 Aug 2026 11:48:58 GMT"
         },
         {
           "source": "BBC",
