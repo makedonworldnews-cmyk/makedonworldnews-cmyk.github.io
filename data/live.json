@@ -1,6 +1,13 @@
 {
-  "generated_at": "2026-08-15T20:13:14Z",
+  "generated_at": "2026-08-15T20:40:12Z",
   "items": [
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "Автобус со 84 српски туристи излетал од патот во Бугарија: Нема повредени",
+      "link": "https://makfax.com.mk/svet/avtobus-so-84-srpski-turisti-izletal-od-patot-vo-bugarija-nema-povredeni/",
+      "published": "Sat, 15 Aug 2026 20:19:23 +0000"
+    },
     {
       "region": "Македонија",
       "source": "Makfax",
@@ -31,10 +38,10 @@
     },
     {
       "region": "Македонија",
-      "source": "Makfax",
-      "title": "Мусијала се онесвести за време на натпревар",
-      "link": "https://makfax.com.mk/sport/musijala-se-onesvesti-za-vreme-na-natprevar/",
-      "published": "Sat, 15 Aug 2026 17:19:07 +0000"
+      "source": "NetPress",
+      "title": "ВИДЕО| Талибаните одбележуваат пет години од враќањето на власт во Авганистан",
+      "link": "https://netpress.com.mk/video-talibanite-odbelezhuvaat-pet-godini-od-vrakaneto-na-vlast-vo-avganistan/",
+      "published": "Sat, 15 Aug 2026 20:31:04 +0000"
     },
     {
       "region": "Македонија",
@@ -65,13 +72,6 @@
       "published": "Sat, 15 Aug 2026 18:25:40 +0000"
     },
     {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Викнал Брза помош, па ги пцуел и се заканувал",
-      "link": "https://netpress.com.mk/viknal-brza-pomosh-pa-gi-pczuel-i-se-zakanuval/",
-      "published": "Sat, 15 Aug 2026 17:58:39 +0000"
-    },
-    {
       "region": "Свет",
       "source": "BBC",
       "title": "Powerful magnitude 7.7 earthquake kills at least 47 in Indonesia",
@@ -81,16 +81,16 @@
     {
       "region": "Свет",
       "source": "BBC",
-      "title": "Morocco detains dozens of migrants trying to cross into Ceuta",
+      "title": "Morocco detains dozens of migrants trying to cross into Ceuta, reports say",
       "link": "https://www.bbc.co.uk/news/articles/ckg44x2ey1ro?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 15 Aug 2026 19:16:40 GMT"
+      "published": "Sat, 15 Aug 2026 20:32:33 GMT"
     },
     {
       "region": "Свет",
       "source": "BBC",
       "title": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
       "link": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 15 Aug 2026 16:02:49 GMT"
+      "published": "Sat, 15 Aug 2026 20:21:14 GMT"
     },
     {
       "region": "Свет",
@@ -105,6 +105,20 @@
       "title": "US aircraft carrier on way to relieve USS Lincoln after issues reported aboard",
       "link": "https://www.bbc.co.uk/news/articles/c171yp5zdrxo?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 14 Aug 2026 17:36:27 GMT"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Canadian petition to expel US ambassador gains over 170,000 signatures",
+      "link": "https://www.aljazeera.com/news/2026/8/15/canadian-petition-to-expel-us-ambassador-gains-over-170000-signatures?traffic_source=rss",
+      "published": "Sat, 15 Aug 2026 20:09:33 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Moroccan Police Intercept Migrants Heading for Ceuta Enclave",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/moroccan-police-intercept-migrants-heading-for-ceuta-enclave?traffic_source=rss",
+      "published": "Sat, 15 Aug 2026 20:07:07 +0000"
     },
     {
       "region": "Свет",
@@ -126,20 +140,6 @@
       "title": "La Liga: Real Madrid key talking points heading into new 2026-27 season",
       "link": "https://www.aljazeera.com/sports/2026/8/15/la-liga-real-madrid-key-talking-points-heading-into-new-2026-27-season?traffic_source=rss",
       "published": "Sat, 15 Aug 2026 18:19:23 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Cleanup underway as Russian oil spill reaches Oman’s coastline",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/15-08-sv-oil-spill-oman-on?traffic_source=rss",
-      "published": "Sat, 15 Aug 2026 18:11:12 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "US aircraft carrier expected to relieve USS Lincoln in Middle East",
-      "link": "https://www.aljazeera.com/news/2026/8/15/us-aircraft-carrier-expected-to-relieve-uss-lincoln-in-middle-east?traffic_source=rss",
-      "published": "Sat, 15 Aug 2026 17:49:42 +0000"
     }
   ]
 }
