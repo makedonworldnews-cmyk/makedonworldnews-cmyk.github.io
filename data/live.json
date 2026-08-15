@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T21:00:04Z",
+  "generated_at": "2026-08-15T21:25:02Z",
   "items": [
     {
       "region": "Македонија",
@@ -102,9 +102,16 @@
     {
       "region": "Свет",
       "source": "BBC",
-      "title": "US aircraft carrier on way to relieve USS Lincoln after issues reported aboard",
-      "link": "https://www.bbc.co.uk/news/articles/c171yp5zdrxo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 14 Aug 2026 17:36:27 GMT"
+      "title": "Qatar denies capturing three Iranian pilots after downing fighter jets",
+      "link": "https://www.bbc.co.uk/news/articles/cj4kk8kz271o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 15 Aug 2026 21:03:57 GMT"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Qatar denies it is detaining three Iranian bomber pilots",
+      "link": "https://www.aljazeera.com/news/2026/8/15/qatar-denies-it-is-detaining-three-iranian-bomber-pilots?traffic_source=rss",
+      "published": "Sat, 15 Aug 2026 20:55:29 +0000"
     },
     {
       "region": "Свет",
@@ -133,13 +140,6 @@
       "title": "Moroccan police arrest over 100 migrants trying to reach Spanish enclave",
       "link": "https://www.aljazeera.com/news/2026/8/15/moroccan-police-arrest-over-100-migrants-trying-to-reach-spanish-enclave?traffic_source=rss",
       "published": "Sat, 15 Aug 2026 19:46:20 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Death toll from Zimbabwe ferry disaster rises to 72",
-      "link": "https://www.aljazeera.com/news/2026/8/15/death-toll-from-zimbabwe-ferry-disaster-rises-to-69?traffic_source=rss",
-      "published": "Sat, 15 Aug 2026 19:10:06 +0000"
     }
   ]
 }
