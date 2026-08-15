@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T15:59:39Z",
+  "updatedAt": "2026-08-15T16:34:14Z",
   "groups": [
     {
       "region": "Македонија",
@@ -42,6 +42,18 @@
         },
         {
           "source": "NetPress",
+          "title": "ВИДЕО| Пожарот на Жеден го гасат трите „ер трактори” на ДЗС",
+          "link": "https://netpress.com.mk/video-pozharot-na-zheden-go-gasat-trite-er-traktori-na-dzs/",
+          "published": "Sat, 15 Aug 2026 16:23:15 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Косовец пријавил тепање во Чаир",
+          "link": "https://netpress.com.mk/kosovecz-prijavil-tepane-vo-chair/",
+          "published": "Sat, 15 Aug 2026 16:19:00 +0000"
+        },
+        {
+          "source": "NetPress",
           "title": "Помалку нафта од руски пристаништа за Турција поради украинските напади",
           "link": "https://netpress.com.mk/pomalku-nafta-od-ruski-pristanishta-za-turczija-poradi-ukrainskite-napadi/",
           "published": "Sat, 15 Aug 2026 15:47:54 +0000"
@@ -57,18 +69,6 @@
           "title": "Земјотрес почувствуван во Гостивар и околината",
           "link": "https://netpress.com.mk/zemjotres-pochuvstvuvan-vo-gostivar-i-okolinata/",
           "published": "Sat, 15 Aug 2026 15:20:25 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "„Каско“ измама во Скопје",
-          "link": "https://netpress.com.mk/kasko-izmama-vo-skopje/",
-          "published": "Sat, 15 Aug 2026 15:02:22 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Се заканувал на сопругата, го нападнал синот",
-          "link": "https://netpress.com.mk/se-zakanuval-na-soprugata-go-napadnal-sinot/",
-          "published": "Sat, 15 Aug 2026 14:59:31 +0000"
         }
       ]
     },
@@ -85,7 +85,7 @@
           "source": "BBC",
           "title": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
           "link": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
-          "published": "Sat, 15 Aug 2026 13:38:53 GMT"
+          "published": "Sat, 15 Aug 2026 16:02:49 GMT"
         },
         {
           "source": "BBC",
@@ -107,6 +107,18 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Ukraine hits Russian Starlink-style network, Moscow tracks arms package",
+          "link": "https://www.aljazeera.com/news/2026/8/15/ukraine-hits-russian-starlink-style-network-moscow-tracks-arms-package?traffic_source=rss",
+          "published": "Sat, 15 Aug 2026 15:50:06 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Israeli settlers besiege Palestinian families in occupied West Bank",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/15-08-reported-nour-west-bank-ps?traffic_source=rss",
+          "published": "Sat, 15 Aug 2026 15:48:07 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Sedition to anthem: Many lives of ‘Azadi’ chants in India’s youth protests",
           "link": "https://www.aljazeera.com/features/2026/8/15/sedition-to-anthem-many-lives-of-aazadi-chants-in-indias-youth-protests?traffic_source=rss",
           "published": "Sat, 15 Aug 2026 15:25:51 +0000"
@@ -122,18 +134,6 @@
           "title": "The next Yemen war might be different",
           "link": "https://www.aljazeera.com/features/2026/8/15/the-next-yemen-war-might-be-different?traffic_source=rss",
           "published": "Sat, 15 Aug 2026 14:32:07 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Afghans mark five years of Taliban rule",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/afghans-mark-five-years-of-taliban-rule?traffic_source=rss",
-          "published": "Sat, 15 Aug 2026 13:12:51 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Black professor at centre of Cambridge plagiarism row found dead",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/black-professor-at-centre-of-cambridge-plagiarism-row-found-dead?traffic_source=rss",
-          "published": "Sat, 15 Aug 2026 13:11:31 +0000"
         }
       ]
     }
