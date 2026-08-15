@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T15:22:25Z",
+  "updatedAt": "2026-08-15T15:45:06Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,24 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Земјотрес попладнево во Македонија",
+          "link": "https://makfax.com.mk/makedonija/zemjotres-popladnevo-vo-makedonija/",
+          "published": "Sat, 15 Aug 2026 15:44:29 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Аморим не смета на Леао",
+          "link": "https://makfax.com.mk/sport/amorim-ne-smeta-na-leao/",
+          "published": "Sat, 15 Aug 2026 15:31:02 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Феран Торес стана „светец“",
+          "link": "https://makfax.com.mk/sport/feran-tores-stana-svetec/",
+          "published": "Sat, 15 Aug 2026 15:23:38 +0000"
         },
         {
           "source": "Makfax",
@@ -23,22 +41,10 @@
           "published": "Sat, 15 Aug 2026 14:46:00 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Ангелов: Три „ер трактори“ се борат со пожарот на Жеден кај Јажинце",
-          "link": "https://makfax.com.mk/makedonija/angelov-tri-er-traktori-se-borat-so-pozharot-na-zheden-kaj-jazhince/",
-          "published": "Sat, 15 Aug 2026 14:35:14 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Црвен аларм во Грција – пожарите се закануваат да се прошират",
-          "link": "https://makfax.com.mk/svet/crven-alarm-vo-grcija-pozharite-se-zakanuvaat-da-se-proshirat/",
-          "published": "Sat, 15 Aug 2026 14:29:49 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Херој на плажа во Ситонија: За неколку минути спасил три животи",
-          "link": "https://makfax.com.mk/top/heroj-na-plazha-vo-sitonija-za-nekolku-minuti-spasil-tri-zhivoti/",
-          "published": "Sat, 15 Aug 2026 14:20:09 +0000"
+          "source": "NetPress",
+          "title": "Мицкоски: Повеќе од 1.200 проекти се реализираат низ целата држава",
+          "link": "https://netpress.com.mk/miczkoski-poveke-od-1-200-proekti-se-realiziraat-niz-czelata-drzhava/",
+          "published": "Sat, 15 Aug 2026 15:40:00 +0000"
         },
         {
           "source": "NetPress",
@@ -63,12 +69,6 @@
           "title": "Оштетиле оптички кабел на МВР, ќе одговараат кривичнo",
           "link": "https://netpress.com.mk/oshtetile-optichki-kabel-na-mvr-ke-odgovaraat-krivichno/",
           "published": "Sat, 15 Aug 2026 14:50:32 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "По големиот пожар на првиот крак на Халкидики, забрана за движење во природа",
-          "link": "https://netpress.com.mk/po-golemiot-pozhar-na-prviot-krak-na-halkidiki-zabrana-za-dvizhene-vo-priroda/",
-          "published": "Sat, 15 Aug 2026 14:41:17 +0000"
         }
       ]
     },
@@ -107,6 +107,18 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Sedition to anthem: Many lives of ‘Azadi’ chants in India’s youth protests",
+          "link": "https://www.aljazeera.com/features/2026/8/15/sedition-to-anthem-many-lives-of-aazadi-chants-in-indias-youth-protests?traffic_source=rss",
+          "published": "Sat, 15 Aug 2026 15:25:51 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "How blind football is helping women overcome barriers in Mexico",
+          "link": "https://www.aljazeera.com/news/longform/2026/8/15/how-blind-football-is-helping-women-overcome-barriers-in-mexico?traffic_source=rss",
+          "published": "Sat, 15 Aug 2026 15:15:45 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "The next Yemen war might be different",
           "link": "https://www.aljazeera.com/features/2026/8/15/the-next-yemen-war-might-be-different?traffic_source=rss",
           "published": "Sat, 15 Aug 2026 14:32:07 +0000"
@@ -122,18 +134,6 @@
           "title": "Black professor at centre of Cambridge plagiarism row found dead",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/black-professor-at-centre-of-cambridge-plagiarism-row-found-dead?traffic_source=rss",
           "published": "Sat, 15 Aug 2026 13:11:31 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Vienna woman sues city for discrimination over toilet fees",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/vienna-woman-sues-city-for-discrimination-over-toilet-fees?traffic_source=rss",
-          "published": "Sat, 15 Aug 2026 13:01:31 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Five wounded in shooting at Virginia State University, multiple suspects",
-          "link": "https://www.aljazeera.com/news/2026/8/15/five-wounded-in-shooting-at-virginia-state?traffic_source=rss",
-          "published": "Sat, 15 Aug 2026 12:57:08 +0000"
         }
       ]
     }
