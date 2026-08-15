@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T19:51:48Z",
+  "updatedAt": "2026-08-15T20:21:22Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Автобус со 84 српски туристи излетал од патот во Бугарија: Нема повредени",
+          "link": "https://makfax.com.mk/svet/avtobus-so-84-srpski-turisti-izletal-od-patot-vo-bugarija-nema-povredeni/",
+          "published": "Sat, 15 Aug 2026 20:19:23 +0000"
         },
         {
           "source": "Makfax",
@@ -35,10 +41,10 @@
           "published": "Sat, 15 Aug 2026 17:34:19 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Мусијала се онесвести за време на натпревар",
-          "link": "https://makfax.com.mk/sport/musijala-se-onesvesti-za-vreme-na-natprevar/",
-          "published": "Sat, 15 Aug 2026 17:19:07 +0000"
+          "source": "NetPress",
+          "title": "Партијата на Мерц ја губи популарноста пред изборите во три германски покраини",
+          "link": "https://netpress.com.mk/partijata-na-mercz-ja-gubi-popularnosta-pred-izborite-vo-tri-germanski-pokraini/",
+          "published": "Sat, 15 Aug 2026 19:54:51 +0000"
         },
         {
           "source": "NetPress",
@@ -63,12 +69,6 @@
           "title": "Викнал Брза помош, па ги пцуел и се заканувал",
           "link": "https://netpress.com.mk/viknal-brza-pomosh-pa-gi-pczuel-i-se-zakanuval/",
           "published": "Sat, 15 Aug 2026 17:58:39 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Пијан гевгеличанец нападнал полицаец",
-          "link": "https://netpress.com.mk/pijan-gevgelichanecz-napadnal-policzaecz/",
-          "published": "Sat, 15 Aug 2026 17:51:59 +0000"
         }
       ]
     },
@@ -79,7 +79,7 @@
           "source": "BBC",
           "title": "Powerful magnitude 7.7 earthquake kills at least 47 in Indonesia",
           "link": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
-          "published": "Sat, 15 Aug 2026 13:35:57 GMT"
+          "published": "Sat, 15 Aug 2026 20:00:15 GMT"
         },
         {
           "source": "BBC",
@@ -107,7 +107,13 @@
         },
         {
           "source": "Al Jazeera",
-          "title": "Death toll from Zimbabwe ferry disaster rises to 69",
+          "title": "Moroccan police arrest over 100 migrants trying to reach Spanish enclave",
+          "link": "https://www.aljazeera.com/news/2026/8/15/moroccan-police-arrest-over-100-migrants-trying-to-reach-spanish-enclave?traffic_source=rss",
+          "published": "Sat, 15 Aug 2026 19:46:20 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Death toll from Zimbabwe ferry disaster rises to 72",
           "link": "https://www.aljazeera.com/news/2026/8/15/death-toll-from-zimbabwe-ferry-disaster-rises-to-69?traffic_source=rss",
           "published": "Sat, 15 Aug 2026 19:10:06 +0000"
         },
@@ -128,12 +134,6 @@
           "title": "US aircraft carrier expected to relieve USS Lincoln in Middle East",
           "link": "https://www.aljazeera.com/news/2026/8/15/us-aircraft-carrier-expected-to-relieve-uss-lincoln-in-middle-east?traffic_source=rss",
           "published": "Sat, 15 Aug 2026 17:49:42 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Inter Milan sign England’s Djed Spence from Tottenham Hotspur",
-          "link": "https://www.aljazeera.com/sports/2026/8/15/inter-milan-sign-englands-djed-spence-from-tottenham-hotspur?traffic_source=rss",
-          "published": "Sat, 15 Aug 2026 17:48:32 +0000"
         }
       ]
     }
