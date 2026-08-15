@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T16:34:14Z",
+  "updatedAt": "2026-08-15T16:56:12Z",
   "groups": [
     {
       "region": "Македонија",
@@ -42,6 +42,24 @@
         },
         {
           "source": "NetPress",
+          "title": "Низа меѓусебни пријавување по инцидент со двајца малолетници со пластично шише и нападната малолетничка",
+          "link": "https://netpress.com.mk/niza-megusebni-prijavuvane-po-inczident-so-dvajcza-maloletniczi-so-plastichno-shishe-i-napadnata-maloletnichka/",
+          "published": "Sat, 15 Aug 2026 16:47:34 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Нов пожар се шири во југозападна Франција",
+          "link": "https://netpress.com.mk/nov-pozhar-se-shiri-vo-jugozapadna-franczija/",
+          "published": "Sat, 15 Aug 2026 16:44:39 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Разбојник турнал постара скопјанка и ѝ украл накит",
+          "link": "https://netpress.com.mk/razbojnik-turnal-postara-skopjanka-i-%d1%9d-ukral-nakit/",
+          "published": "Sat, 15 Aug 2026 16:35:38 +0000"
+        },
+        {
+          "source": "NetPress",
           "title": "ВИДЕО| Пожарот на Жеден го гасат трите „ер трактори” на ДЗС",
           "link": "https://netpress.com.mk/video-pozharot-na-zheden-go-gasat-trite-er-traktori-na-dzs/",
           "published": "Sat, 15 Aug 2026 16:23:15 +0000"
@@ -51,24 +69,6 @@
           "title": "Косовец пријавил тепање во Чаир",
           "link": "https://netpress.com.mk/kosovecz-prijavil-tepane-vo-chair/",
           "published": "Sat, 15 Aug 2026 16:19:00 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Помалку нафта од руски пристаништа за Турција поради украинските напади",
-          "link": "https://netpress.com.mk/pomalku-nafta-od-ruski-pristanishta-za-turczija-poradi-ukrainskite-napadi/",
-          "published": "Sat, 15 Aug 2026 15:47:54 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Мицкоски: Повеќе од 1.200 проекти се реализираат низ целата држава",
-          "link": "https://netpress.com.mk/miczkoski-poveke-od-1-200-proekti-se-realiziraat-niz-czelata-drzhava/",
-          "published": "Sat, 15 Aug 2026 15:40:00 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Земјотрес почувствуван во Гостивар и околината",
-          "link": "https://netpress.com.mk/zemjotres-pochuvstvuvan-vo-gostivar-i-okolinata/",
-          "published": "Sat, 15 Aug 2026 15:20:25 +0000"
         }
       ]
     },
@@ -107,6 +107,18 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "One killed, dozens injured after wildfire hits Croatian coast",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/one-killed-dozens-injured-after-wildfire-hits-croatian-coast?traffic_source=rss",
+          "published": "Sat, 15 Aug 2026 16:33:05 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Sudan’s al-Burhan pledges immunity for dialogue, rules out Hemedti return",
+          "link": "https://www.aljazeera.com/news/2026/8/15/sudans-al-burhan-pledges-immunity-for-dialogue-rules-out-hemedti-return?traffic_source=rss",
+          "published": "Sat, 15 Aug 2026 16:17:43 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Ukraine hits Russian Starlink-style network, Moscow tracks arms package",
           "link": "https://www.aljazeera.com/news/2026/8/15/ukraine-hits-russian-starlink-style-network-moscow-tracks-arms-package?traffic_source=rss",
           "published": "Sat, 15 Aug 2026 15:50:06 +0000"
@@ -122,18 +134,6 @@
           "title": "Sedition to anthem: Many lives of ‘Azadi’ chants in India’s youth protests",
           "link": "https://www.aljazeera.com/features/2026/8/15/sedition-to-anthem-many-lives-of-aazadi-chants-in-indias-youth-protests?traffic_source=rss",
           "published": "Sat, 15 Aug 2026 15:25:51 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "How blind football is helping women overcome barriers in Mexico",
-          "link": "https://www.aljazeera.com/news/longform/2026/8/15/how-blind-football-is-helping-women-overcome-barriers-in-mexico?traffic_source=rss",
-          "published": "Sat, 15 Aug 2026 15:15:45 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "The next Yemen war might be different",
-          "link": "https://www.aljazeera.com/features/2026/8/15/the-next-yemen-war-might-be-different?traffic_source=rss",
-          "published": "Sat, 15 Aug 2026 14:32:07 +0000"
         }
       ]
     }
