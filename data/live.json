@@ -1,6 +1,13 @@
 {
-  "generated_at": "2026-08-15T17:30:36Z",
+  "generated_at": "2026-08-15T17:51:39Z",
   "items": [
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "Црна Гора во пламен: Пожари беснеат во пет општини, најкритично во Херцег Нови и Улцињ",
+      "link": "https://makfax.com.mk/svet/crna-gora-vo-plamen-pozhari-besneat-vo-pet-opshtini-najkritichno-vo-herceg-novi-i-ulcinj/",
+      "published": "Sat, 15 Aug 2026 17:34:19 +0000"
+    },
     {
       "region": "Македонија",
       "source": "Makfax",
@@ -31,10 +38,17 @@
     },
     {
       "region": "Македонија",
-      "source": "Makfax",
-      "title": "Кути Ромеро го засили Атлетико Мадрид",
-      "link": "https://makfax.com.mk/sport/kuti-romero-go-zasili-atletiko-madrid/",
-      "published": "Sat, 15 Aug 2026 15:20:25 +0000"
+      "source": "NetPress",
+      "title": "Тетовец уапсен откако син му го пријавил за закана",
+      "link": "https://netpress.com.mk/tetovecz-uapsen-otkako-sin-mu-go-prijavil-za-zakana/",
+      "published": "Sat, 15 Aug 2026 17:43:56 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "NetPress",
+      "title": "Земјотрес со магнитуда од 6,9 повторно ја погоди Индонезија",
+      "link": "https://netpress.com.mk/zemjotres-so-magnituda-od-69-povtorno-ja-pogodi-indonezija/",
+      "published": "Sat, 15 Aug 2026 17:34:21 +0000"
     },
     {
       "region": "Македонија",
@@ -56,20 +70,6 @@
       "title": "Низа меѓусебни пријавување по инцидент со двајца малолетници со пластично шише и нападната малолетничка",
       "link": "https://netpress.com.mk/niza-megusebni-prijavuvane-po-inczident-so-dvajcza-maloletniczi-so-plastichno-shishe-i-napadnata-maloletnichka/",
       "published": "Sat, 15 Aug 2026 16:47:34 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Нов пожар се шири во југозападна Франција",
-      "link": "https://netpress.com.mk/nov-pozhar-se-shiri-vo-jugozapadna-franczija/",
-      "published": "Sat, 15 Aug 2026 16:44:39 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Разбојник турнал постара скопјанка и ѝ украл накит",
-      "link": "https://netpress.com.mk/razbojnik-turnal-postara-skopjanka-i-%d1%9d-ukral-nakit/",
-      "published": "Sat, 15 Aug 2026 16:35:38 +0000"
     },
     {
       "region": "Свет",
@@ -109,6 +109,13 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "UK PM Burnham reacts to death of former Cambridge professor",
+      "link": "https://www.aljazeera.com/news/2026/8/15/uk-pm-burnham-reacts-to-death-of-former-cambridge-professor?traffic_source=rss",
+      "published": "Sat, 15 Aug 2026 17:19:12 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "Erdogan says Egypt could join Turkiye-Saudi-Pakistan defence pact",
       "link": "https://www.aljazeera.com/news/2026/8/15/erdogan-says-egypt-could-join-turkiye-saudi-pakistan-defence-pact?traffic_source=rss",
       "published": "Sat, 15 Aug 2026 16:39:52 +0000"
@@ -133,13 +140,6 @@
       "title": "Ukraine hits Russian Starlink-style network, Moscow tracks arms package",
       "link": "https://www.aljazeera.com/news/2026/8/15/ukraine-hits-russian-starlink-style-network-moscow-tracks-arms-package?traffic_source=rss",
       "published": "Sat, 15 Aug 2026 15:50:06 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Israeli settlers besiege Palestinian families in occupied West Bank",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/15-08-reported-nour-west-bank-ps?traffic_source=rss",
-      "published": "Sat, 15 Aug 2026 15:48:07 +0000"
     }
   ]
 }
