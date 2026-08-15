@@ -1,6 +1,13 @@
 {
-  "generated_at": "2026-08-15T05:36:48Z",
+  "generated_at": "2026-08-15T05:56:21Z",
   "items": [
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "Наутро сончево со мала облачност, попладне локален пороен дожд",
+      "link": "https://makfax.com.mk/makedonija/nautro-sonchevo-so-mala-oblachnost-popladne-lokalen-poroen-dozhd/",
+      "published": "Sat, 15 Aug 2026 05:51:23 +0000"
+    },
     {
       "region": "Македонија",
       "source": "Makfax",
@@ -31,10 +38,10 @@
     },
     {
       "region": "Македонија",
-      "source": "Makfax",
-      "title": "(Видео) Манџионе призна вина за убиството на директорот на „Јунајтед Хелткер“",
-      "link": "https://makfax.com.mk/svet/mandhione-prizna-vina-za-ubistvoto-na/",
-      "published": "Fri, 14 Aug 2026 20:04:16 +0000"
+      "source": "NetPress",
+      "title": "Пратеникот на Трамп патува во Израел во обид да се усогласат разликите околу Газа",
+      "link": "https://netpress.com.mk/pratenikot-na-tramp-patuva-vo-izrael-vo-obid-da-se-usoglasat-razlikite-okolu-gaza/",
+      "published": "Sat, 15 Aug 2026 05:37:43 +0000"
     },
     {
       "region": "Македонија",
@@ -63,13 +70,6 @@
       "title": "Прекин во снабдувањето со струја за корисници во Илинден",
       "link": "https://netpress.com.mk/prekin-vo-snabduvaneto-so-struja-za-korisniczi-vo-ilinden/",
       "published": "Sat, 15 Aug 2026 04:07:10 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Трамп ќе го прогласи Хормуз за „американска територија“",
-      "link": "https://netpress.com.mk/tramp-ke-go-proglasi-hormuz-za-amerikanska-teritorija/",
-      "published": "Fri, 14 Aug 2026 21:47:43 +0000"
     },
     {
       "region": "Свет",
@@ -109,6 +109,13 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "How a Sudanese refugee became a head teacher in a Chadian camp",
+      "link": "https://www.aljazeera.com/news/2026/8/15/how-a-sudanese-refugee-became-a-head-teacher-in-a-chadian-camp?traffic_source=rss",
+      "published": "Sat, 15 Aug 2026 05:14:40 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "Morocco boosts Ceuta security amid calls for mass migrant crossing",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/08-15-26-morocco-ceuta-foritfication-clip-mp4?traffic_source=rss",
       "published": "Sat, 15 Aug 2026 04:54:53 +0000"
@@ -133,13 +140,6 @@
       "title": "Iran says no decision yet on a return to talks with the US",
       "link": "https://www.aljazeera.com/news/2026/8/15/iran-says-no-decision-yet-on-a-return-to-talks-with-the-us?traffic_source=rss",
       "published": "Sat, 15 Aug 2026 04:24:02 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "What we know about the crisis aboard the USS Lincoln",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/what-we-know-about-the-crisis-aboard-the-uss-lincoln?traffic_source=rss",
-      "published": "Sat, 15 Aug 2026 04:21:07 +0000"
     }
   ]
 }
