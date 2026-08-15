@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T14:46:46Z",
+  "generated_at": "2026-08-15T15:00:20Z",
   "items": [
     {
       "region": "Македонија",
@@ -39,6 +39,20 @@
     {
       "region": "Македонија",
       "source": "NetPress",
+      "title": "Се заканувал на сопругата, го нападнал синот",
+      "link": "https://netpress.com.mk/se-zakanuval-na-soprugata-go-napadnal-sinot/",
+      "published": "Sat, 15 Aug 2026 14:59:31 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "NetPress",
+      "title": "Оштетиле оптички кабел на МВР, ќе одговараат кривичнo",
+      "link": "https://netpress.com.mk/oshtetile-optichki-kabel-na-mvr-ke-odgovaraat-krivichno/",
+      "published": "Sat, 15 Aug 2026 14:50:32 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "NetPress",
       "title": "По големиот пожар на првиот крак на Халкидики, забрана за движење во природа",
       "link": "https://netpress.com.mk/po-golemiot-pozhar-na-prviot-krak-na-halkidiki-zabrana-za-dvizhene-vo-priroda/",
       "published": "Sat, 15 Aug 2026 14:41:17 +0000"
@@ -56,20 +70,6 @@
       "title": "Жена во Охридско си ја нападнала свекрвата",
       "link": "https://netpress.com.mk/zhena-vo-ohridsko-si-ja-napadnala-svekrvata/",
       "published": "Sat, 15 Aug 2026 14:26:46 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Симон Трпчески одржа концерт во Хераклеа",
-      "link": "https://netpress.com.mk/1099911-2/",
-      "published": "Sat, 15 Aug 2026 14:16:22 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Уапсен маж од Бучим осомничен за продавање дрога, откако бил фатен со непријавени 14.440 евра",
-      "link": "https://netpress.com.mk/uapsen-mazh-od-buchim-osomnichen-za-prodavane-droga-otkako-bil-faten-so-neprijaveni-14-440-evra/",
-      "published": "Sat, 15 Aug 2026 14:01:58 +0000"
     },
     {
       "region": "Свет",
@@ -109,6 +109,13 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "The next Yemen war might be different",
+      "link": "https://www.aljazeera.com/features/2026/8/15/the-next-yemen-war-might-be-different?traffic_source=rss",
+      "published": "Sat, 15 Aug 2026 14:32:07 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "Afghans mark five years of Taliban rule",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/afghans-mark-five-years-of-taliban-rule?traffic_source=rss",
       "published": "Sat, 15 Aug 2026 13:12:51 +0000"
@@ -133,13 +140,6 @@
       "title": "Five wounded in shooting at Virginia State University, multiple suspects",
       "link": "https://www.aljazeera.com/news/2026/8/15/five-wounded-in-shooting-at-virginia-state?traffic_source=rss",
       "published": "Sat, 15 Aug 2026 12:57:08 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Five years on, how will Taliban deal with armed opposition?",
-      "link": "https://www.aljazeera.com/news/2026/8/15/five-years-on-how-will-taliban-deal-with-armed-opposition?traffic_source=rss",
-      "published": "Sat, 15 Aug 2026 12:44:30 +0000"
     }
   ]
 }
