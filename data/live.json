@@ -1,6 +1,13 @@
 {
-  "generated_at": "2026-08-15T17:01:05Z",
+  "generated_at": "2026-08-15T17:30:36Z",
   "items": [
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "Мусијала се онесвести за време на натпревар",
+      "link": "https://makfax.com.mk/sport/musijala-se-onesvesti-za-vreme-na-natprevar/",
+      "published": "Sat, 15 Aug 2026 17:19:07 +0000"
+    },
     {
       "region": "Македонија",
       "source": "Makfax",
@@ -31,10 +38,17 @@
     },
     {
       "region": "Македонија",
-      "source": "Makfax",
-      "title": "Зеленски: Украина го погоди рускиот ракетен и вселенски центар во Самара",
-      "link": "https://makfax.com.mk/svet/zelenski-ukraina-go-pogodi-ruskiot-raketen-i-vselenski-centar-vo-samara/",
-      "published": "Sat, 15 Aug 2026 14:46:00 +0000"
+      "source": "NetPress",
+      "title": "Најмалку пет лица се повредени во пукање на Државниот универзитет во Вирџинија",
+      "link": "https://netpress.com.mk/najmalku-pet-licza-se-povredeni-vo-pukane-na-drzhavniot-univerzitet-vo-virdhinija/",
+      "published": "Sat, 15 Aug 2026 17:13:51 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "NetPress",
+      "title": "Германец возел  203 км/ч на автопатот Скопје-Гевгелија",
+      "link": "https://netpress.com.mk/germanecz-vozel-203-km-ch-na-avtopatot-skopje-gevgelija/",
+      "published": "Sat, 15 Aug 2026 17:06:19 +0000"
     },
     {
       "region": "Македонија",
@@ -56,20 +70,6 @@
       "title": "Разбојник турнал постара скопјанка и ѝ украл накит",
       "link": "https://netpress.com.mk/razbojnik-turnal-postara-skopjanka-i-%d1%9d-ukral-nakit/",
       "published": "Sat, 15 Aug 2026 16:35:38 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "ВИДЕО| Пожарот на Жеден го гасат трите „ер трактори” на ДЗС",
-      "link": "https://netpress.com.mk/video-pozharot-na-zheden-go-gasat-trite-er-traktori-na-dzs/",
-      "published": "Sat, 15 Aug 2026 16:23:15 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Косовец пријавил тепање во Чаир",
-      "link": "https://netpress.com.mk/kosovecz-prijavil-tepane-vo-chair/",
-      "published": "Sat, 15 Aug 2026 16:19:00 +0000"
     },
     {
       "region": "Свет",
@@ -109,6 +109,13 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "Erdogan says Egypt could join Turkiye-Saudi-Pakistan defence pact",
+      "link": "https://www.aljazeera.com/news/2026/8/15/erdogan-says-egypt-could-join-turkiye-saudi-pakistan-defence-pact?traffic_source=rss",
+      "published": "Sat, 15 Aug 2026 16:39:52 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "One killed, dozens injured after wildfire hits Croatian coast",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/one-killed-dozens-injured-after-wildfire-hits-croatian-coast?traffic_source=rss",
       "published": "Sat, 15 Aug 2026 16:33:05 +0000"
@@ -133,13 +140,6 @@
       "title": "Israeli settlers besiege Palestinian families in occupied West Bank",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/15-08-reported-nour-west-bank-ps?traffic_source=rss",
       "published": "Sat, 15 Aug 2026 15:48:07 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Sedition to anthem: Many lives of ‘Azadi’ chants in India’s youth protests",
-      "link": "https://www.aljazeera.com/features/2026/8/15/sedition-to-anthem-many-lives-of-aazadi-chants-in-indias-youth-protests?traffic_source=rss",
-      "published": "Sat, 15 Aug 2026 15:25:51 +0000"
     }
   ]
 }
