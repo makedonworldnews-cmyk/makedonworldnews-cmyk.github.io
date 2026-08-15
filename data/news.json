@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T14:55:56Z",
+  "updatedAt": "2026-08-15T15:22:25Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Кути Ромеро го засили Атлетико Мадрид",
+          "link": "https://makfax.com.mk/sport/kuti-romero-go-zasili-atletiko-madrid/",
+          "published": "Sat, 15 Aug 2026 15:20:25 +0000"
         },
         {
           "source": "Makfax",
@@ -35,10 +41,22 @@
           "published": "Sat, 15 Aug 2026 14:20:09 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Дванаесет возачи лишени од слобода, меѓу нив и малолетник – возеле без дозвола, пијани или со забрана",
-          "link": "https://makfax.com.mk/makedonija/dvanaeset-vozachi-lisheni-od-sloboda-megu-niv-i-maloletnik-vozele-bez-dozvola-pijani-ili-so-zabrana/",
-          "published": "Sat, 15 Aug 2026 13:55:46 +0000"
+          "source": "NetPress",
+          "title": "Земјотрес почувствуван во Гостивар и околината",
+          "link": "https://netpress.com.mk/zemjotres-pochuvstvuvan-vo-gostivar-i-okolinata/",
+          "published": "Sat, 15 Aug 2026 15:20:25 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "„Каско“ измама во Скопје",
+          "link": "https://netpress.com.mk/kasko-izmama-vo-skopje/",
+          "published": "Sat, 15 Aug 2026 15:02:22 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Се заканувал на сопругата, го нападнал синот",
+          "link": "https://netpress.com.mk/se-zakanuval-na-soprugata-go-napadnal-sinot/",
+          "published": "Sat, 15 Aug 2026 14:59:31 +0000"
         },
         {
           "source": "NetPress",
@@ -51,24 +69,6 @@
           "title": "По големиот пожар на првиот крак на Халкидики, забрана за движење во природа",
           "link": "https://netpress.com.mk/po-golemiot-pozhar-na-prviot-krak-na-halkidiki-zabrana-za-dvizhene-vo-priroda/",
           "published": "Sat, 15 Aug 2026 14:41:17 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Времето утре сончево со умерена облачност и температури до 36 степени",
-          "link": "https://netpress.com.mk/vremeto-utre-sonchevo-so-umerena-oblachnost-i-temperaturi-do-36-stepeni/",
-          "published": "Sat, 15 Aug 2026 14:36:13 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Жена во Охридско си ја нападнала свекрвата",
-          "link": "https://netpress.com.mk/zhena-vo-ohridsko-si-ja-napadnala-svekrvata/",
-          "published": "Sat, 15 Aug 2026 14:26:46 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Симон Трпчески одржа концерт во Хераклеа",
-          "link": "https://netpress.com.mk/1099911-2/",
-          "published": "Sat, 15 Aug 2026 14:16:22 +0000"
         }
       ]
     },
