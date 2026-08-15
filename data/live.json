@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T23:41:24Z",
+  "generated_at": "2026-08-15T23:57:38Z",
   "items": [
     {
       "region": "Македонија",
@@ -109,6 +109,20 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "Yemen’s government says Houthi strikes hit residential areas in Marib",
+      "link": "https://www.aljazeera.com/news/2026/8/15/yemens-government-says-houthi-strikes-hit-residential-areas-in-marib?traffic_source=rss",
+      "published": "Sat, 15 Aug 2026 23:27:10 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "At least five reported dead amid flooding in US state of Indiana",
+      "link": "https://www.aljazeera.com/news/2026/8/15/at-least-five-reported-dead-amid-flooding-in-us-state-of-indiana?traffic_source=rss",
+      "published": "Sat, 15 Aug 2026 23:19:34 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "Colombia asks Trump to suspend tariffs as country reels from earthquake",
       "link": "https://www.aljazeera.com/news/2026/8/15/colombia-asks-trump-to-suspend-tariffs-as-country-reels-from-earthquake?traffic_source=rss",
       "published": "Sat, 15 Aug 2026 23:04:47 +0000"
@@ -126,20 +140,6 @@
       "title": "Why is the latest Ebola outbreak worsening?",
       "link": "https://www.aljazeera.com/video/inside-story/2026/8/15/why-is-the-latest-ebola-outbreak-worsening?traffic_source=rss",
       "published": "Sat, 15 Aug 2026 22:00:42 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Qatar denies it is detaining three Iranian bomber pilots",
-      "link": "https://www.aljazeera.com/news/2026/8/15/qatar-denies-it-is-detaining-three-iranian-bomber-pilots?traffic_source=rss",
-      "published": "Sat, 15 Aug 2026 20:55:29 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "California tackles multiple wildfires as firefighter workforce faces strain",
-      "link": "https://www.aljazeera.com/gallery/2026/8/15/california-tackles-multiple-wildfires-as-firefighter-workforce-faces-strain?traffic_source=rss",
-      "published": "Sat, 15 Aug 2026 20:40:48 +0000"
     }
   ]
 }
