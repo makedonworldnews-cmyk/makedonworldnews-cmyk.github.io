@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T04:50:11Z",
+  "updatedAt": "2026-08-15T05:23:52Z",
   "groups": [
     {
       "region": "Македонија",
@@ -42,6 +42,18 @@
         },
         {
           "source": "NetPress",
+          "title": "Аеродромот на Сицилија ќе остане затворен до попладне поради ерупцијата на вулканот Етна",
+          "link": "https://netpress.com.mk/aerodromot-na-siczilija-ke-ostane-zatvoren-do-popladne-poradi-erupczijata-na-vulkanot-etna/",
+          "published": "Sat, 15 Aug 2026 05:17:41 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Дневен хороскоп за сабота, 15-ти август 2026-та",
+          "link": "https://netpress.com.mk/dneven-horoskop-za-sabota-15-ti-avgust-2026-ta/",
+          "published": "Sat, 15 Aug 2026 04:57:47 +0000"
+        },
+        {
+          "source": "NetPress",
           "title": "Денеска најтопло во Скопје и во Велес",
           "link": "https://netpress.com.mk/deneska-najtoplo-vo-skopje-i-vo-veles/",
           "published": "Sat, 15 Aug 2026 04:39:54 +0000"
@@ -57,18 +69,6 @@
           "title": "Трамп ќе го прогласи Хормуз за „американска територија“",
           "link": "https://netpress.com.mk/tramp-ke-go-proglasi-hormuz-za-amerikanska-teritorija/",
           "published": "Fri, 14 Aug 2026 21:47:43 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Голем пожар над скопското село Бојане, огнот се шири од правец на Јегуновце",
-          "link": "https://netpress.com.mk/golem-pozhar-nad-skopskoto-selo-bojane-ognot-se-shiri-od-pravecz-na-jegunovcze/",
-          "published": "Fri, 14 Aug 2026 21:00:15 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Македонски и косовски државјанин се уапсените во големата акција во Солун – им откриле 324 килограми марихуана скриена во приколка",
-          "link": "https://netpress.com.mk/makedonski-i-kosovski-drzhavjanin-se-uapsenite-vo-golemata-akczija-vo-solun/",
-          "published": "Fri, 14 Aug 2026 20:09:56 +0000"
         }
       ]
     },
@@ -80,6 +80,12 @@
           "title": "Mangione admits killing healthcare CEO and pleads guilty to federal charges",
           "link": "https://www.bbc.co.uk/news/articles/cwy0nlq1l2wo?at_medium=RSS&at_campaign=rss",
           "published": "Fri, 14 Aug 2026 19:20:43 GMT"
+        },
+        {
+          "source": "BBC",
+          "title": "BBC seeks to subpoena Trump's family members in Panorama lawsuit",
+          "link": "https://www.bbc.co.uk/news/articles/cd69ely319eo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 15 Aug 2026 00:01:53 GMT"
         },
         {
           "source": "BBC",
@@ -100,10 +106,16 @@
           "published": "Fri, 14 Aug 2026 12:19:21 GMT"
         },
         {
-          "source": "BBC",
-          "title": "Activists try to deliver aid to Palestinians in homes besieged by Israeli settlers",
-          "link": "https://www.bbc.co.uk/news/articles/c1w1ylw0p3no?at_medium=RSS&at_campaign=rss",
-          "published": "Fri, 14 Aug 2026 17:03:17 GMT"
+          "source": "Al Jazeera",
+          "title": "On the ground in Indonesia following 7.7 magnitude earthquake",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/on-the-ground-in-indonesia-following-7-7-magnitude-earthquake?traffic_source=rss",
+          "published": "Sat, 15 Aug 2026 04:49:47 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Taiwan passes defence budget after record delay, retains drone funding",
+          "link": "https://www.aljazeera.com/economy/2026/8/15/taiwan-passes-defence-budget-after-record-delay-retains-drone-funding?traffic_source=rss",
+          "published": "Sat, 15 Aug 2026 04:44:14 +0000"
         },
         {
           "source": "Al Jazeera",
@@ -122,18 +134,6 @@
           "title": "Did the US really destroy Iran’s ballistic missile capability?",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/08-11-2026-tia-us-iran-munitions-quotable?traffic_source=rss",
           "published": "Sat, 15 Aug 2026 03:52:08 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "India marks 80th Independence Day with military display",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/india-marks-80th-independence-day-with-military-display?traffic_source=rss",
-          "published": "Sat, 15 Aug 2026 03:39:06 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "HRW says US civil rights enforcement reduced under Trump: What to know",
-          "link": "https://www.aljazeera.com/news/2026/8/15/hrw-says-us-civil-rights-enforcement-reduced-under-trump-what-to-know?traffic_source=rss",
-          "published": "Sat, 15 Aug 2026 03:04:20 +0000"
         }
       ]
     }
