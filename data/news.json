@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T08:10:01Z",
+  "updatedAt": "2026-08-15T08:44:37Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Палеле пожари среде ноќ: Двајца фатени на дело во Битола и Прилеп",
+          "link": "https://makfax.com.mk/crna-hronika/palele-pozhari-srede-nok-dvajca-fateni-na-delo-vo-bitola-i-prilep/",
+          "published": "Sat, 15 Aug 2026 08:27:13 +0000"
         },
         {
           "source": "Makfax",
@@ -35,10 +41,16 @@
           "published": "Sat, 15 Aug 2026 07:25:02 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Избоден маж на Нов Белград",
-          "link": "https://makfax.com.mk/svet/izboden-mazh-na-nov-belgrad/",
-          "published": "Sat, 15 Aug 2026 06:22:53 +0000"
+          "source": "NetPress",
+          "title": "Велика Британија реагираше на навредите упатени кон нив од Нетанјаху",
+          "link": "https://netpress.com.mk/velika-britanija-reagirashe-na-navredite-upateni-kon-niv-od-netanjahu/",
+          "published": "Sat, 15 Aug 2026 08:32:53 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Регистрирани 27 пожари, активни шест, еден под контрола",
+          "link": "https://netpress.com.mk/registrirani-27-pozhari-aktivni-shest-eden-pod-kontrola/",
+          "published": "Sat, 15 Aug 2026 08:15:33 +0000"
         },
         {
           "source": "NetPress",
@@ -57,18 +69,6 @@
           "title": "Студен туш за Зеленски од Белата куќа, нема ништо од неговата молба: „Трагично многу е дадено на Украина“",
           "link": "https://netpress.com.mk/studen-tush-za-zelenski-od-belata-kuka-nema-nishto-od-negovata-molba-tragichno-mnogu-e-dadeno-na-ukraina/",
           "published": "Sat, 15 Aug 2026 07:14:32 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Почесна артилериска стрелба в понеделник вечер",
-          "link": "https://netpress.com.mk/pochesna-artileriska-strelba-v-ponedelnik-vecher/",
-          "published": "Sat, 15 Aug 2026 07:07:02 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Три земјотреси за два часа во БиХ: Сите регистрирани во близина на Сараево",
-          "link": "https://netpress.com.mk/1099831-2zemjotres-saraevo/",
-          "published": "Sat, 15 Aug 2026 06:51:46 +0000"
         }
       ]
     },
@@ -77,15 +77,9 @@
       "items": [
         {
           "source": "BBC",
-          "title": "At least 14 dead after 7.7-magnitude earthquake strikes Indonesia",
+          "title": "Powerful 7.7-magnitude earthquake kills at least 20 in Indonesia",
           "link": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
-          "published": "Sat, 15 Aug 2026 07:22:22 GMT"
-        },
-        {
-          "source": "BBC",
-          "title": "Tributes paid to Jason Arday after ex-Cambridge professor found dead",
-          "link": "https://www.bbc.co.uk/news/articles/c9982znvyk4o?at_medium=RSS&at_campaign=rss",
-          "published": "Sat, 15 Aug 2026 07:53:48 GMT"
+          "published": "Sat, 15 Aug 2026 08:21:01 GMT"
         },
         {
           "source": "BBC",
@@ -104,6 +98,12 @@
           "title": "US aircraft carrier on way to relieve USS Lincoln after issues reported aboard",
           "link": "https://www.bbc.co.uk/news/articles/c171yp5zdrxo?at_medium=RSS&at_campaign=rss",
           "published": "Fri, 14 Aug 2026 17:36:27 GMT"
+        },
+        {
+          "source": "BBC",
+          "title": "Activists try to deliver aid to Palestinians in homes besieged by Israeli settlers",
+          "link": "https://www.bbc.co.uk/news/articles/c1w1ylw0p3no?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 14 Aug 2026 17:03:17 GMT"
         },
         {
           "source": "Al Jazeera",
