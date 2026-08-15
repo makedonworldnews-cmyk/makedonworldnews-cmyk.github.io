@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T05:23:52Z",
+  "updatedAt": "2026-08-15T05:50:21Z",
   "groups": [
     {
       "region": "Македонија",
@@ -42,6 +42,12 @@
         },
         {
           "source": "NetPress",
+          "title": "Пратеникот на Трамп патува во Израел во обид да се усогласат разликите околу Газа",
+          "link": "https://netpress.com.mk/pratenikot-na-tramp-patuva-vo-izrael-vo-obid-da-se-usoglasat-razlikite-okolu-gaza/",
+          "published": "Sat, 15 Aug 2026 05:37:43 +0000"
+        },
+        {
+          "source": "NetPress",
           "title": "Аеродромот на Сицилија ќе остане затворен до попладне поради ерупцијата на вулканот Етна",
           "link": "https://netpress.com.mk/aerodromot-na-siczilija-ke-ostane-zatvoren-do-popladne-poradi-erupczijata-na-vulkanot-etna/",
           "published": "Sat, 15 Aug 2026 05:17:41 +0000"
@@ -63,12 +69,6 @@
           "title": "Прекин во снабдувањето со струја за корисници во Илинден",
           "link": "https://netpress.com.mk/prekin-vo-snabduvaneto-so-struja-za-korisniczi-vo-ilinden/",
           "published": "Sat, 15 Aug 2026 04:07:10 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Трамп ќе го прогласи Хормуз за „американска територија“",
-          "link": "https://netpress.com.mk/tramp-ke-go-proglasi-hormuz-za-amerikanska-teritorija/",
-          "published": "Fri, 14 Aug 2026 21:47:43 +0000"
         }
       ]
     },
@@ -89,6 +89,12 @@
         },
         {
           "source": "BBC",
+          "title": "Five dead after 7.7 magnitude earthquake strikes Indonesia",
+          "link": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 15 Aug 2026 04:12:55 GMT"
+        },
+        {
+          "source": "BBC",
           "title": "Afghan women tell the BBC their lives are unrecognisable after five years of Taliban rule",
           "link": "https://www.bbc.co.uk/news/articles/clyje43dz4eo?at_medium=RSS&at_campaign=rss",
           "published": "Fri, 14 Aug 2026 18:25:38 GMT"
@@ -100,10 +106,16 @@
           "published": "Fri, 14 Aug 2026 17:36:27 GMT"
         },
         {
-          "source": "BBC",
-          "title": "Instagram accounts fuelling Ceuta crisis with paid advice for help to cross",
-          "link": "https://www.bbc.co.uk/news/articles/c89n20wj9kko?at_medium=RSS&at_campaign=rss",
-          "published": "Fri, 14 Aug 2026 12:19:21 GMT"
+          "source": "Al Jazeera",
+          "title": "How a Sudanese refugee became a head teacher in a Chadian camp",
+          "link": "https://www.aljazeera.com/news/2026/8/15/how-a-sudanese-refugee-became-a-head-teacher-in-a-chadian-camp?traffic_source=rss",
+          "published": "Sat, 15 Aug 2026 05:14:40 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Morocco boosts Ceuta security amid calls for mass migrant crossing",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/08-15-26-morocco-ceuta-foritfication-clip-mp4?traffic_source=rss",
+          "published": "Sat, 15 Aug 2026 04:54:53 +0000"
         },
         {
           "source": "Al Jazeera",
@@ -122,18 +134,6 @@
           "title": "Iran says no decision yet on a return to talks with the US",
           "link": "https://www.aljazeera.com/news/2026/8/15/iran-says-no-decision-yet-on-a-return-to-talks-with-the-us?traffic_source=rss",
           "published": "Sat, 15 Aug 2026 04:24:02 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "What we know about the crisis aboard the USS Lincoln",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/what-we-know-about-the-crisis-aboard-the-uss-lincoln?traffic_source=rss",
-          "published": "Sat, 15 Aug 2026 04:21:07 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Did the US really destroy Iran’s ballistic missile capability?",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/08-11-2026-tia-us-iran-munitions-quotable?traffic_source=rss",
-          "published": "Sat, 15 Aug 2026 03:52:08 +0000"
         }
       ]
     }
