@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T14:01:46Z",
+  "updatedAt": "2026-08-15T14:35:22Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,24 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Ангелов: Три „ер трактори“ се борат со пожарот на Жеден кај Јажинце",
+          "link": "https://makfax.com.mk/makedonija/angelov-tri-er-traktori-se-borat-so-pozharot-na-zheden-kaj-jazhince/",
+          "published": "Sat, 15 Aug 2026 14:35:14 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Црвен аларм во Грција – пожарите се закануваат да се прошират",
+          "link": "https://makfax.com.mk/svet/crven-alarm-vo-grcija-pozharite-se-zakanuvaat-da-se-proshirat/",
+          "published": "Sat, 15 Aug 2026 14:29:49 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Херој на плажа во Ситонија: За неколку минути спасил три животи",
+          "link": "https://makfax.com.mk/top/heroj-na-plazha-vo-sitonija-za-nekolku-minuti-spasil-tri-zhivoti/",
+          "published": "Sat, 15 Aug 2026 14:20:09 +0000"
         },
         {
           "source": "Makfax",
@@ -23,22 +41,22 @@
           "published": "Sat, 15 Aug 2026 12:22:59 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Татко му се заканувал на синот со остар предмет",
-          "link": "https://makfax.com.mk/crna-hronika/tatko-mu-se-zakanuval-na-sinot-so-ostar-predmet/",
-          "published": "Sat, 15 Aug 2026 12:18:42 +0000"
+          "source": "NetPress",
+          "title": "Жена во Охридско си ја нападнала свекрвата",
+          "link": "https://netpress.com.mk/zhena-vo-ohridsko-si-ja-napadnala-svekrvata/",
+          "published": "Sat, 15 Aug 2026 14:26:46 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Телефонски ѝ понудиле каско осигурување, уплатила 200.000 денари, па сфатила дека е измамена",
-          "link": "https://makfax.com.mk/crna-hronika/telefonski-%d1%9d-ponudile-kasko-osiguruvanje-uplatila-200-000-denari-pa-sfatila-deka-e-izmamena/",
-          "published": "Sat, 15 Aug 2026 12:11:36 +0000"
+          "source": "NetPress",
+          "title": "Симон Трпчески одржа концерт во Хераклеа",
+          "link": "https://netpress.com.mk/1099911-2/",
+          "published": "Sat, 15 Aug 2026 14:16:22 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Турнал 79-годишна скопјанка на земја и ѝ го украл накитот",
-          "link": "https://makfax.com.mk/crna-hronika/turnal-79-godishna-skopjanka-na-zemja-i-%d1%9d-go-ukral-nakitot/",
-          "published": "Sat, 15 Aug 2026 12:08:31 +0000"
+          "source": "NetPress",
+          "title": "Уапсен маж од Бучим осомничен за продавање дрога, откако бил фатен со непријавени 14.440 евра",
+          "link": "https://netpress.com.mk/uapsen-mazh-od-buchim-osomnichen-za-prodavane-droga-otkako-bil-faten-so-neprijaveni-14-440-evra/",
+          "published": "Sat, 15 Aug 2026 14:01:58 +0000"
         },
         {
           "source": "NetPress",
@@ -51,24 +69,6 @@
           "title": "Нарачал 2.500 тони сливи и пет години не ги платил",
           "link": "https://netpress.com.mk/narachal-2-500-toni-slivi-i-pet-godini-ne-gi-platil/",
           "published": "Sat, 15 Aug 2026 13:52:05 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Зеленски: Украина го погоди рускиот ракетен и вселенски центар во Самара",
-          "link": "https://netpress.com.mk/zelenski-ukraina-go-pogodi-ruskiot-raketen-i-vselenski-czentar-vo-samara/",
-          "published": "Sat, 15 Aug 2026 13:47:45 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Аргентинска компанија планира развој на гасно поле вредно 51 милијарда долари",
-          "link": "https://netpress.com.mk/argentinska-kompanija-planira-razvoj-na-gasno-pole-vredno-51-milijarda-dolari/",
-          "published": "Sat, 15 Aug 2026 13:45:03 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Ги измамил дека му требаат пари за дијализа на ќерка му, потоа ги напаѓал",
-          "link": "https://netpress.com.mk/gi-izmamil-deka-mu-trebaat-pari-za-dijaliza-na-kerka-mu-potoa-gi-napagal/",
-          "published": "Sat, 15 Aug 2026 13:42:47 +0000"
         }
       ]
     },
@@ -83,6 +83,12 @@
         },
         {
           "source": "BBC",
+          "title": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
+          "link": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 15 Aug 2026 13:38:53 GMT"
+        },
+        {
+          "source": "BBC",
           "title": "BBC seeks to subpoena Trump's family members in Panorama lawsuit",
           "link": "https://www.bbc.co.uk/news/articles/cd69ely319eo?at_medium=RSS&at_campaign=rss",
           "published": "Sat, 15 Aug 2026 00:01:53 GMT"
@@ -92,12 +98,6 @@
           "title": "US aircraft carrier on way to relieve USS Lincoln after issues reported aboard",
           "link": "https://www.bbc.co.uk/news/articles/c171yp5zdrxo?at_medium=RSS&at_campaign=rss",
           "published": "Fri, 14 Aug 2026 17:36:27 GMT"
-        },
-        {
-          "source": "BBC",
-          "title": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
-          "link": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
-          "published": "Sat, 15 Aug 2026 13:38:53 GMT"
         },
         {
           "source": "BBC",
@@ -125,7 +125,7 @@
         },
         {
           "source": "Al Jazeera",
-          "title": "Five wounded in shooting at Virginia State University",
+          "title": "Five wounded in shooting at Virginia State University, multiple suspects",
           "link": "https://www.aljazeera.com/news/2026/8/15/five-wounded-in-shooting-at-virginia-state?traffic_source=rss",
           "published": "Sat, 15 Aug 2026 12:57:08 +0000"
         },
