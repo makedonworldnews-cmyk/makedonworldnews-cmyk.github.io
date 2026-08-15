@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T23:54:41Z",
+  "generated_at": "2026-08-15T00:44:24Z",
   "items": [
     {
       "region": "Македонија",
@@ -109,6 +109,13 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "Iran war live: Trump vows to make Hormuz US territory ‘pretty soon’",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/8/15/iran-war-live-trump-vows-to-make-hormuz-us-territory-pretty-soon?traffic_source=rss",
+      "published": "Sat, 15 Aug 2026 00:00:00 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "Lebanon’s PM urges timetable for Israeli withdrawal as Hezbollah slams deal",
       "link": "https://www.aljazeera.com/news/2026/8/14/lebanons-pm-urges-timetable-for-israeli-withdrawal-as-hezbollah-slams-deal?traffic_source=rss",
       "published": "Fri, 14 Aug 2026 23:02:55 +0000"
@@ -133,13 +140,6 @@
       "title": "Trump says he will declare Strait of Hormuz a US ‘territory’ amid Iran war",
       "link": "https://www.aljazeera.com/news/2026/8/14/trump-says-he-will-declare-strait-of-hormuz-a-us-territory?traffic_source=rss",
       "published": "Fri, 14 Aug 2026 21:50:46 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Wildfires rage across Europe as heatwaves drive record temperatures",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/14/wildfires-rage-across-europe-as-heatwaves-drive-record-temperatures?traffic_source=rss",
-      "published": "Fri, 14 Aug 2026 21:50:35 +0000"
     }
   ]
 }
