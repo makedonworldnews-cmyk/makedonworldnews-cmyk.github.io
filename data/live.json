@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T22:41:12Z",
+  "generated_at": "2026-08-15T22:59:16Z",
   "items": [
     {
       "region": "Македонија",
@@ -109,6 +109,13 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "US Democrats finalise major shakeup to 2028 presidential primary calendar",
+      "link": "https://www.aljazeera.com/news/2026/8/15/us-democrats-finalise-major-shakeup-to-2028-presidential-primary-calendar?traffic_source=rss",
+      "published": "Sat, 15 Aug 2026 22:22:46 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "Why is the latest Ebola outbreak worsening?",
       "link": "https://www.aljazeera.com/video/inside-story/2026/8/15/why-is-the-latest-ebola-outbreak-worsening?traffic_source=rss",
       "published": "Sat, 15 Aug 2026 22:00:42 +0000"
@@ -133,13 +140,6 @@
       "title": "Canadian petition to expel US ambassador gains over 170,000 signatures",
       "link": "https://www.aljazeera.com/news/2026/8/15/canadian-petition-to-expel-us-ambassador-gains-over-170000-signatures?traffic_source=rss",
       "published": "Sat, 15 Aug 2026 20:09:33 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Moroccan police intercept migrants heading for Ceuta enclave",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/moroccan-police-intercept-migrants-heading-for-ceuta-enclave?traffic_source=rss",
-      "published": "Sat, 15 Aug 2026 20:07:07 +0000"
     }
   ]
 }
