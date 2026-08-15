@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T03:42:28Z",
+  "generated_at": "2026-08-15T04:14:04Z",
   "items": [
     {
       "region": "Македонија",
@@ -39,6 +39,13 @@
     {
       "region": "Македонија",
       "source": "NetPress",
+      "title": "Прекин во снабдувањето со струја за корисници во Илинден",
+      "link": "https://netpress.com.mk/prekin-vo-snabduvaneto-so-struja-za-korisniczi-vo-ilinden/",
+      "published": "Sat, 15 Aug 2026 04:07:10 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "NetPress",
       "title": "Трамп ќе го прогласи Хормуз за „американска територија“",
       "link": "https://netpress.com.mk/tramp-ke-go-proglasi-hormuz-za-amerikanska-teritorija/",
       "published": "Fri, 14 Aug 2026 21:47:43 +0000"
@@ -63,13 +70,6 @@
       "title": "Стоилковски: Филипче си ја злоупотреби внуката за јавно да лаже, денес во Гостивар никој не лажеше",
       "link": "https://netpress.com.mk/stoilkovski-filipche-si-ja-zloupotrebi-vnukata-za-javno-da-lazhe-denes-vo-gostivar-nikoj-ne-lazheshe/",
       "published": "Fri, 14 Aug 2026 19:54:55 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Безос и Батија станаа малцински сопственици на Ливерпул",
-      "link": "https://netpress.com.mk/bezos-i-batija-stanaa-malczinski-sopstveniczi-na-liverpul/",
-      "published": "Fri, 14 Aug 2026 19:32:31 +0000"
     },
     {
       "region": "Свет",
@@ -109,6 +109,13 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "India marks 80th Independence Day with military display",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/india-marks-80th-independence-day-with-military-display?traffic_source=rss",
+      "published": "Sat, 15 Aug 2026 03:39:06 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "HRW says US civil rights enforcement reduced under Trump: What to know",
       "link": "https://www.aljazeera.com/news/2026/8/15/hrw-says-us-civil-rights-enforcement-reduced-under-trump-what-to-know?traffic_source=rss",
       "published": "Sat, 15 Aug 2026 03:04:20 +0000"
@@ -133,13 +140,6 @@
       "title": "7.7-magnitude earthquake strikes eastern Indonesia",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/08-15-2026-indonesia-quake-sv-mp4?traffic_source=rss",
       "published": "Sat, 15 Aug 2026 02:03:22 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "At least two killed as magnitude 7.7 quake hits Indonesia",
-      "link": "https://www.aljazeera.com/news/2026/8/15/at-least-two-killed-as-magnitude-7-7-quake-hits-indonesia?traffic_source=rss",
-      "published": "Sat, 15 Aug 2026 01:36:04 +0000"
     }
   ]
 }
