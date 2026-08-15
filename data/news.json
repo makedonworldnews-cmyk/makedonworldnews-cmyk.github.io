@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T04:13:07Z",
+  "updatedAt": "2026-08-15T04:50:11Z",
   "groups": [
     {
       "region": "Македонија",
@@ -42,6 +42,12 @@
         },
         {
           "source": "NetPress",
+          "title": "Денеска најтопло во Скопје и во Велес",
+          "link": "https://netpress.com.mk/deneska-najtoplo-vo-skopje-i-vo-veles/",
+          "published": "Sat, 15 Aug 2026 04:39:54 +0000"
+        },
+        {
+          "source": "NetPress",
           "title": "Прекин во снабдувањето со струја за корисници во Илинден",
           "link": "https://netpress.com.mk/prekin-vo-snabduvaneto-so-struja-za-korisniczi-vo-ilinden/",
           "published": "Sat, 15 Aug 2026 04:07:10 +0000"
@@ -63,12 +69,6 @@
           "title": "Македонски и косовски државјанин се уапсените во големата акција во Солун – им откриле 324 килограми марихуана скриена во приколка",
           "link": "https://netpress.com.mk/makedonski-i-kosovski-drzhavjanin-se-uapsenite-vo-golemata-akczija-vo-solun/",
           "published": "Fri, 14 Aug 2026 20:09:56 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Стоилковски: Филипче си ја злоупотреби внуката за јавно да лаже, денес во Гостивар никој не лажеше",
-          "link": "https://netpress.com.mk/stoilkovski-filipche-si-ja-zloupotrebi-vnukata-za-javno-da-lazhe-denes-vo-gostivar-nikoj-ne-lazheshe/",
-          "published": "Fri, 14 Aug 2026 19:54:55 +0000"
         }
       ]
     },
@@ -89,7 +89,7 @@
         },
         {
           "source": "BBC",
-          "title": "US aircraft carrier on way to relieve USS Lincoln after issues reported on board",
+          "title": "US aircraft carrier on way to relieve USS Lincoln after issues reported aboard",
           "link": "https://www.bbc.co.uk/news/articles/c171yp5zdrxo?at_medium=RSS&at_campaign=rss",
           "published": "Fri, 14 Aug 2026 17:36:27 GMT"
         },
@@ -104,6 +104,18 @@
           "title": "Activists try to deliver aid to Palestinians in homes besieged by Israeli settlers",
           "link": "https://www.bbc.co.uk/news/articles/c1w1ylw0p3no?at_medium=RSS&at_campaign=rss",
           "published": "Fri, 14 Aug 2026 17:03:17 GMT"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Iran says no decision yet on a return to talks with the US",
+          "link": "https://www.aljazeera.com/news/2026/8/15/iran-says-no-decision-yet-on-a-return-to-talks-with-the-us?traffic_source=rss",
+          "published": "Sat, 15 Aug 2026 04:24:02 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "What we know about the crisis aboard the USS Lincoln",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/what-we-know-about-the-crisis-aboard-the-uss-lincoln?traffic_source=rss",
+          "published": "Sat, 15 Aug 2026 04:21:07 +0000"
         },
         {
           "source": "Al Jazeera",
@@ -122,18 +134,6 @@
           "title": "HRW says US civil rights enforcement reduced under Trump: What to know",
           "link": "https://www.aljazeera.com/news/2026/8/15/hrw-says-us-civil-rights-enforcement-reduced-under-trump-what-to-know?traffic_source=rss",
           "published": "Sat, 15 Aug 2026 03:04:20 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "US President Trump says he will declare Strait of Hormuz US territory",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/us-president-trump-says-he-will-declare-strait-of-hormuz-us-territory?traffic_source=rss",
-          "published": "Sat, 15 Aug 2026 02:25:09 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Venezuela says 131 political prisoners freed amid post-Maduro talks",
-          "link": "https://www.aljazeera.com/news/2026/8/15/venezuela-says-131-political-prisoners-freed-amid-post-maduro-talks?traffic_source=rss",
-          "published": "Sat, 15 Aug 2026 02:08:02 +0000"
         }
       ]
     }
