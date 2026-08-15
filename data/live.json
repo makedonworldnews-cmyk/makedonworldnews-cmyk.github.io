@@ -1,6 +1,13 @@
 {
-  "generated_at": "2026-08-15T11:46:23Z",
+  "generated_at": "2026-08-15T11:58:25Z",
   "items": [
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "Татко пријавил дека ќерка му била нападната со пластично шише, па родителите на малолетниците го пријавиле него",
+      "link": "https://makfax.com.mk/crna-hronika/tatko-prijavil-deka-kerka-mu-bila-napadnata-so-plastichno-shishe-pa-roditelite-na-maloletnicite-go-prijavile-nego/",
+      "published": "Sat, 15 Aug 2026 11:51:56 +0000"
+    },
     {
       "region": "Македонија",
       "source": "Makfax",
@@ -31,10 +38,10 @@
     },
     {
       "region": "Македонија",
-      "source": "Makfax",
-      "title": "Водата од скопскиот водовод е безбедна за пиење",
-      "link": "https://makfax.com.mk/makedonija/vodata-od-skopskiot-vodovod-e-bezbedna-za-pienje/",
-      "published": "Sat, 15 Aug 2026 11:16:12 +0000"
+      "source": "NetPress",
+      "title": "ВИДЕО| Најмалку 38 загинати во силниот земјотрес во Индонезија",
+      "link": "https://netpress.com.mk/video-najmalku-38-zaginati-vo-silniot-zemjotres-vo-indonezija/",
+      "published": "Sat, 15 Aug 2026 11:56:06 +0000"
     },
     {
       "region": "Македонија",
@@ -65,18 +72,11 @@
       "published": "Sat, 15 Aug 2026 09:54:11 +0000"
     },
     {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Димитриеска-Кочоска: Поддршката на домашните компании преку унгарскиот заем е инвестиција во економскиот раст",
-      "link": "https://netpress.com.mk/dimitrieska-kochoska-poddrshkata-na-domashnite-kompanii-preku-ungarskiot-zaem-e-investiczija-vo-ekonomskiot-rast/",
-      "published": "Sat, 15 Aug 2026 09:36:30 +0000"
-    },
-    {
       "region": "Свет",
       "source": "BBC",
       "title": "Powerful 7.7-magnitude earthquake kills at least 38 in Indonesia",
       "link": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 15 Aug 2026 08:52:55 GMT"
+      "published": "Sat, 15 Aug 2026 11:48:58 GMT"
     },
     {
       "region": "Свет",
@@ -109,6 +109,27 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "Is China seeking to copy Iran’s Strait of Hormuz blockade around Taiwan?",
+      "link": "https://www.aljazeera.com/video/101-east/2026/8/15/is-china-seeking-to-copy-irans-strait-of-hormuz-blockade-around-taiwan?traffic_source=rss",
+      "published": "Sat, 15 Aug 2026 11:30:00 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Modi threatens to target ‘intellectual Naxals’ in Independence Day speech",
+      "link": "https://www.aljazeera.com/news/2026/8/15/modi-threatens-to-target-intellectual-naxals-in-independence-day-speech?traffic_source=rss",
+      "published": "Sat, 15 Aug 2026 11:27:11 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Aftermath of deadly Indonesia earthquake",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/aftermath-of-deadly-indonesia-earthquake?traffic_source=rss",
+      "published": "Sat, 15 Aug 2026 11:19:56 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "Japanese minister visits shrine to war dead, angering China, South Korea",
       "link": "https://www.aljazeera.com/news/2026/8/15/japanese-minister-visits-shrine-to-war-dead-angering-china-south-korea?traffic_source=rss",
       "published": "Sat, 15 Aug 2026 11:09:27 +0000"
@@ -119,27 +140,6 @@
       "title": "What the Taliban achieved and failed to achieve in five years",
       "link": "https://www.aljazeera.com/opinions/2026/8/15/what-the-taliban-achieved-and-failed-to-achieve-in-five-years?traffic_source=rss",
       "published": "Sat, 15 Aug 2026 11:07:05 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "World Cup winner Ferran Torres joins Paris Saint-Germain from Barcelona",
-      "link": "https://www.aljazeera.com/sports/2026/8/15/world-cup-winner-ferran-torres-joins-paris-saint-germain-from-barcelona?traffic_source=rss",
-      "published": "Sat, 15 Aug 2026 10:48:41 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Arsenal vs Manchester City: Community Shield – prediction, lineups, teams",
-      "link": "https://www.aljazeera.com/sports/2026/8/15/arsenal-vs-manchester-city-community-shield-prediction-lineups-teams?traffic_source=rss",
-      "published": "Sat, 15 Aug 2026 10:43:09 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "At scene of deadly Israeli strike on Lebanon home",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/at-scene-of-deadly-israeli-strike-on-lebanon-home?traffic_source=rss",
-      "published": "Sat, 15 Aug 2026 10:18:40 +0000"
     }
   ]
 }
