@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T08:44:37Z",
+  "updatedAt": "2026-08-15T09:10:03Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Драгана исчезнала бегајќи од пожарот и влегла во огнената стапица, семејството дало ДНК-примероци",
+          "link": "https://makfax.com.mk/svet/dragana-ischeznala-begajki-od-pozharot-i-vlegla-vo-ognenata-stapica-semejstvoto-dalo-dnk-primeroci/",
+          "published": "Sat, 15 Aug 2026 08:53:23 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Николоски: Се решаваат сложени инженерски проблеми на автопатот Охрид – Кичево",
+          "link": "https://makfax.com.mk/makedonija/nikoloski-se-reshavaat-slozheni-inzhenerski-problemi-na-avtopatot-ohrid-kichevo/",
+          "published": "Sat, 15 Aug 2026 08:48:41 +0000"
         },
         {
           "source": "Makfax",
@@ -29,16 +41,16 @@
           "published": "Sat, 15 Aug 2026 07:58:06 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "(Видео) Земјотрес од 7,7 степени ја погоди Индонезија, најмалку 20 загинати",
-          "link": "https://makfax.com.mk/svet/video-zemjotres-od-77-stepeni-ja-pogodi-indonezija-najmalku-20-zaginati/",
-          "published": "Sat, 15 Aug 2026 07:30:44 +0000"
+          "source": "NetPress",
+          "title": "Евидентирана зголемена наплата на давачки за пловила внесени со привремен увоз",
+          "link": "https://netpress.com.mk/evidentirana-zgolemena-naplata-na-davachki-za-plovila-vneseni-so-privremen-uvoz/",
+          "published": "Sat, 15 Aug 2026 08:57:08 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Седум луѓе загинаа во израелски воздушен напад врз јужен Либан",
-          "link": "https://makfax.com.mk/svet/sedum-luge-zaginaa-vo-izraelski-vozdushen-napad-vrz-juzhen-liban/",
-          "published": "Sat, 15 Aug 2026 07:25:02 +0000"
+          "source": "NetPress",
+          "title": "Стартува Втората фудбалска лига – никогш досега посилна",
+          "link": "https://netpress.com.mk/startuva-vtorata-fudbalska-liga-nikogsh-dosega-posilna/",
+          "published": "Sat, 15 Aug 2026 08:52:45 +0000"
         },
         {
           "source": "NetPress",
@@ -57,18 +69,6 @@
           "title": "Филипче од јахтата на Заев од Егејот дава инструкции за ширење паника, СДС од политичка немоќ креира хаос и шири дезинформации",
           "link": "https://netpress.com.mk/filipche-od-jahtata-na-zaev-od-egejot-dava-instrukczii-za-shirene-panika-sds-od-politichka-nemok-kreira-haos-i-shiri-dezinformaczii/",
           "published": "Sat, 15 Aug 2026 07:44:25 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "За две години просечната плата е зголемена за околу 9.000 денари",
-          "link": "https://netpress.com.mk/za-dve-godini-prosechnata-plata-e-zgolemena-za-okolu-9-000-denari/",
-          "published": "Sat, 15 Aug 2026 07:25:35 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Студен туш за Зеленски од Белата куќа, нема ништо од неговата молба: „Трагично многу е дадено на Украина“",
-          "link": "https://netpress.com.mk/studen-tush-za-zelenski-od-belata-kuka-nema-nishto-od-negovata-molba-tragichno-mnogu-e-dadeno-na-ukraina/",
-          "published": "Sat, 15 Aug 2026 07:14:32 +0000"
         }
       ]
     },
@@ -77,9 +77,9 @@
       "items": [
         {
           "source": "BBC",
-          "title": "Powerful 7.7-magnitude earthquake kills at least 20 in Indonesia",
+          "title": "Powerful 7.7-magnitude earthquake kills at least 38 in Indonesia",
           "link": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
-          "published": "Sat, 15 Aug 2026 08:21:01 GMT"
+          "published": "Sat, 15 Aug 2026 08:52:55 GMT"
         },
         {
           "source": "BBC",
@@ -107,33 +107,33 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Bangladesh rock Australia as historic Test win in sight",
+          "link": "https://www.aljazeera.com/sports/2026/8/15/bangladesh-rock-australia-as-historic-test-win-in-sight?traffic_source=rss",
+          "published": "Sat, 15 Aug 2026 08:50:56 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "FIFA World Cup and Olympics cited as Coe warns of politicians near sport",
+          "link": "https://www.aljazeera.com/sports/2026/8/15/coe-cites-olympics-and-fifa-world-cup-in-warning-on-interference-in-sport?traffic_source=rss",
+          "published": "Sat, 15 Aug 2026 08:44:36 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Venus Williams hits 13-game tennis losing streak with Cincinnati Open exit",
+          "link": "https://www.aljazeera.com/sports/2026/8/15/venus-williams-hits-13-game-tennis-losing-streak-with-cincinnati-open-exit?traffic_source=rss",
+          "published": "Sat, 15 Aug 2026 08:32:07 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "The women India’s biggest river project forgot",
+          "link": "https://www.aljazeera.com/features/longform/2026/8/15/the-women-indias-biggest-river-project-forgot?traffic_source=rss",
+          "published": "Sat, 15 Aug 2026 08:22:09 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Arteta assures Arsenal fans over contract before Man City clash",
           "link": "https://www.aljazeera.com/sports/2026/8/15/arteta-assures-arsenal-fans-over-contract-ahead-of-man-city-clash?traffic_source=rss",
           "published": "Sat, 15 Aug 2026 07:44:35 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "FIFA’s Infantino gets Giuliani backing in World Cup selloff fallout",
-          "link": "https://www.aljazeera.com/sports/2026/8/15/fifas-infantino-gets-giuliani-backing-in-world-cup-selloff-fallout?traffic_source=rss",
-          "published": "Sat, 15 Aug 2026 07:27:59 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "A Syrian intervention in Lebanon would be too costly for Damascus",
-          "link": "https://www.aljazeera.com/opinions/2026/8/15/a-syrian-intervention-in-lebanon-would-be-too-costly-for-damascus?traffic_source=rss",
-          "published": "Sat, 15 Aug 2026 07:27:32 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Israeli strike kills seven in south Lebanon as attacks intensify",
-          "link": "https://www.aljazeera.com/news/2026/8/15/israeli-strike-kills-seven-in-south-lebanon-as-attacks-intensify?traffic_source=rss",
-          "published": "Sat, 15 Aug 2026 07:18:13 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Moment Israeli forces storm wedding hall in occupied West Bank",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/moment-israeli-forces-storm-wedding-hall-in-occupied-west-bank?traffic_source=rss",
-          "published": "Sat, 15 Aug 2026 07:13:11 +0000"
         }
       ]
     }
