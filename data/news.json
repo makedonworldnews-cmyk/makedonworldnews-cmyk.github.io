@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T18:40:19Z",
+  "updatedAt": "2026-08-15T19:08:34Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Скопјани од Карпош се скарале за куче, па се испотепале",
+          "link": "https://makfax.com.mk/crna-hronika/skopjani-od-karposh-se-skarale-za-kuche-pa-se-ispotepale/",
+          "published": "Sat, 15 Aug 2026 18:42:47 +0000"
         },
         {
           "source": "Makfax",
@@ -35,10 +41,10 @@
           "published": "Sat, 15 Aug 2026 17:19:07 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Земјотрес попладнево во Македонија",
-          "link": "https://makfax.com.mk/makedonija/zemjotres-popladnevo-vo-makedonija/",
-          "published": "Sat, 15 Aug 2026 15:44:29 +0000"
+          "source": "NetPress",
+          "title": "Националниот џез оркестар утре ќе настапи во Битола",
+          "link": "https://netpress.com.mk/naczionalniot-dhez-orkestar-utre-ke-nastapi-vo-bitola/",
+          "published": "Sat, 15 Aug 2026 19:07:15 +0000"
         },
         {
           "source": "NetPress",
@@ -63,12 +69,6 @@
           "title": "Пијан гевгеличанец нападнал полицаец",
           "link": "https://netpress.com.mk/pijan-gevgelichanecz-napadnal-policzaecz/",
           "published": "Sat, 15 Aug 2026 17:51:59 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Тетовец уапсен откако син му го пријавил за закана",
-          "link": "https://netpress.com.mk/tetovecz-uapsen-otkako-sin-mu-go-prijavil-za-zakana/",
-          "published": "Sat, 15 Aug 2026 17:43:56 +0000"
         }
       ]
     },
@@ -107,6 +107,12 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "La Liga: Real Madrid key talking points heading into new 2026-27 season",
+          "link": "https://www.aljazeera.com/sports/2026/8/15/la-liga-real-madrid-key-talking-points-heading-into-new-2026-27-season?traffic_source=rss",
+          "published": "Sat, 15 Aug 2026 18:19:23 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Cleanup underway as Russian oil spill reaches Oman’s coastline",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/15-08-sv-oil-spill-oman-on?traffic_source=rss",
           "published": "Sat, 15 Aug 2026 18:11:12 +0000"
@@ -128,12 +134,6 @@
           "title": "Tropical Storm Lala expected to strengthen as it nears Hawaii",
           "link": "https://www.aljazeera.com/news/2026/8/15/tropical-storm-lala-expected-to-strengthen-as-it-nears-hawaii?traffic_source=rss",
           "published": "Sat, 15 Aug 2026 17:27:57 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "UK PM Burnham reacts to death of former Cambridge professor",
-          "link": "https://www.aljazeera.com/news/2026/8/15/uk-pm-burnham-reacts-to-death-of-former-cambridge-professor?traffic_source=rss",
-          "published": "Sat, 15 Aug 2026 17:19:12 +0000"
         }
       ]
     }
