@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T09:40:11Z",
+  "updatedAt": "2026-08-15T10:01:07Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,24 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "14.440 евра без докажано потекло пронајдени во возило кај Бучим, 35-годишник заврши во притвор",
+          "link": "https://makfax.com.mk/crna-hronika/14-440-evra-bez-dokazhano-poteklo-pronajdeni-vo-vozilo-kaj-buchim-35-godishnik-zavrshi-vo-pritvor/",
+          "published": "Sat, 15 Aug 2026 09:59:58 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Силен земјотрес ја погоди Гранада: Туристи панично ги напуштаат хотелите, оштетени домови и автомобили",
+          "link": "https://makfax.com.mk/svet/silen-zemjotres-ja-pogodi-granada-turisti-panichno-gi-napushtaat-hotelite-oshteteni-domovi-i-avtomobili/",
+          "published": "Sat, 15 Aug 2026 09:55:53 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Димитриеска-Кочоска: Поддршката на домашните компании преку унгарскиот заем е инвестиција во економскиот раст",
+          "link": "https://makfax.com.mk/makedonija/dimitrieska-kochoska-poddrshkata-na-domashnite-kompanii-preku-ungarskiot-zaem-e-investicija-vo-ekonomskiot-rast/",
+          "published": "Sat, 15 Aug 2026 09:40:19 +0000"
         },
         {
           "source": "Makfax",
@@ -23,22 +41,10 @@
           "published": "Sat, 15 Aug 2026 08:53:23 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Николоски: Се решаваат сложени инженерски проблеми на автопатот Охрид – Кичево",
-          "link": "https://makfax.com.mk/makedonija/nikoloski-se-reshavaat-slozheni-inzhenerski-problemi-na-avtopatot-ohrid-kichevo/",
-          "published": "Sat, 15 Aug 2026 08:48:41 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Палеле пожари среде ноќ: Двајца фатени на дело во Битола и Прилеп",
-          "link": "https://makfax.com.mk/crna-hronika/palele-pozhari-srede-nok-dvajca-fateni-na-delo-vo-bitola-i-prilep/",
-          "published": "Sat, 15 Aug 2026 08:27:13 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "27 пожари на отворен простор за едно деноноќие, шест остануваат активни",
-          "link": "https://makfax.com.mk/makedonija/27-pozhari-na-otvoren-prostor-za-edno-denonokie-shest-ostanuvaat-aktivni/",
-          "published": "Sat, 15 Aug 2026 07:59:50 +0000"
+          "source": "NetPress",
+          "title": "Автобус полн со српски туристи излетал од патот во Бугарија",
+          "link": "https://netpress.com.mk/avtobus-poln-so-srpski-turisti-izletal-od-patot-vo-bugarija/",
+          "published": "Sat, 15 Aug 2026 09:54:11 +0000"
         },
         {
           "source": "NetPress",
@@ -63,12 +69,6 @@
           "title": "Велика Британија реагираше на навредите упатени кон нив од Нетанјаху",
           "link": "https://netpress.com.mk/velika-britanija-reagirashe-na-navredite-upateni-kon-niv-od-netanjahu/",
           "published": "Sat, 15 Aug 2026 08:32:53 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Регистрирани 27 пожари, активни шест, еден под контрола",
-          "link": "https://netpress.com.mk/registrirani-27-pozhari-aktivni-shest-eden-pod-kontrola/",
-          "published": "Sat, 15 Aug 2026 08:15:33 +0000"
         }
       ]
     },
