@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T19:50:14Z",
+  "generated_at": "2026-08-15T20:13:14Z",
   "items": [
     {
       "region": "Македонија",
@@ -39,6 +39,13 @@
     {
       "region": "Македонија",
       "source": "NetPress",
+      "title": "Партијата на Мерц ја губи популарноста пред изборите во три германски покраини",
+      "link": "https://netpress.com.mk/partijata-na-mercz-ja-gubi-popularnosta-pred-izborite-vo-tri-germanski-pokraini/",
+      "published": "Sat, 15 Aug 2026 19:54:51 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "NetPress",
       "title": "Националниот џез оркестар утре ќе настапи во Битола",
       "link": "https://netpress.com.mk/naczionalniot-dhez-orkestar-utre-ke-nastapi-vo-bitola/",
       "published": "Sat, 15 Aug 2026 19:07:15 +0000"
@@ -65,18 +72,11 @@
       "published": "Sat, 15 Aug 2026 17:58:39 +0000"
     },
     {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Пијан гевгеличанец нападнал полицаец",
-      "link": "https://netpress.com.mk/pijan-gevgelichanecz-napadnal-policzaecz/",
-      "published": "Sat, 15 Aug 2026 17:51:59 +0000"
-    },
-    {
       "region": "Свет",
       "source": "BBC",
       "title": "Powerful magnitude 7.7 earthquake kills at least 47 in Indonesia",
       "link": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 15 Aug 2026 13:35:57 GMT"
+      "published": "Sat, 15 Aug 2026 20:00:15 GMT"
     },
     {
       "region": "Свет",
@@ -109,7 +109,14 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
-      "title": "Death toll from Zimbabwe ferry disaster rises to 69",
+      "title": "Moroccan police arrest over 100 migrants trying to reach Spanish enclave",
+      "link": "https://www.aljazeera.com/news/2026/8/15/moroccan-police-arrest-over-100-migrants-trying-to-reach-spanish-enclave?traffic_source=rss",
+      "published": "Sat, 15 Aug 2026 19:46:20 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Death toll from Zimbabwe ferry disaster rises to 72",
       "link": "https://www.aljazeera.com/news/2026/8/15/death-toll-from-zimbabwe-ferry-disaster-rises-to-69?traffic_source=rss",
       "published": "Sat, 15 Aug 2026 19:10:06 +0000"
     },
@@ -133,13 +140,6 @@
       "title": "US aircraft carrier expected to relieve USS Lincoln in Middle East",
       "link": "https://www.aljazeera.com/news/2026/8/15/us-aircraft-carrier-expected-to-relieve-uss-lincoln-in-middle-east?traffic_source=rss",
       "published": "Sat, 15 Aug 2026 17:49:42 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Inter Milan sign England’s Djed Spence from Tottenham Hotspur",
-      "link": "https://www.aljazeera.com/sports/2026/8/15/inter-milan-sign-englands-djed-spence-from-tottenham-hotspur?traffic_source=rss",
-      "published": "Sat, 15 Aug 2026 17:48:32 +0000"
     }
   ]
 }
