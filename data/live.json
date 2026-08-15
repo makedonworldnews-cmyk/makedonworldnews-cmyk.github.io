@@ -1,6 +1,13 @@
 {
-  "generated_at": "2026-08-15T17:51:39Z",
+  "generated_at": "2026-08-15T18:16:10Z",
   "items": [
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "(Видео) Ангелов: Внимавајте да не предизвикате пожар, доволна е искра за вистинска катастрофа",
+      "link": "https://makfax.com.mk/makedonija/video-angelov-vnimavajte-da-ne-predizvikate-pozhar-dovolna-e-iskra-za-vistinska-katastrofa/",
+      "published": "Sat, 15 Aug 2026 18:10:45 +0000"
+    },
     {
       "region": "Македонија",
       "source": "Makfax",
@@ -31,10 +38,17 @@
     },
     {
       "region": "Македонија",
-      "source": "Makfax",
-      "title": "Феран Торес стана „светец“",
-      "link": "https://makfax.com.mk/sport/feran-tores-stana-svetec/",
-      "published": "Sat, 15 Aug 2026 15:23:38 +0000"
+      "source": "NetPress",
+      "title": "Викнал Брза помош, па ги пцуел и се заканувал",
+      "link": "https://netpress.com.mk/viknal-brza-pomosh-pa-gi-pczuel-i-se-zakanuval/",
+      "published": "Sat, 15 Aug 2026 17:58:39 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "NetPress",
+      "title": "Пијан гевгеличанец нападнал полицаец",
+      "link": "https://netpress.com.mk/pijan-gevgelichanecz-napadnal-policzaecz/",
+      "published": "Sat, 15 Aug 2026 17:51:59 +0000"
     },
     {
       "region": "Македонија",
@@ -56,20 +70,6 @@
       "title": "Најмалку пет лица се повредени во пукање на Државниот универзитет во Вирџинија",
       "link": "https://netpress.com.mk/najmalku-pet-licza-se-povredeni-vo-pukane-na-drzhavniot-univerzitet-vo-virdhinija/",
       "published": "Sat, 15 Aug 2026 17:13:51 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Германец возел  203 км/ч на автопатот Скопје-Гевгелија",
-      "link": "https://netpress.com.mk/germanecz-vozel-203-km-ch-na-avtopatot-skopje-gevgelija/",
-      "published": "Sat, 15 Aug 2026 17:06:19 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Низа меѓусебни пријавување по инцидент со двајца малолетници со пластично шише и нападната малолетничка",
-      "link": "https://netpress.com.mk/niza-megusebni-prijavuvane-po-inczident-so-dvajcza-maloletniczi-so-plastichno-shishe-i-napadnata-maloletnichka/",
-      "published": "Sat, 15 Aug 2026 16:47:34 +0000"
     },
     {
       "region": "Свет",
@@ -109,6 +109,13 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "Tropical Storm Lala expected to strengthen as it nears Hawaii",
+      "link": "https://www.aljazeera.com/news/2026/8/15/tropical-storm-lala-expected-to-strengthen-as-it-nears-hawaii?traffic_source=rss",
+      "published": "Sat, 15 Aug 2026 17:27:57 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "UK PM Burnham reacts to death of former Cambridge professor",
       "link": "https://www.aljazeera.com/news/2026/8/15/uk-pm-burnham-reacts-to-death-of-former-cambridge-professor?traffic_source=rss",
       "published": "Sat, 15 Aug 2026 17:19:12 +0000"
@@ -133,13 +140,6 @@
       "title": "Sudan’s al-Burhan pledges immunity for dialogue, rules out Hemedti return",
       "link": "https://www.aljazeera.com/news/2026/8/15/sudans-al-burhan-pledges-immunity-for-dialogue-rules-out-hemedti-return?traffic_source=rss",
       "published": "Sat, 15 Aug 2026 16:17:43 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Ukraine hits Russian Starlink-style network, Moscow tracks arms package",
-      "link": "https://www.aljazeera.com/news/2026/8/15/ukraine-hits-russian-starlink-style-network-moscow-tracks-arms-package?traffic_source=rss",
-      "published": "Sat, 15 Aug 2026 15:50:06 +0000"
     }
   ]
 }
