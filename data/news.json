@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T17:45:26Z",
+  "updatedAt": "2026-08-15T17:59:28Z",
   "groups": [
     {
       "region": "Македонија",
@@ -42,6 +42,18 @@
         },
         {
           "source": "NetPress",
+          "title": "Викнал Брза помош, па ги пцуел и се заканувал",
+          "link": "https://netpress.com.mk/viknal-brza-pomosh-pa-gi-pczuel-i-se-zakanuval/",
+          "published": "Sat, 15 Aug 2026 17:58:39 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Пијан гевгеличанец нападнал полицаец",
+          "link": "https://netpress.com.mk/pijan-gevgelichanecz-napadnal-policzaecz/",
+          "published": "Sat, 15 Aug 2026 17:51:59 +0000"
+        },
+        {
+          "source": "NetPress",
           "title": "Тетовец уапсен откако син му го пријавил за закана",
           "link": "https://netpress.com.mk/tetovecz-uapsen-otkako-sin-mu-go-prijavil-za-zakana/",
           "published": "Sat, 15 Aug 2026 17:43:56 +0000"
@@ -57,18 +69,6 @@
           "title": "Најмалку пет лица се повредени во пукање на Државниот универзитет во Вирџинија",
           "link": "https://netpress.com.mk/najmalku-pet-licza-se-povredeni-vo-pukane-na-drzhavniot-univerzitet-vo-virdhinija/",
           "published": "Sat, 15 Aug 2026 17:13:51 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Германец возел  203 км/ч на автопатот Скопје-Гевгелија",
-          "link": "https://netpress.com.mk/germanecz-vozel-203-km-ch-na-avtopatot-skopje-gevgelija/",
-          "published": "Sat, 15 Aug 2026 17:06:19 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Низа меѓусебни пријавување по инцидент со двајца малолетници со пластично шише и нападната малолетничка",
-          "link": "https://netpress.com.mk/niza-megusebni-prijavuvane-po-inczident-so-dvajcza-maloletniczi-so-plastichno-shishe-i-napadnata-maloletnichka/",
-          "published": "Sat, 15 Aug 2026 16:47:34 +0000"
         }
       ]
     },
@@ -107,6 +107,12 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Tropical Storm Lala expected to strengthen as it nears Hawaii",
+          "link": "https://www.aljazeera.com/news/2026/8/15/tropical-storm-lala-expected-to-strengthen-as-it-nears-hawaii?traffic_source=rss",
+          "published": "Sat, 15 Aug 2026 17:27:57 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "UK PM Burnham reacts to death of former Cambridge professor",
           "link": "https://www.aljazeera.com/news/2026/8/15/uk-pm-burnham-reacts-to-death-of-former-cambridge-professor?traffic_source=rss",
           "published": "Sat, 15 Aug 2026 17:19:12 +0000"
@@ -128,12 +134,6 @@
           "title": "Sudan’s al-Burhan pledges immunity for dialogue, rules out Hemedti return",
           "link": "https://www.aljazeera.com/news/2026/8/15/sudans-al-burhan-pledges-immunity-for-dialogue-rules-out-hemedti-return?traffic_source=rss",
           "published": "Sat, 15 Aug 2026 16:17:43 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Ukraine hits Russian Starlink-style network, Moscow tracks arms package",
-          "link": "https://www.aljazeera.com/news/2026/8/15/ukraine-hits-russian-starlink-style-network-moscow-tracks-arms-package?traffic_source=rss",
-          "published": "Sat, 15 Aug 2026 15:50:06 +0000"
         }
       ]
     }
