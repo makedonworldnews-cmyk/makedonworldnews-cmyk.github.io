@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T07:14:52Z",
+  "updatedAt": "2026-08-15T07:46:42Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) Земјотрес од 7,7 степени ја погоди Индонезија, најмалку 20 загинати",
+          "link": "https://makfax.com.mk/svet/video-zemjotres-od-77-stepeni-ja-pogodi-indonezija-najmalku-20-zaginati/",
+          "published": "Sat, 15 Aug 2026 07:30:44 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Седум луѓе загинаа во израелски воздушен напад врз јужен Либан",
+          "link": "https://makfax.com.mk/svet/sedum-luge-zaginaa-vo-izraelski-vozdushen-napad-vrz-juzhen-liban/",
+          "published": "Sat, 15 Aug 2026 07:25:02 +0000"
         },
         {
           "source": "Makfax",
@@ -29,16 +41,16 @@
           "published": "Sat, 15 Aug 2026 06:00:08 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Наутро сончево со мала облачност, попладне локален пороен дожд",
-          "link": "https://makfax.com.mk/makedonija/nautro-sonchevo-so-mala-oblachnost-popladne-lokalen-poroen-dozhd/",
-          "published": "Sat, 15 Aug 2026 05:51:23 +0000"
+          "source": "NetPress",
+          "title": "Филипче од јахтата на Заев од Егејот дава инструкции за ширење паника, СДС од политичка немоќ креира хаос и шири дезинформации",
+          "link": "https://netpress.com.mk/filipche-od-jahtata-na-zaev-od-egejot-dava-instrukczii-za-shirene-panika-sds-od-politichka-nemok-kreira-haos-i-shiri-dezinformaczii/",
+          "published": "Sat, 15 Aug 2026 07:44:25 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "До крајот на август – голем пресврт: огромна сума пари ги очекуваат четири знаци",
-          "link": "https://makfax.com.mk/zanimlivosti/do-krajot-na-avgust-%e2%80%93-golem-presvrt-chetiri-znaci-ke-bidat-pretrupani-so-pari/",
-          "published": "Fri, 14 Aug 2026 20:57:21 +0000"
+          "source": "NetPress",
+          "title": "За две години просечната плата е зголемена за околу 9.000 денари",
+          "link": "https://netpress.com.mk/za-dve-godini-prosechnata-plata-e-zgolemena-za-okolu-9-000-denari/",
+          "published": "Sat, 15 Aug 2026 07:25:35 +0000"
         },
         {
           "source": "NetPress",
@@ -57,18 +69,6 @@
           "title": "Три земјотреси за два часа во БиХ: Сите регистрирани во близина на Сараево",
           "link": "https://netpress.com.mk/1099831-2zemjotres-saraevo/",
           "published": "Sat, 15 Aug 2026 06:51:46 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Швајцарската економија забрзaла во вториот квартал",
-          "link": "https://netpress.com.mk/shvajczarskata-ekonomija-zabrzala-vo-vtoriot-kvartal/",
-          "published": "Sat, 15 Aug 2026 06:17:37 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Чиро Имобиле ја завршува кариерата",
-          "link": "https://netpress.com.mk/chiro-imobile-ja-zavrshuva-karierata/",
-          "published": "Sat, 15 Aug 2026 05:57:53 +0000"
         }
       ]
     },
@@ -77,27 +77,27 @@
       "items": [
         {
           "source": "BBC",
-          "title": "Mangione admits killing healthcare CEO and pleads guilty to federal charges",
-          "link": "https://www.bbc.co.uk/news/articles/cwy0nlq1l2wo?at_medium=RSS&at_campaign=rss",
-          "published": "Fri, 14 Aug 2026 19:20:43 GMT"
+          "title": "At least 14 dead after 7.7-magnitude earthquake strikes Indonesia",
+          "link": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 15 Aug 2026 07:22:22 GMT"
+        },
+        {
+          "source": "BBC",
+          "title": "Jason Arday, ex-Cambridge professor at centre of plagiarism row, found dead",
+          "link": "https://www.bbc.co.uk/news/articles/c1j1ye6n30no?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 15 Aug 2026 01:41:24 GMT"
+        },
+        {
+          "source": "BBC",
+          "title": "'I shot Mr Thompson'- What it was like inside court as Mangione pleaded guilty",
+          "link": "https://www.bbc.co.uk/news/articles/c4gkyez7195o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 14 Aug 2026 18:54:58 GMT"
         },
         {
           "source": "BBC",
           "title": "BBC seeks to subpoena Trump's family members in Panorama lawsuit",
           "link": "https://www.bbc.co.uk/news/articles/cd69ely319eo?at_medium=RSS&at_campaign=rss",
           "published": "Sat, 15 Aug 2026 00:01:53 GMT"
-        },
-        {
-          "source": "BBC",
-          "title": "At least 14 dead after 7.7-magnitude earthquake strikes Indonesia",
-          "link": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
-          "published": "Sat, 15 Aug 2026 06:21:31 GMT"
-        },
-        {
-          "source": "BBC",
-          "title": "Afghan women tell the BBC their lives are unrecognisable after five years of Taliban rule",
-          "link": "https://www.bbc.co.uk/news/articles/clyje43dz4eo?at_medium=RSS&at_campaign=rss",
-          "published": "Fri, 14 Aug 2026 18:25:38 GMT"
         },
         {
           "source": "BBC",
