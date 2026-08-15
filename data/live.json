@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T10:46:12Z",
+  "generated_at": "2026-08-15T11:00:16Z",
   "items": [
     {
       "region": "Македонија",
@@ -109,6 +109,13 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "At scene of deadly Israeli strike on Lebanon home",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/at-scene-of-deadly-israeli-strike-on-lebanon-home?traffic_source=rss",
+      "published": "Sat, 15 Aug 2026 10:18:40 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "Bangladesh rock Australia as historic Test win in sight",
       "link": "https://www.aljazeera.com/sports/2026/8/15/bangladesh-rock-australia-as-historic-test-win-in-sight?traffic_source=rss",
       "published": "Sat, 15 Aug 2026 08:50:56 +0000"
@@ -133,13 +140,6 @@
       "title": "The women India’s biggest river project forgot",
       "link": "https://www.aljazeera.com/features/longform/2026/8/15/the-women-indias-biggest-river-project-forgot?traffic_source=rss",
       "published": "Sat, 15 Aug 2026 08:22:09 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Arteta assures Arsenal fans over contract before Man City clash",
-      "link": "https://www.aljazeera.com/sports/2026/8/15/arteta-assures-arsenal-fans-over-contract-ahead-of-man-city-clash?traffic_source=rss",
-      "published": "Sat, 15 Aug 2026 07:44:35 +0000"
     }
   ]
 }
