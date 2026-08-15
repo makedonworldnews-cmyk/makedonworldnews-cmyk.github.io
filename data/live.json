@@ -1,6 +1,13 @@
 {
-  "generated_at": "2026-08-15T13:44:22Z",
+  "generated_at": "2026-08-15T13:59:49Z",
   "items": [
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "Дванаесет возачи лишени од слобода, меѓу нив и малолетник – возеле без дозвола, пијани или со забрана",
+      "link": "https://makfax.com.mk/makedonija/dvanaeset-vozachi-lisheni-od-sloboda-megu-niv-i-maloletnik-vozele-bez-dozvola-pijani-ili-so-zabrana/",
+      "published": "Sat, 15 Aug 2026 13:55:46 +0000"
+    },
     {
       "region": "Македонија",
       "source": "Makfax",
@@ -31,10 +38,31 @@
     },
     {
       "region": "Македонија",
-      "source": "Makfax",
-      "title": "Татко пријавил дека ќерка му била нападната со пластично шише, па родителите на малолетниците го пријавиле него",
-      "link": "https://makfax.com.mk/crna-hronika/tatko-prijavil-deka-kerka-mu-bila-napadnata-so-plastichno-shishe-pa-roditelite-na-maloletnicite-go-prijavile-nego/",
-      "published": "Sat, 15 Aug 2026 11:51:56 +0000"
+      "source": "NetPress",
+      "title": "Во Јувентус доаѓа Колумбиецот Џон Лукуми",
+      "link": "https://netpress.com.mk/vo-juventus-doaga-kolumbieczot-dhon-lukumi/",
+      "published": "Sat, 15 Aug 2026 13:53:07 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "NetPress",
+      "title": "Нарачал 2.500 тони сливи и пет години не ги платил",
+      "link": "https://netpress.com.mk/narachal-2-500-toni-slivi-i-pet-godini-ne-gi-platil/",
+      "published": "Sat, 15 Aug 2026 13:52:05 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "NetPress",
+      "title": "Зеленски: Украина го погоди рускиот ракетен и вселенски центар во Самара",
+      "link": "https://netpress.com.mk/zelenski-ukraina-go-pogodi-ruskiot-raketen-i-vselenski-czentar-vo-samara/",
+      "published": "Sat, 15 Aug 2026 13:47:45 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "NetPress",
+      "title": "Аргентинска компанија планира развој на гасно поле вредно 51 милијарда долари",
+      "link": "https://netpress.com.mk/argentinska-kompanija-planira-razvoj-na-gasno-pole-vredno-51-milijarda-dolari/",
+      "published": "Sat, 15 Aug 2026 13:45:03 +0000"
     },
     {
       "region": "Македонија",
@@ -42,34 +70,6 @@
       "title": "Ги измамил дека му требаат пари за дијализа на ќерка му, потоа ги напаѓал",
       "link": "https://netpress.com.mk/gi-izmamil-deka-mu-trebaat-pari-za-dijaliza-na-kerka-mu-potoa-gi-napagal/",
       "published": "Sat, 15 Aug 2026 13:42:47 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "„И Здравје и Работа“: Европското искуство покажува дека може „и екологија и рударство“",
-      "link": "https://netpress.com.mk/%e2%80%9ei-zdravje-i-rabota%e2%80%9c-evropskoto-iskustvo-pokazhuva-deka-mozhe-%e2%80%9ei-ekologija-i-rudarstvo%e2%80%9c/",
-      "published": "Sat, 15 Aug 2026 13:33:17 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Почна асфалтирањето на последниот дел на булеварот „Борис Трајковски“",
-      "link": "https://netpress.com.mk/pochna-asfaltiraneto-na-posledniot-del-na-bulevarot-%e2%80%9eboris-trajkovski%e2%80%9c/",
-      "published": "Sat, 15 Aug 2026 13:27:32 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Малолетничка пријавила дека насилно ѝ дале марихуана – потоа избила групна тепачка",
-      "link": "https://netpress.com.mk/maloletnichka-prijavila-deka-nasilno-%d1%9d-dale-marihuana-potoa-izbila-grupna-tepachka/",
-      "published": "Sat, 15 Aug 2026 13:15:54 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Јапонскиот министер за одбрана го посети контроверзниот храм на загинатите во војните",
-      "link": "https://netpress.com.mk/japonskiot-minister-za-odbrana-go-poseti-kontroverzniot-hram-na-zaginatite-vo-vojnite/",
-      "published": "Sat, 15 Aug 2026 13:10:50 +0000"
     },
     {
       "region": "Свет",
@@ -130,7 +130,7 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
-      "title": "Five wounded in shooting at Virginia State University",
+      "title": "Five wounded in shooting at Virginia State University, multiple suspects",
       "link": "https://www.aljazeera.com/news/2026/8/15/five-wounded-in-shooting-at-virginia-state?traffic_source=rss",
       "published": "Sat, 15 Aug 2026 12:57:08 +0000"
     },
