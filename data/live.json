@@ -1,6 +1,20 @@
 {
-  "generated_at": "2026-08-15T08:22:05Z",
+  "generated_at": "2026-08-15T08:51:41Z",
   "items": [
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "Николоски: Се решаваат сложени инженерски проблеми на автопатот Охрид – Кичево",
+      "link": "https://makfax.com.mk/makedonija/nikoloski-se-reshavaat-slozheni-inzhenerski-problemi-na-avtopatot-ohrid-kichevo/",
+      "published": "Sat, 15 Aug 2026 08:48:41 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "Палеле пожари среде ноќ: Двајца фатени на дело во Битола и Прилеп",
+      "link": "https://makfax.com.mk/crna-hronika/palele-pozhari-srede-nok-dvajca-fateni-na-delo-vo-bitola-i-prilep/",
+      "published": "Sat, 15 Aug 2026 08:27:13 +0000"
+    },
     {
       "region": "Македонија",
       "source": "Makfax",
@@ -24,17 +38,10 @@
     },
     {
       "region": "Македонија",
-      "source": "Makfax",
-      "title": "Седум луѓе загинаа во израелски воздушен напад врз јужен Либан",
-      "link": "https://makfax.com.mk/svet/sedum-luge-zaginaa-vo-izraelski-vozdushen-napad-vrz-juzhen-liban/",
-      "published": "Sat, 15 Aug 2026 07:25:02 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "Makfax",
-      "title": "Избоден маж на Нов Белград",
-      "link": "https://makfax.com.mk/svet/izboden-mazh-na-nov-belgrad/",
-      "published": "Sat, 15 Aug 2026 06:22:53 +0000"
+      "source": "NetPress",
+      "title": "Велика Британија реагираше на навредите упатени кон нив од Нетанјаху",
+      "link": "https://netpress.com.mk/velika-britanija-reagirashe-na-navredite-upateni-kon-niv-od-netanjahu/",
+      "published": "Sat, 15 Aug 2026 08:32:53 +0000"
     },
     {
       "region": "Македонија",
@@ -65,25 +72,11 @@
       "published": "Sat, 15 Aug 2026 07:14:32 +0000"
     },
     {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Почесна артилериска стрелба в понеделник вечер",
-      "link": "https://netpress.com.mk/pochesna-artileriska-strelba-v-ponedelnik-vecher/",
-      "published": "Sat, 15 Aug 2026 07:07:02 +0000"
-    },
-    {
       "region": "Свет",
       "source": "BBC",
-      "title": "At least 20 dead after 7.7-magnitude earthquake strikes Indonesia",
+      "title": "Powerful 7.7-magnitude earthquake kills at least 20 in Indonesia",
       "link": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 15 Aug 2026 08:21:01 GMT"
-    },
-    {
-      "region": "Свет",
-      "source": "BBC",
-      "title": "Tributes paid to Jason Arday after ex-Cambridge professor found dead",
-      "link": "https://www.bbc.co.uk/news/articles/c9982znvyk4o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 15 Aug 2026 07:53:48 GMT"
     },
     {
       "region": "Свет",
@@ -108,6 +101,27 @@
     },
     {
       "region": "Свет",
+      "source": "BBC",
+      "title": "Activists try to deliver aid to Palestinians in homes besieged by Israeli settlers",
+      "link": "https://www.bbc.co.uk/news/articles/c1w1ylw0p3no?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 14 Aug 2026 17:03:17 GMT"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Venus Williams hits 13-game tennis losing streak with Cincinnati Open exit",
+      "link": "https://www.aljazeera.com/sports/2026/8/15/venus-williams-hits-13-game-tennis-losing-streak-with-cincinnati-open-exit?traffic_source=rss",
+      "published": "Sat, 15 Aug 2026 08:32:07 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "The women India’s biggest river project forgot",
+      "link": "https://www.aljazeera.com/features/longform/2026/8/15/the-women-indias-biggest-river-project-forgot?traffic_source=rss",
+      "published": "Sat, 15 Aug 2026 08:22:09 +0000"
+    },
+    {
+      "region": "Свет",
       "source": "Al Jazeera",
       "title": "Arteta assures Arsenal fans over contract before Man City clash",
       "link": "https://www.aljazeera.com/sports/2026/8/15/arteta-assures-arsenal-fans-over-contract-ahead-of-man-city-clash?traffic_source=rss",
@@ -126,20 +140,6 @@
       "title": "A Syrian intervention in Lebanon would be too costly for Damascus",
       "link": "https://www.aljazeera.com/opinions/2026/8/15/a-syrian-intervention-in-lebanon-would-be-too-costly-for-damascus?traffic_source=rss",
       "published": "Sat, 15 Aug 2026 07:27:32 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Israeli strike kills seven in south Lebanon as attacks intensify",
-      "link": "https://www.aljazeera.com/news/2026/8/15/israeli-strike-kills-seven-in-south-lebanon-as-attacks-intensify?traffic_source=rss",
-      "published": "Sat, 15 Aug 2026 07:18:13 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Moment Israeli forces storm wedding hall in occupied West Bank",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/moment-israeli-forces-storm-wedding-hall-in-occupied-west-bank?traffic_source=rss",
-      "published": "Sat, 15 Aug 2026 07:13:11 +0000"
     }
   ]
 }
