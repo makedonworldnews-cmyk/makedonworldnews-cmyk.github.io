@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T21:05:09Z",
+  "updatedAt": "2026-08-15T21:32:18Z",
   "groups": [
     {
       "region": "Македонија",
@@ -42,6 +42,12 @@
         },
         {
           "source": "NetPress",
+          "title": "Најмалку 11 убиени во израелски напади врз јужен Либан",
+          "link": "https://netpress.com.mk/najmalku-11-ubieni-vo-izraelski-napadi-vrz-juzhen-liban/",
+          "published": "Sat, 15 Aug 2026 21:30:48 +0000"
+        },
+        {
+          "source": "NetPress",
           "title": "ВИДЕО| Талибаните одбележуваат пет години од враќањето на власт во Авганистан",
           "link": "https://netpress.com.mk/video-talibanite-odbelezhuvaat-pet-godini-od-vrakaneto-na-vlast-vo-avganistan/",
           "published": "Sat, 15 Aug 2026 20:31:04 +0000"
@@ -63,12 +69,6 @@
           "title": "Навредливи натписи во Куманово",
           "link": "https://netpress.com.mk/navredlivi-natpisi-vo-kumanovo/",
           "published": "Sat, 15 Aug 2026 18:29:48 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Велосипедист тешко повреден – автомобил удрил во него во Трубарево",
-          "link": "https://netpress.com.mk/velosipedist-teshko-povreden-avtomobil-udril-vo-nego-vo-trubarevo/",
-          "published": "Sat, 15 Aug 2026 18:25:40 +0000"
         }
       ]
     },
@@ -101,9 +101,15 @@
         },
         {
           "source": "BBC",
-          "title": "US aircraft carrier on way to relieve USS Lincoln after issues reported aboard",
-          "link": "https://www.bbc.co.uk/news/articles/c171yp5zdrxo?at_medium=RSS&at_campaign=rss",
-          "published": "Fri, 14 Aug 2026 17:36:27 GMT"
+          "title": "Qatar denies capturing three Iranian pilots after downing fighter jets",
+          "link": "https://www.bbc.co.uk/news/articles/cj4kk8kz271o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 15 Aug 2026 21:03:57 GMT"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Qatar denies it is detaining three Iranian bomber pilots",
+          "link": "https://www.aljazeera.com/news/2026/8/15/qatar-denies-it-is-detaining-three-iranian-bomber-pilots?traffic_source=rss",
+          "published": "Sat, 15 Aug 2026 20:55:29 +0000"
         },
         {
           "source": "Al Jazeera",
@@ -128,12 +134,6 @@
           "title": "Moroccan police arrest over 100 migrants trying to reach Spanish enclave",
           "link": "https://www.aljazeera.com/news/2026/8/15/moroccan-police-arrest-over-100-migrants-trying-to-reach-spanish-enclave?traffic_source=rss",
           "published": "Sat, 15 Aug 2026 19:46:20 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Death toll from Zimbabwe ferry disaster rises to 72",
-          "link": "https://www.aljazeera.com/news/2026/8/15/death-toll-from-zimbabwe-ferry-disaster-rises-to-69?traffic_source=rss",
-          "published": "Sat, 15 Aug 2026 19:10:06 +0000"
         }
       ]
     }
