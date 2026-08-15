@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T10:34:57Z",
+  "updatedAt": "2026-08-15T10:55:06Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Постигнат е договор и откупот на пиперката тече според очекувањата, тврди Мицкоски",
+          "link": "https://makfax.com.mk/makedonija/postignat-e-dogovor-i-otkupot-na-piperkata-teche-spored-ochekuvanjata-tvrdi-mickoski/",
+          "published": "Sat, 15 Aug 2026 10:44:39 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) Објавена најстрашната снимка од епицентарот на пожарот во Омиш",
+          "link": "https://makfax.com.mk/svet/video-objavena-najstrashnata-snimka-od-epicentarot-na-pozharot-vo-omish/",
+          "published": "Sat, 15 Aug 2026 10:40:34 +0000"
         },
         {
           "source": "Makfax",
@@ -27,18 +39,6 @@
           "title": "Димитриеска-Кочоска: Поддршката на домашните компании преку унгарскиот заем е инвестиција во економскиот раст",
           "link": "https://makfax.com.mk/makedonija/dimitrieska-kochoska-poddrshkata-na-domashnite-kompanii-preku-ungarskiot-zaem-e-investicija-vo-ekonomskiot-rast/",
           "published": "Sat, 15 Aug 2026 09:40:19 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Пуштена во употреба спортска сала во подрачното училиште „Крупе Кепески“ во Кисела Вода",
-          "link": "https://makfax.com.mk/makedonija/pushtena-vo-upotreba-sportska-sala-vo-podrachnoto-uchilishte-krupe-kepeski-vo-kisela-voda/",
-          "published": "Sat, 15 Aug 2026 09:37:06 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Драгана исчезнала бегајќи од пожарот и влегла во огнената стапица, семејството дало ДНК-примероци",
-          "link": "https://makfax.com.mk/svet/dragana-ischeznala-begajki-od-pozharot-i-vlegla-vo-ognenata-stapica-semejstvoto-dalo-dnk-primeroci/",
-          "published": "Sat, 15 Aug 2026 08:53:23 +0000"
         },
         {
           "source": "NetPress",
@@ -107,12 +107,6 @@
         },
         {
           "source": "Al Jazeera",
-          "title": "At scene of deadly Israeli strike on Lebanon home",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/at-scene-of-deadly-israeli-strike-on-lebanon-home?traffic_source=rss",
-          "published": "Sat, 15 Aug 2026 10:18:40 +0000"
-        },
-        {
-          "source": "Al Jazeera",
           "title": "Bangladesh rock Australia as historic Test win in sight",
           "link": "https://www.aljazeera.com/sports/2026/8/15/bangladesh-rock-australia-as-historic-test-win-in-sight?traffic_source=rss",
           "published": "Sat, 15 Aug 2026 08:50:56 +0000"
@@ -134,6 +128,12 @@
           "title": "The women India’s biggest river project forgot",
           "link": "https://www.aljazeera.com/features/longform/2026/8/15/the-women-indias-biggest-river-project-forgot?traffic_source=rss",
           "published": "Sat, 15 Aug 2026 08:22:09 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Arteta assures Arsenal fans over contract before Man City clash",
+          "link": "https://www.aljazeera.com/sports/2026/8/15/arteta-assures-arsenal-fans-over-contract-ahead-of-man-city-clash?traffic_source=rss",
+          "published": "Sat, 15 Aug 2026 07:44:35 +0000"
         }
       ]
     }
