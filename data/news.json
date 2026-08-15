@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T21:32:18Z",
+  "updatedAt": "2026-08-15T21:53:27Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) Ѓоковиќ се мачеше и испадна од мастерсот во Синсинати",
+          "link": "https://makfax.com.mk/sport/video-gokovik-se-macheshe-i-ispadna-od-mastersot-vo-sinsinati/",
+          "published": "Sat, 15 Aug 2026 21:36:39 +0000"
         },
         {
           "source": "Makfax",
@@ -35,10 +41,10 @@
           "published": "Sat, 15 Aug 2026 18:10:45 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Црна Гора во пламен: Пожари беснеат во пет општини, најкритично во Херцег Нови и Улцињ",
-          "link": "https://makfax.com.mk/svet/crna-gora-vo-plamen-pozhari-besneat-vo-pet-opshtini-najkritichno-vo-herceg-novi-i-ulcinj/",
-          "published": "Sat, 15 Aug 2026 17:34:19 +0000"
+          "source": "NetPress",
+          "title": "АТП Синсинати: Аргентинецот Тиранте го победи Ѓоковиќ",
+          "link": "https://netpress.com.mk/atp-sinsinati-argentineczot-tirante-go-pobedi-gokovik/",
+          "published": "Sat, 15 Aug 2026 21:40:53 +0000"
         },
         {
           "source": "NetPress",
@@ -63,12 +69,6 @@
           "title": "Националниот џез оркестар утре ќе настапи во Битола",
           "link": "https://netpress.com.mk/naczionalniot-dhez-orkestar-utre-ke-nastapi-vo-bitola/",
           "published": "Sat, 15 Aug 2026 19:07:15 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Навредливи натписи во Куманово",
-          "link": "https://netpress.com.mk/navredlivi-natpisi-vo-kumanovo/",
-          "published": "Sat, 15 Aug 2026 18:29:48 +0000"
         }
       ]
     },
@@ -77,9 +77,9 @@
       "items": [
         {
           "source": "BBC",
-          "title": "Powerful magnitude 7.7 earthquake kills at least 47 in Indonesia",
-          "link": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
-          "published": "Sat, 15 Aug 2026 20:00:15 GMT"
+          "title": "Rescuers search for survivors of powerful Indonesia earthquake",
+          "link": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 15 Aug 2026 21:49:12 GMT"
         },
         {
           "source": "BBC",
