@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T19:44:13Z",
+  "updatedAt": "2026-08-16T19:58:27Z",
   "groups": [
     {
       "region": "Македонија",
@@ -83,9 +83,9 @@
         },
         {
           "source": "BBC",
-          "title": "Two dead and hundreds evacuated as twin fires break out on Greek island",
+          "title": "Two dead and hundreds evacuated after twin fires break out on Greek island",
           "link": "https://www.bbc.co.uk/news/articles/c87nnwlpe5no?at_medium=RSS&at_campaign=rss",
-          "published": "Sun, 16 Aug 2026 17:44:23 GMT"
+          "published": "Sun, 16 Aug 2026 19:50:36 GMT"
         },
         {
           "source": "BBC",
@@ -104,6 +104,12 @@
           "title": "Teen suspect in Virginia campus shooting found hiding in closet",
           "link": "https://www.bbc.co.uk/news/articles/c0l5583903yo?at_medium=RSS&at_campaign=rss",
           "published": "Sun, 16 Aug 2026 19:00:23 GMT"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Erdogan says Israeli attacks on Lebanon are a serious concern for Türkiye",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/erdogan-says-israeli-attacks-on-lebanon-are-a-serious-concern-for-turkiye?traffic_source=rss",
+          "published": "Sun, 16 Aug 2026 19:29:31 +0000"
         },
         {
           "source": "Al Jazeera",
@@ -128,12 +134,6 @@
           "title": "Israeli army besieges Palestinian homes in occupied West Bank",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/israeli-army-besieges-palestinian-homes-in-occupied-west-bank?traffic_source=rss",
           "published": "Sun, 16 Aug 2026 17:45:52 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Why are sandwiches more regulated than AI?",
-          "link": "https://www.aljazeera.com/video/the-bottom-line/2026/8/16/why-are-sandwiches-more-regulated-than-ai?traffic_source=rss",
-          "published": "Sun, 16 Aug 2026 17:36:02 +0000"
         }
       ]
     }
