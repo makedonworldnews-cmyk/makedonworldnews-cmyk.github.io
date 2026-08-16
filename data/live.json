@@ -1,6 +1,13 @@
 {
-  "generated_at": "2026-08-16T14:42:39Z",
+  "generated_at": "2026-08-16T15:00:06Z",
   "items": [
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "Ангелов: Монтажен базен поставен до пожарот кај Драгов Дол, хеликоптерот сега носи по еден тон вода на секои 3–4 минути",
+      "link": "https://makfax.com.mk/makedonija/angelov-montazhen-bazen-postaven-do-pozharot-kaj-dragov-dol-helikopterot-sega-nosi-po-eden-ton-voda-na-sekoi-3-4-minuti/",
+      "published": "Sun, 16 Aug 2026 14:52:26 +0000"
+    },
     {
       "region": "Македонија",
       "source": "Makfax",
@@ -31,10 +38,10 @@
     },
     {
       "region": "Македонија",
-      "source": "Makfax",
-      "title": "Спасено повредено лице од непристапен терен на Пелистер",
-      "link": "https://makfax.com.mk/makedonija/spaseno-povredeno-lice-od-nepristapen-teren-na-pelister/",
-      "published": "Sun, 16 Aug 2026 13:06:51 +0000"
+      "source": "NetPress",
+      "title": "Почесна артилериска стрелба утревечер во чест на Денот на АРМ",
+      "link": "https://netpress.com.mk/pochesna-artileriska-strelba-utrevecher-vo-chest-na-denot-na-arm/",
+      "published": "Sun, 16 Aug 2026 14:55:38 +0000"
     },
     {
       "region": "Македонија",
@@ -63,13 +70,6 @@
       "title": "Фрлена експлозивна направа на куќа во Бардовци ноќеска",
       "link": "https://netpress.com.mk/frlena-eksplozivna-naprava-na-kuka-vo-bardovczi-nokeska/",
       "published": "Sun, 16 Aug 2026 14:10:02 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Украинските противвоздушни сили не пресретнале ниедна руска ракета изминатата ноќ",
-      "link": "https://netpress.com.mk/ukrainskite-protivvozdushni-sili-ne-presretnale-niedna-ruska-raketa-izminatata-nok/",
-      "published": "Sun, 16 Aug 2026 14:09:38 +0000"
     },
     {
       "region": "Свет",
@@ -109,6 +109,13 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "What is Tokyo’s Yasukuni Shrine, linked to Japan’s wartime atrocities?",
+      "link": "https://www.aljazeera.com/news/2026/8/16/what-is-tokyos-yasukuni-shrine-linked-to-japans-wartime-atrocities?traffic_source=rss",
+      "published": "Sun, 16 Aug 2026 14:29:18 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "Who is DEI critic and Jason Arday accuser, Nathan Cofnas?",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/who-is-dei-critic-and-jason-arday-accuser-nathan-cofnas?traffic_source=rss",
       "published": "Sun, 16 Aug 2026 13:53:20 +0000"
@@ -133,13 +140,6 @@
       "title": "Timeline: The one-week siege of Qusra by Israeli settlers in the West Bank",
       "link": "https://www.aljazeera.com/gallery/2026/8/16/timeline-the-one-week-siege-of-qusra-by-israeli-settlers-in-the-west-bank?traffic_source=rss",
       "published": "Sun, 16 Aug 2026 13:17:57 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Belgium’s largest wildfire on record spreads towards German border",
-      "link": "https://www.aljazeera.com/news/2026/8/16/belgiums-largest-wildfire-on-record-spreads-towards-german-border?traffic_source=rss",
-      "published": "Sun, 16 Aug 2026 12:35:31 +0000"
     }
   ]
 }
