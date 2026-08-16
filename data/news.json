@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T11:44:57Z",
+  "updatedAt": "2026-08-16T11:59:58Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) Тешка борба со пожарите во земјава, Ангелов апелира да се внимава и соопшти дека гори уште на шест места",
+          "link": "https://makfax.com.mk/makedonija/video-teshka-borba-so-pozharite-vo-zemjava-angelov-apelira-da-se-vnimava-i-soopshti-deka-gori-ushte-na-shest-mesta/",
+          "published": "Sun, 16 Aug 2026 11:55:40 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Пијани зад волан, без возачки дозволи и сообраќајки: 16 возачи приведени за едно деноноќие",
+          "link": "https://makfax.com.mk/makedonija/pijani-zad-volan-bez-vozachki-dozvoli-i-soobrakajki-16-vozachi-privedeni-za-edno-denonokie/",
+          "published": "Sun, 16 Aug 2026 11:49:32 +0000"
         },
         {
           "source": "Makfax",
@@ -27,18 +39,6 @@
           "title": "Заспал ли возачот? Автобус се преврте во канал во Унгарија – 12 загинати, 47 повредени",
           "link": "https://makfax.com.mk/svet/zaspal-li-vozachot-avtobus-se-prevrte-vo-kanal-vo-ungarija-12-zaginati-47-povredeni/",
           "published": "Sun, 16 Aug 2026 11:35:50 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Инзаги го пречкртал Бензема, францускиот ас не сака да си оди од Ал Хилал",
-          "link": "https://makfax.com.mk/sport/inzagi-go-prechkrtal-benzema-francuskiot-as-ne-saka-da-si-odi-od-al-hilal/",
-          "published": "Sun, 16 Aug 2026 11:32:35 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Градоначалникот Орце Ѓорѓиевски објави фотографии и видео од неделната генералка во Скопје",
-          "link": "https://makfax.com.mk/makedonija/gradonachalnikot-orce-gorgievski-objavi-fotografii-i-video-od-nedelnata-generalka-vo-skopje/",
-          "published": "Sun, 16 Aug 2026 11:30:03 +0000"
         },
         {
           "source": "NetPress",
