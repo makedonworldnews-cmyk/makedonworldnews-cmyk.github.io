@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T15:33:39Z",
+  "updatedAt": "2026-08-16T15:54:01Z",
   "groups": [
     {
       "region": "Македонија",
@@ -42,6 +42,12 @@
         },
         {
           "source": "NetPress",
+          "title": "ВИДЕО| Двајца загинати во голем пожар на грчкиот остров Саламина",
+          "link": "https://netpress.com.mk/video-dvajcza-zaginati-vo-golem-pozhar-na-grchkiot-ostrov-salamina/",
+          "published": "Sun, 16 Aug 2026 15:45:09 +0000"
+        },
+        {
+          "source": "NetPress",
           "title": "Тепачка на семејна веселба – петмина се уапсени",
           "link": "https://netpress.com.mk/tepachka-na-semejna-veselba-petmina-se-uapseni/",
           "published": "Sun, 16 Aug 2026 15:29:06 +0000"
@@ -63,12 +69,6 @@
           "title": "ВМРО-ДПМНЕ: Талогот од СДС да се навикне на нормалното и редовно функционирање на институции",
           "link": "https://netpress.com.mk/vmro-dpmne-talogot-od-sds-da-se-navikne-na-normalnoto-i-redovno-funkczionirane-na-instituczii/",
           "published": "Sun, 16 Aug 2026 15:21:06 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Четиримина уапсени поради групна тепачка во центарот на Кочани",
-          "link": "https://netpress.com.mk/chetirimina-uapseni-poradi-grupna-tepachka-vo-czentarot-na-kochani/",
-          "published": "Sun, 16 Aug 2026 15:12:44 +0000"
         }
       ]
     },
@@ -79,7 +79,7 @@
           "source": "BBC",
           "title": "Russia says at least seven killed in largest Ukrainian attack of 2026",
           "link": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
-          "published": "Sun, 16 Aug 2026 15:14:01 GMT"
+          "published": "Sun, 16 Aug 2026 15:50:12 GMT"
         },
         {
           "source": "BBC",
@@ -107,6 +107,12 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Largest Ukrainian drone attack on Russia, Moscow says 822 drones shot down",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/16-08-sv-ukraine-largest-drone-attack-russia-ua?traffic_source=rss",
+          "published": "Sun, 16 Aug 2026 15:35:53 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Hurricane Lala weakens to a tropical storm, but flooding persists in Hawaii",
           "link": "https://www.aljazeera.com/news/2026/8/16/hurricane-lala-weakens-to-a-tropical-storm-but-flooding-persists-in-hawaii?traffic_source=rss",
           "published": "Sun, 16 Aug 2026 14:55:51 +0000"
@@ -128,12 +134,6 @@
           "title": "What is Tokyo’s Yasukuni Shrine, linked to Japan’s wartime atrocities?",
           "link": "https://www.aljazeera.com/news/2026/8/16/what-is-tokyos-yasukuni-shrine-linked-to-japans-wartime-atrocities?traffic_source=rss",
           "published": "Sun, 16 Aug 2026 14:29:18 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Who is DEI critic and Jason Arday accuser, Nathan Cofnas?",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/who-is-dei-critic-and-jason-arday-accuser-nathan-cofnas?traffic_source=rss",
-          "published": "Sun, 16 Aug 2026 13:53:20 +0000"
         }
       ]
     }
