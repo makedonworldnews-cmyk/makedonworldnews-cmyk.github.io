@@ -1,6 +1,13 @@
 {
-  "generated_at": "2026-08-16T21:57:12Z",
+  "generated_at": "2026-08-16T22:17:11Z",
   "items": [
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "Ејми Хант е супер ѕвезда",
+      "link": "https://makfax.com.mk/sport/ejmi-hant-e-super-zvezda/",
+      "published": "Sun, 16 Aug 2026 22:16:02 +0000"
+    },
     {
       "region": "Македонија",
       "source": "Makfax",
@@ -28,13 +35,6 @@
       "title": "Видео од марихуаната која беше запленета од меѓународната криминална група",
       "link": "https://makfax.com.mk/makedonija/video-od-marihuanata-koja-beshe-zapleneta-od-megunarodnata-kriminalna-grupa/",
       "published": "Sun, 16 Aug 2026 17:38:40 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "Makfax",
-      "title": "(Видео) Невреме и пожари во Грција",
-      "link": "https://makfax.com.mk/svet/video-nevreme-i-pozhari-vo-grcija/",
-      "published": "Sun, 16 Aug 2026 17:29:05 +0000"
     },
     {
       "region": "Македонија",
@@ -76,7 +76,7 @@
       "source": "BBC",
       "title": "Trump says US to scale back military drills with South Korea after it stayed out of Iran war",
       "link": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 16 Aug 2026 21:55:46 GMT"
+      "published": "Sun, 16 Aug 2026 21:57:13 GMT"
     },
     {
       "region": "Свет",
@@ -109,6 +109,20 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "What could stop Israeli settler attacks on Palestinians?",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/8/16/what-could-stop-israeli-settler-attacks-on-palestinians?traffic_source=rss",
+      "published": "Sun, 16 Aug 2026 21:54:58 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Hundreds of migrants arrested near Ceuta border in latest crackdown",
+      "link": "https://www.aljazeera.com/news/2026/8/16/hundreds-of-migrants-arrested-near-ceuta-border-in-latest-crackdown?traffic_source=rss",
+      "published": "Sun, 16 Aug 2026 21:51:39 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "Anwar Ibrahim: Malaysia between the superpowers",
       "link": "https://www.aljazeera.com/video/the-india-report/2026/8/16/anwar-ibrahim-malaysia-between-the-superpowers?traffic_source=rss",
       "published": "Sun, 16 Aug 2026 21:23:03 +0000"
@@ -126,20 +140,6 @@
       "title": "Israelis harass Palestinian-owned cafe in Iceland, tear down Palestine map",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/israelis-harass-palestinian-owned-cafe-in-iceland-tear-down-palestine-map?traffic_source=rss",
       "published": "Sun, 16 Aug 2026 21:02:08 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Erdogan says Hamas acted sincerely, criticises Israeli attacks",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/16-08-clip-erdogan-gaza-tr?traffic_source=rss",
-      "published": "Sun, 16 Aug 2026 20:55:19 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "US admiral praises USS Lincoln crew amid reported mental health concerns",
-      "link": "https://www.aljazeera.com/news/2026/8/16/us-admiral-praises-uss-lincoln-crew-amid-reported-mental-health-concerns?traffic_source=rss",
-      "published": "Sun, 16 Aug 2026 20:46:01 +0000"
     }
   ]
 }
