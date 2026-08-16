@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T07:49:03Z",
+  "updatedAt": "2026-08-16T08:11:52Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "СДСМ: Мицкоски се се претставува како експерт за економија, туризам, авиосообраќај, технологија, образование и информатичка технологија",
+          "link": "https://makfax.com.mk/makedonija/sdsm-mickoski-se-se-pretstavuva-kako-ekspert-za-ekonomija-turizam-aviosoobrakaj-tehnologija-obrazovanie-i-informatichka-tehnologija/",
+          "published": "Sun, 16 Aug 2026 07:49:50 +0000"
         },
         {
           "source": "Makfax",
@@ -35,10 +41,10 @@
           "published": "Sun, 16 Aug 2026 07:14:24 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Две жени загинаа во поплави и одрон во Шпанија, настрадаа и бебиња",
-          "link": "https://makfax.com.mk/svet/dve-zheni-zaginaa-vo-poplavi-i-odron-vo-shpanija-nastradaa-i-bebinja/",
-          "published": "Sun, 16 Aug 2026 07:08:56 +0000"
+          "source": "NetPress",
+          "title": "Бројот на загинатите во превртувањето на траект во Зимбабве достигна 72, меѓу нив 18 деца",
+          "link": "https://netpress.com.mk/brojot-na-zaginatite-vo-prevrtuvaneto-na-traekt-vo-zimbabve-dostigna-72-megu-niv-18-decza/",
+          "published": "Sun, 16 Aug 2026 08:11:37 +0000"
         },
         {
           "source": "NetPress",
@@ -63,12 +69,6 @@
           "title": "Русија бара одговор од САД и Турција за плановите за вооружување на Украина",
           "link": "https://netpress.com.mk/rusija-bara-odgovor-od-sad-i-turczija-za-planovite-za-vooruzhuvane-na-ukraina/",
           "published": "Sun, 16 Aug 2026 05:47:22 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Ла Лига започна со победа на Алавес, Севиља преку пенали дојде до пресврт и победа",
-          "link": "https://netpress.com.mk/la-liga-zapochna-so-pobeda-na-alaves-sevila-preku-penali-dojde-do-presvrt-i-pobeda/",
-          "published": "Sun, 16 Aug 2026 05:27:18 +0000"
         }
       ]
     },
@@ -83,9 +83,9 @@
         },
         {
           "source": "BBC",
-          "title": "Hawaii battles strong winds and rain as Hurricane Lala threat looms",
+          "title": "Hurricane Lala lashes Hawaii with strong winds and torrential rain",
           "link": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
-          "published": "Sun, 16 Aug 2026 06:53:22 GMT"
+          "published": "Sun, 16 Aug 2026 07:58:02 GMT"
         },
         {
           "source": "BBC",
@@ -107,6 +107,18 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Lionel Messi misses penalty as Nashville thrash Inter Miami in MLS",
+          "link": "https://www.aljazeera.com/sports/2026/8/16/lionel-messi-misses-penalty-as-nashville-thrash-inter-miami-in-mls?traffic_source=rss",
+          "published": "Sun, 16 Aug 2026 07:47:45 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "New satellite images show Europe’s disappearing rivers due to drought",
+          "link": "https://www.aljazeera.com/news/2026/8/16/new-satellite-images-show-europes-disappearing-rivers-due-to-drought?traffic_source=rss",
+          "published": "Sun, 16 Aug 2026 07:46:22 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "UFC 330: Makhachev secures record-setting win against Machado Garry",
           "link": "https://www.aljazeera.com/sports/2026/8/16/ufc-330-makhachev-secures-record-setting-win-against-machado-garry?traffic_source=rss",
           "published": "Sun, 16 Aug 2026 07:04:29 +0000"
@@ -122,18 +134,6 @@
           "title": "How a simple lighter has become the backbone of life in Gaza",
           "link": "https://www.aljazeera.com/economy/2026/8/16/struggle-for-a-spark-gaza-lighter-crisis-makes-cooking-an-expensive-chore?traffic_source=rss",
           "published": "Sun, 16 Aug 2026 06:10:58 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "A nation divided: What do Israelis want in October’s elections?",
-          "link": "https://www.aljazeera.com/news/2026/8/16/a-nation-divided-what-do-israelis-want-in-octobers-elections?traffic_source=rss",
-          "published": "Sun, 16 Aug 2026 06:06:31 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Indonesia’s magnitude 7.7 quake kills at least 51, displaces thousands",
-          "link": "https://www.aljazeera.com/news/2026/8/16/indonesias-magnitude-7-7-quake-kills-at-least-51-displaces-thousands?traffic_source=rss",
-          "published": "Sun, 16 Aug 2026 05:14:00 +0000"
         }
       ]
     }
