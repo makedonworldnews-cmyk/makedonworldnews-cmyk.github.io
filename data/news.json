@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T10:02:11Z",
+  "updatedAt": "2026-08-16T10:35:35Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Громогласен аплауз за премиерот Мицкоски во Идризово: Се гради фекална канализација",
+          "link": "https://makfax.com.mk/makedonija/gromoglasen-aplauz-za-premierot-mickoski-vo-idrizovo-se-gradi-fekalna-kanalizacija/",
+          "published": "Sun, 16 Aug 2026 10:20:13 +0000"
         },
         {
           "source": "Makfax",
@@ -35,10 +41,16 @@
           "published": "Sun, 16 Aug 2026 09:17:25 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "СДСМ: Мицкоски се се претставува како експерт за економија, туризам, авиосообраќај, технологија, образование и информатичка технологија",
-          "link": "https://makfax.com.mk/makedonija/sdsm-mickoski-se-se-pretstavuva-kako-ekspert-za-ekonomija-turizam-aviosoobrakaj-tehnologija-obrazovanie-i-informatichka-tehnologija/",
-          "published": "Sun, 16 Aug 2026 07:49:50 +0000"
+          "source": "NetPress",
+          "title": "Грција се бори со поплави на Пелопонез и пожари на островот Скирос",
+          "link": "https://netpress.com.mk/grczija-se-bori-so-poplavi-na-peloponez-i-pozhari-na-ostrovot-skiros/",
+          "published": "Sun, 16 Aug 2026 10:24:04 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Благ раст на Волстрит, пад на европските берзи минатата седмица",
+          "link": "https://netpress.com.mk/blag-rast-na-volstrit-pad-na-evropskite-berzi-minatata-sedmicza/",
+          "published": "Sun, 16 Aug 2026 10:15:04 +0000"
         },
         {
           "source": "NetPress",
@@ -57,18 +69,6 @@
           "title": "Надежите за преживеани по земјотресот во Колумбија згаснуваат, бројот близу 300",
           "link": "https://netpress.com.mk/nadezhite-za-prezhiveani-po-zemjotresot-vo-kolumbija-zgasnuvaat-brojot-blizu-300/",
           "published": "Sun, 16 Aug 2026 09:21:42 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Редно е Филипче да се прибере од одморот со Заев на јахта во Грција, предолгата изложеност на сонце му предизвика сончаница и очигледна дезориентираност",
-          "link": "https://netpress.com.mk/redno-e-filipche-da-se-pribere-od-odmorot-so-zaev-na-jahta-vo-grczija-predolgata-izlozhenost-na-soncze-mu-predizvika-sonchanicza-i-ochigledna-dezorientiranost/",
-          "published": "Sun, 16 Aug 2026 08:53:01 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Уапсени 18 лица припадници на меѓународната неонацистичка организација „Крв и чест“ во Пловдив",
-          "link": "https://netpress.com.mk/uapseni-18-licza-pripadniczi-na-megunarodnata-neonaczistichka-organizaczija-krv-i-chest-vo-plovdiv/",
-          "published": "Sun, 16 Aug 2026 08:40:18 +0000"
         }
       ]
     },
@@ -79,7 +79,7 @@
           "source": "BBC",
           "title": "Five killed as Russia launches fresh aerial attacks across Ukraine",
           "link": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
-          "published": "Sun, 16 Aug 2026 09:04:14 GMT"
+          "published": "Sun, 16 Aug 2026 10:09:10 GMT"
         },
         {
           "source": "BBC",
@@ -107,6 +107,18 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "The post-Hormuz era offers Africa a great opportunity",
+          "link": "https://www.aljazeera.com/opinions/2026/8/16/the-post-hormuz-era-offers-africa-a-great-opportunity?traffic_source=rss",
+          "published": "Sun, 16 Aug 2026 10:09:32 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Mohamed Salah’s Trabzonspor debut ends in draw with Kasimpasa",
+          "link": "https://www.aljazeera.com/sports/2026/8/16/mohamed-salah-trabzonspor-debut-draw-kasimpasa-turkish-super-lig?traffic_source=rss",
+          "published": "Sun, 16 Aug 2026 09:48:42 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Live video captures panic as gunman opens fire at park in Kentucky",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/live-video-captures-panic-as-gunman-opens-fire-at-park-in-kentucky?traffic_source=rss",
           "published": "Sun, 16 Aug 2026 09:24:22 +0000"
@@ -122,18 +134,6 @@
           "title": "3-year-old girl rescued 100 hours after Colombia earthquake",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/3-year-old-girl-rescued-100-hours-after-colombia-earthquake?traffic_source=rss",
           "published": "Sun, 16 Aug 2026 08:53:14 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "At least 12 people killed in Hungary bus crash",
-          "link": "https://www.aljazeera.com/news/2026/8/16/at-least-12-people-killed-in-hungary-bus-crash?traffic_source=rss",
-          "published": "Sun, 16 Aug 2026 08:50:30 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Photos: Patriotic music and flags mark Taliban rule anniversary in Kabul",
-          "link": "https://www.aljazeera.com/gallery/2026/8/16/photos-patriotic-music-and-flags-mark-taliban-rule-anniversary-in-kabul?traffic_source=rss",
-          "published": "Sun, 16 Aug 2026 08:40:34 +0000"
         }
       ]
     }
