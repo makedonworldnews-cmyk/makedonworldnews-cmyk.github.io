@@ -1,6 +1,13 @@
 {
-  "generated_at": "2026-08-16T10:53:36Z",
+  "generated_at": "2026-08-16T11:12:04Z",
   "items": [
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "(Видео) Феликс го натера и Роналдо да му се поклони",
+      "link": "https://makfax.com.mk/sport/video-feliks-go-natera-i-ronaldo-da-mu-se-pokloni/",
+      "published": "Sun, 16 Aug 2026 11:00:07 +0000"
+    },
     {
       "region": "Македонија",
       "source": "Makfax",
@@ -31,10 +38,10 @@
     },
     {
       "region": "Македонија",
-      "source": "Makfax",
-      "title": "ВМРО-ДПМНЕ му порача на Филипче да се прибере од одморот со Заев на јахта во Грција, за да не го фати сончаница",
-      "link": "https://makfax.com.mk/makedonija/vmro-dpmne-mu-poracha-na-filipche-da-se-pribere-od-odmorot-so-zaev-na-jahta-vo-grcija-za-da-ne-go-fati-sonchanica/",
-      "published": "Sun, 16 Aug 2026 09:50:56 +0000"
+      "source": "NetPress",
+      "title": "ВИДЕО| Украина изврши масовен напад со повеќе од 600 дронови врз Москва",
+      "link": "https://netpress.com.mk/rusija-ukraina-izvrshi-masoven-napad-so-poveke-od-600-dronovi-vrz-moskva/",
+      "published": "Sun, 16 Aug 2026 11:04:49 +0000"
     },
     {
       "region": "Македонија",
@@ -65,13 +72,6 @@
       "published": "Sun, 16 Aug 2026 10:24:04 +0000"
     },
     {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Благ раст на Волстрит, пад на европските берзи минатата седмица",
-      "link": "https://netpress.com.mk/blag-rast-na-volstrit-pad-na-evropskite-berzi-minatata-sedmicza/",
-      "published": "Sun, 16 Aug 2026 10:15:04 +0000"
-    },
-    {
       "region": "Свет",
       "source": "BBC",
       "title": "Five killed as Russia launches fresh aerial attacks across Ukraine",
@@ -97,7 +97,7 @@
       "source": "BBC",
       "title": "Twelve killed as Polish bus veers off Hungarian motorway",
       "link": "https://www.bbc.co.uk/news/articles/ckg4424zd7go?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 16 Aug 2026 07:04:17 GMT"
+      "published": "Sun, 16 Aug 2026 10:53:50 GMT"
     },
     {
       "region": "Свет",
@@ -105,6 +105,20 @@
       "title": "Morocco detains dozens of migrants trying to cross into Ceuta, reports say",
       "link": "https://www.bbc.co.uk/news/articles/ckg44x2ey1ro?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 15 Aug 2026 20:58:31 GMT"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Premier League: Key talking points heading into the new 2026-27 season",
+      "link": "https://www.aljazeera.com/sports/2026/8/16/premier-league-key-talking-points-heading-into-the-new-2026-27-season?traffic_source=rss",
+      "published": "Sun, 16 Aug 2026 10:33:42 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Doctor describes amputating girl’s leg in Gaza without anaesthesia",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/doctor-describes-amputating-girls-leg-in-gaza-without-anaesthesia?traffic_source=rss",
+      "published": "Sun, 16 Aug 2026 10:32:42 +0000"
     },
     {
       "region": "Свет",
@@ -126,20 +140,6 @@
       "title": "Live video captures panic as gunman opens fire at park in Kentucky",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/live-video-captures-panic-as-gunman-opens-fire-at-park-in-kentucky?traffic_source=rss",
       "published": "Sun, 16 Aug 2026 09:24:22 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Cincinnati Open: Djokovic stunned by Tirante in second round",
-      "link": "https://www.aljazeera.com/sports/2026/8/16/cincinnati-open-djokovic-stunned-by-tirante-in-second-round?traffic_source=rss",
-      "published": "Sun, 16 Aug 2026 09:03:05 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "3-year-old girl rescued 100 hours after Colombia earthquake",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/3-year-old-girl-rescued-100-hours-after-colombia-earthquake?traffic_source=rss",
-      "published": "Sun, 16 Aug 2026 08:53:14 +0000"
     }
   ]
 }
