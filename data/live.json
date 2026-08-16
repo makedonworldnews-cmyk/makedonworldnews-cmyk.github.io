@@ -1,6 +1,20 @@
 {
-  "generated_at": "2026-08-16T16:24:55Z",
+  "generated_at": "2026-08-16T16:47:37Z",
   "items": [
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "Влегол кај девојката, ѝ го скршил телефонот, па ја тепал",
+      "link": "https://makfax.com.mk/crna-hronika/vlegol-kaj-devojkata-%d1%9d-go-skrshil-telefonot-pa-ja-tepal/",
+      "published": "Sun, 16 Aug 2026 16:31:55 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "Шокантна изјава на Бен-Гвир: „Убивајте по 30 до 40 Палестинци секоја ноќ“",
+      "link": "https://makfax.com.mk/svet/shokantna-izjava-na-ben-gvir-ubivajte-po-30-do-40-palestinci-sekoja-nok/",
+      "published": "Sun, 16 Aug 2026 16:28:03 +0000"
+    },
     {
       "region": "Македонија",
       "source": "Makfax",
@@ -24,17 +38,10 @@
     },
     {
       "region": "Македонија",
-      "source": "Makfax",
-      "title": "Тешко повредени тројца српски државјани во сообраќајка кај Битола",
-      "link": "https://makfax.com.mk/crna-hronika/teshko-povredeni-trojca-srpski-drzhavjani-vo-soobrakajka-kaj-bitola/",
-      "published": "Sun, 16 Aug 2026 15:07:52 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "Makfax",
-      "title": "Ангелов: Монтажен базен поставен до пожарот кај Драгов Дол, хеликоптерот сега носи по еден тон вода на секои 3–4 минути",
-      "link": "https://makfax.com.mk/makedonija/angelov-montazhen-bazen-postaven-do-pozharot-kaj-dragov-dol-helikopterot-sega-nosi-po-eden-ton-voda-na-sekoi-3-4-minuti/",
-      "published": "Sun, 16 Aug 2026 14:52:26 +0000"
+      "source": "NetPress",
+      "title": "Арсенал го освои Комјунити Шилд",
+      "link": "https://netpress.com.mk/arsenal-go-osvoi-komjuniti-shild/",
+      "published": "Sun, 16 Aug 2026 16:30:33 +0000"
     },
     {
       "region": "Македонија",
@@ -63,13 +70,6 @@
       "title": "Се обидел со нож да ограби обложувалница – добил „лисици“",
       "link": "https://netpress.com.mk/se-obidel-so-nozh-da-ograbi-oblozhuvalnicza-dobil-lisiczi/",
       "published": "Sun, 16 Aug 2026 15:25:39 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Уапсени 10 пијани возачи, шестмина без возачка – двајца предизвикале сообраќајка",
-      "link": "https://netpress.com.mk/uapseni-10-pijani-vozachi-shestmina-bez-vozachka-dvajcza-predizvikale-soobrakajka/",
-      "published": "Sun, 16 Aug 2026 15:23:17 +0000"
     },
     {
       "region": "Свет",
@@ -109,6 +109,13 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "Arsenal cruise to 3-0 win over Manchester City in Community Shield",
+      "link": "https://www.aljazeera.com/sports/2026/8/16/arsenal-cruise-to-3-0-win-over-manchester-city-in-community-shield?traffic_source=rss",
+      "published": "Sun, 16 Aug 2026 16:17:36 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "Moroccan migrants stage sit-in as thousands remain stranded in Ceuta",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/moroccan-migrants-stage-sit-in-as-thousands-remain-stranded-in-ceuta?traffic_source=rss",
       "published": "Sun, 16 Aug 2026 15:51:26 +0000"
@@ -133,13 +140,6 @@
       "title": "‘The Mediterranean is a bridge, not a border’",
       "link": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/8/16/the-mediterranean-is-a-bridge-not-a?traffic_source=rss",
       "published": "Sun, 16 Aug 2026 14:40:38 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Ben-Gvir calls for nightly killings of Palestinians in Gaza",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/ben-gvir-calls-for-nightly-killings-of-palestinians-in-gaza?traffic_source=rss",
-      "published": "Sun, 16 Aug 2026 14:35:15 +0000"
     }
   ]
 }
