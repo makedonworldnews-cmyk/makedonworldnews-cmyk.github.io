@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T17:55:08Z",
+  "updatedAt": "2026-08-16T18:28:02Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) Туристи во танги се качуваат во потопената црква во Мавровското Езеро",
+          "link": "https://makfax.com.mk/makedonija/video-turisti-vo-tangi-se-kachuvaat-vo-potopenata-crkva-vo-mavrovskoto-ezero/",
+          "published": "Sun, 16 Aug 2026 18:04:16 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) Арсенал го освои Комјунити Шилд – Кошмарно деби на Мареска на клупата на Сити",
+          "link": "https://makfax.com.mk/sport/video-arsenal-go-osvoi-komjuniti-shild-koshmarno-debi-na-mareska-na-klupata-na-siti/",
+          "published": "Sun, 16 Aug 2026 18:03:19 +0000"
         },
         {
           "source": "Makfax",
@@ -29,16 +41,10 @@
           "published": "Sun, 16 Aug 2026 17:21:26 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Приведени четири лица за нарушување на јавен ред и мир во Кочани",
-          "link": "https://makfax.com.mk/crna-hronika/privedeni-chetiri-lica-za-narushuvanje-na-javen-red-i-mir-vo-kochani/",
-          "published": "Sun, 16 Aug 2026 17:13:14 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Влегол кај девојката, ѝ го скршил телефонот, па ја тепал",
-          "link": "https://makfax.com.mk/crna-hronika/vlegol-kaj-devojkata-%d1%9d-go-skrshil-telefonot-pa-ja-tepal/",
-          "published": "Sun, 16 Aug 2026 16:31:55 +0000"
+          "source": "NetPress",
+          "title": "Најмалку 16 загинати во меѓусебни напади меѓу Русија и Украина",
+          "link": "https://netpress.com.mk/najmalku-16-zaginati-vo-megusebni-napadi-megu-rusija-i-ukraina/",
+          "published": "Sun, 16 Aug 2026 18:11:42 +0000"
         },
         {
           "source": "NetPress",
@@ -63,12 +69,6 @@
           "title": "ВИДЕО| Со монтажен базен се олеснува хеликоптерското гаснење на пожарот кај Драгов Дол",
           "link": "https://netpress.com.mk/video-so-montazhen-bazen-se-olesnuva-helikopterskoto-gasnene-na-pozharot-kaj-dragov-dol/",
           "published": "Sun, 16 Aug 2026 16:50:33 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Арсенал го освои Комјунити Шилд",
-          "link": "https://netpress.com.mk/arsenal-go-osvoi-komjuniti-shild/",
-          "published": "Sun, 16 Aug 2026 16:30:33 +0000"
         }
       ]
     },
@@ -79,7 +79,7 @@
           "source": "BBC",
           "title": "Russia says at least seven killed in largest Ukrainian attack of 2026",
           "link": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
-          "published": "Sun, 16 Aug 2026 15:50:12 GMT"
+          "published": "Sun, 16 Aug 2026 18:04:25 GMT"
         },
         {
           "source": "BBC",
@@ -107,6 +107,24 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Former Israeli captive asks Ben-Gvir to let him execute Palestinian prisone",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/former-israeli-captive-asks-ben-gvir-to-let-him-execute-palestinian-prisone?traffic_source=rss",
+          "published": "Sun, 16 Aug 2026 17:46:21 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Israeli army besieges Palestinian homes in occupied West Bank",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/israeli-army-besieges-palestinian-homes-in-occupied-west-bank?traffic_source=rss",
+          "published": "Sun, 16 Aug 2026 17:45:52 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Why are sandwiches more regulated than AI?",
+          "link": "https://www.aljazeera.com/video/the-bottom-line/2026/8/16/why-are-sandwiches-more-regulated-than-ai?traffic_source=rss",
+          "published": "Sun, 16 Aug 2026 17:36:02 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "‘Water and salt’: Qusra residents trapped in Israeli settler siege",
           "link": "https://www.aljazeera.com/news/2026/8/16/water-and-salt-qusra-residents-trapped-in-israeli-settler-siege?traffic_source=rss",
           "published": "Sun, 16 Aug 2026 17:18:00 +0000"
@@ -116,24 +134,6 @@
           "title": "Cristiano Ronaldo hints at retirement at end of season",
           "link": "https://www.aljazeera.com/sports/2026/8/16/cristiano-ronaldo-hints-at-retirement-at-the-end-of-the-football-season?traffic_source=rss",
           "published": "Sun, 16 Aug 2026 17:03:18 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Arsenal cruise to 3-0 win over Manchester City in Community Shield",
-          "link": "https://www.aljazeera.com/sports/2026/8/16/arsenal-cruise-to-3-0-win-over-manchester-city-in-community-shield?traffic_source=rss",
-          "published": "Sun, 16 Aug 2026 16:17:36 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Moroccan migrants stage sit-in as thousands remain stranded in Ceuta",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/moroccan-migrants-stage-sit-in-as-thousands-remain-stranded-in-ceuta?traffic_source=rss",
-          "published": "Sun, 16 Aug 2026 15:51:26 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Largest Ukrainian drone attack on Russia, Moscow says 822 drones shot down",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/16-08-sv-ukraine-largest-drone-attack-russia-ua?traffic_source=rss",
-          "published": "Sun, 16 Aug 2026 15:35:53 +0000"
         }
       ]
     }
