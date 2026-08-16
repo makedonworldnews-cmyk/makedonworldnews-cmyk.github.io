@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T21:21:39Z",
+  "generated_at": "2026-08-16T21:41:01Z",
   "items": [
     {
       "region": "Македонија",
@@ -74,6 +74,13 @@
     {
       "region": "Свет",
       "source": "BBC",
+      "title": "Trump says US will scale back military drills with South Korea",
+      "link": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 16 Aug 2026 21:27:42 GMT"
+    },
+    {
+      "region": "Свет",
+      "source": "BBC",
       "title": "Trump envoy Kushner meets Hamas leader to push Gaza peace plan",
       "link": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 16 Aug 2026 19:58:14 GMT"
@@ -95,16 +102,23 @@
     {
       "region": "Свет",
       "source": "BBC",
-      "title": "Teen suspect in Virginia campus shooting found hiding in closet",
-      "link": "https://www.bbc.co.uk/news/articles/c0l5583903yo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 16 Aug 2026 19:00:23 GMT"
+      "title": "Four 'extraordinary' Renaissance paintings stolen from Italian museum",
+      "link": "https://www.bbc.co.uk/news/articles/cqjxx2gzd9qo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 16 Aug 2026 13:34:38 GMT"
     },
     {
       "region": "Свет",
-      "source": "BBC",
-      "title": "One dead, homes swept away after Hurricane Lala lashes Hawaii",
-      "link": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 16 Aug 2026 18:46:12 GMT"
+      "source": "Al Jazeera",
+      "title": "Anwar Ibrahim: Malaysia between the superpowers",
+      "link": "https://www.aljazeera.com/video/the-india-report/2026/8/16/anwar-ibrahim-malaysia-between-the-superpowers?traffic_source=rss",
+      "published": "Sun, 16 Aug 2026 21:23:03 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Death toll rises to 84 from capsized ferry in Zimbabwe",
+      "link": "https://www.aljazeera.com/news/2026/8/16/death-toll-rises-to-84-from-capsized-ferry-in-zimbabwe?traffic_source=rss",
+      "published": "Sun, 16 Aug 2026 21:03:53 +0000"
     },
     {
       "region": "Свет",
@@ -126,20 +140,6 @@
       "title": "US admiral praises USS Lincoln crew amid reported mental health concerns",
       "link": "https://www.aljazeera.com/news/2026/8/16/us-admiral-praises-uss-lincoln-crew-amid-reported-mental-health-concerns?traffic_source=rss",
       "published": "Sun, 16 Aug 2026 20:46:01 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Brazil: Lula, Bolsonaro return to strongholds to launch runs for president",
-      "link": "https://www.aljazeera.com/news/2026/8/16/brazil-lula-bolsonaro-return-to-strongholds-to-launch-runs-for-president?traffic_source=rss",
-      "published": "Sun, 16 Aug 2026 20:36:32 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "US-Iran MoU is set to expire: What to know",
-      "link": "https://www.aljazeera.com/news/2026/8/16/us-iran-mou-is-set-to-expire-what-to-know?traffic_source=rss",
-      "published": "Sun, 16 Aug 2026 20:28:21 +0000"
     }
   ]
 }
