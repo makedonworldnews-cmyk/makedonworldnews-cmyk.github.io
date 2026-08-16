@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T22:21:36Z",
+  "updatedAt": "2026-08-16T22:46:31Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Се договорија Сити и Барселона, Родри се сели на „Ноу Камп“",
+          "link": "https://makfax.com.mk/sport/se-dogovorija-siti-i-barselona-rodri-se-seli-na-nou-kamp/",
+          "published": "Sun, 16 Aug 2026 22:31:26 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) Сензација во Франција, Ленс го освои Суперкупот",
+          "link": "https://makfax.com.mk/sport/video-senzacija-vo-francija-lens-go-osvoi-superkupot/",
+          "published": "Sun, 16 Aug 2026 22:25:02 +0000"
         },
         {
           "source": "Makfax",
@@ -27,18 +39,6 @@
           "title": "(Видео) Туристи во танги се качуваат во потопената црква во Мавровското Езеро",
           "link": "https://makfax.com.mk/makedonija/video-turisti-vo-tangi-se-kachuvaat-vo-potopenata-crkva-vo-mavrovskoto-ezero/",
           "published": "Sun, 16 Aug 2026 18:04:16 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "(Видео) Арсенал го освои Комјунити Шилд – Кошмарно деби на Мареска на клупата на Сити",
-          "link": "https://makfax.com.mk/sport/video-arsenal-go-osvoi-komjuniti-shild-koshmarno-debi-na-mareska-na-klupata-na-siti/",
-          "published": "Sun, 16 Aug 2026 18:03:19 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Видео од марихуаната која беше запленета од меѓународната криминална група",
-          "link": "https://makfax.com.mk/makedonija/video-od-marihuanata-koja-beshe-zapleneta-od-megunarodnata-kriminalna-grupa/",
-          "published": "Sun, 16 Aug 2026 17:38:40 +0000"
         },
         {
           "source": "NetPress",
@@ -79,7 +79,7 @@
           "source": "BBC",
           "title": "Trump says US to scale back military drills with South Korea after it stayed out of Iran war",
           "link": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
-          "published": "Sun, 16 Aug 2026 21:57:13 GMT"
+          "published": "Sun, 16 Aug 2026 22:41:34 GMT"
         },
         {
           "source": "BBC",
