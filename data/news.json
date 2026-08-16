@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T16:51:02Z",
+  "updatedAt": "2026-08-16T17:18:58Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Приведени четири лица за нарушување на јавен ред и мир во Кочани",
+          "link": "https://makfax.com.mk/crna-hronika/privedeni-chetiri-lica-za-narushuvanje-na-javen-red-i-mir-vo-kochani/",
+          "published": "Sun, 16 Aug 2026 17:13:14 +0000"
         },
         {
           "source": "Makfax",
@@ -35,10 +41,22 @@
           "published": "Sun, 16 Aug 2026 15:17:29 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Над 700 камиони со хуманитарна помош влегоа во Авганистан",
-          "link": "https://makfax.com.mk/svet/nad-700-kamioni-so-humanitarna-pomosh-vlegoa-vo-avganistan/",
-          "published": "Sun, 16 Aug 2026 15:14:30 +0000"
+          "source": "NetPress",
+          "title": "Активни пет пожари, три под контрола",
+          "link": "https://netpress.com.mk/aktivni-pet-pozhari-tri-pod-kontrola/",
+          "published": "Sun, 16 Aug 2026 17:09:25 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Два заталкани куршума во Драчево и Студеничани",
+          "link": "https://netpress.com.mk/dva-zatalkani-kurshuma-vo-drachevo-i-studenichani/",
+          "published": "Sun, 16 Aug 2026 16:58:54 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Се појави нова фотографија од Брус Вилис кој страда од деменција",
+          "link": "https://netpress.com.mk/se-pojavi-nova-fotografija-od-brus-vilis-koj-strada-od-demenczija/",
+          "published": "Sun, 16 Aug 2026 16:53:27 +0000"
         },
         {
           "source": "NetPress",
@@ -51,24 +69,6 @@
           "title": "Арсенал го освои Комјунити Шилд",
           "link": "https://netpress.com.mk/arsenal-go-osvoi-komjuniti-shild/",
           "published": "Sun, 16 Aug 2026 16:30:33 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Автомобил возел во спротивниот правец на автопат во Ирска – четиримина тешко повредени, има и загинати",
-          "link": "https://netpress.com.mk/chetirimina-teshko-povredeni-ima-i-zaginati-vo-irska-avtomobil-vozel-vo-sprotiven-pravecz-na-avtopat/",
-          "published": "Sun, 16 Aug 2026 16:09:22 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "ВИДЕО| Двајца загинати во голем пожар на грчкиот остров Саламина",
-          "link": "https://netpress.com.mk/video-dvajcza-zaginati-vo-golem-pozhar-na-grchkiot-ostrov-salamina/",
-          "published": "Sun, 16 Aug 2026 15:45:09 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Тепачка на семејна веселба – петмина се уапсени",
-          "link": "https://netpress.com.mk/tepachka-na-semejna-veselba-petmina-se-uapseni/",
-          "published": "Sun, 16 Aug 2026 15:29:06 +0000"
         }
       ]
     },
