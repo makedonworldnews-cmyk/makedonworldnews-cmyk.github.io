@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T01:17:59Z",
+  "updatedAt": "2026-08-16T02:35:40Z",
   "groups": [
     {
       "region": "Македонија",
@@ -107,6 +107,12 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "As petrol prices soar, electric bikes gain ground in Nigeria",
+          "link": "https://www.aljazeera.com/news/2026/8/16/as-petrol-prices-soar-electric-bikes-gain-ground-in-nigeria?traffic_source=rss",
+          "published": "Sun, 16 Aug 2026 01:43:57 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Army drops roses on Syrian crowds in a far cry from war",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/08-16-26-damascus-summer-festival-sv?traffic_source=rss",
           "published": "Sun, 16 Aug 2026 00:50:12 +0000"
@@ -128,12 +134,6 @@
           "title": "Yemen’s government says Houthi strikes hit residential areas in Marib",
           "link": "https://www.aljazeera.com/news/2026/8/15/yemens-government-says-houthi-strikes-hit-residential-areas-in-marib?traffic_source=rss",
           "published": "Sat, 15 Aug 2026 23:27:10 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "At least five reported dead amid flooding in US state of Indiana",
-          "link": "https://www.aljazeera.com/news/2026/8/15/at-least-five-reported-dead-amid-flooding-in-us-state-of-indiana?traffic_source=rss",
-          "published": "Sat, 15 Aug 2026 23:19:34 +0000"
         }
       ]
     }
