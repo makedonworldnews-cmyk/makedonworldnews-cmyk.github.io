@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T06:39:07Z",
+  "updatedAt": "2026-08-16T07:17:46Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,24 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Надежите за преживеани по земјотресот во Колумбија згаснуваат, се извлекуваат тела од под урнатините",
+          "link": "https://makfax.com.mk/svet/nadezhite-za-prezhiveani-po-zemjotresot-vo-kolumbija-zgasnuvaat-se-izvlekuvaat-tela-od-pod-urnatinite/",
+          "published": "Sun, 16 Aug 2026 07:14:24 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Две жени загинаа во поплави и одрон во Шпанија, настрадаа и бебиња",
+          "link": "https://makfax.com.mk/svet/dve-zheni-zaginaa-vo-poplavi-i-odron-vo-shpanija-nastradaa-i-bebinja/",
+          "published": "Sun, 16 Aug 2026 07:08:56 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "На Богородица се чека околу еден час, на Табановце 30 минути",
+          "link": "https://makfax.com.mk/makedonija/na-bogorodica-se-cheka-okolu-eden-chas-na-tabanovce-30-minuti/",
+          "published": "Sun, 16 Aug 2026 06:47:51 +0000"
         },
         {
           "source": "Makfax",
@@ -23,22 +41,10 @@
           "published": "Sun, 16 Aug 2026 06:04:39 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Сончево време со мала до умерена локална облачност",
-          "link": "https://makfax.com.mk/makedonija/sonchevo-vreme-so-mala-do-umerena-lokalna-oblachnost/",
-          "published": "Sun, 16 Aug 2026 06:00:42 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "(Видео) Ѓоковиќ се мачеше и испадна од мастерсот во Синсинати",
-          "link": "https://makfax.com.mk/sport/video-gokovik-se-macheshe-i-ispadna-od-mastersot-vo-sinsinati/",
-          "published": "Sat, 15 Aug 2026 21:36:39 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Автобус со 84 српски туристи излетал од патот во Бугарија: Нема повредени",
-          "link": "https://makfax.com.mk/svet/avtobus-so-84-srpski-turisti-izletal-od-patot-vo-bugarija-nema-povredeni/",
-          "published": "Sat, 15 Aug 2026 20:19:23 +0000"
+          "source": "NetPress",
+          "title": "Почина легендарниот американски режисер Марк Рајдел",
+          "link": "https://netpress.com.mk/pochina-legendarniot-amerikanski-rezhiser-mark-rajdel/",
+          "published": "Sun, 16 Aug 2026 06:47:16 +0000"
         },
         {
           "source": "NetPress",
@@ -63,12 +69,6 @@
           "title": "Ла Лига започна со победа на Алавес, Севиља преку пенали дојде до пресврт и победа",
           "link": "https://netpress.com.mk/la-liga-zapochna-so-pobeda-na-alaves-sevila-preku-penali-dojde-do-presvrt-i-pobeda/",
           "published": "Sun, 16 Aug 2026 05:27:18 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Дневен хороскоп за недела, 16-ти август 2026-та",
-          "link": "https://netpress.com.mk/dneven-horoskop-za-nedela-16-ti-avgust-2026-ta/",
-          "published": "Sun, 16 Aug 2026 05:07:10 +0000"
         }
       ]
     },
@@ -83,15 +83,21 @@
         },
         {
           "source": "BBC",
-          "title": "Morocco detains dozens of migrants trying to cross into Ceuta, reports say",
-          "link": "https://www.bbc.co.uk/news/articles/ckg44x2ey1ro?at_medium=RSS&at_campaign=rss",
-          "published": "Sat, 15 Aug 2026 20:58:31 GMT"
+          "title": "Hawaii battles strong winds and rain as Hurricane Lala threat looms",
+          "link": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 16 Aug 2026 06:53:22 GMT"
         },
         {
           "source": "BBC",
-          "title": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
-          "link": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
-          "published": "Sat, 15 Aug 2026 20:21:14 GMT"
+          "title": "Twelve killed as Polish bus veers off Hungarian motorway",
+          "link": "https://www.bbc.co.uk/news/articles/ckg4424zd7go?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 16 Aug 2026 07:04:17 GMT"
+        },
+        {
+          "source": "BBC",
+          "title": "Morocco detains dozens of migrants trying to cross into Ceuta, reports say",
+          "link": "https://www.bbc.co.uk/news/articles/ckg44x2ey1ro?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 15 Aug 2026 20:58:31 GMT"
         },
         {
           "source": "BBC",
@@ -100,10 +106,16 @@
           "published": "Sat, 15 Aug 2026 19:41:57 GMT"
         },
         {
-          "source": "BBC",
-          "title": "Qatar denies capturing three Iranian pilots after downing fighter jets",
-          "link": "https://www.bbc.co.uk/news/articles/cj4kk8kz271o?at_medium=RSS&at_campaign=rss",
-          "published": "Sat, 15 Aug 2026 21:03:57 GMT"
+          "source": "Al Jazeera",
+          "title": "UFC 330: Makhachev secures record-setting win against Machado Garry",
+          "link": "https://www.aljazeera.com/sports/2026/8/16/ufc-330-makhachev-secures-record-setting-win-against-machado-garry?traffic_source=rss",
+          "published": "Sun, 16 Aug 2026 07:04:29 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Bangladesh make history with first-ever Test cricket win in Australia",
+          "link": "https://www.aljazeera.com/sports/2026/8/16/bangladesh-australia-first-test-win-miraz-mahmud-hasan-smith-green-hazlewood?traffic_source=rss",
+          "published": "Sun, 16 Aug 2026 06:40:50 +0000"
         },
         {
           "source": "Al Jazeera",
@@ -122,18 +134,6 @@
           "title": "Indonesia’s magnitude 7.7 quake kills at least 51, displaces thousands",
           "link": "https://www.aljazeera.com/news/2026/8/16/indonesias-magnitude-7-7-quake-kills-at-least-51-displaces-thousands?traffic_source=rss",
           "published": "Sun, 16 Aug 2026 05:14:00 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Russian strikes kill Ukrainian woman as NATO jet downs drone over Romania",
-          "link": "https://www.aljazeera.com/news/2026/8/16/russian-strikes-kill-ukrainian-woman-as-nato-jet-downs-drone-over-romania?traffic_source=rss",
-          "published": "Sun, 16 Aug 2026 04:54:33 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Israel strikes south Lebanon again as families flee north",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/israel-strikes-south-lebanon-again-as-families-flee-north?traffic_source=rss",
-          "published": "Sun, 16 Aug 2026 04:43:21 +0000"
         }
       ]
     }
