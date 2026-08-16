@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T09:45:52Z",
+  "updatedAt": "2026-08-16T10:02:11Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "ЕВН не смее да биде над законите: Левица бара одговорност за пожарите предизвикани од електричната мрежа",
+          "link": "https://makfax.com.mk/makedonija/evn-ne-smee-da-bide-nad-zakonite-levica-bara-odgovornost-za-pozharite-predizvikani-od-elektrichnata-mrezha/",
+          "published": "Sun, 16 Aug 2026 09:57:12 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "ВМРО-ДПМНЕ му порача на Филипче да се прибере од одморот со Заев на јахта во Грција, за да не го фати сончаница",
+          "link": "https://makfax.com.mk/makedonija/vmro-dpmne-mu-poracha-na-filipche-da-se-pribere-od-odmorot-so-zaev-na-jahta-vo-grcija-za-da-ne-go-fati-sonchanica/",
+          "published": "Sun, 16 Aug 2026 09:50:56 +0000"
         },
         {
           "source": "Makfax",
@@ -27,18 +39,6 @@
           "title": "СДСМ: Мицкоски се се претставува како експерт за економија, туризам, авиосообраќај, технологија, образование и информатичка технологија",
           "link": "https://makfax.com.mk/makedonija/sdsm-mickoski-se-se-pretstavuva-kako-ekspert-za-ekonomija-turizam-aviosoobrakaj-tehnologija-obrazovanie-i-informatichka-tehnologija/",
           "published": "Sun, 16 Aug 2026 07:49:50 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Западнонилската треска се шири и во Србија, регистрирани се првите три случаи",
-          "link": "https://makfax.com.mk/svet/zapadnonilskata-treska-se-shiri-i-vo-srbija-registrirani-se-prvite-tri-sluchai/",
-          "published": "Sun, 16 Aug 2026 07:44:40 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Србија се бори со пожари",
-          "link": "https://makfax.com.mk/svet/srbija-se-bori-so-pozhari/",
-          "published": "Sun, 16 Aug 2026 07:39:33 +0000"
         },
         {
           "source": "NetPress",
