@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T21:39:12Z",
+  "updatedAt": "2026-08-16T21:55:41Z",
   "groups": [
     {
       "region": "Македонија",
@@ -107,6 +107,12 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Anwar Ibrahim: Malaysia between the superpowers",
+          "link": "https://www.aljazeera.com/video/the-india-report/2026/8/16/anwar-ibrahim-malaysia-between-the-superpowers?traffic_source=rss",
+          "published": "Sun, 16 Aug 2026 21:23:03 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Death toll rises to 84 from capsized ferry in Zimbabwe",
           "link": "https://www.aljazeera.com/news/2026/8/16/death-toll-rises-to-84-from-capsized-ferry-in-zimbabwe?traffic_source=rss",
           "published": "Sun, 16 Aug 2026 21:03:53 +0000"
@@ -128,12 +134,6 @@
           "title": "US admiral praises USS Lincoln crew amid reported mental health concerns",
           "link": "https://www.aljazeera.com/news/2026/8/16/us-admiral-praises-uss-lincoln-crew-amid-reported-mental-health-concerns?traffic_source=rss",
           "published": "Sun, 16 Aug 2026 20:46:01 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Brazil: Lula, Bolsonaro return to strongholds to launch runs for president",
-          "link": "https://www.aljazeera.com/news/2026/8/16/brazil-lula-bolsonaro-return-to-strongholds-to-launch-runs-for-president?traffic_source=rss",
-          "published": "Sun, 16 Aug 2026 20:36:32 +0000"
         }
       ]
     }
