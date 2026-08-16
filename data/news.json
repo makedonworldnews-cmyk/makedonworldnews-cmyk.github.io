@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T05:55:09Z",
+  "updatedAt": "2026-08-16T06:39:07Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,24 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Шест пожари и натаму горат низ Македонија, 22 се изгаснати во текот на ноќта",
+          "link": "https://makfax.com.mk/makedonija/shest-pozhari-i-natamu-gorat-niz-makedonija-22-se-izgasnati-vo-tekot-na-nokta/",
+          "published": "Sun, 16 Aug 2026 06:08:06 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Нов случај на западнонилска треска во Арачиново",
+          "link": "https://makfax.com.mk/makedonija/nov-sluchaj-na-zapadnonilska-treska-vo-arachinovo/",
+          "published": "Sun, 16 Aug 2026 06:04:39 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Сончево време со мала до умерена локална облачност",
+          "link": "https://makfax.com.mk/makedonija/sonchevo-vreme-so-mala-do-umerena-lokalna-oblachnost/",
+          "published": "Sun, 16 Aug 2026 06:00:42 +0000"
         },
         {
           "source": "Makfax",
@@ -23,22 +41,16 @@
           "published": "Sat, 15 Aug 2026 20:19:23 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Скопјани од Карпош се скарале за куче, па се испотепале",
-          "link": "https://makfax.com.mk/crna-hronika/skopjani-od-karposh-se-skarale-za-kuche-pa-se-ispotepale/",
-          "published": "Sat, 15 Aug 2026 18:42:47 +0000"
+          "source": "NetPress",
+          "title": "Глобалните трошоци за деловни патувања растат на 1,7 трилиони долари во 2026-та",
+          "link": "https://netpress.com.mk/globalnite-troshoczi-za-delovni-patuvana-rastat-na-17-trilioni-dolari-vo-2026-ta/",
+          "published": "Sun, 16 Aug 2026 06:27:51 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Најмалку 47 загинати во силниот земјотрес што ја погоди источна Индонезија",
-          "link": "https://makfax.com.mk/svet/najmalku-47-zaginati-vo-silniot-zemjotres-shto-ja-pogodi-istochna-indonezija/",
-          "published": "Sat, 15 Aug 2026 18:39:35 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "(Видео) Ангелов: Внимавајте да не предизвикате пожар, доволна е искра за вистинска катастрофа",
-          "link": "https://makfax.com.mk/makedonija/video-angelov-vnimavajte-da-ne-predizvikate-pozhar-dovolna-e-iskra-za-vistinska-katastrofa/",
-          "published": "Sat, 15 Aug 2026 18:10:45 +0000"
+          "source": "NetPress",
+          "title": "САД ќе бараат од партнерите да изберат страна во трката за вештачка интелигенција со Кина",
+          "link": "https://netpress.com.mk/sad-ke-baraat-od-partnerite-da-izberat-strana-vo-trkata-za-veshtachka-inteligenczija-so-kina/",
+          "published": "Sun, 16 Aug 2026 06:07:39 +0000"
         },
         {
           "source": "NetPress",
@@ -57,18 +69,6 @@
           "title": "Дневен хороскоп за недела, 16-ти август 2026-та",
           "link": "https://netpress.com.mk/dneven-horoskop-za-nedela-16-ti-avgust-2026-ta/",
           "published": "Sun, 16 Aug 2026 05:07:10 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Сончево со умерена облачност и температури до 36 степени",
-          "link": "https://netpress.com.mk/sonchevo-so-umerena-oblachnost-i-temperaturi-do-36-stepeni/",
-          "published": "Sun, 16 Aug 2026 04:46:16 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "АТП Синсинати: Аргентинецот Тиранте го победи Ѓоковиќ",
-          "link": "https://netpress.com.mk/atp-sinsinati-argentineczot-tirante-go-pobedi-gokovik/",
-          "published": "Sat, 15 Aug 2026 21:40:53 +0000"
         }
       ]
     },
@@ -107,6 +107,18 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "How a simple lighter has become the backbone of life in Gaza",
+          "link": "https://www.aljazeera.com/economy/2026/8/16/struggle-for-a-spark-gaza-lighter-crisis-makes-cooking-an-expensive-chore?traffic_source=rss",
+          "published": "Sun, 16 Aug 2026 06:10:58 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "A nation divided: What do Israelis want in October’s elections?",
+          "link": "https://www.aljazeera.com/news/2026/8/16/a-nation-divided-what-do-israelis-want-in-octobers-elections?traffic_source=rss",
+          "published": "Sun, 16 Aug 2026 06:06:31 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Indonesia’s magnitude 7.7 quake kills at least 51, displaces thousands",
           "link": "https://www.aljazeera.com/news/2026/8/16/indonesias-magnitude-7-7-quake-kills-at-least-51-displaces-thousands?traffic_source=rss",
           "published": "Sun, 16 Aug 2026 05:14:00 +0000"
@@ -122,18 +134,6 @@
           "title": "Israel strikes south Lebanon again as families flee north",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/israel-strikes-south-lebanon-again-as-families-flee-north?traffic_source=rss",
           "published": "Sun, 16 Aug 2026 04:43:21 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Australia gun buyback spurred by Bondi attack to start in November, PM says",
-          "link": "https://www.aljazeera.com/news/2026/8/16/australia-gun-buyback-spurred-by-bondi-attack-to-start-in-november-pm-says?traffic_source=rss",
-          "published": "Sun, 16 Aug 2026 04:35:26 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Yemeni government forces hit back after new Houthi offensive",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/08-16-2026-houthis-yemen-sv?traffic_source=rss",
-          "published": "Sun, 16 Aug 2026 04:09:01 +0000"
         }
       ]
     }
