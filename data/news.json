@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T17:39:15Z",
+  "updatedAt": "2026-08-16T17:55:08Z",
   "groups": [
     {
       "region": "Македонија",
@@ -103,11 +103,17 @@
           "source": "BBC",
           "title": "Two dead and hundreds evacuated as twin fires break out on Greek island",
           "link": "https://www.bbc.co.uk/news/articles/c87nnwlpe5no?at_medium=RSS&at_campaign=rss",
-          "published": "Sun, 16 Aug 2026 17:18:56 GMT"
+          "published": "Sun, 16 Aug 2026 17:44:23 GMT"
         },
         {
           "source": "Al Jazeera",
-          "title": "Cristiano Ronaldo hints at retirement at the end of the football season",
+          "title": "‘Water and salt’: Qusra residents trapped in Israeli settler siege",
+          "link": "https://www.aljazeera.com/news/2026/8/16/water-and-salt-qusra-residents-trapped-in-israeli-settler-siege?traffic_source=rss",
+          "published": "Sun, 16 Aug 2026 17:18:00 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Cristiano Ronaldo hints at retirement at end of season",
           "link": "https://www.aljazeera.com/sports/2026/8/16/cristiano-ronaldo-hints-at-retirement-at-the-end-of-the-football-season?traffic_source=rss",
           "published": "Sun, 16 Aug 2026 17:03:18 +0000"
         },
@@ -128,12 +134,6 @@
           "title": "Largest Ukrainian drone attack on Russia, Moscow says 822 drones shot down",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/16-08-sv-ukraine-largest-drone-attack-russia-ua?traffic_source=rss",
           "published": "Sun, 16 Aug 2026 15:35:53 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Hurricane Lala weakens to a tropical storm, but flooding persists in Hawaii",
-          "link": "https://www.aljazeera.com/news/2026/8/16/hurricane-lala-weakens-to-a-tropical-storm-but-flooding-persists-in-hawaii?traffic_source=rss",
-          "published": "Sun, 16 Aug 2026 14:55:51 +0000"
         }
       ]
     }
