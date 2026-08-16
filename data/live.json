@@ -1,6 +1,13 @@
 {
-  "generated_at": "2026-08-16T17:29:09Z",
+  "generated_at": "2026-08-16T17:46:01Z",
   "items": [
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "Видео од марихуаната која беше запленета од меѓународната криминална група",
+      "link": "https://makfax.com.mk/makedonija/video-od-marihuanata-koja-beshe-zapleneta-od-megunarodnata-kriminalna-grupa/",
+      "published": "Sun, 16 Aug 2026 17:38:40 +0000"
+    },
     {
       "region": "Македонија",
       "source": "Makfax",
@@ -28,13 +35,6 @@
       "title": "Влегол кај девојката, ѝ го скршил телефонот, па ја тепал",
       "link": "https://makfax.com.mk/crna-hronika/vlegol-kaj-devojkata-%d1%9d-go-skrshil-telefonot-pa-ja-tepal/",
       "published": "Sun, 16 Aug 2026 16:31:55 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "Makfax",
-      "title": "Шокантна изјава на Бен-Гвир: „Убивајте по 30 до 40 Палестинци секоја ноќ“",
-      "link": "https://makfax.com.mk/svet/shokantna-izjava-na-ben-gvir-ubivajte-po-30-do-40-palestinci-sekoja-nok/",
-      "published": "Sun, 16 Aug 2026 16:28:03 +0000"
     },
     {
       "region": "Македонија",
@@ -104,7 +104,21 @@
       "source": "BBC",
       "title": "Two dead and hundreds evacuated as twin fires break out on Greek island",
       "link": "https://www.bbc.co.uk/news/articles/c87nnwlpe5no?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 16 Aug 2026 17:18:56 GMT"
+      "published": "Sun, 16 Aug 2026 17:44:23 GMT"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "‘Water and salt’: Qusra residents trapped in Israeli settler siege",
+      "link": "https://www.aljazeera.com/news/2026/8/16/water-and-salt-qusra-residents-trapped-in-israeli-settler-siege?traffic_source=rss",
+      "published": "Sun, 16 Aug 2026 17:18:00 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Cristiano Ronaldo hints at retirement at end of season",
+      "link": "https://www.aljazeera.com/sports/2026/8/16/cristiano-ronaldo-hints-at-retirement-at-the-end-of-the-football-season?traffic_source=rss",
+      "published": "Sun, 16 Aug 2026 17:03:18 +0000"
     },
     {
       "region": "Свет",
@@ -126,20 +140,6 @@
       "title": "Largest Ukrainian drone attack on Russia, Moscow says 822 drones shot down",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/16-08-sv-ukraine-largest-drone-attack-russia-ua?traffic_source=rss",
       "published": "Sun, 16 Aug 2026 15:35:53 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Hurricane Lala weakens to a tropical storm, but flooding persists in Hawaii",
-      "link": "https://www.aljazeera.com/news/2026/8/16/hurricane-lala-weakens-to-a-tropical-storm-but-flooding-persists-in-hawaii?traffic_source=rss",
-      "published": "Sun, 16 Aug 2026 14:55:51 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "‘The Mediterranean is a bridge, not a border’",
-      "link": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/8/16/the-mediterranean-is-a-bridge-not-a?traffic_source=rss",
-      "published": "Sun, 16 Aug 2026 14:40:38 +0000"
     }
   ]
 }
