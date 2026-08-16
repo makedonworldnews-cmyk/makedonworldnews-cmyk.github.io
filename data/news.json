@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T08:11:52Z",
+  "updatedAt": "2026-08-16T09:13:22Z",
   "groups": [
     {
       "region": "Македонија",
@@ -42,33 +42,33 @@
         },
         {
           "source": "NetPress",
+          "title": "Редно е Филипче да се прибере од одморот со Заев на јахта во Грција, предолгата изложеност на сонце му предизвика сончаница и очигледна дезориентираност",
+          "link": "https://netpress.com.mk/redno-e-filipche-da-se-pribere-od-odmorot-so-zaev-na-jahta-vo-grczija-predolgata-izlozhenost-na-soncze-mu-predizvika-sonchanicza-i-ochigledna-dezorientiranost/",
+          "published": "Sun, 16 Aug 2026 08:53:01 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Уапсени 18 лица припадници на меѓународната неонацистичка организација „Крв и чест“ во Пловдив",
+          "link": "https://netpress.com.mk/uapseni-18-licza-pripadniczi-na-megunarodnata-neonaczistichka-organizaczija-krv-i-chest-vo-plovdiv/",
+          "published": "Sun, 16 Aug 2026 08:40:18 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Ги славиме преподобните Исакиј, Далмат и Фауст",
+          "link": "https://netpress.com.mk/gi-slavime-prepodobnite-isakij-dalmat-i-faust/",
+          "published": "Sun, 16 Aug 2026 08:33:32 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Дванаесет лица загинаа, а најмалку 10 се повредени во сообраќајка на полски автобус во Унгарија",
+          "link": "https://netpress.com.mk/dvanaeset-licza-zaginaa-a-najmalku-10-se-povredeni-vo-soobrakajka-na-polski-avtobus-vo-ungarija/",
+          "published": "Sun, 16 Aug 2026 08:22:33 +0000"
+        },
+        {
+          "source": "NetPress",
           "title": "Бројот на загинатите во превртувањето на траект во Зимбабве достигна 72, меѓу нив 18 деца",
           "link": "https://netpress.com.mk/brojot-na-zaginatite-vo-prevrtuvaneto-na-traekt-vo-zimbabve-dostigna-72-megu-niv-18-decza/",
           "published": "Sun, 16 Aug 2026 08:11:37 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Почина легендарниот американски режисер Марк Рајдел",
-          "link": "https://netpress.com.mk/pochina-legendarniot-amerikanski-rezhiser-mark-rajdel/",
-          "published": "Sun, 16 Aug 2026 06:47:16 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Глобалните трошоци за деловни патувања растат на 1,7 трилиони долари во 2026-та",
-          "link": "https://netpress.com.mk/globalnite-troshoczi-za-delovni-patuvana-rastat-na-17-trilioni-dolari-vo-2026-ta/",
-          "published": "Sun, 16 Aug 2026 06:27:51 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "САД ќе бараат од партнерите да изберат страна во трката за вештачка интелигенција со Кина",
-          "link": "https://netpress.com.mk/sad-ke-baraat-od-partnerite-da-izberat-strana-vo-trkata-za-veshtachka-inteligenczija-so-kina/",
-          "published": "Sun, 16 Aug 2026 06:07:39 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Русија бара одговор од САД и Турција за плановите за вооружување на Украина",
-          "link": "https://netpress.com.mk/rusija-bara-odgovor-od-sad-i-turczija-za-planovite-za-vooruzhuvane-na-ukraina/",
-          "published": "Sun, 16 Aug 2026 05:47:22 +0000"
         }
       ]
     },
@@ -77,15 +77,21 @@
       "items": [
         {
           "source": "BBC",
-          "title": "Rescuers search for survivors of powerful Indonesia earthquake",
+          "title": "Five killed as Russia launches fresh aerial attacks across Ukraine",
+          "link": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 16 Aug 2026 09:04:14 GMT"
+        },
+        {
+          "source": "BBC",
+          "title": "Thousands displaced by deadly Indonesia earthquake as rescue efforts continue",
           "link": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
-          "published": "Sun, 16 Aug 2026 04:13:32 GMT"
+          "published": "Sun, 16 Aug 2026 08:23:38 GMT"
         },
         {
           "source": "BBC",
           "title": "Hurricane Lala lashes Hawaii with strong winds and torrential rain",
           "link": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
-          "published": "Sun, 16 Aug 2026 07:58:02 GMT"
+          "published": "Sun, 16 Aug 2026 08:49:32 GMT"
         },
         {
           "source": "BBC",
@@ -100,40 +106,34 @@
           "published": "Sat, 15 Aug 2026 20:58:31 GMT"
         },
         {
-          "source": "BBC",
-          "title": "Liechtenstein changes succession rule to allow women to ascend the throne",
-          "link": "https://www.bbc.co.uk/news/articles/cn9nnxrxg4qo?at_medium=RSS&at_campaign=rss",
-          "published": "Sat, 15 Aug 2026 19:41:57 GMT"
+          "source": "Al Jazeera",
+          "title": "Cincinnati Open: Djokovic stunned by Tirante in second round",
+          "link": "https://www.aljazeera.com/sports/2026/8/16/cincinnati-open-djokovic-stunned-by-tirante-in-second-round?traffic_source=rss",
+          "published": "Sun, 16 Aug 2026 09:03:05 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Lionel Messi misses penalty as Nashville thrash Inter Miami in MLS",
-          "link": "https://www.aljazeera.com/sports/2026/8/16/lionel-messi-misses-penalty-as-nashville-thrash-inter-miami-in-mls?traffic_source=rss",
-          "published": "Sun, 16 Aug 2026 07:47:45 +0000"
+          "title": "3-year-old girl rescued 100 hours after Colombia earthquake",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/3-year-old-girl-rescued-100-hours-after-colombia-earthquake?traffic_source=rss",
+          "published": "Sun, 16 Aug 2026 08:53:14 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "New satellite images show Europe’s disappearing rivers due to drought",
-          "link": "https://www.aljazeera.com/news/2026/8/16/new-satellite-images-show-europes-disappearing-rivers-due-to-drought?traffic_source=rss",
-          "published": "Sun, 16 Aug 2026 07:46:22 +0000"
+          "title": "At least 12 people killed in Hungary bus crash",
+          "link": "https://www.aljazeera.com/news/2026/8/16/at-least-12-people-killed-in-hungary-bus-crash?traffic_source=rss",
+          "published": "Sun, 16 Aug 2026 08:50:30 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "UFC 330: Makhachev secures record-setting win against Machado Garry",
-          "link": "https://www.aljazeera.com/sports/2026/8/16/ufc-330-makhachev-secures-record-setting-win-against-machado-garry?traffic_source=rss",
-          "published": "Sun, 16 Aug 2026 07:04:29 +0000"
+          "title": "Photos: Patriotic music and flags mark Taliban rule anniversary in Kabul",
+          "link": "https://www.aljazeera.com/gallery/2026/8/16/photos-patriotic-music-and-flags-mark-taliban-rule-anniversary-in-kabul?traffic_source=rss",
+          "published": "Sun, 16 Aug 2026 08:40:34 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Bangladesh make history with first-ever Test cricket win in Australia",
-          "link": "https://www.aljazeera.com/sports/2026/8/16/bangladesh-australia-first-test-win-miraz-mahmud-hasan-smith-green-hazlewood?traffic_source=rss",
-          "published": "Sun, 16 Aug 2026 06:40:50 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "How a simple lighter has become the backbone of life in Gaza",
-          "link": "https://www.aljazeera.com/economy/2026/8/16/struggle-for-a-spark-gaza-lighter-crisis-makes-cooking-an-expensive-chore?traffic_source=rss",
-          "published": "Sun, 16 Aug 2026 06:10:58 +0000"
+          "title": "Douglass breaks 50m freestyle swimming world record, Ledecky loses 800m",
+          "link": "https://www.aljazeera.com/sports/2026/8/16/pallister-ledecky-pan-pacific-swimming-championship-800m-free-douglass-50m-free-world-record?traffic_source=rss",
+          "published": "Sun, 16 Aug 2026 08:39:38 +0000"
         }
       ]
     }
