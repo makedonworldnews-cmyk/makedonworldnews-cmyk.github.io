@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T17:46:01Z",
+  "generated_at": "2026-08-16T17:57:50Z",
   "items": [
     {
       "region": "Македонија",
@@ -109,6 +109,20 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "Israeli army besieges Palestinian homes in occupied West Bank",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/israeli-army-besieges-palestinian-homes-in-occupied-west-bank?traffic_source=rss",
+      "published": "Sun, 16 Aug 2026 17:45:52 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Why are sandwiches more regulated than AI?",
+      "link": "https://www.aljazeera.com/video/the-bottom-line/2026/8/16/why-are-sandwiches-more-regulated-than-ai?traffic_source=rss",
+      "published": "Sun, 16 Aug 2026 17:36:02 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "‘Water and salt’: Qusra residents trapped in Israeli settler siege",
       "link": "https://www.aljazeera.com/news/2026/8/16/water-and-salt-qusra-residents-trapped-in-israeli-settler-siege?traffic_source=rss",
       "published": "Sun, 16 Aug 2026 17:18:00 +0000"
@@ -123,23 +137,9 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
-      "title": "Arsenal cruise to 3-0 win over Manchester City in Community Shield",
+      "title": "Arsenal cruise to win over Manchester City in Community Shield",
       "link": "https://www.aljazeera.com/sports/2026/8/16/arsenal-cruise-to-3-0-win-over-manchester-city-in-community-shield?traffic_source=rss",
       "published": "Sun, 16 Aug 2026 16:17:36 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Moroccan migrants stage sit-in as thousands remain stranded in Ceuta",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/moroccan-migrants-stage-sit-in-as-thousands-remain-stranded-in-ceuta?traffic_source=rss",
-      "published": "Sun, 16 Aug 2026 15:51:26 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Largest Ukrainian drone attack on Russia, Moscow says 822 drones shot down",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/16-08-sv-ukraine-largest-drone-attack-russia-ua?traffic_source=rss",
-      "published": "Sun, 16 Aug 2026 15:35:53 +0000"
     }
   ]
 }
