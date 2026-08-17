@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T19:27:49Z",
+  "updatedAt": "2026-08-17T19:52:22Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Бруно не е на продажба",
+          "link": "https://makfax.com.mk/sport/bruno-ne-e-na-prodazhba/",
+          "published": "Mon, 17 Aug 2026 19:35:04 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Диего Мореира во Милан",
+          "link": "https://makfax.com.mk/sport/diego-moreira-vo-milan/",
+          "published": "Mon, 17 Aug 2026 19:31:16 +0000"
         },
         {
           "source": "Makfax",
@@ -29,16 +41,10 @@
           "published": "Mon, 17 Aug 2026 18:52:34 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Трамп ја тужи Би-Би-Си за 10 милијарди долари",
-          "link": "https://makfax.com.mk/svet/tramp-ja-tuzhi-bi-bi-si-za-10-milijardi-dolari/",
-          "published": "Mon, 17 Aug 2026 18:30:35 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Крадци украле ремек-дела од ренесансата на Сицилија, се истражува можна врска со мафијата",
-          "link": "https://makfax.com.mk/svet/kradci-ukrale-remek-dela-od-renesansata-na-sicilija-se-istrazhuva-mozhna-vrska-so-mafijata/",
-          "published": "Mon, 17 Aug 2026 18:00:21 +0000"
+          "source": "NetPress",
+          "title": "Ипсвич ги доведе Хулио Енсисо и Абдул Уатара",
+          "link": "https://netpress.com.mk/ipsvich-gi-dovede-hulio-ensiso-i-abdul-uatara/",
+          "published": "Mon, 17 Aug 2026 19:43:24 +0000"
         },
         {
           "source": "NetPress",
@@ -63,12 +69,6 @@
           "title": "ЦУК: Активни седум пожари, два под контрола и 13 изгаснати",
           "link": "https://netpress.com.mk/czuk-aktivni-sedum-pozhari-dva-pod-kontrola-i-13-izgasnati/",
           "published": "Mon, 17 Aug 2026 18:12:26 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Без вода утре дел од центарот на Скопје",
-          "link": "https://netpress.com.mk/bez-voda-utre-del-od-czentarot-na-skopje-4/",
-          "published": "Mon, 17 Aug 2026 17:28:29 +0000"
         }
       ]
     },
@@ -107,33 +107,33 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Why did Trump scale back war games with South Korea?",
+          "link": "https://www.aljazeera.com/video/inside-story/2026/8/17/why-did-trump-scale-back-war-games-with-south-korea?traffic_source=rss",
+          "published": "Mon, 17 Aug 2026 19:34:20 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Gaza flotilla sets sail from the UK in bid to break Israeli siege",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/gaza-flotilla-sets-sail-from-the-uk-in-bid-to-break-israeli-siege?traffic_source=rss",
+          "published": "Mon, 17 Aug 2026 19:32:06 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Photos: Search for Indonesia earthquake victims continues",
+          "link": "https://www.aljazeera.com/gallery/2026/8/17/photos-search-for-indonesia-earthquake-victims-continues?traffic_source=rss",
+          "published": "Mon, 17 Aug 2026 19:22:54 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Death toll from capsized ferry in Zimbabwe rises to 92",
+          "link": "https://www.aljazeera.com/news/2026/8/17/death-toll-from-capsized-ferry-in-zimbabwe-rises-to-92?traffic_source=rss",
+          "published": "Mon, 17 Aug 2026 19:12:19 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Russian politician sentenced to 11 years for opposing war in Ukraine",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/russian-politician-sentenced-to-11-years-for-opposing-war-in-ukraine?traffic_source=rss",
           "published": "Mon, 17 Aug 2026 18:53:06 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Russia maintains election ban on opposition Yabloko, jails deputy head",
-          "link": "https://www.aljazeera.com/news/2026/8/17/russia-maintains-election-ban-on-opposition-yabloko-jails-deputy-head?traffic_source=rss",
-          "published": "Mon, 17 Aug 2026 18:46:12 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "CAIR slams Texas governor’s ‘anti-Muslim stunt’ on airport washing stations",
-          "link": "https://www.aljazeera.com/news/2026/8/17/cair-slams-texas-governors-anti-muslim-stunt-on-airport-washing-stations?traffic_source=rss",
-          "published": "Mon, 17 Aug 2026 18:02:15 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Clashes between government and opposition fighters in Somalia’s Baidoa",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/clashes-between-government-and-opposition-fighters-in-somalias-baidoa?traffic_source=rss",
-          "published": "Mon, 17 Aug 2026 17:42:02 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Syria launches probe into death of ‘White Helmet’ rescuer in police custody",
-          "link": "https://www.aljazeera.com/news/2026/8/17/syria-launches-probe-into-death-of-man-in-police-custody?traffic_source=rss",
-          "published": "Mon, 17 Aug 2026 17:37:31 +0000"
         }
       ]
     }
