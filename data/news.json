@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T11:00:27Z",
+  "updatedAt": "2026-08-17T11:35:55Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Регистриран трет смртен случај од западнонилска треска во земјава, почина 61-годишник со прекумерна тежина",
+          "link": "https://makfax.com.mk/makedonija/registriran-tret-smrten-sluchaj-od-zapadnonilska-treska-vo-zemjava-pochina-61-godishnik-so-prekumerna-tezhina/",
+          "published": "Mon, 17 Aug 2026 11:06:43 +0000"
         },
         {
           "source": "Makfax",
@@ -35,10 +41,22 @@
           "published": "Mon, 17 Aug 2026 10:35:02 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "(Фото) Мисајловски на Свечениот собир со припадниците на Армијата и вработените во одбраната",
-          "link": "https://makfax.com.mk/makedonija/foto-misajlovski-na-svecheniot-sobir-so-pripadnicite-na-armijata-i-vrabotenite-vo-odbranata/",
-          "published": "Mon, 17 Aug 2026 10:30:38 +0000"
+          "source": "NetPress",
+          "title": "Паѓа бројот нови компании во ЕУ, се зголемија банкротите во вториот квартал",
+          "link": "https://netpress.com.mk/paga-brojot-novi-kompanii-vo-eu-se-zgolemija-bankrotite-vo-vtoriot-kvartal/",
+          "published": "Mon, 17 Aug 2026 11:31:57 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Мајка во Индонезија се породи среде земјотресот со магнитуда од 7,7 степени",
+          "link": "https://netpress.com.mk/majka-vo-indonezija-se-porodi-srede-zemjotresot-so-magnituda-od-77-stepeni/",
+          "published": "Mon, 17 Aug 2026 11:14:36 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Мисајловски по повод Денот на македонската Армија: Носиме одлуки кои ќе нè направат посилни",
+          "link": "https://netpress.com.mk/misajlovski-po-povod-denot-na-makedonskata-armija-nosime-odluki-koi-ke-ne-napravat-posilni/",
+          "published": "Mon, 17 Aug 2026 11:11:19 +0000"
         },
         {
           "source": "NetPress",
@@ -51,24 +69,6 @@
           "title": "„Џаво Отомотив“ во Тетово, „Чагатај Кабло“ во Скопје, „Avesta Battery and Energy Engineering“ во Кичево нови инвестиции за посилна македонска економија",
           "link": "https://netpress.com.mk/dhavo-otomotiv-vo-tetovo-chagataj-kablo-vo-skopje-avesta-battery-and-energy-engineering-vo-kichevo-novi-investiczii-za-posilna-makedonska-ekonom/",
           "published": "Mon, 17 Aug 2026 10:49:37 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Трет смртен случај од западнонилска треска во Македонија, шестмина се критично",
-          "link": "https://netpress.com.mk/tret-smrten-sluchaj-od-zapadnonilska-treska-vo-makedonija-shestmina-se-kritichno/",
-          "published": "Mon, 17 Aug 2026 10:40:43 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Талогот од СДС остана без политика, па измислува кризи, фактите ја рушат нивната паника",
-          "link": "https://netpress.com.mk/talogot-od-sds-ostana-bez-politika-pa-izmisluva-krizi-faktite-ja-rushat-nivnata-panika/",
-          "published": "Mon, 17 Aug 2026 10:38:51 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "АХВ испитува присуство на сипаници кај овци и кози",
-          "link": "https://netpress.com.mk/ahv-ispituva-prisustvo-na-sipaniczi-kaj-ovczi-i-kozi/",
-          "published": "Mon, 17 Aug 2026 10:33:31 +0000"
         }
       ]
     },
@@ -83,15 +83,15 @@
         },
         {
           "source": "BBC",
-          "title": "Trump envoy Kushner arrives in Israel after rare Hamas talks on Gaza peace plan",
+          "title": "Trump envoy Kushner meets Netanyahu after Hamas talks on peace plan",
           "link": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
-          "published": "Mon, 17 Aug 2026 08:43:12 GMT"
+          "published": "Mon, 17 Aug 2026 11:16:31 GMT"
         },
         {
           "source": "BBC",
           "title": "Ukrainian strikes kill six in Russia, acting governor says",
           "link": "https://www.bbc.co.uk/news/articles/cn7n4lm11vro?at_medium=RSS&at_campaign=rss",
-          "published": "Mon, 17 Aug 2026 08:47:19 GMT"
+          "published": "Mon, 17 Aug 2026 11:14:39 GMT"
         },
         {
           "source": "BBC",
@@ -104,6 +104,12 @@
           "title": "Ebola outbreak in DR Congo becomes deadliest in its history",
           "link": "https://www.bbc.co.uk/news/articles/cvgll74vvydo?at_medium=RSS&at_campaign=rss",
           "published": "Mon, 17 Aug 2026 04:41:31 GMT"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Is the world experiencing more earthquakes now than before?",
+          "link": "https://www.aljazeera.com/news/2026/8/17/is-the-world-experiencing-more-earthquakes-now-than-before?traffic_source=rss",
+          "published": "Mon, 17 Aug 2026 11:09:18 +0000"
         },
         {
           "source": "Al Jazeera",
@@ -128,12 +134,6 @@
           "title": "Is China encroaching upon Indian territory in Arunachal Pradesh?",
           "link": "https://www.aljazeera.com/news/2026/8/17/is-china-encroaching-upon-indian-territory-in-arunachal-pradesh-2?traffic_source=rss",
           "published": "Mon, 17 Aug 2026 10:51:49 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Watch: Young chef, 16, cooking up gourmet meals in Gaza",
-          "link": "https://www.aljazeera.com/features/2026/8/17/watch-young-chef-16-cooking-up-gourmet-meals-in-gaza?traffic_source=rss",
-          "published": "Mon, 17 Aug 2026 10:51:03 +0000"
         }
       ]
     }
