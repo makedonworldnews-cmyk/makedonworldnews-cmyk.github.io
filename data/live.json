@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T11:43:41Z",
+  "generated_at": "2026-08-17T12:00:40Z",
   "items": [
     {
       "region": "Македонија",
@@ -39,6 +39,27 @@
     {
       "region": "Македонија",
       "source": "NetPress",
+      "title": "До 13 часот регистрирани 10 пожари, од нив пет се активни, два се под контрола а три изгаснати",
+      "link": "https://netpress.com.mk/do-13-chasot-registrirani-10-pozhari-od-niv-pet-se-aktivni-dva-se-pod-kontrola-a-tri-izgasnati/",
+      "published": "Mon, 17 Aug 2026 12:00:08 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "NetPress",
+      "title": "Македонија со 88 спортисти на Медитеранските игри",
+      "link": "https://netpress.com.mk/makedonija-so-88-sportisti-na-mediteranskite-igri/",
+      "published": "Mon, 17 Aug 2026 11:57:52 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "NetPress",
+      "title": "Вратените пиперки од Бугарија ќе бидат уништени, операторот треба да избере каде ќе се направи уништувањето",
+      "link": "https://netpress.com.mk/vratenite-piperki-od-bugarija-ke-bidat-unishteni-operatorot-treba-da-izbere-kade-ke-se-napravi-unishtuvaneto/",
+      "published": "Mon, 17 Aug 2026 11:46:00 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "NetPress",
       "title": "124 години од раѓањето на Методија Андонов – Ченто",
       "link": "https://netpress.com.mk/124-godini-od-raganeto-na-metodija-andonov-chento/",
       "published": "Mon, 17 Aug 2026 11:36:40 +0000"
@@ -49,27 +70,6 @@
       "title": "Паѓа бројот нови компании во ЕУ, се зголемија банкротите во вториот квартал",
       "link": "https://netpress.com.mk/paga-brojot-novi-kompanii-vo-eu-se-zgolemija-bankrotite-vo-vtoriot-kvartal/",
       "published": "Mon, 17 Aug 2026 11:31:57 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Мајка во Индонезија се породи среде земјотресот со магнитуда од 7,7 степени",
-      "link": "https://netpress.com.mk/majka-vo-indonezija-se-porodi-srede-zemjotresot-so-magnituda-od-77-stepeni/",
-      "published": "Mon, 17 Aug 2026 11:14:36 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Мисајловски по повод Денот на македонската Армија: Носиме одлуки кои ќе нè направат посилни",
-      "link": "https://netpress.com.mk/misajlovski-po-povod-denot-na-makedonskata-armija-nosime-odluki-koi-ke-ne-napravat-posilni/",
-      "published": "Mon, 17 Aug 2026 11:11:19 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "АстраЗенека го прекинува клиничкото испитување на лек за рак на белите дробови",
-      "link": "https://netpress.com.mk/astrazeneka-go-prekinuva-klinichkoto-ispituvane-na-lek-za-rak-na-belite-drobovi/",
-      "published": "Mon, 17 Aug 2026 10:55:05 +0000"
     },
     {
       "region": "Свет",
@@ -109,6 +109,13 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "Trump orders US to scale back South Korea military drills",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/trump-orders-us-to-scale-back-south-korea-military-drills?traffic_source=rss",
+      "published": "Mon, 17 Aug 2026 11:29:00 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "Is the world experiencing more earthquakes now than before?",
       "link": "https://www.aljazeera.com/news/2026/8/17/is-the-world-experiencing-more-earthquakes-now-than-before?traffic_source=rss",
       "published": "Mon, 17 Aug 2026 11:09:18 +0000"
@@ -133,13 +140,6 @@
       "title": "Indian temple stampede kills seven people and injures dozens",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/indian-temple-stampede-kills-seven-people-and-injures-dozens?traffic_source=rss",
       "published": "Mon, 17 Aug 2026 10:54:40 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Is China encroaching upon Indian territory in Arunachal Pradesh?",
-      "link": "https://www.aljazeera.com/news/2026/8/17/is-china-encroaching-upon-indian-territory-in-arunachal-pradesh-2?traffic_source=rss",
-      "published": "Mon, 17 Aug 2026 10:51:49 +0000"
     }
   ]
 }
