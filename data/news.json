@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T16:30:32Z",
+  "updatedAt": "2026-08-17T16:59:41Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Утре без вода делови од Општина Центар",
+          "link": "https://makfax.com.mk/makedonija/utre-bez-voda-delovi-od-opshtina-centar/",
+          "published": "Mon, 17 Aug 2026 16:57:12 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Иран им се закани на САД со промена на тактиката",
+          "link": "https://makfax.com.mk/svet/iran-im-se-zakani-na-sad-so-promena-na-taktikata/",
+          "published": "Mon, 17 Aug 2026 16:31:50 +0000"
         },
         {
           "source": "Makfax",
@@ -29,16 +41,10 @@
           "published": "Mon, 17 Aug 2026 15:42:37 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "За една ноќ, казнети 63 возачи за возење под дејство на алкохол, осуммина уапсени",
-          "link": "https://makfax.com.mk/makedonija/za-edna-nok-kazneti-63-vozachi-za-vozenje-pod-dejstvo-na-alkohol-osummmina-uapseni/",
-          "published": "Mon, 17 Aug 2026 15:17:06 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "(Видео) СДСМ објави снимка од експлозија на бомба тврди дека е во дворот на вработен во МВР, поврзан со кумот на Мицкоски",
-          "link": "https://makfax.com.mk/soopstenija/video-sdsm-objavi-snimka-od-eksplozija-na-bomba-tvrdi-deka-e-vo-dvorot-na-vraboten-vo-mvr-povrzan-so-kumot-na-mickoski/",
-          "published": "Mon, 17 Aug 2026 14:56:28 +0000"
+          "source": "NetPress",
+          "title": "Нови седум осомничени за транспорт на марихуана од земјава во Србија",
+          "link": "https://netpress.com.mk/novi-sedum-osomnicheni-za-transport-na-marihuana-od-zemjava-vo-srbija/",
+          "published": "Mon, 17 Aug 2026 16:48:19 +0000"
         },
         {
           "source": "NetPress",
@@ -63,12 +69,6 @@
           "title": "Цените на нафтата над 89 долари",
           "link": "https://netpress.com.mk/czenite-na-naftata-nad-89-dolari/",
           "published": "Mon, 17 Aug 2026 14:05:32 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Параглајдерист од Полска слетал на непознат терен – полицијата го пронашла на планината Даутица",
-          "link": "https://netpress.com.mk/paraglajderist-od-polska-sletal-na-nepoznat-teren-policzijata-go-pronashla-na-planinata-dauticza/",
-          "published": "Mon, 17 Aug 2026 13:54:30 +0000"
         }
       ]
     },
@@ -77,7 +77,7 @@
       "items": [
         {
           "source": "BBC",
-          "title": "Trump threatens to bomb US ally Oman if it 'gets in the way' over Iran issue",
+          "title": "Trump threatens to bomb US ally Oman if it 'gets in the way' over Iran deal",
           "link": "https://www.bbc.co.uk/news/articles/cy5dzk0ryzdo?at_medium=RSS&at_campaign=rss",
           "published": "Mon, 17 Aug 2026 16:26:34 GMT"
         },
@@ -107,6 +107,24 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "War on Iran: Phase II, Day 37",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/war-on-iran-phase-ii-day-37?traffic_source=rss",
+          "published": "Mon, 17 Aug 2026 16:27:48 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Somali army clashes with rebel forces for control of key city Baidoa",
+          "link": "https://www.aljazeera.com/news/2026/8/17/somali-army-clashes-with-rebel-forces-for-control-of-key-city-baidoa?traffic_source=rss",
+          "published": "Mon, 17 Aug 2026 16:24:43 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Democrats rebuke Trump over scaling back military drills with South Korea",
+          "link": "https://www.aljazeera.com/news/2026/8/17/democrats-rebuke-trump-over-scaling-back-military-drills-with-south-korea?traffic_source=rss",
+          "published": "Mon, 17 Aug 2026 16:14:07 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "How Russian dissidents are being punished by both Russia and Europe",
           "link": "https://www.aljazeera.com/opinions/2026/8/17/how-russian-dissidents-are-being-punished-by-both-russia-and-europe?traffic_source=rss",
           "published": "Mon, 17 Aug 2026 15:54:34 +0000"
@@ -116,24 +134,6 @@
           "title": "Rights group urges FIFA to block Infantino re-election bid over term limits",
           "link": "https://www.aljazeera.com/sports/2026/8/17/rights-group-urges-fifa-to-block-infantino-re-election-bid-over-term-limits?traffic_source=rss",
           "published": "Mon, 17 Aug 2026 15:21:47 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Police execute controlled World War II–era Mine explosion",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/police-execute-controlled-world-war-ii-era-mine?traffic_source=rss",
-          "published": "Mon, 17 Aug 2026 15:08:17 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Trump demands Iran ‘put up the white flag of surrender’ as MoU expires",
-          "link": "https://www.aljazeera.com/news/2026/8/17/trump-demands-iran-put-up-the-white-flag-of-surrender-as-mou-expires?traffic_source=rss",
-          "published": "Mon, 17 Aug 2026 15:06:14 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Iran signals readiness for ‘US ground operations’ as MoU expires",
-          "link": "https://www.aljazeera.com/news/2026/8/17/iran-signals-readiness-for-us-ground-operations-as-mou-expires?traffic_source=rss",
-          "published": "Mon, 17 Aug 2026 14:15:17 +0000"
         }
       ]
     }
