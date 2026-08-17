@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T17:59:57Z",
+  "updatedAt": "2026-08-17T18:51:46Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Трамп ја тужи Би-Би-Си за 10 милијарди долари",
+          "link": "https://makfax.com.mk/svet/tramp-ja-tuzhi-bi-bi-si-za-10-milijardi-dolari/",
+          "published": "Mon, 17 Aug 2026 18:30:35 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Крадци украле ремек-дела од ренесансата на Сицилија, се истражува можна врска со мафијата",
+          "link": "https://makfax.com.mk/svet/kradci-ukrale-remek-dela-od-renesansata-na-sicilija-se-istrazhuva-mozhna-vrska-so-mafijata/",
+          "published": "Mon, 17 Aug 2026 18:00:21 +0000"
         },
         {
           "source": "Makfax",
@@ -29,16 +41,16 @@
           "published": "Mon, 17 Aug 2026 16:31:50 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Нови седум осомничени за транспорт на марихуана од Македонија во Србија: Дрогата била прикриена како храна, перници и јоргани",
-          "link": "https://makfax.com.mk/top/novi-sedum-osomnicheni-za-transport-na-marihuana-od-makedonija-vo-srbija-drogata-bila-prikriena-kako-hrana-pernici-i-jorgani/",
-          "published": "Mon, 17 Aug 2026 15:59:19 +0000"
+          "source": "NetPress",
+          "title": "Божиновска: Македонија се подготвува официјално да се приклучи кон Вертикалниот гасен коридо",
+          "link": "https://netpress.com.mk/bozhinovska-makedonija-se-podgotvuva-oficzijalno-da-se-prikluchi-kon-vertikalniot-gasen-korido/",
+          "published": "Mon, 17 Aug 2026 18:34:54 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Венецуела бара враќање на 31 тон злато од Велика Британија",
-          "link": "https://makfax.com.mk/svet/venecuela-bara-vrakanje-na-31-ton-zlato-od-velika-britanija/",
-          "published": "Mon, 17 Aug 2026 15:47:06 +0000"
+          "source": "NetPress",
+          "title": "ЦУК: Активни седум пожари, два под контрола и 13 изгаснати",
+          "link": "https://netpress.com.mk/czuk-aktivni-sedum-pozhari-dva-pod-kontrola-i-13-izgasnati/",
+          "published": "Mon, 17 Aug 2026 18:12:26 +0000"
         },
         {
           "source": "NetPress",
@@ -57,18 +69,6 @@
           "title": "Во Батинци петмина нападнале маж (41) и неговиот малолетен син",
           "link": "https://netpress.com.mk/vo-batinczi-petmina-napadnale-mazh-41-i-negoviot-maloleten-sin/",
           "published": "Mon, 17 Aug 2026 16:20:00 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "ВИДЕО| СДСМ: Експлозија на бомба во дворот на М. Б, вработен во МВР, поврзан со кумот на Мицкоски",
-          "link": "https://netpress.com.mk/video-sdsm-eksplozija-na-bomba-vo-dvorot-na-m-b-vraboten-vo-mvr-povrzan-so-kumot-na-miczkoski/",
-          "published": "Mon, 17 Aug 2026 15:01:12 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Тројца малолетници предизвикале пожар пред продавница во Свети Николе",
-          "link": "https://netpress.com.mk/trojcza-maloletniczi-predizvikale-pozhar-pred-prodavnicza-vo-sveti-nikole/",
-          "published": "Mon, 17 Aug 2026 14:32:24 +0000"
         }
       ]
     },
@@ -89,21 +89,27 @@
         },
         {
           "source": "BBC",
-          "title": "Trump says US to reduce military drills with South Korea after it stayed out of Iran war",
-          "link": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
-          "published": "Mon, 17 Aug 2026 06:24:31 GMT"
-        },
-        {
-          "source": "BBC",
           "title": "Russia's prominent anti-war politician jailed for 11 years",
           "link": "https://www.bbc.co.uk/news/articles/cj4kjnle2neo?at_medium=RSS&at_campaign=rss",
           "published": "Mon, 17 Aug 2026 16:17:34 GMT"
         },
         {
           "source": "BBC",
-          "title": "US hiker dies after being struck by lightning on Mount Etna",
-          "link": "https://www.bbc.co.uk/news/articles/ce34rlkw6q7o?at_medium=RSS&at_campaign=rss",
-          "published": "Mon, 17 Aug 2026 12:23:26 GMT"
+          "title": "French PM heckled over wildfire response as blazes continue across Europe",
+          "link": "https://www.bbc.co.uk/news/articles/cx2rzx5g5yro?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 17 Aug 2026 18:00:55 GMT"
+        },
+        {
+          "source": "BBC",
+          "title": "Mushroom murderer Erin Patterson is appealing - here's what you need to know",
+          "link": "https://www.bbc.co.uk/news/articles/cj9dx03jrgjo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 17 Aug 2026 18:03:23 GMT"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "CAIR slams Texas governor’s ‘anti-Muslim stunt’ on airport washing stations",
+          "link": "https://www.aljazeera.com/news/2026/8/17/cair-slams-texas-governors-anti-muslim-stunt-on-airport-washing-stations?traffic_source=rss",
+          "published": "Mon, 17 Aug 2026 18:02:15 +0000"
         },
         {
           "source": "Al Jazeera",
@@ -128,12 +134,6 @@
           "title": "Britain deploys military as wildfires spread across Europe",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/britain-deploys-military-as-wildfires-spread-across-europe?traffic_source=rss",
           "published": "Mon, 17 Aug 2026 17:25:37 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Netanyahu’s Likud Party holds primaries ahead of Israel’s general elections",
-          "link": "https://www.aljazeera.com/news/2026/8/17/netanyahus-likud-party-holds-primaries-ahead-of-israels-general-elections?traffic_source=rss",
-          "published": "Mon, 17 Aug 2026 17:07:29 +0000"
         }
       ]
     }
