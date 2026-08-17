@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T17:11:07Z",
+  "generated_at": "2026-08-17T17:45:56Z",
   "items": [
     {
       "region": "Македонија",
@@ -39,6 +39,13 @@
     {
       "region": "Македонија",
       "source": "NetPress",
+      "title": "Без вода утре дел од центарот на Скопје",
+      "link": "https://netpress.com.mk/bez-voda-utre-del-od-czentarot-na-skopje-4/",
+      "published": "Mon, 17 Aug 2026 17:28:29 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "NetPress",
       "title": "Нови седум осомничени за транспорт на марихуана од земјава во Србија",
       "link": "https://netpress.com.mk/novi-sedum-osomnicheni-za-transport-na-marihuana-od-zemjava-vo-srbija/",
       "published": "Mon, 17 Aug 2026 16:48:19 +0000"
@@ -63,13 +70,6 @@
       "title": "Тројца малолетници предизвикале пожар пред продавница во Свети Николе",
       "link": "https://netpress.com.mk/trojcza-maloletniczi-predizvikale-pozhar-pred-prodavnicza-vo-sveti-nikole/",
       "published": "Mon, 17 Aug 2026 14:32:24 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Цените на нафтата над 89 долари",
-      "link": "https://netpress.com.mk/czenite-na-naftata-nad-89-dolari/",
-      "published": "Mon, 17 Aug 2026 14:05:32 +0000"
     },
     {
       "region": "Свет",
@@ -109,6 +109,27 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "Explosion reported at school in Afghan capital Kabul",
+      "link": "https://www.aljazeera.com/news/2026/8/17/explosion-reported-at-school-in-afghan-capital-kabul?traffic_source=rss",
+      "published": "Mon, 17 Aug 2026 17:30:11 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Britain deploys military as wildfires spread across Europe",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/britain-deploys-military-as-wildfires-spread-across-europe?traffic_source=rss",
+      "published": "Mon, 17 Aug 2026 17:25:37 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Netanyahu’s Likud Party holds primaries ahead of Israel’s general elections",
+      "link": "https://www.aljazeera.com/news/2026/8/17/netanyahus-likud-party-holds-primaries-ahead-of-israels-general-elections?traffic_source=rss",
+      "published": "Mon, 17 Aug 2026 17:07:29 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "Palestinians, Israelis sceptical of Gaza plan as Kushner visits region",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/palestinians-israelis-sceptical-of-gaza-plan-as-kushner-visits-region?traffic_source=rss",
       "published": "Mon, 17 Aug 2026 16:50:15 +0000"
@@ -119,27 +140,6 @@
       "title": "British PM Burnham duped by White House impostor",
       "link": "https://www.aljazeera.com/news/2026/8/17/british-pm-burnham-duped-by-white-house-impostor?traffic_source=rss",
       "published": "Mon, 17 Aug 2026 16:48:24 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "War on Iran: Phase II, Day 37",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/war-on-iran-phase-ii-day-37?traffic_source=rss",
-      "published": "Mon, 17 Aug 2026 16:27:48 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Somali army clashes with rebel forces for control of key city Baidoa",
-      "link": "https://www.aljazeera.com/news/2026/8/17/somali-army-clashes-with-rebel-forces-for-control-of-key-city-baidoa?traffic_source=rss",
-      "published": "Mon, 17 Aug 2026 16:24:43 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Democrats rebuke Trump over scaling back military drills with South Korea",
-      "link": "https://www.aljazeera.com/news/2026/8/17/democrats-rebuke-trump-over-scaling-back-military-drills-with-south-korea?traffic_source=rss",
-      "published": "Mon, 17 Aug 2026 16:14:07 +0000"
     }
   ]
 }
