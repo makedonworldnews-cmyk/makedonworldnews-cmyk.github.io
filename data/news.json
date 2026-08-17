@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T15:56:10Z",
+  "updatedAt": "2026-08-17T16:30:32Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Нови седум осомничени за транспорт на марихуана од Македонија во Србија: Дрогата била прикриена како храна, перници и јоргани",
+          "link": "https://makfax.com.mk/top/novi-sedum-osomnicheni-za-transport-na-marihuana-od-makedonija-vo-srbija-drogata-bila-prikriena-kako-hrana-pernici-i-jorgani/",
+          "published": "Mon, 17 Aug 2026 15:59:19 +0000"
         },
         {
           "source": "Makfax",
@@ -35,10 +41,10 @@
           "published": "Mon, 17 Aug 2026 14:56:28 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Русија го бара синот на американскиот министер за здравство, се борел на страната на Украина",
-          "link": "https://makfax.com.mk/svet/rusija-go-bara-sinot-na-amerikanskiot-minister-za-zdravstvo-se-borel-na-stranata-na-ukraina/",
-          "published": "Mon, 17 Aug 2026 14:47:09 +0000"
+          "source": "NetPress",
+          "title": "Во Батинци петмина нападнале маж (41) и неговиот малолетен син",
+          "link": "https://netpress.com.mk/vo-batinczi-petmina-napadnale-mazh-41-i-negoviot-maloleten-sin/",
+          "published": "Mon, 17 Aug 2026 16:20:00 +0000"
         },
         {
           "source": "NetPress",
@@ -63,12 +69,6 @@
           "title": "Параглајдерист од Полска слетал на непознат терен – полицијата го пронашла на планината Даутица",
           "link": "https://netpress.com.mk/paraglajderist-od-polska-sletal-na-nepoznat-teren-policzijata-go-pronashla-na-planinata-dauticza/",
           "published": "Mon, 17 Aug 2026 13:54:30 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Стојанче Ангелов апелира да не се пали оган на отворено, оти една искра може да предизвика катастрофа",
-          "link": "https://netpress.com.mk/stojanche-angelov-apelira-da-ne-se-palei-ogan-na-otvoreno-oti-edna-iskra-mozhe-da-predizvika-katastrofa/",
-          "published": "Mon, 17 Aug 2026 13:49:05 +0000"
         }
       ]
     },
@@ -79,7 +79,7 @@
           "source": "BBC",
           "title": "Trump threatens to bomb US ally Oman if it 'gets in the way' over Iran issue",
           "link": "https://www.bbc.co.uk/news/articles/cy5dzk0ryzdo?at_medium=RSS&at_campaign=rss",
-          "published": "Mon, 17 Aug 2026 14:59:02 GMT"
+          "published": "Mon, 17 Aug 2026 16:26:34 GMT"
         },
         {
           "source": "BBC",
@@ -107,6 +107,12 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "How Russian dissidents are being punished by both Russia and Europe",
+          "link": "https://www.aljazeera.com/opinions/2026/8/17/how-russian-dissidents-are-being-punished-by-both-russia-and-europe?traffic_source=rss",
+          "published": "Mon, 17 Aug 2026 15:54:34 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Rights group urges FIFA to block Infantino re-election bid over term limits",
           "link": "https://www.aljazeera.com/sports/2026/8/17/rights-group-urges-fifa-to-block-infantino-re-election-bid-over-term-limits?traffic_source=rss",
           "published": "Mon, 17 Aug 2026 15:21:47 +0000"
@@ -128,12 +134,6 @@
           "title": "Iran signals readiness for ‘US ground operations’ as MoU expires",
           "link": "https://www.aljazeera.com/news/2026/8/17/iran-signals-readiness-for-us-ground-operations-as-mou-expires?traffic_source=rss",
           "published": "Mon, 17 Aug 2026 14:15:17 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Boat sets sail from Bristol, aiming to break Israel’s siege of Gaza",
-          "link": "https://www.aljazeera.com/news/2026/8/17/boat-sets-sail-from-bristol-aiming-to-break-israels-siege-of-gaza?traffic_source=rss",
-          "published": "Mon, 17 Aug 2026 14:12:08 +0000"
         }
       ]
     }
