@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T20:26:16Z",
+  "updatedAt": "2026-08-17T20:54:28Z",
   "groups": [
     {
       "region": "Македонија",
@@ -42,6 +42,12 @@
         },
         {
           "source": "NetPress",
+          "title": "Трамп вели дека Ким дговорил на неговите иницијативи",
+          "link": "https://netpress.com.mk/tramp-veli-deka-kim-dgovoril-na-negovite-iniczijativi/",
+          "published": "Mon, 17 Aug 2026 20:54:11 +0000"
+        },
+        {
+          "source": "NetPress",
           "title": "ВИДЕО| Тројца загинати во пад на хеликоптер на грчкиот остров Сифнос",
           "link": "https://netpress.com.mk/video-trojcza-zaginati-vo-pad-na-helikopter-na-grchkiot-ostrov-sifnos/",
           "published": "Mon, 17 Aug 2026 19:55:35 +0000"
@@ -63,12 +69,6 @@
           "title": "ВИДЕО| Последното збогување со Бони Тајлер со песната „Total eclipse of the heart“",
           "link": "https://netpress.com.mk/video-poslednoto-zboguvane-so-boni-tajler-so-pesnata-total-eclipse-of-the-heart/",
           "published": "Mon, 17 Aug 2026 18:54:39 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Божиновска: Македонија се подготвува официјално да се приклучи кон Вертикалниот гасен коридор",
-          "link": "https://netpress.com.mk/bozhinovska-makedonija-se-podgotvuva-oficzijalno-da-se-prikluchi-kon-vertikalniot-gasen-korido/",
-          "published": "Mon, 17 Aug 2026 18:34:54 +0000"
         }
       ]
     },
@@ -107,6 +107,18 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Torrential rains flood homes and roads across Lima, Peru",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/torrential-rains-flood-homes-and-roads-across-lima-peru?traffic_source=rss",
+          "published": "Mon, 17 Aug 2026 20:41:39 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Trump’s approval rating sinks to new low",
+          "link": "https://www.aljazeera.com/economy/2026/8/17/trumps-approval-rating-sinks-to-new-low?traffic_source=rss",
+          "published": "Mon, 17 Aug 2026 20:41:31 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Why did Trump scale back war games with South Korea?",
           "link": "https://www.aljazeera.com/video/inside-story/2026/8/17/why-did-trump-scale-back-war-games-with-south-korea?traffic_source=rss",
           "published": "Mon, 17 Aug 2026 19:34:20 +0000"
@@ -119,21 +131,9 @@
         },
         {
           "source": "Al Jazeera",
-          "title": "Photos: Search for Indonesia earthquake victims continues",
+          "title": "Photos: Indonesia earthquake rescue efforts continue as death toll hits 68",
           "link": "https://www.aljazeera.com/gallery/2026/8/17/photos-search-for-indonesia-earthquake-victims-continues?traffic_source=rss",
           "published": "Mon, 17 Aug 2026 19:22:54 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Death toll from capsized ferry in Zimbabwe rises to 92",
-          "link": "https://www.aljazeera.com/news/2026/8/17/death-toll-from-capsized-ferry-in-zimbabwe-rises-to-92?traffic_source=rss",
-          "published": "Mon, 17 Aug 2026 19:12:19 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Russian politician sentenced to 11 years for opposing war in Ukraine",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/russian-politician-sentenced-to-11-years-for-opposing-war-in-ukraine?traffic_source=rss",
-          "published": "Mon, 17 Aug 2026 18:53:06 +0000"
         }
       ]
     }
