@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T15:00:53Z",
+  "updatedAt": "2026-08-17T15:35:35Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "За една ноќ, казнети 63 возачи за возење под дејство на алкохол, осумммина уапсени",
+          "link": "https://makfax.com.mk/makedonija/za-edna-nok-kazneti-63-vozachi-za-vozenje-pod-dejstvo-na-alkohol-osummmina-uapseni/",
+          "published": "Mon, 17 Aug 2026 15:17:06 +0000"
         },
         {
           "source": "Makfax",
@@ -35,10 +41,10 @@
           "published": "Mon, 17 Aug 2026 14:35:29 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Девет општини добија грантови за развој на социјални услуги за помош на стари и немоќни лица и лица со попреченост",
-          "link": "https://makfax.com.mk/makedonija/devet-opshtini-dobija-grantovi-za-razvoj-na-socijalni-uslugi-za-pomosh-na-stari-i-nemokni-lica-i-lica-so-poprechenost/",
-          "published": "Mon, 17 Aug 2026 14:24:59 +0000"
+          "source": "NetPress",
+          "title": "ВИДЕО| СДСМ: Експлозија на бомба во дворот на М. Б, вработен во МВР, поврзан со кумот на Мицкоски",
+          "link": "https://netpress.com.mk/video-sdsm-eksplozija-na-bomba-vo-dvorot-na-m-b-vraboten-vo-mvr-povrzan-so-kumot-na-miczkoski/",
+          "published": "Mon, 17 Aug 2026 15:01:12 +0000"
         },
         {
           "source": "NetPress",
@@ -63,12 +69,6 @@
           "title": "Стојанче Ангелов апелира да не се пали оган на отворено, оти една искра може да предизвика катастрофа",
           "link": "https://netpress.com.mk/stojanche-angelov-apelira-da-ne-se-palei-ogan-na-otvoreno-oti-edna-iskra-mozhe-da-predizvika-katastrofa/",
           "published": "Mon, 17 Aug 2026 13:49:05 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "ВИДЕО| По две децении Серава добива нов лик",
-          "link": "https://netpress.com.mk/video-po-dve-deczenii-serava-dobiva-nov-lik/",
-          "published": "Mon, 17 Aug 2026 13:43:40 +0000"
         }
       ]
     },
