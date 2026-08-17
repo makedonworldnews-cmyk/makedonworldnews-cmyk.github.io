@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T05:08:04Z",
+  "updatedAt": "2026-08-17T05:48:03Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,24 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Зошто жените над 40 години треба повеќе да размислуваат за мускулите отколку за тежината?",
+          "link": "https://makfax.com.mk/zanimlivosti/zoshto-zhenite-nad-40-godini-treba-poveke-da-razmisluvaat-za-muskulite-otkolku-za-tezhinata/",
+          "published": "Mon, 17 Aug 2026 05:44:16 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Бар Рафаели ги „урна“ мрежите со фотографии во бикини",
+          "link": "https://makfax.com.mk/zanimlivosti/bar-rafaeli-gi-urna-mrezhite-so-fotografii-vo-bikini/",
+          "published": "Mon, 17 Aug 2026 05:29:23 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Токму кога ќе се откажат, крајот на летото менува сè: Овие 3 знаци ги решаваат големите животни проблеми",
+          "link": "https://makfax.com.mk/zanimlivosti/tokmu-koga-ke-se-otkazhat-krajot-na-letoto-menuva-s%c3%a8-ovie-3-znaci-gi-reshavaat-golemite-zhivotni-problemi/",
+          "published": "Mon, 17 Aug 2026 05:24:47 +0000"
         },
         {
           "source": "Makfax",
@@ -23,22 +41,10 @@
           "published": "Mon, 17 Aug 2026 04:59:46 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "(Видео) Пет тинејџери загинаа во директен судир на автопат во Ирска",
-          "link": "https://makfax.com.mk/svet/evropa/pet-tinejdheri-zaginaa-vo-direkten-sudir-na-avtopat-vo-irska/",
-          "published": "Mon, 17 Aug 2026 04:54:39 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Трамп драматично се сврте против Јужна Кореја: „Северна Кореја не е закана за нас“",
-          "link": "https://makfax.com.mk/svet/tramp-dramatichno-se-svrte-protiv-juzhna-koreja-%e2%80%9eseverna-koreja-ne-e-zakana-za-nas%e2%80%9c/",
-          "published": "Mon, 17 Aug 2026 04:48:39 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Извонредни уметници, врвна музика и полни гледалишта на џез вечерите на „Охридско лето“",
-          "link": "https://makfax.com.mk/kultura/izvonredni-umetnici-vrvna-muzika-i-polni-gledalishta-na-dhez-vecherite-na-ohridsko-leto/",
-          "published": "Mon, 17 Aug 2026 04:36:51 +0000"
+          "source": "NetPress",
+          "title": "Трамп му наложи на Пентагон да ги намали воените вежби со Јужна Кореја",
+          "link": "https://netpress.com.mk/tramp-mu-nalozhi-na-pentagon-da-gi-namali-voenite-vezhbi-so-juzhna-koreja/",
+          "published": "Mon, 17 Aug 2026 05:27:30 +0000"
         },
         {
           "source": "NetPress",
@@ -63,12 +69,6 @@
           "title": "ФОТО| Првото целосно електрично „ферари“ продадено во САД",
           "link": "https://netpress.com.mk/foto-prvoto-czelosno-elektrichno-ferari-prodadeno-vo-sad/",
           "published": "Sun, 16 Aug 2026 19:16:16 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Најмалку 16 загинати во меѓусебни напади меѓу Русија и Украина",
-          "link": "https://netpress.com.mk/najmalku-16-zaginati-vo-megusebni-napadi-megu-rusija-i-ukraina/",
-          "published": "Sun, 16 Aug 2026 18:11:42 +0000"
         }
       ]
     },
@@ -83,27 +83,45 @@
         },
         {
           "source": "BBC",
-          "title": "Trump says US to scale back South Korea military drills after it stayed out of Iran war",
+          "title": "Ukrainian strikes kill six in Russia, acting governor says",
+          "link": "https://www.bbc.co.uk/news/articles/cn7n4lm11vro?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 17 Aug 2026 05:38:13 GMT"
+        },
+        {
+          "source": "BBC",
+          "title": "Trump says US to reduce military drills with South Korea after it stayed out of Iran war",
           "link": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
           "published": "Mon, 17 Aug 2026 05:06:47 GMT"
         },
         {
           "source": "BBC",
-          "title": "Russia says at least seven killed in largest Ukrainian attack of 2026",
-          "link": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
-          "published": "Sun, 16 Aug 2026 19:03:04 GMT"
-        },
-        {
-          "source": "BBC",
           "title": "Heroes actress Hayden Panettiere dies aged 36",
           "link": "https://www.bbc.co.uk/news/articles/cq5665zgg1po?at_medium=RSS&at_campaign=rss",
-          "published": "Mon, 17 Aug 2026 04:53:27 GMT"
+          "published": "Mon, 17 Aug 2026 05:40:19 GMT"
         },
         {
           "source": "BBC",
           "title": "Ebola outbreak in DR Congo becomes deadliest in its history",
           "link": "https://www.bbc.co.uk/news/articles/cvgll74vvydo?at_medium=RSS&at_campaign=rss",
           "published": "Mon, 17 Aug 2026 04:41:31 GMT"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "At least six dead in ‘stampede-like’ incident at India temple",
+          "link": "https://www.aljazeera.com/news/2026/8/17/at-least-six-dead-in-stampede-like-incident-at-india-temple?traffic_source=rss",
+          "published": "Mon, 17 Aug 2026 05:32:33 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Iran’s top negotiator declares victory in war against the US and Israel",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/irans-top-negotiator-declares-victory-in-war-against-the-us-and-israel?traffic_source=rss",
+          "published": "Mon, 17 Aug 2026 05:16:18 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Lawyer says Israel’s targeting of Palestinian women is a form of genocide",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/08-14-2026-gaza-femigenocide-sv-mp4?traffic_source=rss",
+          "published": "Mon, 17 Aug 2026 04:58:47 +0000"
         },
         {
           "source": "Al Jazeera",
@@ -116,24 +134,6 @@
           "title": "Palestinian-American travels to West Bank home encircled by Israeli settler",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/08-17-26-pal-american-qusra-sv-mp4?traffic_source=rss",
           "published": "Mon, 17 Aug 2026 03:41:30 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Rare Pallas’s cat captured on camera in northern Iran mountains",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/rare-pallass-cat-captured-on-camera-in-northern-iran-mountains?traffic_source=rss",
-          "published": "Mon, 17 Aug 2026 02:55:01 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Zambia incumbent takes early election lead as opposition alleges armed raid",
-          "link": "https://www.aljazeera.com/news/2026/8/17/zambia-incumbent-takes-early-election-lead-as-opposition-alleges-armed-raid?traffic_source=rss",
-          "published": "Mon, 17 Aug 2026 02:27:39 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Ebola outbreak in DR Congo becomes deadliest in country’s history",
-          "link": "https://www.aljazeera.com/news/2026/8/17/ebola-outbreak-in-dr-congo-becomes-deadliest-in-countrys-history?traffic_source=rss",
-          "published": "Mon, 17 Aug 2026 01:41:40 +0000"
         }
       ]
     }
