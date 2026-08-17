@@ -1,6 +1,13 @@
 {
-  "generated_at": "2026-08-17T17:45:56Z",
+  "generated_at": "2026-08-17T18:13:24Z",
   "items": [
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "Крадци украле ремек-дела од ренесансата на Сицилија, се истражува можна врска со мафијата",
+      "link": "https://makfax.com.mk/svet/kradci-ukrale-remek-dela-od-renesansata-na-sicilija-se-istrazhuva-mozhna-vrska-so-mafijata/",
+      "published": "Mon, 17 Aug 2026 18:00:21 +0000"
+    },
     {
       "region": "Македонија",
       "source": "Makfax",
@@ -31,10 +38,10 @@
     },
     {
       "region": "Македонија",
-      "source": "Makfax",
-      "title": "Венецуела бара враќање на 31 тон злато од Велика Британија",
-      "link": "https://makfax.com.mk/svet/venecuela-bara-vrakanje-na-31-ton-zlato-od-velika-britanija/",
-      "published": "Mon, 17 Aug 2026 15:47:06 +0000"
+      "source": "NetPress",
+      "title": "ЦУК: Активни седум пожари, два под контрола и 13 изгаснати",
+      "link": "https://netpress.com.mk/czuk-aktivni-sedum-pozhari-dva-pod-kontrola-i-13-izgasnati/",
+      "published": "Mon, 17 Aug 2026 18:12:26 +0000"
     },
     {
       "region": "Македонија",
@@ -63,13 +70,6 @@
       "title": "ВИДЕО| СДСМ: Експлозија на бомба во дворот на М. Б, вработен во МВР, поврзан со кумот на Мицкоски",
       "link": "https://netpress.com.mk/video-sdsm-eksplozija-na-bomba-vo-dvorot-na-m-b-vraboten-vo-mvr-povrzan-so-kumot-na-miczkoski/",
       "published": "Mon, 17 Aug 2026 15:01:12 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Тројца малолетници предизвикале пожар пред продавница во Свети Николе",
-      "link": "https://netpress.com.mk/trojcza-maloletniczi-predizvikale-pozhar-pred-prodavnicza-vo-sveti-nikole/",
-      "published": "Mon, 17 Aug 2026 14:32:24 +0000"
     },
     {
       "region": "Свет",
@@ -109,6 +109,20 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "Clashes between government and opposition fighters in Somalia’s Baidoa",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/clashes-between-government-and-opposition-fighters-in-somalias-baidoa?traffic_source=rss",
+      "published": "Mon, 17 Aug 2026 17:42:02 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Syria launches probe into death of ‘White Helmet’ rescuer in police custody",
+      "link": "https://www.aljazeera.com/news/2026/8/17/syria-launches-probe-into-death-of-man-in-police-custody?traffic_source=rss",
+      "published": "Mon, 17 Aug 2026 17:37:31 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "Explosion reported at school in Afghan capital Kabul",
       "link": "https://www.aljazeera.com/news/2026/8/17/explosion-reported-at-school-in-afghan-capital-kabul?traffic_source=rss",
       "published": "Mon, 17 Aug 2026 17:30:11 +0000"
@@ -126,20 +140,6 @@
       "title": "Netanyahu’s Likud Party holds primaries ahead of Israel’s general elections",
       "link": "https://www.aljazeera.com/news/2026/8/17/netanyahus-likud-party-holds-primaries-ahead-of-israels-general-elections?traffic_source=rss",
       "published": "Mon, 17 Aug 2026 17:07:29 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Palestinians, Israelis sceptical of Gaza plan as Kushner visits region",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/palestinians-israelis-sceptical-of-gaza-plan-as-kushner-visits-region?traffic_source=rss",
-      "published": "Mon, 17 Aug 2026 16:50:15 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "British PM Burnham duped by White House impostor",
-      "link": "https://www.aljazeera.com/news/2026/8/17/british-pm-burnham-duped-by-white-house-impostor?traffic_source=rss",
-      "published": "Mon, 17 Aug 2026 16:48:24 +0000"
     }
   ]
 }
