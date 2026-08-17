@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T22:15:06Z",
+  "generated_at": "2026-08-17T22:42:33Z",
   "items": [
     {
       "region": "Македонија",
@@ -109,6 +109,13 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "As rubble clears, Colombia begins focusing on recovery after the earthquake",
+      "link": "https://www.aljazeera.com/news/2026/8/17/as-rubble-clears-colombia-begins-focusing-on-recovery-after-the-earthquake?traffic_source=rss",
+      "published": "Mon, 17 Aug 2026 22:26:12 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "‘Truth or fiction’: US trial of Tupac Shakur’s accused killer begins",
       "link": "https://www.aljazeera.com/news/2026/8/17/truth-or-fiction-us-trial-of-tupac-shakurs-accused-killer-begins?traffic_source=rss",
       "published": "Mon, 17 Aug 2026 21:39:22 +0000"
@@ -133,13 +140,6 @@
       "title": "Trump says Iran will not make the deal he believes is necessary",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/trump-says-iran-will-not-make-the-deal-he-believes-is-necessary?traffic_source=rss",
       "published": "Mon, 17 Aug 2026 20:49:30 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Trump loses second Supreme Court bid over E Jean Carroll sex abuse case",
-      "link": "https://www.aljazeera.com/news/2026/8/17/trump-loses-second-supreme-court-bid-over-e-jean-carroll-sex-abuse-case?traffic_source=rss",
-      "published": "Mon, 17 Aug 2026 20:46:34 +0000"
     }
   ]
 }
