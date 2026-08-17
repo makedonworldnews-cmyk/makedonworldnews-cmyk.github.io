@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T21:50:19Z",
+  "updatedAt": "2026-08-17T22:23:47Z",
   "groups": [
     {
       "region": "Македонија",
@@ -107,6 +107,12 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "‘Truth or fiction’: US trial of Tupac Shakur’s accused killer begins",
+          "link": "https://www.aljazeera.com/news/2026/8/17/truth-or-fiction-us-trial-of-tupac-shakurs-accused-killer-begins?traffic_source=rss",
+          "published": "Mon, 17 Aug 2026 21:39:22 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Palestinian American reunites with family under siege in West Bank",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/palestinian-american-reunites-with-family-under-siege-in-west-bank?traffic_source=rss",
           "published": "Mon, 17 Aug 2026 20:57:19 +0000"
@@ -128,12 +134,6 @@
           "title": "Trump loses second Supreme Court bid over E Jean Carroll sex abuse case",
           "link": "https://www.aljazeera.com/news/2026/8/17/trump-loses-second-supreme-court-bid-over-e-jean-carroll-sex-abuse-case?traffic_source=rss",
           "published": "Mon, 17 Aug 2026 20:46:34 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Torrential rains flood homes and roads across Lima, Peru",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/torrential-rains-flood-homes-and-roads-across-lima-peru?traffic_source=rss",
-          "published": "Mon, 17 Aug 2026 20:41:39 +0000"
         }
       ]
     }
