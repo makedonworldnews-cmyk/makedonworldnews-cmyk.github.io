@@ -1,10 +1,24 @@
 {
-  "generated_at": "2026-08-17T15:34:24Z",
+  "generated_at": "2026-08-17T15:53:52Z",
   "items": [
     {
       "region": "Македонија",
       "source": "Makfax",
-      "title": "За една ноќ, казнети 63 возачи за возење под дејство на алкохол, осумммина уапсени",
+      "title": "Венецуела бара враќање на 31 тон злато од Велика Британија",
+      "link": "https://makfax.com.mk/svet/venecuela-bara-vrakanje-na-31-ton-zlato-od-velika-britanija/",
+      "published": "Mon, 17 Aug 2026 15:47:06 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "Работна средба на Шасивари со претставници на Проектот на Европската Унија за владеење на правото",
+      "link": "https://makfax.com.mk/makedonija/rabotna-sredba-na-shasivari-so-pretstavnici-na-proektot-na-evropskata-unija-za-vladeenje-na-pravoto/",
+      "published": "Mon, 17 Aug 2026 15:42:37 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "За една ноќ, казнети 63 возачи за возење под дејство на алкохол, осуммина уапсени",
       "link": "https://makfax.com.mk/makedonija/za-edna-nok-kazneti-63-vozachi-za-vozenje-pod-dejstvo-na-alkohol-osummmina-uapseni/",
       "published": "Mon, 17 Aug 2026 15:17:06 +0000"
     },
@@ -21,20 +35,6 @@
       "title": "Русија го бара синот на американскиот министер за здравство, се борел на страната на Украина",
       "link": "https://makfax.com.mk/svet/rusija-go-bara-sinot-na-amerikanskiot-minister-za-zdravstvo-se-borel-na-stranata-na-ukraina/",
       "published": "Mon, 17 Aug 2026 14:47:09 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "Makfax",
-      "title": "ДУИ: На “не-Вреди” му го дадоа Министерството, а културата продолжува да ја води ВМРО- ДПМНЕ",
-      "link": "https://makfax.com.mk/soopstenija/dui-na-ne-vredi-mu-go-dadoa-ministerstvoto-a-kulturata-prodolzhuva-da-ja-vodi-vmro-dpmne/",
-      "published": "Mon, 17 Aug 2026 14:39:31 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "Makfax",
-      "title": "Стоилковиќ на средба со Колумбиа за продлабочување на соработката за поддршка на општините",
-      "link": "https://makfax.com.mk/makedonija/stoilkovik-na-sredba-so-kolumbia-za-prodlabochuvanje-na-sorabotkata-za-poddrshka-na-opshtinite/",
-      "published": "Mon, 17 Aug 2026 14:35:29 +0000"
     },
     {
       "region": "Македонија",
@@ -74,7 +74,7 @@
     {
       "region": "Свет",
       "source": "BBC",
-      "title": "Trump threatens to bomb Oman if it 'gets in the way' over Iran issue",
+      "title": "Trump threatens to bomb US ally Oman if it 'gets in the way' over Iran issue",
       "link": "https://www.bbc.co.uk/news/articles/cy5dzk0ryzdo?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 17 Aug 2026 14:59:02 GMT"
     },
@@ -109,6 +109,27 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "Rights group urges FIFA to block Infantino re-election bid over term limits",
+      "link": "https://www.aljazeera.com/sports/2026/8/17/rights-group-urges-fifa-to-block-infantino-re-election-bid-over-term-limits?traffic_source=rss",
+      "published": "Mon, 17 Aug 2026 15:21:47 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Police execute controlled World War II–era Mine explosion",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/police-execute-controlled-world-war-ii-era-mine?traffic_source=rss",
+      "published": "Mon, 17 Aug 2026 15:08:17 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Trump demands Iran ‘put up the white flag of surrender’ as MoU expires",
+      "link": "https://www.aljazeera.com/news/2026/8/17/trump-demands-iran-put-up-the-white-flag-of-surrender-as-mou-expires?traffic_source=rss",
+      "published": "Mon, 17 Aug 2026 15:06:14 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "Iran signals readiness for ‘US ground operations’ as MoU expires",
       "link": "https://www.aljazeera.com/news/2026/8/17/iran-signals-readiness-for-us-ground-operations-as-mou-expires?traffic_source=rss",
       "published": "Mon, 17 Aug 2026 14:15:17 +0000"
@@ -119,27 +140,6 @@
       "title": "Boat sets sail from Bristol, aiming to break Israel’s siege of Gaza",
       "link": "https://www.aljazeera.com/news/2026/8/17/boat-sets-sail-from-bristol-aiming-to-break-israels-siege-of-gaza?traffic_source=rss",
       "published": "Mon, 17 Aug 2026 14:12:08 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Lula and Bolsonaro’s son launch rival bids for Brazil presidency",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/lula-and-bolsonaros-son-launch-rival-bids-for-brazil-presidency?traffic_source=rss",
-      "published": "Mon, 17 Aug 2026 14:03:26 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Global condemnation of Israeli settler violence against Palestinians",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/global-condemnation-of-israeli-settler-violence-against-palestinians?traffic_source=rss",
-      "published": "Mon, 17 Aug 2026 14:01:51 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Trump hails Mecca pact: Can it replace the region’s US security umbrella?",
-      "link": "https://www.aljazeera.com/news/2026/8/17/trump-hails-mecca-pact-can-it-replace-the-regions-us-security-umbrella?traffic_source=rss",
-      "published": "Mon, 17 Aug 2026 13:48:09 +0000"
     }
   ]
 }
