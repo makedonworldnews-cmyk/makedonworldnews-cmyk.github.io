@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T16:59:41Z",
+  "updatedAt": "2026-08-17T17:35:53Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) Чешкиот премиер се извини дека берел цвеќиња во национален парк",
+          "link": "https://makfax.com.mk/svet/video-cheshkiot-premier-se-izvini-deka-berel-cvekinja-vo-nacionalen-park/",
+          "published": "Mon, 17 Aug 2026 17:01:10 +0000"
         },
         {
           "source": "Makfax",
@@ -35,10 +41,10 @@
           "published": "Mon, 17 Aug 2026 15:47:06 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Работна средба на Шасивари со претставници на Проектот на Европската Унија за владеење на правото",
-          "link": "https://makfax.com.mk/makedonija/rabotna-sredba-na-shasivari-so-pretstavnici-na-proektot-na-evropskata-unija-za-vladeenje-na-pravoto/",
-          "published": "Mon, 17 Aug 2026 15:42:37 +0000"
+          "source": "NetPress",
+          "title": "Без вода утре дел од центарот на Скопје",
+          "link": "https://netpress.com.mk/bez-voda-utre-del-od-czentarot-na-skopje-4/",
+          "published": "Mon, 17 Aug 2026 17:28:29 +0000"
         },
         {
           "source": "NetPress",
@@ -63,12 +69,6 @@
           "title": "Тројца малолетници предизвикале пожар пред продавница во Свети Николе",
           "link": "https://netpress.com.mk/trojcza-maloletniczi-predizvikale-pozhar-pred-prodavnicza-vo-sveti-nikole/",
           "published": "Mon, 17 Aug 2026 14:32:24 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Цените на нафтата над 89 долари",
-          "link": "https://netpress.com.mk/czenite-na-naftata-nad-89-dolari/",
-          "published": "Mon, 17 Aug 2026 14:05:32 +0000"
         }
       ]
     },
@@ -83,27 +83,45 @@
         },
         {
           "source": "BBC",
-          "title": "Trump says US to reduce military drills with South Korea after it stayed out of Iran war",
-          "link": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
-          "published": "Mon, 17 Aug 2026 06:24:31 GMT"
-        },
-        {
-          "source": "BBC",
           "title": "Russia and Ukraine trade more deadly strikes",
           "link": "https://www.bbc.co.uk/news/articles/cn7n4lm11vro?at_medium=RSS&at_campaign=rss",
           "published": "Mon, 17 Aug 2026 13:16:50 GMT"
         },
         {
           "source": "BBC",
-          "title": "Aid shortages and fears of starvation as Indonesia reels from deadly earthquake",
-          "link": "https://www.bbc.co.uk/news/articles/crl7686r71yo?at_medium=RSS&at_campaign=rss",
-          "published": "Mon, 17 Aug 2026 10:39:24 GMT"
+          "title": "Trump says US to reduce military drills with South Korea after it stayed out of Iran war",
+          "link": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 17 Aug 2026 06:24:31 GMT"
+        },
+        {
+          "source": "BBC",
+          "title": "Russia's prominent anti-war politician jailed for 11 years",
+          "link": "https://www.bbc.co.uk/news/articles/cj4kjnle2neo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 17 Aug 2026 16:17:34 GMT"
         },
         {
           "source": "BBC",
           "title": "US hiker dies after being struck by lightning on Mount Etna",
           "link": "https://www.bbc.co.uk/news/articles/ce34rlkw6q7o?at_medium=RSS&at_campaign=rss",
           "published": "Mon, 17 Aug 2026 12:23:26 GMT"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Netanyahu’s Likud Party holds primaries ahead of Israel’s general elections",
+          "link": "https://www.aljazeera.com/news/2026/8/17/netanyahus-likud-party-holds-primaries-ahead-of-israels-general-elections?traffic_source=rss",
+          "published": "Mon, 17 Aug 2026 17:07:29 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Palestinians, Israelis sceptical of Gaza plan as Kushner visits region",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/palestinians-israelis-sceptical-of-gaza-plan-as-kushner-visits-region?traffic_source=rss",
+          "published": "Mon, 17 Aug 2026 16:50:15 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "British PM Burnham duped by White House impostor",
+          "link": "https://www.aljazeera.com/news/2026/8/17/british-pm-burnham-duped-by-white-house-impostor?traffic_source=rss",
+          "published": "Mon, 17 Aug 2026 16:48:24 +0000"
         },
         {
           "source": "Al Jazeera",
@@ -116,24 +134,6 @@
           "title": "Somali army clashes with rebel forces for control of key city Baidoa",
           "link": "https://www.aljazeera.com/news/2026/8/17/somali-army-clashes-with-rebel-forces-for-control-of-key-city-baidoa?traffic_source=rss",
           "published": "Mon, 17 Aug 2026 16:24:43 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Democrats rebuke Trump over scaling back military drills with South Korea",
-          "link": "https://www.aljazeera.com/news/2026/8/17/democrats-rebuke-trump-over-scaling-back-military-drills-with-south-korea?traffic_source=rss",
-          "published": "Mon, 17 Aug 2026 16:14:07 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "How Russian dissidents are being punished by both Russia and Europe",
-          "link": "https://www.aljazeera.com/opinions/2026/8/17/how-russian-dissidents-are-being-punished-by-both-russia-and-europe?traffic_source=rss",
-          "published": "Mon, 17 Aug 2026 15:54:34 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Rights group urges FIFA to block Infantino re-election bid over term limits",
-          "link": "https://www.aljazeera.com/sports/2026/8/17/rights-group-urges-fifa-to-block-infantino-re-election-bid-over-term-limits?traffic_source=rss",
-          "published": "Mon, 17 Aug 2026 15:21:47 +0000"
         }
       ]
     }
