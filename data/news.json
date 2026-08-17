@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T18:51:46Z",
+  "updatedAt": "2026-08-17T19:27:49Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,24 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Принцезата Јуџин го откри името на ќерката, ѝ оддаде посебна почит на кралицата Елизабета",
+          "link": "https://makfax.com.mk/zanimlivosti/princezata-judhin-go-otkri-imeto-na-kerkata-%d1%9d-oddade-posebna-pochit-na-kralicata-elizabeta/",
+          "published": "Mon, 17 Aug 2026 19:24:14 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Неочекувано, се пензионира Никола Калиниќ",
+          "link": "https://makfax.com.mk/sport/neochekuvano-se-penzionira-nikola-kalinik/",
+          "published": "Mon, 17 Aug 2026 19:23:11 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Трамп: Иран сака договор, но не под условите на САД",
+          "link": "https://makfax.com.mk/svet/tramp-iran-saka-dogovor-no-ne-pod-uslovite-na-sad/",
+          "published": "Mon, 17 Aug 2026 18:52:34 +0000"
         },
         {
           "source": "Makfax",
@@ -23,26 +41,20 @@
           "published": "Mon, 17 Aug 2026 18:00:21 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "(Видео) Чешкиот премиер се извини дека берел цвеќиња во национален парк",
-          "link": "https://makfax.com.mk/svet/video-cheshkiot-premier-se-izvini-deka-berel-cvekinja-vo-nacionalen-park/",
-          "published": "Mon, 17 Aug 2026 17:01:10 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Утре без вода делови од Општина Центар",
-          "link": "https://makfax.com.mk/makedonija/utre-bez-voda-delovi-od-opshtina-centar/",
-          "published": "Mon, 17 Aug 2026 16:57:12 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Иран им се закани на САД со промена на тактиката",
-          "link": "https://makfax.com.mk/svet/iran-im-se-zakani-na-sad-so-promena-na-taktikata/",
-          "published": "Mon, 17 Aug 2026 16:31:50 +0000"
+          "source": "NetPress",
+          "title": "Разговорите на Кушнер со Израел за Појасот Газа без напредок",
+          "link": "https://netpress.com.mk/razgovorite-na-kushner-so-izrael-za-pojasot-gaza-bez-napredok/",
+          "published": "Mon, 17 Aug 2026 19:23:40 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Божиновска: Македонија се подготвува официјално да се приклучи кон Вертикалниот гасен коридо",
+          "title": "ВИДЕО| Последното збогување со Бони Тајлер со песната „Total eclipse of the heart“",
+          "link": "https://netpress.com.mk/video-poslednoto-zboguvane-so-boni-tajler-so-pesnata-total-eclipse-of-the-heart/",
+          "published": "Mon, 17 Aug 2026 18:54:39 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Божиновска: Македонија се подготвува официјално да се приклучи кон Вертикалниот гасен коридор",
           "link": "https://netpress.com.mk/bozhinovska-makedonija-se-podgotvuva-oficzijalno-da-se-prikluchi-kon-vertikalniot-gasen-korido/",
           "published": "Mon, 17 Aug 2026 18:34:54 +0000"
         },
@@ -57,18 +69,6 @@
           "title": "Без вода утре дел од центарот на Скопје",
           "link": "https://netpress.com.mk/bez-voda-utre-del-od-czentarot-na-skopje-4/",
           "published": "Mon, 17 Aug 2026 17:28:29 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Нови седум осомничени за транспорт на марихуана од земјава во Србија",
-          "link": "https://netpress.com.mk/novi-sedum-osomnicheni-za-transport-na-marihuana-od-zemjava-vo-srbija/",
-          "published": "Mon, 17 Aug 2026 16:48:19 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Во Батинци петмина нападнале маж (41) и неговиот малолетен син",
-          "link": "https://netpress.com.mk/vo-batinczi-petmina-napadnale-mazh-41-i-negoviot-maloleten-sin/",
-          "published": "Mon, 17 Aug 2026 16:20:00 +0000"
         }
       ]
     },
@@ -79,7 +79,7 @@
           "source": "BBC",
           "title": "Trump threatens to bomb US ally Oman if it 'gets in the way' over Iran deal",
           "link": "https://www.bbc.co.uk/news/articles/cy5dzk0ryzdo?at_medium=RSS&at_campaign=rss",
-          "published": "Mon, 17 Aug 2026 16:26:34 GMT"
+          "published": "Mon, 17 Aug 2026 19:25:05 GMT"
         },
         {
           "source": "BBC",
@@ -107,6 +107,18 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Russian politician sentenced to 11 years for opposing war in Ukraine",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/russian-politician-sentenced-to-11-years-for-opposing-war-in-ukraine?traffic_source=rss",
+          "published": "Mon, 17 Aug 2026 18:53:06 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Russia maintains election ban on opposition Yabloko, jails deputy head",
+          "link": "https://www.aljazeera.com/news/2026/8/17/russia-maintains-election-ban-on-opposition-yabloko-jails-deputy-head?traffic_source=rss",
+          "published": "Mon, 17 Aug 2026 18:46:12 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "CAIR slams Texas governor’s ‘anti-Muslim stunt’ on airport washing stations",
           "link": "https://www.aljazeera.com/news/2026/8/17/cair-slams-texas-governors-anti-muslim-stunt-on-airport-washing-stations?traffic_source=rss",
           "published": "Mon, 17 Aug 2026 18:02:15 +0000"
@@ -122,18 +134,6 @@
           "title": "Syria launches probe into death of ‘White Helmet’ rescuer in police custody",
           "link": "https://www.aljazeera.com/news/2026/8/17/syria-launches-probe-into-death-of-man-in-police-custody?traffic_source=rss",
           "published": "Mon, 17 Aug 2026 17:37:31 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Explosion reported at school in Afghan capital Kabul",
-          "link": "https://www.aljazeera.com/news/2026/8/17/explosion-reported-at-school-in-afghan-capital-kabul?traffic_source=rss",
-          "published": "Mon, 17 Aug 2026 17:30:11 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Britain deploys military as wildfires spread across Europe",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/britain-deploys-military-as-wildfires-spread-across-europe?traffic_source=rss",
-          "published": "Mon, 17 Aug 2026 17:25:37 +0000"
         }
       ]
     }
