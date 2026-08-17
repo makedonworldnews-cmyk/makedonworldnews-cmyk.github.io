@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T03:30:21Z",
+  "updatedAt": "2026-08-17T04:23:10Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Без струја денеска делови од општините Илинден и Гази Баба",
+          "link": "https://makfax.com.mk/makedonija/bez-struja-deneska-delovi-od-opshtinite-ilinden-i-gazi-baba/",
+          "published": "Mon, 17 Aug 2026 04:22:02 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Температурата денеска до 38 степени, утре пороен дожд, грмежи и засилен ветер",
+          "link": "https://makfax.com.mk/makedonija/temperaturata-deneska-do-38-stepeni-utre-poroen-dozhd-grmezhi-i-zasilen-veter/",
+          "published": "Mon, 17 Aug 2026 04:18:05 +0000"
         },
         {
           "source": "Makfax",
@@ -27,18 +39,6 @@
           "title": "Ејми Хант е супер ѕвезда",
           "link": "https://makfax.com.mk/sport/ejmi-hant-e-super-zvezda/",
           "published": "Sun, 16 Aug 2026 22:16:02 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Во пакистанска болница користеле исти шприцови за повеќе пациенти, 331 дете позитивно на ХИВ",
-          "link": "https://makfax.com.mk/svet/vo-pakistanska-bolnica-koristele-isti-shpricovi-za-poveke-pacienti-331-dete-pozitivno-na-hiv/",
-          "published": "Sun, 16 Aug 2026 18:36:28 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "(Видео) Туристи во танги се качуваат во потопената црква во Мавровското Езеро",
-          "link": "https://makfax.com.mk/makedonija/video-turisti-vo-tangi-se-kachuvaat-vo-potopenata-crkva-vo-mavrovskoto-ezero/",
-          "published": "Sun, 16 Aug 2026 18:04:16 +0000"
         },
         {
           "source": "NetPress",
@@ -95,15 +95,27 @@
         },
         {
           "source": "BBC",
+          "title": "Actress Hayden Panettiere dies aged 36, US media report",
+          "link": "https://www.bbc.co.uk/news/articles/cq5665zgg1po?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 17 Aug 2026 04:03:52 GMT"
+        },
+        {
+          "source": "BBC",
           "title": "Two dead and hundreds evacuated after twin fires break out on Greek island",
           "link": "https://www.bbc.co.uk/news/articles/c87nnwlpe5no?at_medium=RSS&at_campaign=rss",
           "published": "Sun, 16 Aug 2026 19:50:36 GMT"
         },
         {
-          "source": "BBC",
-          "title": "Four 'extraordinary' Renaissance paintings stolen from Italian museum",
-          "link": "https://www.bbc.co.uk/news/articles/cqjxx2gzd9qo?at_medium=RSS&at_campaign=rss",
-          "published": "Sun, 16 Aug 2026 13:34:38 GMT"
+          "source": "Al Jazeera",
+          "title": "Thieves steal Renaissance artworks in museum heist during Italian holiday",
+          "link": "https://www.aljazeera.com/news/2026/8/17/thieves-steal-renaissance-artworks-in-museum-heist-during-italian-holiday?traffic_source=rss",
+          "published": "Mon, 17 Aug 2026 03:53:07 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Palestinian-American travels to West Bank home encircled by Israeli settler",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/08-17-26-pal-american-qusra-sv-mp4?traffic_source=rss",
+          "published": "Mon, 17 Aug 2026 03:41:30 +0000"
         },
         {
           "source": "Al Jazeera",
@@ -122,18 +134,6 @@
           "title": "Ebola outbreak in DR Congo becomes deadliest in country’s history",
           "link": "https://www.aljazeera.com/news/2026/8/17/ebola-outbreak-in-dr-congo-becomes-deadliest-in-countrys-history?traffic_source=rss",
           "published": "Mon, 17 Aug 2026 01:41:40 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Israeli settlers pitch tents for new illegal outpost in occupied West Bank",
-          "link": "https://www.aljazeera.com/news/2026/8/17/israeli-settlers-pitch-tents-for-new-illegal-outpost-in-occupied-west-bank?traffic_source=rss",
-          "published": "Mon, 17 Aug 2026 01:28:13 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Can the AU make its current Sudan mission count?",
-          "link": "https://www.aljazeera.com/news/2026/8/17/can-the-au-make-its-current-sudan-mission-count?traffic_source=rss",
-          "published": "Mon, 17 Aug 2026 01:13:37 +0000"
         }
       ]
     }
