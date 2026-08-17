@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T14:40:00Z",
+  "updatedAt": "2026-08-17T15:00:53Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) СДСМ објави снимка од експлозија на бомба тврди дека е во дворот на вработен во МВР, поврзан со кумот на Мицкоски",
+          "link": "https://makfax.com.mk/soopstenija/video-sdsm-objavi-snimka-od-eksplozija-na-bomba-tvrdi-deka-e-vo-dvorot-na-vraboten-vo-mvr-povrzan-so-kumot-na-mickoski/",
+          "published": "Mon, 17 Aug 2026 14:56:28 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Русија го бара синот на американскиот министер за здравство, се борел на страната на Украина",
+          "link": "https://makfax.com.mk/svet/rusija-go-bara-sinot-na-amerikanskiot-minister-za-zdravstvo-se-borel-na-stranata-na-ukraina/",
+          "published": "Mon, 17 Aug 2026 14:47:09 +0000"
         },
         {
           "source": "Makfax",
@@ -27,18 +39,6 @@
           "title": "Девет општини добија грантови за развој на социјални услуги за помош на стари и немоќни лица и лица со попреченост",
           "link": "https://makfax.com.mk/makedonija/devet-opshtini-dobija-grantovi-za-razvoj-na-socijalni-uslugi-za-pomosh-na-stari-i-nemokni-lica-i-lica-so-poprechenost/",
           "published": "Mon, 17 Aug 2026 14:24:59 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Несреќа кај Ласкарци: Удрил во ограда и излетал од патот, тројца млади тешко повредени",
-          "link": "https://makfax.com.mk/crna-hronika/nesreka-kaj-laskarci-udril-vo-ograda-i-izletal-od-patot-trojca-mladi-teshko-povredeni/",
-          "published": "Mon, 17 Aug 2026 14:19:55 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Турист загина од удар на гром на Етна",
-          "link": "https://makfax.com.mk/svet/turist-zagina-od-udar-na-grom-na-etna/",
-          "published": "Mon, 17 Aug 2026 14:15:01 +0000"
         },
         {
           "source": "NetPress",
@@ -77,15 +77,15 @@
       "items": [
         {
           "source": "BBC",
-          "title": "Trump says US to reduce military drills with South Korea after it stayed out of Iran war",
-          "link": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
-          "published": "Mon, 17 Aug 2026 06:24:31 GMT"
+          "title": "Trump threatens to bomb Oman if it 'gets in the way' over Iran issue",
+          "link": "https://www.bbc.co.uk/news/articles/cy5dzk0ryzdo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 17 Aug 2026 14:59:02 GMT"
         },
         {
           "source": "BBC",
-          "title": "Trump envoy Kushner meets Netanyahu after Hamas talks on peace plan",
-          "link": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
-          "published": "Mon, 17 Aug 2026 13:58:38 GMT"
+          "title": "Trump says US to reduce military drills with South Korea after it stayed out of Iran war",
+          "link": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 17 Aug 2026 06:24:31 GMT"
         },
         {
           "source": "BBC",
@@ -101,9 +101,21 @@
         },
         {
           "source": "BBC",
-          "title": "Ebola outbreak in DR Congo becomes deadliest in its history",
-          "link": "https://www.bbc.co.uk/news/articles/cvgll74vvydo?at_medium=RSS&at_campaign=rss",
-          "published": "Mon, 17 Aug 2026 04:41:31 GMT"
+          "title": "US hiker dies after being struck by lightning on Mount Etna",
+          "link": "https://www.bbc.co.uk/news/articles/ce34rlkw6q7o?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 17 Aug 2026 12:23:26 GMT"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Iran signals readiness for ‘US ground operations’ as MoU expires",
+          "link": "https://www.aljazeera.com/news/2026/8/17/iran-signals-readiness-for-us-ground-operations-as-mou-expires?traffic_source=rss",
+          "published": "Mon, 17 Aug 2026 14:15:17 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Boat sets sail from Bristol, aiming to break Israel’s siege of Gaza",
+          "link": "https://www.aljazeera.com/news/2026/8/17/boat-sets-sail-from-bristol-aiming-to-break-israels-siege-of-gaza?traffic_source=rss",
+          "published": "Mon, 17 Aug 2026 14:12:08 +0000"
         },
         {
           "source": "Al Jazeera",
@@ -122,18 +134,6 @@
           "title": "Trump hails Mecca pact: Can it replace the region’s US security umbrella?",
           "link": "https://www.aljazeera.com/news/2026/8/17/trump-hails-mecca-pact-can-it-replace-the-regions-us-security-umbrella?traffic_source=rss",
           "published": "Mon, 17 Aug 2026 13:48:09 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "French Serie A footballer Yael Trepy in intensive care after near-drowning",
-          "link": "https://www.aljazeera.com/sports/2026/8/17/french-serie-a-footballer-yael-trepy-in-intensive-care-after-near-drowning?traffic_source=rss",
-          "published": "Mon, 17 Aug 2026 13:24:57 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Why Kushner met Hamas leaders, and what it means for Trump’s Gaza roadmap",
-          "link": "https://www.aljazeera.com/news/2026/8/17/why-kushner-met-hamas-leaders-and-what-it-means-for-trumps-gaza-roadmap?traffic_source=rss",
-          "published": "Mon, 17 Aug 2026 13:07:19 +0000"
         }
       ]
     }
