@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T05:49:00Z",
+  "updatedAt": "2026-08-18T06:17:53Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,24 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Македонскиот виолинист со интернационална кариера Емилио Перцан: Огромна инспирација е да се работи со младите",
+          "link": "https://makfax.com.mk/kultura/makedonskiot-violinist-so-internacionalna-kariera-emilio-percan-ogromna-inspiracija-e-da-se-raboti-so-mladite/",
+          "published": "Tue, 18 Aug 2026 06:16:11 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Младинскиот оркестар на Западен Балкан со 75 членови настапи на „Охридско лето“",
+          "link": "https://makfax.com.mk/kultura/mladinskiot-orkestar-na-zapaden-balkan-so-75-chlenovi-nastapi-na-ohridsko-leto/",
+          "published": "Tue, 18 Aug 2026 06:13:50 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Сончево време со температура до 38 степени, од четврток над 40 степени",
+          "link": "https://makfax.com.mk/makedonija/sonchevo-vreme-so-temperatura-do-38-stepeni-od-chetvrtok-nad-40-stepeni/",
+          "published": "Tue, 18 Aug 2026 06:09:22 +0000"
         },
         {
           "source": "Makfax",
@@ -23,22 +41,16 @@
           "published": "Mon, 17 Aug 2026 19:31:16 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Принцезата Јуџин го откри името на ќерката, ѝ оддаде посебна почит на кралицата Елизабета",
-          "link": "https://makfax.com.mk/zanimlivosti/princezata-judhin-go-otkri-imeto-na-kerkata-%d1%9d-oddade-posebna-pochit-na-kralicata-elizabeta/",
-          "published": "Mon, 17 Aug 2026 19:24:14 +0000"
+          "source": "NetPress",
+          "title": "Москва го предупреди Лондон на „последици“ за нападите со британски дронови врз Русија",
+          "link": "https://netpress.com.mk/moskva-go-predupredi-london-na-poslediczi-za-napadite-so-britanski-dronovi-vrz-rusija/",
+          "published": "Tue, 18 Aug 2026 06:17:14 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Неочекувано, се пензионира Никола Калиниќ",
-          "link": "https://makfax.com.mk/sport/neochekuvano-se-penzionira-nikola-kalinik/",
-          "published": "Mon, 17 Aug 2026 19:23:11 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Трамп: Иран сака договор, но не под условите на САД",
-          "link": "https://makfax.com.mk/svet/tramp-iran-saka-dogovor-no-ne-pod-uslovite-na-sad/",
-          "published": "Mon, 17 Aug 2026 18:52:34 +0000"
+          "source": "NetPress",
+          "title": "Волстрит ја започна седмицата со пад на индексите",
+          "link": "https://netpress.com.mk/volstrit-ja-zapochna-sedmiczata-so-pad-na-indeksite/",
+          "published": "Tue, 18 Aug 2026 05:57:56 +0000"
         },
         {
           "source": "NetPress",
@@ -57,18 +69,6 @@
           "title": "Дневен хороскоп за вторник, 18-ти август 2026-та",
           "link": "https://netpress.com.mk/dneven-horoskop-za-vtornik-18-ti-avgust-2026-ta/",
           "published": "Tue, 18 Aug 2026 04:57:51 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "И денеска сончево и топло, попладне локални врнежи и грмежи",
-          "link": "https://netpress.com.mk/i-deneska-sonchevo-i-toplo-popladne-lokalni-vrnezhi-i-grmezhi/",
-          "published": "Tue, 18 Aug 2026 04:37:07 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Враќањето на Депортиво во Ла Лига со освоен бод",
-          "link": "https://netpress.com.mk/vrakaneto-na-deportivo-vo-la-liga-so-osvoen-bod/",
-          "published": "Mon, 17 Aug 2026 21:43:03 +0000"
         }
       ]
     },
@@ -107,6 +107,12 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Trump says N Korea’s Kim has responded to his request for a conversation",
+          "link": "https://www.aljazeera.com/news/2026/8/18/trump-says-n-koreas-kim-has-responded-to-his-request-for-a-conversation?traffic_source=rss",
+          "published": "Tue, 18 Aug 2026 05:44:05 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Can Trump limit birthright citizenship? Legal experts are doubtful",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/can-trump-limit-birthright-citizenship-legal-experts-are-doubtful?traffic_source=rss",
           "published": "Tue, 18 Aug 2026 05:23:54 +0000"
@@ -128,12 +134,6 @@
           "title": "Thousands mourn Jason Arday in London, blaming ‘racist’ press for his death",
           "link": "https://www.aljazeera.com/features/2026/8/18/tens-of-thousands-mourn-jason-arday-in-london-blaming-press-for-his-death?traffic_source=rss",
           "published": "Tue, 18 Aug 2026 03:17:58 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Two students killed in Philippine school shooting",
-          "link": "https://www.aljazeera.com/news/2026/8/18/two-killed-as-gunman-opens-fire-at-philippines-high-school-official-says?traffic_source=rss",
-          "published": "Tue, 18 Aug 2026 02:51:22 +0000"
         }
       ]
     }
