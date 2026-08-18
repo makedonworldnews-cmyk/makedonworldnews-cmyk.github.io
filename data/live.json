@@ -1,6 +1,20 @@
 {
-  "generated_at": "2026-08-18T15:13:44Z",
+  "generated_at": "2026-08-18T15:47:13Z",
   "items": [
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "Македонија меѓу земјите кои воведуваат нови санкции против Белорусија по моделот на ЕУ",
+      "link": "https://makfax.com.mk/svet/makedonija-megu-zemjite-koi-voveduvaat-novi-sankcii-protiv-belorusija-po-modelot-na-eu/",
+      "published": "Tue, 18 Aug 2026 15:45:39 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "(Видео) Гранада погодена од седум земјотреси: „Луѓето врескаа и трчаа“",
+      "link": "https://makfax.com.mk/svet/video-granada-pogodena-od-sedum-zemjotresi-lugeto-vreskaa-i-trchaa/",
+      "published": "Tue, 18 Aug 2026 15:15:14 +0000"
+    },
     {
       "region": "Македонија",
       "source": "Makfax",
@@ -24,17 +38,17 @@
     },
     {
       "region": "Македонија",
-      "source": "Makfax",
-      "title": "Утре без струја делови од општините Сопиште и Ѓорче Петров",
-      "link": "https://makfax.com.mk/makedonija/utre-bez-struja-delovi-od-opshtinite-sopishte-i-gorche-petrov/",
-      "published": "Tue, 18 Aug 2026 14:31:14 +0000"
+      "source": "NetPress",
+      "title": "ПСК „Осогово“ на 23 август го организира 4. Меморијален марш „Стамен Каровски“ на Пониква",
+      "link": "https://netpress.com.mk/psk-osogovo-na-23-avgust-go-organizira-4-memorijalen-marsh-stamen-karovski-na-ponikva/",
+      "published": "Tue, 18 Aug 2026 15:36:08 +0000"
     },
     {
       "region": "Македонија",
-      "source": "Makfax",
-      "title": "Мурињо официјално го започна вториот мандат во Реал",
-      "link": "https://makfax.com.mk/sport/murinjo-oficijalno-go-zapochna-vtoriot-mandat-vo-real/",
-      "published": "Tue, 18 Aug 2026 14:29:14 +0000"
+      "source": "NetPress",
+      "title": "Ерупциите на вулканот Етна предизвикаа големи прекини во летовите на Сицилија",
+      "link": "https://netpress.com.mk/erupcziite-na-vulkanot-etna-predizvikaa-golemi-prekini-vo-letovite-na-siczilija/",
+      "published": "Tue, 18 Aug 2026 15:14:37 +0000"
     },
     {
       "region": "Македонија",
@@ -56,20 +70,6 @@
       "title": "Ердоган потпиша закон за условно помилување на илјадници борци на ПКК",
       "link": "https://netpress.com.mk/erdogan-potpisha-zakon-za-uslovno-pomiluvane-na-iljadniczi-borczi-na-pkk/",
       "published": "Tue, 18 Aug 2026 14:32:23 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Гаши: Инвестирањето во Армијата е инвестиција во демократијата, мирот и посигурната европска иднина",
-      "link": "https://netpress.com.mk/gashi-investiraneto-vo-armijata-e-investiczija-vo-demokratijata-mirot-i-posigurnata-evropska-idnina/",
-      "published": "Tue, 18 Aug 2026 14:30:23 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Уапсен осомничениот за убиството  на португалски тинејџер во албански Ксамил",
-      "link": "https://netpress.com.mk/uapsen-osomnicheniot-za-ubistvoto-na-portugalski-tinejdher-vo-albanski-ksamil/",
-      "published": "Tue, 18 Aug 2026 13:54:13 +0000"
     },
     {
       "region": "Свет",
@@ -109,6 +109,13 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "Iran clubs face Qatar and UAE sides at neutral venues in Champions League",
+      "link": "https://www.aljazeera.com/sports/2026/8/18/iran-clubs-to-play-qatar-and-uae-champions-league-games-at-neutral-venues?traffic_source=rss",
+      "published": "Tue, 18 Aug 2026 15:14:17 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "US cites India on voter IDs, but are elections under Modi clean?",
       "link": "https://www.aljazeera.com/news/2026/8/18/us-cites-india-on-voter-ids-but-are-elections-under-modi-clean?traffic_source=rss",
       "published": "Tue, 18 Aug 2026 15:04:24 +0000"
@@ -133,13 +140,6 @@
       "title": "What to watch in the Alaska and Wyoming primary elections",
       "link": "https://www.aljazeera.com/news/2026/8/18/what-to-watch-in-the-alaska-and-wyoming-primary-elections?traffic_source=rss",
       "published": "Tue, 18 Aug 2026 14:29:11 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Hichilema re-elected as Zambia president amid opposition concerns over vote",
-      "link": "https://www.aljazeera.com/news/2026/8/18/hichilema-re-elected-as-zambia-president-amid-opposition-concerns-over-vote?traffic_source=rss",
-      "published": "Tue, 18 Aug 2026 14:01:47 +0000"
     }
   ]
 }
