@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T19:43:33Z",
+  "updatedAt": "2026-08-18T20:00:42Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) Израелскиот министер од градилиште: „Овде ќе има објект за бесење“",
+          "link": "https://makfax.com.mk/svet/video-izraelskiot-minister-od-gradilishte-%e2%80%9eovde-ke-ima-objekt-za-besenje%e2%80%9c/",
+          "published": "Tue, 18 Aug 2026 19:56:42 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Тони нуклеарен материјал пронајдени во Сирија",
+          "link": "https://makfax.com.mk/svet/toni-nuklearen-materijal-pronajdeni-vo-sirija/",
+          "published": "Tue, 18 Aug 2026 19:46:45 +0000"
         },
         {
           "source": "Makfax",
@@ -29,16 +41,10 @@
           "published": "Tue, 18 Aug 2026 18:59:03 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "(Видео) Ова е веќе сериозно, Мусијала повторно се струполи на теренот",
-          "link": "https://makfax.com.mk/sport/video-ova-e-veke-seriozno-musijala-povtorno-se-strupoli-na-terenot/",
-          "published": "Tue, 18 Aug 2026 18:48:44 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Ќе следи тешка ноќ, пожарникарите треба да го одбранат селото Крушевица, Ангелов објави дека пожарот во Мариово повторно се разгоре",
-          "link": "https://makfax.com.mk/makedonija/ke-sledi-teshka-nok-pozharnikarite-treba-da-go-odbranat-seloto-krushevica-angelov-objavi-deka-pozharot-vo-mariovo-povtorno-se-razgore/",
-          "published": "Tue, 18 Aug 2026 18:48:40 +0000"
+          "source": "NetPress",
+          "title": "САД воведоа санкции против претседателката на Меѓународниот кривичен суд во Хаг",
+          "link": "https://netpress.com.mk/sad-vovedoa-sankczii-protiv-pretsedatelkata-na-megunarodniot-krivichen-sud-vo-hag/",
+          "published": "Tue, 18 Aug 2026 20:00:34 +0000"
         },
         {
           "source": "NetPress",
@@ -63,12 +69,6 @@
           "title": "ПЕТ-скенот не е расипан, проблем е циклотронот, тврди Клековски, се прави сè што е можно побрзо да се набават суровини за него",
           "link": "https://netpress.com.mk/pet-skenot-ne-e-rasipan-problem-e-cziklotronot-tvrdi-klekovski-se-pravi-se-shto-e-mozhno-pobrzo-da-se-nabavat-surovini-za-nego/",
           "published": "Tue, 18 Aug 2026 18:52:44 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Пожарот во Мариово повторно се активира, огнената линија се протега на 20 километри",
-          "link": "https://netpress.com.mk/pozharot-vo-mariovo-povtorno-se-aktivira-ognenata-linija-se-protega-na-20-kilometri/",
-          "published": "Tue, 18 Aug 2026 18:46:22 +0000"
         }
       ]
     },
@@ -107,6 +107,24 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Turkish politician Melih Meric stabbed",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/turkish-politician-melih-meric-stabbed?traffic_source=rss",
+          "published": "Tue, 18 Aug 2026 19:51:17 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "US seeks to revive criminal case against Kilmar Abrego Garcia",
+          "link": "https://www.aljazeera.com/news/2026/8/18/us-seeks-to-revive-criminal-case-against-kilmar-abrego-garcia?traffic_source=rss",
+          "published": "Tue, 18 Aug 2026 19:46:39 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "The ‘witch-hunt’ of Jason Arday",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/the-witch-hunt-of-jason-arday?traffic_source=rss",
+          "published": "Tue, 18 Aug 2026 19:22:45 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "US judge says government can revoke deportation protections for Ethiopians",
           "link": "https://www.aljazeera.com/news/2026/8/18/us-judge-says-government-can-revoke-deportation-protections-for-ethiopians?traffic_source=rss",
           "published": "Tue, 18 Aug 2026 19:09:23 +0000"
@@ -116,24 +134,6 @@
           "title": "Landmark trial on Meta’s impact on children’s mental health begins in US",
           "link": "https://www.aljazeera.com/economy/2026/8/18/landmark-trial-on-metas-impact-on-childrens-mental-health-begins-in-us?traffic_source=rss",
           "published": "Tue, 18 Aug 2026 18:33:11 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Israeli strike on Gaza City cafe kills six, including child",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/israeli-strike-on-gaza-city-cafe-kills-six-including-child?traffic_source=rss",
-          "published": "Tue, 18 Aug 2026 18:32:24 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Police attack Indonesian student protesters, arresting at least 21",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/police-attack-indonesian-student-protesters-arresting-at-least-21?traffic_source=rss",
-          "published": "Tue, 18 Aug 2026 18:17:35 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Barcelona seal deal for World Cup winner Rodri from Manchester City",
-          "link": "https://www.aljazeera.com/sports/2026/8/18/barcelona-seal-deal-for-world-cup-winner-rodri-from-manchester-city?traffic_source=rss",
-          "published": "Tue, 18 Aug 2026 18:01:12 +0000"
         }
       ]
     }
