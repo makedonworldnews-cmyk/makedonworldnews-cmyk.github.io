@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T14:41:59Z",
+  "updatedAt": "2026-08-18T15:14:51Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Трамп: Ормускиот теснец е нова територија на САД",
+          "link": "https://makfax.com.mk/svet/tramp-ormuskiot-tesnec-e-nova-teritorija-na-sad/",
+          "published": "Tue, 18 Aug 2026 14:57:22 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Сите онколошки пациенти кои побараа помош се исплатени, објави Ѓорѓиевски",
+          "link": "https://makfax.com.mk/makedonija/site-onkoloshki-pacienti-koi-pobaraa-pomosh-se-isplateni-objavi-gorgievski/",
+          "published": "Tue, 18 Aug 2026 14:49:22 +0000"
         },
         {
           "source": "Makfax",
@@ -29,16 +41,16 @@
           "published": "Tue, 18 Aug 2026 14:29:14 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Сестрата на Драгана која загина во пожарот кај Омиш: „И викнав да го фрли куферот и да трча, потоа исчезна“",
-          "link": "https://makfax.com.mk/svet/region/sestrata-na-dragana-koja-zagina-vo-pozharot-kaj-omish-%e2%80%9ei-viknav-da-go-frli-kuferot-i-da-trcha-potoa-ischezna%e2%80%9c/",
-          "published": "Tue, 18 Aug 2026 14:28:10 +0000"
+          "source": "NetPress",
+          "title": "Ерупциите на вулканот Етна предизвикаа големи прекини во летовите на Сицилија",
+          "link": "https://netpress.com.mk/erupcziite-na-vulkanot-etna-predizvikaa-golemi-prekini-vo-letovite-na-siczilija/",
+          "published": "Tue, 18 Aug 2026 15:14:37 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Виера го презеде Сенегал",
-          "link": "https://makfax.com.mk/sport/viera-go-prezede-senegal/",
-          "published": "Tue, 18 Aug 2026 14:17:03 +0000"
+          "source": "NetPress",
+          "title": "Тошковски: 34 години македонска Армија – чест, традиција и сигурност за Македонија",
+          "link": "https://netpress.com.mk/toshkovski-34-godini-makedonska-armija-chest-tradiczija-i-sigurnost-za-makedonija/",
+          "published": "Tue, 18 Aug 2026 15:02:23 +0000"
         },
         {
           "source": "NetPress",
@@ -57,18 +69,6 @@
           "title": "Гаши: Инвестирањето во Армијата е инвестиција во демократијата, мирот и посигурната европска иднина",
           "link": "https://netpress.com.mk/gashi-investiraneto-vo-armijata-e-investiczija-vo-demokratijata-mirot-i-posigurnata-evropska-idnina/",
           "published": "Tue, 18 Aug 2026 14:30:23 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Уапсен осомничениот за убиството  на португалски тинејџер во албански Ксамил",
-          "link": "https://netpress.com.mk/uapsen-osomnicheniot-za-ubistvoto-na-portugalski-tinejdher-vo-albanski-ksamil/",
-          "published": "Tue, 18 Aug 2026 13:54:13 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Армијата е многу повеќе од униформа – таа е чест, одговорност, дисциплина и посветеност",
-          "link": "https://netpress.com.mk/armijata-e-mnogu-poveke-od-uniforma-taa-e-chest-odgovornost-discziplina-i-posvetenost/",
-          "published": "Tue, 18 Aug 2026 13:42:31 +0000"
         }
       ]
     },
@@ -83,21 +83,21 @@
         },
         {
           "source": "BBC",
-          "title": "IVF staff accused of misleading UK parents about sperm and egg donors in northern Cyprus",
-          "link": "https://www.bbc.co.uk/news/articles/c75gv9xnr3po?at_medium=RSS&at_campaign=rss",
-          "published": "Tue, 18 Aug 2026 08:07:37 GMT"
-        },
-        {
-          "source": "BBC",
-          "title": "Tupac murder trial: 'All hell broke loose' night of rapper's shooting, witness says",
-          "link": "https://www.bbc.co.uk/news/articles/cp3r0kz775ko?at_medium=RSS&at_campaign=rss",
-          "published": "Tue, 18 Aug 2026 05:24:15 GMT"
-        },
-        {
-          "source": "BBC",
           "title": "Inside secret police warehouse as Germany targets small boats gangs",
           "link": "https://www.bbc.co.uk/news/articles/cpq809zrvqdo?at_medium=RSS&at_campaign=rss",
           "published": "Tue, 18 Aug 2026 05:02:58 GMT"
+        },
+        {
+          "source": "BBC",
+          "title": "Brazil's President Lula hails oil discovery near Amazon river",
+          "link": "https://www.bbc.co.uk/news/articles/c4gd7xd8e8lo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 18 Aug 2026 13:13:54 GMT"
+        },
+        {
+          "source": "BBC",
+          "title": "IVF staff accused of misleading UK parents about sperm and egg donors in northern Cyprus",
+          "link": "https://www.bbc.co.uk/news/articles/c75gv9xnr3po?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 18 Aug 2026 08:07:37 GMT"
         },
         {
           "source": "BBC",
