@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T21:55:33Z",
+  "generated_at": "2026-08-18T22:14:29Z",
   "items": [
     {
       "region": "Македонија",
@@ -109,6 +109,13 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "Bolivia arrests political adviser to Latin American right-wingers",
+      "link": "https://www.aljazeera.com/news/2026/8/18/bolivia-arrests-political-adviser-to-latin-american-right-wingers?traffic_source=rss",
+      "published": "Tue, 18 Aug 2026 21:50:43 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "Trump administration moves to end rule protecting swaths of forest land",
       "link": "https://www.aljazeera.com/news/2026/8/18/trump-administration-moves-to-end-rule-protecting-swaths-of-forest-land?traffic_source=rss",
       "published": "Tue, 18 Aug 2026 21:26:47 +0000"
@@ -133,13 +140,6 @@
       "title": "Congo Ebola outbreak ‘global emergency’ as infections pass 5,000: WHO",
       "link": "https://www.aljazeera.com/news/2026/8/18/congo-ebola-outbreak-global-emergency-as-infections-pass-5000-who?traffic_source=rss",
       "published": "Tue, 18 Aug 2026 21:24:52 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Trump says no talks planned with Iran amid anger over Iran-Oman Hormuz deal",
-      "link": "https://www.aljazeera.com/news/2026/8/18/no-talks-with-iran-says-trump-as-us-president-stews-over-hormuz-deal?traffic_source=rss",
-      "published": "Tue, 18 Aug 2026 21:03:59 +0000"
     }
   ]
 }
