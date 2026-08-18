@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T17:26:30Z",
+  "updatedAt": "2026-08-18T17:54:49Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Многу луѓе ги јадат овие намирници заедно секој ден, а тие можат да предизвикаат надуеност",
+          "link": "https://makfax.com.mk/zanimlivosti/mnogu-luge-gi-jadat-ovie-namirnici-zaedno-sekoj-den-a-tie-mozhat-da-predizvikaat-naduenost/",
+          "published": "Tue, 18 Aug 2026 17:38:14 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Лавров: Русија го гледа Лондон како учесник во конфликтот во Украина",
+          "link": "https://makfax.com.mk/svet/lavrov-rusija-go-gleda-london-kako-uchesnik-vo-konfliktot-vo-ukraina/",
+          "published": "Tue, 18 Aug 2026 17:32:09 +0000"
         },
         {
           "source": "Makfax",
@@ -29,46 +41,34 @@
           "published": "Tue, 18 Aug 2026 16:42:18 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Туристички брод удрил во бетонски блокови на Закинтос, шестмина повредени",
-          "link": "https://makfax.com.mk/svet/region/turistichki-brod-udril-vo-betonski-blokovi-na-zakintos-shestmina-povredeni/",
-          "published": "Tue, 18 Aug 2026 16:16:27 +0000"
+          "source": "NetPress",
+          "title": "Двајца фудбалери заминуваат од Реал Мадрид",
+          "link": "https://netpress.com.mk/dvajcza-fudbaleri-zaminuvaat-od-real-madrid/",
+          "published": "Tue, 18 Aug 2026 17:42:11 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Утре сончево и топло, во деновите од викендот со дневна температура над 40 степени",
-          "link": "https://makfax.com.mk/makedonija/utre-sonchevo-i-toplo-vo-denovite-od-vikendot-so-dnevna-temperatura-nad-40-stepeni/",
-          "published": "Tue, 18 Aug 2026 15:50:06 +0000"
+          "source": "NetPress",
+          "title": "Франција најавува користење ВИ за тестирање кибер безбедност на државните агенции",
+          "link": "https://netpress.com.mk/franczija-najavuva-koristene-vi-za-testirane-kiber-bezbednost-na-drzhavnite-agenczii/",
+          "published": "Tue, 18 Aug 2026 17:40:04 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Регистрирани се 27 пожари на отворен простор, од кои 11 се активни",
+          "link": "https://netpress.com.mk/registrirani-se-27-pozhari-na-otvoren-prostor-od-koi-11-se-aktivni/",
+          "published": "Tue, 18 Aug 2026 17:37:31 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "ОАЕ пресретнаа две балистички ракети испукани од Иран",
+          "link": "https://netpress.com.mk/oae-presretnaa-dve-balistichki-raketi-ispukani-od-iran/",
+          "published": "Tue, 18 Aug 2026 17:35:16 +0000"
         },
         {
           "source": "NetPress",
           "title": "Во голем кибер напад во Летонија украдени податоци од 1,2 милиони луѓе",
           "link": "https://netpress.com.mk/vo-golem-kiber-napad-vo-letonija-ukradeni-podatoczi-od-12-milioni-luge/",
           "published": "Tue, 18 Aug 2026 17:01:36 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Цените на нафтата надминаа 91 долар",
-          "link": "https://netpress.com.mk/czenite-na-naftata-nadminaa-91-dolar/",
-          "published": "Tue, 18 Aug 2026 16:42:59 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "ВИДЕО| Несовесни возачи дивеат – НП „Шар Планина“ апелира да се вози со намалена брзина",
-          "link": "https://netpress.com.mk/video-nesovesni-vozachi-diveat-np-shar-planina-apelira-da-se-vozi-so-namalena-brzina/",
-          "published": "Tue, 18 Aug 2026 16:41:53 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Убедлив триумф на Вардар против Олимпијакос",
-          "link": "https://netpress.com.mk/ubedliv-triumf-na-vardar-protiv-olimpijakos/",
-          "published": "Tue, 18 Aug 2026 16:33:33 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Германски невладини организации донесоа десетици илјади нелегални мигранти во Италија",
-          "link": "https://netpress.com.mk/germanski-nevladini-organizaczii-donesoa-deseticzi-iljadi-nelegalni-migranti-vo-italija/",
-          "published": "Tue, 18 Aug 2026 16:30:32 +0000"
         }
       ]
     },
@@ -107,6 +107,18 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "The British state has recast protest as terrorism",
+          "link": "https://www.aljazeera.com/opinions/2026/8/18/the-british-state-has-recast-protest-as-terrorism?traffic_source=rss",
+          "published": "Tue, 18 Aug 2026 17:34:44 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Tropical Storm Lala leaves Hawaii flooded and without power",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/tropical-storm-lala-leaves-hawaii-flooded-and-without-power?traffic_source=rss",
+          "published": "Tue, 18 Aug 2026 17:22:38 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Iran prepares to keep economy alive as US threatens further sanctions",
           "link": "https://www.aljazeera.com/news/2026/8/18/iran-prepares-to-keep-economy-alive-as-us-threatens-further-sanctions?traffic_source=rss",
           "published": "Tue, 18 Aug 2026 16:21:49 +0000"
@@ -122,18 +134,6 @@
           "title": "Real Madrid officially present Mourinho in bizarre closed-door ceremony",
           "link": "https://www.aljazeera.com/sports/2026/8/18/real-madrid-officially-presents-mourinho-in-bizarre-closed-door-ceremony?traffic_source=rss",
           "published": "Tue, 18 Aug 2026 16:09:49 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Spain builds tent cities for the thousands stuck in Ceuta",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/spain-builds-tent-cities-for-the-thousands-stuck-in-ceuta?traffic_source=rss",
-          "published": "Tue, 18 Aug 2026 15:53:42 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Palestinian living in caves older than Israel",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/palestinian-living-in-caves-older-than-israel?traffic_source=rss",
-          "published": "Tue, 18 Aug 2026 15:53:38 +0000"
         }
       ]
     }
