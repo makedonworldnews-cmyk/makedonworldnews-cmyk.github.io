@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T15:49:25Z",
+  "updatedAt": "2026-08-18T16:14:10Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Утре сончево и топло, во деновите од викендот со дневна температура над 40 степени",
+          "link": "https://makfax.com.mk/makedonija/utre-sonchevo-i-toplo-vo-denovite-od-vikendot-so-dnevna-temperatura-nad-40-stepeni/",
+          "published": "Tue, 18 Aug 2026 15:50:06 +0000"
         },
         {
           "source": "Makfax",
@@ -35,10 +41,22 @@
           "published": "Tue, 18 Aug 2026 14:49:22 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "По Тросар и Влаховиќ, Бешикташ го сака и Нико Гонзалес",
-          "link": "https://makfax.com.mk/sport/po-trosar-i-vlahovik-beshiktash-go-saka-i-niko-gonzales/",
-          "published": "Tue, 18 Aug 2026 14:37:02 +0000"
+          "source": "NetPress",
+          "title": "Трамп ја прогласи Ормуската теснина за нова територија на САД",
+          "link": "https://netpress.com.mk/tramp-ja-proglasi-ormuskata-tesnina-za-nova-teritorija-na-sad/",
+          "published": "Tue, 18 Aug 2026 16:10:23 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Русија призна дека не може да ги заштити сите цели од украинските дронови",
+          "link": "https://netpress.com.mk/rusija-prizna-deka-ne-mozhe-da-gi-zashtiti-site-czeli-od-ukrainskite-dronovi/",
+          "published": "Tue, 18 Aug 2026 15:55:24 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Без струја утре делови од Сопиште и Ѓорче Петров",
+          "link": "https://netpress.com.mk/bez-struja-utre-delovi-od-sopishte-i-gorche-petrov/",
+          "published": "Tue, 18 Aug 2026 15:52:14 +0000"
         },
         {
           "source": "NetPress",
@@ -51,24 +69,6 @@
           "title": "Ерупциите на вулканот Етна предизвикаа големи прекини во летовите на Сицилија",
           "link": "https://netpress.com.mk/erupcziite-na-vulkanot-etna-predizvikaa-golemi-prekini-vo-letovite-na-siczilija/",
           "published": "Tue, 18 Aug 2026 15:14:37 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Тошковски: 34 години македонска Армија – чест, традиција и сигурност за Македонија",
-          "link": "https://netpress.com.mk/toshkovski-34-godini-makedonska-armija-chest-tradiczija-i-sigurnost-za-makedonija/",
-          "published": "Tue, 18 Aug 2026 15:02:23 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Заедно кога е најпотребно – исплатена финансиска поддршка за онколошките пациенти",
-          "link": "https://netpress.com.mk/zaedno-koga-e-najpotrebno-isplatena-finansiska-poddrshka-za-onkoloshkite-paczienti/",
-          "published": "Tue, 18 Aug 2026 14:35:15 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Ердоган потпиша закон за условно помилување на илјадници борци на ПКК",
-          "link": "https://netpress.com.mk/erdogan-potpisha-zakon-za-uslovno-pomiluvane-na-iljadniczi-borczi-na-pkk/",
-          "published": "Tue, 18 Aug 2026 14:32:23 +0000"
         }
       ]
     },
@@ -95,15 +95,33 @@
         },
         {
           "source": "BBC",
-          "title": "IVF staff accused of misleading UK parents about sperm and egg donors in northern Cyprus",
-          "link": "https://www.bbc.co.uk/news/articles/c75gv9xnr3po?at_medium=RSS&at_campaign=rss",
-          "published": "Tue, 18 Aug 2026 08:07:37 GMT"
-        },
-        {
-          "source": "BBC",
           "title": "Hayden Panettiere's ex Wladimir Klitschko says family in 'profound shock and grief'",
           "link": "https://www.bbc.co.uk/news/articles/c5ywe951z80o?at_medium=RSS&at_campaign=rss",
           "published": "Tue, 18 Aug 2026 08:44:10 GMT"
+        },
+        {
+          "source": "BBC",
+          "title": "Kariba ferry death toll rises to 93, making it Zimbabwe's deadliest transport disaster",
+          "link": "https://www.bbc.co.uk/news/articles/cjwx58n1153o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 18 Aug 2026 12:04:11 GMT"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Spain builds tent cities for the thousands stuck in Ceuta",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/spain-builds-tent-cities-for-the-thousands-stuck-in-ceuta?traffic_source=rss",
+          "published": "Tue, 18 Aug 2026 15:53:42 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Palestinian living in caves older than Israel",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/palestinian-living-in-caves-older-than-israel?traffic_source=rss",
+          "published": "Tue, 18 Aug 2026 15:53:38 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "“I fear for my family’s lives” says Loui Ridi as settlers besiege home",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/i-fear-for-my-familys-lives-says-loui-ridi-as-settlers-besiege-home?traffic_source=rss",
+          "published": "Tue, 18 Aug 2026 15:53:12 +0000"
         },
         {
           "source": "Al Jazeera",
@@ -116,24 +134,6 @@
           "title": "US cites India on voter IDs, but are elections under Modi clean?",
           "link": "https://www.aljazeera.com/news/2026/8/18/us-cites-india-on-voter-ids-but-are-elections-under-modi-clean?traffic_source=rss",
           "published": "Tue, 18 Aug 2026 15:04:24 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Why is Russia threatening UK with ‘consequences’ over Ukraine drones?",
-          "link": "https://www.aljazeera.com/news/2026/8/18/why-is-russia-threatening-uk-with-consequences-over-ukraine-drones?traffic_source=rss",
-          "published": "Tue, 18 Aug 2026 14:49:56 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Patrick Vieira appointed Senegal head coach with AFCON qualifiers looming",
-          "link": "https://www.aljazeera.com/sports/2026/8/18/patrick-vieira-appointed-senegal-head-coach-with-afcon-qualifiers-looming?traffic_source=rss",
-          "published": "Tue, 18 Aug 2026 14:46:59 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "What to watch in the Alaska and Wyoming primary elections",
-          "link": "https://www.aljazeera.com/news/2026/8/18/what-to-watch-in-the-alaska-and-wyoming-primary-elections?traffic_source=rss",
-          "published": "Tue, 18 Aug 2026 14:29:11 +0000"
         }
       ]
     }
