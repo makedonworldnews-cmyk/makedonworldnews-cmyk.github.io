@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T19:14:46Z",
+  "updatedAt": "2026-08-18T19:43:33Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Сиљановска-Давкова: Не смееме да заборавиме дека секој што напишал барем неколку реченици во недовршената македонска армиска приказна, оставил трага во нашата воена историја",
+          "link": "https://makfax.com.mk/makedonija/siljanovska-davkova-ne-smeeme-da-zaboravime-deka-sekoj-shto-napishal-barem-nekolku-rechenici-vo-nedovrshenata-makedonska-armiska-prikazna-ostavil-traga-vo-nashata-voena-istorija/",
+          "published": "Tue, 18 Aug 2026 19:23:40 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "СДС, кои не однесоа ниту едно шише вода во Гостивар, заедно со Лимани се дел од локалната власт и имаат заедничка одговорност, велат од ВМРО-ДПМНЕ",
+          "link": "https://makfax.com.mk/makedonija/sds-koi-ne-odnesoa-nitu-edno-shishe-voda-vo-gostivar-zaedno-so-limani-se-del-od-lokalnata-vlast-i-imaat-zaednichka-odgovornost-velat-od-vmro-dpmne/",
+          "published": "Tue, 18 Aug 2026 19:18:49 +0000"
         },
         {
           "source": "Makfax",
@@ -29,16 +41,10 @@
           "published": "Tue, 18 Aug 2026 18:48:40 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Јадете здраво, а килограмите остануваат – ендокринолог ја открива можната причина за проблемот",
-          "link": "https://makfax.com.mk/zanimlivosti/jadete-zdravo-a-kilogramite-ostanuvaat-endokrinolog-ja-otkriva-mozhnata-prichina-za-problemot/",
-          "published": "Tue, 18 Aug 2026 18:16:16 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "(Видео) Што слави ВМРО ОКГ вечерва во Гостивар, тоа што го отруја цел град, велат од СДСМ",
-          "link": "https://makfax.com.mk/makedonija/video-shto-slavi-vmro-okg-vecherva-vo-gostivar-toa-shto-go-otruja-cel-grad-velat-od-sdsm/",
-          "published": "Tue, 18 Aug 2026 18:02:19 +0000"
+          "source": "NetPress",
+          "title": "ВМРО-ДПМНЕ: СДС заедно со Лимани се дел од локалната власт и имаат заедничка одговорност",
+          "link": "https://netpress.com.mk/vmro-dpmne-sds-zaedno-so-limani-se-del-od-lokalnata-vlast-i-imaat-zaednichka-odgovornost/",
+          "published": "Tue, 18 Aug 2026 19:27:07 +0000"
         },
         {
           "source": "NetPress",
@@ -63,12 +69,6 @@
           "title": "Пожарот во Мариово повторно се активира, огнената линија се протега на 20 километри",
           "link": "https://netpress.com.mk/pozharot-vo-mariovo-povtorno-se-aktivira-ognenata-linija-se-protega-na-20-kilometri/",
           "published": "Tue, 18 Aug 2026 18:46:22 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Дамаск и Вашингтон го обвинуваат Израел за напад врз воен аеродром во Сирија",
-          "link": "https://netpress.com.mk/damask-i-vashington-go-obvinuvaat-izrael-za-napad-vrz-voen-aerodrom-vo-sirija/",
-          "published": "Tue, 18 Aug 2026 18:36:12 +0000"
         }
       ]
     },
@@ -107,6 +107,12 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "US judge says government can revoke deportation protections for Ethiopians",
+          "link": "https://www.aljazeera.com/news/2026/8/18/us-judge-says-government-can-revoke-deportation-protections-for-ethiopians?traffic_source=rss",
+          "published": "Tue, 18 Aug 2026 19:09:23 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Landmark trial on Meta’s impact on children’s mental health begins in US",
           "link": "https://www.aljazeera.com/economy/2026/8/18/landmark-trial-on-metas-impact-on-childrens-mental-health-begins-in-us?traffic_source=rss",
           "published": "Tue, 18 Aug 2026 18:33:11 +0000"
@@ -128,12 +134,6 @@
           "title": "Barcelona seal deal for World Cup winner Rodri from Manchester City",
           "link": "https://www.aljazeera.com/sports/2026/8/18/barcelona-seal-deal-for-world-cup-winner-rodri-from-manchester-city?traffic_source=rss",
           "published": "Tue, 18 Aug 2026 18:01:12 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Nigeria hospital collapses after rain washed away its foundations",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/nigeria-hospital-collapses-after-rain-washed-away-its-foundations?traffic_source=rss",
-          "published": "Tue, 18 Aug 2026 17:55:26 +0000"
         }
       ]
     }
