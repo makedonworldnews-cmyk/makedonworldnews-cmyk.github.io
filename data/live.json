@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T05:38:34Z",
+  "generated_at": "2026-08-18T05:59:05Z",
   "items": [
     {
       "region": "Македонија",
@@ -39,6 +39,13 @@
     {
       "region": "Македонија",
       "source": "NetPress",
+      "title": "Волстрит ја започна седмицата со пад на индексите",
+      "link": "https://netpress.com.mk/volstrit-ja-zapochna-sedmiczata-so-pad-na-indeksite/",
+      "published": "Tue, 18 Aug 2026 05:57:56 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "NetPress",
       "title": "Ердоган го повика Трамп да ги прекине тензиите со Иран",
       "link": "https://netpress.com.mk/erdogan-go-povika-tramp-da-gi-prekine-tenziite-so-iran/",
       "published": "Tue, 18 Aug 2026 05:37:20 +0000"
@@ -63,13 +70,6 @@
       "title": "И денеска сончево и топло, попладне локални врнежи и грмежи",
       "link": "https://netpress.com.mk/i-deneska-sonchevo-i-toplo-popladne-lokalni-vrnezhi-i-grmezhi/",
       "published": "Tue, 18 Aug 2026 04:37:07 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Враќањето на Депортиво во Ла Лига со освоен бод",
-      "link": "https://netpress.com.mk/vrakaneto-na-deportivo-vo-la-liga-so-osvoen-bod/",
-      "published": "Mon, 17 Aug 2026 21:43:03 +0000"
     },
     {
       "region": "Свет",
@@ -109,6 +109,13 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "Can Trump limit birthright citizenship? Legal experts are doubtful",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/can-trump-limit-birthright-citizenship-legal-experts-are-doubtful?traffic_source=rss",
+      "published": "Tue, 18 Aug 2026 05:23:54 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "A hero’s welcome as Cameroon parades its first Women’s AFCON title",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/a-heros-welcome-as-cameroon-parades-its-first-womens-afcon-title?traffic_source=rss",
       "published": "Tue, 18 Aug 2026 05:07:07 +0000"
@@ -130,16 +137,9 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
-      "title": "Two students killed in Philippines school shooting",
+      "title": "Two students killed in Philippine school shooting",
       "link": "https://www.aljazeera.com/news/2026/8/18/two-killed-as-gunman-opens-fire-at-philippines-high-school-official-says?traffic_source=rss",
       "published": "Tue, 18 Aug 2026 02:51:22 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Trump says talking to North Korea’s Kim makes the south safer",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/trump-says-talking-to-north-koreas-kim-makes-the-south-safer?traffic_source=rss",
-      "published": "Tue, 18 Aug 2026 01:58:11 +0000"
     }
   ]
 }
