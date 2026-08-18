@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T23:01:38Z",
+  "generated_at": "2026-08-18T23:31:32Z",
   "items": [
     {
       "region": "Македонија",
@@ -74,6 +74,13 @@
     {
       "region": "Свет",
       "source": "BBC",
+      "title": "Meta hooked children on Facebook and Instagram, court hears",
+      "link": "https://www.bbc.co.uk/news/articles/cly5r7vr7q1o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 18 Aug 2026 22:11:07 GMT"
+    },
+    {
+      "region": "Свет",
+      "source": "BBC",
       "title": "UK 'supports Ukraine 100%', Burnham says, after Russia's drone warning",
       "link": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 18 Aug 2026 12:36:11 GMT"
@@ -101,10 +108,10 @@
     },
     {
       "region": "Свет",
-      "source": "BBC",
-      "title": "Kariba ferry death toll rises to 93, making it Zimbabwe's deadliest transport disaster",
-      "link": "https://www.bbc.co.uk/news/articles/cjwx58n1153o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 18 Aug 2026 12:04:11 GMT"
+      "source": "Al Jazeera",
+      "title": "Minnesota official sues Texas governor to force ICE agent’s extradition",
+      "link": "https://www.aljazeera.com/news/2026/8/18/minnesota-official-sues-texas-governor-to-force-ice-agents-extradition?traffic_source=rss",
+      "published": "Tue, 18 Aug 2026 22:55:50 +0000"
     },
     {
       "region": "Свет",
@@ -133,13 +140,6 @@
       "title": "Syria opens Assad-era nuclear programme to UN probe",
       "link": "https://www.aljazeera.com/news/2026/8/18/syria-opens-assad-era-nuclear-programme-to-un-probe?traffic_source=rss",
       "published": "Tue, 18 Aug 2026 21:25:06 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "DR Congo’s Ebola outbreak ‘global emergency’ as infections pass 5,000: WHO",
-      "link": "https://www.aljazeera.com/news/2026/8/18/congo-ebola-outbreak-global-emergency-as-infections-pass-5000-who?traffic_source=rss",
-      "published": "Tue, 18 Aug 2026 21:24:52 +0000"
     }
   ]
 }
