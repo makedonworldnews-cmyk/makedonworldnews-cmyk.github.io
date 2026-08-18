@@ -1,6 +1,20 @@
 {
-  "generated_at": "2026-08-18T19:46:36Z",
+  "generated_at": "2026-08-18T20:00:13Z",
   "items": [
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "(Видео) Израелскиот министер од градилиште: „Овде ќе има објект за бесење“",
+      "link": "https://makfax.com.mk/svet/video-izraelskiot-minister-od-gradilishte-%e2%80%9eovde-ke-ima-objekt-za-besenje%e2%80%9c/",
+      "published": "Tue, 18 Aug 2026 19:56:42 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "Тони нуклеарен материјал пронајдени во Сирија",
+      "link": "https://makfax.com.mk/svet/toni-nuklearen-materijal-pronajdeni-vo-sirija/",
+      "published": "Tue, 18 Aug 2026 19:46:45 +0000"
+    },
     {
       "region": "Македонија",
       "source": "Makfax",
@@ -21,20 +35,6 @@
       "title": "Родри потпиша за Барселона до јуни 2030 година",
       "link": "https://makfax.com.mk/sport/rodri-potpisha-za-barselona-do-juni-2030-godina/",
       "published": "Tue, 18 Aug 2026 18:59:03 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "Makfax",
-      "title": "(Видео) Ова е веќе сериозно, Мусијала повторно се струполи на теренот",
-      "link": "https://makfax.com.mk/sport/video-ova-e-veke-seriozno-musijala-povtorno-se-strupoli-na-terenot/",
-      "published": "Tue, 18 Aug 2026 18:48:44 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "Makfax",
-      "title": "Ќе следи тешка ноќ, пожарникарите треба да го одбранат селото Крушевица, Ангелов објави дека пожарот во Мариово повторно се разгоре",
-      "link": "https://makfax.com.mk/makedonija/ke-sledi-teshka-nok-pozharnikarite-treba-da-go-odbranat-seloto-krushevica-angelov-objavi-deka-pozharot-vo-mariovo-povtorno-se-razgore/",
-      "published": "Tue, 18 Aug 2026 18:48:40 +0000"
     },
     {
       "region": "Македонија",
@@ -109,6 +109,13 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "US seeks to revive criminal case against Kilmar Abrego Garcia",
+      "link": "https://www.aljazeera.com/news/2026/8/18/us-seeks-to-revive-criminal-case-against-kilmar-abrego-garcia?traffic_source=rss",
+      "published": "Tue, 18 Aug 2026 19:46:39 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "The ‘witch-hunt’ of Jason Arday",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/the-witch-hunt-of-jason-arday?traffic_source=rss",
       "published": "Tue, 18 Aug 2026 19:22:45 +0000"
@@ -133,13 +140,6 @@
       "title": "Israeli strike on Gaza City cafe kills six, including child",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/israeli-strike-on-gaza-city-cafe-kills-six-including-child?traffic_source=rss",
       "published": "Tue, 18 Aug 2026 18:32:24 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Police attack Indonesian student protesters, arresting at least 21",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/police-attack-indonesian-student-protesters-arresting-at-least-21?traffic_source=rss",
-      "published": "Tue, 18 Aug 2026 18:17:35 +0000"
     }
   ]
 }
