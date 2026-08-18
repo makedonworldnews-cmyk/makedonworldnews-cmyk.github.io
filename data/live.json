@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T02:05:08Z",
+  "generated_at": "2026-08-18T03:04:08Z",
   "items": [
     {
       "region": "Македонија",
@@ -81,6 +81,13 @@
     {
       "region": "Свет",
       "source": "BBC",
+      "title": "Tupac murder trial: 'All hell broke loose' night of rapper's shooting, witness says",
+      "link": "https://www.bbc.co.uk/news/articles/cp3r0kz775ko?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 18 Aug 2026 02:06:04 GMT"
+    },
+    {
+      "region": "Свет",
+      "source": "BBC",
       "title": "Russia warns UK over supplying drones to Ukraine",
       "link": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 18 Aug 2026 01:16:41 GMT"
@@ -101,10 +108,17 @@
     },
     {
       "region": "Свет",
-      "source": "BBC",
-      "title": "Russia's prominent anti-war politician jailed for 11 years",
-      "link": "https://www.bbc.co.uk/news/articles/cj4kjnle2neo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 17 Aug 2026 16:17:34 GMT"
+      "source": "Al Jazeera",
+      "title": "Trump says talking to North Korea’s Kim makes the south safer",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/trump-says-talking-to-north-koreas-kim-makes-the-south-safer?traffic_source=rss",
+      "published": "Tue, 18 Aug 2026 01:58:11 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Large fire breaks out at fuel depot near Iraq’s Sulaimaniyah",
+      "link": "https://www.aljazeera.com/news/2026/8/18/large-fire-breaks-out-at-fuel-depot-near-iraqs-sulaimaniyah?traffic_source=rss",
+      "published": "Tue, 18 Aug 2026 01:54:01 +0000"
     },
     {
       "region": "Свет",
@@ -126,20 +140,6 @@
       "title": "Iran war live: Trump rejects MoU extension as US claims control of Hormuz",
       "link": "https://www.aljazeera.com/news/liveblog/2026/8/18/iran-war-live-trump-rejects-mou-extension-as-us-claims-control-of-hormuz?traffic_source=rss",
       "published": "Tue, 18 Aug 2026 00:00:00 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "‘We will not allow Gaza to be rebuilt’ until Hamas disarms, Kushner says",
-      "link": "https://www.aljazeera.com/news/2026/8/17/we-will-not-allow-gaza-to-be-rebuilt-until-hamas-disarms-kushner-says?traffic_source=rss",
-      "published": "Mon, 17 Aug 2026 23:25:17 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "As rubble clears, Colombia begins focusing on recovery after the earthquake",
-      "link": "https://www.aljazeera.com/news/2026/8/17/as-rubble-clears-colombia-begins-focusing-on-recovery-after-the-earthquake?traffic_source=rss",
-      "published": "Mon, 17 Aug 2026 22:26:12 +0000"
     }
   ]
 }
