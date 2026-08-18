@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T04:07:19Z",
+  "updatedAt": "2026-08-18T04:48:55Z",
   "groups": [
     {
       "region": "Македонија",
@@ -42,6 +42,12 @@
         },
         {
           "source": "NetPress",
+          "title": "И денеска сончево и топло, попладне локални врнежи и грмежи",
+          "link": "https://netpress.com.mk/i-deneska-sonchevo-i-toplo-popladne-lokalni-vrnezhi-i-grmezhi/",
+          "published": "Tue, 18 Aug 2026 04:37:07 +0000"
+        },
+        {
+          "source": "NetPress",
           "title": "Враќањето на Депортиво во Ла Лига со освоен бод",
           "link": "https://netpress.com.mk/vrakaneto-na-deportivo-vo-la-liga-so-osvoen-bod/",
           "published": "Mon, 17 Aug 2026 21:43:03 +0000"
@@ -63,12 +69,6 @@
           "title": "Трамп вели дека Ким oдговорил на неговите иницијативи",
           "link": "https://netpress.com.mk/tramp-veli-deka-kim-odgovoril-na-negovite-iniczijativi/",
           "published": "Mon, 17 Aug 2026 20:54:11 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "ВИДЕО| Тројца загинати во пад на хеликоптер на грчкиот остров Сифнос",
-          "link": "https://netpress.com.mk/video-trojcza-zaginati-vo-pad-na-helikopter-na-grchkiot-ostrov-sifnos/",
-          "published": "Mon, 17 Aug 2026 19:55:35 +0000"
         }
       ]
     },
@@ -107,13 +107,19 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Hichilema wins second term as president of copper-rich Zambia",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/08-18-26-zambia-elections-sv?traffic_source=rss",
+          "published": "Tue, 18 Aug 2026 04:07:13 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Thousands mourn Jason Arday in London, blaming ‘racist’ press for his death",
           "link": "https://www.aljazeera.com/features/2026/8/18/tens-of-thousands-mourn-jason-arday-in-london-blaming-press-for-his-death?traffic_source=rss",
           "published": "Tue, 18 Aug 2026 03:17:58 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Two killed as gunman opens fire at Philippines high school, official says",
+          "title": "Two students killed in Philippines school shooting",
           "link": "https://www.aljazeera.com/news/2026/8/18/two-killed-as-gunman-opens-fire-at-philippines-high-school-official-says?traffic_source=rss",
           "published": "Tue, 18 Aug 2026 02:51:22 +0000"
         },
@@ -128,12 +134,6 @@
           "title": "Large fire breaks out at fuel depot near Iraq’s Sulaimaniyah",
           "link": "https://www.aljazeera.com/news/2026/8/18/large-fire-breaks-out-at-fuel-depot-near-iraqs-sulaimaniyah?traffic_source=rss",
           "published": "Tue, 18 Aug 2026 01:54:01 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Vigil held in central London for late Cambridge professor Jason Arday",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/08-18-26-arday-vigil-london-sv-mp4?traffic_source=rss",
-          "published": "Tue, 18 Aug 2026 01:26:31 +0000"
         }
       ]
     }
