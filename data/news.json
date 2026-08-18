@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T11:44:24Z",
+  "updatedAt": "2026-08-18T12:14:04Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,24 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Ферати-Лосон: Безбедноста, меѓуинституционалната соработка и зајакнувањето на младите се наш приоритет",
+          "link": "https://makfax.com.mk/makedonija/ferati-loson-bezbednosta-meguinstitucionalnata-sorabotka-i-zajaknuvanjeto-na-mladite-se-nash-prioritet/",
+          "published": "Tue, 18 Aug 2026 12:12:54 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Вчера 166 санкционирани пешаци на територија на цела држава",
+          "link": "https://makfax.com.mk/makedonija/vchera-166-sankcionirani-peshaci-na-teritorija-na-cela-drzhava/",
+          "published": "Tue, 18 Aug 2026 12:01:26 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Симеоне ја прекина приказната за Хулијан Алварез: Претседателот на клубот беше јасен",
+          "link": "https://makfax.com.mk/sport/simeone-ja-prekina-prikaznata-za-hulijan-alvarez-pretsedatelot-na-klubot-beshe-jasen/",
+          "published": "Tue, 18 Aug 2026 11:58:03 +0000"
         },
         {
           "source": "Makfax",
@@ -23,22 +41,16 @@
           "published": "Tue, 18 Aug 2026 11:35:31 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Тошковски на централната прослава во Охрид: 34 години македонска Армија – чест, традиција и сигурност за Македонија",
-          "link": "https://makfax.com.mk/makedonija/toshkovski-na-centralnata-proslava-vo-ohrid-34-godini-makedonska-armija-chest-tradicija-i-sigurnost-za-makedonija/",
-          "published": "Tue, 18 Aug 2026 11:34:21 +0000"
+          "source": "NetPress",
+          "title": "„Надвојводата“ – поетски спомен за Даме Груев и времето на идеалите",
+          "link": "https://netpress.com.mk/nadvojvodata-poetski-spomen-za-dame-gruev-i-vremeto-na-idealite/",
+          "published": "Tue, 18 Aug 2026 12:11:41 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "(Фото) Мицкоски: Армијата е многу повеќе од униформа, таа е чест, одговорност, дисциплина и посветеност",
-          "link": "https://makfax.com.mk/makedonija/foto-mickoski-armijata-e-mnogu-poveke-od-uniforma-taa-e-chest-odgovornost-disciplina-i-posvetenost/",
-          "published": "Tue, 18 Aug 2026 11:23:57 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "За највкусна пржена сланина, додадете ја оваа состојка наместо масло",
-          "link": "https://makfax.com.mk/zanimlivosti/za-najvkusna-przhena-slanina-dodadete-ja-ovaa-sostojka-namesto-maslo/",
-          "published": "Tue, 18 Aug 2026 11:23:34 +0000"
+          "source": "NetPress",
+          "title": "Турција формира стратегија за критични минерали, Македонија сè уште чека нови рударски инвестиции",
+          "link": "https://netpress.com.mk/turczija-formira-strategija-za-kritichni-minerali-makedonija-se-ushte-cheka-novi-rudarski-investiczii/",
+          "published": "Tue, 18 Aug 2026 11:52:09 +0000"
         },
         {
           "source": "NetPress",
@@ -57,18 +69,6 @@
           "title": "Крум Ефремов ќе биде македонски амбасадор во Софија",
           "link": "https://netpress.com.mk/krum-efremov-ke-bide-makedonski-ambasador-vo-sofija/",
           "published": "Tue, 18 Aug 2026 11:16:52 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Велешките пожарникари заштитија две села од пожарот, кој од Велес премина во Зелениково и во општина Студеничани",
-          "link": "https://netpress.com.mk/veleshkite-pozharnikari-zashtitija-dve-sela-od-pozharot-koj-od-veles-premina-vo-zelenikovo-i-vo-opshtina-studenichani/",
-          "published": "Tue, 18 Aug 2026 11:04:54 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Откриени десет мигранти од Египет, уапсен криумчарот од Латвија",
-          "link": "https://netpress.com.mk/otkrieni-deset-migranti-od-egipet-uapsen-kriumcharot-od-latvija/",
-          "published": "Tue, 18 Aug 2026 10:55:59 +0000"
         }
       ]
     },
@@ -101,9 +101,27 @@
         },
         {
           "source": "BBC",
-          "title": "China censors public mourning as it holds former premier's funeral",
-          "link": "https://www.bbc.co.uk/news/articles/c8dn3rqlyrgo?at_medium=RSS&at_campaign=rss",
-          "published": "Tue, 18 Aug 2026 07:17:07 GMT"
+          "title": "Hayden Panettiere's ex Wladimir Klitschko says family in 'profound shock and grief'",
+          "link": "https://www.bbc.co.uk/news/articles/c5ywe951z80o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 18 Aug 2026 08:44:10 GMT"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Russia protests Japan PM’s comments after Putin’s Kuril visit",
+          "link": "https://www.aljazeera.com/news/2026/8/18/russia-protests-japan-pms-comments-after-putins-kuril-visit?traffic_source=rss",
+          "published": "Tue, 18 Aug 2026 11:39:34 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Why has Trump threatened to bomb Oman – for a second time?",
+          "link": "https://www.aljazeera.com/news/2026/8/18/why-has-trump-threatened-to-bomb-oman-for-a-second-time?traffic_source=rss",
+          "published": "Tue, 18 Aug 2026 11:33:15 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Premier League what to know: Schedule, prediction, transfers and more",
+          "link": "https://www.aljazeera.com/sports/2026/8/18/premier-league-football-what-to-know-schedule-prediction-transfers-2026-27-season?traffic_source=rss",
+          "published": "Tue, 18 Aug 2026 11:22:27 +0000"
         },
         {
           "source": "Al Jazeera",
@@ -116,24 +134,6 @@
           "title": "Tupac Shakur murder trial begins thirty years after his death",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/tupac-shakur-murder-trial-begins-thirty-years-after-his-death?traffic_source=rss",
           "published": "Tue, 18 Aug 2026 10:55:16 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Deaths mount, trauma sets in as Russia ramps up missile attacks on Ukraine",
-          "link": "https://www.aljazeera.com/news/2026/8/18/putins-illusion-of-victory-russia-ramps-up-missile-attacks-on-ukraine?traffic_source=rss",
-          "published": "Tue, 18 Aug 2026 10:45:37 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "India’s ‘Cockroach’ movement makes schools next battleground against Modi",
-          "link": "https://www.aljazeera.com/features/2026/8/18/indias-cockroach-movement-makes-schools-next-battleground-against-modi?traffic_source=rss",
-          "published": "Tue, 18 Aug 2026 10:22:03 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Asian Champions League draw: Holders Al-Ahli to face former winners Al Ain",
-          "link": "https://www.aljazeera.com/sports/2026/8/18/asian-champions-league-draw-holders-al-ahli-to-face-former-winners-al-ain?traffic_source=rss",
-          "published": "Tue, 18 Aug 2026 10:20:06 +0000"
         }
       ]
     }
