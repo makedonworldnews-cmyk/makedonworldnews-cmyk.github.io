@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T23:55:38Z",
+  "updatedAt": "2026-08-18T01:16:49Z",
   "groups": [
     {
       "region": "Македонија",
@@ -107,6 +107,12 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Iran war live: Trump rejects MoU extension as US claims control of Hormuz",
+          "link": "https://www.aljazeera.com/news/liveblog/2026/8/18/iran-war-live-trump-rejects-mou-extension-as-us-claims-control-of-hormuz?traffic_source=rss",
+          "published": "Tue, 18 Aug 2026 00:00:00 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "‘We will not allow Gaza to be rebuilt’ until Hamas disarms, Kushner says",
           "link": "https://www.aljazeera.com/news/2026/8/17/we-will-not-allow-gaza-to-be-rebuilt-until-hamas-disarms-kushner-says?traffic_source=rss",
           "published": "Mon, 17 Aug 2026 23:25:17 +0000"
@@ -128,12 +134,6 @@
           "title": "Palestinian American reunites with family under siege in West Bank",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/palestinian-american-reunites-with-family-under-siege-in-west-bank?traffic_source=rss",
           "published": "Mon, 17 Aug 2026 20:57:19 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Civilians paying price as Israeli military raises stakes in Lebanon: UNIFIL",
-          "link": "https://www.aljazeera.com/news/2026/8/17/civilians-pay-price-as-israeli-military-activity-rises-in-lebanon-unifil?traffic_source=rss",
-          "published": "Mon, 17 Aug 2026 20:54:03 +0000"
         }
       ]
     }
