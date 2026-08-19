@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T05:34:05Z",
+  "updatedAt": "2026-08-19T06:00:06Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,24 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Селин Дион се борела со симптоми на синдром на вкочанета личност 20 години",
+          "link": "https://makfax.com.mk/zanimlivosti/selin-dion-se-borela-so-simptomi-na-sindrom-na-vkochaneta-lichnost-20-godini/",
+          "published": "Wed, 19 Aug 2026 05:57:44 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Кулеба: Америка повеќе нема желба да ја спонзорира Украина",
+          "link": "https://makfax.com.mk/svet/kuleba-amerika-poveke-nema-zhelba-da-ja-sponzorira-ukraina/",
+          "published": "Wed, 19 Aug 2026 05:45:54 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Аналитичари за Иран: „Ова е само сецкање на салама, вистинската војна сè уште не започнала“",
+          "link": "https://makfax.com.mk/svet/analitichari-za-iran-ova-e-samo-seckanje-na-salama-vistinskata-vojna-se-ushte-ne-zapochnala/",
+          "published": "Wed, 19 Aug 2026 05:35:26 +0000"
         },
         {
           "source": "Makfax",
@@ -23,22 +41,16 @@
           "published": "Wed, 19 Aug 2026 05:16:50 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Без струја делови од Сопиште и општина Ѓорче Петров",
-          "link": "https://makfax.com.mk/makedonija/bez-struja-delovi-od-sopishte-i-opshtina-gorche-petrov/",
-          "published": "Wed, 19 Aug 2026 05:13:32 +0000"
+          "source": "NetPress",
+          "title": "ОАЕ на неодредено ја запре трговијата со Иран",
+          "link": "https://netpress.com.mk/oae-na-neodredeno-ja-zapre-trgovijata-so-iran/",
+          "published": "Wed, 19 Aug 2026 05:57:41 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Без вода делови од Чаир и Топанско Поле",
-          "link": "https://makfax.com.mk/makedonija/bez-voda-delovi-od-chair-i-topansko-pole/",
-          "published": "Wed, 19 Aug 2026 05:07:14 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Москва: Зеленски ги возвишува нацистите, им се потсмева на милиони Украинци и на своите предци",
-          "link": "https://makfax.com.mk/svet/moskva-zelenski-gi-vozvishuva-nacistite-im-se-potsmeva-na-milioni-ukrainci-i-na-svoite-predci/",
-          "published": "Wed, 19 Aug 2026 05:03:06 +0000"
+          "source": "NetPress",
+          "title": "Сменетиот украински министер Федоров повикува на избори среде војната",
+          "link": "https://netpress.com.mk/smenetiot-ukrainski-minister-fedorov-povikuva-na-izbori-srede-vojnata/",
+          "published": "Wed, 19 Aug 2026 05:37:05 +0000"
         },
         {
           "source": "NetPress",
@@ -57,18 +69,6 @@
           "title": "Денеска сончево и топло со попладневни услови за дожд, од утре температурите и над 40",
           "link": "https://netpress.com.mk/deneska-sonchevo-i-toplo-so-popladnevni-uslovi-za-dozhd-od-utre-temperaturite-i-nad-40/",
           "published": "Wed, 19 Aug 2026 04:37:12 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Латвија oбјави дека се украдени податоците на 1,2 милиони луѓе во кибернапaд",
-          "link": "https://netpress.com.mk/latvija-objavi-deka-se-ukradeni-podatoczite-na-12-milioni-luge-vo-kibernap/",
-          "published": "Tue, 18 Aug 2026 23:44:38 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Приведен тинејџер, возел четирицикл без возачка дозвола",
-          "link": "https://netpress.com.mk/priveden-tinejdher-vozel-chetiriczikl-bez-vozachka-dozvola/",
-          "published": "Tue, 18 Aug 2026 20:47:18 +0000"
         }
       ]
     },
@@ -97,7 +97,7 @@
           "source": "BBC",
           "title": "South Korea shortens war games with US, citing Washington request",
           "link": "https://www.bbc.co.uk/news/articles/cnvn0j31qj8o?at_medium=RSS&at_campaign=rss",
-          "published": "Wed, 19 Aug 2026 03:39:41 GMT"
+          "published": "Wed, 19 Aug 2026 05:53:53 GMT"
         },
         {
           "source": "BBC",
