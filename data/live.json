@@ -1,6 +1,27 @@
 {
-  "generated_at": "2026-08-19T16:00:05Z",
+  "generated_at": "2026-08-19T16:36:24Z",
   "items": [
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "Пожарникари од Скопје ќе помагаат во гаснење на пожарот во Мариово",
+      "link": "https://makfax.com.mk/makedonija/pozharnikari-od-skopje-ke-pomagaat-vo-gasnenje-na-pozharot-vo-mariovo/",
+      "published": "Wed, 19 Aug 2026 16:28:11 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "СДСМ: Ако имало седум третмани против комарци во Скопје, тогаш или мерките биле доцна или жариштата биле промашени",
+      "link": "https://makfax.com.mk/makedonija/sdsm-ako-imalo-sedum-tretmani-protiv-komarci-vo-skopje-togash-ili-merkite-bile-docna-ili-zharishtata-bile-promasheni/",
+      "published": "Wed, 19 Aug 2026 16:23:44 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "Лажни пораки наводно испратени од „Безбеден град“  стигнуваат до граѓаните, МВР со апел како да ги препознаете",
+      "link": "https://makfax.com.mk/makedonija/lazhni-poraki-navodno-isprateni-od-bezbeden-grad-stignuvaat-do-graganite-mvr-so-apel-kako-da-gi-prepoznaete/",
+      "published": "Wed, 19 Aug 2026 16:15:33 +0000"
+    },
     {
       "region": "Македонија",
       "source": "Makfax",
@@ -17,24 +38,10 @@
     },
     {
       "region": "Македонија",
-      "source": "Makfax",
-      "title": "Сестрата на Ким Јонг Ун му одговори на Зеленски: Неговите тврдења се неосновани",
-      "link": "https://makfax.com.mk/svet/sestrata-na-kim-jong-un-mu-odgovori-na-zelenski-negovite-tvrdenja-se-neosnovani/",
-      "published": "Wed, 19 Aug 2026 15:07:11 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "Makfax",
-      "title": "Путин: Украинските терористички напади ни штетат",
-      "link": "https://makfax.com.mk/svet/putin-ukrainskite-teroristichki-napadi-ni-shtetat/",
-      "published": "Wed, 19 Aug 2026 15:01:01 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "Makfax",
-      "title": "Бугарија ја засилува безбедноста на воените бази поради можни ирански напади",
-      "link": "https://makfax.com.mk/svet/region/bugarija-ja-zasiluva-bezbednosta-na-voenite-bazi-poradi-mozhni-iranski-napadi/",
-      "published": "Wed, 19 Aug 2026 14:58:30 +0000"
+      "source": "NetPress",
+      "title": "И странците почнаа да плаќаат казни",
+      "link": "https://netpress.com.mk/i-stranczite-pochnaa-da-plakaat-kazni/",
+      "published": "Wed, 19 Aug 2026 16:35:20 +0000"
     },
     {
       "region": "Македонија",
@@ -65,13 +72,6 @@
       "published": "Wed, 19 Aug 2026 13:51:06 +0000"
     },
     {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Евгениј Хмара избран за нов министер за одбрана на Украина",
-      "link": "https://netpress.com.mk/evgenij-hmara-izbran-za-nov-minister-za-odbrana-na-ukraina/",
-      "published": "Wed, 19 Aug 2026 13:51:00 +0000"
-    },
-    {
       "region": "Свет",
       "source": "BBC",
       "title": "Israel confirms soldiers fired at car in which Hind Rajab was killed and opens criminal investigation",
@@ -95,16 +95,23 @@
     {
       "region": "Свет",
       "source": "BBC",
+      "title": "Israel opens up tenders for controversial West Bank settlement project",
+      "link": "https://www.bbc.co.uk/news/articles/cly50gn1e54o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 19 Aug 2026 15:50:22 GMT"
+    },
+    {
+      "region": "Свет",
+      "source": "BBC",
       "title": "South Korea shortens war games with US, citing Washington request",
       "link": "https://www.bbc.co.uk/news/articles/cnvn0j31qj8o?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 19 Aug 2026 14:16:27 GMT"
     },
     {
       "region": "Свет",
-      "source": "BBC",
-      "title": "Ukrainian man arrested in Croatia over Nord Stream pipeline blasts",
-      "link": "https://www.bbc.co.uk/news/articles/c78gp7l5348o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 19 Aug 2026 12:47:53 GMT"
+      "source": "Al Jazeera",
+      "title": "Why extreme heat is much more dangerous for the elderly than we realised",
+      "link": "https://www.aljazeera.com/news/2026/8/19/why-extreme-heat-is-much-more-dangerous-for-the-elderly-than-we-realised?traffic_source=rss",
+      "published": "Wed, 19 Aug 2026 16:32:28 +0000"
     },
     {
       "region": "Свет",
@@ -133,13 +140,6 @@
       "title": "Palestinian refugee and two relatives drown off English coast",
       "link": "https://www.aljazeera.com/news/2026/8/19/three-people-from-palestinian-british-family-drown-off-uks-sussex-coast?traffic_source=rss",
       "published": "Wed, 19 Aug 2026 14:52:39 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Israel numbers Palestinian detainee foreheads: What we know",
-      "link": "https://www.aljazeera.com/news/2026/8/19/israel-numbers-palestinian-detainee-foreheads-what-we-know?traffic_source=rss",
-      "published": "Wed, 19 Aug 2026 14:48:55 +0000"
     }
   ]
 }
