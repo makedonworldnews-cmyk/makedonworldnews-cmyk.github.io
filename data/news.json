@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T04:19:31Z",
+  "updatedAt": "2026-08-19T04:56:51Z",
   "groups": [
     {
       "region": "Македонија",
@@ -42,6 +42,12 @@
         },
         {
           "source": "NetPress",
+          "title": "Денеска сончево и топло со попладневни услови за дожд, од утре температурите и над 40",
+          "link": "https://netpress.com.mk/deneska-sonchevo-i-toplo-so-popladnevni-uslovi-za-dozhd-od-utre-temperaturite-i-nad-40/",
+          "published": "Wed, 19 Aug 2026 04:37:12 +0000"
+        },
+        {
+          "source": "NetPress",
           "title": "Латвија oбјави дека се украдени податоците на 1,2 милиони луѓе во кибернапaд",
           "link": "https://netpress.com.mk/latvija-objavi-deka-se-ukradeni-podatoczite-na-12-milioni-luge-vo-kibernap/",
           "published": "Tue, 18 Aug 2026 23:44:38 +0000"
@@ -63,12 +69,6 @@
           "title": "Уапсен маж од Кавадарци, со остар предмет се заканувал на сопругата",
           "link": "https://netpress.com.mk/uapsen-mazh-od-kavadarczi-so-ostar-predmet-se-zakanuval-na-soprugata/",
           "published": "Tue, 18 Aug 2026 20:12:26 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Клековски за утре најавува детални резултати од контролата на прскањето против комарци",
-          "link": "https://netpress.com.mk/klekovski-za-utre-najavuva-detalni-rezultati-od-kontrolata-na-prskaneto-protiv-komarczi/",
-          "published": "Tue, 18 Aug 2026 20:09:24 +0000"
         }
       ]
     },
@@ -79,7 +79,7 @@
           "source": "BBC",
           "title": "Sacked Ukrainian defence minister calls for presidential election",
           "link": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
-          "published": "Wed, 19 Aug 2026 01:31:15 GMT"
+          "published": "Wed, 19 Aug 2026 04:44:41 GMT"
         },
         {
           "source": "BBC",
@@ -95,7 +95,7 @@
         },
         {
           "source": "BBC",
-          "title": "South Korea shortens war games with US citing Washington request",
+          "title": "South Korea shortens war games with US, citing Washington request",
           "link": "https://www.bbc.co.uk/news/articles/cnvn0j31qj8o?at_medium=RSS&at_campaign=rss",
           "published": "Wed, 19 Aug 2026 03:39:41 GMT"
         },
@@ -104,6 +104,12 @@
           "title": "Husband and mother-in-law charged over Indian bride's death",
           "link": "https://www.bbc.co.uk/news/articles/cjej8nze1wko?at_medium=RSS&at_campaign=rss",
           "published": "Wed, 19 Aug 2026 03:04:07 GMT"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Attackers go ‘house to house’ killing 25 villagers in central Nigeria",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/attackers-go-house-to-house-killing-25-villagers-in-central-nigeria?traffic_source=rss",
+          "published": "Wed, 19 Aug 2026 04:25:26 +0000"
         },
         {
           "source": "Al Jazeera",
@@ -128,12 +134,6 @@
           "title": "US sanctions International Criminal Court’s president and top lawyer",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/us-sanctions-international-criminal-courts-president-and-top-lawyer?traffic_source=rss",
           "published": "Wed, 19 Aug 2026 03:25:33 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Trial begins that could force Meta to change Facebook and Instagram",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/trial-begins-that-could-force-meta-to-change-facebook-and-instagram?traffic_source=rss",
-          "published": "Wed, 19 Aug 2026 03:20:24 +0000"
         }
       ]
     }
