@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T19:24:49Z",
+  "updatedAt": "2026-08-19T19:49:25Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Три авиони го гаснат пожарот во Студеничани",
+          "link": "https://makfax.com.mk/makedonija/tri-avioni-go-gasnat-pozharot-vo-studenichani/",
+          "published": "Wed, 19 Aug 2026 19:30:26 +0000"
         },
         {
           "source": "Makfax",
@@ -35,10 +41,10 @@
           "published": "Wed, 19 Aug 2026 18:28:55 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "„Амазон“ ветува достава со дрон за 30 минути до речиси 500 градови",
-          "link": "https://makfax.com.mk/ekonomija/amazon-vetuva-dostava-so-dron-za-30-minuti-do-rechisi-500-gradovi/",
-          "published": "Wed, 19 Aug 2026 18:12:45 +0000"
+          "source": "NetPress",
+          "title": "Нова огромна парична казна за Ајнтрахт Франкфурт",
+          "link": "https://netpress.com.mk/nova-ogromna-parichna-kazna-za-ajntraht-frankfurt/",
+          "published": "Wed, 19 Aug 2026 19:39:31 +0000"
         },
         {
           "source": "NetPress",
@@ -63,12 +69,6 @@
           "title": "Мицкоски: Намерата на СДСМ за Гостивар не е да се бара вина, туку да се политизира",
           "link": "https://netpress.com.mk/miczkoski-namerata-na-sdsm-za-gostivar-ne-e-da-se-bara-vina-tuku-da-se-politizira/",
           "published": "Wed, 19 Aug 2026 18:54:36 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "АТП и ВТА Синсинати: Коболи и Швјонтек се пласираа во четвртфиналето",
-          "link": "https://netpress.com.mk/atp-i-vta-sinsinati-koboli-i-shvjontek-se-plasiraa-vo-chetvrtfinaleto/",
-          "published": "Wed, 19 Aug 2026 18:47:45 +0000"
         }
       ]
     },
@@ -107,6 +107,18 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "582 skeletons, including children discovered in Sri Lanka mass grave",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/582-skeletons-including-children-discovered-in-sri-lanka-mass-grave?traffic_source=rss",
+          "published": "Wed, 19 Aug 2026 19:26:58 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Protests in Kyiv back ex-defence minister Fedorov’s call for elections",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/19-08-reported-audreymacalpine-kyiv-ua?traffic_source=rss",
+          "published": "Wed, 19 Aug 2026 19:09:53 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Violence in the New Syria?",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/violence-in-the-new-syria?traffic_source=rss",
           "published": "Wed, 19 Aug 2026 18:50:17 +0000"
@@ -119,21 +131,9 @@
         },
         {
           "source": "Al Jazeera",
-          "title": "Zambian opposition leader to challenge election result in ⁠court",
+          "title": "Zambia opposition leader to challenge Hichilema election victory in court",
           "link": "https://www.aljazeera.com/news/2026/8/19/zambian-opposition-leader-to-challenge-election-result-in-%e2%81%a0court?traffic_source=rss",
           "published": "Wed, 19 Aug 2026 18:43:28 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Iran’s hardline parliament raises concerns with ‘foreign infiltration’ plan",
-          "link": "https://www.aljazeera.com/news/2026/8/19/irans-hardline-parliament-raises-concerns-with-foreign-infiltration-plan?traffic_source=rss",
-          "published": "Wed, 19 Aug 2026 18:21:37 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Canada pledges $50m aid to Lebanon and condemns Israeli ‘unlawful invasion’",
-          "link": "https://www.aljazeera.com/news/2026/8/19/canada-pledges-50m-aid-to-lebanon-and-condemns-israeli-unlawful-invasion?traffic_source=rss",
-          "published": "Wed, 19 Aug 2026 18:08:09 +0000"
         }
       ]
     }
