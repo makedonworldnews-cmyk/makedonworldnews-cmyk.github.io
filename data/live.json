@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T04:28:42Z",
+  "generated_at": "2026-08-19T05:02:40Z",
   "items": [
     {
       "region": "Македонија",
@@ -39,6 +39,20 @@
     {
       "region": "Македонија",
       "source": "NetPress",
+      "title": "Без струја корисници во Сопиште и Ѓорче Петров, прекин на водоснабдувањето во Чаир и Топаана",
+      "link": "https://netpress.com.mk/bez-struja-korisniczi-vo-sopishte-i-gorche-petrov-prekin-na-vodosnabduvaneto-vo-chair-i-topaana/",
+      "published": "Wed, 19 Aug 2026 04:57:17 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "NetPress",
+      "title": "Денеска сончево и топло со попладневни услови за дожд, од утре температурите и над 40",
+      "link": "https://netpress.com.mk/deneska-sonchevo-i-toplo-so-popladnevni-uslovi-za-dozhd-od-utre-temperaturite-i-nad-40/",
+      "published": "Wed, 19 Aug 2026 04:37:12 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "NetPress",
       "title": "Латвија oбјави дека се украдени податоците на 1,2 милиони луѓе во кибернапaд",
       "link": "https://netpress.com.mk/latvija-objavi-deka-se-ukradeni-podatoczite-na-12-milioni-luge-vo-kibernap/",
       "published": "Tue, 18 Aug 2026 23:44:38 +0000"
@@ -58,25 +72,11 @@
       "published": "Tue, 18 Aug 2026 20:39:23 +0000"
     },
     {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Уапсен маж од Кавадарци, со остар предмет се заканувал на сопругата",
-      "link": "https://netpress.com.mk/uapsen-mazh-od-kavadarczi-so-ostar-predmet-se-zakanuval-na-soprugata/",
-      "published": "Tue, 18 Aug 2026 20:12:26 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Клековски за утре најавува детални резултати од контролата на прскањето против комарци",
-      "link": "https://netpress.com.mk/klekovski-za-utre-najavuva-detalni-rezultati-od-kontrolata-na-prskaneto-protiv-komarczi/",
-      "published": "Tue, 18 Aug 2026 20:09:24 +0000"
-    },
-    {
       "region": "Свет",
       "source": "BBC",
       "title": "Sacked Ukrainian defence minister calls for presidential election",
       "link": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 19 Aug 2026 01:31:15 GMT"
+      "published": "Wed, 19 Aug 2026 04:44:41 GMT"
     },
     {
       "region": "Свет",
@@ -109,6 +109,13 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "Attackers go ‘house to house’ killing 25 villagers in central Nigeria",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/attackers-go-house-to-house-killing-25-villagers-in-central-nigeria?traffic_source=rss",
+      "published": "Wed, 19 Aug 2026 04:25:26 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "Bali gym owner kicks out three Israeli tourists for links to ‘IDF’",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/bali-gym-owner-kicks-out-three-israeli-tourists-for-links-to?traffic_source=rss",
       "published": "Wed, 19 Aug 2026 03:44:44 +0000"
@@ -133,13 +140,6 @@
       "title": "US sanctions International Criminal Court’s president and top lawyer",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/us-sanctions-international-criminal-courts-president-and-top-lawyer?traffic_source=rss",
       "published": "Wed, 19 Aug 2026 03:25:33 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Trial begins that could force Meta to change Facebook and Instagram",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/trial-begins-that-could-force-meta-to-change-facebook-and-instagram?traffic_source=rss",
-      "published": "Wed, 19 Aug 2026 03:20:24 +0000"
     }
   ]
 }
