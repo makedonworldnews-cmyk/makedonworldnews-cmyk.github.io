@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T23:29:53Z",
+  "updatedAt": "2026-08-19T23:50:53Z",
   "groups": [
     {
       "region": "Македонија",
@@ -107,6 +107,12 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Pentagon quizzes NATO allies on political loyalty, documents reveal",
+          "link": "https://www.aljazeera.com/news/2026/8/19/pentagon-quizzes-nato-allies-on-political-loyalty-documents-reveal?traffic_source=rss",
+          "published": "Wed, 19 Aug 2026 23:24:43 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Lebanon hands former Syrian army general to Damascus after arrest warrant",
           "link": "https://www.aljazeera.com/news/2026/8/19/lebanon-hands-former-syrian-army-general-to-damascus-after-arrest-warrant?traffic_source=rss",
           "published": "Wed, 19 Aug 2026 23:21:32 +0000"
@@ -128,12 +134,6 @@
           "title": "“I get along with him very well.”",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/i-get-along-with-him-very-well?traffic_source=rss",
           "published": "Wed, 19 Aug 2026 21:35:34 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Israeli strike on Gaza City police headquarters kills women’s police chief",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/israeli-strike-on-gaza-city-police-headquarters-kills-womens-police-chief?traffic_source=rss",
-          "published": "Wed, 19 Aug 2026 21:22:17 +0000"
         }
       ]
     }
