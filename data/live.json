@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T00:44:27Z",
+  "generated_at": "2026-08-19T02:07:28Z",
   "items": [
     {
       "region": "Македонија",
@@ -81,9 +81,9 @@
     {
       "region": "Свет",
       "source": "BBC",
-      "title": "UK 'supports Ukraine 100%', Burnham says, after Russia's drone warning",
-      "link": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 18 Aug 2026 12:36:11 GMT"
+      "title": "Sacked Ukrainian defence minister calls for presidential election",
+      "link": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 19 Aug 2026 01:31:15 GMT"
     },
     {
       "region": "Свет",
@@ -109,6 +109,20 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "How Ebola became the deadliest outbreak in DR Congo’s history",
+      "link": "https://www.aljazeera.com/news/2026/8/19/how-ebola-became-the-deadliest-outbreak-in-dr-congos-history?traffic_source=rss",
+      "published": "Wed, 19 Aug 2026 00:53:34 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "US ambassador to Israel calls settler violence ‘terror’",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/us-ambassador-to-israel-calls-settler-violence?traffic_source=rss",
+      "published": "Wed, 19 Aug 2026 00:49:10 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "Quebec separatist says no independence referendum while Trump in office",
       "link": "https://www.aljazeera.com/news/2026/8/19/quebec-separatist-says-no-independence-referendum-while-trump-in-office?traffic_source=rss",
       "published": "Wed, 19 Aug 2026 00:17:01 +0000"
@@ -126,20 +140,6 @@
       "title": "Al Jazeera reports from Indonesia’s quake zone, desperate for help",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/al-jazeera-reports-from-indonesias-quake-zone-desperate-for-help?traffic_source=rss",
       "published": "Tue, 18 Aug 2026 23:59:43 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Democrats call for USS Lincoln probe, question US Navy’s readiness",
-      "link": "https://www.aljazeera.com/news/2026/8/18/democrats-call-for-uss-lincoln-probe-question-us-navys-readiness?traffic_source=rss",
-      "published": "Tue, 18 Aug 2026 23:45:16 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Minnesota official sues Texas governor to force ICE agent’s extradition",
-      "link": "https://www.aljazeera.com/news/2026/8/18/minnesota-official-sues-texas-governor-to-force-ice-agents-extradition?traffic_source=rss",
-      "published": "Tue, 18 Aug 2026 22:55:50 +0000"
     }
   ]
 }
