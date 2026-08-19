@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T11:43:49Z",
+  "updatedAt": "2026-08-19T12:13:23Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Тешко повреден 29-годишник од Гостиварско: изгубил контрола врз мотоциклот и паднал на коловозот",
+          "link": "https://makfax.com.mk/crna-hronika/teshko-povreden-29-godishnik-od-gostivarsko-izgubil-kontrola-vrz-motociklot-i-padnal-na-kolovozot/",
+          "published": "Wed, 19 Aug 2026 12:11:18 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "СМС-кампања против комарците: ќе бидат испратени околу 38.500 пораки до лицата над 60 години, кажа Клековски",
+          "link": "https://makfax.com.mk/makedonija/sms-kampanja-protiv-komarcite-ke-bidat-isprateni-okolu-38-500-poraki-do-licata-nad-60-godini-kazha-klekovski/",
+          "published": "Wed, 19 Aug 2026 12:03:26 +0000"
         },
         {
           "source": "Makfax",
@@ -29,46 +41,34 @@
           "published": "Wed, 19 Aug 2026 11:22:13 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Просекот никогаш не е доволен за овие знаци, тие секогаш целат високо",
-          "link": "https://makfax.com.mk/zanimlivosti/prosekot-nikogash-ne-e-dovolen-za-ovie-znaci-tie-sekogash-celat-visoko/",
-          "published": "Wed, 19 Aug 2026 11:21:19 +0000"
+          "source": "NetPress",
+          "title": "Клековски: Формирана комисија за надзор над случајот со родилката во Штип, ќе се вклучат и двајца странски стручњаци",
+          "link": "https://netpress.com.mk/klekovski-formirana-komisija-za-nadzor-nad-sluchajot-so-rodilkata-vo-shtip-ke-se-vkluchat-dvajcza-stranski-struchnaczi/",
+          "published": "Wed, 19 Aug 2026 12:12:20 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Бразилец е рекорден трансфер на Канзас Сити",
-          "link": "https://makfax.com.mk/sport/brazilec-e-rekorden-transfer-na-kanzas-siti/",
-          "published": "Wed, 19 Aug 2026 11:17:25 +0000"
+          "source": "NetPress",
+          "title": "ФФМ ја повлече поддршката за Инфантино за нов мандат",
+          "link": "https://netpress.com.mk/ffm-ja-povleche-poddrshkata-za-infantino-za-nov-mandat/",
+          "published": "Wed, 19 Aug 2026 12:03:39 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Првата француска астронаутка изведе вселенска прошетка",
+          "link": "https://netpress.com.mk/prvata-franczuska-astronautka-izvede-vselenska-proshetka/",
+          "published": "Wed, 19 Aug 2026 12:03:18 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Пожари ширум Србија, едно лице загина, ветерот го отежнува гаснењето",
+          "link": "https://netpress.com.mk/pozhari-shirum-srbija-edno-licze-zagina-veterot-go-otezhnuva-gasneneto/",
+          "published": "Wed, 19 Aug 2026 11:49:13 +0000"
         },
         {
           "source": "NetPress",
           "title": "Карим Кулибали е пред трансфер во Стразбур вреден 20 милиони евра",
           "link": "https://netpress.com.mk/karim-kulibali-e-pred-transfer-vo-strazbur-vreden-20-milioni-evra/",
           "published": "Wed, 19 Aug 2026 11:42:34 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Инвестициите во енергетското поврзување и инфраструктурата се една од најголемите можности за економски развој на државата",
-          "link": "https://netpress.com.mk/investicziite-vo-energetskoto-povrzuvane-i-infrastrukturata-se-edna-od-najgolemite-mozhnosti-za-ekonomski-razvoj-na-drzhavata/",
-          "published": "Wed, 19 Aug 2026 11:39:32 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Шпанија ја игнорира ЕУ – планира итен трансфер на 500 малолетни мигрантки од Сеута на копното",
-          "link": "https://netpress.com.mk/shpanija-ja-ignorira-eu-planira-iten-transfer-na-500-maloletni-migrantki-od-seuta-na-kopnoto/",
-          "published": "Wed, 19 Aug 2026 11:34:19 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Акциите на кинескиот производител на хуманоидни роботи „Јунитри роботикс“скокнаа за речиси 630 отсто на Шангајската берза",
-          "link": "https://netpress.com.mk/akcziite-na-kineskiot-proizvoditel-na-humanoidni-roboti-junitri-robotiksskoknaa-za-rechisi-630-otsto-na-shangajskata-berza/",
-          "published": "Wed, 19 Aug 2026 11:32:13 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Почина тапанарот на ZZ Top, Френк Бирд",
-          "link": "https://netpress.com.mk/pochina-tapanarot-na-zz-top-frenk-bird/",
-          "published": "Wed, 19 Aug 2026 11:19:31 +0000"
         }
       ]
     },
@@ -95,15 +95,27 @@
         },
         {
           "source": "BBC",
+          "title": "Christian metal band Demon Hunter sue Netflix over KPop Demon Hunters",
+          "link": "https://www.bbc.co.uk/news/articles/c2dk64d10rko?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 19 Aug 2026 11:30:40 GMT"
+        },
+        {
+          "source": "BBC",
           "title": "South Korea shortens war games with US, citing Washington request",
           "link": "https://www.bbc.co.uk/news/articles/cnvn0j31qj8o?at_medium=RSS&at_campaign=rss",
           "published": "Wed, 19 Aug 2026 05:53:53 GMT"
         },
         {
-          "source": "BBC",
-          "title": "Apparent human remains found in US reservoir as water levels hit record low",
-          "link": "https://www.bbc.co.uk/news/articles/cp87gvmedlmo?at_medium=RSS&at_campaign=rss",
-          "published": "Wed, 19 Aug 2026 10:10:09 GMT"
+          "source": "Al Jazeera",
+          "title": "China’s Unitree soars in market debut as investors bet on humanoid robots",
+          "link": "https://www.aljazeera.com/economy/2026/8/19/chinas-unitree-soars-in-market-debut-as-investors-bet-on-humanoid-robots?traffic_source=rss",
+          "published": "Wed, 19 Aug 2026 11:40:52 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Angelique Kidjo makes history with Hollywood walk of fame star",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/angelique-kidjo-makes-history-with-hollywood-walk-of-fame-star?traffic_source=rss",
+          "published": "Wed, 19 Aug 2026 11:36:54 +0000"
         },
         {
           "source": "Al Jazeera",
@@ -122,18 +134,6 @@
           "title": "Top India court allows passive euthanasia, but few aware of ‘living wills’",
           "link": "https://www.aljazeera.com/news/2026/8/19/top-india-court-allows-passive-euthanasia-but-few-aware-of-living-wills?traffic_source=rss",
           "published": "Wed, 19 Aug 2026 10:53:01 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Why White House envoys cannot sway Israel’s war leader",
-          "link": "https://www.aljazeera.com/opinions/2026/8/19/why-white-house-envoys-cannot-sway-israels-war-leader?traffic_source=rss",
-          "published": "Wed, 19 Aug 2026 10:24:26 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Manav Suthar takes 10-wicket haul as India beat Sri Lanka in 600th Test",
-          "link": "https://www.aljazeera.com/sports/2026/8/19/manav-suthar-takes-10-wicket-haul-as-sri-lanka-beaten-in-indias-600th-test?traffic_source=rss",
-          "published": "Wed, 19 Aug 2026 10:02:16 +0000"
         }
       ]
     }
