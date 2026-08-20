@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T21:00:56Z",
+  "generated_at": "2026-08-20T21:37:05Z",
   "items": [
     {
       "region": "Македонија",
@@ -39,6 +39,13 @@
     {
       "region": "Македонија",
       "source": "NetPress",
+      "title": "Младите Германци ја губат довербата во државниот пензиски систем",
+      "link": "https://netpress.com.mk/mladite-germanczi-ja-gubat-doverbata-vo-drzhavniot-penziski-sistem/",
+      "published": "Thu, 20 Aug 2026 21:07:35 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "NetPress",
       "title": "Роналдињо претставен како член на Равена",
       "link": "https://netpress.com.mk/ronaldino-pretstaven-kako-chlen-na-ravena/",
       "published": "Thu, 20 Aug 2026 20:47:42 +0000"
@@ -63,13 +70,6 @@
       "title": "САД воведоа нови санкции врз Куба",
       "link": "https://netpress.com.mk/sad-vovedoa-novi-sankczii-vrz-kuba/",
       "published": "Thu, 20 Aug 2026 20:11:39 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Вучиќ најавува предвремени избори во Србија за средината на октомври",
-      "link": "https://netpress.com.mk/vuchik-najavuva-predvremeni-izbori-vo-srbija-za-sredinata-na-oktomvri/",
-      "published": "Thu, 20 Aug 2026 19:23:35 +0000"
     },
     {
       "region": "Свет",
@@ -109,6 +109,20 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "Pakistan’s ex-PM Imran Khan reportedly moved to hospital from jail",
+      "link": "https://www.aljazeera.com/news/2026/8/20/pakistans-ex-pm-imran-khan-transferred-from-jail-to-hospital?traffic_source=rss",
+      "published": "Thu, 20 Aug 2026 21:18:10 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "US pummels Cuban economy with new sanctions on mining, construction",
+      "link": "https://www.aljazeera.com/news/2026/8/20/us-pummels-cuban-economy-with-new-sanctions-on-mining-construction?traffic_source=rss",
+      "published": "Thu, 20 Aug 2026 20:37:25 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "Landslide at illegal gold mine kills 13 people in Colombia",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/landslide-at-illegal-gold-mine-kills-13-people-in-colombia-2?traffic_source=rss",
       "published": "Thu, 20 Aug 2026 20:36:51 +0000"
@@ -126,20 +140,6 @@
       "title": "Heartbreak, loss on Lebanon’s front lines, the story of a first responder",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/heartbreak-loss-on-lebanons-front-lines-the-story-of-a-first-responder?traffic_source=rss",
       "published": "Thu, 20 Aug 2026 20:28:44 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Four railway workers killed by express train at station in Japan",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/08-20-26-japan-railyway-crash-clip?traffic_source=rss",
-      "published": "Thu, 20 Aug 2026 20:27:27 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "DR Congo to receive 70,000 doses of Ervebo vaccine as Ebola infections surge",
-      "link": "https://www.aljazeera.com/news/2026/8/20/dr-congo-to-receive-70000-doses-of-ervebo-vaccine-as-ebola-infections-surge?traffic_source=rss",
-      "published": "Thu, 20 Aug 2026 20:10:42 +0000"
     }
   ]
 }
