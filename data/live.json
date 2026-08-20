@@ -1,6 +1,13 @@
 {
-  "generated_at": "2026-08-20T17:20:23Z",
+  "generated_at": "2026-08-20T17:53:25Z",
   "items": [
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "(Видео) Најмалку 13 лица загинаа во уривањето на нелегален рудник за злато во јужна Колумбија",
+      "link": "https://makfax.com.mk/svet/najmalku-13-lica-zaginaa-vo-urivanjeto-na-nelegalen-rudnik-za-zlato-vo-juzhna-kolumbija/",
+      "published": "Thu, 20 Aug 2026 17:42:26 +0000"
+    },
     {
       "region": "Македонија",
       "source": "Makfax",
@@ -28,13 +35,6 @@
       "title": "Министерот Серафимовски во Белград: Потврдена подготвеноста за продлабочување на соработката со Србија",
       "link": "https://makfax.com.mk/ekonomija/ministerot-serafimovski-vo-belgrad-potvrdena-podgotvenosta-za-prodlabochuvanje-na-sorabotkata-so-srbija/",
       "published": "Thu, 20 Aug 2026 15:47:04 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "Makfax",
-      "title": "Времето утре – сончево и многу топло, температурата до 40 степени",
-      "link": "https://makfax.com.mk/makedonija/vremeto-utre-sonchevo-i-mnogu-toplo-temperaturata-do-40-stepeni-2/",
-      "published": "Thu, 20 Aug 2026 15:37:55 +0000"
     },
     {
       "region": "Македонија",
@@ -74,7 +74,7 @@
     {
       "region": "Свет",
       "source": "BBC",
-      "title": "At least 15 killed in Kyiv as Ukraine grapples with air defence shortages",
+      "title": "Russia 'purposefully' hit critical infrastructure in latest strikes, Kyiv mayor says",
       "link": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 20 Aug 2026 17:14:55 GMT"
     },
@@ -109,6 +109,20 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "Bangladesh elects ruling party veteran Alamgir as president",
+      "link": "https://www.aljazeera.com/news/2026/8/20/bangladesh-elects-ruling-party-veteran-alamgir-as-president?traffic_source=rss",
+      "published": "Thu, 20 Aug 2026 17:35:34 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Humanoid robots take centre stage in China-US tech race",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/humanoid-robots-take-centre-stage-in-china-us-tech-race?traffic_source=rss",
+      "published": "Thu, 20 Aug 2026 17:17:47 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "Swiss tourist jailed for insulting Bali’s sacred Day of Silence",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/swiss-tourist-jailed-for-insulting-balis-sacred-day-of-silence?traffic_source=rss",
       "published": "Thu, 20 Aug 2026 17:05:31 +0000"
@@ -126,20 +140,6 @@
       "title": "North Korea fires ballistic missiles as US-South Korea drills near end",
       "link": "https://www.aljazeera.com/news/2026/8/20/north-korea-launches-ballistic-missiles-as-us-south-korea-drills-end?traffic_source=rss",
       "published": "Thu, 20 Aug 2026 17:00:12 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "At least 800 people evacuated from major wildfire in western Spain",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/at-least-800-people-evacuated-from-major-wildfire-in-western-spain?traffic_source=rss",
-      "published": "Thu, 20 Aug 2026 16:58:19 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Spanish police evict hundreds of migrants from Ceuta beach to shelters",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/spanish-police-evict-hundreds-of-migrants-from-ceuta-beach-to-shelters?traffic_source=rss",
-      "published": "Thu, 20 Aug 2026 16:22:46 +0000"
     }
   ]
 }
