@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T11:25:59Z",
+  "updatedAt": "2026-08-20T11:53:29Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,24 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) Филипче: Мицкоски живее во свој свет, граѓаните живеат со празни паричници и празни фрижидери",
+          "link": "https://makfax.com.mk/makedonija/video-filipche-mickoski-zhivee-vo-svoj-svet-graganite-zhiveat-so-prazni-parichnici-i-prazni-frizhideri/",
+          "published": "Thu, 20 Aug 2026 11:47:21 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "АВМУ: Одлуките ги носиме исклучиво согласно закон и утврдени процедури",
+          "link": "https://makfax.com.mk/makedonija/avmu-odlukite-gi-nosime-iskluchivo-soglasno-zakon-i-utvrdeni-proceduri/",
+          "published": "Thu, 20 Aug 2026 11:32:54 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Филипче се одморил на јахтата на Заев, човекот кому му се запали модуларна болница треба да одговара, велат од ВМРО-ДПМНЕ",
+          "link": "https://makfax.com.mk/makedonija/filipche-se-odmoril-na-jahtata-na-zaev-chovekot-komu-mu-se-zapali-modularna-bolnica-treba-da-odgovara-velat-od-vmro-dpmne/",
+          "published": "Thu, 20 Aug 2026 11:28:22 +0000"
         },
         {
           "source": "Makfax",
@@ -23,52 +41,34 @@
           "published": "Thu, 20 Aug 2026 11:14:41 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Шасивари – Ле Риголер: Француската поддршка, клучна за реформите и европската интеграција",
-          "link": "https://makfax.com.mk/makedonija/shasivari-le-rigoler-francuskata-poddrshka-kluchna-za-reformite-i-evropskata-integracija/",
-          "published": "Thu, 20 Aug 2026 11:10:05 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Леб од 126 денари, набавки по цени повисоки од пазарните и без оправданост, ДЗР воочува низа неправилности во  студентскиот дом „Пелагонија“",
-          "link": "https://makfax.com.mk/makedonija/leb-od-126-denari-nabavki-po-ceni-povisoki-od-pazarnite-i-bez-opravdanost-dzr-voochuva-niza-nepravilnosti-vo-studentskiot-dom-pelagonija/",
-          "published": "Thu, 20 Aug 2026 10:56:27 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Снема гориво на повеќето пумпи во Русија, Путин вели дека не е критично",
-          "link": "https://makfax.com.mk/svet/snema-gorivo-na-poveketo-pumpi-vo-rusija-putin-veli-deka-ne-e-kritichno/",
-          "published": "Thu, 20 Aug 2026 10:34:35 +0000"
+          "source": "NetPress",
+          "title": "Затворен предметот за изградба на модуларните болници, нема сомнежи за злоупотреба",
+          "link": "https://netpress.com.mk/zatvoren-predmetot-za-izgradba-na-modularnite-bolniczi-nema-somnezhi-za-zloupotreba/",
+          "published": "Thu, 20 Aug 2026 11:52:47 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Мицкоски: Растот на градежништвото охрабрува, очекуваме позитивно влијание врз БДП",
-          "link": "https://netpress.com.mk/miczkoski-rastot-na-gradezhnishtvoto-ohrabruva-ochekuvame-pozitivno-vlijanie-vrz-bdp/",
-          "published": "Thu, 20 Aug 2026 11:24:51 +0000"
+          "title": "Не е виц! Украинецот зад саботажата на „Северен поток“ уапсен при снимање филм за настанот",
+          "link": "https://netpress.com.mk/ne-e-vicz-ukraineczot-uapsen-vo-pula-za-sabotazhata-na-%e2%80%9eseveren-potok%e2%80%9c-uapsen-pri-snimane-film-za-nastanot/",
+          "published": "Thu, 20 Aug 2026 11:45:10 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Мицкоски: Уставot нуди апсолутно сериозна заштита за сите граѓани во државата, вклучително и за бугарската заедница",
-          "link": "https://netpress.com.mk/miczkoski-ustavot-nudi-apsolutno-seriozna-zashtita-za-site-gragani-vo-drzhavata-vkluchitelno-i-za-bugarskata-zaednicza/",
-          "published": "Thu, 20 Aug 2026 11:22:52 +0000"
+          "title": "Студентскиот дом „Пелагонија“ го плаќал лебот по 126 денари за килограм, утврдил ДЗР",
+          "link": "https://netpress.com.mk/studentskiot-dom-pelagonija-go-plakal-lebot-po-126-denari-za-kilogram-utvrdil-dzr/",
+          "published": "Thu, 20 Aug 2026 11:38:03 +0000"
         },
         {
           "source": "NetPress",
-          "title": "До 13 часот регистрирани 12 пожари на отворен простор – осум сè уште активни",
-          "link": "https://netpress.com.mk/do-13-chasot-registrirani-12-pozhari-na-otvoren-prostor-osum-se-ushte-aktivni/",
-          "published": "Thu, 20 Aug 2026 11:19:29 +0000"
+          "title": "Помошникот на Фаучи призна дека криел записи за коронавирусот",
+          "link": "https://netpress.com.mk/pomoshnikot-na-fauchi-prizna-deka-kriel-zapisi-za-koronavirusot/",
+          "published": "Thu, 20 Aug 2026 11:37:47 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Киев и неговите западни поддржувачи да ја напуштат „опасната илузија“ за нанесување пораз на Москва",
-          "link": "https://netpress.com.mk/kiev-i-negovite-zapadni-poddrzhuvachi-da-ja-napushtat-opasnata-iluzija-za-nanesuvane-poraz-na-moskva/",
-          "published": "Thu, 20 Aug 2026 11:18:56 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "И сабота и недела со пеколни температури",
-          "link": "https://netpress.com.mk/i-sabota-i-nedela-so-pekolni-temperaturi/",
-          "published": "Thu, 20 Aug 2026 11:09:37 +0000"
+          "title": "Oбвинителство го затвори предметот за јавни набавки за изградбата на модуларните болници, немало сомнение за злоупотреби",
+          "link": "https://netpress.com.mk/obvinitelstvo-go-zatvori-predmetot-za-javni-nabavki-za-izgradbata-na-modularnite-bolniczi-nemalo-somnenie-za-zloupotrebi/",
+          "published": "Thu, 20 Aug 2026 11:32:10 +0000"
         }
       ]
     },
@@ -95,15 +95,21 @@
         },
         {
           "source": "BBC",
+          "title": "Belgian car salesman becomes prince after royal parentage confirmed",
+          "link": "https://www.bbc.co.uk/news/articles/c4g616gvxr0o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 20 Aug 2026 10:14:47 GMT"
+        },
+        {
+          "source": "BBC",
           "title": "Mushroom killer must stay in jail forever for 'truly dreadful' crime, appeal court told",
           "link": "https://www.bbc.co.uk/news/articles/ckg3j3yn4exo?at_medium=RSS&at_campaign=rss",
           "published": "Thu, 20 Aug 2026 07:08:35 GMT"
         },
         {
-          "source": "BBC",
-          "title": "Australia 'outraged' after Israel decides not to open criminal investigation into killing of aid worker in Gaza",
-          "link": "https://www.bbc.co.uk/news/articles/cp87g29r718o?at_medium=RSS&at_campaign=rss",
-          "published": "Thu, 20 Aug 2026 07:33:11 GMT"
+          "source": "Al Jazeera",
+          "title": "PSG forced to move opening league match as heatwave in France damages pitch",
+          "link": "https://www.aljazeera.com/sports/2026/8/20/psg-forced-to-move-opening-league-match-as-heatwave-in-france-damages-pitch?traffic_source=rss",
+          "published": "Thu, 20 Aug 2026 11:21:50 +0000"
         },
         {
           "source": "Al Jazeera",
@@ -128,12 +134,6 @@
           "title": "How conflict is making life more expensive for Iranians",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/how-conflict-is-making-life-more-expensive-for-iranians?traffic_source=rss",
           "published": "Thu, 20 Aug 2026 09:20:17 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "State-backed Israeli settler violence forces West Bank displacement: HRW",
-          "link": "https://www.aljazeera.com/news/2026/8/20/state-backed-israeli-settler-violence-forces-west-bank-displacement-hrw?traffic_source=rss",
-          "published": "Thu, 20 Aug 2026 09:08:58 +0000"
         }
       ]
     }
