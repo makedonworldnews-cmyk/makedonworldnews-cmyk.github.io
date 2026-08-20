@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T17:28:06Z",
+  "updatedAt": "2026-08-20T17:57:51Z",
   "groups": [
     {
       "region": "Македонија",
@@ -12,6 +12,24 @@
         },
         {
           "source": "Makfax",
+          "title": "Ставена во функција апликацијата „Безбеден град“ за странските возила",
+          "link": "https://makfax.com.mk/makedonija/stavena-vo-funkcija-aplikacijata-bezbeden-grad-za-stranskite-vozila/",
+          "published": "Thu, 20 Aug 2026 17:57:34 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "ЕУ е подготвена да ја поддржи Украина доколку одлучи да одржи избори",
+          "link": "https://makfax.com.mk/svet/eu-e-podgotvena-da-ja-poddrzhi-ukraina-dokolku-odluchi-da-odrzhi-izbori/",
+          "published": "Thu, 20 Aug 2026 17:55:28 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) Најмалку 13 лица загинаа во уривањето на нелегален рудник за злато во јужна Колумбија",
+          "link": "https://makfax.com.mk/svet/najmalku-13-lica-zaginaa-vo-urivanjeto-na-nelegalen-rudnik-za-zlato-vo-juzhna-kolumbija/",
+          "published": "Thu, 20 Aug 2026 17:42:26 +0000"
+        },
+        {
+          "source": "Makfax",
           "title": "„Ердоган ја влече Турција во опасни авантури во Сирија“, се закани Израел",
           "link": "https://makfax.com.mk/svet/izrael-%d1%9d-se-zakani-na-turcija/",
           "published": "Thu, 20 Aug 2026 16:54:23 +0000"
@@ -21,24 +39,6 @@
           "title": "Божиновска: Дигиталната трансформација и сајбер-безбедноста се клучни за сигурен и отпорен енергетски систем",
           "link": "https://makfax.com.mk/makedonija/bozhinovska-digitalnata-transformacija-i-sajber-bezbednosta-se-kluchni-za-siguren-i-otporen-energetski-sistem/",
           "published": "Thu, 20 Aug 2026 16:33:47 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "(Видео) Ангелов: Истече кризната состојба во Гостивар, водата е безбедна за пиење",
-          "link": "https://makfax.com.mk/makedonija/video-angelov-isteche-kriznata-sostojba-vo-gostivar-vodata-e-bezbedna-za-pienje/",
-          "published": "Thu, 20 Aug 2026 16:20:00 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Министерот Серафимовски во Белград: Потврдена подготвеноста за продлабочување на соработката со Србија",
-          "link": "https://makfax.com.mk/ekonomija/ministerot-serafimovski-vo-belgrad-potvrdena-podgotvenosta-za-prodlabochuvanje-na-sorabotkata-so-srbija/",
-          "published": "Thu, 20 Aug 2026 15:47:04 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Времето утре – сончево и многу топло, температурата до 40 степени",
-          "link": "https://makfax.com.mk/makedonija/vremeto-utre-sonchevo-i-mnogu-toplo-temperaturata-do-40-stepeni-2/",
-          "published": "Thu, 20 Aug 2026 15:37:55 +0000"
         },
         {
           "source": "NetPress",
@@ -77,7 +77,7 @@
       "items": [
         {
           "source": "BBC",
-          "title": "At least 15 killed in Kyiv as Ukraine grapples with air defence shortages",
+          "title": "Russia 'purposefully' hit critical infrastructure in latest strikes, Kyiv mayor says",
           "link": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
           "published": "Thu, 20 Aug 2026 17:14:55 GMT"
         },
