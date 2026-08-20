@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T23:17:46Z",
+  "generated_at": "2026-08-20T23:43:02Z",
   "items": [
     {
       "region": "Македонија",
@@ -109,6 +109,13 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "Houthis and government trade attacks as Yemen slides back to full-scale war",
+      "link": "https://www.aljazeera.com/news/2026/8/20/houthis-and-government-trade-attacks-as-yemen-slides-back-to-full-scale-war?traffic_source=rss",
+      "published": "Thu, 20 Aug 2026 23:19:56 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "US charges woman for allegedly plotting attack on New York State Capitol",
       "link": "https://www.aljazeera.com/news/2026/8/20/us-charges-woman-for-allegedly-plotting-attack-on-new-york-state-capitol?traffic_source=rss",
       "published": "Thu, 20 Aug 2026 23:01:15 +0000"
@@ -133,13 +140,6 @@
       "title": "Pakistan’s ex-PM Imran Khan reportedly moved to hospital from jail",
       "link": "https://www.aljazeera.com/news/2026/8/20/pakistans-ex-pm-imran-khan-transferred-from-jail-to-hospital?traffic_source=rss",
       "published": "Thu, 20 Aug 2026 21:18:10 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "US pummels Cuban economy with new sanctions on mining, construction",
-      "link": "https://www.aljazeera.com/news/2026/8/20/us-pummels-cuban-economy-with-new-sanctions-on-mining-construction?traffic_source=rss",
-      "published": "Thu, 20 Aug 2026 20:37:25 +0000"
     }
   ]
 }
