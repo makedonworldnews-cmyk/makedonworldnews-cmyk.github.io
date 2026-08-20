@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T04:08:24Z",
+  "updatedAt": "2026-08-20T04:50:57Z",
   "groups": [
     {
       "region": "Македонија",
@@ -42,6 +42,12 @@
         },
         {
           "source": "NetPress",
+          "title": "Денеска високи температури – до 39 Целзиусови степени",
+          "link": "https://netpress.com.mk/deneska-visoki-temperaturi-do-39-czelziusovi-stepeni/",
+          "published": "Thu, 20 Aug 2026 04:39:31 +0000"
+        },
+        {
+          "source": "NetPress",
           "title": "ВИДЕО|  Скопски пожарникари отидоа да гаснат во Мариово, заедно со припадници на војската",
           "link": "https://netpress.com.mk/video-skopski-pozharnikari-otidoa-da-gasnat-vo-mariovo-zaedno-so-pripadniczi-na-vojskata/",
           "published": "Wed, 19 Aug 2026 21:35:45 +0000"
@@ -63,12 +69,6 @@
           "title": "Постара скопјанка жртва на разбојник – останала без мобилниот телефон",
           "link": "https://netpress.com.mk/postara-skopjanka-zhrtva-na-razbojnik-ostanala-bez-mobilniot-telefon/",
           "published": "Wed, 19 Aug 2026 21:18:34 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Пробал да ограби обложувалница, па избегал од алармот",
-          "link": "https://netpress.com.mk/probal-da-ograbi-oblozhuvalnicza-pa-izbegal-od-alarmot/",
-          "published": "Wed, 19 Aug 2026 21:09:36 +0000"
         }
       ]
     },
@@ -79,7 +79,7 @@
           "source": "BBC",
           "title": "Israel confirms soldiers fired at car in which Hind Rajab was killed and opens criminal investigation",
           "link": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss",
-          "published": "Wed, 19 Aug 2026 15:33:32 GMT"
+          "published": "Thu, 20 Aug 2026 04:17:53 GMT"
         },
         {
           "source": "BBC",
@@ -107,7 +107,7 @@
         },
         {
           "source": "Al Jazeera",
-          "title": "Russian strike kills 3 in Ukraine as Zelenskyy faces pressure at home",
+          "title": "Russian forces kill 3 in Ukraine as Zelenskyy faces pressure over elections",
           "link": "https://www.aljazeera.com/news/2026/8/20/russian-strike-kills-3-in-ukraine-as-zelenskyy-faces-pressure-at-home?traffic_source=rss",
           "published": "Thu, 20 Aug 2026 02:50:17 +0000"
         },
