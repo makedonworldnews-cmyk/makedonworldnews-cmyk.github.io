@@ -1,6 +1,13 @@
 {
-  "generated_at": "2026-08-20T20:02:50Z",
+  "generated_at": "2026-08-20T20:39:05Z",
   "items": [
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "(Фото) Сиљановска-Давкова: Амбасадорите се сликата за државата во регионалното, европското и светското огледало",
+      "link": "https://makfax.com.mk/makedonija/foto-siljanovska-davkova-ambasadorite-se-slikata-za-drzhavata-vo-regionalnoto-evropskoto-i-svetsko-ogledalo/",
+      "published": "Thu, 20 Aug 2026 20:03:43 +0000"
+    },
     {
       "region": "Македонија",
       "source": "Makfax",
@@ -31,10 +38,24 @@
     },
     {
       "region": "Македонија",
-      "source": "Makfax",
-      "title": "(Фото) Алесандра Амбросио никогаш не била толку секси",
-      "link": "https://makfax.com.mk/zanimlivosti/foto-alesandra-ambrosio-nikogash-ne-bila-tolku-seksi/",
-      "published": "Thu, 20 Aug 2026 19:26:06 +0000"
+      "source": "NetPress",
+      "title": "Приведен скопјанец за напад на 81-годишната мајка и демолирање на домот",
+      "link": "https://netpress.com.mk/priveden-skopjanecz-za-napad-na-81-godishnata-majka-i-demolirane-na-domot/",
+      "published": "Thu, 20 Aug 2026 20:36:24 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "NetPress",
+      "title": "Татко и син нападнале полицајци кога биле фатени  со дрога, се обиделе да го одземат службеното оружје",
+      "link": "https://netpress.com.mk/tatko-i-sin-napadnale-policzajczi-koga-bile-fateni-so-droga-se-obidele-da-go-odzemat-sluzhbenoto-oruzhje/",
+      "published": "Thu, 20 Aug 2026 20:32:38 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "NetPress",
+      "title": "САД воведоа нови санкции врз Куба",
+      "link": "https://netpress.com.mk/sad-vovedoa-novi-sankczii-vrz-kuba/",
+      "published": "Thu, 20 Aug 2026 20:11:39 +0000"
     },
     {
       "region": "Македонија",
@@ -49,27 +70,6 @@
       "title": "Томовски: Мора да имаме владин авион ако сакаме да бидеме сериозна држава, идејата за негово купување не е повлечена",
       "link": "https://netpress.com.mk/tomovski-mora-da-imame-vladin-avion-ako-sakame-da-bideme-seriozna-drzhava-idejata-za-negovo-kupuvane-ne-e-povlechena/",
       "published": "Thu, 20 Aug 2026 19:16:20 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Мала Преспа е доказ дека границите не можат да ги избришат јазикот, културата и чувството на припадност",
-      "link": "https://netpress.com.mk/mala-prespa-e-dokaz-deka-graniczite-ne-mozhat-da-gi-izbrishat-jazikot-kulturata-i-chuvstvoto-na-pripadnost/",
-      "published": "Thu, 20 Aug 2026 18:34:13 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "ВИДЕО| Ставена во функција апликацијата „Безбеден град“ за странските возила",
-      "link": "https://netpress.com.mk/stavena-vo-funkczija-aplikaczijata-bezbeden-grad-za-stranskite-vozila/",
-      "published": "Thu, 20 Aug 2026 18:25:53 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Речиси шест милиони денари за обезбедување вода за пиење во Гостивар",
-      "link": "https://netpress.com.mk/rechisi-shest-milioni-denari-za-obezbeduvane-voda-za-piene-vo-gostivar/",
-      "published": "Thu, 20 Aug 2026 17:47:36 +0000"
     },
     {
       "region": "Свет",
@@ -102,9 +102,30 @@
     {
       "region": "Свет",
       "source": "BBC",
-      "title": "Como mayor bans 'beasts' in city centre after being hit by bike",
+      "title": "Como mayor hit by electric bike and issues blanket ban in Italian city",
       "link": "https://www.bbc.co.uk/news/articles/cn8n077vxd7o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 20 Aug 2026 16:53:20 GMT"
+      "published": "Thu, 20 Aug 2026 20:08:29 GMT"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "DR Congo to receive 70,000 doses of Ervebo vaccine as Ebola infections surge",
+      "link": "https://www.aljazeera.com/news/2026/8/20/dr-congo-to-receive-70000-doses-of-ervebo-vaccine-as-ebola-infections-surge?traffic_source=rss",
+      "published": "Thu, 20 Aug 2026 20:10:42 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Amputee children learn to swim after losing limbs in Israel’s war on Gaza",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/amputee-children-learn-to-swim-after-losing-limbs-in-israels-war-on-gaza?traffic_source=rss",
+      "published": "Thu, 20 Aug 2026 20:05:53 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Syria’s civil society navigates post-Assad era: Partnership or control?",
+      "link": "https://www.aljazeera.com/features/2026/8/20/syrias-civil-society-navigates-post-assad-era-partnership-or-control?traffic_source=rss",
+      "published": "Thu, 20 Aug 2026 19:59:54 +0000"
     },
     {
       "region": "Свет",
@@ -119,27 +140,6 @@
       "title": "Could US sanctions destroy the International Criminal Court?",
       "link": "https://www.aljazeera.com/video/inside-story/2026/8/20/could-us-sanctions-destroy-the-international-criminal-court?traffic_source=rss",
       "published": "Thu, 20 Aug 2026 19:38:29 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Walmart sees sales drop as US consumer spending retreats",
-      "link": "https://www.aljazeera.com/economy/2026/8/20/walmart-sees-sales-drop-as-us-consumer-spending-retreats?traffic_source=rss",
-      "published": "Thu, 20 Aug 2026 19:18:38 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "University suspends US academic leading Jason Arday plagiarism accusations",
-      "link": "https://www.aljazeera.com/news/2026/8/20/university-suspends-us-academic-leading-jason-arday-plagiarism-accusations?traffic_source=rss",
-      "published": "Thu, 20 Aug 2026 19:13:53 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Arsenal vs Coventry: Premier League – prediction, lineups, teams",
-      "link": "https://www.aljazeera.com/sports/2026/8/20/arsenal-vs-coventry-premier-league-prediction-lineups-teams?traffic_source=rss",
-      "published": "Thu, 20 Aug 2026 19:12:56 +0000"
     }
   ]
 }
