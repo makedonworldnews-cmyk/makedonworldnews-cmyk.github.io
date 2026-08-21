@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T10:51:20Z",
+  "updatedAt": "2026-08-21T11:25:21Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Шпанските медиуми тврдат дека Барселона има договор со Лаутаро, не и со Интер",
+          "link": "https://makfax.com.mk/sport/shpanskite-mediumi-tvrdat-deka-barselona-ima-dogovor-so-lautaro-ne-i-so-inter/",
+          "published": "Fri, 21 Aug 2026 11:14:04 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Пенелопе Круз на насловната страница на шпанскиот „Вог“ предизвика критики: „Отидоа предалеку“",
+          "link": "https://makfax.com.mk/zanimlivosti/penelope-kruz-na-naslovnata-stranica-na-shpanskiot-vog-predizvika-kritiki-otidoa-predaleku/",
+          "published": "Fri, 21 Aug 2026 10:54:35 +0000"
         },
         {
           "source": "Makfax",
@@ -29,46 +41,34 @@
           "published": "Fri, 21 Aug 2026 10:45:01 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Николоски: Изградбата на автопатот Прилеп-Битола се одвива со силна динамика",
-          "link": "https://makfax.com.mk/ekonomija/nikoloski-izgradbata-na-avtopatot-prilep-bitola-se-odviva-so-silna-dinamika/",
-          "published": "Fri, 21 Aug 2026 10:34:47 +0000"
+          "source": "NetPress",
+          "title": "За две години има 3,25 пати поголем месечен раст на пензиите во споредба со времето на СДСМ",
+          "link": "https://netpress.com.mk/za-dve-godini-ima-325-pati-pogolem-mesechen-rast-na-penziite-vo-sporedba-so-vremeto-na-sdsm/",
+          "published": "Fri, 21 Aug 2026 11:17:32 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Мицкоски: Повеќе од 12 милиони евра се инвестираат во Општина Прилеп за капитални проекти",
-          "link": "https://makfax.com.mk/ekonomija/mickoski-poveke-od-12-milioni-evra-se-investiraat-vo-opshtina-prilep-za-kapitalni-proekti/",
-          "published": "Fri, 21 Aug 2026 10:30:41 +0000"
+          "source": "NetPress",
+          "title": "Сомневање за складиште на оружје на руската тајна служба близу Берлин",
+          "link": "https://netpress.com.mk/somnevane-za-skladishte-na-oruzhje-na-ruskata-tajna-sluzhba-blizu-berlin/",
+          "published": "Fri, 21 Aug 2026 11:17:28 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Амбасадорката на САД од Охрид: Енергетската поврзаност ја зајакнува сигурноста на регионот",
+          "link": "https://netpress.com.mk/ambasadorkata-na-sad-od-ohrid-energetskata-povrzanost-ja-zajaknuva-sigurnosta-na-regionot/",
+          "published": "Fri, 21 Aug 2026 11:03:19 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Дел од автопатот Прилеп – Битола ќе биде пуштен во употреба следната година",
+          "link": "https://netpress.com.mk/del-od-avtopatot-prilep-bitola-ke-bide-pushten-vo-upotreba-slednata-godina/",
+          "published": "Fri, 21 Aug 2026 11:03:12 +0000"
         },
         {
           "source": "NetPress",
           "title": "Температури над 40 степени, од недела заладување со локална нестабилност",
           "link": "https://netpress.com.mk/temperaturi-nad-40-stepeni-od-nedela-zaladuvane-so-lokalna-nestabilnost/",
           "published": "Fri, 21 Aug 2026 10:49:56 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Цената на гасот во Европа над 66 евра",
-          "link": "https://netpress.com.mk/czenata-na-gasot-vo-evropa-nad-66-evra/",
-          "published": "Fri, 21 Aug 2026 10:44:04 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Тотенхем го договори доаѓањето на Савињо за 75 милиони фунти",
-          "link": "https://netpress.com.mk/totenhem-go-dogovori-doaganeto-na-savino-za-75-milioni-funti/",
-          "published": "Fri, 21 Aug 2026 10:35:20 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Тешко повреден жител на Шипковица, паднал од ѕид додека работел",
-          "link": "https://netpress.com.mk/teshko-povreden-zhitel-na-shipkovicza-padnal-od-zid-dodeka-rabotel/",
-          "published": "Fri, 21 Aug 2026 10:22:54 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "„Не му значи што живи гореа 14 луѓе“, вели Мицкоски за одлуката на обвинителот",
-          "link": "https://netpress.com.mk/ne-mu-znachi-shto-zhivi-gorea-14-luge-veli-miczkoski-za-odlukata-na-obvinitelot/",
-          "published": "Fri, 21 Aug 2026 10:20:10 +0000"
         }
       ]
     },
@@ -107,33 +107,33 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Who does the law serve in the occupied West Bank?",
+          "link": "https://www.aljazeera.com/video/by-the-numbers-3/2026/8/21/who-does-the-law-serve-in-the-occupied-west-bank?traffic_source=rss",
+          "published": "Fri, 21 Aug 2026 11:12:32 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Charter plane crash near Alaskan military site kills 8",
+          "link": "https://www.aljazeera.com/news/2026/8/21/charter-plane-crash-near-alaskan-military-site-kills-8?traffic_source=rss",
+          "published": "Fri, 21 Aug 2026 10:59:50 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Russia says ready for ‘new ideas’ on Ukraine war that match Putin’s goals",
+          "link": "https://www.aljazeera.com/news/2026/8/21/russia-ready-for-new-ideas-on-ukraine-war-that-match-putins-goals?traffic_source=rss",
+          "published": "Fri, 21 Aug 2026 10:59:37 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Serie A: Key talking points heading into the new 2026-27 season",
+          "link": "https://www.aljazeera.com/sports/2026/8/21/serie-a-key-talking-points-heading-into-the-new-2026-27-season?traffic_source=rss",
+          "published": "Fri, 21 Aug 2026 10:56:43 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Nord Stream bombing suspect to Hollywood fixer: Who is Volodymyr Zhuravlev?",
           "link": "https://www.aljazeera.com/news/2026/8/21/nord-stream-bombing-suspect-to-hollywood-fixer-who-is-volodymyr-zhuravlev?traffic_source=rss",
           "published": "Fri, 21 Aug 2026 10:10:52 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Philippines floods fuel anger over alleged corruption",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/philippines-floods-fuel-anger-over-alleged-corruption?traffic_source=rss",
-          "published": "Fri, 21 Aug 2026 10:01:49 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Cyclist Josh Tarling to compete in Tour of Spain after brother’s death",
-          "link": "https://www.aljazeera.com/sports/2026/8/21/josh-tarling-cycling-vuelta-a-espana-spain-brother-finlay-died-crash?traffic_source=rss",
-          "published": "Fri, 21 Aug 2026 10:01:17 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Torrential rain floods New York City’s streets and subway",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/torrential-rain-floods-new-york-citys-streets-and-subway?traffic_source=rss",
-          "published": "Fri, 21 Aug 2026 09:40:04 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Swiatek into Cincinnati semis after Rybakina injury",
-          "link": "https://www.aljazeera.com/sports/2026/8/21/swiatek-into-cincinnati-semis-after-rybakina-injury?traffic_source=rss",
-          "published": "Fri, 21 Aug 2026 09:11:55 +0000"
         }
       ]
     }
