@@ -1,6 +1,20 @@
 {
-  "generated_at": "2026-08-21T11:43:16Z",
+  "generated_at": "2026-08-21T12:03:07Z",
   "items": [
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "Летните попусти во Клиника Жан Митрев продолжуваат до 31 август",
+      "link": "https://makfax.com.mk/soopstenija/letnite-popusti-vo-klinika-zhan-mitrev-prodolzhuvaat-do-31-avgust/",
+      "published": "Fri, 21 Aug 2026 11:53:14 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "Во шума во Берлин откриено скривалиште за оружје поврзано со руските разузнавачки служби",
+      "link": "https://makfax.com.mk/svet/vo-shuma-vo-berlin-otkrieno-skrivalishte-za-oruzhje-povrzano-so-ruskite-razuznavachki-sluzhbi/",
+      "published": "Fri, 21 Aug 2026 11:46:54 +0000"
+    },
     {
       "region": "Македонија",
       "source": "Makfax",
@@ -24,17 +38,17 @@
     },
     {
       "region": "Македонија",
-      "source": "Makfax",
-      "title": "Шпанските медиуми тврдат дека Барселона има договор со Лаутаро, не и со Интер",
-      "link": "https://makfax.com.mk/sport/shpanskite-mediumi-tvrdat-deka-barselona-ima-dogovor-so-lautaro-ne-i-so-inter/",
-      "published": "Fri, 21 Aug 2026 11:14:04 +0000"
+      "source": "NetPress",
+      "title": "Киев поведе војна против „Маша и медо“ – биле закана за националната безбедност",
+      "link": "https://netpress.com.mk/kiev-povede-vojna-protiv-masha-i-medo-bile-zakana-za-naczionalnata-bezbednost/",
+      "published": "Fri, 21 Aug 2026 11:55:11 +0000"
     },
     {
       "region": "Македонија",
-      "source": "Makfax",
-      "title": "Пенелопе Круз на насловната страница на шпанскиот „Вог“ предизвика критики: „Отидоа предалеку“",
-      "link": "https://makfax.com.mk/zanimlivosti/penelope-kruz-na-naslovnata-stranica-na-shpanskiot-vog-predizvika-kritiki-otidoa-predaleku/",
-      "published": "Fri, 21 Aug 2026 10:54:35 +0000"
+      "source": "NetPress",
+      "title": "По пеколната жештина, катастрофална бура низ Европа",
+      "link": "https://netpress.com.mk/po-pekolnata-zheshtina-katastrofalna-bura-niz-evropa/",
+      "published": "Fri, 21 Aug 2026 11:55:01 +0000"
     },
     {
       "region": "Македонија",
@@ -56,20 +70,6 @@
       "title": "Тројца канадски државјани осомничени за предизвикување пожар во Хрватска",
       "link": "https://netpress.com.mk/trojcza-kanadski-drzhavjani-osomnicheni-za-predizvikuvane-pozhar-vo-hrvatska/",
       "published": "Fri, 21 Aug 2026 11:28:52 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Maкедонија годинава најдобро се справува со пожарите",
-      "link": "https://netpress.com.mk/makedonija-godinava-najdobro-se-spravuva-so-pozharite/",
-      "published": "Fri, 21 Aug 2026 11:26:28 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "За две години има 3,25 пати поголем месечен раст на пензиите во споредба со времето на СДСМ",
-      "link": "https://netpress.com.mk/za-dve-godini-ima-325-pati-pogolem-mesechen-rast-na-penziite-vo-sporedba-so-vremeto-na-sdsm/",
-      "published": "Fri, 21 Aug 2026 11:17:32 +0000"
     },
     {
       "region": "Свет",
@@ -109,6 +109,20 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "Closure of al-Makha port leaves workers and traders fearing for the future",
+      "link": "https://www.aljazeera.com/economy/2026/8/21/houthi-attacks-on-mokha-port-forced-it-to-suspend-operations-leaving-workers-jobless?traffic_source=rss",
+      "published": "Fri, 21 Aug 2026 11:15:54 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Who does the law serve in the occupied West Bank?",
+      "link": "https://www.aljazeera.com/video/by-the-numbers-3/2026/8/21/who-does-the-law-serve-in-the-occupied-west-bank?traffic_source=rss",
+      "published": "Fri, 21 Aug 2026 11:12:32 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "Charter plane crash near Alaskan military site kills 8",
       "link": "https://www.aljazeera.com/news/2026/8/21/charter-plane-crash-near-alaskan-military-site-kills-8?traffic_source=rss",
       "published": "Fri, 21 Aug 2026 10:59:50 +0000"
@@ -116,7 +130,7 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
-      "title": "Russia ready for ‘new ideas’ on Ukraine war that match Putin’s goals",
+      "title": "Russia says ready for ‘new ideas’ on Ukraine war that match Putin’s goals",
       "link": "https://www.aljazeera.com/news/2026/8/21/russia-ready-for-new-ideas-on-ukraine-war-that-match-putins-goals?traffic_source=rss",
       "published": "Fri, 21 Aug 2026 10:59:37 +0000"
     },
@@ -126,20 +140,6 @@
       "title": "Serie A: Key talking points heading into the new 2026-27 season",
       "link": "https://www.aljazeera.com/sports/2026/8/21/serie-a-key-talking-points-heading-into-the-new-2026-27-season?traffic_source=rss",
       "published": "Fri, 21 Aug 2026 10:56:43 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Nord Stream bombing suspect to Hollywood fixer: Who is Volodymyr Zhuravlev?",
-      "link": "https://www.aljazeera.com/news/2026/8/21/nord-stream-bombing-suspect-to-hollywood-fixer-who-is-volodymyr-zhuravlev?traffic_source=rss",
-      "published": "Fri, 21 Aug 2026 10:10:52 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Philippines floods fuel anger over alleged corruption",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/philippines-floods-fuel-anger-over-alleged-corruption?traffic_source=rss",
-      "published": "Fri, 21 Aug 2026 10:01:49 +0000"
     }
   ]
 }
