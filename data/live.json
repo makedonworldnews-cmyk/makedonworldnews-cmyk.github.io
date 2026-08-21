@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T01:52:27Z",
+  "generated_at": "2026-08-21T02:55:11Z",
   "items": [
     {
       "region": "Македонија",
@@ -102,9 +102,23 @@
     {
       "region": "Свет",
       "source": "BBC",
-      "title": "Dozens dead after boat capsizes in north-western Nigeria",
-      "link": "https://www.bbc.co.uk/news/articles/cj035jg256no?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 20 Aug 2026 20:27:36 GMT"
+      "title": "Bali jails Swiss tourist for insulting sacred Day of Silence",
+      "link": "https://www.bbc.co.uk/news/articles/cj4kr59r28ko?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 21 Aug 2026 02:33:27 GMT"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "After GERD, can Egypt shape Ethiopia’s next Nile dams?",
+      "link": "https://www.aljazeera.com/news/2026/8/21/after-gerd-can-egypt-shape-ethiopias-next-nile-dams?traffic_source=rss",
+      "published": "Fri, 21 Aug 2026 02:11:33 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Brazil launches AI supercomputer push while balancing US and Chinese tech",
+      "link": "https://www.aljazeera.com/economy/2026/8/21/brazil-launches-ai-supercomputer-push-while-balancing-us-and-chinese-tech?traffic_source=rss",
+      "published": "Fri, 21 Aug 2026 01:38:37 +0000"
     },
     {
       "region": "Свет",
@@ -126,20 +140,6 @@
       "title": "Taliban release two detained UN staff members in Afghanistan",
       "link": "https://www.aljazeera.com/news/2026/8/21/taliban-release-two-detained-un-staff-members-in-afghanistan?traffic_source=rss",
       "published": "Fri, 21 Aug 2026 00:44:46 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "US deports nearly 2,300 Mexicans to Guatemala over Mexico’s objections",
-      "link": "https://www.aljazeera.com/news/2026/8/21/us-deports-nearly-2300-mexicans-to-guatemala-over-mexicos-objections?traffic_source=rss",
-      "published": "Fri, 21 Aug 2026 00:12:37 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Iran war live: US vows toughest Iran sanctions, urges China support",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/8/21/iran-war-live-us-vows-toughest-iran-sanctions-urges-china-support?traffic_source=rss",
-      "published": "Fri, 21 Aug 2026 00:00:00 +0000"
     }
   ]
 }
