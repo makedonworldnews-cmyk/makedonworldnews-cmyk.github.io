@@ -1,6 +1,13 @@
 {
-  "generated_at": "2026-08-21T17:46:27Z",
+  "generated_at": "2026-08-21T18:13:25Z",
   "items": [
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "Британски „Тајмс“ за Вучиќ: На европскиот „камелеон“ што игра меѓу Истокот и Западот можеби му истекува времето",
+      "link": "https://makfax.com.mk/svet/region/britanski-tajms-za-vuchik-na-evropskiot-kameleon-shto-igra-megu-istokot-i-zapadot-mozhebi-mu-istekuva-vremeto/",
+      "published": "Fri, 21 Aug 2026 18:02:50 +0000"
+    },
     {
       "region": "Македонија",
       "source": "Makfax",
@@ -31,10 +38,24 @@
     },
     {
       "region": "Македонија",
-      "source": "Makfax",
-      "title": "(Видео) Паредес казнет со 10, Молина со седум натпревари, поради дивеење по финалето на СП",
-      "link": "https://makfax.com.mk/sport/video-paredes-kaznet-so-10-molina-so-sedum-natprevari-poradi-diveenje-po-finaleto-na-sp/",
-      "published": "Fri, 21 Aug 2026 17:25:02 +0000"
+      "source": "NetPress",
+      "title": "Пијан возач повредил двајца на мотоцикл",
+      "link": "https://netpress.com.mk/pijan-vozach-povredil-dvajcza-na-motoczikl/",
+      "published": "Fri, 21 Aug 2026 18:12:36 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "NetPress",
+      "title": "Скандалозно дивеење на Шар Планина: Уништени столбови со маркација",
+      "link": "https://netpress.com.mk/skandalozno-diveene-na-shar-planina-unishteni-stolbovi-so-markaczija/",
+      "published": "Fri, 21 Aug 2026 18:03:56 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "NetPress",
+      "title": "НАТО разгледува опции за Хомуз без вклучување на алијансата",
+      "link": "https://netpress.com.mk/nato-razgleduva-opczii-za-homuz-bez-vkluchuvane-na-alijansata/",
+      "published": "Fri, 21 Aug 2026 17:52:51 +0000"
     },
     {
       "region": "Македонија",
@@ -49,27 +70,6 @@
       "title": "Формула 1: Расел најбрз во квалификациите за спринт-трката во Холандија",
       "link": "https://netpress.com.mk/formula-1-rasel-najbrz-vo-kvalifikacziite-za-sprint-trkata-vo-holandija/",
       "published": "Fri, 21 Aug 2026 17:31:17 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Сиљановска-Давкова: Докажете ја својата спортска посветеност, искористете ја младешката енергија и натпреварувајте се витешки",
-      "link": "https://netpress.com.mk/silanovska-davkova-dokazhete-ja-svojata-sportska-posvetenost-iskoristete-ja-mladeshkata-energija-i-natprevaruvajte-se-viteshki/",
-      "published": "Fri, 21 Aug 2026 17:16:36 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Еден загинат во шумските пожари во Босна, гори и кај границата со Хрватска",
-      "link": "https://netpress.com.mk/eden-zaginat-vo-shumskite-pozhari-vo-bosna-gori-i-kaj-graniczata-so-hrvatska/",
-      "published": "Fri, 21 Aug 2026 16:59:00 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Се работи на локализирање на пожарот во Никуштак, директорот на ЦУК на терен",
-      "link": "https://netpress.com.mk/1101591-2/",
-      "published": "Fri, 21 Aug 2026 16:50:06 +0000"
     },
     {
       "region": "Свет",
@@ -109,6 +109,13 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "Arsenal sign Konsa from Villa as Premier League holders bolster defence",
+      "link": "https://www.aljazeera.com/sports/2026/8/21/arsenal-sign-konsa-from-villa-as-premier-league-holders-bolster-defence?traffic_source=rss",
+      "published": "Fri, 21 Aug 2026 17:38:06 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "Why Iran is threatening Europe’s ‘strategically important’ southeast",
       "link": "https://www.aljazeera.com/news/2026/8/21/iran-southeastern-europe-threats?traffic_source=rss",
       "published": "Fri, 21 Aug 2026 17:29:17 +0000"
@@ -133,13 +140,6 @@
       "title": "Ukraine’s Shakhtar to use ex-Russian-owned Chelsea as Champions League home",
       "link": "https://www.aljazeera.com/sports/2026/8/21/ukraines-shakhtar-donetsk-to-play-champions-league-home-games-at-chelsea?traffic_source=rss",
       "published": "Fri, 21 Aug 2026 16:53:57 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Ukraine sanctions popular Russian cartoon ‘Masha and the Bear’",
-      "link": "https://www.aljazeera.com/news/2026/8/21/ukraine-sanctions-popular-russian-cartoon-masha-and-the?traffic_source=rss",
-      "published": "Fri, 21 Aug 2026 16:38:15 +0000"
     }
   ]
 }
