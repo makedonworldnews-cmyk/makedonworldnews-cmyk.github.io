@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T19:53:16Z",
+  "updatedAt": "2026-08-21T20:25:04Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Иран: Америка не го разбира јазикот на дипломатијата",
+          "link": "https://makfax.com.mk/svet/iran-amerika-ne-go-razbira-jazikot-na-diplomatijata/",
+          "published": "Fri, 21 Aug 2026 19:57:31 +0000"
         },
         {
           "source": "Makfax",
@@ -35,10 +41,10 @@
           "published": "Fri, 21 Aug 2026 18:48:48 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Мицкоски, последниот Наполеон на Македонија, вели Таравари",
-          "link": "https://makfax.com.mk/makedonija/mickoski-posledniot-napoleon-na-makedonija-veli-taravari/",
-          "published": "Fri, 21 Aug 2026 18:26:28 +0000"
+          "source": "NetPress",
+          "title": "Интер го донесе Џонс од Ливерпул",
+          "link": "https://netpress.com.mk/inter-go-donese-dhons-od-liverpul/",
+          "published": "Fri, 21 Aug 2026 19:53:53 +0000"
         },
         {
           "source": "NetPress",
@@ -63,12 +69,6 @@
           "title": "Излетал од патот со „бмв“ и завршил в болница",
           "link": "https://netpress.com.mk/izletal-od-patot-so-bmv-i-zavrshil-v-bolnicza/",
           "published": "Fri, 21 Aug 2026 19:04:38 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Среде бел ден нападнати во Скопје – им го оштетиле и автомобилот",
-          "link": "https://netpress.com.mk/srede-bel-den-napadnati-vo-skopje-im-go-oshtetile-i-avtomobilot/",
-          "published": "Fri, 21 Aug 2026 18:41:38 +0000"
         }
       ]
     },
@@ -107,6 +107,18 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Bolivia’s President Rodrigo Paz fires economy minister amid unrest",
+          "link": "https://www.aljazeera.com/news/2026/8/21/bolivias-president-rodrigo-paz-nixes-economy-minister-amid-unrest?traffic_source=rss",
+          "published": "Fri, 21 Aug 2026 20:07:40 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Western allies slam Israel for ending World Central Kitchen strike probe",
+          "link": "https://www.aljazeera.com/news/2026/8/21/western-allies-slam-israel-for-ending-world-central-kitchen-strike-probe?traffic_source=rss",
+          "published": "Fri, 21 Aug 2026 20:03:35 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "US Supreme Court allows Trump’s ballroom project to continue for now",
           "link": "https://www.aljazeera.com/news/2026/8/21/us-supreme-court-allows-trumps-ballroom-project-to-continue-for-now?traffic_source=rss",
           "published": "Fri, 21 Aug 2026 19:52:34 +0000"
@@ -122,18 +134,6 @@
           "title": "US court slashes Alex Jones fines for Sandy Hook school shooting case",
           "link": "https://www.aljazeera.com/news/2026/8/21/us-court-slashes-alex-jones-fines-for-sandy-hook-school-shooting-case?traffic_source=rss",
           "published": "Fri, 21 Aug 2026 19:29:20 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Libya rivals test a new path towards unity, 15 years after Gadaffi downfall",
-          "link": "https://www.aljazeera.com/economy/2026/8/21/libya-rivals-test-a-new-path-towards-unity-15-years-after-gadaffi-overthrow?traffic_source=rss",
-          "published": "Fri, 21 Aug 2026 19:21:08 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "US, Canada negotiators race to ink a deal as Trump’s tariff deadline looms",
-          "link": "https://www.aljazeera.com/economy/2026/8/21/us-canada-negotiators-race-to-ink-a-deal-as-trumps-tariff-deadline-looms?traffic_source=rss",
-          "published": "Fri, 21 Aug 2026 19:20:17 +0000"
         }
       ]
     }
