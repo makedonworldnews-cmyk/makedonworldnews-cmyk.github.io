@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T18:15:49Z",
+  "updatedAt": "2026-08-21T19:01:02Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Силно невреме се движи кон Словенија и Хрватска; Италија е веќе на удар, снег на Алпите",
+          "link": "https://makfax.com.mk/svet/region/silno-nevreme-se-dvizhi-kon-slovenija-i-hrvatska-italija-e-veke-na-udar-sneg-na-alpite/",
+          "published": "Fri, 21 Aug 2026 18:48:48 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Мицкоски, последниот Наполеон на Македонија, вели Таравари",
+          "link": "https://makfax.com.mk/makedonija/mickoski-posledniot-napoleon-na-makedonija-veli-taravari/",
+          "published": "Fri, 21 Aug 2026 18:26:28 +0000"
         },
         {
           "source": "Makfax",
@@ -29,16 +41,10 @@
           "published": "Fri, 21 Aug 2026 17:35:14 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Синер нема да игра на Ју-ес опен",
-          "link": "https://makfax.com.mk/sport/siner-nema-da-igra-na-ju-es-open/",
-          "published": "Fri, 21 Aug 2026 17:31:02 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Трамп не го поддржа барањето на Киев за користење на „Старлинк“ во Русија",
-          "link": "https://makfax.com.mk/svet/tramp-ne-go-poddrzha-baranjeto-na-kiev-za-koristenje-na-%e2%80%9estarlink%e2%80%9c-vo-rusija/",
-          "published": "Fri, 21 Aug 2026 17:27:13 +0000"
+          "source": "NetPress",
+          "title": "Среде бел ден нападнати во Скопје – им го оштетиле и автомобилот",
+          "link": "https://netpress.com.mk/srede-bel-den-napadnati-vo-skopje-im-go-oshtetile-i-avtomobilot/",
+          "published": "Fri, 21 Aug 2026 18:41:38 +0000"
         },
         {
           "source": "NetPress",
@@ -63,12 +69,6 @@
           "title": "„Уловени“ дивокоза, дива свиња и рис во Национален парк „Пелистер“",
           "link": "https://netpress.com.mk/%e2%80%9euloveni%e2%80%9cdivokoza-diva-svina-i-ris-vo-naczionalen-park-%e2%80%9epelister%e2%80%9c/",
           "published": "Fri, 21 Aug 2026 17:44:39 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Формула 1: Расел најбрз во квалификациите за спринт-трката во Холандија",
-          "link": "https://netpress.com.mk/formula-1-rasel-najbrz-vo-kvalifikacziite-za-sprint-trkata-vo-holandija/",
-          "published": "Fri, 21 Aug 2026 17:31:17 +0000"
         }
       ]
     },
@@ -83,9 +83,9 @@
         },
         {
           "source": "BBC",
-          "title": "Rosenberg: Shortage of petrol but not patriotism as Russians feel growing impact of war",
-          "link": "https://www.bbc.co.uk/news/articles/c4gknzgje7go?at_medium=RSS&at_campaign=rss",
-          "published": "Fri, 21 Aug 2026 13:07:00 GMT"
+          "title": "Russian double-tap drone strike kills 15 in Ukrainian mall, officials say",
+          "link": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 21 Aug 2026 18:51:43 GMT"
         },
         {
           "source": "BBC",
@@ -95,45 +95,45 @@
         },
         {
           "source": "BBC",
-          "title": "Two teenagers seriously injured after sword attack at Swedish school",
-          "link": "https://www.bbc.co.uk/news/articles/c3r0g7gj2n3o?at_medium=RSS&at_campaign=rss",
-          "published": "Fri, 21 Aug 2026 16:32:37 GMT"
+          "title": "UK, Canada and Australia condemn Israel for refusing criminal probe into aid worker killings in Gaza",
+          "link": "https://www.bbc.co.uk/news/articles/cvgl2pe09eno?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 21 Aug 2026 15:58:57 GMT"
         },
         {
           "source": "BBC",
-          "title": "Ebola vaccine trial to start in DR Congo as warning issued over speed of infections",
-          "link": "https://www.bbc.co.uk/news/articles/czxe9n0vxzdo?at_medium=RSS&at_campaign=rss",
-          "published": "Fri, 21 Aug 2026 13:44:43 GMT"
+          "title": "Two injured in stabbing attack at Canada Sikh temple",
+          "link": "https://www.bbc.co.uk/news/articles/ce8l7w0n0jeo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 21 Aug 2026 18:27:15 GMT"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Espanyol vs Real Madrid: La Liga – prediction, lineups, teams",
+          "link": "https://www.aljazeera.com/sports/2026/8/21/espanyol-vs-real-madrid-la-liga-prediction-lineups-teams?traffic_source=rss",
+          "published": "Fri, 21 Aug 2026 18:40:21 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Drone strike on Ukraine shopping centre kills six, injures 103",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/drone-strike-on-ukraine-shopping-centre-kills-six-injures-103?traffic_source=rss",
+          "published": "Fri, 21 Aug 2026 18:40:11 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Former Pakistan PM Imran Khan taken back to prison after hospital check-up",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/former-pakistan-pm-imran-khan-taken-back-to-prison-after-hospital-check-up?traffic_source=rss",
+          "published": "Fri, 21 Aug 2026 18:25:40 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Russian drone attack on busy shopping centre kills 14 in Ukraine",
+          "link": "https://www.aljazeera.com/news/2026/8/21/russian-drone-attack-on-busy-shopping-centre-kills-14-in-ukraine?traffic_source=rss",
+          "published": "Fri, 21 Aug 2026 18:17:40 +0000"
         },
         {
           "source": "Al Jazeera",
           "title": "How is drought hitting UK farming?",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/how-is-drought-hitting-uk-farming?traffic_source=rss",
           "published": "Fri, 21 Aug 2026 17:52:08 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Arsenal sign Konsa from Villa as Premier League holders bolster defence",
-          "link": "https://www.aljazeera.com/sports/2026/8/21/arsenal-sign-konsa-from-villa-as-premier-league-holders-bolster-defence?traffic_source=rss",
-          "published": "Fri, 21 Aug 2026 17:38:06 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Why Iran is threatening Europe’s ‘strategically important’ southeast",
-          "link": "https://www.aljazeera.com/news/2026/8/21/iran-southeastern-europe-threats?traffic_source=rss",
-          "published": "Fri, 21 Aug 2026 17:29:17 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Israeli army, settlers kill 2 Palestinians in separate West Bank incidents",
-          "link": "https://www.aljazeera.com/news/2026/8/21/israeli-army-settlers-kill-2-palestinians-in-separate-west-bank-incidents?traffic_source=rss",
-          "published": "Fri, 21 Aug 2026 17:17:55 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Migrants clash with French police as they attempt to cross the Channel",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/migrants-clash-with-french-police-as-they-attempt-to-cross-the-channel?traffic_source=rss",
-          "published": "Fri, 21 Aug 2026 16:58:28 +0000"
         }
       ]
     }
