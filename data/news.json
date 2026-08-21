@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T20:25:04Z",
+  "updatedAt": "2026-08-21T20:49:53Z",
   "groups": [
     {
       "region": "Македонија",
@@ -89,6 +89,12 @@
         },
         {
           "source": "BBC",
+          "title": "One killed in sword attack at Swedish school",
+          "link": "https://www.bbc.co.uk/news/articles/c3r0g7gj2n3o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 21 Aug 2026 19:22:05 GMT"
+        },
+        {
+          "source": "BBC",
           "title": "Hong Kong's Tiananmen activists guilty in national security trial",
           "link": "https://www.bbc.co.uk/news/articles/c1l10mdrld5o?at_medium=RSS&at_campaign=rss",
           "published": "Fri, 21 Aug 2026 05:47:32 GMT"
@@ -100,10 +106,22 @@
           "published": "Fri, 21 Aug 2026 15:58:57 GMT"
         },
         {
-          "source": "BBC",
-          "title": "Two injured in stabbing attack at Canada Sikh temple",
-          "link": "https://www.bbc.co.uk/news/articles/ce8l7w0n0jeo?at_medium=RSS&at_campaign=rss",
-          "published": "Fri, 21 Aug 2026 18:27:15 GMT"
+          "source": "Al Jazeera",
+          "title": "Tunisian protesters call for President Kais Saied to step down",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/tunisian-protesters-call-for-president-kais-saied-to-step-down?traffic_source=rss",
+          "published": "Fri, 21 Aug 2026 20:35:07 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Can a humanitarian disaster be averted in Somalia?",
+          "link": "https://www.aljazeera.com/video/inside-story/2026/8/21/can-a-humanitarian-disaster-be-averted-in-somalia-2?traffic_source=rss",
+          "published": "Fri, 21 Aug 2026 20:27:14 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Pope Leo urges the world to ‘help begin reconstruction’ of Gaza",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/pope-leo-urges-the-world-to-help-begin-reconstruction-of-gaza?traffic_source=rss",
+          "published": "Fri, 21 Aug 2026 20:16:59 +0000"
         },
         {
           "source": "Al Jazeera",
@@ -116,24 +134,6 @@
           "title": "Western allies slam Israel for ending World Central Kitchen strike probe",
           "link": "https://www.aljazeera.com/news/2026/8/21/western-allies-slam-israel-for-ending-world-central-kitchen-strike-probe?traffic_source=rss",
           "published": "Fri, 21 Aug 2026 20:03:35 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "US Supreme Court allows Trump’s ballroom project to continue for now",
-          "link": "https://www.aljazeera.com/news/2026/8/21/us-supreme-court-allows-trumps-ballroom-project-to-continue-for-now?traffic_source=rss",
-          "published": "Fri, 21 Aug 2026 19:52:34 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Trump waives ‘out-of-quota’ beef tariffs for 90 days to lower prices",
-          "link": "https://www.aljazeera.com/news/2026/8/21/trump-waives-out-of-quota-beef-tariffs-for-90-days-to-lower-prices?traffic_source=rss",
-          "published": "Fri, 21 Aug 2026 19:42:51 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "US court slashes Alex Jones fines for Sandy Hook school shooting case",
-          "link": "https://www.aljazeera.com/news/2026/8/21/us-court-slashes-alex-jones-fines-for-sandy-hook-school-shooting-case?traffic_source=rss",
-          "published": "Fri, 21 Aug 2026 19:29:20 +0000"
         }
       ]
     }
