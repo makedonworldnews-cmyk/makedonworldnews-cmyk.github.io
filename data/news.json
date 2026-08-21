@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T03:02:18Z",
+  "updatedAt": "2026-08-21T03:56:57Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "(Фото) Охридско лето – 𝟦𝟢 дена фестивалска магија, рекордна посетеност и аплаузи за врвната уметност",
+          "link": "https://makfax.com.mk/kultura/foto-ohridsko-leto-%f0%9d%9f%a6%f0%9d%9f%a2-dena-festivalska-magija-rekordna-posetenost-i-aplauzi-za-vrvnata-umetnost/",
+          "published": "Fri, 21 Aug 2026 03:53:43 +0000"
         },
         {
           "source": "Makfax",
@@ -33,12 +39,6 @@
           "title": "Еболата се шири во Конго: Над 5.200 заразени, речиси 2.500 мртви",
           "link": "https://makfax.com.mk/svet/ebolata-se-shiri-vo-kongo-nad-5-200-zarazeni-rechisi-2-500-mrtvi/",
           "published": "Thu, 20 Aug 2026 19:35:43 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "(Видео) Силен земјотрес го потресе јужен Перу",
-          "link": "https://makfax.com.mk/svet/video-silen-zemjotres-go-potrese-juzhen-peru-epicentarot-beshe-vo-andite/",
-          "published": "Thu, 20 Aug 2026 19:32:45 +0000"
         },
         {
           "source": "NetPress",
@@ -107,6 +107,12 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Pakistan’s Imran Khan moved to hospital after Supreme Court order",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/pakistans-imran-khan-moved-to-hospital-after-supreme-court-order?traffic_source=rss",
+          "published": "Fri, 21 Aug 2026 03:08:09 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "After GERD, can Egypt shape Ethiopia’s next Nile dams?",
           "link": "https://www.aljazeera.com/news/2026/8/21/after-gerd-can-egypt-shape-ethiopias-next-nile-dams?traffic_source=rss",
           "published": "Fri, 21 Aug 2026 02:11:33 +0000"
@@ -128,12 +134,6 @@
           "title": "Antigovernment protesters take to Tunisia’s streets for second month",
           "link": "https://www.aljazeera.com/news/2026/8/21/antigovernment-protesters-take-to-tunisias-streets-for-second-month?traffic_source=rss",
           "published": "Fri, 21 Aug 2026 01:06:30 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Taliban release two detained UN staff members in Afghanistan",
-          "link": "https://www.aljazeera.com/news/2026/8/21/taliban-release-two-detained-un-staff-members-in-afghanistan?traffic_source=rss",
-          "published": "Fri, 21 Aug 2026 00:44:46 +0000"
         }
       ]
     }
