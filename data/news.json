@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T23:10:38Z",
+  "updatedAt": "2026-08-21T00:02:16Z",
   "groups": [
     {
       "region": "Македонија",
@@ -77,15 +77,15 @@
       "items": [
         {
           "source": "BBC",
-          "title": "US says sanctions will 'squash' Iran's economy and 'collapse' its regime",
-          "link": "https://www.bbc.co.uk/news/articles/c87n90eg0p2o?at_medium=RSS&at_campaign=rss",
-          "published": "Thu, 20 Aug 2026 19:52:48 GMT"
-        },
-        {
-          "source": "BBC",
           "title": "UK, France, Germany, Italy and Canada condemn Israel's West Bank settlement project",
           "link": "https://www.bbc.co.uk/news/articles/c998evlgz8ko?at_medium=RSS&at_campaign=rss",
           "published": "Thu, 20 Aug 2026 18:55:14 GMT"
+        },
+        {
+          "source": "BBC",
+          "title": "How much could Trump's 'economic D-Day' hurt Iran?",
+          "link": "https://www.bbc.co.uk/news/articles/cre4gdvlj9ro?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 20 Aug 2026 23:16:45 GMT"
         },
         {
           "source": "BBC",
@@ -95,15 +95,21 @@
         },
         {
           "source": "BBC",
+          "title": "Trump wants to be friends with Kim - but South Korea could pay the price",
+          "link": "https://www.bbc.co.uk/news/articles/c4gj1vje8dxo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 20 Aug 2026 22:01:26 GMT"
+        },
+        {
+          "source": "BBC",
           "title": "Dozens dead after boat capsizes in north-western Nigeria",
           "link": "https://www.bbc.co.uk/news/articles/cj035jg256no?at_medium=RSS&at_campaign=rss",
           "published": "Thu, 20 Aug 2026 20:27:36 GMT"
         },
         {
-          "source": "BBC",
-          "title": "Como mayor hit by electric bike and issues blanket ban in Italian city",
-          "link": "https://www.bbc.co.uk/news/articles/cn8n077vxd7o?at_medium=RSS&at_campaign=rss",
-          "published": "Thu, 20 Aug 2026 20:08:29 GMT"
+          "source": "Al Jazeera",
+          "title": "Houthis and government trade attacks as Yemen slides back to full-scale war",
+          "link": "https://www.aljazeera.com/news/2026/8/20/houthis-and-government-trade-attacks-as-yemen-slides-back-to-full-scale-war?traffic_source=rss",
+          "published": "Thu, 20 Aug 2026 23:19:56 +0000"
         },
         {
           "source": "Al Jazeera",
@@ -125,15 +131,9 @@
         },
         {
           "source": "Al Jazeera",
-          "title": "Pakistan’s ex-PM Imran Khan reportedly moved to hospital from jail",
+          "title": "Pakistan’s ex-PM Imran Khan moved to hospital from jail after court order",
           "link": "https://www.aljazeera.com/news/2026/8/20/pakistans-ex-pm-imran-khan-transferred-from-jail-to-hospital?traffic_source=rss",
           "published": "Thu, 20 Aug 2026 21:18:10 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "US pummels Cuban economy with new sanctions on mining, construction",
-          "link": "https://www.aljazeera.com/news/2026/8/20/us-pummels-cuban-economy-with-new-sanctions-on-mining-construction?traffic_source=rss",
-          "published": "Thu, 20 Aug 2026 20:37:25 +0000"
         }
       ]
     }
