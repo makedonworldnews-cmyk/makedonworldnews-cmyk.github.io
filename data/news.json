@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T17:34:05Z",
+  "updatedAt": "2026-08-22T17:54:29Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) Ваков гол ретко се гледа – Магија на Доминик Балард",
+          "link": "https://makfax.com.mk/sport/video-vakov-gol-retko-se-gleda-magija-na-dominik-balard/",
+          "published": "Sat, 22 Aug 2026 17:42:03 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) Денес беше еден од најтешките денови за пожарникарите, вели Ангелов",
+          "link": "https://makfax.com.mk/makedonija/video-denes-beshe-eden-od-najteshkite-denovi-za-pozharnikarite-veli-angelov/",
+          "published": "Sat, 22 Aug 2026 17:38:46 +0000"
         },
         {
           "source": "Makfax",
@@ -27,18 +39,6 @@
           "title": "Исчезна 42-годишна жена од Скопје, полицијата трага по неа",
           "link": "https://makfax.com.mk/crna-hronika/ischezna-42-godishna-zhena-od-skopje-policijata-traga-po-nea/",
           "published": "Sat, 22 Aug 2026 15:59:12 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Огнената стихија се закани на Струмица: Пожарот стигна до куќите, пожарникарите спречија катастрофа",
-          "link": "https://makfax.com.mk/makedonija/ognenata-stihija-se-zakani-na-strumica-pozharot-stigna-do-kukite-pozharnikarite-sprechija-katastrofa/",
-          "published": "Sat, 22 Aug 2026 15:51:05 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Малолетници на возраст од 13 и 17 години меѓу приведените поради дрогa",
-          "link": "https://makfax.com.mk/crna-hronika/maloletnici-na-vozrast-od-13-i-17-godini-megu-privedenite-poradi-droga/",
-          "published": "Sat, 22 Aug 2026 15:45:36 +0000"
         },
         {
           "source": "NetPress",
@@ -107,6 +107,12 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Seven killed, including two police officers, in UK ‘wrong-side’ car crash",
+          "link": "https://www.aljazeera.com/news/2026/8/22/seven-killed-including-two-police-officers-in-uk-wrong-side-car-crash?traffic_source=rss",
+          "published": "Sat, 22 Aug 2026 17:34:28 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "South Korea sending first container ship through Arctic route",
           "link": "https://www.aljazeera.com/news/2026/8/22/south-korea-sending-first-container-ship-through-arctic-route?traffic_source=rss",
           "published": "Sat, 22 Aug 2026 16:46:22 +0000"
@@ -119,7 +125,7 @@
         },
         {
           "source": "Al Jazeera",
-          "title": "Espanyol vs Real Madrid LIVE: La Liga",
+          "title": "LIVE: Espanyol vs Real Madrid: La Liga",
           "link": "https://www.aljazeera.com/sports/liveblog/2026/8/22/espanyol-vs-real-madrid-live-la-liga?traffic_source=rss",
           "published": "Sat, 22 Aug 2026 16:30:09 +0000"
         },
@@ -128,12 +134,6 @@
           "title": "How is the pro-Israel lobby influencing US elections?",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/how-is-the-pro-israel-lobby-influencing-us-midterm-elections?traffic_source=rss",
           "published": "Sat, 22 Aug 2026 16:17:54 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Elche vs Barcelona: La Liga – prediction, team news, lineups",
-          "link": "https://www.aljazeera.com/sports/2026/8/22/elche-vs-barcelona-la-liga-prediction-team-news-lineups?traffic_source=rss",
-          "published": "Sat, 22 Aug 2026 16:10:21 +0000"
         }
       ]
     }
