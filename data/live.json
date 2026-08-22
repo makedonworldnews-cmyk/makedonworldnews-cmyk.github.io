@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T16:13:35Z",
+  "generated_at": "2026-08-22T16:41:53Z",
   "items": [
     {
       "region": "Македонија",
@@ -39,6 +39,13 @@
     {
       "region": "Македонија",
       "source": "NetPress",
+      "title": "Нова иницијатива во ЕУ за данок на неочекуваниот профит од нафтата",
+      "link": "https://netpress.com.mk/nova-iniczijativa-vo-eu-za-danok-na-neochekuvaniot-profit-od-naftata/",
+      "published": "Sat, 22 Aug 2026 16:25:39 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "NetPress",
       "title": "Во гаснењето на пожарот кај Струмица се вклучи и ер трактор",
       "link": "https://netpress.com.mk/vo-gasneneto-na-pozharot-kaj-strumicza-se-vkluchi-i-er-traktor/",
       "published": "Sat, 22 Aug 2026 16:08:13 +0000"
@@ -65,13 +72,6 @@
       "published": "Sat, 22 Aug 2026 15:19:04 +0000"
     },
     {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Формула 1: Расел победи на спринтот за Големата награда на Холандија",
-      "link": "https://netpress.com.mk/formula-1-rasel-pobedi-na-sprintot-za-golemata-nagrada-na-holandija/",
-      "published": "Sat, 22 Aug 2026 14:13:59 +0000"
-    },
-    {
       "region": "Свет",
       "source": "BBC",
       "title": "Carney calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse",
@@ -83,7 +83,7 @@
       "source": "BBC",
       "title": "Carney faces crucial test after walking away from Trump's deal",
       "link": "https://www.bbc.co.uk/news/articles/c3040pn8lmmo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 22 Aug 2026 15:00:27 GMT"
+      "published": "Sat, 22 Aug 2026 16:20:51 GMT"
     },
     {
       "region": "Свет",
@@ -109,6 +109,20 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "How is the pro-Israel lobby influencing US elections?",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/how-is-the-pro-israel-lobby-influencing-us-midterm-elections?traffic_source=rss",
+      "published": "Sat, 22 Aug 2026 16:17:54 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Elche vs Barcelona: La Liga – prediction, team news, lineups",
+      "link": "https://www.aljazeera.com/sports/2026/8/22/elche-vs-barcelona-la-liga-prediction-team-news-lineups?traffic_source=rss",
+      "published": "Sat, 22 Aug 2026 16:10:21 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "Walk-In “Human Fridges” are Japan’s newest heatwave weapon",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/walk-in-human-fridges-are-japans-newest-heatwave-weapon?traffic_source=rss",
       "published": "Sat, 22 Aug 2026 15:48:27 +0000"
@@ -126,20 +140,6 @@
       "title": "Settlers target Palestinian homes in Occupied West Bank’s Area B",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/22-08-reported-nida-live-westbank-ps?traffic_source=rss",
       "published": "Sat, 22 Aug 2026 15:45:40 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Over 100 ex-diplomats urge France, UK to sanction Israel over Palestine",
-      "link": "https://www.aljazeera.com/news/2026/8/22/over-100-ex-diplomats-urge-france-uk-to-sanction-israel-over-palestine?traffic_source=rss",
-      "published": "Sat, 22 Aug 2026 15:30:49 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Israeli drone strike on ‘civilian vehicle’ injures several in Syria",
-      "link": "https://www.aljazeera.com/news/2026/8/22/israeli-drone-strike-on-civilian-vehicle-causes-injuries-in-syria?traffic_source=rss",
-      "published": "Sat, 22 Aug 2026 14:37:40 +0000"
     }
   ]
 }
