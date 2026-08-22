@@ -1,6 +1,13 @@
 {
-  "generated_at": "2026-08-22T13:46:54Z",
+  "generated_at": "2026-08-22T14:00:41Z",
   "items": [
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "(Видео) Дебакл на Манчестер Јунајтед во Хал",
+      "link": "https://makfax.com.mk/sport/video-debakl-na-manchester-junajted-vo-hal/",
+      "published": "Sat, 22 Aug 2026 13:48:14 +0000"
+    },
     {
       "region": "Македонија",
       "source": "Makfax",
@@ -28,13 +35,6 @@
       "title": "Филипче: Мицкоски и Владата имаат суров и нечовечен однос кон лозарите",
       "link": "https://makfax.com.mk/makedonija/filipche-mickoski-i-vladata-imaat-surov-i-nechovechen-odnos-kon-lozarite/",
       "published": "Sat, 22 Aug 2026 11:48:23 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "Makfax",
-      "title": "Елмас се договори со Аталанта",
-      "link": "https://makfax.com.mk/sport/elmas-se-dogovori-so-atalanta/",
-      "published": "Sat, 22 Aug 2026 11:45:55 +0000"
     },
     {
       "region": "Македонија",
@@ -88,6 +88,13 @@
     {
       "region": "Свет",
       "source": "BBC",
+      "title": "Fourteen killed in strike on Myanmar monastery",
+      "link": "https://www.bbc.co.uk/news/articles/cqlxlvz01z1o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 22 Aug 2026 13:48:06 GMT"
+    },
+    {
+      "region": "Свет",
+      "source": "BBC",
       "title": "Israel re-establishes closed West Bank settlement, defying growing international protests",
       "link": "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 21 Aug 2026 05:00:57 GMT"
@@ -101,10 +108,10 @@
     },
     {
       "region": "Свет",
-      "source": "BBC",
-      "title": "One killed in sword attack at Swedish school",
-      "link": "https://www.bbc.co.uk/news/articles/c3r0g7gj2n3o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 21 Aug 2026 21:03:24 GMT"
+      "source": "Al Jazeera",
+      "title": "Fans and police injured in pitch invasion during ‘high risk’ German Cup tie",
+      "link": "https://www.aljazeera.com/sports/2026/8/22/fans-and-police-injured-in-pitch-invasion-during-high-risk-german-cup-tie?traffic_source=rss",
+      "published": "Sat, 22 Aug 2026 13:44:02 +0000"
     },
     {
       "region": "Свет",
@@ -133,13 +140,6 @@
       "title": "CONCACAF asks Infantino to skip youth event amid FIFA governance crisis",
       "link": "https://www.aljazeera.com/sports/2026/8/22/concacaf-ask-infantino-to-skip-youth-tournament-amid-fifa-governance-crisis?traffic_source=rss",
       "published": "Sat, 22 Aug 2026 12:37:26 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "The Berlin Wall separated his family. Its legacy still endures",
-      "link": "https://www.aljazeera.com/features/longform/2026/8/22/the-berlin-wall-separated-his-family-its-legacy-still-endures?traffic_source=rss",
-      "published": "Sat, 22 Aug 2026 12:31:00 +0000"
     }
   ]
 }
