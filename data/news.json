@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T17:08:14Z",
+  "updatedAt": "2026-08-22T17:34:05Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "ЕБР одбележа 25 години: Четврт век посветеност, дисциплина и служба за граѓаните",
+          "link": "https://makfax.com.mk/makedonija/ebr-odbelezha-25-godini-chetvrt-vek-posvetenost-disciplina-i-sluzhba-za-graganite/",
+          "published": "Sat, 22 Aug 2026 17:31:28 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) Атлетик се самоуништи, Севилја победи во Билбао",
+          "link": "https://makfax.com.mk/sport/video-atletik-se-samounishti-sevilja-pobedi-vo-bilbao/",
+          "published": "Sat, 22 Aug 2026 17:24:02 +0000"
         },
         {
           "source": "Makfax",
@@ -29,16 +41,10 @@
           "published": "Sat, 22 Aug 2026 15:45:36 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Две лица загинаа во руски ракетен напад во близина на Киев",
-          "link": "https://makfax.com.mk/svet/dve-lica-zaginaa-vo-ruski-raketen-napad-vo-blizina-na-kiev/",
-          "published": "Sat, 22 Aug 2026 14:31:29 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Од утре забрана за пешаци и возила во делови од Халкидики, казната е 300 евра",
-          "link": "https://makfax.com.mk/svet/od-utre-zabrana-za-peshaci-i-vozila-vo-delovi-od-halkidiki-kaznata-e-300-evra/",
-          "published": "Sat, 22 Aug 2026 14:25:26 +0000"
+          "source": "NetPress",
+          "title": "Путин: Украина го пушти „џинот од шишето“, одговорот ќе следи",
+          "link": "https://netpress.com.mk/putin-ukraina-go-pushti-duhot-od-shisheto-odgovorot-ke-sledi/",
+          "published": "Sat, 22 Aug 2026 17:30:16 +0000"
         },
         {
           "source": "NetPress",
@@ -63,12 +69,6 @@
           "title": "ЕУ испраќа хеликоптери и пожарникари во Србија поради шумски пожар",
           "link": "https://netpress.com.mk/eu-ispraka-helikopteri-i-pozharnikari-vo-srbija-poradi-shumski-pozhar/",
           "published": "Sat, 22 Aug 2026 15:59:17 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Голем пожар во струмичко, се евакуираат жители на месноста Софилар",
-          "link": "https://netpress.com.mk/golem-pozhar-vo-strumichko-se-evakuiraat-zhiteli-na-mesnosta-sofilar/",
-          "published": "Sat, 22 Aug 2026 15:52:49 +0000"
         }
       ]
     },
@@ -107,6 +107,18 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "South Korea sending first container ship through Arctic route",
+          "link": "https://www.aljazeera.com/news/2026/8/22/south-korea-sending-first-container-ship-through-arctic-route?traffic_source=rss",
+          "published": "Sat, 22 Aug 2026 16:46:22 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Sanctioned by EU, Israeli settler steals and kills Palestinian donkey",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/22-08-clip-palestinian-donkey-killed-by-setllers-ps?traffic_source=rss",
+          "published": "Sat, 22 Aug 2026 16:41:43 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Espanyol vs Real Madrid LIVE: La Liga",
           "link": "https://www.aljazeera.com/sports/liveblog/2026/8/22/espanyol-vs-real-madrid-live-la-liga?traffic_source=rss",
           "published": "Sat, 22 Aug 2026 16:30:09 +0000"
@@ -122,18 +134,6 @@
           "title": "Elche vs Barcelona: La Liga – prediction, team news, lineups",
           "link": "https://www.aljazeera.com/sports/2026/8/22/elche-vs-barcelona-la-liga-prediction-team-news-lineups?traffic_source=rss",
           "published": "Sat, 22 Aug 2026 16:10:21 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Walk-In “Human Fridges” are Japan’s newest heatwave weapon",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/walk-in-human-fridges-are-japans-newest-heatwave-weapon?traffic_source=rss",
-          "published": "Sat, 22 Aug 2026 15:48:27 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Did DOGE cuts make America’s food safety problem worse?",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/08-22-26-us-food-recalls-clip?traffic_source=rss",
-          "published": "Sat, 22 Aug 2026 15:46:48 +0000"
         }
       ]
     }
