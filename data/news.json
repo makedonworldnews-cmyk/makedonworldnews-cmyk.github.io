@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T19:52:48Z",
+  "updatedAt": "2026-08-22T20:22:07Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Пожарот кај Струмица ставен под контрола, огнот стигнал до дворовите",
+          "link": "https://makfax.com.mk/makedonija/pozharot-kaj-strumica-staven-pod-kontrola-ognot-stignal-do-dvorovite/",
+          "published": "Sat, 22 Aug 2026 19:57:31 +0000"
         },
         {
           "source": "Makfax",
@@ -35,10 +41,10 @@
           "published": "Sat, 22 Aug 2026 17:42:03 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "(Видео) Денес беше еден од најтешките денови за пожарникарите, вели Ангелов",
-          "link": "https://makfax.com.mk/makedonija/video-denes-beshe-eden-od-najteshkite-denovi-za-pozharnikarite-veli-angelov/",
-          "published": "Sat, 22 Aug 2026 17:38:46 +0000"
+          "source": "NetPress",
+          "title": "ВИДЕО| Марго Роби и Бредли Купер го подготвуваат грабежот на годината",
+          "link": "https://netpress.com.mk/video-margo-robi-i-bredli-kuper-go-podgotvuvaat-grabezhot-na-godinata/",
+          "published": "Sat, 22 Aug 2026 20:17:04 +0000"
         },
         {
           "source": "NetPress",
@@ -63,12 +69,6 @@
           "title": "Путин: Украина го пушти „џинот од шишето“, одговорот ќе следи",
           "link": "https://netpress.com.mk/putin-ukraina-go-pushti-duhot-od-shisheto-odgovorot-ke-sledi/",
           "published": "Sat, 22 Aug 2026 17:30:16 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Седум загинати во полициска потера во Англија",
-          "link": "https://netpress.com.mk/sedum-zaginati-vo-policziska-potera-vo-anglija/",
-          "published": "Sat, 22 Aug 2026 16:55:40 +0000"
         }
       ]
     },
@@ -79,13 +79,13 @@
           "source": "BBC",
           "title": "Carney calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse",
           "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
-          "published": "Sat, 22 Aug 2026 19:41:18 GMT"
+          "published": "Sat, 22 Aug 2026 20:10:00 GMT"
         },
         {
           "source": "BBC",
           "title": "Carney faces crucial test after walking away from Trump's deal",
           "link": "https://www.bbc.co.uk/news/articles/c3040pn8lmmo?at_medium=RSS&at_campaign=rss",
-          "published": "Sat, 22 Aug 2026 16:20:51 GMT"
+          "published": "Sat, 22 Aug 2026 20:02:46 GMT"
         },
         {
           "source": "BBC",
@@ -104,6 +104,12 @@
           "title": "Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' Russian strike",
           "link": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
           "published": "Sat, 22 Aug 2026 13:13:16 GMT"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Iran grants permission for some Iraqi oil tankers to pass through Hormuz",
+          "link": "https://www.aljazeera.com/news/2026/8/22/iran-grants-permission-for-some-iraqi-oil-tankers-to-pass-through-hormuz?traffic_source=rss",
+          "published": "Sat, 22 Aug 2026 20:05:52 +0000"
         },
         {
           "source": "Al Jazeera",
@@ -128,12 +134,6 @@
           "title": "Putin warns Ukraine has opened ‘Pandora’s box’, rejects peace proposals",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/08-22-26-putin-ukraine-talks-clip?traffic_source=rss",
           "published": "Sat, 22 Aug 2026 19:24:00 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Envoy says Israel did not give the US notice before strikes on Syrian base",
-          "link": "https://www.aljazeera.com/news/2026/8/22/envoy-says-israel-did-not-give-the-us-notice-before-strikes-on-syrian-base?traffic_source=rss",
-          "published": "Sat, 22 Aug 2026 19:18:02 +0000"
         }
       ]
     }
