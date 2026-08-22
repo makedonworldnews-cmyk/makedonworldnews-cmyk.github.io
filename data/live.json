@@ -1,6 +1,20 @@
 {
-  "generated_at": "2026-08-22T07:07:40Z",
+  "generated_at": "2026-08-22T07:40:44Z",
   "items": [
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "(Видео) Пред својот дом убиен еден од најдобрите Јужноафрикански боксери",
+      "link": "https://makfax.com.mk/sport/video-pred-svojot-dom-ubien-eden-od-najdobrite-juzhnoafrikanski-bokseri/",
+      "published": "Sat, 22 Aug 2026 07:19:02 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "Македонија гори: Девет активни пожари, огнот беснее на повеќе локации",
+      "link": "https://makfax.com.mk/makedonija/makedonija-gori-devet-aktivni-pozhari-ognot-besnee-na-poveke-lokacii/",
+      "published": "Sat, 22 Aug 2026 07:11:27 +0000"
+    },
     {
       "region": "Македонија",
       "source": "Makfax",
@@ -21,20 +35,6 @@
       "title": "Јувентус го испрати Ди Грегорио во Борнмут",
       "link": "https://makfax.com.mk/sport/juventus-go-isprati-di-gregorio-vo-bornmut/",
       "published": "Sat, 22 Aug 2026 06:53:04 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "Makfax",
-      "title": "Манчестер Јунајтед (конечно) го договори Балеба",
-      "link": "https://makfax.com.mk/sport/manchester-junajted-konechno-go-dogovori-baleba/",
-      "published": "Sat, 22 Aug 2026 06:47:02 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "Makfax",
-      "title": "Денвер Нагетс го договорија Дерозан",
-      "link": "https://makfax.com.mk/sport/denver-nagets-go-dogovorija-derozan/",
-      "published": "Sat, 22 Aug 2026 06:43:03 +0000"
     },
     {
       "region": "Македонија",
@@ -109,6 +109,13 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "Somalia child hunger crisis deepens after aid cuts, UNICEF says",
+      "link": "https://www.aljazeera.com/news/2026/8/22/somalia-child-hunger-crisis-deepens-after-aid-cuts-unicef-says?traffic_source=rss",
+      "published": "Sat, 22 Aug 2026 07:11:27 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "China’s new moon mission could unlock secret of lunar ice: Why that matters",
       "link": "https://www.aljazeera.com/news/2026/8/22/chinas-new-moon-mission-could-unlock-secret-of-lunar-ice-why-that-matters?traffic_source=rss",
       "published": "Sat, 22 Aug 2026 05:36:39 +0000"
@@ -133,13 +140,6 @@
       "title": "Palestinian teen shot and killed in West Bank attack, UN responds",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/palestinian-teen-shot-and-killed-in-west-bank-attack-un-responds?traffic_source=rss",
       "published": "Sat, 22 Aug 2026 04:30:20 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Nigeria and the Sahel: A growing security divide",
-      "link": "https://www.aljazeera.com/news/2026/8/22/nigeria-and-the-sahel-a-growing-security-divide?traffic_source=rss",
-      "published": "Sat, 22 Aug 2026 04:30:07 +0000"
     }
   ]
 }
