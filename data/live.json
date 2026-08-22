@@ -1,6 +1,20 @@
 {
-  "generated_at": "2026-08-22T08:42:04Z",
+  "generated_at": "2026-08-22T09:04:22Z",
   "items": [
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "Хаос на Купот на Германија: 35 полицајци повредени, навивачи фрлаа огномети и предизвикаа пожар",
+      "link": "https://makfax.com.mk/svet/haos-na-kupot-na-germanija-35-policajci-povredeni-navivachi-frlaa-ognometi-i-predizvikaa-pozhar/",
+      "published": "Sat, 22 Aug 2026 09:02:23 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "Пет тинејџери загинаа во Ирска снимајќи се како возат во спротивна насока на автопат",
+      "link": "https://makfax.com.mk/svet/pet-tinejdheri-zaginaa-vo-irska-snimajki-se-kako-vozat-vo-sprotivna-nasoka-na-avtopat/",
+      "published": "Sat, 22 Aug 2026 08:49:37 +0000"
+    },
     {
       "region": "Македонија",
       "source": "Makfax",
@@ -24,17 +38,10 @@
     },
     {
       "region": "Македонија",
-      "source": "Makfax",
-      "title": "Скопската полиција удри по мотоциклистите: 262 казнети, 102 санкции за мопеди и мотори",
-      "link": "https://makfax.com.mk/makedonija/skopskata-policija-udri-po-motociklistite-262-kazneti-102-sankcii-za-mopedi-i-motori/",
-      "published": "Sat, 22 Aug 2026 08:06:06 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "Makfax",
-      "title": "Гужви на граница: На Табановце и Богородица се чека до еден час",
-      "link": "https://makfax.com.mk/makedonija/guzhvi-na-granica-na-tabanovce-i-bogorodica-se-cheka-do-eden-chas/",
-      "published": "Sat, 22 Aug 2026 08:01:43 +0000"
+      "source": "NetPress",
+      "title": "САД инвестираат 500 милиони долари во критични минерали",
+      "link": "https://netpress.com.mk/sad-investiraat-500-milioni-dolari-vo-kritichni-minerali/",
+      "published": "Sat, 22 Aug 2026 09:02:29 +0000"
     },
     {
       "region": "Македонија",
@@ -63,13 +70,6 @@
       "title": "Трамп, притиснат од цените, ги укинува царините за увоз на говедско",
       "link": "https://netpress.com.mk/tramp-pritisnat-od-czenite-gi-ukinuva-czarinite-za-uvoz-na-govedsko/",
       "published": "Sat, 22 Aug 2026 06:07:22 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Двајца загинати во пад на мал авион во Хрватска",
-      "link": "https://netpress.com.mk/dvajcza-zaginati-vo-pad-na-mal-avion-vo-hrvatska/",
-      "published": "Sat, 22 Aug 2026 05:47:29 +0000"
     },
     {
       "region": "Свет",
@@ -109,6 +109,13 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "Nakashima pounds Fritz, Bejlek beats Keys in Cincinnati upsets",
+      "link": "https://www.aljazeera.com/sports/2026/8/22/nakashima-pounds-fritz-bejlek-beats-keys-in-cincinnati-upsets?traffic_source=rss",
+      "published": "Sat, 22 Aug 2026 08:30:31 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "How will Trump’s tariffs affect Canada’s economy?",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/how-will-trumps-tariffs-affect-canadas-economy?traffic_source=rss",
       "published": "Sat, 22 Aug 2026 08:01:55 +0000"
@@ -133,13 +140,6 @@
       "title": "‘Young want to leave’: Libya’s brain drain, 15 years after Tripoli fell",
       "link": "https://www.aljazeera.com/news/2026/8/22/young-want-to-leave-libyas-brain-drain-15-years-after-tripoli-fell?traffic_source=rss",
       "published": "Sat, 22 Aug 2026 07:41:10 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "World Bank projects war-hit Lebanon’s economy to contract by 6.4 percent",
-      "link": "https://www.aljazeera.com/news/2026/8/22/world-bank-projects-war-hit-lebanons-economy-to-contract-by-6-4-percent?traffic_source=rss",
-      "published": "Sat, 22 Aug 2026 07:35:08 +0000"
     }
   ]
 }
