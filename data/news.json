@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T20:22:07Z",
+  "updatedAt": "2026-08-22T20:48:48Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Баерн во Дортмунд го освои германскиот Супер куп",
+          "link": "https://makfax.com.mk/sport/baern-vo-dortmund-go-osvoi-germanskiot-super-kup/",
+          "published": "Sat, 22 Aug 2026 20:48:04 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Охрид го одбрани трофејот на турнирот „Крсте Андоновски“",
+          "link": "https://makfax.com.mk/sport/ohrid-go-odbrani-trofejot-na-turnirot-krste-andonovski/",
+          "published": "Sat, 22 Aug 2026 20:38:03 +0000"
         },
         {
           "source": "Makfax",
@@ -27,18 +39,6 @@
           "title": "Трагичен крај на потрагата по малиот авион во Хрватска: загинаа двајца германски државјани",
           "link": "https://makfax.com.mk/svet/tragichen-kraj-na-potragata-po-maliot-avion-vo-hrvatska-zaginaa-dvajca-germanski-drzhavjani/",
           "published": "Sat, 22 Aug 2026 18:46:14 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Тошковски: ЕБР е еден од столбовите на безбедносниот систем на Македонија",
-          "link": "https://makfax.com.mk/makedonija/toshkovski-ebr-e-eden-od-stolbovite-na-bezbednosniot-sistem-na-makedonija/",
-          "published": "Sat, 22 Aug 2026 18:29:15 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "(Видео) Ваков гол ретко се гледа – Магија на Доминик Балард",
-          "link": "https://makfax.com.mk/sport/video-vakov-gol-retko-se-gleda-magija-na-dominik-balard/",
-          "published": "Sat, 22 Aug 2026 17:42:03 +0000"
         },
         {
           "source": "NetPress",
