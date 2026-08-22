@@ -1,6 +1,13 @@
 {
-  "generated_at": "2026-08-22T17:00:24Z",
+  "generated_at": "2026-08-22T17:30:34Z",
   "items": [
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "(Видео) Атлетик се самоуништи, Севилја победи во Билбао",
+      "link": "https://makfax.com.mk/sport/video-atletik-se-samounishti-sevilja-pobedi-vo-bilbao/",
+      "published": "Sat, 22 Aug 2026 17:24:02 +0000"
+    },
     {
       "region": "Македонија",
       "source": "Makfax",
@@ -31,10 +38,10 @@
     },
     {
       "region": "Македонија",
-      "source": "Makfax",
-      "title": "Од утре забрана за пешаци и возила во делови од Халкидики, казната е 300 евра",
-      "link": "https://makfax.com.mk/svet/od-utre-zabrana-za-peshaci-i-vozila-vo-delovi-od-halkidiki-kaznata-e-300-evra/",
-      "published": "Sat, 22 Aug 2026 14:25:26 +0000"
+      "source": "NetPress",
+      "title": "Путин: Украина го пушти „духот од шишето“, одговорот ќе следи",
+      "link": "https://netpress.com.mk/putin-ukraina-go-pushti-duhot-od-shisheto-odgovorot-ke-sledi/",
+      "published": "Sat, 22 Aug 2026 17:30:16 +0000"
     },
     {
       "region": "Македонија",
@@ -63,13 +70,6 @@
       "title": "ЕУ испраќа хеликоптери и пожарникари во Србија поради шумски пожар",
       "link": "https://netpress.com.mk/eu-ispraka-helikopteri-i-pozharnikari-vo-srbija-poradi-shumski-pozhar/",
       "published": "Sat, 22 Aug 2026 15:59:17 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Голем пожар во струмичко, се евакуираат жители на месноста Софилар",
-      "link": "https://netpress.com.mk/golem-pozhar-vo-strumichko-se-evakuiraat-zhiteli-na-mesnosta-sofilar/",
-      "published": "Sat, 22 Aug 2026 15:52:49 +0000"
     },
     {
       "region": "Свет",
@@ -102,9 +102,30 @@
     {
       "region": "Свет",
       "source": "BBC",
-      "title": "Israel re-establishes closed West Bank settlement, defying growing international protests",
-      "link": "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 21 Aug 2026 05:00:57 GMT"
+      "title": "Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' Russian strike",
+      "link": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 22 Aug 2026 13:13:16 GMT"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "South Korea sending first container ship through Arctic route",
+      "link": "https://www.aljazeera.com/news/2026/8/22/south-korea-sending-first-container-ship-through-arctic-route?traffic_source=rss",
+      "published": "Sat, 22 Aug 2026 16:46:22 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Sanctioned by EU, Israeli settler steals and kills Palestinian donkey",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/22-08-clip-palestinian-donkey-killed-by-setllers-ps?traffic_source=rss",
+      "published": "Sat, 22 Aug 2026 16:41:43 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Espanyol vs Real Madrid LIVE: La Liga",
+      "link": "https://www.aljazeera.com/sports/liveblog/2026/8/22/espanyol-vs-real-madrid-live-la-liga?traffic_source=rss",
+      "published": "Sat, 22 Aug 2026 16:30:09 +0000"
     },
     {
       "region": "Свет",
@@ -119,27 +140,6 @@
       "title": "Elche vs Barcelona: La Liga – prediction, team news, lineups",
       "link": "https://www.aljazeera.com/sports/2026/8/22/elche-vs-barcelona-la-liga-prediction-team-news-lineups?traffic_source=rss",
       "published": "Sat, 22 Aug 2026 16:10:21 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Walk-In “Human Fridges” are Japan’s newest heatwave weapon",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/walk-in-human-fridges-are-japans-newest-heatwave-weapon?traffic_source=rss",
-      "published": "Sat, 22 Aug 2026 15:48:27 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Did DOGE cuts make America’s food safety problem worse?",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/08-22-26-us-food-recalls-clip?traffic_source=rss",
-      "published": "Sat, 22 Aug 2026 15:46:48 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Settlers target Palestinian homes in Occupied West Bank’s Area B",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/22-08-reported-nida-live-westbank-ps?traffic_source=rss",
-      "published": "Sat, 22 Aug 2026 15:45:40 +0000"
     }
   ]
 }
