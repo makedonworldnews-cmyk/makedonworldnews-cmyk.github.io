@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T10:56:49Z",
+  "updatedAt": "2026-08-22T11:24:11Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Нов правилник за игрите на среќа: Ќе се проверуваат репутацијата и потеклото на средствата на приредувачите",
+          "link": "https://makfax.com.mk/makedonija/nov-pravilnik-za-igrite-na-sreka-ke-se-proveruvaat-reputacijata-i-potekloto-na-sredstvata-na-prireduvachite/",
+          "published": "Sat, 22 Aug 2026 11:13:57 +0000"
         },
         {
           "source": "Makfax",
@@ -35,10 +41,16 @@
           "published": "Sat, 22 Aug 2026 08:32:24 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "СДСМ: Падна просечната плата за 1.163 денари, а трошоците растат – „веселата математика“ на Мицкоски не ги полни фрижидерите",
-          "link": "https://makfax.com.mk/makedonija/sdsm-padna-prosechnata-plata-za-1-163-denari-a-troshocite-rastat-veselata-matematika-na-mickoski-ne-gi-polni-frizhiderite/",
-          "published": "Sat, 22 Aug 2026 08:21:05 +0000"
+          "source": "NetPress",
+          "title": "Златото на тримесечен максимум поради загриженоста за американскиот долг и доларот",
+          "link": "https://netpress.com.mk/zlatoto-na-trimesechen-maksimum-poradi-zagrizhenosta-za-amerikanskiot-dolg-i-dolarot/",
+          "published": "Sat, 22 Aug 2026 11:07:50 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Русија изврши нов масовен напад со беспилотни летала врз Киев",
+          "link": "https://netpress.com.mk/rusija-izvrshi-nov-masoven-napad-so-bespilotni-letala-vrz-kiev/",
+          "published": "Sat, 22 Aug 2026 11:04:32 +0000"
         },
         {
           "source": "NetPress",
@@ -57,18 +69,6 @@
           "title": "„Безбеден град“ досега регистрирал над 180.000 прекршоци на странски возила",
           "link": "https://netpress.com.mk/bezbeden-grad-dosega-registriral-nad-180-000-prekrshoczi-na-stranski-vozila/",
           "published": "Sat, 22 Aug 2026 10:28:46 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "САД и Канада не постигнаа трговски договор, Карни најави соодветни канадски царини",
-          "link": "https://netpress.com.mk/sad-i-kanada-ne-postignaa-trgovski-dogovor-karni-najavi-soodvetni-kanadski-czarini/",
-          "published": "Sat, 22 Aug 2026 10:18:41 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "САД и Иран продолжуваат со непријателската реторика пред новите санкции",
-          "link": "https://netpress.com.mk/sad-i-iran-prodolzhuvaat-so-neprijatelskata-retorika-pred-novite-sankczii/",
-          "published": "Sat, 22 Aug 2026 09:55:03 +0000"
         }
       ]
     },
@@ -79,7 +79,7 @@
           "source": "BBC",
           "title": "Canada says it will match US tariffs 'dollar for dollar' as trade talks break down",
           "link": "https://www.bbc.co.uk/news/articles/cvgvyy4x2mvo?at_medium=RSS&at_campaign=rss",
-          "published": "Sat, 22 Aug 2026 04:46:33 GMT"
+          "published": "Sat, 22 Aug 2026 11:21:05 GMT"
         },
         {
           "source": "BBC",
@@ -107,6 +107,12 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Ebola continues to spread in the DRC as 16,000 vaccine doses arrive",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/ebola-continues-to-spread-in-the-drc-as-16000-vaccine-doses-arrive?traffic_source=rss",
+          "published": "Sat, 22 Aug 2026 11:15:39 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "More than 16,000 doses of Ervebo vaccine arrive in Ebola-hit DR Congo",
           "link": "https://www.aljazeera.com/news/2026/8/22/more-than-16000-doses-of-ervebo-vaccine-arrive-in-ebola-hit-dr-congo?traffic_source=rss",
           "published": "Sat, 22 Aug 2026 10:13:56 +0000"
@@ -128,12 +134,6 @@
           "title": "Former world champion boxer Zolani Tete shot and killed in South Africa",
           "link": "https://www.aljazeera.com/sports/2026/8/22/former-world-champion-boxer-zolani-tete-shot-and-killed-in-south-africa?traffic_source=rss",
           "published": "Sat, 22 Aug 2026 09:51:50 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Iran says new US sanctions violate sovereignty of other states",
-          "link": "https://www.aljazeera.com/news/2026/8/22/iran-says-new-us-sanctions-violate-sovereignty-of-other-states?traffic_source=rss",
-          "published": "Sat, 22 Aug 2026 09:14:09 +0000"
         }
       ]
     }
