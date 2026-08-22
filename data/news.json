@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T01:20:41Z",
+  "updatedAt": "2026-08-22T02:34:20Z",
   "groups": [
     {
       "region": "Македонија",
@@ -77,15 +77,27 @@
       "items": [
         {
           "source": "BBC",
+          "title": "'We have more work to do', says Canada negotiator as US trade deadline looms",
+          "link": "https://www.bbc.co.uk/news/articles/czjlr0evy0do?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 22 Aug 2026 00:40:47 GMT"
+        },
+        {
+          "source": "BBC",
+          "title": "TikTok to pay $400m to US in one of largest child privacy settlements",
+          "link": "https://www.bbc.co.uk/news/articles/cwyr0l45xjro?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 21 Aug 2026 22:36:12 GMT"
+        },
+        {
+          "source": "BBC",
           "title": "Israel re-establishes closed West Bank settlement, defying growing international protests",
           "link": "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo?at_medium=RSS&at_campaign=rss",
           "published": "Fri, 21 Aug 2026 05:00:57 GMT"
         },
         {
           "source": "BBC",
-          "title": "Russian double-tap drone strike kills 15 in Ukrainian mall, officials say",
+          "title": "Russian double-tap drone strike kills 16 in Ukrainian mall, officials say",
           "link": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
-          "published": "Fri, 21 Aug 2026 19:49:56 GMT"
+          "published": "Sat, 22 Aug 2026 01:47:54 GMT"
         },
         {
           "source": "BBC",
@@ -94,16 +106,16 @@
           "published": "Fri, 21 Aug 2026 21:03:24 GMT"
         },
         {
-          "source": "BBC",
-          "title": "Hong Kong's Tiananmen activists guilty in national security trial",
-          "link": "https://www.bbc.co.uk/news/articles/c1l10mdrld5o?at_medium=RSS&at_campaign=rss",
-          "published": "Fri, 21 Aug 2026 05:47:32 GMT"
+          "source": "Al Jazeera",
+          "title": "Palestinian-British girl, 6, dies days after family drowned off UK coast",
+          "link": "https://www.aljazeera.com/news/2026/8/22/palestinian-british-girl-6-dies-days-after-family-drowned-off-uk-coast?traffic_source=rss",
+          "published": "Sat, 22 Aug 2026 01:42:33 +0000"
         },
         {
-          "source": "BBC",
-          "title": "UK, Canada and Australia condemn Israel for refusing criminal probe into aid worker killings in Gaza",
-          "link": "https://www.bbc.co.uk/news/articles/cvgl2pe09eno?at_medium=RSS&at_campaign=rss",
-          "published": "Fri, 21 Aug 2026 15:58:57 GMT"
+          "source": "Al Jazeera",
+          "title": "Iranian president says time to end war with US from ‘position of strength’",
+          "link": "https://www.aljazeera.com/news/2026/8/22/iranian-president-says-time-to-end-war-with-us-from-position-of?traffic_source=rss",
+          "published": "Sat, 22 Aug 2026 00:59:37 +0000"
         },
         {
           "source": "Al Jazeera",
@@ -122,18 +134,6 @@
           "title": "Several killed in Russia’s ‘double-tap’ drone strike on Ukraine mall",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/several-killed-in-russias-double-tap-drone-strike-on-ukraine-mall?traffic_source=rss",
           "published": "Sat, 22 Aug 2026 00:06:48 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Iran war live: Trump says he views Strait of Hormuz as ‘American territory’",
-          "link": "https://www.aljazeera.com/news/liveblog/2026/8/22/iran-war-live-trump-says-tehran-not-ready-to-make-right-deal-to-end-war?traffic_source=rss",
-          "published": "Sat, 22 Aug 2026 00:00:00 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Myanmar military bombing kills 14 at Buddhist monastery, opposition reports",
-          "link": "https://www.aljazeera.com/news/2026/8/21/myanmar-military-bombing-kills-14-at-buddhist-monastery-opposition-reports?traffic_source=rss",
-          "published": "Fri, 21 Aug 2026 23:52:28 +0000"
         }
       ]
     }
