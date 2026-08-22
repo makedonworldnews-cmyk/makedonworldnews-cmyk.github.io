@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T15:32:39Z",
+  "updatedAt": "2026-08-22T15:53:50Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Огнената стихија се закани на Струмица: Пожарот стигна до куќите, пожарникарите спречија катастрофа",
+          "link": "https://makfax.com.mk/makedonija/ognenata-stihija-se-zakani-na-strumica-pozharot-stigna-do-kukite-pozharnikarite-sprechija-katastrofa/",
+          "published": "Sat, 22 Aug 2026 15:51:05 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Малолетници на возраст од 13 и 17 години меѓу приведените поради дрогa",
+          "link": "https://makfax.com.mk/crna-hronika/maloletnici-na-vozrast-od-13-i-17-godini-megu-privedenite-poradi-droga/",
+          "published": "Sat, 22 Aug 2026 15:45:36 +0000"
         },
         {
           "source": "Makfax",
@@ -29,16 +41,10 @@
           "published": "Sat, 22 Aug 2026 14:19:15 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "МВР предупредува: Една искра може да значи пожар, а несовесните ги чека и затвор",
-          "link": "https://makfax.com.mk/makedonija/mvr-predupreduva-edna-iskra-mozhe-da-znachi-pozhar-a-nesovesnite-gi-cheka-i-zatvor/",
-          "published": "Sat, 22 Aug 2026 14:12:55 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "(Видео) Дебакл на Манчестер Јунајтед во Хал",
-          "link": "https://makfax.com.mk/sport/video-debakl-na-manchester-junajted-vo-hal/",
-          "published": "Sat, 22 Aug 2026 13:48:14 +0000"
+          "source": "NetPress",
+          "title": "Голем пожар во струмичко, се евакуираат жители на месноста Софилар",
+          "link": "https://netpress.com.mk/golem-pozhar-vo-strumichko-se-evakuiraat-zhiteli-na-mesnosta-sofilar/",
+          "published": "Sat, 22 Aug 2026 15:52:49 +0000"
         },
         {
           "source": "NetPress",
@@ -63,12 +69,6 @@
           "title": "Петта жртва на западнонилска треска – Почина 73-годишен пациент од Долно Лисиче",
           "link": "https://netpress.com.mk/petta-zhrtva-na-zapadnonilska-treska-pochina-73-godishen-paczient-od-dolno-lisiche/",
           "published": "Sat, 22 Aug 2026 13:33:08 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Полицијата во Тетово откри работилница за пакување дрога",
-          "link": "https://netpress.com.mk/policzijata-vo-tetovo-otkri-rabotilnicza-za-pakuvane-droga/",
-          "published": "Sat, 22 Aug 2026 13:01:22 +0000"
         }
       ]
     },
@@ -77,15 +77,15 @@
       "items": [
         {
           "source": "BBC",
-          "title": "Carney faces crucial test after walking away from Trump's deal",
-          "link": "https://www.bbc.co.uk/news/articles/c3040pn8lmmo?at_medium=RSS&at_campaign=rss",
-          "published": "Sat, 22 Aug 2026 15:00:27 GMT"
+          "title": "Carney calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse",
+          "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 22 Aug 2026 15:44:57 GMT"
         },
         {
           "source": "BBC",
-          "title": "Canada says it will match US tariffs 'dollar for dollar' as trade talks break down",
-          "link": "https://www.bbc.co.uk/news/articles/cvgvyy4x2mvo?at_medium=RSS&at_campaign=rss",
-          "published": "Sat, 22 Aug 2026 12:20:46 GMT"
+          "title": "Carney faces crucial test after walking away from Trump's deal",
+          "link": "https://www.bbc.co.uk/news/articles/c3040pn8lmmo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 22 Aug 2026 15:00:27 GMT"
         },
         {
           "source": "BBC",
@@ -104,6 +104,12 @@
           "title": "Israel re-establishes closed West Bank settlement, defying growing international protests",
           "link": "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo?at_medium=RSS&at_campaign=rss",
           "published": "Fri, 21 Aug 2026 05:00:57 GMT"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Over 100 ex-diplomats urge France, UK to sanction Israel over Palestine",
+          "link": "https://www.aljazeera.com/news/2026/8/22/over-100-ex-diplomats-urge-france-uk-to-sanction-israel-over-palestine?traffic_source=rss",
+          "published": "Sat, 22 Aug 2026 15:30:49 +0000"
         },
         {
           "source": "Al Jazeera",
@@ -128,12 +134,6 @@
           "title": "Fans and police injured in pitch invasion during ‘high risk’ German Cup tie",
           "link": "https://www.aljazeera.com/sports/2026/8/22/fans-and-police-injured-in-pitch-invasion-during-high-risk-german-cup-tie?traffic_source=rss",
           "published": "Sat, 22 Aug 2026 13:44:02 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Indonesia bolsters troop numbers to combat Borneo wildfires",
-          "link": "https://www.aljazeera.com/news/2026/8/22/indonesia-bolsters-troop-numbers-to-combat-borneo-wildfires?traffic_source=rss",
-          "published": "Sat, 22 Aug 2026 13:35:57 +0000"
         }
       ]
     }
