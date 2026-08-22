@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T20:48:48Z",
+  "updatedAt": "2026-08-22T21:07:54Z",
   "groups": [
     {
       "region": "Македонија",
@@ -42,6 +42,12 @@
         },
         {
           "source": "NetPress",
+          "title": "Цивили ранети во израелски напад во Сирија, Израел тврди дека целта бил терорист",
+          "link": "https://netpress.com.mk/czivili-raneti-vo-izraelski-napad-vo-sirija-izrael-tvrdi-deka-czelta-mu-bil-terorist/",
+          "published": "Sat, 22 Aug 2026 21:00:47 +0000"
+        },
+        {
+          "source": "NetPress",
           "title": "ВИДЕО| Марго Роби и Бредли Купер го подготвуваат грабежот на годината",
           "link": "https://netpress.com.mk/video-margo-robi-i-bredli-kuper-go-podgotvuvaat-grabezhot-na-godinata/",
           "published": "Sat, 22 Aug 2026 20:17:04 +0000"
@@ -63,12 +69,6 @@
           "title": "Единицата за брзо распоредување одбележа 25 години од формирањето",
           "link": "https://netpress.com.mk/ediniczata-za-brzo-rasporeduvane-odbelezha-25-godini-od-formiraneto/",
           "published": "Sat, 22 Aug 2026 18:29:34 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Путин: Украина го пушти „џинот од шишето“, одговорот ќе следи",
-          "link": "https://netpress.com.mk/putin-ukraina-go-pushti-duhot-od-shisheto-odgovorot-ke-sledi/",
-          "published": "Sat, 22 Aug 2026 17:30:16 +0000"
         }
       ]
     },
@@ -107,6 +107,12 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "US Postal Service shares mail-in ballot restrictions despite court ruling",
+          "link": "https://www.aljazeera.com/news/2026/8/22/us-postal-service-shares-mail-in-ballot-restrictions-despite-court-ruling?traffic_source=rss",
+          "published": "Sat, 22 Aug 2026 20:49:17 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Iran grants permission for some Iraqi oil tankers to pass through Hormuz",
           "link": "https://www.aljazeera.com/news/2026/8/22/iran-grants-permission-for-some-iraqi-oil-tankers-to-pass-through-hormuz?traffic_source=rss",
           "published": "Sat, 22 Aug 2026 20:05:52 +0000"
@@ -128,12 +134,6 @@
           "title": "Israeli strikes kill two and injure others as Gaza attacks continue",
           "link": "https://www.aljazeera.com/news/2026/8/22/israeli-strikes-kill-two-and-injure-others-as-gaza-attacks-continue?traffic_source=rss",
           "published": "Sat, 22 Aug 2026 19:24:51 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Putin warns Ukraine has opened ‘Pandora’s box’, rejects peace proposals",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/08-22-26-putin-ukraine-talks-clip?traffic_source=rss",
-          "published": "Sat, 22 Aug 2026 19:24:00 +0000"
         }
       ]
     }
