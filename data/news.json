@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T21:33:52Z",
+  "updatedAt": "2026-08-22T21:54:28Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) Еспи погоди во 90-та минута за триумф на Реал кај Еспањол",
+          "link": "https://makfax.com.mk/sport/video-espi-pogodi-vo-90-ta-minuta-za-triumf-na-real-kaj-espanjol/",
+          "published": "Sat, 22 Aug 2026 21:49:03 +0000"
         },
         {
           "source": "Makfax",
@@ -33,12 +39,6 @@
           "title": "Брентфорд го декласира Тотенхем",
           "link": "https://makfax.com.mk/sport/brentford-go-deklasira-totenhem/",
           "published": "Sat, 22 Aug 2026 18:58:06 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Трагичен крај на потрагата по малиот авион во Хрватска: загинаа двајца германски државјани",
-          "link": "https://makfax.com.mk/svet/tragichen-kraj-na-potragata-po-maliot-avion-vo-hrvatska-zaginaa-dvajca-germanski-drzhavjani/",
-          "published": "Sat, 22 Aug 2026 18:46:14 +0000"
         },
         {
           "source": "NetPress",
@@ -107,6 +107,12 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Open-air cinema brings movie nights back to Khartoum",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/08-22-26-sudan-movie-night-sv?traffic_source=rss",
+          "published": "Sat, 22 Aug 2026 21:27:22 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Israeli army and settlers injure several Palestinians across West Bank",
           "link": "https://www.aljazeera.com/news/2026/8/22/israeli-army-and-settlers-injure-several-palestinians-across-west-bank?traffic_source=rss",
           "published": "Sat, 22 Aug 2026 21:02:29 +0000"
@@ -128,12 +134,6 @@
           "title": "Why is Israel building new illegal settlements?",
           "link": "https://www.aljazeera.com/video/inside-story/2026/8/22/why-is-israel-building-new-illegal-settlements?traffic_source=rss",
           "published": "Sat, 22 Aug 2026 19:40:58 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "More than 200,000 newly displaced in Sudan’s Kordofan region",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/more-than-200000-newly-displaced-in-sudans-kordofan-region?traffic_source=rss",
-          "published": "Sat, 22 Aug 2026 19:29:08 +0000"
         }
       ]
     }
