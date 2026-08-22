@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T23:31:56Z",
+  "updatedAt": "2026-08-22T23:53:42Z",
   "groups": [
     {
       "region": "Македонија",
@@ -107,6 +107,12 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Iran warns nearby nations against joining US ‘economic war’ efforts",
+          "link": "https://www.aljazeera.com/news/2026/8/22/iran-warns-nearby-nations-against-joining-us-economic-war-efforts?traffic_source=rss",
+          "published": "Sat, 22 Aug 2026 23:26:15 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Tropical Storm Moke advances towards Hawaii with heavy rain, strong winds",
           "link": "https://www.aljazeera.com/news/2026/8/22/tropical-storm-moke-advances-towards-hawaii-with-heavy-rain-strong-winds?traffic_source=rss",
           "published": "Sat, 22 Aug 2026 22:29:07 +0000"
@@ -128,12 +134,6 @@
           "title": "Israeli army and settlers injure several Palestinians across West Bank",
           "link": "https://www.aljazeera.com/news/2026/8/22/israeli-army-and-settlers-injure-several-palestinians-across-west-bank?traffic_source=rss",
           "published": "Sat, 22 Aug 2026 21:02:29 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "US Postal Service shares mail-in ballot restrictions despite court ruling",
-          "link": "https://www.aljazeera.com/news/2026/8/22/us-postal-service-shares-mail-in-ballot-restrictions-despite-court-ruling?traffic_source=rss",
-          "published": "Sat, 22 Aug 2026 20:49:17 +0000"
         }
       ]
     }
