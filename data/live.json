@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T02:04:47Z",
+  "generated_at": "2026-08-22T03:03:05Z",
   "items": [
     {
       "region": "Македонија",
@@ -109,6 +109,20 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "Peru rescues people trapped by landslides on highway for nearly a week",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/peru-rescues-people-trapped-by-landslides-on-highway-for-nearly-a-week?traffic_source=rss",
+      "published": "Sat, 22 Aug 2026 02:09:58 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Palestinian-British girl, 6, dies days after family drowned off UK coast",
+      "link": "https://www.aljazeera.com/news/2026/8/22/palestinian-british-girl-6-dies-days-after-family-drowned-off-uk-coast?traffic_source=rss",
+      "published": "Sat, 22 Aug 2026 01:42:33 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "Iranian president says time to end war with US from ‘position of strength’",
       "link": "https://www.aljazeera.com/news/2026/8/22/iranian-president-says-time-to-end-war-with-us-from-position-of?traffic_source=rss",
       "published": "Sat, 22 Aug 2026 00:59:37 +0000"
@@ -126,20 +140,6 @@
       "title": "Guyana’s Rodrigues Birkett leads informal poll in race to be next UN leader",
       "link": "https://www.aljazeera.com/news/2026/8/22/guyanas-rodrigues-birkett-leads-informal-poll-in-race-to-be-next-un-leader?traffic_source=rss",
       "published": "Sat, 22 Aug 2026 00:32:35 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Several killed in Russia’s ‘double-tap’ drone strike on Ukraine mall",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/several-killed-in-russias-double-tap-drone-strike-on-ukraine-mall?traffic_source=rss",
-      "published": "Sat, 22 Aug 2026 00:06:48 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Iran war live: Trump says he views Strait of Hormuz as ‘American territory’",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/8/22/iran-war-live-trump-says-tehran-not-ready-to-make-right-deal-to-end-war?traffic_source=rss",
-      "published": "Sat, 22 Aug 2026 00:00:00 +0000"
     }
   ]
 }
