@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T13:19:21Z",
+  "generated_at": "2026-08-22T13:46:54Z",
   "items": [
     {
       "region": "Македонија",
@@ -39,6 +39,20 @@
     {
       "region": "Македонија",
       "source": "NetPress",
+      "title": "ВИДЕО| Кинески робот го собори светскиот рекорд на Јусеин Болт на 100 метри",
+      "link": "https://netpress.com.mk/kineski-robot-go-sobori-svetskiot-rekord-na-jusein-bolt-na-100-metri/",
+      "published": "Sat, 22 Aug 2026 13:35:25 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "NetPress",
+      "title": "Петта жртва на западнонилска треска – Почина 73-годишен пациент од Долно Лисиче",
+      "link": "https://netpress.com.mk/petta-zhrtva-na-zapadnonilska-treska-pochina-73-godishen-paczient-od-dolno-lisiche/",
+      "published": "Sat, 22 Aug 2026 13:33:08 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "NetPress",
       "title": "Полицијата во Тетово откри работилница за пакување дрога",
       "link": "https://netpress.com.mk/policzijata-vo-tetovo-otkri-rabotilnicza-za-pakuvane-droga/",
       "published": "Sat, 22 Aug 2026 13:01:22 +0000"
@@ -46,7 +60,7 @@
     {
       "region": "Македонија",
       "source": "NetPress",
-      "title": "Нема гужви на „Табановце“, странците може плаќаат сообраќајни казни онлајн",
+      "title": "Нема гужви на „Табановце“, странците може да плаќаат сообраќајни казни онлајн",
       "link": "https://netpress.com.mk/nema-guzhvi-na-tabanovcze-stranczite-mozhe-plakaat-soobrakajni-kazni-onlajn/",
       "published": "Sat, 22 Aug 2026 12:55:24 +0000"
     },
@@ -56,20 +70,6 @@
       "title": "Активни се 11 пожари, три се под контрола",
       "link": "https://netpress.com.mk/aktivni-se-11-pozhari-tri-se-pod-kontrola/",
       "published": "Sat, 22 Aug 2026 12:37:27 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "ВИДЕО| Украински воен офицер избоден до смрт за време на мобилизација во Лавов",
-      "link": "https://netpress.com.mk/video-ukrainski-voen-oficzer-izboden-do-smrt-za-vreme-na-mobilizaczija-vo-lavov/",
-      "published": "Sat, 22 Aug 2026 11:56:49 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Златото на тримесечен максимум поради загриженоста за американскиот долг и доларот",
-      "link": "https://netpress.com.mk/zlatoto-na-trimesechen-maksimum-poradi-zagrizhenosta-za-amerikanskiot-dolg-i-dolarot/",
-      "published": "Sat, 22 Aug 2026 11:07:50 +0000"
     },
     {
       "region": "Свет",
@@ -109,6 +109,20 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "Indonesia bolsters troop numbers to combat Borneo wildfires",
+      "link": "https://www.aljazeera.com/news/2026/8/22/indonesia-bolsters-troop-numbers-to-combat-borneo-wildfires?traffic_source=rss",
+      "published": "Sat, 22 Aug 2026 13:35:57 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Is Trump making Latin America great again?",
+      "link": "https://www.aljazeera.com/opinions/2026/8/22/is-trump-making-latin-america-great-again?traffic_source=rss",
+      "published": "Sat, 22 Aug 2026 13:23:56 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "Jewish activists push back against Israeli settlers",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/jewish-activists-push-back-against-israeli-settlers?traffic_source=rss",
       "published": "Sat, 22 Aug 2026 12:51:55 +0000"
@@ -126,20 +140,6 @@
       "title": "The Berlin Wall separated his family. Its legacy still endures",
       "link": "https://www.aljazeera.com/features/longform/2026/8/22/the-berlin-wall-separated-his-family-its-legacy-still-endures?traffic_source=rss",
       "published": "Sat, 22 Aug 2026 12:31:00 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Russian strikes kill 6 people in Ukraine, day after shopping complex attack",
-      "link": "https://www.aljazeera.com/news/2026/8/22/russian-strikes-kill-6-people-in-ukraine-day-after-shopping-complex-attack?traffic_source=rss",
-      "published": "Sat, 22 Aug 2026 12:09:09 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Hundreds of children take part in swimming class on Gaza’s shore",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/hundreds-of-children-take-part-in-swimming-class-on-gazas-shore?traffic_source=rss",
-      "published": "Sat, 22 Aug 2026 11:58:55 +0000"
     }
   ]
 }
