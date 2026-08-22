@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T09:36:11Z",
+  "generated_at": "2026-08-22T09:54:29Z",
   "items": [
     {
       "region": "Македонија",
@@ -39,6 +39,20 @@
     {
       "region": "Македонија",
       "source": "NetPress",
+      "title": "Турција бара помош од Интерпол да се уапси Нетанјаху",
+      "link": "https://netpress.com.mk/turczija-bara-pomosh-od-interpol-da-se-uapsi-netanjahu/",
+      "published": "Sat, 22 Aug 2026 09:49:50 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "NetPress",
+      "title": "ВИДЕО| Чамец со мигранти пристигна на преполна плажа во Шпанија",
+      "link": "https://netpress.com.mk/video-chamecz-so-migranti-pristigna-na-prepolna-plazha-vo-shpanija/",
+      "published": "Sat, 22 Aug 2026 09:40:15 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "NetPress",
       "title": "TikTok ја реши тужбата во САД со спогодба од 400 милиони долари",
       "link": "https://netpress.com.mk/tiktok-ja-reshi-tuzhbata-vo-sad-so-spogodba-od-400-milioni-dolari/",
       "published": "Sat, 22 Aug 2026 09:24:14 +0000"
@@ -56,20 +70,6 @@
       "title": "И Здравје и работа: Одлуките за рударството треба да се темелат на науката, стручноста и институционалната контрола",
       "link": "https://netpress.com.mk/i-zdravje-i-rabota-odlukite-za-rudarstvoto-treba-da-se-temelat-na-naukata-struchnosta-i-instituczionalnata-kontrola/",
       "published": "Sat, 22 Aug 2026 09:11:12 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "САД инвестираат 500 милиони долари во критични минерали",
-      "link": "https://netpress.com.mk/sad-investiraat-500-milioni-dolari-vo-kritichni-minerali/",
-      "published": "Sat, 22 Aug 2026 09:02:29 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Шеснаесет маратонци на 39. Охридски пливачки маратон",
-      "link": "https://netpress.com.mk/shesnaeset-maratonczi-na-39-ohridski-plivachki-maraton/",
-      "published": "Sat, 22 Aug 2026 08:39:17 +0000"
     },
     {
       "region": "Свет",
@@ -109,6 +109,13 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "Iran says new US sanctions violate sovereignty of other states",
+      "link": "https://www.aljazeera.com/news/2026/8/22/iran-says-new-us-sanctions-violate-sovereignty-of-other-states?traffic_source=rss",
+      "published": "Sat, 22 Aug 2026 09:14:09 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "Australia bite back as 18 wickets fall on day one of second Bangladesh Test",
       "link": "https://www.aljazeera.com/sports/2026/8/22/australia-bite-back-as-18-wickets-fall-on-day-one-of-second-bangladesh-test?traffic_source=rss",
       "published": "Sat, 22 Aug 2026 08:53:17 +0000"
@@ -133,13 +140,6 @@
       "title": "Panama Canal to reduce shipping as ‘extreme’ El Nino approaches",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/panama-canal-to-reduce-shipping-as-extreme-el-nino-approaches?traffic_source=rss",
       "published": "Sat, 22 Aug 2026 08:00:30 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Lionel Messi fined for striking opponent in Inter Miami MLS game",
-      "link": "https://www.aljazeera.com/sports/2026/8/22/messi-fined-for-striking-opponent-in-inter-miami-mls-game?traffic_source=rss",
-      "published": "Sat, 22 Aug 2026 07:41:21 +0000"
     }
   ]
 }
