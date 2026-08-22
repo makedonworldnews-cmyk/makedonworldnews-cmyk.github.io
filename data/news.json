@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T13:35:31Z",
+  "updatedAt": "2026-08-22T13:56:01Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) Дебакл на Манчестер Јунајтед во Хал",
+          "link": "https://makfax.com.mk/sport/video-debakl-na-manchester-junajted-vo-hal/",
+          "published": "Sat, 22 Aug 2026 13:48:14 +0000"
         },
         {
           "source": "Makfax",
@@ -35,15 +41,9 @@
           "published": "Sat, 22 Aug 2026 11:48:23 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Елмас се договори со Аталанта",
-          "link": "https://makfax.com.mk/sport/elmas-se-dogovori-so-atalanta/",
-          "published": "Sat, 22 Aug 2026 11:45:55 +0000"
-        },
-        {
           "source": "NetPress",
-          "title": "ВИДЕО|",
-          "link": "https://netpress.com.mk/video-3/",
+          "title": "ВИДЕО| Кинески робот го собори светскиот рекорд на Јусеин Болт на 100 метри",
+          "link": "https://netpress.com.mk/kineski-robot-go-sobori-svetskiot-rekord-na-jusein-bolt-na-100-metri/",
           "published": "Sat, 22 Aug 2026 13:35:25 +0000"
         },
         {
@@ -89,6 +89,12 @@
         },
         {
           "source": "BBC",
+          "title": "Fourteen killed in strike on Myanmar monastery",
+          "link": "https://www.bbc.co.uk/news/articles/cqlxlvz01z1o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 22 Aug 2026 13:48:06 GMT"
+        },
+        {
+          "source": "BBC",
           "title": "Israel re-establishes closed West Bank settlement, defying growing international protests",
           "link": "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo?at_medium=RSS&at_campaign=rss",
           "published": "Fri, 21 Aug 2026 05:00:57 GMT"
@@ -100,10 +106,16 @@
           "published": "Sat, 22 Aug 2026 13:13:16 GMT"
         },
         {
-          "source": "BBC",
-          "title": "One killed in sword attack at Swedish school",
-          "link": "https://www.bbc.co.uk/news/articles/c3r0g7gj2n3o?at_medium=RSS&at_campaign=rss",
-          "published": "Fri, 21 Aug 2026 21:03:24 GMT"
+          "source": "Al Jazeera",
+          "title": "Indonesia bolsters troop numbers to combat Borneo wildfires",
+          "link": "https://www.aljazeera.com/news/2026/8/22/indonesia-bolsters-troop-numbers-to-combat-borneo-wildfires?traffic_source=rss",
+          "published": "Sat, 22 Aug 2026 13:35:57 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Is Trump making Latin America great again?",
+          "link": "https://www.aljazeera.com/opinions/2026/8/22/is-trump-making-latin-america-great-again?traffic_source=rss",
+          "published": "Sat, 22 Aug 2026 13:23:56 +0000"
         },
         {
           "source": "Al Jazeera",
@@ -122,18 +134,6 @@
           "title": "The Berlin Wall separated his family. Its legacy still endures",
           "link": "https://www.aljazeera.com/features/longform/2026/8/22/the-berlin-wall-separated-his-family-its-legacy-still-endures?traffic_source=rss",
           "published": "Sat, 22 Aug 2026 12:31:00 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Russian strikes kill 6 people in Ukraine, day after shopping complex attack",
-          "link": "https://www.aljazeera.com/news/2026/8/22/russian-strikes-kill-6-people-in-ukraine-day-after-shopping-complex-attack?traffic_source=rss",
-          "published": "Sat, 22 Aug 2026 12:09:09 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Hundreds of children take part in swimming class on Gaza’s shore",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/hundreds-of-children-take-part-in-swimming-class-on-gazas-shore?traffic_source=rss",
-          "published": "Sat, 22 Aug 2026 11:58:55 +0000"
         }
       ]
     }
