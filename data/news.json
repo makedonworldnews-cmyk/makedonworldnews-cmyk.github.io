@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T19:00:11Z",
+  "updatedAt": "2026-08-22T19:31:21Z",
   "groups": [
     {
       "region": "Македонија",
@@ -42,6 +42,12 @@
         },
         {
           "source": "NetPress",
+          "title": "Премиер лига: Стартни порази на Манчестер Јунајтед и Тотенхем",
+          "link": "https://netpress.com.mk/premier-liga-startni-porazi-na-manchester-junajted-i-totenhem/",
+          "published": "Sat, 22 Aug 2026 19:03:10 +0000"
+        },
+        {
+          "source": "NetPress",
           "title": "Единицата за брзо распоредување одбележа 25 години од формирањето",
           "link": "https://netpress.com.mk/ediniczata-za-brzo-rasporeduvane-odbelezha-25-godini-od-formiraneto/",
           "published": "Sat, 22 Aug 2026 18:29:34 +0000"
@@ -63,12 +69,6 @@
           "title": "Нова иницијатива во ЕУ за данок на неочекуваниот профит од нафтата",
           "link": "https://netpress.com.mk/nova-iniczijativa-vo-eu-za-danok-na-neochekuvaniot-profit-od-naftata/",
           "published": "Sat, 22 Aug 2026 16:25:39 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Во гаснењето на пожарот кај Струмица се вклучи и ер трактор",
-          "link": "https://netpress.com.mk/vo-gasneneto-na-pozharot-kaj-strumicza-se-vkluchi-i-er-traktor/",
-          "published": "Sat, 22 Aug 2026 16:08:13 +0000"
         }
       ]
     },
@@ -107,6 +107,12 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Carney: Canada will enact retaliatory US tariffs starting September 8",
+          "link": "https://www.aljazeera.com/news/2026/8/22/carney-canada-will-enact-retaliatory-us-tariffs-starting-september-8?traffic_source=rss",
+          "published": "Sat, 22 Aug 2026 19:00:25 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Israel, Turkiye and the new regional reordering",
           "link": "https://www.aljazeera.com/opinions/2026/8/22/israel-turkiye-and-the-new-regional-reordering?traffic_source=rss",
           "published": "Sat, 22 Aug 2026 18:35:48 +0000"
@@ -128,12 +134,6 @@
           "title": "Israel’s Chief Rabbi says Palestinians are not a people and have no rights",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/08-22-26-israel-rabbi-palestinians-clip?traffic_source=rss",
           "published": "Sat, 22 Aug 2026 17:54:52 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Trump seeks to block the BBC’s attempt to subpoena Ivanka Trump, Trump Jr",
-          "link": "https://www.aljazeera.com/news/2026/8/22/trump-seeks-to-block-the-bbcs-attempt-to-subpoena-ivanka-trump-trump-jr?traffic_source=rss",
-          "published": "Sat, 22 Aug 2026 17:52:42 +0000"
         }
       ]
     }
