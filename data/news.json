@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T09:12:30Z",
+  "updatedAt": "2026-08-22T09:45:39Z",
   "groups": [
     {
       "region": "Македонија",
@@ -42,6 +42,24 @@
         },
         {
           "source": "NetPress",
+          "title": "ВИДЕО| Чамец со мигранти пристигна на преполна плажа во Шпанија",
+          "link": "https://netpress.com.mk/video-chamecz-so-migranti-pristigna-na-prepolna-plazha-vo-shpanija/",
+          "published": "Sat, 22 Aug 2026 09:40:15 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "TikTok ја реши тужбата во САД со спогодба од 400 милиони долари",
+          "link": "https://netpress.com.mk/tiktok-ja-reshi-tuzhbata-vo-sad-so-spogodba-od-400-milioni-dolari/",
+          "published": "Sat, 22 Aug 2026 09:24:14 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Герасимовски: За изработка на мобилната апликација Општина Центар не потрошила ниту еден денар",
+          "link": "https://netpress.com.mk/gerasimovski-za-izrabotka-na-mobilnata-aplikaczija-opshtina-czentar-ne-potroshila-nitu-eden-denar/",
+          "published": "Sat, 22 Aug 2026 09:16:30 +0000"
+        },
+        {
+          "source": "NetPress",
           "title": "И Здравје и работа: Одлуките за рударството треба да се темелат на науката, стручноста и институционалната контрола",
           "link": "https://netpress.com.mk/i-zdravje-i-rabota-odlukite-za-rudarstvoto-treba-da-se-temelat-na-naukata-struchnosta-i-instituczionalnata-kontrola/",
           "published": "Sat, 22 Aug 2026 09:11:12 +0000"
@@ -51,24 +69,6 @@
           "title": "САД инвестираат 500 милиони долари во критични минерали",
           "link": "https://netpress.com.mk/sad-investiraat-500-milioni-dolari-vo-kritichni-minerali/",
           "published": "Sat, 22 Aug 2026 09:02:29 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Шеснаесет маратонци на 39. Охридски пливачки маратон",
-          "link": "https://netpress.com.mk/shesnaeset-maratonczi-na-39-ohridski-plivachki-maraton/",
-          "published": "Sat, 22 Aug 2026 08:39:17 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Активни се девет пожари, два се под контрола",
-          "link": "https://netpress.com.mk/aktivni-se-devet-pozhari-dva-se-pod-kontrola/",
-          "published": "Sat, 22 Aug 2026 08:27:41 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Премиер лига: Арсенал убедлив на почеток на одбраната на титулата",
-          "link": "https://netpress.com.mk/premier-liga-arsenal-ubedliv-na-pochetok-na-odbranata-na-titulata/",
-          "published": "Sat, 22 Aug 2026 06:27:41 +0000"
         }
       ]
     },
@@ -97,13 +97,19 @@
           "source": "BBC",
           "title": "Search for survivors after 16 killed by Russian double-tap strike on Ukraine mall",
           "link": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
-          "published": "Sat, 22 Aug 2026 06:40:30 GMT"
+          "published": "Sat, 22 Aug 2026 09:13:26 GMT"
         },
         {
           "source": "BBC",
           "title": "Lindsay Clancy suffering 'command hallucination' when she killed children, court hears",
           "link": "https://www.bbc.co.uk/news/articles/c62xpre63j2o?at_medium=RSS&at_campaign=rss",
           "published": "Sat, 22 Aug 2026 03:43:26 GMT"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Iran says new US sanctions violate sovereignty of other states",
+          "link": "https://www.aljazeera.com/news/2026/8/22/iran-says-new-us-sanctions-violate-sovereignty-of-other-states?traffic_source=rss",
+          "published": "Sat, 22 Aug 2026 09:14:09 +0000"
         },
         {
           "source": "Al Jazeera",
@@ -128,12 +134,6 @@
           "title": "Panama Canal to reduce shipping as ‘extreme’ El Nino approaches",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/panama-canal-to-reduce-shipping-as-extreme-el-nino-approaches?traffic_source=rss",
           "published": "Sat, 22 Aug 2026 08:00:30 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Lionel Messi fined for striking opponent in Inter Miami MLS game",
-          "link": "https://www.aljazeera.com/sports/2026/8/22/messi-fined-for-striking-opponent-in-inter-miami-mls-game?traffic_source=rss",
-          "published": "Sat, 22 Aug 2026 07:41:21 +0000"
         }
       ]
     }
