@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T14:47:56Z",
+  "updatedAt": "2026-08-22T15:02:28Z",
   "groups": [
     {
       "region": "Македонија",
@@ -107,6 +107,12 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Israeli drone strike on ‘civilian vehicle’ injures several in Syria",
+          "link": "https://www.aljazeera.com/news/2026/8/22/israeli-drone-strike-on-civilian-vehicle-causes-injuries-in-syria?traffic_source=rss",
+          "published": "Sat, 22 Aug 2026 14:37:40 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "What did war with the US reveal about Iran’s weapons capabilities?",
           "link": "https://www.aljazeera.com/news/2026/8/22/what-did-war-with-the-us-reveal-about-irans-weapons-capabilities?traffic_source=rss",
           "published": "Sat, 22 Aug 2026 14:19:06 +0000"
@@ -128,12 +134,6 @@
           "title": "Indonesia bolsters troop numbers to combat Borneo wildfires",
           "link": "https://www.aljazeera.com/news/2026/8/22/indonesia-bolsters-troop-numbers-to-combat-borneo-wildfires?traffic_source=rss",
           "published": "Sat, 22 Aug 2026 13:35:57 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Is Trump making Latin America great again?",
-          "link": "https://www.aljazeera.com/opinions/2026/8/22/is-trump-making-latin-america-great-again?traffic_source=rss",
-          "published": "Sat, 22 Aug 2026 13:23:56 +0000"
         }
       ]
     }
