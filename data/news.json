@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T17:54:29Z",
+  "updatedAt": "2026-08-22T18:30:00Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Тошковски: ЕБР е еден од столбовите на безбедносниот систем на Македонија",
+          "link": "https://makfax.com.mk/makedonija/toshkovski-ebr-e-eden-od-stolbovite-na-bezbednosniot-sistem-na-makedonija/",
+          "published": "Sat, 22 Aug 2026 18:29:15 +0000"
         },
         {
           "source": "Makfax",
@@ -35,10 +41,10 @@
           "published": "Sat, 22 Aug 2026 17:24:02 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Исчезна 42-годишна жена од Скопје, полицијата трага по неа",
-          "link": "https://makfax.com.mk/crna-hronika/ischezna-42-godishna-zhena-od-skopje-policijata-traga-po-nea/",
-          "published": "Sat, 22 Aug 2026 15:59:12 +0000"
+          "source": "NetPress",
+          "title": "Единицата за брзо распоредување одбележа 25 години од формирањето",
+          "link": "https://netpress.com.mk/ediniczata-za-brzo-rasporeduvane-odbelezha-25-godini-od-formiraneto/",
+          "published": "Sat, 22 Aug 2026 18:29:34 +0000"
         },
         {
           "source": "NetPress",
@@ -63,12 +69,6 @@
           "title": "Во гаснењето на пожарот кај Струмица се вклучи и ер трактор",
           "link": "https://netpress.com.mk/vo-gasneneto-na-pozharot-kaj-strumicza-se-vkluchi-i-er-traktor/",
           "published": "Sat, 22 Aug 2026 16:08:13 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "ЕУ испраќа хеликоптери и пожарникари во Србија поради шумски пожар",
-          "link": "https://netpress.com.mk/eu-ispraka-helikopteri-i-pozharnikari-vo-srbija-poradi-shumski-pozhar/",
-          "published": "Sat, 22 Aug 2026 15:59:17 +0000"
         }
       ]
     },
@@ -79,7 +79,7 @@
           "source": "BBC",
           "title": "Carney calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse",
           "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
-          "published": "Sat, 22 Aug 2026 16:45:02 GMT"
+          "published": "Sat, 22 Aug 2026 18:20:36 GMT"
         },
         {
           "source": "BBC",
@@ -107,33 +107,33 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Armed men kidnap dozens in attacks on Nigerian villages",
+          "link": "https://www.aljazeera.com/news/2026/8/22/armed-men-kidnap-dozens-in-attacks-on-nigerian-villages?traffic_source=rss",
+          "published": "Sat, 22 Aug 2026 17:58:15 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Israel’s Chief Rabbi says Palestinians are not a people and have no rights",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/08-22-26-israel-rabbi-palestinians-clip?traffic_source=rss",
+          "published": "Sat, 22 Aug 2026 17:54:52 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Trump seeks to block the BBC’s attempt to subpoena Ivanka Trump, Trump Jr",
+          "link": "https://www.aljazeera.com/news/2026/8/22/trump-seeks-to-block-the-bbcs-attempt-to-subpoena-ivanka-trump-trump-jr?traffic_source=rss",
+          "published": "Sat, 22 Aug 2026 17:52:42 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "‘Not a small issue’: People deported by US to Liberia face uncertain future",
+          "link": "https://www.aljazeera.com/news/2026/8/22/not-a-small-issue-people-deported-by-us-to-liberia-face-uncertain-future?traffic_source=rss",
+          "published": "Sat, 22 Aug 2026 17:47:02 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Seven killed, including two police officers, in UK ‘wrong-side’ car crash",
           "link": "https://www.aljazeera.com/news/2026/8/22/seven-killed-including-two-police-officers-in-uk-wrong-side-car-crash?traffic_source=rss",
           "published": "Sat, 22 Aug 2026 17:34:28 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "South Korea sending first container ship through Arctic route",
-          "link": "https://www.aljazeera.com/news/2026/8/22/south-korea-sending-first-container-ship-through-arctic-route?traffic_source=rss",
-          "published": "Sat, 22 Aug 2026 16:46:22 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Sanctioned by EU, Israeli settler steals and kills Palestinian donkey",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/22-08-clip-palestinian-donkey-killed-by-setllers-ps?traffic_source=rss",
-          "published": "Sat, 22 Aug 2026 16:41:43 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "LIVE: Espanyol vs Real Madrid: La Liga",
-          "link": "https://www.aljazeera.com/sports/liveblog/2026/8/22/espanyol-vs-real-madrid-live-la-liga?traffic_source=rss",
-          "published": "Sat, 22 Aug 2026 16:30:09 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "How is the pro-Israel lobby influencing US elections?",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/how-is-the-pro-israel-lobby-influencing-us-midterm-elections?traffic_source=rss",
-          "published": "Sat, 22 Aug 2026 16:17:54 +0000"
         }
       ]
     }
