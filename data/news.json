@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T05:46:08Z",
+  "updatedAt": "2026-08-22T06:13:30Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) Шест лица загинаа, 90 се повредени во руски напад во Украина",
+          "link": "https://makfax.com.mk/svet/video-shest-lica-zaginaa-90-se-povredeni-vo-ruski-napad-vo-ukraina/",
+          "published": "Sat, 22 Aug 2026 05:46:24 +0000"
         },
         {
           "source": "Makfax",
@@ -35,10 +41,16 @@
           "published": "Fri, 21 Aug 2026 19:57:31 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Брзо одење или трчање – што е подобро за намалување на крвниот притисок, според мислењето на лекарите",
-          "link": "https://makfax.com.mk/zanimlivosti/brzo-odenje-ili-trchanje-shto-e-podobro-za-namaluvanje-na-krvniot-pritisok-spored-mislenjeto-na-lekarite/",
-          "published": "Fri, 21 Aug 2026 19:52:58 +0000"
+          "source": "NetPress",
+          "title": "Трамп, притиснат од цените, ги укинува царините за увоз на говедско",
+          "link": "https://netpress.com.mk/tramp-pritisnat-od-czenite-gi-ukinuva-czarinite-za-uvoz-na-govedsko/",
+          "published": "Sat, 22 Aug 2026 06:07:22 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Двајца загинати во пад на мал авион во Хрватска",
+          "link": "https://netpress.com.mk/dvajcza-zaginati-vo-pad-na-mal-avion-vo-hrvatska/",
+          "published": "Sat, 22 Aug 2026 05:47:29 +0000"
         },
         {
           "source": "NetPress",
@@ -57,18 +69,6 @@
           "title": "Врховниот суд му дозволи на Трамп засега да продолжи со изградбата на балската сала",
           "link": "https://netpress.com.mk/vrhovniot-sud-mu-dozvoli-na-tramp-zasega-da-prodolzhi-so-izgradbata-na-balskata-sala/",
           "published": "Fri, 21 Aug 2026 19:42:48 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Мисајловски: Секој војник со 45 години ќе има можност да остане во Одбрана",
-          "link": "https://netpress.com.mk/misajlovski-sekoj-vojnik-so-45-godini-ke-ima-mozhnost-da-ostane-vo-odbrana/",
-          "published": "Fri, 21 Aug 2026 19:25:04 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Турција ќе бара црвена потерница од Интерпол против Нетанјаху поради флотилата за Газа",
-          "link": "https://netpress.com.mk/turczija-ke-bara-czrvena-poternicza-od-interpol-protiv-netanjahu-poradi-flotilata-za-gaza/",
-          "published": "Fri, 21 Aug 2026 19:05:01 +0000"
         }
       ]
     },
@@ -107,6 +107,18 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "China’s new moon mission could unlock secret of lunar ice: Why that matters",
+          "link": "https://www.aljazeera.com/news/2026/8/22/chinas-new-moon-mission-could-unlock-secret-of-lunar-ice-why-that-matters?traffic_source=rss",
+          "published": "Sat, 22 Aug 2026 05:36:39 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "‘It was a tsunami’: Floods leave death trail in India’s Assam",
+          "link": "https://www.aljazeera.com/news/2026/8/22/it-was-a-tsunami-floods-leave-death-trail-in-indias-assam?traffic_source=rss",
+          "published": "Sat, 22 Aug 2026 05:35:50 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Inundated Philippine communities seek answers over flood control funds",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/inundated-philippine-communities-seek-answers-over-flood-control-funds?traffic_source=rss",
           "published": "Sat, 22 Aug 2026 04:36:26 +0000"
@@ -122,18 +134,6 @@
           "title": "Nigeria and the Sahel: A growing security divide",
           "link": "https://www.aljazeera.com/news/2026/8/22/nigeria-and-the-sahel-a-growing-security-divide?traffic_source=rss",
           "published": "Sat, 22 Aug 2026 04:30:07 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "At least 13 Tunisians missing as migrant boat headed for Italy capsizes",
-          "link": "https://www.aljazeera.com/news/2026/8/22/at-least-13-tunisians-missing-as-migrant-boat-headed-for-italy-capsizes?traffic_source=rss",
-          "published": "Sat, 22 Aug 2026 04:24:11 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "US imposes 50 percent tariffs on $20bn in Canadian goods after talks fail",
-          "link": "https://www.aljazeera.com/news/2026/8/22/us-imposes-50-tariffs-on-20bn-worth-of-canadian-goods-after-talks-fail?traffic_source=rss",
-          "published": "Sat, 22 Aug 2026 04:02:32 +0000"
         }
       ]
     }
