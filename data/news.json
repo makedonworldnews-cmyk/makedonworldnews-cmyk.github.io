@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T14:23:26Z",
+  "updatedAt": "2026-08-22T14:47:56Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Две лица загинаа во руски ракетен напад во близина на Киев",
+          "link": "https://makfax.com.mk/svet/dve-lica-zaginaa-vo-ruski-raketen-napad-vo-blizina-na-kiev/",
+          "published": "Sat, 22 Aug 2026 14:31:29 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Од утре забрана за пешаци и возила во делови од Халкидики, казната е 300 евра",
+          "link": "https://makfax.com.mk/svet/od-utre-zabrana-za-peshaci-i-vozila-vo-delovi-od-halkidiki-kaznata-e-300-evra/",
+          "published": "Sat, 22 Aug 2026 14:25:26 +0000"
         },
         {
           "source": "Makfax",
@@ -27,18 +39,6 @@
           "title": "(Видео) Дебакл на Манчестер Јунајтед во Хал",
           "link": "https://makfax.com.mk/sport/video-debakl-na-manchester-junajted-vo-hal/",
           "published": "Sat, 22 Aug 2026 13:48:14 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Уште еден смртен случај од западнонилска треска, петмина починаа во Македонија",
-          "link": "https://makfax.com.mk/makedonija/ushte-eden-smrten-sluchaj-od-zapadnonilska-treska-petmina-pochinaa-vo-makedonija/",
-          "published": "Sat, 22 Aug 2026 13:11:03 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Грција пред нов бран жештини",
-          "link": "https://makfax.com.mk/svet/grcija-pred-nov-bran-zheshtini/",
-          "published": "Sat, 22 Aug 2026 11:59:57 +0000"
         },
         {
           "source": "NetPress",
@@ -107,6 +107,12 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "What did war with the US reveal about Iran’s weapons capabilities?",
+          "link": "https://www.aljazeera.com/news/2026/8/22/what-did-war-with-the-us-reveal-about-irans-weapons-capabilities?traffic_source=rss",
+          "published": "Sat, 22 Aug 2026 14:19:06 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Man Utd humiliated at Hull to open Premier League account",
           "link": "https://www.aljazeera.com/sports/2026/8/22/man-utd-slump-to-opening-day-premier-league-defeat-at-hull-city?traffic_source=rss",
           "published": "Sat, 22 Aug 2026 13:54:02 +0000"
@@ -128,12 +134,6 @@
           "title": "Is Trump making Latin America great again?",
           "link": "https://www.aljazeera.com/opinions/2026/8/22/is-trump-making-latin-america-great-again?traffic_source=rss",
           "published": "Sat, 22 Aug 2026 13:23:56 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "As families retrieve bodies, Gaza is running out of places to bury the dead",
-          "link": "https://www.aljazeera.com/features/2026/8/22/as-families-retrive-bodies-gaza-is-running-out-of-places-to-bury-the-dead?traffic_source=rss",
-          "published": "Sat, 22 Aug 2026 13:10:45 +0000"
         }
       ]
     }
