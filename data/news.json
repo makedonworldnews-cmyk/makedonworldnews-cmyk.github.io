@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T02:34:20Z",
+  "updatedAt": "2026-08-22T03:23:13Z",
   "groups": [
     {
       "region": "Македонија",
@@ -95,15 +95,21 @@
         },
         {
           "source": "BBC",
-          "title": "Russian double-tap drone strike kills 16 in Ukrainian mall, officials say",
+          "title": "Russian strikes on Ukraine kill two, officials say, a day after deadly attack on mall",
           "link": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
-          "published": "Sat, 22 Aug 2026 01:47:54 GMT"
+          "published": "Sat, 22 Aug 2026 03:17:29 GMT"
         },
         {
           "source": "BBC",
           "title": "One killed in sword attack at Swedish school",
           "link": "https://www.bbc.co.uk/news/articles/c3r0g7gj2n3o?at_medium=RSS&at_campaign=rss",
           "published": "Fri, 21 Aug 2026 21:03:24 GMT"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Peru rescues people trapped by landslides on highway for nearly a week",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/peru-rescues-people-trapped-by-landslides-on-highway-for-nearly-a-week?traffic_source=rss",
+          "published": "Sat, 22 Aug 2026 02:09:58 +0000"
         },
         {
           "source": "Al Jazeera",
@@ -128,12 +134,6 @@
           "title": "Guyana’s Rodrigues Birkett leads informal poll in race to be next UN leader",
           "link": "https://www.aljazeera.com/news/2026/8/22/guyanas-rodrigues-birkett-leads-informal-poll-in-race-to-be-next-un-leader?traffic_source=rss",
           "published": "Sat, 22 Aug 2026 00:32:35 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Several killed in Russia’s ‘double-tap’ drone strike on Ukraine mall",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/several-killed-in-russias-double-tap-drone-strike-on-ukraine-mall?traffic_source=rss",
-          "published": "Sat, 22 Aug 2026 00:06:48 +0000"
         }
       ]
     }
