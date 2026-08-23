@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T23:58:01Z",
+  "generated_at": "2026-08-23T01:16:39Z",
   "items": [
     {
       "region": "Македонија",
@@ -109,6 +109,20 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "Iran war live: Tehran warns neighbours against joining US economic war",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/8/23/iran-war-live-tehran-warns-neighbours-against-joining-us-economic-war?traffic_source=rss",
+      "published": "Sun, 23 Aug 2026 00:00:00 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Iran threatens countries that join US ‘economic D-Day’",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/iran-threatens-countries-that-join-us-economic-d?traffic_source=rss",
+      "published": "Sat, 22 Aug 2026 23:56:32 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "Iran warns nearby nations against joining US ‘economic war’ efforts",
       "link": "https://www.aljazeera.com/news/2026/8/22/iran-warns-nearby-nations-against-joining-us-economic-war-efforts?traffic_source=rss",
       "published": "Sat, 22 Aug 2026 23:26:15 +0000"
@@ -126,20 +140,6 @@
       "title": "Real Madrid beat Espanyol 2-1 in Jose Mourinho’s first game on return",
       "link": "https://www.aljazeera.com/sports/2026/8/22/real-madrid-beat-espanyol-2-1-in-jose-mourinhos-first-game-on-return?traffic_source=rss",
       "published": "Sat, 22 Aug 2026 21:55:06 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Open-air cinema brings movie nights back to Khartoum",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/08-22-26-sudan-movie-night-sv?traffic_source=rss",
-      "published": "Sat, 22 Aug 2026 21:27:22 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Israeli army and settlers injure several Palestinians across West Bank",
-      "link": "https://www.aljazeera.com/news/2026/8/22/israeli-army-and-settlers-injure-several-palestinians-across-west-bank?traffic_source=rss",
-      "published": "Sat, 22 Aug 2026 21:02:29 +0000"
     }
   ]
 }
