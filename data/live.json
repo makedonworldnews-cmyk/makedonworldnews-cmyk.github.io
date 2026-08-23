@@ -1,6 +1,20 @@
 {
-  "generated_at": "2026-08-23T05:20:44Z",
+  "generated_at": "2026-08-23T05:52:06Z",
   "items": [
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "(Видео) Земјотрес со магнитуда 5,9 ја погоди Јапонија, најмалку 37 повредени",
+      "link": "https://makfax.com.mk/svet/video-zemjotres-so-magnituda-59-ja-pogodi-japonija-najmalku-37-povredeni/",
+      "published": "Sun, 23 Aug 2026 05:51:34 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "Сончево и многу топло, попладне на места пороен дожд и грмежи",
+      "link": "https://makfax.com.mk/makedonija/sonchevo-i-mnogu-toplo-popladne-na-mesta-poroen-dozhd-i-grmezhi/",
+      "published": "Sun, 23 Aug 2026 05:43:39 +0000"
+    },
     {
       "region": "Македонија",
       "source": "Makfax",
@@ -24,17 +38,17 @@
     },
     {
       "region": "Македонија",
-      "source": "Makfax",
-      "title": "Пожарот кај Струмица ставен под контрола, огнот стигнал до дворовите",
-      "link": "https://makfax.com.mk/makedonija/pozharot-kaj-strumica-staven-pod-kontrola-ognot-stignal-do-dvorovite/",
-      "published": "Sat, 22 Aug 2026 19:57:31 +0000"
+      "source": "NetPress",
+      "title": "Над 20 повредени во земјотресот со јачина од 5,9 степени во Јапонија",
+      "link": "https://netpress.com.mk/nad-20-povredeni-vo-zemjotresot-so-jachina-od-59-stepeni-vo-japonija/",
+      "published": "Sun, 23 Aug 2026 05:47:42 +0000"
     },
     {
       "region": "Македонија",
-      "source": "Makfax",
-      "title": "Брентфорд го декласира Тотенхем",
-      "link": "https://makfax.com.mk/sport/brentford-go-deklasira-totenhem/",
-      "published": "Sat, 22 Aug 2026 18:58:06 +0000"
+      "source": "NetPress",
+      "title": "Дневен хороскоп за недела, 23-ти август 2026-та",
+      "link": "https://netpress.com.mk/dneven-horoskop-za-nedela-23-ti-avgust-2026-ta/",
+      "published": "Sun, 23 Aug 2026 05:27:53 +0000"
     },
     {
       "region": "Македонија",
@@ -58,25 +72,11 @@
       "published": "Sat, 22 Aug 2026 22:11:57 +0000"
     },
     {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "ВИДЕО| Тројца повредени кога маж со автомобил косел луѓе па се враќал да ги прегази во БиХ",
-      "link": "https://netpress.com.mk/video-trojcza-povredeni-koga-mazh-so-avtomobil-kosel-luge-pa-se-vrakal-da-gi-pregazi-vo-bih/",
-      "published": "Sat, 22 Aug 2026 21:20:33 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Цивили ранети во израелски напад во Сирија, Израел тврди дека целта бил терорист",
-      "link": "https://netpress.com.mk/czivili-raneti-vo-izraelski-napad-vo-sirija-izrael-tvrdi-deka-czelta-mu-bil-terorist/",
-      "published": "Sat, 22 Aug 2026 21:00:47 +0000"
-    },
-    {
       "region": "Свет",
       "source": "BBC",
-      "title": "Carney says Trump started trade war with fresh tarrifs 'attack'",
+      "title": "Trump says Canada wants 'benefits' of being US state as Carney says countries in trade war",
       "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 22 Aug 2026 20:10:00 GMT"
+      "published": "Sun, 23 Aug 2026 05:46:43 GMT"
     },
     {
       "region": "Свет",
@@ -109,6 +109,13 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "Ex-Colombian president: Restoring Israeli ties applauds Gaza genocide",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/ex-colombian-president-restoring-israeli-ties-applauds-gaza-genocide?traffic_source=rss",
+      "published": "Sun, 23 Aug 2026 05:10:05 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "‘You just can’t trust Trump’: Canadian premiers fire back in trade war",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/you-just-cant-trust-trump-canadian-premiers-fire-back-in-trade-war?traffic_source=rss",
       "published": "Sun, 23 Aug 2026 03:42:22 +0000"
@@ -133,13 +140,6 @@
       "title": "Canada to hit US with retaliatory tariffs as trade war escalates",
       "link": "https://www.aljazeera.com/news/2026/8/23/canada-to-hit-us-with-retaliatory-tariffs-as-trade-war-escalates?traffic_source=rss",
       "published": "Sun, 23 Aug 2026 02:34:49 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Thousands flee Sudan’s Kordofan fighting for relative safety of El Obeid",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/thousands-flee-sudans-kordofan-fighting-for-relative-safety-of-el-obeid?traffic_source=rss",
-      "published": "Sun, 23 Aug 2026 01:51:47 +0000"
     }
   ]
 }
