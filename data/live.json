@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T21:26:26Z",
+  "generated_at": "2026-08-23T21:43:40Z",
   "items": [
     {
       "region": "Македонија",
@@ -39,6 +39,13 @@
     {
       "region": "Македонија",
       "source": "NetPress",
+      "title": "Лига 1: Рен водеше со 2:0, Феран Торес го спаси ПСЖ",
+      "link": "https://netpress.com.mk/liga-1-ren-vodeshe-so-20-feran-tores-go-spasi-pszh/",
+      "published": "Sun, 23 Aug 2026 21:35:14 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "NetPress",
       "title": "Украина не учествуваше во никаква операција поврзана со саботажата на Северниот тек, тврди Зеленски",
       "link": "https://netpress.com.mk/ukraina-ne-uchestvuvashe-vo-nikakva-operaczija-povrzana-so-sabotazhata-na-severniot-tek-tvrdi-zelenski/",
       "published": "Sun, 23 Aug 2026 21:01:37 +0000"
@@ -63,13 +70,6 @@
       "title": "Зеленски тврди дека Путин има намера да регрутира дополнителни 300.000 војници",
       "link": "https://netpress.com.mk/zelenski-tvrdi-deka-putin-ima-namera-da-regrutira-dopolnitelni-300-000-vojniczi/",
       "published": "Sun, 23 Aug 2026 19:46:35 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Петмина повредени, 17 уапсени во судири меѓу мигранти и полиција во Грција",
-      "link": "https://netpress.com.mk/petmina-povredeni-17-uapseni-vo-sudiri-megu-migranti-i-policzija-vo-grczija/",
-      "published": "Sun, 23 Aug 2026 19:32:46 +0000"
     },
     {
       "region": "Свет",
@@ -109,37 +109,37 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "Will Donald Trump’s new sanctions against Iran work?",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/8/23/will-donald-trumps-new-sanctions-against-iran-work?traffic_source=rss",
+      "published": "Sun, 23 Aug 2026 21:34:53 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Serbia requests international assistance to battle wildfires",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/serbia-requests-international-assistance-to-battle-wildfires?traffic_source=rss",
+      "published": "Sun, 23 Aug 2026 21:27:57 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "US envoy Tom Barrack retracts comment that Syria’s Golan is occupied",
+      "link": "https://www.aljazeera.com/news/2026/8/23/us-envoy-tom-barrack-retracts-comment-that-syrias-golan-is-occupied?traffic_source=rss",
+      "published": "Sun, 23 Aug 2026 21:23:05 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Landfill collapse kills 30 in Guinea’s capital after heavy rains",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/landfill-collapse-kills-30-in-guineas-capital-after-heavy-rains?traffic_source=rss",
+      "published": "Sun, 23 Aug 2026 21:08:17 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "Is Israel about to split the occupied West Bank in half?",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/occupied-west-bank-division-ps?traffic_source=rss",
       "published": "Sun, 23 Aug 2026 20:23:01 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Severe winds toss four aircraft across Italian airport tarmac",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/severe-winds-toss-four-aircraft-across-italian-airport-tarmac?traffic_source=rss",
-      "published": "Sun, 23 Aug 2026 20:00:22 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Photos: IndyCars speed past Washington landmarks as part of Freedom 250",
-      "link": "https://www.aljazeera.com/gallery/2026/8/23/photos-indycars-speed-past-washington-landmarks-ahead-of-freedom-250?traffic_source=rss",
-      "published": "Sun, 23 Aug 2026 19:52:12 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Gaza’s hospitals are running out of oxygen as healthcare nears collapse",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/gazas-hospitals-are-running-out-of-oxygen-as-healthcare-nears-collapse?traffic_source=rss",
-      "published": "Sun, 23 Aug 2026 19:40:11 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Two killed after giant Ganesha statue collapses onto crowd in Mumbai",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/two-killed-after-giant-ganesha-statue-collapses-onto-crowd-in-mumbai?traffic_source=rss",
-      "published": "Sun, 23 Aug 2026 19:27:17 +0000"
     }
   ]
 }
