@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T10:56:20Z",
+  "updatedAt": "2026-08-23T11:23:35Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Американските авиони-цистерни се повлекоа од Бугарија по заканите од Иран",
+          "link": "https://makfax.com.mk/svet/evropa/amerikanskite-avioni-cisterni-se-povlekoa-od-bugarija-po-zakanite-od-iran/",
+          "published": "Sun, 23 Aug 2026 11:07:36 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) Петкоска: Македонските аеродроми најбрзорастечки во регионот, за седум месеци 2,4 милиони патници на аеродромите во Скопје и Охрид",
+          "link": "https://makfax.com.mk/makedonija/video-petkoska-makedonskite-aerodromi-najbrzorastechki-vo-regionot-za-sedum-meseci-24-milioni-patnici-na-aerodromite-vo-skopje-i-ohrid/",
+          "published": "Sun, 23 Aug 2026 10:59:12 +0000"
         },
         {
           "source": "Makfax",
@@ -27,18 +39,6 @@
           "title": "(Видео) Цветаноски: Македонија со највисока стапка на западнонилска треска во Европа, тотална неспособност на Клековски и Мицкоски",
           "link": "https://makfax.com.mk/makedonija/video-cvetanoski-makedonija-so-najvisoka-stapka-na-zapadnonilska-treska-vo-evropa-totalna-nesposobnost-na-klekovski-i-mickoski/",
           "published": "Sun, 23 Aug 2026 10:11:36 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "(Видео) Штерјова: Пет години лаги за модуларната, ВМРО и Мицкоски водат монструозна кампања против Филипче",
-          "link": "https://makfax.com.mk/makedonija/video-shterjova-pet-godini-lagi-za-modularnata-vmro-i-mickoski-vodat-monstruozna-kampanja-protiv-filipche/",
-          "published": "Sun, 23 Aug 2026 09:13:41 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "(Видео) Две лица загинаа во силното невреме што го погоди Балтикот, над половина милион домаќинства без струја",
-          "link": "https://makfax.com.mk/svet/video-dve-lica-zaginaa-vo-silnoto-nevreme-shto-go-pogodi-baltikot-nad-polovina-milion-domakinstva-bez-struja/",
-          "published": "Sun, 23 Aug 2026 08:59:17 +0000"
         },
         {
           "source": "NetPress",
