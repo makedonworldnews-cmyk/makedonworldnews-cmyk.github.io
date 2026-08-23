@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T17:04:28Z",
+  "updatedAt": "2026-08-23T17:31:27Z",
   "groups": [
     {
       "region": "Македонија",
@@ -107,6 +107,18 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Photos: Ukraine celebrates National Flag Day",
+          "link": "https://www.aljazeera.com/gallery/2026/8/23/photos-ukraine-observes-national-flag-day?traffic_source=rss",
+          "published": "Sun, 23 Aug 2026 17:18:25 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "LIVE: Elche vs Barcelona – La Liga",
+          "link": "https://www.aljazeera.com/sports/liveblog/2026/8/23/live-elche-vs-barcelona-la-liga?traffic_source=rss",
+          "published": "Sun, 23 Aug 2026 16:50:00 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "French President Macron to host Saudi Crown Prince MBS in Paris for talks",
           "link": "https://www.aljazeera.com/economy/2026/8/23/french-president-macron-to-host-saudi-crown-prince-mbs-in-paris-for-talks?traffic_source=rss",
           "published": "Sun, 23 Aug 2026 16:12:55 +0000"
@@ -122,18 +134,6 @@
           "title": "Canada, US and tit-for-tat tariffs: How will they impact their economies?",
           "link": "https://www.aljazeera.com/news/2026/8/23/canada-us-and-tit-for-tat-tariffs-how-will-it-impact-their-economies?traffic_source=rss",
           "published": "Sun, 23 Aug 2026 15:54:36 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Gaza families search for children missing after years of war",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/gaza-families-search-for-children-missing-after-years-of-war?traffic_source=rss",
-          "published": "Sun, 23 Aug 2026 15:42:04 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Iran’s government signals fuel price hike on eve of new US sanctions",
-          "link": "https://www.aljazeera.com/economy/2026/8/23/iran-government-signals-fuel-price-hike-on-eve-of-new-us-sanctions?traffic_source=rss",
-          "published": "Sun, 23 Aug 2026 15:38:16 +0000"
         }
       ]
     }
