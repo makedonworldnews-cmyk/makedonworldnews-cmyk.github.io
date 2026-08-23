@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T13:58:36Z",
+  "updatedAt": "2026-08-23T14:31:03Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Пропаднаа трговските преговори меѓу САД и Канада, Трамп не успеа да го принуди Отава на отстапки",
+          "link": "https://makfax.com.mk/svet/propadnaa-trgovskite-pregovori-megu-sad-i-kanada-tramp-ne-uspea-da-go-prinudi-otava-na-otstapki/",
+          "published": "Sun, 23 Aug 2026 14:09:27 +0000"
         },
         {
           "source": "Makfax",
@@ -35,10 +41,10 @@
           "published": "Sun, 23 Aug 2026 11:57:41 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Американските авиони-цистерни се повлекоа од Бугарија по заканите од Иран",
-          "link": "https://makfax.com.mk/svet/evropa/amerikanskite-avioni-cisterni-se-povlekoa-od-bugarija-po-zakanite-od-iran/",
-          "published": "Sun, 23 Aug 2026 11:07:36 +0000"
+          "source": "NetPress",
+          "title": "На 4.Меморијален марш „Стамен Каровски“ околу 120 планинари се искачија на врвот „Панаѓур“ на Пониква",
+          "link": "https://netpress.com.mk/na-4-memorijalen-marsh-stamen-karovski-okolu-100-planinari-se-iskachija-na-vrvot-panagur-na-ponikva/",
+          "published": "Sun, 23 Aug 2026 14:16:12 +0000"
         },
         {
           "source": "NetPress",
@@ -63,12 +69,6 @@
           "title": "Јапонија го влече НАТО на Далечниот Исток",
           "link": "https://netpress.com.mk/japonija-go-vleche-nato-na-dalechniot-istok/",
           "published": "Sun, 23 Aug 2026 12:28:27 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Зеленски: Избори во моментов се цунами што ќе ја подели Украина",
-          "link": "https://netpress.com.mk/zelenski-izbori-vo-momentov-se-czunami-shto-ke-ja-podeli-ukraina/",
-          "published": "Sun, 23 Aug 2026 11:56:01 +0000"
         }
       ]
     },
@@ -107,6 +107,12 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Nordic nations ‘have lost confidence in Infantino’, demand FIFA reforms",
+          "link": "https://www.aljazeera.com/sports/2026/8/23/nordic-nations-have-lost-confidence-in-infantino-demand-fifa-reforms?traffic_source=rss",
+          "published": "Sun, 23 Aug 2026 13:50:02 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "The Suez Crisis stopped the British Empire. Will Hormuz defeat the US?",
           "link": "https://www.aljazeera.com/video/deja-vu-2/2026/8/23/the-suez-crisis-stopped-the-british-empire-will-hormuz-defeat-the-us?traffic_source=rss",
           "published": "Sun, 23 Aug 2026 13:37:50 +0000"
@@ -128,12 +134,6 @@
           "title": "Dozens of attacks in southern Thailand wound three people",
           "link": "https://www.aljazeera.com/news/2026/8/23/dozens-of-attacks-in-southern-thailand-wound-three-people?traffic_source=rss",
           "published": "Sun, 23 Aug 2026 13:08:37 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "AI fraud costing victims millions of dollars",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/ai-fraud-costing-victims-millions-of-dollars?traffic_source=rss",
-          "published": "Sun, 23 Aug 2026 13:08:06 +0000"
         }
       ]
     }
