@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T08:40:02Z",
+  "updatedAt": "2026-08-23T09:03:06Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) Две лица загинаа во силното невреме што го погоди Балтикот, над половина милион домаќинства без струја",
+          "link": "https://makfax.com.mk/svet/video-dve-lica-zaginaa-vo-silnoto-nevreme-shto-go-pogodi-baltikot-nad-polovina-milion-domakinstva-bez-struja/",
+          "published": "Sun, 23 Aug 2026 08:59:17 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) Ангелов: За малку ќе отидеше цело Бонче, доброволните пожарникари го спасија селото",
+          "link": "https://makfax.com.mk/makedonija/angelov-za-malku-ke-otideshe-celo-bonche-dobrovolnite-pozharnikari-go-spasija-seloto/",
+          "published": "Sun, 23 Aug 2026 08:48:05 +0000"
         },
         {
           "source": "Makfax",
@@ -29,16 +41,22 @@
           "published": "Sun, 23 Aug 2026 07:32:59 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "ВМРО-ДПМНЕ: 28 нови директни авиолинии од македонските аеродроми, Владата ја забрзува поврзаноста со нови авиодестинации",
-          "link": "https://makfax.com.mk/makedonija/vmro-dpmne-28-novi-direktni-aviolinii-od-makedonskite-aerodromi-vladata-ja-zabrzuva-povrzanosta-so-novi-aviodestinacii/",
-          "published": "Sun, 23 Aug 2026 07:29:39 +0000"
+          "source": "NetPress",
+          "title": "Регистриран 31 пожар на отворено во изминатото деноноќие, осум се активни",
+          "link": "https://netpress.com.mk/registriran-31-pozhar-na-otvoreno-vo-izminatoto-denonokie-osum-se-aktivni/",
+          "published": "Sun, 23 Aug 2026 09:01:06 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "СДСМ: Мицкоски и Клековски шират паника со тоа што 6 недели не објавуваат документ за водата во Гостивар",
-          "link": "https://makfax.com.mk/makedonija/sdsm-mickoski-i-klekovski-shirat-panika-so-toa-shto-6-nedeli-ne-objavuvaat-dokument-za-vodata-vo-gostivar/",
-          "published": "Sun, 23 Aug 2026 07:27:25 +0000"
+          "source": "NetPress",
+          "title": "Избегната катастрофа, пожарот во прилепско Бонче се приближил до куќите",
+          "link": "https://netpress.com.mk/izbegnata-katastrofa-pozharot-vo-prilepsko-bonche-se-priblizhil-do-kukite/",
+          "published": "Sun, 23 Aug 2026 08:53:50 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Обвинителот Абази го спаси Филипче од одговорност за модуларната болница во Тетово",
+          "link": "https://netpress.com.mk/obvinitelot-abazi-go-spasi-filipche-od-odgovornost-za-modularnata-bolnicza-vo-tetovo/",
+          "published": "Sun, 23 Aug 2026 08:46:31 +0000"
         },
         {
           "source": "NetPress",
@@ -51,24 +69,6 @@
           "title": "Воведени 28 нови авиолинии од македонските аеродроми, Владата ја забрзува поврзаноста со нови авиодестинации",
           "link": "https://netpress.com.mk/vovedeni-28-novi-aviolinii-od-makedonskite-aerodromi-vladata-ja-zabrzuva-povrzanosta-so-novi-aviodestinaczii/",
           "published": "Sun, 23 Aug 2026 08:37:09 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Мнозинство Германци очекуваат Мерц да биде сменет пред следните избори",
-          "link": "https://netpress.com.mk/mnozinstvo-germanczi-ochekuvaat-mercz-da-bide-smenet-pred-slednite-izbori/",
-          "published": "Sun, 23 Aug 2026 07:38:14 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Грција: Повеќе туристи во јуни, но помалку приходи од нив",
-          "link": "https://netpress.com.mk/grczija-poveke-turisti-vo-juni-no-pomalku-prihodi-od-niv/",
-          "published": "Sun, 23 Aug 2026 07:12:03 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Јужнокорејски брод првпат плови кон Европа преку Арктикот",
-          "link": "https://netpress.com.mk/juzhnokorejski-brod-prvpat-plovi-kon-evropa-preku-arktikot/",
-          "published": "Sun, 23 Aug 2026 06:47:46 +0000"
         }
       ]
     },
@@ -91,7 +91,7 @@
           "source": "BBC",
           "title": "Zelensky has 'questions to answer' about corruption in his government, sacked minister tells BBC",
           "link": "https://www.bbc.co.uk/news/articles/cwy4ypzvd7po?at_medium=RSS&at_campaign=rss",
-          "published": "Sun, 23 Aug 2026 08:36:53 GMT"
+          "published": "Sun, 23 Aug 2026 08:47:47 GMT"
         },
         {
           "source": "BBC",
