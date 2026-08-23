@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T02:37:31Z",
+  "generated_at": "2026-08-23T03:32:16Z",
   "items": [
     {
       "region": "Македонија",
@@ -109,6 +109,13 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "Chinese robot beats Usain Bolt’s 100m world record at humanoid games",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/chinese-robot-beats-usain-bolts-100m-world-record-at-humanoid-games?traffic_source=rss",
+      "published": "Sun, 23 Aug 2026 03:16:19 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "Canada to hit US with retaliatory tariffs as trade war escalates",
       "link": "https://www.aljazeera.com/news/2026/8/23/canada-to-hit-us-with-retaliatory-tariffs-as-trade-war-escalates?traffic_source=rss",
       "published": "Sun, 23 Aug 2026 02:34:49 +0000"
@@ -133,13 +140,6 @@
       "title": "Iran threatens countries that join US ‘economic D-Day’",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/iran-threatens-countries-that-join-us-economic-d?traffic_source=rss",
       "published": "Sat, 22 Aug 2026 23:56:32 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Iran warns nearby nations against joining US ‘economic war’ efforts",
-      "link": "https://www.aljazeera.com/news/2026/8/22/iran-warns-nearby-nations-against-joining-us-economic-war-efforts?traffic_source=rss",
-      "published": "Sat, 22 Aug 2026 23:26:15 +0000"
     }
   ]
 }
