@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T14:56:59Z",
+  "updatedAt": "2026-08-23T15:27:04Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) Ангелов: Нов силен шумски пожар кај Пехчево, ер-тракторите пренасочени кон границата со Бугарија",
+          "link": "https://makfax.com.mk/makedonija/video-angelov-nov-silen-shumski-pozhar-kaj-pehchevo-er-traktorite-prenasocheni-kon-granicata-so-bugarija/",
+          "published": "Sun, 23 Aug 2026 15:00:29 +0000"
         },
         {
           "source": "Makfax",
@@ -33,12 +39,6 @@
           "title": "Голем шумски пожар кај Бигла, во гаснењето се вклучуваат три „Ер трактори“ и хеликоптер",
           "link": "https://makfax.com.mk/makedonija/golem-shumski-pozhar-kaj-bigla-vo-gasnenjeto-se-vkluchuvaat-tri-er-traktori-i-helikopter/",
           "published": "Sun, 23 Aug 2026 12:10:41 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Зеленски: Најреален период за крај на војната е до следното лето",
-          "link": "https://makfax.com.mk/svet/zelenski-najrealen-period-za-kraj-na-vojnata-e-do-slednoto-leto/",
-          "published": "Sun, 23 Aug 2026 11:57:41 +0000"
         },
         {
           "source": "NetPress",
@@ -101,9 +101,9 @@
         },
         {
           "source": "BBC",
-          "title": "The hotel booking mix-up that could free mushroom murderer",
-          "link": "https://www.bbc.co.uk/news/articles/c9w09dj7qk5o?at_medium=RSS&at_campaign=rss",
-          "published": "Sat, 22 Aug 2026 19:03:03 GMT"
+          "title": "France links rise in drownings to heatwaves",
+          "link": "https://www.bbc.co.uk/news/articles/cqlxlp4lx9yo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 23 Aug 2026 15:00:17 GMT"
         },
         {
           "source": "Al Jazeera",
