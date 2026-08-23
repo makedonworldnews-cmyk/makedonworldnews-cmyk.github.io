@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T12:01:07Z",
+  "updatedAt": "2026-08-23T12:58:27Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Голем шумски пожар кај Бигла, во гаснењето се вклучуваат три „Ер трактори“ и хеликоптер",
+          "link": "https://makfax.com.mk/makedonija/golem-shumski-pozhar-kaj-bigla-vo-gasnenjeto-se-vkluchuvaat-tri-er-traktori-i-helikopter/",
+          "published": "Sun, 23 Aug 2026 12:10:41 +0000"
         },
         {
           "source": "Makfax",
@@ -35,10 +41,16 @@
           "published": "Sun, 23 Aug 2026 10:54:29 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Македонските граѓани повторно можат да аплицираат за имигрантски визи за САД",
-          "link": "https://makfax.com.mk/makedonija/makedonskite-gragani-povtorno-mozhat-da-apliciraat-za-imigrantski-vizi-za-sad/",
-          "published": "Sun, 23 Aug 2026 10:45:43 +0000"
+          "source": "NetPress",
+          "title": "Пукање во Арачиново, двајца повредени",
+          "link": "https://netpress.com.mk/pukane-vo-arachinovo-dvajcza-povredeni/",
+          "published": "Sun, 23 Aug 2026 12:50:00 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Јапонија го влече НАТО на Далечниот Исток",
+          "link": "https://netpress.com.mk/japonija-go-vleche-nato-na-dalechniot-istok/",
+          "published": "Sun, 23 Aug 2026 12:28:27 +0000"
         },
         {
           "source": "NetPress",
@@ -57,18 +69,6 @@
           "title": "Голем пожар што беснее во Србија се шири кон Македонија",
           "link": "https://netpress.com.mk/golem-pozhar-shto-besnee-vo-srbija-se-shiri-kon-makedonija/",
           "published": "Sun, 23 Aug 2026 10:47:01 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Продолжуваат археолошките ископувања на Самуиловата тврдина во Охрид",
-          "link": "https://netpress.com.mk/prodolzhuvaat-arheoloshkite-iskopuvana-na-samuilovata-tvrdina-vo-ohrid/",
-          "published": "Sun, 23 Aug 2026 10:40:44 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Силна бура ги зафати балтичките држави и одзеде два животи",
-          "link": "https://netpress.com.mk/silna-bura-gi-zafati-baltichkite-drzhavi-i-odzede-dva-zhivoti/",
-          "published": "Sun, 23 Aug 2026 10:34:44 +0000"
         }
       ]
     },
@@ -83,9 +83,9 @@
         },
         {
           "source": "BBC",
-          "title": "Zelensky has 'questions to answer' about corruption in his government, sacked minister tells BBC",
+          "title": "Zelensky should be asked what he knew about government corruption, sacked minister tells BBC",
           "link": "https://www.bbc.co.uk/news/articles/cwy4ypzvd7po?at_medium=RSS&at_campaign=rss",
-          "published": "Sun, 23 Aug 2026 09:37:05 GMT"
+          "published": "Sun, 23 Aug 2026 12:56:43 GMT"
         },
         {
           "source": "BBC",
@@ -107,33 +107,33 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Zelenskyy says wartime elections could ‘destroy’ Ukraine",
+          "link": "https://www.aljazeera.com/news/2026/8/23/zelenskyy-says-wartime-elections-could-destroy-ukraine?traffic_source=rss",
+          "published": "Sun, 23 Aug 2026 12:19:12 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "DR Congo miners risk Ebola to make a living",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/dr-congo-miners-risk-ebola-to-make-a-living?traffic_source=rss",
+          "published": "Sun, 23 Aug 2026 12:13:20 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Real Madrid’s Mourinho condemns bullying of Vinicius after La Liga win",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/real-madrids-mourinho-condemns-bullying-of-vinicius-after-la-liga-win?traffic_source=rss",
+          "published": "Sun, 23 Aug 2026 12:13:04 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "US Senate nominee Abdul El-Sayed rebuts criticism from JD Vance",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/us-senate-nominee-abdul-el-sayed-rebuts-criticism-from-jd-vance?traffic_source=rss",
+          "published": "Sun, 23 Aug 2026 12:02:08 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Can Iran retaliate against countries that join US ‘economic war’?",
           "link": "https://www.aljazeera.com/news/2026/8/23/can-iran-retaliate-against-countries-that-join-us-economic-war?traffic_source=rss",
           "published": "Sun, 23 Aug 2026 11:50:22 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Sydney Marathon organisers not running away from ‘unfortunate’ medal error",
-          "link": "https://www.aljazeera.com/sports/2026/8/23/sydney-marathon-organisers-not-running-away-from-unfortunate-medal-error?traffic_source=rss",
-          "published": "Sun, 23 Aug 2026 11:44:18 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Explosion injures 13 in Taiwan",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/explosion-injures-13-in-taiwan?traffic_source=rss",
-          "published": "Sun, 23 Aug 2026 11:06:38 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Israel’s war on Gaza forces Palestinians to rely on ‘Stone Age’ toilets",
-          "link": "https://www.aljazeera.com/features/2026/8/23/israels-war-on-gaza-forces-palestinians-to-rely-on-stone-age-toilets?traffic_source=rss",
-          "published": "Sun, 23 Aug 2026 11:00:18 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Mourinho decries alleged bullying of Vinicius in Real’s win at Espanyol",
-          "link": "https://www.aljazeera.com/sports/2026/8/23/mourinho-decries-alleged-bullying-of-vinicius-in-reals-win-at-espanyol?traffic_source=rss",
-          "published": "Sun, 23 Aug 2026 10:56:21 +0000"
         }
       ]
     }
