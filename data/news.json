@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T19:47:45Z",
+  "updatedAt": "2026-08-23T20:00:25Z",
   "groups": [
     {
       "region": "Македонија",
@@ -107,6 +107,12 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Gaza’s hospitals are running out of oxygen as healthcare nears collapse",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/gazas-hospitals-are-running-out-of-oxygen-as-healthcare-nears-collapse?traffic_source=rss",
+          "published": "Sun, 23 Aug 2026 19:40:11 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Two killed after giant Ganesha statue collapses onto crowd in Mumbai",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/two-killed-after-giant-ganesha-statue-collapses-onto-crowd-in-mumbai?traffic_source=rss",
           "published": "Sun, 23 Aug 2026 19:27:17 +0000"
@@ -128,12 +134,6 @@
           "title": "Video: Thousands of families flee fighting in Sudan’s North Kordofan State",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/video-thousands-of-families-flee-fighting-in-sudans-north-kordofan-state?traffic_source=rss",
           "published": "Sun, 23 Aug 2026 18:27:46 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Trump has ‘run out of options’ in Iran war: Stephen Walt",
-          "link": "https://www.aljazeera.com/video/the-bottom-line/2026/8/23/trump-has-run-out-of-options-in-iran-war-stephen-walt?traffic_source=rss",
-          "published": "Sun, 23 Aug 2026 18:15:22 +0000"
         }
       ]
     }
