@@ -1,6 +1,13 @@
 {
-  "generated_at": "2026-08-23T16:44:07Z",
+  "generated_at": "2026-08-23T17:02:27Z",
   "items": [
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "(Фото+видео) Силно невреме во Полска: поплавени улици и објекти, паднати дрвја, без струја речиси 20.000 домаќинства",
+      "link": "https://makfax.com.mk/svet/foto-video-silno-nevreme-ja-pogodi-polska-poplaveni-ulici-i-objekti-padnati-drvja-bez-struja-rechisi-20-000-domakinstva/",
+      "published": "Sun, 23 Aug 2026 16:53:07 +0000"
+    },
     {
       "region": "Македонија",
       "source": "Makfax",
@@ -31,10 +38,10 @@
     },
     {
       "region": "Македонија",
-      "source": "Makfax",
-      "title": "Пропаднаа трговските преговори меѓу САД и Канада, Трамп не успеа да го принуди Отава на отстапки",
-      "link": "https://makfax.com.mk/svet/propadnaa-trgovskite-pregovori-megu-sad-i-kanada-tramp-ne-uspea-da-go-prinudi-otava-na-otstapki/",
-      "published": "Sun, 23 Aug 2026 14:09:27 +0000"
+      "source": "NetPress",
+      "title": "Мир преку сила, вели претседателот на Тајван на годишнината од битката со Кина",
+      "link": "https://netpress.com.mk/mir-preku-sila-veli-pretsedatelot-na-tajvan-na-godishninata-od-bitkata-so-kina/",
+      "published": "Sun, 23 Aug 2026 16:58:29 +0000"
     },
     {
       "region": "Македонија",
@@ -63,13 +70,6 @@
       "title": "Делчевец палел гуми во дворот, па потпалил борова шума",
       "link": "https://netpress.com.mk/delchevecz-palel-gumi-vo-dvorot-pa-potpalil-borova-shuma/",
       "published": "Sun, 23 Aug 2026 13:00:57 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Пукање во Арачиново, двајца повредени",
-      "link": "https://netpress.com.mk/pukane-vo-arachinovo-dvajcza-povredeni/",
-      "published": "Sun, 23 Aug 2026 12:50:00 +0000"
     },
     {
       "region": "Свет",
@@ -109,6 +109,13 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "LIVE: Elche vs Barcelona – La Liga",
+      "link": "https://www.aljazeera.com/sports/liveblog/2026/8/23/live-elche-vs-barcelona-la-liga?traffic_source=rss",
+      "published": "Sun, 23 Aug 2026 16:50:00 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "French President Macron to host Saudi Crown Prince MBS in Paris for talks",
       "link": "https://www.aljazeera.com/economy/2026/8/23/french-president-macron-to-host-saudi-crown-prince-mbs-in-paris-for-talks?traffic_source=rss",
       "published": "Sun, 23 Aug 2026 16:12:55 +0000"
@@ -133,13 +140,6 @@
       "title": "Gaza families search for children missing after years of war",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/gaza-families-search-for-children-missing-after-years-of-war?traffic_source=rss",
       "published": "Sun, 23 Aug 2026 15:42:04 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Iran’s government signals fuel price hike on eve of new US sanctions",
-      "link": "https://www.aljazeera.com/economy/2026/8/23/iran-government-signals-fuel-price-hike-on-eve-of-new-us-sanctions?traffic_source=rss",
-      "published": "Sun, 23 Aug 2026 15:38:16 +0000"
     }
   ]
 }
