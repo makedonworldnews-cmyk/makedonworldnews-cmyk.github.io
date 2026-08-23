@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T03:34:44Z",
+  "updatedAt": "2026-08-23T04:20:10Z",
   "groups": [
     {
       "region": "Македонија",
@@ -77,7 +77,7 @@
       "items": [
         {
           "source": "BBC",
-          "title": "Carney calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse",
+          "title": "Carney say Trump started trade war with fresh tarrifs 'attack'",
           "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
           "published": "Sat, 22 Aug 2026 20:10:00 GMT"
         },
@@ -107,6 +107,18 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "‘You just can’t trust Trump’: Canadian premiers fire back in trade war",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/you-just-cant-trust-trump-canadian-premiers-fire-back-in-trade-war?traffic_source=rss",
+          "published": "Sun, 23 Aug 2026 03:42:22 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "In rural Chad, solar kiosks bring healthcare closer",
+          "link": "https://www.aljazeera.com/news/2026/8/23/in-rural-chad-solar-kiosks-bring-healthcare-closer?traffic_source=rss",
+          "published": "Sun, 23 Aug 2026 03:21:03 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Chinese robot beats Usain Bolt’s 100m world record at humanoid games",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/chinese-robot-beats-usain-bolts-100m-world-record-at-humanoid-games?traffic_source=rss",
           "published": "Sun, 23 Aug 2026 03:16:19 +0000"
@@ -122,18 +134,6 @@
           "title": "Thousands flee Sudan’s Kordofan fighting for relative safety of El Obeid",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/thousands-flee-sudans-kordofan-fighting-for-relative-safety-of-el-obeid?traffic_source=rss",
           "published": "Sun, 23 Aug 2026 01:51:47 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Iran war live: Tehran warns neighbours against joining US economic war",
-          "link": "https://www.aljazeera.com/news/liveblog/2026/8/23/iran-war-live-tehran-warns-neighbours-against-joining-us-economic-war?traffic_source=rss",
-          "published": "Sun, 23 Aug 2026 00:00:00 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Iran threatens countries that join US ‘economic D-Day’",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/iran-threatens-countries-that-join-us-economic-d?traffic_source=rss",
-          "published": "Sat, 22 Aug 2026 23:56:32 +0000"
         }
       ]
     }
