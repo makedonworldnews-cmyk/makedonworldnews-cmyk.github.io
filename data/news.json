@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T17:31:27Z",
+  "updatedAt": "2026-08-23T17:53:05Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) Собослај во 99-та минута спречи пораз на Ливерпул во Њукасл",
+          "link": "https://makfax.com.mk/sport/video-soboslaj-vo-99-ta-minuta-sprechi-poraz-na-liverpul-vo-njukasl/",
+          "published": "Sun, 23 Aug 2026 17:50:02 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Пожарот во борова шума кај Црник е под контрола",
+          "link": "https://makfax.com.mk/makedonija/pozharot-vo-borova-shuma-kaj-crnik-e-pod-kontrola/",
+          "published": "Sun, 23 Aug 2026 17:41:37 +0000"
         },
         {
           "source": "Makfax",
@@ -29,16 +41,16 @@
           "published": "Sun, 23 Aug 2026 15:42:03 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "(Видео) Сити во 91-та минута го скрши Борнмут, Брајтон ја декласира Астон Вила",
-          "link": "https://makfax.com.mk/sport/video-siti-vo-91-ta-minuta-go-skrshi-bornmut-brajton-ja-deklasira-aston-vila/",
-          "published": "Sun, 23 Aug 2026 15:32:23 +0000"
+          "source": "NetPress",
+          "title": "Фирмула1: Норис победи, Антонели втор, Верстапен испадна во Холандија",
+          "link": "https://netpress.com.mk/firmula1-noris-pobedi-antoneli-vtor-verstapen-ispadna-vo-holandija/",
+          "published": "Sun, 23 Aug 2026 17:45:27 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "(Видео) Ангелов: Нов силен шумски пожар кај Пехчево, ер-тракторите пренасочени кон границата со Бугарија",
-          "link": "https://makfax.com.mk/makedonija/video-angelov-nov-silen-shumski-pozhar-kaj-pehchevo-er-traktorite-prenasocheni-kon-granicata-so-bugarija/",
-          "published": "Sun, 23 Aug 2026 15:00:29 +0000"
+          "source": "NetPress",
+          "title": "Пијаното и микрофонот на Фреди Меркјури одат на аукција",
+          "link": "https://netpress.com.mk/pijanoto-i-mikrofonot-na-fredi-merkjuri-odat-na-aukczija/",
+          "published": "Sun, 23 Aug 2026 17:33:12 +0000"
         },
         {
           "source": "NetPress",
@@ -57,18 +69,6 @@
           "title": "На 4.Меморијален марш „Стамен Каровски“ околу 120 планинари се искачија на врвот „Панаѓур“ на Пониква",
           "link": "https://netpress.com.mk/na-4-memorijalen-marsh-stamen-karovski-okolu-100-planinari-se-iskachija-na-vrvot-panagur-na-ponikva/",
           "published": "Sun, 23 Aug 2026 14:16:12 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Во Србија уапсен „платен убиец“ од Македонија поврзан со кавачкиот клан",
-          "link": "https://netpress.com.mk/vo-srbija-uapsen-platen-ubiecz-od-makedonija-povrzan-so-kavachkiot-klan/",
-          "published": "Sun, 23 Aug 2026 13:18:58 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Делчевец палел гуми во дворот, па потпалил борова шума",
-          "link": "https://netpress.com.mk/delchevecz-palel-gumi-vo-dvorot-pa-potpalil-borova-shuma/",
-          "published": "Sun, 23 Aug 2026 13:00:57 +0000"
         }
       ]
     },
@@ -97,13 +97,19 @@
           "source": "BBC",
           "title": "Trump arrives at high-speed IndyCar race through Washington's streets",
           "link": "https://www.bbc.co.uk/news/articles/c0qvq24vlj4o?at_medium=RSS&at_campaign=rss",
-          "published": "Sun, 23 Aug 2026 16:57:05 GMT"
+          "published": "Sun, 23 Aug 2026 17:31:29 GMT"
         },
         {
           "source": "BBC",
           "title": "Dozens of co-ordinated arson attacks hit southern Thailand",
           "link": "https://www.bbc.co.uk/news/articles/c8enegx4xy3o?at_medium=RSS&at_campaign=rss",
           "published": "Sun, 23 Aug 2026 11:50:59 GMT"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Landfill collapse in Guinea kills at least 22 people",
+          "link": "https://www.aljazeera.com/news/2026/8/23/landfill-collapse-in-guinea-kills-at-least-22-people-official-says?traffic_source=rss",
+          "published": "Sun, 23 Aug 2026 17:35:01 +0000"
         },
         {
           "source": "Al Jazeera",
@@ -128,12 +134,6 @@
           "title": "Can Nigeria cash in on Iran war?",
           "link": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/8/23/can-nigeria-cash-in-on-iran-war?traffic_source=rss",
           "published": "Sun, 23 Aug 2026 16:07:01 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Canada, US and tit-for-tat tariffs: How will they impact their economies?",
-          "link": "https://www.aljazeera.com/news/2026/8/23/canada-us-and-tit-for-tat-tariffs-how-will-it-impact-their-economies?traffic_source=rss",
-          "published": "Sun, 23 Aug 2026 15:54:36 +0000"
         }
       ]
     }
