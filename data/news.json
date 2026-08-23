@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T07:58:59Z",
+  "updatedAt": "2026-08-23T08:40:02Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Ирански хакери првпат успеале да исклучат британска електрана, објектот бил надвор од функција четири дена",
+          "link": "https://makfax.com.mk/svet/iranski-hakeri-prvpat-uspeale-da-iskluchat-britanska-elektrana-objektot-bil-nadvor-od-funkcija-chetiri-dena/",
+          "published": "Sun, 23 Aug 2026 08:06:09 +0000"
         },
         {
           "source": "Makfax",
@@ -35,10 +41,16 @@
           "published": "Sun, 23 Aug 2026 07:27:25 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Ангелов: Пламените јазици дојдоа до куќите во Бонче, избегната е голема трагедија",
-          "link": "https://makfax.com.mk/top/plamenite-jazici-stignale-do-kukite-vo-bonche-izbegnata-golema-tragedija/",
-          "published": "Sun, 23 Aug 2026 07:22:03 +0000"
+          "source": "NetPress",
+          "title": "Светските берзи паднаа, цените на нафтата и приносите од обврзниците пораснаа",
+          "link": "https://netpress.com.mk/svetskite-berzi-padnaa-czenite-na-naftata-i-prinosite-od-obvrzniczite-porasnaa/",
+          "published": "Sun, 23 Aug 2026 08:37:16 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Воведени 28 нови авиолинии од македонските аеродроми, Владата ја забрзува поврзаноста со нови авиодестинации",
+          "link": "https://netpress.com.mk/vovedeni-28-novi-aviolinii-od-makedonskite-aerodromi-vladata-ja-zabrzuva-povrzanosta-so-novi-aviodestinaczii/",
+          "published": "Sun, 23 Aug 2026 08:37:09 +0000"
         },
         {
           "source": "NetPress",
@@ -57,18 +69,6 @@
           "title": "Јужнокорејски брод првпат плови кон Европа преку Арктикот",
           "link": "https://netpress.com.mk/juzhnokorejski-brod-prvpat-plovi-kon-evropa-preku-arktikot/",
           "published": "Sun, 23 Aug 2026 06:47:46 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Стапи во сила трговскиот договор меѓу ОАЕ и Русија",
-          "link": "https://netpress.com.mk/stapi-vo-sila-trgovskiot-dogovor-megu-oae-i-rusija/",
-          "published": "Sun, 23 Aug 2026 06:27:45 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Салвини порача дека Италија нема да прифаќа мигранти вратени од Германија",
-          "link": "https://netpress.com.mk/salvini-poracha-deka-italija-nema-da-prifaka-migranti-vrateni-od-germanija/",
-          "published": "Sun, 23 Aug 2026 06:07:17 +0000"
         }
       ]
     },
@@ -89,9 +89,15 @@
         },
         {
           "source": "BBC",
-          "title": "Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' Russian strike",
-          "link": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
-          "published": "Sat, 22 Aug 2026 13:13:16 GMT"
+          "title": "Zelensky has 'questions to answer' about corruption in his government, sacked minister tells BBC",
+          "link": "https://www.bbc.co.uk/news/articles/cwy4ypzvd7po?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 23 Aug 2026 08:36:53 GMT"
+        },
+        {
+          "source": "BBC",
+          "title": "Girl, 17, killed in Swedish sword attack, police say",
+          "link": "https://www.bbc.co.uk/news/articles/c8jnjp0lwlwo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 23 Aug 2026 01:34:15 GMT"
         },
         {
           "source": "BBC",
@@ -100,40 +106,34 @@
           "published": "Sat, 22 Aug 2026 14:35:11 GMT"
         },
         {
-          "source": "BBC",
-          "title": "Syria says Israeli strike near Damascus violation of international law",
-          "link": "https://www.bbc.co.uk/news/articles/c2dkdegr2xeo?at_medium=RSS&at_campaign=rss",
-          "published": "Sat, 22 Aug 2026 21:42:42 GMT"
+          "source": "Al Jazeera",
+          "title": "Flooding across Caracas, Venezuela, after heavy rains",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/flooding-across-caracas-venezuela-after-heavy-rains?traffic_source=rss",
+          "published": "Sun, 23 Aug 2026 08:08:27 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Photos: Russia celebrates National Flag Day amid war and tensions with the West",
+          "link": "https://www.aljazeera.com/gallery/2026/8/23/photos-russia-celebrates-national-flag-day-amid-war-and-tensions-with-the-west?traffic_source=rss",
+          "published": "Sun, 23 Aug 2026 08:07:54 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "DR Congo, M23 rebels agree on roadmap for peace talks",
+          "link": "https://www.aljazeera.com/news/2026/8/23/dr-congo-m23-rebels-agree-on-roadmap-for-peace-talks?traffic_source=rss",
+          "published": "Sun, 23 Aug 2026 08:03:41 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Kazakhstan holds parliamentary election expected to cement president’s grip",
+          "link": "https://www.aljazeera.com/news/2026/8/23/kazakhstan-holds-parliamentary-election-expected-to-cement-presidents-grip?traffic_source=rss",
+          "published": "Sun, 23 Aug 2026 07:38:42 +0000"
         },
         {
           "source": "Al Jazeera",
           "title": "Infantino defies FIFA vice president, makes appearance in the Caribbean",
           "link": "https://www.aljazeera.com/sports/2026/8/23/infantino-defies-fifa-makes-rare-appearance-at-youth-event-amid-furor?traffic_source=rss",
           "published": "Sun, 23 Aug 2026 07:22:37 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Serena Williams teams up with Carlos Alcaraz in US Open mixed doubles",
-          "link": "https://www.aljazeera.com/sports/2026/8/23/serena-williams-teams-up-with-carlos-alcaraz-in-us-open-mixed-doubles?traffic_source=rss",
-          "published": "Sun, 23 Aug 2026 06:59:51 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Starc takes 10 as Australia hand Bangladesh innings defeat in second Test",
-          "link": "https://www.aljazeera.com/sports/2026/8/23/starc-takes-10-as-australia-hand-bangladesh-innings-defeat-in-second-test?traffic_source=rss",
-          "published": "Sun, 23 Aug 2026 06:48:34 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Pegula dethrones Swiatek to book Cincinnati final against Gauff",
-          "link": "https://www.aljazeera.com/sports/2026/8/23/pegula-dethrones-swiatek-to-book-cincinnati-final-against-gauff?traffic_source=rss",
-          "published": "Sun, 23 Aug 2026 06:15:50 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Kazakhstan parliamentary elections begin: What’s at stake?",
-          "link": "https://www.aljazeera.com/news/2026/8/23/kazakhstan-parliamentary-elections-begin-whats-at-stake?traffic_source=rss",
-          "published": "Sun, 23 Aug 2026 05:55:10 +0000"
         }
       ]
     }
