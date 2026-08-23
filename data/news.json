@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T16:07:57Z",
+  "updatedAt": "2026-08-23T16:41:48Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "(Фото+видео) 300 луѓе на терен го гаснат големиот пожар кај Бигла",
+          "link": "https://makfax.com.mk/makedonija/foto-video-300-luge-na-teren-go-gasnat-golemiot-pozhar-kaj-bigla/",
+          "published": "Sun, 23 Aug 2026 16:38:53 +0000"
         },
         {
           "source": "Makfax",
@@ -33,12 +39,6 @@
           "title": "Пропаднаа трговските преговори меѓу САД и Канада, Трамп не успеа да го принуди Отава на отстапки",
           "link": "https://makfax.com.mk/svet/propadnaa-trgovskite-pregovori-megu-sad-i-kanada-tramp-ne-uspea-da-go-prinudi-otava-na-otstapki/",
           "published": "Sun, 23 Aug 2026 14:09:27 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "„Шумарите“ понудија 82 милиони евра за Игор Тијаго",
-          "link": "https://makfax.com.mk/sport/shumarite-ponudija-82-milioni-evra-za-igor-tijago/",
-          "published": "Sun, 23 Aug 2026 13:22:19 +0000"
         },
         {
           "source": "NetPress",
@@ -107,33 +107,33 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "French President Macron to host Saudi Crown Prince MBS in Paris for talks",
+          "link": "https://www.aljazeera.com/economy/2026/8/23/french-president-macron-to-host-saudi-crown-prince-mbs-in-paris-for-talks?traffic_source=rss",
+          "published": "Sun, 23 Aug 2026 16:12:55 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Can Nigeria cash in on Iran war?",
+          "link": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/8/23/can-nigeria-cash-in-on-iran-war?traffic_source=rss",
+          "published": "Sun, 23 Aug 2026 16:07:01 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Canada, US and tit-for-tat tariffs: How will they impact their economies?",
+          "link": "https://www.aljazeera.com/news/2026/8/23/canada-us-and-tit-for-tat-tariffs-how-will-it-impact-their-economies?traffic_source=rss",
+          "published": "Sun, 23 Aug 2026 15:54:36 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Gaza families search for children missing after years of war",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/gaza-families-search-for-children-missing-after-years-of-war?traffic_source=rss",
           "published": "Sun, 23 Aug 2026 15:42:04 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Iran government signals fuel price hike on eve of new US sanctions",
+          "title": "Iran’s government signals fuel price hike on eve of new US sanctions",
           "link": "https://www.aljazeera.com/economy/2026/8/23/iran-government-signals-fuel-price-hike-on-eve-of-new-us-sanctions?traffic_source=rss",
           "published": "Sun, 23 Aug 2026 15:38:16 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Pezeshkian says Iran ‘has not become Venezuela’ despite war and sanctions",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/23-08-clip-pezeshkian-iran-ir-fm?traffic_source=rss",
-          "published": "Sun, 23 Aug 2026 15:25:47 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "PM Tarique Rahman’s trip stalled: What it means for Bangladesh-India ties",
-          "link": "https://www.aljazeera.com/features/2026/8/23/pm-tarique-rahmans-trip-stalled-what-it-means-for-bangladesh-india-ties?traffic_source=rss",
-          "published": "Sun, 23 Aug 2026 14:17:18 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Nordic nations ‘have lost confidence in Infantino’, demand FIFA reforms",
-          "link": "https://www.aljazeera.com/sports/2026/8/23/nordic-nations-have-lost-confidence-in-infantino-demand-fifa-reforms?traffic_source=rss",
-          "published": "Sun, 23 Aug 2026 13:50:02 +0000"
         }
       ]
     }
