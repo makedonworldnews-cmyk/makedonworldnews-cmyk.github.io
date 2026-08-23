@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T17:53:05Z",
+  "updatedAt": "2026-08-23T18:29:04Z",
   "groups": [
     {
       "region": "Македонија",
@@ -42,6 +42,18 @@
         },
         {
           "source": "NetPress",
+          "title": "Премиер лига: Ливерпул во 99. минута до бод кај Њукасл, пресврт на Сити",
+          "link": "https://netpress.com.mk/premier-liga-liverpul-vo-99-minuta-do-bod-kaj-nukasl-presvrt-na-siti/",
+          "published": "Sun, 23 Aug 2026 18:25:30 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Федоров вели дека Зеленски треба да биде прашан за корупцијата во владата",
+          "link": "https://netpress.com.mk/fedorov-veli-deka-zelenski-treba-da-bide-prashan-za-korupczijata-vo-vladata/",
+          "published": "Sun, 23 Aug 2026 18:08:54 +0000"
+        },
+        {
+          "source": "NetPress",
           "title": "Фирмула1: Норис победи, Антонели втор, Верстапен испадна во Холандија",
           "link": "https://netpress.com.mk/firmula1-noris-pobedi-antoneli-vtor-verstapen-ispadna-vo-holandija/",
           "published": "Sun, 23 Aug 2026 17:45:27 +0000"
@@ -57,18 +69,6 @@
           "title": "Мир преку сила, вели претседателот на Тајван на годишнината од битката со Кина",
           "link": "https://netpress.com.mk/mir-preku-sila-veli-pretsedatelot-na-tajvan-na-godishninata-od-bitkata-so-kina/",
           "published": "Sun, 23 Aug 2026 16:58:29 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Зеленски: Можно е да се стави крај на конфликтот до летото 2027 година",
-          "link": "https://netpress.com.mk/zelenski-mozhno-e-da-se-stavi-kraj-na-konfliktot-do-letoto-2027-godina/",
-          "published": "Sun, 23 Aug 2026 14:57:00 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "На 4.Меморијален марш „Стамен Каровски“ околу 120 планинари се искачија на врвот „Панаѓур“ на Пониква",
-          "link": "https://netpress.com.mk/na-4-memorijalen-marsh-stamen-karovski-okolu-100-planinari-se-iskachija-na-vrvot-panagur-na-ponikva/",
-          "published": "Sun, 23 Aug 2026 14:16:12 +0000"
         }
       ]
     },
@@ -89,25 +89,43 @@
         },
         {
           "source": "BBC",
+          "title": "Guinea rubbish landfill collapse kills 30",
+          "link": "https://www.bbc.co.uk/news/articles/c4g3g36z7p6o?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 23 Aug 2026 18:17:37 GMT"
+        },
+        {
+          "source": "BBC",
           "title": "DR Congo and M23 rebels agree roadmap for peace talks",
           "link": "https://www.bbc.co.uk/news/articles/cre4e1q3wewo?at_medium=RSS&at_campaign=rss",
           "published": "Sun, 23 Aug 2026 12:52:08 GMT"
         },
         {
           "source": "BBC",
-          "title": "Trump arrives at high-speed IndyCar race through Washington's streets",
-          "link": "https://www.bbc.co.uk/news/articles/c0qvq24vlj4o?at_medium=RSS&at_campaign=rss",
-          "published": "Sun, 23 Aug 2026 17:31:29 GMT"
-        },
-        {
-          "source": "BBC",
-          "title": "Dozens of co-ordinated arson attacks hit southern Thailand",
-          "link": "https://www.bbc.co.uk/news/articles/c8enegx4xy3o?at_medium=RSS&at_campaign=rss",
-          "published": "Sun, 23 Aug 2026 11:50:59 GMT"
+          "title": "France links sharp rise in drownings to heatwaves",
+          "link": "https://www.bbc.co.uk/news/articles/cqlxlp4lx9yo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 23 Aug 2026 17:39:33 GMT"
         },
         {
           "source": "Al Jazeera",
-          "title": "Landfill collapse in Guinea kills at least 22 people",
+          "title": "Tunisia sees protests after migrant boat sinking kills eight",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/tunisia-sees-protests-after-migrant-boat-sinking-kills-eight?traffic_source=rss",
+          "published": "Sun, 23 Aug 2026 17:57:48 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Thousands displaced as wildfire threatens homes in US state of Nevada",
+          "link": "https://www.aljazeera.com/news/2026/8/23/thousands-displaced-as-wildfire-threatens-homes-in-us-state-of-nevada?traffic_source=rss",
+          "published": "Sun, 23 Aug 2026 17:55:52 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Iran war: Top US lawmaker says Republicans can ‘absolutely’ win midterms",
+          "link": "https://www.aljazeera.com/news/2026/8/23/iran-war-top-us-lawmaker-says-republicans-can-absolutely-win-midterms?traffic_source=rss",
+          "published": "Sun, 23 Aug 2026 17:53:31 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Landfill collapse in Guinea kills at least 30 people",
           "link": "https://www.aljazeera.com/news/2026/8/23/landfill-collapse-in-guinea-kills-at-least-22-people-official-says?traffic_source=rss",
           "published": "Sun, 23 Aug 2026 17:35:01 +0000"
         },
@@ -116,24 +134,6 @@
           "title": "Photos: Ukraine celebrates National Flag Day",
           "link": "https://www.aljazeera.com/gallery/2026/8/23/photos-ukraine-observes-national-flag-day?traffic_source=rss",
           "published": "Sun, 23 Aug 2026 17:18:25 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "LIVE: Elche vs Barcelona – La Liga",
-          "link": "https://www.aljazeera.com/sports/liveblog/2026/8/23/live-elche-vs-barcelona-la-liga?traffic_source=rss",
-          "published": "Sun, 23 Aug 2026 16:50:00 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "French President Macron to host Saudi Crown Prince MBS in Paris for talks",
-          "link": "https://www.aljazeera.com/economy/2026/8/23/french-president-macron-to-host-saudi-crown-prince-mbs-in-paris-for-talks?traffic_source=rss",
-          "published": "Sun, 23 Aug 2026 16:12:55 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Can Nigeria cash in on Iran war?",
-          "link": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/8/23/can-nigeria-cash-in-on-iran-war?traffic_source=rss",
-          "published": "Sun, 23 Aug 2026 16:07:01 +0000"
         }
       ]
     }
