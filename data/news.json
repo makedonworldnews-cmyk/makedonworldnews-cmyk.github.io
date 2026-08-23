@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T09:03:06Z",
+  "updatedAt": "2026-08-23T09:38:21Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) Штерјова: Пет години лаги за модуларната, ВМРО и Мицкоски водат монструозна кампања против Филипче",
+          "link": "https://makfax.com.mk/makedonija/video-shterjova-pet-godini-lagi-za-modularnata-vmro-i-mickoski-vodat-monstruozna-kampanja-protiv-filipche/",
+          "published": "Sun, 23 Aug 2026 09:13:41 +0000"
         },
         {
           "source": "Makfax",
@@ -35,10 +41,16 @@
           "published": "Sun, 23 Aug 2026 07:41:36 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "СДСМ: Владата има пари за авион – нема за плати",
-          "link": "https://makfax.com.mk/makedonija/sdsm-vladata-ima-pari-za-avion-nema-za-plati/",
-          "published": "Sun, 23 Aug 2026 07:32:59 +0000"
+          "source": "NetPress",
+          "title": "Доларот ослабе во однос на кошничката валути минатата седмица",
+          "link": "https://netpress.com.mk/dolarot-oslabe-vo-odnos-na-koshnichkata-valuti-minatata-sedmicza/",
+          "published": "Sun, 23 Aug 2026 09:37:59 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Данска дополнително ги заострува правилата за украинските бегалци",
+          "link": "https://netpress.com.mk/danska-dopolnitelno-gi-zaostruva-pravilata-za-ukrainskite-begalczi/",
+          "published": "Sun, 23 Aug 2026 09:26:19 +0000"
         },
         {
           "source": "NetPress",
@@ -57,18 +69,6 @@
           "title": "Обвинителот Абази го спаси Филипче од одговорност за модуларната болница во Тетово",
           "link": "https://netpress.com.mk/obvinitelot-abazi-go-spasi-filipche-od-odgovornost-za-modularnata-bolnicza-vo-tetovo/",
           "published": "Sun, 23 Aug 2026 08:46:31 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Светските берзи паднаа, цените на нафтата и приносите од обврзниците пораснаа",
-          "link": "https://netpress.com.mk/svetskite-berzi-padnaa-czenite-na-naftata-i-prinosite-od-obvrzniczite-porasnaa/",
-          "published": "Sun, 23 Aug 2026 08:37:16 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Воведени 28 нови авиолинии од македонските аеродроми, Владата ја забрзува поврзаноста со нови авиодестинации",
-          "link": "https://netpress.com.mk/vovedeni-28-novi-aviolinii-od-makedonskite-aerodromi-vladata-ja-zabrzuva-povrzanosta-so-novi-aviodestinaczii/",
-          "published": "Sun, 23 Aug 2026 08:37:09 +0000"
         }
       ]
     },
@@ -83,15 +83,9 @@
         },
         {
           "source": "BBC",
-          "title": "Carney faces crucial test after walking away from Trump's deal",
-          "link": "https://www.bbc.co.uk/news/articles/c3040pn8lmmo?at_medium=RSS&at_campaign=rss",
-          "published": "Sat, 22 Aug 2026 20:02:46 GMT"
-        },
-        {
-          "source": "BBC",
           "title": "Zelensky has 'questions to answer' about corruption in his government, sacked minister tells BBC",
           "link": "https://www.bbc.co.uk/news/articles/cwy4ypzvd7po?at_medium=RSS&at_campaign=rss",
-          "published": "Sun, 23 Aug 2026 08:47:47 GMT"
+          "published": "Sun, 23 Aug 2026 09:37:05 GMT"
         },
         {
           "source": "BBC",
@@ -104,6 +98,24 @@
           "title": "Father leaves 7-year-old son alone on Mount Fuji to continue hike",
           "link": "https://www.bbc.co.uk/news/articles/c93403wg288o?at_medium=RSS&at_campaign=rss",
           "published": "Sat, 22 Aug 2026 14:35:11 GMT"
+        },
+        {
+          "source": "BBC",
+          "title": "'We're not going to run from it': Sydney Marathon laughs off medal error",
+          "link": "https://www.bbc.co.uk/news/articles/cn4n4l1yyvro?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 23 Aug 2026 03:44:19 GMT"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Where water conflicts pose the biggest threat in 2026",
+          "link": "https://www.aljazeera.com/news/2026/8/23/where-water-conflicts-pose-the-biggest-threat-in-2026?traffic_source=rss",
+          "published": "Sun, 23 Aug 2026 09:13:23 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Israeli wounded in occupied West Bank stabbing",
+          "link": "https://www.aljazeera.com/news/2026/8/23/israeli-wounded-in-occupied-west-bank-stabbing?traffic_source=rss",
+          "published": "Sun, 23 Aug 2026 08:38:01 +0000"
         },
         {
           "source": "Al Jazeera",
@@ -122,18 +134,6 @@
           "title": "DR Congo, M23 rebels agree on roadmap for peace talks",
           "link": "https://www.aljazeera.com/news/2026/8/23/dr-congo-m23-rebels-agree-on-roadmap-for-peace-talks?traffic_source=rss",
           "published": "Sun, 23 Aug 2026 08:03:41 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Kazakhstan holds parliamentary election expected to cement president’s grip",
-          "link": "https://www.aljazeera.com/news/2026/8/23/kazakhstan-holds-parliamentary-election-expected-to-cement-presidents-grip?traffic_source=rss",
-          "published": "Sun, 23 Aug 2026 07:38:42 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Infantino defies FIFA vice president, makes appearance in the Caribbean",
-          "link": "https://www.aljazeera.com/sports/2026/8/23/infantino-defies-fifa-makes-rare-appearance-at-youth-event-amid-furor?traffic_source=rss",
-          "published": "Sun, 23 Aug 2026 07:22:37 +0000"
         }
       ]
     }
