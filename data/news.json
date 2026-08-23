@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T19:28:12Z",
+  "updatedAt": "2026-08-23T19:47:45Z",
   "groups": [
     {
       "region": "Македонија",
@@ -42,6 +42,18 @@
         },
         {
           "source": "NetPress",
+          "title": "Зеленски тврди дека Путин има намера да регрутира дополнителни 300.000 војници",
+          "link": "https://netpress.com.mk/zelenski-tvrdi-deka-putin-ima-namera-da-regrutira-dopolnitelni-300-000-vojniczi/",
+          "published": "Sun, 23 Aug 2026 19:46:35 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Петмина повредени, 17 уапсени во судири меѓу мигранти и полиција во Грција",
+          "link": "https://netpress.com.mk/petmina-povredeni-17-uapseni-vo-sudiri-megu-migranti-i-policzija-vo-grczija/",
+          "published": "Sun, 23 Aug 2026 19:32:46 +0000"
+        },
+        {
+          "source": "NetPress",
           "title": "Еспресото во Италија поскапе за 25 отсто за пет години а цената и натаму расте",
           "link": "https://netpress.com.mk/espresoto-vo-italija-poskape-za-25-otsto-za-pet-godini-a-czenata-i-natamu-raste/",
           "published": "Sun, 23 Aug 2026 18:44:05 +0000"
@@ -57,18 +69,6 @@
           "title": "Федоров вели дека Зеленски треба да биде прашан за корупцијата во владата",
           "link": "https://netpress.com.mk/fedorov-veli-deka-zelenski-treba-da-bide-prashan-za-korupczijata-vo-vladata/",
           "published": "Sun, 23 Aug 2026 18:08:54 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Фирмула1: Норис победи, Антонели втор, Верстапен испадна во Холандија",
-          "link": "https://netpress.com.mk/firmula1-noris-pobedi-antoneli-vtor-verstapen-ispadna-vo-holandija/",
-          "published": "Sun, 23 Aug 2026 17:45:27 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Пијаното и микрофонот на Фреди Меркјури одат на аукција",
-          "link": "https://netpress.com.mk/pijanoto-i-mikrofonot-na-fredi-merkjuri-odat-na-aukczija/",
-          "published": "Sun, 23 Aug 2026 17:33:12 +0000"
         }
       ]
     },
@@ -107,6 +107,12 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Two killed after giant Ganesha statue collapses onto crowd in Mumbai",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/two-killed-after-giant-ganesha-statue-collapses-onto-crowd-in-mumbai?traffic_source=rss",
+          "published": "Sun, 23 Aug 2026 19:27:17 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Zhou Bo: China’s alternative to Western power",
           "link": "https://www.aljazeera.com/video/the-india-report/2026/8/23/zhou-bo-chinas-alternative-to-western-power?traffic_source=rss",
           "published": "Sun, 23 Aug 2026 19:00:56 +0000"
@@ -128,12 +134,6 @@
           "title": "Trump has ‘run out of options’ in Iran war: Stephen Walt",
           "link": "https://www.aljazeera.com/video/the-bottom-line/2026/8/23/trump-has-run-out-of-options-in-iran-war-stephen-walt?traffic_source=rss",
           "published": "Sun, 23 Aug 2026 18:15:22 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Tunisia sees protests after migrant boat sinking kills eight",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/tunisia-sees-protests-after-migrant-boat-sinking-kills-eight?traffic_source=rss",
-          "published": "Sun, 23 Aug 2026 17:57:48 +0000"
         }
       ]
     }
