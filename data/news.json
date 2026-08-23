@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T07:32:40Z",
+  "updatedAt": "2026-08-23T07:58:59Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) Директор на супермаркет под истрага по смртоносниот руски напад во Криви Рих",
+          "link": "https://makfax.com.mk/svet/video-direktor-na-supermarket-pod-istraga-po-smrtonosniot-ruski-napad-vo-krivi-rih/",
+          "published": "Sun, 23 Aug 2026 07:41:36 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "СДСМ: Владата има пари за авион – нема за плати",
+          "link": "https://makfax.com.mk/makedonija/sdsm-vladata-ima-pari-za-avion-nema-za-plati/",
+          "published": "Sun, 23 Aug 2026 07:32:59 +0000"
         },
         {
           "source": "Makfax",
@@ -29,16 +41,10 @@
           "published": "Sun, 23 Aug 2026 07:22:03 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Трамп го прогласи Ормускиот теснец за нова американска територија",
-          "link": "https://makfax.com.mk/svet/tramp-go-proglasi-ormuskiot-tesnec-za-nova-amerikanska-teritorija/",
-          "published": "Sun, 23 Aug 2026 06:15:37 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Осум активни пожари низ земјава",
-          "link": "https://makfax.com.mk/makedonija/osum-aktivni-pozhari-niz-zemjava/",
-          "published": "Sun, 23 Aug 2026 06:05:24 +0000"
+          "source": "NetPress",
+          "title": "Мнозинство Германци очекуваат Мерц да биде сменет пред следните избори",
+          "link": "https://netpress.com.mk/mnozinstvo-germanczi-ochekuvaat-mercz-da-bide-smenet-pred-slednite-izbori/",
+          "published": "Sun, 23 Aug 2026 07:38:14 +0000"
         },
         {
           "source": "NetPress",
@@ -63,12 +69,6 @@
           "title": "Салвини порача дека Италија нема да прифаќа мигранти вратени од Германија",
           "link": "https://netpress.com.mk/salvini-poracha-deka-italija-nema-da-prifaka-migranti-vrateni-od-germanija/",
           "published": "Sun, 23 Aug 2026 06:07:17 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Над 20 повредени во земјотресот со јачина од 5,9 степени во Јапонија",
-          "link": "https://netpress.com.mk/nad-20-povredeni-vo-zemjotresot-so-jachina-od-59-stepeni-vo-japonija/",
-          "published": "Sun, 23 Aug 2026 05:47:42 +0000"
         }
       ]
     },
