@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T09:58:45Z",
+  "updatedAt": "2026-08-23T10:32:15Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) Цветаноски: Македонија со највисока стапка на западнонилска треска во Европа, тотална неспособност на Клековски и Мицкоски",
+          "link": "https://makfax.com.mk/makedonija/video-cvetanoski-makedonija-so-najvisoka-stapka-na-zapadnonilska-treska-vo-evropa-totalna-nesposobnost-na-klekovski-i-mickoski/",
+          "published": "Sun, 23 Aug 2026 10:11:36 +0000"
         },
         {
           "source": "Makfax",
@@ -35,10 +41,10 @@
           "published": "Sun, 23 Aug 2026 08:06:09 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "(Видео) Директор на супермаркет под истрага по смртоносниот руски напад во Криви Рих",
-          "link": "https://makfax.com.mk/svet/video-direktor-na-supermarket-pod-istraga-po-smrtonosniot-ruski-napad-vo-krivi-rih/",
-          "published": "Sun, 23 Aug 2026 07:41:36 +0000"
+          "source": "NetPress",
+          "title": "Вучиќ од Делиблатската Пешчара: Европа го нема тоа што го добивме од Русија",
+          "link": "https://netpress.com.mk/vuchik-od-deliblatskata-peshchara-evropa-go-nema-toa-shto-go-dobivme-od-rusija/",
+          "published": "Sun, 23 Aug 2026 10:02:28 +0000"
         },
         {
           "source": "NetPress",
@@ -63,12 +69,6 @@
           "title": "Избегната катастрофа, пожарот во прилепско Бонче се приближил до куќите",
           "link": "https://netpress.com.mk/izbegnata-katastrofa-pozharot-vo-prilepsko-bonche-se-priblizhil-do-kukite/",
           "published": "Sun, 23 Aug 2026 08:53:50 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Обвинителот Абази го спаси Филипче од одговорност за модуларната болница во Тетово",
-          "link": "https://netpress.com.mk/obvinitelot-abazi-go-spasi-filipche-od-odgovornost-za-modularnata-bolnicza-vo-tetovo/",
-          "published": "Sun, 23 Aug 2026 08:46:31 +0000"
         }
       ]
     },
@@ -107,6 +107,18 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "How the deadliest Bundibugyo Ebola outbreak can be stopped",
+          "link": "https://www.aljazeera.com/opinions/2026/8/23/how-the-deadliest-bundibugyo-ebola-outbreak-can-be-stopped?traffic_source=rss",
+          "published": "Sun, 23 Aug 2026 10:00:20 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Israeli air strike near Gaza refugee camp kills one person and injures two",
+          "link": "https://www.aljazeera.com/news/2026/8/23/israeli-air-strike-near-gaza-refugee-camp-kills-one-person-and-injures-two?traffic_source=rss",
+          "published": "Sun, 23 Aug 2026 09:43:47 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "37 injured as magnitude 5.9 earthquake strikes eastern Japan",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/37-injured-as-magnitude-5-9-earthquake-strikes-eastern-japan?traffic_source=rss",
           "published": "Sun, 23 Aug 2026 09:21:12 +0000"
@@ -122,18 +134,6 @@
           "title": "Israeli wounded in occupied West Bank stabbing",
           "link": "https://www.aljazeera.com/news/2026/8/23/israeli-wounded-in-occupied-west-bank-stabbing?traffic_source=rss",
           "published": "Sun, 23 Aug 2026 08:38:01 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Flooding across Caracas, Venezuela, after heavy rains",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/flooding-across-caracas-venezuela-after-heavy-rains?traffic_source=rss",
-          "published": "Sun, 23 Aug 2026 08:08:27 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Photos: Russia celebrates National Flag Day amid war and tensions with the West",
-          "link": "https://www.aljazeera.com/gallery/2026/8/23/photos-russia-celebrates-national-flag-day-amid-war-and-tensions-with-the-west?traffic_source=rss",
-          "published": "Sun, 23 Aug 2026 08:07:54 +0000"
         }
       ]
     }
