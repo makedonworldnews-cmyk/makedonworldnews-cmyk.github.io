@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T21:46:03Z",
+  "updatedAt": "2026-08-23T22:00:38Z",
   "groups": [
     {
       "region": "Македонија",
@@ -42,6 +42,12 @@
         },
         {
           "source": "NetPress",
+          "title": "Серија А: Воведни победи на Јуве, Милан и Аталанта",
+          "link": "https://netpress.com.mk/serija-a-vovedni-pobedi-na-juve-milan-i-atalanta/",
+          "published": "Sun, 23 Aug 2026 21:49:09 +0000"
+        },
+        {
+          "source": "NetPress",
           "title": "Лига 1: Рен водеше со 2:0, Феран Торес го спаси ПСЖ",
           "link": "https://netpress.com.mk/liga-1-ren-vodeshe-so-20-feran-tores-go-spasi-pszh/",
           "published": "Sun, 23 Aug 2026 21:35:14 +0000"
@@ -63,12 +69,6 @@
           "title": "Од Охрид до Светот – Македонското слово како мост меѓу културите",
           "link": "https://netpress.com.mk/od-ohrid-do-svetot-makedonskoto-slovo-kako-most-megu-kulturite/",
           "published": "Sun, 23 Aug 2026 20:07:49 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Зеленски тврди дека Путин има намера да регрутира дополнителни 300.000 војници",
-          "link": "https://netpress.com.mk/zelenski-tvrdi-deka-putin-ima-namera-da-regrutira-dopolnitelni-300-000-vojniczi/",
-          "published": "Sun, 23 Aug 2026 19:46:35 +0000"
         }
       ]
     },
@@ -107,33 +107,33 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Raphinha and Lopez score braces as Barcelona trounce Elche 5-0",
+          "link": "https://www.aljazeera.com/sports/2026/8/23/raphinha-and-lopez-score-braces-as-barcelona-trounce-elche-5-0?traffic_source=rss",
+          "published": "Sun, 23 Aug 2026 21:45:05 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Will Donald Trump’s new sanctions against Iran work?",
+          "link": "https://www.aljazeera.com/video/inside-story/2026/8/23/will-donald-trumps-new-sanctions-against-iran-work?traffic_source=rss",
+          "published": "Sun, 23 Aug 2026 21:34:53 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Serbia requests international assistance to battle wildfires",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/serbia-requests-international-assistance-to-battle-wildfires?traffic_source=rss",
+          "published": "Sun, 23 Aug 2026 21:27:57 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "US envoy Tom Barrack retracts comment that Syria’s Golan is occupied",
+          "link": "https://www.aljazeera.com/news/2026/8/23/us-envoy-tom-barrack-retracts-comment-that-syrias-golan-is-occupied?traffic_source=rss",
+          "published": "Sun, 23 Aug 2026 21:23:05 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Landfill collapse kills 30 in Guinea’s capital after heavy rains",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/landfill-collapse-kills-30-in-guineas-capital-after-heavy-rains?traffic_source=rss",
           "published": "Sun, 23 Aug 2026 21:08:17 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Is Israel about to split the occupied West Bank in half?",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/occupied-west-bank-division-ps?traffic_source=rss",
-          "published": "Sun, 23 Aug 2026 20:23:01 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Severe winds toss four aircraft across Italian airport tarmac",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/severe-winds-toss-four-aircraft-across-italian-airport-tarmac?traffic_source=rss",
-          "published": "Sun, 23 Aug 2026 20:00:22 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Photos: IndyCars speed past Washington landmarks as part of Freedom 250",
-          "link": "https://www.aljazeera.com/gallery/2026/8/23/photos-indycars-speed-past-washington-landmarks-ahead-of-freedom-250?traffic_source=rss",
-          "published": "Sun, 23 Aug 2026 19:52:12 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Gaza’s hospitals are running out of oxygen as healthcare nears collapse",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/gazas-hospitals-are-running-out-of-oxygen-as-healthcare-nears-collapse?traffic_source=rss",
-          "published": "Sun, 23 Aug 2026 19:40:11 +0000"
         }
       ]
     }
