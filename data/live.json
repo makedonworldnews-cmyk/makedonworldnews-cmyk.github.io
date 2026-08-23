@@ -1,6 +1,20 @@
 {
-  "generated_at": "2026-08-23T05:52:06Z",
+  "generated_at": "2026-08-23T06:26:00Z",
   "items": [
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "Трамп го прогласи Ормускиот теснец за нова американска територија",
+      "link": "https://makfax.com.mk/svet/tramp-go-proglasi-ormuskiot-tesnec-za-nova-amerikanska-teritorija/",
+      "published": "Sun, 23 Aug 2026 06:15:37 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "Осум активни пожари низ земјава",
+      "link": "https://makfax.com.mk/makedonija/osum-aktivni-pozhari-niz-zemjava/",
+      "published": "Sun, 23 Aug 2026 06:05:24 +0000"
+    },
     {
       "region": "Македонија",
       "source": "Makfax",
@@ -24,17 +38,10 @@
     },
     {
       "region": "Македонија",
-      "source": "Makfax",
-      "title": "Баерн во Дортмунд го освои германскиот Супер куп",
-      "link": "https://makfax.com.mk/sport/baern-vo-dortmund-go-osvoi-germanskiot-super-kup/",
-      "published": "Sat, 22 Aug 2026 20:48:04 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "Makfax",
-      "title": "Охрид го одбрани трофејот на турнирот „Крсте Андоновски“",
-      "link": "https://makfax.com.mk/sport/ohrid-go-odbrani-trofejot-na-turnirot-krste-andonovski/",
-      "published": "Sat, 22 Aug 2026 20:38:03 +0000"
+      "source": "NetPress",
+      "title": "Салвини порача дека Италија нема да прифаќа мигранти вратени од Германија",
+      "link": "https://netpress.com.mk/salvini-poracha-deka-italija-nema-da-prifaka-migranti-vrateni-od-germanija/",
+      "published": "Sun, 23 Aug 2026 06:07:17 +0000"
     },
     {
       "region": "Македонија",
@@ -63,13 +70,6 @@
       "title": "Ла Лига: Реал Мадрид среќно славеше во Барселона",
       "link": "https://netpress.com.mk/la-liga-real-madrid-srekno-slaveshe-vo-barselona/",
       "published": "Sat, 22 Aug 2026 22:34:12 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Серија А: Гостинска победа на Наполи, Интер сигурен дома",
-      "link": "https://netpress.com.mk/serija-a-gostinska-pobeda-na-napoli-inter-siguren-doma/",
-      "published": "Sat, 22 Aug 2026 22:11:57 +0000"
     },
     {
       "region": "Свет",
@@ -109,6 +109,13 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "Kazakhstan parliamentary elections begin: What’s at stake?",
+      "link": "https://www.aljazeera.com/news/2026/8/23/kazakhstan-parliamentary-elections-begin-whats-at-stake?traffic_source=rss",
+      "published": "Sun, 23 Aug 2026 05:55:10 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "Ex-Colombian president: Restoring Israeli ties applauds Gaza genocide",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/ex-colombian-president-restoring-israeli-ties-applauds-gaza-genocide?traffic_source=rss",
       "published": "Sun, 23 Aug 2026 05:10:05 +0000"
@@ -133,13 +140,6 @@
       "title": "Chinese robot beats Usain Bolt’s 100m world record at humanoid games",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/chinese-robot-beats-usain-bolts-100m-world-record-at-humanoid-games?traffic_source=rss",
       "published": "Sun, 23 Aug 2026 03:16:19 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Canada to hit US with retaliatory tariffs as trade war escalates",
-      "link": "https://www.aljazeera.com/news/2026/8/23/canada-to-hit-us-with-retaliatory-tariffs-as-trade-war-escalates?traffic_source=rss",
-      "published": "Sun, 23 Aug 2026 02:34:49 +0000"
     }
   ]
 }
