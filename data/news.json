@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T15:27:04Z",
+  "updatedAt": "2026-08-23T15:48:27Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Норис победи во Зандворт пред Антонели и Расел",
+          "link": "https://makfax.com.mk/sport/noris-pobedi-vo-zandvort-pred-antoneli-i-rasel/",
+          "published": "Sun, 23 Aug 2026 15:42:03 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) Сити во 91-та минута го скрши Борнмут, Брајтон ја декласира Астон Вила",
+          "link": "https://makfax.com.mk/sport/video-siti-vo-91-ta-minuta-go-skrshi-bornmut-brajton-ja-deklasira-aston-vila/",
+          "published": "Sun, 23 Aug 2026 15:32:23 +0000"
         },
         {
           "source": "Makfax",
@@ -27,18 +39,6 @@
           "title": "„Шумарите“ понудија 82 милиони евра за Игор Тијаго",
           "link": "https://makfax.com.mk/sport/shumarite-ponudija-82-milioni-evra-za-igor-tijago/",
           "published": "Sun, 23 Aug 2026 13:22:19 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Сити го договори трансферот на мароканскиот вундеркинд",
-          "link": "https://makfax.com.mk/sport/siti-go-dogovori-transferot-na-marokanskiot-vunderkind/",
-          "published": "Sun, 23 Aug 2026 13:16:12 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Голем шумски пожар кај Бигла, во гаснењето се вклучуваат три „Ер трактори“ и хеликоптер",
-          "link": "https://makfax.com.mk/makedonija/golem-shumski-pozhar-kaj-bigla-vo-gasnenjeto-se-vkluchuvaat-tri-er-traktori-i-helikopter/",
-          "published": "Sun, 23 Aug 2026 12:10:41 +0000"
         },
         {
           "source": "NetPress",
@@ -107,6 +107,12 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Pezeshkian says Iran ‘has not become Venezuela’ despite war and sanctions",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/23-08-clip-pezeshkian-iran-ir-fm?traffic_source=rss",
+          "published": "Sun, 23 Aug 2026 15:25:47 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "PM Tarique Rahman’s trip stalled: What it means for Bangladesh-India ties",
           "link": "https://www.aljazeera.com/features/2026/8/23/pm-tarique-rahmans-trip-stalled-what-it-means-for-bangladesh-india-ties?traffic_source=rss",
           "published": "Sun, 23 Aug 2026 14:17:18 +0000"
@@ -128,12 +134,6 @@
           "title": "Chelsea preview: Five key talking points for 2026-27 Premier League season",
           "link": "https://www.aljazeera.com/sports/2026/8/23/chelsea-preview-five-key-talking-points-for-2026-27-premier-league-season?traffic_source=rss",
           "published": "Sun, 23 Aug 2026 13:33:39 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Heavy Israeli air strike hits warehouse in central Gaza",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/heavy-israeli-air-strike-hits-warehouse-in-central-gaza?traffic_source=rss",
-          "published": "Sun, 23 Aug 2026 13:20:57 +0000"
         }
       ]
     }
