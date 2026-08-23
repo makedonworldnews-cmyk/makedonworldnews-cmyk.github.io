@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T05:34:09Z",
+  "updatedAt": "2026-08-23T05:59:16Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) Земјотрес со магнитуда 5,9 ја погоди Јапонија, најмалку 37 повредени",
+          "link": "https://makfax.com.mk/svet/video-zemjotres-so-magnituda-59-ja-pogodi-japonija-najmalku-37-povredeni/",
+          "published": "Sun, 23 Aug 2026 05:51:34 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Сончево и многу топло, попладне на места пороен дожд и грмежи",
+          "link": "https://makfax.com.mk/makedonija/sonchevo-i-mnogu-toplo-popladne-na-mesta-poroen-dozhd-i-grmezhi/",
+          "published": "Sun, 23 Aug 2026 05:43:39 +0000"
         },
         {
           "source": "Makfax",
@@ -29,16 +41,10 @@
           "published": "Sat, 22 Aug 2026 20:38:03 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Пожарот кај Струмица ставен под контрола, огнот стигнал до дворовите",
-          "link": "https://makfax.com.mk/makedonija/pozharot-kaj-strumica-staven-pod-kontrola-ognot-stignal-do-dvorovite/",
-          "published": "Sat, 22 Aug 2026 19:57:31 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Брентфорд го декласира Тотенхем",
-          "link": "https://makfax.com.mk/sport/brentford-go-deklasira-totenhem/",
-          "published": "Sat, 22 Aug 2026 18:58:06 +0000"
+          "source": "NetPress",
+          "title": "Над 20 повредени во земјотресот со јачина од 5,9 степени во Јапонија",
+          "link": "https://netpress.com.mk/nad-20-povredeni-vo-zemjotresot-so-jachina-od-59-stepeni-vo-japonija/",
+          "published": "Sun, 23 Aug 2026 05:47:42 +0000"
         },
         {
           "source": "NetPress",
@@ -63,12 +69,6 @@
           "title": "Серија А: Гостинска победа на Наполи, Интер сигурен дома",
           "link": "https://netpress.com.mk/serija-a-gostinska-pobeda-na-napoli-inter-siguren-doma/",
           "published": "Sat, 22 Aug 2026 22:11:57 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "ВИДЕО| Тројца повредени кога маж со автомобил косел луѓе па се враќал да ги прегази во БиХ",
-          "link": "https://netpress.com.mk/video-trojcza-povredeni-koga-mazh-so-avtomobil-kosel-luge-pa-se-vrakal-da-gi-pregazi-vo-bih/",
-          "published": "Sat, 22 Aug 2026 21:20:33 +0000"
         }
       ]
     },
@@ -77,9 +77,9 @@
       "items": [
         {
           "source": "BBC",
-          "title": "Carney says Trump started trade war with fresh tarrifs 'attack'",
+          "title": "Trump says Canada wants 'benefits' of being US state as Carney says countries in trade war",
           "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
-          "published": "Sat, 22 Aug 2026 20:10:00 GMT"
+          "published": "Sun, 23 Aug 2026 05:46:43 GMT"
         },
         {
           "source": "BBC",
