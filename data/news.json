@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T09:38:21Z",
+  "updatedAt": "2026-08-23T09:58:45Z",
   "groups": [
     {
       "region": "Македонија",
@@ -101,9 +101,15 @@
         },
         {
           "source": "BBC",
-          "title": "'We're not going to run from it': Sydney Marathon laughs off medal error",
-          "link": "https://www.bbc.co.uk/news/articles/cn4n4l1yyvro?at_medium=RSS&at_campaign=rss",
-          "published": "Sun, 23 Aug 2026 03:44:19 GMT"
+          "title": "The hotel booking mix-up that could free mushroom murderer",
+          "link": "https://www.bbc.co.uk/news/articles/c9w09dj7qk5o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 22 Aug 2026 19:03:03 GMT"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "37 injured as magnitude 5.9 earthquake strikes eastern Japan",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/37-injured-as-magnitude-5-9-earthquake-strikes-eastern-japan?traffic_source=rss",
+          "published": "Sun, 23 Aug 2026 09:21:12 +0000"
         },
         {
           "source": "Al Jazeera",
@@ -128,12 +134,6 @@
           "title": "Photos: Russia celebrates National Flag Day amid war and tensions with the West",
           "link": "https://www.aljazeera.com/gallery/2026/8/23/photos-russia-celebrates-national-flag-day-amid-war-and-tensions-with-the-west?traffic_source=rss",
           "published": "Sun, 23 Aug 2026 08:07:54 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "DR Congo, M23 rebels agree on roadmap for peace talks",
-          "link": "https://www.aljazeera.com/news/2026/8/23/dr-congo-m23-rebels-agree-on-roadmap-for-peace-talks?traffic_source=rss",
-          "published": "Sun, 23 Aug 2026 08:03:41 +0000"
         }
       ]
     }
