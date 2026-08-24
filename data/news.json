@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-24T04:57:23Z",
+  "updatedAt": "2026-08-24T05:42:55Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Стара песна, нов звук: „Од утро до мрак“ на ДНК и Ена доби ремикс",
+          "link": "https://makfax.com.mk/zanimlivosti/stara-pesna-nov-zvuk-od-utro-do-mrak-na-dnk-i-ena-dobi-remiks/",
+          "published": "Mon, 24 Aug 2026 05:36:33 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Променливо облачно и топло време, попладне локален пороен дожд",
+          "link": "https://makfax.com.mk/makedonija/promenlivo-oblachno-i-toplo-vreme-popladne-lokalen-poroen-do/",
+          "published": "Mon, 24 Aug 2026 05:32:21 +0000"
         },
         {
           "source": "Makfax",
@@ -29,46 +41,34 @@
           "published": "Sun, 23 Aug 2026 16:53:07 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "(Фото+видео) 300 луѓе на терен го гаснат големиот пожар кај Бигла",
-          "link": "https://makfax.com.mk/makedonija/foto-video-300-luge-na-teren-go-gasnat-golemiot-pozhar-kaj-bigla/",
-          "published": "Sun, 23 Aug 2026 16:38:53 +0000"
+          "source": "NetPress",
+          "title": "Две деца убиени и седум ранети во руски детски центар во  украински напад",
+          "link": "https://netpress.com.mk/dve-decza-ubieni-i-sedum-raneti-vo-ruski-detski-czentar-vo-ukrainski-napad/",
+          "published": "Mon, 24 Aug 2026 05:37:29 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Норис победи во Зандворт пред Антонели и Расел",
-          "link": "https://makfax.com.mk/sport/noris-pobedi-vo-zandvort-pred-antoneli-i-rasel/",
-          "published": "Sun, 23 Aug 2026 15:42:03 +0000"
+          "source": "NetPress",
+          "title": "Дневен хороскоп за понеделник, 24-ти август 2026-та",
+          "link": "https://netpress.com.mk/dneven-horoskop-za-ponedelnik-24-ti-avgust-2026-ta/",
+          "published": "Mon, 24 Aug 2026 05:17:01 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Почнува судењето на Артан Груби за случајот „Државна лотарија“",
+          "link": "https://netpress.com.mk/pochnuva-sudeneto-na-artan-grubi-za-sluchajot-drzhavna-lotarija/",
+          "published": "Mon, 24 Aug 2026 05:12:32 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Без вода денеска корисници во Ѓорче Петров, а без струја повеќе улици во Центар",
+          "link": "https://netpress.com.mk/bez-voda-deneska-korisniczi-vo-gorche-petrov-a-bez-struja-poveke-uliczi-vo-czentar/",
+          "published": "Mon, 24 Aug 2026 04:57:04 +0000"
         },
         {
           "source": "NetPress",
           "title": "Денеска топло со повремена облачност, попладне услови за невреме – жега до крајот на седмицава",
           "link": "https://netpress.com.mk/deneska-toplo-so-povremena-oblachnost-popladne-uslovi-za-nevreme-zhega-do-krajot-na-sedmiczava/",
           "published": "Mon, 24 Aug 2026 04:37:42 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Ла Лига: Барсa со лесно загревање кај Елче, Атлетико извади бод на „Метрополитано“",
-          "link": "https://netpress.com.mk/la-liga-barsa-so-lesno-zagrevane-kaj-elche-atletiko-izvadi-bod-na-metropolitano/",
-          "published": "Sun, 23 Aug 2026 22:16:44 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Серија А: Воведни победи на Јуве, Милан и Аталанта",
-          "link": "https://netpress.com.mk/serija-a-vovedni-pobedi-na-juve-milan-i-atalanta/",
-          "published": "Sun, 23 Aug 2026 21:49:09 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Лига 1: Рен водеше со 2:0, Феран Торес го спаси ПСЖ",
-          "link": "https://netpress.com.mk/liga-1-ren-vodeshe-so-20-feran-tores-go-spasi-pszh/",
-          "published": "Sun, 23 Aug 2026 21:35:14 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Украина не учествуваше во никаква операција поврзана со саботажата на Северниот тек, тврди Зеленски",
-          "link": "https://netpress.com.mk/ukraina-ne-uchestvuvashe-vo-nikakva-operaczija-povrzana-so-sabotazhata-na-severniot-tek-tvrdi-zelenski/",
-          "published": "Sun, 23 Aug 2026 21:01:37 +0000"
         }
       ]
     },
@@ -77,9 +77,15 @@
       "items": [
         {
           "source": "BBC",
-          "title": "Burnham to visit Kyiv on first foreign trip and reaffirm UK support for Ukraine",
+          "title": "Burnham to hand long-range missile blueprints to Zelensky as he visits Kyiv",
           "link": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss",
-          "published": "Sun, 23 Aug 2026 23:07:10 GMT"
+          "published": "Mon, 24 Aug 2026 05:16:57 GMT"
+        },
+        {
+          "source": "BBC",
+          "title": "Divorce, smartphones and control - BBC sees how Taliban run Afghanistan",
+          "link": "https://www.bbc.co.uk/news/articles/ckgvk9p2n7ko?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 24 Aug 2026 05:00:22 GMT"
         },
         {
           "source": "BBC",
@@ -91,19 +97,13 @@
           "source": "BBC",
           "title": "Shein aims for almost $27bn valuation in stock market debut",
           "link": "https://www.bbc.co.uk/news/articles/cdeweewjdxno?at_medium=RSS&at_campaign=rss",
-          "published": "Mon, 24 Aug 2026 04:06:54 GMT"
+          "published": "Mon, 24 Aug 2026 05:09:22 GMT"
         },
         {
           "source": "BBC",
           "title": "Ex-cricket captains urge 'proper medical care' for Imran Khan",
           "link": "https://www.bbc.co.uk/news/articles/cx2z889l0dxo?at_medium=RSS&at_campaign=rss",
           "published": "Mon, 24 Aug 2026 03:55:35 GMT"
-        },
-        {
-          "source": "BBC",
-          "title": "Guinea rubbish landfill collapse kills 30",
-          "link": "https://www.bbc.co.uk/news/articles/c4g3g36z7p6o?at_medium=RSS&at_campaign=rss",
-          "published": "Sun, 23 Aug 2026 18:17:37 GMT"
         },
         {
           "source": "Al Jazeera",
