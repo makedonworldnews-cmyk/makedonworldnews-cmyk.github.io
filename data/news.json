@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-24T20:35:35Z",
+  "updatedAt": "2026-08-24T21:02:45Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) Шоу на Мален и Дибала – Рома ја декласира Фиорентина",
+          "link": "https://makfax.com.mk/sport/video-shou-na-malen-i-dibala-roma-ja-deklasira-fiorentina/",
+          "published": "Mon, 24 Aug 2026 20:55:04 +0000"
         },
         {
           "source": "Makfax",
@@ -33,12 +39,6 @@
           "title": "Нетанјаху: Обид за атентат врз мојот син",
           "link": "https://makfax.com.mk/svet/netanjahu-obid-za-atentat-vrz-mojot-sin/",
           "published": "Mon, 24 Aug 2026 19:28:44 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Нкунку се враќа во Лајпциг",
-          "link": "https://makfax.com.mk/sport/nkunku-se-vraka-vo-lajpcig/",
-          "published": "Mon, 24 Aug 2026 19:22:14 +0000"
         },
         {
           "source": "NetPress",
@@ -107,6 +107,12 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Violence flares in Haiti as gang attack kills 30 people",
+          "link": "https://www.aljazeera.com/news/2026/8/24/violence-flares-in-haiti-as-gang-attack-kills-30-people?traffic_source=rss",
+          "published": "Mon, 24 Aug 2026 20:23:39 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Ex-Liverpool star Fabinho reunited with Mohamed Salah at Trabzonspor",
           "link": "https://www.aljazeera.com/sports/2026/8/24/ex-liverpool-star-fabinho-reunited-with-mohamed-salah-at-trabzonspor?traffic_source=rss",
           "published": "Mon, 24 Aug 2026 20:03:48 +0000"
@@ -125,15 +131,9 @@
         },
         {
           "source": "Al Jazeera",
-          "title": "Yemen’s Houthis report attack on Saudi ship",
+          "title": "Yemen’s Houthis report attack on Saudi oil tanker in Red Sea",
           "link": "https://www.aljazeera.com/news/2026/8/24/yemens-houthis-report-attack-on-saudi-ship?traffic_source=rss",
           "published": "Mon, 24 Aug 2026 19:44:23 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Video: Israel attacks desalination plant and mosque in Gaza",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/video-israel-attacks-desalination-plant-and-mosque-in-gaza?traffic_source=rss",
-          "published": "Mon, 24 Aug 2026 19:21:01 +0000"
         }
       ]
     }
