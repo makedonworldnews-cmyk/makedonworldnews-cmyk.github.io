@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-24T16:03:54Z",
+  "updatedAt": "2026-08-24T16:52:02Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Макрон: Забрана за мобилни телефони во средните училишта",
+          "link": "https://makfax.com.mk/svet/makron-zabrana-za-mobilni-telefoni-vo-srednite-uchilishta/",
+          "published": "Mon, 24 Aug 2026 16:43:15 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "140 прекршоци и осум кривични пријави за возачи на велосипеди, мопеди и мотоцикли",
+          "link": "https://makfax.com.mk/crna-hronika/140-prekrshoci-i-osum-krivichni-prijavi-za-vozachi-na-velosipedi-mopedi-i-motocikli/",
+          "published": "Mon, 24 Aug 2026 16:25:27 +0000"
         },
         {
           "source": "Makfax",
@@ -27,18 +39,6 @@
           "title": "Британскиот премиер: Заканите од Русија се скандалозни",
           "link": "https://makfax.com.mk/svet/britanskiot-premier-zakanite-od-rusija-se-skandalozni/",
           "published": "Mon, 24 Aug 2026 15:21:17 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Трамп: Иран доживува целосен колапс",
-          "link": "https://makfax.com.mk/svet/tramp-iran-dozhivuva-celosen-kolaps/",
-          "published": "Mon, 24 Aug 2026 15:09:27 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Се уредува пешачката зона долж целиот кеј на Вардар, објави Ѓорѓиевски",
-          "link": "https://makfax.com.mk/makedonija/se-ureduva-peshachkata-zona-dolzh-celiot-kej-na-vardar-objavi-gorgievski/",
-          "published": "Mon, 24 Aug 2026 14:45:17 +0000"
         },
         {
           "source": "NetPress",
@@ -107,33 +107,33 @@
         },
         {
           "source": "Al Jazeera",
-          "title": "Trump slams Canada with new 50 percent auto tariffs for 2027",
-          "link": "https://www.aljazeera.com/economy/2026/8/24/trump-slams-canada-with-new-50-percent-auto-tariffs-for-2027?traffic_source=rss",
-          "published": "Mon, 24 Aug 2026 15:50:15 +0000"
+          "title": "Former snooker world champion Graeme Dott convicted of child sex abuse",
+          "link": "https://www.aljazeera.com/sports/2026/8/24/former-snooker-world-champion-graeme-dott-convicted-of-child-sex-abuse?traffic_source=rss",
+          "published": "Mon, 24 Aug 2026 16:35:57 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Are humanoid robots the future of warfare?",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/are-humanoid-robots-the-future-of-warfare?traffic_source=rss",
-          "published": "Mon, 24 Aug 2026 15:30:54 +0000"
+          "title": "Israeli strike on Gaza shelter extends casualty list",
+          "link": "https://www.aljazeera.com/news/2026/8/24/israeli-strike-on-gaza-shelter-extends-casualty-list?traffic_source=rss",
+          "published": "Mon, 24 Aug 2026 16:27:36 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Video: Russia launches rocket into space with military satellite",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/video-russia-launches-rocket-into-space-with-military-satellite?traffic_source=rss",
-          "published": "Mon, 24 Aug 2026 15:29:14 +0000"
+          "title": "Nathan Cofnas on whether he feels responsible for Jason Arday’s death",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/nathan-cofnas-on-whether-he-feels-responsible-for-jason-ardays-death?traffic_source=rss",
+          "published": "Mon, 24 Aug 2026 16:21:55 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "UK to help Ukraine build Storm Shadow long-range missiles: Why it matters",
-          "link": "https://www.aljazeera.com/news/2026/8/24/uk-to-help-ukraine-build-storm-shadow-long-range-missiles-why-it-matters?traffic_source=rss",
-          "published": "Mon, 24 Aug 2026 15:17:36 +0000"
+          "title": "England drop fast bowler Bryden Carse amid investigation into club incident",
+          "link": "https://www.aljazeera.com/sports/2026/8/24/england-drop-fast-bowler-bryden-carse-amid-investigation-into-club-incident?traffic_source=rss",
+          "published": "Mon, 24 Aug 2026 16:05:43 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Samuel Eto’o urges support for embattled FIFA President Gianni Infantino",
-          "link": "https://www.aljazeera.com/sports/2026/8/24/samuel-etoo-urges-support-for-embattled-fifa-president-gianni-infantino?traffic_source=rss",
-          "published": "Mon, 24 Aug 2026 15:15:55 +0000"
+          "title": "What to expect as Iran braces for new US economic measures amid war",
+          "link": "https://www.aljazeera.com/economy/2026/8/24/what-to-expect-as-iran-braces-for-new-us-economic-measures-amid-war?traffic_source=rss",
+          "published": "Mon, 24 Aug 2026 16:02:50 +0000"
         }
       ]
     }
