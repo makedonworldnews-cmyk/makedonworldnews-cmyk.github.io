@@ -1,6 +1,13 @@
 {
-  "generated_at": "2026-08-24T19:40:17Z",
+  "generated_at": "2026-08-24T20:03:27Z",
   "items": [
+    {
+      "region": "Македонија",
+      "source": "Makfax",
+      "title": "Луѓето кои изгледаат помлади отколку што се, ги имаат овие три навики: немаат никаква врска со храната и козметиката",
+      "link": "https://makfax.com.mk/zanimlivosti/lugeto-koi-izgledaat-pomladi-otkolku-shto-se-gi-imaat-ovie-tri-naviki-nemaat-nikakva-vrska-so-hranata-i-kozmetikata/",
+      "published": "Mon, 24 Aug 2026 19:52:08 +0000"
+    },
     {
       "region": "Македонија",
       "source": "Makfax",
@@ -31,10 +38,17 @@
     },
     {
       "region": "Македонија",
-      "source": "Makfax",
-      "title": "Катастрофа во најава за Јувентус",
-      "link": "https://makfax.com.mk/sport/katastrofa-vo-najava-za-juventus/",
-      "published": "Mon, 24 Aug 2026 19:18:25 +0000"
+      "source": "NetPress",
+      "title": "Мешана изведба на европските берзи по падот на технолошкиот сектор",
+      "link": "https://netpress.com.mk/meshana-izvedba-na-evropskite-berzi-po-padot-na-tehnoloshkiot-sektor/",
+      "published": "Mon, 24 Aug 2026 19:58:18 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "NetPress",
+      "title": "Македонија и Израел потпишаа договори за соработка во образованието и економијата",
+      "link": "https://netpress.com.mk/makedonija-i-izrael-potpishaa-dogovori-za-sorabotka-vo-obrazovanieto-i-ekonomijata/",
+      "published": "Mon, 24 Aug 2026 19:46:59 +0000"
     },
     {
       "region": "Македонија",
@@ -56,20 +70,6 @@
       "title": "Пожарот на Жеден ставен под контрола",
       "link": "https://netpress.com.mk/pozharot-na-zheden-staven-pod-kontrola/",
       "published": "Mon, 24 Aug 2026 18:18:17 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Град и пороен дожд во делови од државава",
-      "link": "https://netpress.com.mk/grad-i-poroen-dozhd-vo-delovi-od-drzhavava/",
-      "published": "Mon, 24 Aug 2026 18:13:17 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Трамп се заканува со царини од 50 отсто за сите возила од Канада",
-      "link": "https://netpress.com.mk/tramp-se-zakanuva-so-czarini-od-50-otsto-za-site-vozila-od-kanada/",
-      "published": "Mon, 24 Aug 2026 18:12:23 +0000"
     },
     {
       "region": "Свет",
@@ -109,37 +109,37 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
-      "title": "Israel threatens attacks in Gaza over children’s kites",
-      "link": "https://www.aljazeera.com/video/2026/8/24/israel-threatens-attacks-in-gaza-over-childrens-kites?traffic_source=rss",
-      "published": "Mon, 24 Aug 2026 19:00:55 +0000"
+      "title": "Mexico’s president condemns governor’s brief return to office",
+      "link": "https://www.aljazeera.com/news/2026/8/24/mexicos-president-condemns-governor-brief-return-to-office?traffic_source=rss",
+      "published": "Mon, 24 Aug 2026 19:46:42 +0000"
     },
     {
       "region": "Свет",
       "source": "Al Jazeera",
-      "title": "Trump administration seeks to formalise H-1B fee of more than $100,000",
-      "link": "https://www.aljazeera.com/economy/2026/8/24/trump-administration-seeks-to-formalise-h-1b-fee-of-more-than-100000?traffic_source=rss",
-      "published": "Mon, 24 Aug 2026 18:46:09 +0000"
+      "title": "Yemen’s Houthis report attack on Saudi ship",
+      "link": "https://www.aljazeera.com/news/2026/8/24/yemens-houthis-report-attack-on-saudi-ship?traffic_source=rss",
+      "published": "Mon, 24 Aug 2026 19:44:23 +0000"
     },
     {
       "region": "Свет",
       "source": "Al Jazeera",
-      "title": "Norway plans further development of Arctic drilling amid EU energy concerns",
-      "link": "https://www.aljazeera.com/news/2026/8/24/norway-plans-further-development-of-arctic-drilling-amid-eu-energy-concerns?traffic_source=rss",
-      "published": "Mon, 24 Aug 2026 18:22:18 +0000"
+      "title": "Video: Israel attacks desalination plant and mosque in Gaza",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/video-israel-attacks-desalination-plant-and-mosque-in-gaza?traffic_source=rss",
+      "published": "Mon, 24 Aug 2026 19:21:01 +0000"
     },
     {
       "region": "Свет",
       "source": "Al Jazeera",
-      "title": "Kidnappers release video showing hundreds abducted from Nigerian mosque",
-      "link": "https://www.aljazeera.com/news/2026/8/24/kidnappers-release-video-showing-hundreds-abducted-from-nigerian-mosque?traffic_source=rss",
-      "published": "Mon, 24 Aug 2026 18:02:50 +0000"
+      "title": "Israeli restrictions cause fuel shortage in occupied West Bank",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/israeli-restrictions-cause-fuel-shortage-in-occupied-west-bank?traffic_source=rss",
+      "published": "Mon, 24 Aug 2026 19:18:00 +0000"
     },
     {
       "region": "Свет",
       "source": "Al Jazeera",
-      "title": "Trump administration announces global economic war on Iran",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/trump-administration-announces-global-economic-war-on-iran-2?traffic_source=rss",
-      "published": "Mon, 24 Aug 2026 17:53:00 +0000"
+      "title": "Why ‘pogrom’ best describes what’s happening in the occupied West Bank",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/why-pogrom-best-describes-whats-happening-in-the-occupied-west-bank?traffic_source=rss",
+      "published": "Mon, 24 Aug 2026 19:09:45 +0000"
     }
   ]
 }
