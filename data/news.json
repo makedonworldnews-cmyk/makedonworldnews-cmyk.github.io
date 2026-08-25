@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T19:42:15Z",
+  "updatedAt": "2026-08-25T20:09:40Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,24 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Десетици пожари избувнаа низ цела Грција",
+          "link": "https://makfax.com.mk/svet/region/desetici-pozhari-izbuvnaa-niz-cela-grcija/",
+          "published": "Tue, 25 Aug 2026 20:05:38 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Шефот на ЦИА ја посети Москва, Кремљ не потврдува средба",
+          "link": "https://makfax.com.mk/svet/shefot-na-cia-ja-poseti-moskva-kremlj-ne-potvrduva/",
+          "published": "Tue, 25 Aug 2026 19:59:29 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Пет вежби кои ги зајакнуваат и штитат коските по 40-тата година",
+          "link": "https://makfax.com.mk/zanimlivosti/pet-vezhbi-koi-gi-zajaknuvaat-i-shtitat-koskite-po-40-tata-godina/",
+          "published": "Tue, 25 Aug 2026 19:48:09 +0000"
         },
         {
           "source": "Makfax",
@@ -23,22 +41,10 @@
           "published": "Tue, 25 Aug 2026 19:36:20 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "(Фото) Секси и шик: Се врати најсмелото парче од 2000-тите",
-          "link": "https://makfax.com.mk/zanimlivosti/seksi-i-shik-se-vrati-najsmeloto-parche-od-2000-tite/",
-          "published": "Tue, 25 Aug 2026 19:32:16 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "(Видео) Ангелов: Изгаснат е пожарот кој излезе надвор од кавадаречката депонија, интезивно се работи на нејзино затрупување",
-          "link": "https://makfax.com.mk/makedonija/video-angelov-izgasnat-e-pozharot-koj-izleze-nadvor-od-kavadarechkata-deponija-intezivno-se-raboti-na-nejzino-zatrupuvanje/",
-          "published": "Tue, 25 Aug 2026 19:12:49 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Почина Доли Партон",
-          "link": "https://makfax.com.mk/zanimlivosti/pochina-doli-parton/",
-          "published": "Tue, 25 Aug 2026 18:44:20 +0000"
+          "source": "NetPress",
+          "title": "Вероника Консевиќ обезбеди бронза за Македонија во борење",
+          "link": "https://netpress.com.mk/veronika-konsevik-obezbedi-bronza-za-makedonija-vo-borene/",
+          "published": "Tue, 25 Aug 2026 19:44:21 +0000"
         },
         {
           "source": "NetPress",
@@ -63,12 +69,6 @@
           "title": "Почина Доли Партон, легенда на американската кантри музика",
           "link": "https://netpress.com.mk/pochina-doli-parton-legenda-na-amerikanskata-kantri-muzika/",
           "published": "Tue, 25 Aug 2026 18:44:58 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Латвија забранува увоз на книги, играчки, облека и други стоки од Русија и Белорусија",
-          "link": "https://netpress.com.mk/latvija-zabranuva-uvoz-na-knigi-igrachki-obleka-i-drugi-stoki-od-rusija-i-belorusija/",
-          "published": "Tue, 25 Aug 2026 18:29:27 +0000"
         }
       ]
     },
@@ -79,7 +79,7 @@
           "source": "BBC",
           "title": "Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50%",
           "link": "https://www.bbc.co.uk/news/articles/c3v4xg5klx7o?at_medium=RSS&at_campaign=rss",
-          "published": "Tue, 25 Aug 2026 17:54:03 GMT"
+          "published": "Tue, 25 Aug 2026 19:50:57 GMT"
         },
         {
           "source": "BBC",
@@ -91,7 +91,7 @@
           "source": "BBC",
           "title": "CIA chief travels to Moscow for unannounced talks, US media reports",
           "link": "https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&at_campaign=rss",
-          "published": "Tue, 25 Aug 2026 16:56:20 GMT"
+          "published": "Tue, 25 Aug 2026 19:48:14 GMT"
         },
         {
           "source": "BBC",
@@ -107,33 +107,33 @@
         },
         {
           "source": "Al Jazeera",
-          "title": "Israeli protesters block aid trucks from reaching Gaza",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/israeli-protesters-block-aid-trucks-from-reaching-gaza?traffic_source=rss",
-          "published": "Tue, 25 Aug 2026 19:02:18 +0000"
+          "title": "More than 1,300 people arrested by ICE in Virginia and Maryland",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/more-than-1300-people-arrested-by-ice-in-virginia-and-maryland?traffic_source=rss",
+          "published": "Tue, 25 Aug 2026 19:36:12 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Video: Israeli forces raid UN training centre and raise Israeli flag",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/video-israeli-forces-raid-un-training-centre-and-raise-israeli-flag?traffic_source=rss",
-          "published": "Tue, 25 Aug 2026 18:54:01 +0000"
+          "title": "Two unvaccinated people die of measles in US state of Pennsylvania",
+          "link": "https://www.aljazeera.com/news/2026/8/25/two-unvaccinated-people-die-of-measles-in-us-state-of-pennsylvania?traffic_source=rss",
+          "published": "Tue, 25 Aug 2026 19:27:11 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Syria’s economy poised for improvement after US sanctions removal",
-          "link": "https://www.aljazeera.com/news/2026/8/25/syrias-economy-poised-for-improvement-after-us-sanctions-removal?traffic_source=rss",
-          "published": "Tue, 25 Aug 2026 18:43:42 +0000"
+          "title": "Israeli forces block Palestinian American Lou Ridi from walking on his land",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/israeli-forces-block-palestinian-american-lou-ridi-from-walking-on-his-land?traffic_source=rss",
+          "published": "Tue, 25 Aug 2026 19:27:00 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Syria ‘shakes off’ past with removal from US ‘terror’ list, says al-Sharaa",
-          "link": "https://www.aljazeera.com/news/2026/8/25/syriashakes-offpast-with-removal-from-us-terror-list-says-al-sharaa?traffic_source=rss",
-          "published": "Tue, 25 Aug 2026 18:13:37 +0000"
+          "title": "India police clash with protesters a month after Gen Z demonstrations",
+          "link": "https://www.aljazeera.com/news/2026/8/25/india-police-clash-with-protesters-a-month-after-gen-z-demonstrations?traffic_source=rss",
+          "published": "Tue, 25 Aug 2026 19:24:43 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Kremlin denies US talks amid reports CIA Director Ratcliffe in Russia",
-          "link": "https://www.aljazeera.com/news/2026/8/25/kremlin-denies-planned-talks-with-us-envoys-amid-reports-cia-head-in-russia?traffic_source=rss",
-          "published": "Tue, 25 Aug 2026 18:01:37 +0000"
+          "title": "Kurdish-led forces in Syria dissolve after merging with army",
+          "link": "https://www.aljazeera.com/news/2026/8/25/kurdish-led-forces-in-syria-dissolve-after-merging-with-the-army?traffic_source=rss",
+          "published": "Tue, 25 Aug 2026 19:13:52 +0000"
         }
       ]
     }
