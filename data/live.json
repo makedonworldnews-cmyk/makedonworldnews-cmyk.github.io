@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T03:27:50Z",
+  "generated_at": "2026-08-25T04:08:00Z",
   "items": [
     {
       "region": "Македонија",
@@ -74,9 +74,9 @@
     {
       "region": "Свет",
       "source": "BBC",
-      "title": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
+      "title": "Iran says it is ready for what US calls 'greatest financial offensive ever'",
       "link": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 24 Aug 2026 23:48:25 GMT"
+      "published": "Tue, 25 Aug 2026 03:50:06 GMT"
     },
     {
       "region": "Свет",
@@ -109,6 +109,13 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "Rare tornado near Carcassonne in France causes damage and injuries",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/rare-tornado-near-carcassonne-in-france-causes-damage-and-injuries?traffic_source=rss",
+      "published": "Tue, 25 Aug 2026 03:56:30 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "Israel’s Netanyahu claims Iran tried to kill one of his sons",
       "link": "https://www.aljazeera.com/news/2026/8/25/israels-netanyahu-claims-iran-tried-to-kill-one-of-his-sons?traffic_source=rss",
       "published": "Tue, 25 Aug 2026 02:54:40 +0000"
@@ -133,13 +140,6 @@
       "title": "Man killed in world’s largest annual bullfighting event in Mexico",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/man-killed-in-worlds-largest-annual-bullfighting-event-in-mexico?traffic_source=rss",
       "published": "Tue, 25 Aug 2026 01:51:16 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Brutal gang attack on strategic Haiti hillside leaves at least 30 dead",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/brutal-gang-attack-on-strategic-haiti-hillside-leaves-at-least-30-dead?traffic_source=rss",
-      "published": "Tue, 25 Aug 2026 01:46:26 +0000"
     }
   ]
 }
