@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T23:41:51Z",
+  "updatedAt": "2026-08-26T01:54:58Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) Иранската телевизија објави снимка од план за атент врз синот на Трамп; САД: Спроведуваме истрага",
+          "link": "https://makfax.com.mk/svet/video-iranskata-televizija-objavi-video-od-plan-za-atent-vrz-sinot-na-tramp-sad-sproveduvame-istraga/",
+          "published": "Wed, 26 Aug 2026 00:00:53 +0000"
         },
         {
           "source": "Makfax",
@@ -33,12 +39,6 @@
           "title": "Десетици пожари избувнаа низ цела Грција",
           "link": "https://makfax.com.mk/svet/region/desetici-pozhari-izbuvnaa-niz-cela-grcija/",
           "published": "Tue, 25 Aug 2026 20:05:38 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Шефот на ЦИА ја посети Москва, Кремљ не потврдува средба",
-          "link": "https://makfax.com.mk/svet/shefot-na-cia-ja-poseti-moskva-kremlj-ne-potvrduva/",
-          "published": "Tue, 25 Aug 2026 19:59:29 +0000"
         },
         {
           "source": "NetPress",
@@ -107,33 +107,33 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Malaysia’s Anwar puts non-aligned stance in focus with remarks on Taiwan",
+          "link": "https://www.aljazeera.com/news/2026/8/26/malaysias-anwar-puts-non-aligned-stance-in-focus-with-remarks-on-taiwan?traffic_source=rss",
+          "published": "Wed, 26 Aug 2026 01:43:50 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Is Sudan’s battlefield shaping the terms of its next political phase?",
+          "link": "https://www.aljazeera.com/news/2026/8/26/is-sudans-battlefield-shaping-the-terms-of-its-next-political-phase?traffic_source=rss",
+          "published": "Wed, 26 Aug 2026 01:00:17 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Human rights situation in Myanmar ‘plummets to new low’, UN says",
+          "link": "https://www.aljazeera.com/news/2026/8/26/rights-abuses-in-myanmar-plummets-to-new-low-un-says?traffic_source=rss",
+          "published": "Wed, 26 Aug 2026 00:29:01 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Iran war live: Iran says Hormuz remains closed despite Oman route deal",
+          "link": "https://www.aljazeera.com/news/liveblog/2026/8/26/iran-war-live-iran-says-hormuz-remains-closed-despite-oman-rout-deal?traffic_source=rss",
+          "published": "Wed, 26 Aug 2026 00:00:00 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Brazil fines TikTok $30m for child data privacy violations",
           "link": "https://www.aljazeera.com/news/2026/8/25/brazil-fines-tiktok-30m-for-child-data-privacy-violations?traffic_source=rss",
           "published": "Tue, 25 Aug 2026 22:06:49 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Why can’t America agree on what time it is?",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/why-cant-america-agree-on-what-time-it-is?traffic_source=rss",
-          "published": "Tue, 25 Aug 2026 22:05:42 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "US judge blocks Ohio law requiring proof of citizenship to register to vote",
-          "link": "https://www.aljazeera.com/news/2026/8/25/us-judge-blocks-ohio-law-requiring-proof-of-citizenship-to-register-to-vote?traffic_source=rss",
-          "published": "Tue, 25 Aug 2026 21:32:00 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Who was the ‘Queen of Country’ Dolly Parton?",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/who-was-the-queen-of-country-dolly-parton?traffic_source=rss",
-          "published": "Tue, 25 Aug 2026 21:29:11 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Seven killed in Gaza as Israeli strike ‘destroys’ aid supply warehouse",
-          "link": "https://www.aljazeera.com/news/2026/8/25/seven-killed-in-gaza-as-israeli-strike-destroys-aid-supply-warehouse?traffic_source=rss",
-          "published": "Tue, 25 Aug 2026 21:26:25 +0000"
         }
       ]
     }
