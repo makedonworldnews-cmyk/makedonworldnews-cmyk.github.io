@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T01:53:14Z",
+  "generated_at": "2026-08-26T02:56:52Z",
   "items": [
     {
       "region": "Македонија",
@@ -109,6 +109,13 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "Water crisis makes life in Sudan’s El Obeid refugee camps even worse",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/water-crisis-makes-life-in-sudans-el-obeid-refugee-camps-even-worse?traffic_source=rss",
+      "published": "Wed, 26 Aug 2026 01:54:00 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "Malaysia’s Anwar puts non-aligned stance in focus with remarks on Taiwan",
       "link": "https://www.aljazeera.com/news/2026/8/26/malaysias-anwar-puts-non-aligned-stance-in-focus-with-remarks-on-taiwan?traffic_source=rss",
       "published": "Wed, 26 Aug 2026 01:43:50 +0000"
@@ -133,13 +140,6 @@
       "title": "Iran war live: Iran says Hormuz remains closed despite Oman route deal",
       "link": "https://www.aljazeera.com/news/liveblog/2026/8/26/iran-war-live-iran-says-hormuz-remains-closed-despite-oman-rout-deal?traffic_source=rss",
       "published": "Wed, 26 Aug 2026 00:00:00 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Brazil fines TikTok $30m for child data privacy violations",
-      "link": "https://www.aljazeera.com/news/2026/8/25/brazil-fines-tiktok-30m-for-child-data-privacy-violations?traffic_source=rss",
-      "published": "Tue, 25 Aug 2026 22:06:49 +0000"
     }
   ]
 }
