@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-26T01:54:58Z",
+  "updatedAt": "2026-08-26T03:04:19Z",
   "groups": [
     {
       "region": "Македонија",
@@ -107,6 +107,18 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Mamdani opposes Hindu nationalist event in New York",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/mamdani-opposes-hindu-nationalist-event-in-new-york?traffic_source=rss",
+          "published": "Wed, 26 Aug 2026 02:47:02 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Water crisis makes life in Sudan’s El Obeid refugee camps even worse",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/water-crisis-makes-life-in-sudans-el-obeid-refugee-camps-even-worse?traffic_source=rss",
+          "published": "Wed, 26 Aug 2026 01:54:00 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Malaysia’s Anwar puts non-aligned stance in focus with remarks on Taiwan",
           "link": "https://www.aljazeera.com/news/2026/8/26/malaysias-anwar-puts-non-aligned-stance-in-focus-with-remarks-on-taiwan?traffic_source=rss",
           "published": "Wed, 26 Aug 2026 01:43:50 +0000"
@@ -122,18 +134,6 @@
           "title": "Human rights situation in Myanmar ‘plummets to new low’, UN says",
           "link": "https://www.aljazeera.com/news/2026/8/26/rights-abuses-in-myanmar-plummets-to-new-low-un-says?traffic_source=rss",
           "published": "Wed, 26 Aug 2026 00:29:01 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Iran war live: Iran says Hormuz remains closed despite Oman route deal",
-          "link": "https://www.aljazeera.com/news/liveblog/2026/8/26/iran-war-live-iran-says-hormuz-remains-closed-despite-oman-rout-deal?traffic_source=rss",
-          "published": "Wed, 26 Aug 2026 00:00:00 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Brazil fines TikTok $30m for child data privacy violations",
-          "link": "https://www.aljazeera.com/news/2026/8/25/brazil-fines-tiktok-30m-for-child-data-privacy-violations?traffic_source=rss",
-          "published": "Tue, 25 Aug 2026 22:06:49 +0000"
         }
       ]
     }
