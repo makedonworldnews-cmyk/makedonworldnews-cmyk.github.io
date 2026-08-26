@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-26T04:49:20Z",
+  "updatedAt": "2026-08-26T05:19:36Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Летото ги уништува стапалата: Овој природен третман ги „оживува“ за 15 минути",
+          "link": "https://makfax.com.mk/zanimlivosti/letoto-gi-unishtuva-stapalata-ovoj-priroden-tretman-gi-%e2%80%9eozhivuva%e2%80%9c-za-15-minuti/",
+          "published": "Wed, 26 Aug 2026 04:51:53 +0000"
         },
         {
           "source": "Makfax",
@@ -35,10 +41,16 @@
           "published": "Tue, 25 Aug 2026 21:01:54 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Излегуваат од тежок период: Три хороскопски знаци конечно ќе „прогледаат“",
-          "link": "https://makfax.com.mk/zanimlivosti/izleguvaat-od-tezhok-period-tri-horoskopski-znaci-konechno-ke-%e2%80%9eprogledaat%e2%80%9c/",
-          "published": "Tue, 25 Aug 2026 20:48:49 +0000"
+          "source": "NetPress",
+          "title": "Квалификации за Лигата на шампионите – резултати",
+          "link": "https://netpress.com.mk/kvalifikaczii-za-ligata-na-shampionite-rezultati/",
+          "published": "Wed, 26 Aug 2026 05:17:46 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "САД привремено ги суспендираа термините за визи низ целиот свет",
+          "link": "https://netpress.com.mk/sad-privremeno-gi-suspendiraa-terminite-za-vizi-niz-czeliot-svet/",
+          "published": "Wed, 26 Aug 2026 04:57:12 +0000"
         },
         {
           "source": "NetPress",
@@ -57,18 +69,6 @@
           "title": "Тајната служба запознаена за иранската видеозакана кон Барон Трамп",
           "link": "https://netpress.com.mk/tajnata-sluzhba-zapoznaena-za-iranskata-videozakana-kon-baron-tramp/",
           "published": "Tue, 25 Aug 2026 22:14:56 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "ФОТО| Елмас официјално претставен во дресот на Аталанта",
-          "link": "https://netpress.com.mk/elmas-oficzijalno-pretstaven-vo-dresot-na-atalanta/",
-          "published": "Tue, 25 Aug 2026 21:40:38 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Десетици пожари избувнаа низ цела Грција",
-          "link": "https://netpress.com.mk/deseticzi-pozhari-izbuvnaa-niz-czela-grczija/",
-          "published": "Tue, 25 Aug 2026 21:00:50 +0000"
         }
       ]
     },
@@ -107,6 +107,12 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Russia’s ‘Amazon’ Wildberries comes under Ukraine attack again",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/russias-amazon-wildberries-comes-under-ukraine-attack-again?traffic_source=rss",
+          "published": "Wed, 26 Aug 2026 04:54:38 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "At least 15 newborns killed in Pakistan hospital fire",
           "link": "https://www.aljazeera.com/news/2026/8/26/at-least-15-newborns-killed-in-pakistan-hospital-fire?traffic_source=rss",
           "published": "Wed, 26 Aug 2026 04:27:15 +0000"
@@ -128,12 +134,6 @@
           "title": "Who were the Syrian Democratic Forces and why dissolve?",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/who-were-the-syrian-democratic-forces-and-why-dissolve?traffic_source=rss",
           "published": "Wed, 26 Aug 2026 03:28:43 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Israeli soldiers block Knesset member from besieged Palestinian home",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/israeli-soldiers-block-knesset-member-from-besieged-palestinian-home?traffic_source=rss",
-          "published": "Wed, 26 Aug 2026 02:54:12 +0000"
         }
       ]
     }
