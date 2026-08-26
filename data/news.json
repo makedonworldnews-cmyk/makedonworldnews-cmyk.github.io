@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-26T03:59:49Z",
+  "updatedAt": "2026-08-26T04:49:20Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "(Фото) Најпосакуваните и најмодерни фризури за претстојната есен: Тие имаат едно нешто заедничко",
+          "link": "https://makfax.com.mk/zanimlivosti/najposakuvanite-i-najmoderni-frizuri-za-pretstojnata-esen-tie-imaat-edno-neshto-zaednichko/",
+          "published": "Wed, 26 Aug 2026 04:30:03 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "(Фото) Жив оган и во спортско издание: Секоја девојка би го посакала телото на Џеј Ло",
+          "link": "https://makfax.com.mk/zanimlivosti/foto-zhiv-ogan-i-vo-sportsko-izdanie-sekoja-devojka-bi-go-posakala-teloto-na-dhej-lo/",
+          "published": "Wed, 26 Aug 2026 04:10:38 +0000"
         },
         {
           "source": "Makfax",
@@ -29,16 +41,16 @@
           "published": "Tue, 25 Aug 2026 20:48:49 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Трамп: Ормускиот теснец е расчистен, секој што ќе постави нови мини ќе биде уништен",
-          "link": "https://makfax.com.mk/svet/tramp-ormuskiot-tesnec-e-raschisten/",
-          "published": "Tue, 25 Aug 2026 20:24:23 +0000"
+          "source": "NetPress",
+          "title": "Дневен хороскоп за среда, 26-ти август 2026-та",
+          "link": "https://netpress.com.mk/dneven-horoskop-za-sreda-26-ti-avgust-2026-ta/",
+          "published": "Wed, 26 Aug 2026 04:37:48 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Десетици пожари избувнаа низ цела Грција",
-          "link": "https://makfax.com.mk/svet/region/desetici-pozhari-izbuvnaa-niz-cela-grcija/",
-          "published": "Tue, 25 Aug 2026 20:05:38 +0000"
+          "source": "NetPress",
+          "title": "Скопје денеска со температурен максимум",
+          "link": "https://netpress.com.mk/skopje-deneska-so-temperaturen-maksimum/",
+          "published": "Wed, 26 Aug 2026 04:06:22 +0000"
         },
         {
           "source": "NetPress",
@@ -57,18 +69,6 @@
           "title": "Десетици пожари избувнаа низ цела Грција",
           "link": "https://netpress.com.mk/deseticzi-pozhari-izbuvnaa-niz-czela-grczija/",
           "published": "Tue, 25 Aug 2026 21:00:50 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Односите со Израел се приоритет на македонската надворешна политика",
-          "link": "https://netpress.com.mk/odnosite-so-izrael-se-prioritet-na-makedonskata-nadvoreshna-politika/",
-          "published": "Tue, 25 Aug 2026 20:10:28 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Вероника Консевиќ обезбеди бронза за Македонија во борење",
-          "link": "https://netpress.com.mk/veronika-konsevik-obezbedi-bronza-za-makedonija-vo-borene/",
-          "published": "Tue, 25 Aug 2026 19:44:21 +0000"
         }
       ]
     },
@@ -107,6 +107,18 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "At least 15 newborns killed in Pakistan hospital fire",
+          "link": "https://www.aljazeera.com/news/2026/8/26/at-least-15-newborns-killed-in-pakistan-hospital-fire?traffic_source=rss",
+          "published": "Wed, 26 Aug 2026 04:27:15 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Dozens killed in rebel attacks on Sudan’s Kordofan, medical group says",
+          "link": "https://www.aljazeera.com/news/2026/8/26/dozens-killed-in-rebel-attacks-on-sudans-kordofan-medical-group-says?traffic_source=rss",
+          "published": "Wed, 26 Aug 2026 03:49:23 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Instagram chief testifies at Meta trial, says few teens used safety feature",
           "link": "https://www.aljazeera.com/news/2026/8/26/instagram-chief-testifies-at-meta-trial-says-few-teens-used-safety-feature?traffic_source=rss",
           "published": "Wed, 26 Aug 2026 03:40:26 +0000"
@@ -122,18 +134,6 @@
           "title": "Israeli soldiers block Knesset member from besieged Palestinian home",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/israeli-soldiers-block-knesset-member-from-besieged-palestinian-home?traffic_source=rss",
           "published": "Wed, 26 Aug 2026 02:54:12 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Mamdani opposes Hindu nationalist event in New York",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/mamdani-opposes-hindu-nationalist-event-in-new-york?traffic_source=rss",
-          "published": "Wed, 26 Aug 2026 02:47:02 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Water crisis makes life in Sudan’s El Obeid refugee camps even worse",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/water-crisis-makes-life-in-sudans-el-obeid-refugee-camps-even-worse?traffic_source=rss",
-          "published": "Wed, 26 Aug 2026 01:54:00 +0000"
         }
       ]
     }
