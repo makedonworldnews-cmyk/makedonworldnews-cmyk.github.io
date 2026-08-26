@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-26T11:48:46Z",
+  "updatedAt": "2026-08-26T12:20:06Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) 26-годишниот пациент од Зелениково ќе биде пуштен дома, на Инфективна од западнонилска треска се лекуваат 21 лице,  шестмина се на интезивна",
+          "link": "https://makfax.com.mk/makedonija/26-godishniot-pacient-od-zelenikovo-ke-bide-pushten-doma-na-infektivna-od-zapadnonislka-treska-se-lekuvaat-21-lice-shestmina-se-na-intezivna/",
+          "published": "Wed, 26 Aug 2026 12:10:39 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) „Кој гарантира дека земјоделците нема да останат без вода заради дата-центрите“, прашува Филипче",
+          "link": "https://makfax.com.mk/makedonija/video-koj-garantira-deka-zemjodelcite-nema-da-ostanat-bez-voda-zaradi-data-centrite-prashuva-filipche/",
+          "published": "Wed, 26 Aug 2026 12:02:33 +0000"
         },
         {
           "source": "Makfax",
@@ -29,46 +41,34 @@
           "published": "Wed, 26 Aug 2026 11:29:32 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Меџити: Автопатот Скопје–Блаце станува реалност, денес го поставивме камен-темелникот",
-          "link": "https://makfax.com.mk/makedonija/medhiti-avtopatot-skopje-blace-stanuva-realnost-denes-go-postavivme-kamen-temelnikot/",
-          "published": "Wed, 26 Aug 2026 11:23:02 +0000"
+          "source": "NetPress",
+          "title": "Унгарија ја прогласи Русија за закана",
+          "link": "https://netpress.com.mk/ungarija-ja-proglasi-rusija-za-zakana/",
+          "published": "Wed, 26 Aug 2026 12:17:32 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "(Видео) Лефков: Филипче да не се фали со постапки на обвинител на СДС и ДУИ, да го потсетиме вакви одлуки му штетат на патот на Македонија кон ЕУ",
-          "link": "https://makfax.com.mk/makedonija/video-lefkov-filipche-da-ne-se-fali-so-postapki-na-obvinitel-na-sds-i-dui-da-go-potsetime-vakvi-odluki-mu-shtetat-na-patot-na-makedonija-kon-eu/",
-          "published": "Wed, 26 Aug 2026 11:19:19 +0000"
+          "source": "NetPress",
+          "title": "Со западнонилска треска заразени 53 лица, на Инфективна се лекуваат 21 пациент",
+          "link": "https://netpress.com.mk/so-zapadnonilska-treska-zarazeni-53-licza-na-infektivna-se-lekuvaat-21-paczient/",
+          "published": "Wed, 26 Aug 2026 12:08:06 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Меџити: Автопатот Скопје–Блаце станува реалност, денес го поставивме камен-темелникот, а утре по него ќе патуваат цели генерации",
+          "link": "https://netpress.com.mk/medhiti-avtopatot-skopje-blacze-stanuva-realnost-denes-go-postavivme-kamen-temelnikot-a-utre-po-nego-ke-patuvaat-czeli-generaczii/",
+          "published": "Wed, 26 Aug 2026 12:00:04 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Продолжението на филмот „Како да го изгубиш момчето за 10 дена“ доаѓа по 23 години",
+          "link": "https://netpress.com.mk/prodolzhenieto-na-filmot-kako-da-go-izgubish-momcheto-za-10-dena-doaga-po-23-godini/",
+          "published": "Wed, 26 Aug 2026 11:58:17 +0000"
         },
         {
           "source": "NetPress",
           "title": "ЦУК: До 13 часот активни се пет пожари",
           "link": "https://netpress.com.mk/czuk-do-13-chasot-aktivni-se-pet-pozhari/",
           "published": "Wed, 26 Aug 2026 11:42:09 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Филипче да не се фали со одлуки на обвинителството, ваквите постапки му штетат на патот на Македонија кон ЕУ",
-          "link": "https://netpress.com.mk/filipche-da-ne-se-fali-so-odluki-na-obvinitelstvoto-vakvite-postapki-mu-shtetat-na-patot-na-makedonija-kon-eu/",
-          "published": "Wed, 26 Aug 2026 11:36:29 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Зошто директорот на ЦИА тајно ја посети Москва?",
-          "link": "https://netpress.com.mk/zoshto-direktorot-na-czia-tajno-ja-poseti-moskva/",
-          "published": "Wed, 26 Aug 2026 11:32:39 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Тошковски: 310 кандидати ќе бидат примени во Средното полициско училиште",
-          "link": "https://netpress.com.mk/toshkovski-310-kandidati-ke-bidat-primeni-vo-srednoto-policzisko-uchilishte/",
-          "published": "Wed, 26 Aug 2026 11:32:11 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "EСВ сигнализира ново зголемување на каматните стапки за  ограничување на инфлаторните ризици",
-          "link": "https://netpress.com.mk/esv-signalizira-novo-zgolemuvane-na-kamatnite-stapki-za-ogranichuvane-na-inflatornite-riziczi/",
-          "published": "Wed, 26 Aug 2026 11:29:13 +0000"
         }
       ]
     },
@@ -77,9 +77,9 @@
       "items": [
         {
           "source": "BBC",
-          "title": "At least 14 babies die in Pakistan hospital fire",
-          "link": "https://www.bbc.co.uk/news/articles/crk3dxj6zneo?at_medium=RSS&at_campaign=rss",
-          "published": "Wed, 26 Aug 2026 10:42:00 GMT"
+          "title": "Door was locked at Pakistan hospital where fire killed 14 babies, witnesses say",
+          "link": "https://www.bbc.co.uk/news/articles/czdz13elezlo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 26 Aug 2026 11:55:05 GMT"
         },
         {
           "source": "BBC",
@@ -125,7 +125,7 @@
         },
         {
           "source": "Al Jazeera",
-          "title": "Manchester City sign teenage Moroccan star Ayyoub Bouaddi from Lille",
+          "title": "Manchester City sign teenage Moroccan midfielder Ayyoub Bouaddi from Lille",
           "link": "https://www.aljazeera.com/sports/2026/8/26/manchester-city-sign-teenage-moroccan-football-star-ayyoub-bouaddi?traffic_source=rss",
           "published": "Wed, 26 Aug 2026 11:06:28 +0000"
         },
