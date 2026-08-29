@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-28T18:55:23Z",
+  "updatedAt": "2026-08-29T01:59:54Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) Поранешната Мис на САД падна два пати за време на збогувањето со титулата",
+          "link": "https://makfax.com.mk/zanimlivosti/video-poraneshnata-mis-na-sad-padna-dvapati-za-vreme-na-zboguvanjeto-so-titulata/",
+          "published": "Fri, 28 Aug 2026 19:30:43 +0000"
         },
         {
           "source": "Makfax",
@@ -33,12 +39,6 @@
           "title": "Јувентус три месеци ќе биде без најдобриот играч",
           "link": "https://makfax.com.mk/sport/juventus-tri-meseci-ke-bide-bez-najdobriot-igrach/",
           "published": "Fri, 28 Aug 2026 17:55:27 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Мората ќе игра во Втората шпанска лига",
-          "link": "https://makfax.com.mk/sport/morata-ke-igra-vo-vtorata-shpanska-liga/",
-          "published": "Fri, 28 Aug 2026 17:52:00 +0000"
         },
         {
           "source": "NetPress",
@@ -77,63 +77,63 @@
       "items": [
         {
           "source": "BBC",
-          "title": "Watch: Why rescuers fear new barrier lake could cause another Nepal-Tibet flood",
-          "link": "https://www.bbc.co.uk/news/videos/cj06j16vpr5o?at_medium=RSS&at_campaign=rss",
-          "published": "Fri, 28 Aug 2026 10:35:06 GMT"
+          "title": "Footage of Tibet floods isn't being shown in China - and we know little about victims there",
+          "link": "https://www.bbc.co.uk/news/articles/cx2z415w2gpo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 28 Aug 2026 22:05:41 GMT"
+        },
+        {
+          "source": "BBC",
+          "title": "Trump says US has 'historic' deal to control 65bn barrels of Venezuela's oil",
+          "link": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 29 Aug 2026 01:21:43 GMT"
+        },
+        {
+          "source": "BBC",
+          "title": "Landlady to 9/11 hijackers reveals their links to alleged Saudi spy",
+          "link": "https://www.bbc.co.uk/news/articles/c99dvm39mreo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 29 Aug 2026 00:32:17 GMT"
         },
         {
           "source": "BBC",
           "title": "Norway mourns King Harald as Haakon VIII ascends throne",
           "link": "https://www.bbc.co.uk/news/articles/cm2rzxrdr71o?at_medium=RSS&at_campaign=rss",
-          "published": "Fri, 28 Aug 2026 18:13:28 GMT"
+          "published": "Fri, 28 Aug 2026 19:40:45 GMT"
         },
         {
           "source": "BBC",
-          "title": "Oslo mayor calls off wedding ceremony after death of Norway's king",
-          "link": "https://www.bbc.co.uk/news/articles/c5ydgk3v60eo?at_medium=RSS&at_campaign=rss",
-          "published": "Fri, 28 Aug 2026 13:50:34 GMT"
-        },
-        {
-          "source": "BBC",
-          "title": "Violence breaks out in Ceuta as migrant crisis continues",
-          "link": "https://www.bbc.co.uk/news/articles/cy9zj11gwzxo?at_medium=RSS&at_campaign=rss",
-          "published": "Fri, 28 Aug 2026 16:30:59 GMT"
-        },
-        {
-          "source": "BBC",
-          "title": "Thieves steal 600-diamond necklace from Vienna museum in broad daylight",
-          "link": "https://www.bbc.co.uk/news/articles/cqxvwpe0plro?at_medium=RSS&at_campaign=rss",
-          "published": "Fri, 28 Aug 2026 17:29:16 GMT"
+          "title": "Right-wing commentator Milo Yiannopoulos detained by ICE",
+          "link": "https://www.bbc.co.uk/news/articles/cj06jgq62v9o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 29 Aug 2026 00:46:02 GMT"
         },
         {
           "source": "Al Jazeera",
-          "title": "Deadly Russian strikes hit civilian targets in Ukraine",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/28/deadly-russian-strikes-hit-civilian-targets-in-ukraine?traffic_source=rss",
-          "published": "Fri, 28 Aug 2026 18:37:17 +0000"
+          "title": "Gunfire, blasts heard in several areas of Niger capital Niamey",
+          "link": "https://www.aljazeera.com/news/2026/8/29/gunfire-blasts-heard-in-several-areas-of-niger-capital-niamey?traffic_source=rss",
+          "published": "Sat, 29 Aug 2026 01:30:08 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Israeli strike kills three Palestinians in West Bank’s Jenin",
-          "link": "https://www.aljazeera.com/news/2026/8/28/israeli-strike-kills-three-palestinians-in-west-banks-jenin?traffic_source=rss",
-          "published": "Fri, 28 Aug 2026 17:47:17 +0000"
+          "title": "Board of Peace’s Mladenov warns Gaza could be ‘gone for good’",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/29/board-of-peaces-mladenov-warns-gaza-could-be-gone-for?traffic_source=rss",
+          "published": "Sat, 29 Aug 2026 00:53:56 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "‘Terrorist connection’ alleged in Trump’s Scotland golf course damage case",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/28/28-08-sv-trump-golf-course-terror-charges-fm?traffic_source=rss",
-          "published": "Fri, 28 Aug 2026 17:36:56 +0000"
+          "title": "US revises statements suggesting Chinese hackers attacked agencies",
+          "link": "https://www.aljazeera.com/news/2026/8/29/us-revises-statements-suggesting-chinese-hackers-attacked-agencies?traffic_source=rss",
+          "published": "Sat, 29 Aug 2026 00:46:20 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "US judge denies injunction against Trump’s new birthright citizenship order",
-          "link": "https://www.aljazeera.com/news/2026/8/28/us-judge-denies-injunction-against-trumps-new-birthright-citizenship-order?traffic_source=rss",
-          "published": "Fri, 28 Aug 2026 17:32:55 +0000"
+          "title": "US judge rejects Trump’s bid to switch hush-money case to federal court",
+          "link": "https://www.aljazeera.com/news/2026/8/29/us-judge-rejects-trumps-bid-to-switch-hush-money-case-to-federal-court?traffic_source=rss",
+          "published": "Sat, 29 Aug 2026 00:19:00 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "US Fed chair warns inflation progress insufficient, hints at rate hikes",
-          "link": "https://www.aljazeera.com/economy/2026/8/28/us-fed-chair-warns-inflation-progress-insufficient-hints-at-rate-hikes?traffic_source=rss",
-          "published": "Fri, 28 Aug 2026 17:22:01 +0000"
+          "title": "Iran war live: IRGC asserts strait control, US enforces blockade",
+          "link": "https://www.aljazeera.com/news/liveblog/2026/8/29/iran-war-live-irgc-asserts-strait-control-us-enforces-blockade?traffic_source=rss",
+          "published": "Sat, 29 Aug 2026 00:00:00 +0000"
         }
       ]
     }
