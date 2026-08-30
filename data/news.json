@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-30T18:43:21Z",
+  "updatedAt": "2026-08-30T21:37:41Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Повеќе од 800 луѓе загинаа во поплавите во Непал и Кина",
+          "link": "https://makfax.com.mk/svet/poveke-od-800-luge-zaginaa-vo-poplavite-vo-nepal-i-kina/",
+          "published": "Sun, 30 Aug 2026 20:05:47 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Топлотниот бран во Австрија за два месеца усмрти 646 луѓе",
+          "link": "https://makfax.com.mk/svet/toplotniot-bran-vo-avstrija-za-dva-meseca-usmrti-646-luge/",
+          "published": "Sun, 30 Aug 2026 19:14:36 +0000"
         },
         {
           "source": "Makfax",
@@ -29,16 +41,22 @@
           "published": "Sun, 30 Aug 2026 17:59:30 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "(Видео) Хет-трик на Бруно, Јунајтед го победи Ипсвич",
-          "link": "https://makfax.com.mk/sport/video-het-trik-na-bruno-junajted-go-pobedi-ipsvich/",
-          "published": "Sun, 30 Aug 2026 17:53:05 +0000"
+          "source": "NetPress",
+          "title": "Двајца цивили убиени во претежно друзски регион во јужна Сирија",
+          "link": "https://netpress.com.mk/dvajcza-czivili-ubieni-vo-pretezhno-druzski-region-vo-juzhna-sirija/",
+          "published": "Sun, 30 Aug 2026 20:34:53 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "ЦУК: 17 пожари на отворен простор, од нив седум активни и два под контрола",
-          "link": "https://makfax.com.mk/makedonija/cuk-17-pozhari-na-otvoren-prostor-od-niv-sedum-aktivni-i-dva-pod-kontrola/",
-          "published": "Sun, 30 Aug 2026 17:28:00 +0000"
+          "source": "NetPress",
+          "title": "ФОТО| Уапсен капетанот и екипажот на потонатиот ферибот крај Северен Кипар",
+          "link": "https://netpress.com.mk/foto-uapsen-kapetanot-i-ekipazhot-na-potonatiot-feribot-kraj-severen-kipar/",
+          "published": "Sun, 30 Aug 2026 19:22:56 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Откриени неочекувани состојки во боите што ги користеле древните Египќани",
+          "link": "https://netpress.com.mk/otkrieni-neochekuvani-sostojki-vo-boite-shto-gi-koristele-drevnite-egipkani/",
+          "published": "Sun, 30 Aug 2026 19:00:52 +0000"
         },
         {
           "source": "NetPress",
@@ -51,24 +69,6 @@
           "title": "Премиер лига: Висока победа на Манчестер Јунајтед, Челзи се „коцкаше“ со Брајтон",
           "link": "https://netpress.com.mk/premier-liga-visoka-pobeda-na-manchester-junajted-chelzi-se-koczkashe-so-brajton/",
           "published": "Sun, 30 Aug 2026 18:24:22 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Бундеслига: Домашни победи на Аугсбург и Фрајбург",
-          "link": "https://netpress.com.mk/bundesliga-domashni-pobedi-na-augsburg-i-frajburg/",
-          "published": "Sun, 30 Aug 2026 17:55:12 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "На преминот Евзони-Богородица се чека до час ипол за влез во Македонија",
-          "link": "https://netpress.com.mk/na-preminot-evzoni-bogorodicza-se-cheka-do-chas-ipol-za-vlez-vo-makedonija/",
-          "published": "Sun, 30 Aug 2026 17:33:57 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Песков: Самит Путин-Трамп-Зеленски е можен само на крајот од преговорите",
-          "link": "https://netpress.com.mk/peskov-samit-putin-tramp-zelenski-e-mozhen-samo-na-krajot-od-pregovorite/",
-          "published": "Sun, 30 Aug 2026 16:52:58 +0000"
         }
       ]
     },
@@ -79,7 +79,13 @@
           "source": "BBC",
           "title": "Eight killed and others missing after ferry capsizes off northern Cyprus",
           "link": "https://www.bbc.co.uk/news/articles/c770jyd4l7lo?at_medium=RSS&at_campaign=rss",
-          "published": "Sun, 30 Aug 2026 18:31:17 GMT"
+          "published": "Sun, 30 Aug 2026 20:02:43 GMT"
+        },
+        {
+          "source": "BBC",
+          "title": "US strikes Iranian launchers on Larak Island in first known attack in weeks",
+          "link": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 30 Aug 2026 21:15:42 GMT"
         },
         {
           "source": "BBC",
@@ -95,45 +101,39 @@
         },
         {
           "source": "BBC",
-          "title": "Canada installs large Lake Ontario sign in latest jab at US",
-          "link": "https://www.bbc.co.uk/news/articles/cpq09594vw7o?at_medium=RSS&at_campaign=rss",
-          "published": "Sun, 30 Aug 2026 14:25:43 GMT"
-        },
-        {
-          "source": "BBC",
-          "title": "WhatsApp chat used to send cash for crime and extremism",
-          "link": "https://www.bbc.co.uk/news/articles/cgk57lg7566o?at_medium=RSS&at_campaign=rss",
-          "published": "Sun, 30 Aug 2026 04:59:56 GMT"
+          "title": "'A giant leap forward': Nasa launches powerful new space telescope",
+          "link": "https://www.bbc.co.uk/news/articles/ce87e55vgpjo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 30 Aug 2026 18:53:53 GMT"
         },
         {
           "source": "Al Jazeera",
-          "title": "Top officials from Turkiye, Saudi Arabia, Pakistan to meet in Istanbul",
-          "link": "https://www.aljazeera.com/news/2026/8/30/top-officials-from-turkiye-saudi-arabia-pakistan-to-meet-in-istanbul?traffic_source=rss",
-          "published": "Sun, 30 Aug 2026 18:19:03 +0000"
+          "title": "Israeli strike kills 3-year-old child in Gaza",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/30/israeli-strike-kills-3-year-old-child-in-gaza?traffic_source=rss",
+          "published": "Sun, 30 Aug 2026 21:02:45 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Nepal’s flood survivors search for missing loved ones",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/30/nepals-flood-survivors-search-for-missing-loved-ones?traffic_source=rss",
-          "published": "Sun, 30 Aug 2026 17:57:08 +0000"
+          "title": "Jose Andres renews call for investigation into WCK Gaza staff killings",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/30/jose-andres-renews-call-for-investigation-into-wck-gaza-staff-killings?traffic_source=rss",
+          "published": "Sun, 30 Aug 2026 20:50:04 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "NASA launches $4.3bn Roman Telescope to uncover universe’s hidden secrets",
-          "link": "https://www.aljazeera.com/news/2026/8/30/nasa-launches-4-3bn-roman-telescope-to-uncover-universes-hidden-secrets?traffic_source=rss",
-          "published": "Sun, 30 Aug 2026 17:44:57 +0000"
+          "title": "‘Opening a new chapter’: Syria reopens embassy in Libya after talks",
+          "link": "https://www.aljazeera.com/news/2026/8/30/opening-a-new-chapter-syria-to-reopen-embassy-in-libya-after-talks?traffic_source=rss",
+          "published": "Sun, 30 Aug 2026 20:38:56 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Trump threatens to report journalist Kristen Welker to broadcast regulator",
-          "link": "https://www.aljazeera.com/news/2026/8/30/trump-threatens-to-report-journalist-kristen-welker-to-broadcast-regulator?traffic_source=rss",
-          "published": "Sun, 30 Aug 2026 17:22:06 +0000"
+          "title": "Video: Raging floodwaters sweep away lorry in the Philippines",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/30/video-raging-floodwaters-sweep-away-lorry-in-the-philippines?traffic_source=rss",
+          "published": "Sun, 30 Aug 2026 20:31:34 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Zambia opposition leader Brian Mundubile charged with treason",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/30/zambia-opposition-leader-brian-mundubile-charged-with-treason?traffic_source=rss",
-          "published": "Sun, 30 Aug 2026 17:18:45 +0000"
+          "title": "US strikes Iran’s Larak Island in first attack in weeks",
+          "link": "https://www.aljazeera.com/news/2026/8/30/us-strikes-irans-lark-island-in-first-attack-in-weeks?traffic_source=rss",
+          "published": "Sun, 30 Aug 2026 20:15:47 +0000"
         }
       ]
     }
