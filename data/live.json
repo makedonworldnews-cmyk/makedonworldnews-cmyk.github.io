@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T22:52:41Z",
+  "generated_at": "2026-09-01T01:31:37Z",
   "items": [
     {
       "region": "Македонија",
@@ -95,16 +95,37 @@
     {
       "region": "Свет",
       "source": "BBC",
+      "title": "US army secretary resigns after months of tension",
+      "link": "https://www.bbc.co.uk/news/articles/czjz31dk1xmo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 01 Sep 2026 01:01:03 GMT"
+    },
+    {
+      "region": "Свет",
+      "source": "BBC",
       "title": "'She slipped out of my hand' - children missing after ferry sinks off northern Cyprus",
       "link": "https://www.bbc.co.uk/news/articles/c1mv5ggg1l8o?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 31 Aug 2026 14:50:36 GMT"
     },
     {
       "region": "Свет",
-      "source": "BBC",
-      "title": "US and Iran trade strikes for first time in weeks",
-      "link": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 31 Aug 2026 13:47:30 GMT"
+      "source": "Al Jazeera",
+      "title": "Five years after Saied’s power grab, Tunisia’s old grievances resurface",
+      "link": "https://www.aljazeera.com/news/2026/9/1/five-years-after-saieds-power-grab-tunisias-old-grievances-resurface?traffic_source=rss",
+      "published": "Tue, 01 Sep 2026 00:15:22 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Iran war live: Trump vows to strike Iran ‘hard’ after first clash in month",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/9/1/iran-war-live-trump-vows-to-hit-iran-following-first-clash-in-a-month?traffic_source=rss",
+      "published": "Tue, 01 Sep 2026 00:00:00 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "US Army Secretary Daniel Driscoll submits resignation, media reports say",
+      "link": "https://www.aljazeera.com/news/2026/8/31/us-army-secretary-daniel-driscoll-submits-resignation-media-reports-say?traffic_source=rss",
+      "published": "Mon, 31 Aug 2026 23:23:00 +0000"
     },
     {
       "region": "Свет",
@@ -119,27 +140,6 @@
       "title": "JERUSALEM DAILY: JOURNALISTS ATTACKED",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/8/31/jerusalem-daily-journalists-attacked?traffic_source=rss",
       "published": "Mon, 31 Aug 2026 22:16:18 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "White House construction on $400m ballroom can go on, says US Supreme Court",
-      "link": "https://www.aljazeera.com/news/2026/8/31/white-house-construction-on-400m-ballroom-can-go-on-says-us-supreme-court?traffic_source=rss",
-      "published": "Mon, 31 Aug 2026 22:08:37 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Poland opens terror probe into fire at factory supplying Ukraine drones",
-      "link": "https://www.aljazeera.com/news/2026/8/31/poland-opens-terror-probe-into-fire-at-drone-factory?traffic_source=rss",
-      "published": "Mon, 31 Aug 2026 21:24:15 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Arsenal edge past troubled Aston Villa 1-0 as Saka scores only goal",
-      "link": "https://www.aljazeera.com/sports/2026/8/31/arsenal-edge-past-troubled-aston-villa-1-0-as-saka-scores-only-goal?traffic_source=rss",
-      "published": "Mon, 31 Aug 2026 21:21:20 +0000"
     }
   ]
 }
