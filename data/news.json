@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-01T23:28:24Z",
+  "updatedAt": "2026-09-02T01:17:22Z",
   "groups": [
     {
       "region": "Македонија",
@@ -83,9 +83,9 @@
         },
         {
           "source": "BBC",
-          "title": "US strikes Iran as state media reports four killed at wedding party",
+          "title": "Iran retaliates after US strikes kills four at wedding party, state media reports",
           "link": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss",
-          "published": "Tue, 01 Sep 2026 21:48:28 GMT"
+          "published": "Wed, 02 Sep 2026 00:13:26 GMT"
         },
         {
           "source": "BBC",
@@ -104,6 +104,12 @@
           "title": "Sexual assaults happening almost every day in Ceuta, prosecutors say",
           "link": "https://www.bbc.co.uk/news/articles/c3v4pgk7gweo?at_medium=RSS&at_campaign=rss",
           "published": "Tue, 01 Sep 2026 15:33:14 GMT"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Iran war live: US bombs Iran, Tehran retaliates on Gulf neighbours, Jordan",
+          "link": "https://www.aljazeera.com/news/liveblog/2026/9/2/iran-war-live-us-bombs-iran-tehran-retaliates-on-gulf-neighbours-jordan?traffic_source=rss",
+          "published": "Wed, 02 Sep 2026 00:00:00 +0000"
         },
         {
           "source": "Al Jazeera",
@@ -128,12 +134,6 @@
           "title": "US urges G20 to cut trade imbalances, focus on China",
           "link": "https://www.aljazeera.com/economy/2026/9/1/us-urges-g20-to-cut-trade-imbalances-focus-on-china?traffic_source=rss",
           "published": "Tue, 01 Sep 2026 22:21:51 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "US energy secretary will travel to Venezuela to unveil oil arrangement",
-          "link": "https://www.aljazeera.com/news/2026/9/1/us-energy-secretary-will-travel-to-venezuela-to-unveil-oil-arrangement?traffic_source=rss",
-          "published": "Tue, 01 Sep 2026 21:54:14 +0000"
         }
       ]
     }
