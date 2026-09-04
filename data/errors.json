@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-09-03T23:12:15Z",
+  "generated_at": "2026-09-04T00:37:19Z",
   "errors": [
     {
       "source": "МИА",
       "url": "https://mia.mk/rss",
-      "error": "HTTPSConnectionPool(host='mia.mk', port=443): Max retries exceeded with url: /rss (Caused by ConnectTimeoutError(<HTTPSConnection(host='mia.mk', port=443) at 0x7fbe977def50>, 'Connection to mia.mk timed out. (connect timeout=12)'))"
+      "error": "HTTPSConnectionPool(host='mia.mk', port=443): Max retries exceeded with url: /rss (Caused by ConnectTimeoutError(<HTTPSConnection(host='mia.mk', port=443) at 0x7fb9d0efd7d0>, 'Connection to mia.mk timed out. (connect timeout=12)'))"
     }
   ]
 }
