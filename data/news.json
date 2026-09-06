@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T20:39:37Z",
+  "updatedAt": "2026-09-06T22:21:56Z",
   "groups": [
     {
       "region": "Македонија",
@@ -42,33 +42,33 @@
         },
         {
           "source": "NetPress",
+          "title": "Серија А: Реми во дербито на Јувентус и Милан",
+          "link": "https://netpress.com.mk/serija-a-remi-vo-derbito-na-juventus-i-milan/",
+          "published": "Sun, 06 Sep 2026 21:31:41 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Ла Лига: Еспањол во самиот финиш до бод против Севиља, „само“ 5:0 за Барса на „Местаља“",
+          "link": "https://netpress.com.mk/la-liga-espanol-vo-samiot-finish-do-bod-protiv-sevil-samo-50-za-barsa-na-mestala/",
+          "published": "Sun, 06 Sep 2026 21:16:19 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Американските претставници се надеваат на скорeшно продолжување на преговорите меѓу Украина и Русија",
+          "link": "https://netpress.com.mk/amerikanskite-pretstavniczi-se-nadevaat-na-skoreshno-prodolzhuvane-na-pregovorite-megu-ukraina-i-rusija/",
+          "published": "Sun, 06 Sep 2026 21:07:51 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "AfD постигна историска победа, обиди да се спречи преземањето на власта во Саксонија-Анхалт",
+          "link": "https://netpress.com.mk/afd-postigna-istoriska-pobeda-obidi-da-se-sprechi-prezemaneto-na-vlasta-vo-saksonija-anhalt/",
+          "published": "Sun, 06 Sep 2026 20:55:05 +0000"
+        },
+        {
+          "source": "NetPress",
           "title": "ФОТО| „Уште една средба со светлината“, изложба на Јордан Манасијески",
           "link": "https://netpress.com.mk/foto-ushte-edna-sredba-so-svetlinata-izlozhba-na-jordan-manasijeski/",
           "published": "Sun, 06 Sep 2026 20:24:21 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Виткоф ги повика Москва и Киев на компромис, Трамп е решен да се заврши војната",
-          "link": "https://netpress.com.mk/vitkof-gi-povika-moskva-i-kiev-na-kompromis-tramp-e-reshen-da-se-zavrshi-vojnata/",
-          "published": "Sun, 06 Sep 2026 20:01:28 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Нападнал полицаец откако направил сообраќаен прекршок",
-          "link": "https://netpress.com.mk/napadnal-policzaecz-otkako-napravil-soobrakaen-prekrshok/",
-          "published": "Sun, 06 Sep 2026 19:55:10 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Дербито Охрид- Еурофарм Пелистер без победник, битолчани постигна гол пред сирената",
-          "link": "https://netpress.com.mk/1105610-2/",
-          "published": "Sun, 06 Sep 2026 19:51:35 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Автопатите се градат со силна динамика – наскоро започнува изградба на Букојчани-Кичево",
-          "link": "https://netpress.com.mk/avtopatite-se-gradat-so-silna-dinamika-naskoro-zapochnuva-izgradba-na-bukojchani-kichevo/",
-          "published": "Sun, 06 Sep 2026 19:27:07 +0000"
         }
       ]
     },
@@ -77,15 +77,21 @@
       "items": [
         {
           "source": "BBC",
-          "title": "Zelensky says he expects war to continue into winter after talks with US envoys",
-          "link": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
-          "published": "Sun, 06 Sep 2026 20:18:52 GMT"
+          "title": "Germany's far-right AfD set for big win in eastern state, just short of majority",
+          "link": "https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 06 Sep 2026 21:37:05 GMT"
         },
         {
           "source": "BBC",
-          "title": "German far-right set for big win in eastern state, projections show",
-          "link": "https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&at_campaign=rss",
-          "published": "Sun, 06 Sep 2026 20:16:35 GMT"
+          "title": "Zelensky says he expects war to continue into winter after talks with US envoys",
+          "link": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 06 Sep 2026 20:41:58 GMT"
+        },
+        {
+          "source": "BBC",
+          "title": "Peace talks rich in symbolism but fundamental differences between Russia and Ukraine remain",
+          "link": "https://www.bbc.co.uk/news/articles/c980j5m8mpro?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 06 Sep 2026 20:52:12 GMT"
         },
         {
           "source": "BBC",
@@ -100,40 +106,34 @@
           "published": "Sun, 06 Sep 2026 16:54:34 GMT"
         },
         {
-          "source": "BBC",
-          "title": "TV presenter among 12 sentenced to death in Egypt drugs case",
-          "link": "https://www.bbc.co.uk/news/articles/c5y7gk9knnlo?at_medium=RSS&at_campaign=rss",
-          "published": "Sun, 06 Sep 2026 08:05:22 GMT"
+          "source": "Al Jazeera",
+          "title": "Alcaraz breezes into last eight at US Open",
+          "link": "https://www.aljazeera.com/sports/2026/9/6/alcaraz-breezes-into-last-eight-at-us-open?traffic_source=rss",
+          "published": "Sun, 06 Sep 2026 21:46:08 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "At least five killed in New Delhi building collapse",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/6/at-least-five-killed-in-new-delhi-building-collapse?traffic_source=rss",
-          "published": "Sun, 06 Sep 2026 20:05:32 +0000"
+          "title": "Amazon cargo plane crashes in US while landing at Miami airport",
+          "link": "https://www.aljazeera.com/news/2026/9/6/amazon-cargo-plane-crashes-in-us-while-landing-at-miami-airport?traffic_source=rss",
+          "published": "Sun, 06 Sep 2026 21:11:01 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Abdul El-Sayed uses speech to talk about Muslim faith and American identity",
-          "link": "https://www.aljazeera.com/news/2026/9/6/abdul-el-sayed-uses-speech-to-talk-about-muslim-faith-and-american-identity?traffic_source=rss",
-          "published": "Sun, 06 Sep 2026 19:45:36 +0000"
+          "title": "At least 10 killed in central Mexico fireworks blast during festival",
+          "link": "https://www.aljazeera.com/news/2026/9/6/at-least-10-killed-in-central-mexico-fireworks-blast-during-festival?traffic_source=rss",
+          "published": "Sun, 06 Sep 2026 21:08:30 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Indonesia volcano eruption disrupts hundreds of flights",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/6/indonesia-volcano-eruption-disrupts-hundreds-of-flights?traffic_source=rss",
-          "published": "Sun, 06 Sep 2026 18:58:35 +0000"
+          "title": "Amazon Prime plane overruns runway at Miami Airport",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/6/amazon-prime-plane-overruns-runway-at-miami-airport?traffic_source=rss",
+          "published": "Sun, 06 Sep 2026 21:08:24 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Adidas faces boycott calls over campaign featuring former Israeli soldier",
-          "link": "https://www.aljazeera.com/sports/2026/9/6/adidas-faces-boycott-calls-over-campaign-featuring-former-israeli-soldier?traffic_source=rss",
-          "published": "Sun, 06 Sep 2026 18:56:25 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Trump administration appeals again to US Supreme Court over mail-in voting",
-          "link": "https://www.aljazeera.com/news/2026/9/6/trump-administration-appeals-again-to-us-supreme-court-over-mail-in-voting?traffic_source=rss",
-          "published": "Sun, 06 Sep 2026 18:47:03 +0000"
+          "title": "Can AfD form Germany’s first far-right state government since World War II?",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/6/06-09-sv-germany-afd-wins-saxony-de-fm?traffic_source=rss",
+          "published": "Sun, 06 Sep 2026 20:52:01 +0000"
         }
       ]
     }
