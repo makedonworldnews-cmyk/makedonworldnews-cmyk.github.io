@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T22:21:56Z",
+  "updatedAt": "2026-09-07T00:11:24Z",
   "groups": [
     {
       "region": "Македонија",
@@ -79,7 +79,7 @@
           "source": "BBC",
           "title": "Germany's far-right AfD set for big win in eastern state, just short of majority",
           "link": "https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&at_campaign=rss",
-          "published": "Sun, 06 Sep 2026 21:37:05 GMT"
+          "published": "Sun, 06 Sep 2026 23:02:45 GMT"
         },
         {
           "source": "BBC",
@@ -107,13 +107,19 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Iran war live: Tehran to announce new Hormuz shipping route in coming days",
+          "link": "https://www.aljazeera.com/news/liveblog/2026/9/7/iran-war-live-tehran-to-announce-new-hormuz-shipping-route-in-coming-days?traffic_source=rss",
+          "published": "Mon, 07 Sep 2026 00:00:00 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Alcaraz breezes into last eight at US Open",
           "link": "https://www.aljazeera.com/sports/2026/9/6/alcaraz-breezes-into-last-eight-at-us-open?traffic_source=rss",
           "published": "Sun, 06 Sep 2026 21:46:08 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Amazon cargo plane crashes in US while landing at Miami airport",
+          "title": "At least five killed after Amazon cargo plane crash in Miami airport",
           "link": "https://www.aljazeera.com/news/2026/9/6/amazon-cargo-plane-crashes-in-us-while-landing-at-miami-airport?traffic_source=rss",
           "published": "Sun, 06 Sep 2026 21:11:01 +0000"
         },
@@ -128,12 +134,6 @@
           "title": "Amazon Prime plane overruns runway at Miami Airport",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/9/6/amazon-prime-plane-overruns-runway-at-miami-airport?traffic_source=rss",
           "published": "Sun, 06 Sep 2026 21:08:24 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Can AfD form Germany’s first far-right state government since World War II?",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/6/06-09-sv-germany-afd-wins-saxony-de-fm?traffic_source=rss",
-          "published": "Sun, 06 Sep 2026 20:52:01 +0000"
         }
       ]
     }
