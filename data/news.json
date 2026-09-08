@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-07T22:11:53Z",
+  "updatedAt": "2026-09-08T00:28:36Z",
   "groups": [
     {
       "region": "Македонија",
@@ -77,6 +77,12 @@
       "items": [
         {
           "source": "BBC",
+          "title": "Flight recorders recovered from 'devastating' Amazon cargo plane crash",
+          "link": "https://www.bbc.co.uk/news/articles/ce8e32n8epeo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 07 Sep 2026 22:23:03 GMT"
+        },
+        {
+          "source": "BBC",
           "title": "Palestinian parents fear for children's lives at school as settler attacks grow",
           "link": "https://www.bbc.co.uk/news/articles/c3wj45g73g1o?at_medium=RSS&at_campaign=rss",
           "published": "Mon, 07 Sep 2026 21:12:37 GMT"
@@ -89,21 +95,33 @@
         },
         {
           "source": "BBC",
-          "title": "Thousands turn out in Serbia for funeral of  'Butcher of Bosnia' Ratko Mladić",
-          "link": "https://www.bbc.co.uk/news/articles/cn5dkk7yw74o?at_medium=RSS&at_campaign=rss",
-          "published": "Mon, 07 Sep 2026 14:50:50 GMT"
+          "title": "Eiffel Tower shut by staff protest after women moved for religious visit",
+          "link": "https://www.bbc.co.uk/news/articles/clyenxp540vo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 07 Sep 2026 23:46:44 GMT"
         },
         {
           "source": "BBC",
-          "title": "Israeli strikes in southern Lebanese village kill 12",
-          "link": "https://www.bbc.co.uk/news/articles/c5yl96vz0edo?at_medium=RSS&at_campaign=rss",
-          "published": "Mon, 07 Sep 2026 13:39:23 GMT"
+          "title": "Trump threatens to stop sale of Canadian Bombardier jets in US",
+          "link": "https://www.bbc.co.uk/news/articles/c4gj8xx5010o?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 07 Sep 2026 23:29:12 GMT"
         },
         {
-          "source": "BBC",
-          "title": "Grindr to pay £26m to settle claims it allegedly shared users' HIV status",
-          "link": "https://www.bbc.co.uk/news/articles/cn8e63qdqwzo?at_medium=RSS&at_campaign=rss",
-          "published": "Mon, 07 Sep 2026 15:27:50 GMT"
+          "source": "Al Jazeera",
+          "title": "Houthis accuse Saudi Arabia of killing seven in Yemen prison attack",
+          "link": "https://www.aljazeera.com/news/2026/9/7/houthis-accuse-saudi-arabia-of-killing-seven-in-yemen-prison-attack?traffic_source=rss",
+          "published": "Mon, 07 Sep 2026 23:50:53 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Rubio heads to Ecuador, Colombia, Peru after right-wing victories in region",
+          "link": "https://www.aljazeera.com/news/2026/9/7/rubio-heads-to-ecuador-colombia-peru-after-right-wing-victories-in-region?traffic_source=rss",
+          "published": "Mon, 07 Sep 2026 22:41:27 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Hawaii braces for Hurricane Lowell",
+          "link": "https://www.aljazeera.com/news/2026/9/7/hawaii-braces-for-hurricane-lowell?traffic_source=rss",
+          "published": "Mon, 07 Sep 2026 22:37:25 +0000"
         },
         {
           "source": "Al Jazeera",
@@ -116,24 +134,6 @@
           "title": "Indian temple collapses into Ganges as riverbank erodes",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/9/7/indian-temple-collapses-into-ganges-as-riverbank-erodes?traffic_source=rss",
           "published": "Mon, 07 Sep 2026 21:09:44 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Israel’s removal of Gaza rubble risk to war crimes evidence: UN",
-          "link": "https://www.aljazeera.com/news/2026/9/7/israels-removal-of-gaza-rubble-risk-to-war-crimes-evidence-un?traffic_source=rss",
-          "published": "Mon, 07 Sep 2026 21:00:58 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Yemen fighting escalates as forces battle for Bab al-Mandeb Strait",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/7/yemen-fighting-escalates-as-forces-battle-for-bab-al-mandeb-strait?traffic_source=rss",
-          "published": "Mon, 07 Sep 2026 20:59:56 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Robots protest in Poland over AI regulation concerns",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/7/robots-protest-in-poland-over-ai-regulation-concerns?traffic_source=rss",
-          "published": "Mon, 07 Sep 2026 20:59:12 +0000"
         }
       ]
     }
