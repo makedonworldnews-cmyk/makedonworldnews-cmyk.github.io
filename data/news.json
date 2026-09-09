@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-08T22:45:30Z",
+  "updatedAt": "2026-09-09T00:42:22Z",
   "groups": [
     {
       "region": "Македонија",
@@ -12,6 +12,24 @@
         },
         {
           "source": "Makfax",
+          "title": "Грчка трагедија во Дортмунд: Карецас заврши во болница",
+          "link": "https://makfax.com.mk/sport/grchka-tragedija-vo-dortmund-karecas-zavrshi-vo-bolnica/",
+          "published": "Wed, 09 Sep 2026 00:21:03 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) Халанд го реши Порто",
+          "link": "https://makfax.com.mk/sport/video-haland-go-reshi-porto/",
+          "published": "Wed, 09 Sep 2026 00:05:07 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) Интер скапо ги плати грешките, Реал со победа стартуваше во ЛШ",
+          "link": "https://makfax.com.mk/sport/video-inter-skapo-gi-plati-greshkite-real-so-pobeda-startuvashe-vo-lsh/",
+          "published": "Tue, 08 Sep 2026 23:54:05 +0000"
+        },
+        {
+          "source": "Makfax",
           "title": "Лавров одговара на Европа: Ако нè нападнат, војната ќе биде кратка",
           "link": "https://makfax.com.mk/svet/lavrov-odgovara-na-evropa-ako-ne-napadnat-vojnata-ke-bide-kratka/",
           "published": "Tue, 08 Sep 2026 19:49:47 +0000"
@@ -21,24 +39,6 @@
           "title": "Министерот за финансии: Германија не може да се одбрани без нов долг",
           "link": "https://makfax.com.mk/svet/ministerot-za-finansii-germanija-ne-mozhe-da-se-odbrani-bez-nov-dolg/",
           "published": "Tue, 08 Sep 2026 19:29:53 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Руте: Сојузниците на Украина немаат друг избор освен да ја зголемат поддршката во војната против Русија",
-          "link": "https://makfax.com.mk/svet/rute-sojuznicite-na-ukraina-nemaat-drug-izbor-osven-da-ja-zgolemat-poddrshkata-vo-vojnata-protiv-rusija/",
-          "published": "Tue, 08 Sep 2026 19:14:05 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Битолскиот театар со „Едмонд“ гостува на 34. МФКТ „Ристо Шишков“ во Струмица",
-          "link": "https://makfax.com.mk/kultura/bitolskiot-teatar-so-edmond-gostuva-na-34-mfkt-risto-shishkov-vo-strumica/",
-          "published": "Tue, 08 Sep 2026 19:02:25 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "„Политико“: Идејата на Калас за експертска група за одбрана пропадна пред да се формира групата",
-          "link": "https://makfax.com.mk/svet/%e2%80%9epolitiko%e2%80%9c-idejata-na-kalas-za-ekspertska-grupa-za-odbrana-propadna-pred-da-se-formira-grupata/",
-          "published": "Tue, 08 Sep 2026 18:54:21 +0000"
         },
         {
           "source": "NetPress",
@@ -89,9 +89,15 @@
         },
         {
           "source": "BBC",
-          "title": "Carney says US trade war 'will come at a cost' as Canada strikes back on tariffs",
-          "link": "https://www.bbc.co.uk/news/articles/c8jdev0422jo?at_medium=RSS&at_campaign=rss",
-          "published": "Tue, 08 Sep 2026 14:46:16 GMT"
+          "title": "US slaps import ban on Canadian alcohol and other goods",
+          "link": "https://www.bbc.co.uk/news/articles/c99dm1000p7o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 09 Sep 2026 00:31:31 GMT"
+        },
+        {
+          "source": "BBC",
+          "title": "'Constantly on my mind' - 9/11 agony goes on for bereaved, 25 years on",
+          "link": "https://www.bbc.co.uk/news/articles/clyrjw1yj75o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 08 Sep 2026 23:11:32 GMT"
         },
         {
           "source": "BBC",
@@ -100,40 +106,34 @@
           "published": "Tue, 08 Sep 2026 13:35:28 GMT"
         },
         {
-          "source": "BBC",
-          "title": "Argentina to file criminal case against oil company operating in Falklands",
-          "link": "https://www.bbc.co.uk/news/articles/c8jd14glvneo?at_medium=RSS&at_campaign=rss",
-          "published": "Tue, 08 Sep 2026 11:09:54 GMT"
+          "source": "Al Jazeera",
+          "title": "Sharpeville massacre, 66 years on: Families still wait for justice",
+          "link": "https://www.aljazeera.com/news/2026/9/9/sharpeville-massacre-66-years-on-families-still-wait-for-justice?traffic_source=rss",
+          "published": "Wed, 09 Sep 2026 00:24:57 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "What we know about masked anti-migrant protesters in the UK",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/8/what-we-know-about-masked-anti-migrant-protesters-in-the-uk?traffic_source=rss",
-          "published": "Tue, 08 Sep 2026 22:28:56 +0000"
+          "title": "Anti-AfD protesters rally in Cologne after far-right election win",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/9/aje-onl-nf_anti-afd-protesters-rally-in-after-election-win-080926?traffic_source=rss",
+          "published": "Wed, 09 Sep 2026 00:16:06 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Protesters, police clash in Albania over Trump-linked project",
-          "link": "https://www.aljazeera.com/news/2026/9/8/protesters-police-clash-in-albania-over-trump-linked-project?traffic_source=rss",
-          "published": "Tue, 08 Sep 2026 22:05:17 +0000"
+          "title": "Marco Rubio says US seeks more economic and security ties in Latin America",
+          "link": "https://www.aljazeera.com/news/2026/9/9/marco-rubio-says-us-seeks-more-economic-and-security-ties-in-latin-america?traffic_source=rss",
+          "published": "Wed, 09 Sep 2026 00:14:22 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Haaland to the double as Manchester City beat Porto in Champions League",
-          "link": "https://www.aljazeera.com/sports/2026/9/8/haaland-to-the-double-as-manchester-city-beat-porto-in-champions-league?traffic_source=rss",
-          "published": "Tue, 08 Sep 2026 21:46:58 +0000"
+          "title": "US destroys five Iranian tankers, Iran retaliates with attacks on Jordan",
+          "link": "https://www.aljazeera.com/news/2026/9/9/us-destroys-five-iranian-tankers-iran-retaliates-with-attacks-on-jordan-base?traffic_source=rss",
+          "published": "Wed, 09 Sep 2026 00:08:37 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "What the UK ban on goods from illegal Israeli settlements really means",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/8/what-the-uk-ban-on-goods-from-illegal-israeli-settlements-really-means?traffic_source=rss",
-          "published": "Tue, 08 Sep 2026 21:35:36 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "US warns Ford over ties with Chinese firms amid tensions",
-          "link": "https://www.aljazeera.com/economy/2026/9/8/us-warns-ford-over-ties-with-chinese-firms-amid-tensions?traffic_source=rss",
-          "published": "Tue, 08 Sep 2026 21:24:03 +0000"
+          "title": "Suspected smugglers on trial over deadliest migrant tragedy in France",
+          "link": "https://www.aljazeera.com/news/2026/9/9/suspected-smugglers-on-trial-over-deadliest-migrant-tragedy-in-france?traffic_source=rss",
+          "published": "Wed, 09 Sep 2026 00:04:10 +0000"
         }
       ]
     }
