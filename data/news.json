@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T20:32:50Z",
+  "updatedAt": "2026-09-09T22:43:46Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) ПСЖ демонстрираше сила против Слован, пресврти во Ливерпул и Лисабон, Арсенал победи во Неапол",
+          "link": "https://makfax.com.mk/sport/video-pszh-demonstrirashe-sila-protiv-slovan-presvrti-vo-liverpul-i-lisabon-arsenal-pobedi-vo-neapol/",
+          "published": "Wed, 09 Sep 2026 21:24:04 +0000"
         },
         {
           "source": "Makfax",
@@ -35,40 +41,34 @@
           "published": "Wed, 09 Sep 2026 19:23:38 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Норвешкиот премиер: Дрон во Молдавија речиси го погоди авионот на Зеленски",
-          "link": "https://makfax.com.mk/svet/norveshkiot-premier-dron-vo-moldavija-rechisi-go-pogodi-avionot-na-zelenski/",
-          "published": "Wed, 09 Sep 2026 19:11:46 +0000"
+          "source": "NetPress",
+          "title": "Преглед ЛШ: Барса ефикасна, хет-трик на Торес за ПСЖ, пресврти на Спортинг и Ливерпул",
+          "link": "https://netpress.com.mk/pregled-lsh-barsa-efikasna-het-trik-na-tores-za-pszh-presvrti-na-sporting-i-liverpul/",
+          "published": "Wed, 09 Sep 2026 21:48:14 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Кумановец уапсен поради закани кон сопругата",
-          "link": "https://netpress.com.mk/kumanovecz-uapsen-poradi-zakani-kon-soprugata/",
-          "published": "Wed, 09 Sep 2026 20:12:34 +0000"
+          "title": "Трамп вели дека Путин сака да постигне договор за Украина",
+          "link": "https://netpress.com.mk/tramp-veli-deka-putin-saka-da-postigne-dogovor-za-ukraina/",
+          "published": "Wed, 09 Sep 2026 21:24:29 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Непал користи дронови за доставување помош до тешко достапните подрачја по катастрофалните поплави",
-          "link": "https://netpress.com.mk/nepal-koristi-dronovi-za-dostavuvane-pomosh-do-teshko-dostapnite-podrachja-po-katastrofalnite-poplavi/",
-          "published": "Wed, 09 Sep 2026 20:06:37 +0000"
+          "title": "Скопјанка уапсена оти се нафрлила на синот (16)",
+          "link": "https://netpress.com.mk/skopjanka-uapsena-oti-se-nafrlila-na-sinot-16/",
+          "published": "Wed, 09 Sep 2026 21:09:19 +0000"
         },
         {
           "source": "NetPress",
-          "title": "ВИДЕО| „Apple“ го претстави телефонот на преклопување Duo",
-          "link": "https://netpress.com.mk/video-apple-go-pretstavi-telefonot-na-preklopuvane-duo/",
-          "published": "Wed, 09 Sep 2026 19:58:52 +0000"
+          "title": "Авионот на Зеленски за малку ќе бил погоден од дрон при полетувањето кон Осло",
+          "link": "https://netpress.com.mk/avionot-na-zelenski-za-malku-ke-bil-pogoden-od-dron-pri-poletuvaneto-od-moldavija-za-oslo/",
+          "published": "Wed, 09 Sep 2026 21:01:41 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Маж од Тетовско се нафрлил со стап на снаата и нејзината ќерка",
-          "link": "https://netpress.com.mk/mazh-od-tetovsko-se-nafrlil-so-stap-na-snaata-i-nejzinata-kerka/",
-          "published": "Wed, 09 Sep 2026 19:36:25 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Нападнат од поранешната сопруга и нејзините родители",
-          "link": "https://netpress.com.mk/napadnat-od-poraneshnata-sopruga-i-nejzinite-roditeli/",
-          "published": "Wed, 09 Sep 2026 19:30:18 +0000"
+          "title": "Добил кривична пријава за демнење осум години помлада жена",
+          "link": "https://netpress.com.mk/dobil-krivichna-prijava-za-demnene-osum-godini-pomlada-zhena/",
+          "published": "Wed, 09 Sep 2026 20:59:36 +0000"
         }
       ]
     },
@@ -77,9 +77,9 @@
       "items": [
         {
           "source": "BBC",
-          "title": "Germany's Merz attacks AfD in stormy debate after far-right election win",
-          "link": "https://www.bbc.co.uk/news/articles/c98679wr78do?at_medium=RSS&at_campaign=rss",
-          "published": "Wed, 09 Sep 2026 13:29:33 GMT"
+          "title": "Spanish intelligence warned of Ceuta mass crossing plans before surge",
+          "link": "https://www.bbc.co.uk/news/articles/ced7vj2gv82o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 09 Sep 2026 21:23:45 GMT"
         },
         {
           "source": "BBC",
@@ -101,39 +101,39 @@
         },
         {
           "source": "BBC",
-          "title": "US to ban imports of some Canadian alcohol, dairy goods and motorbikes",
-          "link": "https://www.bbc.co.uk/news/articles/c99dm1000p7o?at_medium=RSS&at_campaign=rss",
-          "published": "Wed, 09 Sep 2026 10:20:40 GMT"
+          "title": "Germany's Merz attacks AfD in stormy debate after far-right election win",
+          "link": "https://www.bbc.co.uk/news/articles/c98679wr78do?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 09 Sep 2026 13:29:33 GMT"
         },
         {
           "source": "Al Jazeera",
-          "title": "Yemen envoy warns of wider war as Houthis threaten Bab al-Mandeb Strait",
-          "link": "https://www.aljazeera.com/news/2026/9/9/yemen-envoy-warns-of-wider-war-as-houthis-threaten-bab-al-mandeb-strait?traffic_source=rss",
-          "published": "Wed, 09 Sep 2026 20:05:48 +0000"
+          "title": "Gauff beats Andreeva to reach US Open semifinals in comeback win",
+          "link": "https://www.aljazeera.com/sports/2026/9/9/gauff-beats-andreeva-to-reach-us-open-semifinals-in-comeback-win?traffic_source=rss",
+          "published": "Wed, 09 Sep 2026 22:08:01 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Iraqi graduates protest for govt jobs amid unemployment crisis",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/9/09-09-reported-iraq-grad-protests?traffic_source=rss",
-          "published": "Wed, 09 Sep 2026 20:05:22 +0000"
+          "title": "‘Everyone’s had their holidays ruined’: outrage after UK airport chaos",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/9/everyones-had-their-holidays-ruined-outrage-after-uk-airport-chaos?traffic_source=rss",
+          "published": "Wed, 09 Sep 2026 22:06:25 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Apple debuts $1,999 passport-shaped foldable phone, called Duo",
-          "link": "https://www.aljazeera.com/economy/2026/9/9/apple-debuts-1999-passport-shaped-foldable-phone-called-duo?traffic_source=rss",
-          "published": "Wed, 09 Sep 2026 20:00:35 +0000"
+          "title": "US court denies Tate brothers’ bid to be released from Miami jail",
+          "link": "https://www.aljazeera.com/news/2026/9/9/us-court-denies-tate-brothers-bid-to-be-released-from-miami-jail?traffic_source=rss",
+          "published": "Wed, 09 Sep 2026 21:28:16 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Israeli strike targets home in Gaza’s al-Shati refugee camp",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/9/israeli-strike-targets-home-in-gazas-al-shati-refugee-camp?traffic_source=rss",
-          "published": "Wed, 09 Sep 2026 19:37:47 +0000"
+          "title": "Misfiring Arsenal beat Napoli with Odegaard stunner in Champions League",
+          "link": "https://www.aljazeera.com/sports/2026/9/9/misfiring-arsenal-beat-napoli-with-odegaard-stunner-in-champions-league?traffic_source=rss",
+          "published": "Wed, 09 Sep 2026 21:20:20 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Two rescued after plane makes emergency landing in Black Sea",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/9/two-rescued-after-plane-makes-emergency-landing-in-black-sea?traffic_source=rss",
-          "published": "Wed, 09 Sep 2026 19:27:18 +0000"
+          "title": "Manchester United vs Sabah: UEFA Champions League – preview, team news",
+          "link": "https://www.aljazeera.com/sports/2026/9/9/carrick-confident-man-utd-can-go-far-in-magical-champions-league?traffic_source=rss",
+          "published": "Wed, 09 Sep 2026 21:15:04 +0000"
         }
       ]
     }
