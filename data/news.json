@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-10T00:39:10Z",
+  "updatedAt": "2026-09-10T05:18:41Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Без струја делови од неколку скопски општини",
+          "link": "https://makfax.com.mk/makedonija/bez-struja-delovi-od-nekolku-skopski-opshtini/",
+          "published": "Thu, 10 Sep 2026 05:10:54 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Mедведев: Русија има воен потенцијал да направи нуклеарна прашина од објектите на НАТО",
+          "link": "https://makfax.com.mk/svet/medvedev-rusija-ima-voen-potencijal-da-napravi-nuklearna-prashina-od-objektite-na-nato/",
+          "published": "Thu, 10 Sep 2026 05:08:10 +0000"
         },
         {
           "source": "Makfax",
@@ -29,16 +41,22 @@
           "published": "Wed, 09 Sep 2026 19:43:37 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Вилијам Болдвин за конфликтот со Шерон Стоун: „Никогаш повеќе нема да работам со неа“",
-          "link": "https://makfax.com.mk/zanimlivosti/vilijam-boldvin-za-konfliktot-so-sheron-stoun-%e2%80%9enikogash-poveke-nema-da-rabotam-so-nea%e2%80%9c/",
-          "published": "Wed, 09 Sep 2026 19:32:39 +0000"
+          "source": "NetPress",
+          "title": "Дневен хороскоп за четврток, 10-ти септември 2026-та",
+          "link": "https://netpress.com.mk/dneven-horoskop-za-chetvrtok-10-ti-septemvri-2026-ta/",
+          "published": "Thu, 10 Sep 2026 05:07:40 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "СДС ги нарече граѓаните идиоти, велат од ВМРО-ДПМНЕ",
-          "link": "https://makfax.com.mk/makedonija/sds-gi-nareche-graganite-idioti-velat-od-vmro-dpmne/",
-          "published": "Wed, 09 Sep 2026 19:23:38 +0000"
+          "source": "NetPress",
+          "title": "Без вода улици во Чаир",
+          "link": "https://netpress.com.mk/bez-voda-uliczi-vo-chair-3/",
+          "published": "Thu, 10 Sep 2026 04:46:47 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Сончево и топло преку ден, попладне услови за невремиња",
+          "link": "https://netpress.com.mk/sonchevo-i-toplo-preku-den-popladne-uslovi-za-nevremina/",
+          "published": "Thu, 10 Sep 2026 04:27:28 +0000"
         },
         {
           "source": "NetPress",
@@ -51,30 +69,24 @@
           "title": "Преглед ЛШ: Барса ефикасна, хет-трик на Торес за ПСЖ, пресврти на Спортинг и Ливерпул",
           "link": "https://netpress.com.mk/pregled-lsh-barsa-efikasna-het-trik-na-tores-za-pszh-presvrti-na-sporting-i-liverpul/",
           "published": "Wed, 09 Sep 2026 21:48:14 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Трамп вели дека Путин сака да постигне договор за Украина",
-          "link": "https://netpress.com.mk/tramp-veli-deka-putin-saka-da-postigne-dogovor-za-ukraina/",
-          "published": "Wed, 09 Sep 2026 21:24:29 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Скопјанка уапсена оти се нафрлила на синот (16)",
-          "link": "https://netpress.com.mk/skopjanka-uapsena-oti-se-nafrlila-na-sinot-16/",
-          "published": "Wed, 09 Sep 2026 21:09:19 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Авионот на Зеленски за малку ќе бил погоден од дрон при полетувањето кон Осло",
-          "link": "https://netpress.com.mk/avionot-na-zelenski-za-malku-ke-bil-pogoden-od-dron-pri-poletuvaneto-od-moldavija-za-oslo/",
-          "published": "Wed, 09 Sep 2026 21:01:41 +0000"
         }
       ]
     },
     {
       "region": "Свет",
       "items": [
+        {
+          "source": "BBC",
+          "title": "Iran war won't end until after crucial November elections, says Trump",
+          "link": "https://www.bbc.co.uk/news/articles/c5ydld0gykpo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 10 Sep 2026 04:21:00 GMT"
+        },
+        {
+          "source": "BBC",
+          "title": "Five dead and 86 missing as 'heartbreaking' fire breaks out on Philippines ferry",
+          "link": "https://www.bbc.co.uk/news/articles/cy4zd4dn9n9o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 10 Sep 2026 04:08:07 GMT"
+        },
         {
           "source": "BBC",
           "title": "Spanish intelligence warned of Ceuta mass crossing plans before surge",
@@ -94,46 +106,34 @@
           "published": "Wed, 09 Sep 2026 16:46:53 GMT"
         },
         {
-          "source": "BBC",
-          "title": "Iran referred to UN Security Council for nuclear non-compliance",
-          "link": "https://www.bbc.co.uk/news/articles/ckgwj4kl5lno?at_medium=RSS&at_campaign=rss",
-          "published": "Wed, 09 Sep 2026 20:22:51 GMT"
-        },
-        {
-          "source": "BBC",
-          "title": "Germany's Merz attacks AfD in stormy debate after far-right election win",
-          "link": "https://www.bbc.co.uk/news/articles/c98679wr78do?at_medium=RSS&at_campaign=rss",
-          "published": "Wed, 09 Sep 2026 13:29:33 GMT"
+          "source": "Al Jazeera",
+          "title": "Fighting escalates in Yemen; Houthi attacks trigger alerts in Saudi Arabia",
+          "link": "https://www.aljazeera.com/news/2026/9/10/fighting-escalates-in-yemen-houthi-attacks-trigger-alerts-in-saudi-arabia?traffic_source=rss",
+          "published": "Thu, 10 Sep 2026 05:09:39 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Iran war live: Iran media say ‘enemy’ projectiles hit Sirik areas",
-          "link": "https://www.aljazeera.com/news/liveblog/2026/9/10/iran-war-live-iran-media-says-sirik-areas-hit-with-hostile-projectiles?traffic_source=rss",
-          "published": "Thu, 10 Sep 2026 00:00:00 +0000"
+          "title": "Ukrainian drones strike Russian Caspian Sea port in Dagestan",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/10/aje-onl-nf_suspected-ukrainian-drones-strike-dagestan-100926?traffic_source=rss",
+          "published": "Thu, 10 Sep 2026 04:41:06 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "US announces $45m in security funding, additional naval vessels for Ecuador",
-          "link": "https://www.aljazeera.com/news/2026/9/9/us-announces-45m-in-security-funding-additional-naval-vessels-for-ecuador?traffic_source=rss",
-          "published": "Wed, 09 Sep 2026 23:40:00 +0000"
+          "title": "Trump: Every American gets $5,000 if Republicans win House & Senate",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/10/trump-every-american-gets-5000-if-republicans-win-house-senate?traffic_source=rss",
+          "published": "Thu, 10 Sep 2026 04:25:50 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Trump says the US-Iran war will end right after midterms",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/9/trump-says-the-us-iran-war-will-end-right-after-midterms?traffic_source=rss",
-          "published": "Wed, 09 Sep 2026 23:22:46 +0000"
+          "title": "Five dead, dozens missing in Philippines ferry fire",
+          "link": "https://www.aljazeera.com/news/2026/9/10/five-dead-dozens-missing-in-philippines-ferry-fire?traffic_source=rss",
+          "published": "Thu, 10 Sep 2026 03:43:18 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Iran war looms over Trump at Republican midterm convention in Dallas",
-          "link": "https://www.aljazeera.com/news/2026/9/9/iran-war-looms-over-trump-at-republican-midterm-convention-in-dallas?traffic_source=rss",
-          "published": "Wed, 09 Sep 2026 23:15:38 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Gauff beats Andreeva to reach US Open semifinals in comeback win",
-          "link": "https://www.aljazeera.com/sports/2026/9/9/gauff-beats-andreeva-to-reach-us-open-semifinals-in-comeback-win?traffic_source=rss",
-          "published": "Wed, 09 Sep 2026 22:08:01 +0000"
+          "title": "Netanyahu to sue Haaretz over claims UAE warned him before October 7 attack",
+          "link": "https://www.aljazeera.com/news/2026/9/10/netanyahu-to-sue-haaretz-over-claims-uae-warned-him-before-october-7-attack?traffic_source=rss",
+          "published": "Thu, 10 Sep 2026 03:14:52 +0000"
         }
       ]
     }
