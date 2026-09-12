@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-12T18:19:24Z",
+  "updatedAt": "2026-09-12T20:40:32Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Герасимовски: Нема цензура, туку политички театар, ЗНАМ и Левица глумат жртви и ја манипулираат јавноста",
+          "link": "https://makfax.com.mk/makedonija/gerasimovski-nema-cenzura-tuku-politichki-teatar-znam-i-levica-glumat-zhrtvi-i-ja-manipuliraat-javnosta/",
+          "published": "Sat, 12 Sep 2026 18:49:28 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Тотенхем во историска криза: Четири кола, нула победи и нула голови",
+          "link": "https://makfax.com.mk/sport/totenhem-vo-istoriska-kriza-chetiri-kola-nula-pobedi-i-nula-golovi/",
+          "published": "Sat, 12 Sep 2026 18:41:02 +0000"
         },
         {
           "source": "Makfax",
@@ -29,46 +41,34 @@
           "published": "Sat, 12 Sep 2026 16:15:02 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "(Видео) Фрајбург го растури Менхенгладбах, сигурни победи на Дортмунд и Ајнтрахт",
-          "link": "https://makfax.com.mk/sport/video-frajburg-go-rasturi-menhengladbah-sigurni-pobedi-na-dortmund-i-ajntraht/",
-          "published": "Sat, 12 Sep 2026 15:44:02 +0000"
+          "source": "NetPress",
+          "title": "Мерц не е вистинската личност за канцелар, сметаат дури 78 отсто Германци",
+          "link": "https://netpress.com.mk/mercz-ne-e-vistinskata-lichnost-za-kanczelar-smetaat-duri-78-otsto-germanczi/",
+          "published": "Sat, 12 Sep 2026 20:38:24 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Досега регистрирани 138 шумски пожари во државава, до крајот на јули штетата изнесува четири милиони евра",
-          "link": "https://makfax.com.mk/makedonija/dosega-registrirani-138-shumski-pozhari-vo-drzhavava-do-krajot-na-juli-shtetata-iznesuva-chetiri-milioni-evra/",
-          "published": "Sat, 12 Sep 2026 15:23:24 +0000"
+          "source": "NetPress",
+          "title": "Иран им пренел седум услови на САД за отворање на Хормуз",
+          "link": "https://netpress.com.mk/iran-im-prenel-sedum-uslovi-na-sad-za-otvorane-na-hormuz/",
+          "published": "Sat, 12 Sep 2026 19:48:05 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Путин: Униполарниот систем што служеше на тесна група земји станува минато",
+          "link": "https://netpress.com.mk/putin-unipolarniot-sistem-shto-sluzheshe-na-tesna-grupa-zemji-stanuva-minato/",
+          "published": "Sat, 12 Sep 2026 18:53:29 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "ВИДЕО| Давид Гета за концертот во Скопје: Го направивме најголемото шоу",
+          "link": "https://netpress.com.mk/video-david-geta-za-konczertot-vo-skopje-go-napravivme-najgolemoto-shou/",
+          "published": "Sat, 12 Sep 2026 18:33:24 +0000"
         },
         {
           "source": "NetPress",
           "title": "Обвинителството почна постапка за злоупотребите со возачките дозволи и побара притвори",
           "link": "https://netpress.com.mk/obvinitelstvoto-pochna-postapka-za-zloupotrebite-so-vozachkite-dozvoli-i-pobara-pritvori/",
           "published": "Sat, 12 Sep 2026 18:11:10 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Напаѓачот во училиштето во Загреб осомничен за обиди за убиства и кршење на правата на децата",
-          "link": "https://netpress.com.mk/napagachot-vo-uchilishteto-vo-zagreb-osomnichen-za-obidi-za-ubistva-i-krshene-na-pravata-na-deczata/",
-          "published": "Sat, 12 Sep 2026 17:54:32 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Бројот на загинати во пожарот на филипинскиот траект се зголеми на 76",
-          "link": "https://netpress.com.mk/brojot-na-zaginati-vo-pozharot-na-filipinskiot-traekt-se-zgolemi-na-76/",
-          "published": "Sat, 12 Sep 2026 17:43:23 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Блокада на кружниот тек во Тополчани поради ниските откупни цени за пиперката",
-          "link": "https://netpress.com.mk/blokada-na-kruzhniot-tek-vo-topolchani-poradi-niskite-otkupni-czeni-za-piperkata/",
-          "published": "Sat, 12 Sep 2026 17:27:44 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Моди и Кси го поздравија „стабилниот напредок“ во односите меѓу Индија и Кина",
-          "link": "https://netpress.com.mk/modi-i-ksi-go-pozdravija-stabilniot-napredok-vo-odnosite-megu-indija-i-kina/",
-          "published": "Sat, 12 Sep 2026 17:27:13 +0000"
         }
       ]
     },
@@ -95,45 +95,45 @@
         },
         {
           "source": "BBC",
+          "title": "Fire at nursing home in Chile kills 16 residents",
+          "link": "https://www.bbc.co.uk/news/articles/cy4zpp20w77o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 12 Sep 2026 19:36:50 GMT"
+        },
+        {
+          "source": "BBC",
           "title": "French officials investigate if malicious act caused train derailment",
           "link": "https://www.bbc.co.uk/news/articles/c33kp533nn6o?at_medium=RSS&at_campaign=rss",
           "published": "Sat, 12 Sep 2026 15:05:53 GMT"
         },
         {
-          "source": "BBC",
-          "title": "Ukraine faces 'toughest winter' since Russia's full-scale invasion, UN official tells BBC",
-          "link": "https://www.bbc.co.uk/news/articles/cwyz59yyqk4o?at_medium=RSS&at_campaign=rss",
-          "published": "Sat, 12 Sep 2026 05:55:15 GMT"
+          "source": "Al Jazeera",
+          "title": "Israel bombs southern Lebanon as talks postponed",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/12/israel-bombs-southern-lebanon-as-talks-postponed?traffic_source=rss",
+          "published": "Sat, 12 Sep 2026 19:56:09 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Selling the war: Purges, polygraphs and propaganda",
-          "link": "https://www.aljazeera.com/video/the-listening-post/2026/9/12/selling-the-war-purges-polygraphs-and-propaganda?traffic_source=rss",
-          "published": "Sat, 12 Sep 2026 17:31:56 +0000"
+          "title": "Gaza genocide documentary ‘NAZA’ wins Special Jury Prize at Venice",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/12/09-12-naza-venice-clip-mp4?traffic_source=rss",
+          "published": "Sat, 12 Sep 2026 19:50:08 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "India vs Sri Lanka: Women’s T20 Asia Cup 2026 final – schedule, teams, form",
-          "link": "https://www.aljazeera.com/sports/2026/9/12/india-sri-lanka-womens-t20-asia-cup-2026-final-schedule-form-teams?traffic_source=rss",
-          "published": "Sat, 12 Sep 2026 17:18:28 +0000"
+          "title": "US court blocks Trump administration plan to cut disaster agency workforce",
+          "link": "https://www.aljazeera.com/news/2026/9/12/us-court-blocks-trump-administration-plan-to-cut-disaster-agency-workforce?traffic_source=rss",
+          "published": "Sat, 12 Sep 2026 19:49:29 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Man arrested over killing of Tasia Fortune, found hanging from tree",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/12/09-12-sv-tasia-fortune-murder?traffic_source=rss",
-          "published": "Sat, 12 Sep 2026 17:15:45 +0000"
+          "title": "Bahrain says it will not participate in Iran’s proposed Hormuz meeting",
+          "link": "https://www.aljazeera.com/news/2026/9/12/bahrain-says-it-will-not-participate-in-irans-proposed-hormuz-meeting?traffic_source=rss",
+          "published": "Sat, 12 Sep 2026 19:34:04 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Couple welcomes child from embryo frozen for 22 years",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/12/couple-welcomes-child-from-embryo-frozen-for-22-years?traffic_source=rss",
-          "published": "Sat, 12 Sep 2026 17:14:46 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "US Open women’s singles final live: Aryna Sabalenka vs Elena Rybakina",
-          "link": "https://www.aljazeera.com/sports/liveblog/2026/9/12/aryna-sabalenka-vs-elena-rybakina-live-us-open-womens-singles-final-2026?traffic_source=rss",
-          "published": "Sat, 12 Sep 2026 17:07:54 +0000"
+          "title": "Will Houthi advances in Yemen give Iran leverage in its war with the US?",
+          "link": "https://www.aljazeera.com/video/inside-story/2026/9/12/will-houthi-advances-in-yemen-give-iran-leverage-in-its-war-with-the-us?traffic_source=rss",
+          "published": "Sat, 12 Sep 2026 19:17:37 +0000"
         }
       ]
     }
