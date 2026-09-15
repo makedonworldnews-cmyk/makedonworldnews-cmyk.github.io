@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T22:05:19Z",
+  "generated_at": "2026-09-15T00:31:10Z",
   "items": [
     {
       "region": "Македонија",
@@ -109,6 +109,20 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "Sweden election is too close to call as far right loses ground",
+      "link": "https://www.aljazeera.com/news/2026/9/15/sweden-election-is-too-close-to-call-as-far-right-loses-ground?traffic_source=rss",
+      "published": "Tue, 15 Sep 2026 00:06:34 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Iran war live: CENTCOM disputes IRGC claim supertanker struck by Hormuz nav",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/9/15/iran-war-live-centcom-refutes-iran-claim-supertanker-hit-hormuz-mines?traffic_source=rss",
+      "published": "Tue, 15 Sep 2026 00:00:00 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "Landowners in Texas ask court to stop Trump border wall",
       "link": "https://www.aljazeera.com/news/2026/9/14/landowners-in-texas-ask-court-to-stop-trump-border-wall?traffic_source=rss",
       "published": "Mon, 14 Sep 2026 21:44:03 +0000"
@@ -126,20 +140,6 @@
       "title": "US repeals rules limiting greenhouse gas emissions by power plants",
       "link": "https://www.aljazeera.com/news/2026/9/14/us-repeals-rules-limiting-greenhouse-gas-emissions-by-power-plants?traffic_source=rss",
       "published": "Mon, 14 Sep 2026 21:36:09 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Macklemore cut from Ed Sheeran tour for pro-Palestine stance",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/14/macklemore-cut-from-ed-sheeran-tour-for-pro-palestine-stance?traffic_source=rss",
-      "published": "Mon, 14 Sep 2026 21:29:50 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "‘Columbia did not care’: Mahmoud Khalil files discrimination lawsuit",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/14/columbia-did-not-care-mahmoud-khalil-files-discrimination-lawsuit?traffic_source=rss",
-      "published": "Mon, 14 Sep 2026 21:23:53 +0000"
     }
   ]
 }
