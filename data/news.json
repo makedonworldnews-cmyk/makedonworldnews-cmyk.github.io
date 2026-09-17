@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-17T21:28:37Z",
+  "updatedAt": "2026-09-17T23:37:58Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) Ѕвезда во најава – Флојд Самба",
+          "link": "https://makfax.com.mk/sport/video-zvezda-vo-najava-flojd-samba/",
+          "published": "Thu, 17 Sep 2026 21:45:04 +0000"
         },
         {
           "source": "Makfax",
@@ -35,10 +41,10 @@
           "published": "Thu, 17 Sep 2026 20:01:19 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "ВЛЕН: Брвеница е подготвена за победа!",
-          "link": "https://makfax.com.mk/makedonija/vlen-brvenica-e-podgotvena-za-pobeda/",
-          "published": "Thu, 17 Sep 2026 19:53:31 +0000"
+          "source": "NetPress",
+          "title": "Резултати Лига Европа",
+          "link": "https://netpress.com.mk/rezultati-liga-evropa-2/",
+          "published": "Thu, 17 Sep 2026 21:36:24 +0000"
         },
         {
           "source": "NetPress",
@@ -63,12 +69,6 @@
           "title": "Германската машинска индустрија очекува пад на производството и годинава",
           "link": "https://netpress.com.mk/germanskata-mashinska-industrija-ochekuva-pad-na-proizvodstvoto-i-godinava/",
           "published": "Thu, 17 Sep 2026 20:22:08 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Во Јужна Африка пронајдени девет убиени жени",
-          "link": "https://netpress.com.mk/vo-juzhna-afrika-pronajdeni-devet-ubieni-zheni/",
-          "published": "Thu, 17 Sep 2026 20:16:23 +0000"
         }
       ]
     },
@@ -95,45 +95,45 @@
         },
         {
           "source": "BBC",
-          "title": "Hyrox athlete apologises for continuing race after soiling herself",
-          "link": "https://www.bbc.co.uk/news/articles/ck0e35qyqlx0o?at_medium=RSS&at_campaign=rss",
-          "published": "Thu, 17 Sep 2026 15:05:13 GMT"
+          "title": "US to allow Iran delegation to attend UN meetings in New York as war passes half-year mark",
+          "link": "https://www.bbc.co.uk/news/articles/c6n8m72r13ngo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 17 Sep 2026 21:41:19 GMT"
         },
         {
           "source": "BBC",
-          "title": "US to allow Iran delegation to attend UN meetings in New York as war passes half-year mark",
-          "link": "https://www.bbc.co.uk/news/articles/c6n8m72r13ngo?at_medium=RSS&at_campaign=rss",
-          "published": "Thu, 17 Sep 2026 20:44:53 GMT"
+          "title": "Wife of US scholar jailed in China asks Trump to raise arrest at Xi meeting",
+          "link": "https://www.bbc.co.uk/news/articles/c9j3d2rr6g24o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 17 Sep 2026 17:08:00 GMT"
         },
         {
           "source": "Al Jazeera",
-          "title": "Pennsylvania seeks CDC help amid dispute over US measles deaths",
-          "link": "https://www.aljazeera.com/news/2026/9/17/pennsylvania-seeks-cdc-help-amid-dispute-over-us-measles-deaths?traffic_source=rss",
-          "published": "Thu, 17 Sep 2026 21:08:51 +0000"
+          "title": "US approves $414M uranium investment in Niger, two years after troops left",
+          "link": "https://www.aljazeera.com/news/2026/9/17/us-approves-414m-uranium-investment-in-niger-two-years-after-troops-left?traffic_source=rss",
+          "published": "Thu, 17 Sep 2026 23:16:25 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Russia, China veto UN mandate to monitor Iran sanctions",
-          "link": "https://www.aljazeera.com/news/2026/9/17/russia-china-veto-un-mandate-to-monitor-iran-sanctions?traffic_source=rss",
-          "published": "Thu, 17 Sep 2026 21:01:41 +0000"
+          "title": "Russia election: Could other parties challenge United Russia?",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/17/aje-onl-nf_medvedenkod-parties_challenge_united_russia-170926?traffic_source=rss",
+          "published": "Thu, 17 Sep 2026 22:19:58 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "At least 26 killed in clashes along Sudan-South Sudan border region",
-          "link": "https://www.aljazeera.com/news/2026/9/17/at-least-26-killed-in-clashes-along-sudan-south-sudan-border-region?traffic_source=rss",
-          "published": "Thu, 17 Sep 2026 20:47:52 +0000"
+          "title": "Trinidad and Tobago ends state of emergency amid pushback over mass arrests",
+          "link": "https://www.aljazeera.com/news/2026/9/17/trinidad-and-tobago-ends-state-of-emergency-amid-pushback-over-mass-arrests?traffic_source=rss",
+          "published": "Thu, 17 Sep 2026 22:12:22 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Why does Brazil get to speak first at UNGA?",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/17/why-does-brazil-get-to-speak-first-at-unga?traffic_source=rss",
-          "published": "Thu, 17 Sep 2026 20:46:21 +0000"
+          "title": "US judge orders 30-day notice prior to any Kennedy Center physical changes",
+          "link": "https://www.aljazeera.com/news/2026/9/17/us-judge-orders-30-day-notice-prior-to-any-kennedy-center-physical-changes?traffic_source=rss",
+          "published": "Thu, 17 Sep 2026 21:42:31 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Can ‘middle powers’ come together to build a new economic alliance?",
-          "link": "https://www.aljazeera.com/video/inside-story/2026/9/17/can-middle-powers-come-together-to-build-a-new-economic-alliance-2?traffic_source=rss",
-          "published": "Thu, 17 Sep 2026 20:37:06 +0000"
+          "title": "Trump administration approves sale of F-35 jets to Saudi Arabia",
+          "link": "https://www.aljazeera.com/news/2026/9/17/trump-administration-approves-sale-of-f-35-jets-to-saudi-arabia?traffic_source=rss",
+          "published": "Thu, 17 Sep 2026 21:38:17 +0000"
         }
       ]
     }
