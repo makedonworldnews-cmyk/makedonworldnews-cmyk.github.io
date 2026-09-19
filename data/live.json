@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T21:34:46Z",
+  "generated_at": "2026-09-19T23:28:15Z",
   "items": [
     {
       "region": "Македонија",
@@ -39,6 +39,20 @@
     {
       "region": "Македонија",
       "source": "NetPress",
+      "title": "Ла Лига: Уште една победа за Барселона со хет-трик на Рафиња",
+      "link": "https://netpress.com.mk/la-liga-ushte-edna-pobeda-za-barselona-so-het-trik-na-rafina/",
+      "published": "Sat, 19 Sep 2026 22:25:41 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "NetPress",
+      "title": "Серија А: Без победник во дербито меѓу Рома и Интер, Лацио до три бода во Венеција",
+      "link": "https://netpress.com.mk/serija-a-bez-pobednik-vo-derbito-megu-roma-i-inter-laczio-do-tri-boda-vo-veneczija/",
+      "published": "Sat, 19 Sep 2026 21:46:54 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "NetPress",
       "title": "Премиер лига: Арсенал потопен во Брајтон, прв гол и прва победа за Ковентри",
       "link": "https://netpress.com.mk/premier-liga-arsenal-potopen-vo-brajton-prv-gol-i-prva-pobeda-za-koventri/",
       "published": "Sat, 19 Sep 2026 21:22:30 +0000"
@@ -58,32 +72,25 @@
       "published": "Sat, 19 Sep 2026 20:27:09 +0000"
     },
     {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Трамп најави формирање „Сили на вештачка интелигенција“ и ќе назначи „цар“ за оваа технологија",
-      "link": "https://netpress.com.mk/tramp-najavi-formirane-sili-na-veshtachka-inteligenczija-i-ke-naznachi-czar-za-ovaa-tehnologija/",
-      "published": "Sat, 19 Sep 2026 20:21:24 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Фон дер Лајен: Европа мора да создаде сопствени резерви на критични суровини – Македонија има бакар во Иловица",
-      "link": "https://netpress.com.mk/fon-der-lajen-evropa-mora-da-sozdade-sopstveni-rezervi-na-kritichni-surovini-makedonija-ima-bakar-vo-ilovicza/",
-      "published": "Sat, 19 Sep 2026 17:15:04 +0000"
+      "region": "Свет",
+      "source": "BBC",
+      "title": "Houthis say they targeted Saudi capital with ballistic missiles",
+      "link": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 19 Sep 2026 20:16:07 GMT"
     },
     {
       "region": "Свет",
       "source": "BBC",
       "title": "Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'",
       "link": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 19 Sep 2026 11:36:55 GMT"
+      "published": "Sat, 19 Sep 2026 23:00:27 GMT"
     },
     {
       "region": "Свет",
       "source": "BBC",
-      "title": "Houthis say they targeted Saudi capital with ballistic missiles",
-      "link": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 19 Sep 2026 20:16:07 GMT"
+      "title": "Our head teacher was an abuser. We joined forces to get justice - now we're married",
+      "link": "https://www.bbc.co.uk/news/articles/cg4d9vly636o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 19 Sep 2026 23:01:38 GMT"
     },
     {
       "region": "Свет",
@@ -101,10 +108,10 @@
     },
     {
       "region": "Свет",
-      "source": "BBC",
-      "title": "Google's Gemini AI hacked three companies in security test",
-      "link": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 19 Sep 2026 13:39:32 GMT"
+      "source": "Al Jazeera",
+      "title": "Saudi-led coalition says defences intercept Houthi missile fired at Riyadh",
+      "link": "https://www.aljazeera.com/news/2026/9/19/saudi-led-coalition-says-defences-intercept-houthi-missile-fired-at-riyadh?traffic_source=rss",
+      "published": "Sat, 19 Sep 2026 22:03:05 +0000"
     },
     {
       "region": "Свет",
@@ -133,13 +140,6 @@
       "title": "Hegseth kicks off ‘Send Me Tour’ amid Iran war backlash",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/9/19/hegseth-kicks-off-send-me-tour-amid-iran-war-backlash?traffic_source=rss",
       "published": "Sat, 19 Sep 2026 20:13:56 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Denmark says ‘binding’ US deal on Greenland won’t compromise sovereignty",
-      "link": "https://www.aljazeera.com/news/2026/9/19/denmark-says-binding-us-deal-on-greenland-wont-compromise-sovereignty?traffic_source=rss",
-      "published": "Sat, 19 Sep 2026 20:03:23 +0000"
     }
   ]
 }
