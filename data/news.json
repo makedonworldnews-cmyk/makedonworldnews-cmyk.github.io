@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T23:37:32Z",
+  "updatedAt": "2026-09-20T01:37:59Z",
   "groups": [
     {
       "region": "Македонија",
@@ -77,9 +77,15 @@
       "items": [
         {
           "source": "BBC",
+          "title": "Ed Sheeran admits 'mistakes' as he addresses Macklemore controversy",
+          "link": "https://www.bbc.co.uk/news/articles/cm780ll1de18o?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 20 Sep 2026 01:10:01 GMT"
+        },
+        {
+          "source": "BBC",
           "title": "Houthis say they targeted Saudi capital with ballistic missiles",
           "link": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
-          "published": "Sat, 19 Sep 2026 20:16:07 GMT"
+          "published": "Sat, 19 Sep 2026 23:49:26 GMT"
         },
         {
           "source": "BBC",
@@ -100,10 +106,16 @@
           "published": "Sat, 19 Sep 2026 19:13:49 GMT"
         },
         {
-          "source": "BBC",
-          "title": "Converse pulls 'deeply upsetting' advert after backlash",
-          "link": "https://www.bbc.co.uk/news/articles/crwyzj53pl1lo?at_medium=RSS&at_campaign=rss",
-          "published": "Sat, 19 Sep 2026 14:05:01 GMT"
+          "source": "Al Jazeera",
+          "title": "DR Congo rolls out Ebola vaccine for health workers as death toll rises",
+          "link": "https://www.aljazeera.com/news/2026/9/20/dr-congo-rolls-out-ebola-vaccine-for-health-workers-as-death-toll-rises?traffic_source=rss",
+          "published": "Sun, 20 Sep 2026 00:36:05 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Iran war live: Tehran sets terms for peace; Saudi forces foil Riyadh attack",
+          "link": "https://www.aljazeera.com/news/liveblog/2026/9/20/iran-war-live-tehran-calls-for-end-to-war-lifting-of-us-naval-blockade?traffic_source=rss",
+          "published": "Sun, 20 Sep 2026 00:00:00 +0000"
         },
         {
           "source": "Al Jazeera",
@@ -122,18 +134,6 @@
           "title": "Fulham vs Manchester United: Premier League – prediction, teams, lineups",
           "link": "https://www.aljazeera.com/sports/2026/9/19/fulham-vs-manchester-united-premier-league-prediction-teams-lineups?traffic_source=rss",
           "published": "Sat, 19 Sep 2026 20:47:20 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Israel’s president pardons soldier who killed wounded Palestinian in 2016",
-          "link": "https://www.aljazeera.com/news/2026/9/19/israels-president-pardons-soldier-who-killed-wounded-palestinian-in-2016?traffic_source=rss",
-          "published": "Sat, 19 Sep 2026 20:40:09 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Lacking equipment, but not ambition: Gaza students try to keep up with tech",
-          "link": "https://www.aljazeera.com/features/2026/9/19/lacking-equipment-but-not-ambition-gaza-students-try-to-keep-up-with-tech?traffic_source=rss",
-          "published": "Sat, 19 Sep 2026 20:30:01 +0000"
         }
       ]
     }
