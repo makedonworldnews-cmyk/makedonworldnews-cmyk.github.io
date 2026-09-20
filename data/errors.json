@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-09-20T01:37:59Z",
+  "generated_at": "2026-09-20T06:33:27Z",
   "errors": [
     {
       "source": "МИА",
       "url": "https://mia.mk/rss",
-      "error": "404 Client Error: Not Found for url: https://mia.mk/rss"
+      "error": "HTTPSConnectionPool(host='mia.mk', port=443): Max retries exceeded with url: /rss (Caused by ConnectTimeoutError(<HTTPSConnection(host='mia.mk', port=443) at 0x7f88742255d0>, 'Connection to mia.mk timed out. (connect timeout=12)'))"
     }
   ]
 }
