@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T21:54:57Z",
+  "generated_at": "2026-09-20T23:44:10Z",
   "items": [
     {
       "region": "Македонија",
@@ -39,6 +39,13 @@
     {
       "region": "Македонија",
       "source": "NetPress",
+      "title": "Премиерот Мицкоски на средба со македонската заедница во САД: Каде и да се нашите луѓе, таму е и дел од Македонија",
+      "link": "https://netpress.com.mk/premierot-miczkoski-na-sredba-so-makedonskata-zaednicza-vo-sad-kade-i-da-se-nashite-luge-tamu-e-i-del-od-makedonija/",
+      "published": "Sun, 20 Sep 2026 22:05:37 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "NetPress",
       "title": "Преглед Ла Лига: Атлетико го доби мадридското дерби",
       "link": "https://netpress.com.mk/pregled-la-liga-atletiko-go-dobi-madridskoto-derbi/",
       "published": "Sun, 20 Sep 2026 21:54:50 +0000"
@@ -63,13 +70,6 @@
       "title": "Серија А: Победи на Милан и Јувентус",
       "link": "https://netpress.com.mk/serija-a-pobedi-na-milan-i-juventus/",
       "published": "Sun, 20 Sep 2026 21:01:57 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Макрон: Франција и Канада се две независни нации кои сакаат да останат такви",
-      "link": "https://netpress.com.mk/makron-franczija-i-kanada-se-dve-nezavisni-naczii-koi-sakaat-da-ostanat-takvi/",
-      "published": "Sun, 20 Sep 2026 20:47:10 +0000"
     },
     {
       "region": "Свет",
@@ -109,6 +109,20 @@
     {
       "region": "Свет",
       "source": "Al Jazeera",
+      "title": "Polls close in Russian wartime election with ruling party set to dominate",
+      "link": "https://www.aljazeera.com/news/2026/9/20/polls-close-in-russian-wartime-election-with-ruling-party-set-to-dominate?traffic_source=rss",
+      "published": "Sun, 20 Sep 2026 22:54:00 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "France to summon Iran envoy after language centre closure in Tehran",
+      "link": "https://www.aljazeera.com/news/2026/9/20/france-to-summon-iran-envoy-after-language-centre-closure-in-tehran?traffic_source=rss",
+      "published": "Sun, 20 Sep 2026 22:06:22 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
       "title": "Qatar PM urges Gulf security framework with Iran",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/9/20/qatar-pm-urges-gulf-security-framework-with-iran?traffic_source=rss",
       "published": "Sun, 20 Sep 2026 21:00:15 +0000"
@@ -126,20 +140,6 @@
       "title": "Eighteen suspects extradited to US over Haitian president’s 2021 killing",
       "link": "https://www.aljazeera.com/news/2026/9/20/eighteen-suspects-extradited-to-us-over-haitian-presidents-2021-killing?traffic_source=rss",
       "published": "Sun, 20 Sep 2026 20:31:15 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Qatar PM describes fallout of US-Israel war on Iran as ‘earthquake’",
-      "link": "https://www.aljazeera.com/news/2026/9/20/qatari-pm-warns-against-cycles-of-escalation-in-the-middle-east?traffic_source=rss",
-      "published": "Sun, 20 Sep 2026 20:13:18 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "US, China open high-level talks ahead of Trump-Xi summit",
-      "link": "https://www.aljazeera.com/economy/2026/9/20/us-china-open-high-level-talks-ahead-of-trump-xi-summit?traffic_source=rss",
-      "published": "Sun, 20 Sep 2026 19:42:13 +0000"
     }
   ]
 }
