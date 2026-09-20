@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-20T01:37:59Z",
+  "updatedAt": "2026-09-20T07:00:55Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Свечено отворено 47. издание на фестивалот „Браќа Манаки“",
+          "link": "https://makfax.com.mk/kultura/svecheno-otvoreno-47-izdanie-na-festivalot-braka-manaki/",
+          "published": "Sun, 20 Sep 2026 06:51:14 +0000"
         },
         {
           "source": "Makfax",
@@ -35,10 +41,22 @@
           "published": "Sat, 19 Sep 2026 17:57:23 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Во Хелсинки едногласно усвоена Резолуцијата на Македонското друштво „Илинден“ -Тирана кое бара Пустец да се преименува во Преспа",
-          "link": "https://makfax.com.mk/svet/region/vo-helsinki-ednoglasno-usvoena-rezolucijata-na-makedonskoto-drushtvo-ilinden-tirana-koe-bara-pustec-da-se-preimenuva-vo-prespa/",
-          "published": "Sat, 19 Sep 2026 17:51:17 +0000"
+          "source": "NetPress",
+          "title": "Хутистите ја преземаат одговорноста за нападот близу аеродромот во Ријад, додека Иран повикува на мир",
+          "link": "https://netpress.com.mk/hutistite-ja-prezemaat-odgovornosta-za-napadot-blizu-aerodromot-vo-rijad-dodeka-iran-povikuva-na-mir/",
+          "published": "Sun, 20 Sep 2026 06:47:32 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Дневен хороскоп за недела, 20-ти септември 2026-та",
+          "link": "https://netpress.com.mk/dneven-horoskop-za-nedela-20-ti-septemvri-2026-ta/",
+          "published": "Sun, 20 Sep 2026 06:27:23 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Денеска и утре променливо облачно и топло, од вторник значително посвежо",
+          "link": "https://netpress.com.mk/deneska-i-utre-promenlivo-oblachno-i-toplo-od-vtornik-znachitelno-posve/",
+          "published": "Sun, 20 Sep 2026 06:07:00 +0000"
         },
         {
           "source": "NetPress",
@@ -51,24 +69,6 @@
           "title": "Серија А: Без победник во дербито меѓу Рома и Интер, Лацио до три бода во Венеција",
           "link": "https://netpress.com.mk/serija-a-bez-pobednik-vo-derbito-megu-roma-i-inter-laczio-do-tri-boda-vo-veneczija/",
           "published": "Sat, 19 Sep 2026 21:46:54 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Премиер лига: Арсенал потопен во Брајтон, прв гол и прва победа за Ковентри",
-          "link": "https://netpress.com.mk/premier-liga-arsenal-potopen-vo-brajton-prv-gol-i-prva-pobeda-za-koventri/",
-          "published": "Sat, 19 Sep 2026 21:22:30 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Бундеслига: Борусија (Д) единствената максимална",
-          "link": "https://netpress.com.mk/bundesliga-borusija-d-edinstvenata-maksimalna/",
-          "published": "Sat, 19 Sep 2026 20:58:53 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "ВИДЕО| Работни средби на Мицкоски во Вашингтон",
-          "link": "https://netpress.com.mk/video-rabotni-sredbi-na-miczkoski-vo-vashington/",
-          "published": "Sat, 19 Sep 2026 20:27:09 +0000"
         }
       ]
     },
@@ -77,9 +77,15 @@
       "items": [
         {
           "source": "BBC",
-          "title": "Ed Sheeran admits 'mistakes' as he addresses Macklemore controversy",
+          "title": "Ed Sheeran admits 'mistakes' as he addresses Macklemore controversy at Philadelphia show",
           "link": "https://www.bbc.co.uk/news/articles/cm780ll1de18o?at_medium=RSS&at_campaign=rss",
-          "published": "Sun, 20 Sep 2026 01:10:01 GMT"
+          "published": "Sun, 20 Sep 2026 04:49:11 GMT"
+        },
+        {
+          "source": "BBC",
+          "title": "Two killed in 'massive' Ukrainian drone attack on Moscow region, says Russia",
+          "link": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 20 Sep 2026 06:37:46 GMT"
         },
         {
           "source": "BBC",
@@ -100,40 +106,34 @@
           "published": "Sat, 19 Sep 2026 23:01:38 GMT"
         },
         {
-          "source": "BBC",
-          "title": "Journalists denied White House access after Trump banned some media outlets",
-          "link": "https://www.bbc.co.uk/news/articles/cj4gklz9dxplo?at_medium=RSS&at_campaign=rss",
-          "published": "Sat, 19 Sep 2026 19:13:49 GMT"
+          "source": "Al Jazeera",
+          "title": "Myanmar’s Van defeats Pantoja to retain flyweight title in UFC 331",
+          "link": "https://www.aljazeera.com/sports/2026/9/20/myanmars-van-defeats-pantoja-to-retain-flyweight-title-in-ufc-331?traffic_source=rss",
+          "published": "Sun, 20 Sep 2026 06:03:14 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "DR Congo rolls out Ebola vaccine for health workers as death toll rises",
-          "link": "https://www.aljazeera.com/news/2026/9/20/dr-congo-rolls-out-ebola-vaccine-for-health-workers-as-death-toll-rises?traffic_source=rss",
-          "published": "Sun, 20 Sep 2026 00:36:05 +0000"
+          "title": "Journalists locked out of the White House after Trump ban",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/20/journalists-locked-out-of-the-white-house-after-trump-ban?traffic_source=rss",
+          "published": "Sun, 20 Sep 2026 05:43:01 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Iran war live: Tehran sets terms for peace; Saudi forces foil Riyadh attack",
-          "link": "https://www.aljazeera.com/news/liveblog/2026/9/20/iran-war-live-tehran-calls-for-end-to-war-lifting-of-us-naval-blockade?traffic_source=rss",
-          "published": "Sun, 20 Sep 2026 00:00:00 +0000"
+          "title": "Germany’s Berlin, Mecklenburg-Western Pomerania states head to polls",
+          "link": "https://www.aljazeera.com/news/2026/9/20/two-german-states-go-to-the-polls-after-far-right-gains?traffic_source=rss",
+          "published": "Sun, 20 Sep 2026 05:42:50 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Turkiye backs Saudi Arabia’s security amid escalating Houthi attacks: FM",
-          "link": "https://www.aljazeera.com/news/2026/9/19/turkiye-backs-saudi-arabias-security-amid-escalating-houthi-attacks-fm?traffic_source=rss",
-          "published": "Sat, 19 Sep 2026 23:18:34 +0000"
+          "title": "Jammertest: Arctic exercise to counter satellite jamming",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/20/jammertest-arctic-exercise-to-counter-satellite-jamming?traffic_source=rss",
+          "published": "Sun, 20 Sep 2026 05:16:08 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Saudi-led coalition says defences intercept Houthi missile fired at Riyadh",
-          "link": "https://www.aljazeera.com/news/2026/9/19/saudi-led-coalition-says-defences-intercept-houthi-missile-fired-at-riyadh?traffic_source=rss",
-          "published": "Sat, 19 Sep 2026 22:03:05 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Fulham vs Manchester United: Premier League – prediction, teams, lineups",
-          "link": "https://www.aljazeera.com/sports/2026/9/19/fulham-vs-manchester-united-premier-league-prediction-teams-lineups?traffic_source=rss",
-          "published": "Sat, 19 Sep 2026 20:47:20 +0000"
+          "title": "State funeral honours Hong Kong’s first post-colonial leader Tung Chee-hwa",
+          "link": "https://www.aljazeera.com/news/2026/9/20/state-funeral-honours-hong-kongs-first-post-colonial-leader-tung-chee-hwa?traffic_source=rss",
+          "published": "Sun, 20 Sep 2026 04:59:15 +0000"
         }
       ]
     }
