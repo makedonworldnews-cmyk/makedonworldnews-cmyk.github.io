@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T21:26:53Z",
+  "generated_at": "2026-09-24T23:56:45Z",
   "items": [
     {
       "region": "Македонија",
@@ -39,6 +39,20 @@
     {
       "region": "Македонија",
       "source": "NetPress",
+      "title": "Финскиот претседател го повика Маск да ѝ овозможи на Украина да ги напаѓа „руските лансери“",
+      "link": "https://netpress.com.mk/finskiot-pretsedatel-go-povika-mask-da-%d1%9d-ovozmozhi-na-ukraina-da-gi-napaga-ruskite-lanseri/",
+      "published": "Thu, 24 Sep 2026 21:51:24 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "NetPress",
+      "title": "Лига на нациите: Реми на Холандија и Германија, пораз на Србија во Белград",
+      "link": "https://netpress.com.mk/liga-na-nacziite-remi-na-holandija-i-germanija-poraz-na-srbija-vo-belgrad/",
+      "published": "Thu, 24 Sep 2026 21:29:42 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "NetPress",
       "title": "Земјотрес вечерва стресе делови од Македонија",
       "link": "https://netpress.com.mk/zemjotres-vecherva-strese-delovi-od-makedonija/",
       "published": "Thu, 24 Sep 2026 21:11:03 +0000"
@@ -58,25 +72,11 @@
       "published": "Thu, 24 Sep 2026 20:41:55 +0000"
     },
     {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Средба на Мицкоски и Вучиќ во Њујорк, разговарано е за унапредување на соработката",
-      "link": "https://netpress.com.mk/vo-nujork-sredba-miczkoski-vuchik-razgovarano-za-unapreduvane-na-sorabotkata/",
-      "published": "Thu, 24 Sep 2026 20:37:47 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Унгарија бара продолжување на изземањето од американските санкции за купување нафта и гас од Русија",
-      "link": "https://netpress.com.mk/ungarija-bara-prodolzhuvane-izzemaneto-od-amerikanskite-sankczii-za-kupuvane-nafta-i-gas-od-rusija/",
-      "published": "Thu, 24 Sep 2026 20:33:54 +0000"
-    },
-    {
       "region": "Свет",
       "source": "BBC",
-      "title": "Netanyahu defends Israeli military actions in Middle East in UN speech",
+      "title": "Netanyahu defends Israeli military action as delegates walk out before UN speech",
       "link": "https://www.bbc.co.uk/news/articles/c3y0z7kxlegdo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 24 Sep 2026 21:21:47 GMT"
+      "published": "Thu, 24 Sep 2026 23:32:51 GMT"
     },
     {
       "region": "Свет",
@@ -84,6 +84,13 @@
       "title": "White House restores access to media outlets banned by Trump after judge's order",
       "link": "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 24 Sep 2026 17:49:20 GMT"
+    },
+    {
+      "region": "Свет",
+      "source": "BBC",
+      "title": "Hundreds of thousands expected in Paris for Pope's visit",
+      "link": "https://www.bbc.co.uk/news/articles/cmq8j904212po?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 24 Sep 2026 23:17:00 GMT"
     },
     {
       "region": "Свет",
@@ -101,45 +108,38 @@
     },
     {
       "region": "Свет",
-      "source": "BBC",
-      "title": "Priest killed and four injured in knife attack at Polish abbey",
-      "link": "https://www.bbc.co.uk/news/articles/c607lrvm41l3o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 24 Sep 2026 19:18:12 GMT"
+      "source": "Al Jazeera",
+      "title": "Costa Rica minister fired for unapproved meeting with Trump in US",
+      "link": "https://www.aljazeera.com/news/2026/9/24/costa-rica-minister-fired-for-unapproved-meeting-with-trump-in-us?traffic_source=rss",
+      "published": "Thu, 24 Sep 2026 23:29:03 +0000"
     },
     {
       "region": "Свет",
       "source": "Al Jazeera",
-      "title": "Netanyahu blames ‘juvenile delinquents’ for violence in occupied West Bank",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/24/netanyahu-blames-juvenile-delinquents-for-violence-in-occupied-west-bank?traffic_source=rss",
-      "published": "Thu, 24 Sep 2026 20:54:28 +0000"
+      "title": "Turkiye vs France: UEFA Nations League – teams, kickoff time, lineups",
+      "link": "https://www.aljazeera.com/sports/2026/9/24/turkiye-vs-france-uefa-nations-league-teams-kickoff-time-lineups?traffic_source=rss",
+      "published": "Thu, 24 Sep 2026 22:55:03 +0000"
     },
     {
       "region": "Свет",
       "source": "Al Jazeera",
-      "title": "US citizen injured after wrongly arrested by ICE in Illinois",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/24/us-citizen-injured-after-wrongly-arrested-by-ice-in-illinois?traffic_source=rss",
-      "published": "Thu, 24 Sep 2026 20:23:06 +0000"
+      "title": "Benjamin Netanyahu attacks Israel’s enemies and allies in UN speech",
+      "link": "https://www.aljazeera.com/news/2026/9/24/benjamin-netanyahu-attacks-israels-enemies-and-allies-in-un-speech?traffic_source=rss",
+      "published": "Thu, 24 Sep 2026 22:32:39 +0000"
     },
     {
       "region": "Свет",
       "source": "Al Jazeera",
-      "title": "New York sues Polymarket over allegations of illegal gambling operations",
-      "link": "https://www.aljazeera.com/economy/2026/9/24/new-york-sues-polymarket-over-allegations-of-illegal-gambling-operations?traffic_source=rss",
-      "published": "Thu, 24 Sep 2026 20:15:25 +0000"
+      "title": "DR Congo and Ivory Coast top Africa Cup of Nations qualifying opening wins",
+      "link": "https://www.aljazeera.com/sports/2026/9/24/dr-congo-and-ivory-coast-top-africa-cup-of-nations-qualifying-opening-wins?traffic_source=rss",
+      "published": "Thu, 24 Sep 2026 21:56:15 +0000"
     },
     {
       "region": "Свет",
       "source": "Al Jazeera",
-      "title": "Israel moves to ban main Palestinian-led lists from election",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/24/09-24-israel-palestinian-parties-banned-sv?traffic_source=rss",
-      "published": "Thu, 24 Sep 2026 19:54:00 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "What’s triggered the latest violence in Ethiopia?",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/9/24/whats-triggered-the-latest-violence-in-ethiopia?traffic_source=rss",
-      "published": "Thu, 24 Sep 2026 19:34:53 +0000"
+      "title": "Croatian court approves extradition in Nord Stream bombing case",
+      "link": "https://www.aljazeera.com/news/2026/9/24/croatian-court-approves-extradition-in-nord-stream-bombing-case?traffic_source=rss",
+      "published": "Thu, 24 Sep 2026 21:47:44 +0000"
     }
   ]
 }
