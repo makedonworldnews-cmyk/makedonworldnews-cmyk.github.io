@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-28T22:17:39Z",
+  "updatedAt": "2026-09-29T02:03:50Z",
   "groups": [
     {
       "region": "Македонија",
@@ -77,9 +77,21 @@
       "items": [
         {
           "source": "BBC",
+          "title": "OpenAI scraps rollout of new model over safety concerns",
+          "link": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 29 Sep 2026 01:51:25 GMT"
+        },
+        {
+          "source": "BBC",
           "title": "Inside Yemen's front-line city as Houthis battle for control",
           "link": "https://www.bbc.co.uk/news/articles/cw98005ndz7no?at_medium=RSS&at_campaign=rss",
           "published": "Sun, 27 Sep 2026 21:16:31 GMT"
+        },
+        {
+          "source": "BBC",
+          "title": "New York Times executive fatally shot allegedly by elderly in-laws",
+          "link": "https://www.bbc.co.uk/news/articles/cred737qdv2no?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 28 Sep 2026 20:50:03 GMT"
         },
         {
           "source": "BBC",
@@ -89,51 +101,39 @@
         },
         {
           "source": "BBC",
-          "title": "Twelve women have been killed in one part of South Africa since July. Here's what we know so far",
-          "link": "https://www.bbc.co.uk/news/articles/c6m27dprvzv7o?at_medium=RSS&at_campaign=rss",
-          "published": "Mon, 28 Sep 2026 17:26:21 GMT"
-        },
-        {
-          "source": "BBC",
           "title": "French PM warns against escalation of school protests after 164 arrested",
           "link": "https://www.bbc.co.uk/news/articles/cmqxvnn49rg2o?at_medium=RSS&at_campaign=rss",
           "published": "Mon, 28 Sep 2026 21:46:53 GMT"
         },
         {
-          "source": "BBC",
-          "title": "Nigerian attempts to break world record by dancing non-stop for seven days",
-          "link": "https://www.bbc.co.uk/news/articles/cq8r6z2gjzd1o?at_medium=RSS&at_campaign=rss",
-          "published": "Mon, 28 Sep 2026 15:39:19 GMT"
+          "source": "Al Jazeera",
+          "title": "Hungary lifts immunity of Prime Minister Magyar, two Orban-era ministers",
+          "link": "https://www.aljazeera.com/news/2026/9/29/hungary-lifts-immunity-of-prime-minister-magyar-two-orban-era-ministers?traffic_source=rss",
+          "published": "Tue, 29 Sep 2026 01:01:38 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Gold falls amid rising oil prices and higher US dollar",
-          "link": "https://www.aljazeera.com/economy/2026/9/28/gold-falls-amid-rising-oil-prices-and-higher-us-dollar?traffic_source=rss",
-          "published": "Mon, 28 Sep 2026 21:34:51 +0000"
+          "title": "OpenAI scraps release of latest AI model over safety concerns",
+          "link": "https://www.aljazeera.com/economy/2026/9/29/openai-scraps-release-of-latest-ai-model-over-safety-concerns?traffic_source=rss",
+          "published": "Tue, 29 Sep 2026 00:38:06 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Hundreds set up tent encampments in Madrid over housing crisis",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/28/hundreds-set-up-tent-encampments-in-madrid-over-housing-crisis?traffic_source=rss",
-          "published": "Mon, 28 Sep 2026 21:12:29 +0000"
+          "title": "Africa’s space ambitions are moving from policy to practice",
+          "link": "https://www.aljazeera.com/news/2026/9/29/africas-space-ambitions-are-moving-from-policy-to-practice?traffic_source=rss",
+          "published": "Tue, 29 Sep 2026 00:26:22 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Olise scores late to grab France 1-0 Nations League win at Belgium",
-          "link": "https://www.aljazeera.com/sports/2026/9/28/olise-scores-late-to-grab-france-1-0-nations-league-win-at-belgium?traffic_source=rss",
-          "published": "Mon, 28 Sep 2026 21:04:58 +0000"
+          "title": "Inside Al Jazeera’s UNGA coverage",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/29/inside-al-jazeeras-unga-coverage?traffic_source=rss",
+          "published": "Tue, 29 Sep 2026 00:10:21 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "‘Friendship pandas’ arrive in Atlanta, marking US-China relations moment",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/28/friendship-pandas-arrive-in-atlanta-marking-us-china-relations-moment?traffic_source=rss",
-          "published": "Mon, 28 Sep 2026 20:53:53 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "French far-right leader Bardella refutes anti-Semitism allegations",
-          "link": "https://www.aljazeera.com/news/2026/9/28/french-far-right-leader-bardella-refutes-anti-semitism-allegations?traffic_source=rss",
-          "published": "Mon, 28 Sep 2026 20:52:03 +0000"
+          "title": "Iran war live: Trump says he did not offer Tehran sanctions relief",
+          "link": "https://www.aljazeera.com/news/liveblog/2026/9/29/iran-war-live-trump-says-he-did-not-offer-tehran-sanctions-relief?traffic_source=rss",
+          "published": "Tue, 29 Sep 2026 00:00:00 +0000"
         }
       ]
     }
