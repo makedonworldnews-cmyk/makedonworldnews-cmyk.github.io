@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29T23:28:01Z",
+  "updatedAt": "2026-09-30T02:18:26Z",
   "groups": [
     {
       "region": "Македонија",
@@ -83,6 +83,12 @@
         },
         {
           "source": "BBC",
+          "title": "Chinese AI tool told researchers how to make bioweapons",
+          "link": "https://www.bbc.co.uk/news/articles/cmrergq3j7lgo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 29 Sep 2026 23:15:29 GMT"
+        },
+        {
+          "source": "BBC",
           "title": "South Africa to clean up high-risk areas after 12 women killed",
           "link": "https://www.bbc.co.uk/news/articles/c51kx9ze1mdzo?at_medium=RSS&at_campaign=rss",
           "published": "Tue, 29 Sep 2026 22:33:39 GMT"
@@ -100,40 +106,34 @@
           "published": "Tue, 29 Sep 2026 12:43:04 GMT"
         },
         {
-          "source": "BBC",
-          "title": "Israeli settlers attack West Bank village and block Palestinian family's return home",
-          "link": "https://www.bbc.co.uk/news/articles/cvlylj41egxgo?at_medium=RSS&at_campaign=rss",
-          "published": "Tue, 29 Sep 2026 12:39:18 GMT"
+          "source": "Al Jazeera",
+          "title": "Morocco’s pro-Palestine protests challenge Rabat’s deepening Israel ties",
+          "link": "https://www.aljazeera.com/news/2026/9/30/moroccos-pro-palestine-protests-challenge-rabats-deepening-israel-ties?traffic_source=rss",
+          "published": "Wed, 30 Sep 2026 01:46:53 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Iraq begins high-stakes security balancing act as US troops withdraw",
-          "link": "https://www.aljazeera.com/news/2026/9/29/iraq-begins-high-stakes-security-balancing-act-as-us-troops-withdraw?traffic_source=rss",
-          "published": "Tue, 29 Sep 2026 23:06:53 +0000"
+          "title": "Indonesia suspends five officials over luxury apartments for inmates",
+          "link": "https://www.aljazeera.com/news/2026/9/30/indonesia-suspends-five-officials-over-luxury-apartments-for-inmates?traffic_source=rss",
+          "published": "Wed, 30 Sep 2026 00:58:40 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Man City CEO: Premier League verdict based on ‘conspiracy theory’",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/29/man-city-ceo-premier-league-verdict-based-on-conspiracy?traffic_source=rss",
-          "published": "Tue, 29 Sep 2026 23:06:07 +0000"
+          "title": "Iran war live: Trump claims war will end ‘very soon’, gives no details",
+          "link": "https://www.aljazeera.com/news/liveblog/2026/9/30/iran-war-live-trump-claims-war-will-end-very-soon-provides-no-details?traffic_source=rss",
+          "published": "Wed, 30 Sep 2026 00:00:00 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "UN extends mandate of Gang Suppression Force in Haiti for six months",
-          "link": "https://www.aljazeera.com/news/2026/9/29/un-extends-mandate-of-gang-suppression-force-in-haiti-for-six-months?traffic_source=rss",
-          "published": "Tue, 29 Sep 2026 22:38:10 +0000"
+          "title": "Trump says he plans to campaign for 32 days before midterm elections",
+          "link": "https://www.aljazeera.com/news/2026/9/29/trump-says-he-plans-to-campaign-for-32-days-before-midterm-elections?traffic_source=rss",
+          "published": "Tue, 29 Sep 2026 23:53:08 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "US consumer confidence hits its lowest level since 2014 ahead of midterms",
-          "link": "https://www.aljazeera.com/economy/2026/9/29/us-consumer-confidence-hits-its-lowest-level-since-2014-ahead-of-midterms?traffic_source=rss",
-          "published": "Tue, 29 Sep 2026 22:23:58 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "US Supreme Court allows Trump to continue third-country deportations",
-          "link": "https://www.aljazeera.com/news/2026/9/29/us-supreme-court-allows-trump-to-continue-third-country-deportations?traffic_source=rss",
-          "published": "Tue, 29 Sep 2026 22:06:43 +0000"
+          "title": "‘Nothing is justifying this’: Qatar’s PM slams Israel’s atrocities in Gaza",
+          "link": "https://www.aljazeera.com/news/2026/9/29/nothing-is-justifying-this-qatari-pm-slams-atrocities-in-gaza?traffic_source=rss",
+          "published": "Tue, 29 Sep 2026 23:49:18 +0000"
         }
       ]
     }
