@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-08T19:49:08Z",
+  "updatedAt": "2026-10-08T23:59:34Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Актуелниот МВП во НБА стана ко-сопственик на Атлетико Мадрид",
+          "link": "https://makfax.com.mk/sport/aktuelniot-mvp-vo-nba-stana-ko-sopstvenik-na-atletiko-madrid/",
+          "published": "Thu, 08 Oct 2026 20:51:02 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Висла Плоцк го победи Вардар во „Јане Сандански“",
+          "link": "https://makfax.com.mk/sport/visla-plock-go-pobedi-vardar-vo-jane-sandanski/",
+          "published": "Thu, 08 Oct 2026 20:42:12 +0000"
         },
         {
           "source": "Makfax",
@@ -29,52 +41,52 @@
           "published": "Thu, 08 Oct 2026 19:32:26 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "(Фото) Европски остров каде што времето застанало: тиркизно море, лозја и 200 жители",
-          "link": "https://makfax.com.mk/zanimlivosti/foto-evropski-ostrov-kade-shto-vremeto-zastanalo-tirkizno-more-lozja-i-200-zhiteli/",
-          "published": "Thu, 08 Oct 2026 18:35:23 +0000"
+          "source": "NetPress",
+          "title": "Обвинителите бараат затворски казни од 4 до 12 години за медицинскиот тим на Марадона",
+          "link": "https://netpress.com.mk/obvinitelite-baraat-zatvorski-kazni-od-4-do-12-godini-za-mediczinskiot-tim-na-maradona/",
+          "published": "Thu, 08 Oct 2026 21:10:46 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Мицкоски во Милетино: Јасен е победникот на овие предвремени локални избори",
-          "link": "https://makfax.com.mk/makedonija/mickoski-vo-miletino-jasen-e-pobednikot-na-ovie-predvremeni-lokalni-izbori/",
-          "published": "Thu, 08 Oct 2026 18:23:04 +0000"
+          "source": "NetPress",
+          "title": "ВИДЕО| Вандализирани канцелариите во „Влајко“",
+          "link": "https://netpress.com.mk/video-vandalizirani-kanczelariite-vo-vlajko/",
+          "published": "Thu, 08 Oct 2026 20:36:50 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Општина Илинден почна со доградба на Средното општинско стручно училиште (СОСУ) „Илинден“",
+          "link": "https://netpress.com.mk/se-dograduva-srednoto-uchilishte-vo-ilinden-opshtina-ilinden-pochna-so-dogradba-na-srednoto-opshtinsko-struchno-uchilishte-sosu-ilinden/",
+          "published": "Thu, 08 Oct 2026 20:23:01 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Зеленски ги обвини САД за „неактивност“ по смртта на 70 лица во руските напади",
+          "link": "https://netpress.com.mk/zelenski-gi-obvini-sad-za-neaktivnost-po-smrtta-na-70-licza-vo-ruskite-napadi/",
+          "published": "Thu, 08 Oct 2026 19:56:55 +0000"
         },
         {
           "source": "NetPress",
           "title": "Петрова: Главниот начин на градење доверба е исполнување на обврските за уставни измени",
           "link": "https://netpress.com.mk/petrova-glavniot-nachin-na-gradene-doverba-e-ispolnuvane-na-obvrskite-za-ustavni-izmeni/",
           "published": "Thu, 08 Oct 2026 18:59:18 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Фатен дилер од Тетовско",
-          "link": "https://netpress.com.mk/faten-diler-od-tetovsko/",
-          "published": "Thu, 08 Oct 2026 18:44:43 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Чувари ќе одговараат кривично – не виделе дека им крадат страница од камионски сандак",
-          "link": "https://netpress.com.mk/chuvari-ke-odgovaraat-krivichno-ne-videle-deka-im-kradat-stranicza-od-kamionski-sandak/",
-          "published": "Thu, 08 Oct 2026 18:31:18 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Со нож се нафрлил на партнерката и ја ранил",
-          "link": "https://netpress.com.mk/so-nozh-se-nafrlil-na-partnerkata-i-ja-ranil/",
-          "published": "Thu, 08 Oct 2026 17:49:35 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Удирал по автомобил и се обидувал да ја отвори вратата и да го извлече возачот",
-          "link": "https://netpress.com.mk/udiral-po-avtomobil-i-se-obiduval-da-ja-otvori-vratata-i-da-go-izvleche-vozachot/",
-          "published": "Thu, 08 Oct 2026 17:36:40 +0000"
         }
       ]
     },
     {
       "region": "Свет",
       "items": [
+        {
+          "source": "BBC",
+          "title": "Suspect linked to Monaco bomb attack on millionaire breaks silence to BBC",
+          "link": "https://www.bbc.co.uk/news/articles/ckgel9044vqeo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 08 Oct 2026 23:11:10 GMT"
+        },
+        {
+          "source": "BBC",
+          "title": "Fort Hood attacker's execution by firing squad will be livestreamed, Pentagon says",
+          "link": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 08 Oct 2026 23:35:57 GMT"
+        },
         {
           "source": "BBC",
           "title": "Russian strike on buses kills at least 30, say officials, as deadly attacks on Ukraine surge",
@@ -89,51 +101,39 @@
         },
         {
           "source": "BBC",
-          "title": "Venezuela's ex-leader Nicolás Maduro charged with conspiracy to commit torture",
-          "link": "https://www.bbc.co.uk/news/articles/c5pvgn7xvxpzo?at_medium=RSS&at_campaign=rss",
-          "published": "Thu, 08 Oct 2026 17:38:59 GMT"
-        },
-        {
-          "source": "BBC",
-          "title": "Protesters blame 'vulture funds' for Spain's housing crisis",
-          "link": "https://www.bbc.co.uk/news/articles/c3j4790elkx7o?at_medium=RSS&at_campaign=rss",
-          "published": "Thu, 08 Oct 2026 19:10:06 GMT"
-        },
-        {
-          "source": "BBC",
-          "title": "Italy approves elections overhaul as opposition accuse Meloni of 'scam'",
-          "link": "https://www.bbc.co.uk/news/articles/c6zxjdw8rdl5o?at_medium=RSS&at_campaign=rss",
-          "published": "Thu, 08 Oct 2026 12:32:12 GMT"
+          "title": "Adidas sues Australian label White Fox over four stripes design",
+          "link": "https://www.bbc.co.uk/news/articles/c9e8ld448km8o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 08 Oct 2026 18:17:28 GMT"
         },
         {
           "source": "Al Jazeera",
-          "title": "Man City charges: Maresca says players focused on Liverpool test",
-          "link": "https://www.aljazeera.com/sports/2026/10/8/man-city-charges-maresca-says-players-focused-on-liverpool-test?traffic_source=rss",
-          "published": "Thu, 08 Oct 2026 19:17:38 +0000"
+          "title": "Hegseth says firing squad execution of Fort Hood shooter will be ‘public’",
+          "link": "https://www.aljazeera.com/news/2026/10/8/hegseth-says-firing-squad-execution-of-fort-hood-shooter-will-be-public?traffic_source=rss",
+          "published": "Thu, 08 Oct 2026 23:36:44 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "‘War lives in me’: Gaza playwright Ali Abu Yasin wins English PEN award",
-          "link": "https://www.aljazeera.com/news/2026/10/8/gaza-playwright-award?traffic_source=rss",
-          "published": "Thu, 08 Oct 2026 19:12:33 +0000"
+          "title": "Man City charges: Mourinho jokes Premier League case will outlast him",
+          "link": "https://www.aljazeera.com/sports/2026/10/8/man-city-charges-mourinho-jokes-premier-league-case-will-outlast-him?traffic_source=rss",
+          "published": "Thu, 08 Oct 2026 23:31:34 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Philippines ex-President Duterte fit to stand trial, ICC rules",
-          "link": "https://www.aljazeera.com/news/2026/10/8/philippines-ex-president-duterte-fit-to-stand-trial-icc-rules?traffic_source=rss",
-          "published": "Thu, 08 Oct 2026 19:06:08 +0000"
+          "title": "Israel kills or wounds Palestinian every 90 minutes in Gaza since ceasefire",
+          "link": "https://www.aljazeera.com/news/2026/10/8/israel-kills-or-wounds-palestinian-every-90-minutes-in-gaza-since-ceasefire?traffic_source=rss",
+          "published": "Thu, 08 Oct 2026 22:54:23 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Israel opens first-ever pavilion at Morocco defence show",
-          "link": "https://www.aljazeera.com/news/2026/10/8/israel-opens-first-ever-pavilion-at-morocco-defence-show?traffic_source=rss",
-          "published": "Thu, 08 Oct 2026 18:11:14 +0000"
+          "title": "Putin pledges Russia’s support to end US-led war on Iran",
+          "link": "https://www.aljazeera.com/news/2026/10/8/putin-pledges-russias-support-to-end-us-led-war-on-iran?traffic_source=rss",
+          "published": "Thu, 08 Oct 2026 22:30:37 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Colombian embassy to open in Jerusalem, Israeli FM says",
-          "link": "https://www.aljazeera.com/news/2026/10/8/colombian-embassy-to-open-in-jerusalem-israeli-fm-says?traffic_source=rss",
-          "published": "Thu, 08 Oct 2026 18:07:06 +0000"
+          "title": "French giants Bordeaux relegated to sixth tier for financial irregularities",
+          "link": "https://www.aljazeera.com/sports/2026/10/8/bordeaux-relegated-to-french-sixth-tier-for-financial-irregularities?traffic_source=rss",
+          "published": "Thu, 08 Oct 2026 22:10:53 +0000"
         }
       ]
     }
