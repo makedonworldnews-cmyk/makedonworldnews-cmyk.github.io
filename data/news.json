@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T20:59:34Z",
+  "updatedAt": "2026-10-15T23:38:18Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) Јувентус по пресврт и со гол во 92-та минута ја победи Селта во Виго",
+          "link": "https://makfax.com.mk/sport/video-juventus-po-presvrt-i-so-gol-vo-92-ta-minuta-ja-pobedi-selta-vo-vigo/",
+          "published": "Thu, 15 Oct 2026 21:21:02 +0000"
         },
         {
           "source": "Makfax",
@@ -35,46 +41,46 @@
           "published": "Thu, 15 Oct 2026 19:09:02 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Филипче: Ветуваа правда, а никој не одговара, границата е „швајцарско сирење“",
-          "link": "https://makfax.com.mk/makedonija/filipche-vetuvaa-pravda-a-nikoj-ne-odgovara-granicata-e-shvajcarsko-sirenje/",
-          "published": "Thu, 15 Oct 2026 19:02:28 +0000"
+          "source": "NetPress",
+          "title": "Мицкоски за предвремени избори: Можно е – никогаш не вели никогаш",
+          "link": "https://netpress.com.mk/miczkoski-za-predvremeni-izbori-mozhno-e-nikogash-ne-veli-nikogash/",
+          "published": "Thu, 15 Oct 2026 21:41:17 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Демонстрации во Софија, се бараат оставки од претседателката Илијана Јотова и премиерот Румен Радев",
-          "link": "https://netpress.com.mk/demonstraczii-vo-sofija-se-baraat-ostavki-od-pretsedatelkata-ilijana-jotova-i-premierot-rumen-radev/",
-          "published": "Thu, 15 Oct 2026 20:38:51 +0000"
+          "title": "Имаме историска одговорност да покажеме дека може да ја кренеме државата повисоко од кога било досега",
+          "link": "https://netpress.com.mk/imame-istoriska-odgovornost-da-pokazheme-deka-mozhe-da-ja-kreneme-drzhavata-povisoko-od-koga-bilo-dosega/",
+          "published": "Thu, 15 Oct 2026 21:35:42 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Германија ќе ја воведе дигиталната лична карта во јануари",
-          "link": "https://netpress.com.mk/germanija-ke-ja-vovede-digitalnata-lichna-karta-vo-januari/",
-          "published": "Thu, 15 Oct 2026 20:21:44 +0000"
+          "title": "СЈО беше неуставен имплант, смета Мицкоски, не може со неправда да донесат правда",
+          "link": "https://netpress.com.mk/sjo-beshe-neustaven-implant-smeta-miczkoski-ne-mozhe-so-nepravda-da-donesat-pravda/",
+          "published": "Thu, 15 Oct 2026 21:31:37 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Николоски: Изградбата на брзата пруга на терен започнува на пролет",
-          "link": "https://netpress.com.mk/nikoloski-izgradbata-na-brzata-pruga-na-teren-zapochnuva-na-prolet/",
-          "published": "Thu, 15 Oct 2026 20:14:07 +0000"
+          "title": "Првите електрични еколошки автобуси ќе пристигнат јануари следната година",
+          "link": "https://netpress.com.mk/prvite-elektrichni-ekoloshki-avtobusi-ke-pristignat-januari-slednata-godina/",
+          "published": "Thu, 15 Oct 2026 21:28:29 +0000"
         },
         {
           "source": "NetPress",
-          "title": "ВМРО-ДПМНЕ со остра реакција на изјавите на Филипче за ненадејно починатиот градоначалник на Брвеница",
-          "link": "https://netpress.com.mk/vmro-dpmne-so-ostra-reakczija-na-izjavite-na-filipche-za-nenadejno-pochinatiot-gradonachalnik-na-brvenicza/",
-          "published": "Thu, 15 Oct 2026 20:08:55 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Проверка на писма со сомнителен прав испратени до конгресните и изборните канцеларии во САД",
-          "link": "https://netpress.com.mk/proverka-na-pisma-so-somnitelen-prav-isprateni-do-kongresnite-i-izbornite-kanczelarii-vo-sad/",
-          "published": "Thu, 15 Oct 2026 20:04:50 +0000"
+          "title": "Бугарија може да стане прибежиште за криминалци злоупотребувајќи го случајот со Михаилова",
+          "link": "https://netpress.com.mk/bugarija-mozhe-da-stane-pribezhishte-za-kriminalczi-zloupotrebuvajki-go-sluchajot-so-mihailova/",
+          "published": "Thu, 15 Oct 2026 21:24:33 +0000"
         }
       ]
     },
     {
       "region": "Свет",
       "items": [
+        {
+          "source": "BBC",
+          "title": "Bus hits train stopped on French side of Channel Tunnel, with 19 injured",
+          "link": "https://www.bbc.co.uk/news/articles/c6wyrnmgzn01o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 15 Oct 2026 22:37:21 GMT"
+        },
         {
           "source": "BBC",
           "title": "Trump calls off livestream of Fort Hood attacker's execution by firing squad",
@@ -100,40 +106,34 @@
           "published": "Thu, 15 Oct 2026 15:26:16 GMT"
         },
         {
-          "source": "BBC",
-          "title": "Houthi missile attack on Yemeni presidential palace kills two, minister says",
-          "link": "https://www.bbc.co.uk/news/articles/cm62y6lp73zdo?at_medium=RSS&at_campaign=rss",
-          "published": "Thu, 15 Oct 2026 17:18:49 GMT"
+          "source": "Al Jazeera",
+          "title": "At least 4, including 3 children, killed in US elementary school shooting",
+          "link": "https://www.aljazeera.com/news/2026/10/15/at-least-4-including-3-children-killed-in-us-elementary-school-shooting?traffic_source=rss",
+          "published": "Thu, 15 Oct 2026 22:51:56 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "At least 7 crew members missing after drone attacks on ships in Black Sea",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/15/at-least-7-crew-members-missing-after-drone-attacks-on-ships-in-black-sea?traffic_source=rss",
-          "published": "Thu, 15 Oct 2026 20:29:52 +0000"
+          "title": "Israel halts commercial goods from entering Gaza; Hamas denies tax claims",
+          "link": "https://www.aljazeera.com/news/2026/10/15/israel-halts-commercial-goods-from-entering-gaza-hamas-denies-tax-claims?traffic_source=rss",
+          "published": "Thu, 15 Oct 2026 21:57:58 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Why are migrants risking their lives at sea to reach Yemen?",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/15/why-are-migrants-risking-their-lives-at-sea-to-reach-yemen?traffic_source=rss",
-          "published": "Thu, 15 Oct 2026 20:13:01 +0000"
+          "title": "Man United’s Martinez apologises for outburst after talks with Carrick",
+          "link": "https://www.aljazeera.com/sports/2026/10/15/martinez-apologises-for-man-united-outburst-after-carrick-talks?traffic_source=rss",
+          "published": "Thu, 15 Oct 2026 21:54:26 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Northern Ireland ex-DUP leader Donaldson sentenced to 15 years for child sex crimes",
-          "link": "https://www.aljazeera.com/news/2026/10/15/northern-ireland-ex-dup-leader-donaldson-sentenced-to-15-years-for-child-sex-crimes?traffic_source=rss",
-          "published": "Thu, 15 Oct 2026 20:12:27 +0000"
+          "title": "Trump administration sues California over noncitizens on voter rolls",
+          "link": "https://www.aljazeera.com/news/2026/10/15/trump-administration-sues-california-over-noncitizens-on-voter-rolls?traffic_source=rss",
+          "published": "Thu, 15 Oct 2026 21:44:59 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Poll shows Bolsonaro with slight lead over Lula ahead of Brazilian run-off",
-          "link": "https://www.aljazeera.com/news/2026/10/15/poll-shows-bolsonaro-with-slight-lead-over-lula-ahead-of-brazilian-run-off?traffic_source=rss",
-          "published": "Thu, 15 Oct 2026 20:07:58 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Somalia says it will hold elections in 2027",
-          "link": "https://www.aljazeera.com/news/2026/10/15/somalia-says-it-will-hold-elections-in-2027?traffic_source=rss",
-          "published": "Thu, 15 Oct 2026 20:04:02 +0000"
+          "title": "Several people dead or missing after Istanbul floods",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/15/several-people-dead-or-missing-after-istanbul-floods?traffic_source=rss",
+          "published": "Thu, 15 Oct 2026 21:15:46 +0000"
         }
       ]
     }
