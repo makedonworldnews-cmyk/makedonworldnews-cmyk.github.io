@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T21:25:47Z",
+  "generated_at": "2026-10-18T23:25:36Z",
   "items": [
     {
       "region": "Македонија",
@@ -39,6 +39,20 @@
     {
       "region": "Македонија",
       "source": "NetPress",
+      "title": "Ла Лига: Реал подобар во дербито со Севиља",
+      "link": "https://netpress.com.mk/la-liga-real-podobar-vo-derbito-so-sevila/",
+      "published": "Sun, 18 Oct 2026 22:12:33 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "NetPress",
+      "title": "Лига 1: Лион на врвот, Париз и Рен испишуваат историја",
+      "link": "https://netpress.com.mk/liga-1-lion-na-vrvot-pariz-i-ren-ispishuvaat-istorija/",
+      "published": "Sun, 18 Oct 2026 21:45:03 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "NetPress",
       "title": "ВИДЕА| Демонстрантите се судрија со полицијата во центарот на Милано",
       "link": "https://netpress.com.mk/videa-demonstrantite-se-sudrija-so-policzijata-vo-czentarot-na-milano/",
       "published": "Sun, 18 Oct 2026 21:23:19 +0000"
@@ -58,20 +72,6 @@
       "published": "Sun, 18 Oct 2026 20:55:04 +0000"
     },
     {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Нови судири во Франција, Макрон ги осуди „шокантните“ сцени на насилство",
-      "link": "https://netpress.com.mk/novi-sudiri-vo-franczija-makron-gi-osudi-shokantnite-sczeni-na-nasilstvo/",
-      "published": "Sun, 18 Oct 2026 20:20:02 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Убедливо водство на Стојанчо Радичевски во Брвеница",
-      "link": "https://netpress.com.mk/ubedlivo-vodstvo-na-stojancho-radichevski-vo-brvenicza/",
-      "published": "Sun, 18 Oct 2026 19:47:54 +0000"
-    },
-    {
       "region": "Свет",
       "source": "BBC",
       "title": "Macron calls for 'calm and order' after riots across France",
@@ -83,7 +83,14 @@
       "source": "BBC",
       "title": "What we know so far about deadly fire at Canadian military base",
       "link": "https://www.bbc.co.uk/news/articles/cmgelrq8x92do?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 18 Oct 2026 21:23:01 GMT"
+      "published": "Sun, 18 Oct 2026 21:37:56 GMT"
+    },
+    {
+      "region": "Свет",
+      "source": "BBC",
+      "title": "Trump says suspension of Russia sanctions is to keep peace negotiations going",
+      "link": "https://www.bbc.co.uk/news/articles/c9p8gz7zx4peo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 18 Oct 2026 23:20:15 GMT"
     },
     {
       "region": "Свет",
@@ -101,10 +108,17 @@
     },
     {
       "region": "Свет",
-      "source": "BBC",
-      "title": "European diplomats attacked by Israeli settlers in West Bank",
-      "link": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 18 Oct 2026 12:16:14 GMT"
+      "source": "Al Jazeera",
+      "title": "Venezuela opposition renews support for Maria Corina Machado as leader",
+      "link": "https://www.aljazeera.com/news/2026/10/18/venezuela-opposition-renews-support-for-maria-corina-machado-as-leader?traffic_source=rss",
+      "published": "Sun, 18 Oct 2026 22:41:49 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Alberta independence referendum: Will separatists survive a loss?",
+      "link": "https://www.aljazeera.com/news/2026/10/18/alberta-independence-referendum-will-separatists-survive-a-loss?traffic_source=rss",
+      "published": "Sun, 18 Oct 2026 21:53:13 +0000"
     },
     {
       "region": "Свет",
@@ -126,20 +140,6 @@
       "title": "‘Anger and shame’: Macron denounces France’s nationwide rioting, looting",
       "link": "https://www.aljazeera.com/news/2026/10/18/macron-denounces-frances-nationwide-rioting-looting?traffic_source=rss",
       "published": "Sun, 18 Oct 2026 20:19:22 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "What’s behind Europe’s youth protests?",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/whats-behind-europes-youth-protests?traffic_source=rss",
-      "published": "Sun, 18 Oct 2026 20:05:07 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "India’s crackdown on cockroaches, critics and cameras",
-      "link": "https://www.aljazeera.com/video/the-listening-post/2026/10/18/indias-crackdown-on-cockroaches-critics-and-cameras?traffic_source=rss",
-      "published": "Sun, 18 Oct 2026 19:31:45 +0000"
     }
   ]
 }
