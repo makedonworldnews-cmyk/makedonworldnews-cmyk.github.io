@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T07:24:37Z",
+  "updatedAt": "2026-10-20T12:51:33Z",
   "groups": [
     {
       "region": "Македонија",
@@ -12,33 +12,63 @@
         },
         {
           "source": "Makfax",
-          "title": "⚠️ Не може да се вчита (извор/timeout)",
-          "link": "https://makfax.com.mk/feed/",
-          "published": ""
+          "title": "Велика Британија испраќа борбени авиони на Блискиот Исток",
+          "link": "https://makfax.com.mk/svet/velika-britanija-ispraka-borbeni-avioni-na-bliskiot-istok/",
+          "published": "Tue, 20 Oct 2026 12:36:25 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Зеленски до Трамп: Дајте ни ракети ако не можете да го скротите Путин",
+          "link": "https://makfax.com.mk/top/zelenski-do-tramp-dajte-ni-raketi-ako-ne-mozhete-da-go-skrotite-putin/",
+          "published": "Tue, 20 Oct 2026 12:31:15 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Самостојна изложба на Мартина Павлеска во Скопје",
+          "link": "https://makfax.com.mk/kultura/samostojna-izlozhba-na-martina-pavleska-vo-skopje/",
+          "published": "Tue, 20 Oct 2026 12:25:40 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Ученик нападнат во двор на училиште во Шуто Оризари, едниот напаѓач извадил пиштол",
+          "link": "https://makfax.com.mk/crna-hronika/uchenik-napadnat-vo-dvor-na-uchilishte-vo-shuto-orizari-edniot-napagach-izvadil-pishtol/",
+          "published": "Tue, 20 Oct 2026 12:08:43 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Тешко повредено шестгодишно дете кое се возело на електричен тротинет по судар со автомобил",
+          "link": "https://makfax.com.mk/crna-hronika/teshko-povredeno-shestgodishno-dete-koe-se-vozelo-na-elektrichen-trotinet-po-sudar-so-avtomobil/",
+          "published": "Tue, 20 Oct 2026 12:05:37 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Рубио во посета на Индија",
-          "link": "https://netpress.com.mk/1116665-2/",
-          "published": "Tue, 20 Oct 2026 07:14:00 +0000"
+          "title": "ВИДЕО| Португалската полиција расчисти два кампа на демонстрантите против станбената криза",
+          "link": "https://netpress.com.mk/portugalskata-policzija-raschisti-dva-kampa-na-demonstrantite-protiv-stanbenata-kriza/",
+          "published": "Tue, 20 Oct 2026 12:39:30 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Претежно сончево, од среда со врнежи од дожд",
-          "link": "https://netpress.com.mk/pretezhno-sonchevo-od-sreda-so-vrnezhi-od-dozhd/",
-          "published": "Tue, 20 Oct 2026 07:05:41 +0000"
+          "title": "ССК не се согласува со кратење на празниците, предлага плаќање на вработените по час",
+          "link": "https://netpress.com.mk/ssk-ne-se-soglasuva-so-kratene-na-prazniczite-predlaga-plakane-na-vrabotenite-po-chas/",
+          "published": "Tue, 20 Oct 2026 12:39:09 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Дневен хороскоп за вторник, 20 октомври 2026 година",
-          "link": "https://netpress.com.mk/dneven-horoskop-za-vtornik-20-oktomvri-2026-godina/",
-          "published": "Tue, 20 Oct 2026 07:02:14 +0000"
+          "title": "Ѓорѓиевски најави поставување на над 200 камери на критични точки низ Скопје за спречување на вандализмот",
+          "link": "https://netpress.com.mk/gorgievski-najavi-postavuvane-na-nad-200-kameri-na-kritichni-tochki-niz-skopje-za-sprechuvane-na-vandalizmot/",
+          "published": "Tue, 20 Oct 2026 12:33:43 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Хегсет во Израел на необјавена средба со Нетанјаху",
-          "link": "https://netpress.com.mk/hegset-vo-izrael-na-neobjavena-sredba-so-netanjahu/",
-          "published": "Tue, 20 Oct 2026 06:57:03 +0000"
+          "title": "Клековски: Констатирани прекршоци на Клиниката за неврологија во лекувањето на Михаилова",
+          "link": "https://netpress.com.mk/klekovski-konstatirani-prekrshoczi-na-klinikata-za-nevrologija-vo-lekuvaneto-na-mihailova/",
+          "published": "Tue, 20 Oct 2026 12:30:52 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Хали Бери на суд поради наводно злоставување, синот Матео сведочеше речиси четири часа",
+          "link": "https://netpress.com.mk/hali-beri-na-sud-poradi-navodno-zlostavuvane-sinot-mateo-svedocheshe-rechisi-chetiri-chasa/",
+          "published": "Tue, 20 Oct 2026 12:23:56 +0000"
         }
       ]
     },
@@ -47,15 +77,21 @@
       "items": [
         {
           "source": "BBC",
-          "title": "French cities calm overnight after curfews imposed to quell violence, PM says",
-          "link": "https://www.bbc.co.uk/news/articles/cw5yn5e8mezvo?at_medium=RSS&at_campaign=rss",
-          "published": "Tue, 20 Oct 2026 06:35:57 GMT"
+          "title": "Zelensky prepares for Oslo talks with US envoys as Rubio denies withholding intelligence",
+          "link": "https://www.bbc.co.uk/news/articles/ck9qzn193lrlo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 20 Oct 2026 12:08:41 GMT"
         },
         {
           "source": "BBC",
-          "title": "Ukrainians dying because US restricting intelligence sharing, Zelensky adviser tells BBC",
-          "link": "https://www.bbc.co.uk/news/articles/cmj47yx572z5o?at_medium=RSS&at_campaign=rss",
-          "published": "Mon, 19 Oct 2026 20:49:00 GMT"
+          "title": "Man charged with attack on Australian MP as suspect's father says she is family friend",
+          "link": "https://www.bbc.co.uk/news/articles/c678pnn9mpgno?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 20 Oct 2026 11:25:35 GMT"
+        },
+        {
+          "source": "BBC",
+          "title": "Suspect arrested after historic town hall set alight - French media",
+          "link": "https://www.bbc.co.uk/news/articles/cw5yn5e8mezvo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 20 Oct 2026 12:45:43 GMT"
         },
         {
           "source": "BBC",
@@ -65,45 +101,39 @@
         },
         {
           "source": "BBC",
-          "title": "Canadian tourist found guilty of animal cruelty after stealing Las Vegas flamingo from enclosure",
+          "title": "Tourist found guilty after stealing Las Vegas flamingo from enclosure",
           "link": "https://www.bbc.co.uk/news/articles/cq398rjewd1jo?at_medium=RSS&at_campaign=rss",
           "published": "Tue, 20 Oct 2026 03:10:39 GMT"
         },
         {
-          "source": "BBC",
-          "title": "Mission blasts off for Mars to grab a piece of its moon",
-          "link": "https://www.bbc.co.uk/news/articles/cmvgxvkv54w1o?at_medium=RSS&at_campaign=rss",
-          "published": "Mon, 19 Oct 2026 19:45:46 GMT"
+          "source": "Al Jazeera",
+          "title": "Iran denies collapse is close as US claims IRGC running out of money",
+          "link": "https://www.aljazeera.com/news/2026/10/20/iran-denies-collapse-is-close-as-us-claims-irgc-running-out-of-money?traffic_source=rss",
+          "published": "Tue, 20 Oct 2026 12:29:58 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Morocco’s not-so-new government faces new challenges",
-          "link": "https://www.aljazeera.com/opinions/2026/10/20/moroccos-not-so-new-government-faces-new-challenges?traffic_source=rss",
-          "published": "Tue, 20 Oct 2026 06:58:03 +0000"
+          "title": "France PM promises more curfews as authorities seek to regain control",
+          "link": "https://www.aljazeera.com/news/2026/10/20/france-to-impose-new-curfews-where-required-after-calm-night?traffic_source=rss",
+          "published": "Tue, 20 Oct 2026 12:07:46 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Alberta voters reject separation from Canada, early results show",
-          "link": "https://www.aljazeera.com/news/2026/10/20/alberta-voters-reject-separation-from-canada-early-results-show?traffic_source=rss",
-          "published": "Tue, 20 Oct 2026 06:37:32 +0000"
+          "title": "Is Russia stalking satellites which help Ukraine from space?",
+          "link": "https://www.aljazeera.com/news/2026/10/20/is-russia-stalking-satellites-which-help-ukraine-from-space?traffic_source=rss",
+          "published": "Tue, 20 Oct 2026 12:06:27 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "US-Ukraine relations sour as Trump, Zelenskyy clash over talks, arms",
-          "link": "https://www.aljazeera.com/news/2026/10/20/us-ukraine-relations-sour-as-trump-zelenskyy-clash-over-talks-arms?traffic_source=rss",
-          "published": "Tue, 20 Oct 2026 06:23:44 +0000"
+          "title": "Yemen: Maps show 10 years of changing control",
+          "link": "https://www.aljazeera.com/news/2026/10/20/yemen-maps-show-10-years-of-changing-control?traffic_source=rss",
+          "published": "Tue, 20 Oct 2026 12:05:21 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Palestine weekly: Israeli settlers attack journalist and diplomats",
-          "link": "https://www.aljazeera.com/news/2026/10/20/palestine-weekly-israeli-settlers-attack-journalist-and-diplomats?traffic_source=rss",
-          "published": "Tue, 20 Oct 2026 06:22:33 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Egypt’s Hassan and Zico suspended over FIFA World Cup refereeing criticism",
-          "link": "https://www.aljazeera.com/sports/2026/10/20/egypts-hassan-and-zico-suspended-over-fifa-world-cup-refereeing-criticism?traffic_source=rss",
-          "published": "Tue, 20 Oct 2026 06:21:56 +0000"
+          "title": "Yemen’s critically ill are trapped as war closes the country’s airports",
+          "link": "https://www.aljazeera.com/features/2026/10/20/yemens-critically-ill-are-trapped-as-war-closes-the-countrys-airports?traffic_source=rss",
+          "published": "Tue, 20 Oct 2026 11:52:11 +0000"
         }
       ]
     }
