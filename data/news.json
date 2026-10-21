@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-21T18:06:40Z",
+  "updatedAt": "2026-10-21T21:36:54Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) „Ми треба врска цврста како ова стакло“: Излогот на „Луј Витон“ ги издржа обидите за провала во Париз",
+          "link": "https://makfax.com.mk/zanimlivosti/video-%e2%80%9emi-treba-vrska-cvrsta-kako-ova-staklo%e2%80%9c-izlogot-na-%e2%80%9eluj-viton%e2%80%9c-gi-izdrzha-obidite-za-provala-vo-pariz/",
+          "published": "Wed, 21 Oct 2026 19:19:07 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) Околу нив чад и немири, а тие со куфери шетаат низ Париз",
+          "link": "https://makfax.com.mk/zanimlivosti/video-okolu-niv-chad-i-nemiri-a-tie-so-kuferi-shetaat-niz-pariz/",
+          "published": "Wed, 21 Oct 2026 18:48:02 +0000"
         },
         {
           "source": "Makfax",
@@ -29,46 +41,34 @@
           "published": "Wed, 21 Oct 2026 17:23:18 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Илјадници граѓани протестираа во Грција поради условите во образованието и високите трошоци за живот",
-          "link": "https://makfax.com.mk/svet/region/iljadnici-gragani-protestiraa-vo-grcija-poradi-uslovite-vo-obrazovanieto-i-visokite-troshoci-za-zhivot-2/",
-          "published": "Wed, 21 Oct 2026 17:18:36 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "За нив бракот е голем предизвик: три знаци кои не поднесуваат рутина",
-          "link": "https://makfax.com.mk/zanimlivosti/za-niv-brakot-e-golem-predizvik-tri-znaci-koi-ne-podnesuvaat-rutina/",
-          "published": "Wed, 21 Oct 2026 16:25:15 +0000"
+          "source": "NetPress",
+          "title": "Зеленски се надева на нови преговори со Русија и САД до почетокот на ноември",
+          "link": "https://netpress.com.mk/zelenski-se-nadeva-na-novi-pregovori-so-rusija-i-sad-do-pochetokot-na-noemvri/",
+          "published": "Wed, 21 Oct 2026 20:42:54 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Метеорскиот дожд Ориониди го достигнува врвот вечерва: Како да се гледа од Македонија",
-          "link": "https://netpress.com.mk/meteorskiot-dozhd-orionidi-go-dostignuva-vrvot-vecherva-kako-da-se-gleda-od-makedonija/",
-          "published": "Wed, 21 Oct 2026 18:03:46 +0000"
+          "title": "Booking.com под лупа на Европската комисија",
+          "link": "https://netpress.com.mk/booking-com-pod-lupa-na-evropskata-komisija/",
+          "published": "Wed, 21 Oct 2026 20:13:53 +0000"
         },
         {
           "source": "NetPress",
-          "title": "За ВЛТ-апаратите имало и план за јавни набавки, тврди одбраната во случајот „Лотарија“",
-          "link": "https://netpress.com.mk/za-vlt-aparatite-imalo-i-plan-za-javni-nabavki-tvrdi-odbranata-vo-sluchajot-lotarija/",
-          "published": "Wed, 21 Oct 2026 16:37:01 +0000"
+          "title": "Конфликтот во Украина е поблиску до крајот од кога било досега",
+          "link": "https://netpress.com.mk/konfliktot-vo-ukraina-e-poblisku-do-krajot-od-koga-bilo-dosega/",
+          "published": "Wed, 21 Oct 2026 20:06:05 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Охриѓанката Атина Рувинова освои прво место на HackHarvard во САД – Иновација со потенцијал да прерасне во стартап",
-          "link": "https://netpress.com.mk/ohrigankata-atina-ruvinova-osvoi-prvo-mesto-na-hackharvard-vo-sad-inovaczija-so-potenczijal-da-prerasne-vo-startap/",
-          "published": "Wed, 21 Oct 2026 16:26:24 +0000"
+          "title": "Веб-страници низ целиот свет недостапни откако вештачката интелигенција откри безбедносни пропусти",
+          "link": "https://netpress.com.mk/veb-straniczi-niz-czeliot-svet-nedostapni-otkako-veshtachkata-inteligenczija-otkri-bezbednosni-propusti/",
+          "published": "Wed, 21 Oct 2026 19:37:47 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Цените на нафтата близу 108 долари",
-          "link": "https://netpress.com.mk/czenite-na-naftata-blizu-108-dolari/",
-          "published": "Wed, 21 Oct 2026 16:19:09 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "НЛБ Банка отвори нова експозитура во историскиот објект на Солунската банка во Битола",
-          "link": "https://netpress.com.mk/nlb-banka-otvori-nova-ekspozitura-vo-istoriskiot-objekt-na-solunskata-banka-vo-bitola/",
-          "published": "Wed, 21 Oct 2026 16:07:10 +0000"
+          "title": "„Макфест“ ќе ја збогати македонската музичка сцена со нови 27 песни",
+          "link": "https://netpress.com.mk/makfest-ke-ja-zbogati-makedonskata-muzichka-sczena-so-novi-27-pesni/",
+          "published": "Wed, 21 Oct 2026 19:35:08 +0000"
         }
       ]
     },
@@ -77,9 +77,15 @@
       "items": [
         {
           "source": "BBC",
-          "title": "Russia says it is ready to resume talks with Ukraine and US to end war",
+          "title": "Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks",
           "link": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss",
-          "published": "Wed, 21 Oct 2026 17:42:34 GMT"
+          "published": "Wed, 21 Oct 2026 21:27:41 GMT"
+        },
+        {
+          "source": "BBC",
+          "title": "Rosenberg: US diplomatic push offers little hope for imminent Ukraine peace",
+          "link": "https://www.bbc.co.uk/news/articles/cm98zn5j89kdo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 21 Oct 2026 19:58:06 GMT"
         },
         {
           "source": "BBC",
@@ -89,51 +95,45 @@
         },
         {
           "source": "BBC",
-          "title": "Australian MP loses both legs after alleged car attack, husband says",
-          "link": "https://www.bbc.co.uk/news/articles/ckwyqdqxw6d0o?at_medium=RSS&at_campaign=rss",
-          "published": "Wed, 21 Oct 2026 07:56:30 GMT"
+          "title": "Pope does not need further treatment after lung cancer surgery",
+          "link": "https://www.bbc.co.uk/news/articles/cqrly2dg5xzzo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 21 Oct 2026 20:09:10 GMT"
         },
         {
           "source": "BBC",
-          "title": "Elon Musk confirms he is considering merging Tesla and SpaceX",
-          "link": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
-          "published": "Wed, 21 Oct 2026 08:42:49 GMT"
-        },
-        {
-          "source": "BBC",
-          "title": "Pakistan arrests man wanted by US over $126m postage fraud case",
-          "link": "https://www.bbc.co.uk/news/articles/ckdd8m1z1z3yo?at_medium=RSS&at_campaign=rss",
-          "published": "Wed, 21 Oct 2026 05:46:33 GMT"
+          "title": "'Targeted' attack on much-loved MP leaves Australian town heartbroken",
+          "link": "https://www.bbc.co.uk/news/articles/cmgr8q88r5eqo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 21 Oct 2026 18:10:42 GMT"
         },
         {
           "source": "Al Jazeera",
-          "title": "Macron makes surprise Saudi visit as France secures extra diesel supplies",
-          "link": "https://www.aljazeera.com/news/2026/10/21/macron-makes-surprise-saudi-visit-as-france-secures-extra-diesel-supplies?traffic_source=rss",
-          "published": "Wed, 21 Oct 2026 16:58:39 +0000"
+          "title": "Mexico charges prosecutor with treason over US involvement in drug raid",
+          "link": "https://www.aljazeera.com/news/2026/10/21/mexico-charges-prosecutor-with-treason-over-us-involvement-in-drug-raid?traffic_source=rss",
+          "published": "Wed, 21 Oct 2026 21:25:21 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Paris shopkeepers fear more destruction after riots destroy livelihoods",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/21/10-21-reported-paris-shopkeepers-truamatised?traffic_source=rss",
-          "published": "Wed, 21 Oct 2026 16:57:15 +0000"
+          "title": "Trump heads to South Carolina to boost Senator Darline Graham in race",
+          "link": "https://www.aljazeera.com/news/2026/10/21/trump-heads-to-south-carolina-to-boost-senator-darline-graham-in-race?traffic_source=rss",
+          "published": "Wed, 21 Oct 2026 21:07:43 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Macron’s surprise ‘solidarity’ visit to Saudi Arabia",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/21/macrons-surprise-solidarity-visit-to-saudi-arabia?traffic_source=rss",
-          "published": "Wed, 21 Oct 2026 16:34:27 +0000"
+          "title": "Judge orders Meta to pay $25bn in fines for Facebook privacy violations",
+          "link": "https://www.aljazeera.com/news/2026/10/21/judge-orders-meta-to-pay-25bn-in-fines-for-facebook-privacy-violations?traffic_source=rss",
+          "published": "Wed, 21 Oct 2026 21:01:32 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Real Madrid vs RB Leipzig LIVE: Champions League",
-          "link": "https://www.aljazeera.com/sports/liveblog/2026/10/21/real-madrid-vs-rb-leipzig-live-champions-league?traffic_source=rss",
-          "published": "Wed, 21 Oct 2026 16:01:56 +0000"
+          "title": "Will Russia’s diesel shipment to the US lower prices before midterms?",
+          "link": "https://www.aljazeera.com/economy/2026/10/21/will-russias-diesel-shipment-to-the-us-lower-prices-before-midterms?traffic_source=rss",
+          "published": "Wed, 21 Oct 2026 20:54:27 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Bayern Munich vs Arsenal LIVE: Champions League",
-          "link": "https://www.aljazeera.com/sports/liveblog/2026/10/21/bayern-munich-vs-arsenal-live-champions-league?traffic_source=rss",
-          "published": "Wed, 21 Oct 2026 16:00:00 +0000"
+          "title": "Colombia seizes 7.6 tonnes of cocaine in biggest haul in a decade",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/21/colombia-seizes-7-6-tonnes-of-cocaine-in-biggest-haul-in-a-decade?traffic_source=rss",
+          "published": "Wed, 21 Oct 2026 20:51:23 +0000"
         }
       ]
     }
