@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24T21:51:14Z",
+  "updatedAt": "2026-10-25T00:01:21Z",
   "groups": [
     {
       "region": "Македонија",
@@ -42,6 +42,12 @@
         },
         {
           "source": "NetPress",
+          "title": "Серија А: Лацио на врвот по победата над Парма, реми во дербито во Неапол",
+          "link": "https://netpress.com.mk/serija-a-laczio-na-vrvot-po-pobedata-nad-parma-remi-vo-derbito-vo-neapol/",
+          "published": "Sat, 24 Oct 2026 22:06:11 +0000"
+        },
+        {
+          "source": "NetPress",
           "title": "Протести низ Италија под засилени безбедносни мерки, изолиранo насилство",
           "link": "https://netpress.com.mk/protesti-niz-italija-pod-zasileni-bezbednosni-merki-izolirano-nasilstvo/",
           "published": "Sat, 24 Oct 2026 21:40:03 +0000"
@@ -63,12 +69,6 @@
           "title": "Бројот барања за азил во ЕУ се намали за 39 отсто, Словенија на врвот по глава на жител",
           "link": "https://netpress.com.mk/brojot-barana-za-azil-vo-eu-se-namali-za-39-otsto-slovenija-na-vrvot-po-glava-na-zhitel/",
           "published": "Sat, 24 Oct 2026 20:01:08 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Судир меѓу демонстрантите и полицијата на антивладините протести во Брисел",
-          "link": "https://netpress.com.mk/sudir-megu-demonstrantite-i-policzijata-na-antivladinite-protesti-vo-brisel/",
-          "published": "Sat, 24 Oct 2026 19:43:22 +0000"
         }
       ]
     },
@@ -91,7 +91,7 @@
           "source": "BBC",
           "title": "Palestinian families displaced as Israeli forces demolish Hebron homes",
           "link": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o?at_medium=RSS&at_campaign=rss",
-          "published": "Sat, 24 Oct 2026 17:21:42 GMT"
+          "published": "Sat, 24 Oct 2026 23:02:06 GMT"
         },
         {
           "source": "BBC",
@@ -107,6 +107,24 @@
         },
         {
           "source": "Al Jazeera",
+          "title": "Trump lauds Melania over Russia-Ukraine localised ceasefire deal",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/trump-lauds-melania-over-russia-ukraine-localised-ceasefire-deal?traffic_source=rss",
+          "published": "Sat, 24 Oct 2026 23:08:16 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Gunmen kill at least 10 people in eastern Nigeria, police say",
+          "link": "https://www.aljazeera.com/news/2026/10/24/gunmen-kill-at-least-10-people-in-eastern-nigeria-police-say?traffic_source=rss",
+          "published": "Sat, 24 Oct 2026 22:35:45 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "How have Democrats’ policies shifted since the last major US election?",
+          "link": "https://www.aljazeera.com/economy/2026/10/24/how-have-democrats-policies-shifted-since-the-last-major-us-election?traffic_source=rss",
+          "published": "Sat, 24 Oct 2026 22:28:37 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Brazil’s Lula, Bolsonaro draw thousands to election-eve rallies",
           "link": "https://www.aljazeera.com/news/2026/10/24/brazils-lula-bolsonaro-draw-thousands-to-election-eve-rallies?traffic_source=rss",
           "published": "Sat, 24 Oct 2026 21:39:29 +0000"
@@ -116,24 +134,6 @@
           "title": "Brazil’s candidates hold final rallies before knife-edge run off",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/brazils-candidates-hold-final-rallies-before-knife-edge-run-off?traffic_source=rss",
           "published": "Sat, 24 Oct 2026 21:36:23 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Iran blames US for deal failure, urges new try amid fear of new attacks",
-          "link": "https://www.aljazeera.com/news/2026/10/24/iran-blames-us-for-deal-failure-urges-new-try-amid-fear-of-new-attacks?traffic_source=rss",
-          "published": "Sat, 24 Oct 2026 21:30:11 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Houthis launch attacks on Saudi Arabia and Yemen’s Aden",
-          "link": "https://www.aljazeera.com/news/2026/10/24/houthis-launch-attacks-on-saudi-arabia-and-yemens-aden?traffic_source=rss",
-          "published": "Sat, 24 Oct 2026 21:08:51 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Train slams into crane that collapsed onto railway line in Brazil",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/train-slams-into-crane-that-collapsed-onto-railway-line-in-brazil?traffic_source=rss",
-          "published": "Sat, 24 Oct 2026 21:02:55 +0000"
         }
       ]
     }
