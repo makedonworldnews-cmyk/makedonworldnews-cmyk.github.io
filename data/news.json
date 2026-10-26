@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25T22:19:34Z",
+  "updatedAt": "2026-10-26T00:28:40Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Мурињо: Сега мора да го добиеме следниот натпревар, не играле за да ја победиме Барса туку да ја освоиме Ла Лига",
+          "link": "https://makfax.com.mk/sport/murinjo-sega-mora-da-go-dobieme-sledniot-natprevar-ne-igrale-za-da-ja-pobedime-barsa-tuku-da-ja-osvoime-la-liga/",
+          "published": "Sun, 25 Oct 2026 23:00:04 +0000"
         },
         {
           "source": "Makfax",
@@ -35,10 +41,10 @@
           "published": "Sun, 25 Oct 2026 21:18:40 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "(Видео) Граѓаните слават во Белград, маскирани мажи го напуштаат Пионирскиот парк",
-          "link": "https://makfax.com.mk/svet/region/video-graganite-slavat-vo-belgrad-maskirani-mazhi-go-napushtaat-pionirskiot-park/",
-          "published": "Sun, 25 Oct 2026 21:08:59 +0000"
+          "source": "NetPress",
+          "title": "Реал ја прекина победничката серија на Барса со двата гола на Мбапе на „Камп Ноу“",
+          "link": "https://netpress.com.mk/real-ja-prekina-pobednichkata-serija-na-barsa-so-dvata-gola-na-mbape-na-kamp-nou/",
+          "published": "Sun, 25 Oct 2026 22:44:52 +0000"
         },
         {
           "source": "NetPress",
@@ -63,12 +69,6 @@
           "title": "Бугарија: Јотова и Ѓуров во вториот круг од претседателските избори, според анкетите",
           "link": "https://netpress.com.mk/bugarija-jotova-i-gurov-vo-vtoriot-krug-od-pretsedatelskite-izbori-spored-anketite/",
           "published": "Sun, 25 Oct 2026 20:46:50 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Средба со Русија со посредство на САД ќе се одржи во ноември, потврди Зеленски",
-          "link": "https://netpress.com.mk/sredba-so-rusija-so-posredstvo-na-sad-ke-se-odrzhi-vo-noemvri-potvrdi-zelenski/",
-          "published": "Sun, 25 Oct 2026 20:22:35 +0000"
         }
       ]
     },
@@ -79,7 +79,7 @@
           "source": "BBC",
           "title": "Serbia's veteran ruler Vučić concedes election to student-led protest movement",
           "link": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
-          "published": "Sun, 25 Oct 2026 22:06:26 GMT"
+          "published": "Sun, 25 Oct 2026 22:54:57 GMT"
         },
         {
           "source": "BBC",
@@ -91,7 +91,7 @@
           "source": "BBC",
           "title": "Venezuelan opposition leader María Machado returns after months in exile",
           "link": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
-          "published": "Sun, 25 Oct 2026 18:29:00 GMT"
+          "published": "Sun, 25 Oct 2026 23:33:14 GMT"
         },
         {
           "source": "BBC",
@@ -107,33 +107,33 @@
         },
         {
           "source": "Al Jazeera",
-          "title": "Marine Le Pen vows French ‘renaissance’ as far right eyes seat of power",
-          "link": "https://www.aljazeera.com/news/2026/10/25/marine-le-pen-vows-a-french-renaissance-as-far-right-eyes-seat-of-power?traffic_source=rss",
-          "published": "Sun, 25 Oct 2026 21:50:36 +0000"
+          "title": "Lula holds off far right with victory in Brazil presidential election",
+          "link": "https://www.aljazeera.com/news/2026/10/26/lula-holds-off-far-right-with-victory-in-brazil-presidential-election?traffic_source=rss",
+          "published": "Mon, 26 Oct 2026 00:16:29 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "US Attorney General Todd Blanche defends Alaska Senate election lawsuit",
-          "link": "https://www.aljazeera.com/news/2026/10/25/us-attorney-general-todd-blanche-defends-alaska-senate-election-lawsuit?traffic_source=rss",
-          "published": "Sun, 25 Oct 2026 21:41:10 +0000"
+          "title": "Trump escalates anti-Muslim rhetoric in fierce attack on El-Sayed",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/trump-escalates-anti-muslim-rhetoric-in-fierce-attack-on-el-sayed?traffic_source=rss",
+          "published": "Mon, 26 Oct 2026 00:02:55 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Marine Le Pen launches French presidential campaign",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/marine-le-pen-launches-french-presidential-campaign?traffic_source=rss",
-          "published": "Sun, 25 Oct 2026 21:39:13 +0000"
+          "title": "Iran war live: Trump rules out strikes ‘today’; Israeli forces raid Hebron",
+          "link": "https://www.aljazeera.com/news/liveblog/2026/10/26/iran-war-live-trump-rules-out-strikes-today-israeli-forces-raid-hebron?traffic_source=rss",
+          "published": "Mon, 26 Oct 2026 00:00:00 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Trump VS California",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/trump-vs-california?traffic_source=rss",
-          "published": "Sun, 25 Oct 2026 21:29:23 +0000"
+          "title": "Ballon d’Or 2026: Can Barcelona phenom Lamine Yamal become youngest winner?",
+          "link": "https://www.aljazeera.com/sports/2026/10/25/ballon-dor-2026-can-barcelona-phenom-lamine-yamal-become-youngest-winner?traffic_source=rss",
+          "published": "Sun, 25 Oct 2026 23:38:57 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Kenya bus crash kills at least 24 as government vows road safety crackdown",
-          "link": "https://www.aljazeera.com/news/2026/10/25/kenya-bus-crash-kills-at-least-24-as-government-vows-road-safety-crackdown?traffic_source=rss",
-          "published": "Sun, 25 Oct 2026 21:00:02 +0000"
+          "title": "Thousands protest in Prague against public media funding reforms",
+          "link": "https://www.aljazeera.com/news/2026/10/25/thousands-protest-in-prague-against-public-media-funding-reforms?traffic_source=rss",
+          "published": "Sun, 25 Oct 2026 23:29:13 +0000"
         }
       ]
     }
