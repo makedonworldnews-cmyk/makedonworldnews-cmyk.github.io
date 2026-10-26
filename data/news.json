@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-26T00:28:40Z",
+  "updatedAt": "2026-10-26T05:11:23Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,18 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Променливо облачно со повремени локални врнежи од дожд",
+          "link": "https://makfax.com.mk/makedonija/promenlivo-oblachno-so-povremeni-lokalni-vrnezhi-od-dozhd-6/",
+          "published": "Mon, 26 Oct 2026 05:06:56 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Сезоната на Шкорпија ги отвора старите рани: Емоционален вртлог ги очекува четири знаци",
+          "link": "https://makfax.com.mk/zanimlivosti/sezonata-na-shkorpija-gi-otvora-starite-rani-emocionalen-vrtlog-gi-ochekuva-chetiri-znaci/",
+          "published": "Mon, 26 Oct 2026 05:02:16 +0000"
         },
         {
           "source": "Makfax",
@@ -27,18 +39,6 @@
           "title": "Мастерклас на Антонели, победи во Остин",
           "link": "https://makfax.com.mk/sport/masterklas-na-antoneli-pobedi-vo-ostin/",
           "published": "Sun, 25 Oct 2026 21:52:03 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Подемот и падот на Александар Вучиќ",
-          "link": "https://makfax.com.mk/svet/region/podemot-i-padot-na-aleksandar-vuchik/",
-          "published": "Sun, 25 Oct 2026 21:45:23 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "(Фото+видео) Студентската листа прогласи победа во Србија",
-          "link": "https://makfax.com.mk/svet/region/foto-video-studentskata-lista-proglasi-pobeda-vo-srbija/",
-          "published": "Sun, 25 Oct 2026 21:18:40 +0000"
         },
         {
           "source": "NetPress",
@@ -77,9 +77,9 @@
       "items": [
         {
           "source": "BBC",
-          "title": "Serbia's veteran ruler Vučić concedes election to student-led protest movement",
+          "title": "Elation across Serbia after veteran ruler Vučić concedes to student-led protest movement",
           "link": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
-          "published": "Sun, 25 Oct 2026 22:54:57 GMT"
+          "published": "Mon, 26 Oct 2026 01:07:05 GMT"
         },
         {
           "source": "BBC",
@@ -91,7 +91,7 @@
           "source": "BBC",
           "title": "Venezuelan opposition leader María Machado returns after months in exile",
           "link": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
-          "published": "Sun, 25 Oct 2026 23:33:14 GMT"
+          "published": "Mon, 26 Oct 2026 03:05:22 GMT"
         },
         {
           "source": "BBC",
@@ -107,33 +107,33 @@
         },
         {
           "source": "Al Jazeera",
-          "title": "Lula holds off far right with victory in Brazil presidential election",
-          "link": "https://www.aljazeera.com/news/2026/10/26/lula-holds-off-far-right-with-victory-in-brazil-presidential-election?traffic_source=rss",
-          "published": "Mon, 26 Oct 2026 00:16:29 +0000"
+          "title": "Bolsonaro calls for Brazil election result to be annulled",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/bolsonaro-calls-for-brazil-election-result-to-be-annulled?traffic_source=rss",
+          "published": "Mon, 26 Oct 2026 04:36:46 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Trump escalates anti-Muslim rhetoric in fierce attack on El-Sayed",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/trump-escalates-anti-muslim-rhetoric-in-fierce-attack-on-el-sayed?traffic_source=rss",
-          "published": "Mon, 26 Oct 2026 00:02:55 +0000"
+          "title": "US appeals court sceptical of Trump’s lawsuit over California voter rolls",
+          "link": "https://www.aljazeera.com/news/2026/10/26/us-appeals-court-sceptical-of-trumps-lawsuit-over-california-voter-rolls?traffic_source=rss",
+          "published": "Mon, 26 Oct 2026 04:32:48 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Iran war live: Trump rules out strikes ‘today’; Israeli forces raid Hebron",
-          "link": "https://www.aljazeera.com/news/liveblog/2026/10/26/iran-war-live-trump-rules-out-strikes-today-israeli-forces-raid-hebron?traffic_source=rss",
-          "published": "Mon, 26 Oct 2026 00:00:00 +0000"
+          "title": "Attackers kill nurse, injure health worker responding to DRC Ebola case",
+          "link": "https://www.aljazeera.com/news/2026/10/26/attackers-kill-nurse-injure-health-worker-responding-to-drc-ebola-case?traffic_source=rss",
+          "published": "Mon, 26 Oct 2026 04:21:26 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Ballon d’Or 2026: Can Barcelona phenom Lamine Yamal become youngest winner?",
-          "link": "https://www.aljazeera.com/sports/2026/10/25/ballon-dor-2026-can-barcelona-phenom-lamine-yamal-become-youngest-winner?traffic_source=rss",
-          "published": "Sun, 25 Oct 2026 23:38:57 +0000"
+          "title": "US military says it helped Gulf states export 1.5 billion barrels of oil",
+          "link": "https://www.aljazeera.com/economy/2026/10/26/us-military-says-it-helped-gulf-states-export-1-5-billion-barrels-of-oil?traffic_source=rss",
+          "published": "Mon, 26 Oct 2026 04:05:44 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Thousands protest in Prague against public media funding reforms",
-          "link": "https://www.aljazeera.com/news/2026/10/25/thousands-protest-in-prague-against-public-media-funding-reforms?traffic_source=rss",
-          "published": "Sun, 25 Oct 2026 23:29:13 +0000"
+          "title": "Trump dials up Islamophobia at Michigan Senate rally against Abdul El-Sayed",
+          "link": "https://www.aljazeera.com/news/2026/10/26/trump-dials-up-islamophobia-at-michigan-senate-rally-against-abdul-el-sayed?traffic_source=rss",
+          "published": "Mon, 26 Oct 2026 04:03:28 +0000"
         }
       ]
     }
