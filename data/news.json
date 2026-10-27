@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-26T21:46:09Z",
+  "updatedAt": "2026-10-27T00:53:14Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Хари Кејн ја освои Златната топка",
+          "link": "https://makfax.com.mk/sport/hari-kejn-ja-osvoi-zlatnata-topka/",
+          "published": "Mon, 26 Oct 2026 22:59:03 +0000"
         },
         {
           "source": "Makfax",
@@ -35,10 +41,22 @@
           "published": "Mon, 26 Oct 2026 20:26:09 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "(Видео) Студенти во Србија отстранија големи транспаренти со натпис „Србија победува“",
-          "link": "https://makfax.com.mk/svet/region/video-studenti-vo-srbija-otstranija-golemi-transparenti-so-natpis-srbija-pobeduva/",
-          "published": "Mon, 26 Oct 2026 19:48:58 +0000"
+          "source": "NetPress",
+          "title": "„Златната топка“ за Хари Кејн",
+          "link": "https://netpress.com.mk/zlatnata-topka-za-hari-kejn/",
+          "published": "Tue, 27 Oct 2026 00:02:35 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Бран кинеска побарувачка за извоз преку арктичката бродска рута до Европа",
+          "link": "https://netpress.com.mk/bran-kineska-pobaruvachka-za-izvoz-preku-arktichkata-brodska-ruta-do-evropa/",
+          "published": "Mon, 26 Oct 2026 22:34:05 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "ВИДЕО| Обид за упад во уште една белградска телевизија",
+          "link": "https://netpress.com.mk/video-obid-za-upad-vo-ushte-edna-belgradska-televizija/",
+          "published": "Mon, 26 Oct 2026 21:58:14 +0000"
         },
         {
           "source": "NetPress",
@@ -51,24 +69,6 @@
           "title": "„Anthropic“ поднесе барање за почетна јавна понуда и котирање во Nasdaq",
           "link": "https://netpress.com.mk/anthropic-podnese-barane-za-pochetna-javna-ponuda-i-kotirane-vo-nasdaq/",
           "published": "Mon, 26 Oct 2026 21:10:05 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Јордан го нападна југот на Сирија поради поврзаноста на терористичките групи со нападот врз црква",
-          "link": "https://netpress.com.mk/jordan-go-napadna-jugo-na-sirija-poradi-povrzanosta-na-teroristichkite-grupi-so-napadot-vrz-czrkva/",
-          "published": "Mon, 26 Oct 2026 20:39:20 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "САД бараат екстрадиција на исламистот кој ја нападна амбасадата во Сараево во 2011-та",
-          "link": "https://netpress.com.mk/sad-baraat-ekstradiczija-na-islamistot-koj-ja-napadna-ambasadata-vo-saraevo-vo-2011-ta/",
-          "published": "Mon, 26 Oct 2026 20:26:52 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Француските ученици бараат повеќе од владината понуда",
-          "link": "https://netpress.com.mk/franczuskite-ucheniczi-baraat-poveke-od-vladinata-ponuda/",
-          "published": "Mon, 26 Oct 2026 19:50:49 +0000"
         }
       ]
     },
@@ -107,33 +107,33 @@
         },
         {
           "source": "Al Jazeera",
-          "title": "What will Lula’s fourth term mean for Brazil?",
-          "link": "https://www.aljazeera.com/video/inside-story/2026/10/26/what-will-lulas-fourth-term-mean-for-brazil?traffic_source=rss",
-          "published": "Mon, 26 Oct 2026 20:55:47 +0000"
+          "title": "Iran war live: Iran says US ‘not serious’ about talks; ship ablaze off Iraq",
+          "link": "https://www.aljazeera.com/news/liveblog/2026/10/27/iran-war-live-iran-says-us-not-serious-on-talks-ship-on-fire-off-iraq?traffic_source=rss",
+          "published": "Tue, 27 Oct 2026 00:00:00 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "US court rules daughter of Trump critic James Comey was illegally fired",
-          "link": "https://www.aljazeera.com/news/2026/10/26/us-court-rules-daughter-of-trump-critic-james-comey-was-illegally-fired?traffic_source=rss",
-          "published": "Mon, 26 Oct 2026 20:55:37 +0000"
+          "title": "Bolsonaro says police demand passports after Brazil election defeat",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/bolsonaro-says-police-demand-passports-after-brazil-election-defeat?traffic_source=rss",
+          "published": "Mon, 26 Oct 2026 23:53:45 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Palestinian children crawl under Israeli military gates to get to school",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/palestinian-children-crawl-under-israeli-military-gates-to-get-to-school?traffic_source=rss",
-          "published": "Mon, 26 Oct 2026 20:46:01 +0000"
+          "title": "Jordan launches air strikes in Syria in response to a fatal church shooting",
+          "link": "https://www.aljazeera.com/news/2026/10/26/jordan-launches-air-strikes-in-syria-in-response-to-a-fatal-church-shooting?traffic_source=rss",
+          "published": "Mon, 26 Oct 2026 23:50:11 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Huge explosion at a weapons depot in Syria",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/huge-explosion-at-a-weapons-depot-in-syria?traffic_source=rss",
-          "published": "Mon, 26 Oct 2026 20:41:33 +0000"
+          "title": "Jordan attacks Syria in response to Karak church attack",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/jordan-attacks-syria-in-response-to-karak-church-attack?traffic_source=rss",
+          "published": "Mon, 26 Oct 2026 23:48:51 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "What Vucic’s defeat means for Serbia’s foreign policy",
-          "link": "https://www.aljazeera.com/news/2026/10/26/what-vucics-defeat-means-for-serbias-foreign-policy?traffic_source=rss",
-          "published": "Mon, 26 Oct 2026 20:38:40 +0000"
+          "title": "England’s Harry Kane wins Ballon d’Or, Alexia Putellas takes women’s award",
+          "link": "https://www.aljazeera.com/sports/2026/10/26/englands-harry-kane-wins-ballon-dor-alexia-putellas-takes-womens-award?traffic_source=rss",
+          "published": "Mon, 26 Oct 2026 23:25:29 +0000"
         }
       ]
     }
