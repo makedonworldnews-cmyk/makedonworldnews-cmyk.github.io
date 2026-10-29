@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T23:09:04Z",
+  "updatedAt": "2026-10-29T02:25:43Z",
   "groups": [
     {
       "region": "Македонија",
@@ -42,6 +42,12 @@
         },
         {
           "source": "NetPress",
+          "title": "Серија А: Наполи подобар од Монца, нови порази на Јуве и Милан, среќна победа на Интер",
+          "link": "https://netpress.com.mk/serija-a-napoli-podobar-od-moncza-novi-porazi-na-juve-i-milan-srekna-pobeda-na-inter/",
+          "published": "Wed, 28 Oct 2026 23:21:01 +0000"
+        },
+        {
+          "source": "NetPress",
           "title": "Сити и Ливепрул по пеналите во четвртфиналето на англискиот Лига куп",
           "link": "https://netpress.com.mk/siti-i-liveprul-po-penalite-vo-chetvrtfinaleto-na-angliskiot-liga-kup/",
           "published": "Wed, 28 Oct 2026 23:09:18 +0000"
@@ -63,12 +69,6 @@
           "title": "Евролига: Партизан испушти +11, Хапоел го потопи Ефес а Олимпијакос уверлив во Истанбул",
           "link": "https://netpress.com.mk/evroliga-partizan-ispushti-11-hapoel-go-potopi-efes-a-olimpijakos-uverliv-vo-istanbul/",
           "published": "Wed, 28 Oct 2026 22:12:15 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "ВИДЕО| Пребеганиот Болсонаро од САД тврди дека тој е „вистинскиот“ претседател на Бразил",
-          "link": "https://netpress.com.mk/video-prebeganiot-bolsonaro-od-sad-tvrdi-deka-toj-e-vistinskiot-pretsedatel-na-brazil/",
-          "published": "Wed, 28 Oct 2026 21:17:50 +0000"
         }
       ]
     },
@@ -91,7 +91,7 @@
           "source": "BBC",
           "title": "Flávio Bolsonaro denies fleeing Brazil after landing in Miami",
           "link": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss",
-          "published": "Wed, 28 Oct 2026 22:13:35 GMT"
+          "published": "Thu, 29 Oct 2026 01:14:01 GMT"
         },
         {
           "source": "BBC",
@@ -107,33 +107,33 @@
         },
         {
           "source": "Al Jazeera",
-          "title": "UN experts sound alarm at excessive use of force in French student protests",
-          "link": "https://www.aljazeera.com/news/2026/10/28/un-experts-sound-alarm-at-excessive-use-of-force-in-french-student-protests?traffic_source=rss",
-          "published": "Wed, 28 Oct 2026 22:34:51 +0000"
+          "title": "Serbians storm TV studio as pro-Vucic media faces reckoning",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/29/serbians-storm-tv-studio-as-pro-vucic-media-faces-reckoning?traffic_source=rss",
+          "published": "Thu, 29 Oct 2026 02:02:02 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Costa Rica’s mega-prison receives first inmates",
-          "link": "https://www.aljazeera.com/news/2026/10/28/costa-ricas-mega-prison-receives-first-inmates?traffic_source=rss",
-          "published": "Wed, 28 Oct 2026 21:36:16 +0000"
+          "title": "Bolsonaro in Miami: I am the ‘true president-elect’",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/29/bolsonaro-in-miami-i-am-the-true-president?traffic_source=rss",
+          "published": "Thu, 29 Oct 2026 02:01:09 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Indonesian students demand action on wildfires and rising costs",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/28/aje-onl-nf_indonesian-students-demand-action-on-wildfires-281026?traffic_source=rss",
-          "published": "Wed, 28 Oct 2026 21:23:17 +0000"
+          "title": "Riot police deployed in Madrid as protests erupt over deadly train crash",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/29/riot-police-deployed-in-madrid-as-protests-erupt-over-deadly-train-crash?traffic_source=rss",
+          "published": "Thu, 29 Oct 2026 00:36:33 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "What’s next for Brazil’s Flavio Bolsonaro after election defeat?",
-          "link": "https://www.aljazeera.com/news/2026/10/28/whats-next-for-brazils-flavio-bolsonaro-after-election-defeat?traffic_source=rss",
-          "published": "Wed, 28 Oct 2026 20:38:01 +0000"
+          "title": "Israelis rally for Jewish-Arab government after election gains",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/29/israelis-rally-for-jewish-arab-government-after-election-gains?traffic_source=rss",
+          "published": "Thu, 29 Oct 2026 00:34:24 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "UN votes to condemn embargo of Cuba despite US lobbying push",
-          "link": "https://www.aljazeera.com/news/2026/10/28/un-votes-to-condemn-embargo-of-cuba-despite-us-lobbying-push?traffic_source=rss",
-          "published": "Wed, 28 Oct 2026 20:22:16 +0000"
+          "title": "No clear winner in Israel election with nearly 90 percent of votes counted",
+          "link": "https://www.aljazeera.com/news/2026/10/29/no-clear-winner-in-israeli-election-with-nearly-90-percent-of-votes-counted?traffic_source=rss",
+          "published": "Thu, 29 Oct 2026 00:01:07 +0000"
         }
       ]
     }
