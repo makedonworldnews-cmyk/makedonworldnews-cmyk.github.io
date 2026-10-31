@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T01:44:48Z",
+  "updatedAt": "2026-10-31T07:32:37Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,24 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Пријавен маж од Куманово за силување на малолетно дете",
+          "link": "https://makfax.com.mk/crna-hronika/prijaven-mazh-od-kumanovo-za-siluvanje-na-maloletno-dete/",
+          "published": "Sat, 31 Oct 2026 07:14:55 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Неколку села во Студеничани денеска без струја, прекинот ќе трае до 15:30 часот",
+          "link": "https://makfax.com.mk/makedonija/nekolku-sela-vo-studenichani-deneska-bez-struja-prekinot-ke-trae-do-1530-chasot/",
+          "published": "Sat, 31 Oct 2026 07:10:28 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "Облачно и дождливо време, попладне и во текот на ноќта се очекуваат пообилни врнежи",
+          "link": "https://makfax.com.mk/makedonija/oblachno-i-dozhdlivo-vreme-popladne-i-vo-tekot-na-nokta-se-ochekuvaat-poobilni-vrnezhi/",
+          "published": "Sat, 31 Oct 2026 06:46:05 +0000"
         },
         {
           "source": "Makfax",
@@ -23,52 +41,34 @@
           "published": "Fri, 30 Oct 2026 20:03:45 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Три хороскопски знаци ги очекуваат финансиски можности во ноември",
-          "link": "https://makfax.com.mk/zanimlivosti/tri-horoskopski-znaci-gi-ochekuvaat-finansiski-mozhnosti-vo-noemvri/",
-          "published": "Fri, 30 Oct 2026 19:58:52 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "Стојанче Јовановски останува со казна од 12 години затвор, Врховниот суд го одби неговото барање",
-          "link": "https://makfax.com.mk/makedonija/stojanche-jovanovski-ostanuva-so-kazna-od-12-godini-zatvor-vrhovniot-sud-go-odbi-negovoto-baranje/",
-          "published": "Fri, 30 Oct 2026 19:54:13 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "(Видео) Полскиот претседател итно се враќа во земјата по случувањата во Уставниот суд",
-          "link": "https://makfax.com.mk/svet/video-polskiot-pretsedatel-itno-se-vraka-vo-zemjata-po-sluchuvanjata-vo-ustavniot-sud/",
-          "published": "Fri, 30 Oct 2026 19:48:24 +0000"
+          "source": "NetPress",
+          "title": "Лига 1: Лил го победи Ланс и се искачи на второто место, ПСЖ ја потврди лидерската позиција",
+          "link": "https://netpress.com.mk/liga-1-lil-go-pobedi-lans-i-se-iskachi-na-vtoroto-mesto-pszh-ja-potvrdi-liderskata-poziczija/",
+          "published": "Sat, 31 Oct 2026 07:17:14 +0000"
         },
         {
           "source": "NetPress",
-          "title": "ФОТО| Откриено ормарче дава увид во животот во Помпеја пред ерупцијата на Везув",
-          "link": "https://netpress.com.mk/foto-otkrieno-ormarche-dava-uvid-vo-zhivotot-vo-pompeja-pred-erupczijata-na-vezuv/",
-          "published": "Fri, 30 Oct 2026 22:47:30 +0000"
+          "title": "Лавров: Коментарите на Зеленски не се од помош, ставот на Русија е непроменет",
+          "link": "https://netpress.com.mk/lavrov-komentarite-na-zelenski-ne-se-od-pomosh-stavot-na-rusija-e-nepromenet/",
+          "published": "Sat, 31 Oct 2026 06:57:20 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Карни: ЕУ и Канада ќе го дефинираат придружното членство до средината на следната година",
-          "link": "https://netpress.com.mk/karni-eu-i-kanada-ke-go-definiraat-pridruzhnoto-chlenstvo-do-sredinata-na-slednata-godina/",
-          "published": "Fri, 30 Oct 2026 22:28:24 +0000"
+          "title": "Дневен хороскоп за сабота, 31-ви октомври 2026-та",
+          "link": "https://netpress.com.mk/dneven-horoskop-za-sabota-31-vi-oktomvri-2026-ta/",
+          "published": "Sat, 31 Oct 2026 06:37:38 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Преглед Евролига: Шпанското дерби за Барсеа, Ефес подобар од Панатинаикос….",
-          "link": "https://netpress.com.mk/pregled-evroliga-shpanskoto-derbi-za-barsea-efes-podobar-od-panatinaikos/",
-          "published": "Fri, 30 Oct 2026 22:11:41 +0000"
+          "title": "Бесплатна тура до Матка и Врело со автобуски превоз и туристички водич",
+          "link": "https://netpress.com.mk/besplatna-tura-do-matka-i-vrelo-so-avtobuski-prevoz-i-turistichki-vodich/",
+          "published": "Sat, 31 Oct 2026 06:17:11 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Зверев му препушти два гема на Фери во Виена, Лехечка и Штруф во полуфиналето на Базел",
-          "link": "https://netpress.com.mk/zverev-mu-prepushti-dva-gema-na-feri-vo-viena-lehechka-i-shtruf-vo-polufinaleto-na-bazel/",
-          "published": "Fri, 30 Oct 2026 21:35:21 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Истражување открива врска меѓу одењето и невролошките заболувања",
-          "link": "https://netpress.com.mk/istrazhuvane-otkriva-vrska-megu-odeneto-i-nevroloshkite-zaboluvana/",
-          "published": "Fri, 30 Oct 2026 21:02:14 +0000"
+          "title": "Неколку села во скопско без струја",
+          "link": "https://netpress.com.mk/nekolku-sela-vo-skopsko-bez-struja/",
+          "published": "Sat, 31 Oct 2026 05:57:57 +0000"
         }
       ]
     },
@@ -89,51 +89,51 @@
         },
         {
           "source": "BBC",
+          "title": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
+          "link": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 31 Oct 2026 02:12:19 GMT"
+        },
+        {
+          "source": "BBC",
           "title": "Police deployed during stand-off over control of top Poland court",
           "link": "https://www.bbc.co.uk/news/articles/crz9824d5e88o?at_medium=RSS&at_campaign=rss",
           "published": "Sat, 31 Oct 2026 01:11:43 GMT"
         },
         {
           "source": "BBC",
-          "title": "Hundreds evacuated from Russian-occupied Oleshky during rare Ukraine ceasefire",
-          "link": "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss",
-          "published": "Fri, 30 Oct 2026 16:26:11 GMT"
-        },
-        {
-          "source": "BBC",
-          "title": "They strangled us, says founder of Russian newspaper shut under pressure from authorities",
-          "link": "https://www.bbc.co.uk/news/articles/cmewepdr109do?at_medium=RSS&at_campaign=rss",
-          "published": "Fri, 30 Oct 2026 20:41:51 GMT"
+          "title": "Spain train disaster clouds Sánchez chances of re-election",
+          "link": "https://www.bbc.co.uk/news/articles/cmeweppr990qo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 31 Oct 2026 05:44:21 GMT"
         },
         {
           "source": "Al Jazeera",
-          "title": "Pope Leo becomes first pontiff to vote in US general election",
-          "link": "https://www.aljazeera.com/news/2026/10/31/pope-leo-becomes-first-pontiff-to-vote-in-us-general-election?traffic_source=rss",
-          "published": "Sat, 31 Oct 2026 01:31:44 +0000"
+          "title": "US, South Korea, Japan call for ‘complete denuclearisation’ of North Korea",
+          "link": "https://www.aljazeera.com/news/2026/10/31/us-south-korea-japan-call-for-complete-denuclearisation-of-north-korea?traffic_source=rss",
+          "published": "Sat, 31 Oct 2026 07:20:45 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Fake polls expose vulnerabilities in US elections ahead of midterms",
-          "link": "https://www.aljazeera.com/news-analysis/2026/10/31/fake-polls-expose-vulnerabilities-in-us-elections-ahead-of-midterms?traffic_source=rss",
-          "published": "Sat, 31 Oct 2026 01:26:34 +0000"
+          "title": "US midterms: 3 days to go – What latest polls say as early voting surges",
+          "link": "https://www.aljazeera.com/news/2026/10/31/us-midterms-3-days-to-go-what-latest-polls-say-as-early-voting-surges?traffic_source=rss",
+          "published": "Sat, 31 Oct 2026 06:59:55 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Dog walker threatened with gun during ICE arrest in North Hollywood",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/31/dog-walker-threatened-with-gun-during-ice-arrest-in-north-hollywood?traffic_source=rss",
-          "published": "Sat, 31 Oct 2026 01:23:59 +0000"
+          "title": "Canada’s in-form Leylah Fernandez reaches Pan Pacific Open final in Tokyo",
+          "link": "https://www.aljazeera.com/sports/2026/10/31/leylah-fernandez-canada-pan-pacific-open-final-tokyo-tennis-wta?traffic_source=rss",
+          "published": "Sat, 31 Oct 2026 06:36:05 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Germany and France brace for protests on Halloween weekend",
-          "link": "https://www.aljazeera.com/news/2026/10/31/germany-and-france-brace-for-protests-on-halloween-weekend?traffic_source=rss",
-          "published": "Sat, 31 Oct 2026 00:17:35 +0000"
+          "title": "LeBron James, Tyrese Maxey shine as 76ers beat Knicks in NBA Cup thriller",
+          "link": "https://www.aljazeera.com/sports/2026/10/31/lebron-james-tyrese-maxey-philadelphia-76ers-win-new-york-knicks-nba-cup?traffic_source=rss",
+          "published": "Sat, 31 Oct 2026 06:11:53 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Brazil summons Argentinian diplomat over Bolsonaro’s flight to US",
-          "link": "https://www.aljazeera.com/news/2026/10/31/brazil-summons-argentinian-diplomat-over-bolsonaros-flight-to-us?traffic_source=rss",
-          "published": "Sat, 31 Oct 2026 00:02:06 +0000"
+          "title": "The selective solidarity at the heart of India’s voter protests",
+          "link": "https://www.aljazeera.com/opinions/2026/10/31/the-selective-solidarity-at-the-heart-of-indias-voter-protests?traffic_source=rss",
+          "published": "Sat, 31 Oct 2026 06:08:19 +0000"
         }
       ]
     }
