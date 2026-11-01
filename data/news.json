@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T00:27:20Z",
+  "updatedAt": "2026-11-01T06:40:36Z",
   "groups": [
     {
       "region": "Македонија",
@@ -42,39 +42,45 @@
         },
         {
           "source": "NetPress",
+          "title": "Суд ги блокира обидите на Трамп да го тужи WSJ за известувањето за Епштајн",
+          "link": "https://netpress.com.mk/sud-gi-blokira-obidite-na-tramp-da-go-tuzhi-wsj-za-izvestuvaneto-za-epshtajn/",
+          "published": "Sun, 01 Nov 2026 06:27:46 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "НБА: Портланд убедлив во Солт Лејк Сити",
+          "link": "https://netpress.com.mk/nba-portland-ubedliv-vo-solt-lejk-siti/",
+          "published": "Sun, 01 Nov 2026 06:07:40 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Дневен хороскоп за недела, 1-ви ноември 2026-та",
+          "link": "https://netpress.com.mk/dneven-horoskop-za-nedela-1-vi-noemvri-2026-ta/",
+          "published": "Sun, 01 Nov 2026 05:47:14 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Облачно со повремени врнежи, од среда стабилно и суво време",
+          "link": "https://netpress.com.mk/oblachno-so-povremeni-vrnezh-od-sreda-stabilno-i-suvo-vreme/",
+          "published": "Sun, 01 Nov 2026 05:27:05 +0000"
+        },
+        {
+          "source": "NetPress",
           "title": "Ла Лига: Барселона со уверлива победа по неколку часа се врати на врвот",
           "link": "https://netpress.com.mk/la-liga-barselona-so-uverliva-pobeda-po-nekolku-chasa-se-vrati-na-vrvot/",
           "published": "Sat, 31 Oct 2026 22:53:10 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Серија А: Милан го совлада Интер во градското дерби",
-          "link": "https://netpress.com.mk/serija-a-milan-go-sovlada-inter-vo-gradskoto-derbi/",
-          "published": "Sat, 31 Oct 2026 22:38:19 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Илјадници луѓе повторно протестираат во Лисабон, барајќи повлекување на законот за кириите",
-          "link": "https://netpress.com.mk/iljadniczi-luge-povtorno-protestiraat-vo-lisabon-barajki-povlekuvane-na-zakonot-za-kiriite/",
-          "published": "Sat, 31 Oct 2026 22:22:30 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Судири со полицијата избувнаа на протестите на младите во неколку германски градови",
-          "link": "https://netpress.com.mk/sudiri-so-policzijata-izbuvnaa-na-protestite-na-mladite-vo-nekolku-germanski-gradovi/",
-          "published": "Sat, 31 Oct 2026 21:52:14 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Филипче распука и по Црвенковски – нарекувајќи го „мумија” и „балсамиран лик“ кој со години терал бизнис со ВМРО",
-          "link": "https://netpress.com.mk/filipche-raspuka-i-po-czrvenkovski-narekuvajki-go-mumija-i-balsamiran-lik-koj-so-godini-teral-biznis-so-vmro/",
-          "published": "Sat, 31 Oct 2026 21:46:23 +0000"
         }
       ]
     },
     {
       "region": "Свет",
       "items": [
+        {
+          "source": "BBC",
+          "title": "Shops looted as German cost of living protests turn violent",
+          "link": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 01 Nov 2026 06:30:59 GMT"
+        },
         {
           "source": "BBC",
           "title": "'We came back from hell', say Ukrainians after years in Russia-occupied front-line city",
@@ -86,12 +92,6 @@
           "title": "Ukrainian evacuees reunite with family after years trapped in Russia-occupied city",
           "link": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss",
           "published": "Sat, 31 Oct 2026 17:53:35 GMT"
-        },
-        {
-          "source": "BBC",
-          "title": "Thousands demonstrate in Paris as protests spread across Europe",
-          "link": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o?at_medium=RSS&at_campaign=rss",
-          "published": "Sat, 31 Oct 2026 21:29:01 GMT"
         },
         {
           "source": "BBC",
@@ -107,33 +107,33 @@
         },
         {
           "source": "Al Jazeera",
-          "title": "Iran war live: Araghchi says talks under way on 2-day plan to reopen Hormuz",
-          "link": "https://www.aljazeera.com/news/liveblog/2026/11/1/iran-war-live-araghchi-says-talks-under-way-on-2-day-plan-to-reopen-hormuz?traffic_source=rss",
-          "published": "Sun, 01 Nov 2026 00:00:51 +0000"
+          "title": "Canelo Alvarez defeats Christian Mbilli to reclaim WBC title in Riyadh",
+          "link": "https://www.aljazeera.com/sports/2026/11/1/canelo-alvarez-defeats-christian-mbilli-to-reclaim-wbc-title-in-riyadh?traffic_source=rss",
+          "published": "Sun, 01 Nov 2026 06:19:52 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "ICE agent’s violent shove propels woman through the air",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/31/ice-agents-violent-shove-propels-woman-through-the-air?traffic_source=rss",
-          "published": "Sat, 31 Oct 2026 23:45:36 +0000"
+          "title": "Golden State Valkyries defeat Atlanta Dream to capture first WNBA crown",
+          "link": "https://www.aljazeera.com/sports/2026/11/1/golden-state-valkyries-defeat-atlanta-dream-to-capture-first-wnba-crown?traffic_source=rss",
+          "published": "Sun, 01 Nov 2026 06:17:45 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Dutch authorities rescue 38 people adrift in rubber boat",
-          "link": "https://www.aljazeera.com/news/2026/10/31/dutch-authorities-rescue-38-people-adrift-in-rubber-boat?traffic_source=rss",
-          "published": "Sat, 31 Oct 2026 22:38:03 +0000"
+          "title": "‘Like Kashmir’: How a toxic marble dump yard became a tourist spot in India",
+          "link": "https://www.aljazeera.com/news/2026/11/1/like-kashmir-how-a-toxic-marble-dump-yard-became-a-tourist-spot-in-india?traffic_source=rss",
+          "published": "Sun, 01 Nov 2026 05:25:32 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Trump loses legal battle over Epstein-linked Wall Street Journal case",
-          "link": "https://www.aljazeera.com/news/2026/10/31/trump-loses-legal-battle-over-epstein-linked-wall-street-journal-case?traffic_source=rss",
-          "published": "Sat, 31 Oct 2026 22:36:41 +0000"
+          "title": "Roger’s cynical gift basket for El-Sayed on his birthday",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/1/rogers-cynical-gift-basket-for-el-sayed-on-his-birthday?traffic_source=rss",
+          "published": "Sun, 01 Nov 2026 05:21:16 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Palestine Action supporters arrested outside US embassy in London",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/31/aje-onl-nf_palestine-action-supporters-arrested-in-london-311026?traffic_source=rss",
-          "published": "Sat, 31 Oct 2026 22:10:53 +0000"
+          "title": "UN demands investigation after staffer’s death in Houthi custody in Yemen",
+          "link": "https://www.aljazeera.com/news/2026/11/1/un-demands-investigation-after-staffers-death-in-houthi-custody-in-yemen?traffic_source=rss",
+          "published": "Sun, 01 Nov 2026 04:49:15 +0000"
         }
       ]
     }
