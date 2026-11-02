@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T22:27:46Z",
+  "updatedAt": "2026-11-02T01:44:06Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) Кими Антонели е светски шампион – Макс Ферстапен победи во Мексико",
+          "link": "https://makfax.com.mk/sport/video-kimi-antoneli-e-svetski-shampion-maks-ferstapen-pobedi-vo-meksiko/",
+          "published": "Sun, 01 Nov 2026 22:41:02 +0000"
         },
         {
           "source": "Makfax",
@@ -35,10 +41,10 @@
           "published": "Sun, 01 Nov 2026 21:26:02 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "20-годишник во притвор за напад врз малолетникот пред „Јане Сандански“",
-          "link": "https://makfax.com.mk/makedonija/20-godishnik-vo-pritvor-za-napad-vrz-maloletnikot-pred-jane-sandanski/",
-          "published": "Sun, 01 Nov 2026 19:34:28 +0000"
+          "source": "NetPress",
+          "title": "Ф1: Верстапен победи во Мексико, Антонели најмлад светски првак",
+          "link": "https://netpress.com.mk/f1-verstapen-pobedi-vo-meksiko-antoneli-najmlad-svetski-prvak/",
+          "published": "Sun, 01 Nov 2026 22:54:07 +0000"
         },
         {
           "source": "NetPress",
@@ -63,12 +69,6 @@
           "title": "Сами против сите! Жителите на Бревница ќе ја имаат поддршката на Владата, порача Мицкоски",
           "link": "https://netpress.com.mk/sami-protiv-site-zhitelite-na-brevnicza-ke-ja-imaat-poddrshkata-na-vladata-poracha-miczkoski/",
           "published": "Sun, 01 Nov 2026 21:30:47 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "ДИК со конечни бројки за изборите во Брвеница – Јахији освоил 4.442 гласови, а Радичевски 4.177 гласови",
-          "link": "https://netpress.com.mk/dik-so-konechni-brojki-za-izborite-vo-brvenicza-jahiji-osvoil-4-442-glasovi-a-radichevski-4-177-glasovi/",
-          "published": "Sun, 01 Nov 2026 21:21:11 +0000"
         }
       ]
     },
@@ -77,9 +77,21 @@
       "items": [
         {
           "source": "BBC",
+          "title": "Ukraine air raid app apparently hacked as users receive false radiation threat, Air Force says",
+          "link": "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 02 Nov 2026 01:18:27 GMT"
+        },
+        {
+          "source": "BBC",
           "title": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends",
           "link": "https://www.bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&at_campaign=rss",
           "published": "Sun, 01 Nov 2026 21:55:01 GMT"
+        },
+        {
+          "source": "BBC",
+          "title": "Democrat endorses Republican candidate in key Michigan Senate race as party spat erupts",
+          "link": "https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 02 Nov 2026 00:02:15 GMT"
         },
         {
           "source": "BBC",
@@ -89,51 +101,39 @@
         },
         {
           "source": "BBC",
-          "title": "University of Cambridge scientist among those who died in Spanish train crash",
-          "link": "https://www.bbc.co.uk/news/articles/cq5ynzvkn1d8o?at_medium=RSS&at_campaign=rss",
-          "published": "Sun, 01 Nov 2026 17:05:18 GMT"
-        },
-        {
-          "source": "BBC",
-          "title": "Shops looted as German cost-of-living protests turn violent",
-          "link": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
-          "published": "Sun, 01 Nov 2026 11:57:48 GMT"
-        },
-        {
-          "source": "BBC",
-          "title": "Armed police start patrols in Sydney after Bondi Beach attack",
-          "link": "https://www.bbc.co.uk/news/articles/c9kgj7k7ry0ro?at_medium=RSS&at_campaign=rss",
-          "published": "Sun, 01 Nov 2026 17:56:47 GMT"
+          "title": "France launches attempted murder investigation after petrol bomb thrown at police",
+          "link": "https://www.bbc.co.uk/news/articles/cwvg05z184j0o?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 02 Nov 2026 00:15:30 GMT"
         },
         {
           "source": "Al Jazeera",
-          "title": "Democrat Haley Stevens heckled as she backs El-Sayed rival",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/1/democrat-haley-stevens-heckled-as-she-backs-el-sayed-rival?traffic_source=rss",
-          "published": "Sun, 01 Nov 2026 21:29:43 +0000"
+          "title": "Nine die in ‘cataclysmic’ Florida business jet crash",
+          "link": "https://www.aljazeera.com/news/2026/11/2/nine-die-in-cataclysmic-florida-business-jet?traffic_source=rss",
+          "published": "Mon, 02 Nov 2026 00:34:22 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Thousands displaced from Hebron as Israel carries on siege",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/1/thousands-displaced-from-hebron-as-israel-carries-on-siege?traffic_source=rss",
-          "published": "Sun, 01 Nov 2026 21:28:47 +0000"
+          "title": "Israeli officials say results stand as Netanyahu claims election ‘stolen’",
+          "link": "https://www.aljazeera.com/news/2026/11/2/israeli-officials-say-results-stand-as-netanyahu-claims-election-stolen?traffic_source=rss",
+          "published": "Mon, 02 Nov 2026 00:29:16 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Carney signals progress on Canada-US trade deal talks as midterms loom",
-          "link": "https://www.aljazeera.com/news/2026/11/1/carney-signals-progress-on-canada-us-trade-deal-talks-as-midterms-loom?traffic_source=rss",
-          "published": "Sun, 01 Nov 2026 21:01:33 +0000"
+          "title": "Bollywood star greets fans in bulletproof glass after bomb threat",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/2/bollywood-star-greets-fans-in-bulletproof-glass-after-bomb-threat?traffic_source=rss",
+          "published": "Mon, 02 Nov 2026 00:14:22 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Why did Democrat Haley Stevens just endorse a Republican for US Senate?",
-          "link": "https://www.aljazeera.com/news/2026/11/1/why-did-democrat-haley-stevens-just-endorse-a-republican-for-us-senate?traffic_source=rss",
-          "published": "Sun, 01 Nov 2026 21:00:52 +0000"
+          "title": "Iran war live: Tankers hit in Hormuz; Trump again says conflict to end soon",
+          "link": "https://www.aljazeera.com/news/liveblog/2026/11/2/iran-war-live-tankers-hit-in-hormuz-trump-again-says-conflict-to-end-soon?traffic_source=rss",
+          "published": "Mon, 02 Nov 2026 00:00:00 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Al Jazeera Director General hails 30 years of groundbreaking news",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/1/al-jazeera-director-general-hails-30-years-of-groundbreaking-news?traffic_source=rss",
-          "published": "Sun, 01 Nov 2026 20:48:00 +0000"
+          "title": "Nine people dead after Learjet crashes in Florida",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/1/nine-people-dead-after-learjet-crashes-in-florida?traffic_source=rss",
+          "published": "Sun, 01 Nov 2026 23:29:48 +0000"
         }
       ]
     }
