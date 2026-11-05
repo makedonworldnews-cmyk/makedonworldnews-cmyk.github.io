@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T21:57:11Z",
+  "updatedAt": "2026-11-05T02:07:18Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,24 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) Кајт го урна својот сакан Ливерпул и рече: Направивме чудо",
+          "link": "https://makfax.com.mk/sport/video-kajt-go-urna-svojot-sakan-liverpul-i-reche-napravivme-chudo/",
+          "published": "Wed, 04 Nov 2026 23:23:02 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) АЕК водеше двапати, на крајот Реал победи",
+          "link": "https://makfax.com.mk/sport/video-aek-vodeshe-dvapati-na-krajot-real-pobedi/",
+          "published": "Wed, 04 Nov 2026 23:14:02 +0000"
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) Историски резил на Ленс, Комо им даде девет гола",
+          "link": "https://makfax.com.mk/sport/video-istoriski-rezil-na-lens-komo-im-dade-devet-gola/",
+          "published": "Wed, 04 Nov 2026 23:00:12 +0000"
         },
         {
           "source": "Makfax",
@@ -23,22 +41,16 @@
           "published": "Wed, 04 Nov 2026 20:45:06 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Премиерот на Онтарио му се потсмева на Трамп: „Скокав од радост, правев ѕвезди на улица“",
-          "link": "https://makfax.com.mk/svet/premierot-na-ontario-mu-se-potsmeva-na-tramp-skokav-od-radost-pravev-zvezdi-na-ulica/",
-          "published": "Wed, 04 Nov 2026 20:39:11 +0000"
+          "source": "NetPress",
+          "title": "Германската полиција ја истражува смртта на баварскиот заменик-премиер",
+          "link": "https://netpress.com.mk/germanskata-policzija-ja-istrazhuva-smrtta-na-bavarskiot-zamenik-premier/",
+          "published": "Thu, 05 Nov 2026 00:57:25 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "ДОМ: Кога жена или девојка пријавува насилство, а потоа е убиена, тоа не може да се третира како обичен административен пропуст",
-          "link": "https://makfax.com.mk/makedonija/dom-koga-zhena-ili-devojka-prijavuva-nasilstvo-a-potoa-e-ubiena-toa-ne-mozhe-da-se-tretira-kako-obichen-administrativen-propust/",
-          "published": "Wed, 04 Nov 2026 20:35:56 +0000"
-        },
-        {
-          "source": "Makfax",
-          "title": "(Видео) Боб Дилан на прием кај Папата, носеше црн дуксер со качулка",
-          "link": "https://makfax.com.mk/svet/video-bob-dilan-na-priem-kaj-papata-noseshe-crn-dukser-so-kachulka/",
-          "published": "Wed, 04 Nov 2026 20:12:01 +0000"
+          "source": "NetPress",
+          "title": "Преглед ЛШ: Дебитантот Комо со историски рекордна победа, пресврти во Атина и Истанбул",
+          "link": "https://netpress.com.mk/pregled-lsh-debitantot-komo-so-istoriski-rekordna-pobeda-presvrti-vo-atina-i-istanbul/",
+          "published": "Wed, 04 Nov 2026 22:45:47 +0000"
         },
         {
           "source": "NetPress",
@@ -57,18 +69,6 @@
           "title": "Притвор за осомничените за манипулации со електронските индекси на Универзитетот „Гоце Делчев“ во Штип",
           "link": "https://netpress.com.mk/pritvor-za-osomnichenite-za-manipulaczii-so-elektronskite-indeksi-na-univerzitetot-gocze-delchev-vo-shtip/",
           "published": "Wed, 04 Nov 2026 20:12:56 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Боб Дилан „наврати“ на средба со папата",
-          "link": "https://netpress.com.mk/bob-dilan-navrati-na-sredba-so-papata/",
-          "published": "Wed, 04 Nov 2026 20:07:04 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Откриен идентитетот на девојката пронајдена мртва во запалениот автомобил во Богданци и на обесеното момче",
-          "link": "https://netpress.com.mk/otkrien-identitetot-na-devojkata-pronajdena-mrtva-vo-zapaleniot-avtomobil-vo-bogdanczi-i-na-obesenoto-momche/",
-          "published": "Wed, 04 Nov 2026 20:04:47 +0000"
         }
       ]
     },
@@ -91,7 +91,7 @@
           "source": "BBC",
           "title": "Ukraine says bodycam video shows deadly Russian double-tap bombing",
           "link": "https://www.bbc.co.uk/news/articles/c98rz6penv86o?at_medium=RSS&at_campaign=rss",
-          "published": "Wed, 04 Nov 2026 20:22:40 GMT"
+          "published": "Wed, 04 Nov 2026 22:48:43 GMT"
         },
         {
           "source": "BBC",
@@ -107,33 +107,33 @@
         },
         {
           "source": "Al Jazeera",
-          "title": "Social media reacts to Democrats’ takeover of US Congress",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/4/social-media-reacts-to-democrats-takeover-of-us-congress?traffic_source=rss",
-          "published": "Wed, 04 Nov 2026 21:21:58 +0000"
+          "title": "Africa’s richest man launches mega oil tank farm in Namibia",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/5/africas-richest-man-launches-mega-oil-tank-farm-in-namibia?traffic_source=rss",
+          "published": "Thu, 05 Nov 2026 00:39:18 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Israel restricting treatment for 1,100 child amputees in Gaza: NGO",
-          "link": "https://www.aljazeera.com/news/2026/11/4/israel-restricting-treatment-for-1100-child-amputees-in-gaza-ngo?traffic_source=rss",
-          "published": "Wed, 04 Nov 2026 21:13:56 +0000"
+          "title": "Ohio’s voters tell Republicans: don’t take us for granted",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/5/ohios-voters-tell-republicans-dont-take-us-for-granted?traffic_source=rss",
+          "published": "Thu, 05 Nov 2026 00:36:25 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "US midterm election results live: Trump blames Iran war after losses",
-          "link": "https://www.aljazeera.com/news/liveblog/2026/11/4/us-midterm-election-results-live-trump-reacts-as-more-results-awaited?traffic_source=rss",
-          "published": "Wed, 04 Nov 2026 21:00:00 +0000"
+          "title": "Democrats won Congress. But can they deliver on their promises?",
+          "link": "https://www.aljazeera.com/news/2026/11/5/democrats-won-congress-but-can-they-deliver-on-their-promises?traffic_source=rss",
+          "published": "Thu, 05 Nov 2026 00:25:43 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Democrat leaders hail midterm election success",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/4/aje-onl-nf_democrat-leaders-hail-midterm-election-success-041126?traffic_source=rss",
-          "published": "Wed, 04 Nov 2026 20:50:31 +0000"
+          "title": "Historic firsts redraw US political map in 2026 midterm elections",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/5/historic-firsts-redraw-us-political-map-in-2026-midterm-elections?traffic_source=rss",
+          "published": "Thu, 05 Nov 2026 00:24:20 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Ukraine raises death toll from Russian strike on Zaporizhia to 40 people",
-          "link": "https://www.aljazeera.com/news/2026/11/4/ukraine-raises-death-toll-from-russian-strike-on-zaporizhia-to-40-people?traffic_source=rss",
-          "published": "Wed, 04 Nov 2026 20:31:56 +0000"
+          "title": "Iran war live: Trump says war caused election wipeout but he ‘had to do it’",
+          "link": "https://www.aljazeera.com/news/liveblog/2026/11/5/iran-war-live-trump-admits-war-caused-election-loss-but-had-to-do-it?traffic_source=rss",
+          "published": "Thu, 05 Nov 2026 00:00:00 +0000"
         }
       ]
     }
