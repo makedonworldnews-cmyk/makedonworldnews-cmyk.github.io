@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T22:49:22Z",
+  "updatedAt": "2026-11-06T02:53:58Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) Динамо го згасна светлото на стадионот на Светлината",
+          "link": "https://makfax.com.mk/sport/video-dinamo-go-zgasna-svetloto-na-stadionot-na-svetlinata/",
+          "published": "Thu, 05 Nov 2026 22:54:02 +0000"
         },
         {
           "source": "Makfax",
@@ -35,16 +41,16 @@
           "published": "Thu, 05 Nov 2026 20:43:41 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Шасивари: Силна соработка со Косово за унапредено и поефикасно правосудство",
-          "link": "https://makfax.com.mk/makedonija/shasivari-silna-sorabotka-so-kosovo-za-unapredeno-i-poefikasno-pravosudstvo/",
-          "published": "Thu, 05 Nov 2026 20:35:24 +0000"
+          "source": "NetPress",
+          "title": "Израелскиот претседател ќе го избере мандатарот в недела",
+          "link": "https://netpress.com.mk/izraelskiot-pretsedatel-ke-go-izbere-mandatarot-v-nedela/",
+          "published": "Thu, 05 Nov 2026 22:35:46 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Израелскиот претседател ќе го избере мандатор в недела",
-          "link": "https://netpress.com.mk/izraelskiot-pretsedatel-ke-go-izbere-mandator-v-nedela/",
-          "published": "Thu, 05 Nov 2026 22:35:46 +0000"
+          "title": "Младите брачни двојки и самохрани родители до 40 години ќе бидат ослободени од комуналиите за решавање на станбеното прашање",
+          "link": "https://netpress.com.mk/mladite-brachni-dvojki-i-samohrani-roditeli-do-40-godini-ke-bidat-oslobodeni-od-komunaliite-za-reshavane-na-stanbenoto-prashane/",
+          "published": "Thu, 05 Nov 2026 21:49:17 +0000"
         },
         {
           "source": "NetPress",
@@ -63,12 +69,6 @@
           "title": "Објавени официјалните резултати од изборите во Србија, започнува рокот за формирање влада",
           "link": "https://netpress.com.mk/objaveni-oficzijalnite-rezultati-od-izborite-vo-srbija-zapochnuva-rokot-za-formirane-vlada/",
           "published": "Thu, 05 Nov 2026 20:42:42 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Сиљановска-Давкова на средба со амбасадорите на земјите-членки на групата „Пријатели на Западен Балкан“",
-          "link": "https://netpress.com.mk/silanovska-davkova-na-sredba-so-ambasadorite-na-zemjite-chlenki-na-grupata-prijateli-na-zapaden-balkan/",
-          "published": "Thu, 05 Nov 2026 20:39:30 +0000"
         }
       ]
     },
@@ -77,63 +77,63 @@
       "items": [
         {
           "source": "BBC",
+          "title": "Major tech stocks plunge as US midterms add to fears of AI slowdown",
+          "link": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 06 Nov 2026 01:44:03 GMT"
+        },
+        {
+          "source": "BBC",
+          "title": "Trump signs order preventing future presidents from changing Oval Office",
+          "link": "https://www.bbc.co.uk/news/articles/cmy0eeg101djo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 06 Nov 2026 01:20:01 GMT"
+        },
+        {
+          "source": "BBC",
+          "title": "White House denies Hegseth and Rubio to leave jobs after Republican election losses",
+          "link": "https://www.bbc.co.uk/news/articles/cqg7xxg4jdv5o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 06 Nov 2026 02:08:57 GMT"
+        },
+        {
+          "source": "BBC",
+          "title": "Pope begins lengthy trip to Latin America weeks after lung cancer surgery",
+          "link": "https://www.bbc.co.uk/news/articles/cqn06j0y61k6o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 06 Nov 2026 00:02:57 GMT"
+        },
+        {
+          "source": "BBC",
           "title": "Hoax bomb threats target European airlines and airports for second time in a week",
           "link": "https://www.bbc.co.uk/news/articles/cmpqg08nz3pqo?at_medium=RSS&at_campaign=rss",
           "published": "Thu, 05 Nov 2026 17:39:48 GMT"
         },
         {
-          "source": "BBC",
-          "title": "Who could be behind hoax bomb threats to European air travel?",
-          "link": "https://www.bbc.co.uk/news/articles/cx8dzzjg3g9zo?at_medium=RSS&at_campaign=rss",
-          "published": "Thu, 05 Nov 2026 19:58:40 GMT"
-        },
-        {
-          "source": "BBC",
-          "title": "California governor commutes sentences for state's 548 death row inmates",
-          "link": "https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo?at_medium=RSS&at_campaign=rss",
-          "published": "Thu, 05 Nov 2026 22:31:40 GMT"
-        },
-        {
-          "source": "BBC",
-          "title": "French protests see numbers surge as unions join strikes over high cost of living",
-          "link": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo?at_medium=RSS&at_campaign=rss",
-          "published": "Thu, 05 Nov 2026 17:59:53 GMT"
-        },
-        {
-          "source": "BBC",
-          "title": "Paraguay President Santiago Peña resigns after bank collapse",
-          "link": "https://www.bbc.co.uk/news/articles/c6p9g39vln3yo?at_medium=RSS&at_campaign=rss",
-          "published": "Thu, 05 Nov 2026 17:40:40 GMT"
+          "source": "Al Jazeera",
+          "title": "Gaza turns discarded cooking pots into seawalls",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/6/gaza-turns-discarded-cooking-pots-into-seawalls?traffic_source=rss",
+          "published": "Fri, 06 Nov 2026 02:03:47 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Generation Z and diversity redefine US politics in groundbreaking election",
-          "link": "https://www.aljazeera.com/news/2026/11/5/generation-z-and-diversity-redefine-us-politics-in-groundbreaking-election?traffic_source=rss",
-          "published": "Thu, 05 Nov 2026 21:49:31 +0000"
+          "title": "California governor commutes sentences of more than 500 people on death row",
+          "link": "https://www.aljazeera.com/news/2026/11/6/california-governor-commutes-sentences-of-more-than-500-people-on-death-row?traffic_source=rss",
+          "published": "Fri, 06 Nov 2026 01:39:35 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "South Africa’s ANC on track for new lows in local polls",
-          "link": "https://www.aljazeera.com/news/2026/11/5/south-africas-anc-on-track-for-new-lows-in-local-polls?traffic_source=rss",
-          "published": "Thu, 05 Nov 2026 21:48:16 +0000"
+          "title": "Israeli settlers set fire to Palestinian olive grove near Ramallah",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/6/israeli-settlers-set-fire-to-palestinian-olive-grove-near-ramallah?traffic_source=rss",
+          "published": "Fri, 06 Nov 2026 00:19:57 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Spanish footballer Jesus de Miguel mourned by family and friends",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/5/spanish-footballer-jesus-de-miguel-mourned-by-family-and-friends?traffic_source=rss",
-          "published": "Thu, 05 Nov 2026 21:42:30 +0000"
+          "title": "Turkiye’s parliament ratifies Mecca defence agreement",
+          "link": "https://www.aljazeera.com/news/2026/11/6/turkiyes-parliament-ratifies-mecca-defence-agreement?traffic_source=rss",
+          "published": "Fri, 06 Nov 2026 00:15:22 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Israeli demolitions displace more than 100 Palestinians in Biddu",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/5/aje-onl-nf_israeli-demolitions-displace-palestinians-in-biddu-051126?traffic_source=rss",
-          "published": "Thu, 05 Nov 2026 21:33:40 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Hoax bomb threats force emergency landings, evacuations across Europe",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/5/hoax-bomb-threats-force-emergency-landings-evacuations-across-europe?traffic_source=rss",
-          "published": "Thu, 05 Nov 2026 21:26:21 +0000"
+          "title": "Trump met Russian envoy after he appeared with Melania Trump and Ukrainians",
+          "link": "https://www.aljazeera.com/news/2026/11/6/trump-met-russian-envoy-after-he-appeared-with-melania-trump-and-ukrainians?traffic_source=rss",
+          "published": "Fri, 06 Nov 2026 00:06:31 +0000"
         }
       ]
     }
