@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T22:28:19Z",
+  "generated_at": "2026-11-08T01:42:18Z",
   "items": [
     {
       "region": "Македонија",
@@ -39,6 +39,27 @@
     {
       "region": "Македонија",
       "source": "NetPress",
+      "title": "Ла Лига: Реал убедлив на „Местаља“, бодовно се израмни со Барса",
+      "link": "https://netpress.com.mk/la-liga-real-ubedliv-na-mestala-bodovno-se-izramni-so-barsa/",
+      "published": "Sat, 07 Nov 2026 23:17:34 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "NetPress",
+      "title": "Серија А: Рома сигурна на „Олимпико“, четврта победа на Болоња во низа",
+      "link": "https://netpress.com.mk/serija-a-roma-sigurna-na-olimpiko-chetvrta-pobeda-na-bolona-vo-niza/",
+      "published": "Sat, 07 Nov 2026 22:52:17 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "NetPress",
+      "title": "ВИДЕО| Три тела пронајдени во домот на напаѓачот од Краков",
+      "link": "https://netpress.com.mk/video-tri-tela-pronajdeni-vo-domot-na-napagachot-od-krakov/",
+      "published": "Sat, 07 Nov 2026 22:31:02 +0000"
+    },
+    {
+      "region": "Македонија",
+      "source": "NetPress",
       "title": "Ф1: Норис победи во дождливи квалификации во Сао Паоло",
       "link": "https://netpress.com.mk/f1-noris-pobedi-vo-dozhdlivi-kvalifikaczii-vo-sao-paolo/",
       "published": "Sat, 07 Nov 2026 22:08:18 +0000"
@@ -51,32 +72,18 @@
       "published": "Sat, 07 Nov 2026 21:49:04 +0000"
     },
     {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Премиер лига: Сити и натаму во криза, Арсенал ја зголеми разликата на врвот",
-      "link": "https://netpress.com.mk/premier-liga-siti-i-natamu-vo-kriza-arsenal-ja-zgolemi-razlikata-na-vrvot/",
-      "published": "Sat, 07 Nov 2026 20:43:20 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "Меланшон ветува економски стимул, предлага излегување на Франција од НАТО",
-      "link": "https://netpress.com.mk/melanshon-vetuva-ekonomski-stimul-predlaga-izleguvane-na-franczija-od-nato/",
-      "published": "Sat, 07 Nov 2026 19:57:33 +0000"
-    },
-    {
-      "region": "Македонија",
-      "source": "NetPress",
-      "title": "ВИДЕО| Полицаецот кој го запре напаѓачот во Краков се бори за живот",
-      "link": "https://netpress.com.mk/video-policzaeczot-koj-go-zapre-napagachot-vo-krakov-se-bori-za-zhivot/",
-      "published": "Sat, 07 Nov 2026 19:30:27 +0000"
-    },
-    {
       "region": "Свет",
       "source": "BBC",
       "title": "What we know so far after Krakow gun attack",
       "link": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 07 Nov 2026 22:27:30 GMT"
+      "published": "Sat, 07 Nov 2026 22:58:49 GMT"
+    },
+    {
+      "region": "Свет",
+      "source": "BBC",
+      "title": "Israel's president tasks opposition leader Eisenkot with forming government",
+      "link": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 07 Nov 2026 22:19:59 GMT"
     },
     {
       "region": "Свет",
@@ -101,10 +108,31 @@
     },
     {
       "region": "Свет",
-      "source": "BBC",
-      "title": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
-      "link": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 07 Nov 2026 15:19:35 GMT"
+      "source": "Al Jazeera",
+      "title": "Polish PM calls deadly Krakow shooting an act of ‘terrorism’",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/polish-pm-calls-deadly-krakow-shooting-an-act-of?traffic_source=rss",
+      "published": "Sun, 08 Nov 2026 00:50:28 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Iran war live: Blasts heard in Qeshm; US moves to block land supply routes",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/11/8/iran-war-live-explosions-hit-qeshm-us-moves-to-block-land-supply-routes?traffic_source=rss",
+      "published": "Sun, 08 Nov 2026 00:00:56 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Eisenkot chosen over Netanyahu to form Israel’s next government",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/eisenkot-chosen-over-netanyahu-to-form-israels-next-government?traffic_source=rss",
+      "published": "Sat, 07 Nov 2026 23:45:45 +0000"
+    },
+    {
+      "region": "Свет",
+      "source": "Al Jazeera",
+      "title": "Real Madrid beat Valencia 3-0 to draw level with La Liga leaders Barcelona",
+      "link": "https://www.aljazeera.com/sports/2026/11/7/real-madrid-beat-valencia-3-0-to-draw-level-with-la-liga-leaders-barcelona?traffic_source=rss",
+      "published": "Sat, 07 Nov 2026 22:21:58 +0000"
     },
     {
       "region": "Свет",
@@ -112,34 +140,6 @@
       "title": "Police clash with protesters as anti-government rallies sweep France",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/police-clash-with-protesters-as-anti-government-rallies-sweep-france?traffic_source=rss",
       "published": "Sat, 07 Nov 2026 21:24:10 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Mélenchon promises action against Israeli annexation if elected President",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/melenchon-promises-action-against-israeli-annexation-if-elected-president?traffic_source=rss",
-      "published": "Sat, 07 Nov 2026 20:53:47 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Who is behind Europe’s suspected hybrid attacks?",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/11/7/who-is-behind-europes-suspected-hybrid-attacks?traffic_source=rss",
-      "published": "Sat, 07 Nov 2026 20:48:58 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Abdul El-Sayed slams Trump’s tariff war with Canada",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/abdul-el-sayed-slams-trumps-tariff-war-with-canada?traffic_source=rss",
-      "published": "Sat, 07 Nov 2026 20:44:34 +0000"
-    },
-    {
-      "region": "Свет",
-      "source": "Al Jazeera",
-      "title": "Israel’s president picks Eisenkot over Netanyahu to form next government",
-      "link": "https://www.aljazeera.com/news/2026/11/7/israels-president-picks-eisenkot-over-netanyahu-to-form-next-government?traffic_source=rss",
-      "published": "Sat, 07 Nov 2026 20:26:58 +0000"
     }
   ]
 }
