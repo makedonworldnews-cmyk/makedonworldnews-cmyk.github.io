@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T21:32:52Z",
+  "updatedAt": "2026-11-10T03:47:36Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "Раул Гонзалес го напушти РК Партизан",
+          "link": "https://makfax.com.mk/sport/raul-gonzales-go-napushti-rk-partizan/",
+          "published": "Mon, 09 Nov 2026 22:05:03 +0000"
         },
         {
           "source": "Makfax",
@@ -35,40 +41,34 @@
           "published": "Mon, 09 Nov 2026 20:11:59 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Трамп повторно тврди дека изборите во САД биле наместени",
-          "link": "https://makfax.com.mk/svet/tramp-povtorno-tvrdi-deka-izborite-vo-sad-bile-namesteni/",
-          "published": "Mon, 09 Nov 2026 20:02:45 +0000"
+          "source": "NetPress",
+          "title": "ВИДЕО| Илјадници во тивката поворка по масовното пукање во Краков",
+          "link": "https://netpress.com.mk/iljadniczi-vo-tivkata-povorka-po-masovnoto-pukane-vo-krakov/",
+          "published": "Mon, 09 Nov 2026 22:47:49 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Расположението на потрошувачите во САД подобрeно на почетокот на ноември",
-          "link": "https://netpress.com.mk/raspolozhenieto-na-potroshuvachite-vo-sad-podobreno-na-pochetokot-na-noemvri/",
-          "published": "Mon, 09 Nov 2026 21:20:06 +0000"
+          "title": "ВТА Финале: Сабаленка подобра од Мухова",
+          "link": "https://netpress.com.mk/vta-finale-sabalenka-podobra-od-muhova/",
+          "published": "Mon, 09 Nov 2026 22:29:46 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Нов напад врз клучниот нафтовод во Саудиска Арабија",
-          "link": "https://netpress.com.mk/nov-napad-vrz-kluchniot-naftovod-vo-saudiska-arabija/",
-          "published": "Mon, 09 Nov 2026 20:51:42 +0000"
+          "title": "Републикански прaтеник покренува постапка за отповикување на Хегсет",
+          "link": "https://netpress.com.mk/republikanski-pratenik-pokrenuva-postapka-za-otpovikuvane-na-hegset/",
+          "published": "Mon, 09 Nov 2026 22:16:40 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Пожарот кај Бит-пазар ставен под контрола, зафатени три куќи",
-          "link": "https://netpress.com.mk/pozharot-kaj-bit-pazar-staven-pod-kontrola-zafateni-tri-kuki/",
-          "published": "Mon, 09 Nov 2026 19:56:38 +0000"
+          "title": "НБА Ол-стар 2028 во Мајами",
+          "link": "https://netpress.com.mk/nba-ol-star-2028-vo-majami/",
+          "published": "Mon, 09 Nov 2026 22:01:48 +0000"
         },
         {
           "source": "NetPress",
-          "title": "Американската Тајна служба приведе две лица близу Белата куќа",
-          "link": "https://netpress.com.mk/amerikanskata-tajna-sluzhba-privede-dve-licza-blizu-belata-kuka/",
-          "published": "Mon, 09 Nov 2026 19:44:57 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Полисата за осигурување на „Титаник“ би можела да достигне цена од 50.000 фунти",
-          "link": "https://netpress.com.mk/polisata-za-osiguruvane-na-titanik-bi-mozhela-da-dostigne-czena-od-50-000-funti/",
-          "published": "Mon, 09 Nov 2026 19:26:45 +0000"
+          "title": "Мерц се заканува со блокирање на буџетот на ЕУ ако изостане помошта за Украина",
+          "link": "https://netpress.com.mk/mercz-se-zakanuva-so-blokirane-na-budhetot-na-eu-ako-izostane-pomoshta-za-ukraina/",
+          "published": "Mon, 09 Nov 2026 21:52:50 +0000"
         }
       ]
     },
@@ -77,9 +77,9 @@
       "items": [
         {
           "source": "BBC",
-          "title": "France accuses Iran of supermarket fridge hacking",
-          "link": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss",
-          "published": "Mon, 09 Nov 2026 20:20:08 GMT"
+          "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+          "link": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 10 Nov 2026 01:44:53 GMT"
         },
         {
           "source": "BBC",
@@ -89,51 +89,51 @@
         },
         {
           "source": "BBC",
-          "title": "Trump questions midterm elections integrity after previously accepting results",
-          "link": "https://www.bbc.co.uk/news/articles/ck79p9350zp9o?at_medium=RSS&at_campaign=rss",
-          "published": "Mon, 09 Nov 2026 17:47:29 GMT"
+          "title": "Ukraine peace talks resume with 'some flexibility' by warring sides, US officials say",
+          "link": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 10 Nov 2026 00:09:49 GMT"
         },
         {
           "source": "BBC",
-          "title": "Turkey steel factory blast kills at least 17 people",
-          "link": "https://www.bbc.co.uk/news/articles/cq2d6d5z9y5jo?at_medium=RSS&at_campaign=rss",
-          "published": "Mon, 09 Nov 2026 20:42:04 GMT"
+          "title": "Epstein associate who still runs model agency 'put me in danger' says abuse survivor",
+          "link": "https://www.bbc.co.uk/news/articles/cm86z6w59gggo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 10 Nov 2026 00:14:03 GMT"
         },
         {
           "source": "BBC",
-          "title": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
-          "link": "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro?at_medium=RSS&at_campaign=rss",
-          "published": "Mon, 09 Nov 2026 21:04:36 GMT"
+          "title": "France accuses Iran of supermarket fridge hacking",
+          "link": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 09 Nov 2026 20:20:08 GMT"
         },
         {
           "source": "Al Jazeera",
-          "title": "Cyprus rivals agree new crossings across island’s dividing line",
-          "link": "https://www.aljazeera.com/news/2026/11/9/cyprus-rivals-agree-new-crossings-across-islands-dividing-line?traffic_source=rss",
-          "published": "Mon, 09 Nov 2026 20:50:20 +0000"
+          "title": "Saudi Arabia downs missiles fired at Riyadh after Houthi attack on pipeline",
+          "link": "https://www.aljazeera.com/news/2026/11/10/saudi-arabia-downs-missiles-fired-at-riyadh-after-houthi-attack-on-pipeline?traffic_source=rss",
+          "published": "Tue, 10 Nov 2026 03:17:51 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Deadly explosion at Iron and steel plant in Turkiye",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/9/deadly-explosion-at-iron-and-steel-plant-in-turkiye?traffic_source=rss",
-          "published": "Mon, 09 Nov 2026 20:19:18 +0000"
+          "title": "Newly-elected Democrats react to Hegseth impeachment bid",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/10/newly-elected-democrats-react-to-hegseth-impeachment-bid?traffic_source=rss",
+          "published": "Tue, 10 Nov 2026 03:16:44 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Russell Brand sentenced to 10.5 years over sexual assault charges",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/9/russell-brand-sentenced-to-10-5-years-over-sexual-assault-charges?traffic_source=rss",
-          "published": "Mon, 09 Nov 2026 20:08:18 +0000"
+          "title": "Harare demolitions leave families homeless after years of building",
+          "link": "https://www.aljazeera.com/news/2026/11/10/harare-demolitions-leave-families-homeless-after-years-of-building?traffic_source=rss",
+          "published": "Tue, 10 Nov 2026 02:48:19 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Explosion at Turkish steel plant kills at least 16 people",
-          "link": "https://www.aljazeera.com/news/2026/11/9/explosion-at-turkish-steel-plant-kills-at-least-16-people?traffic_source=rss",
-          "published": "Mon, 09 Nov 2026 19:58:40 +0000"
+          "title": "Russia, Ukraine and US to meet as Zelenskyy claims battlefield successes",
+          "link": "https://www.aljazeera.com/news/2026/11/10/russia-ukraine-and-us-to-meet-as-zelenskyy-claims-battlefield-successes?traffic_source=rss",
+          "published": "Tue, 10 Nov 2026 02:45:14 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "South Africa detains foreigners suspected of heading to join Russian forces",
-          "link": "https://www.aljazeera.com/news/2026/11/9/south-africa-detains-foreigners-suspected-of-heading-to-join-russian-forces?traffic_source=rss",
-          "published": "Mon, 09 Nov 2026 19:56:45 +0000"
+          "title": "Cameroon sets date for twice-delayed legislative and local elections",
+          "link": "https://www.aljazeera.com/news/2026/11/10/cameroon-sets-date-for-twice-delayed-legislative-and-local-elections?traffic_source=rss",
+          "published": "Tue, 10 Nov 2026 02:03:59 +0000"
         }
       ]
     }
