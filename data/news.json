@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T21:35:07Z",
+  "updatedAt": "2026-11-12T02:29:52Z",
   "groups": [
     {
       "region": "Македонија",
@@ -42,33 +42,33 @@
         },
         {
           "source": "NetPress",
+          "title": "ВИДЕО| Судири меѓу демонстрантите и полицијата во Барселона",
+          "link": "https://netpress.com.mk/video-sudiri-megu-demonstrantite-i-policzijata-vo-barselona/",
+          "published": "Wed, 11 Nov 2026 22:43:30 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "СДС со обид за политичка манипулација за Алта банка, фактите ја демантираат нивната теза за стечај",
+          "link": "https://netpress.com.mk/sds-so-obid-za-politichka-manipulaczija-za-alta-banka-faktite-ja-demantiraat-nivnata-teza-za-stechaj/",
+          "published": "Wed, 11 Nov 2026 21:51:21 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Дали обвинителството ќе го повика Филипче да одговара за ширење паника и сериозни обвинувања за Алта банка?",
+          "link": "https://netpress.com.mk/dali-obvinitelstvoto-ke-go-povika-filipche-da-odgovara-za-shirene-panika-i-seriozni-obvinuvana-za-alta-banka/",
+          "published": "Wed, 11 Nov 2026 21:43:21 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Американските преговарачи в четврток ќе се сретнат со Путин, а во Даблин со Зеленски",
+          "link": "https://netpress.com.mk/amerikanskite-pregovarachi-v-chetvrtok-ke-se-sretnat-so-putin-a-vo-dablin-so-zelenski/",
+          "published": "Wed, 11 Nov 2026 21:41:45 +0000"
+        },
+        {
+          "source": "NetPress",
           "title": "ФИФА одобри заеднички кандидатури за Светските првенства за жени во 2031 и 2035 година",
           "link": "https://netpress.com.mk/fifa-odobri-zaednichki-kandidaturi-za-svetskite-prvenstva-za-zheni-vo-2031-i-2035-godina/",
           "published": "Wed, 11 Nov 2026 21:32:13 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Почетино постигнал договор со Манчестер Јунајтед",
-          "link": "https://netpress.com.mk/pochetino-postignal-dogovor-so-manchester-junajted/",
-          "published": "Wed, 11 Nov 2026 21:24:10 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Шокирачки се политичките одлуки на Врховниот суд за модуларната болница, Ласкарци и редица други случаи",
-          "link": "https://netpress.com.mk/shokirachki-se-politichkite-odluki-na-vrhovniot-sud-za-modularnata-bolnicza-laskarczi-i-redicza-drugi-sluchai/",
-          "published": "Wed, 11 Nov 2026 21:15:18 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Сиљановска Давкова – ван дер Белен: Австрија останува важен и искрен поддржувач на македонскиот евроинтеграциски пат",
-          "link": "https://netpress.com.mk/silanovska-davkova-van-der-belen-avstrija-ostanuva-vazhen-i-iskren-poddrzhuvach-na-makedonskiot-evrointegracziski-pat/",
-          "published": "Wed, 11 Nov 2026 21:12:31 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Савески: Обвинителството ќе постапи ако утврди елементи на кривично дело за Алта банка",
-          "link": "https://netpress.com.mk/saveski-obvinitelstvoto-ke-postapi-ako-utvrdi-elementi-na-krivichno-delo-za-alta-banka/",
-          "published": "Wed, 11 Nov 2026 21:08:33 +0000"
         }
       ]
     },
@@ -79,7 +79,13 @@
           "source": "BBC",
           "title": "Clashes erupt in Barcelona after thousands join Spain general strike",
           "link": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
-          "published": "Wed, 11 Nov 2026 20:52:52 GMT"
+          "published": "Wed, 11 Nov 2026 22:07:37 GMT"
+        },
+        {
+          "source": "BBC",
+          "title": "Democrat Scott Colom seals historic win in Mississippi Senate race",
+          "link": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 12 Nov 2026 02:09:08 GMT"
         },
         {
           "source": "BBC",
@@ -89,15 +95,9 @@
         },
         {
           "source": "BBC",
-          "title": "US Treasury Secretary Scott Bessent relocated after alleged Iranian threats",
-          "link": "https://www.bbc.co.uk/news/articles/cqr7gr0010r2o?at_medium=RSS&at_campaign=rss",
-          "published": "Wed, 11 Nov 2026 16:45:11 GMT"
-        },
-        {
-          "source": "BBC",
-          "title": "Schools in Italy, Scotland and Northern Ireland hit by threats in suspected bomb hoax",
-          "link": "https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o?at_medium=RSS&at_campaign=rss",
-          "published": "Wed, 11 Nov 2026 18:38:45 GMT"
+          "title": "New York building collapse kills one person and injures 12",
+          "link": "https://www.bbc.co.uk/news/videos/c60rkwjj7x7go?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 12 Nov 2026 01:34:58 GMT"
         },
         {
           "source": "BBC",
@@ -107,33 +107,33 @@
         },
         {
           "source": "Al Jazeera",
-          "title": "Hormuz Strait will ‘never return’ to pre-war status, Iran’s Ghalibaf says",
-          "link": "https://www.aljazeera.com/news/2026/11/11/strait-of-hormuz-will-never-return-to-pre-war-status-ghalibaf?traffic_source=rss",
-          "published": "Wed, 11 Nov 2026 21:03:40 +0000"
+          "title": "Argentina’s Milei cries as he bids farewell to the Pope",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/argentinas-milei-cries-as-he-bids-farewell-to-the-pope?traffic_source=rss",
+          "published": "Thu, 12 Nov 2026 02:03:30 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Thousands march to mark Poland’s Independence Day",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/11/thousands-march-to-mark-polands-independence-day?traffic_source=rss",
-          "published": "Wed, 11 Nov 2026 21:02:02 +0000"
+          "title": "Three-storey building collapses in Brooklyn",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/three-storey-building-collapses-in-brooklyn?traffic_source=rss",
+          "published": "Thu, 12 Nov 2026 01:50:36 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Hoax bomb threats target schools across Italy, UK and Ireland",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/11/hoax-bomb-threats-target-schools-across-italy-uk-and-ireland?traffic_source=rss",
-          "published": "Wed, 11 Nov 2026 21:01:42 +0000"
+          "title": "What could Chinese intelligence have learned from Nvidia CEO’s affair?",
+          "link": "https://www.aljazeera.com/news/2026/11/12/what-could-chinese-intelligence-have-learned-from-nvidia-ceos-affair?traffic_source=rss",
+          "published": "Thu, 12 Nov 2026 01:33:09 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Oil production nears pre-Iran war levels, OPEC says",
-          "link": "https://www.aljazeera.com/news/2026/11/11/oil-production-near-pre-iran-war-levels-opec-says?traffic_source=rss",
-          "published": "Wed, 11 Nov 2026 20:45:30 +0000"
+          "title": "Israel strikes intensive care at Gaza’s Nasser Hospital",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/israel-strikes-intensive-care-at-gazas-nasser-hospital?traffic_source=rss",
+          "published": "Thu, 12 Nov 2026 01:20:55 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Gaza goalkeeper killed in Israeli attack",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/11/gaza-goalkeeper-killed-in-israeli-attack?traffic_source=rss",
-          "published": "Wed, 11 Nov 2026 20:44:34 +0000"
+          "title": "Former Italian Red Brigades member escapes house arrest in Argentina",
+          "link": "https://www.aljazeera.com/news/2026/11/12/former-italian-red-brigades-member-escapes-house-arrest-in-argentina?traffic_source=rss",
+          "published": "Thu, 12 Nov 2026 01:04:28 +0000"
         }
       ]
     }
