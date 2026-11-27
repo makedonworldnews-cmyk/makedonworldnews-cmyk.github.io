@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T22:07:56Z",
+  "updatedAt": "2026-11-27T04:13:05Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) Борац со двајца играчи помалку од 2:0 до 2:3 против Аталанта",
+          "link": "https://makfax.com.mk/sport/video-borac-so-dvajca-igrachi-pomalku-od-20-do-23-protiv-atalanta/",
+          "published": "Thu, 26 Nov 2026 22:22:04 +0000"
         },
         {
           "source": "Makfax",
@@ -35,10 +41,22 @@
           "published": "Thu, 26 Nov 2026 20:32:49 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "„Имаме играчи кои се тука четири години и не знаат англиски“",
-          "link": "https://makfax.com.mk/sport/imame-igrachi-koi-se-tuka-chetiri-godini-i-ne-znaat-angliski/",
-          "published": "Thu, 26 Nov 2026 20:14:09 +0000"
+          "source": "NetPress",
+          "title": "Кошарка квалификации за СП: БиХ ги загуби шансите, Грузија славеше во Грција",
+          "link": "https://netpress.com.mk/kosharka-kvalifikaczii-za-sp-bih-gi-zagubi-shansite-gruzija-slaveshe-vo-grczija/",
+          "published": "Thu, 26 Nov 2026 23:03:17 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Италијанскиот парламент ја одобри забраната за бурка и никаб во училиштата, квота за странските ученици",
+          "link": "https://netpress.com.mk/italijanskiot-parlament-ja-odobri-zabranata-za-burka-i-nikab-vo-uchilishtata-kvota-za-stranskite-ucheniczi/",
+          "published": "Thu, 26 Nov 2026 22:26:02 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Неформална вечера на балканските лидери кај Сиљановска Давкова, утре ќе разговарат за европската перспектива",
+          "link": "https://netpress.com.mk/neformalna-vechera-na-balkanskite-lideri-kaj-silanovska-davkova-utre-ke-razgovarat-za-evropskata-perspektiva/",
+          "published": "Thu, 26 Nov 2026 22:12:29 +0000"
         },
         {
           "source": "NetPress",
@@ -51,24 +69,6 @@
           "title": "Тошковски жали што држава членка на ЕУ стана заштитник на криминалци",
           "link": "https://netpress.com.mk/toshkovski-zhali-shto-drzhava-chlenka-na-eu-stana-zashtitnik-na-kriminalczi/",
           "published": "Thu, 26 Nov 2026 21:56:25 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Мицкоски до Села: Во унитарна држава, ако имате 61 пратеник имате легитимитет, потпалувачката реторика не е добра",
-          "link": "https://netpress.com.mk/miczkoski-do-sela-vo-unitarna-drzhava-ako-imate-61-pratenik-imate-legitimitet-potpaluvachkata-retorika-ne-e-dobra/",
-          "published": "Thu, 26 Nov 2026 21:43:53 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Романија го продолжи за шест месеци ограничувањето на трговските маржи за основните прехранбени производи",
-          "link": "https://netpress.com.mk/romanija-go-prodolzhi-za-shest-meseczi-ogranichuvaneto-na-trgovskite-marzhi-za-osnovnite-prehranbeni-proizvodi/",
-          "published": "Thu, 26 Nov 2026 21:30:57 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Браќата близнаци Методија и Кирил Михајлов го освојуваат Њујорк со своите ресторани",
-          "link": "https://netpress.com.mk/brakata-bliznaczi-metodija-i-kiril-mihajlov-go-osvojuvaat-nujork-so-svoite-restorani/",
-          "published": "Thu, 26 Nov 2026 21:12:59 +0000"
         }
       ]
     },
@@ -77,9 +77,27 @@
       "items": [
         {
           "source": "BBC",
+          "title": "US too focused on Middle East and not pushing Russia hard enough, Zelensky tells BBC",
+          "link": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 26 Nov 2026 22:49:27 GMT"
+        },
+        {
+          "source": "BBC",
+          "title": "Major Thanksgiving storm brings flooding, flight delays across US",
+          "link": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 27 Nov 2026 00:52:11 GMT"
+        },
+        {
+          "source": "BBC",
           "title": "Watch: Roofs torn off and streets under water as severe weather hits US",
           "link": "https://www.bbc.co.uk/news/videos/cq808d704m22o?at_medium=RSS&at_campaign=rss",
           "published": "Thu, 26 Nov 2026 19:26:16 GMT"
+        },
+        {
+          "source": "BBC",
+          "title": "New Zealand's ruling coalition falls short of parliamentary majority by one seat",
+          "link": "https://www.bbc.co.uk/news/articles/c670278qk879o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 27 Nov 2026 03:28:15 GMT"
         },
         {
           "source": "BBC",
@@ -88,52 +106,34 @@
           "published": "Thu, 26 Nov 2026 05:00:24 GMT"
         },
         {
-          "source": "BBC",
-          "title": "Watch: BBC confronts German man suspected of supplying migrant gangs with small boats",
-          "link": "https://www.bbc.co.uk/news/videos/cvglrz5yr79go?at_medium=RSS&at_campaign=rss",
-          "published": "Thu, 26 Nov 2026 05:00:27 GMT"
-        },
-        {
-          "source": "BBC",
-          "title": "Diesel tanker carrying up to 7,000 tonnes capsizes near Ibiza, killing one",
-          "link": "https://www.bbc.co.uk/news/articles/c9gklryvj24do?at_medium=RSS&at_campaign=rss",
-          "published": "Thu, 26 Nov 2026 22:01:22 GMT"
-        },
-        {
-          "source": "BBC",
-          "title": "Gérard Depardieu to stand trial for alleged rape of actress in 2018, court rules",
-          "link": "https://www.bbc.co.uk/news/articles/cmlyd76kyx44o?at_medium=RSS&at_campaign=rss",
-          "published": "Thu, 26 Nov 2026 14:44:26 GMT"
+          "source": "Al Jazeera",
+          "title": "At least 13 Niger soldiers killed in Sanam armed attack",
+          "link": "https://www.aljazeera.com/news/2026/11/27/at-least-13-niger-soldiers-killed-in-sanam-armed-attack?traffic_source=rss",
+          "published": "Fri, 27 Nov 2026 04:06:52 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Egypt detains driver over Cairo fuel tanker fire that killed 31",
-          "link": "https://www.aljazeera.com/news/2026/11/26/egypt-detains-driver-over-cairo-fuel-tanker-fire-that-killed-31?traffic_source=rss",
-          "published": "Thu, 26 Nov 2026 21:08:44 +0000"
+          "title": "Trump downplays Russia, China support for Iran during talks with US troops",
+          "link": "https://www.aljazeera.com/news/2026/11/27/trump-downplays-russia-china-support-for-iran-during-talks-with-us-troops?traffic_source=rss",
+          "published": "Fri, 27 Nov 2026 03:49:08 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Bangladesh garment workers clash with police over low wages",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/26/bangladesh-garment-workers-clash-with-police-over-low-wages?traffic_source=rss",
-          "published": "Thu, 26 Nov 2026 21:04:39 +0000"
+          "title": "Asian stock markets rise after earlier tech rout",
+          "link": "https://www.aljazeera.com/economy/2026/11/27/asian-stock-markets-rise-after-earlier-tech-rout?traffic_source=rss",
+          "published": "Fri, 27 Nov 2026 03:42:16 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Attack on Saudi’s Jazan refinery kills one person, disrupts operations",
-          "link": "https://www.aljazeera.com/news/2026/11/26/attack-on-saudi-aramcos-jazan-refinery-kills-worker-disrupts-operations?traffic_source=rss",
-          "published": "Thu, 26 Nov 2026 20:34:34 +0000"
+          "title": "Spain and Morocco under-17 stars target World Cup 2030",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/27/spain-and-morocco-under-17-stars-target-world-cup-2030?traffic_source=rss",
+          "published": "Fri, 27 Nov 2026 02:58:48 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Indian politician facing murder charges hosts 400,000-guest wedding",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/26/aje-onl-nf_indian-politician-facing-murder-charges-wedding-261126?traffic_source=rss",
-          "published": "Thu, 26 Nov 2026 20:32:43 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Mexico seeks US talks about suspected SpaceX debris",
-          "link": "https://www.aljazeera.com/news/2026/11/26/mexico-seeks-us-talks-about-suspected-spacex-debris?traffic_source=rss",
-          "published": "Thu, 26 Nov 2026 20:31:50 +0000"
+          "title": "Zelenskyy warns of major Russian attack as Trump urges Putin to ‘pull back’",
+          "link": "https://www.aljazeera.com/news/2026/11/27/zelenskyy-warns-of-major-russian-attack-as-trump-urges-putin-to-pull-back?traffic_source=rss",
+          "published": "Fri, 27 Nov 2026 02:14:25 +0000"
         }
       ]
     }
