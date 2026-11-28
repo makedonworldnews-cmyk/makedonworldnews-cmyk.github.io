@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T22:36:55Z",
+  "updatedAt": "2026-11-28T04:12:58Z",
   "groups": [
     {
       "region": "Македонија",
@@ -9,6 +9,12 @@
           "title": "⚠️ Не може да се вчита (извор/timeout)",
           "link": "https://mia.mk/rss",
           "published": ""
+        },
+        {
+          "source": "Makfax",
+          "title": "(Видео) Забири не запира, нова победа на Расинг Сантандер",
+          "link": "https://makfax.com.mk/sport/video-zabiri-ne-zapira-nova-pobeda-na-rasing-santander/",
+          "published": "Fri, 27 Nov 2026 22:39:02 +0000"
         },
         {
           "source": "Makfax",
@@ -35,40 +41,34 @@
           "published": "Fri, 27 Nov 2026 20:35:53 +0000"
         },
         {
-          "source": "Makfax",
-          "title": "Три хороскопски знаци наскоро ги очекува огромна среќа: животот им подготвува неверојатен подарок",
-          "link": "https://makfax.com.mk/zanimlivosti/tri-horoskopski-znaci-naskoro-gi-ochekuva-ogromna-sreka-zhivotot-im-podgotvuva-neverojaten-podarok/",
-          "published": "Fri, 27 Nov 2026 19:58:23 +0000"
+          "source": "NetPress",
+          "title": "Премиер лига: Нотингем за гол подобар од Челзи",
+          "link": "https://netpress.com.mk/premier-liga-notingem-za-gol-podobar-od-chelzi/",
+          "published": "Fri, 27 Nov 2026 23:44:49 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Претепана жена од Гостивар хоспитализирана на Ургентен центар",
+          "link": "https://netpress.com.mk/pretepana-zhena-od-gostivar-hospitalizirana-na-urgenten-czentar/",
+          "published": "Fri, 27 Nov 2026 23:29:47 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Ла Лига: Гостински триумф на Расинг кај Леванте",
+          "link": "https://netpress.com.mk/la-liga-gostinski-triumf-na-rasing-kaj-levante/",
+          "published": "Fri, 27 Nov 2026 23:14:47 +0000"
+        },
+        {
+          "source": "NetPress",
+          "title": "Серија А: Венеција и Болоња ремизираа без голови",
+          "link": "https://netpress.com.mk/serija-a-veneczija-i-bolona-remiziraa-bez-golovi/",
+          "published": "Fri, 27 Nov 2026 22:56:16 +0000"
         },
         {
           "source": "NetPress",
           "title": "Лига 1: Минимална победа на Брест над Париз ФК",
           "link": "https://netpress.com.mk/liga-1-minimalna-pobeda-na-brest-nad-pariz-fk/",
           "published": "Fri, 27 Nov 2026 22:28:01 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Бундеслига: Борусија М. испушти водство од два гола во Бремен",
-          "link": "https://netpress.com.mk/bundesliga-borusija-m-ispushti-vodstvo-od-dva-gola-vo-bremen/",
-          "published": "Fri, 27 Nov 2026 22:14:26 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Васил Толевски ја освои и Бугарија",
-          "link": "https://netpress.com.mk/vasil-tolevski-ja-osvoi-i-bugarija/",
-          "published": "Fri, 27 Nov 2026 22:06:25 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Oбјективен и предвидлив пристап во проширувањето на ЕУ побараа челниците од процесот Брдо-Бриони",
-          "link": "https://netpress.com.mk/objektiven-i-predvidliv-pristap-vo-proshiruvaneto-na-eu-pobaraa-chelniczite-od-proczesot-brdo-brioni/",
-          "published": "Fri, 27 Nov 2026 21:57:49 +0000"
-        },
-        {
-          "source": "NetPress",
-          "title": "Осум мигранти загинаа обидувајќи се да стигнат до Канарите",
-          "link": "https://netpress.com.mk/osum-migranti-zaginaa-obiduvajki-se-da-stignat-do-kanarite/",
-          "published": "Fri, 27 Nov 2026 21:43:06 +0000"
         }
       ]
     },
@@ -107,33 +107,33 @@
         },
         {
           "source": "Al Jazeera",
-          "title": "US military says it disabled merchant ship trying to breach Iran blockade",
-          "link": "https://www.aljazeera.com/news/2026/11/27/us-military-says-it-disabled-merchant-ship-trying-to-breach-iran-blockade?traffic_source=rss",
-          "published": "Fri, 27 Nov 2026 22:22:02 +0000"
+          "title": "The split-second teamwork behind an F1 pit stop",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/28/the-split-second-teamwork-behind-an-f1-pit-stop?traffic_source=rss",
+          "published": "Sat, 28 Nov 2026 04:01:24 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "‘Activists of rhythm’: Fighting Spain’s far-right through art",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/27/activists-of-rhythm-fighting-spains-far-right-through-art?traffic_source=rss",
-          "published": "Fri, 27 Nov 2026 21:59:11 +0000"
+          "title": "Israeli strike on Doctors Without Borders clinic in Gaza kills two staff",
+          "link": "https://www.aljazeera.com/news/2026/11/28/israeli-strike-on-doctors-without-borders-clinic-in-gaza-kills-two-staff?traffic_source=rss",
+          "published": "Sat, 28 Nov 2026 03:45:58 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Why are families going hungry in northern Yemen even where food is on sale?",
-          "link": "https://www.aljazeera.com/economy/2026/11/27/why-are-families-going-hungry-in-northern-yemen-even-where-food-is-on-sale?traffic_source=rss",
-          "published": "Fri, 27 Nov 2026 21:11:27 +0000"
+          "title": "Parts of US clean up after Thanksgiving storm lashes East Coast",
+          "link": "https://www.aljazeera.com/news/2026/11/28/parts-of-us-clean-up-after-thanksgiving-storm-lashes-east-coast?traffic_source=rss",
+          "published": "Sat, 28 Nov 2026 03:00:00 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "Venezuela to repeal law that bans opposition figures from office",
-          "link": "https://www.aljazeera.com/news/2026/11/27/venezuela-to-repeal-law-that-bans-opposition-figures-from-office?traffic_source=rss",
-          "published": "Fri, 27 Nov 2026 20:44:03 +0000"
+          "title": "Bulgarians demand action by French after Marseille match violence",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/28/bulgarians-demand-action-by-french-after-marseille-match-violence?traffic_source=rss",
+          "published": "Sat, 28 Nov 2026 02:30:27 +0000"
         },
         {
           "source": "Al Jazeera",
-          "title": "OpenAI countersues Apple over trade secrets as AI race heats up",
-          "link": "https://www.aljazeera.com/economy/2026/11/27/openai-countersues-apple-over-trade-secrets-as-ai-race-heats-up?traffic_source=rss",
-          "published": "Fri, 27 Nov 2026 20:40:51 +0000"
+          "title": "Hunted beyond borders: Allegations of Tanzanian repression in Kenya",
+          "link": "https://www.aljazeera.com/news/2026/11/28/hunted-beyond-borders-allegations-of-tanzanian-repression-in-kenya?traffic_source=rss",
+          "published": "Sat, 28 Nov 2026 02:08:11 +0000"
         }
       ]
     }
